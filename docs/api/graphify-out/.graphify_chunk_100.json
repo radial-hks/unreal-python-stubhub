@@ -1,0 +1,836 @@
+{
+  "nodes": [
+    {
+      "id": "playanimwaitsimpledelegate",
+      "label": "PlayAnimWaitSimpleDelegate",
+      "file_type": "document",
+      "source_file": "PlayAnimWaitSimpleDelegate Objects.md",
+      "source_location": "lines 1-22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playanimwaitsimpledelegate_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "PlayAnimWaitSimpleDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilities_plugin",
+      "label": "GameplayAbilities Plugin",
+      "file_type": "document",
+      "source_file": "PlayAnimWaitSimpleDelegate Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitiontree",
+      "label": "AvaTransitionTree",
+      "file_type": "document",
+      "source_file": "AvaTransitionTree Objects.md",
+      "source_location": "lines 1-30",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitiontree_statetree",
+      "label": "StateTree",
+      "file_type": "document",
+      "source_file": "AvaTransitionTree Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitioninstancingmode",
+      "label": "AvaTransitionInstancingMode",
+      "file_type": "document",
+      "source_file": "AvaTransitionTree Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin",
+      "label": "Avalanche Plugin",
+      "file_type": "document",
+      "source_file": "AvaTransitionTree Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "retainerbox",
+      "label": "RetainerBox",
+      "file_type": "document",
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "lines 1-287",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "retainerbox_contentwidget",
+      "label": "ContentWidget",
+      "file_type": "document",
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "retainerbox_ui_caching",
+      "label": "UI Caching",
+      "file_type": "document",
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "lines 7-11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "retainerbox_render_target",
+      "label": "Render Target",
+      "file_type": "document",
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "lines 7-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "document",
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "line 158",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic",
+      "label": "MaterialInstanceDynamic",
+      "file_type": "document",
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "line 283",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumpropertycomponenttype_deprecated",
+      "label": "CesiumPropertyComponentType_DEPRECATED",
+      "file_type": "document",
+      "source_file": "CesiumPropertyComponentType__DEPRECATED Objects.md",
+      "source_location": "lines 1-27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "CesiumPropertyComponentType__DEPRECATED Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumforunreal_plugin",
+      "label": "CesiumForUnreal Plugin",
+      "file_type": "document",
+      "source_file": "CesiumPropertyComponentType__DEPRECATED Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visible2dinteraction",
+      "label": "Visible2DInteraction",
+      "file_type": "document",
+      "source_file": "Visible2DInteraction Objects.md",
+      "source_location": "lines 1-67",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "Visible2DInteraction Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "Visible2DInteraction Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "autocamerarotatedirection",
+      "label": "AutoCameraRotateDirection",
+      "file_type": "document",
+      "source_file": "AutoCameraRotateDirection Objects.md",
+      "source_location": "lines 1-32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcamera_plugin",
+      "label": "WdpCamera Plugin",
+      "file_type": "document",
+      "source_file": "AutoCameraRotateDirection Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navareameta",
+      "label": "NavAreaMeta",
+      "file_type": "document",
+      "source_file": "NavAreaMeta Objects.md",
+      "source_location": "lines 1-22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navarea",
+      "label": "NavArea",
+      "file_type": "document",
+      "source_file": "NavAreaMeta Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationsystem_module",
+      "label": "NavigationSystem Module",
+      "file_type": "document",
+      "source_file": "NavAreaMeta Objects.md",
+      "source_location": "line 13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplaytagcountchanged",
+      "label": "AbilityTask_WaitGameplayTagCountChanged",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayTagCountChanged Objects.md",
+      "source_location": "lines 1-39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask",
+      "label": "AbilityTask",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayTagCountChanged Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitgameplaytagcountdelegate",
+      "label": "WaitGameplayTagCountDelegate",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayTagCountChanged Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "namedvector",
+      "label": "NamedVector",
+      "file_type": "document",
+      "source_file": "NamedVector Objects.md",
+      "source_location": "lines 1-67",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "NamedVector Objects.md",
+      "source_location": "line 34",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "NamedVector Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computegraph",
+      "label": "ComputeGraph",
+      "file_type": "document",
+      "source_file": "ComputeGraph Objects.md",
+      "source_location": "lines 1-17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "ComputeGraph Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computeframework_plugin",
+      "label": "ComputeFramework Plugin",
+      "file_type": "document",
+      "source_file": "ComputeGraph Objects.md",
+      "source_location": "line 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compute_graph_topology",
+      "label": "Compute Graph Topology",
+      "file_type": "document",
+      "source_file": "ComputeGraph Objects.md",
+      "source_location": "lines 7-9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaterniontorotator",
+      "label": "RigUnit_MathQuaternionToRotator",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionToRotator Objects.md",
+      "source_location": "lines 1-16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaterniontorotator",
+      "label": "RigVMFunction_MathQuaternionToRotator",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionToRotator Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quat",
+      "label": "Quat",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionToRotator Objects.md",
+      "source_location": "line 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rotator",
+      "label": "Rotator",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionToRotator Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffect",
+      "label": "HapticFeedbackEffect",
+      "file_type": "document",
+      "source_file": "HapticFeedbackEffect Objects.md",
+      "source_location": "lines 1-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffect_curve",
+      "label": "HapticFeedbackEffect_Curve",
+      "file_type": "document",
+      "source_file": "HapticFeedbackEffect Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "playanimwaitsimpledelegate",
+      "target": "playanimwaitsimpledelegate_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayAnimWaitSimpleDelegate Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "playanimwaitsimpledelegate",
+      "target": "gameplayabilities_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayAnimWaitSimpleDelegate Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitiontree",
+      "target": "avatransitiontree_statetree",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionTree Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitiontree",
+      "target": "avalanche_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionTree Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitiontree",
+      "target": "avatransitioninstancingmode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionTree Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "retainerbox",
+      "target": "retainerbox_contentwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "retainerbox",
+      "target": "retainerbox_ui_caching",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "lines 7-11",
+      "weight": 1.0
+    },
+    {
+      "source": "retainerbox",
+      "target": "retainerbox_render_target",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "lines 7-8",
+      "weight": 1.0
+    },
+    {
+      "source": "retainerbox",
+      "target": "materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "line 158",
+      "weight": 1.0
+    },
+    {
+      "source": "retainerbox",
+      "target": "materialinstancedynamic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "line 283",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic",
+      "target": "materialinterface",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RetainerBox Objects.md",
+      "source_location": "lines 158, 283",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumpropertycomponenttype_deprecated",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumPropertyComponentType__DEPRECATED Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumpropertycomponenttype_deprecated",
+      "target": "cesiumforunreal_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumPropertyComponentType__DEPRECATED Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "visible2dinteraction",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Visible2DInteraction Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "visible2dinteraction",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Visible2DInteraction Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "autocamerarotatedirection",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AutoCameraRotateDirection Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "autocamerarotatedirection",
+      "target": "wdpcamera_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AutoCameraRotateDirection Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "navareameta",
+      "target": "navarea",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavAreaMeta Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "navareameta",
+      "target": "navigationsystem_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavAreaMeta Objects.md",
+      "source_location": "line 13",
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplaytagcountchanged",
+      "target": "abilitytask",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayTagCountChanged Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplaytagcountchanged",
+      "target": "gameplayabilities_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayTagCountChanged Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplaytagcountchanged",
+      "target": "waitgameplaytagcountdelegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayTagCountChanged Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "namedvector",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NamedVector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "namedvector",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NamedVector Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "namedvector",
+      "target": "vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NamedVector Objects.md",
+      "source_location": "line 34",
+      "weight": 1.0
+    },
+    {
+      "source": "computegraph",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComputeGraph Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "computegraph",
+      "target": "computeframework_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComputeGraph Objects.md",
+      "source_location": "line 14",
+      "weight": 1.0
+    },
+    {
+      "source": "computegraph",
+      "target": "compute_graph_topology",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComputeGraph Objects.md",
+      "source_location": "lines 7-9",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "rigvmfunction_mathquaterniontorotator",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionToRotator Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "quat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionToRotator Objects.md",
+      "source_location": "line 14",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "rotator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionToRotator Objects.md",
+      "source_location": "line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackeffect",
+      "target": "hapticfeedbackeffect_curve",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HapticFeedbackEffect Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "playanimwaitsimpledelegate",
+      "target": "abilitytask_waitgameplaytagcountchanged",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PlayAnimWaitSimpleDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visible2dinteraction",
+      "target": "namedvector",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Visible2DInteraction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumpropertycomponenttype_deprecated",
+      "target": "rigunit_mathquaterniontorotator",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "CesiumPropertyComponentType__DEPRECATED Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "hapticfeedbackeffect",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "RigUnit__MathQuaternionToRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "gameplayabilities_system",
+      "label": "GameplayAbilities System",
+      "nodes": [
+        "playanimwaitsimpledelegate",
+        "abilitytask_waitgameplaytagcountchanged",
+        "gameplayabilities_plugin"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "deprecated_api_patterns",
+      "label": "Deprecated API Patterns",
+      "nodes": [
+        "cesiumpropertycomponenttype_deprecated",
+        "rigunit_mathquaterniontorotator",
+        "hapticfeedbackeffect"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

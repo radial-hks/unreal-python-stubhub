@@ -1,0 +1,1197 @@
+{
+  "nodes": [
+    {
+      "id": "texturerendertarget",
+      "label": "TextureRenderTarget",
+      "file_type": "document",
+      "source_file": "TextureRenderTarget Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerenderport_target_gamma",
+      "label": "target_gamma property",
+      "file_type": "document",
+      "source_file": "TextureRenderTarget Objects.md",
+      "source_location": "line 73",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buildingtype",
+      "label": "BuildingType",
+      "file_type": "document",
+      "source_file": "BuildingType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpcoremanager",
+      "label": "DCPCoreManager",
+      "file_type": "document",
+      "source_file": "DCPCoreManager Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpcoremanager_get_dcp_core_manager",
+      "label": "get_dcp_core_manager method",
+      "file_type": "document",
+      "source_file": "DCPCoreManager Objects.md",
+      "source_location": "line 148",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigbonetype",
+      "label": "RigBoneType",
+      "file_type": "document",
+      "source_file": "RigBoneType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "replicationsystem",
+      "label": "ReplicationSystem",
+      "file_type": "document",
+      "source_file": "ReplicationSystem Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourcecontrol_queryfilestatedelegate",
+      "label": "SourceControl_QueryFileStateDelegate",
+      "file_type": "document",
+      "source_file": "SourceControl__QueryFileStateDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gizmoactor",
+      "label": "GizmoActor",
+      "file_type": "document",
+      "source_file": "GizmoActor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcompositebase",
+      "label": "AnimCompositeBase",
+      "file_type": "document",
+      "source_file": "AnimCompositeBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_quaterniontoangle",
+      "label": "RigUnit_QuaternionToAngle",
+      "file_type": "document",
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_quaterniontoangle_axis",
+      "label": "axis property",
+      "file_type": "document",
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_quaterniontoangle_argument",
+      "label": "argument property",
+      "file_type": "document",
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_quaterniontoangle_angle",
+      "label": "angle property",
+      "file_type": "document",
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_livelinkpose",
+      "label": "AnimNode_LiveLinkPose",
+      "file_type": "document",
+      "source_file": "AnimNode_LiveLinkPose Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_livelinkpose_livelink_subject_name",
+      "label": "live_link_subject_name property",
+      "file_type": "document",
+      "source_file": "AnimNode_LiveLinkPose Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrelativetransformforitem",
+      "label": "RigUnit_SetRelativeTransformForItem",
+      "file_type": "document",
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrelativetransformforitem_child",
+      "label": "child property",
+      "file_type": "document",
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrelativetransformforitem_parent",
+      "label": "parent property",
+      "file_type": "document",
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondropevent",
+      "label": "OnDropEvent",
+      "file_type": "document",
+      "source_file": "OnDropEvent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommandparams_ramp",
+      "label": "AesTerrainEditorCommandParams_Ramp",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommandParams__Ramp Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionclearcoatnormalcustomoutput",
+      "label": "MaterialExpressionClearCoatNormalCustomOutput",
+      "file_type": "document",
+      "source_file": "MaterialExpressionClearCoatNormalCustomOutput Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundmodulatorbase",
+      "label": "SoundModulatorBase",
+      "file_type": "document",
+      "source_file": "SoundModulatorBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreereferenceoverrideitem",
+      "label": "StateTreeReferenceOverrideItem",
+      "file_type": "document",
+      "source_file": "StateTreeReferenceOverrideItem Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreereferenceoverrideitem_state_tag",
+      "label": "state_tag property",
+      "file_type": "document",
+      "source_file": "StateTreeReferenceOverrideItem Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintjsonlibrary",
+      "label": "BlueprintJsonLibrary",
+      "file_type": "document",
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintjsonlibrary_json_set_field",
+      "label": "json_set_field method",
+      "file_type": "document",
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 58",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintjsonlibrary_json_has_field",
+      "label": "json_has_field method",
+      "file_type": "document",
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 159",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintjsonlibrary_conv_string_to_json_object",
+      "label": "conv_string_to_json_object method",
+      "file_type": "document",
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 200",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringwidgetblendmode",
+      "label": "CoveringWidgetBlendMode",
+      "file_type": "document",
+      "source_file": "CoveringWidgetBlendMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intvector",
+      "label": "IntVector",
+      "file_type": "document",
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intvector_x",
+      "label": "x property",
+      "file_type": "document",
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intvector_y",
+      "label": "y property",
+      "file_type": "document",
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intvector_z",
+      "label": "z property",
+      "file_type": "document",
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quartzcommandquantization",
+      "label": "QuartzCommandQuantization",
+      "file_type": "document",
+      "source_file": "QuartzCommandQuantization Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volumetriccloud",
+      "label": "VolumetricCloud",
+      "file_type": "document",
+      "source_file": "VolumetricCloud Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volumetriccloud_component",
+      "label": "volumetric_cloud_component property",
+      "file_type": "document",
+      "source_file": "VolumetricCloud Objects.md",
+      "source_location": "line 142",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommandparams_flattenpolygon",
+      "label": "AesTerrainEditorCommandParams_FlattenPolygon",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommandParams__FlattenPolygon Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture",
+      "label": "Texture",
+      "file_type": "document",
+      "source_file": "TextureRenderTarget Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "DCPCoreManager Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "BuildingType Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "SourceControl__QueryFileStateDelegate Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "internaltoolframeworkactor",
+      "label": "InternalToolFrameworkActor",
+      "file_type": "document",
+      "source_file": "GizmoActor Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsequencebase",
+      "label": "AnimSequenceBase",
+      "file_type": "document",
+      "source_file": "AnimCompositeBase Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_base",
+      "label": "AnimNode_Base",
+      "file_type": "document",
+      "source_file": "AnimNode_LiveLinkPose Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnDropEvent Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommandparams",
+      "label": "AesEditorSimpleCommandParams",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommandParams__Ramp Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressioncustomoutput",
+      "label": "MaterialExpressionCustomOutput",
+      "file_type": "document",
+      "source_file": "MaterialExpressionClearCoatNormalCustomOutput Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "SoundModulatorBase Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "StateTreeReferenceOverrideItem Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "info",
+      "label": "Info",
+      "file_type": "document",
+      "source_file": "VolumetricCloud Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "TextureRenderTarget Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_module",
+      "label": "ControlRig Module",
+      "file_type": "document",
+      "source_file": "RigBoneType Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "BuildingType Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "texturerenderport",
+      "target": "texture",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureRenderTarget Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "texturerenderport_target_gamma",
+      "target": "texturerenderport",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureRenderTarget Objects.md",
+      "source_location": "line 73",
+      "weight": 1.0
+    },
+    {
+      "source": "texturerenderport",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureRenderTarget Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "buildingtype",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BuildingType Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "buildingtype",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BuildingType Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpcoremanager",
+      "target": "actor",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPCoreManager Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpcoremanager_get_dcp_core_manager",
+      "target": "dcpcoremanager",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPCoreManager Objects.md",
+      "source_location": "line 148",
+      "weight": 1.0
+    },
+    {
+      "source": "rigbonetype",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigBoneType Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigbonetype",
+      "target": "controlrig_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigBoneType Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "replicationsystem",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ReplicationSystem Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "sourcecontrol_queryfilestatedelegate",
+      "target": "delegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceControl__QueryFileStateDelegate Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "gizmoactor",
+      "target": "internaltoolframeworkactor",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GizmoActor Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "animcompositebase",
+      "target": "animsequencebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCompositeBase Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoangle",
+      "target": "rigunit",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoangle_axis",
+      "target": "rigunit_quaterniontoangle",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoangle_argument",
+      "target": "rigunit_quaterniontoangle",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoangle_angle",
+      "target": "rigunit_quaterniontoangle",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoangle",
+      "target": "controlrig_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_livelinkpose",
+      "target": "animnode_base",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_LiveLinkPose Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_livelinkpose_livelink_subject_name",
+      "target": "animnode_livelinkpose",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_LiveLinkPose Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativetransformforitem",
+      "target": "rigunitmutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativetransformforitem_child",
+      "target": "rigunit_setrelativetransformforitem",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativetransformforitem_parent",
+      "target": "rigunit_setrelativetransformforitem",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativetransformforitem",
+      "target": "controlrig_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "ondropevent",
+      "target": "multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDropEvent Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommandparams_ramp",
+      "target": "aeseditorsimplecommandparams",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainEditorCommandParams__Ramp Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommandparams_ramp",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainEditorCommandParams__Ramp Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionclearcoatnormalcustomoutput",
+      "target": "materialexpressioncustomoutput",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionClearCoatNormalCustomOutput Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "soundmodulatorbase",
+      "target": "object",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundModulatorBase Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "statetreereferenceoverrideitem",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeReferenceOverrideItem Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "statetreereferenceoverrideitem_state_tag",
+      "target": "statetreereferenceoverrideitem",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeReferenceOverrideItem Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintjsonlibrary",
+      "target": "blueprintfunctionlibrary",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintjsonlibrary_json_set_field",
+      "target": "blueprintjsonlibrary",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 58",
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintjsonlibrary_json_has_field",
+      "target": "blueprintjsonlibrary",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 159",
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintjsonlibrary_conv_string_to_json_object",
+      "target": "blueprintjsonlibrary",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintJsonLibrary Objects.md",
+      "source_location": "line 200",
+      "weight": 1.0
+    },
+    {
+      "source": "coveringwidgetblendmode",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoveringWidgetBlendMode Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "intvector",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "intvector_x",
+      "target": "intvector",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "intvector_y",
+      "target": "intvector",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "intvector_z",
+      "target": "intvector",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "quartzcommandquantization",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "QuartzCommandQuantization Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "volumetriccloud",
+      "target": "info",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VolumetricCloud Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "volumetriccloud_component",
+      "target": "volumetriccloud",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VolumetricCloud Objects.md",
+      "source_location": "line 142",
+      "weight": 1.0
+    },
+    {
+      "source": "volumetriccloud",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VolumetricCloud Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommandparams_flattenpolygon",
+      "target": "aeseditorsimplecommandparams",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainEditorCommandParams__FlattenPolygon Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommandparams_flattenpolygon",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainEditorCommandParams__FlattenPolygon Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoangle",
+      "target": "rigunit_setrelativetransformforitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommandparams_ramp",
+      "target": "aesterraineditorcommandparams_flattenpolygon",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AesTerrainEditorCommandParams__Ramp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "intvector_x",
+      "target": "intvector_y",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "intvector_y",
+      "target": "intvector_z",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntVector Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoangle_axis",
+      "target": "rigunit_quaterniontoangle_argument",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__QuaternionToAngle Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativetransformforitem_child",
+      "target": "rigunit_setrelativetransformforitem_parent",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetRelativeTransformForItem Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_classes",
+      "label": "ControlRig Classes",
+      "nodes": [
+        "rigbonetype",
+        "rigunit_quaterniontoangle",
+        "rigunit_setrelativetransformforitem"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigBoneType Objects.md"
+    },
+    {
+      "id": "aesworld_terrain_commands",
+      "label": "AesWorld Terrain Editor Commands",
+      "nodes": [
+        "buildingtype",
+        "aesterraineditorcommandparams_ramp",
+        "aesterraineditorcommandparams_flattenpolygon"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BuildingType Objects.md"
+    },
+    {
+      "id": "engine_module_classes",
+      "label": "Engine Module Classes",
+      "nodes": [
+        "texturerenderport",
+        "animcompositebase",
+        "quartzcommandquantization",
+        "volumetriccloud"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureRenderTarget Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

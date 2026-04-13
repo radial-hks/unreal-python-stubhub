@@ -1,0 +1,573 @@
+{
+  "nodes": [
+    {
+      "id": "vreditoravataractor_vreditoravataractor",
+      "label": "VREditorAvatarActor",
+      "file_type": "document",
+      "source_file": "VREditorAvatarActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "embankwayinfo_embankwayinfo",
+      "label": "EmbankWayInfo",
+      "file_type": "document",
+      "source_file": "EmbankWayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatranslucentprioritymodifier_avatranslucentprioritymodifier",
+      "label": "AvaTranslucentPriorityModifier",
+      "file_type": "document",
+      "source_file": "AvaTranslucentPriorityModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "endmatchcallbackproxy_endmatchcallbackproxy",
+      "label": "EndMatchCallbackProxy",
+      "file_type": "document",
+      "source_file": "EndMatchCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "charactermovementupdatedsignature_charactermovementupdatedsignature",
+      "label": "CharacterMovementUpdatedSignature",
+      "file_type": "document",
+      "source_file": "CharacterMovementUpdatedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbinaryaggregateop_rigvmfunction_mathvectorbinaryaggregateop",
+      "label": "RigVMFunction_MathVectorBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdploop_wdploop",
+      "label": "WdpLoop",
+      "file_type": "document",
+      "source_file": "WdpLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onearthtabbuttonunchecked_onearthtabbuttonunchecked",
+      "label": "OnEarthTabButtonUnchecked",
+      "file_type": "document",
+      "source_file": "OnEarthTabButtonUnchecked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avamirrormodifier_avamirrormodifier",
+      "label": "AvaMirrorModifier",
+      "file_type": "document",
+      "source_file": "AvaMirrorModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitionsequencequerytype_avatransitionsequencequerytype",
+      "label": "AvaTransitionSequenceQueryType",
+      "file_type": "document",
+      "source_file": "AvaTransitionSequenceQueryType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "box3f_box3f",
+      "label": "Box3f",
+      "file_type": "document",
+      "source_file": "Box3f Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cliprasterparam_cliprasterparam",
+      "label": "ClipRasterParam",
+      "file_type": "document",
+      "source_file": "ClipRasterParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_copybone_animgraphnode_copybone",
+      "label": "AnimGraphNode_CopyBone",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_CopyBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nnedenoisertemporalinputmappingdata_nnedenoisertemporalinputmappingdata",
+      "label": "NNEDenoiserTemporalInputMappingData",
+      "file_type": "document",
+      "source_file": "NNEDenoiserTemporalInputMappingData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcameramovetransformparams_wdpcameramovetransformparams",
+      "label": "WDPCameraMoveTransformParams",
+      "file_type": "document",
+      "source_file": "WDPCameraMoveTransformParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wimdynamicwaterapi_wimdynamicwaterapi",
+      "label": "WimDynamicWaterAPI",
+      "file_type": "document",
+      "source_file": "WimDynamicWaterAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "columnarheatmapdata_columnarheatmapdata",
+      "label": "ColumnarHeatMapData",
+      "file_type": "document",
+      "source_file": "ColumnarHeatMapData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiontexturesampleparametervolume_materialexpressiontexturesampleparametervolume",
+      "label": "MaterialExpressionTextureSampleParameterVolume",
+      "file_type": "document",
+      "source_file": "MaterialExpressionTextureSampleParameterVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectid_smartobjectid",
+      "label": "SmartObjectID",
+      "file_type": "document",
+      "source_file": "SmartObjectID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthquadkeyfragment_earthquadkeyfragment",
+      "label": "EarthQuadKeyFragment",
+      "file_type": "document",
+      "source_file": "EarthQuadKeyFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playercontroller_playercontroller",
+      "label": "PlayerController",
+      "file_type": "document",
+      "source_file": "PlayerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthsplinealignmenttype_earthsplinealignmenttype",
+      "label": "EarthSplineAlignmentType",
+      "file_type": "document",
+      "source_file": "EarthSplineAlignmentType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "embankwayinfo_embanknodeinfo",
+      "label": "EmbankNodeInfo",
+      "file_type": "document",
+      "source_file": "EmbankWayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatranslucentprioritymodifier_cameraactor",
+      "label": "CameraActor",
+      "file_type": "document",
+      "source_file": "AvaTranslucentPriorityModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatranslucentprioritymodifier_avatranslucentprioritymodifiermode",
+      "label": "AvaTranslucentPriorityModifierMode",
+      "file_type": "document",
+      "source_file": "AvaTranslucentPriorityModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playercontroller_playercameramanager",
+      "label": "PlayerCameraManager",
+      "file_type": "document",
+      "source_file": "PlayerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playercontroller_cheatmanager",
+      "label": "CheatManager",
+      "file_type": "document",
+      "source_file": "PlayerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playercontroller_playerstate",
+      "label": "PlayerState",
+      "file_type": "document",
+      "source_file": "PlayerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wimdynamicwaterapi_togglewaterdataparams",
+      "label": "ToggleWaterDataParams",
+      "file_type": "document",
+      "source_file": "WimDynamicWaterAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wimdynamicwaterapi_resultbase",
+      "label": "ResultBase",
+      "file_type": "document",
+      "source_file": "WimDynamicWaterAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onearthtabbuttonunchecked_earthtabbuttonwidget",
+      "label": "EarthTabButtonWidget",
+      "file_type": "document",
+      "source_file": "OnEarthTabButtonUnchecked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nnedenoisertemporalinputmappingdata_temporalinputresourcename",
+      "label": "TemporalInputResourceName",
+      "file_type": "document",
+      "source_file": "NNEDenoiserTemporalInputMappingData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectid_smartobjecthandle",
+      "label": "SmartObjectHandle",
+      "file_type": "document",
+      "source_file": "SmartObjectID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthquadkeyfragment_earthspatialfragment",
+      "label": "EarthSpatialFragment",
+      "file_type": "document",
+      "source_file": "EarthQuadKeyFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "vreditoravataractor_vreditoravataractor",
+      "target": "embankwayinfo_embankwayinfo",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "VREditorAvatarActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "embankwayinfo_embankwayinfo",
+      "target": "embankwayinfo_embanknodeinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EmbankWayInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatranslucentprioritymodifier_avatranslucentprioritymodifier",
+      "target": "avatranslucentprioritymodifier_cameraactor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTranslucentPriorityModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatranslucentprioritymodifier_avatranslucentprioritymodifier",
+      "target": "avatranslucentprioritymodifier_avatranslucentprioritymodifiermode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTranslucentPriorityModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playercontroller_playercontroller",
+      "target": "playercontroller_playercameramanager",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playercontroller_playercontroller",
+      "target": "playercontroller_cheatmanager",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playercontroller_playercontroller",
+      "target": "playercontroller_playerstate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wimdynamicwaterapi_wimdynamicwaterapi",
+      "target": "wimdynamicwaterapi_togglewaterdataparams",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WimDynamicWaterAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wimdynamicwaterapi_wimdynamicwaterapi",
+      "target": "wimdynamicwaterapi_resultbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WimDynamicWaterAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onearthtabbuttonunchecked_onearthtabbuttonunchecked",
+      "target": "onearthtabbuttonunchecked_earthtabbuttonwidget",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnEarthTabButtonUnchecked Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nnedenoisertemporalinputmappingdata_nnedenoisertemporalinputmappingdata",
+      "target": "nnedenoisertemporalinputmappingdata_temporalinputresourcename",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NNEDenoiserTemporalInputMappingData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectid_smartobjectid",
+      "target": "smartobjectid_smartobjecthandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectID Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthquadkeyfragment_earthquadkeyfragment",
+      "target": "earthquadkeyfragment_earthspatialfragment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthQuadKeyFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatranslucentprioritymodifier_avatranslucentprioritymodifier",
+      "target": "avamirrormodifier_avamirrormodifier",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AvaTranslucentPriorityModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "columnarheatmapdata_columnarheatmapdata",
+      "target": "cliprasterparam_cliprasterparam",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ColumnarHeatMapData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "avalanche_modifiers_group",
+      "label": "Avalanche Modifiers",
+      "nodes": [
+        "avatranslucentprioritymodifier_avatranslucentprioritymodifier",
+        "avamirrormodifier_avamirrormodifier"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaTranslucentPriorityModifier Objects.md"
+    },
+    {
+      "id": "aesworld_plugin_classes",
+      "label": "AesWorld Plugin Classes",
+      "nodes": [
+        "earthquadkeyfragment_earthquadkeyfragment",
+        "earthsplinealignmenttype_earthsplinealignmenttype",
+        "onearthtabbuttonunchecked_onearthtabbuttonunchecked"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthQuadKeyFragment Objects.md"
+    },
+    {
+      "id": "api_parameter_structs",
+      "label": "API Parameter Structures",
+      "nodes": [
+        "embankwayinfo_embankwayinfo",
+        "cliprasterparam_cliprasterparam",
+        "wdpcameramovetransformparams_wdpcameramovetransformparams",
+        "columnarheatmapdata_columnarheatmapdata"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EmbankWayInfo Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,642 @@
+{
+  "nodes": [
+    {
+      "id": "metasoundbuilderresult_metasoundbuilderresult",
+      "label": "MetaSoundBuilderResult",
+      "file_type": "code",
+      "source_file": "MetaSoundBuilderResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshdecomposition_geometryscript_meshdecomposition",
+      "label": "GeometryScript_MeshDecomposition",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerboolarrayvariable_rigvmtrait_setdeformerboolarrayvariable",
+      "label": "RigVMTrait_SetDeformerBoolArrayVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerBoolArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "egltfruntimerecursivemode_egltfruntimerecursivemode",
+      "label": "EglTFRuntimeRecursiveMode",
+      "file_type": "code",
+      "source_file": "EglTFRuntimeRecursiveMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasignificancehandler_niagarasignificancehandler",
+      "label": "NiagaraSignificanceHandler",
+      "file_type": "code",
+      "source_file": "NiagaraSignificanceHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformtoeulertransform_rigvmfunction_mathtransformtoeulertransform",
+      "label": "RigVMFunction_MathTransformToEulerTransform",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformToEulerTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "Transform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsplinesamplingmode_pcgsplinesamplingmode",
+      "label": "PCGSplineSamplingMode",
+      "file_type": "code",
+      "source_file": "PCGSplineSamplingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorselectbool_rigunit_mathvectorselectbool",
+      "label": "RigUnit_MathVectorSelectBool",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorSelectBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialExpressionluminance_materialexpressionluminance",
+      "label": "MaterialExpressionLuminance",
+      "file_type": "code",
+      "source_file": "MaterialExpressionLuminance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mousecursor_mousecursor",
+      "label": "MouseCursor",
+      "file_type": "code",
+      "source_file": "MouseCursor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectexportert3d_objectexportert3d",
+      "label": "ObjectExporterT3D",
+      "file_type": "code",
+      "source_file": "ObjectExporterT3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewportinteractor_viewportinteractor",
+      "label": "ViewportInteractor",
+      "file_type": "code",
+      "source_file": "ViewportInteractor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatetransformmul_rigvmfunction_accumulatetransformmul",
+      "label": "RigVMFunction_AccumulateTransformMul",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AccumulateTransformMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_splineik_animgraphnode_splineik",
+      "label": "AnimGraphNode_SplineIK",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SplineIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesgridlayoutassetdata_aesgridlayoutassetdata",
+      "label": "AesGridLayoutAssetData",
+      "file_type": "code",
+      "source_file": "AesGridLayoutAssetData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdsolvercollisiondatacomponent_chaosvdsolvercollisiondatacomponent",
+      "label": "ChaosVDSolverCollisionDataComponent",
+      "file_type": "code",
+      "source_file": "ChaosVDSolverCollisionDataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "trajectorysamplerange_trajectorysamplerange",
+      "label": "TrajectorySampleRange",
+      "file_type": "code",
+      "source_file": "TrajectorySampleRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintsmanager_constraintsmanager",
+      "label": "ConstraintsManager",
+      "file_type": "code",
+      "source_file": "ConstraintsManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poientityatom_poientityatom",
+      "label": "PoiEntityAtom",
+      "file_type": "code",
+      "source_file": "PoiEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onimportdonedynamic_onimportdonedynamic",
+      "label": "OnImportDoneDynamic",
+      "file_type": "code",
+      "source_file": "OnImportDoneDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshdecomposition_split_mesh_by_polygroups",
+      "label": "split_mesh_by_polygroups",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": "lines 17-46",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshdecomposition_split_mesh_by_material_i_ds",
+      "label": "split_mesh_by_material_i_ds",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": "lines 48-76",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshdecomposition_split_mesh_by_components",
+      "label": "split_mesh_by_components",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": "lines 78-104",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshdecomposition_copy_mesh_selection_to_mesh",
+      "label": "copy_mesh_selection_to_mesh",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": "lines 166-199",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_multiply",
+      "label": "multiply",
+      "file_type": "code",
+      "source_file": "Transform Objects.md",
+      "source_location": "lines 346-368",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_inverse",
+      "label": "inverse",
+      "file_type": "code",
+      "source_file": "Transform Objects.md",
+      "source_location": "lines 245-260",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_transform_location",
+      "label": "transform_location",
+      "file_type": "code",
+      "source_file": "Transform Objects.md",
+      "source_location": "lines 109-126",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_lerp",
+      "label": "lerp",
+      "file_type": "code",
+      "source_file": "Transform Objects.md",
+      "source_location": "lines 159-181",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewportinteractor_get_transform",
+      "label": "get_transform",
+      "file_type": "code",
+      "source_file": "ViewportInteractor Objects.md",
+      "source_location": "lines 174-186",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewportinteractor_handle_input_key_bp",
+      "label": "handle_input_key_bp",
+      "file_type": "code",
+      "source_file": "ViewportInteractor Objects.md",
+      "source_location": "lines 97-118",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poientityatom_setmarker_visible",
+      "label": "setmarker_visible",
+      "file_type": "code",
+      "source_file": "PoiEntityAtom Objects.md",
+      "source_location": "lines 551-568",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poientityatom_setlabel_visible",
+      "label": "setlabel_visible",
+      "file_type": "code",
+      "source_file": "PoiEntityAtom Objects.md",
+      "source_location": "lines 654-670",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmtrait_setdeformerboolarrayvariable_rigvmtrait_setdeformerboolarrayvariable",
+      "target": "rigvmtrait_setdeformerboolarrayvariable_rigvmtrait_setdeformerboolarrayvariable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerBoolArrayVariable Objects.md",
+      "source_location": "lines 3-5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformtoeulertransform_rigvmfunction_mathtransformtoeulertransform",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformToEulerTransform Objects.md",
+      "source_location": "lines 27-34",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshdecomposition_split_mesh_by_polygroups",
+      "target": "geometryscript_meshdecomposition_geometryscript_meshdecomposition",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": "lines 17-28",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshdecomposition_split_mesh_by_material_i_ds",
+      "target": "geometryscript_meshdecomposition_geometryscript_meshdecomposition",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": "lines 48-59",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshdecomposition_split_mesh_by_components",
+      "target": "geometryscript_meshdecomposition_geometryscript_meshdecomposition",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": "lines 78-89",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshdecomposition_copy_mesh_selection_to_mesh",
+      "target": "geometryscript_meshdecomposition_geometryscript_meshdecomposition",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": "lines 166-180",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshdecomposition_split_mesh_by_polygroups",
+      "target": "geometryscript_meshdecomposition_split_mesh_by_material_i_ds",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshdecomposition_split_mesh_by_polygroups",
+      "target": "geometryscript_meshdecomposition_split_mesh_by_components",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshdecomposition_split_mesh_by_material_i_ds",
+      "target": "geometryscript_meshdecomposition_split_mesh_by_components",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_MeshDecomposition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatetransformmul_rigvmfunction_accumulatetransformmul",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_AccumulateTransformMul Objects.md",
+      "source_location": "lines 29-40",
+      "weight": 1.0
+    },
+    {
+      "source": "viewportinteractor_get_transform",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ViewportInteractor Objects.md",
+      "source_location": "lines 174-186",
+      "weight": 1.0
+    },
+    {
+      "source": "transform_multiply",
+      "target": "transform_transform",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Transform Objects.md",
+      "source_location": "lines 346-368",
+      "weight": 1.0
+    },
+    {
+      "source": "transform_inverse",
+      "target": "transform_transform",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Transform Objects.md",
+      "source_location": "lines 245-260",
+      "weight": 1.0
+    },
+    {
+      "source": "transform_transform_location",
+      "target": "transform_transform",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Transform Objects.md",
+      "source_location": "lines 109-126",
+      "weight": 1.0
+    },
+    {
+      "source": "transform_lerp",
+      "target": "transform_transform",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Transform Objects.md",
+      "source_location": "lines 159-181",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformtoeulertransform_rigvmfunction_mathtransformtoeulertransform",
+      "target": "rigvmfunction_accumulatetransformmul_rigvmfunction_accumulatetransformmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathTransformToEulerTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "viewportinteractor_handle_input_key_bp",
+      "target": "viewportinteractor_viewportinteractor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ViewportInteractor Objects.md",
+      "source_location": "lines 97-118",
+      "weight": 1.0
+    },
+    {
+      "source": "poientityatom_setmarker_visible",
+      "target": "poientityatom_poientityatom",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoiEntityAtom Objects.md",
+      "source_location": "lines 551-568",
+      "weight": 1.0
+    },
+    {
+      "source": "poientityatom_setlabel_visible",
+      "target": "poientityatom_poientityatom",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoiEntityAtom Objects.md",
+      "source_location": "lines 654-670",
+      "weight": 1.0
+    },
+    {
+      "source": "poientityatom_setmarker_visible",
+      "target": "poientityatom_setlabel_visible",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PoiEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorselectbool_rigunit_mathvectorselectbool",
+      "target": "materialExpressionluminance_materialexpressionluminance",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigUnit_MathVectorSelectBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasignificancehandler_niagarasignificancehandler",
+      "target": "viewportinteractor_viewportinteractor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NiagaraSignificanceHandler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvdsolvercollisiondatacomponent_chaosvdsolvercollisiondatacomponent",
+      "target": "constraintsmanager_constraintsmanager",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ChaosVDSolverCollisionDataComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "mesh_decomposition_operations",
+      "label": "Mesh Decomposition Operations",
+      "nodes": [
+        "geometryscript_meshdecomposition_split_mesh_by_polygroups",
+        "geometryscript_meshdecomposition_split_mesh_by_material_i_ds",
+        "geometryscript_meshdecomposition_split_mesh_by_components"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScript_MeshDecomposition Objects.md"
+    },
+    {
+      "id": "transform_operations",
+      "label": "Transform Operations",
+      "nodes": [
+        "transform_multiply",
+        "transform_inverse",
+        "transform_transform_location",
+        "transform_lerp"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Transform Objects.md"
+    },
+    {
+      "id": "rigvm_transform_functions",
+      "label": "RigVM Transform Functions",
+      "nodes": [
+        "rigvmfunction_mathtransformtoeulertransform_rigvmfunction_mathtransformtoeulertransform",
+        "rigvmfunction_accumulatetransformmul_rigvmfunction_accumulatetransformmul"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathTransformToEulerTransform Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

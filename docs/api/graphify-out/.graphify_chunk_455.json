@@ -1,0 +1,381 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_fitsplinecurvetochain_rigunit",
+      "label": "RigUnit FitSplineCurveToChain",
+      "file_type": "code",
+      "source_file": "RigUnit_FitSplineCurveToChain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationstateresultreference_animnode",
+      "label": "AnimationStateResultReference",
+      "file_type": "code",
+      "source_file": "AnimationStateResultReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisibilitygroupremoveparam_param",
+      "label": "AesTilesVisibilityGroupRemoveParam",
+      "file_type": "code",
+      "source_file": "AesTilesVisibilityGroupRemoveParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialfunctioncallexpressionfactorynode_factory",
+      "label": "InterchangeMaterialFunctionCallExpressionFactoryNode",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialFunctionCallExpressionFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintsign_math",
+      "label": "RigVMFunction MathIntSign",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgedge_pcg",
+      "label": "PCGEdge",
+      "file_type": "code",
+      "source_file": "PCGEdge Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorpawninterface_interface",
+      "label": "AesEditorPawnInterface",
+      "file_type": "code",
+      "source_file": "AesEditorPawnInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onduplicateactorsbegin_delegate",
+      "label": "OnDuplicateActorsBegin",
+      "file_type": "code",
+      "source_file": "OnDuplicateActorsBegin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimeapimanager_actor",
+      "label": "RuntimeAPIManager",
+      "file_type": "code",
+      "source_file": "RuntimeAPIManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthspatialprefab_prefab",
+      "label": "EarthSpatialPrefab",
+      "file_type": "code",
+      "source_file": "EarthSpatialPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcacheimporttype_enum",
+      "label": "GroomCacheImportType",
+      "file_type": "code",
+      "source_file": "GroomCacheImportType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_positionconstraintlocalspaceoffset_rigunit",
+      "label": "RigUnit PositionConstraintLocalSpaceOffset",
+      "file_type": "code",
+      "source_file": "RigUnit__PositionConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavetablebankentry_struct",
+      "label": "WaveTableBankEntry",
+      "file_type": "code",
+      "source_file": "WaveTableBankEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_visualdebugquat_debug",
+      "label": "RigVMFunction VisualDebugQuat",
+      "file_type": "code",
+      "source_file": "RigVMFunction__VisualDebugQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fdatadrivencvartype_enum",
+      "label": "FDataDrivenCVarType",
+      "file_type": "code",
+      "source_file": "FDataDrivenCVarType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basedaysequenceactor_actor",
+      "label": "BaseDaySequenceActor",
+      "file_type": "code",
+      "source_file": "BaseDaySequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintabs_math",
+      "label": "RigVMFunction MathIntAbs",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathIntAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatabooleanoperation_enum",
+      "label": "PCGMetadataBooleanOperation",
+      "file_type": "code",
+      "source_file": "PCGMetadataBooleanOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphconditiongroupquerybase_query",
+      "label": "MovieGraphConditionGroupQueryBase",
+      "file_type": "code",
+      "source_file": "MovieGraphConditionGroupQueryBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamestatecomponent_component",
+      "label": "GameStateComponent",
+      "file_type": "code",
+      "source_file": "GameStateComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkbaseblueprintdata_struct",
+      "label": "LiveLinkBaseBlueprintData",
+      "file_type": "code",
+      "source_file": "LiveLinkBaseBlueprintData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdebugvisscalemethod_enum",
+      "label": "PCGDebugVisScaleMethod",
+      "file_type": "code",
+      "source_file": "PCGDebugVisScaleMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_fitsplinecurvetochain_rigunit",
+      "target": "rigunit_positionconstraintlocalspaceoffset_rigunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_FitSplineCurveToChain Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintsign_math",
+      "target": "rigvmfunction_mathintabs_math",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathIntSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorpawninterface_interface",
+      "target": "earthspatialprefab_prefab",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesEditorPawnInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "basedaysequenceactor_actor",
+      "target": "runtimeapimanager_actor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "BaseDaySequenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphconditiongroupquerybase_query",
+      "target": "onduplicateactorsbegin_delegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MovieGraphConditionGroupQueryBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgedge_pcg",
+      "target": "pcgmetadatabooleanoperation_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGEdge Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgedge_pcg",
+      "target": "pcgdebugvisscalemethod_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGEdge Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_visualdebugquat_debug",
+      "target": "rigvmfunction_mathintsign_math",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__VisualDebugQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialfunctioncallexpressionfactorynode_factory",
+      "target": "groomcacheimporttype_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "InterchangeMaterialFunctionCallExpressionFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathintsign_math",
+        "rigvmfunction_mathintabs_math",
+        "rigvmfunction_visualdebugquat_debug"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathIntSign Objects.md"
+    },
+    {
+      "id": "pcg_system_components",
+      "label": "PCG System Components",
+      "nodes": [
+        "pcgedge_pcg",
+        "pcgmetadatabooleanoperation_enum",
+        "pcgdebugvisscalemethod_enum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGEdge Objects.md"
+    },
+    {
+      "id": "aes_world_system",
+      "label": "Aes World System",
+      "nodes": [
+        "aeseditorpawninterface_interface",
+        "earthspatialprefab_prefab",
+        "aestilesvisibilitygroupremoveparam_param"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AesEditorPawnInterface Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

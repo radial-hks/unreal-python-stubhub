@@ -1,0 +1,735 @@
+{
+  "nodes": [
+    {
+      "id": "imagesequenceprotocol_jpg_imagesequenceprotocol_jpg",
+      "label": "ImageSequenceProtocol_JPG",
+      "file_type": "code",
+      "source_file": "ImageSequenceProtocol_JPG Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolbool_entry_structbase",
+      "label": "RigUnit_SetMultiControlBool_Entry",
+      "file_type": "code",
+      "source_file": "RigUnit_SetMultiControlBool_Entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updatemovealongpathparams_paramsbase",
+      "label": "UpdateMoveAlongPathParams",
+      "file_type": "code",
+      "source_file": "UpdateMoveAlongPathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectblockeddelegate_multicastdelegatebase",
+      "label": "GameplayEffectBlockedDelegate",
+      "file_type": "code",
+      "source_file": "GameplayEffectBlockedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode__computekernelfunction_optimusnode__computekernelbase",
+      "label": "OptimusNode_ComputeKernelFunction",
+      "file_type": "code",
+      "source_file": "OptimusNode__ComputeKernelFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "e2dentitymousebuttontype_enumbase",
+      "label": "E2DEntityMouseButtonType",
+      "file_type": "code",
+      "source_file": "E2DEntityMouseButtonType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatarenamesettings_pcgsettings",
+      "label": "PCGMetadataRenameSettings",
+      "file_type": "code",
+      "source_file": "PCGMetadataRenameSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolvisibility_rigunitmutable",
+      "label": "RigUnit_SetControlVisibility",
+      "file_type": "code",
+      "source_file": "RigUnit_SetControlVisibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserdatamenucontext__filemenu_object",
+      "label": "ContentBrowserDataMenuContext_FileMenu",
+      "file_type": "code",
+      "source_file": "ContentBrowserDataMenuContext__FileMenu Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstrateslabbsdf_materialexpressionsubstratebsdf",
+      "label": "MaterialExpressionSubstrateSlabBSDF",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstrateSlabBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummodelmetadatablueprintlibrary_blueprintfunctionlibrary",
+      "label": "CesiumModelMetadataBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "CesiumModelMetadataBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathdoubleceil_rigvmfunction__mathdoublebase",
+      "label": "RigVMFunction_MathDoubleCeil",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestchildinterface_pytestinterface",
+      "label": "PyTestChildInterface",
+      "file_type": "code",
+      "source_file": "PyTestChildInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathcolorbinaryop_rigvmfunction__mathcolorbinaryop",
+      "label": "RigUnit_MathColorBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathColorBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinecomponent_primitivecomponent",
+      "label": "SplineComponent",
+      "file_type": "code",
+      "source_file": "SplineComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onnotifyreplaced_delegatebase",
+      "label": "OnNotifyReplaced",
+      "file_type": "code",
+      "source_file": "OnNotifyReplaced Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpentitymgr_object",
+      "label": "WdpEntityMgr",
+      "file_type": "code",
+      "source_file": "WdpEntityMgr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshreadlod_structbase",
+      "label": "GeometryScriptMeshReadLOD",
+      "file_type": "code",
+      "source_file": "GeometryScriptMeshReadLOD Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorwindowwidget_userwidget",
+      "label": "AesEditorWindowWidget",
+      "file_type": "code",
+      "source_file": "AesEditorWindowWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsobol_materialexpression",
+      "label": "MaterialExpressionSobol",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSobol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixfromtransformv2_rigvmfunction_mathmatrixbase",
+      "label": "RigVMFunction_MathMatrixFromTransformV2",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathMatrixFromTransformV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__twoboneiksimpletransforms_rigunit_highlevelbase",
+      "label": "RigUnit_TwoBoneIKSimpleTransforms",
+      "file_type": "code",
+      "source_file": "RigUnit__TwoBoneIKSimpleTransforms Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "RigUnit_SetMultiControlBool_Entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformergraph_plugin",
+      "label": "DeformerGraph Plugin",
+      "file_type": "code",
+      "source_file": "OptimusNode__ComputeKernelFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "code",
+      "source_file": "UpdateMoveAlongPathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilities_plugin",
+      "label": "GameplayAbilities Plugin",
+      "file_type": "code",
+      "source_file": "GameplayEffectBlockedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "code",
+      "source_file": "PCGMetadataRenameSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesium_plugin",
+      "label": "CesiumForUnreal Plugin",
+      "file_type": "code",
+      "source_file": "CesiumModelMetadataBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonscript_plugin",
+      "label": "PythonScriptPlugin Plugin",
+      "file_type": "code",
+      "source_file": "PyTestChildInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "code",
+      "source_file": "GeometryScriptMeshReadLOD Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesruntimecore_plugin",
+      "label": "AesRuntimeCore Plugin",
+      "file_type": "code",
+      "source_file": "E2DEntityMouseButtonType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "code",
+      "source_file": "AesEditorWindowWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ik_solving_concept",
+      "label": "IK Solving",
+      "file_type": "code",
+      "source_file": "RigUnit__TwoBoneIKSimpleTransforms Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_manipulation_concept",
+      "label": "Transform Manipulation",
+      "file_type": "code",
+      "source_file": "SplineComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_rendering_concept",
+      "label": "Material Rendering",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstrateSlabBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "math_operations_concept",
+      "label": "Math Operations",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_setmulticontrolbool_entry_structbase",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetMultiControlBool_Entry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvisibility_rigunitmutable",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlVisibility Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__twoboneiksimpletransforms_rigunit_highlevelbase",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TwoBoneIKSimpleTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathdoubleceil_rigvmfunction__mathdoublebase",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixfromtransformv2_rigvmfunction_mathmatrixbase",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathMatrixFromTransformV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode__computekernelfunction_optimusnode__computekernelbase",
+      "target": "deformergraph_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode__ComputeKernelFunction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "updatemovealongpathparams_paramsbase",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateMoveAlongPathParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffectblockeddelegate_multicastdelegatebase",
+      "target": "gameplayabilities_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectBlockedDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatarenamesettings_pcgsettings",
+      "target": "pcg_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataRenameSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiummodelmetadatablueprintlibrary_blueprintfunctionlibrary",
+      "target": "cesium_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumModelMetadataBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pytestchildinterface_pytestinterface",
+      "target": "pythonscript_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestChildInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmeshreadlod_structbase",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptMeshReadLOD Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "e2dentitymousebuttontype_enumbase",
+      "target": "aesruntimecore_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "E2DEntityMouseButtonType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpentitymgr_object",
+      "target": "aesruntimecore_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEntityMgr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorwindowwidget_userwidget",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorWindowWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathcolorbinaryop_rigvmfunction__mathcolorbinaryop",
+      "target": "rigvmfunction_mathmatrixfromtransformv2_rigvmfunction_mathmatrixbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathColorBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathdoubleceil_rigvmfunction__mathdoublebase",
+      "target": "rigvmfunction_mathmatrixfromtransformv2_rigvmfunction_mathmatrixbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__twoboneiksimpletransforms_rigunit_highlevelbase",
+      "target": "ik_solving_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TwoBoneIKSimpleTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splinecomponent_primitivecomponent",
+      "target": "transform_manipulation_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplineComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstrateslabbsdf_materialexpressionsubstratebsdf",
+      "target": "material_rendering_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateSlabBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsobol_materialexpression",
+      "target": "material_rendering_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSobol Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathdoubleceil_rigvmfunction__mathdoublebase",
+      "target": "math_operations_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixfromtransformv2_rigvmfunction_mathmatrixbase",
+      "target": "math_operations_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathMatrixFromTransformV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathcolorbinaryop_rigvmfunction__mathcolorbinaryop",
+      "target": "math_operations_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathColorBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstrateslabbsdf_materialexpressionsubstratebsdf",
+      "target": "materialexpressionsobol_materialexpression",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionSubstrateSlabBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_entry_structbase",
+      "target": "rigunit_setcontrolvisibility_rigunitmutable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "RigUnit_SetMultiControlBool_Entry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiummodelmetadatablueprintlibrary_blueprintfunctionlibrary",
+      "target": "geometryscriptmeshreadlod_structbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CesiumModelMetadataBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splinecomponent_primitivecomponent",
+      "target": "rigunit__twoboneiksimpletransforms_rigunit_highlevelbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "SplineComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_functionality",
+      "label": "ControlRig Functionality",
+      "nodes": [
+        "rigunit_setmulticontrolbool_entry_structbase",
+        "rigunit_setcontrolvisibility_rigunitmutable",
+        "rigunit__twoboneiksimpletransforms_rigunit_highlevelbase"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetMultiControlBool_Entry Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction__mathdoubleceil_rigvmfunction__mathdoublebase",
+        "rigvmfunction_mathmatrixfromtransformv2_rigvmfunction_mathmatrixbase",
+        "rigunit__mathcolorbinaryop_rigvmfunction__mathcolorbinaryop"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleCeil Objects.md"
+    },
+    {
+      "id": "material_expression_system",
+      "label": "Material Expression System",
+      "nodes": [
+        "materialexpressionsubstrateslabbsdf_materialexpressionsubstratebsdf",
+        "materialexpressionsobol_materialexpression"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateSlabBSDF Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

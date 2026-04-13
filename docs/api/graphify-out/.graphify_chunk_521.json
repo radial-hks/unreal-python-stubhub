@@ -1,0 +1,779 @@
+{
+  "nodes": [
+    {
+      "id": "displayclustercameracomponent_displayclustercameracomponent",
+      "label": "DisplayClusterCameraComponent",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "characterevent_characterevent",
+      "label": "CharacterEvent",
+      "file_type": "document",
+      "source_file": "CharacterEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbooland_rigvmfunction_mathbooland",
+      "label": "RigVMFunction_MathBoolAnd",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoolAnd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditordatainfo_aeseditordatainfo",
+      "label": "AesEditorDataInfo",
+      "file_type": "document",
+      "source_file": "AesEditorDataInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddnull_rigunit_hierarchyaddnull",
+      "label": "RigUnit_HierarchyAddNull",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddNull Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plasticdeformationeventsignature_plasticdeformationeventsignature",
+      "label": "PlasticDeformationEventSignature",
+      "file_type": "document",
+      "source_file": "PlasticDeformationEventSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetname_assetname",
+      "label": "AssetName",
+      "file_type": "document",
+      "source_file": "AssetName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buttonslot_buttonslot",
+      "label": "ButtonSlot",
+      "file_type": "document",
+      "source_file": "ButtonSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectororthogonal_rigvmfunction_mathvectororthogonal",
+      "label": "RigVMFunction_MathVectorOrthogonal",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorOrthogonal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperspritelibrary_paperspritelibrary",
+      "label": "PaperSpriteLibrary",
+      "file_type": "document",
+      "source_file": "PaperSpriteLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector__netquantize10_vector__netquantize10",
+      "label": "Vector_NetQuantize10",
+      "file_type": "document",
+      "source_file": "Vector__NetQuantize10 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modularsynthpresetbankfactory_modularsynthpresetbankfactory",
+      "label": "ModularSynthPresetBankFactory",
+      "file_type": "document",
+      "source_file": "ModularSynthPresetBankFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinestackoverride_interchangepipelinestackoverride",
+      "label": "InterchangePipelineStackOverride",
+      "file_type": "document",
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityspec_gameplayabilityspec",
+      "label": "GameplayAbilitySpec",
+      "file_type": "document",
+      "source_file": "GameplayAbilitySpec Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontrolvisibility_rigunit_getcontrolvisibility",
+      "label": "RigUnit_GetControlVisibility",
+      "file_type": "document",
+      "source_file": "RigUnit_GetControlVisibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimitem_target_rigunit_aimitem_target",
+      "label": "RigUnit_AimItem_Target",
+      "file_type": "document",
+      "source_file": "RigUnit_AimItem_Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mirrorfindreplaceexpression_mirrorfindreplaceexpression",
+      "label": "MirrorFindReplaceExpression",
+      "file_type": "document",
+      "source_file": "MirrorFindReplaceExpression Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathquaternionscale_rigunit__mathquaternionscale",
+      "label": "RigUnit_MathQuaternionScale",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshdisplacementmap_meshdisplacementmap",
+      "label": "MeshDisplacementMap",
+      "file_type": "document",
+      "source_file": "MeshDisplacementMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusparameterbinding_optimusparameterbinding",
+      "label": "OptimusParameterBinding",
+      "file_type": "document",
+      "source_file": "OptimusParameterBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basic3dlinesetcomponent_basic3dlinesetcomponent",
+      "label": "Basic3DLineSetComponent",
+      "file_type": "document",
+      "source_file": "Basic3DLineSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__meshvoxelprocessing_geometryscript__meshvoxelprocessing",
+      "label": "GeometryScript_MeshVoxelProcessing",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperspritelibrary_make_brush_from_sprite",
+      "label": "make_brush_from_sprite",
+      "file_type": "document",
+      "source_file": "PaperSpriteLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__meshvoxelprocessing_apply_mesh_solidify",
+      "label": "apply_mesh_solidify",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__meshvoxelprocessing_apply_mesh_morphology",
+      "label": "apply_mesh_morphology",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinestackoverride_add_python_pipeline",
+      "label": "add_python_pipeline",
+      "file_type": "document",
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinestackoverride_add_pipeline",
+      "label": "add_pipeline",
+      "file_type": "document",
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinestackoverride_add_blueprint_pipeline",
+      "label": "add_blueprint_pipeline",
+      "file_type": "document",
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustercameracomponent_toggle_swap_eyes",
+      "label": "toggle_swap_eyes",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustercameracomponent_set_swap_eyes",
+      "label": "set_swap_eyes",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustercameracomponent_set_stereo_offset",
+      "label": "set_stereo_offset",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustercameracomponent_set_interpupillary_distance",
+      "label": "set_interpupillary_distance",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustercameracomponent_get_swap_eyes",
+      "label": "get_swap_eyes",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustercameracomponent_get_stereo_offset",
+      "label": "get_stereo_offset",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustercameracomponent_get_interpupillary_distance",
+      "label": "get_interpupillary_distance",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buttonslot_set_vertical_alignment",
+      "label": "set_vertical_alignment",
+      "file_type": "document",
+      "source_file": "ButtonSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buttonslot_set_padding",
+      "label": "set_padding",
+      "file_type": "document",
+      "source_file": "ButtonSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buttonslot_set_horizontal_alignment",
+      "label": "set_horizontal_alignment",
+      "file_type": "document",
+      "source_file": "ButtonSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cinecameraactor_external_cine_camera_actor",
+      "label": "CineCameraActor",
+      "file_type": "document",
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papersprite_sprite_parameter",
+      "label": "PaperSprite",
+      "file_type": "document",
+      "source_file": "PaperSpriteLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatebrush_return_type",
+      "label": "SlateBrush",
+      "file_type": "document",
+      "source_file": "PaperSpriteLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh_target_mesh",
+      "label": "DynamicMesh",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepythonpipelinebase_python_pipeline",
+      "label": "InterchangePythonPipelineBase",
+      "file_type": "document",
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinebase_pipeline_base",
+      "label": "InterchangePipelineBase",
+      "file_type": "document",
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeblueprintpipelinebase_blueprint_pipeline",
+      "label": "InterchangeBlueprintPipelineBase",
+      "file_type": "document",
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "displayclustercameracomponent_displayclustercameracomponent",
+      "target": "cinecameraactor_external_cine_camera_actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperspritelibrary_make_brush_from_sprite",
+      "target": "paperspritelibrary_paperspritelibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperSpriteLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperspritelibrary_make_brush_from_sprite",
+      "target": "papersprite_sprite_parameter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperSpriteLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperspritelibrary_make_brush_from_sprite",
+      "target": "slatebrush_return_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperSpriteLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__meshvoxelprocessing_apply_mesh_solidify",
+      "target": "geometryscript__meshvoxelprocessing_geometryscript__meshvoxelprocessing",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__meshvoxelprocessing_apply_mesh_solidify",
+      "target": "dynamicmesh_target_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__meshvoxelprocessing_apply_mesh_morphology",
+      "target": "geometryscript__meshvoxelprocessing_geometryscript__meshvoxelprocessing",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__meshvoxelprocessing_apply_mesh_morphology",
+      "target": "dynamicmesh_target_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinestackoverride_add_python_pipeline",
+      "target": "interchangepipelinestackoverride_interchangepipelinestackoverride",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinestackoverride_add_python_pipeline",
+      "target": "interchangepythonpipelinebase_python_pipeline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinestackoverride_add_pipeline",
+      "target": "interchangepipelinestackoverride_interchangepipelinestackoverride",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinestackoverride_add_pipeline",
+      "target": "interchangepipelinebase_pipeline_base",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinestackoverride_add_blueprint_pipeline",
+      "target": "interchangepipelinestackoverride_interchangepipelinestackoverride",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinestackoverride_add_blueprint_pipeline",
+      "target": "interchangeblueprintpipelinebase_blueprint_pipeline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineStackOverride Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercameracomponent_toggle_swap_eyes",
+      "target": "displayclustercameracomponent_displayclustercameracomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercameracomponent_set_swap_eyes",
+      "target": "displayclustercameracomponent_displayclustercameracomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercameracomponent_set_stereo_offset",
+      "target": "displayclustercameracomponent_displayclustercameracomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercameracomponent_set_interpupillary_distance",
+      "target": "displayclustercameracomponent_displayclustercameracomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercameracomponent_get_swap_eyes",
+      "target": "displayclustercameracomponent_displayclustercameracomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercameracomponent_get_stereo_offset",
+      "target": "displayclustercameracomponent_displayclustercameracomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercameracomponent_get_interpupillary_distance",
+      "target": "displayclustercameracomponent_displayclustercameracomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "buttonslot_set_vertical_alignment",
+      "target": "buttonslot_buttonslot",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ButtonSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "buttonslot_set_padding",
+      "target": "buttonslot_buttonslot",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ButtonSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "buttonslot_set_horizontal_alignment",
+      "target": "buttonslot_buttonslot",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ButtonSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathquaternionscale_rigunit__mathquaternionscale",
+      "target": "rigvmfunction_mathbooland_rigvmfunction_mathbooland",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__MathQuaternionScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__meshvoxelprocessing_apply_mesh_solidify",
+      "target": "geometryscript__meshvoxelprocessing_apply_mesh_morphology",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__MeshVoxelProcessing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "interchange_pipeline_system",
+      "label": "Interchange Pipeline System",
+      "nodes": [
+        "interchangepipelinestackoverride_interchangepipelinestackoverride",
+        "interchangepythonpipelinebase_python_pipeline",
+        "interchangepipelinebase_pipeline_base",
+        "interchangeblueprintpipelinebase_blueprint_pipeline"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "InterchangePipelineStackOverride Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

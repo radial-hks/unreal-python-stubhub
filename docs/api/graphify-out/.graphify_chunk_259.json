@@ -1,0 +1,872 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathintmake_rigvmfunction_mathintmake",
+      "label": "RigVMFunction_MathIntMake",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintmake_rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "localplayersavegame_localplayersavegame",
+      "label": "LocalPlayerSaveGame",
+      "file_type": "code",
+      "source_file": "LocalPlayerSaveGame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "localplayersavegame_savegame",
+      "label": "SaveGame",
+      "file_type": "code",
+      "source_file": "LocalPlayerSaveGame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "localplayersavegame_playercontroller",
+      "label": "PlayerController",
+      "file_type": "code",
+      "source_file": "LocalPlayerSaveGame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathfloatsqrt_rigunit__mathfloatsqrt",
+      "label": "RigUnit_MathFloatSqrt",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatSqrt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathfloatsqrt_rigvmfunction_mathfloatsqrt",
+      "label": "RigVMFunction_MathFloatSqrt",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatSqrt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_boneharmonics_rigunit_boneharmonics",
+      "label": "RigUnit_BoneHarmonics",
+      "file_type": "code",
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_boneharmonics_rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_boneharmonics_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_boneharmonics_rigvmanimeasingtype",
+      "label": "RigVMAnimEasingType",
+      "file_type": "code",
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_boneharmonics_eulerrotationorder",
+      "label": "EulerRotationOrder",
+      "file_type": "code",
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderaudioinputsettings_takerecorderaudioinputsettings",
+      "label": "TakeRecorderAudioInputSettings",
+      "file_type": "code",
+      "source_file": "TakeRecorderAudioInputSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneniagaraemittertrack_moviesceneniagaraemittertrack",
+      "label": "MovieSceneNiagaraEmitterTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraEmitterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneniagaraemittertrack_moviescenenameabletrack",
+      "label": "MovieSceneNameableTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraEmitterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshapproximationgroundplaneclippingpolicy_meshapproximationgroundplaneclippingpolicy",
+      "label": "MeshApproximationGroundPlaneClippingPolicy",
+      "file_type": "code",
+      "source_file": "MeshApproximationGroundPlaneClippingPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxanimsequenceimportdata_fbxanimsequenceimportdata",
+      "label": "FbxAnimSequenceImportData",
+      "file_type": "code",
+      "source_file": "FbxAnimSequenceImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxanimsequenceimportdata_fbxassetimportdata",
+      "label": "FbxAssetImportData",
+      "file_type": "code",
+      "source_file": "FbxAnimSequenceImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphysconstraintsetup_animphysconstraintsetup",
+      "label": "AnimPhysConstraintSetup",
+      "file_type": "code",
+      "source_file": "AnimPhysConstraintSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphysconstraintsetup_animphysangularconstrainttype",
+      "label": "AnimPhysAngularConstraintType",
+      "file_type": "code",
+      "source_file": "AnimPhysConstraintSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphysconstraintsetup_animphyslinearconstrainttype",
+      "label": "AnimPhysLinearConstraintType",
+      "file_type": "code",
+      "source_file": "AnimPhysConstraintSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphysconstraintsetup_animphystwistaxis",
+      "label": "AnimPhysTwistAxis",
+      "file_type": "code",
+      "source_file": "AnimPhysConstraintSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoientitypickatom_custompoientitypickatom",
+      "label": "CustomPoiEntityPickAtom",
+      "file_type": "code",
+      "source_file": "CustomPoiEntityPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoientitypickatom_entitypickatom",
+      "label": "EntityPickAtom",
+      "file_type": "code",
+      "source_file": "CustomPoiEntityPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneniagaravectorparametertrack_moviesceneniagaravectorparametertrack",
+      "label": "MovieSceneNiagaraVectorParameterTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraVectorParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneniagaravectorparametertrack_moviesceneniagaraparametertrack",
+      "label": "MovieSceneNiagaraParameterTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraVectorParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aescollisionlayerinfo_aescollisionlayerinfo",
+      "label": "AesCollisionLayerInfo",
+      "file_type": "code",
+      "source_file": "AesCollisionLayerInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurveperitem_rigunit_fitchaintocurveperitem",
+      "label": "RigUnit_FitChainToCurvePerItem",
+      "file_type": "code",
+      "source_file": "RigUnit_FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurveperitem_rigvmfourpointbezier",
+      "label": "RigVMFourPointBezier",
+      "file_type": "code",
+      "source_file": "RigUnit_FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurveperitem_controlrigcurvealignment",
+      "label": "ControlRigCurveAlignment",
+      "file_type": "code",
+      "source_file": "RigUnit_FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "voicesettings_voicesettings",
+      "label": "VoiceSettings",
+      "file_type": "code",
+      "source_file": "VoiceSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "voicesettings_soundattenuation",
+      "label": "SoundAttenuation",
+      "file_type": "code",
+      "source_file": "VoiceSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "voicesettings_soundsourcesourceeffectchain",
+      "label": "SoundEffectSourcePresetChain",
+      "file_type": "code",
+      "source_file": "VoiceSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asynctaskdownloadimage_51_asynctaskdownloadimage_51",
+      "label": "AsyncTaskDownloadImage_51",
+      "file_type": "code",
+      "source_file": "AsyncTaskDownloadImage__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asynctaskdownloadimage_51_downloadimagedelegate51",
+      "label": "DownloadImageDelegate51",
+      "file_type": "code",
+      "source_file": "AsyncTaskDownloadImage__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationcustomtransitiongraph_animationcustomtransitiongraph",
+      "label": "AnimationCustomTransitionGraph",
+      "file_type": "code",
+      "source_file": "AnimationCustomTransitionGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationcustomtransitiongraph_animationgraph",
+      "label": "AnimationGraph",
+      "file_type": "code",
+      "source_file": "AnimationCustomTransitionGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpeffectpostandchange_dcpeffectpostandchange",
+      "label": "DCPEffectPostAndChange",
+      "file_type": "code",
+      "source_file": "DCPEffectPostAndChange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpeffectpostandchange_dcpeffectpostbase",
+      "label": "DCPEffectPostBase",
+      "file_type": "code",
+      "source_file": "DCPEffectPostAndChange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massentityspawndatageneratorbase_massentityspawndatageneratorbase",
+      "label": "MassEntitySpawnDataGeneratorBase",
+      "file_type": "code",
+      "source_file": "MassEntitySpawnDataGeneratorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationledgeslopefiltermode_navigationledgeslopefiltermode",
+      "label": "NavigationLedgeSlopeFilterMode",
+      "file_type": "code",
+      "source_file": "NavigationLedgeSlopeFilterMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composurelibrary_composurelibrary",
+      "label": "ComposureLibrary",
+      "file_type": "code",
+      "source_file": "ComposureLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composurelibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "ComposureLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composurelibrary_composureuvmapsettings",
+      "label": "ComposureUVMapSettings",
+      "file_type": "code",
+      "source_file": "ComposureLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composurelibrary_compositingelement",
+      "label": "CompositingElement",
+      "file_type": "code",
+      "source_file": "ComposureLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "versioninfohandler_versioninfohandler",
+      "label": "VersionInfoHandler",
+      "file_type": "code",
+      "source_file": "VersionInfoHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nullaudiocaptureprotocol_nullaudiocaptureprotocol",
+      "label": "NullAudioCaptureProtocol",
+      "file_type": "code",
+      "source_file": "NullAudioCaptureProtocol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nullaudiocaptureprotocol_moviesceneaudiocaptureprotocolbase",
+      "label": "MovieSceneAudioCaptureProtocolBase",
+      "file_type": "code",
+      "source_file": "NullAudioCaptureProtocol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathintmake_rigvmfunction_mathintmake",
+      "target": "rigvmfunction_mathintmake_rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "localplayersavegame_localplayersavegame",
+      "target": "localplayersavegame_savegame",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LocalPlayerSaveGame Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "localplayersavegame_localplayersavegame",
+      "target": "localplayersavegame_playercontroller",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LocalPlayerSaveGame Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathfloatsqrt_rigunit__mathfloatsqrt",
+      "target": "rigunit__mathfloatsqrt_rigvmfunction_mathfloatsqrt",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatSqrt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_boneharmonics_rigunit_boneharmonics",
+      "target": "rigunit_boneharmonics_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_boneharmonics_rigunit_boneharmonics",
+      "target": "rigunit_boneharmonics_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_boneharmonics_rigunit_boneharmonics",
+      "target": "rigunit_boneharmonics_rigvmanimeasingtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_boneharmonics_rigunit_boneharmonics",
+      "target": "rigunit_boneharmonics_eulerrotationorder",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaraemittertrack_moviesceneniagaraemittertrack",
+      "target": "moviesceneniagaraemittertrack_moviescenenameabletrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraEmitterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbxanimsequenceimportdata_fbxanimsequenceimportdata",
+      "target": "fbxanimsequenceimportdata_fbxassetimportdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FbxAnimSequenceImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animphysconstraintsetup_animphysconstraintsetup",
+      "target": "animphysconstraintsetup_animphysangularconstrainttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPhysConstraintSetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animphysconstraintsetup_animphysconstraintsetup",
+      "target": "animphysconstraintsetup_animphyslinearconstrainttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPhysConstraintSetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animphysconstraintsetup_animphysconstraintsetup",
+      "target": "animphysconstraintsetup_animphystwistaxis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPhysConstraintSetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custompoientitypickatom_custompoientitypickatom",
+      "target": "custompoientitypickatom_entitypickatom",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CustomPoiEntityPickAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaravectorparametertrack_moviesceneniagaravectorparametertrack",
+      "target": "moviesceneniagaravectorparametertrack_moviesceneniagaraparametertrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraVectorParameterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveperitem_rigunit_fitchaintocurveperitem",
+      "target": "rigunit_boneharmonics_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveperitem_rigunit_fitchaintocurveperitem",
+      "target": "rigunit_fitchaintocurveperitem_rigvmfourpointbezier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveperitem_rigunit_fitchaintocurveperitem",
+      "target": "rigunit_fitchaintocurveperitem_controlrigcurvealignment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveperitem_rigunit_fitchaintocurveperitem",
+      "target": "rigunit_boneharmonics_rigvmanimeasingtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveperitem_rigunit_fitchaintocurveperitem",
+      "target": "rigunit_boneharmonics_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "voicesettings_voicesettings",
+      "target": "voicesettings_soundattenuation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VoiceSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "voicesettings_voicesettings",
+      "target": "voicesettings_soundsourcesourceeffectchain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VoiceSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asynctaskdownloadimage_51_asynctaskdownloadimage_51",
+      "target": "asynctaskdownloadimage_51_downloadimagedelegate51",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AsyncTaskDownloadImage__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationcustomtransitiongraph_animationcustomtransitiongraph",
+      "target": "animationcustomtransitiongraph_animationgraph",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationCustomTransitionGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpeffectpostandchange_dcpeffectpostandchange",
+      "target": "dcpeffectpostandchange_dcpeffectpostbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPEffectPostAndChange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composurelibrary_composurelibrary",
+      "target": "composurelibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposureLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composurelibrary_composurelibrary",
+      "target": "composurelibrary_composureuvmapsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposureLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composurelibrary_composurelibrary",
+      "target": "composurelibrary_compositingelement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposureLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nullaudiocaptureprotocol_nullaudiocaptureprotocol",
+      "target": "nullaudiocaptureprotocol_moviesceneaudiocaptureprotocolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NullAudioCaptureProtocol Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_boneharmonics_rigunit_boneharmonics",
+      "target": "rigunit_fitchaintocurveperitem_rigunit_fitchaintocurveperitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_BoneHarmonics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaraemittertrack_moviesceneniagaraemittertrack",
+      "target": "moviesceneniagaravectorparametertrack_moviesceneniagaravectorparametertrack",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneNiagaraEmitterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_mutable_units",
+      "label": "Control Rig Mutable High-Level Units",
+      "nodes": [
+        "rigunit_boneharmonics_rigunit_boneharmonics",
+        "rigunit_fitchaintocurveperitem_rigunit_fitchaintocurveperitem"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_BoneHarmonics Objects.md"
+    },
+    {
+      "id": "niagara_parameter_tracks",
+      "label": "Niagara Parameter Animation Tracks",
+      "nodes": [
+        "moviesceneniagaraemittertrack_moviesceneniagaraemittertrack",
+        "moviesceneniagaravectorparametertrack_moviesceneniagaravectorparametertrack"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneNiagaraEmitterTrack Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

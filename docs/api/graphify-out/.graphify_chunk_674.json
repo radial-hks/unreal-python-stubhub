@@ -1,0 +1,1032 @@
+{
+  "nodes": [
+    {
+      "id": "OptimusValueContainerStruct",
+      "type": "struct",
+      "label": "OptimusValueContainerStruct",
+      "description": "Optimus Value Container Struct",
+      "parent": "StructBase"
+    },
+    {
+      "id": "WidgetAnimationResult",
+      "type": "delegate",
+      "label": "WidgetAnimationResult",
+      "description": "Widget Animation Result Delegate Signature",
+      "parent": "MulticastDelegateBase"
+    },
+    {
+      "id": "MoviePipelineShutterTiming",
+      "type": "enum",
+      "label": "MoviePipelineShutterTiming",
+      "description": "EMoviePipelineShutterTiming enumeration for frame timing",
+      "parent": "EnumBase"
+    },
+    {
+      "id": "GameplayEffectCustomExecutionParameters",
+      "type": "struct",
+      "label": "GameplayEffectCustomExecutionParameters",
+      "description": "Struct representing parameters for a custom gameplay effect execution",
+      "parent": "StructBase"
+    },
+    {
+      "id": "RigUnit_MathIntGreater",
+      "type": "class",
+      "label": "RigUnit_MathIntGreater",
+      "description": "Deprecated integer comparison class, renamed to RigVMFunction_MathIntGreater",
+      "parent": "RigVMFunction_MathIntGreater",
+      "deprecated": true
+    },
+    {
+      "id": "PCGGenerationStatus",
+      "type": "enum",
+      "label": "PCGGenerationStatus",
+      "description": "EPCGGenerationStatus enumeration",
+      "parent": "EnumBase"
+    },
+    {
+      "id": "CameraShakePatternScrubParams",
+      "type": "struct",
+      "label": "CameraShakePatternScrubParams",
+      "description": "Parameters for scrubbing a camera shake",
+      "parent": "StructBase"
+    },
+    {
+      "id": "DisplayClusterBlueprintAPIImpl",
+      "type": "class",
+      "label": "DisplayClusterBlueprintAPIImpl",
+      "description": "Blueprint API interface implementation for nDisplay cluster operations",
+      "parent": "Object"
+    },
+    {
+      "id": "AvaViewportQualitySettings",
+      "type": "struct",
+      "label": "AvaViewportQualitySettings",
+      "description": "Motion Design Viewport Quality Settings",
+      "parent": "StructBase"
+    },
+    {
+      "id": "ComponentBeginOverlapSignature",
+      "type": "delegate",
+      "label": "ComponentBeginOverlapSignature",
+      "description": "Delegate for notification of start of overlap with a specific component",
+      "parent": "MulticastDelegateBase"
+    },
+    {
+      "id": "MaterialInterfaceEditorOnlyData",
+      "type": "class",
+      "label": "MaterialInterfaceEditorOnlyData",
+      "description": "Material Interface Editor Only Data",
+      "parent": "Object"
+    },
+    {
+      "id": "FileMediaCapture",
+      "type": "class",
+      "label": "FileMediaCapture",
+      "description": "File Media Capture class",
+      "parent": "MediaCapture"
+    },
+    {
+      "id": "OnObjectImportDoneDynamic",
+      "type": "delegate",
+      "label": "OnObjectImportDoneDynamic",
+      "description": "Utility delegate for automating Interchange imports",
+      "parent": "DelegateBase"
+    },
+    {
+      "id": "AesTerrainEditorCommand_Flatten",
+      "type": "class",
+      "label": "AesTerrainEditorCommand_Flatten",
+      "description": "Terrain editor command for flattening operations",
+      "parent": "AesTerrainEditorCommand"
+    },
+    {
+      "id": "RigVMFunction_MathBoxExpand",
+      "type": "class",
+      "label": "RigVMFunction_MathBoxExpand",
+      "description": "Expands the size of a box by a given amount",
+      "parent": "RigVMFunction_MathBoxBase"
+    },
+    {
+      "id": "WDPFocusBoxParams",
+      "type": "class",
+      "label": "WDPFocusBoxParams",
+      "description": "WDP Focus Box Parameters for camera control",
+      "parent": "ParamsBase"
+    },
+    {
+      "id": "AISense_Touch",
+      "type": "class",
+      "label": "AISense_Touch",
+      "description": "AI Sense for touch detection",
+      "parent": "AISense"
+    },
+    {
+      "id": "UserInputActionType",
+      "type": "enum",
+      "label": "UserInputActionType",
+      "description": "User input state type enumeration for camera control",
+      "parent": "EnumBase"
+    },
+    {
+      "id": "EFDFunctionLibrary",
+      "type": "class",
+      "label": "EFDFunctionLibrary",
+      "description": "Easy File Dialog Function Library",
+      "parent": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "CesiumPrimitiveMetadataBlueprintLibrary",
+      "type": "class",
+      "label": "CesiumPrimitiveMetadataBlueprintLibrary",
+      "description": "Blueprint library for Cesium primitive metadata operations",
+      "parent": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "AnimNode_SequencePlayerBase",
+      "type": "class",
+      "label": "AnimNode_SequencePlayerBase",
+      "description": "Base sequence player node for animation",
+      "parent": "AnimNode_AssetPlayerBase"
+    },
+    {
+      "id": "AutomationEditorTask",
+      "type": "class",
+      "label": "AutomationEditorTask",
+      "description": "Automation Editor Task class",
+      "parent": "Object"
+    },
+    {
+      "id": "InstancedPropertyBag",
+      "type": "type",
+      "label": "InstancedPropertyBag",
+      "description": "Property bag type for value containers"
+    },
+    {
+      "id": "MinimalViewInfo",
+      "type": "type",
+      "label": "MinimalViewInfo",
+      "description": "Camera view information structure"
+    },
+    {
+      "id": "Box",
+      "type": "type",
+      "label": "Box",
+      "description": "3D bounding box structure"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector",
+      "description": "3D vector structure"
+    },
+    {
+      "id": "HitResult",
+      "type": "type",
+      "label": "HitResult",
+      "description": "Hit result structure for collision detection"
+    },
+    {
+      "id": "PrimitiveComponent",
+      "type": "type",
+      "label": "PrimitiveComponent",
+      "description": "Base primitive component class"
+    },
+    {
+      "id": "Actor",
+      "type": "type",
+      "label": "Actor",
+      "description": "Base actor class"
+    },
+    {
+      "id": "DeformerGraph",
+      "type": "plugin",
+      "label": "DeformerGraph",
+      "description": "Plugin for deformer graph functionality"
+    },
+    {
+      "id": "UMG",
+      "type": "module",
+      "label": "UMG",
+      "description": "Unreal Motion Graphics UI module"
+    },
+    {
+      "id": "MovieRenderPipeline",
+      "type": "plugin",
+      "label": "MovieRenderPipeline",
+      "description": "Plugin for movie rendering pipeline"
+    },
+    {
+      "id": "GameplayAbilities",
+      "type": "plugin",
+      "label": "GameplayAbilities",
+      "description": "Plugin for gameplay ability system"
+    },
+    {
+      "id": "RigVM",
+      "type": "plugin",
+      "label": "RigVM",
+      "description": "Plugin for rig virtual machine"
+    },
+    {
+      "id": "PCG",
+      "type": "plugin",
+      "label": "PCG",
+      "description": "Plugin for procedural content generation"
+    },
+    {
+      "id": "Engine",
+      "type": "module",
+      "label": "Engine",
+      "description": "Core engine module"
+    },
+    {
+      "id": "nDisplay",
+      "type": "plugin",
+      "label": "nDisplay",
+      "description": "Plugin for multi-display rendering"
+    },
+    {
+      "id": "Avalanche",
+      "type": "plugin",
+      "label": "Avalanche",
+      "description": "Plugin for avalanche motion design"
+    },
+    {
+      "id": "MediaIOFramework",
+      "type": "plugin",
+      "label": "MediaIOFramework",
+      "description": "Plugin for media input/output framework"
+    },
+    {
+      "id": "InterchangeEngine",
+      "type": "module",
+      "label": "InterchangeEngine",
+      "description": "Module for Interchange import/export engine"
+    },
+    {
+      "id": "AesWorld",
+      "type": "plugin",
+      "label": "AesWorld",
+      "description": "Plugin for AES world system"
+    },
+    {
+      "id": "WdpRuntimeAPI",
+      "type": "plugin",
+      "label": "WdpRuntimeAPI",
+      "description": "Plugin for WDP runtime API"
+    },
+    {
+      "id": "AIModule",
+      "type": "module",
+      "label": "AIModule",
+      "description": "AI system module"
+    },
+    {
+      "id": "WdpCamera",
+      "type": "plugin",
+      "label": "WdpCamera",
+      "description": "Plugin for WDP camera system"
+    },
+    {
+      "id": "CesiumForUnreal",
+      "type": "plugin",
+      "label": "CesiumForUnreal",
+      "description": "Plugin for Cesium geospatial support"
+    },
+    {
+      "id": "FunctionalTesting",
+      "type": "module",
+      "label": "FunctionalTesting",
+      "description": "Module for functional testing"
+    },
+    {
+      "id": "FRAME_OPEN",
+      "type": "enum_value",
+      "label": "FRAME_OPEN",
+      "value": 0
+    },
+    {
+      "id": "FRAME_CENTER",
+      "type": "enum_value",
+      "label": "FRAME_CENTER",
+      "value": 1
+    },
+    {
+      "id": "FRAME_CLOSE",
+      "type": "enum_value",
+      "label": "FRAME_CLOSE",
+      "value": 2
+    },
+    {
+      "id": "COMPLETED",
+      "type": "enum_value",
+      "label": "COMPLETED",
+      "value": 0
+    },
+    {
+      "id": "ABORTED",
+      "type": "enum_value",
+      "label": "ABORTED",
+      "value": 1
+    },
+    {
+      "id": "UIAT_POINTER",
+      "type": "enum_value",
+      "label": "UIAT_POINTER",
+      "value": 0,
+      "description": "Click/left click/touch screen"
+    },
+    {
+      "id": "UIAT_ROTATE",
+      "type": "enum_value",
+      "label": "UIAT_ROTATE",
+      "value": 1,
+      "description": "Rotation operation"
+    },
+    {
+      "id": "UIAT_ZOOM",
+      "type": "enum_value",
+      "label": "UIAT_ZOOM",
+      "value": 2,
+      "description": "Zoom operation"
+    },
+    {
+      "id": "UIAT_KEY_MOVE",
+      "type": "enum_value",
+      "label": "UIAT_KEY_MOVE",
+      "value": 3,
+      "description": "Keyboard movement operation"
+    },
+    {
+      "id": "UIAT_ANY_KEY",
+      "type": "enum_value",
+      "label": "UIAT_ANY_KEY",
+      "value": 4,
+      "description": "Any key input"
+    },
+    {
+      "id": "send_cluster_event_json_to",
+      "type": "method",
+      "label": "send_cluster_event_json_to",
+      "description": "Send cluster event JSON to specific address",
+      "deprecated": true
+    },
+    {
+      "id": "send_cluster_event_binary_to",
+      "type": "method",
+      "label": "send_cluster_event_binary_to",
+      "description": "Send cluster event binary to specific address",
+      "deprecated": true
+    },
+    {
+      "id": "report_touch_event",
+      "type": "method",
+      "label": "report_touch_event",
+      "description": "Report touch event for AI sense"
+    },
+    {
+      "id": "get_property_texture_indices",
+      "type": "method",
+      "label": "get_property_texture_indices",
+      "description": "Get property texture indices from primitive metadata"
+    },
+    {
+      "id": "get_property_attribute_indices",
+      "type": "method",
+      "label": "get_property_attribute_indices",
+      "description": "Get property attribute indices from primitive metadata"
+    },
+    {
+      "id": "get_primitive_metadata",
+      "type": "method",
+      "label": "get_primitive_metadata",
+      "description": "Get primitive metadata from component"
+    },
+    {
+      "id": "save_file_dialog",
+      "type": "method",
+      "label": "save_file_dialog",
+      "description": "Open save file dialog"
+    },
+    {
+      "id": "open_folder_dialog",
+      "type": "method",
+      "label": "open_folder_dialog",
+      "description": "Open folder selection dialog"
+    },
+    {
+      "id": "open_file_dialog",
+      "type": "method",
+      "label": "open_file_dialog",
+      "description": "Open file selection dialog"
+    },
+    {
+      "id": "is_valid_task",
+      "type": "method",
+      "label": "is_valid_task",
+      "description": "Query if a task was setup"
+    },
+    {
+      "id": "is_task_done",
+      "type": "method",
+      "label": "is_task_done",
+      "description": "Query if the Editor task is done"
+    }
+  ],
+  "edges": [
+    {
+      "source": "OptimusValueContainerStruct",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OptimusValueContainerStruct",
+      "target": "DeformerGraph",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "OptimusValueContainerStruct",
+      "target": "InstancedPropertyBag",
+      "type": "has_property",
+      "property_name": "value"
+    },
+    {
+      "source": "WidgetAnimationResult",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WidgetAnimationResult",
+      "target": "UMG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "MoviePipelineShutterTiming",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MoviePipelineShutterTiming",
+      "target": "MovieRenderPipeline",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "FRAME_OPEN",
+      "target": "MoviePipelineShutterTiming",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "FRAME_CENTER",
+      "target": "MoviePipelineShutterTiming",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "FRAME_CLOSE",
+      "target": "MoviePipelineShutterTiming",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "GameplayEffectCustomExecutionParameters",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GameplayEffectCustomExecutionParameters",
+      "target": "GameplayAbilities",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "RigUnit_MathIntGreater",
+      "target": "RigVMFunction_MathIntGreater",
+      "type": "deprecated_for"
+    },
+    {
+      "source": "RigUnit_MathIntGreater",
+      "target": "RigVM",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "PCGGenerationStatus",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGGenerationStatus",
+      "target": "PCG",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "COMPLETED",
+      "target": "PCGGenerationStatus",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "ABORTED",
+      "target": "PCGGenerationStatus",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "CameraShakePatternScrubParams",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CameraShakePatternScrubParams",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "CameraShakePatternScrubParams",
+      "target": "MinimalViewInfo",
+      "type": "has_property",
+      "property_name": "pov"
+    },
+    {
+      "source": "DisplayClusterBlueprintAPIImpl",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterBlueprintAPIImpl",
+      "target": "nDisplay",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "DisplayClusterBlueprintAPIImpl",
+      "target": "send_cluster_event_json_to",
+      "type": "has_method"
+    },
+    {
+      "source": "DisplayClusterBlueprintAPIImpl",
+      "target": "send_cluster_event_binary_to",
+      "type": "has_method"
+    },
+    {
+      "source": "AvaViewportQualitySettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaViewportQualitySettings",
+      "target": "Avalanche",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "ComponentBeginOverlapSignature",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ComponentBeginOverlapSignature",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "ComponentBeginOverlapSignature",
+      "target": "PrimitiveComponent",
+      "type": "uses_type"
+    },
+    {
+      "source": "ComponentBeginOverlapSignature",
+      "target": "Actor",
+      "type": "uses_type"
+    },
+    {
+      "source": "ComponentBeginOverlapSignature",
+      "target": "HitResult",
+      "type": "uses_type"
+    },
+    {
+      "source": "MaterialInterfaceEditorOnlyData",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialInterfaceEditorOnlyData",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "FileMediaCapture",
+      "target": "MediaCapture",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FileMediaCapture",
+      "target": "MediaIOFramework",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "OnObjectImportDoneDynamic",
+      "target": "DelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnObjectImportDoneDynamic",
+      "target": "InterchangeEngine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AesTerrainEditorCommand_Flatten",
+      "target": "AesTerrainEditorCommand",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesTerrainEditorCommand_Flatten",
+      "target": "AesWorld",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathBoxExpand",
+      "target": "RigVMFunction_MathBoxBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathBoxExpand",
+      "target": "RigVM",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathBoxExpand",
+      "target": "Box",
+      "type": "has_property",
+      "property_name": "box"
+    },
+    {
+      "source": "RigVMFunction_MathBoxExpand",
+      "target": "Vector",
+      "type": "has_property",
+      "property_name": "amount"
+    },
+    {
+      "source": "WDPFocusBoxParams",
+      "target": "ParamsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WDPFocusBoxParams",
+      "target": "WdpRuntimeAPI",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "WDPFocusBoxParams",
+      "target": "Box",
+      "type": "has_property",
+      "property_name": "box"
+    },
+    {
+      "source": "AISense_Touch",
+      "target": "AISense",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AISense_Touch",
+      "target": "AIModule",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AISense_Touch",
+      "target": "report_touch_event",
+      "type": "has_method"
+    },
+    {
+      "source": "UserInputActionType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "UserInputActionType",
+      "target": "WdpCamera",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "UIAT_POINTER",
+      "target": "UserInputActionType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "UIAT_ROTATE",
+      "target": "UserInputActionType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "UIAT_ZOOM",
+      "target": "UserInputActionType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "UIAT_KEY_MOVE",
+      "target": "UserInputActionType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "UIAT_ANY_KEY",
+      "target": "UserInputActionType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "EFDFunctionLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EFDFunctionLibrary",
+      "target": "AesWorld",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "EFDFunctionLibrary",
+      "target": "save_file_dialog",
+      "type": "has_method"
+    },
+    {
+      "source": "EFDFunctionLibrary",
+      "target": "open_folder_dialog",
+      "type": "has_method"
+    },
+    {
+      "source": "EFDFunctionLibrary",
+      "target": "open_file_dialog",
+      "type": "has_method"
+    },
+    {
+      "source": "CesiumPrimitiveMetadataBlueprintLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CesiumPrimitiveMetadataBlueprintLibrary",
+      "target": "CesiumForUnreal",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "source": "CesiumPrimitiveMetadataBlueprintLibrary",
+      "target": "get_property_texture_indices",
+      "type": "has_method"
+    },
+    {
+      "source": "CesiumPrimitiveMetadataBlueprintLibrary",
+      "target": "get_property_attribute_indices",
+      "type": "has_method"
+    },
+    {
+      "source": "CesiumPrimitiveMetadataBlueprintLibrary",
+      "target": "get_primitive_metadata",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimNode_SequencePlayerBase",
+      "target": "AnimNode_AssetPlayerBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_SequencePlayerBase",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AutomationEditorTask",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AutomationEditorTask",
+      "target": "FunctionalTesting",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AutomationEditorTask",
+      "target": "is_valid_task",
+      "type": "has_method"
+    },
+    {
+      "source": "AutomationEditorTask",
+      "target": "is_task_done",
+      "type": "has_method"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_1",
+      "type": "camera_shake_system",
+      "nodes": [
+        "CameraShakePatternScrubParams",
+        "MinimalViewInfo",
+        "Engine"
+      ],
+      "description": "Camera shake system uses scrub parameters to modify camera POV"
+    },
+    {
+      "id": "he_2",
+      "type": "collision_detection",
+      "nodes": [
+        "ComponentBeginOverlapSignature",
+        "PrimitiveComponent",
+        "Actor",
+        "HitResult"
+      ],
+      "description": "Collision detection system involving component overlap with actors and hit results"
+    },
+    {
+      "id": "he_3",
+      "type": "ai_perception",
+      "nodes": [
+        "AISense_Touch",
+        "report_touch_event",
+        "Actor",
+        "Vector",
+        "AIModule"
+      ],
+      "description": "AI touch perception system for detecting actor interactions"
+    },
+    {
+      "id": "he_4",
+      "type": "cluster_events",
+      "nodes": [
+        "DisplayClusterBlueprintAPIImpl",
+        "send_cluster_event_json_to",
+        "send_cluster_event_binary_to",
+        "nDisplay"
+      ],
+      "description": "Multi-display cluster event communication system with JSON and binary events"
+    },
+    {
+      "id": "he_5",
+      "type": "cesium_metadata",
+      "nodes": [
+        "CesiumPrimitiveMetadataBlueprintLibrary",
+        "get_property_texture_indices",
+        "get_property_attribute_indices",
+        "get_primitive_metadata",
+        "PrimitiveComponent",
+        "CesiumForUnreal"
+      ],
+      "description": "Cesium geospatial metadata system for accessing property textures and attributes"
+    },
+    {
+      "id": "he_6",
+      "type": "file_dialog_system",
+      "nodes": [
+        "EFDFunctionLibrary",
+        "save_file_dialog",
+        "open_folder_dialog",
+        "open_file_dialog",
+        "AesWorld"
+      ],
+      "description": "Easy file dialog system for file and folder selection operations"
+    },
+    {
+      "id": "he_7",
+      "type": "math_box_operations",
+      "nodes": [
+        "RigVMFunction_MathBoxExpand",
+        "Box",
+        "Vector",
+        "RigVM"
+      ],
+      "description": "RigVM mathematical box operations for geometric transformations"
+    },
+    {
+      "id": "he_8",
+      "type": "user_input_system",
+      "nodes": [
+        "UserInputActionType",
+        "UIAT_POINTER",
+        "UIAT_ROTATE",
+        "UIAT_ZOOM",
+        "UIAT_KEY_MOVE",
+        "UIAT_ANY_KEY",
+        "WdpCamera"
+      ],
+      "description": "User input action system for camera control with pointer, rotate, zoom, and keyboard operations"
+    },
+    {
+      "id": "he_9",
+      "type": "animation_sequence_player",
+      "nodes": [
+        "AnimNode_SequencePlayerBase",
+        "Engine"
+      ],
+      "description": "Animation sequence player system for asset playback"
+    },
+    {
+      "id": "he_10",
+      "type": "pcg_generation",
+      "nodes": [
+        "PCGGenerationStatus",
+        "COMPLETED",
+        "ABORTED",
+        "PCG"
+      ],
+      "description": "Procedural content generation status tracking system"
+    },
+    {
+      "id": "he_11",
+      "type": "movie_render_timing",
+      "nodes": [
+        "MoviePipelineShutterTiming",
+        "FRAME_OPEN",
+        "FRAME_CENTER",
+        "FRAME_CLOSE",
+        "MovieRenderPipeline"
+      ],
+      "description": "Movie rendering pipeline shutter timing system for frame capture"
+    },
+    {
+      "id": "he_12",
+      "type": "viewport_quality_control",
+      "nodes": [
+        "AvaViewportQualitySettings",
+        "Avalanche"
+      ],
+      "description": "Motion design viewport quality control system"
+    },
+    {
+      "id": "he_13",
+      "type": "media_capture",
+      "nodes": [
+        "FileMediaCapture",
+        "MediaCapture",
+        "MediaIOFramework"
+      ],
+      "description": "Media capture system for file-based media recording"
+    },
+    {
+      "id": "he_14",
+      "type": "wdp_camera_focus",
+      "nodes": [
+        "WDPFocusBoxParams",
+        "Box",
+        "WdpRuntimeAPI"
+      ],
+      "description": "WDP camera focus system using bounding box parameters"
+    },
+    {
+      "id": "he_15",
+      "type": "automation_testing",
+      "nodes": [
+        "AutomationEditorTask",
+        "is_valid_task",
+        "is_task_done",
+        "FunctionalTesting"
+      ],
+      "description": "Automation editor task system for functional testing"
+    },
+    {
+      "id": "he_16",
+      "type": "gameplay_effect_execution",
+      "nodes": [
+        "GameplayEffectCustomExecutionParameters",
+        "GameplayAbilities"
+      ],
+      "description": "Gameplay ability system custom effect execution parameters"
+    },
+    {
+      "id": "he_17",
+      "type": "interchange_automation",
+      "nodes": [
+        "OnObjectImportDoneDynamic",
+        "InterchangeEngine"
+      ],
+      "description": "Interchange import automation system for object import callbacks"
+    },
+    {
+      "id": "he_18",
+      "type": "terrain_editing",
+      "nodes": [
+        "AesTerrainEditorCommand_Flatten",
+        "AesWorld"
+      ],
+      "description": "Terrain editing command system for flatten operations"
+    },
+    {
+      "id": "he_19",
+      "type": "widget_animation",
+      "nodes": [
+        "WidgetAnimationResult",
+        "UMG"
+      ],
+      "description": "Widget animation callback system for UMG"
+    },
+    {
+      "id": "he_20",
+      "type": "deformer_graph_values",
+      "nodes": [
+        "OptimusValueContainerStruct",
+        "InstancedPropertyBag",
+        "DeformerGraph"
+      ],
+      "description": "Deformer graph value container system using property bags"
+    },
+    {
+      "id": "he_21",
+      "type": "deprecated_rigvm_unit",
+      "nodes": [
+        "RigUnit_MathIntGreater",
+        "RigVMFunction_MathIntGreater",
+        "RigVM"
+      ],
+      "description": "Deprecated RigUnit class renamed to follow RigVMFunction naming convention"
+    }
+  ]
+}

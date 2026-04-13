@@ -1,0 +1,611 @@
+{
+  "nodes": [
+    {
+      "id": "gameplaycuenotify_looping_gameplaycuenotify_looping",
+      "label": "GameplayCueNotify_Looping",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctionmateriallayerblend_materialfunctionmateriallayerblend",
+      "label": "MaterialFunctionMaterialLayerBlend",
+      "file_type": "code",
+      "source_file": "MaterialFunctionMaterialLayerBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpfocuspositionparams_wdpfocuspositionparams",
+      "label": "WDPFocusPositionParams",
+      "file_type": "code",
+      "source_file": "WDPFocusPositionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createcustompoiparams_batch_createcustompoiparams_batch",
+      "label": "CreateCustomPoiParams_Batch",
+      "file_type": "code",
+      "source_file": "CreateCustomPoiParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworldbuilderlayer_aesworldbuilderlayer",
+      "label": "AesWorldBuilderLayer",
+      "file_type": "code",
+      "source_file": "AesWorldBuilderLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "illegalplugindependenciesvalidator_illegalplugindependenciesvalidator",
+      "label": "IllegalPluginDependenciesValidator",
+      "file_type": "code",
+      "source_file": "IllegalPluginDependenciesValidator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintadd_rigunit_mathintadd",
+      "label": "RigUnit_MathIntAdd",
+      "file_type": "code",
+      "source_file": "RigUnit__MathIntAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapeinfo_landscapeinfo",
+      "label": "LandscapeInfo",
+      "file_type": "code",
+      "source_file": "LandscapeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_posegetdelta_rigunit_posegetdelta",
+      "label": "RigUnit_PoseGetDelta",
+      "file_type": "code",
+      "source_file": "RigUnit_PoseGetDelta Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_slot_animnode_slot",
+      "label": "AnimNode_Slot",
+      "file_type": "code",
+      "source_file": "AnimNode__Slot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondynamicparameter_materialexpressiondynamicparameter",
+      "label": "MaterialExpressionDynamicParameter",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDynamicParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintlessequal_rigvmfunction_mathintlessequal",
+      "label": "RigVMFunction_MathIntLessEqual",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionnamesearcharray_rigunit_collectionnamesearcharray",
+      "label": "RigUnit_CollectionNameSearchArray",
+      "file_type": "code",
+      "source_file": "RigUnit__CollectionNameSearchArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "personapreviewscenedescription_personapreviewscenedescription",
+      "label": "PersonaPreviewSceneDescription",
+      "file_type": "code",
+      "source_file": "PersonaPreviewSceneDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleexponential_rigvmfunction_mathdoubleexponential",
+      "label": "RigVMFunction_MathDoubleExponential",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onuserclosedadvertisement_onuserclosedadvertisement",
+      "label": "OnUserClosedAdvertisement",
+      "file_type": "code",
+      "source_file": "OnUserClosedAdvertisement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxconedynamicmesh_avatoolboxconedynamicmesh",
+      "label": "AvaToolboxConeDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaToolboxConeDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthterraformingprefabalgorithm_earthterraformingprefabalgorithm",
+      "label": "EarthTerraformingPrefabAlgorithm",
+      "file_type": "code",
+      "source_file": "EarthTerraformingPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "baseplateseedidinfo_baseplateseedidinfo",
+      "label": "BaseplateSeedIdInfo",
+      "file_type": "code",
+      "source_file": "BaseplateSeedIdInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdensityremapsettings_pcgdensityremapsettings",
+      "label": "PCGDensityRemapSettings",
+      "file_type": "code",
+      "source_file": "PCGDensityRemapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polylinesgraphicsactor_polylinesgraphicsactor",
+      "label": "PolylinesGraphicsActor",
+      "file_type": "code",
+      "source_file": "PolylinesGraphicsActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleatan2_rigvmfunction_mathdoubleatan2",
+      "label": "RigVMFunction_MathDoubleAtan2",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleAtan2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintadd_rigvmfunction_mathintadd",
+      "label": "RigVMFunction_MathIntAdd",
+      "file_type": "code",
+      "source_file": "RigUnit__MathIntAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapeconedynamicmesh_avashapeconedynamicmesh",
+      "label": "AvaShapeConeDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaToolboxConeDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_spawncondition_gameplaycuenotify_spawncondition",
+      "label": "GameplayCueNotify_SpawnCondition",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_placementinfo_gameplaycuenotify_placementinfo",
+      "label": "GameplayCueNotify_PlacementInfo",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_bursteffects_gameplaycuenotify_bursteffects",
+      "label": "GameplayCueNotify_BurstEffects",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_loopingeffects_gameplaycuenotify_loopingeffects",
+      "label": "GameplayCueNotify_LoopingEffects",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_spawnresult_gameplaycuenotify_spawnresult",
+      "label": "GameplayCueNotify_SpawnResult",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycueparameters_gameplaycueparameters",
+      "label": "GameplayCueParameters",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigpose_rigpose",
+      "label": "RigPose",
+      "file_type": "code",
+      "source_file": "RigUnit_PoseGetDelta Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkeycollection_rigelementkeycollection",
+      "label": "RigElementKeyCollection",
+      "file_type": "code",
+      "source_file": "RigUnit_PoseGetDelta Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polylinegraphicsdata_polylinegraphicsdata",
+      "label": "PolylineGraphicsData",
+      "file_type": "code",
+      "source_file": "PolylinesGraphicsActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createcustompoisparams_createcustompoisparams",
+      "label": "CreateCustomPoisParams",
+      "file_type": "code",
+      "source_file": "CreateCustomPoiParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase_rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleunaryop_rigvmfunction_mathdoubleunaryop",
+      "label": "RigVMFunction_MathDoubleUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebinaryop_rigvmfunction_mathdoublebinaryop",
+      "label": "RigVMFunction_MathDoubleBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleAtan2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathintadd_rigunit_mathintadd",
+      "target": "rigvmfunction_mathintadd_rigvmfunction_mathintadd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatoolboxconedynamicmesh_avatoolboxconedynamicmesh",
+      "target": "avashapeconedynamicmesh_avashapeconedynamicmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaToolboxConeDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintlessequal_rigvmfunction_mathintlessequal",
+      "target": "rigvmfunction_mathintbase_rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleexponential_rigvmfunction_mathdoubleexponential",
+      "target": "rigvmfunction_mathdoubleunaryop_rigvmfunction_mathdoubleunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleatan2_rigvmfunction_mathdoubleatan2",
+      "target": "rigvmfunction_mathdoublebinaryop_rigvmfunction_mathdoublebinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleAtan2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_looping_gameplaycuenotify_looping",
+      "target": "gameplaycuenotify_spawncondition_gameplaycuenotify_spawncondition",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_looping_gameplaycuenotify_looping",
+      "target": "gameplaycuenotify_placementinfo_gameplaycuenotify_placementinfo",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_looping_gameplaycuenotify_looping",
+      "target": "gameplaycuenotify_bursteffects_gameplaycuenotify_bursteffects",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_looping_gameplaycuenotify_looping",
+      "target": "gameplaycuenotify_loopingeffects_gameplaycuenotify_loopingeffects",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_looping_gameplaycuenotify_looping",
+      "target": "gameplaycuenotify_spawnresult_gameplaycuenotify_spawnresult",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_looping_gameplaycuenotify_looping",
+      "target": "gameplaycueparameters_gameplaycueparameters",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCueNotify__Looping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetdelta_rigunit_posegetdelta",
+      "target": "rigpose_rigpose",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetDelta Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetdelta_rigunit_posegetdelta",
+      "target": "rigelementkeycollection_rigelementkeycollection",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetDelta Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "polylinesgraphicsactor_polylinesgraphicsactor",
+      "target": "polylinegraphicsdata_polylinegraphicsdata",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PolylinesGraphicsActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createcustompoiparams_batch_createcustompoiparams_batch",
+      "target": "createcustompoisparams_createcustompoisparams",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateCustomPoiParams__Batch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintlessequal_rigvmfunction_mathintlessequal",
+      "target": "rigvmfunction_mathdoubleatan2_rigvmfunction_mathdoubleatan2",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleexponential_rigvmfunction_mathdoubleexponential",
+      "target": "rigvmfunction_mathdoubleatan2_rigvmfunction_mathdoubleatan2",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathDoubleExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintlessequal_rigvmfunction_mathintlessequal",
+      "target": "rigvmfunction_mathdoubleexponential_rigvmfunction_mathdoubleexponential",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions_family",
+      "label": "RigVM Math Functions",
+      "nodes": [
+        "rigvmfunction_mathintlessequal_rigvmfunction_mathintlessequal",
+        "rigvmfunction_mathdoubleexponential_rigvmfunction_mathdoubleexponential",
+        "rigvmfunction_mathdoubleatan2_rigvmfunction_mathdoubleatan2",
+        "rigvmfunction_mathintadd_rigvmfunction_mathintadd"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathIntLessEqual Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

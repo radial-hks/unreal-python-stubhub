@@ -1,0 +1,1206 @@
+{
+  "nodes": [
+    {
+      "id": "WdpMaterialInstance",
+      "type": "Class",
+      "properties": {
+        "name": "WdpMaterialInstance",
+        "extends": "WdpStandardEntity",
+        "module": "WdpMaterial",
+        "plugin": "WdpApplication",
+        "file": "WdpMaterialInstance.h",
+        "description": "Wdp Material Instance"
+      }
+    },
+    {
+      "id": "TakeRecorderMicrophoneAudioSource",
+      "type": "Class",
+      "properties": {
+        "name": "TakeRecorderMicrophoneAudioSource",
+        "extends": "TakeRecorderMicrophoneAudioSourceSettings",
+        "module": "TakeRecorderSources",
+        "plugin": "Takes",
+        "file": "TakeRecorderMicrophoneAudioSource.h",
+        "description": "A recording source that records microphone audio"
+      }
+    },
+    {
+      "id": "MovieSceneSubSectionFlags",
+      "type": "Enum",
+      "properties": {
+        "name": "MovieSceneSubSectionFlags",
+        "extends": "EnumBase",
+        "module": "MovieScene",
+        "file": "MovieSceneSectionParameters.h",
+        "description": "Flag structure that can be applied to any sub-section allowing control over various behaviors for the nested sub-sequence"
+      }
+    },
+    {
+      "id": "Visible2DInterface",
+      "type": "Interface",
+      "properties": {
+        "name": "Visible2DInterface",
+        "extends": "Interface",
+        "module": "CoveringAPIEntity",
+        "plugin": "CoveringAPI",
+        "file": "Visible2DInterface.h",
+        "description": "Visible 2DInterface"
+      }
+    },
+    {
+      "id": "RigUnit_MathDoubleIsNearlyZero",
+      "type": "Class",
+      "properties": {
+        "name": "RigUnit_MathDoubleIsNearlyZero",
+        "extends": "RigVMFunction_MathDoubleIsNearlyZero",
+        "deprecated": true,
+        "deprecated_message": "'RigUnit_MathDoubleIsNearlyZero' was renamed to 'RigVMFunction_MathDoubleIsNearlyZero'"
+      }
+    },
+    {
+      "id": "MoviePipelineCommandLineEncoder",
+      "type": "Class",
+      "properties": {
+        "name": "MoviePipelineCommandLineEncoder",
+        "extends": "MoviePipelineSetting",
+        "module": "MovieRenderPipelineCore",
+        "plugin": "MovieRenderPipeline",
+        "file": "MoviePipelineCommandLineEncoder.h",
+        "description": "Movie Pipeline Command Line Encoder"
+      }
+    },
+    {
+      "id": "PCGPin",
+      "type": "Class",
+      "properties": {
+        "name": "PCGPin",
+        "extends": "Object",
+        "module": "PCG",
+        "plugin": "PCG",
+        "file": "PCGPin.h",
+        "description": "PCGPin"
+      }
+    },
+    {
+      "id": "CurveBlendOption",
+      "type": "Enum",
+      "properties": {
+        "name": "CurveBlendOption",
+        "extends": "EnumBase",
+        "module": "Engine",
+        "file": "AnimTypes.h",
+        "description": "ECurve Blend Option"
+      }
+    },
+    {
+      "id": "AnimGraphNode_MotionMatchingInteraction",
+      "type": "Class",
+      "properties": {
+        "name": "AnimGraphNode_MotionMatchingInteraction",
+        "extends": "AnimGraphNode_BlendStack_Base",
+        "module": "PoseSearchEditor",
+        "plugin": "PoseSearch",
+        "file": "AnimGraphNode_MotionMatchingInteraction.h",
+        "description": "Anim Graph Node Motion Matching Interaction"
+      }
+    },
+    {
+      "id": "AesEmbankmentEditorCommandParams_Create",
+      "type": "Class",
+      "properties": {
+        "name": "AesEmbankmentEditorCommandParams_Create",
+        "extends": "AesEditorSimpleCommandParams",
+        "module": "AesEditorMode",
+        "plugin": "AesWorld",
+        "file": "AesEmbankmentEditorAction_Create.h",
+        "description": "Aes Embankment Editor Command Params Create"
+      }
+    },
+    {
+      "id": "APIEventSwitch",
+      "type": "Struct",
+      "properties": {
+        "name": "APIEventSwitch",
+        "extends": "StructBase",
+        "module": "DataModelAPI",
+        "plugin": "WdpRuntimeAPI",
+        "file": "WdpAPISystem.h",
+        "description": "APIEvent Switch"
+      }
+    },
+    {
+      "id": "WdpVegetationGridType",
+      "type": "Enum",
+      "properties": {
+        "name": "WdpVegetationGridType",
+        "extends": "EnumBase",
+        "module": "WdpModelerEntity",
+        "plugin": "AesRuntimeModeler",
+        "file": "VegetationAtom.h",
+        "description": "EWdp Vegetation Grid Type"
+      }
+    },
+    {
+      "id": "WDPCameraBaseTransformParams",
+      "type": "Class",
+      "properties": {
+        "name": "WDPCameraBaseTransformParams",
+        "extends": "ParamsBase",
+        "module": "ApplicationAPI",
+        "plugin": "WdpRuntimeAPI",
+        "file": "WdpCameraControlAPIParamsDefine.h",
+        "description": "WDPCamera Base Transform Params"
+      }
+    },
+    {
+      "id": "ScrollWhenFocusChanges",
+      "type": "Enum",
+      "properties": {
+        "name": "ScrollWhenFocusChanges",
+        "extends": "EnumBase",
+        "module": "Slate",
+        "file": "SScrollBox.h",
+        "description": "Set behavior when user focus changes inside this scroll box"
+      }
+    },
+    {
+      "id": "AvaPlaneCutModifier",
+      "type": "Class",
+      "properties": {
+        "name": "AvaPlaneCutModifier",
+        "extends": "AvaGeometryBaseModifier",
+        "module": "AvalancheModifiers",
+        "plugin": "Avalanche",
+        "file": "AvaPlaneCutModifier.h",
+        "description": "This modifier cuts a shape based on a 2D plane"
+      }
+    },
+    {
+      "id": "SkyCreatorMoonLightSettings_51",
+      "type": "Struct",
+      "properties": {
+        "name": "SkyCreatorMoonLightSettings_51",
+        "extends": "StructBase",
+        "module": "SkyCreatorPlugin",
+        "plugin": "SkyCreatorPlugin",
+        "file": "SkyCreatorWeatherSettings_51.h",
+        "description": "月光设置 (Moon Light Settings)"
+      }
+    },
+    {
+      "id": "AsyncActionLoadPrimaryAssetBase",
+      "type": "Class",
+      "properties": {
+        "name": "AsyncActionLoadPrimaryAssetBase",
+        "extends": "BlueprintAsyncActionBase",
+        "module": "Engine",
+        "file": "AsyncActionLoadPrimaryAsset.h",
+        "description": "Base class of all asset manager load calls"
+      }
+    },
+    {
+      "id": "MovieSceneDoubleVectorTrackExtensions",
+      "type": "Class",
+      "properties": {
+        "name": "MovieSceneDoubleVectorTrackExtensions",
+        "extends": "BlueprintFunctionLibrary",
+        "module": "SequencerScripting",
+        "plugin": "SequencerScripting",
+        "file": "MovieSceneVectorTrackExtensions.h",
+        "description": "Function library containing methods that should be hoisted onto UMovieSceneDoubleVectorTrack for scripting"
+      }
+    },
+    {
+      "id": "GeometryScriptTriangleList",
+      "type": "Struct",
+      "properties": {
+        "name": "GeometryScriptTriangleList",
+        "extends": "StructBase",
+        "module": "GeometryScriptingCore",
+        "plugin": "GeometryScripting",
+        "file": "GeometryScriptTypes.h",
+        "description": "Geometry Script Triangle List"
+      }
+    },
+    {
+      "id": "MaterialSpriteElement",
+      "type": "Struct",
+      "properties": {
+        "name": "MaterialSpriteElement",
+        "extends": "StructBase",
+        "module": "Engine",
+        "file": "MaterialBillboardComponent.h",
+        "description": "Material Sprite Element"
+      }
+    },
+    {
+      "id": "PCGSplineSamplingDimension",
+      "type": "Enum",
+      "properties": {
+        "name": "PCGSplineSamplingDimension",
+        "extends": "EnumBase",
+        "module": "PCG",
+        "plugin": "PCG",
+        "file": "PCGSplineSampler.h",
+        "description": "EPCGSpline Sampling Dimension"
+      }
+    },
+    {
+      "id": "MovieGraphEvaluatedConfig",
+      "type": "Class",
+      "properties": {
+        "name": "MovieGraphEvaluatedConfig",
+        "extends": "Object",
+        "module": "MovieRenderPipelineCore",
+        "plugin": "MovieRenderPipeline",
+        "file": "MovieGraphConfig.h",
+        "description": "An evaluated config for the current frame"
+      }
+    },
+    {
+      "id": "WdpStandardEntity",
+      "type": "Class",
+      "properties": {
+        "name": "WdpStandardEntity"
+      }
+    },
+    {
+      "id": "TakeRecorderMicrophoneAudioSourceSettings",
+      "type": "Class",
+      "properties": {
+        "name": "TakeRecorderMicrophoneAudioSourceSettings"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "Class",
+      "properties": {
+        "name": "EnumBase"
+      }
+    },
+    {
+      "id": "Interface",
+      "type": "Class",
+      "properties": {
+        "name": "Interface"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleIsNearlyZero",
+      "type": "Class",
+      "properties": {
+        "name": "RigVMFunction_MathDoubleIsNearlyZero"
+      }
+    },
+    {
+      "id": "MoviePipelineSetting",
+      "type": "Class",
+      "properties": {
+        "name": "MoviePipelineSetting"
+      }
+    },
+    {
+      "id": "MoviePipelineEncodeQuality",
+      "type": "Enum",
+      "properties": {
+        "name": "MoviePipelineEncodeQuality"
+      }
+    },
+    {
+      "id": "Object",
+      "type": "Class",
+      "properties": {
+        "name": "Object"
+      }
+    },
+    {
+      "id": "PCGNode",
+      "type": "Class",
+      "properties": {
+        "name": "PCGNode"
+      }
+    },
+    {
+      "id": "PCGEdge",
+      "type": "Class",
+      "properties": {
+        "name": "PCGEdge"
+      }
+    },
+    {
+      "id": "PCGPinProperties",
+      "type": "Struct",
+      "properties": {
+        "name": "PCGPinProperties"
+      }
+    },
+    {
+      "id": "AnimGraphNode_BlendStack_Base",
+      "type": "Class",
+      "properties": {
+        "name": "AnimGraphNode_BlendStack_Base"
+      }
+    },
+    {
+      "id": "AnimNode_MotionMatchingInteraction",
+      "type": "Struct",
+      "properties": {
+        "name": "AnimNode_MotionMatchingInteraction"
+      }
+    },
+    {
+      "id": "AesEditorSimpleCommandParams",
+      "type": "Class",
+      "properties": {
+        "name": "AesEditorSimpleCommandParams"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "Class",
+      "properties": {
+        "name": "StructBase"
+      }
+    },
+    {
+      "id": "ParamsBase",
+      "type": "Class",
+      "properties": {
+        "name": "ParamsBase"
+      }
+    },
+    {
+      "id": "AvaGeometryBaseModifier",
+      "type": "Class",
+      "properties": {
+        "name": "AvaGeometryBaseModifier"
+      }
+    },
+    {
+      "id": "BlueprintAsyncActionBase",
+      "type": "Class",
+      "properties": {
+        "name": "BlueprintAsyncActionBase"
+      }
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "Class",
+      "properties": {
+        "name": "BlueprintFunctionLibrary"
+      }
+    },
+    {
+      "id": "MaterialInterface",
+      "type": "Class",
+      "properties": {
+        "name": "MaterialInterface"
+      }
+    },
+    {
+      "id": "CurveFloat",
+      "type": "Class",
+      "properties": {
+        "name": "CurveFloat"
+      }
+    },
+    {
+      "id": "CurveLinearColor",
+      "type": "Class",
+      "properties": {
+        "name": "CurveLinearColor"
+      }
+    },
+    {
+      "id": "LinearColor",
+      "type": "Struct",
+      "properties": {
+        "name": "LinearColor"
+      }
+    },
+    {
+      "id": "Rotator",
+      "type": "Struct",
+      "properties": {
+        "name": "Rotator"
+      }
+    },
+    {
+      "id": "Text",
+      "type": "Struct",
+      "properties": {
+        "name": "Text"
+      }
+    },
+    {
+      "id": "Name",
+      "type": "Struct",
+      "properties": {
+        "name": "Name"
+      }
+    },
+    {
+      "id": "IntVector",
+      "type": "Struct",
+      "properties": {
+        "name": "IntVector"
+      }
+    },
+    {
+      "id": "AudioInputDeviceChannelProperty",
+      "type": "Struct",
+      "properties": {
+        "name": "AudioInputDeviceChannelProperty"
+      }
+    },
+    {
+      "id": "MovieSceneDoubleVectorTrack",
+      "type": "Class",
+      "properties": {
+        "name": "MovieSceneDoubleVectorTrack"
+      }
+    },
+    {
+      "id": "MovieGraphSettingNode",
+      "type": "Class",
+      "properties": {
+        "name": "MovieGraphSettingNode"
+      }
+    },
+    {
+      "id": "MemberReference",
+      "type": "Struct",
+      "properties": {
+        "name": "MemberReference"
+      }
+    },
+    {
+      "id": "AnimGraphNodeBinding",
+      "type": "Struct",
+      "properties": {
+        "name": "AnimGraphNodeBinding"
+      }
+    },
+    {
+      "id": "OptionalPinFromProperty",
+      "type": "Struct",
+      "properties": {
+        "name": "OptionalPinFromProperty"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "WdpMaterialInstance",
+      "target": "WdpStandardEntity",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_2",
+      "source": "TakeRecorderMicrophoneAudioSource",
+      "target": "TakeRecorderMicrophoneAudioSourceSettings",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_3",
+      "source": "MovieSceneSubSectionFlags",
+      "target": "EnumBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_4",
+      "source": "Visible2DInterface",
+      "target": "Interface",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_5",
+      "source": "RigUnit_MathDoubleIsNearlyZero",
+      "target": "RigVMFunction_MathDoubleIsNearlyZero",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_6",
+      "source": "MoviePipelineCommandLineEncoder",
+      "target": "MoviePipelineSetting",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_7",
+      "source": "PCGPin",
+      "target": "Object",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_8",
+      "source": "CurveBlendOption",
+      "target": "EnumBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_9",
+      "source": "AnimGraphNode_MotionMatchingInteraction",
+      "target": "AnimGraphNode_BlendStack_Base",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_10",
+      "source": "AesEmbankmentEditorCommandParams_Create",
+      "target": "AesEditorSimpleCommandParams",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_11",
+      "source": "APIEventSwitch",
+      "target": "StructBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_12",
+      "source": "WdpVegetationGridType",
+      "target": "EnumBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_13",
+      "source": "WDPCameraBaseTransformParams",
+      "target": "ParamsBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_14",
+      "source": "ScrollWhenFocusChanges",
+      "target": "EnumBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_15",
+      "source": "AvaPlaneCutModifier",
+      "target": "AvaGeometryBaseModifier",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_16",
+      "source": "SkyCreatorMoonLightSettings_51",
+      "target": "StructBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_17",
+      "source": "AsyncActionLoadPrimaryAssetBase",
+      "target": "BlueprintAsyncActionBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_18",
+      "source": "MovieSceneDoubleVectorTrackExtensions",
+      "target": "BlueprintFunctionLibrary",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_19",
+      "source": "GeometryScriptTriangleList",
+      "target": "StructBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_20",
+      "source": "MaterialSpriteElement",
+      "target": "StructBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_21",
+      "source": "PCGSplineSamplingDimension",
+      "target": "EnumBase",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_22",
+      "source": "MovieGraphEvaluatedConfig",
+      "target": "Object",
+      "type": "EXTENDS",
+      "properties": {}
+    },
+    {
+      "id": "edge_23",
+      "source": "PCGPin",
+      "target": "PCGNode",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "node"
+      }
+    },
+    {
+      "id": "edge_24",
+      "source": "PCGPin",
+      "target": "PCGEdge",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "edges",
+        "is_array": true
+      }
+    },
+    {
+      "id": "edge_25",
+      "source": "PCGPin",
+      "target": "PCGPinProperties",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "properties"
+      }
+    },
+    {
+      "id": "edge_26",
+      "source": "MoviePipelineCommandLineEncoder",
+      "target": "MoviePipelineEncodeQuality",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "quality"
+      }
+    },
+    {
+      "id": "edge_27",
+      "source": "AnimGraphNode_MotionMatchingInteraction",
+      "target": "AnimNode_MotionMatchingInteraction",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "node"
+      }
+    },
+    {
+      "id": "edge_28",
+      "source": "AnimGraphNode_MotionMatchingInteraction",
+      "target": "MemberReference",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "become_relevant_function"
+      }
+    },
+    {
+      "id": "edge_29",
+      "source": "AnimGraphNode_MotionMatchingInteraction",
+      "target": "AnimGraphNodeBinding",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "binding"
+      }
+    },
+    {
+      "id": "edge_30",
+      "source": "AnimGraphNode_MotionMatchingInteraction",
+      "target": "OptionalPinFromProperty",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "show_pin_for_properties",
+        "is_array": true
+      }
+    },
+    {
+      "id": "edge_31",
+      "source": "SkyCreatorMoonLightSettings_51",
+      "target": "CurveFloat",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "intensity_curve"
+      }
+    },
+    {
+      "id": "edge_32",
+      "source": "SkyCreatorMoonLightSettings_51",
+      "target": "LinearColor",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "light_color"
+      }
+    },
+    {
+      "id": "edge_33",
+      "source": "SkyCreatorMoonLightSettings_51",
+      "target": "CurveLinearColor",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "light_color_curve"
+      }
+    },
+    {
+      "id": "edge_34",
+      "source": "MaterialSpriteElement",
+      "target": "MaterialInterface",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "material"
+      }
+    },
+    {
+      "id": "edge_35",
+      "source": "MaterialSpriteElement",
+      "target": "CurveFloat",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "distance_to_opacity_curve"
+      }
+    },
+    {
+      "id": "edge_36",
+      "source": "MaterialSpriteElement",
+      "target": "CurveFloat",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "distance_to_size_curve"
+      }
+    },
+    {
+      "id": "edge_37",
+      "source": "AvaPlaneCutModifier",
+      "target": "Rotator",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "plane_rotation"
+      }
+    },
+    {
+      "id": "edge_38",
+      "source": "TakeRecorderMicrophoneAudioSource",
+      "target": "AudioInputDeviceChannelProperty",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "audio_channel"
+      }
+    },
+    {
+      "id": "edge_39",
+      "source": "GeometryScriptTriangleList",
+      "target": "IntVector",
+      "type": "HAS_PROPERTY",
+      "properties": {
+        "property_name": "triangle_data",
+        "is_array": true
+      }
+    },
+    {
+      "id": "edge_40",
+      "source": "MovieSceneDoubleVectorTrackExtensions",
+      "target": "MovieSceneDoubleVectorTrack",
+      "type": "OPERATES_ON",
+      "properties": {
+        "method": "set_num_channels_used"
+      }
+    },
+    {
+      "id": "edge_41",
+      "source": "MovieSceneDoubleVectorTrackExtensions",
+      "target": "MovieSceneDoubleVectorTrack",
+      "type": "OPERATES_ON",
+      "properties": {
+        "method": "get_num_channels_used"
+      }
+    },
+    {
+      "id": "edge_42",
+      "source": "MovieGraphEvaluatedConfig",
+      "target": "MovieGraphSettingNode",
+      "type": "RETURNS",
+      "properties": {
+        "method": "get_setting_for_branch"
+      }
+    },
+    {
+      "id": "edge_43",
+      "source": "MovieGraphEvaluatedConfig",
+      "target": "MovieGraphSettingNode",
+      "type": "RETURNS",
+      "properties": {
+        "method": "get_settings_for_branch",
+        "is_array": true
+      }
+    },
+    {
+      "id": "edge_44",
+      "source": "Visible2DInterface",
+      "target": "Text",
+      "type": "USES_TYPE",
+      "properties": {
+        "method": "set_tooltip"
+      }
+    },
+    {
+      "id": "edge_45",
+      "source": "PCGPin",
+      "target": "Text",
+      "type": "USES_TYPE",
+      "properties": {
+        "method": "set_tooltip"
+      }
+    },
+    {
+      "id": "edge_46",
+      "source": "MovieGraphEvaluatedConfig",
+      "target": "Name",
+      "type": "USES_TYPE",
+      "properties": {
+        "method": "get_setting_for_branch",
+        "parameter": "branch_name"
+      }
+    },
+    {
+      "id": "edge_47",
+      "source": "MovieGraphEvaluatedConfig",
+      "target": "Name",
+      "type": "RETURNS",
+      "properties": {
+        "method": "get_branch_names",
+        "is_array": true
+      }
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "nodes": [
+        "WdpMaterialInstance",
+        "WdpMaterial",
+        "WdpApplication",
+        "WdpMaterialInstance.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "WdpMaterialInstance is defined in WdpMaterialInstance.h within the WdpMaterial module of the WdpApplication plugin"
+      }
+    },
+    {
+      "id": "hyperedge_2",
+      "nodes": [
+        "TakeRecorderMicrophoneAudioSource",
+        "TakeRecorderSources",
+        "Takes",
+        "TakeRecorderMicrophoneAudioSource.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "TakeRecorderMicrophoneAudioSource is defined in TakeRecorderMicrophoneAudioSource.h within the TakeRecorderSources module of the Takes plugin"
+      }
+    },
+    {
+      "id": "hyperedge_3",
+      "nodes": [
+        "MovieSceneSubSectionFlags",
+        "MovieScene",
+        "MovieSceneSectionParameters.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "MovieSceneSubSectionFlags is defined in MovieSceneSectionParameters.h within the MovieScene module"
+      }
+    },
+    {
+      "id": "hyperedge_4",
+      "nodes": [
+        "Visible2DInterface",
+        "CoveringAPIEntity",
+        "CoveringAPI",
+        "Visible2DInterface.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "Visible2DInterface is defined in Visible2DInterface.h within the CoveringAPIEntity module of the CoveringAPI plugin"
+      }
+    },
+    {
+      "id": "hyperedge_5",
+      "nodes": [
+        "MoviePipelineCommandLineEncoder",
+        "MovieRenderPipelineCore",
+        "MovieRenderPipeline",
+        "MoviePipelineCommandLineEncoder.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "MoviePipelineCommandLineEncoder is defined in MoviePipelineCommandLineEncoder.h within the MovieRenderPipelineCore module of the MovieRenderPipeline plugin"
+      }
+    },
+    {
+      "id": "hyperedge_6",
+      "nodes": [
+        "PCGPin",
+        "PCG",
+        "PCG",
+        "PCGPin.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "PCGPin is defined in PCGPin.h within the PCG module of the PCG plugin"
+      }
+    },
+    {
+      "id": "hyperedge_7",
+      "nodes": [
+        "CurveBlendOption",
+        "Engine",
+        "AnimTypes.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "CurveBlendOption is defined in AnimTypes.h within the Engine module"
+      }
+    },
+    {
+      "id": "hyperedge_8",
+      "nodes": [
+        "AnimGraphNode_MotionMatchingInteraction",
+        "PoseSearchEditor",
+        "PoseSearch",
+        "AnimGraphNode_MotionMatchingInteraction.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "AnimGraphNode_MotionMatchingInteraction is defined in AnimGraphNode_MotionMatchingInteraction.h within the PoseSearchEditor module of the PoseSearch plugin"
+      }
+    },
+    {
+      "id": "hyperedge_9",
+      "nodes": [
+        "AesEmbankmentEditorCommandParams_Create",
+        "AesEditorMode",
+        "AesWorld",
+        "AesEmbankmentEditorAction_Create.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "AesEmbankmentEditorCommandParams_Create is defined in AesEmbankmentEditorAction_Create.h within the AesEditorMode module of the AesWorld plugin"
+      }
+    },
+    {
+      "id": "hyperedge_10",
+      "nodes": [
+        "APIEventSwitch",
+        "DataModelAPI",
+        "WdpRuntimeAPI",
+        "WdpAPISystem.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "APIEventSwitch is defined in WdpAPISystem.h within the DataModelAPI module of the WdpRuntimeAPI plugin"
+      }
+    },
+    {
+      "id": "hyperedge_11",
+      "nodes": [
+        "WdpVegetationGridType",
+        "WdpModelerEntity",
+        "AesRuntimeModeler",
+        "VegetationAtom.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "WdpVegetationGridType is defined in VegetationAtom.h within the WdpModelerEntity module of the AesRuntimeModeler plugin"
+      }
+    },
+    {
+      "id": "hyperedge_12",
+      "nodes": [
+        "WDPCameraBaseTransformParams",
+        "ApplicationAPI",
+        "WdpRuntimeAPI",
+        "WdpCameraControlAPIParamsDefine.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "WDPCameraBaseTransformParams is defined in WdpCameraControlAPIParamsDefine.h within the ApplicationAPI module of the WdpRuntimeAPI plugin"
+      }
+    },
+    {
+      "id": "hyperedge_13",
+      "nodes": [
+        "ScrollWhenFocusChanges",
+        "Slate",
+        "SScrollBox.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "ScrollWhenFocusChanges is defined in SScrollBox.h within the Slate module"
+      }
+    },
+    {
+      "id": "hyperedge_14",
+      "nodes": [
+        "AvaPlaneCutModifier",
+        "AvalancheModifiers",
+        "Avalanche",
+        "AvaPlaneCutModifier.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "AvaPlaneCutModifier is defined in AvaPlaneCutModifier.h within the AvalancheModifiers module of the Avalanche plugin"
+      }
+    },
+    {
+      "id": "hyperedge_15",
+      "nodes": [
+        "SkyCreatorMoonLightSettings_51",
+        "SkyCreatorPlugin",
+        "SkyCreatorPlugin",
+        "SkyCreatorWeatherSettings_51.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "SkyCreatorMoonLightSettings_51 is defined in SkyCreatorWeatherSettings_51.h within the SkyCreatorPlugin module of the SkyCreatorPlugin plugin"
+      }
+    },
+    {
+      "id": "hyperedge_16",
+      "nodes": [
+        "AsyncActionLoadPrimaryAssetBase",
+        "Engine",
+        "AsyncActionLoadPrimaryAsset.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "AsyncActionLoadPrimaryAssetBase is defined in AsyncActionLoadPrimaryAsset.h within the Engine module"
+      }
+    },
+    {
+      "id": "hyperedge_17",
+      "nodes": [
+        "MovieSceneDoubleVectorTrackExtensions",
+        "SequencerScripting",
+        "SequencerScripting",
+        "MovieSceneVectorTrackExtensions.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "MovieSceneDoubleVectorTrackExtensions is defined in MovieSceneVectorTrackExtensions.h within the SequencerScripting module of the SequencerScripting plugin"
+      }
+    },
+    {
+      "id": "hyperedge_18",
+      "nodes": [
+        "GeometryScriptTriangleList",
+        "GeometryScriptingCore",
+        "GeometryScripting",
+        "GeometryScriptTypes.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "GeometryScriptTriangleList is defined in GeometryScriptTypes.h within the GeometryScriptingCore module of the GeometryScripting plugin"
+      }
+    },
+    {
+      "id": "hyperedge_19",
+      "nodes": [
+        "MaterialSpriteElement",
+        "Engine",
+        "MaterialBillboardComponent.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "MaterialSpriteElement is defined in MaterialBillboardComponent.h within the Engine module"
+      }
+    },
+    {
+      "id": "hyperedge_20",
+      "nodes": [
+        "PCGSplineSamplingDimension",
+        "PCG",
+        "PCG",
+        "PCGSplineSampler.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "PCGSplineSamplingDimension is defined in PCGSplineSampler.h within the PCG module of the PCG plugin"
+      }
+    },
+    {
+      "id": "hyperedge_21",
+      "nodes": [
+        "MovieGraphEvaluatedConfig",
+        "MovieRenderPipelineCore",
+        "MovieRenderPipeline",
+        "MovieGraphConfig.h"
+      ],
+      "type": "DEFINED_IN",
+      "properties": {
+        "description": "MovieGraphEvaluatedConfig is defined in MovieGraphConfig.h within the MovieRenderPipelineCore module of the MovieRenderPipeline plugin"
+      }
+    },
+    {
+      "id": "hyperedge_22",
+      "nodes": [
+        "TakeRecorderMicrophoneAudioSource",
+        "audio_gain",
+        "audio_channel",
+        "replace_recorded_audio"
+      ],
+      "type": "RECORDING_PROPERTIES",
+      "properties": {
+        "description": "TakeRecorderMicrophoneAudioSource has properties for audio recording including gain, channel selection, and replacement options"
+      }
+    },
+    {
+      "id": "hyperedge_23",
+      "nodes": [
+        "SkyCreatorMoonLightSettings_51",
+        "intensity",
+        "light_color",
+        "temperature",
+        "volumetric_scattering_intensity",
+        "cloud_shadow_strength"
+      ],
+      "type": "MOON_LIGHT_PROPERTIES",
+      "properties": {
+        "description": "SkyCreatorMoonLightSettings_51 contains comprehensive moon light settings including intensity, color, temperature, and cloud shadow properties"
+      }
+    },
+    {
+      "id": "hyperedge_24",
+      "nodes": [
+        "AvaPlaneCutModifier",
+        "plane_origin",
+        "plane_rotation",
+        "invert_cut",
+        "fill_holes"
+      ],
+      "type": "PLANE_CUT_PROPERTIES",
+      "properties": {
+        "description": "AvaPlaneCutModifier defines plane cutting operations with origin, rotation, invert, and fill hole options"
+      }
+    },
+    {
+      "id": "hyperedge_25",
+      "nodes": [
+        "MaterialSpriteElement",
+        "material",
+        "base_size_x",
+        "base_size_y",
+        "distance_to_size_curve",
+        "distance_to_opacity_curve"
+      ],
+      "type": "SPRITE_PROPERTIES",
+      "properties": {
+        "description": "MaterialSpriteElement defines sprite rendering with material, size, and distance-based curves"
+      }
+    }
+  ]
+}

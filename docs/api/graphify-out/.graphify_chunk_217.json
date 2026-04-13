@@ -1,0 +1,843 @@
+{
+  "nodes": [
+    {
+      "id": "materialexpressionantialiasedtexturemask_materialexpressionantialiasedtexturemask",
+      "label": "MaterialExpressionAntialiasedTextureMask",
+      "file_type": "document",
+      "source_file": "MaterialExpressionAntialiasedTextureMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionantialiasedtexturemask_materialexpressiontexturesampleparameter2d",
+      "label": "MaterialExpressionTextureSampleParameter2D",
+      "file_type": "document",
+      "source_file": "MaterialExpressionAntialiasedTextureMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabaseanimationassetbase_posesearchdatabaseanimationassetbase",
+      "label": "PoseSearchDatabaseAnimationAssetBase",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabaseAnimationAssetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radistancerolloffmodel_radistancerolloffmodel",
+      "label": "RaDistanceRolloffModel",
+      "file_type": "document",
+      "source_file": "RaDistanceRolloffModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublecos_rigunit_mathdoublecos",
+      "label": "RigUnit_MathDoubleCos",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleCos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublecos_rigvmfunction_mathdoublecos",
+      "label": "RigVMFunction_MathDoubleCos",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleCos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectdefinitionfactory_smartobjectdefinitionfactory",
+      "label": "SmartObjectDefinitionFactory",
+      "file_type": "document",
+      "source_file": "SmartObjectDefinitionFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectdefinitionfactory_factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "SmartObjectDefinitionFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectdefinitionfactory_smartobjectdefinition",
+      "label": "SmartObjectDefinition",
+      "file_type": "document",
+      "source_file": "SmartObjectDefinitionFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetretransitionevent_statetretransitionevent",
+      "label": "StateTreeTransitionEvent",
+      "file_type": "document",
+      "source_file": "StateTreeTransitionEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetretransitionevent_statetretransitiontrigger",
+      "label": "StateTreeTransitionTrigger",
+      "file_type": "document",
+      "source_file": "StateTreeTransitionEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "postbufferblupdater_postbufferblupdater",
+      "label": "PostBufferBlurUpdater",
+      "file_type": "document",
+      "source_file": "PostBufferBlurUpdater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "postbufferblupdater_slatepostbufferprocessorupdater",
+      "label": "SlatePostBufferProcessorUpdater",
+      "file_type": "document",
+      "source_file": "PostBufferBlurUpdater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eventreply_eventreply",
+      "label": "EventReply",
+      "file_type": "document",
+      "source_file": "EventReply Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadnetprefabalgorithm_earthroadnetprefabalgorithm",
+      "label": "EarthRoadNetPrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthRoadNetPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadnetprefabalgorithm_earthprefabalgorithm",
+      "label": "EarthPrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthRoadNetPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktransformcontroller_livelinktransformcontroller",
+      "label": "LiveLinkTransformController",
+      "file_type": "document",
+      "source_file": "LiveLinkTransformController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktransformcontroller_livelinkcontrollerbase",
+      "label": "LiveLinkControllerBase",
+      "file_type": "document",
+      "source_file": "LiveLinkTransformController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktransformcontroller_livelinktransformcontrollerdata",
+      "label": "LiveLinkTransformControllerData",
+      "file_type": "document",
+      "source_file": "LiveLinkTransformController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundassetdirectory_metasoundassetdirectory",
+      "label": "MetaSoundAssetDirectory",
+      "file_type": "document",
+      "source_file": "MetaSoundAssetDirectory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundassetdirectory_directorypath",
+      "label": "DirectoryPath",
+      "file_type": "document",
+      "source_file": "MetaSoundAssetDirectory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaoscacheinterpolationmode_chaoscacheinterpolationmode",
+      "label": "ChaosCacheInterpolationMode",
+      "file_type": "document",
+      "source_file": "ChaosCacheInterpolationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingmeshreductionsettings__deprecated_editorscriptingmeshreductionsettings_deprecated",
+      "label": "EditorScriptingMeshReductionSettings_Deprecated",
+      "file_type": "document",
+      "source_file": "EditorScriptingMeshReductionSettings__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingmeshreductionsettings__deprecated_staticmeshreductionsettings",
+      "label": "StaticMeshReductionSettings",
+      "file_type": "document",
+      "source_file": "EditorScriptingMeshReductionSettings__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumglobeanchoredactorcomponent_cesiumglobeanchoredactorcomponent",
+      "label": "CesiumGlobeAnchoredActorComponent",
+      "file_type": "document",
+      "source_file": "CesiumGlobeAnchoredActorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumglobeanchoredactorcomponent_cesiumglobeanchorcomponent",
+      "label": "CesiumGlobeAnchorComponent",
+      "file_type": "document",
+      "source_file": "CesiumGlobeAnchoredActorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__kalmanvector_rigunit_kalmanvector",
+      "label": "RigUnit_KalmanVector",
+      "file_type": "document",
+      "source_file": "RigUnit__KalmanVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__kalmanvector_rigvmfunction_kalmanvector",
+      "label": "RigVMFunction_KalmanVector",
+      "file_type": "document",
+      "source_file": "RigUnit__KalmanVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapemeshcollisioncomponent_landscapemeshcollisioncomponent",
+      "label": "LandscapeMeshCollisionComponent",
+      "file_type": "document",
+      "source_file": "LandscapeMeshCollisionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapemeshcollisioncomponent_landscapeheightfieldcollisioncomponent",
+      "label": "LandscapeHeightfieldCollisionComponent",
+      "file_type": "document",
+      "source_file": "LandscapeMeshCollisionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathvectoradd_rigvmfunction_mathvectoradd",
+      "label": "RigVMFunction_MathVectorAdd",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathvectoradd_rigvmfunction_mathvectorbinaryaggregateop",
+      "label": "RigVMFunction_MathVectorBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setrotatoranimationchannelfromitem_rigunit_setrotatoranimationchannelfromitem",
+      "label": "RigUnit_SetRotatorAnimationChannelFromItem",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setrotatoranimationchannelfromitem_rigunit_setanimationchannelbasefromitem",
+      "label": "RigUnit_SetAnimationChannelBaseFromItem",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winddirectionalsourcecomponent_winddirectionalsourcecomponent",
+      "label": "WindDirectionalSourceComponent",
+      "file_type": "document",
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winddirectionalsourcecomponent_scenecomponent",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winddirectionalsourcecomponent_speedtree",
+      "label": "SpeedTree",
+      "file_type": "document",
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winddirectionalsourcecomponent_windstrength",
+      "label": "Wind Strength Parameter",
+      "file_type": "document",
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winddirectionalsourcecomponent_windspeed",
+      "label": "Wind Speed Parameter",
+      "file_type": "document",
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winddirectionalsourcecomponent_windradius",
+      "label": "Wind Radius Parameter",
+      "file_type": "document",
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winddirectionalsourcecomponent_windgust",
+      "label": "Wind Gust Parameters",
+      "file_type": "document",
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcomponentselection_pcgcomponentselection",
+      "label": "PCGComponentSelection",
+      "file_type": "document",
+      "source_file": "PCGComponentSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "locationxtospawenum_locationxtospawenum",
+      "label": "LocationXToSpawnEnum",
+      "file_type": "document",
+      "source_file": "LocationXToSpawnEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycueevent_gameplaycueevent",
+      "label": "GameplayCueEvent",
+      "file_type": "document",
+      "source_file": "GameplayCueEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycueevent_gameplaycue",
+      "label": "GameplayCue",
+      "file_type": "document",
+      "source_file": "GameplayCueEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycueevent_gameplayeffect",
+      "label": "GameplayEffect",
+      "file_type": "document",
+      "source_file": "GameplayCueEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaoscacheinterpolationmode_quaternion_interpolation",
+      "label": "Quaternion Interpolation Methods",
+      "file_type": "document",
+      "source_file": "ChaosCacheInterpolationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionantialiasedtexturemask_materialexpressionantialiasedtexturemask",
+      "target": "materialexpressionantialiasedtexturemask_materialexpressiontexturesampleparameter2d",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionAntialiasedTextureMask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublecos_rigunit_mathdoublecos",
+      "target": "rigunit_mathdoublecos_rigvmfunction_mathdoublecos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleCos Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectdefinitionfactory_smartobjectdefinitionfactory",
+      "target": "smartobjectdefinitionfactory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectDefinitionFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectdefinitionfactory_smartobjectdefinitionfactory",
+      "target": "smartobjectdefinitionfactory_smartobjectdefinition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectDefinitionFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetretransitionevent_statetretransitionevent",
+      "target": "statetretransitionevent_statetretransitiontrigger",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeTransitionEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "postbufferblupdater_postbufferblupdater",
+      "target": "postbufferblupdater_slatepostbufferprocessorupdater",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PostBufferBlurUpdater Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadnetprefabalgorithm_earthroadnetprefabalgorithm",
+      "target": "earthroadnetprefabalgorithm_earthprefabalgorithm",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadNetPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktransformcontroller_livelinktransformcontroller",
+      "target": "livelinktransformcontroller_livelinkcontrollerbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkTransformController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktransformcontroller_livelinktransformcontroller",
+      "target": "livelinktransformcontroller_livelinktransformcontrollerdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkTransformController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundassetdirectory_metasoundassetdirectory",
+      "target": "metasoundassetdirectory_directorypath",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundAssetDirectory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorscriptingmeshreductionsettings__deprecated_editorscriptingmeshreductionsettings_deprecated",
+      "target": "editorscriptingmeshreductionsettings__deprecated_staticmeshreductionsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorScriptingMeshReductionSettings__Deprecated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumglobeanchoredactorcomponent_cesiumglobeanchoredactorcomponent",
+      "target": "cesiumglobeanchoredactorcomponent_cesiumglobeanchorcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumGlobeAnchoredActorComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__kalmanvector_rigunit_kalmanvector",
+      "target": "rigunit__kalmanvector_rigvmfunction_kalmanvector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__KalmanVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapemeshcollisioncomponent_landscapemeshcollisioncomponent",
+      "target": "landscapemeshcollisioncomponent_landscapeheightfieldcollisioncomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandscapeMeshCollisionComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathvectoradd_rigvmfunction_mathvectoradd",
+      "target": "rigvmfunction__mathvectoradd_rigvmfunction_mathvectorbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setrotatoranimationchannelfromitem_rigunit_setrotatoranimationchannelfromitem",
+      "target": "rigunit__setrotatoranimationchannelfromitem_rigunit_setanimationchannelbasefromitem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winddirectionalsourcecomponent_winddirectionalsourcecomponent",
+      "target": "winddirectionalsourcecomponent_scenecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winddirectionalsourcecomponent_winddirectionalsourcecomponent",
+      "target": "winddirectionalsourcecomponent_speedtree",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winddirectionalsourcecomponent_windstrength",
+      "target": "winddirectionalsourcecomponent_winddirectionalsourcecomponent",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winddirectionalsourcecomponent_windspeed",
+      "target": "winddirectionalsourcecomponent_winddirectionalsourcecomponent",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winddirectionalsourcecomponent_windradius",
+      "target": "winddirectionalsourcecomponent_winddirectionalsourcecomponent",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winddirectionalsourcecomponent_windgust",
+      "target": "winddirectionalsourcecomponent_winddirectionalsourcecomponent",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WindDirectionalSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycueevent_gameplaycueevent",
+      "target": "gameplaycueevent_gameplaycue",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayCueEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycueevent_gameplaycueevent",
+      "target": "gameplaycueevent_gameplayeffect",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayCueEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaoscacheinterpolationmode_quaternion_interpolation",
+      "target": "chaoscacheinterpolationmode_chaoscacheinterpolationmode",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ChaosCacheInterpolationMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublecos_rigunit_mathdoublecos",
+      "target": "rigunit__kalmanvector_rigunit_kalmanvector",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathDoubleCos Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathvectoradd_rigvmfunction_mathvectoradd",
+      "target": "rigunit_mathdoublecos_rigvmfunction_mathdoublecos",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathVectorAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "radistancerolloffmodel_radistancerolloffmodel",
+      "target": "chaoscacheinterpolationmode_chaoscacheinterpolationmode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RaDistanceRolloffModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabaseanimationassetbase_posesearchdatabaseanimationassetbase",
+      "target": "rigunit__setrotatoranimationchannelfromitem_rigunit_setrotatoranimationchannelfromitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PoseSearchDatabaseAnimationAssetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_math_operations",
+      "label": "Rig Mathematics and Animation Functions",
+      "nodes": [
+        "rigunit_mathdoublecos_rigunit_mathdoublecos",
+        "rigunit__kalmanvector_rigunit_kalmanvector",
+        "rigvmfunction__mathvectoradd_rigvmfunction_mathvectoradd",
+        "rigunit__setrotatoranimationchannelfromitem_rigunit_setrotatoranimationchannelfromitem"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Multiple Files"
+    },
+    {
+      "id": "audio_distance_models",
+      "label": "Audio Distance and Interpolation Models",
+      "nodes": [
+        "radistancerolloffmodel_radistancerolloffmodel",
+        "chaoscacheinterpolationmode_chaoscacheinterpolationmode"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Multiple Files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

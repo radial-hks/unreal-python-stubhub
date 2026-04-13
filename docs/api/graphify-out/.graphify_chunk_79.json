@@ -1,0 +1,943 @@
+{
+  "nodes": [
+    {
+      "id": "curvevectorfactory_curvevectorfactory",
+      "label": "CurveVectorFactory",
+      "file_type": "document",
+      "source_file": "CurveVectorFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvevectorfactory_curvefactory",
+      "label": "CurveFactory",
+      "file_type": "document",
+      "source_file": "CurveVectorFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionceil_materialexpressionceil",
+      "label": "MaterialExpressionCeil",
+      "file_type": "document",
+      "source_file": "MaterialExpressionCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionceil_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "label": "RigUnit_SetSpaceInitialTransform",
+      "file_type": "document",
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setspaceinitialtransform_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setspaceinitialtransform_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setspaceinitialtransform_transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setspaceinitialtransform_rigvmtransformspace",
+      "label": "RigVMTransformSpace",
+      "file_type": "document",
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveinterpolationtype_curveinterpolationtype",
+      "label": "CurveInterpolationType",
+      "file_type": "document",
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveinterpolationtype_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveinterpolationtype_autointerp",
+      "label": "AUTOINTERP",
+      "file_type": "document",
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveinterpolationtype_linear",
+      "label": "LINEAR",
+      "file_type": "document",
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveinterpolationtype_constant",
+      "label": "CONSTANT",
+      "file_type": "document",
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interptomovementcomponent_interptomovementcomponent_oninterptoreversedelegate",
+      "label": "InterpToMovementComponent_OnInterpToReverseDelegate",
+      "file_type": "document",
+      "source_file": "InterpToMovementComponent_OnInterpToReverseDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interptomovementcomponent_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "InterpToMovementComponent_OnInterpToReverseDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interptomovementcomponent_hitresult",
+      "label": "HitResult",
+      "file_type": "document",
+      "source_file": "InterpToMovementComponent_OnInterpToReverseDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionnamedrerouteusage_materialexpressionnamedrerouteusage",
+      "label": "MaterialExpressionNamedRerouteUsage",
+      "file_type": "document",
+      "source_file": "MaterialExpressionNamedRerouteUsage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionnamedrerouteusage_materialexpressionnamedreroutebase",
+      "label": "MaterialExpressionNamedRerouteBase",
+      "file_type": "document",
+      "source_file": "MaterialExpressionNamedRerouteUsage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbikdebug_pbikdebug",
+      "label": "PBIKDebug",
+      "file_type": "document",
+      "source_file": "PBIKDebug Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbikdebug_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "PBIKDebug Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbikdebug_draw_debug",
+      "label": "draw_debug",
+      "file_type": "document",
+      "source_file": "PBIKDebug Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbikdebug_draw_scale",
+      "label": "draw_scale",
+      "file_type": "document",
+      "source_file": "PBIKDebug Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshfactorynode_interchangemeshfactorynode",
+      "label": "InterchangeMeshFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshfactorynode_interchangefactorybasenode",
+      "label": "InterchangeFactoryBaseNode",
+      "file_type": "document",
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshfactorynode_vertex_color_operations",
+      "label": "vertex color operations",
+      "file_type": "document",
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshfactorynode_tangent_computation",
+      "label": "tangent computation",
+      "file_type": "document",
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshfactorynode_normal_computation",
+      "label": "normal computation",
+      "file_type": "document",
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshfactorynode_lod_management",
+      "label": "LOD management",
+      "file_type": "document",
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshfactorynode_material_dependencies",
+      "label": "material dependencies",
+      "file_type": "document",
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scalarparametervalue_scalarparametervalue",
+      "label": "ScalarParameterValue",
+      "file_type": "document",
+      "source_file": "ScalarParameterValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scalarparametervalue_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "ScalarParameterValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scalarparametervalue_materialparameterinfo",
+      "label": "MaterialParameterInfo",
+      "file_type": "document",
+      "source_file": "ScalarParameterValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublemake_rigunit_mathdoublemake",
+      "label": "RigUnit_MathDoubleMake",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublemake_rigvmfunction_mathdoublemake",
+      "label": "RigVMFunction_MathDoubleMake",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringfind_rigunit_stringfind",
+      "label": "RigUnit_StringFind",
+      "file_type": "document",
+      "source_file": "RigUnit_StringFind Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringfind_rigvmfunction_stringfind",
+      "label": "RigVMFunction_StringFind",
+      "file_type": "document",
+      "source_file": "RigUnit_StringFind Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activefeatures_activefeatures",
+      "label": "ActiveFeatures",
+      "file_type": "document",
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activefeatures_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activefeatures_key_movement",
+      "label": "KEY_MOVEMENT",
+      "file_type": "document",
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activefeatures_drag_movement",
+      "label": "DRAG_MOVEMENT",
+      "file_type": "document",
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activefeatures_rotation",
+      "label": "ROTATION",
+      "file_type": "document",
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activefeatures_zoom",
+      "label": "ZOOM",
+      "file_type": "document",
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activefeatures_follow_actor",
+      "label": "FOLLOW_ACTOR",
+      "file_type": "document",
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "curvevectorfactory_curvevectorfactory",
+      "target": "curvevectorfactory_curvefactory",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveVectorFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionceil_materialexpressionceil",
+      "target": "materialexpressionceil_materialexpression",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "target": "rigunit_setspaceinitialtransform_rigunitmutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "target": "rigunit_setspaceinitialtransform_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "target": "rigunit_setspaceinitialtransform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "target": "rigunit_setspaceinitialtransform_rigvmtransformspace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveinterpolationtype_curveinterpolationtype",
+      "target": "curveinterpolationtype_enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveinterpolationtype_autointerp",
+      "target": "curveinterpolationtype_curveinterpolationtype",
+      "relation": "member_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveinterpolationtype_linear",
+      "target": "curveinterpolationtype_curveinterpolationtype",
+      "relation": "member_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveinterpolationtype_constant",
+      "target": "curveinterpolationtype_curveinterpolationtype",
+      "relation": "member_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interptomovementcomponent_interptomovementcomponent_oninterptoreversedelegate",
+      "target": "interptomovementcomponent_multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterpToMovementComponent_OnInterpToReverseDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interptomovementcomponent_interptomovementcomponent_oninterptoreversedelegate",
+      "target": "interptomovementcomponent_hitresult",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterpToMovementComponent_OnInterpToReverseDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionnamedrerouteusage_materialexpressionnamedrerouteusage",
+      "target": "materialexpressionnamedrerouteusage_materialexpressionnamedreroutebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionNamedRerouteUsage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionnamedrerouteusage_materialexpressionnamedrerouteusage",
+      "target": "materialexpressionceil_materialexpression",
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionNamedRerouteUsage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pbikdebug_pbikdebug",
+      "target": "pbikdebug_structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PBIKDebug Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pbikdebug_draw_debug",
+      "target": "pbikdebug_pbikdebug",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PBIKDebug Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pbikdebug_draw_scale",
+      "target": "pbikdebug_pbikdebug",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PBIKDebug Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshfactorynode_interchangemeshfactorynode",
+      "target": "interchangemeshfactorynode_interchangefactorybasenode",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshfactorynode_vertex_color_operations",
+      "target": "interchangemeshfactorynode_interchangemeshfactorynode",
+      "relation": "functionality_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshfactorynode_tangent_computation",
+      "target": "interchangemeshfactorynode_interchangemeshfactorynode",
+      "relation": "functionality_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshfactorynode_normal_computation",
+      "target": "interchangemeshfactorynode_interchangemeshfactorynode",
+      "relation": "functionality_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshfactorynode_lod_management",
+      "target": "interchangemeshfactorynode_interchangemeshfactorynode",
+      "relation": "functionality_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshfactorynode_material_dependencies",
+      "target": "interchangemeshfactorynode_interchangemeshfactorynode",
+      "relation": "functionality_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scalarparametervalue_scalarparametervalue",
+      "target": "scalarparametervalue_structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScalarParameterValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scalarparametervalue_scalarparametervalue",
+      "target": "scalarparametervalue_materialparameterinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScalarParameterValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublemake_rigunit_mathdoublemake",
+      "target": "rigunit_mathdoublemake_rigvmfunction_mathdoublemake",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringfind_rigunit_stringfind",
+      "target": "rigunit_stringfind_rigvmfunction_stringfind",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StringFind Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activefeatures_activefeatures",
+      "target": "activefeatures_enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activefeatures_key_movement",
+      "target": "activefeatures_activefeatures",
+      "relation": "member_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activefeatures_drag_movement",
+      "target": "activefeatures_activefeatures",
+      "relation": "member_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activefeatures_rotation",
+      "target": "activefeatures_activefeatures",
+      "relation": "member_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activefeatures_zoom",
+      "target": "activefeatures_activefeatures",
+      "relation": "member_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activefeatures_follow_actor",
+      "target": "activefeatures_activefeatures",
+      "relation": "member_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setspaceinitialtransform_rigunitmutable",
+      "target": "rigunit_setspaceinitialtransform_controlrigexecutecontext",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshfactorynode_material_dependencies",
+      "target": "scalarparametervalue_materialparameterinfo",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveinterpolationtype_curveinterpolationtype",
+      "target": "curvevectorfactory_curvefactory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CurveInterpolationType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pbikdebug_pbikdebug",
+      "target": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PBIKDebug Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionceil_materialexpressionceil",
+      "target": "scalarparametervalue_scalarparametervalue",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MaterialExpressionCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublemake_rigvmfunction_mathdoublemake",
+      "target": "rigunit_stringfind_rigvmfunction_stringfind",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_MathDoubleMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshfactorynode_normal_computation",
+      "target": "interchangemeshfactorynode_tangent_computation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "InterchangeMeshFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activefeatures_key_movement",
+      "target": "activefeatures_drag_movement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ActiveFeatures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_hierarchy_operations",
+      "label": "ControlRig Hierarchy Operations",
+      "nodes": [
+        "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+        "rigunit_setspaceinitialtransform_transform",
+        "rigunit_setspaceinitialtransform_rigvmtransformspace"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_SetSpaceInitialTransform Objects.md"
+    },
+    {
+      "id": "material_parameter_system",
+      "label": "Material Parameter System",
+      "nodes": [
+        "scalarparametervalue_scalarparametervalue",
+        "scalarparametervalue_materialparameterinfo",
+        "materialexpressionceil_materialexpression"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ScalarParameterValue Objects.md"
+    },
+    {
+      "id": "interchange_mesh_import_pipeline",
+      "label": "Interchange Mesh Import Pipeline",
+      "nodes": [
+        "interchangemeshfactorynode_interchangemeshfactorynode",
+        "interchangemeshfactorynode_material_dependencies",
+        "interchangemeshfactorynode_lod_management"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "InterchangeMeshFactoryNode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

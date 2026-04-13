@@ -1,0 +1,533 @@
+{
+  "entities": [
+    {
+      "id": "BasedPosition",
+      "type": "Struct",
+      "name": "BasedPosition",
+      "description": "Struct for handling positions relative to a base actor, which is potentially moving"
+    },
+    {
+      "id": "RichCurveTangentMode",
+      "type": "Enum",
+      "name": "RichCurveTangentMode",
+      "description": "Enum describing how the tangents should be controlled in editor for cubic curves"
+    },
+    {
+      "id": "DataflowTransferVertexAttributeNodeFalloff",
+      "type": "Enum",
+      "name": "DataflowTransferVertexAttributeNodeFalloff",
+      "description": "Enum for vertex attribute transfer node falloff types"
+    },
+    {
+      "id": "RigVMFunction_MathFloatNegate",
+      "type": "Function",
+      "name": "RigVMFunction_MathFloatNegate",
+      "description": "Returns the negative value of a float"
+    },
+    {
+      "id": "CustomWidgetNavigationDelegate",
+      "type": "Delegate",
+      "name": "CustomWidgetNavigationDelegate",
+      "description": "Custom Widget Navigation Delegate"
+    },
+    {
+      "id": "EarthShapeGrammarSubmodule",
+      "type": "Struct",
+      "name": "EarthShapeGrammarSubmodule",
+      "description": "Shape grammar submodule information"
+    },
+    {
+      "id": "MirrorDataTable",
+      "type": "Class",
+      "name": "MirrorDataTable",
+      "description": "Data table with mirror functionality for animation"
+    },
+    {
+      "id": "MediaIOInterlaceFieldOrder",
+      "type": "Enum",
+      "name": "MediaIOInterlaceFieldOrder",
+      "description": "Enum for which interlace field should be set first in the buffer"
+    },
+    {
+      "id": "AnimGraphNode_LinkedAnimGraphBase",
+      "type": "Class",
+      "name": "AnimGraphNode_LinkedAnimGraphBase",
+      "description": "Animation Graph Node Linked Anim Graph Base"
+    },
+    {
+      "id": "RigUnit_HierarchyGetPoseItemArray",
+      "type": "Class",
+      "name": "RigUnit_HierarchyGetPoseItemArray",
+      "description": "Rig unit that returns the hierarchy's pose"
+    },
+    {
+      "id": "UsdDuplicateType",
+      "type": "Enum",
+      "name": "UsdDuplicateType",
+      "description": "Enum describing the different types of prim duplication operations"
+    },
+    {
+      "id": "TransformCurve",
+      "type": "Class",
+      "name": "TransformCurve",
+      "description": "Transform Curve"
+    },
+    {
+      "id": "WDPSetCameraSpeedParams",
+      "type": "Class",
+      "name": "WDPSetCameraSpeedParams",
+      "description": "Camera speed parameters class"
+    },
+    {
+      "id": "VFPlayerActor",
+      "type": "Class",
+      "name": "VFPlayerActor",
+      "description": "Video player actor"
+    },
+    {
+      "id": "Widget_GetText",
+      "type": "Delegate",
+      "name": "Widget_GetText",
+      "description": "Get Text delegate signature"
+    },
+    {
+      "id": "AesEditorRoadAdvancedToolsToolMode",
+      "type": "Enum",
+      "name": "AesEditorRoadAdvancedToolsToolMode",
+      "description": "Enum for Aes Editor Road Advanced Tools Tool Mode"
+    },
+    {
+      "id": "PCGSettingsWithDynamicInputs",
+      "type": "Class",
+      "name": "PCGSettingsWithDynamicInputs",
+      "description": "UPCGSettings subclass with functionality to dynamically add/remove input pins"
+    },
+    {
+      "id": "AnimationCompressionLibraryDatabase",
+      "type": "Class",
+      "name": "AnimationCompressionLibraryDatabase",
+      "description": "An ACL database object references several UAnimSequence instances that it contains"
+    },
+    {
+      "id": "RigSpaceType",
+      "type": "Enum",
+      "name": "RigSpaceType",
+      "description": "Enum for rig space types"
+    },
+    {
+      "id": "GeometryMaskCanvasReferenceComponentBase",
+      "type": "Class",
+      "name": "GeometryMaskCanvasReferenceComponentBase",
+      "description": "Geometry Mask Canvas Reference Component Base"
+    },
+    {
+      "id": "EmitterSpawnable",
+      "type": "Class",
+      "name": "EmitterSpawnable",
+      "description": "Deprecated - was renamed to Emitter"
+    },
+    {
+      "id": "SkeletonFactory",
+      "type": "Class",
+      "name": "SkeletonFactory",
+      "description": "Skeleton Factory"
+    },
+    {
+      "id": "Engine_Module",
+      "type": "Module",
+      "name": "Engine",
+      "description": "Engine module"
+    },
+    {
+      "id": "AnimGraph_Module",
+      "type": "Module",
+      "name": "AnimGraph",
+      "description": "AnimGraph module"
+    },
+    {
+      "id": "UMG_Module",
+      "type": "Module",
+      "name": "UMG",
+      "description": "UMG module"
+    },
+    {
+      "id": "UnrealEd_Module",
+      "type": "Module",
+      "name": "UnrealEd",
+      "description": "UnrealEd module"
+    },
+    {
+      "id": "RigVM_Plugin",
+      "type": "Plugin",
+      "name": "RigVM",
+      "description": "RigVM plugin"
+    },
+    {
+      "id": "GeometryCollectionPlugin_Plugin",
+      "type": "Plugin",
+      "name": "GeometryCollectionPlugin",
+      "description": "GeometryCollectionPlugin plugin"
+    },
+    {
+      "id": "AesWorld_Plugin",
+      "type": "Plugin",
+      "name": "AesWorld",
+      "description": "AesWorld plugin"
+    },
+    {
+      "id": "MediaIOFramework_Plugin",
+      "type": "Plugin",
+      "name": "MediaIOFramework",
+      "description": "MediaIOFramework plugin"
+    },
+    {
+      "id": "ControlRig_Plugin",
+      "type": "Plugin",
+      "name": "ControlRig",
+      "description": "ControlRig plugin"
+    },
+    {
+      "id": "USDCore_Plugin",
+      "type": "Plugin",
+      "name": "USDCore",
+      "description": "USDCore plugin"
+    },
+    {
+      "id": "WdpRuntimeAPI_Plugin",
+      "type": "Plugin",
+      "name": "WdpRuntimeAPI",
+      "description": "WdpRuntimeAPI plugin"
+    },
+    {
+      "id": "VFVideoPlayer_Plugin",
+      "type": "Plugin",
+      "name": "VFVideoPlayer",
+      "description": "VFVideoPlayer plugin"
+    },
+    {
+      "id": "PCG_Plugin",
+      "type": "Plugin",
+      "name": "PCG",
+      "description": "PCG plugin"
+    },
+    {
+      "id": "ACLPlugin_Plugin",
+      "type": "Plugin",
+      "name": "ACLPlugin",
+      "description": "ACLPlugin plugin"
+    },
+    {
+      "id": "GeometryMask_Plugin",
+      "type": "Plugin",
+      "name": "GeometryMask",
+      "description": "GeometryMask plugin"
+    },
+    {
+      "id": "Actor",
+      "type": "Class",
+      "name": "Actor",
+      "description": "Base Actor class"
+    },
+    {
+      "id": "StructBase",
+      "type": "Class",
+      "name": "StructBase",
+      "description": "Base struct class"
+    },
+    {
+      "id": "EnumBase",
+      "type": "Class",
+      "name": "EnumBase",
+      "description": "Base enum class"
+    },
+    {
+      "id": "DelegateBase",
+      "type": "Class",
+      "name": "DelegateBase",
+      "description": "Base delegate class"
+    },
+    {
+      "id": "DataTable",
+      "type": "Class",
+      "name": "DataTable",
+      "description": "Data table class"
+    },
+    {
+      "id": "RigVMFunction_MathFloatUnaryOp",
+      "type": "Class",
+      "name": "RigVMFunction_MathFloatUnaryOp",
+      "description": "RigVM Function Math Float Unary Op"
+    },
+    {
+      "id": "AnimGraphNode_CustomProperty",
+      "type": "Class",
+      "name": "AnimGraphNode_CustomProperty",
+      "description": "Anim Graph Node Custom Property"
+    },
+    {
+      "id": "RigUnit_HierarchyBase",
+      "type": "Class",
+      "name": "RigUnit_HierarchyBase",
+      "description": "Rig Unit Hierarchy Base"
+    },
+    {
+      "id": "AnimCurveBase",
+      "type": "Class",
+      "name": "AnimCurveBase",
+      "description": "Anim Curve Base"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "Class",
+      "name": "ParamsBase",
+      "description": "Params Base"
+    },
+    {
+      "id": "PCGSettings",
+      "type": "Class",
+      "name": "PCGSettings",
+      "description": "PCG Settings"
+    },
+    {
+      "id": "Object",
+      "type": "Class",
+      "name": "Object",
+      "description": "Base Object class"
+    },
+    {
+      "id": "ActorComponent",
+      "type": "Class",
+      "name": "ActorComponent",
+      "description": "Actor Component"
+    },
+    {
+      "id": "Emitter",
+      "type": "Class",
+      "name": "Emitter",
+      "description": "Emitter class"
+    },
+    {
+      "id": "Factory",
+      "type": "Class",
+      "name": "Factory",
+      "description": "Factory class"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "BasedPosition",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BasedPosition",
+      "target": "Engine_Module",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RichCurveTangentMode",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RichCurveTangentMode",
+      "target": "Engine_Module",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "DataflowTransferVertexAttributeNodeFalloff",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DataflowTransferVertexAttributeNodeFalloff",
+      "target": "GeometryCollectionPlugin_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathFloatNegate",
+      "target": "RigVMFunction_MathFloatUnaryOp",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathFloatNegate",
+      "target": "RigVM_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "CustomWidgetNavigationDelegate",
+      "target": "DelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CustomWidgetNavigationDelegate",
+      "target": "UMG_Module",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EarthShapeGrammarSubmodule",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthShapeGrammarSubmodule",
+      "target": "AesWorld_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "MirrorDataTable",
+      "target": "DataTable",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MirrorDataTable",
+      "target": "Engine_Module",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "MediaIOInterlaceFieldOrder",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MediaIOInterlaceFieldOrder",
+      "target": "MediaIOFramework_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "AnimGraphNode_LinkedAnimGraphBase",
+      "target": "AnimGraphNode_CustomProperty",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimGraphNode_LinkedAnimGraphBase",
+      "target": "AnimGraph_Module",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigUnit_HierarchyGetPoseItemArray",
+      "target": "RigUnit_HierarchyBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_HierarchyGetPoseItemArray",
+      "target": "ControlRig_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "UsdDuplicateType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "UsdDuplicateType",
+      "target": "USDCore_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "TransformCurve",
+      "target": "AnimCurveBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TransformCurve",
+      "target": "Engine_Module",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "WDPSetCameraSpeedParams",
+      "target": "ParamsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WDPSetCameraSpeedParams",
+      "target": "WdpRuntimeAPI_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "VFPlayerActor",
+      "target": "Actor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "VFPlayerActor",
+      "target": "VFVideoPlayer_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "Widget_GetText",
+      "target": "DelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "Widget_GetText",
+      "target": "UMG_Module",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AesEditorRoadAdvancedToolsToolMode",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesEditorRoadAdvancedToolsToolMode",
+      "target": "AesWorld_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "PCGSettingsWithDynamicInputs",
+      "target": "PCGSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGSettingsWithDynamicInputs",
+      "target": "PCG_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "AnimationCompressionLibraryDatabase",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimationCompressionLibraryDatabase",
+      "target": "ACLPlugin_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigSpaceType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigSpaceType",
+      "target": "ControlRig_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "GeometryMaskCanvasReferenceComponentBase",
+      "target": "ActorComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryMaskCanvasReferenceComponentBase",
+      "target": "GeometryMask_Plugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "EmitterSpawnable",
+      "target": "Emitter",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SkeletonFactory",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SkeletonFactory",
+      "target": "UnrealEd_Module",
+      "type": "defined_in_module"
+    }
+  ]
+}

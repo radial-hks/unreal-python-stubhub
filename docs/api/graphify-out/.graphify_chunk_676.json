@@ -1,0 +1,670 @@
+{
+  "nodes": [
+    {
+      "id": "SourceEffectEQSettings",
+      "type": "class",
+      "label": "SourceEffectEQSettings",
+      "description": "EQ source effect settings",
+      "module": "Synthesis",
+      "plugin": "Synthesis",
+      "file": "SourceEffectEQ.h",
+      "base_class": "StructBase",
+      "properties": ["eq_bands"]
+    },
+    {
+      "id": "Vector2D",
+      "type": "class",
+      "label": "Vector2D",
+      "description": "A vector in 2-D space composed of components (X, Y) with floating point precision",
+      "module": "CoreUObject",
+      "file": "NoExportTypes.h",
+      "base_class": "StructBase",
+      "properties": ["x", "y"],
+      "methods": ["length_squared", "length", "interp_to_constant", "interp_to", "to_sign", "to_rounded", "to_direction_and_length", "subtract", "subtract_float", "spherical_to_unit_cartesian", "set", "not_equal", "is_not_near_equal", "normal", "normalize", "normal_unsafe", "negated", "multiply", "multiply_float", "is_zero", "is_nearly_zero", "get_rotated", "get_min", "get_max", "get_abs_max", "get_abs", "equals", "is_near_equal", "dot", "divide", "divide_float", "distance_squared", "distance", "cross", "vector", "int_point", "clamped_axes", "add", "add_float"]
+    },
+    {
+      "id": "WidgetBlueprintFactory",
+      "type": "class",
+      "label": "WidgetBlueprintFactory",
+      "description": "Widget Blueprint Factory",
+      "module": "UMGEditor",
+      "file": "WidgetBlueprintFactory.h",
+      "base_class": "Factory",
+      "properties": ["asset_import_task", "automated_import_data", "blueprint_type", "context_class", "create_new", "edit_after_new", "editor_import", "formats", "parent_class", "supported_class", "text"]
+    },
+    {
+      "id": "TweenUpdateFloatOutputPin",
+      "type": "class",
+      "label": "TweenUpdateFloatOutputPin",
+      "description": "Tween Update Float Output Pin Delegate Signature",
+      "module": "FCTween",
+      "plugin": "FCTween",
+      "file": "FCTweenBPActionFloat.h",
+      "base_class": "MulticastDelegateBase",
+      "parameters": ["value"]
+    },
+    {
+      "id": "EditorUtilityToolMenuSection",
+      "type": "class",
+      "label": "EditorUtilityToolMenuSection",
+      "description": "Editor Utility Tool Menu Section",
+      "module": "Blutility",
+      "file": "EditorUtilityToolMenu.h",
+      "base_class": "ToolMenuSectionDynamic"
+    },
+    {
+      "id": "AvaTagAlias",
+      "type": "class",
+      "label": "AvaTagAlias",
+      "description": "An alias represents multiple other Tag Ids. Unlike Tag Containers which would need to be updated in every place it's used when the set of tags it needs to manipulate is added to or removed from, Aliases are a layer of abstraction that allows the set of tags to be added to or removed from without affecting the places where the alias is used.",
+      "module": "AvalancheTag",
+      "plugin": "Avalanche",
+      "file": "AvaTagAlias.h",
+      "base_class": "StructBase",
+      "properties": ["alias_name", "tag_ids"]
+    },
+    {
+      "id": "ServerStatReplicator",
+      "type": "class",
+      "label": "ServerStatReplicator",
+      "description": "Class used to replicate server stat net data over. For server only values, the client data is overwritten when bUpdateStatNet == true. For data that both the client and server set, the server data will only overwrite if bUpdateStatNet == true && bOverwriteClientStats == true.",
+      "module": "Engine",
+      "file": "ServerStatReplicator.h",
+      "base_class": "Info",
+      "properties": ["actor_guid", "actor_instance_guid", "allow_tick_before_begin_play", "always_relevant", "async_physics_tick_enabled", "auto_destroy_when_finished", "auto_receive_input", "block_input", "call_pre_replication", "call_pre_replication_for_replay", "can_be_damaged", "can_be_in_cluster", "content_bundle_guid", "custom_time_dilation", "data_layer_assets", "data_layers", "default_update_overlaps_method_during_level_streaming", "enable_auto_lod_generation", "external_data_layer_asset", "find_camera_component_when_view_target", "generate_overlap_events_during_level_streaming", "hidden", "hlod_layer", "ignores_origin_shifting", "initial_life_span", "input_priority", "instigator", "is_editor_only_actor", "is_main_world_only", "is_spatially_loaded", "layers", "min_net_update_frequency", "net_cull_distance_squared", "net_dormancy", "net_load_on_client", "net_priority", "net_update_frequency", "net_use_owner_relevancy", "on_actor_begin_overlap", "on_actor_end_overlap", "on_actor_hit", "on_begin_cursor_over", "on_clicked", "on_destroyed", "on_end_cursor_over", "on_end_play", "on_input_touch_begin", "on_input_touch_end", "on_input_touch_enter", "on_input_touch_leave", "on_released", "on_take_any_damage", "on_take_point_damage", "on_take_radial_damage", "only_relevant_to_owner", "optimize_bp_component_data", "overwrite_client_stats", "physics_replication_mode", "pivot_offset", "primary_actor_tick", "relevant_for_level_bounds", "remote_role", "replay_rewindable", "replicate_movement", "replicate_using_registered_sub_object_list", "replicated_movement", "replicates", "role", "root_component", "runtime_grid", "spawn_collision_handling_method", "sprite_scale", "tags", "update_overlaps_method_during_level_streaming", "update_stat_net"]
+    },
+    {
+      "id": "VerticalBoxSlot",
+      "type": "class",
+      "label": "VerticalBoxSlot",
+      "description": "The Slot for the UVerticalBox, contains the widget that is flowed vertically",
+      "module": "UMG",
+      "file": "VerticalBoxSlot.h",
+      "base_class": "PanelSlot",
+      "properties": ["horizontal_alignment", "padding", "size", "vertical_alignment"],
+      "methods": ["set_vertical_alignment", "set_size", "set_padding", "set_horizontal_alignment"]
+    },
+    {
+      "id": "PropertyControllerEasingFunction",
+      "type": "enum",
+      "label": "PropertyControllerEasingFunction",
+      "description": "deprecated: 'PropertyControllerEasingFunction' was renamed to 'PropertyAnimatorEasingFunction'.",
+      "values": ["LINEAR", "SINE", "QUAD", "CUBIC", "QUART", "QUINT", "EXPO", "CIRC", "BACK", "ELASTIC", "BOUNCE"]
+    },
+    {
+      "id": "AvaTransitionSequenceWaitType",
+      "type": "enum",
+      "label": "AvaTransitionSequenceWaitType",
+      "description": "EAva Transition Sequence Wait Type",
+      "module": "AvalancheSequence",
+      "plugin": "Avalanche",
+      "file": "AvaTransitionSequenceEnums.h",
+      "values": ["NO_WAIT", "WAIT_UNTIL_STOP"]
+    },
+    {
+      "id": "WaitGameplayEffectStackChangeDelegate",
+      "type": "class",
+      "label": "WaitGameplayEffectStackChangeDelegate",
+      "description": "Wait Gameplay Effect Stack Change Delegate Delegate Signature",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "file": "AbilityTask_WaitGameplayEffectStackChange.h",
+      "base_class": "MulticastDelegateBase",
+      "parameters": ["handle", "new_count", "old_count"]
+    },
+    {
+      "id": "PCGElementMultiplicity",
+      "type": "enum",
+      "label": "PCGElementMultiplicity",
+      "description": "Method for combining two or more element counts.",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGPinPropertiesGPU.h",
+      "values": ["PRODUCT", "SUM"]
+    },
+    {
+      "id": "RigUnit_CCDIK_RotationLimit",
+      "type": "class",
+      "label": "RigUnit_CCDIK_RotationLimit",
+      "description": "Rig Unit CCDIK Rotation Limit",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_CCDIK.h",
+      "base_class": "StructBase",
+      "properties": ["bone", "limit"]
+    },
+    {
+      "id": "GameplayAbilityTargetData",
+      "type": "class",
+      "label": "GameplayAbilityTargetData",
+      "description": "A generic structure for targeting data. We want generic functions to produce this data and other generic functions to consume this data. We expect this to be able to hold specific actors/object reference and also generic location/direction/origin information.",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "file": "GameplayAbilityTargetTypes.h",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "PolygonsGraphicsEntity",
+      "type": "class",
+      "label": "PolygonsGraphicsEntity",
+      "description": "Polygons Graphics Entity",
+      "module": "WdpGraphicsEntity",
+      "plugin": "WdpDataModel",
+      "file": "PolygonsGraphicsEntity.h",
+      "base_class": "WdpStandardActorEntity",
+      "properties": ["entity_atoms", "entity_id"],
+      "methods": ["set_polygons", "remove_polygons", "remove_entities", "get_polygon", "clear", "add_entities"]
+    },
+    {
+      "id": "MovieGraphSetStartEndConsoleCommandsNode",
+      "type": "class",
+      "label": "MovieGraphSetStartEndConsoleCommandsNode",
+      "description": "A node which can set console commands to run at the start and end of a render.",
+      "module": "MovieRenderPipelineCore",
+      "plugin": "MovieRenderPipeline",
+      "file": "MovieGraphSetStartEndConsoleCommandsNode.h",
+      "base_class": "MovieGraphSettingNode",
+      "properties": ["console_commands", "dynamic_properties", "override_console_commands", "script_tags"]
+    },
+    {
+      "id": "K2Node_CallFunction",
+      "type": "class",
+      "label": "K2Node_CallFunction",
+      "description": "K2Node Call Function",
+      "module": "BlueprintGraph",
+      "file": "K2Node_CallFunction.h",
+      "base_class": "K2Node"
+    },
+    {
+      "id": "ActorTextureStreamingBuildDataComponent",
+      "type": "class",
+      "label": "ActorTextureStreamingBuildDataComponent",
+      "description": "Actor Texture Streaming Build Data Component",
+      "module": "Engine",
+      "file": "ActorTextureStreamingBuildDataComponent.h",
+      "base_class": "ActorComponent",
+      "properties": ["asset_user_data", "asset_user_data_editor_only", "auto_activate", "can_ever_affect_navigation", "component_tags", "editable_when_inherited", "is_editor_only", "on_component_activated", "on_component_deactivated", "primary_component_tick", "replicate_using_registered_sub_object_list", "replicates"]
+    },
+    {
+      "id": "TweenUpdateQuatOutputPin",
+      "type": "class",
+      "label": "TweenUpdateQuatOutputPin",
+      "description": "Tween Update Quat Output Pin Delegate Signature",
+      "module": "FCTween",
+      "plugin": "FCTween",
+      "file": "FCTweenBPActionQuat.h",
+      "base_class": "MulticastDelegateBase",
+      "parameters": ["value"]
+    },
+    {
+      "id": "MovieSceneBindingProxy",
+      "type": "class",
+      "label": "MovieSceneBindingProxy",
+      "description": "Movie Scene Binding Proxy represents the binding ID (an FGuid) and the corresponding sequence that it relates to. This is primarily used for scripting where there is no support for FMovieSceneSequenceID and use cases where managing multiple bindings with their corresponding sequences is necessary.",
+      "module": "MovieScene",
+      "file": "MovieSceneBindingProxy.h",
+      "base_class": "StructBase",
+      "properties": ["binding_id", "sequence"],
+      "methods": ["set_spawnable_binding_id", "set_sorting_order", "set_parent", "set_name", "set_display_name", "remove_track", "remove", "move_binding_contents", "is_valid", "get_tracks", "get_sorting_order", "get_possessed_object_class", "get_parent", "get_object_template", "get_name", "get_id", "get_display_name", "get_child_possessables", "find_tracks_by_type", "find_tracks_by_exact_type", "add_track"]
+    },
+    {
+      "id": "RigVMFunction_MathVectorBase",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorBase",
+      "description": "Rig VMFunction Math Vector Base",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathVector.h",
+      "base_class": "RigVMFunction_MathBase"
+    },
+    {
+      "id": "PCGSaveDynamicMeshToAssetSettings",
+      "type": "class",
+      "label": "PCGSaveDynamicMeshToAssetSettings",
+      "description": "Saves dynamic mesh data into a static mesh asset.",
+      "module": "PCGGeometryScriptInterop",
+      "plugin": "PCGGeometryScriptInterop",
+      "file": "PCGSaveDynamicMeshToAsset.h",
+      "base_class": "PCGDynamicMeshBaseSettings",
+      "properties": ["break_debugger", "category", "copy_mesh_to_asset_options", "debug", "debug_buffer_size", "debug_settings", "description", "determinism_settings", "dump_cooked_hlsl", "dump_data_descriptions", "enabled", "execute_on_gpu", "export_materials_from_dynamic_mesh", "export_params", "expose_to_library", "mesh_write_lod", "print_shader_debug_values", "seed", "use_seed"]
+    },
+    {
+      "id": "StructBase",
+      "type": "base_class",
+      "label": "StructBase",
+      "description": "Base class for Unreal structs"
+    },
+    {
+      "id": "Factory",
+      "type": "base_class",
+      "label": "Factory",
+      "description": "Base class for Unreal factories"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "base_class",
+      "label": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "EnumBase",
+      "type": "base_class",
+      "label": "EnumBase",
+      "description": "Base class for enums"
+    },
+    {
+      "id": "Info",
+      "type": "base_class",
+      "label": "Info",
+      "description": "Base class for info actors"
+    },
+    {
+      "id": "PanelSlot",
+      "type": "base_class",
+      "label": "PanelSlot",
+      "description": "Base class for panel slots"
+    },
+    {
+      "id": "K2Node",
+      "type": "base_class",
+      "label": "K2Node",
+      "description": "Base class for Blueprint nodes"
+    },
+    {
+      "id": "ActorComponent",
+      "type": "base_class",
+      "label": "ActorComponent",
+      "description": "Base class for actor components"
+    },
+    {
+      "id": "MovieGraphSettingNode",
+      "type": "base_class",
+      "label": "MovieGraphSettingNode",
+      "description": "Base class for movie graph setting nodes"
+    },
+    {
+      "id": "WdpStandardActorEntity",
+      "type": "base_class",
+      "label": "WdpStandardActorEntity",
+      "description": "Base class for WDP standard actor entities"
+    },
+    {
+      "id": "RigVMFunction_MathBase",
+      "type": "base_class",
+      "label": "RigVMFunction_MathBase",
+      "description": "Base class for RigVM math functions"
+    },
+    {
+      "id": "PCGDynamicMeshBaseSettings",
+      "type": "base_class",
+      "label": "PCGDynamicMeshBaseSettings",
+      "description": "Base class for PCG dynamic mesh settings"
+    },
+    {
+      "id": "ToolMenuSectionDynamic",
+      "type": "base_class",
+      "label": "ToolMenuSectionDynamic",
+      "description": "Base class for tool menu sections"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "type": "inheritance",
+      "source": "SourceEffectEQSettings",
+      "target": "StructBase"
+    },
+    {
+      "id": "edge_2",
+      "type": "inheritance",
+      "source": "Vector2D",
+      "target": "StructBase"
+    },
+    {
+      "id": "edge_3",
+      "type": "inheritance",
+      "source": "WidgetBlueprintFactory",
+      "target": "Factory"
+    },
+    {
+      "id": "edge_4",
+      "type": "inheritance",
+      "source": "TweenUpdateFloatOutputPin",
+      "target": "MulticastDelegateBase"
+    },
+    {
+      "id": "edge_5",
+      "type": "inheritance",
+      "source": "EditorUtilityToolMenuSection",
+      "target": "ToolMenuSectionDynamic"
+    },
+    {
+      "id": "edge_6",
+      "type": "inheritance",
+      "source": "AvaTagAlias",
+      "target": "StructBase"
+    },
+    {
+      "id": "edge_7",
+      "type": "inheritance",
+      "source": "ServerStatReplicator",
+      "target": "Info"
+    },
+    {
+      "id": "edge_8",
+      "type": "inheritance",
+      "source": "VerticalBoxSlot",
+      "target": "PanelSlot"
+    },
+    {
+      "id": "edge_9",
+      "type": "inheritance",
+      "source": "PropertyControllerEasingFunction",
+      "target": "EnumBase"
+    },
+    {
+      "id": "edge_10",
+      "type": "inheritance",
+      "source": "AvaTransitionSequenceWaitType",
+      "target": "EnumBase"
+    },
+    {
+      "id": "edge_11",
+      "type": "inheritance",
+      "source": "WaitGameplayEffectStackChangeDelegate",
+      "target": "MulticastDelegateBase"
+    },
+    {
+      "id": "edge_12",
+      "type": "inheritance",
+      "source": "PCGElementMultiplicity",
+      "target": "EnumBase"
+    },
+    {
+      "id": "edge_13",
+      "type": "inheritance",
+      "source": "RigUnit_CCDIK_RotationLimit",
+      "target": "StructBase"
+    },
+    {
+      "id": "edge_14",
+      "type": "inheritance",
+      "source": "GameplayAbilityTargetData",
+      "target": "StructBase"
+    },
+    {
+      "id": "edge_15",
+      "type": "inheritance",
+      "source": "PolygonsGraphicsEntity",
+      "target": "WdpStandardActorEntity"
+    },
+    {
+      "id": "edge_16",
+      "type": "inheritance",
+      "source": "MovieGraphSetStartEndConsoleCommandsNode",
+      "target": "MovieGraphSettingNode"
+    },
+    {
+      "id": "edge_17",
+      "type": "inheritance",
+      "source": "K2Node_CallFunction",
+      "target": "K2Node"
+    },
+    {
+      "id": "edge_18",
+      "type": "inheritance",
+      "source": "ActorTextureStreamingBuildDataComponent",
+      "target": "ActorComponent"
+    },
+    {
+      "id": "edge_19",
+      "type": "inheritance",
+      "source": "TweenUpdateQuatOutputPin",
+      "target": "MulticastDelegateBase"
+    },
+    {
+      "id": "edge_20",
+      "type": "inheritance",
+      "source": "MovieSceneBindingProxy",
+      "target": "StructBase"
+    },
+    {
+      "id": "edge_21",
+      "type": "inheritance",
+      "source": "RigVMFunction_MathVectorBase",
+      "target": "RigVMFunction_MathBase"
+    },
+    {
+      "id": "edge_22",
+      "type": "inheritance",
+      "source": "PCGSaveDynamicMeshToAssetSettings",
+      "target": "PCGDynamicMeshBaseSettings"
+    },
+    {
+      "id": "edge_23",
+      "type": "composition",
+      "source": "SourceEffectEQSettings",
+      "target": "SourceEffectEQBand",
+      "property": "eq_bands"
+    },
+    {
+      "id": "edge_24",
+      "type": "composition",
+      "source": "AvaTagAlias",
+      "target": "AvaTagId",
+      "property": "tag_ids"
+    },
+    {
+      "id": "edge_25",
+      "type": "composition",
+      "source": "VerticalBoxSlot",
+      "target": "SlateChildSize",
+      "property": "size"
+    },
+    {
+      "id": "edge_26",
+      "type": "composition",
+      "source": "VerticalBoxSlot",
+      "target": "Margin",
+      "property": "padding"
+    },
+    {
+      "id": "edge_27",
+      "type": "composition",
+      "source": "MovieGraphSetStartEndConsoleCommandsNode",
+      "target": "MovieGraphStartEndConsoleCommands",
+      "property": "console_commands"
+    },
+    {
+      "id": "edge_28",
+      "type": "composition",
+      "source": "MovieSceneBindingProxy",
+      "target": "Guid",
+      "property": "binding_id"
+    },
+    {
+      "id": "edge_29",
+      "type": "composition",
+      "source": "MovieSceneBindingProxy",
+      "target": "MovieSceneSequence",
+      "property": "sequence"
+    },
+    {
+      "id": "edge_30",
+      "type": "composition",
+      "source": "PCGSaveDynamicMeshToAssetSettings",
+      "target": "PCGAssetExporterParameters",
+      "property": "export_params"
+    },
+    {
+      "id": "edge_31",
+      "type": "composition",
+      "source": "PCGSaveDynamicMeshToAssetSettings",
+      "target": "GeometryScriptCopyMeshToAssetOptions",
+      "property": "copy_mesh_to_asset_options"
+    },
+    {
+      "id": "edge_32",
+      "type": "composition",
+      "source": "PCGSaveDynamicMeshToAssetSettings",
+      "target": "GeometryScriptMeshWriteLOD",
+      "property": "mesh_write_lod"
+    },
+    {
+      "id": "edge_33",
+      "type": "dependency",
+      "source": "Vector2D",
+      "target": "Vector",
+      "method": "spherical_to_unit_cartesian"
+    },
+    {
+      "id": "edge_34",
+      "type": "dependency",
+      "source": "Vector2D",
+      "target": "IntPoint",
+      "method": "int_point"
+    },
+    {
+      "id": "edge_35",
+      "type": "dependency",
+      "source": "PolygonsGraphicsEntity",
+      "target": "PolygonGraphicsData",
+      "method": "set_polygons"
+    },
+    {
+      "id": "edge_36",
+      "type": "dependency",
+      "source": "MovieSceneBindingProxy",
+      "target": "MovieSceneTrack",
+      "method": "get_tracks"
+    },
+    {
+      "id": "edge_37",
+      "type": "dependency",
+      "source": "TweenUpdateFloatOutputPin",
+      "target": "float",
+      "parameter": "value"
+    },
+    {
+      "id": "edge_38",
+      "type": "dependency",
+      "source": "TweenUpdateQuatOutputPin",
+      "target": "Quat",
+      "parameter": "value"
+    },
+    {
+      "id": "edge_39",
+      "type": "dependency",
+      "source": "WaitGameplayEffectStackChangeDelegate",
+      "target": "ActiveGameplayEffectHandle",
+      "parameter": "handle"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "type": "module_group",
+      "label": "Synthesis Module",
+      "description": "Audio synthesis and effects",
+      "nodes": ["SourceEffectEQSettings"]
+    },
+    {
+      "id": "hyperedge_2",
+      "type": "module_group",
+      "label": "Core Math Types",
+      "description": "Core mathematical structures",
+      "nodes": ["Vector2D"]
+    },
+    {
+      "id": "hyperedge_3",
+      "type": "module_group",
+      "label": "UMG/Widget System",
+      "description": "User interface and widget-related classes",
+      "nodes": ["WidgetBlueprintFactory", "VerticalBoxSlot"]
+    },
+    {
+      "id": "hyperedge_4",
+      "type": "module_group",
+      "label": "Tween/Animation System",
+      "description": "Animation and interpolation functionality",
+      "nodes": ["TweenUpdateFloatOutputPin", "TweenUpdateQuatOutputPin", "PropertyControllerEasingFunction"]
+    },
+    {
+      "id": "hyperedge_5",
+      "type": "module_group",
+      "label": "Editor Utilities",
+      "description": "Editor-specific functionality",
+      "nodes": ["EditorUtilityToolMenuSection", "K2Node_CallFunction"]
+    },
+    {
+      "id": "hyperedge_6",
+      "type": "module_group",
+      "label": "Avalanche Plugin",
+      "description": "Avalanche plugin functionality",
+      "nodes": ["AvaTagAlias", "AvaTransitionSequenceWaitType"]
+    },
+    {
+      "id": "hyperedge_7",
+      "type": "module_group",
+      "label": "Networking/Replication",
+      "description": "Network replication and statistics",
+      "nodes": ["ServerStatReplicator"]
+    },
+    {
+      "id": "hyperedge_8",
+      "type": "module_group",
+      "label": "Gameplay Abilities",
+      "description": "Gameplay ability system",
+      "nodes": ["GameplayAbilityTargetData", "WaitGameplayEffectStackChangeDelegate"]
+    },
+    {
+      "id": "hyperedge_9",
+      "type": "module_group",
+      "label": "PCG System",
+      "description": "Procedural content generation",
+      "nodes": ["PCGElementMultiplicity", "PCGSaveDynamicMeshToAssetSettings"]
+    },
+    {
+      "id": "hyperedge_10",
+      "type": "module_group",
+      "label": "Control Rig",
+      "description": "Animation rigging system",
+      "nodes": ["RigUnit_CCDIK_RotationLimit", "RigVMFunction_MathVectorBase"]
+    },
+    {
+      "id": "hyperedge_11",
+      "type": "module_group",
+      "label": "Movie Render Pipeline",
+      "description": "Movie rendering and sequencing",
+      "nodes": ["MovieGraphSetStartEndConsoleCommandsNode", "MovieSceneBindingProxy"]
+    },
+    {
+      "id": "hyperedge_12",
+      "type": "module_group",
+      "label": "Graphics/Rendering",
+      "description": "Graphics and rendering components",
+      "nodes": ["PolygonsGraphicsEntity", "ActorTextureStreamingBuildDataComponent"]
+    },
+    {
+      "id": "hyperedge_13",
+      "type": "functional_group",
+      "label": "Delegate Types",
+      "description": "Multicast delegate base classes",
+      "nodes": ["TweenUpdateFloatOutputPin", "TweenUpdateQuatOutputPin", "WaitGameplayEffectStackChangeDelegate"]
+    },
+    {
+      "id": "hyperedge_14",
+      "type": "functional_group",
+      "label": "Enum Types",
+      "description": "Enumeration types",
+      "nodes": ["PropertyControllerEasingFunction", "AvaTransitionSequenceWaitType", "PCGElementMultiplicity"]
+    },
+    {
+      "id": "hyperedge_15",
+      "type": "functional_group",
+      "label": "Struct Types",
+      "description": "Data structure types inheriting from StructBase",
+      "nodes": ["SourceEffectEQSettings", "Vector2D", "AvaTagAlias", "RigUnit_CCDIK_RotationLimit", "GameplayAbilityTargetData", "MovieSceneBindingProxy"]
+    }
+  ]
+}

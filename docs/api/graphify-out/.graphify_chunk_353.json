@@ -1,0 +1,986 @@
+{
+  "nodes": [
+    {
+      "id": "rigunithierarchygetposeitemarray_rigunithierarchygetposeitemarray",
+      "label": "RigUnit Hierarchy Get Pose Item Array",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunithierarchybase_rigunithierarchybase",
+      "label": "RigUnit Hierarchy Base",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmdrawsettings_rigvmdrawsettings",
+      "label": "RigVM Draw Settings",
+      "file_type": "document",
+      "source_file": "RigVMDrawSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacademeshprefab_earthfacademeshprefab",
+      "label": "Earth Facade Mesh Prefab",
+      "file_type": "document",
+      "source_file": "EarthFacadeMeshPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabbase_earthprefabbase",
+      "label": "Earth Prefab Base",
+      "file_type": "document",
+      "source_file": "EarthFacadeMeshPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionblendmaterialattributes_materialexpressionblendmaterialattributes",
+      "label": "Material Expression Blend Material Attributes",
+      "file_type": "document",
+      "source_file": "MaterialExpressionBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "Material Expression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodylake_waterbodylake",
+      "label": "Water Body Lake",
+      "file_type": "document",
+      "source_file": "WaterBodyLake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbody_waterbody",
+      "label": "Water Body",
+      "file_type": "document",
+      "source_file": "WaterBodyLake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meterchannelinfo_meterchannelinfo",
+      "label": "Meter Channel Info",
+      "file_type": "document",
+      "source_file": "MeterChannelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilityscrollbox_editorutilityscrollbox",
+      "label": "Editor Utility Scroll Box",
+      "file_type": "document",
+      "source_file": "EditorUtilityScrollBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scrollbox_scrollbox",
+      "label": "Scroll Box",
+      "file_type": "document",
+      "source_file": "EditorUtilityScrollBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_getint32_widget_getint32",
+      "label": "Widget Get Int32",
+      "file_type": "document",
+      "source_file": "Widget_GetInt32 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodylakecomponent_waterbodylakecomponent",
+      "label": "Water Body Lake Component",
+      "file_type": "document",
+      "source_file": "WaterBodyLakeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodycomponent_waterbodycomponent",
+      "label": "Water Body Component",
+      "file_type": "document",
+      "source_file": "WaterBodyLakeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springik_debugsettings_rigunit_springik_debugsettings",
+      "label": "RigUnit Spring IK Debug Settings",
+      "file_type": "document",
+      "source_file": "RigUnit_SpringIK_DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_ikrig_animnode_ikrig",
+      "label": "Anim Node IK Rig",
+      "file_type": "document",
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_customproperty_animnode_customproperty",
+      "label": "Anim Node Custom Property",
+      "file_type": "document",
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairadvancedrenderingsettings_hairadvancedrenderingsettings",
+      "label": "Hair Advanced Rendering Settings",
+      "file_type": "document",
+      "source_file": "HairAdvancedRenderingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintoname_rigvmfunction_mathintoname",
+      "label": "RigVM Function Math Int To Name",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntToName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase_rigvmfunction_mathintbase",
+      "label": "RigVM Function Math Int Base",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntToName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameramodifier_cameramodifier",
+      "label": "Camera Modifier",
+      "file_type": "document",
+      "source_file": "CameraModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "CameraModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_ownership",
+      "label": "Camera Ownership",
+      "file_type": "document",
+      "source_file": "CameraModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createloadheatmapparams_batch_createloadheatmapparams_batch",
+      "label": "Create Road Heat Map Params Batch",
+      "file_type": "document",
+      "source_file": "CreateRoadHeatMapParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripttopologyconnectiontype_geometryscripttopologyconnectiontype",
+      "label": "Geometry Script Topology Connection Type",
+      "file_type": "document",
+      "source_file": "GeometryScriptTopologyConnectionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debuglineitemspace_rigunit_debuglineitemspace",
+      "label": "RigUnit Debug Line Item Space",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugLineItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbasemutable_rigunit_debugbasemutable",
+      "label": "RigUnit Debug Base Mutable",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugLineItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatelibrary_slatelibrary",
+      "label": "Slate Library",
+      "file_type": "document",
+      "source_file": "SlateLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfuctionlibrary_blueprintfuctionlibrary",
+      "label": "Blueprint Function Library",
+      "file_type": "document",
+      "source_file": "SlateLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coordinate_transformation",
+      "label": "Coordinate Transformation",
+      "file_type": "document",
+      "source_file": "SlateLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumpropertytexturepropertystatus_cesiumpropertytexturepropertystatus",
+      "label": "Cesium Property Texture Property Status",
+      "file_type": "document",
+      "source_file": "CesiumPropertyTexturePropertyStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primarydataasset_primarydataasset",
+      "label": "Primary Data Asset",
+      "file_type": "document",
+      "source_file": "PrimaryDataAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataasset_dataasset",
+      "label": "Data Asset",
+      "file_type": "document",
+      "source_file": "PrimaryDataAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamesession_gamesession",
+      "label": "Game Session",
+      "file_type": "document",
+      "source_file": "GameSession Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "info_info",
+      "label": "Info",
+      "file_type": "document",
+      "source_file": "GameSession Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshsimplification_geometryscript_meshsimplification",
+      "label": "Geometry Script Mesh Simplification",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshSimplification Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mesh_simplification_algorithms",
+      "label": "Mesh Simplification Algorithms",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshSimplification Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigpose_rigpose",
+      "label": "RigPose",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrigdefinition_ikrigdefinition",
+      "label": "IK Rig Definition",
+      "file_type": "document",
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikriggoal_ikriggoal",
+      "label": "IK Rig Goal",
+      "file_type": "document",
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "watersplinecomponent_watersplinecomponent",
+      "label": "Water Spline Component",
+      "file_type": "document",
+      "source_file": "WaterBodyLake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterzone_waterzone",
+      "label": "Water Zone",
+      "file_type": "document",
+      "source_file": "WaterBodyLakeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_controlrig",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_rigvm",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMDrawSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "water_water",
+      "label": "Water Plugin",
+      "file_type": "document",
+      "source_file": "WaterBodyLake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_ikrig",
+      "label": "IK Rig Plugin",
+      "file_type": "document",
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairstrands_hairstrands",
+      "label": "Hair Strands Plugin",
+      "file_type": "document",
+      "source_file": "HairAdvancedRenderingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_geometryscripting",
+      "label": "Geometry Scripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptTopologyConnectionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunithierarchygetposeitemarray_rigunithierarchygetposeitemarray",
+      "target": "rigunithierarchybase_rigunithierarchybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunithierarchygetposeitemarray_rigunithierarchygetposeitemarray",
+      "target": "rigpose_rigpose",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunithierarchygetposeitemarray_rigunithierarchygetposeitemarray",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunithierarchygetposeitemarray_rigunithierarchygetposeitemarray",
+      "target": "controlrig_controlrig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmdrawsettings_rigvmdrawsettings",
+      "target": "rigvm_rigvm",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMDrawSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacademeshprefab_earthfacademeshprefab",
+      "target": "earthprefabbase_earthprefabbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeMeshPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionblendmaterialattributes_materialexpressionblendmaterialattributes",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodylake_waterbodylake",
+      "target": "waterbody_waterbody",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyLake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodylake_waterbodylake",
+      "target": "water_water",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyLake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodylake_waterbodylake",
+      "target": "watersplinecomponent_watersplinecomponent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyLake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilityscrollbox_editorutilityscrollbox",
+      "target": "scrollbox_scrollbox",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityScrollBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodylakecomponent_waterbodylakecomponent",
+      "target": "waterbodycomponent_waterbodycomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyLakeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodylakecomponent_waterbodylakecomponent",
+      "target": "water_water",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyLakeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodylakecomponent_waterbodylakecomponent",
+      "target": "waterzone_waterzone",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyLakeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodylakecomponent_waterbodylakecomponent",
+      "target": "waterbodylake_waterbodylake",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WaterBodyLakeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_ikrig_animnode_ikrig",
+      "target": "animnode_customproperty_animnode_customproperty",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_ikrig_animnode_ikrig",
+      "target": "ikrig_ikrig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_ikrig_animnode_ikrig",
+      "target": "ikrigdefinition_ikrigdefinition",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_ikrig_animnode_ikrig",
+      "target": "ikriggoal_ikriggoal",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintoname_rigvmfunction_mathintoname",
+      "target": "rigvmfunction_mathintbase_rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntToName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintoname_rigvmfunction_mathintoname",
+      "target": "rigvm_rigvm",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntToName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameramodifier_cameramodifier",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameramodifier_cameramodifier",
+      "target": "camera_ownership",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CameraModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debuglineitemspace_rigunit_debuglineitemspace",
+      "target": "rigunit_debugbasemutable_rigunit_debugbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugLineItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debuglineitemspace_rigunit_debuglineitemspace",
+      "target": "controlrig_controlrig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugLineItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slatelibrary_slatelibrary",
+      "target": "blueprintfuctionlibrary_blueprintfuctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slatelibrary_slatelibrary",
+      "target": "coordinate_transformation",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SlateLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primarydataasset_primarydataasset",
+      "target": "dataasset_dataasset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PrimaryDataAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gamesession_gamesession",
+      "target": "info_info",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameSession Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshsimplification_geometryscript_meshsimplification",
+      "target": "blueprintfuctionlibrary_blueprintfuctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshSimplification Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshsimplification_geometryscript_meshsimplification",
+      "target": "geometryscripting_geometryscripting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshSimplification Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshsimplification_geometryscript_meshsimplification",
+      "target": "mesh_simplification_algorithms",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__MeshSimplification Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscripttopologyconnectiontype_geometryscripttopologyconnectiontype",
+      "target": "geometryscripting_geometryscripting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptTopologyConnectionType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springik_debugsettings_rigunit_springik_debugsettings",
+      "target": "controlrig_controlrig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SpringIK_DebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmdrawsettings_rigvmdrawsettings",
+      "target": "rigunit_debuglineitemspace_rigunit_debuglineitemspace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMDrawSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodylake_waterbodylake",
+      "target": "waterbodylakecomponent_waterbodylakecomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "WaterBodyLake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunithierarchygetposeitemarray_rigunithierarchygetposeitemarray",
+      "target": "rigvmfunction_mathintoname_rigvmfunction_mathintoname",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_ikrig_animnode_ikrig",
+      "target": "rigunit_springik_debugsettings_rigunit_springik_debugsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode__IKRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_ecosystem",
+      "label": "ControlRig Ecosystem",
+      "nodes": [
+        "rigunithierarchygetposeitemarray_rigunithierarchygetposeitemarray",
+        "rigvmdrawsettings_rigvmdrawsettings",
+        "rigunit_springik_debugsettings_rigunit_springik_debugsettings",
+        "rigvmfunction_mathintoname_rigvmfunction_mathintoname",
+        "rigunit_debuglineitemspace_rigunit_debuglineitemspace",
+        "controlrig_controlrig",
+        "rigvm_rigvm"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_HierarchyGetPoseItemArray Objects.md"
+    },
+    {
+      "id": "water_system_components",
+      "label": "Water Body System Components",
+      "nodes": [
+        "waterbodylake_waterbodylake",
+        "waterbodylakecomponent_waterbodylakecomponent",
+        "waterbody_waterbody",
+        "waterbodycomponent_waterbodycomponent",
+        "water_water"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WaterBodyLake Objects.md"
+    },
+    {
+      "id": "geometry_processing_pipeline",
+      "label": "Geometry Processing Pipeline",
+      "nodes": [
+        "geometryscripttopologyconnectiontype_geometryscripttopologyconnectiontype",
+        "geometryscript_meshsimplification_geometryscript_meshsimplification",
+        "geometryscripting_geometryscripting",
+        "mesh_simplification_algorithms"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptTopologyConnectionType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

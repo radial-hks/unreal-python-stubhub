@@ -1,0 +1,468 @@
+{
+  "nodes": [
+    {
+      "id": "outlinercolumnmode_enum",
+      "label": "OutlinerColumnMode",
+      "file_type": "code",
+      "source_file": "OutlinerColumnMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorskyatmospheresettings_51_struct",
+      "label": "SkyCreatorSkyAtmosphereSettings_51",
+      "file_type": "code",
+      "source_file": "SkyCreatorSkyAtmosphereSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avabroadcastrendertargetmediacapture_class",
+      "label": "AvaBroadcastRenderTargetMediaCapture",
+      "file_type": "code",
+      "source_file": "AvaBroadcastRenderTargetMediaCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitabilitycommitdelegate_class",
+      "label": "WaitAbilityCommitDelegate",
+      "file_type": "code",
+      "source_file": "WaitAbilityCommitDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendlinearburn_class",
+      "label": "DMMaterialStageBlendLinearBurn",
+      "file_type": "code",
+      "source_file": "DMMaterialStageBlendLinearBurn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathrbfinterpolatevectorcolor_target_struct",
+      "label": "MathRBFInterpolateVectorColor_Target",
+      "file_type": "code",
+      "source_file": "MathRBFInterpolateVectorColor_Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pivotrotationgizmohandlegroup_class",
+      "label": "PivotRotationGizmoHandleGroup",
+      "file_type": "code",
+      "source_file": "PivotRotationGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditornodesremovemessage_struct",
+      "label": "AesEditorNodesRemoveMessage",
+      "file_type": "code",
+      "source_file": "AesEditorNodesRemoveMessage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringreplace_class",
+      "label": "RigUnit_StringReplace",
+      "file_type": "code",
+      "source_file": "RigUnit_StringReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringreplace_class",
+      "label": "RigVMFunction_StringReplace",
+      "file_type": "code",
+      "source_file": "RigUnit_StringReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightweightinstanceblueprintfunctiolibrary_class",
+      "label": "LightWeightInstanceBlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "LightWeightInstanceBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthboxprefab_class",
+      "label": "EarthBoxPrefab",
+      "file_type": "code",
+      "source_file": "EarthBoxPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "horizontalbox_class",
+      "label": "HorizontalBox",
+      "file_type": "code",
+      "source_file": "HorizontalBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlinkgenerationjumpdownconfig_struct",
+      "label": "NavLinkGenerationJumpDownConfig",
+      "file_type": "code",
+      "source_file": "NavLinkGenerationJumpDownConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonersphereuniformlayout_class",
+      "label": "AvaClonerSphereUniformLayout",
+      "file_type": "code",
+      "source_file": "AvaClonerSphereUniformLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonersphereuniformlayout_class",
+      "label": "CEClonerSphereUniformLayout",
+      "file_type": "code",
+      "source_file": "AvaClonerSphereUniformLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "googlepadconfirmationdialogstatus_enum",
+      "label": "GooglePADConfirmationDialogStatus",
+      "file_type": "code",
+      "source_file": "GooglePADConfirmationDialogStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionfromeuler_class",
+      "label": "RigVMFunction_MathQuaternionFromEuler",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionFromEuler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetcomponent_class",
+      "label": "WidgetComponent",
+      "file_type": "code",
+      "source_file": "WidgetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatdeg_class",
+      "label": "RigVMFunction_MathFloatDeg",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatDeg Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slateparentwindowsearchmethod_enum",
+      "label": "SlateParentWindowSearchMethod",
+      "file_type": "code",
+      "source_file": "SlateParentWindowSearchMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesium3dtilesetloadfailuredetails_struct",
+      "label": "Cesium3DTilesetLoadFailureDetails",
+      "file_type": "code",
+      "source_file": "Cesium3DTilesetLoadFailureDetails Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionminimapvolume_class",
+      "label": "WorldPartitionMiniMapVolume",
+      "file_type": "code",
+      "source_file": "WorldPartitionMiniMapVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaydebuggerplayermanager_class",
+      "label": "GameplayDebuggerPlayerManager",
+      "file_type": "code",
+      "source_file": "GameplayDebuggerPlayerManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "avabroadcastrendertargetmediacapture_class",
+      "target": "mediacapture_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaBroadcastRenderTargetMediaCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waitabilitycommitdelegate_class",
+      "target": "multicastdelegatebase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaitAbilityCommitDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendlinearburn_class",
+      "target": "dmmaterialstageblendfunction_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageBlendLinearBurn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pivotrotationgizmohandlegroup_class",
+      "target": "axisgizmohandlegroup_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PivotRotationGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringreplace_class",
+      "target": "rigvmfunction_stringreplace_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StringReplace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightweightinstanceblueprintfunctiolibrary_class",
+      "target": "blueprintfunctiolibrary_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightWeightInstanceBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthboxprefab_class",
+      "target": "earthspatialprefab_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthBoxPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "horizontalbox_class",
+      "target": "panelwidget_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HorizontalBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonersphereuniformlayout_class",
+      "target": "ceclonersphereuniformlayout_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerSphereUniformLayout Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionfromeuler_class",
+      "target": "rigvmfunction_mathquaternionbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionFromEuler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widgetcomponent_class",
+      "target": "meshcomponent_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatdeg_class",
+      "target": "rigvmfunction_mathfloatunaryop_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatDeg Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionminimapvolume_class",
+      "target": "volume_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartitionMiniMapVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaydebuggerplayermanager_class",
+      "target": "actor_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayDebuggerPlayerManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionfromeuler_class",
+      "target": "rigvmfunction_mathfloatdeg_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathQuaternionFromEuler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widgetcomponent_class",
+      "target": "horizontalbox_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WidgetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionminimapvolume_class",
+      "target": "gameplaydebuggerplayermanager_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WorldPartitionMiniMapVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Renamed Classes",
+      "nodes": [
+        "rigunit_stringreplace_class",
+        "avaclonersphereuniformlayout_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "rigvm_math_utilities",
+      "label": "RigVM Mathematical Utility Functions",
+      "nodes": [
+        "rigvmfunction_mathquaternionfromeuler_class",
+        "rigvmfunction_mathfloatdeg_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

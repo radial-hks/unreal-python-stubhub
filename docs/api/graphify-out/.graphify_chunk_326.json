@@ -1,0 +1,495 @@
+{
+  "nodes": [
+    {
+      "id": "rigunithierarchygetpose_rigunithierarchygetpose",
+      "label": "RigUnit_HierarchyGetPose",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyGetPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunithierarchybase_rigunithierarchybase",
+      "label": "RigUnit_HierarchyBase",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyGetPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmodulefragment_earthmodulefragment",
+      "label": "EarthModuleFragment",
+      "file_type": "document",
+      "source_file": "EarthModuleFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment_earthpropertyfragment",
+      "label": "EarthPropertyFragment",
+      "file_type": "document",
+      "source_file": "EarthModuleFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpeffectselectorbase_dcpeffectselectorbase",
+      "label": "DCPEffectSelectorBase",
+      "file_type": "document",
+      "source_file": "DCPEffectSelectorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputusersettings_enhancedinputusersettingsapplied",
+      "label": "EnhancedInputUserSettings_EnhancedInputUserSettingsApplied",
+      "file_type": "document",
+      "source_file": "EnhancedInputUserSettings_EnhancedInputUserSettingsApplied Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadmodifymessage_aesroadmodifymessage",
+      "label": "AesRoadModifyMessage",
+      "file_type": "document",
+      "source_file": "AesRoadModifyMessage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintfunctionreferencetype_mvvmblueprintfunctionreferencetype",
+      "label": "MVVMBlueprintFunctionReferenceType",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintFunctionReferenceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scalechaininitiallength_scalechaininitiallength",
+      "label": "ScaleChainInitialLength",
+      "file_type": "document",
+      "source_file": "ScaleChainInitialLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgblueprintpinhelpers_pcgblueprintpinhelpers",
+      "label": "PCGBlueprintPinHelpers",
+      "file_type": "document",
+      "source_file": "PCGBlueprintPinHelpers Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmathtransformbase_rigunitmathtransformbase",
+      "label": "RigUnit_MathTransformBase",
+      "file_type": "document",
+      "source_file": "RigUnit_MathTransformBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunctionmathtransformbase_rigvmfunctionmathtransformbase",
+      "label": "RigVMFunction_MathTransformBase",
+      "file_type": "document",
+      "source_file": "RigUnit_MathTransformBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabasesequenceex_posesearchdatabasesequenceex",
+      "label": "PoseSearchDatabaseSequenceEx",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabaseSequenceEx Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabasesequence_posesearchdatabasesequence",
+      "label": "PoseSearchDatabaseSequence",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabaseSequenceEx Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetmigrationconflict_assetmigrationconflict",
+      "label": "AssetMigrationConflict",
+      "file_type": "document",
+      "source_file": "AssetMigrationConflict Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitharmonicstargetitem_rigunitharmonicstargetitem",
+      "label": "RigUnit_Harmonics_TargetItem",
+      "file_type": "document",
+      "source_file": "RigUnit_Harmonics_TargetItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massstaticmeshinstancevisualizationmeshdesc_massstaticmeshinstancevisualizationmeshdesc",
+      "label": "MassStaticMeshInstanceVisualizationMeshDesc",
+      "file_type": "document",
+      "source_file": "MassStaticMeshInstanceVisualizationMeshDesc Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphysplanarlimit_animphysplanarlimit",
+      "label": "AnimPhysPlanarLimit",
+      "file_type": "document",
+      "source_file": "AnimPhysPlanarLimit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgvisualizeattributesettings_pcgvisualizeattributesettings",
+      "label": "PCGVisualizeAttributeSettings",
+      "file_type": "document",
+      "source_file": "PCGVisualizeAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings_pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "document",
+      "source_file": "PCGVisualizeAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreepropertyref_statetreepropertyref",
+      "label": "StateTreePropertyRef",
+      "file_type": "document",
+      "source_file": "StateTreePropertyRef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctioninstance_materialfunctioninstance",
+      "label": "MaterialFunctionInstance",
+      "file_type": "document",
+      "source_file": "MaterialFunctionInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctioninterface_materialfunctioninterface",
+      "label": "MaterialFunctionInterface",
+      "file_type": "document",
+      "source_file": "MaterialFunctionInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitnamebase_rigunitnamebase",
+      "label": "RigUnit_NameBase",
+      "file_type": "document",
+      "source_file": "RigUnit__NameBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunctionnamebase_rigvmfunctionnamebase",
+      "label": "RigVMFunction_NameBase",
+      "file_type": "document",
+      "source_file": "RigUnit__NameBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webbrowser51_onconsolemessage_webbrowser51_onconsolemessage",
+      "label": "WebBrowser51_OnConsoleMessage",
+      "file_type": "document",
+      "source_file": "WebBrowser51__OnConsoleMessage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createpointcloudinfo_createpointcloudinfo",
+      "label": "CreatePointCloudInfo",
+      "file_type": "document",
+      "source_file": "CreatePointCloudInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiontexturesample_materialexpressiontexturesample",
+      "label": "MaterialExpressionTextureSample",
+      "file_type": "document",
+      "source_file": "MaterialExpressionTextureSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiontexturebase_materialexpressiontexturebase",
+      "label": "MaterialExpressionTextureBase",
+      "file_type": "document",
+      "source_file": "MaterialExpressionTextureSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bindtocontroller_bindtocontroller",
+      "label": "BindToController",
+      "file_type": "document",
+      "source_file": "BindToController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunithierarchygetpose_rigunithierarchygetpose",
+      "target": "rigunithierarchybase_rigunithierarchybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyGetPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthmodulefragment_earthmodulefragment",
+      "target": "earthpropertyfragment_earthpropertyfragment",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthModuleFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpeffectselectorbase_dcpeffectselectorbase",
+      "target": "rigunithierarchybase_rigunithierarchybase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DCPEffectSelectorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunitmathtransformbase_rigunitmathtransformbase",
+      "target": "rigvmfunctionmathtransformbase_rigvmfunctionmathtransformbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathTransformBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunitmathtransformbase_rigunitmathtransformbase",
+      "target": "rigunithierarchygetpose_rigunithierarchygetpose",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathTransformBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabasesequenceex_posesearchdatabasesequenceex",
+      "target": "posesearchdatabasesequence_posesearchdatabasesequence",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchDatabaseSequenceEx Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunitharmonicstargetitem_rigunitharmonicstargetitem",
+      "target": "rigunithierarchygetpose_rigunithierarchygetpose",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_Harmonics_TargetItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgvisualizeattributesettings_pcgvisualizeattributesettings",
+      "target": "pcgsettings_pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGVisualizeAttributeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunctioninstance_materialfunctioninstance",
+      "target": "materialfunctioninterface_materialfunctioninterface",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialFunctionInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunitnamebase_rigunitnamebase",
+      "target": "rigvmfunctionnamebase_rigvmfunctionnamebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__NameBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunitnamebase_rigunitnamebase",
+      "target": "rigunitmathtransformbase_rigunitmathtransformbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__NameBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiontexturesample_materialexpressiontexturesample",
+      "target": "materialexpressiontexturebase_materialexpressiontexturebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionTextureSample Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunctioninstance_materialfunctioninstance",
+      "target": "materialexpressiontexturesample_materialexpressiontexturesample",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialFunctionInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_deprecated_units",
+      "label": "ControlRig Deprecated Units Migration Pattern",
+      "nodes": [
+        "rigunitmathtransformbase_rigunitmathtransformbase",
+        "rigunitnamebase_rigunitnamebase"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathTransformBase Objects.md"
+    },
+    {
+      "id": "animation_system_structs",
+      "label": "Animation System Data Structures",
+      "nodes": [
+        "rigunitharmonicstargetitem_rigunitharmonicstargetitem",
+        "animphysplanarlimit_animphysplanarlimit",
+        "scalechaininitiallength_scalechaininitiallength"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_Harmonics_TargetItem Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

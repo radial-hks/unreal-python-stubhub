@@ -1,0 +1,514 @@
+{
+  "nodes": [
+    {
+      "id": "geometrycachetrack_transformgroupanimation_geometrycachetrack_transformgroupanimation",
+      "label": "GeometryCacheTrack TransformGroupAnimation",
+      "file_type": "document",
+      "source_file": "GeometryCacheTrack_TransformGroupAnimation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycachetrack_geometrycachetrack",
+      "label": "GeometryCacheTrack",
+      "file_type": "document",
+      "source_file": "GeometryCacheTrack_TransformGroupAnimation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "streamingsourcepriority_streamingsourcepriority",
+      "label": "StreamingSourcePriority",
+      "file_type": "document",
+      "source_file": "StreamingSourcePriority Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeimporttestplan_interchangeimporttestplan",
+      "label": "InterchangeImportTestPlan",
+      "file_type": "document",
+      "source_file": "InterchangeImportTestPlan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintnegate_rigvmfunction_mathintnegate",
+      "label": "RigVMFunction MathIntNegate",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintunaryop_rigvmfunction_mathintunaryop",
+      "label": "RigVMFunction MathIntUnaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodyrivercomponent_waterbodyrivercomponent",
+      "label": "WaterBodyRiverComponent",
+      "file_type": "document",
+      "source_file": "WaterBodyRiverComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodycomponent_waterbodycomponent",
+      "label": "WaterBodyComponent",
+      "file_type": "document",
+      "source_file": "WaterBodyRiverComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdebugkeyhandlerdynamicsignature_inputdebugkeyhandlerdynamicsignature",
+      "label": "InputDebugKeyHandlerDynamicSignature",
+      "file_type": "document",
+      "source_file": "InputDebugKeyHandlerDynamicSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionramptopbottom_materialexpressionramptopbottom",
+      "label": "MaterialExpressionRampTopBottom",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRampTopBottom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxramptopbottom_materialexpressionmaterialxramptopbottom",
+      "label": "MaterialExpressionMaterialXRampTopBottom",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRampTopBottom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendspacereference_blendspacereference",
+      "label": "BlendSpaceReference",
+      "file_type": "document",
+      "source_file": "BlendSpaceReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationstatemachinereference_animationstatemachinereference",
+      "label": "AnimationStateMachineReference",
+      "file_type": "document",
+      "source_file": "AnimationStateMachineReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnodereference_animnodereference",
+      "label": "AnimNodeReference",
+      "file_type": "document",
+      "source_file": "BlendSpaceReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewtargetblendfunction_viewtargetblendfunction",
+      "label": "ViewTargetBlendFunction",
+      "file_type": "document",
+      "source_file": "ViewTargetBlendFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfloatprecisionmode_materialfloatprecisionmode",
+      "label": "MaterialFloatPrecisionMode",
+      "file_type": "document",
+      "source_file": "MaterialFloatPrecisionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_meshgeneratormodes_generatestaticmeshlodprocess_meshgeneratormodes",
+      "label": "GenerateStaticMeshLODProcess MeshGeneratorModes",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess__MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolfloat_rigunit_setmulticontrolfloat",
+      "label": "RigUnit SetMultiControlFloat",
+      "file_type": "document",
+      "source_file": "RigUnit__SetMultiControlFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_applyfk_rigunit_applyfk",
+      "label": "RigUnit ApplyFK",
+      "file_type": "document",
+      "source_file": "RigUnit_ApplyFK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__SetMultiControlFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialknob_audiomaterialknob",
+      "label": "AudioMaterialKnob",
+      "file_type": "document",
+      "source_file": "AudioMaterialKnob Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "patchid_patchid",
+      "label": "PatchId",
+      "file_type": "document",
+      "source_file": "PatchId Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opencoloriodisplayview_opencoloriodisplayview",
+      "label": "OpenColorIODisplayView",
+      "file_type": "document",
+      "source_file": "OpenColorIODisplayView Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmpythonsettings_rigvmpythonsettings",
+      "label": "RigVMPythonSettings",
+      "file_type": "document",
+      "source_file": "RigVMPythonSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_modifybone_animnode_modifybone",
+      "label": "AnimNode ModifyBone",
+      "file_type": "document",
+      "source_file": "AnimNode_ModifyBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_skeletalcontrolbase_animnode_skeletalcontrolbase",
+      "label": "AnimNode SkeletalControlBase",
+      "file_type": "document",
+      "source_file": "AnimNode_ModifyBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "crowdfollowingcomponent_crowdfollowingcomponent",
+      "label": "CrowdFollowingComponent",
+      "file_type": "document",
+      "source_file": "CrowdFollowingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pathfollowingcomponent_pathfollowingcomponent",
+      "label": "PathFollowingComponent",
+      "file_type": "document",
+      "source_file": "CrowdFollowingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthwatercolorpreset_earthwatercolorpreset",
+      "label": "EarthWaterColorPreset",
+      "file_type": "document",
+      "source_file": "EarthWaterColorPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchycreateposeitemarray_entry_rigunit_hierarchycreateposeitemarray_entry",
+      "label": "RigUnit HierarchyCreatePoseItemArray Entry",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyCreatePoseItemArray__Entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometrycachetrack_transformgroupanimation_geometrycachetrack_transformgroupanimation",
+      "target": "geometrycachetrack_geometrycachetrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCacheTrack_TransformGroupAnimation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintnegate_rigvmfunction_mathintnegate",
+      "target": "rigvmfunction_mathintunaryop_rigvmfunction_mathintunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodyrivercomponent_waterbodyrivercomponent",
+      "target": "waterbodycomponent_waterbodycomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyRiverComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionramptopbottom_materialexpressionramptopbottom",
+      "target": "materialexpressionmaterialxramptopbottom_materialexpressionmaterialxramptopbottom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionRampTopBottom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blendspacereference_blendspacereference",
+      "target": "animnodereference_animnodereference",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlendSpaceReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationstatemachinereference_animationstatemachinereference",
+      "target": "animnodereference_animnodereference",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationStateMachineReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blendspacereference_blendspacereference",
+      "target": "animationstatemachinereference_animationstatemachinereference",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BlendSpaceReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolfloat_rigunit_setmulticontrolfloat",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetMultiControlFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_applyfk_rigunit_applyfk",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ApplyFK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolfloat_rigunit_setmulticontrolfloat",
+      "target": "rigunit_applyfk_rigunit_applyfk",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetMultiControlFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_modifybone_animnode_modifybone",
+      "target": "animnode_skeletalcontrolbase_animnode_skeletalcontrolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_ModifyBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "crowdfollowingcomponent_crowdfollowingcomponent",
+      "target": "pathfollowingcomponent_pathfollowingcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CrowdFollowingComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_applyfk_rigunit_applyfk",
+      "target": "animnode_modifybone_animnode_modifybone",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_ApplyFK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_rigging_components",
+      "label": "Animation and Rigging Control Components",
+      "nodes": [
+        "blendspacereference_blendspacereference",
+        "animationstatemachinereference_animationstatemachinereference",
+        "rigunit_setmulticontrolfloat_rigunit_setmulticontrolfloat",
+        "rigunit_applyfk_rigunit_applyfk",
+        "animnode_modifybone_animnode_modifybone",
+        "rigunit_hierarchycreateposeitemarray_entry_rigunit_hierarchycreateposeitemarray_entry"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BlendSpaceReference Objects.md"
+    },
+    {
+      "id": "water_and_material_systems",
+      "label": "Water and Material Rendering Systems",
+      "nodes": [
+        "waterbodyrivercomponent_waterbodyrivercomponent",
+        "earthwatercolorpreset_earthwatercolorpreset",
+        "materialexpressionramptopbottom_materialexpressionramptopbottom",
+        "materialfloatprecisionmode_materialfloatprecisionmode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WaterBodyRiverComponent Objects.md"
+    },
+    {
+      "id": "unreal_enums_configuration",
+      "label": "Unreal Engine Configuration Enums",
+      "nodes": [
+        "streamingsourcepriority_streamingsourcepriority",
+        "viewtargetblendfunction_viewtargetblendfunction",
+        "materialfloatprecisionmode_materialfloatprecisionmode",
+        "generatestaticmeshlodprocess_meshgeneratormodes_generatestaticmeshlodprocess_meshgeneratormodes"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "StreamingSourcePriority Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

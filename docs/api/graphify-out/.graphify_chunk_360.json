@@ -1,0 +1,776 @@
+{
+  "nodes": [
+    {
+      "id": "collectionscalarparameter_class",
+      "label": "CollectionScalarParameter",
+      "file_type": "code",
+      "source_file": "CollectionScalarParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppickerapiparams_class",
+      "label": "WdpPickerApiParams",
+      "file_type": "code",
+      "source_file": "WdpPickerApiParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputusersettings_mappingcontextregisteredwithsettings_class",
+      "label": "EnhancedInputUserSettings_MappingContextRegisteredWithSettings",
+      "file_type": "code",
+      "source_file": "EnhancedInputUserSettings_MappingContextRegisteredWithSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesium3dtileset_class",
+      "label": "Cesium3DTileset",
+      "file_type": "code",
+      "source_file": "Cesium3DTileset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondecallifetimeopacity_class",
+      "label": "MaterialExpressionDecalLifetimeOpacity",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDecalLifetimeOpacity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelfromitembase_class",
+      "label": "RigUnit_GetAnimationChannelFromItemBase",
+      "file_type": "code",
+      "source_file": "RigUnit_GetAnimationChannelFromItemBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressioninverselinearinterpolate_class",
+      "label": "MaterialExpressionInverseLinearInterpolate",
+      "file_type": "code",
+      "source_file": "MaterialExpressionInverseLinearInterpolate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riginfluencemapperevent_class",
+      "label": "RigInfluenceMapPerEvent",
+      "file_type": "code",
+      "source_file": "RigInfluenceMapPerEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "directionallightmovable_class",
+      "label": "DirectionalLightMovable",
+      "file_type": "code",
+      "source_file": "DirectionalLightMovable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_spheretraceworld_class",
+      "label": "RigUnit_SphereTraceWorld",
+      "file_type": "code",
+      "source_file": "RigUnit__SphereTraceWorld Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformmakerelative_class",
+      "label": "RigUnit_MathTransformMakeRelative",
+      "file_type": "code",
+      "source_file": "RigUnit_MathTransformMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontrolvector_class",
+      "label": "RigUnit_GetControlVector",
+      "file_type": "code",
+      "source_file": "RigUnit__GetControlVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionarcsine_class",
+      "label": "DMMaterialStageExpressionArcsine",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionArcsine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatequals_class",
+      "label": "RigVMFunction_MathFloatEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchtrajectorypredictorinterface_class",
+      "label": "PoseSearchTrajectoryPredictorInterface",
+      "file_type": "code",
+      "source_file": "PoseSearchTrajectoryPredictorInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineimagesequenceoutput_bmp_class",
+      "label": "MoviePipelineImageSequenceOutput_BMP",
+      "file_type": "code",
+      "source_file": "MoviePipelineImageSequenceOutput_BMP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splitterstyle_class",
+      "label": "SplitterStyle",
+      "file_type": "code",
+      "source_file": "SplitterStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicalmaterialfactorynew_class",
+      "label": "PhysicalMaterialFactoryNew",
+      "file_type": "code",
+      "source_file": "PhysicalMaterialFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetvalidator_assetreferencerestrictions_class",
+      "label": "AssetValidator_AssetReferenceRestrictions",
+      "file_type": "code",
+      "source_file": "AssetValidator__AssetReferenceRestrictions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "travelfailure_class",
+      "label": "TravelFailure",
+      "file_type": "code",
+      "source_file": "TravelFailure Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cheatmanager_class",
+      "label": "CheatManager",
+      "file_type": "code",
+      "source_file": "CheatManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitysystemlibrary_class",
+      "label": "AbilitySystemLibrary",
+      "file_type": "code",
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumgeoreference_type",
+      "label": "CesiumGeoreference",
+      "file_type": "code",
+      "source_file": "Cesium3DTileset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumcameramanager_type",
+      "label": "CesiumCameraManager",
+      "file_type": "code",
+      "source_file": "Cesium3DTileset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumcreditsystem_type",
+      "label": "CesiumCreditSystem",
+      "file_type": "code",
+      "source_file": "Cesium3DTileset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_type",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit_GetAnimationChannelFromItemBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_type",
+      "label": "RigVMFunction",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_expression_type",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDecalLifetimeOpacity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ability_system_concept",
+      "label": "Ability System",
+      "file_type": "code",
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffect_concept",
+      "label": "GameplayEffect",
+      "file_type": "code",
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayability_concept",
+      "label": "GameplayAbility",
+      "file_type": "code",
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "target_data_concept",
+      "label": "Target Data",
+      "file_type": "code",
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collision_tracing_concept",
+      "label": "Collision Tracing",
+      "file_type": "code",
+      "source_file": "RigUnit__SphereTraceWorld Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "collectionscalarparameter_class",
+      "target": "collectionparameterbase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CollectionScalarParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdppickerapiparams_class",
+      "target": "paramsbase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPickerApiParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputusersettings_mappingcontextregisteredwithsettings_class",
+      "target": "multicastdelegatebase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputUserSettings_MappingContextRegisteredWithSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesium3dtileset_class",
+      "target": "actor_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Cesium3DTileset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesium3dtileset_class",
+      "target": "cesiumgeoreference_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Cesium3DTileset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesium3dtileset_class",
+      "target": "cesiumcameramanager_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Cesium3DTileset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesium3dtileset_class",
+      "target": "cesiumcreditsystem_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Cesium3DTileset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondecallifetimeopacity_class",
+      "target": "material_expression_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDecalLifetimeOpacity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getanimationchannelfromitembase_class",
+      "target": "rigunit_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetAnimationChannelFromItemBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressioninverselinearinterpolate_class",
+      "target": "material_expression_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionInverseLinearInterpolate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riginfluencemapperevent_class",
+      "target": "structbase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigInfluenceMapPerEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "directionallightmovable_class",
+      "target": "directionallight_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DirectionalLightMovable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretraceworld_class",
+      "target": "rigunit_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SphereTraceWorld Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformmakerelative_class",
+      "target": "rigvmfunction_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathTransformMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolvector_class",
+      "target": "rigunit_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetControlVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionarcsine_class",
+      "target": "dmmaterialstageexpressionmathbase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionArcsine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatequals_class",
+      "target": "rigvmfunction_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchtrajectorypredictorinterface_class",
+      "target": "interface_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchTrajectoryPredictorInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineimagesequenceoutput_bmp_class",
+      "target": "moviepipelineimagesequenceoutputbase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineImageSequenceOutput_BMP Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splitterstyle_class",
+      "target": "slatewidgetstyle_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplitterStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicalmaterialfactorynew_class",
+      "target": "factory_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicalMaterialFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetvalidator_assetreferencerestrictions_class",
+      "target": "editorvalidatorbase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetValidator__AssetReferenceRestrictions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "travelfailure_class",
+      "target": "enumbase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TravelFailure Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cheatmanager_class",
+      "target": "object_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CheatManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitysystemlibrary_class",
+      "target": "blueprintfunctionlibrary_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitysystemlibrary_class",
+      "target": "ability_system_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitysystemlibrary_class",
+      "target": "gameplayeffect_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitysystemlibrary_class",
+      "target": "gameplayability_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitysystemlibrary_class",
+      "target": "target_data_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretraceworld_class",
+      "target": "collision_tracing_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SphereTraceWorld Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondecallifetimeopacity_class",
+      "target": "materialexpressioninverselinearinterpolate_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionDecalLifetimeOpacity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getanimationchannelfromitembase_class",
+      "target": "rigunit_getcontrolvector_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_GetAnimationChannelFromItemBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformmakerelative_class",
+      "target": "rigvmfunction_mathfloatequals_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_MathTransformMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffect_concept",
+      "target": "gameplayability_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayability_concept",
+      "target": "target_data_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffect_concept",
+      "target": "target_data_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AbilitySystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "ability_system_ecosystem",
+      "label": "Ability System Ecosystem",
+      "nodes": [
+        "abilitysystemlibrary_class",
+        "gameplayeffect_concept",
+        "gameplayability_concept",
+        "target_data_concept"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AbilitySystemLibrary Objects.md"
+    },
+    {
+      "id": "rig_unit_math_operations",
+      "label": "RigUnit Math Operations",
+      "nodes": [
+        "rigunit_getanimationchannelfromitembase_class",
+        "rigunit_spheretraceworld_class",
+        "rigunit_mathtransformmakerelative_class",
+        "rigunit_getcontrolvector_class",
+        "rigvmfunction_mathfloatequals_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_GetAnimationChannelFromItemBase Objects.md"
+    },
+    {
+      "id": "cesium_geospatial_system",
+      "label": "Cesium Geospatial System",
+      "nodes": [
+        "cesium3dtileset_class",
+        "cesiumgeoreference_type",
+        "cesiumcameramanager_type",
+        "cesiumcreditsystem_type"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Cesium3DTileset Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

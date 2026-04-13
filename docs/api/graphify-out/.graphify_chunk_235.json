@@ -1,0 +1,601 @@
+{
+  "nodes": [
+    {
+      "id": "metasoundcachesubsystem_metasoundcachesubsystem",
+      "label": "MetaSound Cache Subsystem",
+      "file_type": "document",
+      "source_file": "MetaSoundCacheSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadata_pcgmetadata",
+      "label": "PCG Metadata",
+      "file_type": "document",
+      "source_file": "PCGMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertypathtestinnerstruct_propertypathtestinnerstruct",
+      "label": "Property Path Test Inner Struct",
+      "file_type": "document",
+      "source_file": "PropertyPathTestInnerStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonerlinelayout_ceclonerlinelayout",
+      "label": "CECloner Line Layout",
+      "file_type": "document",
+      "source_file": "CEClonerLineLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothingassetbase_clothingassetbase",
+      "label": "Clothing Asset Base",
+      "file_type": "document",
+      "source_file": "ClothingAssetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturearea_texturearea",
+      "label": "Texture Area",
+      "file_type": "document",
+      "source_file": "TextureArea Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommandparams_select_aesterraineditorcommandparams_select",
+      "label": "Aes Terrain Editor Command Params Select",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommandParams__Select Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringwidgettimingpolicy_coveringwidgettimingpolicy",
+      "label": "Covering Widget Timing Policy",
+      "file_type": "document",
+      "source_file": "CoveringWidgetTimingPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionvertexcolor_dmmaterialstageexpressionvertexcolor",
+      "label": "DMMaterial Stage Expression Vertex Color",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionVertexColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphconditiongroupquery_actorlayer_moviegraphconditiongroupquery_actorlayer",
+      "label": "Movie Graph Condition Group Query Actor Layer",
+      "file_type": "document",
+      "source_file": "MovieGraphConditionGroupQuery_ActorLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_visualdebugtransformitemspace_rigunit_visualdebugtransformitemspace",
+      "label": "RigUnit Visual Debug Transform Item Space",
+      "file_type": "document",
+      "source_file": "RigUnit__VisualDebugTransformItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setparamresult_setparamresult",
+      "label": "Set Param Result",
+      "file_type": "document",
+      "source_file": "SetParamResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "footdefinition_footdefinition",
+      "label": "Foot Definition",
+      "file_type": "document",
+      "source_file": "FootDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basecomponent_basecomponent",
+      "label": "Base Component",
+      "file_type": "document",
+      "source_file": "BaseComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintadd_rigvmfunction_mathintadd",
+      "label": "RigVM Function Math Int Add",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avacolorchangedata_avacolorchangedata",
+      "label": "Ava Color Change Data",
+      "file_type": "document",
+      "source_file": "AvaColorChangeData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_rotationoffsetblendspacegraph_animnode_rotationoffsetblendspacegraph",
+      "label": "AnimNode Rotation Offset Blend Space Graph",
+      "file_type": "document",
+      "source_file": "AnimNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neuralprofilestruct_neuralprofilestruct",
+      "label": "Neural Profile Struct",
+      "file_type": "document",
+      "source_file": "NeuralProfileStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "frictioncombinemode_frictioncombinemode",
+      "label": "Friction Combine Mode",
+      "file_type": "document",
+      "source_file": "FrictionCombineMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflowsimulationproxy_dataflowsimulationproxy",
+      "label": "Dataflow Simulation Proxy",
+      "file_type": "document",
+      "source_file": "DataflowSimulationProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontfileimportfactory_fontfileimportfactory",
+      "label": "Font File Import Factory",
+      "file_type": "document",
+      "source_file": "FontFileImportFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumtilemapservicerasteroverlay_cesiumtilemapservicerasteroverlay",
+      "label": "Cesium Tile Map Service Raster Overlay",
+      "file_type": "document",
+      "source_file": "CesiumTileMapServiceRasterOverlay Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundsource_metasoundsource",
+      "label": "MetaSound Source",
+      "file_type": "document",
+      "source_file": "MetaSoundCacheSubsystem Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpoint_pcgpoint",
+      "label": "PCG Point",
+      "file_type": "document",
+      "source_file": "PCGMetadata Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadataop_pcgmetadataop",
+      "label": "PCG Metadata Op",
+      "file_type": "document",
+      "source_file": "PCGMetadata Objects.md",
+      "source_location": "line 121",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatafiltermode_pcgmetadatafiltermode",
+      "label": "PCG Metadata Filter Mode",
+      "file_type": "document",
+      "source_file": "PCGMetadata Objects.md",
+      "source_location": "line 175",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cecloneraxis_cecloneraxis",
+      "label": "CECloner Axis",
+      "file_type": "document",
+      "source_file": "CEClonerLineLayout Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "Rig Element Key",
+      "file_type": "document",
+      "source_file": "RigUnit__VisualDebugTransformItemSpace Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "detectiontechnique_detectiontechnique",
+      "label": "Detection Technique",
+      "file_type": "document",
+      "source_file": "FootDefinition Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "BaseComponent Objects.md",
+      "source_location": "line 33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avacolorstyle_avacolorstyle",
+      "label": "Ava Color Style",
+      "file_type": "document",
+      "source_file": "AvaColorChangeData Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgrouprole_animgrouprole",
+      "label": "Anim Group Role",
+      "file_type": "document",
+      "source_file": "AnimNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": "line 28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poselink_poselink",
+      "label": "Pose Link",
+      "file_type": "document",
+      "source_file": "AnimNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputalphaboolblend_inputalphaboolblend",
+      "label": "Input Alpha Bool Blend",
+      "file_type": "document",
+      "source_file": "AnimNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neuralprofileformat_neuralprofileformat",
+      "label": "Neural Profile Format",
+      "file_type": "document",
+      "source_file": "NeuralProfileStruct Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neuralprofileruntimetype_neuralprofileruntimetype",
+      "label": "Neural Profile Runtime Type",
+      "file_type": "document",
+      "source_file": "NeuralProfileStruct Objects.md",
+      "source_location": "line 24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rasteroverlayrendereroptions_rasteroverlayrendereroptions",
+      "label": "Raster Overlay Renderer Options",
+      "file_type": "document",
+      "source_file": "CesiumTileMapServiceRasterOverlay Objects.md",
+      "source_location": "line 52",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "metasoundcachesubsystem_metasoundcachesubsystem",
+      "target": "metasoundsource_metasoundsource",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundCacheSubsystem Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadata_pcgmetadata",
+      "target": "pcgpoint_pcgpoint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadata Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadata_pcgmetadata",
+      "target": "pcgmetadataop_pcgmetadataop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadata Objects.md",
+      "source_location": "line 121",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadata_pcgmetadata",
+      "target": "pcgmetadatafiltermode_pcgmetadatafiltermode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadata Objects.md",
+      "source_location": "line 175",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonerlinelayout_ceclonerlinelayout",
+      "target": "cecloneraxis_cecloneraxis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerLineLayout Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_visualdebugtransformitemspace_rigunit_visualdebugtransformitemspace",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__VisualDebugTransformItemSpace Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "footdefinition_footdefinition",
+      "target": "detectiontechnique_detectiontechnique",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FootDefinition Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "basecomponent_basecomponent",
+      "target": "actor_actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BaseComponent Objects.md",
+      "source_location": "line 33",
+      "weight": 1.0
+    },
+    {
+      "source": "avacolorchangedata_avacolorchangedata",
+      "target": "avacolorstyle_avacolorstyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaColorChangeData Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rotationoffsetblendspacegraph_animnode_rotationoffsetblendspacegraph",
+      "target": "animgrouprole_animgrouprole",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": "line 28",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rotationoffsetblendspacegraph_animnode_rotationoffsetblendspacegraph",
+      "target": "poselink_poselink",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rotationoffsetblendspacegraph_animnode_rotationoffsetblendspacegraph",
+      "target": "inputalphaboolblend_inputalphaboolblend",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "neuralprofilestruct_neuralprofilestruct",
+      "target": "neuralprofileformat_neuralprofileformat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NeuralProfileStruct Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "neuralprofilestruct_neuralprofilestruct",
+      "target": "neuralprofileruntimetype_neuralprofileruntimetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NeuralProfileStruct Objects.md",
+      "source_location": "line 24",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumtilemapservicerasteroverlay_cesiumtilemapservicerasteroverlay",
+      "target": "rasteroverlayrendereroptions_rasteroverlayrendereroptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumTileMapServiceRasterOverlay Objects.md",
+      "source_location": "line 52",
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundcachesubsystem_metasoundcachesubsystem",
+      "target": "pcgmetadata_pcgmetadata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MetaSoundCacheSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturearea_texturearea",
+      "target": "rigunit_visualdebugtransformitemspace_rigunit_visualdebugtransformitemspace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "TextureArea Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pcgmetadata_attribute_management_group",
+      "label": "PCGMetadata Attribute Management Methods",
+      "nodes": [
+        "pcgmetadata_pcgmetadata",
+        "pcgpoint_pcgpoint",
+        "pcgmetadataop_pcgmetadataop",
+        "pcgmetadatafiltermode_pcgmetadatafiltermode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGMetadata Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

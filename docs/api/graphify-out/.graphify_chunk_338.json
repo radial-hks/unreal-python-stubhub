@@ -1,0 +1,1150 @@
+{
+  "nodes": [
+    {
+      "id": "createpathactionparams_createpathactionparams",
+      "label": "CreatePathActionParams",
+      "file_type": "document",
+      "source_file": "CreatePathActionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createpathactionparams_actionparamsbase",
+      "label": "ActionParamsBase",
+      "file_type": "document",
+      "source_file": "CreatePathActionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ktaperedcapsuleelem_ktaperedcapsuleelem",
+      "label": "KTaperedCapsuleElem",
+      "file_type": "document",
+      "source_file": "KTaperedCapsuleElem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ktaperedcapsuleelem_kshapeelem",
+      "label": "KShapeElem",
+      "file_type": "document",
+      "source_file": "KTaperedCapsuleElem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_meshgeneratormodes_generatestaticmeshlodprocess_meshgeneratormodes",
+      "label": "GenerateStaticMeshLODProcess_MeshGeneratorModes",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_meshgeneratormodes_solidify",
+      "label": "SOLIDIFY",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_meshgeneratormodes_solidify_and_close",
+      "label": "SOLIDIFY_AND_CLOSE",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_meshgeneratormodes_clean_and_simplify",
+      "label": "CLEAN_AND_SIMPLIFY",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_meshgeneratormodes_convex_hull",
+      "label": "CONVEX_HULL",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__convertrotationtovector_rigunit__convertrotationtovector",
+      "label": "RigUnit_ConvertRotationToVector",
+      "file_type": "document",
+      "source_file": "RigUnit__ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__convertrotationtovector_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit__ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__convertrotationtovector_rotator",
+      "label": "Rotator",
+      "file_type": "document",
+      "source_file": "RigUnit__ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__convertrotationtovector_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "RigUnit__ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflow_dataflow",
+      "label": "Dataflow",
+      "file_type": "document",
+      "source_file": "Dataflow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflow_edgraph",
+      "label": "EdGraph",
+      "file_type": "document",
+      "source_file": "Dataflow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exponentialheightfogdata_exponentialheightfogdata",
+      "label": "ExponentialHeightFogData",
+      "file_type": "document",
+      "source_file": "ExponentialHeightFogData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exponentialheightfogdata_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "ExponentialHeightFogData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmeshactor_dynamicmeshactor",
+      "label": "DynamicMeshActor",
+      "file_type": "document",
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmeshactor_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmeshactor_dynamicmeshcomponent",
+      "label": "DynamicMeshComponent",
+      "file_type": "document",
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmeshactor_dynamicmeshpool",
+      "label": "DynamicMeshPool",
+      "file_type": "document",
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmeshactor_dynamicmesh",
+      "label": "DynamicMesh",
+      "file_type": "document",
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_loopterminal_optimusnode_loopterminal",
+      "label": "OptimusNode_LoopTerminal",
+      "file_type": "document",
+      "source_file": "OptimusNode_LoopTerminal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_loopterminal_optimusnode",
+      "label": "OptimusNode",
+      "file_type": "document",
+      "source_file": "OptimusNode_LoopTerminal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartition_worldpartition",
+      "label": "WorldPartition",
+      "file_type": "document",
+      "source_file": "WorldPartition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartition_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "WorldPartition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinebase_moviepipelinebase",
+      "label": "MoviePipelineBase",
+      "file_type": "document",
+      "source_file": "MoviePipelineBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinebase_moviepipelineworkfinished",
+      "label": "MoviePipelineWorkFinished",
+      "file_type": "document",
+      "source_file": "MoviePipelineBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__secondstoframes_rigvmfunction__secondstoframes",
+      "label": "RigVMFunction_SecondsToFrames",
+      "file_type": "document",
+      "source_file": "RigVMFunction__SecondsToFrames Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__secondstoframes_rigvmfunction_animbase",
+      "label": "RigVMFunction_AnimBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__SecondsToFrames Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctionmateriallayerblendinstance_materialfunctionmateriallayerblendinstance",
+      "label": "MaterialFunctionMaterialLayerBlendInstance",
+      "file_type": "document",
+      "source_file": "MaterialFunctionMaterialLayerBlendInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctionmateriallayerblendinstance_materialfunctioninstance",
+      "label": "MaterialFunctionInstance",
+      "file_type": "document",
+      "source_file": "MaterialFunctionMaterialLayerBlendInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainspeedplantsettings_targetchainspeedplantsettings",
+      "label": "TargetChainSpeedPlantSettings",
+      "file_type": "document",
+      "source_file": "TargetChainSpeedPlantSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcameraposefunctionlibrary_blueprintcameraposefunctionlibrary",
+      "label": "BlueprintCameraPoseFunctionLibrary",
+      "file_type": "document",
+      "source_file": "BlueprintCameraPoseFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcameraposefunctionlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "BlueprintCameraPoseFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcameraposefunctionlibrary_blueprintcamerapose",
+      "label": "BlueprintCameraPose",
+      "file_type": "document",
+      "source_file": "BlueprintCameraPoseFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcameraposefunctionlibrary_transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "BlueprintCameraPoseFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathfloatexponential_rigunit__mathfloatexponential",
+      "label": "RigUnit_MathFloatExponential",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathfloatexponential_rigvmfunction_mathfloatexponential",
+      "label": "RigVMFunction_MathFloatExponential",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaterniontoaxisandangle_rigunit_mathquaterniontoaxisandangle",
+      "label": "RigUnit_MathQuaternionToAxisAndAngle",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaterniontoaxisandangle_rigvmfunction_mathquaterniontoaxisandangle",
+      "label": "RigVMFunction_MathQuaternionToAxisAndAngle",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaterniontoaxisandangle_quat",
+      "label": "Quat",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volumecachefactory_volumecachefactory",
+      "label": "VolumeCacheFactory",
+      "file_type": "document",
+      "source_file": "VolumeCacheFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volumecachefactory_factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "VolumeCacheFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setbonetransform_rigunit__setbonetransform",
+      "label": "RigUnit_SetBoneTransform",
+      "file_type": "document",
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setbonetransform_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setbonetransform_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setbonetransform_rigvmtransformspace",
+      "label": "RigVMTransformSpace",
+      "file_type": "document",
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathtransformaccumulatearray_rigvmfunction__mathtransformaccumulatearray",
+      "label": "RigVMFunction_MathTransformAccumulateArray",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathtransformaccumulatearray_rigvmfunction_mathtransformmutablebase",
+      "label": "RigVMFunction_MathTransformMutableBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathtransformaccumulatearray_rigvmexecutecontext",
+      "label": "RigVMExecuteContext",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundpatchbuilder_metasoundpatchbuilder",
+      "label": "MetaSoundPatchBuilder",
+      "file_type": "document",
+      "source_file": "MetaSoundPatchBuilder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundpatchbuilder_metasoundbuilderbase",
+      "label": "MetaSoundBuilderBase",
+      "file_type": "document",
+      "source_file": "MetaSoundPatchBuilder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxshaders_interchangematerialxshaders",
+      "label": "InterchangeMaterialXShaders",
+      "file_type": "document",
+      "source_file": "InterchangeMaterialXShaders Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxshaders_open_pbr_surface",
+      "label": "OPEN_PBR_SURFACE",
+      "file_type": "document",
+      "source_file": "InterchangeMaterialXShaders Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxshaders_standard_surface",
+      "label": "STANDARD_SURFACE",
+      "file_type": "document",
+      "source_file": "InterchangeMaterialXShaders Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxshaders_usd_preview_surface",
+      "label": "USD_PREVIEW_SURFACE",
+      "file_type": "document",
+      "source_file": "InterchangeMaterialXShaders Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blackboardkeytype_blackboardkeytype",
+      "label": "BlackboardKeyType",
+      "file_type": "document",
+      "source_file": "BlackboardKeyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "createpathactionparams_createpathactionparams",
+      "target": "createpathactionparams_actionparamsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreatePathActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ktaperedcapsuleelem_ktaperedcapsuleelem",
+      "target": "ktaperedcapsuleelem_kshapeelem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KTaperedCapsuleElem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_meshgeneratormodes_solidify",
+      "target": "generatestaticmeshlodprocess_meshgeneratormodes_generatestaticmeshlodprocess_meshgeneratormodes",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_meshgeneratormodes_solidify_and_close",
+      "target": "generatestaticmeshlodprocess_meshgeneratormodes_generatestaticmeshlodprocess_meshgeneratormodes",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_meshgeneratormodes_clean_and_simplify",
+      "target": "generatestaticmeshlodprocess_meshgeneratormodes_generatestaticmeshlodprocess_meshgeneratormodes",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_meshgeneratormodes_convex_hull",
+      "target": "generatestaticmeshlodprocess_meshgeneratormodes_generatestaticmeshlodprocess_meshgeneratormodes",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__convertrotationtovector_rigunit__convertrotationtovector",
+      "target": "rigunit__convertrotationtovector_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__convertrotationtovector_rigunit__convertrotationtovector",
+      "target": "rigunit__convertrotationtovector_rotator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__convertrotationtovector_rigunit__convertrotationtovector",
+      "target": "rigunit__convertrotationtovector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataflow_dataflow",
+      "target": "dataflow_edgraph",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Dataflow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "exponentialheightfogdata_exponentialheightfogdata",
+      "target": "exponentialheightfogdata_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ExponentialHeightFogData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmeshactor_dynamicmeshactor",
+      "target": "dynamicmeshactor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmeshactor_dynamicmeshactor",
+      "target": "dynamicmeshactor_dynamicmeshcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmeshactor_dynamicmeshactor",
+      "target": "dynamicmeshactor_dynamicmeshpool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmeshactor_dynamicmeshactor",
+      "target": "dynamicmeshactor_dynamicmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMeshActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_loopterminal_optimusnode_loopterminal",
+      "target": "optimusnode_loopterminal_optimusnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode_LoopTerminal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartition_worldpartition",
+      "target": "worldpartition_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinebase_moviepipelinebase",
+      "target": "worldpartition_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinebase_moviepipelinebase",
+      "target": "moviepipelinebase_moviepipelineworkfinished",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__secondstoframes_rigvmfunction__secondstoframes",
+      "target": "rigvmfunction__secondstoframes_rigvmfunction_animbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__SecondsToFrames Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunctionmateriallayerblendinstance_materialfunctionmateriallayerblendinstance",
+      "target": "materialfunctionmateriallayerblendinstance_materialfunctioninstance",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialFunctionMaterialLayerBlendInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameraposefunctionlibrary_blueprintcameraposefunctionlibrary",
+      "target": "blueprintcameraposefunctionlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraPoseFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameraposefunctionlibrary_blueprintcameraposefunctionlibrary",
+      "target": "blueprintcameraposefunctionlibrary_blueprintcamerapose",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraPoseFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameraposefunctionlibrary_blueprintcameraposefunctionlibrary",
+      "target": "blueprintcameraposefunctionlibrary_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraPoseFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathfloatexponential_rigunit__mathfloatexponential",
+      "target": "rigunit__mathfloatexponential_rigvmfunction_mathfloatexponential",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontoaxisandangle_rigunit_mathquaterniontoaxisandangle",
+      "target": "rigunit_mathquaterniontoaxisandangle_rigvmfunction_mathquaterniontoaxisandangle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontoaxisandangle_rigunit_mathquaterniontoaxisandangle",
+      "target": "rigunit_mathquaterniontoaxisandangle_quat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "volumecachefactory_volumecachefactory",
+      "target": "volumecachefactory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VolumeCacheFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setbonetransform_rigunit__setbonetransform",
+      "target": "rigunit__setbonetransform_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setbonetransform_rigunit__setbonetransform",
+      "target": "rigunit__setbonetransform_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setbonetransform_rigunit__setbonetransform",
+      "target": "blueprintcameraposefunctionlibrary_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setbonetransform_rigunit__setbonetransform",
+      "target": "rigunit__setbonetransform_rigvmtransformspace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathtransformaccumulatearray_rigvmfunction__mathtransformaccumulatearray",
+      "target": "rigvmfunction__mathtransformaccumulatearray_rigvmfunction_mathtransformmutablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathtransformaccumulatearray_rigvmfunction__mathtransformaccumulatearray",
+      "target": "rigvmfunction__mathtransformaccumulatearray_rigvmexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathtransformaccumulatearray_rigvmfunction__mathtransformaccumulatearray",
+      "target": "blueprintcameraposefunctionlibrary_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathtransformaccumulatearray_rigvmfunction__mathtransformaccumulatearray",
+      "target": "rigunit__setbonetransform_rigvmtransformspace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundpatchbuilder_metasoundpatchbuilder",
+      "target": "metasoundpatchbuilder_metasoundbuilderbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundPatchBuilder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxshaders_open_pbr_surface",
+      "target": "interchangematerialxshaders_interchangematerialxshaders",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialXShaders Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxshaders_standard_surface",
+      "target": "interchangematerialxshaders_interchangematerialxshaders",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialXShaders Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxshaders_usd_preview_surface",
+      "target": "interchangematerialxshaders_interchangematerialxshaders",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialXShaders Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackboardkeytype_blackboardkeytype",
+      "target": "worldpartition_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlackboardKeyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_meshgeneratormodes_solidify",
+      "target": "generatestaticmeshlodprocess_meshgeneratormodes_solidify_and_close",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GenerateStaticMeshLODProcess_MeshGeneratorModes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxshaders_open_pbr_surface",
+      "target": "interchangematerialxshaders_standard_surface",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InterchangeMaterialXShaders Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setbonetransform_rigunit__setbonetransform",
+      "target": "rigvmfunction__mathtransformaccumulatearray_rigvmfunction__mathtransformaccumulatearray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__convertrotationtovector_rigunit__convertrotationtovector",
+      "target": "rigunit_mathquaterniontoaxisandangle_rigunit_mathquaterniontoaxisandangle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameraposefunctionlibrary_transform",
+      "target": "rigunit__setbonetransform_rigvmtransformspace",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "BlueprintCameraPoseFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_transform_hierarchy",
+      "label": "Control Rig Transform Hierarchy System",
+      "nodes": [
+        "rigunit__setbonetransform_rigunit__setbonetransform",
+        "rigvmfunction__mathtransformaccumulatearray_rigvmfunction__mathtransformaccumulatearray",
+        "rigunit__setbonetransform_rigvmtransformspace",
+        "blueprintcameraposefunctionlibrary_transform"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetBoneTransform Objects.md"
+    },
+    {
+      "id": "material_surface_shader_types",
+      "label": "Material Surface Shader Types",
+      "nodes": [
+        "interchangematerialxshaders_open_pbr_surface",
+        "interchangematerialxshaders_standard_surface",
+        "interchangematerialxshaders_usd_preview_surface",
+        "interchangematerialxshaders_interchangematerialxshaders"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "InterchangeMaterialXShaders Objects.md"
+    },
+    {
+      "id": "deprecated_rigunit_rigvmfunction_renames",
+      "label": "Deprecated RigUnit to RigVMFunction Renames",
+      "nodes": [
+        "rigunit__mathfloatexponential_rigunit__mathfloatexponential",
+        "rigunit__mathfloatexponential_rigvmfunction_mathfloatexponential",
+        "rigunit_mathquaterniontoaxisandangle_rigunit_mathquaterniontoaxisandangle",
+        "rigunit_mathquaterniontoaxisandangle_rigvmfunction_mathquaterniontoaxisandangle"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatExponential Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

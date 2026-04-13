@@ -1,0 +1,701 @@
+{
+  "nodes": [
+    {
+      "id": "animnode_singlenode_animsinglenode",
+      "label": "AnimNode_SingleNode",
+      "file_type": "code",
+      "source_file": "AnimNode_SingleNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geojsonreceiveddelegate_delegate",
+      "label": "GeoJSONReceivedDelegate",
+      "file_type": "code",
+      "source_file": "GeoJSONReceivedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiovolumelocationstate_enum",
+      "label": "AudioVolumeLocationState",
+      "file_type": "code",
+      "source_file": "AudioVolumeLocationState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummetadatablueprinttype_enum",
+      "label": "CesiumMetadataBlueprintType",
+      "file_type": "code",
+      "source_file": "CesiumMetadataBlueprintType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetinfoparams_struct",
+      "label": "AssetInfoParams",
+      "file_type": "code",
+      "source_file": "AssetInfoParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertycontrollerbounce_deprecated",
+      "label": "PropertyControllerBounce",
+      "file_type": "code",
+      "source_file": "PropertyControllerBounce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigpythonsettings_deprecated",
+      "label": "ControlRigPythonSettings",
+      "file_type": "code",
+      "source_file": "ControlRigPythonSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmcompilesettings_struct",
+      "label": "RigVMCompileSettings",
+      "file_type": "code",
+      "source_file": "RigVMCompileSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodebase_component",
+      "label": "FieldNodeBase",
+      "file_type": "code",
+      "source_file": "FieldNodeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concurrencyvolumescalemode_enum",
+      "label": "ConcurrencyVolumeScaleMode",
+      "file_type": "code",
+      "source_file": "ConcurrencyVolumeScaleMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typedelementselectionoptions_struct",
+      "label": "TypedElementSelectionOptions",
+      "file_type": "code",
+      "source_file": "TypedElementSelectionOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadactor_actor",
+      "label": "AesRoadActor",
+      "file_type": "code",
+      "source_file": "AesRoadActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrotatoranimationchannel_unit",
+      "label": "RigUnit_SetRotatorAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit_SetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesfacademoduledata_struct",
+      "label": "AesFacadeModuleData",
+      "file_type": "code",
+      "source_file": "AesFacadeModuleData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmviewmodelfieldpathhelpertestbase_test",
+      "label": "MVVMViewModelFieldPathHelperTestBase",
+      "file_type": "code",
+      "source_file": "MVVMViewModelFieldPathHelperTestBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasplineactor_actor",
+      "label": "AvaSplineActor",
+      "file_type": "code",
+      "source_file": "AvaSplineActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwavesampleratesettings_enum",
+      "label": "SoundwaveSampleRateSettings",
+      "file_type": "code",
+      "source_file": "SoundwaveSampleRateSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerwaterdataparams_struct",
+      "label": "WdpModelerWaterDataParams",
+      "file_type": "code",
+      "source_file": "WdpModelerWaterDataParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenu_class",
+      "label": "ToolMenu",
+      "file_type": "code",
+      "source_file": "ToolMenu Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleatan_deprecated",
+      "label": "RigUnit_MathDoubleAtan",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleAtan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaautofollowmodifier_modifier",
+      "label": "AvaAutoFollowModifier",
+      "file_type": "code",
+      "source_file": "AvaAutoFollowModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transitionlogictype_enum",
+      "label": "TransitionLogicType",
+      "file_type": "code",
+      "source_file": "TransitionLogicType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animnode_singlenode_animsinglenode",
+      "target": "animnode_base_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_SingleNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geojsonreceiveddelegate_delegate",
+      "target": "multicastdelegatebase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoJSONReceivedDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumelocationstate_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolumeLocationState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiummetadatablueprinttype_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumMetadataBlueprintType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetinfoparams_struct",
+      "target": "eidparams_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetInfoParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertycontrollerbounce_deprecated",
+      "target": "propertyanimatorbounce_renamedclass",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyControllerBounce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigpythonsettings_deprecated",
+      "target": "rigvmpythonsettings_renamedclass",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigPythonSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigpythonsettings_deprecated",
+      "target": "rigvmpythonsettings_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigPythonSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcompilesettings_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMCompileSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcompilesettings_struct",
+      "target": "rigvmparserastsettings_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMCompileSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldnodebase_component",
+      "target": "actorcomponent_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldNodeBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concurrencyvolumescalemode_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConcurrencyVolumeScaleMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "typedelementselectionoptions_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TypedElementSelectionOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "typedelementselectionoptions_struct",
+      "target": "typedelementchildinclusionmethod_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TypedElementSelectionOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadactor_actor",
+      "target": "actor_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesRoadActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadactor_actor",
+      "target": "roadentitytype_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesRoadActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadactor_actor",
+      "target": "aesgeoreference_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesRoadActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrotatoranimationchannel_unit",
+      "target": "rigunit_setanimationchannelbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrotatoranimationchannel_unit",
+      "target": "controlrigexecutecontext_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesfacademoduledata_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFacadeModuleData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesfacademoduledata_struct",
+      "target": "aesassetmetadata_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesFacadeModuleData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmviewmodelfieldpathhelpertestbase_test",
+      "target": "mvvmobjectfieldpathhelpertest_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMViewModelFieldPathHelperTestBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasplineactor_actor",
+      "target": "actor_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaSplineActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasplineactor_actor",
+      "target": "splinecomponent_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaSplineActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundwavesampleratesettings_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundwaveSampleRateSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmodelerwaterdataparams_struct",
+      "target": "paramsbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpModelerWaterDataParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenu_class",
+      "target": "toolmenubase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ToolMenu Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenu_class",
+      "target": "toolmenuowner_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ToolMenu Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenu_class",
+      "target": "toolmenuentryscript_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ToolMenu Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenu_class",
+      "target": "toolmenuentry_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ToolMenu Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenu_class",
+      "target": "toolmenusectiondynamic_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ToolMenu Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleatan_deprecated",
+      "target": "rigvmfunction_mathdoubleatan_renamedclass",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleAtan Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaautofollowmodifier_modifier",
+      "target": "avaattachmentbasemodifier_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaAutoFollowModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaautofollowmodifier_modifier",
+      "target": "avaanchoralignment_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaAutoFollowModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaautofollowmodifier_modifier",
+      "target": "avareferencecontainer_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaAutoFollowModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaautofollowmodifier_modifier",
+      "target": "avascenetreeactor_type",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaAutoFollowModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transitionlogictype_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransitionLogicType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadactor_actor",
+      "target": "avasplineactor_actor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesRoadActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcompilesettings_struct",
+      "target": "rigunit_setrotatoranimationchannel_unit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMCompileSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concurrencyvolumescalemode_enum",
+      "target": "soundwavesampleratesettings_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ConcurrencyVolumeScaleMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumelocationstate_enum",
+      "target": "concurrencyvolumescalemode_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AudioVolumeLocationState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_classes_renamed",
+      "label": "Deprecated Classes Renamed to New Names",
+      "nodes": [
+        "propertycontrollerbounce_deprecated",
+        "controlrigpythonsettings_deprecated",
+        "rigunit_mathdoubleatan_deprecated"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "audio_enums_audio_system",
+      "label": "Audio System Enums",
+      "nodes": [
+        "audiovolumelocationstate_enum",
+        "concurrencyvolumescalemode_enum",
+        "soundwavesampleratesettings_enum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "rigvm_controlrig_ecosystem",
+      "label": "RigVM and ControlRig System Components",
+      "nodes": [
+        "rigvmcompilesettings_struct",
+        "rigunit_setrotatoranimationchannel_unit",
+        "controlrigpythonsettings_deprecated"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,539 @@
+{
+  "nodes": [
+    {
+      "id": "tileoverlapresolvetype_enum",
+      "label": "TileOverlapResolveType",
+      "file_type": "document",
+      "source_file": "TileOverlapResolveType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatagid_struct",
+      "label": "AvaTagId",
+      "file_type": "document",
+      "source_file": "AvaTagId Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseconfig_sight_class",
+      "label": "AISenseConfig_Sight",
+      "file_type": "document",
+      "source_file": "AISenseConfig_Sight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashaperingdynamicmesh_class",
+      "label": "AvaShapeRingDynamicMesh",
+      "file_type": "document",
+      "source_file": "AvaShapeRingDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structurefactory_class",
+      "label": "StructureFactory",
+      "file_type": "document",
+      "source_file": "StructureFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocapturedeviceinfo_struct",
+      "label": "AudioCaptureDeviceInfo",
+      "file_type": "document",
+      "source_file": "AudioCaptureDeviceInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filemediaoutput_class",
+      "label": "FileMediaOutput",
+      "file_type": "document",
+      "source_file": "FileMediaOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sectiontransformatom_class",
+      "label": "SectionTransformAtom",
+      "file_type": "document",
+      "source_file": "SectionTransformAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstrateunlitbsdf_class",
+      "label": "MaterialExpressionSubstrateUnlitBSDF",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateUnlitBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosbuffermode_enum",
+      "label": "ChaosBufferMode",
+      "file_type": "document",
+      "source_file": "ChaosBufferMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialeditorparameters_object",
+      "label": "MaterialEditorParameters",
+      "file_type": "document",
+      "source_file": "MaterialEditorParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspatialnoisemask2dmode_enum",
+      "label": "PCGSpatialNoiseMask2DMode",
+      "file_type": "document",
+      "source_file": "PCGSpatialNoiseMask2DMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgworldcommonqueryparams_struct",
+      "label": "PCGWorldCommonQueryParams",
+      "file_type": "document",
+      "source_file": "PCGWorldCommonQueryParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmodelapiregister_class",
+      "label": "DCPModelAPIRegister",
+      "file_type": "document",
+      "source_file": "DCPModelAPIRegister Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playermappablekeyprofilecreationargs_struct",
+      "label": "PlayerMappableKeyProfileCreationArgs",
+      "file_type": "document",
+      "source_file": "PlayerMappableKeyProfileCreationArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundfieldeffectsettingsbase_class",
+      "label": "SoundfieldEffectSettingsBase",
+      "file_type": "document",
+      "source_file": "SoundfieldEffectSettingsBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerembankvertexattribute_struct",
+      "label": "WdpModelerEmbankVertexAttribute",
+      "file_type": "document",
+      "source_file": "WdpModelerEmbankVertexAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayerbaseinfoatom_class",
+      "label": "GeoLayerBaseInfoAtom",
+      "file_type": "document",
+      "source_file": "GeoLayerBaseInfoAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constantqresults_struct",
+      "label": "ConstantQResults",
+      "file_type": "document",
+      "source_file": "ConstantQResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreestructref_struct",
+      "label": "StateTreeStructRef",
+      "file_type": "document",
+      "source_file": "StateTreeStructRef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanbuildtemplatetexture_struct",
+      "label": "UrbanBuildTemplateTexture",
+      "file_type": "document",
+      "source_file": "UrbanBuildTemplateTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massagentorientationsynctrait_class",
+      "label": "MassAgentOrientationSyncTrait",
+      "file_type": "document",
+      "source_file": "MassAgentOrientationSyncTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseaffiliationfilter_type",
+      "label": "AISenseAffiliationFilter",
+      "file_type": "document",
+      "source_file": "AISenseConfig_Sight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_write_options_type",
+      "label": "ImageWriteOptions",
+      "file_type": "document",
+      "source_file": "FileMediaOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "directorypath_type",
+      "label": "DirectoryPath",
+      "file_type": "document",
+      "source_file": "FileMediaOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytag_type",
+      "label": "GameplayTag",
+      "file_type": "document",
+      "source_file": "PlayerMappableKeyProfileCreationArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platformuserid_type",
+      "label": "PlatformUserId",
+      "file_type": "document",
+      "source_file": "PlayerMappableKeyProfileCreationArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_type",
+      "label": "Texture",
+      "file_type": "document",
+      "source_file": "UrbanBuildTemplateTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eidparams_type",
+      "label": "EidParams",
+      "file_type": "document",
+      "source_file": "DCPModelAPIRegister Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcmodelvisibilityparams_type",
+      "label": "DCModelVisibilityParams",
+      "file_type": "document",
+      "source_file": "DCPModelAPIRegister Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmodelactiveparams_type",
+      "label": "DCPModelActiveParams",
+      "file_type": "document",
+      "source_file": "DCPModelAPIRegister Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "aisenseconfig_sight_class",
+      "target": "aisenseaffiliationfilter_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISenseConfig_Sight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "filemediaoutput_class",
+      "target": "image_write_options_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FileMediaOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "filemediaoutput_class",
+      "target": "directorypath_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FileMediaOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playermappablekeyprofilecreationargs_struct",
+      "target": "gameplaytag_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerMappableKeyProfileCreationArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playermappablekeyprofilecreationargs_struct",
+      "target": "platformuserid_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerMappableKeyProfileCreationArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanbuildtemplatetexture_struct",
+      "target": "texture_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanBuildTemplateTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmodelapiregister_class",
+      "target": "eidparams_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPModelAPIRegister Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmodelapiregister_class",
+      "target": "dcmodelvisibilityparams_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPModelAPIRegister Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmodelapiregister_class",
+      "target": "dcpmodelactiveparams_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPModelAPIRegister Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgspatialnoisemask2dmode_enum",
+      "target": "pcgworldcommonqueryparams_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGSpatialNoiseMask2DMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosbuffermode_enum",
+      "target": "massagentorientationsynctrait_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ChaosBufferMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstrateunlitbsdf_class",
+      "target": "materialeditorparameters_object",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionSubstrateUnlitBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tileoverlapresolvetype_enum",
+      "target": "urbanbuildtemplatetexture_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "TileOverlapResolveType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constantqresults_struct",
+      "target": "audiocapturedeviceinfo_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ConstantQResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatagid_struct",
+      "target": "avashaperingdynamicmesh_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AvaTagId Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "audio_processing_components",
+      "label": "Audio Processing Components",
+      "nodes": [
+        "audiocapturedeviceinfo_struct",
+        "constantqresults_struct",
+        "soundfieldeffectsettingsbase_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AudioCaptureDeviceInfo Objects.md"
+    },
+    {
+      "id": "material_system_components",
+      "label": "Material System Components",
+      "nodes": [
+        "materialexpressionsubstrateunlitbsdf_class",
+        "materialeditorparameters_object",
+        "urbanbuildtemplatetexture_struct"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialEditorParameters Objects.md"
+    },
+    {
+      "id": "ai_perception_system",
+      "label": "AI Perception System",
+      "nodes": [
+        "aisenseconfig_sight_class",
+        "massagentorientationsynctrait_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AISenseConfig_Sight Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,539 @@
+{
+  "nodes": [
+    {
+      "id": "moviepipelinecollection_moviepipelinecollection",
+      "label": "MoviePipelineCollection",
+      "file_type": "code",
+      "source_file": "MoviePipelineCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiobuschannels_audiobuschannels",
+      "label": "AudioBusChannels",
+      "file_type": "code",
+      "source_file": "AudioBusChannels Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springik_rigunit_springik",
+      "label": "RigUnit_SpringIK",
+      "file_type": "code",
+      "source_file": "RigUnit_SpringIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mpcdigeometryimportdata_mpcdigeometryimportdata",
+      "label": "MPCDIGeometryImportData",
+      "file_type": "code",
+      "source_file": "MPCDIGeometryImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rcnetworkaddressrange_rcnetworkaddressrange",
+      "label": "RCNetworkAddressRange",
+      "file_type": "code",
+      "source_file": "RCNetworkAddressRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scrolldirection_scrolldirection",
+      "label": "ScrollDirection",
+      "file_type": "code",
+      "source_file": "ScrollDirection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpapistatemanager_wdpapistatemanager",
+      "label": "WdpApiStateManager",
+      "file_type": "code",
+      "source_file": "WdpApiStateManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bpvariablemetadataentry_bpvariablemetadataentry",
+      "label": "BPVariableMetaDataEntry",
+      "file_type": "code",
+      "source_file": "BPVariableMetaDataEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseevent_hearing_aisenseevent_hearing",
+      "label": "AISenseEvent_Hearing",
+      "file_type": "code",
+      "source_file": "AISenseEvent__Hearing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionrotatevector_rigvmfunction_mathquaternionrotatevector",
+      "label": "RigVMFunction_MathQuaternionRotateVector",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionRotateVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+      "label": "RigUnit_SetVectorAnimationChannelFromItem",
+      "file_type": "code",
+      "source_file": "RigUnit_SetVectorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "btnoderesult_btnoderesult",
+      "label": "BTNodeResult",
+      "file_type": "code",
+      "source_file": "BTNodeResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageinputslot_dmmaterialstageinputslot",
+      "label": "DMMaterialStageInputSlot",
+      "file_type": "code",
+      "source_file": "DMMaterialStageInputSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "locationservicesdata_onlocationchanged_locationservicesdata_onlocationchanged",
+      "label": "LocationServicesData_OnLocationChanged",
+      "file_type": "code",
+      "source_file": "LocationServicesData__OnLocationChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface_materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "code",
+      "source_file": "MaterialInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avamaterialmasksettings_avamaterialmasksettings",
+      "label": "AvaMaterialMaskSettings",
+      "file_type": "code",
+      "source_file": "AvaMaterialMaskSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgizmotype_wdpgizmotype",
+      "label": "WdpGizmoType",
+      "file_type": "code",
+      "source_file": "WdpGizmoType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgtransformpointssettings_pcgtransformpointssettings",
+      "label": "PCGTransformPointsSettings",
+      "file_type": "code",
+      "source_file": "PCGTransformPointsSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "margin_margin",
+      "label": "Margin",
+      "file_type": "code",
+      "source_file": "Margin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonermeshsampledata_avaclonermeshsampledata",
+      "label": "AvaClonerMeshSampleData",
+      "file_type": "code",
+      "source_file": "AvaClonerMeshSampleData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorautomationactor_editorautomationactor",
+      "label": "EditorAutomationActor",
+      "file_type": "code",
+      "source_file": "EditorAutomationActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "crsimpointforce_crsimpointforce",
+      "label": "CRSimPointForce",
+      "file_type": "code",
+      "source_file": "CRSimPointForce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_renaming_convention",
+      "label": "Deprecated Renaming Convention",
+      "file_type": "code",
+      "source_file": "MoviePipelineCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "behavior_tree_execution_states",
+      "label": "Behavior Tree Execution States",
+      "file_type": "code",
+      "source_file": "BTNodeResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_channel_configuration",
+      "label": "Audio Channel Configuration",
+      "file_type": "code",
+      "source_file": "AudioBusChannels Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_layout_system",
+      "label": "Widget Layout System",
+      "file_type": "code",
+      "source_file": "Margin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternion_vector_rotation",
+      "label": "Quaternion Vector Rotation",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionRotateVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spring_ik_solver",
+      "label": "Spring IK Solver",
+      "file_type": "code",
+      "source_file": "RigUnit_SpringIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencer_integration_barrier",
+      "label": "Sequencer Integration Barrier",
+      "file_type": "code",
+      "source_file": "AvaMaterialMaskSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviepipelinecollection_moviepipelinecollection",
+      "target": "deprecated_renaming_convention",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorautomationactor_editorautomationactor",
+      "target": "deprecated_renaming_convention",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorAutomationActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonermeshsampledata_avaclonermeshsampledata",
+      "target": "deprecated_renaming_convention",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerMeshSampleData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionrotatevector_rigvmfunction_mathquaternionrotatevector",
+      "target": "quaternion_vector_rotation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionRotateVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springik_rigunit_springik",
+      "target": "spring_ik_solver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SpringIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "btnoderesult_btnoderesult",
+      "target": "behavior_tree_execution_states",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BTNodeResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiobuschannels_audiobuschannels",
+      "target": "audio_channel_configuration",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioBusChannels Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "margin_margin",
+      "target": "widget_layout_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Margin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avamaterialmasksettings_avamaterialmasksettings",
+      "target": "sequencer_integration_barrier",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaMaterialMaskSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionrotatevector_rigvmfunction_mathquaternionrotatevector",
+      "target": "rigunit_springik_rigunit_springik",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathQuaternionRotateVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionrotatevector_rigvmfunction_mathquaternionrotatevector",
+      "target": "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathQuaternionRotateVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "crsimpointforce_crsimpointforce",
+      "target": "rigunit_springik_rigunit_springik",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CRSimPointForce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisenseevent_hearing_aisenseevent_hearing",
+      "target": "btnoderesult_btnoderesult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AISenseEvent__Hearing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageinputslot_dmmaterialstageinputslot",
+      "target": "materialinterface_materialinterface",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DMMaterialStageInputSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avamaterialmasksettings_avamaterialmasksettings",
+      "target": "materialinterface_materialinterface",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AvaMaterialMaskSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgtransformpointssettings_pcgtransformpointssettings",
+      "target": "rigunit_springik_rigunit_springik",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "PCGTransformPointsSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgizmotype_wdpgizmotype",
+      "target": "pcgtransformpointssettings_pcgtransformpointssettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpGizmoType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_math_operations",
+      "label": "Control Rig Math Operations",
+      "nodes": [
+        "rigvmfunction_mathquaternionrotatevector_rigvmfunction_mathquaternionrotatevector",
+        "rigunit_springik_rigunit_springik",
+        "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+        "crsimpointforce_crsimpointforce"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SpringIK Objects.md"
+    },
+    {
+      "id": "unreal_engine_deprecated_types",
+      "label": "Unreal Engine Deprecated Types",
+      "nodes": [
+        "moviepipelinecollection_moviepipelinecollection",
+        "editorautomationactor_editorautomationactor",
+        "avaclonermeshsampledata_avaclonermeshsampledata"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MoviePipelineCollection Objects.md"
+    },
+    {
+      "id": "material_system_components",
+      "label": "Material System Components",
+      "nodes": [
+        "materialinterface_materialinterface",
+        "dmmaterialstageinputslot_dmmaterialstageinputslot",
+        "avamaterialmasksettings_avamaterialmasksettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialInterface Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,810 @@
+{
+  "nodes": [
+    {
+      "id": "demoplayfailure_enum",
+      "label": "DemoPlayFailure",
+      "file_type": "code",
+      "source_file": "DemoPlayFailure Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonergridconstraintcylinder_struct",
+      "label": "CEClonerGridConstraintCylinder",
+      "file_type": "code",
+      "source_file": "CEClonerGridConstraintCylinder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aiparamtype_enum",
+      "label": "AIParamType",
+      "file_type": "code",
+      "source_file": "AIParamType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingmetadata_struct",
+      "label": "AesBuildingMetaData",
+      "file_type": "code",
+      "source_file": "AesBuildingMetaData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aespoiactor_class",
+      "label": "AesPOIActor",
+      "file_type": "code",
+      "source_file": "AesPOIActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectclaimhandle_struct",
+      "label": "SmartObjectClaimHandle",
+      "file_type": "code",
+      "source_file": "SmartObjectClaimHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "triggerevent_enum",
+      "label": "TriggerEvent",
+      "file_type": "code",
+      "source_file": "TriggerEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aessplinecurvesmetadata_struct",
+      "label": "AesSplineCurvesMetadata",
+      "file_type": "code",
+      "source_file": "AesSplineCurvesMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontrolinitialtransform_class",
+      "label": "RigUnit_GetControlInitialTransform",
+      "file_type": "code",
+      "source_file": "RigUnit__GetControlInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatamakevectorsettings_class",
+      "label": "PCGMetadataMakeVectorSettings",
+      "file_type": "code",
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navavoidancemask_struct",
+      "label": "NavAvoidanceMask",
+      "file_type": "code",
+      "source_file": "NavAvoidanceMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphmetadataattributecollection_class",
+      "label": "MovieGraphMetadataAttributeCollection",
+      "file_type": "code",
+      "source_file": "MovieGraphMetadataAttributeCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptpixelsamplingmethod_enum",
+      "label": "GeometryScriptPixelSamplingMethod",
+      "file_type": "code",
+      "source_file": "GeometryScriptPixelSamplingMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxburn_class",
+      "label": "MaterialExpressionMaterialXBurn",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXBurn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptrecomputeuvsoptions_struct",
+      "label": "GeometryScriptRecomputeUVsOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoruserscenetextureoverride_struct",
+      "label": "EditorUserSceneTextureOverride",
+      "file_type": "code",
+      "source_file": "EditorUserSceneTextureOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmassscalarparametervalue_class",
+      "label": "LightmassScalarParameterValue",
+      "file_type": "code",
+      "source_file": "LightmassScalarParameterValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperspritesheetreimportfactory_class",
+      "label": "PaperSpriteSheetReimportFactory",
+      "file_type": "code",
+      "source_file": "PaperSpriteSheetReimportFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshwireframecomponent_class",
+      "label": "MeshWireframeComponent",
+      "file_type": "code",
+      "source_file": "MeshWireframeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transactionparams_class",
+      "label": "TransactionParams",
+      "file_type": "code",
+      "source_file": "TransactionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userlistentrylibrary_class",
+      "label": "UserListEntryLibrary",
+      "file_type": "code",
+      "source_file": "UserListEntryLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_gettransformarray_class",
+      "label": "RigUnit_GetTransformArray",
+      "file_type": "code",
+      "source_file": "RigUnit__GetTransformArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landcover_type",
+      "label": "LandCover",
+      "file_type": "code",
+      "source_file": "AesBuildingMetaData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roofshape_type",
+      "label": "RoofShape",
+      "file_type": "code",
+      "source_file": "AesBuildingMetaData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjecthandle_type",
+      "label": "SmartObjectHandle",
+      "file_type": "code",
+      "source_file": "SmartObjectClaimHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslathandle_type",
+      "label": "SmartObjectSlotHandle",
+      "file_type": "code",
+      "source_file": "SmartObjectClaimHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtransformspace_type",
+      "label": "RigVMTransformSpace",
+      "file_type": "code",
+      "source_file": "RigUnit__GetControlInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyinputselector_type",
+      "label": "PCGAttributePropertyInputSelector",
+      "file_type": "code",
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatamakevector3_type",
+      "label": "PCGMetadataMakeVector3",
+      "file_type": "code",
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatamakevector4_type",
+      "label": "PCGMetadataMakeVector4",
+      "file_type": "code",
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptuvflattenmethod_type",
+      "label": "GeometryScriptUVFlattenMethod",
+      "file_type": "code",
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptuvislandsource_type",
+      "label": "GeometryScriptUVIslandSource",
+      "file_type": "code",
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptexpmapuvoptions_type",
+      "label": "GeometryScriptExpMapUVOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptspectralconformaluvoptions_type",
+      "label": "GeometryScriptSpectralConformalUVOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptgrouplayer_type",
+      "label": "GeometryScriptGroupLayer",
+      "file_type": "code",
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphmetadataattribute_type",
+      "label": "MovieGraphMetadataAttribute",
+      "file_type": "code",
+      "source_file": "MovieGraphMetadataAttributeCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkeycollection_type",
+      "label": "RigElementKeyCollection",
+      "file_type": "code",
+      "source_file": "RigUnit__GetTransformArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "code",
+      "source_file": "AesBuildingMetaData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clonereffector_plugin",
+      "label": "ClonerEffector Plugin",
+      "file_type": "code",
+      "source_file": "CEClonerGridConstraintCylinder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "RigUnit__GetControlInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "code",
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "code",
+      "source_file": "GeometryScriptPixelSamplingMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjects_plugin",
+      "label": "SmartObjects Plugin",
+      "file_type": "code",
+      "source_file": "SmartObjectClaimHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "aesbuildingmetadata_struct",
+      "target": "landcover_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBuildingMetaData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingmetadata_struct",
+      "target": "roofshape_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBuildingMetaData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectclaimhandle_struct",
+      "target": "smartobjecthandle_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectClaimHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectclaimhandle_struct",
+      "target": "smartobjectslathandle_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectClaimHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolinitialtransform_class",
+      "target": "rigvmtransformspace_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetControlInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatamakevectorsettings_class",
+      "target": "pcgattributepropertyinputselector_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatamakevectorsettings_class",
+      "target": "pcgmetadatamakevector3_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatamakevectorsettings_class",
+      "target": "pcgmetadatamakevector4_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrecomputeuvsoptions_struct",
+      "target": "geometryscriptuvflattenmethod_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrecomputeuvsoptions_struct",
+      "target": "geometryscriptuvislandsource_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrecomputeuvsoptions_struct",
+      "target": "geometryscriptexpmapuvoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrecomputeuvsoptions_struct",
+      "target": "geometryscriptspectralconformaluvoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrecomputeuvsoptions_struct",
+      "target": "geometryscriptgrouplayer_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphmetadataattributecollection_class",
+      "target": "moviegraphmetadataattribute_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphMetadataAttributeCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_gettransformarray_class",
+      "target": "rigvmtransformspace_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetTransformArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_gettransformarray_class",
+      "target": "rigelementkeycollection_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetTransformArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingmetadata_struct",
+      "target": "aesworld_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBuildingMetaData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aespoiactor_class",
+      "target": "aesworld_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesPOIActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aessplinecurvesmetadata_struct",
+      "target": "aesworld_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesSplineCurvesMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonergridconstraintcylinder_struct",
+      "target": "clonereffector_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerGridConstraintCylinder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolinitialtransform_class",
+      "target": "controlrig_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetControlInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_gettransformarray_class",
+      "target": "controlrig_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetTransformArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatamakevectorsettings_class",
+      "target": "pcg_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataMakeVectorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptpixelsamplingmethod_enum",
+      "target": "geometryscripting_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptPixelSamplingMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrecomputeuvsoptions_struct",
+      "target": "geometryscripting_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRecomputeUVsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectclaimhandle_struct",
+      "target": "smartobjects_plugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectClaimHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolinitialtransform_class",
+      "target": "rigunit_gettransformarray_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__GetControlInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptpixelsamplingmethod_enum",
+      "target": "geometryscriptrecomputeuvsoptions_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptPixelSamplingMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingmetadata_struct",
+      "target": "aessplinecurvesmetadata_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesBuildingMetaData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigunit_transform_operations",
+      "label": "RigUnit Transform Operations",
+      "nodes": [
+        "rigunit_getcontrolinitialtransform_class",
+        "rigunit_gettransformarray_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__GetControlInitialTransform Objects.md"
+    },
+    {
+      "id": "aesworld_metadata_structures",
+      "label": "AesWorld Metadata Structures",
+      "nodes": [
+        "aesbuildingmetadata_struct",
+        "aessplinecurvesmetadata_struct",
+        "aespoiactor_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AesBuildingMetaData Objects.md"
+    },
+    {
+      "id": "geometryscript_uv_tools",
+      "label": "GeometryScript UV Tools",
+      "nodes": [
+        "geometryscriptpixelsamplingmethod_enum",
+        "geometryscriptrecomputeuvsoptions_struct"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptPixelSamplingMethod Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

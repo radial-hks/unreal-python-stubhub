@@ -1,0 +1,956 @@
+{
+  "nodes": [
+    {
+      "id": "LowEntryLatentActionString",
+      "type": "class",
+      "label": "LowEntryLatentActionString",
+      "properties": {
+        "module": "LowEntryExtendedStandardLibrary",
+        "plugin": "LowEntryExtStdLib",
+        "file": "LowEntryLatentActionString.h",
+        "description": "Low Entry Latent Action String"
+      }
+    },
+    {
+      "id": "LowEntryLatentActionString.wait_till_done",
+      "type": "method",
+      "label": "wait_till_done",
+      "properties": {
+        "return_type": "str"
+      }
+    },
+    {
+      "id": "LowEntryLatentActionString.is_done",
+      "type": "method",
+      "label": "is_done",
+      "properties": {
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "LowEntryLatentActionString.get_result",
+      "type": "method",
+      "label": "get_result",
+      "properties": {
+        "return_type": "str"
+      }
+    },
+    {
+      "id": "LowEntryLatentActionString.done",
+      "type": "method",
+      "label": "done",
+      "properties": {
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "OnTakeRecorderStopped",
+      "type": "class",
+      "label": "OnTakeRecorderStopped",
+      "properties": {
+        "module": "TakeRecorder",
+        "plugin": "Takes",
+        "file": "TakeRecorderBlueprintLibrary.h",
+        "description": "On Take Recorder Stopped Delegate Signature"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorClampSpatially",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorClampSpatially",
+      "properties": {
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_MathVector.h",
+        "description": "Clamps a position using a plane collision, cylindric collision or spherical collision"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorBase",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorBase"
+    },
+    {
+      "id": "AnimNode_RigidBody",
+      "type": "class",
+      "label": "AnimNode_RigidBody",
+      "properties": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_RigidBody.h",
+        "description": "Controller that simulates physics based on the physics asset of the skeletal mesh component"
+      }
+    },
+    {
+      "id": "AnimNode_SkeletalControlBase",
+      "type": "class",
+      "label": "AnimNode_SkeletalControlBase"
+    },
+    {
+      "id": "AudioInputDeviceInfoProperty",
+      "type": "struct",
+      "label": "AudioInputDeviceInfoProperty",
+      "properties": {
+        "module": "TakesCore",
+        "plugin": "Takes",
+        "file": "TakeRecorderSourceProperty.h",
+        "description": "Encapsulates audio device properties which are utilized by UI facing classes"
+      }
+    },
+    {
+      "id": "AudioInputDeviceInfoProperty.device_name",
+      "type": "property",
+      "label": "device_name",
+      "properties": {
+        "type": "str",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "AudioInputDeviceInfoProperty.device_id",
+      "type": "property",
+      "label": "device_id",
+      "properties": {
+        "type": "str",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "AudioInputDeviceInfoProperty.input_channels",
+      "type": "property",
+      "label": "input_channels",
+      "properties": {
+        "type": "int",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "AudioInputDeviceInfoProperty.preferred_sample_rate",
+      "type": "property",
+      "label": "preferred_sample_rate",
+      "properties": {
+        "type": "int",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "AudioInputDeviceInfoProperty.is_default_device",
+      "type": "property",
+      "label": "is_default_device",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "AesTilesVisualGroupUpdateName",
+      "type": "class",
+      "label": "AesTilesVisualGroupUpdateName",
+      "properties": {
+        "module": "AesTilesAPI",
+        "plugin": "WdpRuntimeAPI",
+        "file": "AesTilesVisualAPIParams.h"
+      }
+    },
+    {
+      "id": "AesTilesVisualGroupParam",
+      "type": "class",
+      "label": "AesTilesVisualGroupParam"
+    },
+    {
+      "id": "WorldDataLayers",
+      "type": "class",
+      "label": "WorldDataLayers",
+      "properties": {
+        "module": "Engine",
+        "file": "WorldDataLayers.h",
+        "description": "Actor containing data layers instances within a world"
+      }
+    },
+    {
+      "id": "Info",
+      "type": "class",
+      "label": "Info"
+    },
+    {
+      "id": "WorldDataLayers.world_data_layers",
+      "type": "property",
+      "label": "world_data_layers",
+      "properties": {
+        "type": "Set[DataLayer]",
+        "access": "Read-Write",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "MovieGraphConditionGroup",
+      "type": "class",
+      "label": "MovieGraphConditionGroup",
+      "properties": {
+        "module": "MovieRenderPipelineCore",
+        "plugin": "MovieRenderPipeline",
+        "file": "MovieGraphRenderLayerSubsystem.h",
+        "description": "A group of queries which can be added to a collection"
+      }
+    },
+    {
+      "id": "MovieGraphConditionGroup.evaluate",
+      "type": "method",
+      "label": "evaluate",
+      "properties": {
+        "return_type": "Set[Actor]"
+      }
+    },
+    {
+      "id": "MovieGraphConditionGroup.add_query",
+      "type": "method",
+      "label": "add_query",
+      "properties": {
+        "return_type": "MovieGraphConditionGroupQueryBase"
+      }
+    },
+    {
+      "id": "MovieGraphConditionGroup.remove_query",
+      "type": "method",
+      "label": "remove_query",
+      "properties": {
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "DisplayClusterLightCardStageActorComponent",
+      "type": "class",
+      "label": "DisplayClusterLightCardStageActorComponent",
+      "properties": {
+        "module": "DisplayCluster",
+        "plugin": "nDisplay",
+        "file": "DisplayClusterLightCardStageActorComponent.h",
+        "description": "Stage Actor Component to be placed in light card actors"
+      }
+    },
+    {
+      "id": "DisplayClusterStageActorComponent",
+      "type": "class",
+      "label": "DisplayClusterStageActorComponent"
+    },
+    {
+      "id": "SVGActorEditorComponent",
+      "type": "class",
+      "label": "SVGActorEditorComponent",
+      "properties": {
+        "module": "SVGImporter",
+        "plugin": "SVGImporter",
+        "file": "SVGActorEditorComponent.h"
+      }
+    },
+    {
+      "id": "SceneComponent",
+      "type": "class",
+      "label": "SceneComponent"
+    },
+    {
+      "id": "TestTypedElementInterfaceB",
+      "type": "interface",
+      "label": "TestTypedElementInterfaceB",
+      "properties": {
+        "module": "TypedElementFramework",
+        "file": "TypedElementFrameworkTests.h"
+      }
+    },
+    {
+      "id": "TestTypedElementInterfaceB.mark_as_tested",
+      "type": "method",
+      "label": "mark_as_tested",
+      "properties": {
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "CameraShakeStartParams",
+      "type": "class",
+      "label": "CameraShakeStartParams",
+      "properties": {
+        "deprecated": true,
+        "description": "CameraShakeStartParams was renamed to CameraShakePatternStartParams"
+      }
+    },
+    {
+      "id": "CameraShakePatternStartParams",
+      "type": "class",
+      "label": "CameraShakePatternStartParams"
+    },
+    {
+      "id": "OnPropertyVariantChanged",
+      "type": "delegate",
+      "label": "OnPropertyVariantChanged",
+      "properties": {
+        "module": "AesEditorUI",
+        "plugin": "AesWorld",
+        "file": "EarthPropertyList.h"
+      }
+    },
+    {
+      "id": "AnimNode_RotateRootBone",
+      "type": "class",
+      "label": "AnimNode_RotateRootBone",
+      "properties": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_RotateRootBone.h"
+      }
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "label": "AnimNode_Base"
+    },
+    {
+      "id": "AnimNode_RotateRootBone.base_pose",
+      "type": "property",
+      "label": "base_pose",
+      "properties": {
+        "type": "PoseLink",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimNode_RotateRootBone.pitch",
+      "type": "property",
+      "label": "pitch",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimNode_RotateRootBone.yaw",
+      "type": "property",
+      "label": "yaw",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "DCPAssetDragLoadParam",
+      "type": "class",
+      "label": "DCPAssetDragLoadParam",
+      "properties": {
+        "module": "DcpAPI",
+        "plugin": "WdpAssetAPI",
+        "file": "DCPAssetAPIParams.h"
+      }
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "DCPAssetDragLoadParam.url",
+      "type": "property",
+      "label": "url",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AvaInteractiveToolsToolViewportPlanner",
+      "type": "class",
+      "label": "AvaInteractiveToolsToolViewportPlanner",
+      "properties": {
+        "module": "AvalancheInteractiveTools",
+        "plugin": "Avalanche",
+        "file": "AvaInteractiveToolsToolViewportPlanner.h"
+      }
+    },
+    {
+      "id": "RefractionMode",
+      "type": "enum",
+      "label": "RefractionMode",
+      "properties": {
+        "module": "Engine",
+        "file": "EngineTypes.h",
+        "description": "Determines how the refraction offset should be computed for the material"
+      }
+    },
+    {
+      "id": "RefractionMode.RM_INDEX_OF_REFRACTION",
+      "type": "enum_value",
+      "label": "RM_INDEX_OF_REFRACTION",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "RefractionMode.RM_PIXEL_NORMAL_OFFSET",
+      "type": "enum_value",
+      "label": "RM_PIXEL_NORMAL_OFFSET",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "RefractionMode.RM_2D_OFFSET",
+      "type": "enum_value",
+      "label": "RM_2D_OFFSET",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "RefractionMode.RM_NONE",
+      "type": "enum_value",
+      "label": "RM_NONE",
+      "properties": {
+        "value": 3
+      }
+    },
+    {
+      "id": "PhysicsAssetEditorAnimInstance",
+      "type": "class",
+      "label": "PhysicsAssetEditorAnimInstance",
+      "properties": {
+        "module": "PhysicsAssetEditor",
+        "file": "PhysicsAssetEditorAnimInstance.h"
+      }
+    },
+    {
+      "id": "AnimPreviewInstance",
+      "type": "class",
+      "label": "AnimPreviewInstance"
+    },
+    {
+      "id": "MovieGraphVariable",
+      "type": "class",
+      "label": "MovieGraphVariable",
+      "properties": {
+        "module": "MovieRenderPipelineCore",
+        "plugin": "MovieRenderPipeline",
+        "file": "MovieGraphConfig.h",
+        "description": "A variable that can be used inside the graph"
+      }
+    },
+    {
+      "id": "MovieGraphMember",
+      "type": "class",
+      "label": "MovieGraphMember"
+    },
+    {
+      "id": "MovieGraphVariable.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "InstancedPropertyBag",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MeshApproximationBaseCappingType",
+      "type": "enum",
+      "label": "MeshApproximationBaseCappingType",
+      "properties": {
+        "module": "Engine",
+        "file": "MeshApproximationSettings.h"
+      }
+    },
+    {
+      "id": "MeshApproximationBaseCappingType.NO_BASE_CAPPING",
+      "type": "enum_value",
+      "label": "NO_BASE_CAPPING",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "MeshApproximationBaseCappingType.CONVEX_POLYGON",
+      "type": "enum_value",
+      "label": "CONVEX_POLYGON",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "MeshApproximationBaseCappingType.CONVEX_SOLID",
+      "type": "enum_value",
+      "label": "CONVEX_SOLID",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "LegacyCameraShakeFunctionLibrary",
+      "type": "class",
+      "label": "LegacyCameraShakeFunctionLibrary",
+      "properties": {
+        "module": "EngineCameras",
+        "plugin": "EngineCameras",
+        "file": "LegacyCameraShake.h",
+        "description": "Blueprint function library for autocasting from a base camera shake to a legacy camera shake"
+      }
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "LegacyCameraShakeFunctionLibrary.conv_legacy_camera_shake",
+      "type": "method",
+      "label": "conv_legacy_camera_shake",
+      "properties": {
+        "return_type": "LegacyCameraShake"
+      }
+    },
+    {
+      "id": "LegacyCameraShakeFunctionLibrary.conv_matinee_camera_shake",
+      "type": "method",
+      "label": "conv_matinee_camera_shake",
+      "properties": {
+        "return_type": "LegacyCameraShake",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "IEarthEntity",
+      "type": "interface",
+      "label": "IEarthEntity",
+      "properties": {
+        "module": "EarthCore",
+        "plugin": "AesWorld",
+        "file": "EarthEntityInterface.h"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "LowEntryLatentActionString",
+      "target": "Object",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "LowEntryLatentActionString",
+      "target": "LowEntryLatentActionString.wait_till_done",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "LowEntryLatentActionString",
+      "target": "LowEntryLatentActionString.is_done",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "LowEntryLatentActionString",
+      "target": "LowEntryLatentActionString.get_result",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "LowEntryLatentActionString",
+      "target": "LowEntryLatentActionString.done",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "OnTakeRecorderStopped",
+      "target": "DelegateBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigVMFunction_MathVectorClampSpatially",
+      "target": "RigVMFunction_MathVectorBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimNode_RigidBody",
+      "target": "AnimNode_SkeletalControlBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "AudioInputDeviceInfoProperty",
+      "target": "StructBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "AudioInputDeviceInfoProperty",
+      "target": "AudioInputDeviceInfoProperty.device_name",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "AudioInputDeviceInfoProperty",
+      "target": "AudioInputDeviceInfoProperty.device_id",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "AudioInputDeviceInfoProperty",
+      "target": "AudioInputDeviceInfoProperty.input_channels",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "AudioInputDeviceInfoProperty",
+      "target": "AudioInputDeviceInfoProperty.preferred_sample_rate",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "AudioInputDeviceInfoProperty",
+      "target": "AudioInputDeviceInfoProperty.is_default_device",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "AesTilesVisualGroupUpdateName",
+      "target": "AesTilesVisualGroupParam",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "WorldDataLayers",
+      "target": "Info",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "WorldDataLayers",
+      "target": "WorldDataLayers.world_data_layers",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "MovieGraphConditionGroup",
+      "target": "Object",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieGraphConditionGroup",
+      "target": "MovieGraphConditionGroup.evaluate",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "MovieGraphConditionGroup",
+      "target": "MovieGraphConditionGroup.add_query",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "MovieGraphConditionGroup",
+      "target": "MovieGraphConditionGroup.remove_query",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "DisplayClusterLightCardStageActorComponent",
+      "target": "DisplayClusterStageActorComponent",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "SVGActorEditorComponent",
+      "target": "SceneComponent",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "TestTypedElementInterfaceB",
+      "target": "Interface",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "TestTypedElementInterfaceB",
+      "target": "TestTypedElementInterfaceB.mark_as_tested",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "CameraShakeStartParams",
+      "target": "CameraShakePatternStartParams",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "OnPropertyVariantChanged",
+      "target": "MulticastDelegateBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimNode_RotateRootBone",
+      "target": "AnimNode_Base",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimNode_RotateRootBone",
+      "target": "AnimNode_RotateRootBone.base_pose",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_RotateRootBone",
+      "target": "AnimNode_RotateRootBone.pitch",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_RotateRootBone",
+      "target": "AnimNode_RotateRootBone.yaw",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "DCPAssetDragLoadParam",
+      "target": "ParamsBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "DCPAssetDragLoadParam",
+      "target": "DCPAssetDragLoadParam.url",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "AvaInteractiveToolsToolViewportPlanner",
+      "target": "Object",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "RefractionMode",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "RefractionMode",
+      "target": "RefractionMode.RM_INDEX_OF_REFRACTION",
+      "type": "HAS_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "source": "RefractionMode",
+      "target": "RefractionMode.RM_PIXEL_NORMAL_OFFSET",
+      "type": "HAS_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "source": "RefractionMode",
+      "target": "RefractionMode.RM_2D_OFFSET",
+      "type": "HAS_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "source": "RefractionMode",
+      "target": "RefractionMode.RM_NONE",
+      "type": "HAS_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "source": "PhysicsAssetEditorAnimInstance",
+      "target": "AnimPreviewInstance",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieGraphVariable",
+      "target": "MovieGraphMember",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieGraphVariable",
+      "target": "MovieGraphVariable.value",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "source": "MeshApproximationBaseCappingType",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "MeshApproximationBaseCappingType",
+      "target": "MeshApproximationBaseCappingType.NO_BASE_CAPPING",
+      "type": "HAS_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "source": "MeshApproximationBaseCappingType",
+      "target": "MeshApproximationBaseCappingType.CONVEX_POLYGON",
+      "type": "HAS_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "source": "MeshApproximationBaseCappingType",
+      "target": "MeshApproximationBaseCappingType.CONVEX_SOLID",
+      "type": "HAS_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "source": "LegacyCameraShakeFunctionLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "source": "LegacyCameraShakeFunctionLibrary",
+      "target": "LegacyCameraShakeFunctionLibrary.conv_legacy_camera_shake",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "LegacyCameraShakeFunctionLibrary",
+      "target": "LegacyCameraShakeFunctionLibrary.conv_matinee_camera_shake",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "source": "IEarthEntity",
+      "target": "Interface",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_audio_device_info",
+      "nodes": [
+        "AudioInputDeviceInfoProperty",
+        "AudioInputDeviceInfoProperty.device_name",
+        "AudioInputDeviceInfoProperty.device_id",
+        "AudioInputDeviceInfoProperty.input_channels",
+        "AudioInputDeviceInfoProperty.preferred_sample_rate",
+        "AudioInputDeviceInfoProperty.is_default_device"
+      ],
+      "edges": [
+        "AudioInputDeviceInfoProperty->AudioInputDeviceInfoProperty.device_name",
+        "AudioInputDeviceInfoProperty->AudioInputDeviceInfoProperty.device_id",
+        "AudioInputDeviceInfoProperty->AudioInputDeviceInfoProperty.input_channels",
+        "AudioInputDeviceInfoProperty->AudioInputDeviceInfoProperty.preferred_sample_rate",
+        "AudioInputDeviceInfoProperty->AudioInputDeviceInfoProperty.is_default_device"
+      ],
+      "label": "Audio Device Information Structure",
+      "description": "Complete structure for audio device information with all properties"
+    },
+    {
+      "id": "he_rigid_body_physics",
+      "nodes": [
+        "AnimNode_RigidBody",
+        "AnimNode_SkeletalControlBase"
+      ],
+      "edges": [
+        "AnimNode_RigidBody->AnimNode_SkeletalControlBase"
+      ],
+      "label": "Rigid Body Animation Physics",
+      "description": "Physics simulation node for skeletal animation"
+    },
+    {
+      "id": "he_movie_graph_queries",
+      "nodes": [
+        "MovieGraphConditionGroup",
+        "MovieGraphConditionGroup.evaluate",
+        "MovieGraphConditionGroup.add_query",
+        "MovieGraphConditionGroup.remove_query"
+      ],
+      "edges": [
+        "MovieGraphConditionGroup->MovieGraphConditionGroup.evaluate",
+        "MovieGraphConditionGroup->MovieGraphConditionGroup.add_query",
+        "MovieGraphConditionGroup->MovieGraphConditionGroup.remove_query"
+      ],
+      "label": "Movie Graph Query Management",
+      "description": "Condition group with query evaluation and manipulation methods"
+    },
+    {
+      "id": "he_refraction_modes",
+      "nodes": [
+        "RefractionMode",
+        "RefractionMode.RM_INDEX_OF_REFRACTION",
+        "RefractionMode.RM_PIXEL_NORMAL_OFFSET",
+        "RefractionMode.RM_2D_OFFSET",
+        "RefractionMode.RM_NONE"
+      ],
+      "edges": [
+        "RefractionMode->RefractionMode.RM_INDEX_OF_REFRACTION",
+        "RefractionMode->RefractionMode.RM_PIXEL_NORMAL_OFFSET",
+        "RefractionMode->RefractionMode.RM_2D_OFFSET",
+        "RefractionMode->RefractionMode.RM_NONE"
+      ],
+      "label": "Material Refraction Modes",
+      "description": "Complete enumeration of refraction computation modes for materials"
+    },
+    {
+      "id": "he_latent_action_string",
+      "nodes": [
+        "LowEntryLatentActionString",
+        "LowEntryLatentActionString.wait_till_done",
+        "LowEntryLatentActionString.is_done",
+        "LowEntryLatentActionString.get_result",
+        "LowEntryLatentActionString.done"
+      ],
+      "edges": [
+        "LowEntryLatentActionString->LowEntryLatentActionString.wait_till_done",
+        "LowEntryLatentActionString->LowEntryLatentActionString.is_done",
+        "LowEntryLatentActionString->LowEntryLatentActionString.get_result",
+        "LowEntryLatentActionString->LowEntryLatentActionString.done"
+      ],
+      "label": "Latent Action String Management",
+      "description": "Complete latent action pattern with lifecycle management methods"
+    },
+    {
+      "id": "he_rotate_root_bone",
+      "nodes": [
+        "AnimNode_RotateRootBone",
+        "AnimNode_RotateRootBone.base_pose",
+        "AnimNode_RotateRootBone.pitch",
+        "AnimNode_RotateRootBone.yaw"
+      ],
+      "edges": [
+        "AnimNode_RotateRootBone->AnimNode_RotateRootBone.base_pose",
+        "AnimNode_RotateRootBone->AnimNode_RotateRootBone.pitch",
+        "AnimNode_RotateRootBone->AnimNode_RotateRootBone.yaw"
+      ],
+      "label": "Root Bone Rotation",
+      "description": "Animation node for rotating root bone with pitch and yaw controls"
+    },
+    {
+      "id": "he_camera_shake_deprecation",
+      "nodes": [
+        "CameraShakeStartParams",
+        "CameraShakePatternStartParams"
+      ],
+      "edges": [
+        "CameraShakeStartParams->CameraShakePatternStartParams"
+      ],
+      "label": "Camera Shake Parameter Deprecation",
+      "description": "Deprecated camera shake start params renamed to new pattern"
+    },
+    {
+      "id": "he_mesh_capping_types",
+      "nodes": [
+        "MeshApproximationBaseCappingType",
+        "MeshApproximationBaseCappingType.NO_BASE_CAPPING",
+        "MeshApproximationBaseCappingType.CONVEX_POLYGON",
+        "MeshApproximationBaseCappingType.CONVEX_SOLID"
+      ],
+      "edges": [
+        "MeshApproximationBaseCappingType->MeshApproximationBaseCappingType.NO_BASE_CAPPING",
+        "MeshApproximationBaseCappingType->MeshApproximationBaseCappingType.CONVEX_POLYGON",
+        "MeshApproximationBaseCappingType->MeshApproximationBaseCappingType.CONVEX_SOLID"
+      ],
+      "label": "Mesh Approximation Capping",
+      "description": "Complete enumeration of mesh approximation base capping types"
+    }
+  ]
+}

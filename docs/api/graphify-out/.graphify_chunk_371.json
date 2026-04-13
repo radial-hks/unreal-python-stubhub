@@ -1,0 +1,353 @@
+{
+  "nodes": [
+    {
+      "id": "pcgsettingsinstance_pcgsettingsinstance",
+      "label": "PCGSettingsInstance",
+      "file_type": "code",
+      "source_file": "PCGSettingsInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettingsinstance_settings",
+      "label": "settings (PCGSettings)",
+      "file_type": "code",
+      "source_file": "PCGSettingsInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorcolor_rigvmfunction_mathrbfinterpolatevectorcolor",
+      "label": "RigVMFunction_MathRBFInterpolateVectorColor",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateVectorColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tapythonprimitivehitresult_tapythonprimitivehitresult",
+      "label": "TAPythonPrimitiveHitResult",
+      "file_type": "code",
+      "source_file": "TAPythonPrimitiveHitResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthsplinedeformtype_earthsplinedeformtype",
+      "label": "EarthSplineDeformType",
+      "file_type": "code",
+      "source_file": "EarthSplineDeformType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polylineentityatom_polylineentityatom",
+      "label": "PolylineEntityAtom",
+      "file_type": "code",
+      "source_file": "PolylineEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneparticleparametertrack_moviesceneparticleparametertrack",
+      "label": "MovieSceneParticleParameterTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneParticleParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleconsttwopi_rigvmfunction_mathdoubleconsttwopi",
+      "label": "RigVMFunction_MathDoubleConstTwoPi",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleConstTwoPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatsub_rigvmfunction_mathfloatsub",
+      "label": "RigVMFunction_MathFloatSub",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspawnsplinesettings_pcgspawnsplinesettings",
+      "label": "PCGSpawnSplineSettings",
+      "file_type": "code",
+      "source_file": "PCGSpawnSplineSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspawnsplinesettings_spline_component",
+      "label": "spline_component property",
+      "file_type": "code",
+      "source_file": "PCGSpawnSplineSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgprojectionsettings_pcgprojectionsettings",
+      "label": "PCGProjectionSettings",
+      "file_type": "code",
+      "source_file": "PCGProjectionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsweephullaxis_geometryscriptsweephullaxis",
+      "label": "GeometryScriptSweptHullAxis",
+      "file_type": "code",
+      "source_file": "GeometryScriptSweptHullAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairinterpolationquality_hairinterpolationquality",
+      "label": "HairInterpolationQuality",
+      "file_type": "code",
+      "source_file": "HairInterpolationQuality Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cachedanimstatedata_cachedanimstatedata",
+      "label": "CachedAnimStateData",
+      "file_type": "code",
+      "source_file": "CachedAnimStateData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "automationperformacehelper_automationperformacehelper",
+      "label": "AutomationPerformaceHelper",
+      "file_type": "code",
+      "source_file": "AutomationPerformaceHelper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "boneaxis_boneaxis",
+      "label": "BoneAxis",
+      "file_type": "code",
+      "source_file": "BoneAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterdisplaydevicecomponent_displayclusterdisplaydevicecomponent",
+      "label": "DisplayClusterDisplayDeviceComponent",
+      "file_type": "code",
+      "source_file": "DisplayClusterDisplayDeviceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "formatargumenttype_formatargumenttype",
+      "label": "FormatArgumentType",
+      "file_type": "code",
+      "source_file": "FormatArgumentType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairshadowsettings_hairshadowsettings",
+      "label": "HairShadowSettings",
+      "file_type": "code",
+      "source_file": "HairShadowSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatequatfloat_rigunit_mathrbfinterpolatequatfloat",
+      "label": "RigUnit_MathRBFInterpolateQuatFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__MathRBFInterpolateQuatFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusexecutiondomain_optimusexecutiondomain",
+      "label": "OptimusExecutionDomain",
+      "file_type": "code",
+      "source_file": "OptimusExecutionDomain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmin_rigvmfunction_mathfloatmin",
+      "label": "RigVMFunction_MathFloatMin",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectstackingexpirationpolicy_gameplayeffectstackingexpirationpolicy",
+      "label": "GameplayEffectStackingExpirationPolicy",
+      "file_type": "code",
+      "source_file": "GameplayEffectStackingExpirationPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgsettingsinstance_pcgsettingsinstance",
+      "target": "pcgsettingsinstance_settings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSettingsInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgspawnsplinesettings_pcgspawnsplinesettings",
+      "target": "pcgspawnsplinesettings_spline_component",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSpawnSplineSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgspawnsplinesettings_pcgspawnsplinesettings",
+      "target": "earthsplinedeformtype_earthsplinedeformtype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGSpawnSplineSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "automationperformacehelper_automationperformacehelper",
+      "target": "cachedanimstatedata_cachedanimstatedata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AutomationPerformaceHelper Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairinterpolationquality_hairinterpolationquality",
+      "target": "hairshadowsettings_hairshadowsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "HairInterpolationQuality Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatsub_rigvmfunction_mathfloatsub",
+      "target": "rigvmfunction_mathfloatmin_rigvmfunction_mathfloatmin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathFloatSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatevectorcolor_rigvmfunction_mathrbfinterpolatevectorcolor",
+      "target": "rigunit_mathrbfinterpolatequatfloat_rigunit_mathrbfinterpolatequatfloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathRBFInterpolateVectorColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptsweephullaxis_geometryscriptsweephullaxis",
+      "target": "boneaxis_boneaxis",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryScriptSweptHullAxis Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

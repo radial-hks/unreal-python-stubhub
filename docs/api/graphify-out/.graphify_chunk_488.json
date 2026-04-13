@@ -1,0 +1,566 @@
+{
+  "nodes": [
+    {
+      "id": "mockgameplaytaskscomponent_mockgameplaytaskscomponent",
+      "label": "MockGameplayTasksComponent",
+      "file_type": "document",
+      "source_file": "MockGameplayTasksComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setgeolayeroutlineparams_setgeolayeroutlineparams",
+      "label": "SetGeoLayerOutLineParams",
+      "file_type": "document",
+      "source_file": "SetGeoLayerOutLineParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatepostbufferprocessorupdater_slatepostbufferprocessorupdater",
+      "label": "SlatePostBufferProcessorUpdater",
+      "file_type": "document",
+      "source_file": "SlatePostBufferProcessorUpdater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputevent_inputevent",
+      "label": "InputEvent",
+      "file_type": "document",
+      "source_file": "InputEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthassetmanager_earthassetmanager",
+      "label": "EarthAssetManager",
+      "file_type": "document",
+      "source_file": "EarthAssetManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geographiccoordinates_geographiccoordinates",
+      "label": "GeographicCoordinates",
+      "file_type": "document",
+      "source_file": "GeographicCoordinates Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightweightinstancefactory_lightweightinstancefactory",
+      "label": "LightWeightInstanceFactory",
+      "file_type": "document",
+      "source_file": "LightWeightInstanceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skylight_skylight",
+      "label": "SkyLight",
+      "file_type": "document",
+      "source_file": "SkyLight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_blueprint_aisense_blueprint",
+      "label": "AISense_Blueprint",
+      "file_type": "document",
+      "source_file": "AISense_Blueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "octreedynamicmeshcomponent_octreedynamicmeshcomponent",
+      "label": "OctreeDynamicMeshComponent",
+      "file_type": "document",
+      "source_file": "OctreeDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "windowmode_windowmode",
+      "label": "WindowMode",
+      "file_type": "document",
+      "source_file": "WindowMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composurepipelinebaseactor_composurepipelinebaseactor",
+      "label": "ComposurePipelineBaseActor",
+      "file_type": "document",
+      "source_file": "ComposurePipelineBaseActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanchefontobject_avalanchefontobject",
+      "label": "AvalancheFontObject",
+      "file_type": "document",
+      "source_file": "AvalancheFontObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointcloudbpactor_pointcloudbpactor",
+      "label": "PointCloudBpActor",
+      "file_type": "document",
+      "source_file": "PointCloudBpActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputaxisswizzle_inputaxisswizzle",
+      "label": "InputAxisSwizzle",
+      "file_type": "document",
+      "source_file": "InputAxisSwizzle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmutablebase_rigvmfunction_mathmutablebase",
+      "label": "RigVMFunction_MathMutableBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathMutableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshqueries_geometryscript_meshqueries",
+      "label": "GeometryScript_MeshQueries",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshQueries Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_randomplayer_animgraphnode_randomplayer",
+      "label": "AnimGraphNode_RandomPlayer",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggraphinstancefactory_pcggraphinstancefactory",
+      "label": "PCGGraphInstanceFactory",
+      "file_type": "document",
+      "source_file": "PCGGraphInstanceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioeqeffect_audioeqeffect",
+      "label": "AudioEQEffect",
+      "file_type": "document",
+      "source_file": "AudioEQEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodelerprefabalgorithm_earthroadmodelerprefabalgorithm",
+      "label": "EarthRoadModelerPrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthRoadModelerPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshwritelod_geometryscriptmeshwritelod",
+      "label": "GeometryScriptMeshWriteLOD",
+      "file_type": "document",
+      "source_file": "GeometryScriptMeshWriteLOD Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh_dynamicmesh",
+      "label": "DynamicMesh",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshQueries Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gis_geospatial_systems",
+      "label": "GIS and Geospatial Systems",
+      "file_type": "document",
+      "source_file": "SetGeoLayerOutLineParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_mesh_generation",
+      "label": "Procedural Mesh Generation",
+      "file_type": "document",
+      "source_file": "OctreeDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "mockgameplaytaskscomponent_mockgameplaytaskscomponent",
+      "target": "inputevent_inputevent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MockGameplayTasksComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthassetmanager_earthassetmanager",
+      "target": "geographiccoordinates_geographiccoordinates",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthAssetManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthassetmanager_earthassetmanager",
+      "target": "setgeolayeroutlineparams_setgeolayeroutlineparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthAssetManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthassetmanager_earthassetmanager",
+      "target": "earthroadmodelerprefabalgorithm_earthroadmodelerprefabalgorithm",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthAssetManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geographiccoordinates_geographiccoordinates",
+      "target": "setgeolayeroutlineparams_setgeolayeroutlineparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeographicCoordinates Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geographiccoordinates_geographiccoordinates",
+      "target": "earthroadmodelerprefabalgorithm_earthroadmodelerprefabalgorithm",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeographicCoordinates Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "setgeolayeroutlineparams_setgeolayeroutlineparams",
+      "target": "earthroadmodelerprefabalgorithm_earthroadmodelerprefabalgorithm",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SetGeoLayerOutLineParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "octreedynamicmeshcomponent_octreedynamicmeshcomponent",
+      "target": "geometryscript_meshqueries_geometryscript_meshqueries",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OctreeDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "octreedynamicmeshcomponent_octreedynamicmeshcomponent",
+      "target": "geometryscriptmeshwritelod_geometryscriptmeshwritelod",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "OctreeDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshqueries_geometryscript_meshqueries",
+      "target": "geometryscriptmeshwritelod_geometryscriptmeshwritelod",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScript_MeshQueries Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshqueries_geometryscript_meshqueries",
+      "target": "dynamicmesh_dynamicmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshQueries Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "octreedynamicmeshcomponent_octreedynamicmeshcomponent",
+      "target": "dynamicmesh_dynamicmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OctreeDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightweightinstancefactory_lightweightinstancefactory",
+      "target": "pcggraphinstancefactory_pcggraphinstancefactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LightWeightInstanceFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputevent_inputevent",
+      "target": "inputaxisswizzle_inputaxisswizzle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InputEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisense_blueprint_aisense_blueprint",
+      "target": "animgraphnode_randomplayer_animgraphnode_randomplayer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AISense_Blueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skylight_skylight",
+      "target": "audioeqeffect_audioeqeffect",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "SkyLight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthassetmanager_earthassetmanager",
+      "target": "gis_geospatial_systems",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "EarthAssetManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geographiccoordinates_geographiccoordinates",
+      "target": "gis_geospatial_systems",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "GeographicCoordinates Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "setgeolayeroutlineparams_setgeolayeroutlineparams",
+      "target": "gis_geospatial_systems",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SetGeoLayerOutLineParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadmodelerprefabalgorithm_earthroadmodelerprefabalgorithm",
+      "target": "gis_geospatial_systems",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthRoadModelerPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "octreedynamicmeshcomponent_octreedynamicmeshcomponent",
+      "target": "procedural_mesh_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "OctreeDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshqueries_geometryscript_meshqueries",
+      "target": "procedural_mesh_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_MeshQueries Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmeshwritelod_geometryscriptmeshwritelod",
+      "target": "procedural_mesh_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScriptMeshWriteLOD Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointcloudbpactor_pointcloudbpactor",
+      "target": "gis_geospatial_systems",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PointCloudBpActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "gis_geospatial_ecosystem",
+      "label": "GIS and Geospatial Data Management",
+      "nodes": [
+        "earthassetmanager_earthassetmanager",
+        "geographiccoordinates_geographiccoordinates",
+        "setgeolayeroutlineparams_setgeolayeroutlineparams",
+        "earthroadmodelerprefabalgorithm_earthroadmodelerprefabalgorithm",
+        "pointcloudbpactor_pointcloudbpactor"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthAssetManager Objects.md"
+    },
+    {
+      "id": "procedural_mesh_ecosystem",
+      "label": "Procedural Mesh Generation and Manipulation",
+      "nodes": [
+        "octreedynamicmeshcomponent_octreedynamicmeshcomponent",
+        "geometryscript_meshqueries_geometryscript_meshqueries",
+        "geometryscriptmeshwritelod_geometryscriptmeshwritelod",
+        "dynamicmesh_dynamicmesh"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "GeometryScript_MeshQueries Objects.md"
+    },
+    {
+      "id": "asset_factory_pattern",
+      "label": "Asset Factory Pattern Implementation",
+      "nodes": [
+        "lightweightinstancefactory_lightweightinstancefactory",
+        "pcggraphinstancefactory_pcggraphinstancefactory"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "LightWeightInstanceFactory Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

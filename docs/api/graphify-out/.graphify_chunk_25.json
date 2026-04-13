@@ -1,0 +1,982 @@
+{
+  "entities": [
+    {
+      "id": "RigUnit_RigModulesBaseMutable",
+      "type": "class",
+      "name": "RigUnit_RigModulesBaseMutable",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "parent": "RigUnitMutable",
+      "properties": [
+        {
+          "name": "execute_context",
+          "type": "ControlRigExecuteContext",
+          "access": "read-write",
+          "description": "This property is used to chain multiple mutable units together"
+        }
+      ],
+      "source_file": "RigUnit_RigModules.h"
+    },
+    {
+      "id": "MovieSceneScriptingIntegerChannel",
+      "type": "class",
+      "name": "MovieSceneScriptingIntegerChannel",
+      "module": "SequencerScripting",
+      "plugin": "SequencerScripting",
+      "parent": "MovieSceneScriptingChannel",
+      "properties": [
+        {
+          "name": "channel_name",
+          "type": "Name",
+          "access": "read-write"
+        }
+      ],
+      "methods": [
+        "set_interpolate_linear_keys",
+        "set_default",
+        "remove_key",
+        "remove_default",
+        "has_default",
+        "get_num_keys",
+        "get_keys_by_index",
+        "get_keys",
+        "get_interpolate_linear_keys",
+        "get_default",
+        "evaluate_keys",
+        "add_key"
+      ],
+      "source_file": "MovieSceneScriptingInteger.h"
+    },
+    {
+      "id": "RigUnit_ParentSwitchConstraint",
+      "type": "class",
+      "name": "RigUnit_ParentSwitchConstraint",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "parent": "RigUnitMutable",
+      "description": "The Parent Switch Constraint is used to have an item follow one of multiple parents, and allowing to switch between the parent in question.",
+      "properties": [
+        {
+          "name": "execute_context",
+          "type": "ControlRigExecuteContext",
+          "access": "read-write"
+        },
+        {
+          "name": "initial_global_transform",
+          "type": "Transform",
+          "access": "read-write",
+          "description": "The initial global transform for the subject"
+        },
+        {
+          "name": "parent_index",
+          "type": "int32",
+          "access": "read-write",
+          "description": "The parent index to use for constraining the subject"
+        },
+        {
+          "name": "parents",
+          "type": "RigElementKeyCollection",
+          "access": "read-write",
+          "description": "The list of parents to constrain to"
+        },
+        {
+          "name": "subject",
+          "type": "RigElementKey",
+          "access": "read-write",
+          "description": "The subject to constrain"
+        },
+        {
+          "name": "switched",
+          "type": "bool",
+          "access": "read-only",
+          "description": "Returns true if the parent has changed"
+        },
+        {
+          "name": "transform",
+          "type": "Transform",
+          "access": "read-only",
+          "description": "The transform result (full without weighting)"
+        },
+        {
+          "name": "weight",
+          "type": "float",
+          "access": "read-write",
+          "description": "The weight of the change - how much the change should be applied"
+        }
+      ],
+      "source_file": "RigUnit_ParentSwitchConstraint.h"
+    },
+    {
+      "id": "GeometryScript_List",
+      "type": "class",
+      "name": "GeometryScript_List",
+      "module": "GeometryScriptingCore",
+      "plugin": "GeometryScripting",
+      "parent": "BlueprintFunctionLibrary",
+      "description": "Geometry Script Library List Utility Functions",
+      "methods": [
+        "set_vector_list_item",
+        "set_uv_list_item",
+        "set_scalar_list_item",
+        "set_index_list_item",
+        "set_color_list_item",
+        "get_vector_list_length",
+        "get_vector_list_last_index",
+        "get_vector_list_item",
+        "get_uv_list_length",
+        "get_uv_list_last_index",
+        "get_uv_list_item",
+        "get_triangle_list_length",
+        "get_triangle_list_last_triangle",
+        "get_triangle_list_item",
+        "get_scalar_list_length",
+        "get_scalar_list_last_index",
+        "get_scalar_list_item",
+        "get_index_list_length",
+        "get_index_list_last_index",
+        "get_index_list_item",
+        "get_color_list_length",
+        "get_color_list_last_index",
+        "get_color_list_item",
+        "extract_color_list_channels",
+        "extract_color_list_channel",
+        "duplicate_vector_list",
+        "duplicate_uv_list",
+        "duplicate_scalar_list",
+        "duplicate_index_list",
+        "duplicate_color_list",
+        "convert_vector_list_to_array",
+        "convert_uv_list_to_array",
+        "convert_triangle_list_to_array",
+        "convert_scalar_list_to_array",
+        "convert_index_list_to_array",
+        "convert_color_list_to_array",
+        "convert_array_to_vector_list",
+        "convert_array_to_uv_list",
+        "convert_array_to_triangle_list",
+        "convert_array_to_scalar_list",
+        "convert_array_to_index_list",
+        "convert_array_to_color_list",
+        "clear_vector_list",
+        "clear_uv_list",
+        "clear_scalar_list",
+        "clear_index_list",
+        "clear_color_list"
+      ],
+      "source_file": "ListUtilityFunctions.h"
+    },
+    {
+      "id": "WidgetInteractionComponent",
+      "type": "class",
+      "name": "WidgetInteractionComponent",
+      "module": "UMG",
+      "parent": "SceneComponent",
+      "description": "This is a component to allow interaction with the Widget Component. This class allows you to simulate a sort of laser pointer device, when it hovers over widgets it will send the basic signals to show as if the mouse were moving on top of it.",
+      "properties": [
+        {
+          "name": "virtual_user_index",
+          "type": "int32",
+          "access": "read-write",
+          "description": "Represents the Virtual User Index. Each virtual user should be represented by a different index number"
+        },
+        {
+          "name": "pointer_index",
+          "type": "int32",
+          "access": "read-write",
+          "description": "Each user virtual controller or virtual finger tips being simulated should use a different pointer index"
+        },
+        {
+          "name": "trace_channel",
+          "type": "CollisionChannel",
+          "access": "read-write",
+          "description": "The trace channel to use when tracing for widget components in the world"
+        },
+        {
+          "name": "interaction_distance",
+          "type": "float",
+          "access": "read-write",
+          "description": "The distance in game units the component should be able to interact with a widget component"
+        },
+        {
+          "name": "interaction_source",
+          "type": "WidgetInteractionSource",
+          "access": "read-write"
+        },
+        {
+          "name": "enable_hit_testing",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "show_debug",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "debug_color",
+          "type": "LinearColor",
+          "access": "read-write"
+        }
+      ],
+      "methods": [
+        "set_focus",
+        "set_custom_hit_result",
+        "send_key_char",
+        "scroll_wheel",
+        "release_pointer_key",
+        "release_key",
+        "press_pointer_key",
+        "press_key",
+        "press_and_release_key",
+        "is_over_interactable_widget",
+        "is_over_hit_test_visible_widget",
+        "is_over_focusable_widget",
+        "get_last_hit_result",
+        "get_hovered_widget_component",
+        "get2d_hit_location"
+      ],
+      "source_file": "WidgetInteractionComponent.h"
+    },
+    {
+      "id": "AnimInitializationContext",
+      "type": "class",
+      "name": "AnimInitializationContext",
+      "module": "Engine",
+      "parent": "AnimExecutionContext",
+      "source_file": "AnimExecutionContext.h"
+    },
+    {
+      "id": "MovieGraphPinProperties",
+      "type": "class",
+      "name": "MovieGraphPinProperties",
+      "module": "MovieRenderPipelineCore",
+      "plugin": "MovieRenderPipeline",
+      "parent": "StructBase",
+      "properties": [
+        {
+          "name": "label",
+          "type": "Name",
+          "access": "read-write",
+          "description": "The name assigned to the pin"
+        },
+        {
+          "name": "type",
+          "type": "MovieGraphValueType",
+          "access": "read-write",
+          "description": "The type of the pin. If the pin represents a branch, this type is ignored"
+        },
+        {
+          "name": "type_object",
+          "type": "Object",
+          "access": "read-write",
+          "description": "The value type of the pin, if the type is an enum, struct, class, or object"
+        },
+        {
+          "name": "allow_multiple_connections",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Whether this pin can accept multiple connections"
+        },
+        {
+          "name": "is_branch",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Whether this pin represents a branch"
+        },
+        {
+          "name": "is_built_in",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Whether this pin is built-in (ie, the pin ships with the node and cannot be removed)"
+        }
+      ],
+      "source_file": "MovieGraphPin.h"
+    },
+    {
+      "id": "PoseSearchRoledSkeleton",
+      "type": "class",
+      "name": "PoseSearchRoledSkeleton",
+      "module": "PoseSearch",
+      "plugin": "PoseSearch",
+      "parent": "StructBase",
+      "properties": [
+        {
+          "name": "mirror_data_table",
+          "type": "MirrorDataTable",
+          "access": "read-write",
+          "description": "Setting up and assigning a mirror data table will allow all your assets in your database to access the mirrored version of the data"
+        },
+        {
+          "name": "role",
+          "type": "Name",
+          "access": "read-write"
+        },
+        {
+          "name": "skeleton",
+          "type": "Skeleton",
+          "access": "read-write",
+          "description": "Skeleton Reference for Motion Matching Database assets"
+        }
+      ],
+      "source_file": "PoseSearchSchema.h"
+    },
+    {
+      "id": "AnimNotify_ResetClothingSimulation",
+      "type": "class",
+      "name": "AnimNotify_ResetClothingSimulation",
+      "module": "Engine",
+      "parent": "AnimNotify",
+      "properties": [
+        {
+          "name": "notify_color",
+          "type": "Color",
+          "access": "read-write",
+          "description": "Color of Notify in editor"
+        },
+        {
+          "name": "should_fire_in_editor",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Whether this notify instance should fire in animation editors"
+        }
+      ],
+      "source_file": "AnimNotify_ResetClothingSimulation.h"
+    },
+    {
+      "id": "MovieGraphGlobalVariable",
+      "type": "class",
+      "name": "MovieGraphGlobalVariable",
+      "module": "MovieRenderPipelineCore",
+      "plugin": "MovieRenderPipeline",
+      "parent": "MovieGraphVariable",
+      "description": "Similar to normal UMovieGraphVariable instances. However, their values are provided by the graph, they cannot be edited/deleted, and they cannot be overridden at the job level.",
+      "properties": [
+        {
+          "name": "description",
+          "type": "str",
+          "access": "read-write",
+          "description": "The optional description of this member, which is user-facing"
+        },
+        {
+          "name": "value",
+          "type": "InstancedPropertyBag",
+          "access": "read-write",
+          "description": "The value held by this object"
+        }
+      ],
+      "source_file": "MovieGraphConfig.h"
+    },
+    {
+      "id": "AbilitySystemTestAttributeSet",
+      "type": "class",
+      "name": "AbilitySystemTestAttributeSet",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "parent": "AttributeSet",
+      "properties": [
+        {
+          "name": "health",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "max_health",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "mana",
+          "type": "GameplayAttributeData",
+          "access": "read-write"
+        },
+        {
+          "name": "max_mana",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "damage",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "spell_damage",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "physical_damage",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "crit_chance",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "crit_multiplier",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "armor_damage_reduction",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "dodge_chance",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "life_steal",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "strength",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "stacking_attribute1",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "stacking_attribute2",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "no_stack_attribute",
+          "type": "float",
+          "access": "read-write"
+        }
+      ],
+      "source_file": "AbilitySystemTestAttributeSet.h"
+    },
+    {
+      "id": "SoundCueFactoryNew",
+      "type": "class",
+      "name": "SoundCueFactoryNew",
+      "module": "AudioEditor",
+      "parent": "Factory",
+      "properties": [
+        {
+          "name": "initial_sound_wave",
+          "type": "SoundWave",
+          "access": "read-write",
+          "deprecated": "Use Array InitialSoundWaves instead"
+        },
+        {
+          "name": "initial_sound_waves",
+          "type": "Array[SoundWave]",
+          "access": "read-write"
+        },
+        {
+          "name": "initial_dialogue_wave",
+          "type": "DialogueWave",
+          "access": "read-write",
+          "deprecated": "Use Array InitialDialogueWaves instead"
+        },
+        {
+          "name": "initial_dialogue_waves",
+          "type": "Array[DialogueWave]",
+          "access": "read-write"
+        }
+      ],
+      "source_file": "SoundCueFactoryNew.h"
+    },
+    {
+      "id": "OnTimelineFloat",
+      "type": "class",
+      "name": "OnTimelineFloat",
+      "module": "Engine",
+      "parent": "DelegateBase",
+      "description": "Signature of function to handle timeline float track",
+      "source_file": "TimelineComponent.h"
+    },
+    {
+      "id": "EarthCollisionComponent",
+      "type": "class",
+      "name": "EarthCollisionComponent",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld",
+      "parent": "EarthCollisionComponentBase",
+      "properties": [
+        {
+          "name": "local_bounds",
+          "type": "BoxSphereBounds",
+          "access": "read-write",
+          "description": "本地空间的包围盒数据"
+        },
+        {
+          "name": "vertex_buffer",
+          "type": "Array[Vector3f]",
+          "access": "read-write",
+          "description": "本地空间的包围盒数据"
+        },
+        {
+          "name": "index_buffer",
+          "type": "Array[int32]",
+          "access": "read-write",
+          "description": "本地空间的包围盒数据"
+        },
+        {
+          "name": "use_async_cook",
+          "type": "bool",
+          "access": "read-write",
+          "description": "是否使用异步烘焙碰撞"
+        },
+        {
+          "name": "override_wireframe_color",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "wireframe_color_override",
+          "type": "Color",
+          "access": "read-only"
+        }
+      ],
+      "source_file": "EarthCollisionComponent.h"
+    },
+    {
+      "id": "PoseSearchDatabaseMultiAnimAssetEx",
+      "type": "class",
+      "name": "PoseSearchDatabaseMultiAnimAssetEx",
+      "module": "PoseSearchEditor",
+      "plugin": "PoseSearch",
+      "parent": "PoseSearchDatabaseMultiAnimAsset",
+      "properties": [
+        {
+          "name": "branch_in_id",
+          "type": "uint32",
+          "access": "read-only"
+        },
+        {
+          "name": "disable_reselection",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "enabled",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "has_root_motion",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "looping",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "mirror_option",
+          "type": "PoseSearchMirrorOption",
+          "access": "read-write"
+        },
+        {
+          "name": "multi_anim_asset",
+          "type": "MultiAnimAsset",
+          "access": "read-write"
+        },
+        {
+          "name": "sampling_range",
+          "type": "FloatInterval",
+          "access": "read-write"
+        }
+      ],
+      "source_file": "PoseSearchDatabaseEditorReflection.h"
+    },
+    {
+      "id": "ConstantQNRTSettings",
+      "type": "class",
+      "name": "ConstantQNRTSettings",
+      "module": "AudioSynesthesia",
+      "plugin": "AudioSynesthesia",
+      "parent": "AudioSynesthesiaNRTSettings",
+      "description": "Settings for a UConstantQNRT analyzer",
+      "properties": [
+        {
+          "name": "starting_frequency",
+          "type": "float",
+          "access": "read-only",
+          "description": "Starting frequency for first bin of CQT"
+        },
+        {
+          "name": "num_bands",
+          "type": "int32",
+          "access": "read-only",
+          "description": "Total number of resulting constant Q bands"
+        },
+        {
+          "name": "num_bands_per_octave",
+          "type": "float",
+          "access": "read-only",
+          "description": "Number of bands within an octave"
+        },
+        {
+          "name": "analysis_period",
+          "type": "float",
+          "access": "read-only",
+          "description": "Number of seconds between cqt measurements"
+        },
+        {
+          "name": "downmix_to_mono",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "fft_size",
+          "type": "ConstantQFFTSizeEnum",
+          "access": "read-only",
+          "description": "Size of FFT"
+        },
+        {
+          "name": "window_type",
+          "type": "FFTWindowType",
+          "access": "read-only",
+          "description": "Type of window to be applied to input audio"
+        },
+        {
+          "name": "spectrum_type",
+          "type": "AudioSpectrumType",
+          "access": "read-only",
+          "description": "Type of spectrum to use"
+        },
+        {
+          "name": "band_width_stretch",
+          "type": "float",
+          "access": "read-only",
+          "description": "Stretching factor to control overlap of adjacent bands"
+        },
+        {
+          "name": "cqt_normalization",
+          "type": "ConstantQNormalizationEnum",
+          "access": "read-only",
+          "description": "Normalization scheme used to generate band windows"
+        },
+        {
+          "name": "noise_floor_db",
+          "type": "float",
+          "access": "read-only",
+          "description": "Noise floor to use when normalizing CQT"
+        }
+      ],
+      "source_file": "ConstantQNRT.h"
+    },
+    {
+      "id": "ComponentSectionOriginalMaterial",
+      "type": "class",
+      "name": "ComponentSectionOriginalMaterial",
+      "module": "WdpMaterial",
+      "plugin": "WdpApplication",
+      "parent": "StructBase",
+      "source_file": "MaterialPickAtom.h"
+    },
+    {
+      "id": "AnimGraphBlendOptions",
+      "type": "class",
+      "name": "AnimGraphBlendOptions",
+      "module": "Engine",
+      "parent": "StructBase",
+      "description": "Blending options for animation graphs in Linked Animation Blueprints",
+      "properties": [
+        {
+          "name": "blend_in_profile",
+          "type": "BlendProfile",
+          "access": "read-write",
+          "description": "Optional blend profile to use when blending this graph in (if BlendInTime > 0)"
+        },
+        {
+          "name": "blend_in_time",
+          "type": "float",
+          "access": "read-write",
+          "description": "Time to blend this graph in using Inertialization"
+        },
+        {
+          "name": "blend_out_profile",
+          "type": "BlendProfile",
+          "access": "read-write",
+          "description": "Optional blend profile to use when blending this graph out (if BlendOutTime > 0)"
+        },
+        {
+          "name": "blend_out_time",
+          "type": "float",
+          "access": "read-write",
+          "description": "Time to blend this graph out using Inertialization"
+        }
+      ],
+      "source_file": "AnimClassInterface.h"
+    },
+    {
+      "id": "RigUnit_RotationConstraint",
+      "type": "class",
+      "name": "RigUnit_RotationConstraint",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "parent": "RigUnit_HighlevelBaseMutable",
+      "description": "Constrains an item's rotation to multiple items' rotations",
+      "properties": [
+        {
+          "name": "child",
+          "type": "RigElementKey",
+          "access": "read-write"
+        },
+        {
+          "name": "maintain_offset",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "filter",
+          "type": "FilterOptionPerAxis",
+          "access": "read-write"
+        },
+        {
+          "name": "parents",
+          "type": "Array[ConstraintParent]",
+          "access": "read-write"
+        },
+        {
+          "name": "advanced_settings",
+          "type": "RigUnit_RotationConstraint_AdvancedSettings",
+          "access": "read-write"
+        },
+        {
+          "name": "weight",
+          "type": "float",
+          "access": "read-write"
+        }
+      ],
+      "source_file": "RigUnit_TransformConstraint.h"
+    },
+    {
+      "id": "SmartObjectSlotEntranceHandle",
+      "type": "class",
+      "name": "SmartObjectSlotEntranceHandle",
+      "module": "SmartObjectsModule",
+      "plugin": "SmartObjects",
+      "parent": "StructBase",
+      "description": "Handle describing a specific entrance on a Smart Object slot",
+      "properties": [
+        {
+          "name": "slot_handle",
+          "type": "SmartObjectSlotHandle",
+          "access": "read-only"
+        }
+      ],
+      "source_file": "SmartObjectSubsystem.h"
+    },
+    {
+      "id": "SlateRHIPostBufferProcessor",
+      "type": "class",
+      "name": "SlateRHIPostBufferProcessor",
+      "module": "SlateRHIRenderer",
+      "parent": "Object",
+      "description": "Base class for types that can process the backbuffer scene into the slate post buffer",
+      "source_file": "SlateRHIPostBufferProcessor.h"
+    },
+    {
+      "id": "RigUnit_RandomFloat",
+      "type": "class",
+      "name": "RigUnit_RandomFloat",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "parent": "RigVMFunction_RandomFloat",
+      "deprecated": "'RigUnit_RandomFloat' was renamed to 'RigVMFunction_RandomFloat'",
+      "source_file": "RigUnit_RandomFloat.h"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "RigUnit_RigModulesBaseMutable",
+      "target": "RigUnitMutable",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieSceneScriptingIntegerChannel",
+      "target": "MovieSceneScriptingChannel",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_ParentSwitchConstraint",
+      "target": "RigUnitMutable",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryScript_List",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WidgetInteractionComponent",
+      "target": "SceneComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimInitializationContext",
+      "target": "AnimExecutionContext",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieGraphPinProperties",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PoseSearchRoledSkeleton",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNotify_ResetClothingSimulation",
+      "target": "AnimNotify",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieGraphGlobalVariable",
+      "target": "MovieGraphVariable",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AbilitySystemTestAttributeSet",
+      "target": "AttributeSet",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SoundCueFactoryNew",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnTimelineFloat",
+      "target": "DelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthCollisionComponent",
+      "target": "EarthCollisionComponentBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PoseSearchDatabaseMultiAnimAssetEx",
+      "target": "PoseSearchDatabaseMultiAnimAsset",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ConstantQNRTSettings",
+      "target": "AudioSynesthesiaNRTSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ComponentSectionOriginalMaterial",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimGraphBlendOptions",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_RotationConstraint",
+      "target": "RigUnit_HighlevelBaseMutable",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SmartObjectSlotEntranceHandle",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SlateRHIPostBufferProcessor",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_RandomFloat",
+      "target": "RigVMFunction_RandomFloat",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WidgetInteractionComponent",
+      "target": "WidgetComponent",
+      "type": "interacts_with",
+      "description": "WidgetInteractionComponent interacts with WidgetComponent to simulate laser pointer device interactions"
+    },
+    {
+      "source": "RigUnit_ParentSwitchConstraint",
+      "target": "RigElementKey",
+      "type": "uses",
+      "description": "Uses RigElementKey to identify subjects and parents"
+    },
+    {
+      "source": "RigUnit_RotationConstraint",
+      "target": "RigElementKey",
+      "type": "uses",
+      "description": "Uses RigElementKey to identify child items"
+    },
+    {
+      "source": "AbilitySystemTestAttributeSet",
+      "target": "GameplayAttributeData",
+      "type": "uses",
+      "description": "Uses GameplayAttributeData for mana attribute"
+    },
+    {
+      "source": "MovieGraphPinProperties",
+      "target": "MovieGraphValueType",
+      "type": "uses",
+      "description": "Uses MovieGraphValueType to define pin types"
+    },
+    {
+      "source": "GeometryScript_List",
+      "target": "GeometryScriptVectorList",
+      "type": "operates_on"
+    },
+    {
+      "source": "GeometryScript_List",
+      "target": "GeometryScriptUVList",
+      "type": "operates_on"
+    },
+    {
+      "source": "GeometryScript_List",
+      "target": "GeometryScriptScalarList",
+      "type": "operates_on"
+    },
+    {
+      "source": "GeometryScript_List",
+      "target": "GeometryScriptIndexList",
+      "type": "operates_on"
+    },
+    {
+      "source": "GeometryScript_List",
+      "target": "GeometryScriptColorList",
+      "type": "operates_on"
+    },
+    {
+      "source": "GeometryScript_List",
+      "target": "GeometryScriptTriangleList",
+      "type": "operates_on"
+    },
+    {
+      "source": "ConstantQNRTSettings",
+      "target": "ConstantQNRT",
+      "type": "configures",
+      "description": "Provides settings for ConstantQNRT analyzer"
+    }
+  ],
+  "metadata": {
+    "chunk": 25,
+    "total_chunks": 702,
+    "file_count": 22,
+    "extraction_date": "2026-04-12",
+    "source_path": "/Users/radial/github/unreal-python-stubhub/docs/api"
+  }
+}

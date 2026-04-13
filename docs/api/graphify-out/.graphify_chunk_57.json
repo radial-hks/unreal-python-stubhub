@@ -1,0 +1,847 @@
+{
+  "nodes": [
+    {
+      "id": "animnode_springbone",
+      "label": "AnimNode_SpringBone",
+      "file_type": "document",
+      "source_file": "AnimNode_SpringBone Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_skeletalcontrolbase",
+      "label": "AnimNode_SkeletalControlBase",
+      "file_type": "document",
+      "source_file": "AnimNode_SpringBone Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphruntime_module",
+      "label": "AnimGraphRuntime Module",
+      "file_type": "document",
+      "source_file": "AnimNode_SpringBone Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spring_bone_physics",
+      "label": "Spring Bone Physics",
+      "file_type": "document",
+      "source_file": "AnimNode_SpringBone Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphglobaloutputsettingnode",
+      "label": "MovieGraphGlobalOutputSettingNode",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalOutputSettingNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphsettingnode",
+      "label": "MovieGraphSettingNode",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalOutputSettingNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipeline_moderenderpipeline",
+      "label": "Movie Render Pipeline",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalOutputSettingNode Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scrollintoviewalignment",
+      "label": "ScrollIntoViewAlignment",
+      "file_type": "document",
+      "source_file": "ScrollIntoViewAlignment Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "ScrollIntoViewAlignment Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slate_module",
+      "label": "Slate Module",
+      "file_type": "document",
+      "source_file": "ScrollIntoViewAlignment Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesequenceplayer",
+      "label": "MovieSceneSequencePlayer",
+      "file_type": "document",
+      "source_file": "MovieSceneSequencePlayer Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "MovieSceneSequencePlayer Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene_module",
+      "label": "MovieScene Module",
+      "file_type": "document",
+      "source_file": "MovieSceneSequencePlayer Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequence_playback",
+      "label": "Sequence Playback",
+      "file_type": "document",
+      "source_file": "MovieSceneSequencePlayer Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphpipeline",
+      "label": "MovieGraphPipeline",
+      "file_type": "document",
+      "source_file": "MovieGraphPipeline Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinebase",
+      "label": "MoviePipelineBase",
+      "file_type": "document",
+      "source_file": "MovieGraphPipeline Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller",
+      "label": "WdpPlayerController",
+      "file_type": "document",
+      "source_file": "WdpPlayerController Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playercontroller",
+      "label": "PlayerController",
+      "file_type": "document",
+      "source_file": "WdpPlayerController Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcamera_plugin",
+      "label": "WdpCamera Plugin",
+      "file_type": "document",
+      "source_file": "WdpPlayerController Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_input_handling",
+      "label": "Camera Input Handling",
+      "file_type": "document",
+      "source_file": "WdpPlayerController Objects.md",
+      "source_location": "line 40-228",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdataasset",
+      "label": "PCGDataAsset",
+      "file_type": "document",
+      "source_file": "PCGDataAsset Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGDataAsset Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_content_generation",
+      "label": "Procedural Content Generation",
+      "file_type": "document",
+      "source_file": "PCGDataAsset Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_inversequaterion",
+      "label": "RigUnit_InverseQuaterion",
+      "file_type": "document",
+      "source_file": "RigUnit__InverseQuaterion Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_unaryquaternionop",
+      "label": "RigUnit_UnaryQuaternionOp",
+      "file_type": "document",
+      "source_file": "RigUnit__InverseQuaterion Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__InverseQuaterion Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternion_mathematics",
+      "label": "Quaternion Mathematics",
+      "file_type": "document",
+      "source_file": "RigUnit__InverseQuaterion Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typedelementhierarchyinterface",
+      "label": "TypedElementHierarchyInterface",
+      "file_type": "document",
+      "source_file": "TypedElementHierarchyInterface Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interface",
+      "label": "Interface",
+      "file_type": "document",
+      "source_file": "TypedElementHierarchyInterface Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typedelementruntime_module",
+      "label": "TypedElementRuntime Module",
+      "file_type": "document",
+      "source_file": "TypedElementHierarchyInterface Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "element_hierarchy_management",
+      "label": "Element Hierarchy Management",
+      "file_type": "document",
+      "source_file": "TypedElementHierarchyInterface Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerregionnameparams",
+      "label": "WdpModelerRegionNameParams",
+      "file_type": "document",
+      "source_file": "WdpModelerRegionNameParams Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eidparams",
+      "label": "EidParams",
+      "file_type": "document",
+      "source_file": "WdpModelerRegionNameParams Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesruntimemodeler_plugin",
+      "label": "AesRuntimeModeler Plugin",
+      "file_type": "document",
+      "source_file": "WdpModelerRegionNameParams Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_opensubdiv",
+      "label": "GeometryScript_OpenSubdiv",
+      "file_type": "document",
+      "source_file": "GeometryScript_OpenSubdiv Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfuctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "GeometryScript_OpenSubdiv Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScript_OpenSubdiv Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mesh_subdivision",
+      "label": "Mesh Subdivision",
+      "file_type": "document",
+      "source_file": "GeometryScript_OpenSubdiv Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolbool_entry",
+      "label": "RigUnit_SetMultiControlBool_Entry",
+      "file_type": "document",
+      "source_file": "RigUnit__SetMultiControlBool__Entry Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RigUnit__SetMultiControlBool__Entry Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig_bool_operations",
+      "label": "Control Rig Bool Operations",
+      "file_type": "document",
+      "source_file": "RigUnit__SetMultiControlBool__Entry Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animnode_springbone",
+      "target": "animnode_skeletalcontrolbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_SpringBone Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_springbone",
+      "target": "animgraphruntime_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_SpringBone Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_springbone",
+      "target": "spring_bone_physics",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_SpringBone Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphglobaloutputsettingnode",
+      "target": "moviegraphsettingnode",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalOutputSettingNode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphglobaloutputsettingnode",
+      "target": "moviepipeline_moderenderpipeline",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalOutputSettingNode Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphglobaloutputsettingnode",
+      "target": "moviegraphpipeline",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieGraphGlobalOutputSettingNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scrollintoviewalignment",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScrollIntoViewAlignment Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "scrollintoviewalignment",
+      "target": "slate_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScrollIntoViewAlignment Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenesequenceplayer",
+      "target": "object",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSequencePlayer Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenesequenceplayer",
+      "target": "moviescene_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSequencePlayer Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenesequenceplayer",
+      "target": "sequence_playback",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSequencePlayer Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphpipeline",
+      "target": "moviepipelinebase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphPipeline Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphpipeline",
+      "target": "moviepipeline_moderenderpipeline",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphPipeline Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphpipeline",
+      "target": "moviegraphglobaloutputsettingnode",
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieGraphPipeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller",
+      "target": "playercontroller",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller",
+      "target": "wdpcamera_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller",
+      "target": "camera_input_handling",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController Objects.md",
+      "source_location": "line 40-228",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdataasset",
+      "target": "object",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDataAsset Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdataasset",
+      "target": "pcg_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDataAsset Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdataasset",
+      "target": "procedural_content_generation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDataAsset Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_inversequaterion",
+      "target": "rigunit_unaryquaternionop",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__InverseQuaterion Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_inversequaterion",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__InverseQuaterion Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_inversequaterion",
+      "target": "quaternion_mathematics",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__InverseQuaterion Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "typedelementhierarchyinterface",
+      "target": "interface",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TypedElementHierarchyInterface Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "typedelementhierarchyinterface",
+      "target": "typedelementruntime_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TypedElementHierarchyInterface Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "typedelementhierarchyinterface",
+      "target": "element_hierarchy_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TypedElementHierarchyInterface Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmodelerregionnameparams",
+      "target": "eidparams",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpModelerRegionNameParams Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmodelerregionnameparams",
+      "target": "aesruntimemodeler_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpModelerRegionNameParams Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_opensubdiv",
+      "target": "blueprintfuctionlibrary",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_OpenSubdiv Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_opensubdiv",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_OpenSubdiv Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_opensubdiv",
+      "target": "mesh_subdivision",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_OpenSubdiv Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_entry",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetMultiControlBool__Entry Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_entry",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetMultiControlBool__Entry Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_entry",
+      "target": "control_rig_bool_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetMultiControlBool__Entry Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_entry",
+      "target": "rigunit_inversequaterion",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__SetMultiControlBool__Entry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphpipeline",
+      "target": "moviescenesequenceplayer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieGraphPipeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_animation_system",
+      "label": "Unreal Animation System",
+      "nodes": [
+        "animnode_springbone",
+        "rigunit_inversequaterion",
+        "rigunit_setmulticontrolbool_entry"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode_SpringBone Objects.md"
+    },
+    {
+      "id": "unreal_movie_rendering_pipeline",
+      "label": "Unreal Movie Rendering Pipeline",
+      "nodes": [
+        "moviegraphglobaloutputsettingnode",
+        "moviegraphpipeline",
+        "moviescenesequenceplayer"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieGraphPipeline Objects.md"
+    }
+  ],
+  "input_tokens": 45000,
+  "output_tokens": 0
+}

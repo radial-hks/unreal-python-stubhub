@@ -1,0 +1,906 @@
+{
+  "nodes": [
+    {
+      "id": "tablerowstyle_tablerowstyle",
+      "label": "TableRowStyle",
+      "file_type": "code",
+      "source_file": "TableRowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tablerowstyle_slatewidgetstyle",
+      "label": "SlateWidgetStyle",
+      "file_type": "code",
+      "source_file": "TableRowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tablerowstyle_slatebrush",
+      "label": "SlateBrush",
+      "file_type": "code",
+      "source_file": "TableRowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tablerowstyle_slatecolor",
+      "label": "SlateColor",
+      "file_type": "code",
+      "source_file": "TableRowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphimagepassbasenode_moviegraphimagepassbasenode",
+      "label": "MovieGraphImagePassBaseNode",
+      "file_type": "code",
+      "source_file": "MovieGraphImagePassBaseNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphimagepassbasenode_moviegraphrenderpassnode",
+      "label": "MovieGraphRenderPassNode",
+      "file_type": "code",
+      "source_file": "MovieGraphImagePassBaseNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphimagepassbasenode_moviegraphshowflags",
+      "label": "MovieGraphShowFlags",
+      "file_type": "code",
+      "source_file": "MovieGraphImagePassBaseNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectexecutiondefinition_gameplayeffectexecutiondefinition",
+      "label": "GameplayEffectExecutionDefinition",
+      "file_type": "code",
+      "source_file": "GameplayEffectExecutionDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jumpfloodcomponent2d_jumpfloodcomponent2d",
+      "label": "JumpFloodComponent2D",
+      "file_type": "code",
+      "source_file": "JumpFloodComponent2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jumpfloodcomponent2d_actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "code",
+      "source_file": "JumpFloodComponent2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jumpfloodcomponent2d_materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "code",
+      "source_file": "JumpFloodComponent2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jumpfloodcomponent2d_texturerendertarget2d",
+      "label": "TextureRenderTarget2D",
+      "file_type": "code",
+      "source_file": "JumpFloodComponent2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpfocusnodesparams_wdpfocusnodesparams",
+      "label": "WDPFocusNodesParams",
+      "file_type": "code",
+      "source_file": "WDPFocusNodesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpfocusnodesparams_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": "WDPFocusNodesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpfocusnodesparams_camerapresetrotator",
+      "label": "CameraPresetRotator",
+      "file_type": "code",
+      "source_file": "WDPFocusNodesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgloadalembicbpdata_pgloadalembicbpdata",
+      "label": "PCGLoadAlembicBPData",
+      "file_type": "code",
+      "source_file": "PCGLoadAlembicBPData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgloadalembicbpdata_abcconversionsettings",
+      "label": "AbcConversionSettings",
+      "file_type": "code",
+      "source_file": "PCGLoadAlembicBPData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgloadalembicbpdata_pcgattributepropertyinputselector",
+      "label": "PCGAttributePropertyInputSelector",
+      "file_type": "code",
+      "source_file": "PCGLoadAlembicBPData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtabbuttonwidget_meshregistry_earthtabbuttonwidget_meshregistry",
+      "label": "EarthTabButtonWidget_MeshRegistry",
+      "file_type": "code",
+      "source_file": "EarthTabButtonWidget__MeshRegistry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtabbuttonwidget_meshregistry_earthtabbuttonwidget",
+      "label": "EarthTabButtonWidget",
+      "file_type": "code",
+      "source_file": "EarthTabButtonWidget__MeshRegistry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformunaryop_rigunit_mathtransformunaryop",
+      "label": "RigUnit_MathTransformUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathTransformUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformunaryop_rigvmfunction_mathtransformunaryop",
+      "label": "RigVMFunction_MathTransformUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathTransformUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdsolverinfoactor_chaosvdsolverinfoactor",
+      "label": "ChaosVDSolverInfoActor",
+      "file_type": "code",
+      "source_file": "ChaosVDSolverInfoActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdsolverinfoactor_chaosvddatacontainerbaseactor",
+      "label": "ChaosVDDataContainerBaseActor",
+      "file_type": "code",
+      "source_file": "ChaosVDSolverInfoActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "damageevent_damageevent",
+      "label": "DamageEvent",
+      "file_type": "code",
+      "source_file": "DamageEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+      "label": "RigUnit_SetVector2DAnimationChannelFromItem",
+      "file_type": "code",
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setvector2danimationchannelfromitem_rigunit_setanimationchannelbasefromitem",
+      "label": "RigUnit_SetAnimationChannelBaseFromItem",
+      "file_type": "code",
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setvector2danimationchannelfromitem_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setvector2danimationchannelfromitem_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpinusage_pcgpinusage",
+      "label": "PCGPinUsage",
+      "file_type": "code",
+      "source_file": "PCGPinUsage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "defaultlevelsequenceinstancedata_defaultlevelsequenceinstancedata",
+      "label": "DefaultLevelSequenceInstanceData",
+      "file_type": "code",
+      "source_file": "DefaultLevelSequenceInstanceData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanresourcestruct_urbanresourcestruct",
+      "label": "UrbanResourceStruct",
+      "file_type": "code",
+      "source_file": "UrbanResourceStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "getparticleparams_getparticleparams",
+      "label": "GetParticleParams",
+      "file_type": "code",
+      "source_file": "GetParticleParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "getparticleparams_resultbase",
+      "label": "ResultBase",
+      "file_type": "code",
+      "source_file": "GetParticleParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdstaticmeshcomponent_chaosvdstaticmeshcomponent",
+      "label": "ChaosVDStaticMeshComponent",
+      "file_type": "code",
+      "source_file": "ChaosVDStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdstaticmeshcomponent_staticmeshcomponent",
+      "label": "StaticMeshComponent",
+      "file_type": "code",
+      "source_file": "ChaosVDStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+      "label": "RigVMFunction_MathIntToFloat",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntToFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathinttofloat_rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntToFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigcomponentmapdirection_controlrigcomponentmapdirection",
+      "label": "ControlRigComponentMapDirection",
+      "file_type": "code",
+      "source_file": "ControlRigComponentMapDirection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait__setdeformerboolvariable_rigvmtrait__setdeformerboolvariable",
+      "label": "RigVMTrait_SetDeformerBoolVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait__setdeformerboolvariable_rigvmtrait_optimusvariablebase",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigenumcontrolproxyvalue_controlrigenumcontrolproxyvalue",
+      "label": "ControlRigEnumControlProxyValue",
+      "file_type": "code",
+      "source_file": "ControlRigEnumControlProxyValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonerlinelayout_avaclonerlinelayout",
+      "label": "AvaClonerLineLayout",
+      "file_type": "code",
+      "source_file": "AvaClonerLineLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonerlinelayout_ceclonerlinelayout",
+      "label": "CEClonerLineLayout",
+      "file_type": "code",
+      "source_file": "AvaClonerLineLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitytreeview_editorutilitytreeview",
+      "label": "EditorUtilityTreeView",
+      "file_type": "code",
+      "source_file": "EditorUtilityTreeView Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitytreeview_treeview",
+      "label": "TreeView",
+      "file_type": "code",
+      "source_file": "EditorUtilityTreeView Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pgloadalembicbpdata_pgloadalembicstandardsetup",
+      "label": "PCGLoadAlembicStandardSetup",
+      "file_type": "code",
+      "source_file": "PCGLoadAlembicBPData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "tablerowstyle_tablerowstyle",
+      "target": "tablerowstyle_slatewidgetstyle",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TableRowStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tablerowstyle_tablerowstyle",
+      "target": "tablerowstyle_slatebrush",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TableRowStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tablerowstyle_tablerowstyle",
+      "target": "tablerowstyle_slatecolor",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TableRowStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphimagepassbasenode_moviegraphimagepassbasenode",
+      "target": "moviegraphimagepassbasenode_moviegraphrenderpassnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphImagePassBaseNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphimagepassbasenode_moviegraphimagepassbasenode",
+      "target": "moviegraphimagepassbasenode_moviegraphshowflags",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphImagePassBaseNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "jumpfloodcomponent2d_jumpfloodcomponent2d",
+      "target": "jumpfloodcomponent2d_actorcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JumpFloodComponent2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "jumpfloodcomponent2d_jumpfloodcomponent2d",
+      "target": "jumpfloodcomponent2d_materialinterface",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JumpFloodComponent2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "jumpfloodcomponent2d_jumpfloodcomponent2d",
+      "target": "jumpfloodcomponent2d_texturerendertarget2d",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JumpFloodComponent2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "jumpfloodcomponent2d_jumpfloodcomponent2d",
+      "target": "jumpfloodcomponent2d_texturerendertarget2d",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JumpFloodComponent2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpfocusnodesparams_wdpfocusnodesparams",
+      "target": "wdpfocusnodesparams_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPFocusNodesParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpfocusnodesparams_wdpfocusnodesparams",
+      "target": "wdpfocusnodesparams_camerapresetrotator",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPFocusNodesParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgloadalembicbpdata_pgloadalembicbpdata",
+      "target": "pcgloadalembicbpdata_abcconversionsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGLoadAlembicBPData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgloadalembicbpdata_pgloadalembicbpdata",
+      "target": "pcgloadalembicbpdata_pcgattributepropertyinputselector",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGLoadAlembicBPData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgloadalembicbpdata_pgloadalembicbpdata",
+      "target": "pgloadalembicbpdata_pgloadalembicstandardsetup",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGLoadAlembicBPData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtabbuttonwidget_meshregistry_earthtabbuttonwidget_meshregistry",
+      "target": "earthtabbuttonwidget_meshregistry_earthtabbuttonwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTabButtonWidget__MeshRegistry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformunaryop_rigunit_mathtransformunaryop",
+      "target": "rigunit_mathtransformunaryop_rigvmfunction_mathtransformunaryop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathTransformUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvdsolverinfoactor_chaosvdsolverinfoactor",
+      "target": "chaosvdsolverinfoactor_chaosvddatacontainerbaseactor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosVDSolverInfoActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+      "target": "rigunit__setvector2danimationchannelfromitem_rigunit_setanimationchannelbasefromitem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+      "target": "rigunit__setvector2danimationchannelfromitem_controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+      "target": "rigunit__setvector2danimationchannelfromitem_rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getparticleparams_getparticleparams",
+      "target": "getparticleparams_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GetParticleParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvdstaticmeshcomponent_chaosvdstaticmeshcomponent",
+      "target": "chaosvdstaticmeshcomponent_staticmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosVDStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+      "target": "rigvmfunction_mathinttofloat_rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntToFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait__setdeformerboolvariable_rigvmtrait__setdeformerboolvariable",
+      "target": "rigvmtrait__setdeformerboolvariable_rigvmtrait_optimusvariablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonerlinelayout_avaclonerlinelayout",
+      "target": "avaclonerlinelayout_ceclonerlinelayout",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerLineLayout Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilitytreeview_editorutilitytreeview",
+      "target": "editorutilitytreeview_treeview",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityTreeView Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvdstaticmeshcomponent_chaosvdstaticmeshcomponent",
+      "target": "chaosvdsolverinfoactor_chaosvdsolverinfoactor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ChaosVDStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+      "target": "rigunit_mathtransformunaryop_rigvmfunction_mathtransformunaryop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathIntToFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+      "target": "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait__setdeformerboolvariable_rigvmtrait__setdeformerboolvariable",
+      "target": "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMTrait__SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigcomponentmapdirection_controlrigcomponentmapdirection",
+      "target": "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ControlRigComponentMapDirection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigenumcontrolproxyvalue_controlrigenumcontrolproxyvalue",
+      "target": "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ControlRigEnumControlProxyValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "damageevent_damageevent",
+      "target": "chaosvdsolverinfoactor_chaosvdsolverinfoactor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "DamageEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpinusage_pcgpinusage",
+      "target": "pcgloadalembicbpdata_pgloadalembicbpdata",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGPinUsage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_system",
+      "label": "Control Rig System Components",
+      "nodes": [
+        "rigunit__setvector2danimationchannelfromitem_rigunit__setvector2danimationchannelfromitem",
+        "controlrigcomponentmapdirection_controlrigcomponentmapdirection",
+        "controlrigenumcontrolproxyvalue_controlrigenumcontrolproxyvalue"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__SetVector2DAnimationChannelFromItem Objects.md"
+    },
+    {
+      "id": "rig_vm_math_functions",
+      "label": "RigVM Math Function System",
+      "nodes": [
+        "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+        "rigunit_mathtransformunaryop_rigvmfunction_mathtransformunaryop",
+        "rigvmtrait__setdeformerboolvariable_rigvmtrait__setdeformerboolvariable"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathIntToFloat Objects.md"
+    },
+    {
+      "id": "chaos_visualization_debugging",
+      "label": "Chaos Physics Visualization and Debugging",
+      "nodes": [
+        "chaosvdstaticmeshcomponent_chaosvdstaticmeshcomponent",
+        "chaosvdsolverinfoactor_chaosvdsolverinfoactor",
+        "damageevent_damageevent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ChaosVDSolverInfoActor Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

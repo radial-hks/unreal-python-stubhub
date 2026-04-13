@@ -1,0 +1,530 @@
+{
+  "nodes": [
+    {
+      "id": "pcgfilterbytypesettings",
+      "label": "PCGFilterByTypeSettings",
+      "file_type": "document",
+      "source_file": "PCGFilterByTypeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgfilterdatabasesettings",
+      "label": "PCGFilterDataBaseSettings",
+      "file_type": "document",
+      "source_file": "PCGFilterByTypeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdatatype",
+      "label": "PCGDataType",
+      "file_type": "document",
+      "source_file": "PCGFilterByTypeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmutipickinfo",
+      "label": "DCPMutiPickInfo",
+      "file_type": "document",
+      "source_file": "DCPMutiPickInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspherepointorientation",
+      "label": "PCGSpherePointOrientation",
+      "file_type": "document",
+      "source_file": "PCGSpherePointOrientation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waternodeinfo",
+      "label": "WaterNodeInfo",
+      "file_type": "document",
+      "source_file": "WaterNodeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "WaterNodeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequencetimetype",
+      "label": "AvaSequenceTimeType",
+      "file_type": "document",
+      "source_file": "AvaSequenceTimeType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getshapetransform",
+      "label": "RigUnit_GetShapeTransform",
+      "file_type": "document",
+      "source_file": "RigUnit_GetShapeTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_GetShapeTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_torigspace_transform",
+      "label": "RigUnit_ToRigSpace_Transform",
+      "file_type": "document",
+      "source_file": "RigUnit__ToRigSpace__Transform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_posebyname",
+      "label": "AnimNode_PoseByName",
+      "file_type": "document",
+      "source_file": "AnimNode__PoseByName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_posehandler",
+      "label": "AnimNode_PoseHandler",
+      "file_type": "document",
+      "source_file": "AnimNode__PoseByName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poseasset",
+      "label": "PoseAsset",
+      "file_type": "document",
+      "source_file": "AnimNode__PoseByName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filteroptionperaxis",
+      "label": "FilterOptionPerAxis",
+      "file_type": "document",
+      "source_file": "FilterOptionPerAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vreditorfloatingui",
+      "label": "VREditorFloatingUI",
+      "file_type": "document",
+      "source_file": "VREditorFloatingUI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vreditorbaseactor",
+      "label": "VREditorBaseActor",
+      "file_type": "document",
+      "source_file": "VREditorFloatingUI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geofeaturestyle",
+      "label": "GeoFeatureStyle",
+      "file_type": "document",
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geopolygonstyle",
+      "label": "GeoPolygonStyle",
+      "file_type": "document",
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolinestyle",
+      "label": "GeoLineStyle",
+      "file_type": "document",
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geopointstyle",
+      "label": "GeoPointStyle",
+      "file_type": "document",
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmasslandscapeinfo",
+      "label": "LandmassLandscapeInfo",
+      "file_type": "document",
+      "source_file": "LandmassLandscapeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intpoint",
+      "label": "IntPoint",
+      "file_type": "document",
+      "source_file": "LandmassLandscapeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgfilterbytypesettings",
+      "target": "pcgfilterdatabasesettings",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGFilterByTypeSettings Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgfilterbytypesettings",
+      "target": "pcgdatatype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGFilterByTypeSettings Objects.md",
+      "source_location": "line 42",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgfilterbytypesettings",
+      "target": "pcgspherepointorientation",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGFilterByTypeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgspherepointorientation",
+      "target": "pcgfilterbytypesettings",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGSpherePointOrientation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waternodeinfo",
+      "target": "transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterNodeInfo Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getshapetransform",
+      "target": "rigunit",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetShapeTransform Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getshapetransform",
+      "target": "transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetShapeTransform Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_torigspace_transform",
+      "target": "rigunit",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ToRigSpace__Transform Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_torigspace_transform",
+      "target": "transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ToRigSpace__Transform Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_torigspace_transform",
+      "target": "rigunit_getshapetransform",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ToRigSpace__Transform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getshapetransform",
+      "target": "rigunit_torigspace_transform",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_GetShapeTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posebyname",
+      "target": "animnode_posehandler",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__PoseByName Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posebyname",
+      "target": "poseasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__PoseByName Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "vreditorfloatingui",
+      "target": "vreditorbaseactor",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VREditorFloatingUI Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "geofeaturestyle",
+      "target": "geopolygonstyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "geofeaturestyle",
+      "target": "geolinestyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "geofeaturestyle",
+      "target": "geopointstyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "geolinestyle",
+      "target": "geopointstyle",
+      "relation": "shares_context_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geopolygonstyle",
+      "target": "geolinestyle",
+      "relation": "shares_context_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeoFeatureStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmasslandscapeinfo",
+      "target": "transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassLandscapeInfo Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "landmasslandscapeinfo",
+      "target": "intpoint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassLandscapeInfo Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "waternodeinfo",
+      "target": "landmasslandscapeinfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WaterNodeInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getshapetransform",
+      "target": "animnode_posebyname",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigUnit_GetShapeTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posebyname",
+      "target": "rigunit_getshapetransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AnimNode__PoseByName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_control_transform_manipulation",
+      "label": "Rig Control Transform Manipulation",
+      "nodes": [
+        "rigunit_getshapetransform",
+        "rigunit_torigspace_transform",
+        "transform"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_GetShapeTransform Objects.md"
+    },
+    {
+      "id": "geo_feature_styling_system",
+      "label": "Geo Feature Styling System",
+      "nodes": [
+        "geofeaturestyle",
+        "geopolygonstyle",
+        "geolinestyle",
+        "geopointstyle"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeoFeatureStyle Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

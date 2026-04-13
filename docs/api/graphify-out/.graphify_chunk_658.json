@@ -1,0 +1,1178 @@
+{
+  "nodes": [
+    {
+      "id": "cityinfo",
+      "label": "CityInfo",
+      "file_type": "code",
+      "source_file": "CityInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cityinfo_city_id",
+      "label": "city_id Property",
+      "file_type": "code",
+      "source_file": "CityInfo Objects.md",
+      "source_location": "lines 17-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cityinfo_city_path",
+      "label": "city_path Property",
+      "file_type": "code",
+      "source_file": "CityInfo Objects.md",
+      "source_location": "lines 18-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_subinput",
+      "label": "AnimGraphNode_SubInput",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SubInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify_playmontagenotifywindow",
+      "label": "AnimNotify_PlayMontageNotifyWindow",
+      "file_type": "code",
+      "source_file": "AnimNotify_PlayMontageNotifyWindow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify_playmontagenotifywindow_notify_name",
+      "label": "notify_name Property",
+      "file_type": "code",
+      "source_file": "AnimNotify_PlayMontageNotifyWindow Objects.md",
+      "source_location": "lines 17-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiovolumeradialslider",
+      "label": "AudioVolumeRadialSlider",
+      "file_type": "code",
+      "source_file": "AudioVolumeRadialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiovolumeradialslider_value",
+      "label": "value Property",
+      "file_type": "code",
+      "source_file": "AudioVolumeRadialSlider Objects.md",
+      "source_location": "line 62",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiovolumeradialslider_on_value_changed",
+      "label": "on_value_changed Event",
+      "file_type": "code",
+      "source_file": "AudioVolumeRadialSlider Objects.md",
+      "source_location": "line 43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesslotassetactor",
+      "label": "AesSlotAssetActor",
+      "file_type": "code",
+      "source_file": "AesSlotAssetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesslotassetactor_tag_data_list",
+      "label": "tag_data_list Property",
+      "file_type": "code",
+      "source_file": "AesSlotAssetActor Objects.md",
+      "source_location": "lines 153-154",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesslotassetactor_child_assets",
+      "label": "child_assets Property",
+      "file_type": "code",
+      "source_file": "AesSlotAssetActor Objects.md",
+      "source_location": "line 42",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringright",
+      "label": "RigUnit_StringRight",
+      "file_type": "code",
+      "source_file": "RigUnit__StringRight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformbase",
+      "label": "RigUnit_MathTransformBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "async_settimer_timerhandledelegate",
+      "label": "Async_SetTimer_TimerHandleDelegate",
+      "file_type": "code",
+      "source_file": "Async_SetTimer_TimerHandleDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaratypedefinitionhandle",
+      "label": "NiagaraTypeDefinitionHandle",
+      "file_type": "code",
+      "source_file": "NiagaraTypeDefinitionHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platforminterfacedelegateresult",
+      "label": "PlatformInterfaceDelegateResult",
+      "file_type": "code",
+      "source_file": "PlatformInterfaceDelegateResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesentitylayerinfo",
+      "label": "AesEntityLayerInfo",
+      "file_type": "code",
+      "source_file": "AesEntityLayerInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesentitylayerinfo_entity_struct",
+      "label": "entity_struct Property",
+      "file_type": "code",
+      "source_file": "AesEntityLayerInfo Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "align_translation_x",
+      "label": "align_translation_x",
+      "file_type": "code",
+      "source_file": "align_translation_x Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangerectlightnode",
+      "label": "InterchangeRectLightNode",
+      "file_type": "code",
+      "source_file": "InterchangeRectLightNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangerectlightnode_set_custom_source_width",
+      "label": "set_custom_source_width Method",
+      "file_type": "code",
+      "source_file": "InterchangeRectLightNode Objects.md",
+      "source_location": "lines 19-20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfexporter",
+      "label": "GLTFExporter",
+      "file_type": "code",
+      "source_file": "GLTFExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfexporter_export_to_gltf",
+      "label": "export_to_gltf Method",
+      "file_type": "code",
+      "source_file": "GLTFExporter Objects.md",
+      "source_location": "lines 28-32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmodelereditorroadlanetype",
+      "label": "EarthModelerEditorRoadLaneType",
+      "file_type": "code",
+      "source_file": "EarthModelerEditorRoadLaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmodelereditorroadlanetype_enum_values",
+      "label": "Road Lane Type Enum Values",
+      "file_type": "code",
+      "source_file": "EarthModelerEditorRoadLaneType Objects.md",
+      "source_location": "lines 15-62",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionbasemutable",
+      "label": "RigUnit_CollectionBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorbbkey_float",
+      "label": "ValueOrBBKey_Float",
+      "file_type": "code",
+      "source_file": "ValueOrBBKey_Float Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorbbkey_float_default_value",
+      "label": "default_value Property",
+      "file_type": "code",
+      "source_file": "ValueOrBBKey_Float Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineoutputsetting",
+      "label": "MoviePipelineOutputSetting",
+      "file_type": "code",
+      "source_file": "MoviePipelineOutputSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineoutputsetting_output_resolution",
+      "label": "output_resolution Property",
+      "file_type": "code",
+      "source_file": "MoviePipelineOutputSetting Objects.md",
+      "source_location": "lines 33-34",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineoutputsetting_output_frame_rate",
+      "label": "output_frame_rate Property",
+      "file_type": "code",
+      "source_file": "MoviePipelineOutputSetting Objects.md",
+      "source_location": "lines 31-32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "findturnbasedmatchcallbackproxy",
+      "label": "FindTurnBasedMatchCallbackProxy",
+      "file_type": "code",
+      "source_file": "FindTurnBasedMatchCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "findturnbasedmatchcallbackproxy_on_success",
+      "label": "on_success Delegate",
+      "file_type": "code",
+      "source_file": "FindTurnBasedMatchCallbackProxy Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scrollboxslot",
+      "label": "ScrollBoxSlot",
+      "file_type": "code",
+      "source_file": "ScrollBoxSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scrollboxslot_padding",
+      "label": "padding Property",
+      "file_type": "code",
+      "source_file": "ScrollBoxSlot Objects.md",
+      "source_location": "lines 17-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublemake",
+      "label": "RigVMFunction_MathDoubleMake",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublemake_value",
+      "label": "value Property",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleMake Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryaggregateop",
+      "label": "RigVMFunction_MathFloatBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryaggregateop_result",
+      "label": "result Property",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatBinaryAggregateOp Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "CityInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_linkedinputpose",
+      "label": "AnimGraphNode_LinkedInputPose",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SubInput Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate",
+      "label": "AnimNotifyState",
+      "file_type": "code",
+      "source_file": "AnimNotify_PlayMontageNotifyWindow Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioradialslider",
+      "label": "AudioRadialSlider",
+      "file_type": "code",
+      "source_file": "AudioVolumeRadialSlider Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetactorbase",
+      "label": "AesAssetActorBase",
+      "file_type": "code",
+      "source_file": "AesSlotAssetActor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringright",
+      "label": "RigVMFunction_StringRight",
+      "file_type": "code",
+      "source_file": "RigUnit__StringRight Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbase",
+      "label": "RigVMFunction_MathTransformBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "Async_SetTimer_TimerHandleDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tablerowbase",
+      "label": "TableRowBase",
+      "file_type": "code",
+      "source_file": "AesEntityLayerInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuentryscript",
+      "label": "ToolMenuEntryScript",
+      "file_type": "code",
+      "source_file": "align_translation_x Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangelightnode",
+      "label": "InterchangeLightNode",
+      "file_type": "code",
+      "source_file": "InterchangeRectLightNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exporter",
+      "label": "Exporter",
+      "file_type": "code",
+      "source_file": "GLTFExporter Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "EarthModelerEditorRoadLaneType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionBaseMutable Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorblackboardkeybase",
+      "label": "ValueOrBlackboardKeyBase",
+      "file_type": "code",
+      "source_file": "ValueOrBBKey_Float Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinesetting",
+      "label": "MoviePipelineSetting",
+      "file_type": "code",
+      "source_file": "MoviePipelineOutputSetting Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlineblueprintcallproxybase",
+      "label": "OnlineBlueprintCallProxyBase",
+      "file_type": "code",
+      "source_file": "FindTurnBasedMatchCallbackProxy Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "panelslot",
+      "label": "PanelSlot",
+      "file_type": "code",
+      "source_file": "ScrollBoxSlot Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebase",
+      "label": "RigVMFunction_MathDoubleBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleMake Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction_MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatBinaryAggregateOp Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "cityinfo",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CityInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cityinfo",
+      "target": "cityinfo_city_id",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CityInfo Objects.md",
+      "source_location": "lines 17-18",
+      "weight": 1.0
+    },
+    {
+      "source": "cityinfo",
+      "target": "cityinfo_city_path",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CityInfo Objects.md",
+      "source_location": "lines 18-19",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_subinput",
+      "target": "animgraphnode_linkedinputpose",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SubInput Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playmontagenotifywindow",
+      "target": "animnotifystate",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify_PlayMontageNotifyWindow Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playmontagenotifywindow",
+      "target": "animnotify_playmontagenotifywindow_notify_name",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify_PlayMontageNotifyWindow Objects.md",
+      "source_location": "lines 17-18",
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumeradialslider",
+      "target": "audioradialslider",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolumeRadialSlider Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumeradialslider",
+      "target": "audiovolumeradialslider_value",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolumeRadialSlider Objects.md",
+      "source_location": "line 62",
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumeradialslider",
+      "target": "audiovolumeradialslider_on_value_changed",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolumeRadialSlider Objects.md",
+      "source_location": "line 43",
+      "weight": 1.0
+    },
+    {
+      "source": "aesslotassetactor",
+      "target": "aesassetactorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesSlotAssetActor Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "aesslotassetactor",
+      "target": "aesslotassetactor_tag_data_list",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesSlotAssetActor Objects.md",
+      "source_location": "lines 153-154",
+      "weight": 1.0
+    },
+    {
+      "source": "aesslotassetactor",
+      "target": "aesslotassetactor_child_assets",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesSlotAssetActor Objects.md",
+      "source_location": "line 42",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringright",
+      "target": "rigvmfunction_stringright",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__StringRight Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformbase",
+      "target": "rigvmfunction_mathtransformbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "async_settimer_timerhandledelegate",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Async_SetTimer_TimerHandleDelegate Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaratypedefinitionhandle",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraTypeDefinitionHandle Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "platforminterfacedelegateresult",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformInterfaceDelegateResult Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "aesentitylayerinfo",
+      "target": "tablerowbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEntityLayerInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "aesentitylayerinfo",
+      "target": "aesentitylayerinfo_entity_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEntityLayerInfo Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "align_translation_x",
+      "target": "toolmenuentryscript",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "align_translation_x Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangerectlightnode",
+      "target": "interchangelightnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeRectLightNode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangerectlightnode",
+      "target": "interchangerectlightnode_set_custom_source_width",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeRectLightNode Objects.md",
+      "source_location": "lines 19-20",
+      "weight": 1.0
+    },
+    {
+      "source": "gltfexporter",
+      "target": "exporter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFExporter Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "gltfexporter",
+      "target": "gltfexporter_export_to_gltf",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFExporter Objects.md",
+      "source_location": "lines 28-32",
+      "weight": 1.0
+    },
+    {
+      "source": "earthmodelereditorroadlanetype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthModelerEditorRoadLaneType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "earthmodelereditorroadlanetype",
+      "target": "earthmodelereditorroadlanetype_enum_values",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthModelerEditorRoadLaneType Objects.md",
+      "source_location": "lines 15-62",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionbasemutable",
+      "target": "rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionBaseMutable Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "valueorbbkey_float",
+      "target": "valueorblackboardkeybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ValueOrBBKey_Float Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "valueorbbkey_float",
+      "target": "valueorbbkey_float_default_value",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ValueOrBBKey_Float Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineoutputsetting",
+      "target": "moviepipelinesetting",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineOutputSetting Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineoutputsetting",
+      "target": "moviepipelineoutputsetting_output_resolution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineOutputSetting Objects.md",
+      "source_location": "lines 33-34",
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineoutputsetting",
+      "target": "moviepipelineoutputsetting_output_frame_rate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineOutputSetting Objects.md",
+      "source_location": "lines 31-32",
+      "weight": 1.0
+    },
+    {
+      "source": "findturnbasedmatchcallbackproxy",
+      "target": "onlineblueprintcallproxybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FindTurnBasedMatchCallbackProxy Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "findturnbasedmatchcallbackproxy",
+      "target": "findturnbasedmatchcallbackproxy_on_success",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FindTurnBasedMatchCallbackProxy Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "scrollboxslot",
+      "target": "panelslot",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScrollBoxSlot Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "scrollboxslot",
+      "target": "scrollboxslot_padding",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScrollBoxSlot Objects.md",
+      "source_location": "lines 17-18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublemake",
+      "target": "rigvmfunction_mathdoublebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleMake Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublemake",
+      "target": "rigvmfunction_mathdoublemake_value",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleMake Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatbinaryaggregateop",
+      "target": "rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatBinaryAggregateOp Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatbinaryaggregateop",
+      "target": "rigvmfunction_mathfloatbinaryaggregateop_result",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatBinaryAggregateOp Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringright",
+      "target": "rigvmfunction_stringright",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__StringRight Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformbase",
+      "target": "rigvmfunction_mathtransformbase",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformBase Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublemake",
+      "target": "rigvmfunction_mathfloatbinaryaggregateop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathDoubleMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumeradialslider",
+      "target": "scrollboxslot",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AudioVolumeRadialSlider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesslotassetactor",
+      "target": "aesentitylayerinfo",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AesSlotAssetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineoutputsetting",
+      "target": "gltfexporter",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MoviePipelineOutputSetting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playmontagenotifywindow",
+      "target": "animgraphnode_subinput",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimNotify_PlayMontageNotifyWindow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_math_operations",
+      "label": "Rig Math Operations",
+      "nodes": [
+        "rigvmfunction_mathdoublemake",
+        "rigvmfunction_mathfloatbinaryaggregateop",
+        "rigunit_mathtransformbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathDoubleMake Objects.md"
+    },
+    {
+      "id": "unreal_ui_widgets",
+      "label": "Unreal UI Widgets",
+      "nodes": [
+        "audiovolumeradialslider",
+        "scrollboxslot"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AudioVolumeRadialSlider Objects.md"
+    },
+    {
+      "id": "aes_world_plugin_system",
+      "label": "AesWorld Plugin System",
+      "nodes": [
+        "aesslotassetactor",
+        "aesentitylayerinfo",
+        "earthmodelereditorroadlanetype"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AesSlotAssetActor Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

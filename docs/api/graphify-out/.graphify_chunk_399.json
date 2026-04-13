@@ -1,0 +1,688 @@
+{
+  "nodes": [
+    {
+      "id": "imagesequenceprotocol_exr_imagesequenceprotocol_exr",
+      "label": "ImageSequenceProtocol_EXR",
+      "file_type": "document",
+      "source_file": "ImageSequenceProtocol__EXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aiperceptionstimulisourcecomponent_aiperceptionstimulisourcecomponent",
+      "label": "AIPerceptionStimuliSourceComponent",
+      "file_type": "document",
+      "source_file": "AIPerceptionStimuliSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composuretonemapperpasspolicy_composuretonemapperpasspolicy",
+      "label": "ComposureTonemapperPassPolicy",
+      "file_type": "document",
+      "source_file": "ComposureTonemapperPassPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendexclusion_dmmaterialstageblendexclusion",
+      "label": "DMMaterialStageBlendExclusion",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendExclusion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabactor_earthprefabactor",
+      "label": "EarthPrefabActor",
+      "file_type": "document",
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstagegradientradial_dmmaterialstagegradientradial",
+      "label": "DMMaterialStageGradientRadial",
+      "file_type": "document",
+      "source_file": "DMMaterialStageGradientRadial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterviewportrendersettings_displayclusterviewportrendersettings",
+      "label": "DisplayClusterConfigurationViewport_RenderSettings",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationViewport_RenderSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringmiddle_rigvmfunction_stringmiddle",
+      "label": "RigVMFunction_StringMiddle",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringMiddle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawn_pawn",
+      "label": "Pawn",
+      "file_type": "document",
+      "source_file": "Pawn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fkcontrolrig_fkcontrolrig",
+      "label": "FKControlRig",
+      "file_type": "document",
+      "source_file": "FKControlRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatebrushmirrortype_slatebrushmirrortype",
+      "label": "SlateBrushMirrorType",
+      "file_type": "document",
+      "source_file": "SlateBrushMirrorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerapi_wdpmodelerapi",
+      "label": "WdpModelerAPI",
+      "file_type": "document",
+      "source_file": "WdpModelerAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "autorotationsettings_autorotationsettings",
+      "label": "AutoRotationSettings",
+      "file_type": "document",
+      "source_file": "AutoRotationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveeditorbakefilterrange_curveeditorbakefilterrange",
+      "label": "CurveEditorBakeFilterRange",
+      "file_type": "document",
+      "source_file": "CurveEditorBakeFilterRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputaxisconfigentry_inputaxisconfigentry",
+      "label": "InputAxisConfigEntry",
+      "file_type": "document",
+      "source_file": "InputAxisConfigEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "boundscopycomponent_boundscopycomponent",
+      "label": "BoundsCopyComponent",
+      "file_type": "document",
+      "source_file": "BoundsCopyComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationinvokercomponent_navigationinvokercomponent",
+      "label": "NavigationInvokerComponent",
+      "file_type": "document",
+      "source_file": "NavigationInvokerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrackevaloptions_moviescenetrackevaloptions",
+      "label": "MovieSceneTrackEvalOptions",
+      "file_type": "document",
+      "source_file": "MovieSceneTrackEvalOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreenposresult_wdpscreenposresult",
+      "label": "WdpScreenPosResult",
+      "file_type": "document",
+      "source_file": "WdpScreenPosResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaanimationplaymode_avaanimationplaymode",
+      "label": "AvaAnimationPlayMode",
+      "file_type": "document",
+      "source_file": "AvaAnimationPlayMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiooscilloscope_getoscilloscopeaudiosamples",
+      "label": "AudioOscilloscope_GetOscilloscopeAudioSamples",
+      "file_type": "document",
+      "source_file": "AudioOscilloscope_GetOscilloscopeAudioSamples Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custommaterialoutputtype_custommaterialoutputtype",
+      "label": "CustomMaterialOutputType",
+      "file_type": "document",
+      "source_file": "CustomMaterialOutputType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "imagesequenceprotocol_baseclass",
+      "label": "ImageSequenceProtocol",
+      "file_type": "document",
+      "source_file": "ImageSequenceProtocol__EXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aiperceptionstimulisourcecomponent_baseclass",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "AIPerceptionStimuliSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabactor_baseclass",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendexclusion_baseclass",
+      "label": "DMMaterialStageBlendFunction",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendExclusion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstagegradientradial_baseclass",
+      "label": "DMMaterialStageGradient",
+      "file_type": "document",
+      "source_file": "DMMaterialStageGradientRadial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composuretonemapperpasspolicy_baseclass",
+      "label": "ComposurePostProcessPassPolicy",
+      "file_type": "document",
+      "source_file": "ComposureTonemapperPassPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringmiddle_baseclass",
+      "label": "RigVMFunction_StringBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringMiddle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawn_baseclass",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "Pawn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fkcontrolrig_baseclass",
+      "label": "ControlRig",
+      "file_type": "document",
+      "source_file": "FKControlRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerapi_baseclass",
+      "label": "StandardApiClassBase",
+      "file_type": "document",
+      "source_file": "WdpModelerAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreenposresult_baseclass",
+      "label": "ResultBase",
+      "file_type": "document",
+      "source_file": "WdpScreenPosResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabactor_earthinputproviderbase",
+      "label": "EarthInputProviderBase",
+      "file_type": "document",
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabactor_earthinputcollection",
+      "label": "EarthInputCollection",
+      "file_type": "document",
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabactor_earthoutputcollection",
+      "label": "EarthOutputCollection",
+      "file_type": "document",
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabactor_earthprefabasset",
+      "label": "EarthPrefabAsset",
+      "file_type": "document",
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigation_generation_system",
+      "label": "Navigation Generation System",
+      "file_type": "document",
+      "source_file": "NavigationInvokerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perception_system",
+      "label": "AI Perception System",
+      "file_type": "document",
+      "source_file": "AIPerceptionStimuliSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "imagesequenceprotocol_exr_imagesequenceprotocol_exr",
+      "target": "imagesequenceprotocol_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImageSequenceProtocol__EXR Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aiperceptionstimulisourcecomponent_aiperceptionstimulisourcecomponent",
+      "target": "aiperceptionstimulisourcecomponent_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIPerceptionStimuliSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aiperceptionstimulisourcecomponent_aiperceptionstimulisourcecomponent",
+      "target": "perception_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AIPerceptionStimuliSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composuretonemapperpasspolicy_composuretonemapperpasspolicy",
+      "target": "composuretonemapperpasspolicy_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposureTonemapperPassPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendexclusion_dmmaterialstageblendexclusion",
+      "target": "dmmaterialstageblendexclusion_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageBlendExclusion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabactor_earthprefabactor",
+      "target": "earthprefabactor_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabactor_earthprefabactor",
+      "target": "earthprefabactor_earthinputproviderbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabactor_earthprefabactor",
+      "target": "earthprefabactor_earthinputcollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabactor_earthprefabactor",
+      "target": "earthprefabactor_earthoutputcollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabactor_earthprefabactor",
+      "target": "earthprefabactor_earthprefabasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstagegradientradial_dmmaterialstagegradientradial",
+      "target": "dmmaterialstagegradientradial_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageGradientRadial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringmiddle_rigvmfunction_stringmiddle",
+      "target": "rigvmfunction_stringmiddle_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringMiddle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawn_pawn",
+      "target": "pawn_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Pawn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fkcontrolrig_fkcontrolrig",
+      "target": "fkcontrolrig_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FKControlRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmodelerapi_wdpmodelerapi",
+      "target": "wdpmodelerapi_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpModelerAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreenposresult_wdpscreenposresult",
+      "target": "wdpscreenposresult_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpScreenPosResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "boundscopycomponent_boundscopycomponent",
+      "target": "aiperceptionstimulisourcecomponent_baseclass",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "BoundsCopyComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navigationinvokercomponent_navigationinvokercomponent",
+      "target": "aiperceptionstimulisourcecomponent_baseclass",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NavigationInvokerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navigationinvokercomponent_navigationinvokercomponent",
+      "target": "navigation_generation_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NavigationInvokerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendexclusion_dmmaterialstageblendexclusion",
+      "target": "dmmaterialstagegradientradial_dmmaterialstagegradientradial",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DMMaterialStageBlendExclusion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendexclusion_dmmaterialstageblendexclusion",
+      "target": "dmmaterialstagegradientradial_baseclass",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DMMaterialStageBlendExclusion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "dynamic_material_editor_components",
+      "label": "Dynamic Material Editor Stage Components",
+      "nodes": [
+        "dmmaterialstageblendexclusion_dmmaterialstageblendexclusion",
+        "dmmaterialstagegradientradial_dmmaterialstagegradientradial"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DMMaterialStageBlendExclusion Objects.md"
+    },
+    {
+      "id": "actor_components_navigation_perception",
+      "label": "Actor Components for Navigation and AI Perception",
+      "nodes": [
+        "aiperceptionstimulisourcecomponent_aiperceptionstimulisourcecomponent",
+        "navigationinvokercomponent_navigationinvokercomponent",
+        "boundscopycomponent_boundscopycomponent"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AIPerceptionStimuliSourceComponent Objects.md"
+    },
+    {
+      "id": "wdp_custom_api_systems",
+      "label": "WDP Custom API and Result Systems",
+      "nodes": [
+        "wdpmodelerapi_wdpmodelerapi",
+        "wdpscreenposresult_wdpscreenposresult",
+        "autorotationsettings_autorotationsettings",
+        "earthprefabactor_earthprefabactor"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpModelerAPI Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

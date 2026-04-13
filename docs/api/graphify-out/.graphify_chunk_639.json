@@ -1,0 +1,2069 @@
+{
+  "nodes": [
+    {
+      "id": "GameplayEffectMagnitudeCalculation",
+      "type": "enum",
+      "label": "GameplayEffectMagnitudeCalculation",
+      "description": "Enumeration outlining the possible gameplay effect magnitude calculation policies",
+      "source": {
+        "plugin": "GameplayAbilities",
+        "module": "GameplayAbilities",
+        "file": "GameplayEffect.h"
+      }
+    },
+    {
+      "id": "GameplayEffectMagnitudeCalculation.SCALABLE_FLOAT",
+      "type": "enum_value",
+      "label": "SCALABLE_FLOAT",
+      "value": 0,
+      "description": "Use a simple, scalable float for the calculation"
+    },
+    {
+      "id": "GameplayEffectMagnitudeCalculation.ATTRIBUTE_BASED",
+      "type": "enum_value",
+      "label": "ATTRIBUTE_BASED",
+      "value": 1,
+      "description": "Perform a calculation based upon an attribute"
+    },
+    {
+      "id": "GameplayEffectMagnitudeCalculation.CUSTOM_CALCULATION_CLASS",
+      "type": "enum_value",
+      "label": "CUSTOM_CALCULATION_CLASS",
+      "value": 2,
+      "description": "Perform a custom calculation, capable of capturing and acting on multiple attributes"
+    },
+    {
+      "id": "GameplayEffectMagnitudeCalculation.SET_BY_CALLER",
+      "type": "enum_value",
+      "label": "SET_BY_CALLER",
+      "value": 3,
+      "description": "This magnitude will be set explicitly by the code/blueprint that creates the spec"
+    },
+    {
+      "id": "DMMaterialValueTextureCube",
+      "type": "class",
+      "label": "DMMaterialValueTextureCube",
+      "description": "Deprecated class, renamed to DMMaterialValueTexture",
+      "deprecated": true,
+      "replacement": "DMMaterialValueTexture"
+    },
+    {
+      "id": "TweenUpdateVectorOutputPin",
+      "type": "class",
+      "label": "TweenUpdateVectorOutputPin",
+      "description": "Tween Update Vector Output Pin Delegate Signature",
+      "source": {
+        "plugin": "FCTween",
+        "module": "FCTween",
+        "file": "FCTweenBPActionVector.h"
+      }
+    },
+    {
+      "id": "TweenUpdateVectorOutputPin.__init__",
+      "type": "method",
+      "label": "__init__",
+      "signature": "def __init__(*args: Any, **kwargs: Any) -> None"
+    },
+    {
+      "id": "RigUnit_MathIntToDouble",
+      "type": "class",
+      "label": "RigUnit_MathIntToDouble",
+      "description": "Deprecated class, renamed to RigVMFunction_MathIntToDouble",
+      "deprecated": true,
+      "replacement": "RigVMFunction_MathIntToDouble"
+    },
+    {
+      "id": "RigUnit_MathIntToDouble.__init__",
+      "type": "method",
+      "label": "__init__",
+      "signature": "def __init__(value: int = 0, result: float = 0.000000) -> None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary",
+      "type": "class",
+      "label": "NiagaraFunctionLibrary",
+      "description": "A C++ and Blueprint accessible library of utility functions for accessing Niagara simulations",
+      "source": {
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraFunctionLibrary.h"
+      }
+    },
+    {
+      "id": "NiagaraFunctionLibrary.spawn_system_attached_with_params",
+      "type": "method",
+      "label": "spawn_system_attached_with_params",
+      "classmethod": true,
+      "return_type": "NiagaraComponent"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.spawn_system_attached",
+      "type": "method",
+      "label": "spawn_system_attached",
+      "classmethod": true,
+      "return_type": "NiagaraComponent"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.spawn_system_at_location_with_params",
+      "type": "method",
+      "label": "spawn_system_at_location_with_params",
+      "classmethod": true,
+      "return_type": "NiagaraComponent"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.spawn_system_at_location",
+      "type": "method",
+      "label": "spawn_system_at_location",
+      "classmethod": true,
+      "return_type": "NiagaraComponent"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_volume_texture_object",
+      "type": "method",
+      "label": "set_volume_texture_object",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_texture_object",
+      "type": "method",
+      "label": "set_texture_object",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_texture2d_array_object",
+      "type": "method",
+      "label": "set_texture2d_array_object",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_skeletal_mesh_data_interface_sampling_regions",
+      "type": "method",
+      "label": "set_skeletal_mesh_data_interface_sampling_regions",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_skeletal_mesh_data_interface_filtered_sockets",
+      "type": "method",
+      "label": "set_skeletal_mesh_data_interface_filtered_sockets",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_skeletal_mesh_data_interface_filtered_bones",
+      "type": "method",
+      "label": "set_skeletal_mesh_data_interface_filtered_bones",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_scene_capture2d_data_interface_managed_mode",
+      "type": "method",
+      "label": "set_scene_capture2d_data_interface_managed_mode",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_component_niagara_gpu_ray_traced_collision_group",
+      "type": "method",
+      "label": "set_component_niagara_gpu_ray_traced_collision_group",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.set_actor_niagara_gpu_ray_traced_collision_group",
+      "type": "method",
+      "label": "set_actor_niagara_gpu_ray_traced_collision_group",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.release_niagara_gpu_ray_traced_collision_group",
+      "type": "method",
+      "label": "release_niagara_gpu_ray_traced_collision_group",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.override_system_user_variable_static_mesh_component",
+      "type": "method",
+      "label": "override_system_user_variable_static_mesh_component",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.override_system_user_variable_static_mesh",
+      "type": "method",
+      "label": "override_system_user_variable_static_mesh",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.override_system_user_variable_skeletal_mesh_component",
+      "type": "method",
+      "label": "override_system_user_variable_skeletal_mesh_component",
+      "classmethod": true,
+      "return_type": "None"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.get_niagara_parameter_collection",
+      "type": "method",
+      "label": "get_niagara_parameter_collection",
+      "classmethod": true,
+      "return_type": "NiagaraParameterCollectionInstance"
+    },
+    {
+      "id": "NiagaraFunctionLibrary.acquire_niagara_gpu_ray_traced_collision_group",
+      "type": "method",
+      "label": "acquire_niagara_gpu_ray_traced_collision_group",
+      "classmethod": true,
+      "return_type": "int"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting",
+      "type": "class",
+      "label": "AnimNode_HandIKRetargeting",
+      "description": "Node to handle re-targeting of Hand IK bone chain",
+      "source": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_HandIKRetargeting.h"
+      }
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.__init__",
+      "type": "method",
+      "label": "__init__",
+      "signature": "def __init__(component_pose: ComponentSpacePoseLink = [], lod_threshold: int = 0, alpha_input_type: AnimAlphaInputType = AnimAlphaInputType.FLOAT, alpha_bool_enabled: bool = False, alpha: float = 0.000000, alpha_scale_bias: InputScaleBias = [1.000000, 0.000000], alpha_bool_blend: InputAlphaBoolBlend = [0.000000, 0.000000, AlphaBlendOption.LINEAR, None], alpha_curve_name: Name = \"None\", alpha_scale_bias_clamp: InputScaleBiasClamp = [False, False, False, [0.000000, 1.000000], [0.000000, 1.000000], 1.000000, 0.000000, 0.000000, 1.000000, 10.000000, 10.000000], per_axis_alpha: Vector = [0.000000, 0.000000, 0.000000], hand_fk_weight: float = 0.000000) -> None"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.per_axis_alpha",
+      "type": "property",
+      "label": "per_axis_alpha",
+      "property_type": "Vector",
+      "access": "read-write",
+      "description": "Alpha values per axis to apply on the resulting retargeting translation"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.hand_fk_weight",
+      "type": "property",
+      "label": "hand_fk_weight",
+      "property_type": "float",
+      "access": "read-write",
+      "description": "Which hand to favor. 0.5 is equal weight for both, 1 = right hand, 0 = left hand"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.alpha",
+      "type": "property",
+      "label": "alpha",
+      "property_type": "float",
+      "access": "read-write",
+      "description": "Current strength of the skeletal control"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.alpha_input_type",
+      "type": "property",
+      "label": "alpha_input_type",
+      "property_type": "AnimAlphaInputType",
+      "access": "read-write"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.ik_bones_to_move",
+      "type": "property",
+      "label": "ik_bones_to_move",
+      "property_type": "Array[BoneReference]",
+      "access": "read-write",
+      "description": "IK Bones to move"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.left_hand_fk",
+      "type": "property",
+      "label": "left_hand_fk",
+      "property_type": "BoneReference",
+      "access": "read-write",
+      "description": "Bone for Left Hand FK"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.left_hand_ik",
+      "type": "property",
+      "label": "left_hand_ik",
+      "property_type": "BoneReference",
+      "access": "read-write",
+      "description": "Bone for Left Hand IK"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.right_hand_fk",
+      "type": "property",
+      "label": "right_hand_fk",
+      "property_type": "BoneReference",
+      "access": "read-write",
+      "description": "Bone for Right Hand FK"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.right_hand_ik",
+      "type": "property",
+      "label": "right_hand_ik",
+      "property_type": "BoneReference",
+      "access": "read-write",
+      "description": "Bone for Right Hand IK"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting.lod_threshold",
+      "type": "property",
+      "label": "lod_threshold",
+      "property_type": "int",
+      "access": "read-write",
+      "description": "Max LOD that this node is allowed to run"
+    },
+    {
+      "id": "MaterialExpressionParticlePositionWS",
+      "type": "class",
+      "label": "MaterialExpressionParticlePositionWS",
+      "description": "Material Expression Particle Position WS",
+      "source": {
+        "module": "Engine",
+        "file": "MaterialExpressionParticlePositionWS.h"
+      }
+    },
+    {
+      "id": "MaterialExpressionParticlePositionWS.desc",
+      "type": "property",
+      "label": "desc",
+      "property_type": "str",
+      "access": "read-write",
+      "description": "A description that level designers can add (shows in the material editor UI)"
+    },
+    {
+      "id": "MaterialExpressionParticlePositionWS.origin_type",
+      "type": "property",
+      "label": "origin_type",
+      "property_type": "PositionOrigin",
+      "access": "read-write"
+    },
+    {
+      "id": "SynthSamplePlayer",
+      "type": "class",
+      "label": "SynthSamplePlayer",
+      "description": "Synth Sample Player",
+      "source": {
+        "plugin": "Synthesis",
+        "module": "Synthesis",
+        "file": "SynthComponentWaveTable.h"
+      }
+    },
+    {
+      "id": "SynthSamplePlayer.sound_wave",
+      "type": "property",
+      "label": "sound_wave",
+      "property_type": "SoundWave",
+      "access": "read-write"
+    },
+    {
+      "id": "SynthSamplePlayer.on_sample_loaded",
+      "type": "property",
+      "label": "on_sample_loaded",
+      "property_type": "OnSampleLoaded",
+      "access": "read-write"
+    },
+    {
+      "id": "SynthSamplePlayer.on_sample_playback_progress",
+      "type": "property",
+      "label": "on_sample_playback_progress",
+      "property_type": "OnSamplePlaybackProgress",
+      "access": "read-write"
+    },
+    {
+      "id": "SynthSamplePlayer.set_sound_wave",
+      "type": "method",
+      "label": "set_sound_wave",
+      "description": "This will override the current sound wave if one is set, stop audio, and reload the new sound wave"
+    },
+    {
+      "id": "SynthSamplePlayer.set_scrub_time_width",
+      "type": "method",
+      "label": "set_scrub_time_width"
+    },
+    {
+      "id": "SynthSamplePlayer.set_scrub_mode",
+      "type": "method",
+      "label": "set_scrub_mode"
+    },
+    {
+      "id": "SynthSamplePlayer.set_pitch",
+      "type": "method",
+      "label": "set_pitch"
+    },
+    {
+      "id": "SynthSamplePlayer.seek_to_time",
+      "type": "method",
+      "label": "seek_to_time"
+    },
+    {
+      "id": "SynthSamplePlayer.is_loaded",
+      "type": "method",
+      "label": "is_loaded",
+      "return_type": "bool"
+    },
+    {
+      "id": "SynthSamplePlayer.get_sample_duration",
+      "type": "method",
+      "label": "get_sample_duration",
+      "return_type": "float"
+    },
+    {
+      "id": "SynthSamplePlayer.get_current_playback_progress_time",
+      "type": "method",
+      "label": "get_current_playback_progress_time",
+      "return_type": "float"
+    },
+    {
+      "id": "SynthSamplePlayer.get_current_playback_progress_percent",
+      "type": "method",
+      "label": "get_current_playback_progress_percent",
+      "return_type": "float"
+    },
+    {
+      "id": "PCGComponent",
+      "type": "class",
+      "label": "PCGComponent",
+      "description": "PCGComponent",
+      "source": {
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGComponent.h"
+      }
+    },
+    {
+      "id": "PCGComponent.seed",
+      "type": "property",
+      "label": "seed",
+      "property_type": "int",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGComponent.activated",
+      "type": "property",
+      "label": "activated",
+      "property_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGComponent.is_component_partitioned",
+      "type": "property",
+      "label": "is_component_partitioned",
+      "property_type": "bool",
+      "access": "read-write",
+      "description": "Will partition the component in a grid, dispatching the generation to multiple local components"
+    },
+    {
+      "id": "PCGComponent.generation_trigger",
+      "type": "property",
+      "label": "generation_trigger",
+      "property_type": "PCGComponentGenerationTrigger",
+      "access": "read-only"
+    },
+    {
+      "id": "PCGComponent.generation_radii",
+      "type": "property",
+      "label": "generation_radii",
+      "property_type": "PCGRuntimeGenerationRadii",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGComponent.scheduling_policy_class",
+      "type": "property",
+      "label": "scheduling_policy_class",
+      "property_type": "Class",
+      "access": "read-only",
+      "description": "A Scheduling Policy dictates the order in which instances of this component will be scheduled"
+    },
+    {
+      "id": "PCGComponent.scheduling_policy",
+      "type": "property",
+      "label": "scheduling_policy",
+      "property_type": "PCGSchedulingPolicyBase",
+      "access": "read-only",
+      "description": "This is the instanced UPCGSchedulingPolicy object which holds scheduling parameters and calculates priorities"
+    },
+    {
+      "id": "PCGComponent.regenerate_in_editor",
+      "type": "property",
+      "label": "regenerate_in_editor",
+      "property_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGComponent.only_track_itself",
+      "type": "property",
+      "label": "only_track_itself",
+      "property_type": "bool",
+      "access": "read-write",
+      "description": "Even if the graph has external dependencies, the component won't react to them"
+    },
+    {
+      "id": "PCGComponent.ignore_landscape_tracking",
+      "type": "property",
+      "label": "ignore_landscape_tracking",
+      "property_type": "bool",
+      "access": "read-write",
+      "description": "Marks the component to be not refreshed automatically when the landscape changes"
+    },
+    {
+      "id": "PCGComponent.dirty_generated",
+      "type": "property",
+      "label": "dirty_generated",
+      "property_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "PCGComponent.generated",
+      "type": "property",
+      "label": "generated",
+      "property_type": "bool",
+      "access": "read-only",
+      "description": "Flag to indicate whether this component has run in the editor"
+    },
+    {
+      "id": "PCGComponent.post_generate_function_names",
+      "type": "property",
+      "label": "post_generate_function_names",
+      "property_type": "Array[Name]",
+      "access": "read-write",
+      "description": "Can specify a list of functions from the owner of this component to be called when generation is done"
+    },
+    {
+      "id": "PCGComponent.graph_instance",
+      "type": "property",
+      "label": "graph_instance",
+      "property_type": "PCGGraphInstance",
+      "access": "read-only"
+    },
+    {
+      "id": "PCGComponent.input_type",
+      "type": "property",
+      "label": "input_type",
+      "property_type": "PCGComponentInput",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGComponent.parse_actor_components",
+      "type": "property",
+      "label": "parse_actor_components",
+      "property_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGComponent.set_graph",
+      "type": "method",
+      "label": "set_graph"
+    },
+    {
+      "id": "PCGComponent.set_editing_mode",
+      "type": "method",
+      "label": "set_editing_mode"
+    },
+    {
+      "id": "PCGComponent.notify_properties_changed_from_blueprint",
+      "type": "method",
+      "label": "notify_properties_changed_from_blueprint",
+      "description": "Notify properties changed, used in runtime cases, will dirty & trigger a regeneration if needed"
+    },
+    {
+      "id": "PCGComponent.get_serialized_editing_mode",
+      "type": "method",
+      "label": "get_serialized_editing_mode",
+      "return_type": "PCGEditorDirtyMode"
+    },
+    {
+      "id": "PCGComponent.get_generated_graph_output",
+      "type": "method",
+      "label": "get_generated_graph_output",
+      "return_type": "PCGDataCollection",
+      "description": "Retrieves generated data"
+    },
+    {
+      "id": "PCGComponent.get_editing_mode",
+      "type": "method",
+      "label": "get_editing_mode",
+      "return_type": "PCGEditorDirtyMode",
+      "description": "Returns the current editing mode"
+    },
+    {
+      "id": "PCGComponent.generate_local",
+      "type": "method",
+      "label": "generate_local",
+      "description": "Starts generation from a local (vs. remote) standpoint. Will not be replicated. Will be delayed"
+    },
+    {
+      "id": "PCGComponent.generate",
+      "type": "method",
+      "label": "generate",
+      "description": "Networked generation call that also activates the component as needed"
+    },
+    {
+      "id": "PCGComponent.clear_pcg_link",
+      "type": "method",
+      "label": "clear_pcg_link",
+      "return_type": "Actor",
+      "description": "Move all generated resources under a new actor, following a template, clearing all link to this PCG component"
+    },
+    {
+      "id": "PCGComponent.cleanup_local",
+      "type": "method",
+      "label": "cleanup_local",
+      "description": "Cleans up the generation from a local (vs. remote) standpoint. Will not be replicated. Will be delayed"
+    },
+    {
+      "id": "PCGComponent.cleanup",
+      "type": "method",
+      "label": "cleanup",
+      "description": "Networked cleanup call"
+    },
+    {
+      "id": "PCGComponent.add_to_managed_resources",
+      "type": "method",
+      "label": "add_to_managed_resources",
+      "description": "Registers some managed resource to the current component"
+    },
+    {
+      "id": "PCGComponent.add_components_to_managed_resources",
+      "type": "method",
+      "label": "add_components_to_managed_resources",
+      "description": "Creates a managed component resource and adds it to the current component"
+    },
+    {
+      "id": "PCGComponent.add_actors_to_managed_resources",
+      "type": "method",
+      "label": "add_actors_to_managed_resources",
+      "description": "Creates a managed actors resource and adds it to the current component"
+    },
+    {
+      "id": "PCGComponent.refresh_pcg_runtime_component",
+      "type": "method",
+      "label": "refresh_pcg_runtime_component",
+      "description": "Refresh a component set to Generate At Runtime, if some parameters changed"
+    },
+    {
+      "id": "MaterialParameterCollectionFactoryNew",
+      "type": "class",
+      "label": "MaterialParameterCollectionFactoryNew",
+      "description": "Material Parameter Collection Factory New",
+      "source": {
+        "module": "UnrealEd",
+        "file": "MaterialParameterCollectionFactoryNew.h"
+      }
+    },
+    {
+      "id": "Synth1PatchCable",
+      "type": "class",
+      "label": "Synth1PatchCable",
+      "description": "Synth 1Patch Cable",
+      "source": {
+        "plugin": "Synthesis",
+        "module": "Synthesis",
+        "file": "EpicSynth1Types.h"
+      }
+    },
+    {
+      "id": "Synth1PatchCable.__init__",
+      "type": "method",
+      "label": "__init__",
+      "signature": "def __init__(depth: float = 0.000000, destination: Synth1PatchDestination = Synth1PatchDestination.OSC1_GAIN) -> None"
+    },
+    {
+      "id": "Synth1PatchCable.depth",
+      "type": "property",
+      "label": "depth",
+      "property_type": "float",
+      "access": "read-write",
+      "description": "The patch depth (how much the modulator modulates the destination)"
+    },
+    {
+      "id": "Synth1PatchCable.destination",
+      "type": "property",
+      "label": "destination",
+      "property_type": "Synth1PatchDestination",
+      "access": "read-write",
+      "description": "The patch destination type"
+    },
+    {
+      "id": "PointsArray",
+      "type": "class",
+      "label": "PointsArray",
+      "description": "Points Array",
+      "source": {
+        "plugin": "AesRuntimeModeler",
+        "module": "AesRuntimeModeler",
+        "file": "AesRuntimeModelerMeshStruct.h"
+      }
+    },
+    {
+      "id": "PointsArray.__init__",
+      "type": "method",
+      "label": "__init__",
+      "signature": "def __init__(points: Array[Vector] = []) -> None"
+    },
+    {
+      "id": "PointsArray.points",
+      "type": "property",
+      "label": "points",
+      "property_type": "Array[Vector]",
+      "access": "read-write"
+    },
+    {
+      "id": "JsonType",
+      "type": "enum",
+      "label": "JsonType",
+      "description": "EJson Type",
+      "source": {
+        "plugin": "BlueprintJson",
+        "module": "BlueprintJson",
+        "file": "BlueprintJsonLibrary.h"
+      }
+    },
+    {
+      "id": "JsonType.NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "value": 0
+    },
+    {
+      "id": "JsonType.NULL",
+      "type": "enum_value",
+      "label": "NULL",
+      "value": 1
+    },
+    {
+      "id": "JsonType.STRING",
+      "type": "enum_value",
+      "label": "STRING",
+      "value": 2
+    },
+    {
+      "id": "JsonType.NUMBER",
+      "type": "enum_value",
+      "label": "NUMBER",
+      "value": 3
+    },
+    {
+      "id": "JsonType.BOOLEAN",
+      "type": "enum_value",
+      "label": "BOOLEAN",
+      "value": 4
+    },
+    {
+      "id": "JsonType.ARRAY",
+      "type": "enum_value",
+      "label": "ARRAY",
+      "value": 5
+    },
+    {
+      "id": "JsonType.OBJECT",
+      "type": "enum_value",
+      "label": "OBJECT",
+      "value": 6
+    },
+    {
+      "id": "MaterialExpressionPremult",
+      "type": "class",
+      "label": "MaterialExpressionPremult",
+      "description": "Deprecated class, renamed to MaterialExpressionMaterialXPremult",
+      "deprecated": true,
+      "replacement": "MaterialExpressionMaterialXPremult"
+    },
+    {
+      "id": "RuntimeOptionsBase",
+      "type": "class",
+      "label": "RuntimeOptionsBase",
+      "description": "Base class designed to be subclassed in your game. Supports checking at runtime whether features are enabled/disabled",
+      "source": {
+        "module": "Engine",
+        "file": "RuntimeOptionsBase.h"
+      }
+    },
+    {
+      "id": "HeatMapInfoParam",
+      "type": "class",
+      "label": "HeatMapInfoParam",
+      "description": "Heat Map Info Param",
+      "source": {
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIDefine",
+        "file": "HeatMapAPIParams.h"
+      }
+    },
+    {
+      "id": "HeatMapInfoParam.__init__",
+      "type": "method",
+      "label": "__init__",
+      "signature": "def __init__(eid: str = \"\", location: Vector = [0.000000, 0.000000, 0.000000]) -> None"
+    },
+    {
+      "id": "HeatMapInfoParam.eid",
+      "type": "property",
+      "label": "eid",
+      "property_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "HeatMapInfoParam.guid",
+      "type": "property",
+      "label": "guid",
+      "property_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "HeatMapInfoParam.hit_keys",
+      "type": "property",
+      "label": "hit_keys",
+      "property_type": "Set[Name]",
+      "access": "read-write"
+    },
+    {
+      "id": "HeatMapInfoParam.location",
+      "type": "property",
+      "label": "location",
+      "property_type": "Vector",
+      "access": "read-write"
+    },
+    {
+      "id": "UAnimNotifyMirrorInspectionLibrary",
+      "type": "class",
+      "label": "UAnimNotifyMirrorInspectionLibrary",
+      "description": "A library of commonly used functionality for Notifies related to mirroring, exposed to blueprint",
+      "source": {
+        "module": "Engine",
+        "file": "AnimNotifyMirrorInspectionLibrary.h"
+      }
+    },
+    {
+      "id": "UAnimNotifyMirrorInspectionLibrary.is_triggered_by_mirrored_animation",
+      "type": "method",
+      "label": "is_triggered_by_mirrored_animation",
+      "classmethod": true,
+      "return_type": "bool",
+      "description": "Get whether the animation which triggered this notify was mirrored"
+    },
+    {
+      "id": "UAnimNotifyMirrorInspectionLibrary.get_mirror_data_table",
+      "type": "method",
+      "label": "get_mirror_data_table",
+      "classmethod": true,
+      "return_type": "MirrorDataTable",
+      "description": "If the notify is mirrored, return the mirror data table that was active"
+    },
+    {
+      "id": "LowEntryLatentActionNone",
+      "type": "class",
+      "label": "LowEntryLatentActionNone",
+      "description": "Low Entry Latent Action None",
+      "source": {
+        "plugin": "LowEntryExtStdLib",
+        "module": "LowEntryExtendedStandardLibrary",
+        "file": "LowEntryLatentActionNone.h"
+      }
+    },
+    {
+      "id": "LowEntryLatentActionNone.wait_till_done",
+      "type": "method",
+      "label": "wait_till_done",
+      "description": "Waits till the latent action is done"
+    },
+    {
+      "id": "LowEntryLatentActionNone.is_done",
+      "type": "method",
+      "label": "is_done",
+      "return_type": "bool",
+      "description": "Returns true if the latent action is done"
+    },
+    {
+      "id": "LowEntryLatentActionNone.done",
+      "type": "method",
+      "label": "done",
+      "description": "Causes the latent action to be done"
+    },
+    {
+      "id": "MaterialExpressionRotator",
+      "type": "class",
+      "label": "MaterialExpressionRotator",
+      "description": "Material Expression Rotator",
+      "source": {
+        "module": "Engine",
+        "file": "MaterialExpressionRotator.h"
+      }
+    },
+    {
+      "id": "MaterialExpressionRotator.center_x",
+      "type": "property",
+      "label": "center_x",
+      "property_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "MaterialExpressionRotator.center_y",
+      "type": "property",
+      "label": "center_y",
+      "property_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "MaterialExpressionRotator.const_coordinate",
+      "type": "property",
+      "label": "const_coordinate",
+      "property_type": "int",
+      "access": "read-write",
+      "description": "only used if Coordinate is not hooked up"
+    },
+    {
+      "id": "MaterialExpressionRotator.desc",
+      "type": "property",
+      "label": "desc",
+      "property_type": "str",
+      "access": "read-write",
+      "description": "A description that level designers can add (shows in the material editor UI)"
+    },
+    {
+      "id": "MaterialExpressionRotator.speed",
+      "type": "property",
+      "label": "speed",
+      "property_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "TextureCube",
+      "type": "class",
+      "label": "TextureCube",
+      "description": "Texture Cube",
+      "source": {
+        "module": "Engine",
+        "file": "TextureCube.h"
+      }
+    },
+    {
+      "id": "GeometryScriptSmoothBoneWeightsOptions",
+      "type": "class",
+      "label": "GeometryScriptSmoothBoneWeightsOptions",
+      "description": "Geometry Script Smooth Bone Weights Options",
+      "source": {
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingCore",
+        "file": "MeshBoneWeightFunctions.h"
+      }
+    },
+    {
+      "id": "GeometryScriptSmoothBoneWeightsOptions.__init__",
+      "type": "method",
+      "label": "__init__",
+      "signature": "def __init__(distance_weighing_type: GeometryScriptSmoothBoneWeightsType = GeometryScriptSmoothBoneWeightsType.DIRECT_DISTANCE, stiffness: float = 0.000000, max_influences: int = 0, voxel_resolution: int = 0) -> None"
+    },
+    {
+      "id": "GeometryScriptSmoothBoneWeightsOptions.distance_weighing_type",
+      "type": "property",
+      "label": "distance_weighing_type",
+      "property_type": "GeometryScriptSmoothBoneWeightsType",
+      "access": "read-write",
+      "description": "The type of algorithm to use for computing the bone weight for each vertex"
+    },
+    {
+      "id": "GeometryScriptSmoothBoneWeightsOptions.stiffness",
+      "type": "property",
+      "label": "stiffness",
+      "property_type": "float",
+      "access": "read-write",
+      "description": "How rigid the binding should be. Higher values result in a more rigid binding"
+    },
+    {
+      "id": "GeometryScriptSmoothBoneWeightsOptions.max_influences",
+      "type": "property",
+      "label": "max_influences",
+      "property_type": "int",
+      "access": "read-write",
+      "description": "Maximum number of bones that contribute to each weight"
+    },
+    {
+      "id": "GeometryScriptSmoothBoneWeightsOptions.voxel_resolution",
+      "type": "property",
+      "label": "voxel_resolution",
+      "property_type": "int",
+      "access": "read-write",
+      "description": "The resolution to build the voxelized representation of the mesh"
+    },
+    {
+      "id": "AnimAlphaInputType",
+      "type": "enum",
+      "label": "AnimAlphaInputType",
+      "description": "AnimNodes using an Alpha can choose how it is driven",
+      "source": {
+        "module": "Engine",
+        "file": "InputScaleBias.h"
+      }
+    },
+    {
+      "id": "AnimAlphaInputType.FLOAT",
+      "type": "enum_value",
+      "label": "FLOAT",
+      "value": 0
+    },
+    {
+      "id": "AnimAlphaInputType.BOOL",
+      "type": "enum_value",
+      "label": "BOOL",
+      "value": 1
+    },
+    {
+      "id": "AnimAlphaInputType.CURVE",
+      "type": "enum_value",
+      "label": "CURVE",
+      "value": 2
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "AnimNode_SkeletalControlBase",
+      "type": "class",
+      "label": "AnimNode_SkeletalControlBase"
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression"
+    },
+    {
+      "id": "SynthComponent",
+      "type": "class",
+      "label": "SynthComponent"
+    },
+    {
+      "id": "ActorComponent",
+      "type": "class",
+      "label": "ActorComponent"
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "label": "Factory"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "Texture",
+      "type": "class",
+      "label": "Texture"
+    },
+    {
+      "id": "DMMaterialValueTexture",
+      "type": "class",
+      "label": "DMMaterialValueTexture"
+    },
+    {
+      "id": "RigVMFunction_MathIntToDouble",
+      "type": "class",
+      "label": "RigVMFunction_MathIntToDouble"
+    },
+    {
+      "id": "MaterialExpressionMaterialXPremult",
+      "type": "class",
+      "label": "MaterialExpressionMaterialXPremult"
+    }
+  ],
+  "edges": [
+    {
+      "source": "GameplayEffectMagnitudeCalculation",
+      "target": "EnumBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "GameplayEffectMagnitudeCalculation",
+      "target": "GameplayEffectMagnitudeCalculation.SCALABLE_FLOAT",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "GameplayEffectMagnitudeCalculation",
+      "target": "GameplayEffectMagnitudeCalculation.ATTRIBUTE_BASED",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "GameplayEffectMagnitudeCalculation",
+      "target": "GameplayEffectMagnitudeCalculation.CUSTOM_CALCULATION_CLASS",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "GameplayEffectMagnitudeCalculation",
+      "target": "GameplayEffectMagnitudeCalculation.SET_BY_CALLER",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "DMMaterialValueTextureCube",
+      "target": "DMMaterialValueTexture",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "TweenUpdateVectorOutputPin",
+      "target": "MulticastDelegateBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "TweenUpdateVectorOutputPin",
+      "target": "TweenUpdateVectorOutputPin.__init__",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "RigUnit_MathIntToDouble",
+      "target": "RigVMFunction_MathIntToDouble",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_MathIntToDouble",
+      "target": "RigUnit_MathIntToDouble.__init__",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.spawn_system_attached_with_params",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.spawn_system_attached",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.spawn_system_at_location_with_params",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.spawn_system_at_location",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_volume_texture_object",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_texture_object",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_texture2d_array_object",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_skeletal_mesh_data_interface_sampling_regions",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_skeletal_mesh_data_interface_filtered_sockets",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_skeletal_mesh_data_interface_filtered_bones",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_scene_capture2d_data_interface_managed_mode",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_component_niagara_gpu_ray_traced_collision_group",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.set_actor_niagara_gpu_ray_traced_collision_group",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.release_niagara_gpu_ray_traced_collision_group",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.override_system_user_variable_static_mesh_component",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.override_system_user_variable_static_mesh",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.override_system_user_variable_skeletal_mesh_component",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.get_niagara_parameter_collection",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "NiagaraFunctionLibrary",
+      "target": "NiagaraFunctionLibrary.acquire_niagara_gpu_ray_traced_collision_group",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_SkeletalControlBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.__init__",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.per_axis_alpha",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.hand_fk_weight",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.alpha",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.alpha_input_type",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.ik_bones_to_move",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.left_hand_fk",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.left_hand_ik",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.right_hand_fk",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.right_hand_ik",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting",
+      "target": "AnimNode_HandIKRetargeting.lod_threshold",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimNode_HandIKRetargeting.alpha_input_type",
+      "target": "AnimAlphaInputType",
+      "type": "type_reference",
+      "label": "type"
+    },
+    {
+      "source": "MaterialExpressionParticlePositionWS",
+      "target": "MaterialExpression",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionParticlePositionWS",
+      "target": "MaterialExpressionParticlePositionWS.desc",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialExpressionParticlePositionWS",
+      "target": "MaterialExpressionParticlePositionWS.origin_type",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthComponent",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.sound_wave",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.on_sample_loaded",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.on_sample_playback_progress",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.set_sound_wave",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.set_scrub_time_width",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.set_scrub_mode",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.set_pitch",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.seek_to_time",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.is_loaded",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.get_sample_duration",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.get_current_playback_progress_time",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "SynthSamplePlayer",
+      "target": "SynthSamplePlayer.get_current_playback_progress_percent",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "ActorComponent",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.seed",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.activated",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.is_component_partitioned",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.generation_trigger",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.generation_radii",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.scheduling_policy_class",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.scheduling_policy",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.regenerate_in_editor",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.only_track_itself",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.ignore_landscape_tracking",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.dirty_generated",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.generated",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.post_generate_function_names",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.graph_instance",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.input_type",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.parse_actor_components",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.set_graph",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.set_editing_mode",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.notify_properties_changed_from_blueprint",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.get_serialized_editing_mode",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.get_generated_graph_output",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.get_editing_mode",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.generate_local",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.generate",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.clear_pcg_link",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.cleanup_local",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.cleanup",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.add_to_managed_resources",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.add_components_to_managed_resources",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.add_actors_to_managed_resources",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGComponent",
+      "target": "PCGComponent.refresh_pcg_runtime_component",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MaterialParameterCollectionFactoryNew",
+      "target": "Factory",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "Synth1PatchCable",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "Synth1PatchCable",
+      "target": "Synth1PatchCable.__init__",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "Synth1PatchCable",
+      "target": "Synth1PatchCable.depth",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "Synth1PatchCable",
+      "target": "Synth1PatchCable.destination",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PointsArray",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "PointsArray",
+      "target": "PointsArray.__init__",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PointsArray",
+      "target": "PointsArray.points",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "JsonType",
+      "target": "EnumBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "JsonType",
+      "target": "JsonType.NONE",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "JsonType",
+      "target": "JsonType.NULL",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "JsonType",
+      "target": "JsonType.STRING",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "JsonType",
+      "target": "JsonType.NUMBER",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "JsonType",
+      "target": "JsonType.BOOLEAN",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "JsonType",
+      "target": "JsonType.ARRAY",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "JsonType",
+      "target": "JsonType.OBJECT",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "MaterialExpressionPremult",
+      "target": "MaterialExpressionMaterialXPremult",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "RuntimeOptionsBase",
+      "target": "Object",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "HeatMapInfoParam",
+      "target": "ParamsBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "HeatMapInfoParam",
+      "target": "HeatMapInfoParam.__init__",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HeatMapInfoParam",
+      "target": "HeatMapInfoParam.eid",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "HeatMapInfoParam",
+      "target": "HeatMapInfoParam.guid",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "HeatMapInfoParam",
+      "target": "HeatMapInfoParam.hit_keys",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "HeatMapInfoParam",
+      "target": "HeatMapInfoParam.location",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "UAnimNotifyMirrorInspectionLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "UAnimNotifyMirrorInspectionLibrary",
+      "target": "UAnimNotifyMirrorInspectionLibrary.is_triggered_by_mirrored_animation",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "UAnimNotifyMirrorInspectionLibrary",
+      "target": "UAnimNotifyMirrorInspectionLibrary.get_mirror_data_table",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "LowEntryLatentActionNone",
+      "target": "Object",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "LowEntryLatentActionNone",
+      "target": "LowEntryLatentActionNone.wait_till_done",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "LowEntryLatentActionNone",
+      "target": "LowEntryLatentActionNone.is_done",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "LowEntryLatentActionNone",
+      "target": "LowEntryLatentActionNone.done",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MaterialExpressionRotator",
+      "target": "MaterialExpression",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionRotator",
+      "target": "MaterialExpressionRotator.center_x",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialExpressionRotator",
+      "target": "MaterialExpressionRotator.center_y",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialExpressionRotator",
+      "target": "MaterialExpressionRotator.const_coordinate",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialExpressionRotator",
+      "target": "MaterialExpressionRotator.desc",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialExpressionRotator",
+      "target": "MaterialExpressionRotator.speed",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "TextureCube",
+      "target": "Texture",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "GeometryScriptSmoothBoneWeightsOptions",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "GeometryScriptSmoothBoneWeightsOptions",
+      "target": "GeometryScriptSmoothBoneWeightsOptions.__init__",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "GeometryScriptSmoothBoneWeightsOptions",
+      "target": "GeometryScriptSmoothBoneWeightsOptions.distance_weighing_type",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "GeometryScriptSmoothBoneWeightsOptions",
+      "target": "GeometryScriptSmoothBoneWeightsOptions.stiffness",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "GeometryScriptSmoothBoneWeightsOptions",
+      "target": "GeometryScriptSmoothBoneWeightsOptions.max_influences",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "GeometryScriptSmoothBoneWeightsOptions",
+      "target": "GeometryScriptSmoothBoneWeightsOptions.voxel_resolution",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AnimAlphaInputType",
+      "target": "EnumBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimAlphaInputType",
+      "target": "AnimAlphaInputType.FLOAT",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "AnimAlphaInputType",
+      "target": "AnimAlphaInputType.BOOL",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "AnimAlphaInputType",
+      "target": "AnimAlphaInputType.CURVE",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hand_ik_retargeting_workflow",
+      "nodes": [
+        "AnimNode_HandIKRetargeting",
+        "AnimAlphaInputType",
+        "AnimNode_SkeletalControlBase"
+      ],
+      "type": "workflow",
+      "description": "Hand IK retargeting workflow involving animation nodes, alpha input types, and skeletal control"
+    },
+    {
+      "id": "niagara_effects_system",
+      "nodes": [
+        "NiagaraFunctionLibrary",
+        "NiagaraComponent",
+        "NiagaraSystem",
+        "BlueprintFunctionLibrary"
+      ],
+      "type": "system",
+      "description": "Niagara effects system for particle and visual effects"
+    },
+    {
+      "id": "pcg_procedural_generation",
+      "nodes": [
+        "PCGComponent",
+        "PCGGraphInstance",
+        "PCGDataCollection",
+        "ActorComponent"
+      ],
+      "type": "system",
+      "description": "Procedural Content Generation system for dynamic content creation"
+    },
+    {
+      "id": "audio_synthesis_system",
+      "nodes": [
+        "SynthSamplePlayer",
+        "SynthComponent",
+        "SoundWave",
+        "Synth1PatchCable"
+      ],
+      "type": "system",
+      "description": "Audio synthesis system for sound and music generation"
+    },
+    {
+      "id": "material_expression_system",
+      "nodes": [
+        "MaterialExpression",
+        "MaterialExpressionParticlePositionWS",
+        "MaterialExpressionRotator",
+        "TextureCube"
+      ],
+      "type": "system",
+      "description": "Material expression system for shader and material creation"
+    },
+    {
+      "id": "deprecated_classes_group",
+      "nodes": [
+        "DMMaterialValueTextureCube",
+        "RigUnit_MathIntToDouble",
+        "MaterialExpressionPremult"
+      ],
+      "type": "grouping",
+      "description": "Deprecated classes that have been renamed"
+    },
+    {
+      "id": "gameplay_ability_system",
+      "nodes": [
+        "GameplayEffectMagnitudeCalculation",
+        "EnumBase"
+      ],
+      "type": "system",
+      "description": "Gameplay ability system for effect magnitude calculations"
+    },
+    {
+      "id": "geometry_scripting_system",
+      "nodes": [
+        "GeometryScriptSmoothBoneWeightsOptions",
+        "StructBase",
+        "GeometryScriptSmoothBoneWeightsType"
+      ],
+      "type": "system",
+      "description": "Geometry scripting system for mesh manipulation"
+    },
+    {
+      "id": "animation_notification_system",
+      "nodes": [
+        "UAnimNotifyMirrorInspectionLibrary",
+        "AnimNotifyEventReference",
+        "MirrorDataTable",
+        "BlueprintFunctionLibrary"
+      ],
+      "type": "system",
+      "description": "Animation notification system for handling animation events"
+    },
+    {
+      "id": "json_serialization",
+      "nodes": [
+        "JsonType",
+        "EnumBase"
+      ],
+      "type": "utility",
+      "description": "JSON type enumeration for serialization"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "GameplayEffectMagnitudeCalculation Objects.md",
+      "DMMaterialValueTextureCube Objects.md",
+      "TweenUpdateVectorOutputPin Objects.md",
+      "RigUnit_MathIntToDouble Objects.md",
+      "NiagaraFunctionLibrary Objects.md",
+      "AnimNode__HandIKRetargeting Objects.md",
+      "MaterialExpressionParticlePositionWS Objects.md",
+      "SynthSamplePlayer Objects.md",
+      "PCGComponent Objects.md",
+      "MaterialParameterCollectionFactoryNew Objects.md",
+      "Synth1PatchCable Objects.md",
+      "PointsArray Objects.md",
+      "JsonType Objects.md",
+      "MaterialExpressionPremult Objects.md",
+      "RuntimeOptionsBase Objects.md",
+      "HeatMapInfoParam Objects.md",
+      "UAnimNotifyMirrorInspectionLibrary Objects.md",
+      "LowEntryLatentActionNone Objects.md",
+      "MaterialExpressionRotator Objects.md",
+      "TextureCube Objects.md",
+      "GeometryScriptSmoothBoneWeightsOptions Objects.md",
+      "AnimAlphaInputType Objects.md"
+    ],
+    "extraction_timestamp": "2026-04-12",
+    "chunk_id": 639,
+    "total_nodes": 234,
+    "total_edges": 218,
+    "total_hyperedges": 10
+  }
+}

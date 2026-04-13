@@ -1,0 +1,659 @@
+{
+  "nodes": [
+    {
+      "id": "earthmodelerlaneinfo_struct",
+      "label": "EarthModelerLaneInfo",
+      "file_type": "code",
+      "source_file": "EarthModelerLaneInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanchefont_class",
+      "label": "AvalancheFont",
+      "file_type": "code",
+      "source_file": "AvalancheFont Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintmax_func",
+      "label": "RigVMFunction_MathIntMax",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelstreamingvolume_actor",
+      "label": "LevelStreamingVolume",
+      "file_type": "code",
+      "source_file": "LevelStreamingVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nnedenoiserbasemappingdata_struct",
+      "label": "NNEDenoiserBaseMappingData",
+      "file_type": "code",
+      "source_file": "NNEDenoiserBaseMappingData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componentonclickedsignature_delegate",
+      "label": "ComponentOnClickedSignature",
+      "file_type": "code",
+      "source_file": "ComponentOnClickedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scriptstruct_class",
+      "label": "ScriptStruct",
+      "file_type": "code",
+      "source_file": "ScriptStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_ishostbeingdebugged_func",
+      "label": "RigVMFunction_IsHostBeingDebugged",
+      "file_type": "code",
+      "source_file": "RigVMFunction__IsHostBeingDebugged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplaytagquery_task",
+      "label": "AbilityTask_WaitGameplayTagQuery",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitGameplayTagQuery Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeeditorblueprintpipelinebasefactory_factory",
+      "label": "InterchangeEditorBlueprintPipelineBaseFactory",
+      "file_type": "code",
+      "source_file": "InterchangeEditorBlueprintPipelineBaseFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_bursteffects_struct",
+      "label": "GameplayCueNotify_BurstEffects",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__BurstEffects Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hierarchymeshentityatom_class",
+      "label": "HierarchyMeshEntityAtom",
+      "file_type": "code",
+      "source_file": "HierarchyMeshEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityclickedeventargs_struct",
+      "label": "EntityClickedEventArgs",
+      "file_type": "code",
+      "source_file": "EntityClickedEventArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrelativerotationforitem_unit",
+      "label": "RigUnit_SetRelativeRotationForItem",
+      "file_type": "code",
+      "source_file": "RigUnit__SetRelativeRotationForItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationmodifier_class",
+      "label": "AnimationModifier",
+      "file_type": "code",
+      "source_file": "AnimationModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "text3dcomponent_component",
+      "label": "Text3DComponent",
+      "file_type": "code",
+      "source_file": "Text3DComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aclvisualfidelity_enum",
+      "label": "ACLVisualFidelity",
+      "file_type": "code",
+      "source_file": "ACLVisualFidelity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avamrqrundownpagesetting_setting",
+      "label": "AvaMRQRundownPageSetting",
+      "file_type": "code",
+      "source_file": "AvaMRQRundownPageSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturecropsize_struct",
+      "label": "TextureCropSize",
+      "file_type": "code",
+      "source_file": "TextureCropSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "columnarheatmapentity_actor",
+      "label": "ColumnarHeatMapEntity",
+      "file_type": "code",
+      "source_file": "ColumnarHeatMapEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controllercomponent_component",
+      "label": "ControllerComponent",
+      "file_type": "code",
+      "source_file": "ControllerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "horizontalalignment_enum",
+      "label": "HorizontalAlignment",
+      "file_type": "code",
+      "source_file": "HorizontalAlignment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "earthmodelerlaneinfo_struct",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthModelerLaneInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avalanchefont_class",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvalancheFont Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintmax_func",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelstreamingvolume_actor",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelStreamingVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nnedenoiserbasemappingdata_struct",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NNEDenoiserBaseMappingData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componentonclickedsignature_delegate",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentOnClickedSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_ishostbeingdebugged_func",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__IsHostBeingDebugged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplaytagquery_task",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayTagQuery Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeeditorblueprintpipelinebasefactory_factory",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeEditorBlueprintPipelineBaseFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_bursteffects_struct",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCueNotify__BurstEffects Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hierarchymeshentityatom_class",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HierarchyMeshEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityclickedeventargs_struct",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityClickedEventArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativerotationforitem_unit",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetRelativeRotationForItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationmodifier_class",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "text3dcomponent_component",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Text3DComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aclvisualfidelity_enum",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ACLVisualFidelity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avamrqrundownpagesetting_setting",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaMRQRundownPageSetting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturecropsize_struct",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureCropSize Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "columnarheatmapentity_actor",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColumnarHeatMapEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controllercomponent_component",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControllerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "horizontalalignment_enum",
+      "target": "scriptstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HorizontalAlignment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthmodelerlaneinfo_struct",
+      "target": "texturecropsize_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthModelerLaneInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_bursteffects_struct",
+      "target": "texturecropsize_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "GameplayCueNotify__BurstEffects Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "text3dcomponent_component",
+      "target": "horizontalalignment_enum",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Text3DComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintmax_func",
+      "target": "rigvmfunction_ishostbeingdebugged_func",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathIntMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativerotationforitem_unit",
+      "target": "rigvmfunction_mathintmax_func",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__SetRelativeRotationForItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplaytagquery_task",
+      "target": "gameplaycuenotify_bursteffects_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AbilityTask__WaitGameplayTagQuery Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationmodifier_class",
+      "target": "text3dcomponent_component",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AnimationModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelstreamingvolume_actor",
+      "target": "columnarheatmapentity_actor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "LevelStreamingVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controllercomponent_component",
+      "target": "text3dcomponent_component",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ControllerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityclickedeventargs_struct",
+      "target": "componentonclickedsignature_delegate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EntityClickedEventArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nnedenoiserbasemappingdata_struct",
+      "target": "texturecropsize_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NNEDenoiserBaseMappingData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avalanchefont_class",
+      "target": "text3dcomponent_component",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AvalancheFont Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeeditorblueprintpipelinebasefactory_factory",
+      "target": "animationmodifier_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "InterchangeEditorBlueprintPipelineBaseFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hierarchymeshentityatom_class",
+      "target": "columnarheatmapentity_actor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "HierarchyMeshEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aclvisualfidelity_enum",
+      "target": "animationmodifier_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ACLVisualFidelity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avamrqrundownpagesetting_setting",
+      "target": "levelstreamingvolume_actor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "AvaMRQRundownPageSetting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "gameplay_effects_system",
+      "label": "Gameplay Effects System",
+      "nodes": [
+        "gameplaycuenotify_bursteffects_struct",
+        "abilitytask_waitgameplaytagquery_task"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GameplayCueNotify__BurstEffects Objects.md"
+    },
+    {
+      "id": "rig_vm_system",
+      "label": "RigVM System",
+      "nodes": [
+        "rigvmfunction_mathintmax_func",
+        "rigvmfunction_ishostbeingdebugged_func",
+        "rigunit_setrelativerotationforitem_unit"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathIntMax Objects.md"
+    },
+    {
+      "id": "ui_interaction_system",
+      "label": "UI Interaction System",
+      "nodes": [
+        "componentonclickedsignature_delegate",
+        "entityclickedeventargs_struct"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ComponentOnClickedSignature Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "id": "MaterialExpressionMaterialXExponential",
+      "type": "class",
+      "deprecated": true,
+      "deprecated_info": "renamed to MaterialExpressionExponential",
+      "file": "MaterialExpressionMaterialXExponential Objects.md"
+    },
+    {
+      "id": "MaterialExpressionExponential",
+      "type": "class"
+    },
+    {
+      "id": "MaterialExpressionExponential2",
+      "type": "class",
+      "file": "MaterialExpressionMaterialXExponential Objects.md"
+    },
+    {
+      "id": "RigUnit_HierarchyAddAnimationChannelFloat",
+      "type": "class",
+      "description": "Adds a new animation channel to the hierarchy",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_DynamicHierarchy.h",
+      "file_path": "RigUnit_HierarchyAddAnimationChannelFloat Objects.md"
+    },
+    {
+      "id": "RigUnit_HierarchyAddElement",
+      "type": "class"
+    },
+    {
+      "id": "FastArraySerializer",
+      "type": "struct",
+      "description": "Base struct for wrapping the array used in Fast TArray Replication",
+      "module": "NetCore",
+      "file": "FastArraySerializer.h",
+      "file_path": "FastArraySerializer Objects.md"
+    },
+    {
+      "id": "StructBase",
+      "type": "class"
+    },
+    {
+      "id": "OnlineBeacon",
+      "type": "class",
+      "description": "Base class for beacon communication (Unreal Networking, but outside normal gameplay traffic)",
+      "plugin": "OnlineSubsystemUtils",
+      "module": "OnlineSubsystemUtils",
+      "file": "OnlineBeacon.h",
+      "file_path": "OnlineBeacon Objects.md"
+    },
+    {
+      "id": "Actor",
+      "type": "class"
+    },
+    {
+      "id": "ContentBrowserDataSubsystem",
+      "type": "class",
+      "description": "Subsystem that provides access to Content Browser data",
+      "module": "ContentBrowserData",
+      "file": "ContentBrowserDataSubsystem.h",
+      "file_path": "ContentBrowserDataSubsystem Objects.md"
+    },
+    {
+      "id": "EditorSubsystem",
+      "type": "class"
+    },
+    {
+      "id": "LuminanceMode",
+      "type": "enum",
+      "deprecated": true,
+      "deprecated_info": "renamed to MaterialXLuminanceMode",
+      "file_path": "LuminanceMode Objects.md"
+    },
+    {
+      "id": "MaterialXLuminanceMode",
+      "type": "enum"
+    },
+    {
+      "id": "MaterialExpressionParticleSpriteRotation",
+      "type": "class",
+      "description": "Material Expression Particle Sprite Rotation",
+      "module": "Engine",
+      "file": "MaterialExpressionParticleSpriteRotation.h",
+      "file_path": "MaterialExpressionParticleSpriteRotation Objects.md"
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class"
+    },
+    {
+      "id": "WdpModelerFloorVertexAttribute",
+      "type": "struct",
+      "description": "Wdp Modeler Floor Vertex Attribute",
+      "plugin": "AesRuntimeModeler",
+      "module": "WdpModelerEntity",
+      "file": "ModelerFloorAtom.h",
+      "file_path": "WdpModelerFloorVertexAttribute Objects.md"
+    },
+    {
+      "id": "CameraShakePattern",
+      "type": "class",
+      "description": "A shake pattern defines how a camera should be effectively shaken",
+      "module": "Engine",
+      "file": "CameraShakeBase.h",
+      "file_path": "CameraShakePattern Objects.md"
+    },
+    {
+      "id": "Object",
+      "type": "class"
+    },
+    {
+      "id": "RigVMTrait_SetDeformerInt3Variable",
+      "type": "class",
+      "description": "Rig VMTrait Set Deformer Int 3Variable",
+      "plugin": "DeformerGraph",
+      "module": "OptimusCore",
+      "file": "RigUnit_Optimus.h",
+      "file_path": "RigVMTrait_SetDeformerInt3Variable Objects.md"
+    },
+    {
+      "id": "RigVMTrait_OptimusVariableBase",
+      "type": "class"
+    },
+    {
+      "id": "GeometryScript_PolygonList",
+      "type": "class",
+      "description": "Geometry Script Library Polygon List Functions",
+      "plugin": "GeometryScripting",
+      "module": "GeometryScriptingCore",
+      "file": "PolygonFunctions.h",
+      "file_path": "GeometryScript_PolygonList Objects.md"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class"
+    },
+    {
+      "id": "DCPSectionTransformAtom",
+      "type": "class",
+      "description": "DCPSection Transform Atom",
+      "plugin": "WdpAssetLoader",
+      "module": "BimAssetLoader",
+      "file": "DCPSectionTransformAtom.h",
+      "file_path": "DCPSectionTransformAtom Objects.md"
+    },
+    {
+      "id": "TransformAtom",
+      "type": "class"
+    },
+    {
+      "id": "MovieSceneCaptureProtocolBase",
+      "type": "class",
+      "description": "A capture protocol responsible for dealing with captured frames",
+      "module": "MovieSceneCapture",
+      "file": "MovieSceneCaptureProtocolBase.h",
+      "file_path": "MovieSceneCaptureProtocolBase Objects.md"
+    },
+    {
+      "id": "RigVM",
+      "type": "class",
+      "description": "The RigVM is the main object for evaluating FRigVMByteCode instructions",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVM.h",
+      "file_path": "RigVM Objects.md"
+    },
+    {
+      "id": "PCGMeshSelectorByAttribute",
+      "type": "class",
+      "description": "PCGMesh Selector by Attribute",
+      "plugin": "PCG",
+      "module": "PCG",
+      "file": "PCGMeshSelectorByAttribute.h",
+      "file_path": "PCGMeshSelectorByAttribute Objects.md"
+    },
+    {
+      "id": "PCGMeshSelectorBase",
+      "type": "class"
+    },
+    {
+      "id": "AvaMarkSearchDirection",
+      "type": "enum",
+      "description": "EAva Mark Search Direction",
+      "plugin": "Avalanche",
+      "module": "AvalancheSequence",
+      "file": "AvaMarkShared.h",
+      "file_path": "AvaMarkSearchDirection Objects.md"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class"
+    },
+    {
+      "id": "CesiumFeatureTableBlueprintLibrary",
+      "type": "class",
+      "deprecated": true,
+      "deprecated_info": "renamed to CesiumPropertyTableBlueprintLibrary",
+      "file_path": "CesiumFeatureTableBlueprintLibrary Objects.md"
+    },
+    {
+      "id": "CesiumPropertyTableBlueprintLibrary",
+      "type": "class"
+    },
+    {
+      "id": "MaterialExpressionParticleMacroUV",
+      "type": "class",
+      "description": "Material Expression Particle Macro UV",
+      "module": "Engine",
+      "file": "MaterialExpressionParticleMacroUV.h",
+      "file_path": "MaterialExpressionParticleMacroUV Objects.md"
+    },
+    {
+      "id": "MediaCaptureDevice",
+      "type": "struct",
+      "description": "Information about a capture device",
+      "module": "MediaAssets",
+      "file": "MediaBlueprintFunctionLibrary.h",
+      "file_path": "MediaCaptureDevice Objects.md"
+    },
+    {
+      "id": "DMMaterialStageExpressionObjectPositionWS",
+      "type": "class",
+      "description": "DMMaterial Stage Expression Object Position WS",
+      "plugin": "DynamicMaterial",
+      "module": "DynamicMaterialEditor",
+      "file": "DMMSEObjectPositionWS.h",
+      "file_path": "DMMaterialStageExpressionObjectPositionWS Objects.md"
+    },
+    {
+      "id": "DMMaterialStageExpression",
+      "type": "class"
+    },
+    {
+      "id": "PaperSpriteActor",
+      "type": "class",
+      "description": "An instance of a UPaperSprite in a level",
+      "plugin": "Paper2D",
+      "module": "Paper2D",
+      "file": "PaperSpriteActor.h",
+      "file_path": "PaperSpriteActor Objects.md"
+    },
+    {
+      "id": "QuartzClockHandle",
+      "type": "class",
+      "description": "BP / Game thread wrapper around FQuartzClockProxy",
+      "module": "AudioMixer",
+      "file": "AudioMixerClockHandle.h",
+      "file_path": "QuartzClockHandle Objects.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "MaterialExpressionMaterialXExponential",
+      "target": "MaterialExpressionExponential",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_HierarchyAddAnimationChannelFloat",
+      "target": "RigUnit_HierarchyAddElement",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FastArraySerializer",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnlineBeacon",
+      "target": "Actor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ContentBrowserDataSubsystem",
+      "target": "EditorSubsystem",
+      "type": "inherits_from"
+    },
+    {
+      "source": "LuminanceMode",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionParticleSpriteRotation",
+      "target": "MaterialExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WdpModelerFloorVertexAttribute",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CameraShakePattern",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerInt3Variable",
+      "target": "RigVMTrait_OptimusVariableBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryScript_PolygonList",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DCPSectionTransformAtom",
+      "target": "TransformAtom",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieSceneCaptureProtocolBase",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVM",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGMeshSelectorByAttribute",
+      "target": "PCGMeshSelectorBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaMarkSearchDirection",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CesiumFeatureTableBlueprintLibrary",
+      "target": "CesiumPropertyTableBlueprintLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionParticleMacroUV",
+      "target": "MaterialExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MediaCaptureDevice",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStageExpressionObjectPositionWS",
+      "target": "DMMaterialStageExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PaperSpriteActor",
+      "target": "Actor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "QuartzClockHandle",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionMaterialXExponential",
+      "target": "MaterialExpressionExponential",
+      "type": "renamed_to",
+      "deprecated": true
+    },
+    {
+      "source": "LuminanceMode",
+      "target": "MaterialXLuminanceMode",
+      "type": "renamed_to",
+      "deprecated": true
+    },
+    {
+      "source": "CesiumFeatureTableBlueprintLibrary",
+      "target": "CesiumPropertyTableBlueprintLibrary",
+      "type": "renamed_to",
+      "deprecated": true
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he1",
+      "type": "module_dependency",
+      "nodes": ["RigUnit_HierarchyAddAnimationChannelFloat", "ControlRig"],
+      "description": "Class depends on ControlRig module"
+    },
+    {
+      "id": "he2",
+      "type": "module_dependency",
+      "nodes": ["FastArraySerializer", "NetCore"],
+      "description": "Class depends on NetCore module"
+    },
+    {
+      "id": "he3",
+      "type": "plugin_dependency",
+      "nodes": ["OnlineBeacon", "OnlineSubsystemUtils"],
+      "description": "Class depends on OnlineSubsystemUtils plugin"
+    },
+    {
+      "id": "he4",
+      "type": "module_dependency",
+      "nodes": ["ContentBrowserDataSubsystem", "ContentBrowserData"],
+      "description": "Class depends on ContentBrowserData module"
+    },
+    {
+      "id": "he5",
+      "type": "module_dependency",
+      "nodes": ["MaterialExpressionParticleSpriteRotation", "Engine"],
+      "description": "Class depends on Engine module"
+    },
+    {
+      "id": "he6",
+      "type": "plugin_dependency",
+      "nodes": ["WdpModelerFloorVertexAttribute", "AesRuntimeModeler"],
+      "description": "Class depends on AesRuntimeModeler plugin"
+    },
+    {
+      "id": "he7",
+      "type": "module_dependency",
+      "nodes": ["CameraShakePattern", "Engine"],
+      "description": "Class depends on Engine module"
+    },
+    {
+      "id": "he8",
+      "type": "plugin_dependency",
+      "nodes": ["RigVMTrait_SetDeformerInt3Variable", "DeformerGraph"],
+      "description": "Class depends on DeformerGraph plugin"
+    },
+    {
+      "id": "he9",
+      "type": "plugin_dependency",
+      "nodes": ["GeometryScript_PolygonList", "GeometryScripting"],
+      "description": "Class depends on GeometryScripting plugin"
+    },
+    {
+      "id": "he10",
+      "type": "plugin_dependency",
+      "nodes": ["DCPSectionTransformAtom", "WdpAssetLoader"],
+      "description": "Class depends on WdpAssetLoader plugin"
+    },
+    {
+      "id": "he11",
+      "type": "module_dependency",
+      "nodes": ["MovieSceneCaptureProtocolBase", "MovieSceneCapture"],
+      "description": "Class depends on MovieSceneCapture module"
+    },
+    {
+      "id": "he12",
+      "type": "plugin_dependency",
+      "nodes": ["RigVM", "RigVM"],
+      "description": "Class depends on RigVM plugin"
+    },
+    {
+      "id": "he13",
+      "type": "plugin_dependency",
+      "nodes": ["PCGMeshSelectorByAttribute", "PCG"],
+      "description": "Class depends on PCG plugin"
+    },
+    {
+      "id": "he14",
+      "type": "plugin_dependency",
+      "nodes": ["AvaMarkSearchDirection", "Avalanche"],
+      "description": "Class depends on Avalanche plugin"
+    },
+    {
+      "id": "he15",
+      "type": "module_dependency",
+      "nodes": ["MaterialExpressionParticleMacroUV", "Engine"],
+      "description": "Class depends on Engine module"
+    },
+    {
+      "id": "he16",
+      "type": "module_dependency",
+      "nodes": ["MediaCaptureDevice", "MediaAssets"],
+      "description": "Class depends on MediaAssets module"
+    },
+    {
+      "id": "he17",
+      "type": "plugin_dependency",
+      "nodes": ["DMMaterialStageExpressionObjectPositionWS", "DynamicMaterial"],
+      "description": "Class depends on DynamicMaterial plugin"
+    },
+    {
+      "id": "he18",
+      "type": "plugin_dependency",
+      "nodes": ["PaperSpriteActor", "Paper2D"],
+      "description": "Class depends on Paper2D plugin"
+    },
+    {
+      "id": "he19",
+      "type": "module_dependency",
+      "nodes": ["QuartzClockHandle", "AudioMixer"],
+      "description": "Class depends on AudioMixer module"
+    },
+    {
+      "id": "he20",
+      "type": "deprecated_renamed",
+      "nodes": ["MaterialExpressionMaterialXExponential", "MaterialExpressionExponential"],
+      "description": "Deprecated class renamed to new class"
+    },
+    {
+      "id": "he21",
+      "type": "deprecated_renamed",
+      "nodes": ["LuminanceMode", "MaterialXLuminanceMode"],
+      "description": "Deprecated enum renamed to new enum"
+    },
+    {
+      "id": "he22",
+      "type": "deprecated_renamed",
+      "nodes": ["CesiumFeatureTableBlueprintLibrary", "CesiumPropertyTableBlueprintLibrary"],
+      "description": "Deprecated class renamed to new class"
+    }
+  ],
+  "metadata": {
+    "chunk_id": 598,
+    "total_nodes": 40,
+    "total_edges": 23,
+    "total_hyperedges": 22,
+    "source_files": [
+      "MaterialExpressionMaterialXExponential Objects.md",
+      "RigUnit_HierarchyAddAnimationChannelFloat Objects.md",
+      "FastArraySerializer Objects.md",
+      "OnlineBeacon Objects.md",
+      "ContentBrowserDataSubsystem Objects.md",
+      "LuminanceMode Objects.md",
+      "MaterialExpressionParticleSpriteRotation Objects.md",
+      "WdpModelerFloorVertexAttribute Objects.md",
+      "CameraShakePattern Objects.md",
+      "RigVMTrait_SetDeformerInt3Variable Objects.md",
+      "GeometryScript_PolygonList Objects.md",
+      "DCPSectionTransformAtom Objects.md",
+      "MovieSceneCaptureProtocolBase Objects.md",
+      "RigVM Objects.md",
+      "PCGMeshSelectorByAttribute Objects.md",
+      "AvaMarkSearchDirection Objects.md",
+      "CesiumFeatureTableBlueprintLibrary Objects.md",
+      "MaterialExpressionParticleMacroUV Objects.md",
+      "MediaCaptureDevice Objects.md",
+      "DMMaterialStageExpressionObjectPositionWS Objects.md",
+      "PaperSpriteActor Objects.md",
+      "QuartzClockHandle Objects.md"
+    ]
+  }
+}

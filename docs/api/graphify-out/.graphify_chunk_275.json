@@ -1,0 +1,973 @@
+{
+  "nodes": [
+    {
+      "id": "geometrycollectionrenderlevelsetactor_geometrycollectionrenderlevelsetactor",
+      "label": "GeometryCollectionRenderLevelSetActor",
+      "file_type": "document",
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pathcoordinates_data_pathcoordinates_data",
+      "label": "PathCoordinates_Data",
+      "file_type": "document",
+      "source_file": "PathCoordinates__Data Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityinstanceflags_entityinstanceflags",
+      "label": "EntityInstanceFlags",
+      "file_type": "document",
+      "source_file": "EntityInstanceFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetakesettings_moviescenetakesettings",
+      "label": "MovieSceneTakeSettings",
+      "file_type": "document",
+      "source_file": "MovieSceneTakeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onsetnrt_onsetnrt",
+      "label": "OnsetNRT",
+      "file_type": "document",
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintadd_rigvmfunction_mathintadd",
+      "label": "RigVMFunction_MathIntAdd",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dbuffertextureid_dbuffertextureid",
+      "label": "DBufferTextureId",
+      "file_type": "document",
+      "source_file": "DBufferTextureId Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "useractivity_useractivity",
+      "label": "UserActivity",
+      "file_type": "document",
+      "source_file": "UserActivity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionintersection_rigunit_collectionintersection",
+      "label": "RigUnit_CollectionIntersection",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionIntersection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmfieldvaluechangedtest_mvvmfieldvaluechangedtest",
+      "label": "MVVMFieldValueChangedTest",
+      "file_type": "document",
+      "source_file": "MVVMFieldValueChangedTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionswingtwist_rigunit_mathquaternionswingtwist",
+      "label": "RigUnit_MathQuaternionSwingTwist",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionSwingTwist Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "captureresolution_captureresolution",
+      "label": "CaptureResolution",
+      "file_type": "document",
+      "source_file": "CaptureResolution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodyisland_waterbodyisland",
+      "label": "WaterBodyIsland",
+      "file_type": "document",
+      "source_file": "WaterBodyIsland Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityspecdef_gameplayabilityspecdef",
+      "label": "GameplayAbilitySpecDef",
+      "file_type": "document",
+      "source_file": "GameplayAbilitySpecDef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontlayoutmethod_fontlayoutmethod",
+      "label": "FontLayoutMethod",
+      "file_type": "document",
+      "source_file": "FontLayoutMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_prediction_aisense_prediction",
+      "label": "AISense_Prediction",
+      "file_type": "document",
+      "source_file": "AISense_Prediction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interactivetoolspresetcollectionassetfactory_interactivetoolspresetcollectionassetfactory",
+      "label": "InteractiveToolsPresetCollectionAssetFactory",
+      "file_type": "document",
+      "source_file": "InteractiveToolsPresetCollectionAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_beginexecution_rigunit_beginexecution",
+      "label": "RigUnit_BeginExecution",
+      "file_type": "document",
+      "source_file": "RigUnit_BeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgtagstoattributesetsettings_pcgtagstoattributesetsettings",
+      "label": "PCGTagsToAttributeSetSettings",
+      "file_type": "document",
+      "source_file": "PCGTagsToAttributeSetSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springinterpvector_rigunit_springinterpvector",
+      "label": "RigUnit_SpringInterpVector",
+      "file_type": "document",
+      "source_file": "RigUnit__SpringInterpVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animstreamablefactory_animstreamablefactory",
+      "label": "AnimStreamableFactory",
+      "file_type": "document",
+      "source_file": "AnimStreamableFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthlfotype_synthlfotype",
+      "label": "SynthLFOType",
+      "file_type": "document",
+      "source_file": "SynthLFOType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_material",
+      "label": "Material",
+      "file_type": "document",
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volumetexture_volumetexture",
+      "label": "VolumeTexture",
+      "file_type": "document",
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "PathCoordinates__Data Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiosynesthesiaurt_audiosynesthesiaurt",
+      "label": "AudioSynesthesiaNRT",
+      "file_type": "document",
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onsetnrtsettings_onsetnrtsettings",
+      "label": "OnsetNRTSettings",
+      "file_type": "document",
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwave_soundwave",
+      "label": "SoundWave",
+      "file_type": "document",
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "label": "RigVMFunction_MathIntBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionbase_rigunit_collectionbase",
+      "label": "RigUnit_CollectionBase",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionIntersection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkeycollection_rigelementkeycollection",
+      "label": "RigElementKeyCollection",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionIntersection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmviewmodelbase_mvvmviewmodelbase",
+      "label": "MVVMViewModelBase",
+      "file_type": "document",
+      "source_file": "MVVMFieldValueChangedTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionswingtwist_rigvmfunction_mathquaternionswingtwist",
+      "label": "RigVMFunction_MathQuaternionSwingTwist",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionSwingTwist Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "watersplinecomponent_watersplinecomponent",
+      "label": "WaterSplineComponent",
+      "file_type": "document",
+      "source_file": "WaterBodyIsland Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "watercurvesettings_watercurvesettings",
+      "label": "WaterCurveSettings",
+      "file_type": "document",
+      "source_file": "WaterBodyIsland Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodyheightmapsettings_waterbodyheightmapsettings",
+      "label": "WaterBodyHeightmapSettings",
+      "file_type": "document",
+      "source_file": "WaterBodyIsland Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_aisense",
+      "label": "AISense",
+      "file_type": "document",
+      "source_file": "AISense_Prediction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "InteractiveToolsPresetCollectionAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_BeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit_BeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings_pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "document",
+      "source_file": "PCGTagsToAttributeSetSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_simbase_rigvmfunction_simbase",
+      "label": "RigVMFunction_SimBase",
+      "file_type": "document",
+      "source_file": "RigUnit__SpringInterpVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scalablefloat_scalablefloat",
+      "label": "ScalableFloat",
+      "file_type": "document",
+      "source_file": "GameplayAbilitySpecDef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsetrendering_levelsetrendering",
+      "label": "Level Set Rendering",
+      "file_type": "document",
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "raymarching_raymarching",
+      "label": "Ray Marching",
+      "file_type": "document",
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "surfacereconstruction_surfacereconstruction",
+      "label": "Surface Reconstruction",
+      "file_type": "document",
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioanalysis_audioanalysis",
+      "label": "Audio Analysis",
+      "file_type": "document",
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constantqtransform_constantqtransform",
+      "label": "Constant Q Transform",
+      "file_type": "document",
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onsetdetection_onsetdetection",
+      "label": "Onset Detection",
+      "file_type": "document",
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aiprediction_aiprediction",
+      "label": "AI Prediction",
+      "file_type": "document",
+      "source_file": "AISense_Prediction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "springinterpolation_springinterpolation",
+      "label": "Spring Interpolation",
+      "file_type": "document",
+      "source_file": "RigUnit__SpringInterpVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometrycollectionrenderlevelsetactor_geometrycollectionrenderlevelsetactor",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodyisland_waterbodyisland",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyIsland Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionrenderlevelsetactor_geometrycollectionrenderlevelsetactor",
+      "target": "material_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionrenderlevelsetactor_geometrycollectionrenderlevelsetactor",
+      "target": "volumetexture_volumetexture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pathcoordinates_data_pathcoordinates_data",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PathCoordinates__Data Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onsetnrt_onsetnrt",
+      "target": "audiosynesthesiaurt_audiosynesthesiaurt",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onsetnrt_onsetnrt",
+      "target": "onsetnrtsettings_onsetnrtsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onsetnrt_onsetnrt",
+      "target": "soundwave_soundwave",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintadd_rigvmfunction_mathintadd",
+      "target": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionintersection_rigunit_collectionintersection",
+      "target": "rigunit_collectionbase_rigunit_collectionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionIntersection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionintersection_rigunit_collectionintersection",
+      "target": "rigelementkeycollection_rigelementkeycollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionIntersection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmfieldvaluechangedtest_mvvmfieldvaluechangedtest",
+      "target": "mvvmviewmodelbase_mvvmviewmodelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMFieldValueChangedTest Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionswingtwist_rigunit_mathquaternionswingtwist",
+      "target": "rigvmfunction_mathquaternionswingtwist_rigvmfunction_mathquaternionswingtwist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionSwingTwist Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodyisland_waterbodyisland",
+      "target": "watersplinecomponent_watersplinecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyIsland Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodyisland_waterbodyisland",
+      "target": "watercurvesettings_watercurvesettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyIsland Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodyisland_waterbodyisland",
+      "target": "waterbodyheightmapsettings_waterbodyheightmapsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyIsland Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilityspecdef_gameplayabilityspecdef",
+      "target": "scalablefloat_scalablefloat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilitySpecDef Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisense_prediction_aisense_prediction",
+      "target": "aisense_aisense",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISense_Prediction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interactivetoolspresetcollectionassetfactory_interactivetoolspresetcollectionassetfactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InteractiveToolsPresetCollectionAssetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animstreamablefactory_animstreamablefactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimStreamableFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_beginexecution_rigunit_beginexecution",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BeginExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_beginexecution_rigunit_beginexecution",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BeginExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgtagstoattributesetsettings_pcgtagstoattributesetsettings",
+      "target": "pcgsettings_pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGTagsToAttributeSetSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springinterpvector_rigunit_springinterpvector",
+      "target": "rigvmfunction_simbase_rigvmfunction_simbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SpringInterpVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionrenderlevelsetactor_geometrycollectionrenderlevelsetactor",
+      "target": "levelsetrendering_levelsetrendering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionrenderlevelsetactor_geometrycollectionrenderlevelsetactor",
+      "target": "raymarching_raymarching",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionrenderlevelsetactor_geometrycollectionrenderlevelsetactor",
+      "target": "surfacereconstruction_surfacereconstruction",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryCollectionRenderLevelSetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onsetnrt_onsetnrt",
+      "target": "audioanalysis_audioanalysis",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onsetnrt_onsetnrt",
+      "target": "constantqtransform_constantqtransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onsetnrt_onsetnrt",
+      "target": "onsetdetection_onsetdetection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnsetNRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisense_prediction_aisense_prediction",
+      "target": "aiprediction_aiprediction",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AISense_Prediction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springinterpvector_rigunit_springinterpvector",
+      "target": "springinterpolation_springinterpolation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SpringInterpVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interactivetoolspresetcollectionassetfactory_interactivetoolspresetcollectionassetfactory",
+      "target": "animstreamablefactory_animstreamablefactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InteractiveToolsPresetCollectionAssetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetakesettings_moviescenetakesettings",
+      "target": "captureresolution_captureresolution",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneTakeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pathcoordinates_data_pathcoordinates_data",
+      "target": "useractivity_useractivity",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PathCoordinates__Data Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_units",
+      "label": "ControlRig Units",
+      "nodes": [
+        "rigunit_collectionintersection_rigunit_collectionintersection",
+        "rigunit_beginexecution_rigunit_beginexecution",
+        "rigunit_springinterpvector_rigunit_springinterpvector",
+        "rigunit_mathquaternionswingtwist_rigunit_mathquaternionswingtwist",
+        "rigvmfunction_mathintadd_rigvmfunction_mathintadd"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_CollectionIntersection Objects.md"
+    },
+    {
+      "id": "asset_factories",
+      "label": "Asset Factory Classes",
+      "nodes": [
+        "interactivetoolspresetcollectionassetfactory_interactivetoolspresetcollectionassetfactory",
+        "animstreamablefactory_animstreamablefactory"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InteractiveToolsPresetCollectionAssetFactory Objects.md"
+    },
+    {
+      "id": "media_audio_processing",
+      "label": "Media and Audio Processing Components",
+      "nodes": [
+        "onsetnrt_onsetnrt",
+        "moviescenetakesettings_moviescenetakesettings",
+        "captureresolution_captureresolution",
+        "animstreamablefactory_animstreamablefactory"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OnsetNRT Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

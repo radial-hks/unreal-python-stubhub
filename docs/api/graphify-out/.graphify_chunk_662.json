@@ -1,0 +1,954 @@
+{
+  "nodes": [
+    {
+      "id": "RigVMNodeLayout",
+      "type": "class",
+      "label": "RigVMNodeLayout",
+      "properties": {
+        "inherits": "StructBase",
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMNodeLayout.h",
+        "description": "Rig VMNode Layout"
+      }
+    },
+    {
+      "id": "RigVMPinCategory",
+      "type": "type",
+      "label": "RigVMPinCategory"
+    },
+    {
+      "id": "PCGCreateSplineMeshSettings",
+      "type": "class",
+      "label": "PCGCreateSplineMeshSettings",
+      "properties": {
+        "inherits": "PCGSpawnSplineMeshSettings",
+        "deprecated": true,
+        "deprecated_message": "'PCGCreateSplineMeshSettings' was renamed to 'PCGSpawnSplineMeshSettings'"
+      }
+    },
+    {
+      "id": "MovieScenePasteSectionsParams",
+      "type": "class",
+      "label": "MovieScenePasteSectionsParams",
+      "properties": {
+        "inherits": "StructBase",
+        "module": "Sequencer",
+        "file": "SequencerUtilities.h",
+        "description": "Paste sections params"
+      }
+    },
+    {
+      "id": "FrameTime",
+      "type": "type",
+      "label": "FrameTime"
+    },
+    {
+      "id": "MovieSceneTrack",
+      "type": "type",
+      "label": "MovieSceneTrack"
+    },
+    {
+      "id": "InstanceStaticMeshEntity",
+      "type": "class",
+      "label": "InstanceStaticMeshEntity",
+      "properties": {
+        "inherits": "WdpStandardActorEntity",
+        "plugin": "WdpAssetLoader",
+        "module": "StaticMeshAssetLoader",
+        "file": "InstanceStaticMeshEntity.h",
+        "description": "Instance Static Mesh Entity"
+      }
+    },
+    {
+      "id": "MovieScene3DTransformSection",
+      "type": "class",
+      "label": "MovieScene3DTransformSection",
+      "properties": {
+        "inherits": "MovieSceneSection",
+        "module": "MovieSceneTracks",
+        "file": "MovieScene3DTransformSection.h",
+        "description": "A 3D transform section"
+      }
+    },
+    {
+      "id": "MovieSceneSection",
+      "type": "type",
+      "label": "MovieSceneSection"
+    },
+    {
+      "id": "Color",
+      "type": "type",
+      "label": "Color"
+    },
+    {
+      "id": "MovieSceneConditionContainer",
+      "type": "type",
+      "label": "MovieSceneConditionContainer"
+    },
+    {
+      "id": "MovieSceneEasingSettings",
+      "type": "type",
+      "label": "MovieSceneEasingSettings"
+    },
+    {
+      "id": "MovieSceneSectionEvalOptions",
+      "type": "type",
+      "label": "MovieSceneSectionEvalOptions"
+    },
+    {
+      "id": "FrameNumber",
+      "type": "type",
+      "label": "FrameNumber"
+    },
+    {
+      "id": "MovieSceneFrameRange",
+      "type": "type",
+      "label": "MovieSceneFrameRange"
+    },
+    {
+      "id": "Show3DTrajectory",
+      "type": "type",
+      "label": "Show3DTrajectory"
+    },
+    {
+      "id": "MovieSceneTimecodeSource",
+      "type": "type",
+      "label": "MovieSceneTimecodeSource"
+    },
+    {
+      "id": "MaterialExpressionVolumetricAdvancedMaterialOutput",
+      "type": "class",
+      "label": "MaterialExpressionVolumetricAdvancedMaterialOutput",
+      "properties": {
+        "inherits": "MaterialExpressionCustomOutput",
+        "module": "Engine",
+        "file": "MaterialExpressionVolumetricAdvancedMaterialOutput.h",
+        "description": "Material output expression for writing advanced volumetric material properties"
+      }
+    },
+    {
+      "id": "MaterialExpressionCustomOutput",
+      "type": "type",
+      "label": "MaterialExpressionCustomOutput"
+    },
+    {
+      "id": "OceanBoxCollisionComponent",
+      "type": "class",
+      "label": "OceanBoxCollisionComponent",
+      "properties": {
+        "inherits": "BoxComponent",
+        "plugin": "Water",
+        "module": "Water",
+        "file": "OceanCollisionComponent.h",
+        "description": "Ocean Box Collision Component"
+      }
+    },
+    {
+      "id": "BoxComponent",
+      "type": "type",
+      "label": "BoxComponent"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "Rotator",
+      "type": "type",
+      "label": "Rotator"
+    },
+    {
+      "id": "BodyInstance",
+      "type": "type",
+      "label": "BodyInstance"
+    },
+    {
+      "id": "AvaMaterialMaskOrientation",
+      "type": "enum",
+      "label": "AvaMaterialMaskOrientation",
+      "properties": {
+        "inherits": "EnumBase",
+        "plugin": "Avalanche",
+        "module": "AvalancheText",
+        "file": "AvaTextDefs.h",
+        "description": "EAva Material Mask Orientation"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "type",
+      "label": "EnumBase"
+    },
+    {
+      "id": "PCGDifferenceData",
+      "type": "class",
+      "label": "PCGDifferenceData",
+      "properties": {
+        "inherits": "PCGSpatialDataWithPointCache",
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGDifferenceData.h",
+        "description": "PCGDifference Data"
+      }
+    },
+    {
+      "id": "PCGSpatialDataWithPointCache",
+      "type": "type",
+      "label": "PCGSpatialDataWithPointCache"
+    },
+    {
+      "id": "PCGSpatialData",
+      "type": "type",
+      "label": "PCGSpatialData"
+    },
+    {
+      "id": "PCGMetadata",
+      "type": "type",
+      "label": "PCGMetadata"
+    },
+    {
+      "id": "PCGDifferenceDensityFunction",
+      "type": "type",
+      "label": "PCGDifferenceDensityFunction"
+    },
+    {
+      "id": "Actor",
+      "type": "type",
+      "label": "Actor"
+    },
+    {
+      "id": "MovieGraphGlobalVariable_CameraName",
+      "type": "class",
+      "label": "MovieGraphGlobalVariable_CameraName",
+      "properties": {
+        "inherits": "MovieGraphGlobalVariable",
+        "plugin": "MovieRenderPipeline",
+        "module": "MovieRenderPipelineCore",
+        "file": "MovieGraphConfig.h",
+        "description": "Movie Graph Global Variable Camera Name"
+      }
+    },
+    {
+      "id": "MovieGraphGlobalVariable",
+      "type": "type",
+      "label": "MovieGraphGlobalVariable"
+    },
+    {
+      "id": "InstancedPropertyBag",
+      "type": "type",
+      "label": "InstancedPropertyBag"
+    },
+    {
+      "id": "RigUnit_RemoveMetadataTag",
+      "type": "class",
+      "label": "RigUnit_RemoveMetadataTag",
+      "properties": {
+        "inherits": "RigUnitMutable",
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_Metadata.h",
+        "description": "Removes a tag from an item"
+      }
+    },
+    {
+      "id": "RigUnitMutable",
+      "type": "type",
+      "label": "RigUnitMutable"
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "type",
+      "label": "ControlRigExecuteContext"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "type",
+      "label": "RigElementKey"
+    },
+    {
+      "id": "RigMetaDataNameSpace",
+      "type": "type",
+      "label": "RigMetaDataNameSpace"
+    },
+    {
+      "id": "DisplayClusterConfigurationOCIOConfiguration",
+      "type": "class",
+      "label": "DisplayClusterConfigurationOCIOConfiguration",
+      "properties": {
+        "inherits": "StructBase",
+        "plugin": "nDisplay",
+        "module": "DisplayClusterConfiguration",
+        "file": "DisplayClusterConfigurationTypes_OCIO.h",
+        "description": "OCIO configuration structure"
+      }
+    },
+    {
+      "id": "OpenColorIOColorConversionSettings",
+      "type": "type",
+      "label": "OpenColorIOColorConversionSettings"
+    },
+    {
+      "id": "OpenColorIODisplayConfiguration",
+      "type": "type",
+      "label": "OpenColorIODisplayConfiguration"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleConstant",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleConstant",
+      "properties": {
+        "inherits": "RigVMFunction_MathDoubleBase",
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathDouble.h",
+        "description": "Rig VMFunction Math Double Constant"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleBase",
+      "type": "type",
+      "label": "RigVMFunction_MathDoubleBase"
+    },
+    {
+      "id": "DisplayClusterMediaOutputSynchronizationPolicyVblank",
+      "type": "class",
+      "label": "DisplayClusterMediaOutputSynchronizationPolicyVblank",
+      "properties": {
+        "inherits": "DisplayClusterMediaOutputSynchronizationPolicyThresholdBase",
+        "plugin": "nDisplay",
+        "module": "DisplayClusterMedia",
+        "file": "DisplayClusterMediaOutputSynchronizationPolicyVblank.h",
+        "description": "Vblank media synchronization policy config"
+      }
+    },
+    {
+      "id": "DisplayClusterMediaOutputSynchronizationPolicyThresholdBase",
+      "type": "type",
+      "label": "DisplayClusterMediaOutputSynchronizationPolicyThresholdBase"
+    },
+    {
+      "id": "Paths",
+      "type": "class",
+      "label": "Paths",
+      "properties": {
+        "inherits": "BlueprintFunctionLibrary",
+        "module": "Engine",
+        "file": "BlueprintPathsLibrary.h",
+        "description": "Function library to expose FPaths to Blueprints and Python"
+      }
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "type",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "MassTranslationDirection",
+      "type": "enum",
+      "label": "MassTranslationDirection",
+      "properties": {
+        "inherits": "EnumBase",
+        "plugin": "MassGameplay",
+        "module": "MassSpawner",
+        "file": "MassTranslator.h",
+        "description": "EMass Translation Direction"
+      }
+    },
+    {
+      "id": "MaterialExpressionTangent",
+      "type": "class",
+      "label": "MaterialExpressionTangent",
+      "properties": {
+        "inherits": "MaterialExpression",
+        "module": "Engine",
+        "file": "MaterialExpressionTangent.h",
+        "description": "Material Expression Tangent"
+      }
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "type",
+      "label": "MaterialExpression"
+    },
+    {
+      "id": "DCPWorldSubsystem",
+      "type": "class",
+      "label": "DCPWorldSubsystem",
+      "properties": {
+        "inherits": "WorldSubsystem",
+        "plugin": "WdpAssetLoader",
+        "module": "BimAssetLoader",
+        "file": "DCPWorldSubsystem.h",
+        "description": "DCPWorld Subsystem"
+      }
+    },
+    {
+      "id": "WorldSubsystem",
+      "type": "type",
+      "label": "WorldSubsystem"
+    },
+    {
+      "id": "RectangleStyle",
+      "type": "class",
+      "label": "RectangleStyle",
+      "properties": {
+        "inherits": "StructBase",
+        "plugin": "WdpApplication",
+        "module": "WdpPickAction",
+        "file": "Draw2DItemWidget.h",
+        "description": "Rectangle Style"
+      }
+    },
+    {
+      "id": "MoviePipelineExecutorBase",
+      "type": "class",
+      "label": "MoviePipelineExecutorBase",
+      "properties": {
+        "inherits": "Object",
+        "plugin": "MovieRenderPipeline",
+        "module": "MovieRenderPipelineCore",
+        "file": "MoviePipelineExecutor.h",
+        "description": "A Movie Pipeline Executor is responsible for executing an array of Movie Pipelines"
+      }
+    },
+    {
+      "id": "Object",
+      "type": "type",
+      "label": "Object"
+    },
+    {
+      "id": "Class",
+      "type": "type",
+      "label": "Class"
+    },
+    {
+      "id": "OnMoviePipelineExecutorFinished",
+      "type": "type",
+      "label": "OnMoviePipelineExecutorFinished"
+    },
+    {
+      "id": "OnMoviePipelineExecutorErrored",
+      "type": "type",
+      "label": "OnMoviePipelineExecutorErrored"
+    },
+    {
+      "id": "MoviePipelineSocketMessageRecieved",
+      "type": "type",
+      "label": "MoviePipelineSocketMessageRecieved"
+    },
+    {
+      "id": "MoviePipelineHttpResponseRecieved",
+      "type": "type",
+      "label": "MoviePipelineHttpResponseRecieved"
+    },
+    {
+      "id": "MoviePipelineQueue",
+      "type": "type",
+      "label": "MoviePipelineQueue"
+    },
+    {
+      "id": "MoviePipeline",
+      "type": "type",
+      "label": "MoviePipeline"
+    },
+    {
+      "id": "ChaosRemovalEventData",
+      "type": "class",
+      "label": "ChaosRemovalEventData",
+      "properties": {
+        "inherits": "StructBase",
+        "module": "GeometryCollectionEngine",
+        "file": "ChaosRemovalEventFilter.h",
+        "description": "A Removal event data structure"
+      }
+    },
+    {
+      "id": "ParabolaStyle",
+      "type": "class",
+      "label": "ParabolaStyle",
+      "properties": {
+        "inherits": "StructBase",
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIDefine",
+        "file": "ParabolaAPIParams.h",
+        "description": "Parabola Style"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "type",
+      "label": "StructBase"
+    }
+  ],
+  "edges": [
+    {
+      "source": "RigVMNodeLayout",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "RigVMNodeLayout",
+      "target": "RigVMPinCategory",
+      "type": "has_property",
+      "label": "has property categories"
+    },
+    {
+      "source": "PCGCreateSplineMeshSettings",
+      "target": "PCGSpawnSplineMeshSettings",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MovieScenePasteSectionsParams",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MovieScenePasteSectionsParams",
+      "target": "MovieSceneTrack",
+      "type": "has_property",
+      "label": "has property tracks"
+    },
+    {
+      "source": "MovieScenePasteSectionsParams",
+      "target": "FrameTime",
+      "type": "has_property",
+      "label": "has property time"
+    },
+    {
+      "source": "InstanceStaticMeshEntity",
+      "target": "WdpStandardActorEntity",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "MovieSceneSection",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "Color",
+      "type": "has_property",
+      "label": "has property color_tint"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "MovieSceneConditionContainer",
+      "type": "has_property",
+      "label": "has property condition_container"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "MovieSceneEasingSettings",
+      "type": "has_property",
+      "label": "has property easing"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "MovieSceneSectionEvalOptions",
+      "type": "has_property",
+      "label": "has property eval_options"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "FrameNumber",
+      "type": "has_property",
+      "label": "has property pre_roll_frames"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "MovieSceneFrameRange",
+      "type": "has_property",
+      "label": "has property section_range"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "Show3DTrajectory",
+      "type": "has_property",
+      "label": "has property show3d_trajectory"
+    },
+    {
+      "source": "MovieScene3DTransformSection",
+      "target": "MovieSceneTimecodeSource",
+      "type": "has_property",
+      "label": "has property timecode_source"
+    },
+    {
+      "source": "MaterialExpressionVolumetricAdvancedMaterialOutput",
+      "target": "MaterialExpressionCustomOutput",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "OceanBoxCollisionComponent",
+      "target": "BoxComponent",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "OceanBoxCollisionComponent",
+      "target": "Vector",
+      "type": "has_property",
+      "label": "has property relative_location"
+    },
+    {
+      "source": "OceanBoxCollisionComponent",
+      "target": "Rotator",
+      "type": "has_property",
+      "label": "has property relative_rotation"
+    },
+    {
+      "source": "OceanBoxCollisionComponent",
+      "target": "BodyInstance",
+      "type": "has_property",
+      "label": "has property body_instance"
+    },
+    {
+      "source": "AvaMaterialMaskOrientation",
+      "target": "EnumBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "PCGDifferenceData",
+      "target": "PCGSpatialDataWithPointCache",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "PCGDifferenceData",
+      "target": "PCGSpatialData",
+      "type": "has_property",
+      "label": "has property source"
+    },
+    {
+      "source": "PCGDifferenceData",
+      "target": "PCGMetadata",
+      "type": "has_property",
+      "label": "has property metadata"
+    },
+    {
+      "source": "PCGDifferenceData",
+      "target": "Actor",
+      "type": "has_property",
+      "label": "has property target_actor"
+    },
+    {
+      "source": "PCGDifferenceData",
+      "target": "PCGDifferenceDensityFunction",
+      "type": "has_property",
+      "label": "has property density_function"
+    },
+    {
+      "source": "MovieGraphGlobalVariable_CameraName",
+      "target": "MovieGraphGlobalVariable",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MovieGraphGlobalVariable_CameraName",
+      "target": "InstancedPropertyBag",
+      "type": "has_property",
+      "label": "has property value"
+    },
+    {
+      "source": "RigUnit_RemoveMetadataTag",
+      "target": "RigUnitMutable",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "RigUnit_RemoveMetadataTag",
+      "target": "ControlRigExecuteContext",
+      "type": "has_property",
+      "label": "has property execute_context"
+    },
+    {
+      "source": "RigUnit_RemoveMetadataTag",
+      "target": "RigElementKey",
+      "type": "has_property",
+      "label": "has property item"
+    },
+    {
+      "source": "RigUnit_RemoveMetadataTag",
+      "target": "RigMetaDataNameSpace",
+      "type": "has_property",
+      "label": "has property name_space"
+    },
+    {
+      "source": "DisplayClusterConfigurationOCIOConfiguration",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "DisplayClusterConfigurationOCIOConfiguration",
+      "target": "OpenColorIOColorConversionSettings",
+      "type": "has_property",
+      "label": "has property color_configuration"
+    },
+    {
+      "source": "DisplayClusterConfigurationOCIOConfiguration",
+      "target": "OpenColorIODisplayConfiguration",
+      "type": "has_property",
+      "label": "has property ocio_configuration"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleConstant",
+      "target": "RigVMFunction_MathDoubleBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "DisplayClusterMediaOutputSynchronizationPolicyVblank",
+      "target": "DisplayClusterMediaOutputSynchronizationPolicyThresholdBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "Paths",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MassTranslationDirection",
+      "target": "EnumBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MaterialExpressionTangent",
+      "target": "MaterialExpression",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "DCPWorldSubsystem",
+      "target": "WorldSubsystem",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "RectangleStyle",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MoviePipelineExecutorBase",
+      "target": "Object",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "MoviePipelineExecutorBase",
+      "target": "Class",
+      "type": "has_property",
+      "label": "has property debug_widget_class"
+    },
+    {
+      "source": "MoviePipelineExecutorBase",
+      "target": "OnMoviePipelineExecutorFinished",
+      "type": "has_property",
+      "label": "has property on_executor_finished_delegate"
+    },
+    {
+      "source": "MoviePipelineExecutorBase",
+      "target": "OnMoviePipelineExecutorErrored",
+      "type": "has_property",
+      "label": "has property on_executor_errored_delegate"
+    },
+    {
+      "source": "MoviePipelineExecutorBase",
+      "target": "MoviePipelineSocketMessageRecieved",
+      "type": "has_property",
+      "label": "has property socket_message_recieved_delegate"
+    },
+    {
+      "source": "MoviePipelineExecutorBase",
+      "target": "MoviePipelineHttpResponseRecieved",
+      "type": "has_property",
+      "label": "has property http_response_recieved_delegate"
+    },
+    {
+      "source": "ChaosRemovalEventData",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits"
+    },
+    {
+      "source": "ChaosRemovalEventData",
+      "target": "Vector",
+      "type": "has_property",
+      "label": "has property location"
+    },
+    {
+      "source": "ParabolaStyle",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "module_MovieSceneTracks",
+      "label": "MovieSceneTracks Module",
+      "nodes": ["MovieScene3DTransformSection"],
+      "properties": {
+        "type": "module",
+        "name": "MovieSceneTracks"
+      }
+    },
+    {
+      "id": "module_Sequencer",
+      "label": "Sequencer Module",
+      "nodes": ["MovieScenePasteSectionsParams"],
+      "properties": {
+        "type": "module",
+        "name": "Sequencer"
+      }
+    },
+    {
+      "id": "module_Engine",
+      "label": "Engine Module",
+      "nodes": ["MaterialExpressionVolumetricAdvancedMaterialOutput", "MaterialExpressionTangent", "Paths"],
+      "properties": {
+        "type": "module",
+        "name": "Engine"
+      }
+    },
+    {
+      "id": "module_GeometryCollectionEngine",
+      "label": "GeometryCollectionEngine Module",
+      "nodes": ["ChaosRemovalEventData"],
+      "properties": {
+        "type": "module",
+        "name": "GeometryCollectionEngine"
+      }
+    },
+    {
+      "id": "plugin_RigVM",
+      "label": "RigVM Plugin",
+      "nodes": ["RigVMNodeLayout", "RigVMFunction_MathDoubleConstant"],
+      "properties": {
+        "type": "plugin",
+        "name": "RigVM"
+      }
+    },
+    {
+      "id": "plugin_WdpAssetLoader",
+      "label": "WdpAssetLoader Plugin",
+      "nodes": ["InstanceStaticMeshEntity", "DCPWorldSubsystem"],
+      "properties": {
+        "type": "plugin",
+        "name": "WdpAssetLoader"
+      }
+    },
+    {
+      "id": "plugin_Water",
+      "label": "Water Plugin",
+      "nodes": ["OceanBoxCollisionComponent"],
+      "properties": {
+        "type": "plugin",
+        "name": "Water"
+      }
+    },
+    {
+      "id": "plugin_Avalanche",
+      "label": "Avalanche Plugin",
+      "nodes": ["AvaMaterialMaskOrientation"],
+      "properties": {
+        "type": "plugin",
+        "name": "Avalanche"
+      }
+    },
+    {
+      "id": "plugin_PCG",
+      "label": "PCG Plugin",
+      "nodes": ["PCGDifferenceData"],
+      "properties": {
+        "type": "plugin",
+        "name": "PCG"
+      }
+    },
+    {
+      "id": "plugin_MovieRenderPipeline",
+      "label": "MovieRenderPipeline Plugin",
+      "nodes": ["MovieGraphGlobalVariable_CameraName", "MoviePipelineExecutorBase"],
+      "properties": {
+        "type": "plugin",
+        "name": "MovieRenderPipeline"
+      }
+    },
+    {
+      "id": "plugin_ControlRig",
+      "label": "ControlRig Plugin",
+      "nodes": ["RigUnit_RemoveMetadataTag"],
+      "properties": {
+        "type": "plugin",
+        "name": "ControlRig"
+      }
+    },
+    {
+      "id": "plugin_nDisplay",
+      "label": "nDisplay Plugin",
+      "nodes": ["DisplayClusterConfigurationOCIOConfiguration", "DisplayClusterMediaOutputSynchronizationPolicyVblank"],
+      "properties": {
+        "type": "plugin",
+        "name": "nDisplay"
+      }
+    },
+    {
+      "id": "plugin_MassGameplay",
+      "label": "MassGameplay Plugin",
+      "nodes": ["MassTranslationDirection"],
+      "properties": {
+        "type": "plugin",
+        "name": "MassGameplay"
+      }
+    },
+    {
+      "id": "plugin_WdpApplication",
+      "label": "WdpApplication Plugin",
+      "nodes": ["RectangleStyle"],
+      "properties": {
+        "type": "plugin",
+        "name": "WdpApplication"
+      }
+    },
+    {
+      "id": "plugin_CoveringAPI",
+      "label": "CoveringAPI Plugin",
+      "nodes": ["ParabolaStyle"],
+      "properties": {
+        "type": "plugin",
+        "name": "CoveringAPI"
+      }
+    },
+    {
+      "id": "type_inheritance_StructBase",
+      "label": "StructBase Inheritance Group",
+      "nodes": ["RigVMNodeLayout", "MovieScenePasteSectionsParams", "DisplayClusterConfigurationOCIOConfiguration", "RectangleStyle", "ChaosRemovalEventData", "ParabolaStyle"],
+      "properties": {
+        "type": "inheritance_group",
+        "parent": "StructBase"
+      }
+    },
+    {
+      "id": "type_inheritance_EnumBase",
+      "label": "EnumBase Inheritance Group",
+      "nodes": ["AvaMaterialMaskOrientation", "MassTranslationDirection"],
+      "properties": {
+        "type": "inheritance_group",
+        "parent": "EnumBase"
+      }
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "nodes": [
+    {
+      "id": "particlemodulelight_seeded",
+      "label": "ParticleModuleLight_Seeded",
+      "file_type": "document",
+      "source_file": "ParticleModuleLight_Seeded Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlemodulelight",
+      "label": "ParticleModuleLight",
+      "file_type": "document",
+      "source_file": "ParticleModuleLight_Seeded Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particle_light_system",
+      "label": "Particle Light System",
+      "file_type": "document",
+      "source_file": "ParticleModuleLight_Seeded Objects.md",
+      "source_location": "line 16-40",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "ParticleModuleLight_Seeded Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectmotionfiltercircuit",
+      "label": "SourceEffectMotionFilterCircuit",
+      "file_type": "document",
+      "source_file": "SourceEffectMotionFilterCircuit Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthesis_plugin",
+      "label": "Synthesis Plugin",
+      "file_type": "document",
+      "source_file": "SourceEffectMotionFilterCircuit Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_filter_circuits",
+      "label": "Audio Filter Circuits",
+      "file_type": "document",
+      "source_file": "SourceEffectMotionFilterCircuit Objects.md",
+      "source_location": "line 17-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributeinheritancemode",
+      "label": "PCGAttributeInheritanceMode",
+      "file_type": "document",
+      "source_file": "PCGAttributeInheritanceMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGAttributeInheritanceMode Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "attribute_inheritance",
+      "label": "Attribute Inheritance",
+      "file_type": "document",
+      "source_file": "PCGAttributeInheritanceMode Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navarea_default",
+      "label": "NavArea_Default",
+      "file_type": "document",
+      "source_file": "NavArea_Default Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navarea",
+      "label": "NavArea",
+      "file_type": "document",
+      "source_file": "NavArea_Default Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationsystem_module",
+      "label": "NavigationSystem Module",
+      "file_type": "document",
+      "source_file": "NavArea_Default Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pathfinding_navigation",
+      "label": "Pathfinding Navigation",
+      "file_type": "document",
+      "source_file": "NavArea_Default Objects.md",
+      "source_location": "line 16-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendspaceplayer_standalone",
+      "label": "AnimNode_BlendSpacePlayer_Standalone",
+      "file_type": "document",
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendspaceplayerbase",
+      "label": "AnimNode_BlendSpacePlayerBase",
+      "file_type": "document",
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphruntime_module",
+      "label": "AnimGraphRuntime Module",
+      "file_type": "document",
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendspace_animation",
+      "label": "BlendSpace Animation",
+      "file_type": "document",
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 16-34",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_synchronization",
+      "label": "Animation Synchronization",
+      "file_type": "document",
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 18-29",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiospectrumanalyzerballistics",
+      "label": "AudioSpectrumAnalyzerBallistics",
+      "file_type": "document",
+      "source_file": "AudioSpectrumAnalyzerBallistics Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiowidgets_plugin",
+      "label": "AudioWidgets Plugin",
+      "file_type": "document",
+      "source_file": "AudioSpectrumAnalyzerBallistics Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_spectrum_analysis",
+      "label": "Audio Spectrum Analysis",
+      "file_type": "document",
+      "source_file": "AudioSpectrumAnalyzerBallistics Objects.md",
+      "source_location": "line 17-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacerendertargetvolume",
+      "label": "NiagaraDataInterfaceRenderTargetVolume",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceRenderTargetVolume Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacerwbase",
+      "label": "NiagaraDataInterfaceRWBase",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceRenderTargetVolume Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceRenderTargetVolume Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "render_target_management",
+      "label": "Render Target Management",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceRenderTargetVolume Objects.md",
+      "source_location": "line 17-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vectorcurve",
+      "label": "VectorCurve",
+      "file_type": "document",
+      "source_file": "VectorCurve Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcurvebase",
+      "label": "AnimCurveBase",
+      "file_type": "document",
+      "source_file": "VectorCurve Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_curves",
+      "label": "Animation Curves",
+      "file_type": "document",
+      "source_file": "VectorCurve Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_customsize",
+      "label": "DisplayClusterConfigurationICVFX_CustomSize",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_CustomSize Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_CustomSize Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndisplay_plugin",
+      "label": "nDisplay Plugin",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_CustomSize Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "icvfx_resolution_settings",
+      "label": "ICVFX Resolution Settings",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_CustomSize Objects.md",
+      "source_location": "line 17-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeaicomponent",
+      "label": "StateTreeAIComponent",
+      "file_type": "document",
+      "source_file": "StateTreeAIComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreecomponent",
+      "label": "StateTreeComponent",
+      "file_type": "document",
+      "source_file": "StateTreeAIComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaystatetree_plugin",
+      "label": "GameplayStateTree Plugin",
+      "file_type": "document",
+      "source_file": "StateTreeAIComponent Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_state_machine",
+      "label": "AI State Machine",
+      "file_type": "document",
+      "source_file": "StateTreeAIComponent Objects.md",
+      "source_location": "line 7-35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppolyline2d",
+      "label": "WdpPolyline2D",
+      "file_type": "document",
+      "source_file": "WdpPolyline2D Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcommon_plugin",
+      "label": "WdpCommon Plugin",
+      "file_type": "document",
+      "source_file": "WdpPolyline2D Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometry_structures",
+      "label": "Geometry Structures",
+      "file_type": "document",
+      "source_file": "WdpPolyline2D Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_randomvector",
+      "label": "RigVMFunction_RandomVector",
+      "file_type": "document",
+      "source_file": "RigVMFunction_RandomVector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbase",
+      "label": "RigVMFunction_MathBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_RandomVector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_RandomVector Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_random_generation",
+      "label": "Procedural Random Generation",
+      "file_type": "document",
+      "source_file": "RigVMFunction_RandomVector Objects.md",
+      "source_location": "line 17-22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "particlemodulelight_seeded",
+      "target": "particlemodulelight",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleModuleLight_Seeded Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "particlemodulelight_seeded",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleModuleLight_Seeded Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "particlemodulelight_seeded",
+      "target": "particle_light_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleModuleLight_Seeded Objects.md",
+      "source_location": "line 16-40",
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectmotionfiltercircuit",
+      "target": "synthesis_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectMotionFilterCircuit Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectmotionfiltercircuit",
+      "target": "audio_filter_circuits",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectMotionFilterCircuit Objects.md",
+      "source_location": "line 17-31",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributeinheritancemode",
+      "target": "pcg_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeInheritanceMode Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributeinheritancemode",
+      "target": "attribute_inheritance",
+      "relation": "controls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeInheritanceMode Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "navarea_default",
+      "target": "navarea",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavArea_Default Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "navarea_default",
+      "target": "navigationsystem_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavArea_Default Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "navarea_default",
+      "target": "pathfinding_navigation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavArea_Default Objects.md",
+      "source_location": "line 16-19",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendspaceplayer_standalone",
+      "target": "animnode_blendspaceplayerbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendspaceplayer_standalone",
+      "target": "animgraphruntime_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendspaceplayer_standalone",
+      "target": "blendspace_animation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 16-34",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendspaceplayer_standalone",
+      "target": "animation_synchronization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__BlendSpacePlayer__Standalone Objects.md",
+      "source_location": "line 18-29",
+      "weight": 1.0
+    },
+    {
+      "source": "audiospectrumanalyzerballistics",
+      "target": "audiowidgets_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSpectrumAnalyzerBallistics Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "audiospectrumanalyzerballistics",
+      "target": "audio_spectrum_analysis",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSpectrumAnalyzerBallistics Objects.md",
+      "source_location": "line 17-25",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacerendertargetvolume",
+      "target": "niagaradatainterfacerwbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceRenderTargetVolume Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacerendertargetvolume",
+      "target": "niagara_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceRenderTargetVolume Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacerendertargetvolume",
+      "target": "render_target_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceRenderTargetVolume Objects.md",
+      "source_location": "line 17-25",
+      "weight": 1.0
+    },
+    {
+      "source": "vectorcurve",
+      "target": "animcurvebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VectorCurve Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "vectorcurve",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VectorCurve Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "vectorcurve",
+      "target": "animation_curves",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VectorCurve Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_customsize",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_CustomSize Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_customsize",
+      "target": "ndisplay_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_CustomSize Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_customsize",
+      "target": "icvfx_resolution_settings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_CustomSize Objects.md",
+      "source_location": "line 17-25",
+      "weight": 1.0
+    },
+    {
+      "source": "statetreeaicomponent",
+      "target": "statetreecomponent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeAIComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "statetreeaicomponent",
+      "target": "gameplaystatetree_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeAIComponent Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "statetreeaicomponent",
+      "target": "ai_state_machine",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeAIComponent Objects.md",
+      "source_location": "line 7-35",
+      "weight": 1.0
+    },
+    {
+      "source": "wdppolyline2d",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPolyline2D Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "wdppolyline2d",
+      "target": "wdpcommon_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPolyline2D Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "wdppolyline2d",
+      "target": "geometry_structures",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPolyline2D Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_randomvector",
+      "target": "rigvmfunction_mathbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_RandomVector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_randomvector",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_RandomVector Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_randomvector",
+      "target": "procedural_random_generation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_RandomVector Objects.md",
+      "source_location": "line 17-22",
+      "weight": 1.0
+    },
+    {
+      "source": "synthesis_plugin",
+      "target": "audiowidgets_plugin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SourceEffectMotionFilterCircuit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audio_filter_circuits",
+      "target": "audio_spectrum_analysis",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animation_curves",
+      "target": "blendspace_animation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vectorcurve",
+      "target": "animnode_blendspaceplayer_standalone",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlemodulelight_seeded",
+      "target": "niagaradatainterfacerendertargetvolume",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navarea_default",
+      "target": "statetreeaicomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_randomvector",
+      "target": "vectorcurve",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "audio_systems_group",
+      "label": "Audio Processing Systems",
+      "nodes": [
+        "sourceeffectmotionfiltercircuit",
+        "audiospectrumanalyzerballistics",
+        "synthesis_plugin",
+        "audiowidgets_plugin",
+        "audio_filter_circuits",
+        "audio_spectrum_analysis"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": null
+    },
+    {
+      "id": "animation_systems_group",
+      "label": "Animation and Skeletal Systems",
+      "nodes": [
+        "animnode_blendspaceplayer_standalone",
+        "vectorcurve",
+        "rigvmfunction_randomvector",
+        "blendspace_animation",
+        "animation_synchronization",
+        "animation_curves",
+        "procedural_random_generation"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null
+    },
+    {
+      "id": "rendering_effects_group",
+      "label": "Rendering and Visual Effects",
+      "nodes": [
+        "particlemodulelight_seeded",
+        "niagaradatainterfacerendertargetvolume",
+        "displayclusterconfigurationicvfx_customsize",
+        "particle_light_system",
+        "render_target_management",
+        "icvfx_resolution_settings"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

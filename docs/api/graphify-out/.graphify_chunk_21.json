@@ -1,0 +1,514 @@
+{
+  "entities": [
+    {
+      "id": "unreal.GeoPointStyle",
+      "type": "struct",
+      "name": "GeoPointStyle",
+      "description": "Geo Point Style",
+      "source": {
+        "plugin": "GISDataAPI",
+        "module": "MagicGISCore",
+        "file": "MagicGISStyleTypeDef.h"
+      },
+      "base_type": "StructBase",
+      "properties": [
+        {
+          "name": "point_color",
+          "type": "str",
+          "access": "read-write",
+          "description": "支持透明度表达"
+        },
+        {
+          "name": "point_size",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "point_shape",
+          "type": "str",
+          "access": "read-write",
+          "description": "Circle/Sphere/Cube..."
+        }
+      ]
+    },
+    {
+      "id": "unreal.Polygon2DEntityAtom",
+      "type": "class",
+      "name": "Polygon2DEntityAtom",
+      "description": "Polygon 2DEntity Atom",
+      "source": {
+        "plugin": "WdpDataModel",
+        "module": "WdpGeometryEntity",
+        "file": "Polygon2DEntityAtom.h"
+      },
+      "base_type": "EntityAtomBase",
+      "properties": [
+        {
+          "name": "polygon",
+          "type": "WdpPolygon2D",
+          "access": "read-only"
+        }
+      ]
+    },
+    {
+      "id": "unreal.DataflowMathConstantsEnum",
+      "type": "enum",
+      "name": "DataflowMathConstantsEnum",
+      "description": "EDataflow Math Constants Enum",
+      "source": {
+        "module": "DataflowCore",
+        "file": "DataflowMathNodes.h"
+      },
+      "base_type": "EnumBase",
+      "values": [
+        {"name": "DATAFLOW_MATH_CONSTANTS_PI", "value": 0},
+        {"name": "DATAFLOW_MATH_CONSTANTS_HALF_PI", "value": 1},
+        {"name": "DATAFLOW_MATH_CONSTANTS_TWO_PI", "value": 2},
+        {"name": "DATAFLOW_MATH_CONSTANTS_FOUR_PI", "value": 3},
+        {"name": "DATAFLOW_MATH_CONSTANTS_INV_PI", "value": 4},
+        {"name": "DATAFLOW_MATH_CONSTANTS_INV_TWO_PI", "value": 5},
+        {"name": "DATAFLOW_MATH_CONSTANTS_SQRT2", "value": 6},
+        {"name": "DATAFLOW_MATH_CONSTANTS_INV_SQRT2", "value": 7},
+        {"name": "DATAFLOW_MATH_CONSTANTS_SQRT3", "value": 8},
+        {"name": "DATAFLOW_MATH_CONSTANTS_INV_SQRT3", "value": 9},
+        {"name": "DATAFLOW_MATH_CONSTANTS_E", "value": 10},
+        {"name": "DATAFLOW_MATH_CONSTANTS_GAMMA", "value": 11},
+        {"name": "DATAFLOW_MATH_CONSTANTS_GOLDEN_RATIO", "value": 12}
+      ]
+    },
+    {
+      "id": "unreal.AvaShapeTorusDynamicMesh",
+      "type": "class",
+      "name": "AvaShapeTorusDynamicMesh",
+      "description": "Ava Shape Torus Dynamic Mesh",
+      "source": {
+        "plugin": "Avalanche",
+        "module": "AvalancheShapes",
+        "file": "AvaShapeTorusDynMesh.h"
+      },
+      "base_type": "AvaShape3DDynMeshBase",
+      "properties": [
+        {"name": "num_slices", "type": "uint8", "access": "read-write", "description": "represents the number of slices composing the tube"},
+        {"name": "num_sides", "type": "uint8", "access": "read-write", "description": "represents the precision of each circle composing a slice"},
+        {"name": "inner_size", "type": "float", "access": "read-write", "description": "represents the size ratio available inside the torus"},
+        {"name": "angle_degree", "type": "float", "access": "read-write", "description": "represents the tube angle in degree for the torus"},
+        {"name": "start_degree", "type": "float", "access": "read-write", "description": "represents the starting angle in degree for the torus"},
+        {"name": "allow_edit_size", "type": "bool", "access": "read-write"},
+        {"name": "asset_user_data", "type": "Array[AssetUserData]", "access": "read-write"},
+        {"name": "size3d", "type": "Vector", "access": "read-write"},
+        {"name": "vertex_color", "type": "LinearColor", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "unreal.RigPhysicsSolverDescription",
+      "type": "struct",
+      "name": "RigPhysicsSolverDescription",
+      "description": "Rig Physics Solver Description",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigHierarchyElements.h"
+      },
+      "base_type": "StructBase",
+      "properties": [
+        {"name": "id", "type": "RigPhysicsSolverID", "access": "read-only"},
+        {"name": "name", "type": "Name", "access": "read-only"}
+      ]
+    },
+    {
+      "id": "unreal.RigReferenceElement",
+      "type": "class",
+      "name": "RigReferenceElement",
+      "description": "Rig Reference Element",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigHierarchyElements.h"
+      },
+      "base_type": "RigSingleParentElement",
+      "properties": [
+        {"name": "created_at_instruction_index", "type": "int32", "access": "read-write"},
+        {"name": "index", "type": "int32", "access": "read-only"},
+        {"name": "key", "type": "RigElementKey", "access": "read-only"},
+        {"name": "selected", "type": "bool", "access": "read-write"},
+        {"name": "sub_index", "type": "int32", "access": "read-only"}
+      ]
+    },
+    {
+      "id": "unreal.FindSessionsCallbackProxy",
+      "type": "class",
+      "name": "FindSessionsCallbackProxy",
+      "description": "Find Sessions Callback Proxy",
+      "source": {
+        "plugin": "OnlineSubsystemUtils",
+        "module": "OnlineSubsystemUtils",
+        "file": "FindSessionsCallbackProxy.h"
+      },
+      "base_type": "OnlineBlueprintCallProxyBase",
+      "properties": [
+        {"name": "on_success", "type": "BlueprintFindSessionsResultDelegate", "access": "read-write", "description": "Called when there is a successful query"},
+        {"name": "on_failure", "type": "BlueprintFindSessionsResultDelegate", "access": "read-write", "description": "Called when there is an unsuccessful query"}
+      ],
+      "methods": [
+        {
+          "name": "get_server_name",
+          "return_type": "str",
+          "parameters": [{"name": "result", "type": "BlueprintSessionResult"}],
+          "static": true
+        },
+        {
+          "name": "get_ping_in_ms",
+          "return_type": "int",
+          "parameters": [{"name": "result", "type": "BlueprintSessionResult"}],
+          "static": true
+        },
+        {
+          "name": "get_max_players",
+          "return_type": "int",
+          "parameters": [{"name": "result", "type": "BlueprintSessionResult"}],
+          "static": true
+        },
+        {
+          "name": "get_current_players",
+          "return_type": "int",
+          "parameters": [{"name": "result", "type": "BlueprintSessionResult"}],
+          "static": true
+        }
+      ]
+    },
+    {
+      "id": "unreal.CapturedPixelsID",
+      "type": "struct",
+      "name": "CapturedPixelsID",
+      "description": "Structure used as an identifier for a particular buffer within a capture.",
+      "source": {
+        "module": "MovieSceneCapture",
+        "file": "UserDefinedCaptureProtocol.h"
+      },
+      "base_type": "StructBase",
+      "properties": [
+        {"name": "identifiers", "type": "Map[Name, Name]", "access": "read-write", "description": "Map of identifiers to their values for this ID."}
+      ]
+    },
+    {
+      "id": "unreal.HLODProxy",
+      "type": "class",
+      "name": "HLODProxy",
+      "description": "This asset acts as a proxy to a static mesh for ALODActors to display",
+      "source": {
+        "module": "Engine",
+        "file": "HLODProxy.h"
+      },
+      "base_type": "Object",
+      "properties": [
+        {"name": "hlod_actors", "type": "Map[HLODProxyDesc, HLODProxyMesh]", "access": "read-only"},
+        {"name": "owning_map", "type": "World", "access": "read-only"},
+        {"name": "proxy_meshes", "type": "Array[HLODProxyMesh]", "access": "read-only"}
+      ]
+    },
+    {
+      "id": "unreal.DatasmithAssetImportData",
+      "type": "class",
+      "name": "DatasmithAssetImportData",
+      "description": "Datasmith Asset Import Data",
+      "source": {
+        "plugin": "DatasmithContent",
+        "module": "DatasmithContent",
+        "file": "DatasmithAssetImportData.h"
+      },
+      "base_type": "AssetImportData",
+      "properties": [
+        {"name": "additional_data", "type": "Array[DatasmithAdditionalData]", "access": "read-write"},
+        {"name": "asset_import_options", "type": "DatasmithAssetImportOptions", "access": "read-write"},
+        {"name": "datasmith_import_info", "type": "DatasmithImportInfo", "access": "read-write"},
+        {"name": "source_data", "type": "AssetImportInfo", "access": "read-only"}
+      ]
+    },
+    {
+      "id": "unreal.TypedElementHandleLibrary",
+      "type": "class",
+      "name": "TypedElementHandleLibrary",
+      "description": "Script exposure for FScriptTypedElementHandle.",
+      "source": {
+        "module": "TypedElementFramework",
+        "file": "TypedElementHandle.h"
+      },
+      "base_type": "Object",
+      "methods": [
+        {
+          "name": "release",
+          "return_type": "ScriptTypedElementHandle",
+          "parameters": [{"name": "element_handle", "type": "ScriptTypedElementHandle"}],
+          "static": true,
+          "description": "Release this handle and set it back to an empty state."
+        },
+        {
+          "name": "not_equal",
+          "return_type": "bool",
+          "parameters": [
+            {"name": "lhs", "type": "ScriptTypedElementHandle"},
+            {"name": "rhs", "type": "ScriptTypedElementHandle"}
+          ],
+          "static": true,
+          "description": "Are these two handles not equal?"
+        },
+        {
+          "name": "is_set",
+          "return_type": "bool",
+          "parameters": [{"name": "element_handle", "type": "ScriptTypedElementHandle"}],
+          "static": true,
+          "description": "Has this handle been initialized to a valid element?"
+        },
+        {
+          "name": "equal",
+          "return_type": "bool",
+          "parameters": [
+            {"name": "lhs", "type": "ScriptTypedElementHandle"},
+            {"name": "rhs", "type": "ScriptTypedElementHandle"}
+          ],
+          "static": true,
+          "description": "Are these two handles equal?"
+        }
+      ]
+    },
+    {
+      "id": "unreal.RigUnit_Control",
+      "type": "class",
+      "name": "RigUnit_Control",
+      "description": "A control unit used to drive a transform from an external source",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_Control.h"
+      },
+      "base_type": "RigUnit",
+      "properties": [
+        {"name": "transform", "type": "EulerTransform", "access": "read-write", "description": "The transform of this control"},
+        {"name": "base", "type": "Transform", "access": "read-write", "description": "The base that transform is relative to"},
+        {"name": "init_transform", "type": "Transform", "access": "read-write", "description": "The initial transform that The Transform is initialized to."},
+        {"name": "result", "type": "Transform", "access": "read-only", "description": "The resultant transform of this unit (Base * Filter(Transform))"},
+        {"name": "filter", "type": "TransformFilter", "access": "read-write", "description": "The filter determines what axes can be manipulated by the in-viewport widgets"}
+      ]
+    },
+    {
+      "id": "unreal.CollisionEnabled",
+      "type": "enum",
+      "name": "CollisionEnabled",
+      "description": "Enum used to describe what type of collision is enabled on a body.",
+      "source": {
+        "module": "Engine",
+        "file": "EngineTypes.h"
+      },
+      "base_type": "EnumBase",
+      "values": [
+        {"name": "NO_COLLISION", "value": 0, "description": "Will not create any representation in the physics engine. Cannot be used for spatial queries (raycasts, sweeps, overlaps) or simulation (rigid body, constraints). Best performance possible (especially for moving objects)"},
+        {"name": "QUERY_ONLY", "value": 1, "description": "Only used for spatial queries (raycasts, sweeps, and overlaps). Cannot be used for simulation (rigid body, constraints). Useful for character movement and things that do not need physical simulation. Performance gains by keeping data out of simulation tree."},
+        {"name": "PHYSICS_ONLY", "value": 2, "description": "Only used only for physics simulation (rigid body, constraints). Cannot be used for spatial queries (raycasts, sweeps, overlaps). Useful for jiggly bits on characters that do not need per bone detection. Performance gains by keeping data out of query tree"},
+        {"name": "QUERY_AND_PHYSICS", "value": 3, "description": "Can be used for both spatial queries (raycasts, sweeps, overlaps) and simulation (rigid body, constraints)."},
+        {"name": "PROBE_ONLY", "value": 4, "description": "Only used for probing the physics simulation (rigid body, constraints). Cannot be used for spatial queries (raycasts, sweeps, overlaps). Useful for when you want to detect potential physics interactions and pass contact data to hit callbacks or contact modification, but don't want to physically react to these contacts."},
+        {"name": "QUERY_AND_PROBE", "value": 5, "description": "Can be used for both spatial queries (raycasts, sweeps, overlaps) and probing the physics simulation (rigid body, constraints). Will not allow for actual physics interaction, but will generate contact data, trigger hit callbacks, and contacts will appear in contact modification."}
+      ]
+    },
+    {
+      "id": "unreal.RigVMFunction_MathIntPow",
+      "type": "class",
+      "name": "RigVMFunction_MathIntPow",
+      "description": "Returns the value of A raised to the power of B.",
+      "source": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathInt.h"
+      },
+      "base_type": "RigVMFunction_MathIntBinaryOp",
+      "properties": [
+        {"name": "a", "type": "int32", "access": "read-write"},
+        {"name": "b", "type": "int32", "access": "read-write"},
+        {"name": "result", "type": "int32", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "unreal.TextureFactory",
+      "type": "class",
+      "name": "TextureFactory",
+      "description": "Texture Factory",
+      "source": {
+        "module": "UnrealEd",
+        "file": "TextureFactory.h"
+      },
+      "base_type": "Factory",
+      "properties": [
+        {"name": "alpha_coverage_thresholds", "type": "Vector4", "access": "read-write"},
+        {"name": "alpha_to_emissive", "type": "bool", "access": "read-write"},
+        {"name": "alpha_to_opacity", "type": "bool", "access": "read-write"},
+        {"name": "alpha_to_opacity_mask", "type": "bool", "access": "read-write"},
+        {"name": "alpha_to_roughness", "type": "bool", "access": "read-write"},
+        {"name": "compression_settings", "type": "TextureCompressionSettings", "access": "read-write"},
+        {"name": "create_material", "type": "bool", "access": "read-write"},
+        {"name": "defer_compression", "type": "bool", "access": "read-write"},
+        {"name": "flip_normal_map_green_channel", "type": "bool", "access": "read-write"},
+        {"name": "lod_group", "type": "TextureGroup", "access": "read-write"},
+        {"name": "mip_gen_settings", "type": "TextureMipGenSettings", "access": "read-write"},
+        {"name": "no_alpha", "type": "bool", "access": "read-write"},
+        {"name": "preserve_border", "type": "bool", "access": "read-write"},
+        {"name": "rgb_to_base_color", "type": "bool", "access": "read-write"},
+        {"name": "rgb_to_emissive", "type": "bool", "access": "read-write"},
+        {"name": "shading_model", "type": "MaterialShadingModel", "access": "read-write"},
+        {"name": "two_sided", "type": "bool", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "unreal.KShapeElem",
+      "type": "struct",
+      "name": "KShapeElem",
+      "description": "Base class of shapes used for collision, such as Sphere, Box, Sphyl, Convex, TaperedCapsule or LevelSet",
+      "source": {
+        "module": "Engine",
+        "file": "ShapeElem.h"
+      },
+      "base_type": "StructBase",
+      "properties": [
+        {"name": "collision_enabled", "type": "CollisionEnabled", "access": "read-write", "description": "Course per-primitive collision filtering. This allows for individual primitives to be toggled in and out of sim and query collision without changing filtering details."},
+        {"name": "contribute_to_mass", "type": "bool", "access": "read-write", "description": "True if this shape should contribute to the overall mass of the body it belongs to. This lets you create extra collision volumes which do not affect the mass properties of an object."},
+        {"name": "is_generated", "type": "bool", "access": "read-write", "description": "True when the shape was created by the engine and was not imported."},
+        {"name": "name", "type": "Name", "access": "read-write", "description": "User-defined name for this shape"},
+        {"name": "rest_offset", "type": "float", "access": "read-write", "description": "Offset used when generating contact points. This allows you to smooth out the Minkowski sum by radius R. Useful for making objects slide smoothly on top of irregularities"}
+      ]
+    },
+    {
+      "id": "unreal.DEditorParameterValue",
+      "type": "class",
+      "name": "DEditorParameterValue",
+      "description": "DEditor Parameter Value",
+      "source": {
+        "module": "UnrealEd",
+        "file": "DEditorParameterValue.h"
+      },
+      "base_type": "Object",
+      "properties": [
+        {"name": "override", "type": "bool", "access": "read-write"},
+        {"name": "parameter_info", "type": "MaterialParameterInfo", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "unreal.AnimGraphNode_PoseDriver",
+      "type": "class",
+      "name": "AnimGraphNode_PoseDriver",
+      "description": "Anim Graph Node Pose Driver",
+      "source": {
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_PoseDriver.h"
+      },
+      "base_type": "AnimGraphNode_PoseHandler",
+      "properties": [
+        {"name": "node", "type": "AnimNode_PoseDriver", "access": "read-write"},
+        {"name": "axis_length", "type": "float", "access": "read-write"},
+        {"name": "cone_subdivision", "type": "int32", "access": "read-write"},
+        {"name": "draw_debug_cones", "type": "bool", "access": "read-write"}
+      ],
+      "methods": [
+        {"name": "set_source_bones", "parameters": [{"name": "bone_names", "type": "Array[Name]"}]},
+        {"name": "set_rbf_parameters", "parameters": [{"name": "parameters", "type": "RBFParams"}]},
+        {"name": "set_pose_driver_source", "parameters": [{"name": "driver_source", "type": "PoseDriverSource"}]},
+        {"name": "set_pose_driver_output", "parameters": [{"name": "driver_output", "type": "PoseDriverOutput"}]},
+        {"name": "set_driving_bones", "parameters": [{"name": "bone_names", "type": "Array[Name]"}]},
+        {"name": "get_source_bone_names", "return_type": "Array[Name]"},
+        {"name": "get_rbf_parameters", "return_type": "RBFParams"},
+        {"name": "get_pose_driver_source", "return_type": "PoseDriverSource"},
+        {"name": "get_pose_driver_output", "return_type": "PoseDriverOutput"},
+        {"name": "get_driving_bone_names", "return_type": "Array[Name]"},
+        {"name": "copy_targets_from_pose_asset"}
+      ]
+    },
+    {
+      "id": "unreal.UsdSparseVolumeTextureAssetUserData",
+      "type": "class",
+      "name": "UsdSparseVolumeTextureAssetUserData",
+      "description": "We use this mainly to help in mapping between stage timeCode and the FrameIndex for animated SVTs",
+      "source": {
+        "plugin": "USDCore",
+        "module": "USDClasses",
+        "file": "USDAssetUserData.h"
+      },
+      "base_type": "UsdAssetUserData",
+      "properties": [
+        {"name": "source_open_vdb_asset_prim_paths", "type": "Array[str]", "access": "read-write", "description": "Paths to all the OpenVDBAsset prims that led to the generation of this SVT asset"},
+        {"name": "time_sample_path_time_codes", "type": "Array[double]", "access": "read-write", "description": "TimeCodes of all the filePath attribute time samples as seen on the OpenVDBAsset prim in its own layer, in order"},
+        {"name": "time_sample_path_indices", "type": "Array[int32]", "access": "read-write", "description": "Corresponding indices of the frame of the SVT that should be played at a particular timeCode."},
+        {"name": "time_sample_paths", "type": "Array[str]", "access": "read-write", "description": "File paths that originated each of the SVT frames, in order."},
+        {"name": "original_hash", "type": "str", "access": "read-only"},
+        {"name": "prim_paths", "type": "Array[str]", "access": "read-write"},
+        {"name": "stage_identifier_to_metadata", "type": "Map[str, UsdCombinedPrimMetadata]", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "unreal.RigUnit_Divide_VectorVector",
+      "type": "class",
+      "name": "RigUnit_Divide_VectorVector",
+      "description": "Rig Unit Divide Vector Vector",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_Vector.h"
+      },
+      "base_type": "RigUnit_BinaryVectorOp",
+      "properties": [
+        {"name": "argument0", "type": "Vector", "access": "read-write"},
+        {"name": "argument1", "type": "Vector", "access": "read-write"},
+        {"name": "result", "type": "Vector", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "unreal.AnimBlueprintGeneratedClass",
+      "type": "class",
+      "name": "AnimBlueprintGeneratedClass",
+      "description": "Anim Blueprint Generated Class",
+      "source": {
+        "module": "Engine",
+        "file": "AnimBlueprintGeneratedClass.h"
+      },
+      "base_type": "BlueprintGeneratedClass"
+    },
+    {
+      "id": "unreal.PropertyAnimatorPresetLocation",
+      "type": "class",
+      "name": "PropertyAnimatorPresetLocation",
+      "description": "Preset for position properties (X, Y, Z) on scene component",
+      "source": {
+        "plugin": "PropertyAnimator",
+        "module": "PropertyAnimator",
+        "file": "PropertyAnimatorPresetLocation.h"
+      },
+      "base_type": "PropertyAnimatorCorePropertyPreset",
+      "properties": [
+        {"name": "preset_content", "type": "str", "access": "read-only"},
+        {"name": "preset_format", "type": "Name", "access": "read-only"},
+        {"name": "preset_name", "type": "Name", "access": "read-only"},
+        {"name": "preset_version", "type": "int32", "access": "read-only"}
+      ]
+    }
+  ],
+  "relationships": [
+    {"source": "unreal.GeoPointStyle", "type": "inherits_from", "target": "StructBase"},
+    {"source": "unreal.Polygon2DEntityAtom", "type": "inherits_from", "target": "EntityAtomBase"},
+    {"source": "unreal.DataflowMathConstantsEnum", "type": "inherits_from", "target": "EnumBase"},
+    {"source": "unreal.AvaShapeTorusDynamicMesh", "type": "inherits_from", "target": "AvaShape3DDynMeshBase"},
+    {"source": "unreal.RigPhysicsSolverDescription", "type": "inherits_from", "target": "StructBase"},
+    {"source": "unreal.RigReferenceElement", "type": "inherits_from", "target": "RigSingleParentElement"},
+    {"source": "unreal.FindSessionsCallbackProxy", "type": "inherits_from", "target": "OnlineBlueprintCallProxyBase"},
+    {"source": "unreal.CapturedPixelsID", "type": "inherits_from", "target": "StructBase"},
+    {"source": "unreal.HLODProxy", "type": "inherits_from", "target": "Object"},
+    {"source": "unreal.DatasmithAssetImportData", "type": "inherits_from", "target": "AssetImportData"},
+    {"source": "unreal.TypedElementHandleLibrary", "type": "inherits_from", "target": "Object"},
+    {"source": "unreal.RigUnit_Control", "type": "inherits_from", "target": "RigUnit"},
+    {"source": "unreal.CollisionEnabled", "type": "inherits_from", "target": "EnumBase"},
+    {"source": "unreal.RigVMFunction_MathIntPow", "type": "inherits_from", "target": "RigVMFunction_MathIntBinaryOp"},
+    {"source": "unreal.TextureFactory", "type": "inherits_from", "target": "Factory"},
+    {"source": "unreal.KShapeElem", "type": "inherits_from", "target": "StructBase"},
+    {"source": "unreal.DEditorParameterValue", "type": "inherits_from", "target": "Object"},
+    {"source": "unreal.AnimGraphNode_PoseDriver", "type": "inherits_from", "target": "AnimGraphNode_PoseHandler"},
+    {"source": "unreal.UsdSparseVolumeTextureAssetUserData", "type": "inherits_from", "target": "UsdAssetUserData"},
+    {"source": "unreal.RigUnit_Divide_VectorVector", "type": "inherits_from", "target": "RigUnit_BinaryVectorOp"},
+    {"source": "unreal.AnimBlueprintGeneratedClass", "type": "inherits_from", "target": "BlueprintGeneratedClass"},
+    {"source": "unreal.PropertyAnimatorPresetLocation", "type": "inherits_from", "target": "PropertyAnimatorCorePropertyPreset"}
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "nodes": [
+    {
+      "id": "displayclusterworldorigincomponent_displayclusterworldorigincomponent",
+      "label": "DisplayClusterWorldOriginComponent",
+      "file_type": "code",
+      "source_file": "DisplayClusterWorldOriginComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthplotprefabactor_earthplotprefabactor",
+      "label": "EarthPlotPrefabActor",
+      "file_type": "code",
+      "source_file": "EarthPlotPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "remotecontrolinterceptionfunctionparamstruct_remotecontrolinterceptionfunctionparamstruct",
+      "label": "RemoteControlInterceptionFunctionParamStruct",
+      "file_type": "code",
+      "source_file": "RemoteControlInterceptionFunctionParamStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionexecend_materialexpressionexecend",
+      "label": "MaterialExpressionExecEnd",
+      "file_type": "code",
+      "source_file": "MaterialExpressionExecEnd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmpeformuserworkflowdynamicdelegate_rigvmpeformuserworkflowdynamicdelegate",
+      "label": "RigVMPeformUserWorkflowDynamicDelegate",
+      "file_type": "code",
+      "source_file": "RigVMPeformUserWorkflowDynamicDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpentityreadyeventargs_wdpentityreadyeventargs",
+      "label": "WdpEntityReadyEventArgs",
+      "file_type": "code",
+      "source_file": "WdpEntityReadyEventArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oncreateauditiongeneratorhandledelegate_oncreateauditiongeneratorhandledelegate",
+      "label": "OnCreateAuditionGeneratorHandleDelegate",
+      "file_type": "code",
+      "source_file": "OnCreateAuditionGeneratorHandleDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublebinaryaggregateop_rigunit_mathdoublebinaryaggregateop",
+      "label": "RigUnit_MathDoubleBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayability_characterjump_gameplayability_characterjump",
+      "label": "GameplayAbility_CharacterJump",
+      "file_type": "code",
+      "source_file": "GameplayAbility__CharacterJump Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiontime_materialexpressiontime",
+      "label": "MaterialExpressionTime",
+      "file_type": "code",
+      "source_file": "MaterialExpressionTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_positionconstraint_rigunit_positionconstraint",
+      "label": "RigUnit_PositionConstraint",
+      "file_type": "code",
+      "source_file": "RigUnit__PositionConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_convertquaternion_rigunit_convertquaternion",
+      "label": "RigUnit_ConvertQuaternion",
+      "file_type": "code",
+      "source_file": "RigUnit_ConvertQuaternion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationstateentry_animationstateentry",
+      "label": "AnimationStateEntry",
+      "file_type": "code",
+      "source_file": "AnimationStateEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quartztimesignaturequantization_quartztimesignaturequantization",
+      "label": "QuartzTimeSignatureQuantization",
+      "file_type": "code",
+      "source_file": "QuartzTimeSignatureQuantization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "detailsview_detailsview",
+      "label": "DetailsView",
+      "file_type": "code",
+      "source_file": "DetailsView Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaoscache_chaoscache",
+      "label": "ChaosCache",
+      "file_type": "code",
+      "source_file": "ChaosCache Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pyteststructdelegate_onnamecollisiondelegate_pyteststructdelegate_onnamecollisiondelegate",
+      "label": "PyTestStructDelegate_OnNameCollisionDelegate",
+      "file_type": "code",
+      "source_file": "PyTestStructDelegate__OnNameCollisionDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sphericallensdistortionmodelhandler_sphericallensdistortionmodelhandler",
+      "label": "SphericalLensDistortionModelHandler",
+      "file_type": "code",
+      "source_file": "SphericalLensDistortionModelHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpactivefinisheventparam_dcpactivefinisheventparam",
+      "label": "DcpActiveFinishEventParam",
+      "file_type": "code",
+      "source_file": "DcpActiveFinishEventParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_drawcontrolrigspline_rigunit_drawcontrolrigspline",
+      "label": "RigUnit_DrawControlRigSpline",
+      "file_type": "code",
+      "source_file": "RigUnit_DrawControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaterniongetaxis_rigunit_mathquaterniongetaxis",
+      "label": "RigUnit_MathQuaternionGetAxis",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionGetAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editabletext_oneditabletextcommittedevent_editabletext_oneditabletextcommittedevent",
+      "label": "EditableText_OnEditableTextCommittedEvent",
+      "file_type": "code",
+      "source_file": "EditableText_OnEditableTextCommittedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshcomponent_parent_class",
+      "label": "StaticMeshComponent",
+      "file_type": "code",
+      "source_file": "DisplayClusterWorldOriginComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabactor_parent_class",
+      "label": "EarthPrefabActor",
+      "file_type": "code",
+      "source_file": "EarthPlotPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_parent_class",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionExecEnd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebinaryaggregateop_renamed_class",
+      "label": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayability_parent_class",
+      "label": "GameplayAbility",
+      "file_type": "code",
+      "source_file": "GameplayAbility__CharacterJump Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable_parent_class",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__PositionConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_parent_class",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit_ConvertQuaternion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaterniongetaxis_renamed_class",
+      "label": "RigVMFunction_MathQuaternionGetAxis",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionGetAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_parent_class",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_DrawControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_type",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__PositionConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "displayclusterworldorigincomponent_displayclusterworldorigincomponent",
+      "target": "staticmeshcomponent_parent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterWorldOriginComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthplotprefabactor_earthplotprefabactor",
+      "target": "earthprefabactor_parent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPlotPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionexecend_materialexpressionexecend",
+      "target": "materialexpression_parent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionExecEnd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiontime_materialexpressiontime",
+      "target": "materialexpression_parent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionTime Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublebinaryaggregateop_rigunit_mathdoublebinaryaggregateop",
+      "target": "rigvmfunction_mathdoublebinaryaggregateop_renamed_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayability_characterjump_gameplayability_characterjump",
+      "target": "gameplayability_parent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbility__CharacterJump Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_positionconstraint_rigunit_positionconstraint",
+      "target": "rigunit_highlevelbasemutable_parent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PositionConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_positionconstraint_rigunit_positionconstraint",
+      "target": "controlrigexecutecontext_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PositionConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_convertquaternion_rigunit_convertquaternion",
+      "target": "rigunit_parent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ConvertQuaternion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniongetaxis_rigunit_mathquaterniongetaxis",
+      "target": "rigvmfunction_mathquaterniongetaxis_renamed_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionGetAxis Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_drawcontrolrigspline_rigunit_drawcontrolrigspline",
+      "target": "rigunitmutable_parent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DrawControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_drawcontrolrigspline_rigunit_drawcontrolrigspline",
+      "target": "controlrigexecutecontext_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DrawControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_positionconstraint_rigunit_positionconstraint",
+      "target": "rigunit_drawcontrolrigspline_rigunit_drawcontrolrigspline",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__PositionConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionexecend_materialexpressionexecend",
+      "target": "materialexpressiontime_materialexpressiontime",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionExecEnd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_units_with_execute_context",
+      "label": "ControlRig Units Using Execute Context",
+      "nodes": [
+        "rigunit_positionconstraint_rigunit_positionconstraint",
+        "rigunit_drawcontrolrigspline_rigunit_drawcontrolrigspline"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PositionConstraint Objects.md"
+    },
+    {
+      "id": "material_expressions_for_visual_effects",
+      "label": "Material Expression Nodes for Visual Effects",
+      "nodes": [
+        "materialexpressionexecend_materialexpressionexecend",
+        "materialexpressiontime_materialexpressiontime"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionExecEnd Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

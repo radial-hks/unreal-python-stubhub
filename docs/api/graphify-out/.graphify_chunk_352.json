@@ -1,0 +1,738 @@
+{
+  "nodes": [
+    {
+      "id": "NiagaraSimulationStageBase_NiagaraSimulationStageBase",
+      "label": "NiagaraSimulationStageBase",
+      "file_type": "code",
+      "source_file": "NiagaraSimulationStageBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PropertyAnimatorCoreBase_PropertyAnimatorCoreBase",
+      "label": "PropertyAnimatorCoreBase",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorCoreBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_SimBase_RigVMFunction_SimBase",
+      "label": "RigVMFunction_SimBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_SimBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "FCTweenBPActionVector_FCTweenBPActionVector",
+      "label": "FCTweenBPActionVector",
+      "file_type": "code",
+      "source_file": "FCTweenBPActionVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MassDistanceLODParameters_MassDistanceLODParameters",
+      "label": "MassDistanceLODParameters",
+      "file_type": "code",
+      "source_file": "MassDistanceLODParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "UrbanEntityEditorSceneComponent_UrbanEntityEditorSceneComponent",
+      "label": "UrbanEntityEditorSceneComponent",
+      "file_type": "code",
+      "source_file": "UrbanEntityEditorSceneComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMUserWorkflow_RigVMUserWorkflow",
+      "label": "RigVMUserWorkflow",
+      "file_type": "code",
+      "source_file": "RigVMUserWorkflow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ModularSynthComponent_ModularSynthComponent",
+      "label": "ModularSynthComponent",
+      "file_type": "code",
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathVectorUnit_RigVMFunction_MathVectorUnit",
+      "label": "RigVMFunction_MathVectorUnit",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorUnit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_GetRotatorAnimationChannel_RigUnit_GetRotatorAnimationChannel",
+      "label": "RigUnit_GetRotatorAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit__GetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PhysicsConstraintActor_PhysicsConstraintActor",
+      "label": "PhysicsConstraintActor",
+      "file_type": "code",
+      "source_file": "PhysicsConstraintActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AttachLocation_AttachLocation",
+      "label": "AttachLocation",
+      "file_type": "code",
+      "source_file": "AttachLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "VirtualKeyboardTrigger_VirtualKeyboardTrigger",
+      "label": "VirtualKeyboardTrigger",
+      "file_type": "code",
+      "source_file": "VirtualKeyboardTrigger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieGraphBranch_MovieGraphBranch",
+      "label": "MovieGraphBranch",
+      "file_type": "code",
+      "source_file": "MovieGraphBranch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AttributeBasedFloatCalculationType_AttributeBasedFloatCalculationType",
+      "label": "AttributeBasedFloatCalculationType",
+      "file_type": "code",
+      "source_file": "AttributeBasedFloatCalculationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieGraphInput_MovieGraphInput",
+      "label": "MovieGraphInput",
+      "file_type": "code",
+      "source_file": "MovieGraphInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LevelSequencePlaybackSettings_LevelSequencePlaybackSettings",
+      "label": "LevelSequencePlaybackSettings",
+      "file_type": "code",
+      "source_file": "LevelSequencePlaybackSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "StringLibrary_StringLibrary",
+      "label": "StringLibrary",
+      "file_type": "code",
+      "source_file": "StringLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "glTFRuntimeTexture2DAsync_glTFRuntimeTexture2DAsync",
+      "label": "glTFRuntimeTexture2DAsync",
+      "file_type": "code",
+      "source_file": "glTFRuntimeTexture2DAsync Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MoviePipelineExampleRuntimeExecutor_MoviePipelineExampleRuntimeExecutor",
+      "label": "MoviePipelineExampleRuntimeExecutor",
+      "file_type": "code",
+      "source_file": "MoviePipelineExampleRuntimeExecutor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AnimNode_SequenceEvaluatorBase_AnimNode_SequenceEvaluatorBase",
+      "label": "AnimNode_SequenceEvaluatorBase",
+      "file_type": "code",
+      "source_file": "AnimNode__SequenceEvaluatorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Draw2DItemWidget_Draw2DItemWidget",
+      "label": "Draw2DItemWidget",
+      "file_type": "code",
+      "source_file": "Draw2DItemWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "NiagaraSimulationStageBase_simulation_stage_name",
+      "label": "simulation_stage_name Property",
+      "file_type": "code",
+      "source_file": "NiagaraSimulationStageBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PropertyAnimatorCoreBase_active_time_source",
+      "label": "active_time_source Property",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorCoreBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PropertyAnimatorCoreBase_time_sources_instances",
+      "label": "time_sources_instances Property",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorCoreBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MassDistanceLODParameters_lod_distance",
+      "label": "lod_distance Property",
+      "file_type": "code",
+      "source_file": "MassDistanceLODParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ModularSynthComponent_voice_count",
+      "label": "voice_count Property",
+      "file_type": "code",
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ModularSynthComponent_set_synth_preset",
+      "label": "set_synth_preset Method",
+      "file_type": "code",
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ModularSynthComponent_note_on",
+      "label": "note_on Method",
+      "file_type": "code",
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ModularSynthComponent_note_off",
+      "label": "note_off Method",
+      "file_type": "code",
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_GetRotatorAnimationChannel_value",
+      "label": "value Property",
+      "file_type": "code",
+      "source_file": "RigUnit__GetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PhysicsConstraintActor_constraint_comp",
+      "label": "constraint_comp Property",
+      "file_type": "code",
+      "source_file": "PhysicsConstraintActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieGraphInput_value",
+      "label": "value Property",
+      "file_type": "code",
+      "source_file": "MovieGraphInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "StringLibrary_conv_vector_to_string",
+      "label": "conv_vector_to_string Method",
+      "file_type": "code",
+      "source_file": "StringLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "StringLibrary_parse_into_array",
+      "label": "parse_into_array Method",
+      "file_type": "code",
+      "source_file": "StringLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Draw2DItemWidget_get_lines",
+      "label": "get_lines Method",
+      "file_type": "code",
+      "source_file": "Draw2DItemWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AnimNode_SequenceEvaluatorBase_blend_weight",
+      "label": "blend_weight Property",
+      "file_type": "code",
+      "source_file": "AnimNode__SequenceEvaluatorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "NiagaraSimulationStageBase_NiagaraSimulationStageBase",
+      "target": "NiagaraSimulationStageBase_simulation_stage_name",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSimulationStageBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PropertyAnimatorCoreBase_PropertyAnimatorCoreBase",
+      "target": "PropertyAnimatorCoreBase_active_time_source",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PropertyAnimatorCoreBase_PropertyAnimatorCoreBase",
+      "target": "PropertyAnimatorCoreBase_time_sources_instances",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MassDistanceLODParameters_MassDistanceLODParameters",
+      "target": "MassDistanceLODParameters_lod_distance",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassDistanceLODParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ModularSynthComponent_ModularSynthComponent",
+      "target": "ModularSynthComponent_voice_count",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ModularSynthComponent_ModularSynthComponent",
+      "target": "ModularSynthComponent_set_synth_preset",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ModularSynthComponent_ModularSynthComponent",
+      "target": "ModularSynthComponent_note_on",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ModularSynthComponent_ModularSynthComponent",
+      "target": "ModularSynthComponent_note_off",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_GetRotatorAnimationChannel_RigUnit_GetRotatorAnimationChannel",
+      "target": "RigUnit_GetRotatorAnimationChannel_value",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PhysicsConstraintActor_PhysicsConstraintActor",
+      "target": "PhysicsConstraintActor_constraint_comp",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsConstraintActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieGraphInput_MovieGraphInput",
+      "target": "MovieGraphInput_value",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "StringLibrary_StringLibrary",
+      "target": "StringLibrary_conv_vector_to_string",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StringLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "StringLibrary_StringLibrary",
+      "target": "StringLibrary_parse_into_array",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StringLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "Draw2DItemWidget_Draw2DItemWidget",
+      "target": "Draw2DItemWidget_get_lines",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Draw2DItemWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AnimNode_SequenceEvaluatorBase_AnimNode_SequenceEvaluatorBase",
+      "target": "AnimNode_SequenceEvaluatorBase_blend_weight",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__SequenceEvaluatorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_SimBase_RigVMFunction_SimBase",
+      "target": "RigVMFunction_MathVectorUnit_RigVMFunction_MathVectorUnit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_SimBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieGraphBranch_MovieGraphBranch",
+      "target": "MovieGraphInput_MovieGraphInput",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieGraphBranch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathVectorUnit_RigVMFunction_MathVectorUnit",
+      "target": "RigUnit_GetRotatorAnimationChannel_RigUnit_GetRotatorAnimationChannel",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathVectorUnit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ModularSynthComponent_ModularSynthComponent",
+      "target": "AnimNode_SequenceEvaluatorBase_AnimNode_SequenceEvaluatorBase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ModularSynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PropertyAnimatorCoreBase_PropertyAnimatorCoreBase",
+      "target": "AnimNode_SequenceEvaluatorBase_AnimNode_SequenceEvaluatorBase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PropertyAnimatorCoreBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "FCTweenBPActionVector_FCTweenBPActionVector",
+      "target": "PropertyAnimatorCoreBase_PropertyAnimatorCoreBase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "FCTweenBPActionVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PhysicsConstraintActor_PhysicsConstraintActor",
+      "target": "MassDistanceLODParameters_MassDistanceLODParameters",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "PhysicsConstraintActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "StringLibrary_conv_vector_to_string",
+      "target": "RigVMFunction_MathVectorUnit_RigVMFunction_MathVectorUnit",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "StringLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExampleRuntimeExecutor_MoviePipelineExampleRuntimeExecutor",
+      "target": "MovieGraphBranch_MovieGraphBranch",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MoviePipelineExampleRuntimeExecutor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExampleRuntimeExecutor_MoviePipelineExampleRuntimeExecutor",
+      "target": "MovieGraphInput_MovieGraphInput",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MoviePipelineExampleRuntimeExecutor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "LevelSequencePlaybackSettings_LevelSequencePlaybackSettings",
+      "target": "MoviePipelineExampleRuntimeExecutor_MoviePipelineExampleRuntimeExecutor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LevelSequencePlaybackSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMUserWorkflow_RigVMUserWorkflow",
+      "target": "RigVMFunction_SimBase_RigVMFunction_SimBase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMUserWorkflow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMUserWorkflow_RigVMUserWorkflow",
+      "target": "RigVMFunction_MathVectorUnit_RigVMFunction_MathVectorUnit",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMUserWorkflow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_framework_components",
+      "label": "RigVM Framework Components",
+      "nodes": [
+        "RigVMFunction_SimBase_RigVMFunction_SimBase",
+        "RigVMFunction_MathVectorUnit_RigVMFunction_MathVectorUnit",
+        "RigVMUserWorkflow_RigVMUserWorkflow",
+        "RigUnit_GetRotatorAnimationChannel_RigUnit_GetRotatorAnimationChannel"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_SimBase Objects.md"
+    },
+    {
+      "id": "movie_render_pipeline_system",
+      "label": "Movie Render Pipeline System",
+      "nodes": [
+        "MovieGraphBranch_MovieGraphBranch",
+        "MovieGraphInput_MovieGraphInput",
+        "MoviePipelineExampleRuntimeExecutor_MoviePipelineExampleRuntimeExecutor",
+        "LevelSequencePlaybackSettings_LevelSequencePlaybackSettings"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieGraphBranch Objects.md"
+    },
+    {
+      "id": "animation_and_property_systems",
+      "label": "Animation and Property Control Systems",
+      "nodes": [
+        "PropertyAnimatorCoreBase_PropertyAnimatorCoreBase",
+        "FCTweenBPActionVector_FCTweenBPActionVector",
+        "AnimNode_SequenceEvaluatorBase_AnimNode_SequenceEvaluatorBase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PropertyAnimatorCoreBase Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,537 @@
+{
+  "nodes": [
+    {
+      "id": "datasmithoptionsbase_datasmithoptionsbase",
+      "label": "DatasmithOptionsBase",
+      "file_type": "document",
+      "source_file": "DatasmithOptionsBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonegraphlaneroutingcountrule_zonegraphlaneroutingcountrule",
+      "label": "ZoneGraphLaneRoutingCountRule",
+      "file_type": "document",
+      "source_file": "ZoneGraphLaneRoutingCountRule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmax_rigvmfunction_mathfloatmax",
+      "label": "RigVMFunction_MathFloatMax",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialpropertyworldpositionoffset_dmmaterialpropertyworldpositionoffset",
+      "label": "DMMaterialPropertyWorldPositionOffset",
+      "file_type": "document",
+      "source_file": "DMMaterialPropertyWorldPositionOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "memberreference_memberreference",
+      "label": "MemberReference",
+      "file_type": "document",
+      "source_file": "MemberReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gettransactionresult_gettransactionresult",
+      "label": "GetTransactionResult",
+      "file_type": "document",
+      "source_file": "GetTransactionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "montageblendmode_montageblendmode",
+      "label": "MontageBlendMode",
+      "file_type": "document",
+      "source_file": "MontageBlendMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataassetfactory_dataassetfactory",
+      "label": "DataAssetFactory",
+      "file_type": "document",
+      "source_file": "DataAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "checkboxstate_checkboxstate",
+      "label": "CheckBoxState",
+      "file_type": "document",
+      "source_file": "CheckBoxState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneuserimportfbxsettings_moviesceneuserimportfbxsettings",
+      "label": "MovieSceneUserImportFBXSettings",
+      "file_type": "document",
+      "source_file": "MovieSceneUserImportFBXSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synth1patchsource_synth1patchsource",
+      "label": "Synth1PatchSource",
+      "file_type": "document",
+      "source_file": "Synth1PatchSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentryextendedstandardlibrarytrueorfalse_lowentryextendedstandardlibrarytrueorfalse",
+      "label": "LowEntryExtendedStandardLibraryTrueOrFalse",
+      "file_type": "document",
+      "source_file": "LowEntryExtendedStandardLibraryTrueOrFalse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+      "label": "RigVMFunction_MathVectorNegate",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datadrivencvarenginesubsystem_ondatadrivencvarchanged_datadrivencvarenginesubsystem_ondatadrivencvarchanged",
+      "label": "DataDrivenCVarEngineSubsystem_OnDataDrivenCVarChanged",
+      "file_type": "document",
+      "source_file": "DataDrivenCVarEngineSubsystem_OnDataDrivenCVarChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicspredictionsettings_physicspredictionsettings",
+      "label": "PhysicsPredictionSettings",
+      "file_type": "document",
+      "source_file": "PhysicsPredictionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_torigspace_location_rigunit_torigspace_location",
+      "label": "RigUnit_ToRigSpace_Location",
+      "file_type": "document",
+      "source_file": "RigUnit__ToRigSpace__Location Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visible2dcamera_visible2dcamera",
+      "label": "Visible2DCamera",
+      "file_type": "document",
+      "source_file": "Visible2DCamera Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "array_array",
+      "label": "Array",
+      "file_type": "document",
+      "source_file": "Array Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraparametercollectionfactorynew_niagaraparametercollectionfactorynew",
+      "label": "NiagaraParameterCollectionFactoryNew",
+      "file_type": "document",
+      "source_file": "NiagaraParameterCollectionFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectringmodulationsettings_sourceeffectringmodulationsettings",
+      "label": "SourceEffectRingModulationSettings",
+      "file_type": "document",
+      "source_file": "SourceEffectRingModulationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingeditorcommandparams_formatbrush_aesbuildingeditorcommandparams_formatbrush",
+      "label": "AesBuildingEditorCommandParams_FormatBrush",
+      "file_type": "document",
+      "source_file": "AesBuildingEditorCommandParams__FormatBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "attributeset_attributeset",
+      "label": "AttributeSet",
+      "file_type": "document",
+      "source_file": "AttributeSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathfloatmax_rigvmfunction_mathfloatmax",
+      "target": "rigvmfunction_mathfloatbinaryaggregateop_rigvmfunction_mathfloatbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialpropertyworldpositionoffset_dmmaterialpropertyworldpositionoffset",
+      "target": "dmmaterialproperty_dmmaterialproperty",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialPropertyWorldPositionOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "memberreference_memberreference",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MemberReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gettransactionresult_gettransactionresult",
+      "target": "resultbase_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GetTransactionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataassetfactory_dataassetfactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataAssetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+      "target": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datadrivencvarenginesubsystem_ondatadrivencvarchanged_datadrivencvarenginesubsystem_ondatadrivencvarchanged",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataDrivenCVarEngineSubsystem_OnDataDrivenCVarChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicspredictionsettings_physicspredictionsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsPredictionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_torigspace_location_rigunit_torigspace_location",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ToRigSpace__Location Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visible2dcamera_visible2dcamera",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Visible2DCamera Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "array_array",
+      "target": "_wrapperbase__wrapperbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Array Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraparametercollectionfactorynew_niagaraparametercollectionfactorynew",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraParameterCollectionFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectringmodulationsettings_sourceeffectringmodulationsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectRingModulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingeditorcommandparams_formatbrush_aesbuildingeditorcommandparams_formatbrush",
+      "target": "aeseditorsimplecommandparams_aeseditorsimplecommandparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBuildingEditorCommandParams__FormatBrush Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatmax_rigvmfunction_mathfloatmax",
+      "target": "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathFloatMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+      "target": "rigvmfunction_mathfloatmax_rigvmfunction_mathfloatmax",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataassetfactory_dataassetfactory",
+      "target": "niagaraparametercollectionfactorynew_niagaraparametercollectionfactorynew",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DataAssetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraparametercollectionfactorynew_niagaraparametercollectionfactorynew",
+      "target": "dataassetfactory_dataassetfactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NiagaraParameterCollectionFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectringmodulationsettings_sourceeffectringmodulationsettings",
+      "target": "synth1patchsource_synth1patchsource",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SourceEffectRingModulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synth1patchsource_synth1patchsource",
+      "target": "sourceeffectringmodulationsettings_sourceeffectringmodulationsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Synth1PatchSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneuserimportfbxsettings_moviesceneuserimportfbxsettings",
+      "target": "datasmithoptionsbase_datasmithoptionsbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneUserImportFBXSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithoptionsbase_datasmithoptionsbase",
+      "target": "moviesceneuserimportfbxsettings_moviesceneuserimportfbxsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DatasmithOptionsBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "attributeset_attributeset",
+      "target": "datadrivencvarenginesubsystem_ondatadrivencvarchanged_datadrivencvarenginesubsystem_ondatadrivencvarchanged",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AttributeSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datadrivencvarenginesubsystem_ondatadrivencvarchanged_datadrivencvarenginesubsystem_ondatadrivencvarchanged",
+      "target": "attributeset_attributeset",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DataDrivenCVarEngineSubsystem_OnDataDrivenCVarChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicspredictionsettings_physicspredictionsettings",
+      "target": "gettransactionresult_gettransactionresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "PhysicsPredictionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gettransactionresult_gettransactionresult",
+      "target": "physicspredictionsettings_physicspredictionsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "GetTransactionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operation Functions",
+      "nodes": [
+        "rigvmfunction_mathfloatmax_rigvmfunction_mathfloatmax",
+        "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+        "rigunit_torigspace_location_rigunit_torigspace_location"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathFloatMax Objects.md"
+    },
+    {
+      "id": "factory_pattern_classes",
+      "label": "Factory Pattern Implementation Classes",
+      "nodes": [
+        "dataassetfactory_dataassetfactory",
+        "niagaraparametercollectionfactorynew_niagaraparametercollectionfactorynew"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DataAssetFactory Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

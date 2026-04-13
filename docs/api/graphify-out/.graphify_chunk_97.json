@@ -1,0 +1,673 @@
+{
+  "nodes": [
+    {
+      "id": "editorutilityeditabletext_editabletext",
+      "label": "EditorUtilityEditableText",
+      "file_type": "document",
+      "source_file": "EditorUtilityEditableText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilityeditabletext_on_text_changed",
+      "label": "on_text_changed Event",
+      "file_type": "document",
+      "source_file": "EditorUtilityEditableText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilityeditabletext_on_text_committed",
+      "label": "on_text_committed Event",
+      "file_type": "document",
+      "source_file": "EditorUtilityEditableText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatefloatrange_rigvmfunction",
+      "label": "RigUnit_AccumulateFloatRange (Deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit_AccumulateFloatRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "partitionactor_actor",
+      "label": "PartitionActor",
+      "file_type": "document",
+      "source_file": "PartitionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "partitionactor_actor_partition_subsystem",
+      "label": "ActorPartitionSubsystem",
+      "file_type": "document",
+      "source_file": "PartitionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "partitionactor_spatial_loading",
+      "label": "Spatial Loading System",
+      "file_type": "document",
+      "source_file": "PartitionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "partitionactor_data_layers",
+      "label": "Data Layer System",
+      "file_type": "document",
+      "source_file": "PartitionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliagevertexcolorchannelmask_structbase",
+      "label": "FoliageVertexColorChannelMask",
+      "file_type": "document",
+      "source_file": "FoliageVertexColorChannelMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliagevertexcolorchannelmask_foliage_placement",
+      "label": "Foliage Placement System",
+      "file_type": "document",
+      "source_file": "FoliageVertexColorChannelMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionconstant_materialexpression",
+      "label": "MaterialExpressionConstant",
+      "file_type": "document",
+      "source_file": "MaterialExpressionConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionconstant_material_editor",
+      "label": "Material Editor System",
+      "file_type": "document",
+      "source_file": "MaterialExpressionConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadreplacemessage_structbase",
+      "label": "AesRoadReplaceMessage",
+      "file_type": "document",
+      "source_file": "AesRoadReplaceMessage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadreplacemessage_aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "AesRoadReplaceMessage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprinteditorlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintEditorLibrary",
+      "file_type": "document",
+      "source_file": "BlueprintEditorLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprinteditorlibrary_blueprint_manipulation",
+      "label": "Blueprint Manipulation API",
+      "file_type": "document",
+      "source_file": "BlueprintEditorLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprinteditorlibrary_variable_management",
+      "label": "Blueprint Variable Management",
+      "file_type": "document",
+      "source_file": "BlueprintEditorLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprinteditorlibrary_graph_operations",
+      "label": "Blueprint Graph Operations",
+      "file_type": "document",
+      "source_file": "BlueprintEditorLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimemodelerfunctionlibrary_blueprintfunctionlibrary",
+      "label": "RuntimeModelerFunctionLibrary",
+      "file_type": "document",
+      "source_file": "RuntimeModelerFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimemodelerfunctionlibrary_aes_plugin",
+      "label": "AesRuntimeModeler Plugin",
+      "file_type": "document",
+      "source_file": "RuntimeModelerFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimemodelerfunctionlibrary_geometry_operations",
+      "label": "Runtime Geometry Operations",
+      "file_type": "document",
+      "source_file": "RuntimeModelerFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_positionconstraint_rigunit_highlevelbasemutable",
+      "label": "RigUnit_PositionConstraint",
+      "file_type": "document",
+      "source_file": "RigUnit_PositionConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_positionconstraint_control_rig",
+      "label": "Control Rig System",
+      "file_type": "document",
+      "source_file": "RigUnit_PositionConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_positionconstraint_constraint_system",
+      "label": "Rig Constraint System",
+      "file_type": "document",
+      "source_file": "RigUnit_PositionConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoistyle_structbase",
+      "label": "custompoiStyle",
+      "file_type": "document",
+      "source_file": "custompoiStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoistyle_covering_api",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "custompoiStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoistyle_poi_system",
+      "label": "Point of Interest System",
+      "file_type": "document",
+      "source_file": "custompoiStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenespawnablechaoscachebinding_moviescenespawnableactorbinding",
+      "label": "MovieSceneSpawnableChaosCacheBinding",
+      "file_type": "document",
+      "source_file": "MovieSceneSpawnableChaosCacheBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenespawnablechaoscachebinding_chaos_caching",
+      "label": "Chaos Caching System",
+      "file_type": "document",
+      "source_file": "MovieSceneSpawnableChaosCacheBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenespawnablechaoscachebinding_sequencer",
+      "label": "Sequencer System",
+      "file_type": "document",
+      "source_file": "MovieSceneSpawnableChaosCacheBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "getwindowparams_resultbase",
+      "label": "GetWindowParams",
+      "file_type": "document",
+      "source_file": "GetWindowParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "getwindowparams_covering_api",
+      "label": "CoveringAPI Window System",
+      "file_type": "document",
+      "source_file": "GetWindowParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "editorutilityeditabletext_editabletext",
+      "target": "editorutilityeditabletext_on_text_changed",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityEditableText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilityeditabletext_editabletext",
+      "target": "editorutilityeditabletext_on_text_committed",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityEditableText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatefloatrange_rigvmfunction",
+      "target": "rigunit_positionconstraint_control_rig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_AccumulateFloatRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "partitionactor_actor",
+      "target": "partitionactor_actor_partition_subsystem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PartitionActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "partitionactor_actor",
+      "target": "partitionactor_spatial_loading",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PartitionActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "partitionactor_actor",
+      "target": "partitionactor_data_layers",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PartitionActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "partitionactor_spatial_loading",
+      "target": "partitionactor_data_layers",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PartitionActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foliagevertexcolorchannelmask_structbase",
+      "target": "foliagevertexcolorchannelmask_foliage_placement",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FoliageVertexColorChannelMask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionconstant_materialexpression",
+      "target": "materialexpressionconstant_material_editor",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MaterialExpressionConstant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadreplacemessage_structbase",
+      "target": "aesroadreplacemessage_aesworld_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesRoadReplaceMessage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadreplacemessage_aesworld_plugin",
+      "target": "runtimemodelerfunctionlibrary_aes_plugin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AesRoadReplaceMessage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprinteditorlibrary_blueprintfunctionlibrary",
+      "target": "blueprinteditorlibrary_blueprint_manipulation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "BlueprintEditorLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprinteditorlibrary_blueprint_manipulation",
+      "target": "blueprinteditorlibrary_variable_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "BlueprintEditorLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprinteditorlibrary_blueprint_manipulation",
+      "target": "blueprinteditorlibrary_graph_operations",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "BlueprintEditorLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprinteditorlibrary_variable_management",
+      "target": "blueprinteditorlibrary_graph_operations",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "BlueprintEditorLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "runtimemodelerfunctionlibrary_blueprintfunctionlibrary",
+      "target": "runtimemodelerfunctionlibrary_aes_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RuntimeModelerFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "runtimemodelerfunctionlibrary_blueprintfunctionlibrary",
+      "target": "runtimemodelerfunctionlibrary_geometry_operations",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RuntimeModelerFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_positionconstraint_rigunit_highlevelbasemutable",
+      "target": "rigunit_positionconstraint_control_rig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PositionConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_positionconstraint_rigunit_highlevelbasemutable",
+      "target": "rigunit_positionconstraint_constraint_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_PositionConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_positionconstraint_control_rig",
+      "target": "rigunit_positionconstraint_constraint_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_PositionConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custompoistyle_structbase",
+      "target": "custompoistyle_covering_api",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "custompoiStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custompoistyle_structbase",
+      "target": "custompoistyle_poi_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "custompoiStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custompoistyle_covering_api",
+      "target": "getwindowparams_covering_api",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "custompoiStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenespawnablechaoscachebinding_moviescenespawnableactorbinding",
+      "target": "moviescenespawnablechaoscachebinding_chaos_caching",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSpawnableChaosCacheBinding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenespawnablechaoscachebinding_moviescenespawnableactorbinding",
+      "target": "moviescenespawnablechaoscachebinding_sequencer",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieSceneSpawnableChaosCacheBinding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenespawnablechaoscachebinding_chaos_caching",
+      "target": "moviescenespawnablechaoscachebinding_sequencer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieSceneSpawnableChaosCacheBinding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getwindowparams_resultbase",
+      "target": "getwindowparams_covering_api",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GetWindowParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "partition_actor_ecosystem",
+      "label": "Spatial Partitioning System",
+      "nodes": [
+        "partitionactor_actor",
+        "partitionactor_actor_partition_subsystem",
+        "partitionactor_spatial_loading",
+        "partitionactor_data_layers"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PartitionActor Objects.md"
+    },
+    {
+      "id": "blueprint_editor_tools",
+      "label": "Blueprint Editor Manipulation Tools",
+      "nodes": [
+        "blueprinteditorlibrary_blueprintfunctionlibrary",
+        "blueprinteditorlibrary_blueprint_manipulation",
+        "blueprinteditorlibrary_variable_management",
+        "blueprinteditorlibrary_graph_operations"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "BlueprintEditorLibrary Objects.md"
+    },
+    {
+      "id": "rig_constraint_workflow",
+      "label": "Control Rig Constraint Workflow",
+      "nodes": [
+        "rigunit_positionconstraint_rigunit_highlevelbasemutable",
+        "rigunit_positionconstraint_control_rig",
+        "rigunit_positionconstraint_constraint_system"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_PositionConstraint Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

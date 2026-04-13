@@ -1,0 +1,1124 @@
+{
+  "nodes": [
+    {
+      "id": "datatablerowhandle_datatablerowhandle",
+      "label": "DataTableRowHandle",
+      "file_type": "document",
+      "source_file": "DataTableRowHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdploadassetbyidresult_wdploadassetbyidresult",
+      "label": "WdpLoadAssetByIdResult",
+      "file_type": "document",
+      "source_file": "WdpLoadAssetByIdResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eidarray_eidarray",
+      "label": "EidArray",
+      "file_type": "document",
+      "source_file": "EidArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontrasterizationmode_fontrasterizationmode",
+      "label": "FontRasterizationMode",
+      "file_type": "document",
+      "source_file": "FontRasterizationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pickmaterialapiresult_pickmaterialapiresult",
+      "label": "PickMaterialApiResult",
+      "file_type": "document",
+      "source_file": "PickMaterialApiResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataassetlink_dataassetlink",
+      "label": "DataAssetLink",
+      "file_type": "document",
+      "source_file": "DataAssetLink Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "originplacement_originplacement",
+      "label": "OriginPlacement",
+      "file_type": "document",
+      "source_file": "OriginPlacement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmath_wdpmath",
+      "label": "WdpMath",
+      "file_type": "document",
+      "source_file": "WdpMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_linkedanimgraphbase_animgraphnode_linkedanimgraphbase",
+      "label": "AnimGraphNode_LinkedAnimGraphBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_LinkedAnimGraphBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthflatroofprefab_earthflatroofprefab",
+      "label": "EarthFlatRoofPrefab",
+      "file_type": "document",
+      "source_file": "EarthFlatRoofPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpclickpointresult_dcpclickpointresult",
+      "label": "DCPClickPointResult",
+      "file_type": "document",
+      "source_file": "DCPClickPointResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimevirtualtexturevolume_runtimevirtualtexturevolume",
+      "label": "RuntimeVirtualTextureVolume",
+      "file_type": "document",
+      "source_file": "RuntimeVirtualTextureVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightcardalphagradientsettings_lightcardalphagradientsettings",
+      "label": "LightCardAlphaGradientSettings",
+      "file_type": "document",
+      "source_file": "LightCardAlphaGradientSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatatrigoperation_pcgmetadatatrigoperation",
+      "label": "PCGMetadataTrigOperation",
+      "file_type": "document",
+      "source_file": "PCGMetadataTrigOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthinstancesplinefragment_earthinstancesplinefragment",
+      "label": "EarthInstanceSplineFragment",
+      "file_type": "document",
+      "source_file": "EarthInstanceSplineFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarabaselinecontroller_niagarabaselinecontroller",
+      "label": "NiagaraBaselineController",
+      "file_type": "document",
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphysangularconstrainttype_animphysangularconstrainttype",
+      "label": "AnimPhysAngularConstraintType",
+      "file_type": "document",
+      "source_file": "AnimPhysAngularConstraintType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreedatahandle_statetreedatahandle",
+      "label": "StateTreeDataHandle",
+      "file_type": "document",
+      "source_file": "StateTreeDataHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materiallayersfunctions_materiallayersfunctions",
+      "label": "MaterialLayersFunctions",
+      "file_type": "document",
+      "source_file": "MaterialLayersFunctions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cachetrackrecorder_cachetrackrecorder",
+      "label": "CacheTrackRecorder",
+      "file_type": "document",
+      "source_file": "CacheTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreestateparameters_statetreestateparameters",
+      "label": "StateTreeStateParameters",
+      "file_type": "document",
+      "source_file": "StateTreeStateParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityblueprintgeneratedclass_gameplayabilityblueprintgeneratedclass",
+      "label": "GameplayAbilityBlueprintGeneratedClass",
+      "file_type": "document",
+      "source_file": "GameplayAbilityBlueprintGeneratedClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "DataTableRowHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eidresult_eidresult",
+      "label": "EidResult",
+      "file_type": "document",
+      "source_file": "WdpLoadAssetByIdResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "FontRasterizationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_resultbase",
+      "label": "ResultBase",
+      "file_type": "document",
+      "source_file": "PickMaterialApiResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "namespaceduserdata_namespaceduserdata",
+      "label": "NameSpacedUserData",
+      "file_type": "document",
+      "source_file": "DataAssetLink Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "WdpMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_customproperty_animgraphnode_customproperty",
+      "label": "AnimGraphNode_CustomProperty",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_LinkedAnimGraphBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroofprefab_earthroofprefab",
+      "label": "EarthRoofPrefab",
+      "file_type": "document",
+      "source_file": "EarthFlatRoofPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eventargsbase_eventargsbase",
+      "label": "EventArgsBase",
+      "file_type": "document",
+      "source_file": "DCPClickPointResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "RuntimeVirtualTextureVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthentityfragment_earthentityfragment",
+      "label": "EarthEntityFragment",
+      "file_type": "document",
+      "source_file": "EarthInstanceSplineFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materiallayersfunctionsruntimedata_materiallayersfunctionsruntimedata",
+      "label": "MaterialLayersFunctionsRuntimeData",
+      "file_type": "document",
+      "source_file": "MaterialLayersFunctions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintgeneratedclass_blueprintgeneratedclass",
+      "label": "BlueprintGeneratedClass",
+      "file_type": "document",
+      "source_file": "GameplayAbilityBlueprintGeneratedClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datatable_datatable",
+      "label": "DataTable",
+      "file_type": "document",
+      "source_file": "DataTableRowHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "label": "WdpSceneChangeInfo",
+      "file_type": "document",
+      "source_file": "WdpLoadAssetByIdResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "PickMaterialApiResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataasset_dataasset",
+      "label": "DataAsset",
+      "file_type": "document",
+      "source_file": "DataAssetLink Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimevirtualtexturecomponent_runtimevirtualtexturecomponent",
+      "label": "RuntimeVirtualTextureComponent",
+      "file_type": "document",
+      "source_file": "RuntimeVirtualTextureVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpclicksinglepointresult_dcpclicksinglepointresult",
+      "label": "DCPClickSinglePointResult",
+      "file_type": "document",
+      "source_file": "DCPClickPointResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraeffecttype_niagaraeffecttype",
+      "label": "NiagaraEffectType",
+      "file_type": "document",
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraperfbaselineactor_niagaraperfbaselineactor",
+      "label": "NiagaraPerfBaselineActor",
+      "file_type": "document",
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystem_niagarasystem",
+      "label": "NiagaraSystem",
+      "file_type": "document",
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpassetapi_plugin",
+      "label": "WdpAssetAPI Plugin",
+      "file_type": "document",
+      "source_file": "WdpLoadAssetByIdResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumforunreal_plugin",
+      "label": "CesiumForUnreal Plugin",
+      "file_type": "document",
+      "source_file": "OriginPlacement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcamera_plugin",
+      "label": "WdpCamera Plugin",
+      "file_type": "document",
+      "source_file": "WdpMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthFlatRoofPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGMetadataTrigOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetree_plugin",
+      "label": "StateTree Plugin",
+      "file_type": "document",
+      "source_file": "StateTreeDataHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefab_module",
+      "label": "EarthPrefab Module",
+      "file_type": "document",
+      "source_file": "EarthFlatRoofPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "datatablerowhandle_datatablerowhandle",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataTableRowHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdploadassetbyidresult_wdploadassetbyidresult",
+      "target": "eidresult_eidresult",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpLoadAssetByIdResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eidarray_eidarray",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EidArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fontrasterizationmode_fontrasterizationmode",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FontRasterizationMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pickmaterialapiresult_pickmaterialapiresult",
+      "target": "resultbase_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PickMaterialApiResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataassetlink_dataassetlink",
+      "target": "namespaceduserdata_namespaceduserdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataAssetLink Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "originplacement_originplacement",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OriginPlacement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmath_wdpmath",
+      "target": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_linkedanimgraphbase_animgraphnode_linkedanimgraphbase",
+      "target": "animgraphnode_customproperty_animgraphnode_customproperty",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_LinkedAnimGraphBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthflatroofprefab_earthflatroofprefab",
+      "target": "earthroofprefab_earthroofprefab",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFlatRoofPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpclickpointresult_dcpclickpointresult",
+      "target": "eventargsbase_eventargsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPClickPointResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "runtimevirtualtexturevolume_runtimevirtualtexturevolume",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RuntimeVirtualTextureVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightcardalphagradientsettings_lightcardalphagradientsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightCardAlphaGradientSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatatrigoperation_pcgmetadatatrigoperation",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataTrigOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthinstancesplinefragment_earthinstancesplinefragment",
+      "target": "earthentityfragment_earthentityfragment",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthInstanceSplineFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarabaselinecontroller_niagarabaselinecontroller",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animphysangularconstrainttype_animphysangularconstrainttype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPhysAngularConstraintType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreedatahandle_statetreedatahandle",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeDataHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materiallayersfunctions_materiallayersfunctions",
+      "target": "materiallayersfunctionsruntimedata_materiallayersfunctionsruntimedata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialLayersFunctions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cachetrackrecorder_cachetrackrecorder",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CacheTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreestateparameters_statetreestateparameters",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeStateParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilityblueprintgeneratedclass_gameplayabilityblueprintgeneratedclass",
+      "target": "blueprintgeneratedclass_blueprintgeneratedclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityBlueprintGeneratedClass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datatablerowhandle_datatablerowhandle",
+      "target": "datatable_datatable",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataTableRowHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdploadassetbyidresult_wdploadassetbyidresult",
+      "target": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpLoadAssetByIdResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pickmaterialapiresult_pickmaterialapiresult",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PickMaterialApiResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pickmaterialapiresult_pickmaterialapiresult",
+      "target": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PickMaterialApiResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataassetlink_dataassetlink",
+      "target": "dataasset_dataasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataAssetLink Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "runtimevirtualtexturevolume_runtimevirtualtexturevolume",
+      "target": "runtimevirtualtexturecomponent_runtimevirtualtexturecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RuntimeVirtualTextureVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpclickpointresult_dcpclickpointresult",
+      "target": "dcpclicksinglepointresult_dcpclicksinglepointresult",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPClickPointResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarabaselinecontroller_niagarabaselinecontroller",
+      "target": "niagaraeffecttype_niagaraeffecttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarabaselinecontroller_niagarabaselinecontroller",
+      "target": "niagaraperfbaselineactor_niagaraperfbaselineactor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarabaselinecontroller_niagarabaselinecontroller",
+      "target": "niagarasystem_niagarasystem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdploadassetbyidresult_wdploadassetbyidresult",
+      "target": "wdpassetapi_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpLoadAssetByIdResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpclickpointresult_dcpclickpointresult",
+      "target": "wdpassetapi_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPClickPointResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "originplacement_originplacement",
+      "target": "cesiumforunreal_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OriginPlacement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmath_wdpmath",
+      "target": "wdpcamera_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthflatroofprefab_earthflatroofprefab",
+      "target": "aesworld_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFlatRoofPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthinstancesplinefragment_earthinstancesplinefragment",
+      "target": "aesworld_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthInstanceSplineFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatatrigoperation_pcgmetadatatrigoperation",
+      "target": "pcg_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataTrigOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarabaselinecontroller_niagarabaselinecontroller",
+      "target": "niagara_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraBaselineController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreedatahandle_statetreedatahandle",
+      "target": "statetree_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeDataHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreestateparameters_statetreestateparameters",
+      "target": "statetree_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeStateParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthflatroofprefab_earthflatroofprefab",
+      "target": "earthprefab_module",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFlatRoofPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthinstancesplinefragment_earthinstancesplinefragment",
+      "target": "earthprefab_module",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthInstanceSplineFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdploadassetbyidresult_wdploadassetbyidresult",
+      "target": "pickmaterialapiresult_pickmaterialapiresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpLoadAssetByIdResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datatablerowhandle_datatablerowhandle",
+      "target": "statetreedatahandle_statetreedatahandle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DataTableRowHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthflatroofprefab_earthflatroofprefab",
+      "target": "earthinstancesplinefragment_earthinstancesplinefragment",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthFlatRoofPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fontrasterizationmode_fontrasterizationmode",
+      "target": "pcgmetadatatrigoperation_pcgmetadatatrigoperation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "FontRasterizationMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animphysangularconstrainttype_animphysangularconstrainttype",
+      "target": "pcgmetadatatrigoperation_pcgmetadatatrigoperation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AnimPhysAngularConstraintType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "aesworld_prefab_system",
+      "label": "AesWorld Prefab System",
+      "nodes": [
+        "earthflatroofprefab_earthflatroofprefab",
+        "earthinstancesplinefragment_earthinstancesplinefragment",
+        "earthroofprefab_earthroofprefab",
+        "earthentityfragment_earthentityfragment"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthFlatRoofPrefab Objects.md"
+    },
+    {
+      "id": "wdp_api_result_types",
+      "label": "WDP API Result Types",
+      "nodes": [
+        "wdploadassetbyidresult_wdploadassetbyidresult",
+        "pickmaterialapiresult_pickmaterialapiresult",
+        "eidresult_eidresult",
+        "resultbase_resultbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "WdpLoadAssetByIdResult Objects.md"
+    },
+    {
+      "id": "statetree_framework",
+      "label": "StateTree Framework",
+      "nodes": [
+        "statetreedatahandle_statetreedatahandle",
+        "statetreestateparameters_statetreestateparameters",
+        "statetree_plugin"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "StateTreeDataHandle Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

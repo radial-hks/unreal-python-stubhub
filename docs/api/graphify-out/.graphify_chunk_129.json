@@ -1,0 +1,625 @@
+{
+  "nodes": [
+    {
+      "id": "screencreditswidget_screencreditswidget",
+      "label": "Screen Credits Widget",
+      "file_type": "code",
+      "source_file": "ScreenCreditsWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "relativepolygonatom_relativepolygonatom",
+      "label": "Relative Polygon Atom",
+      "file_type": "code",
+      "source_file": "RelativePolygonAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgrandomchoicesettings_pcgrandomchoicesettings",
+      "label": "PCG Random Choice Settings",
+      "file_type": "code",
+      "source_file": "PCGRandomChoiceSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componentphysicsstatechange_componentphysicsstatechange",
+      "label": "Component Physics State Change",
+      "file_type": "code",
+      "source_file": "ComponentPhysicsStateChange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigspacepickerbakesettings_rigspacepickerbakesettings",
+      "label": "Rig Space Picker Bake Settings",
+      "file_type": "code",
+      "source_file": "RigSpacePickerBakeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputuserwidgetvalidator_enhancedinputuserwidgetvalidator",
+      "label": "Enhanced Input User Widget Validator",
+      "file_type": "code",
+      "source_file": "EnhancedInputUserWidgetValidator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setbonetransform_rigunit_setbonetransform",
+      "label": "Rig Unit Set Bone Transform",
+      "file_type": "code",
+      "source_file": "RigUnit_SetBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "label": "Rig VMFunction Math Vector Unary Op",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "networkphysicsettingsdefaultreplication_networkphysicsettingsdefaultreplication",
+      "label": "Network Physics Settings Default Replication",
+      "file_type": "code",
+      "source_file": "NetworkPhysicsSettingsDefaultReplication Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerint4arrayvariable_rigvmtrait_setdeformerint4arrayvariable",
+      "label": "Rig VMTrait Set Deformer Int 4Array Variable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerInt4ArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenereplaceableactorbinding_moviescenereplaceableactorbinding",
+      "label": "Movie Scene Replaceable Actor Binding",
+      "file_type": "code",
+      "source_file": "MovieSceneReplaceableActorBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfaterialexporter_gltfaterialexporter",
+      "label": "GLTFMaterial Exporter",
+      "file_type": "code",
+      "source_file": "GLTFMaterialExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdatamultiplicity_pcgdatamultiplicity",
+      "label": "PCG Data Multiplicity",
+      "file_type": "code",
+      "source_file": "PCGDataMultiplicity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionconstantbiasscale_materialexpressionconstantbiasscale",
+      "label": "Material Expression Constant Bias Scale",
+      "file_type": "code",
+      "source_file": "MaterialExpressionConstantBiasScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialenvelopesettings_audiomaterialenvelopesettings",
+      "label": "Audio Material Envelope Settings",
+      "file_type": "code",
+      "source_file": "AudioMaterialEnvelopeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universalobjectlocatorfragment_universalobjectlocatorfragment",
+      "label": "Universal Object Locator Fragment",
+      "file_type": "code",
+      "source_file": "UniversalObjectLocatorFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearrayquat_niagaradatainterfacearrayquat",
+      "label": "Niagara Data Interface Array Quat",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceArrayQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonereferencepair_bonereferencepair",
+      "label": "Bone Reference Pair",
+      "file_type": "code",
+      "source_file": "BoneReferencePair Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgrouppickatom_wdpgrouppickatom",
+      "label": "Wdp Group Pick Atom",
+      "file_type": "code",
+      "source_file": "WdpGroupPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatebase_rigvmfunction_mathrbfinterpolatebase",
+      "label": "Rig VMFunction Math RBFInterpolate Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timecodebonemode_timecodebonemode",
+      "label": "Timecode Bone Mode",
+      "file_type": "code",
+      "source_file": "TimecodeBoneMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "baseplateeid_baseplateeid",
+      "label": "Baseplate EId",
+      "file_type": "code",
+      "source_file": "BaseplateEId Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bakinganimationkeysettings_bakinganimationkeysettings",
+      "label": "Baking Animation Key Settings",
+      "file_type": "code",
+      "source_file": "RigSpacePickerBakeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "Rig Unit Mutable",
+      "file_type": "code",
+      "source_file": "RigUnit_SetBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "label": "Rig VMFunction Math Vector Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbase_rigvmfunction_mathbase",
+      "label": "Rig VMFunction Math Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userwidget_userwidget",
+      "label": "User Widget",
+      "file_type": "code",
+      "source_file": "ScreenCreditsWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase_entityatombase",
+      "label": "Entity Atom Base",
+      "file_type": "code",
+      "source_file": "RelativePolygonAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings_pcgsettings",
+      "label": "PCG Settings",
+      "file_type": "code",
+      "source_file": "PCGRandomChoiceSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorvalidatorbase_editorvalidatorbase",
+      "label": "Editor Validator Base",
+      "file_type": "code",
+      "source_file": "EnhancedInputUserWidgetValidator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearray_niagaradatainterfacearray",
+      "label": "Niagara Data Interface Array",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceArrayQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "glftexporter_glftexporter",
+      "label": "GLTF Exporter",
+      "file_type": "code",
+      "source_file": "GLTFMaterialExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtait_optimusvariablebase_rigvmtait_optimusvariablebase",
+      "label": "Rig VMTrait Optimus Variable Base",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerInt4ArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitypickatom_entitypickatom",
+      "label": "Entity Pick Atom",
+      "file_type": "code",
+      "source_file": "WdpGroupPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "Material Expression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionConstantBiasScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "screencreditswidget_screencreditswidget",
+      "target": "userwidget_userwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScreenCreditsWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "relativepolygonatom_relativepolygonatom",
+      "target": "entityatombase_entityatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RelativePolygonAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgrandomchoicesettings_pcgrandomchoicesettings",
+      "target": "pcgsettings_pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGRandomChoiceSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputuserwidgetvalidator_enhancedinputuserwidgetvalidator",
+      "target": "editorvalidatorbase_editorvalidatorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputUserWidgetValidator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setbonetransform_rigunit_setbonetransform",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "target": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatebase_rigvmfunction_mathrbfinterpolatebase",
+      "target": "rigvmfunction_mathbase_rigvmfunction_mathbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearrayquat_niagaradatainterfacearrayquat",
+      "target": "niagaradatainterfacearray_niagaradatainterfacearray",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceArrayQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfaterialexporter_gltfaterialexporter",
+      "target": "glftexporter_glftexporter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFMaterialExporter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerint4arrayvariable_rigvmtrait_setdeformerint4arrayvariable",
+      "target": "rigvmtait_optimusvariablebase_rigvmtait_optimusvariablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerInt4ArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgrouppickatom_wdpgrouppickatom",
+      "target": "entitypickatom_entitypickatom",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGroupPickAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionconstantbiasscale_materialexpressionconstantbiasscale",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionConstantBiasScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigspacepickerbakesettings_rigspacepickerbakesettings",
+      "target": "bakinganimationkeysettings_bakinganimationkeysettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigSpacePickerBakeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bonereferencepair_bonereferencepair",
+      "target": "rigunit_setbonetransform_rigunit_setbonetransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BoneReferencePair Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "target": "rigvmfunction_mathrbfinterpolatebase_rigvmfunction_mathrbfinterpolatebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathVectorUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "target": "rigvmfunction_mathbase_rigvmfunction_mathbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputuserwidgetvalidator_enhancedinputuserwidgetvalidator",
+      "target": "screencreditswidget_screencreditswidget",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EnhancedInputUserWidgetValidator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timecodebonemode_timecodebonemode",
+      "target": "rigunit_setbonetransform_rigunit_setbonetransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "TimecodeBoneMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timecodebonemode_timecodebonemode",
+      "target": "bonereferencepair_bonereferencepair",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "TimecodeBoneMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_vm_math_hierarchy",
+      "label": "RigVM Math Function Hierarchy",
+      "nodes": [
+        "rigvmfunction_mathbase_rigvmfunction_mathbase",
+        "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+        "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+        "rigvmfunction_mathrbfinterpolatebase_rigvmfunction_mathrbfinterpolatebase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorUnaryOp Objects.md"
+    },
+    {
+      "id": "bone_manipulation_system",
+      "label": "Bone Manipulation System",
+      "nodes": [
+        "rigunit_setbonetransform_rigunit_setbonetransform",
+        "bonereferencepair_bonereferencepair",
+        "timecodebonemode_timecodebonemode"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetBoneTransform Objects.md"
+    },
+    {
+      "id": "control_rig_baking_workflow",
+      "label": "Control Rig Baking Workflow",
+      "nodes": [
+        "rigspacepickerbakesettings_rigspacepickerbakesettings",
+        "bakinganimationkeysettings_bakinganimationkeysettings",
+        "rigunit_setbonetransform_rigunit_setbonetransform"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigSpacePickerBakeSettings Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

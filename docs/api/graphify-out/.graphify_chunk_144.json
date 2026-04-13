@@ -1,0 +1,317 @@
+{
+  "nodes": [
+    {
+      "id": "targetingdefaultresultdata_targetingdefaultresultdata",
+      "label": "TargetingDefaultResultData",
+      "file_type": "document",
+      "source_file": "TargetingDefaultResultData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbody_waterbody",
+      "label": "WaterBody",
+      "file_type": "document",
+      "source_file": "WaterBody Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodycomponent_waterbodycomponent",
+      "label": "WaterBodyComponent",
+      "file_type": "document",
+      "source_file": "WaterBody Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "watersplinecomponent_watersplinecomponent",
+      "label": "WaterSplineComponent",
+      "file_type": "document",
+      "source_file": "WaterBody Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycamerasystemactor_gameplaycamerasystemactor",
+      "label": "GameplayCameraSystemActor",
+      "file_type": "document",
+      "source_file": "GameplayCameraSystemActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycamerasystemcomponent_gameplaycamerasystemcomponent",
+      "label": "GameplayCameraSystemComponent",
+      "file_type": "document",
+      "source_file": "GameplayCameraSystemActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcameradirectorevaluator_blueprintcameradirectorevaluator",
+      "label": "BlueprintCameraDirectorEvaluator",
+      "file_type": "document",
+      "source_file": "BlueprintCameraDirectorEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcamerapose_blueprintcamerapose",
+      "label": "BlueprintCameraPose",
+      "file_type": "document",
+      "source_file": "BlueprintCameraDirectorEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerarigasset_camerarigasset",
+      "label": "CameraRigAsset",
+      "file_type": "document",
+      "source_file": "BlueprintCameraDirectorEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesstaticmeshcomponent_aesstaticmeshcomponent",
+      "label": "AesStaticMeshComponent",
+      "file_type": "document",
+      "source_file": "AesStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrigdefinitionfactory_ikrigdefinitionfactory",
+      "label": "IKRigDefinitionFactory",
+      "file_type": "document",
+      "source_file": "IKRigDefinitionFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigsingleparentelement_rigsingleparentelement",
+      "label": "RigSingleParentElement",
+      "file_type": "document",
+      "source_file": "RigSingleParentElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aimoffsetblendspace1d_aimoffsetblendspace1d",
+      "label": "AimOffsetBlendSpace1D",
+      "file_type": "document",
+      "source_file": "AimOffsetBlendSpace1D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_customproperty_animnode_customproperty",
+      "label": "AnimNode_CustomProperty",
+      "file_type": "document",
+      "source_file": "AnimNode__CustomProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgbooleanselectsettings_pcgbooleanselectsettings",
+      "label": "PCGBooleanSelectSettings",
+      "file_type": "document",
+      "source_file": "PCGBooleanSelectSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "waterbody_waterbody",
+      "target": "waterbodycomponent_waterbodycomponent",
+      "relation": "has_component",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBody Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbody_waterbody",
+      "target": "watersplinecomponent_watersplinecomponent",
+      "relation": "has_component",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBody Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycamerasystemactor_gameplaycamerasystemactor",
+      "target": "gameplaycamerasystemcomponent_gameplaycamerasystemcomponent",
+      "relation": "has_component",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCameraSystemActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameradirectorevaluator_blueprintcameradirectorevaluator",
+      "target": "blueprintcamerapose_blueprintcamerapose",
+      "relation": "manipulates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraDirectorEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameradirectorevaluator_blueprintcameradirectorevaluator",
+      "target": "camerarigasset_camerarigasset",
+      "relation": "manages",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraDirectorEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesstaticmeshcomponent_aesstaticmeshcomponent",
+      "target": "targetingdefaultresultdata_targetingdefaultresultdata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrigdefinitionfactory_ikrigdefinitionfactory",
+      "target": "rigsingleparentelement_rigsingleparentelement",
+      "relation": "creates_assets_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IKRigDefinitionFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_customproperty_animnode_customproperty",
+      "target": "aimoffsetblendspace1d_aimoffsetblendspace1d",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode__CustomProperty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbody_waterbody",
+      "target": "aesstaticmeshcomponent_aesstaticmeshcomponent",
+      "relation": "uses_mesh_rendering",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "WaterBody Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgbooleanselectsettings_pcgbooleanselectsettings",
+      "target": "aesstaticmeshcomponent_aesstaticmeshcomponent",
+      "relation": "generates_geometry_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGBooleanSelectSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "water_body_mesh_generation_pipeline",
+      "label": "Water Body Mesh Generation Pipeline",
+      "nodes": [
+        "waterbody_waterbody",
+        "waterbodycomponent_waterbodycomponent",
+        "watersplinecomponent_watersplinecomponent",
+        "aesstaticmeshcomponent_aesstaticmeshcomponent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "WaterBody Objects.md"
+    },
+    {
+      "id": "camera_system_coordination",
+      "label": "Camera System Coordination",
+      "nodes": [
+        "gameplaycamerasystemactor_gameplaycamerasystemactor",
+        "gameplaycamerasystemcomponent_gameplaycamerasystemcomponent",
+        "blueprintcameradirectorevaluator_blueprintcameradirectorevaluator",
+        "camerarigasset_camerarigasset"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayCameraSystemActor Objects.md"
+    },
+    {
+      "id": "rig_animation_system",
+      "label": "Rig Animation System",
+      "nodes": [
+        "rigsingleparentelement_rigsingleparentelement",
+        "ikrigdefinitionfactory_ikrigdefinitionfactory",
+        "animnode_customproperty_animnode_customproperty",
+        "aimoffsetblendspace1d_aimoffsetblendspace1d"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigSingleParentElement Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

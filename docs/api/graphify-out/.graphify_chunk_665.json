@@ -1,0 +1,761 @@
+{
+  "nodes": [
+    {
+      "id": "wavetablecurve_enum",
+      "label": "WaveTableCurve",
+      "file_type": "document",
+      "source_file": "WaveTableCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linear_curve_type",
+      "label": "LINEAR Curve Type",
+      "file_type": "document",
+      "source_file": "WaveTableCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometry_cache_track",
+      "label": "GeometryCacheTrack",
+      "file_type": "document",
+      "source_file": "GeometryCacheTrack__TransformAnimation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_animation_track",
+      "label": "Transform Animation Track",
+      "file_type": "document",
+      "source_file": "GeometryCacheTrack__TransformAnimation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_layer_editor_subsystem",
+      "label": "DataLayerEditorSubsystem",
+      "file_type": "document",
+      "source_file": "DataLayerEditorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_layer_visibility_management",
+      "label": "Data Layer Visibility Management",
+      "file_type": "document",
+      "source_file": "DataLayerEditorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_layer_actor_management",
+      "label": "Data Layer Actor Management",
+      "file_type": "document",
+      "source_file": "DataLayerEditorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "online_delegate",
+      "label": "EmptyOnlineDelegate",
+      "file_type": "document",
+      "source_file": "EmptyOnlineDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_math_double_floor",
+      "label": "RigVMFunction_MathDoubleFloor",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathDoubleFloor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathDoubleFloor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "random_velocity_generation",
+      "label": "RandomVelocityGenerationTypeEnum",
+      "file_type": "document",
+      "source_file": "RandomVelocityGenerationTypeEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaos_niagara_velocity",
+      "label": "Chaos Niagara Velocity Generation",
+      "file_type": "document",
+      "source_file": "RandomVelocityGenerationTypeEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_bool_animation_channel",
+      "label": "RigUnit_GetBoolAnimationChannelFromItem",
+      "file_type": "document",
+      "source_file": "RigUnit_GetBoolAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig_animation_channel",
+      "label": "Control Rig Animation Channel",
+      "file_type": "document",
+      "source_file": "RigUnit_GetBoolAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_expression_arctangent",
+      "label": "MaterialExpressionArctangentFast",
+      "file_type": "document",
+      "source_file": "MaterialExpressionArctangentFast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_math_expressions",
+      "label": "Material Math Expressions",
+      "file_type": "document",
+      "source_file": "MaterialExpressionArctangentFast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_material_factory",
+      "label": "DynamicMaterialModelFactory",
+      "file_type": "document",
+      "source_file": "DynamicMaterialModelFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_material_system",
+      "label": "Dynamic Material System",
+      "file_type": "document",
+      "source_file": "DynamicMaterialModelFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_gpu_latency",
+      "label": "NiagaraDefaultGpuTranslucentLatency",
+      "file_type": "document",
+      "source_file": "NiagaraDefaultGpuTranslucentLatency Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_gpu_rendering",
+      "label": "Niagara GPU Rendering",
+      "file_type": "document",
+      "source_file": "NiagaraDefaultGpuTranslucentLatency Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_material_editor_settings",
+      "label": "DynamicMaterialEditorSettings",
+      "file_type": "document",
+      "source_file": "DynamicMaterialEditorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_editor_configuration",
+      "label": "Material Editor Configuration",
+      "file_type": "document",
+      "source_file": "DynamicMaterialEditorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplay_tag_requirements",
+      "label": "GameplayTagRequirements",
+      "file_type": "document",
+      "source_file": "GameplayTagRequirements Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplay_ability_tag_system",
+      "label": "Gameplay Ability Tag System",
+      "file_type": "document",
+      "source_file": "GameplayTagRequirements Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmap_filter_param",
+      "label": "UnColumnarHeatMapFilterParam",
+      "file_type": "document",
+      "source_file": "UnColumnarHeatMapFilterParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "covering_api_heatmap",
+      "label": "Covering API Heatmap",
+      "file_type": "document",
+      "source_file": "UnColumnarHeatMapFilterParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_vector_length",
+      "label": "RigUnit_MathVectorLength",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth_primitive_fragment",
+      "label": "EarthPrimitiveFragment",
+      "file_type": "document",
+      "source_file": "EarthPrimitiveFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatial_fragment_geometry",
+      "label": "Spatial Fragment Geometry",
+      "file_type": "document",
+      "source_file": "EarthPrimitiveFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "path_entity",
+      "label": "PathEntity",
+      "file_type": "document",
+      "source_file": "PathEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "path_spline_component",
+      "label": "Path Spline Component",
+      "file_type": "document",
+      "source_file": "PathEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_mesh_generation",
+      "label": "Procedural Mesh Generation",
+      "file_type": "document",
+      "source_file": "PathEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timeline_vector_delegate",
+      "label": "OnTimelineVector",
+      "file_type": "document",
+      "source_file": "OnTimelineVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poi_widget_base",
+      "label": "PoiWidgetBase",
+      "file_type": "document",
+      "source_file": "PoiWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poi_ui_system",
+      "label": "POI UI System",
+      "file_type": "document",
+      "source_file": "PoiWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_point_match_set",
+      "label": "PCGPointMatchAndSetSettings",
+      "file_type": "document",
+      "source_file": "PCGPointMatchAndSetSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_point_operations",
+      "label": "PCG Point Operations",
+      "file_type": "document",
+      "source_file": "PCGPointMatchAndSetSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "item_expansion_delegate",
+      "label": "OnItemExpansionChangedDynamic",
+      "file_type": "document",
+      "source_file": "OnItemExpansionChangedDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tree_view_interaction",
+      "label": "Tree View Interaction",
+      "file_type": "document",
+      "source_file": "OnItemExpansionChangedDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usd_mesh_import_data",
+      "label": "UsdMeshAssetImportData",
+      "file_type": "document",
+      "source_file": "UsdMeshAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usd_pipeline_integration",
+      "label": "USD Pipeline Integration",
+      "file_type": "document",
+      "source_file": "UsdMeshAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "anim_node_space_conversion",
+      "label": "AnimNode_ConvertLocalToComponentSpace",
+      "file_type": "document",
+      "source_file": "AnimNode__ConvertLocalToComponentSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_space_transforms",
+      "label": "Animation Space Transforms",
+      "file_type": "document",
+      "source_file": "AnimNode__ConvertLocalToComponentSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "wavetablecurve_enum",
+      "target": "linear_curve_type",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaveTableCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometry_cache_track",
+      "target": "transform_animation_track",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCacheTrack__TransformAnimation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "data_layer_editor_subsystem",
+      "target": "data_layer_visibility_management",
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataLayerEditorSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "data_layer_editor_subsystem",
+      "target": "data_layer_actor_management",
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataLayerEditorSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvm_math_double_floor",
+      "target": "rigvm_math_operations",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleFloor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_vector_length",
+      "target": "rigvm_math_operations",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathVectorLength Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "random_velocity_generation",
+      "target": "chaos_niagara_velocity",
+      "relation": "configures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RandomVelocityGenerationTypeEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_bool_animation_channel",
+      "target": "control_rig_animation_channel",
+      "relation": "accesses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetBoolAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_expression_arctangent",
+      "target": "material_math_expressions",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArctangentFast Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamic_material_factory",
+      "target": "dynamic_material_system",
+      "relation": "creates_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialModelFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamic_material_editor_settings",
+      "target": "material_editor_configuration",
+      "relation": "configures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialEditorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamic_material_editor_settings",
+      "target": "dynamic_material_system",
+      "relation": "configures",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DynamicMaterialEditorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplay_tag_requirements",
+      "target": "gameplay_ability_tag_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayTagRequirements Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "heatmap_filter_param",
+      "target": "covering_api_heatmap",
+      "relation": "configures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UnColumnarHeatMapFilterParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earth_primitive_fragment",
+      "target": "spatial_fragment_geometry",
+      "relation": "represents",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrimitiveFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "path_entity",
+      "target": "path_spline_component",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PathEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "path_entity",
+      "target": "procedural_mesh_generation",
+      "relation": "performs",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PathEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "poi_widget_base",
+      "target": "poi_ui_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoiWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcg_point_match_set",
+      "target": "pcg_point_operations",
+      "relation": "executes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointMatchAndSetSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "item_expansion_delegate",
+      "target": "tree_view_interaction",
+      "relation": "handles",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnItemExpansionChangedDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "usd_mesh_import_data",
+      "target": "usd_pipeline_integration",
+      "relation": "supports",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UsdMeshAssetImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "anim_node_space_conversion",
+      "target": "animation_space_transforms",
+      "relation": "performs",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__ConvertLocalToComponentSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagara_gpu_latency",
+      "target": "niagara_gpu_rendering",
+      "relation": "configures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDefaultGpuTranslucentLatency Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timeline_vector_delegate",
+      "target": "animation_space_transforms",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "OnTimelineVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functionality",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvm_math_double_floor",
+        "rigunit_vector_length"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathDoubleFloor Objects.md"
+    },
+    {
+      "id": "dynamic_material_ecosystem",
+      "label": "Dynamic Material System Components",
+      "nodes": [
+        "dynamic_material_factory",
+        "dynamic_material_editor_settings",
+        "material_editor_configuration"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DynamicMaterialModelFactory Objects.md"
+    },
+    {
+      "id": "path_entity_components",
+      "label": "Path Entity Geometry System",
+      "nodes": [
+        "path_entity",
+        "path_spline_component",
+        "procedural_mesh_generation"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "PathEntity Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

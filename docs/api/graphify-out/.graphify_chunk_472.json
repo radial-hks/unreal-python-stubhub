@@ -1,0 +1,746 @@
+{
+  "nodes": [
+    {
+      "id": "animnode_convertcomponenttolocalspace_animnode_convertcomponenttolocalspace",
+      "label": "AnimNode ConvertComponentToLocalSpace",
+      "file_type": "code",
+      "source_file": "AnimNode_ConvertComponentToLocalSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_base_animnode_base",
+      "label": "AnimNode Base",
+      "file_type": "code",
+      "source_file": "AnimNode_ConvertComponentToLocalSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondragdropmulticast_ondragdropmulticast",
+      "label": "OnDragDropMulticast",
+      "file_type": "code",
+      "source_file": "OnDragDropMulticast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "OnDragDropMulticast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "label": "RigVMFunction MathIntBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase_rigvmfunction_mathintbase",
+      "label": "RigVMFunction MathIntBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionpower_dmmaterialstageexpressionpower",
+      "label": "DMMaterialStageExpressionPower",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionPower Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionmathbase_dmmaterialstageexpressionmathbase",
+      "label": "DMMaterialStageExpressionMathBase",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionPower Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityboundresult_entityboundresult",
+      "label": "EntityBoundResult",
+      "file_type": "code",
+      "source_file": "EntityBoundResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_resultbase",
+      "label": "ResultBase",
+      "file_type": "code",
+      "source_file": "EntityBoundResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediawebcamcapturedevicefilter_mediawebcamcapturedevicefilter",
+      "label": "MediaWebcamCaptureDeviceFilter",
+      "file_type": "code",
+      "source_file": "MediaWebcamCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "MediaWebcamCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fcpxmlexportdatasource_fcpxmlexportdatasource",
+      "label": "FCPXMLExportDataSource",
+      "file_type": "code",
+      "source_file": "FCPXMLExportDataSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navmodifiercomponent_navmodifiercomponent",
+      "label": "NavModifierComponent",
+      "file_type": "code",
+      "source_file": "NavModifierComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navrelevantcomponent_navrelevantcomponent",
+      "label": "NavRelevantComponent",
+      "file_type": "code",
+      "source_file": "NavModifierComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takepreset_takepreset",
+      "label": "TakePreset",
+      "file_type": "code",
+      "source_file": "TakePreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptuvflattenmethod_geometryscriptuvflattenmethod",
+      "label": "GeometryScriptUVFlattenMethod",
+      "file_type": "code",
+      "source_file": "GeometryScriptUVFlattenMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbeffector_ikrig_limbeffector",
+      "label": "IKRig LimbEffector",
+      "file_type": "code",
+      "source_file": "IKRig_LimbEffector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basicoverlaysfactory_basicoverlaysfactory",
+      "label": "BasicOverlaysFactory",
+      "file_type": "code",
+      "source_file": "BasicOverlaysFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "BasicOverlaysFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbrusheffectsmoothblending_waterbrusheffectsmoothblending",
+      "label": "WaterBrushEffectSmoothBlending",
+      "file_type": "code",
+      "source_file": "WaterBrushEffectSmoothBlending Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "WaterBrushEffectSmoothBlending Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunction_materialfunction",
+      "label": "MaterialFunction",
+      "file_type": "code",
+      "source_file": "MaterialFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctioninterface_materialfunctioninterface",
+      "label": "MaterialFunctionInterface",
+      "file_type": "code",
+      "source_file": "MaterialFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "phaserlfotype_phaserlfotype",
+      "label": "PhaserLFOType",
+      "file_type": "code",
+      "source_file": "PhaserLFOType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rb_radialforcecomponent_rb_radialforcecomponent",
+      "label": "RB_RadialForceComponent",
+      "file_type": "code",
+      "source_file": "RB_RadialForceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialforcecomponent_radialforcecomponent",
+      "label": "RadialForceComponent",
+      "file_type": "code",
+      "source_file": "RB_RadialForceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaioreferencetype_mediaioreferencetype",
+      "label": "MediaIOReferenceType",
+      "file_type": "code",
+      "source_file": "MediaIOReferenceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onleveleditorpresaveworld_onleveleditorpresaveworld",
+      "label": "OnLevelEditorPreSaveWorld",
+      "file_type": "code",
+      "source_file": "OnLevelEditorPreSaveWorld Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionunit_rigunit_mathquaternionunit",
+      "label": "RigUnit MathQuaternionUnit",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionUnit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionunit_rigvmfunction_mathquaternionunit",
+      "label": "RigVMFunction MathQuaternionUnit",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionUnit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionunion_rigunit_collectionunion",
+      "label": "RigUnit CollectionUnion",
+      "file_type": "code",
+      "source_file": "RigUnit__CollectionUnion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionbase_rigunit_collectionbase",
+      "label": "RigUnit CollectionBase",
+      "file_type": "code",
+      "source_file": "RigUnit__CollectionUnion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationmediauniformtileinput_displayclusterconfigurationmediauniformtileinput",
+      "label": "DisplayClusterConfigurationMediaUniformTileInput",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationMediaUniformTileInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformarraytosrt_rigvmfunction_mathtransformarraytosrt",
+      "label": "RigVMFunction MathTransformArrayToSRT",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformArrayToSRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbase_rigvmfunction_mathtransformbase",
+      "label": "RigVMFunction MathTransformBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformArrayToSRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animnode_convertcomponenttolocalspace_animnode_convertcomponenttolocalspace",
+      "target": "animnode_base_animnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_ConvertComponentToLocalSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ondragdropmulticast_ondragdropmulticast",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDragDropMulticast Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "target": "rigvmfunction_mathintbase_rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionpower_dmmaterialstageexpressionpower",
+      "target": "dmmaterialstageexpressionmathbase_dmmaterialstageexpressionmathbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionPower Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityboundresult_entityboundresult",
+      "target": "resultbase_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityBoundResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediawebcamcapturedevicefilter_mediawebcamcapturedevicefilter",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaWebcamCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fcpxmlexportdatasource_fcpxmlexportdatasource",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FCPXMLExportDataSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navmodifiercomponent_navmodifiercomponent",
+      "target": "navrelevantcomponent_navrelevantcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavModifierComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "basicoverlaysfactory_basicoverlaysfactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BasicOverlaysFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbrusheffectsmoothblending_waterbrusheffectsmoothblending",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBrushEffectSmoothBlending Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunction_materialfunction",
+      "target": "materialfunctioninterface_materialfunctioninterface",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialFunction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "phaserlfotype_phaserlfotype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhaserLFOType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rb_radialforcecomponent_rb_radialforcecomponent",
+      "target": "radialforcecomponent_radialforcecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RB_RadialForceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediaioreferencetype_mediaioreferencetype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaIOReferenceType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onleveleditorpresaveworld_onleveleditorpresaveworld",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnLevelEditorPreSaveWorld Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionunit_rigunit_mathquaternionunit",
+      "target": "rigvmfunction_mathquaternionunit_rigvmfunction_mathquaternionunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionUnit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionunion_rigunit_collectionunion",
+      "target": "rigunit_collectionbase_rigunit_collectionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionUnion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationmediauniformtileinput_displayclusterconfigurationmediauniformtileinput",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationMediaUniformTileInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformarraytosrt_rigvmfunction_mathtransformarraytosrt",
+      "target": "rigvmfunction_mathtransformbase_rigvmfunction_mathtransformbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformArrayToSRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ondragdropmulticast_ondragdropmulticast",
+      "target": "onleveleditorpresaveworld_onleveleditorpresaveworld",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnDragDropMulticast Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediawebcamcapturedevicefilter_mediawebcamcapturedevicefilter",
+      "target": "mediaioreferencetype_mediaioreferencetype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MediaWebcamCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "target": "rigvmfunction_mathtransformarraytosrt_rigvmfunction_mathtransformarraytosrt",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathIntBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "target": "rigvmfunction_mathquaternionunit_rigvmfunction_mathquaternionunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathIntBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionunion_rigunit_collectionunion",
+      "target": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__CollectionUnion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionpower_dmmaterialstageexpressionpower",
+      "target": "materialfunction_materialfunction",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DMMaterialStageExpressionPower Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbeffector_ikrig_limbeffector",
+      "target": "animnode_convertcomponenttolocalspace_animnode_convertcomponenttolocalspace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IKRig_LimbEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbeffector_ikrig_limbeffector",
+      "target": "rigunit_collectionunion_rigunit_collectionunion",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "IKRig_LimbEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptuvflattenmethod_geometryscriptuvflattenmethod",
+      "target": "materialfunction_materialfunction",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptUVFlattenMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rb_radialforcecomponent_rb_radialforcecomponent",
+      "target": "navmodifiercomponent_navmodifiercomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RB_RadialForceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fcpxmlexportdatasource_fcpxmlexportdatasource",
+      "target": "takepreset_takepreset",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "FCPXMLExportDataSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_math_operations",
+      "label": "Rig Math Operations",
+      "nodes": [
+        "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+        "rigvmfunction_mathquaternionunit_rigvmfunction_mathquaternionunit",
+        "rigvmfunction_mathtransformarraytosrt_rigvmfunction_mathtransformarraytosrt",
+        "rigunit_collectionunion_rigunit_collectionunion"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathIntBinaryAggregateOp Objects.md"
+    },
+    {
+      "id": "animation_space_conversion",
+      "label": "Animation Space Conversion",
+      "nodes": [
+        "animnode_convertcomponenttolocalspace_animnode_convertcomponenttolocalspace",
+        "ikrig_limbeffector_ikrig_limbeffector",
+        "rigvmfunction_mathtransformarraytosrt_rigvmfunction_mathtransformarraytosrt"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode_ConvertComponentToLocalSpace Objects.md"
+    },
+    {
+      "id": "media_enumeration_types",
+      "label": "Media Enumeration Types",
+      "nodes": [
+        "mediawebcamcapturedevicefilter_mediawebcamcapturedevicefilter",
+        "mediaioreferencetype_mediaioreferencetype",
+        "displayclusterconfigurationmediauniformtileinput_displayclusterconfigurationmediauniformtileinput"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MediaWebcamCaptureDeviceFilter Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

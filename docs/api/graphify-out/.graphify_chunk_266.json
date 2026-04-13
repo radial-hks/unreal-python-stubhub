@@ -1,0 +1,559 @@
+{
+  "nodes": [
+    {
+      "id": "riginfluenceentry_structbase",
+      "label": "RigInfluenceEntry",
+      "file_type": "document",
+      "source_file": "RigInfluenceEntry Objects.md",
+      "source_location": "ControlRig Plugin, RigInfluenceMap.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytask_waitdelay_gameplaytask",
+      "label": "GameplayTask_WaitDelay",
+      "file_type": "document",
+      "source_file": "GameplayTask__WaitDelay Objects.md",
+      "source_location": "GameplayTasks Module, GameplayTask_WaitDelay.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiooutputdeviceinfo_structbase",
+      "label": "AudioOutputDeviceInfo",
+      "file_type": "document",
+      "source_file": "AudioOutputDeviceInfo Objects.md",
+      "source_location": "AudioMixer Module, AudioMixerBlueprintLibrary.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proceduralmeshcomponent_meshcomponent",
+      "label": "ProceduralMeshComponent",
+      "file_type": "document",
+      "source_file": "ProceduralMeshComponent Objects.md",
+      "source_location": "ProceduralMeshComponent Plugin, ProceduralMeshComponent.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_multiply_vectorvector_rigunit_binaryvectorop",
+      "label": "RigUnit_Multiply_VectorVector",
+      "file_type": "document",
+      "source_file": "RigUnit__Multiply__VectorVector Objects.md",
+      "source_location": "ControlRig Plugin, RigUnit_Vector.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliagescaling_enumbase",
+      "label": "FoliageScaling",
+      "file_type": "document",
+      "source_file": "FoliageScaling Objects.md",
+      "source_location": "Foliage Module, FoliageType.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "globalhoverenable_paramsbase",
+      "label": "GlobalHoverEnable",
+      "file_type": "document",
+      "source_file": "GlobalHoverEnable Objects.md",
+      "source_location": "WdpRuntimeAPI Plugin, WdpSelectionAPIParams.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitycomboboxstring_comboboxstring",
+      "label": "EditorUtilityComboBoxString",
+      "file_type": "document",
+      "source_file": "EditorUtilityComboBoxString Objects.md",
+      "source_location": "Blutility Module, EditorUtilityWidgetComponents.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesobjectstruct_structbase",
+      "label": "AesObjectStruct",
+      "file_type": "document",
+      "source_file": "AesObjectStruct Objects.md",
+      "source_location": "AesWorld Plugin, AesEntityAsset.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphrenderdataidentifier_structbase",
+      "label": "MovieGraphRenderDataIdentifier",
+      "file_type": "document",
+      "source_file": "MovieGraphRenderDataIdentifier Objects.md",
+      "source_location": "MovieRenderPipeline Plugin, MovieGraphRenderDataIdentifier.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpvisualsubsystem_tickableworldsubsystem",
+      "label": "WdpVisualSubsystem",
+      "file_type": "document",
+      "source_file": "WdpVisualSubsystem Objects.md",
+      "source_location": "WdpApplication Plugin, WdpVisualSubsystem.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "systemlibrary_blueprintfunctionlibrary",
+      "label": "SystemLibrary",
+      "file_type": "document",
+      "source_file": "SystemLibrary Objects.md",
+      "source_location": "Engine Module, KismetSystemLibrary.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequencedirector_levelsequencedirector",
+      "label": "AvaSequenceDirector",
+      "file_type": "document",
+      "source_file": "AvaSequenceDirector Objects.md",
+      "source_location": "Avalanche Plugin, AvaSequenceDirector.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkcomponentcontroller_actorcomponent",
+      "label": "LiveLinkComponentController",
+      "file_type": "document",
+      "source_file": "LiveLinkComponentController Objects.md",
+      "source_location": "LiveLink Plugin, LiveLinkComponentController.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionneuralnetworkinput_materialexpressioncustomoutput",
+      "label": "MaterialExpressionNeuralNetworkInput",
+      "file_type": "document",
+      "source_file": "MaterialExpressionNeuralNetworkInput Objects.md",
+      "source_location": "Engine Module, MaterialExpressionNeuralPostProcessNode.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatamakerotatorop_enumbase",
+      "label": "PCGMetadataMakeRotatorOp",
+      "file_type": "document",
+      "source_file": "PCGMetadataMakeRotatorOp Objects.md",
+      "source_location": "PCG Plugin, PCGMetadataMakeRotator.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressioncameravectorws_dmmaterialstageexpression",
+      "label": "DMMaterialStageExpressionCameraVectorWS",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionCameraVectorWS Objects.md",
+      "source_location": "DynamicMaterial Plugin, DMMSECameraVectorWS.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripttexeldensitymode_enumbase",
+      "label": "GeometryScriptTexelDensityMode",
+      "file_type": "document",
+      "source_file": "GeometryScriptTexelDensityMode Objects.md",
+      "source_location": "GeometryScripting Plugin, MeshUVFunctions.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmesh_skinnedasset",
+      "label": "SkeletalMesh",
+      "file_type": "document",
+      "source_file": "SkeletalMesh Objects.md",
+      "source_location": "Engine Module, SkeletalMesh.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthshapegrammarmoduleinfo_structbase",
+      "label": "EarthShapeGrammarModuleInfo",
+      "file_type": "document",
+      "source_file": "EarthShapeGrammarModuleInfo Objects.md",
+      "source_location": "AesWorld Plugin, EarthShapeGrammarFragment.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_simplifymethod_enumbase",
+      "label": "GenerateStaticMeshLODProcess_SimplifyMethod",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_SimplifyMethod Objects.md",
+      "source_location": "MeshLODToolset Plugin, GenerateStaticMeshLODProcess.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "minimapapi_apiclassbase",
+      "label": "MiniMapAPI",
+      "file_type": "document",
+      "source_file": "MiniMapAPI Objects.md",
+      "source_location": "CoveringAPI Plugin, MiniMapAPI.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "trace_operations_concept",
+      "label": "Trace Operations",
+      "file_type": "document",
+      "source_file": "SystemLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_geometry_concept",
+      "label": "Procedural Geometry",
+      "file_type": "document",
+      "source_file": "ProceduralMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletal_animation_system",
+      "label": "Skeletal Animation System",
+      "file_type": "document",
+      "source_file": "SkeletalMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lod_management",
+      "label": "LOD Management",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_SimplifyMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visual_debugging",
+      "label": "Visual Debugging",
+      "file_type": "document",
+      "source_file": "WdpVisualSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "gameplaytask_waitdelay_gameplaytask",
+      "target": "gameplaytask_base_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayTask__WaitDelay Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proceduralmeshcomponent_meshcomponent",
+      "target": "meshcomponent_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProceduralMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proceduralmeshcomponent_meshcomponent",
+      "target": "procedural_geometry_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "ProceduralMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multiply_vectorvector_rigunit_binaryvectorop",
+      "target": "rigunit_binaryvectorop_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__Multiply__VectorVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmesh_skinnedasset",
+      "target": "skinnedasset_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmesh_skinnedasset",
+      "target": "skeletal_animation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "SkeletalMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "systemlibrary_blueprintfunctionlibrary",
+      "target": "trace_operations_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SystemLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpvisualsubsystem_tickableworldsubsystem",
+      "target": "visual_debugging",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpVisualSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_simplifymethod_enumbase",
+      "target": "lod_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GenerateStaticMeshLODProcess_SimplifyMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmesh_skinnedasset",
+      "target": "lod_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkeletalMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foliagescaling_enumbase",
+      "target": "procedural_geometry_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "FoliageScaling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthshapegrammarmoduleinfo_structbase",
+      "target": "procedural_geometry_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthShapeGrammarModuleInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riginfluenceentry_structbase",
+      "target": "skeletal_animation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigInfluenceEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multiply_vectorvector_rigunit_binaryvectorop",
+      "target": "skeletal_animation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__Multiply__VectorVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkcomponentcontroller_actorcomponent",
+      "target": "skeletal_animation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LiveLinkComponentController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionneuralnetworkinput_materialexpressioncustomoutput",
+      "target": "neural_network_rendering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MaterialExpressionNeuralNetworkInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscripttexeldensitymode_enumbase",
+      "target": "uv_mapping_operations",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptTexelDensityMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foliagescaling_enumbase",
+      "target": "geometryscripttexeldensitymode_enumbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "FoliageScaling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proceduralmeshcomponent_meshcomponent",
+      "target": "systemlibrary_blueprintfunctionlibrary",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ProceduralMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasequencedirector_levelsequencedirector",
+      "target": "livelinkcomponentcontroller_actorcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AvaSequenceDirector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimapapi_apiclassbase",
+      "target": "wdpvisualsubsystem_tickableworldsubsystem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MiniMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "skeletal_rig_system_components",
+      "label": "Skeletal Rig System Components",
+      "nodes": [
+        "riginfluenceentry_structbase",
+        "rigunit_multiply_vectorvector_rigunit_binaryvectorop",
+        "skeletalmesh_skinnedasset",
+        "livelinkcomponentcontroller_actorcomponent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigInfluenceEntry Objects.md"
+    },
+    {
+      "id": "procedural_content_generation",
+      "label": "Procedural Content Generation",
+      "nodes": [
+        "proceduralmeshcomponent_meshcomponent",
+        "earthshapegrammarmoduleinfo_structbase",
+        "foliagescaling_enumbase",
+        "pcgmetadatamakerotatorop_enumbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ProceduralMeshComponent Objects.md"
+    },
+    {
+      "id": "rendering_and_visualization_pipeline",
+      "label": "Rendering and Visualization Pipeline",
+      "nodes": [
+        "materialexpressionneuralnetworkinput_materialexpressioncustomoutput",
+        "dmmaterialstageexpressioncameravectorws_dmmaterialstageexpression",
+        "moviegraphrenderdataidentifier_structbase",
+        "wdpvisualsubsystem_tickableworldsubsystem"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionNeuralNetworkInput Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

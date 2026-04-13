@@ -1,0 +1,578 @@
+{
+  "nodes": [
+    {
+      "id": "ActivateCameraRigFunctions_class",
+      "label": "ActivateCameraRigFunctions",
+      "file_type": "document",
+      "source_file": "ActivateCameraRigFunctions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneGeometryCacheSection_class",
+      "label": "MovieSceneGeometryCacheSection",
+      "file_type": "document",
+      "source_file": "MovieSceneGeometryCacheSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "OnWdpButtonReleasedEvent_class",
+      "label": "OnWdpButtonReleasedEvent",
+      "file_type": "document",
+      "source_file": "OnWdpButtonReleasedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CustomPoiWidgetBase_class",
+      "label": "CustomPoiWidgetBase",
+      "file_type": "document",
+      "source_file": "CustomPoiWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AbilityAsync_WaitGameplayEffectApplied_OnAppliedDelegate_class",
+      "label": "AbilityAsync_WaitGameplayEffectApplied_OnAppliedDelegate",
+      "file_type": "document",
+      "source_file": "AbilityAsync__WaitGameplayEffectApplied__OnAppliedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InterchangeMeshPayLoadKey_struct",
+      "label": "InterchangeMeshPayLoadKey",
+      "file_type": "document",
+      "source_file": "InterchangeMeshPayLoadKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DMMaterialStageBlendHardMix_class",
+      "label": "DMMaterialStageBlendHardMix",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendHardMix Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ParabolaAPI_class",
+      "label": "ParabolaAPI",
+      "file_type": "document",
+      "source_file": "ParabolaAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AudioBus_class",
+      "label": "AudioBus",
+      "file_type": "document",
+      "source_file": "AudioBus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_KalmanVector_class",
+      "label": "RigVMFunction_KalmanVector",
+      "file_type": "document",
+      "source_file": "RigVMFunction_KalmanVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EarthRoadJunctionBuilderType_enum",
+      "label": "EarthRoadJunctionBuilderType",
+      "file_type": "document",
+      "source_file": "EarthRoadJunctionBuilderType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathFloatIsNearlyEqual_class",
+      "label": "RigVMFunction_MathFloatIsNearlyEqual",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathFloatIsNearlyEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "IKRig_BodyMoverEffector_class",
+      "label": "IKRig_BodyMoverEffector",
+      "file_type": "document",
+      "source_file": "IKRig_BodyMoverEffector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AnimDetailProxyVector2D_struct",
+      "label": "AnimDetailProxyVector2D",
+      "file_type": "document",
+      "source_file": "AnimDetailProxyVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "FeatureTableDescription_struct",
+      "label": "FeatureTableDescription",
+      "file_type": "document",
+      "source_file": "FeatureTableDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGHiGenGridSizeSettings_class",
+      "label": "PCGHiGenGridSizeSettings",
+      "file_type": "document",
+      "source_file": "PCGHiGenGridSizeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGDummyGetPropertyLevel2Struct_struct",
+      "label": "PCGDummyGetPropertyLevel2Struct",
+      "file_type": "document",
+      "source_file": "PCGDummyGetPropertyLevel2Struct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneNiagaraFloatParameterTrack_class",
+      "label": "MovieSceneNiagaraFloatParameterTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneNiagaraFloatParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Widget_GetLinearColor_delegate",
+      "label": "Widget_GetLinearColor",
+      "file_type": "document",
+      "source_file": "Widget_GetLinearColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InteractiveToolPropertySet_class",
+      "label": "InteractiveToolPropertySet",
+      "file_type": "document",
+      "source_file": "InteractiveToolPropertySet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "IKRigGoal_struct",
+      "label": "IKRigGoal",
+      "file_type": "document",
+      "source_file": "IKRigGoal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LandmassErosionBrushBase_class",
+      "label": "LandmassErosionBrushBase",
+      "file_type": "document",
+      "source_file": "LandmassErosionBrushBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "BlueprintFunctionLibrary_type",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "ActivateCameraRigFunctions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneSection_type",
+      "label": "MovieSceneSection",
+      "file_type": "document",
+      "source_file": "MovieSceneGeometryCacheSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MulticastDelegateBase_type",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnWdpButtonReleasedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CoveringWidgetBase_type",
+      "label": "CoveringWidgetBase",
+      "file_type": "document",
+      "source_file": "CustomPoiWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CameraRigAsset_type",
+      "label": "CameraRigAsset",
+      "file_type": "document",
+      "source_file": "ActivateCameraRigFunctions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_SimBase_type",
+      "label": "RigVMFunction_SimBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_KalmanVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathFloatBase_type",
+      "label": "RigVMFunction_MathFloatBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathFloatIsNearlyEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneNiagaraParameterTrack_type",
+      "label": "MovieSceneNiagaraParameterTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneNiagaraFloatParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LandscapeBlueprintBrushBase_type",
+      "label": "LandscapeBlueprintBrushBase",
+      "file_type": "document",
+      "source_file": "LandmassErosionBrushBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DMMaterialStageBlendFunction_type",
+      "label": "DMMaterialStageBlendFunction",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendHardMix Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "ActivateCameraRigFunctions_class",
+      "target": "BlueprintFunctionLibrary_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActivateCameraRigFunctions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ActivateCameraRigFunctions_class",
+      "target": "CameraRigAsset_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActivateCameraRigFunctions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneGeometryCacheSection_class",
+      "target": "MovieSceneSection_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneGeometryCacheSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "OnWdpButtonReleasedEvent_class",
+      "target": "MulticastDelegateBase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnWdpButtonReleasedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "CustomPoiWidgetBase_class",
+      "target": "CoveringWidgetBase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CustomPoiWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DMMaterialStageBlendHardMix_class",
+      "target": "DMMaterialStageBlendFunction_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageBlendHardMix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_KalmanVector_class",
+      "target": "RigVMFunction_SimBase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_KalmanVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathFloatIsNearlyEqual_class",
+      "target": "RigVMFunction_MathFloatBase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatIsNearlyEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneNiagaraFloatParameterTrack_class",
+      "target": "MovieSceneNiagaraParameterTrack_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraFloatParameterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "LandmassErosionBrushBase_class",
+      "target": "LandscapeBlueprintBrushBase_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassErosionBrushBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "IKRig_BodyMoverEffector_class",
+      "target": "IKRigGoal_struct",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "IKRig_BodyMoverEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_KalmanVector_class",
+      "target": "RigVMFunction_MathFloatIsNearlyEqual_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_KalmanVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneGeometryCacheSection_class",
+      "target": "MovieSceneNiagaraFloatParameterTrack_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "MovieSceneGeometryCacheSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "CustomPoiWidgetBase_class",
+      "target": "OnWdpButtonReleasedEvent_class",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CustomPoiWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "CustomPoiWidgetBase_class",
+      "target": "Widget_GetLinearColor_delegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "CustomPoiWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "IKRigGoal_struct",
+      "target": "IKRig_BodyMoverEffector_class",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "IKRigGoal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AnimDetailProxyVector2D_struct",
+      "target": "IKRigGoal_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimDetailProxyVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGHiGenGridSizeSettings_class",
+      "target": "PCGDummyGetPropertyLevel2Struct_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "PCGHiGenGridSizeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "ikrig_system_components",
+      "label": "IK Rig System Components",
+      "nodes": [
+        "IKRigGoal_struct",
+        "IKRig_BodyMoverEffector_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "IKRigGoal Objects.md"
+    },
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Functions",
+      "nodes": [
+        "RigVMFunction_KalmanVector_class",
+        "RigVMFunction_MathFloatIsNearlyEqual_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigVMFunction_KalmanVector Objects.md"
+    },
+    {
+      "id": "moviescene_track_system",
+      "label": "Movie Scene Track System",
+      "nodes": [
+        "MovieSceneGeometryCacheSection_class",
+        "MovieSceneNiagaraFloatParameterTrack_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneGeometryCacheSection Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

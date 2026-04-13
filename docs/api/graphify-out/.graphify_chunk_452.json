@@ -1,0 +1,400 @@
+{
+  "nodes": [
+    {
+      "id": "positionincludedoffsets_enum",
+      "label": "PositionIncludedOffsets",
+      "file_type": "document",
+      "source_file": "PositionIncludedOffsets Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterdisplaydevicebasecomponent_class",
+      "label": "DisplayClusterDisplayDeviceBaseComponent",
+      "file_type": "document",
+      "source_file": "DisplayClusterDisplayDeviceBaseComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshdifferencereason_enum",
+      "label": "GeometryScriptMeshDifferenceReason",
+      "file_type": "document",
+      "source_file": "GeometryScriptMeshDifferenceReason Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterpreviewsharemode_enum",
+      "label": "DisplayClusterPreviewShareMode",
+      "file_type": "document",
+      "source_file": "DisplayClusterPreviewShareMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcopyattributessettings_class",
+      "label": "PCGCopyAttributesSettings",
+      "file_type": "document",
+      "source_file": "PCGCopyAttributesSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceeffectoroffsetmode_class",
+      "label": "CEEffectorOffsetMode",
+      "file_type": "document",
+      "source_file": "CEEffectorOffsetMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_interactionexecution_class",
+      "label": "RigUnit_InteractionExecution",
+      "file_type": "document",
+      "source_file": "RigUnit_InteractionExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewgrid_class",
+      "label": "NiagaraPreviewGrid",
+      "file_type": "document",
+      "source_file": "NiagaraPreviewGrid Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avabroadcastchannelstate_enum",
+      "label": "AvaBroadcastChannelState",
+      "file_type": "document",
+      "source_file": "AvaBroadcastChannelState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aimovecompletedsignature_class",
+      "label": "AIMoveCompletedSignature",
+      "file_type": "document",
+      "source_file": "AIMoveCompletedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdemextractorfragment_class",
+      "label": "EarthDemExtractorFragment",
+      "file_type": "document",
+      "source_file": "EarthDemExtractorFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadeditorcommandparams_lock_class",
+      "label": "AesRoadEditorCommandParams_Lock",
+      "file_type": "document",
+      "source_file": "AesRoadEditorCommandParams__Lock Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguecontext_class",
+      "label": "DialogueContext",
+      "file_type": "document",
+      "source_file": "DialogueContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonegraphrenderingcomponent_class",
+      "label": "ZoneGraphRenderingComponent",
+      "file_type": "document",
+      "source_file": "ZoneGraphRenderingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modularsynthpresetbank_class",
+      "label": "ModularSynthPresetBank",
+      "file_type": "document",
+      "source_file": "ModularSynthPresetBank Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmexecutionmode_enum",
+      "label": "MVVMExecutionMode",
+      "file_type": "document",
+      "source_file": "MVVMExecutionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathcoloradd_class",
+      "label": "RigUnit_MathColorAdd",
+      "file_type": "document",
+      "source_file": "RigUnit_MathColorAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintgreaterequal_class",
+      "label": "RigUnit_MathIntGreaterEqual",
+      "file_type": "document",
+      "source_file": "RigUnit_MathIntGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hdrcapturegamut_enum",
+      "label": "HDRCaptureGamut",
+      "file_type": "document",
+      "source_file": "HDRCaptureGamut Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphconditiongroupquery_actor_class",
+      "label": "MovieGraphConditionGroupQuery_Actor",
+      "file_type": "document",
+      "source_file": "MovieGraphConditionGroupQuery_Actor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixelstreaming51clouddelegates_closedconnection_class",
+      "label": "PixelStreaming51CloudDelegates_ClosedConnection",
+      "file_type": "document",
+      "source_file": "PixelStreaming51CloudDelegates__ClosedConnection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosclothinginteractor_class",
+      "label": "ChaosClothingInteractor",
+      "file_type": "document",
+      "source_file": "ChaosClothingInteractor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "displayclusterdisplaydevicebasecomponent_class",
+      "target": "displayclusterpreviewsharemode_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DisplayClusterDisplayDeviceBaseComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmeshdifferencereason_enum",
+      "target": "positionincludedoffsets_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryScriptMeshDifferenceReason Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewgrid_class",
+      "target": "avabroadcastchannelstate_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraPreviewGrid Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosclothinginteractor_class",
+      "target": "ceeffectoroffsetmode_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ChaosClothingInteractor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcoloradd_class",
+      "target": "rigunit_mathintgreaterequal_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathColorAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcoloradd_class",
+      "target": "rigunit_interactionexecution_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathColorAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hdrcapturegamut_enum",
+      "target": "moviegraphconditiongroupquery_actor_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "HDRCaptureGamut Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdemextractorfragment_class",
+      "target": "zonegraphrenderingcomponent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "EarthDemExtractorFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aimovecompletedsignature_class",
+      "target": "zonegraphrenderingcomponent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AIMoveCompletedSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dialoguecontext_class",
+      "target": "aimovecompletedsignature_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DialogueContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pixelstreaming51clouddelegates_closedconnection_class",
+      "target": "avabroadcastchannelstate_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PixelStreaming51CloudDelegates__ClosedConnection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigvm_functions",
+      "label": "Deprecated RigVM Math Functions",
+      "nodes": [
+        "rigunit_mathcoloradd_class",
+        "rigunit_mathintgreaterequal_class"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathColorAdd Objects.md"
+    },
+    {
+      "id": "ndisplay_visualization_system",
+      "label": "nDisplay Visualization and Preview System",
+      "nodes": [
+        "displayclusterdisplaydevicebasecomponent_class",
+        "displayclusterpreviewsharemode_enum",
+        "niagarapreviewgrid_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DisplayClusterDisplayDeviceBaseComponent Objects.md"
+    },
+    {
+      "id": "unreal_engine_simulation_physics",
+      "label": "Unreal Engine Simulation and Physics Systems",
+      "nodes": [
+        "chaosclothinginteractor_class",
+        "ceeffectoroffsetmode_class",
+        "zonegraphrenderingcomponent_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ChaosClothingInteractor Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

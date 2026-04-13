@@ -1,0 +1,345 @@
+{
+  "nodes": [
+    {
+      "id": "rigjoint_rigjoint",
+      "label": "RigJoint",
+      "file_type": "code",
+      "source_file": "RigJoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigjoint_rigbone",
+      "label": "RigBone",
+      "file_type": "code",
+      "source_file": "RigJoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithadditionaldata_datasmithadditionaldata",
+      "label": "DatasmithAdditionalData",
+      "file_type": "code",
+      "source_file": "DatasmithAdditionalData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolrivenlist_rigunit_setcontrolrivenlist",
+      "label": "RigUnit_SetControlDrivenList",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlDrivenList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolelement_rigunit_hierarchyaddcontrolelement",
+      "label": "RigUnit_HierarchyAddControlElement",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__aimbone__debugsettings_rigunit__aimbone__debugsettings",
+      "label": "RigUnit_AimBone_DebugSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__AimBone__DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsweephulloptions_geometryscriptsweephulloptions",
+      "label": "GeometryScriptSweptHullOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptSweptHullOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptemptyselectionbehavior_geometryscriptemptyselectionbehavior",
+      "label": "GeometryScriptEmptySelectionBehavior",
+      "file_type": "code",
+      "source_file": "GeometryScriptEmptySelectionBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "watermarkerwidgetbase_watermarkerwidgetbase",
+      "label": "WaterMarkerWidgetBase",
+      "file_type": "code",
+      "source_file": "WaterMarkerWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenereplaceabledirectorblueprintbinding_moviescenereplaceabledirectorblueprintbinding",
+      "label": "MovieSceneReplaceableDirectorBlueprintBinding",
+      "file_type": "code",
+      "source_file": "MovieSceneReplaceableDirectorBlueprintBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonegraphdisturbanceannotationbplibrary_zonegraphdisturbanceannotationbplibrary",
+      "label": "ZoneGraphDisturbanceAnnotationBPLibrary",
+      "file_type": "code",
+      "source_file": "ZoneGraphDisturbanceAnnotationBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typedelementprimitivecustomdatainterface_typedelementprimitivecustomdatainterface",
+      "label": "TypedElementPrimitiveCustomDataInterface",
+      "file_type": "code",
+      "source_file": "TypedElementPrimitiveCustomDataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetingsorttask__base_targetingsorttask__base",
+      "label": "TargetingSortTask_Base",
+      "file_type": "code",
+      "source_file": "TargetingSortTask__Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingcreateproxymeshactoroptions_editorscriptingcreateproxymeshactoroptions",
+      "label": "EditorScriptingCreateProxyMeshActorOptions",
+      "file_type": "code",
+      "source_file": "EditorScriptingCreateProxyMeshActorOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_executexcontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlDrivenList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlDrivenList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigjoint_rigjoint",
+      "target": "rigjoint_rigbone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigJoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolrivenlist_rigunit_setcontrolrivenlist",
+      "target": "rigunit_hierarchyaddcontrolelement_rigunit_hierarchyaddcontrolelement",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetControlDrivenList Objects.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "rigunit_setcontrolrivenlist_rigunit_setcontrolrivenlist",
+      "target": "controlrig_executexcontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlDrivenList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolelement_rigunit_hierarchyaddcontrolelement",
+      "target": "controlrig_executexcontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControlElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolrivenlist_rigunit_setcontrolrivenlist",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlDrivenList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolelement_rigunit_hierarchyaddcontrolelement",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControlElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptsweephulloptions_geometryscriptsweephulloptions",
+      "target": "geometryscriptemptyselectionbehavior_geometryscriptemptyselectionbehavior",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptSweptHullOptions Objects.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "editorscriptingcreateproxymeshactoroptions_editorscriptingcreateproxymeshactoroptions",
+      "target": "geometryscriptsweephulloptions_geometryscriptsweephulloptions",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "EditorScriptingCreateProxyMeshActorOptions Objects.md",
+      "source_location": null,
+      "weight": 0.70
+    },
+    {
+      "source": "zonegraphdisturbanceannotationbplibrary_zonegraphdisturbanceannotationbplibrary",
+      "target": "watermarkerwidgetbase_watermarkerwidgetbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ZoneGraphDisturbanceAnnotationBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "typedelementprimitivecustomdatainterface_typedelementprimitivecustomdatainterface",
+      "target": "targetingsorttask__base_targetingsorttask__base",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "TypedElementPrimitiveCustomDataInterface Objects.md",
+      "source_location": null,
+      "weight": 0.70
+    },
+    {
+      "source": "moviescenereplaceabledirectorblueprintbinding_moviescenereplaceabledirectorblueprintbinding",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.60,
+      "source_file": "MovieSceneReplaceableDirectorBlueprintBinding Objects.md",
+      "source_location": null,
+      "weight": 0.60
+    },
+    {
+      "source": "datasmithadditionaldata_datasmithadditionaldata",
+      "target": "moviescenereplaceabledirectorblueprintbinding_moviescenereplaceabledirectorblueprintbinding",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DatasmithAdditionalData Objects.md",
+      "source_location": null,
+      "weight": 0.65
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_hierarchy_units",
+      "label": "ControlRig Hierarchy Manipulation Units",
+      "nodes": [
+        "rigunit_setcontrolrivenlist_rigunit_setcontrolrivenlist",
+        "rigunit_hierarchyaddcontrolelement_rigunit_hierarchyaddcontrolelement",
+        "rigunit__aimbone__debugsettings_rigunit__aimbone__debugsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetControlDrivenList Objects.md"
+    },
+    {
+      "id": "geometry_scripting_options",
+      "label": "Geometry Scripting Configuration Types",
+      "nodes": [
+        "geometryscriptsweephulloptions_geometryscriptsweephulloptions",
+        "geometryscriptemptyselectionbehavior_geometryscriptemptyselectionbehavior",
+        "editorscriptingcreateproxymeshactoroptions_editorscriptingcreateproxymeshactoroptions"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptSweptHullOptions Objects.md"
+    },
+    {
+      "id": "unreal_engine_data_interfaces",
+      "label": "Unreal Engine Data and Element Interfaces",
+      "nodes": [
+        "typedelementprimitivecustomdatainterface_typedelementprimitivecustomdatainterface",
+        "datasmithadditionaldata_datasmithadditionaldata",
+        "moviescenereplaceabledirectorblueprintbinding_moviescenereplaceabledirectorblueprintbinding"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "TypedElementPrimitiveCustomDataInterface Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,675 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_debugarc_rigunit_debugarc",
+      "label": "RigUnit_DebugArc",
+      "file_type": "code",
+      "source_file": "RigUnit_DebugArc Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugarc_rigunit_debugbase",
+      "label": "RigUnit_DebugBase",
+      "file_type": "code",
+      "source_file": "RigUnit_DebugArc Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstratautilitybase_materialexpressionstratautilitybase",
+      "label": "MaterialExpressionStrataUtilityBase",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStrataUtilityBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstratautilitybase_materialexpressionsubstrateutilitybase",
+      "label": "MaterialExpressionSubstrateUtilityBase",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStrataUtilityBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgshapesparentactor_svgshapesparentactor",
+      "label": "SVGShapesParentActor",
+      "file_type": "code",
+      "source_file": "SVGShapesParentActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgshapesparentactor_svgdynamicmeshescontaineractor",
+      "label": "SVGDynamicMeshesContainerActor",
+      "file_type": "code",
+      "source_file": "SVGShapesParentActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "matcollectionsetting_matcollectionsetting",
+      "label": "MatCollectionSetting",
+      "file_type": "code",
+      "source_file": "MatCollectionSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "matcollectionsetting_materialparametercollection",
+      "label": "MaterialParameterCollection",
+      "file_type": "code",
+      "source_file": "MatCollectionSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "androidpermissionfunctionlibrary_androidpermissionfunctionlibrary",
+      "label": "AndroidPermissionFunctionLibrary",
+      "file_type": "code",
+      "source_file": "AndroidPermissionFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "androidpermissionfunctionlibrary_androidpermissioncallbackproxy",
+      "label": "AndroidPermissionCallbackProxy",
+      "file_type": "code",
+      "source_file": "AndroidPermissionFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "text3dverticaltextalignment_text3dverticaltextalignment",
+      "label": "Text3DVerticalTextAlignment",
+      "file_type": "code",
+      "source_file": "Text3DVerticalTextAlignment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avascameraprioritymodifier_avascameraprioritymodifier",
+      "label": "AvaCameraPriorityModifier",
+      "file_type": "code",
+      "source_file": "AvaCameraPriorityModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avascameraprioritymodifier_actormodifiercorebase",
+      "label": "ActorModifierCoreBase",
+      "file_type": "code",
+      "source_file": "AvaCameraPriorityModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicalmaterialdamagemodifier_physicalmaterialdamagemodifier",
+      "label": "PhysicalMaterialDamageModifier",
+      "file_type": "code",
+      "source_file": "PhysicalMaterialDamageModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionevent_motionevent",
+      "label": "MotionEvent",
+      "file_type": "code",
+      "source_file": "MotionEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionevent_inputevent",
+      "label": "InputEvent",
+      "file_type": "code",
+      "source_file": "MotionEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sendlevelcontrolmethod_sendlevelcontrolmethod",
+      "label": "SendLevelControlMethod",
+      "file_type": "code",
+      "source_file": "SendLevelControlMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertarget2d_texturerendertarget2d",
+      "label": "TextureRenderTarget2D",
+      "file_type": "code",
+      "source_file": "TextureRenderTarget2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertarget2d_texturerendertarget",
+      "label": "TextureRenderTarget",
+      "file_type": "code",
+      "source_file": "TextureRenderTarget2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraemitterproperties_niagaraemitterproperties",
+      "label": "NiagaraEmitterProperties",
+      "file_type": "code",
+      "source_file": "NiagaraEmitterProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraemitter_niagaraemitter",
+      "label": "NiagaraEmitter",
+      "file_type": "code",
+      "source_file": "NiagaraEmitter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraemitter_niagarascript",
+      "label": "NiagaraScript",
+      "file_type": "code",
+      "source_file": "NiagaraEmitter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraemitter_niagararendererproperties",
+      "label": "NiagaraRendererProperties",
+      "file_type": "code",
+      "source_file": "NiagaraEmitter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computekerneldefinition_computekerneldefinition",
+      "label": "ComputeKernelDefinition",
+      "file_type": "code",
+      "source_file": "ComputeKernelDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blackboarddatafactory_blackboarddatafactory",
+      "label": "BlackboardDataFactory",
+      "file_type": "code",
+      "source_file": "BlackboardDataFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blackboarddatafactory_factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "BlackboardDataFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fabrikperitem_rigunit_fabrikperitem",
+      "label": "RigUnit_FABRIKPerItem",
+      "file_type": "code",
+      "source_file": "RigUnit__FABRIKPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fabrikperitem_rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__FABRIKPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputtrigger_inputtrigger",
+      "label": "InputTrigger",
+      "file_type": "code",
+      "source_file": "InputTrigger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputtrigger_enhancedplayerinput",
+      "label": "EnhancedPlayerInput",
+      "file_type": "code",
+      "source_file": "InputTrigger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineeditorlibrary_moviepipelineeditorlibrary",
+      "label": "MoviePipelineEditorLibrary",
+      "file_type": "code",
+      "source_file": "MoviePipelineEditorLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineeditorlibrary_moviepipelinequeue",
+      "label": "MoviePipelineQueue",
+      "file_type": "code",
+      "source_file": "MoviePipelineEditorLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineeditorlibrary_moviepipelineexecutorjob",
+      "label": "MoviePipelineExecutorJob",
+      "file_type": "code",
+      "source_file": "MoviePipelineEditorLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sampleplayerseektype_sampleplayerseektype",
+      "label": "SamplePlayerSeekType",
+      "file_type": "code",
+      "source_file": "SamplePlayerSeekType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesequenceplaybackparams_moviescenesequenceplaybackparams",
+      "label": "MovieSceneSequencePlaybackParams",
+      "file_type": "code",
+      "source_file": "MovieSceneSequencePlaybackParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesequenceplaybackparams_frametime",
+      "label": "FrameTime",
+      "file_type": "code",
+      "source_file": "MovieSceneSequencePlaybackParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesequenceplaybackparams_timecode",
+      "label": "Timecode",
+      "file_type": "code",
+      "source_file": "MovieSceneSequencePlaybackParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthscalabilityqualitylevel_earthscalabilityqualitylevel",
+      "label": "EarthScalabilityQualityLevel",
+      "file_type": "code",
+      "source_file": "EarthScalabilityQualityLevel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poisubsystem_poisubsystem",
+      "label": "PoiSubsystem",
+      "file_type": "code",
+      "source_file": "PoiSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poisubsystem_gameinstancesubsystem",
+      "label": "GameInstanceSubsystem",
+      "file_type": "code",
+      "source_file": "PoiSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_debugarc_rigunit_debugarc",
+      "target": "rigunit_debugarc_rigunit_debugbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugArc Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstratautilitybase_materialexpressionstratautilitybase",
+      "target": "materialexpressionstratautilitybase_materialexpressionsubstrateutilitybase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStrataUtilityBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "svgshapesparentactor_svgshapesparentactor",
+      "target": "svgshapesparentactor_svgdynamicmeshescontaineractor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SVGShapesParentActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matcollectionsetting_matcollectionsetting",
+      "target": "matcollectionsetting_materialparametercollection",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MatCollectionSetting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "androidpermissionfunctionlibrary_androidpermissionfunctionlibrary",
+      "target": "androidpermissionfunctionlibrary_androidpermissioncallbackproxy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AndroidPermissionFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avascameraprioritymodifier_avascameraprioritymodifier",
+      "target": "avascameraprioritymodifier_actormodifiercorebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaCameraPriorityModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionevent_motionevent",
+      "target": "motionevent_inputevent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturerendertarget2d_texturerendertarget2d",
+      "target": "texturerendertarget2d_texturerendertarget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureRenderTarget2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraemitterproperties_niagaraemitterproperties",
+      "target": "niagaraemitter_niagaraemitter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraEmitterProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraemitter_niagaraemitter",
+      "target": "niagaraemitter_niagarascript",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraEmitter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraemitter_niagaraemitter",
+      "target": "niagaraemitter_niagararendererproperties",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraEmitter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackboarddatafactory_blackboarddatafactory",
+      "target": "blackboarddatafactory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlackboardDataFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fabrikperitem_rigunit_fabrikperitem",
+      "target": "rigunit_fabrikperitem_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FABRIKPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputtrigger_inputtrigger",
+      "target": "inputtrigger_enhancedplayerinput",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputTrigger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineeditorlibrary_moviepipelineeditorlibrary",
+      "target": "moviepipelineeditorlibrary_moviepipelinequeue",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineEditorLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineeditorlibrary_moviepipelineeditorlibrary",
+      "target": "moviepipelineeditorlibrary_moviepipelineexecutorjob",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineEditorLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenesequenceplaybackparams_moviescenesequenceplaybackparams",
+      "target": "moviescenesequenceplaybackparams_frametime",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneSequencePlaybackParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenesequenceplaybackparams_moviescenesequenceplaybackparams",
+      "target": "moviescenesequenceplaybackparams_timecode",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneSequencePlaybackParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "poisubsystem_poisubsystem",
+      "target": "poisubsystem_gameinstancesubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoiSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugarc_rigunit_debugarc",
+      "target": "rigunit_fabrikperitem_rigunit_fabrikperitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_DebugArc Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_units",
+      "label": "Control Rig Units",
+      "nodes": [
+        "rigunit_debugarc_rigunit_debugarc",
+        "rigunit_fabrikperitem_rigunit_fabrikperitem"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_DebugArc Objects.md"
+    },
+    {
+      "id": "niagara_particle_system_components",
+      "label": "Niagara Particle System Components",
+      "nodes": [
+        "niagaraemitter_niagaraemitter",
+        "niagaraemitter_niagarascript",
+        "niagaraemitter_niagararendererproperties"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraEmitter Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

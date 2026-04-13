@@ -1,0 +1,405 @@
+{
+  "nodes": [
+    {
+      "id": "animgraphnode_curvesource",
+      "label": "AnimGraphNode_CurveSource",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_CurveSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visible2datom",
+      "label": "Visible2DAtom",
+      "file_type": "code",
+      "source_file": "Visible2DAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintersectplane",
+      "label": "RigUnit_MathIntersectPlane",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntersectPlane Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorisnearlequal",
+      "label": "RigVMFunction_MathVectorIsNearlyEqual",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorIsNearlyEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onprimaryassetbundleschanged",
+      "label": "OnPrimaryAssetBundlesChanged",
+      "file_type": "code",
+      "source_file": "OnPrimaryAssetBundlesChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmorphologyoptions",
+      "label": "GeometryScriptMorphologyOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptMorphologyOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorxform",
+      "label": "RigVMFunction_MathRBFInterpolateVectorXform",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateVectorXform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescriptingparams",
+      "label": "MovieSceneScriptingParams",
+      "file_type": "code",
+      "source_file": "MovieSceneScriptingParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintdiv",
+      "label": "RigUnit_MathIntDiv",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntDiv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplayeroptiontrackselectmode",
+      "label": "MediaPlayerOptionTrackSelectMode",
+      "file_type": "code",
+      "source_file": "MediaPlayerOptionTrackSelectMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createcustompoiparams",
+      "label": "CreateCustomPoiParams",
+      "file_type": "code",
+      "source_file": "CreateCustomPoiParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionmin",
+      "label": "DMMaterialStageExpressionMin",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rb_bodysetup",
+      "label": "RB_BodySetup",
+      "file_type": "code",
+      "source_file": "RB_BodySetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "calibratedmapchannels",
+      "label": "CalibratedMapChannels",
+      "file_type": "code",
+      "source_file": "CalibratedMapChannels Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialmeter_getmeterchannelinfo",
+      "label": "AudioMaterialMeter_GetMeterChannelInfo",
+      "file_type": "code",
+      "source_file": "AudioMaterialMeter__GetMeterChannelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbakeboardlayer",
+      "label": "AesBakeBoardLayer",
+      "file_type": "code",
+      "source_file": "AesBakeBoardLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmeventfield",
+      "label": "MVVMEventField",
+      "file_type": "code",
+      "source_file": "MVVMEventField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesecshotsection",
+      "label": "MovieSceneShotSection",
+      "file_type": "code",
+      "source_file": "MovieSceneShotSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "warpingvectorvalue",
+      "label": "WarpingVectorValue",
+      "file_type": "code",
+      "source_file": "WarpingVectorValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesvegetationeditorcommand_erase",
+      "label": "AesVegetationEditorCommand_Erase",
+      "file_type": "code",
+      "source_file": "AesVegetationEditorCommand__Erase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmpindirection",
+      "label": "RigVMPinDirection",
+      "file_type": "code",
+      "source_file": "RigVMPinDirection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pyautomationtest",
+      "label": "PyAutomationTest",
+      "file_type": "code",
+      "source_file": "PyAutomationTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_data",
+      "label": "CameraData",
+      "file_type": "code",
+      "source_file": "Visible2DAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interaction_data",
+      "label": "InteractionData",
+      "file_type": "code",
+      "source_file": "Visible2DAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript3dgridparameters",
+      "label": "GeometryScript3DGridParameters",
+      "file_type": "code",
+      "source_file": "GeometryScriptMorphologyOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmorphologicaloptype",
+      "label": "GeometryScriptMorphologicalOpType",
+      "file_type": "code",
+      "source_file": "GeometryScriptMorphologyOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathintersectplane",
+      "target": "rigvmfunction_mathintersectplane",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntersectPlane Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintdiv",
+      "target": "rigvmfunction_mathintdiv",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntDiv Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rb_bodysetup",
+      "target": "bodysetup",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RB_BodySetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenesecshotsection",
+      "target": "moviescenecameracutsection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneShotSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visible2datom",
+      "target": "camera_data",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Visible2DAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visible2datom",
+      "target": "interaction_data",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Visible2DAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmorphologyoptions",
+      "target": "geometryscript3dgridparameters",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptMorphologyOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmorphologyoptions",
+      "target": "geometryscriptmorphologicaloptype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptMorphologyOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatevectorxform",
+      "target": "rigvmfunction_mathvectorisnearlequal",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathRBFInterpolateVectorXform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmorphologyoptions",
+      "target": "warpingvectorvalue",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryScriptMorphologyOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visible2datom",
+      "target": "aesbakeboardlayer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Visible2DAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

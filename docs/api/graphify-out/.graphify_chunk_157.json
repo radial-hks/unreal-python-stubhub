@@ -1,0 +1,440 @@
+{
+  "nodes": [
+    {
+      "id": "vfplayerobject_vfplayerobject",
+      "label": "VFPlayerObject",
+      "file_type": "document",
+      "source_file": "VFPlayerObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_drawcontainersettransform_rigunit_drawcontainersettransform",
+      "label": "RigUnit_DrawContainerSetTransform",
+      "file_type": "document",
+      "source_file": "RigUnit__DrawContainerSetTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_settransformanimationchannel_rigunit_settransformanimationchannel",
+      "label": "RigUnit_SetTransformAnimationChannel",
+      "file_type": "document",
+      "source_file": "RigUnit__SetTransformAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_deltafrompreviousfloat_rigvmfunction_deltafrompreviousfloat",
+      "label": "RigVMFunction_DeltaFromPreviousFloat",
+      "file_type": "document",
+      "source_file": "RigVMFunction__DeltaFromPreviousFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdomprocesssettings_earthdomprocesssettings",
+      "label": "EarthDomProcessSettings",
+      "file_type": "document",
+      "source_file": "EarthDomProcessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmviewclass_eventkey_mvvmviewclass_eventkey",
+      "label": "MVVMViewClass_EventKey",
+      "file_type": "document",
+      "source_file": "MVVMViewClass_EventKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "apiclassbase_apiclassbase",
+      "label": "ApiClassBase",
+      "file_type": "document",
+      "source_file": "ApiClassBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarundownmacrocollection_avarundownmacrocollection",
+      "label": "AvaRundownMacroCollection",
+      "file_type": "document",
+      "source_file": "AvaRundownMacroCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreestatetype_statetreestatetype",
+      "label": "StateTreeStateType",
+      "file_type": "document",
+      "source_file": "StateTreeStateType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmaterialinstanceobject_wdpmaterialinstanceobject",
+      "label": "WdpMaterialInstanceObject",
+      "file_type": "document",
+      "source_file": "WdpMaterialInstanceObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixbase_rigunit_mathmatrixbase",
+      "label": "RigUnit_MathMatrixBase",
+      "file_type": "document",
+      "source_file": "RigUnit_MathMatrixBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modifyheatmapparam_modifyheatmapparam",
+      "label": "ModifyHeatMapParam",
+      "file_type": "document",
+      "source_file": "ModifyHeatMapParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatconsttwopi_rigunit_mathfloatconsttwopi",
+      "label": "RigUnit_MathFloatConstTwoPi",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatConstTwoPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublelawofcosine_rigunit_mathdoublelawofcosine",
+      "label": "RigUnit_MathDoubleLawOfCosine",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleLawOfCosine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentityasset_urbanentityasset",
+      "label": "UrbanEntityAsset",
+      "file_type": "document",
+      "source_file": "UrbanEntityAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicscollisionhandler_physicscollisionhandler",
+      "label": "PhysicsCollisionHandler",
+      "file_type": "document",
+      "source_file": "PhysicsCollisionHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchassetsamplerlibrary_posesearchassetsamplerlibrary",
+      "label": "PoseSearchAssetSamplerLibrary",
+      "file_type": "document",
+      "source_file": "PoseSearchAssetSamplerLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navarea_default_navarea_default",
+      "label": "NavArea_Default",
+      "file_type": "document",
+      "source_file": "NavArea__Default Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetregionoutline_aesassetregionoutline",
+      "label": "AesAssetRegionOutline",
+      "file_type": "document",
+      "source_file": "AesAssetRegionOutline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolvector2d_limitsettings_rigunit_hierarchyaddcontrolvector2d_limitsettings",
+      "label": "RigUnit_HierarchyAddControlVector2D_LimitSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlVector2D__LimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animposespaces_animposespaces",
+      "label": "AnimPoseSpaces",
+      "file_type": "document",
+      "source_file": "AnimPoseSpaces Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onnavdatagenericevent_onnavdatagenericevent",
+      "label": "OnNavDataGenericEvent",
+      "file_type": "document",
+      "source_file": "OnNavDataGenericEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_drawcontainersettransform_rigunit_drawcontainersettransform",
+      "target": "rigunit_drawcontainersettransform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DrawContainerSetTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransformanimationchannel_rigunit_settransformanimationchannel",
+      "target": "rigunit_settransformanimationchannel_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetTransformAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixbase_rigunit_mathmatrixbase",
+      "target": "rigvmfunction_mathmatrixbase_rigvmfunction_mathmatrixbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathMatrixBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatconsttwopi_rigunit_mathfloatconsttwopi",
+      "target": "rigvmfunction_mathfloatconsttwopi_rigvmfunction_mathfloatconsttwopi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatConstTwoPi Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublelawofcosine_rigunit_mathdoublelawofcosine",
+      "target": "rigvmfunction_mathdoublelawofcosine_rigvmfunction_mathdoublelawofcosine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleLawOfCosine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchassetsamplerlibrary_posesearchassetsamplerlibrary",
+      "target": "posesearchassetsamplerlibrary_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchAssetSamplerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchassetsamplerlibrary_posesearchassetsamplerlibrary",
+      "target": "animposespaces_animposespaces",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchAssetSamplerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_drawcontainersettransform_rigunit_drawcontainersettransform",
+      "target": "rigunit_settransformanimationchannel_rigunit_settransformanimationchannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__DrawContainerSetTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_deltafrompreviousfloat_rigvmfunction_deltafrompreviousfloat",
+      "target": "rigunit_mathfloatconsttwopi_rigunit_mathfloatconsttwopi",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__DeltaFromPreviousFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_deltafrompreviousfloat_rigvmfunction_deltafrompreviousfloat",
+      "target": "rigunit_mathdoublelawofcosine_rigunit_mathdoublelawofcosine",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__DeltaFromPreviousFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatconsttwopi_rigunit_mathfloatconsttwopi",
+      "target": "rigunit_mathdoublelawofcosine_rigunit_mathdoublelawofcosine",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathFloatConstTwoPi Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixbase_rigunit_mathmatrixbase",
+      "target": "rigvmfunction_deltafrompreviousfloat_rigvmfunction_deltafrompreviousfloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_MathMatrixBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vfplayerobject_vfplayerobject",
+      "target": "apiclassbase_apiclassbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "VFPlayerObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navarea_default_navarea_default",
+      "target": "onnavdatagenericevent_onnavdatagenericevent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NavArea__Default Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolvector2d_limitsettings_rigunit_hierarchyaddcontrolvector2d_limitsettings",
+      "target": "rigunit_drawcontainersettransform_rigunit_drawcontainersettransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigUnit__HierarchyAddControlVector2D__LimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_transform_operations",
+      "label": "Control Rig Transform Operations",
+      "nodes": [
+        "rigunit_drawcontainersettransform_rigunit_drawcontainersettransform",
+        "rigunit_settransformanimationchannel_rigunit_settransformanimationchannel",
+        "rigunit_hierarchyaddcontrolvector2d_limitsettings_rigunit_hierarchyaddcontrolvector2d_limitsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple ControlRig plugin files"
+    },
+    {
+      "id": "deprecated_rigunit_classes",
+      "label": "Deprecated RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_mathmatrixbase_rigunit_mathmatrixbase",
+        "rigunit_mathfloatconsttwopi_rigunit_mathfloatconsttwopi",
+        "rigunit_mathdoublelawofcosine_rigunit_mathdoublelawofcosine"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Multiple RigVM plugin files"
+    },
+    {
+      "id": "material_parameter_handling",
+      "label": "Material Parameter Handling System",
+      "nodes": [
+        "wdpmaterialinstanceobject_wdpmaterialinstanceobject",
+        "modifyheatmapparam_modifyheatmapparam"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Multiple plugin files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

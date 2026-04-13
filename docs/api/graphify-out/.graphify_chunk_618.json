@@ -1,0 +1,2147 @@
+{
+  "nodes": [
+    {
+      "id": "class:PCGBlurElementMode",
+      "type": "class",
+      "label": "PCGBlurElementMode",
+      "description": "EPCGBlur Element Mode",
+      "source_file": "PCGBlurElementMode Objects.md"
+    },
+    {
+      "id": "enum_value:PCGBlurElementMode:CONSTANT",
+      "type": "enum_value",
+      "label": "CONSTANT",
+      "value": 0,
+      "description": "Same weight for each point, which will be 1 / N, N being the number of points found in the given distance."
+    },
+    {
+      "id": "enum_value:PCGBlurElementMode:LINEAR",
+      "type": "enum_value",
+      "label": "LINEAR",
+      "value": 1,
+      "description": "Weight for Point will be 1 - Dist(Point, Center) / SearchDistance."
+    },
+    {
+      "id": "enum_value:PCGBlurElementMode:GAUSSIAN",
+      "type": "enum_value",
+      "label": "GAUSSIAN",
+      "value": 2,
+      "description": "Weight will be a gaussian distribution."
+    },
+    {
+      "id": "class:IsRootComponentChanged",
+      "type": "class",
+      "label": "IsRootComponentChanged",
+      "description": "Is Root Component Changed Delegate Signature",
+      "source_file": "IsRootComponentChanged Objects.md"
+    },
+    {
+      "id": "class:RigVMFunction_NameConcat",
+      "type": "class",
+      "label": "RigVMFunction_NameConcat",
+      "description": "Concatenates two strings together to make a new string",
+      "source_file": "RigVMFunction__NameConcat Objects.md"
+    },
+    {
+      "id": "class:MoviePipelineShotOutputData",
+      "type": "class",
+      "label": "MoviePipelineShotOutputData",
+      "description": "Movie Pipeline Shot Output Data",
+      "source_file": "MoviePipelineShotOutputData Objects.md"
+    },
+    {
+      "id": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "type": "class",
+      "label": "RigUnit_SetupShapeLibraryFromUserData",
+      "description": "Allows to set / add a shape library on the running control rig from user data",
+      "source_file": "RigUnit__SetupShapeLibraryFromUserData Objects.md"
+    },
+    {
+      "id": "class:AutoReceiveInput",
+      "type": "class",
+      "label": "AutoReceiveInput",
+      "description": "Specifies which player index will pass input to this actor/component",
+      "source_file": "AutoReceiveInput Objects.md"
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:DISABLED",
+      "type": "enum_value",
+      "label": "DISABLED",
+      "value": 0
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:PLAYER0",
+      "type": "enum_value",
+      "label": "PLAYER0",
+      "value": 1
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:PLAYER1",
+      "type": "enum_value",
+      "label": "PLAYER1",
+      "value": 2
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:PLAYER2",
+      "type": "enum_value",
+      "label": "PLAYER2",
+      "value": 3
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:PLAYER3",
+      "type": "enum_value",
+      "label": "PLAYER3",
+      "value": 4
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:PLAYER4",
+      "type": "enum_value",
+      "label": "PLAYER4",
+      "value": 5
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:PLAYER5",
+      "type": "enum_value",
+      "label": "PLAYER5",
+      "value": 6
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:PLAYER6",
+      "type": "enum_value",
+      "label": "PLAYER6",
+      "value": 7
+    },
+    {
+      "id": "enum_value:AutoReceiveInput:PLAYER7",
+      "type": "enum_value",
+      "label": "PLAYER7",
+      "value": 8
+    },
+    {
+      "id": "class:WdpInstanceEntityAPI",
+      "type": "class",
+      "label": "WdpInstanceEntityAPI",
+      "description": "Wdp Instance Entity API",
+      "source_file": "WdpInstanceEntityAPI Objects.md"
+    },
+    {
+      "id": "class:InterchangeGenericMaterialPipeline",
+      "type": "class",
+      "label": "InterchangeGenericMaterialPipeline",
+      "description": "Interchange Generic Material Pipeline",
+      "source_file": "InterchangeGenericMaterialPipeline Objects.md"
+    },
+    {
+      "id": "class:RigUnit",
+      "type": "class",
+      "label": "RigUnit",
+      "description": "Base class for all rig units",
+      "source_file": "RigUnit Objects.md"
+    },
+    {
+      "id": "class:SourceEffectFilterSettings",
+      "type": "class",
+      "label": "SourceEffectFilterSettings",
+      "description": "Source Effect Filter Settings",
+      "source_file": "SourceEffectFilterSettings Objects.md"
+    },
+    {
+      "id": "class:PlayerViewportCompositingOutput",
+      "type": "class",
+      "label": "PlayerViewportCompositingOutput",
+      "description": "UPlayerViewportCompositingOutput",
+      "source_file": "PlayerViewportCompositingOutput Objects.md"
+    },
+    {
+      "id": "class:ToggleCameraSelfRotateParams",
+      "type": "class",
+      "label": "ToggleCameraSelfRotateParams",
+      "description": "Toggle Camera Self Rotate Params",
+      "source_file": "ToggleCameraSelfRotateParams Objects.md"
+    },
+    {
+      "id": "class:RCRangeMapBehaviour",
+      "type": "class",
+      "label": "RCRangeMapBehaviour",
+      "description": "Custom behaviour for Set Asset By Path Logic Behaviour",
+      "source_file": "RCRangeMapBehaviour Objects.md"
+    },
+    {
+      "id": "class:TileView",
+      "type": "class",
+      "label": "TileView",
+      "description": "A ListView that presents the contents as a set of tiles all uniformly sized.",
+      "source_file": "TileView Objects.md"
+    },
+    {
+      "id": "class:EarthGetLocation",
+      "type": "class",
+      "label": "EarthGetLocation",
+      "description": "Earth Get Location",
+      "source_file": "EarthGetLocation Objects.md"
+    },
+    {
+      "id": "class:EntityTypeParams",
+      "type": "class",
+      "label": "EntityTypeParams",
+      "description": "Entity Type Params",
+      "source_file": "EntityTypeParams Objects.md"
+    },
+    {
+      "id": "class:ScrollBorderStyle",
+      "type": "class",
+      "label": "ScrollBorderStyle",
+      "description": "Represents the appearance of an FScrollBorderStyle",
+      "source_file": "ScrollBorderStyle Objects.md"
+    },
+    {
+      "id": "class:FFTWindowType",
+      "type": "class",
+      "label": "FFTWindowType",
+      "description": "EFFTWindow Type",
+      "source_file": "FFTWindowType Objects.md"
+    },
+    {
+      "id": "enum_value:FFTWindowType:NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "value": 0,
+      "description": "No window is applied. Technically a boxcar window."
+    },
+    {
+      "id": "enum_value:FFTWindowType:HAMMING",
+      "type": "enum_value",
+      "label": "HAMMING",
+      "value": 1,
+      "description": "Mainlobe width of -3 dB and sidelobe attenuation of ~-40 dB. Good for COLA."
+    },
+    {
+      "id": "enum_value:FFTWindowType:HANN",
+      "type": "enum_value",
+      "label": "HANN",
+      "value": 2,
+      "description": "Mainlobe width of -3 dB and sidelobe attenuation of ~-30dB. Good for COLA."
+    },
+    {
+      "id": "enum_value:FFTWindowType:BLACKMAN",
+      "type": "enum_value",
+      "label": "BLACKMAN",
+      "value": 3,
+      "description": "Mainlobe width of -3 dB and sidelobe attenuation of ~-60db. Tricky for COLA."
+    },
+    {
+      "id": "class:GroomConversionSettings",
+      "type": "class",
+      "label": "GroomConversionSettings",
+      "description": "Groom Conversion Settings",
+      "source_file": "GroomConversionSettings Objects.md"
+    },
+    {
+      "id": "class:PostProcessComponent",
+      "type": "class",
+      "label": "PostProcessComponent",
+      "description": "PostProcessComponent. Enables Post process controls for blueprints. Will use a parent UShapeComponent to provide volume data if available.",
+      "source_file": "PostProcessComponent Objects.md"
+    },
+    {
+      "id": "class:WdpPickerAPI",
+      "type": "class",
+      "label": "WdpPickerAPI",
+      "description": "Wdp Picker API",
+      "source_file": "WdpPickerAPI Objects.md"
+    },
+    {
+      "id": "class:MaterialExpressionSubstrateWeight",
+      "type": "class",
+      "label": "MaterialExpressionSubstrateWeight",
+      "description": "Material Expression Substrate Weight",
+      "source_file": "MaterialExpressionSubstrateWeight Objects.md"
+    },
+    {
+      "id": "type:EnumBase",
+      "type": "type",
+      "label": "EnumBase"
+    },
+    {
+      "id": "type:MulticastDelegateBase",
+      "type": "type",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "type:RigVMFunction_NameBase",
+      "type": "type",
+      "label": "RigVMFunction_NameBase"
+    },
+    {
+      "id": "type:StructBase",
+      "type": "type",
+      "label": "StructBase"
+    },
+    {
+      "id": "type:RigUnitMutable",
+      "type": "type",
+      "label": "RigUnitMutable"
+    },
+    {
+      "id": "type:StandardApiClassBase",
+      "type": "type",
+      "label": "StandardApiClassBase"
+    },
+    {
+      "id": "type:InterchangePipelineBase",
+      "type": "type",
+      "label": "InterchangePipelineBase"
+    },
+    {
+      "id": "type:RigVMStruct",
+      "type": "type",
+      "label": "RigVMStruct"
+    },
+    {
+      "id": "type:ColorConverterOutputPass",
+      "type": "type",
+      "label": "ColorConverterOutputPass"
+    },
+    {
+      "id": "type:EidParams",
+      "type": "type",
+      "label": "EidParams"
+    },
+    {
+      "id": "type:RCBehaviour",
+      "type": "type",
+      "label": "RCBehaviour"
+    },
+    {
+      "id": "type:ListView",
+      "type": "type",
+      "label": "ListView"
+    },
+    {
+      "id": "type:UserWidget",
+      "type": "type",
+      "label": "UserWidget"
+    },
+    {
+      "id": "type:ParamsBase",
+      "type": "type",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "type:SlateWidgetStyle",
+      "type": "type",
+      "label": "SlateWidgetStyle"
+    },
+    {
+      "id": "type:SceneComponent",
+      "type": "type",
+      "label": "SceneComponent"
+    },
+    {
+      "id": "type:MaterialExpressionSubstrateBSDF",
+      "type": "type",
+      "label": "MaterialExpressionSubstrateBSDF"
+    },
+    {
+      "id": "module:PCG",
+      "type": "module",
+      "label": "PCG"
+    },
+    {
+      "id": "module:Engine",
+      "type": "module",
+      "label": "Engine"
+    },
+    {
+      "id": "module:RigVM",
+      "type": "module",
+      "label": "RigVM"
+    },
+    {
+      "id": "module:MovieRenderPipelineCore",
+      "type": "module",
+      "label": "MovieRenderPipelineCore"
+    },
+    {
+      "id": "module:ControlRig",
+      "type": "module",
+      "label": "ControlRig"
+    },
+    {
+      "id": "module:ApplicationAPI",
+      "type": "module",
+      "label": "ApplicationAPI"
+    },
+    {
+      "id": "module:InterchangePipelines",
+      "type": "module",
+      "label": "InterchangePipelines"
+    },
+    {
+      "id": "module:Synthesis",
+      "type": "module",
+      "label": "Synthesis"
+    },
+    {
+      "id": "module:Composure",
+      "type": "module",
+      "label": "Composure"
+    },
+    {
+      "id": "module:RemoteControlLogic",
+      "type": "module",
+      "label": "RemoteControlLogic"
+    },
+    {
+      "id": "module:UMG",
+      "type": "module",
+      "label": "UMG"
+    },
+    {
+      "id": "module:EarthUI",
+      "type": "module",
+      "label": "EarthUI"
+    },
+    {
+      "id": "module:DataModelAPI",
+      "type": "module",
+      "label": "DataModelAPI"
+    },
+    {
+      "id": "module:SlateCore",
+      "type": "module",
+      "label": "SlateCore"
+    },
+    {
+      "id": "module:HairStrandsCore",
+      "type": "module",
+      "label": "HairStrandsCore"
+    },
+    {
+      "id": "module:WdpInteractionAPI",
+      "type": "module",
+      "label": "WdpInteractionAPI"
+    },
+    {
+      "id": "plugin:PCG",
+      "type": "plugin",
+      "label": "PCG"
+    },
+    {
+      "id": "plugin:RigVM",
+      "type": "plugin",
+      "label": "RigVM"
+    },
+    {
+      "id": "plugin:MovieRenderPipeline",
+      "type": "plugin",
+      "label": "MovieRenderPipeline"
+    },
+    {
+      "id": "plugin:ControlRig",
+      "type": "plugin",
+      "label": "ControlRig"
+    },
+    {
+      "id": "plugin:WdpRuntimeAPI",
+      "type": "plugin",
+      "label": "WdpRuntimeAPI"
+    },
+    {
+      "id": "plugin:Interchange",
+      "type": "plugin",
+      "label": "Interchange"
+    },
+    {
+      "id": "plugin:Synthesis",
+      "type": "plugin",
+      "label": "Synthesis"
+    },
+    {
+      "id": "plugin:Composure",
+      "type": "plugin",
+      "label": "Composure"
+    },
+    {
+      "id": "plugin:RemoteControl",
+      "type": "plugin",
+      "label": "RemoteControl"
+    },
+    {
+      "id": "plugin:AesWorld",
+      "type": "plugin",
+      "label": "AesWorld"
+    },
+    {
+      "id": "plugin:HairStrands",
+      "type": "plugin",
+      "label": "HairStrands"
+    },
+    {
+      "id": "property:RigVMFunction_NameConcat:a",
+      "type": "property",
+      "label": "a",
+      "property_type": "Name"
+    },
+    {
+      "id": "property:RigVMFunction_NameConcat:b",
+      "type": "property",
+      "label": "b",
+      "property_type": "Name"
+    },
+    {
+      "id": "property:RigVMFunction_NameConcat:result",
+      "type": "property",
+      "label": "result",
+      "property_type": "Name"
+    },
+    {
+      "id": "property:MoviePipelineShotOutputData:shot",
+      "type": "property",
+      "label": "shot",
+      "property_type": "MoviePipelineExecutorShot"
+    },
+    {
+      "id": "property:MoviePipelineShotOutputData:render_pass_data",
+      "type": "property",
+      "label": "render_pass_data",
+      "property_type": "Map[MoviePipelinePassIdentifier, MoviePipelineRenderPassOutputData]"
+    },
+    {
+      "id": "property:RigUnit_SetupShapeLibraryFromUserData:execute_context",
+      "type": "property",
+      "label": "execute_context",
+      "property_type": "ControlRigExecuteContext"
+    },
+    {
+      "id": "property:RigUnit_SetupShapeLibraryFromUserData:name_space",
+      "type": "property",
+      "label": "name_space",
+      "property_type": "str"
+    },
+    {
+      "id": "property:RigUnit_SetupShapeLibraryFromUserData:path",
+      "type": "property",
+      "label": "path",
+      "property_type": "str"
+    },
+    {
+      "id": "property:RigUnit_SetupShapeLibraryFromUserData:library_name",
+      "type": "property",
+      "label": "library_name",
+      "property_type": "str"
+    },
+    {
+      "id": "property:RigUnit_SetupShapeLibraryFromUserData:log_shape_libraries",
+      "type": "property",
+      "label": "log_shape_libraries",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:pipeline_display_name",
+      "type": "property",
+      "label": "pipeline_display_name",
+      "property_type": "str"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:import_materials",
+      "type": "property",
+      "label": "import_materials",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:search_location",
+      "type": "property",
+      "label": "search_location",
+      "property_type": "InterchangeMaterialSearchLocation"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:asset_name",
+      "type": "property",
+      "label": "asset_name",
+      "property_type": "str"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:material_import",
+      "type": "property",
+      "label": "material_import",
+      "property_type": "InterchangeMaterialImportOption"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:identify_duplicate_materials",
+      "type": "property",
+      "label": "identify_duplicate_materials",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:create_material_instance_for_parent",
+      "type": "property",
+      "label": "create_material_instance_for_parent",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:parent_material",
+      "type": "property",
+      "label": "parent_material",
+      "property_type": "SoftObjectPath"
+    },
+    {
+      "id": "property:InterchangeGenericMaterialPipeline:texture_pipeline",
+      "type": "property",
+      "label": "texture_pipeline",
+      "property_type": "InterchangeGenericTexturePipeline"
+    },
+    {
+      "id": "property:SourceEffectFilterSettings:filter_circuit",
+      "type": "property",
+      "label": "filter_circuit",
+      "property_type": "SourceEffectFilterCircuit"
+    },
+    {
+      "id": "property:SourceEffectFilterSettings:filter_type",
+      "type": "property",
+      "label": "filter_type",
+      "property_type": "SourceEffectFilterType"
+    },
+    {
+      "id": "property:SourceEffectFilterSettings:cutoff_frequency",
+      "type": "property",
+      "label": "cutoff_frequency",
+      "property_type": "float"
+    },
+    {
+      "id": "property:SourceEffectFilterSettings:filter_q",
+      "type": "property",
+      "label": "filter_q",
+      "property_type": "float"
+    },
+    {
+      "id": "property:SourceEffectFilterSettings:audio_bus_modulation",
+      "type": "property",
+      "label": "audio_bus_modulation",
+      "property_type": "Array[SourceEffectFilterAudioBusModulationSettings]"
+    },
+    {
+      "id": "property:PlayerViewportCompositingOutput:apply_tone_curve",
+      "type": "property",
+      "label": "apply_tone_curve",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:PlayerViewportCompositingOutput:color_converter",
+      "type": "property",
+      "label": "color_converter",
+      "property_type": "CompositingElementTransform"
+    },
+    {
+      "id": "property:PlayerViewportCompositingOutput:enabled",
+      "type": "property",
+      "label": "enabled",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:PlayerViewportCompositingOutput:pass_name",
+      "type": "property",
+      "label": "pass_name",
+      "property_type": "Name"
+    },
+    {
+      "id": "property:PlayerViewportCompositingOutput:player_index",
+      "type": "property",
+      "label": "player_index",
+      "property_type": "int32"
+    },
+    {
+      "id": "property:ToggleCameraSelfRotateParams:self_rotate",
+      "type": "property",
+      "label": "self_rotate",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:TileView:entry_height",
+      "type": "property",
+      "label": "entry_height",
+      "property_type": "float"
+    },
+    {
+      "id": "property:TileView:entry_width",
+      "type": "property",
+      "label": "entry_width",
+      "property_type": "float"
+    },
+    {
+      "id": "property:EarthGetLocation:location_text_block",
+      "type": "property",
+      "label": "location_text_block",
+      "property_type": "EditableTextBox"
+    },
+    {
+      "id": "property:EarthGetLocation:search_tips_list_view",
+      "type": "property",
+      "label": "search_tips_list_view",
+      "property_type": "ListView"
+    },
+    {
+      "id": "property:EarthGetLocation:search_location_button",
+      "type": "property",
+      "label": "search_location_button",
+      "property_type": "Button"
+    },
+    {
+      "id": "property:EntityTypeParams:eid",
+      "type": "property",
+      "label": "eid",
+      "property_type": "str"
+    },
+    {
+      "id": "property:EntityTypeParams:entity_type",
+      "type": "property",
+      "label": "entity_type",
+      "property_type": "str"
+    },
+    {
+      "id": "property:ScrollBorderStyle:top_shadow_brush",
+      "type": "property",
+      "label": "top_shadow_brush",
+      "property_type": "SlateBrush"
+    },
+    {
+      "id": "property:ScrollBorderStyle:bottom_shadow_brush",
+      "type": "property",
+      "label": "bottom_shadow_brush",
+      "property_type": "SlateBrush"
+    },
+    {
+      "id": "property:GroomConversionSettings:rotation",
+      "type": "property",
+      "label": "rotation",
+      "property_type": "Vector"
+    },
+    {
+      "id": "property:GroomConversionSettings:scale",
+      "type": "property",
+      "label": "scale",
+      "property_type": "Vector"
+    },
+    {
+      "id": "property:PostProcessComponent:settings",
+      "type": "property",
+      "label": "settings",
+      "property_type": "PostProcessSettings"
+    },
+    {
+      "id": "property:PostProcessComponent:priority",
+      "type": "property",
+      "label": "priority",
+      "property_type": "float"
+    },
+    {
+      "id": "property:PostProcessComponent:blend_radius",
+      "type": "property",
+      "label": "blend_radius",
+      "property_type": "float"
+    },
+    {
+      "id": "property:PostProcessComponent:blend_weight",
+      "type": "property",
+      "label": "blend_weight",
+      "property_type": "float"
+    },
+    {
+      "id": "property:PostProcessComponent:enabled",
+      "type": "property",
+      "label": "enabled",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:PostProcessComponent:unbound",
+      "type": "property",
+      "label": "unbound",
+      "property_type": "bool"
+    },
+    {
+      "id": "property:MaterialExpressionSubstrateWeight:desc",
+      "type": "property",
+      "label": "desc",
+      "property_type": "str"
+    },
+    {
+      "id": "property:MaterialExpressionSubstrateWeight:material_expression_editor_x",
+      "type": "property",
+      "label": "material_expression_editor_x",
+      "property_type": "int32"
+    },
+    {
+      "id": "property:MaterialExpressionSubstrateWeight:material_expression_editor_y",
+      "type": "property",
+      "label": "material_expression_editor_y",
+      "property_type": "int32"
+    },
+    {
+      "id": "method:WdpInstanceEntityAPI:set_nodes_transform",
+      "type": "method",
+      "label": "set_nodes_transform"
+    },
+    {
+      "id": "method:WdpInstanceEntityAPI:set_components_transform",
+      "type": "method",
+      "label": "set_components_transform"
+    },
+    {
+      "id": "method:WdpInstanceEntityAPI:outline_components",
+      "type": "method",
+      "label": "outline_components"
+    },
+    {
+      "id": "method:WdpInstanceEntityAPI:focus_components",
+      "type": "method",
+      "label": "focus_components"
+    },
+    {
+      "id": "method:WdpInstanceEntityAPI:delete_nodes",
+      "type": "method",
+      "label": "delete_nodes"
+    },
+    {
+      "id": "method:WdpInstanceEntityAPI:delete_components",
+      "type": "method",
+      "label": "delete_components"
+    },
+    {
+      "id": "method:TileView:set_entry_width",
+      "type": "method",
+      "label": "set_entry_width"
+    },
+    {
+      "id": "method:TileView:set_entry_height",
+      "type": "method",
+      "label": "set_entry_height"
+    },
+    {
+      "id": "method:TileView:get_entry_width",
+      "type": "method",
+      "label": "get_entry_width"
+    },
+    {
+      "id": "method:TileView:get_entry_height",
+      "type": "method",
+      "label": "get_entry_height"
+    },
+    {
+      "id": "method:PostProcessComponent:add_or_update_blendable",
+      "type": "method",
+      "label": "add_or_update_blendable"
+    },
+    {
+      "id": "method:WdpPickerAPI:pick_world_point_by_screen_pos",
+      "type": "method",
+      "label": "pick_world_point_by_screen_pos"
+    },
+    {
+      "id": "method:WdpPickerAPI:pick_material_by_screen_pos",
+      "type": "method",
+      "label": "pick_material_by_screen_pos"
+    },
+    {
+      "id": "method:WdpPickerAPI:pick_entity_by_screen_pos",
+      "type": "method",
+      "label": "pick_entity_by_screen_pos"
+    },
+    {
+      "id": "method:WdpPickerAPI:pick_entity_by_rectangle",
+      "type": "method",
+      "label": "pick_entity_by_rectangle"
+    },
+    {
+      "id": "method:WdpPickerAPI:pick_aes_tiles_nodes_by_rectangle",
+      "type": "method",
+      "label": "pick_aes_tiles_nodes_by_rectangle"
+    },
+    {
+      "id": "method:WdpPickerAPI:pick_aes_tiles_node_by_screen_pos",
+      "type": "method",
+      "label": "pick_aes_tiles_node_by_screen_pos"
+    },
+    {
+      "id": "method:WdpPickerAPI:get_entities_in_viewport",
+      "type": "method",
+      "label": "get_entities_in_viewport"
+    },
+    {
+      "id": "type:Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "type:str",
+      "type": "type",
+      "label": "str"
+    },
+    {
+      "id": "type:bool",
+      "type": "type",
+      "label": "bool"
+    },
+    {
+      "id": "type:float",
+      "type": "type",
+      "label": "float"
+    },
+    {
+      "id": "type:int32",
+      "type": "type",
+      "label": "int32"
+    },
+    {
+      "id": "type:Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "type:MoviePipelineExecutorShot",
+      "type": "type",
+      "label": "MoviePipelineExecutorShot"
+    },
+    {
+      "id": "type:ControlRigExecuteContext",
+      "type": "type",
+      "label": "ControlRigExecuteContext"
+    },
+    {
+      "id": "type:NodesTrParams",
+      "type": "type",
+      "label": "NodesTrParams"
+    },
+    {
+      "id": "type:ComponentTrParams",
+      "type": "type",
+      "label": "ComponentTrParams"
+    },
+    {
+      "id": "type:OutlineComponentParams",
+      "type": "type",
+      "label": "OutlineComponentParams"
+    },
+    {
+      "id": "type:ComponentNameParams",
+      "type": "type",
+      "label": "ComponentNameParams"
+    },
+    {
+      "id": "type:FocusToNodesParams",
+      "type": "type",
+      "label": "FocusToNodesParams"
+    },
+    {
+      "id": "type:ResultBase",
+      "type": "type",
+      "label": "ResultBase"
+    },
+    {
+      "id": "type:EditableTextBox",
+      "type": "type",
+      "label": "EditableTextBox"
+    },
+    {
+      "id": "type:Button",
+      "type": "type",
+      "label": "Button"
+    },
+    {
+      "id": "type:SlateBrush",
+      "type": "type",
+      "label": "SlateBrush"
+    },
+    {
+      "id": "type:PostProcessSettings",
+      "type": "type",
+      "label": "PostProcessSettings"
+    },
+    {
+      "id": "type:BlendableInterface",
+      "type": "type",
+      "label": "BlendableInterface"
+    },
+    {
+      "id": "type:WdpPickerApiParams",
+      "type": "type",
+      "label": "WdpPickerApiParams"
+    },
+    {
+      "id": "type:WdpPickerOutResult",
+      "type": "type",
+      "label": "WdpPickerOutResult"
+    },
+    {
+      "id": "type:PickMaterialApiResult",
+      "type": "type",
+      "label": "PickMaterialApiResult"
+    },
+    {
+      "id": "type:WdpRectPickerApiParams",
+      "type": "type",
+      "label": "WdpRectPickerApiParams"
+    },
+    {
+      "id": "type:WdpRectPickerResult",
+      "type": "type",
+      "label": "WdpRectPickerResult"
+    },
+    {
+      "id": "type:PickAesTilesNodesByRectParam",
+      "type": "type",
+      "label": "PickAesTilesNodesByRectParam"
+    },
+    {
+      "id": "type:PickAesTilesNodesResult",
+      "type": "type",
+      "label": "PickAesTilesNodesResult"
+    },
+    {
+      "id": "type:GetEntitiesInViewportParams",
+      "type": "type",
+      "label": "GetEntitiesInViewportParams"
+    },
+    {
+      "id": "type:IntEidArrayResult",
+      "type": "type",
+      "label": "IntEidArrayResult"
+    }
+  ],
+  "edges": [
+    {
+      "source": "class:PCGBlurElementMode",
+      "target": "type:EnumBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:PCGBlurElementMode",
+      "target": "enum_value:PCGBlurElementMode:CONSTANT",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:PCGBlurElementMode",
+      "target": "enum_value:PCGBlurElementMode:LINEAR",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:PCGBlurElementMode",
+      "target": "enum_value:PCGBlurElementMode:GAUSSIAN",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:PCGBlurElementMode",
+      "target": "module:PCG",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:PCGBlurElementMode",
+      "target": "plugin:PCG",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:IsRootComponentChanged",
+      "target": "type:MulticastDelegateBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:IsRootComponentChanged",
+      "target": "module:Engine",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:RigVMFunction_NameConcat",
+      "target": "type:RigVMFunction_NameBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:RigVMFunction_NameConcat",
+      "target": "property:RigVMFunction_NameConcat:a",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:RigVMFunction_NameConcat:a",
+      "target": "type:Name",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:RigVMFunction_NameConcat",
+      "target": "property:RigVMFunction_NameConcat:b",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:RigVMFunction_NameConcat:b",
+      "target": "type:Name",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:RigVMFunction_NameConcat",
+      "target": "property:RigVMFunction_NameConcat:result",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:RigVMFunction_NameConcat:result",
+      "target": "type:Name",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:RigVMFunction_NameConcat",
+      "target": "module:RigVM",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:RigVMFunction_NameConcat",
+      "target": "plugin:RigVM",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:MoviePipelineShotOutputData",
+      "target": "type:StructBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:MoviePipelineShotOutputData",
+      "target": "property:MoviePipelineShotOutputData:shot",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:MoviePipelineShotOutputData:shot",
+      "target": "type:MoviePipelineExecutorShot",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:MoviePipelineShotOutputData",
+      "target": "property:MoviePipelineShotOutputData:render_pass_data",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MoviePipelineShotOutputData",
+      "target": "module:MovieRenderPipelineCore",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:MoviePipelineShotOutputData",
+      "target": "plugin:MovieRenderPipeline",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "target": "type:RigUnitMutable",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "target": "property:RigUnit_SetupShapeLibraryFromUserData:execute_context",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:RigUnit_SetupShapeLibraryFromUserData:execute_context",
+      "target": "type:ControlRigExecuteContext",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "target": "property:RigUnit_SetupShapeLibraryFromUserData:name_space",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:RigUnit_SetupShapeLibraryFromUserData:name_space",
+      "target": "type:str",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "target": "property:RigUnit_SetupShapeLibraryFromUserData:path",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:RigUnit_SetupShapeLibraryFromUserData:path",
+      "target": "type:str",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "target": "property:RigUnit_SetupShapeLibraryFromUserData:library_name",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:RigUnit_SetupShapeLibraryFromUserData:library_name",
+      "target": "type:str",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "target": "property:RigUnit_SetupShapeLibraryFromUserData:log_shape_libraries",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:RigUnit_SetupShapeLibraryFromUserData:log_shape_libraries",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "target": "module:ControlRig",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:RigUnit_SetupShapeLibraryFromUserData",
+      "target": "plugin:ControlRig",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "type:EnumBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:DISABLED",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:PLAYER0",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:PLAYER1",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:PLAYER2",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:PLAYER3",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:PLAYER4",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:PLAYER5",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:PLAYER6",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "enum_value:AutoReceiveInput:PLAYER7",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:AutoReceiveInput",
+      "target": "module:Engine",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "type:StandardApiClassBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "method:WdpInstanceEntityAPI:set_nodes_transform",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "method:WdpInstanceEntityAPI:set_components_transform",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "method:WdpInstanceEntityAPI:outline_components",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "method:WdpInstanceEntityAPI:focus_components",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "method:WdpInstanceEntityAPI:delete_nodes",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "method:WdpInstanceEntityAPI:delete_components",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "module:ApplicationAPI",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:WdpInstanceEntityAPI",
+      "target": "plugin:WdpRuntimeAPI",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "type:InterchangePipelineBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:pipeline_display_name",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:InterchangeGenericMaterialPipeline:pipeline_display_name",
+      "target": "type:str",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:import_materials",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:InterchangeGenericMaterialPipeline:import_materials",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:search_location",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:asset_name",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:InterchangeGenericMaterialPipeline:asset_name",
+      "target": "type:str",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:material_import",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:identify_duplicate_materials",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:InterchangeGenericMaterialPipeline:identify_duplicate_materials",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:create_material_instance_for_parent",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:InterchangeGenericMaterialPipeline:create_material_instance_for_parent",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:parent_material",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "property:InterchangeGenericMaterialPipeline:texture_pipeline",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "module:InterchangePipelines",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:InterchangeGenericMaterialPipeline",
+      "target": "plugin:Interchange",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:RigUnit",
+      "target": "type:RigVMStruct",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:RigUnit",
+      "target": "module:ControlRig",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:RigUnit",
+      "target": "plugin:ControlRig",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:SourceEffectFilterSettings",
+      "target": "type:StructBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:SourceEffectFilterSettings",
+      "target": "property:SourceEffectFilterSettings:filter_circuit",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:SourceEffectFilterSettings",
+      "target": "property:SourceEffectFilterSettings:filter_type",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:SourceEffectFilterSettings",
+      "target": "property:SourceEffectFilterSettings:cutoff_frequency",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:SourceEffectFilterSettings:cutoff_frequency",
+      "target": "type:float",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:SourceEffectFilterSettings",
+      "target": "property:SourceEffectFilterSettings:filter_q",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:SourceEffectFilterSettings:filter_q",
+      "target": "type:float",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:SourceEffectFilterSettings",
+      "target": "property:SourceEffectFilterSettings:audio_bus_modulation",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:SourceEffectFilterSettings",
+      "target": "module:Synthesis",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:SourceEffectFilterSettings",
+      "target": "plugin:Synthesis",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:PlayerViewportCompositingOutput",
+      "target": "type:ColorConverterOutputPass",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:PlayerViewportCompositingOutput",
+      "target": "property:PlayerViewportCompositingOutput:apply_tone_curve",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PlayerViewportCompositingOutput:apply_tone_curve",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PlayerViewportCompositingOutput",
+      "target": "property:PlayerViewportCompositingOutput:color_converter",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:PlayerViewportCompositingOutput",
+      "target": "property:PlayerViewportCompositingOutput:enabled",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PlayerViewportCompositingOutput:enabled",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PlayerViewportCompositingOutput",
+      "target": "property:PlayerViewportCompositingOutput:pass_name",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PlayerViewportCompositingOutput:pass_name",
+      "target": "type:Name",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PlayerViewportCompositingOutput",
+      "target": "property:PlayerViewportCompositingOutput:player_index",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PlayerViewportCompositingOutput:player_index",
+      "target": "type:int32",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PlayerViewportCompositingOutput",
+      "target": "module:Composure",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:PlayerViewportCompositingOutput",
+      "target": "plugin:Composure",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:ToggleCameraSelfRotateParams",
+      "target": "type:EidParams",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:ToggleCameraSelfRotateParams",
+      "target": "property:ToggleCameraSelfRotateParams:self_rotate",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:ToggleCameraSelfRotateParams:self_rotate",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:ToggleCameraSelfRotateParams",
+      "target": "module:ApplicationAPI",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:ToggleCameraSelfRotateParams",
+      "target": "plugin:WdpRuntimeAPI",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:RCRangeMapBehaviour",
+      "target": "type:RCBehaviour",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:RCRangeMapBehaviour",
+      "target": "module:RemoteControlLogic",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:RCRangeMapBehaviour",
+      "target": "plugin:RemoteControl",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:TileView",
+      "target": "type:ListView",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:TileView",
+      "target": "property:TileView:entry_height",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:TileView:entry_height",
+      "target": "type:float",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:TileView",
+      "target": "property:TileView:entry_width",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:TileView:entry_width",
+      "target": "type:float",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:TileView",
+      "target": "method:TileView:set_entry_width",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:TileView",
+      "target": "method:TileView:set_entry_height",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:TileView",
+      "target": "method:TileView:get_entry_width",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:TileView",
+      "target": "method:TileView:get_entry_height",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:TileView",
+      "target": "module:UMG",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:EarthGetLocation",
+      "target": "type:UserWidget",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:EarthGetLocation",
+      "target": "property:EarthGetLocation:location_text_block",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:EarthGetLocation:location_text_block",
+      "target": "type:EditableTextBox",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:EarthGetLocation",
+      "target": "property:EarthGetLocation:search_tips_list_view",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:EarthGetLocation:search_tips_list_view",
+      "target": "type:ListView",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:EarthGetLocation",
+      "target": "property:EarthGetLocation:search_location_button",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:EarthGetLocation:search_location_button",
+      "target": "type:Button",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:EarthGetLocation",
+      "target": "module:EarthUI",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:EarthGetLocation",
+      "target": "plugin:AesWorld",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:EntityTypeParams",
+      "target": "type:ParamsBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:EntityTypeParams",
+      "target": "property:EntityTypeParams:eid",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:EntityTypeParams:eid",
+      "target": "type:str",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:EntityTypeParams",
+      "target": "property:EntityTypeParams:entity_type",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:EntityTypeParams:entity_type",
+      "target": "type:str",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:EntityTypeParams",
+      "target": "module:DataModelAPI",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:EntityTypeParams",
+      "target": "plugin:WdpRuntimeAPI",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:ScrollBorderStyle",
+      "target": "type:SlateWidgetStyle",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:ScrollBorderStyle",
+      "target": "property:ScrollBorderStyle:top_shadow_brush",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:ScrollBorderStyle:top_shadow_brush",
+      "target": "type:SlateBrush",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:ScrollBorderStyle",
+      "target": "property:ScrollBorderStyle:bottom_shadow_brush",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:ScrollBorderStyle:bottom_shadow_brush",
+      "target": "type:SlateBrush",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:ScrollBorderStyle",
+      "target": "module:SlateCore",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:FFTWindowType",
+      "target": "type:EnumBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:FFTWindowType",
+      "target": "enum_value:FFTWindowType:NONE",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:FFTWindowType",
+      "target": "enum_value:FFTWindowType:HAMMING",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:FFTWindowType",
+      "target": "enum_value:FFTWindowType:HANN",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:FFTWindowType",
+      "target": "enum_value:FFTWindowType:BLACKMAN",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:FFTWindowType",
+      "target": "module:Engine",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:GroomConversionSettings",
+      "target": "type:StructBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:GroomConversionSettings",
+      "target": "property:GroomConversionSettings:rotation",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:GroomConversionSettings:rotation",
+      "target": "type:Vector",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:GroomConversionSettings",
+      "target": "property:GroomConversionSettings:scale",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:GroomConversionSettings:scale",
+      "target": "type:Vector",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:GroomConversionSettings",
+      "target": "module:HairStrandsCore",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:GroomConversionSettings",
+      "target": "plugin:HairStrands",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "type:SceneComponent",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "property:PostProcessComponent:settings",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PostProcessComponent:settings",
+      "target": "type:PostProcessSettings",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "property:PostProcessComponent:priority",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PostProcessComponent:priority",
+      "target": "type:float",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "property:PostProcessComponent:blend_radius",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PostProcessComponent:blend_radius",
+      "target": "type:float",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "property:PostProcessComponent:blend_weight",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PostProcessComponent:blend_weight",
+      "target": "type:float",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "property:PostProcessComponent:enabled",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PostProcessComponent:enabled",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "property:PostProcessComponent:unbound",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:PostProcessComponent:unbound",
+      "target": "type:bool",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "method:PostProcessComponent:add_or_update_blendable",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:PostProcessComponent",
+      "target": "module:Engine",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "type:StandardApiClassBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "method:WdpPickerAPI:pick_world_point_by_screen_pos",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "method:WdpPickerAPI:pick_material_by_screen_pos",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "method:WdpPickerAPI:pick_entity_by_screen_pos",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "method:WdpPickerAPI:pick_entity_by_rectangle",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "method:WdpPickerAPI:pick_aes_tiles_nodes_by_rectangle",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "method:WdpPickerAPI:pick_aes_tiles_node_by_screen_pos",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "method:WdpPickerAPI:get_entities_in_viewport",
+      "label": "HAS_METHOD"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "module:WdpInteractionAPI",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "class:WdpPickerAPI",
+      "target": "plugin:WdpRuntimeAPI",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "class:MaterialExpressionSubstrateWeight",
+      "target": "type:MaterialExpressionSubstrateBSDF",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "source": "class:MaterialExpressionSubstrateWeight",
+      "target": "property:MaterialExpressionSubstrateWeight:desc",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:MaterialExpressionSubstrateWeight:desc",
+      "target": "type:str",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:MaterialExpressionSubstrateWeight",
+      "target": "property:MaterialExpressionSubstrateWeight:material_expression_editor_x",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:MaterialExpressionSubstrateWeight:material_expression_editor_x",
+      "target": "type:int32",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:MaterialExpressionSubstrateWeight",
+      "target": "property:MaterialExpressionSubstrateWeight:material_expression_editor_y",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "source": "property:MaterialExpressionSubstrateWeight:material_expression_editor_y",
+      "target": "type:int32",
+      "label": "PROPERTY_TYPE"
+    },
+    {
+      "source": "class:MaterialExpressionSubstrateWeight",
+      "target": "module:Engine",
+      "label": "DEFINED_IN_MODULE"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge:method:WdpInstanceEntityAPI:set_nodes_transform",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpInstanceEntityAPI:set_nodes_transform",
+        "type:NodesTrParams",
+        "type:ResultBase"
+      ],
+      "description": "set_nodes_transform(params: NodesTrParams) -> Optional[ResultBase]"
+    },
+    {
+      "id": "hyperedge:method:WdpInstanceEntityAPI:set_components_transform",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpInstanceEntityAPI:set_components_transform",
+        "type:ComponentTrParams",
+        "type:ResultBase"
+      ],
+      "description": "set_components_transform(params: ComponentTrParams) -> Optional[ResultBase]"
+    },
+    {
+      "id": "hyperedge:method:WdpInstanceEntityAPI:outline_components",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpInstanceEntityAPI:outline_components",
+        "type:OutlineComponentParams",
+        "type:ResultBase"
+      ],
+      "description": "outline_components(params: OutlineComponentParams) -> Optional[ResultBase]"
+    },
+    {
+      "id": "hyperedge:method:WdpInstanceEntityAPI:focus_components",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpInstanceEntityAPI:focus_components",
+        "type:ComponentNameParams",
+        "type:ResultBase"
+      ],
+      "description": "focus_components(params: ComponentNameParams) -> Optional[ResultBase]"
+    },
+    {
+      "id": "hyperedge:method:WdpInstanceEntityAPI:delete_nodes",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpInstanceEntityAPI:delete_nodes",
+        "type:FocusToNodesParams",
+        "type:ResultBase"
+      ],
+      "description": "delete_nodes(params: FocusToNodesParams) -> Optional[ResultBase]"
+    },
+    {
+      "id": "hyperedge:method:WdpInstanceEntityAPI:delete_components",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpInstanceEntityAPI:delete_components",
+        "type:ComponentNameParams",
+        "type:ResultBase"
+      ],
+      "description": "delete_components(params: ComponentNameParams) -> Optional[ResultBase]"
+    },
+    {
+      "id": "hyperedge:method:TileView:set_entry_width",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:TileView:set_entry_width",
+        "type:float"
+      ],
+      "description": "set_entry_width(new_width: float) -> None"
+    },
+    {
+      "id": "hyperedge:method:TileView:set_entry_height",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:TileView:set_entry_height",
+        "type:float"
+      ],
+      "description": "set_entry_height(new_height: float) -> None"
+    },
+    {
+      "id": "hyperedge:method:TileView:get_entry_width",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:TileView:get_entry_width",
+        "type:float"
+      ],
+      "description": "get_entry_width() -> float"
+    },
+    {
+      "id": "hyperedge:method:TileView:get_entry_height",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:TileView:get_entry_height",
+        "type:float"
+      ],
+      "description": "get_entry_height() -> float"
+    },
+    {
+      "id": "hyperedge:method:PostProcessComponent:add_or_update_blendable",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:PostProcessComponent:add_or_update_blendable",
+        "type:BlendableInterface",
+        "type:float"
+      ],
+      "description": "add_or_update_blendable(blendable_object: BlendableInterface, weight: float = 1.000000) -> None"
+    },
+    {
+      "id": "hyperedge:method:WdpPickerAPI:pick_world_point_by_screen_pos",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpPickerAPI:pick_world_point_by_screen_pos",
+        "type:WdpPickerApiParams",
+        "type:WdpPickerOutResult"
+      ],
+      "description": "pick_world_point_by_screen_pos(params: WdpPickerApiParams) -> Optional[WdpPickerOutResult]"
+    },
+    {
+      "id": "hyperedge:method:WdpPickerAPI:pick_material_by_screen_pos",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpPickerAPI:pick_material_by_screen_pos",
+        "type:WdpPickerApiParams",
+        "type:PickMaterialApiResult"
+      ],
+      "description": "pick_material_by_screen_pos(params: WdpPickerApiParams) -> Optional[PickMaterialApiResult]"
+    },
+    {
+      "id": "hyperedge:method:WdpPickerAPI:pick_entity_by_screen_pos",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpPickerAPI:pick_entity_by_screen_pos",
+        "type:WdpPickerApiParams",
+        "type:WdpPickerOutResult"
+      ],
+      "description": "pick_entity_by_screen_pos(params: WdpPickerApiParams) -> Optional[WdpPickerOutResult]"
+    },
+    {
+      "id": "hyperedge:method:WdpPickerAPI:pick_entity_by_rectangle",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpPickerAPI:pick_entity_by_rectangle",
+        "type:WdpRectPickerApiParams",
+        "type:WdpRectPickerResult"
+      ],
+      "description": "pick_entity_by_rectangle(params: WdpRectPickerApiParams) -> Optional[WdpRectPickerResult]"
+    },
+    {
+      "id": "hyperedge:method:WdpPickerAPI:pick_aes_tiles_nodes_by_rectangle",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpPickerAPI:pick_aes_tiles_nodes_by_rectangle",
+        "type:PickAesTilesNodesByRectParam",
+        "type:PickAesTilesNodesResult"
+      ],
+      "description": "pick_aes_tiles_nodes_by_rectangle(params: PickAesTilesNodesByRectParam) -> Optional[PickAesTilesNodesResult]"
+    },
+    {
+      "id": "hyperedge:method:WdpPickerAPI:pick_aes_tiles_node_by_screen_pos",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpPickerAPI:pick_aes_tiles_node_by_screen_pos",
+        "type:WdpPickerApiParams",
+        "type:WdpPickerOutResult"
+      ],
+      "description": "pick_aes_tiles_node_by_screen_pos(params: WdpPickerApiParams) -> Optional[WdpPickerOutResult]"
+    },
+    {
+      "id": "hyperedge:method:WdpPickerAPI:get_entities_in_viewport",
+      "label": "METHOD_SIGNATURE",
+      "nodes": [
+        "method:WdpPickerAPI:get_entities_in_viewport",
+        "type:GetEntitiesInViewportParams",
+        "type:IntEidArrayResult"
+      ],
+      "description": "get_entities_in_viewport(params: GetEntitiesInViewportParams) -> Optional[IntEidArrayResult]"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "PCGBlurElementMode Objects.md",
+      "IsRootComponentChanged Objects.md",
+      "RigVMFunction__NameConcat Objects.md",
+      "MoviePipelineShotOutputData Objects.md",
+      "RigUnit__SetupShapeLibraryFromUserData Objects.md",
+      "AutoReceiveInput Objects.md",
+      "WdpInstanceEntityAPI Objects.md",
+      "InterchangeGenericMaterialPipeline Objects.md",
+      "RigUnit Objects.md",
+      "SourceEffectFilterSettings Objects.md",
+      "PlayerViewportCompositingOutput Objects.md",
+      "ToggleCameraSelfRotateParams Objects.md",
+      "RCRangeMapBehaviour Objects.md",
+      "TileView Objects.md",
+      "EarthGetLocation Objects.md",
+      "EntityTypeParams Objects.md",
+      "ScrollBorderStyle Objects.md",
+      "FFTWindowType Objects.md",
+      "GroomConversionSettings Objects.md",
+      "PostProcessComponent Objects.md",
+      "WdpPickerAPI Objects.md",
+      "MaterialExpressionSubstrateWeight Objects.md"
+    ],
+    "extraction_timestamp": "2026-04-12",
+    "total_classes": 22,
+    "total_enum_values": 16,
+    "total_properties": 43,
+    "total_methods": 17,
+    "total_modules": 17,
+    "total_plugins": 12,
+    "total_nodes": 230,
+    "total_edges": 284,
+    "total_hyperedges": 17
+  }
+}

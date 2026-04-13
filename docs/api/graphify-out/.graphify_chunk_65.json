@@ -1,0 +1,898 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_boneharmonics_bonetarget",
+      "label": "RigUnit_BoneHarmonics_BoneTarget",
+      "file_type": "document",
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "boneharmonics_system",
+      "label": "Bone Harmonics System",
+      "file_type": "document",
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bone_property",
+      "label": "Bone Property",
+      "file_type": "document",
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ratio_property",
+      "label": "Ratio Property",
+      "file_type": "document",
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatfloor",
+      "label": "RigUnit_MathFloatFloor",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatFloor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatfloor",
+      "label": "RigVMFunction_MathFloatFloor",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatFloor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpshapeeditoreditmode",
+      "label": "WdpShapeEditorEditMode",
+      "file_type": "document",
+      "source_file": "WdpShapeEditorEditMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shape_editor_mode",
+      "label": "Shape Editor Mode",
+      "file_type": "document",
+      "source_file": "WdpShapeEditorEditMode Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcurvetype",
+      "label": "AnimCurveType",
+      "file_type": "document",
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_curves",
+      "label": "Animation Curves",
+      "file_type": "document",
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "attribute_curve",
+      "label": "Attribute Curve",
+      "file_type": "document",
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_curve",
+      "label": "Material Curve",
+      "file_type": "document",
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "morph_target_curve",
+      "label": "Morph Target Curve",
+      "file_type": "document",
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 30",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bakingkeysettings",
+      "label": "BakingKeySettings",
+      "file_type": "document",
+      "source_file": "BakingKeySettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_baking",
+      "label": "Animation Baking",
+      "file_type": "document",
+      "source_file": "BakingKeySettings Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applicationlifecyclecomponent",
+      "label": "ApplicationLifecycleComponent",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "application_state_management",
+      "label": "Application State Management",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "application_foreground_background",
+      "label": "Application Foreground/Background",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 16-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "application_termination",
+      "label": "Application Termination",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 26-28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resource_management",
+      "label": "Resource Management",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "device_temperature_monitoring",
+      "label": "Device Temperature Monitoring",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "low_power_mode",
+      "label": "Low Power Mode",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 38",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rootmotionsource",
+      "label": "RootMotionSource",
+      "file_type": "document",
+      "source_file": "RootMotionSource Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "root_motion_animation",
+      "label": "Root Motion Animation",
+      "file_type": "document",
+      "source_file": "RootMotionSource Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformertransformvariable",
+      "label": "RigVMTrait_SetDeformerTransformVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait__SetDeformerTransformVariable Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformer_graph_system",
+      "label": "Deformer Graph System",
+      "file_type": "document",
+      "source_file": "RigVMTrait__SetDeformerTransformVariable Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseconfig_sight",
+      "label": "AISenseConfig_Sight",
+      "file_type": "document",
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_perception_system",
+      "label": "AI Perception System",
+      "file_type": "document",
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vision_cone_calculation",
+      "label": "Vision Cone Calculation",
+      "file_type": "document",
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 23-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "peripheral_vision",
+      "label": "Peripheral Vision",
+      "file_type": "document",
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 71",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "target_tracking",
+      "label": "Target Tracking",
+      "file_type": "document",
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectordeg",
+      "label": "RigUnit_MathVectorDeg",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorDeg Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectordeg",
+      "label": "RigVMFunction_MathVectorDeg",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorDeg Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thumbnailcolorstriporientation_blueprinttype",
+      "label": "ThumbnailColorStripOrientation_BlueprintType",
+      "file_type": "document",
+      "source_file": "ThumbnailColorStripOrientation_BlueprintType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ui_thumbnail_rendering",
+      "label": "UI Thumbnail Rendering",
+      "file_type": "document",
+      "source_file": "ThumbnailColorStripOrientation_BlueprintType Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modularrigsingleconnection",
+      "label": "ModularRigSingleConnection",
+      "file_type": "document",
+      "source_file": "ModularRigSingleConnection Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modular_rig_architecture",
+      "label": "Modular Rig Architecture",
+      "file_type": "document",
+      "source_file": "ModularRigSingleConnection Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "WdpShapeEditorEditMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseconfig",
+      "label": "AISenseConfig",
+      "file_type": "document",
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_boneharmonics_bonetarget",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_boneharmonics_bonetarget",
+      "target": "boneharmonics_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "bone_property",
+      "target": "rigunit_boneharmonics_bonetarget",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "ratio_property",
+      "target": "rigunit_boneharmonics_bonetarget",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatfloor",
+      "target": "rigvmfunction_mathfloatfloor",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatFloor Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpshapeeditoreditmode",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpShapeEditorEditMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpshapeeditoreditmode",
+      "target": "shape_editor_mode",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpShapeEditorEditMode Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "animcurvetype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animcurvetype",
+      "target": "animation_curves",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "attribute_curve",
+      "target": "animcurvetype",
+      "relation": "enumeration_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "material_curve",
+      "target": "animcurvetype",
+      "relation": "enumeration_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 24",
+      "weight": 1.0
+    },
+    {
+      "source": "morph_target_curve",
+      "target": "animcurvetype",
+      "relation": "enumeration_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": "line 30",
+      "weight": 1.0
+    },
+    {
+      "source": "bakingkeysettings",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BakingKeySettings Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "bakingkeysettings",
+      "target": "animation_baking",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BakingKeySettings Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "applicationlifecyclecomponent",
+      "target": "actorcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "applicationlifecyclecomponent",
+      "target": "application_state_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "application_foreground_background",
+      "target": "applicationlifecyclecomponent",
+      "relation": "handled_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 16-25",
+      "weight": 1.0
+    },
+    {
+      "source": "application_termination",
+      "target": "applicationlifecyclecomponent",
+      "relation": "handled_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 26-28",
+      "weight": 1.0
+    },
+    {
+      "source": "resource_management",
+      "target": "applicationlifecyclecomponent",
+      "relation": "handled_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "device_temperature_monitoring",
+      "target": "applicationlifecyclecomponent",
+      "relation": "handled_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 39",
+      "weight": 1.0
+    },
+    {
+      "source": "low_power_mode",
+      "target": "applicationlifecyclecomponent",
+      "relation": "handled_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": "line 38",
+      "weight": 1.0
+    },
+    {
+      "source": "rootmotionsource",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RootMotionSource Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rootmotionsource",
+      "target": "root_motion_animation",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RootMotionSource Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformertransformvariable",
+      "target": "deformer_graph_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerTransformVariable Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "aisenseconfig_sight",
+      "target": "aisenseconfig",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "aisenseconfig_sight",
+      "target": "ai_perception_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "vision_cone_calculation",
+      "target": "aisenseconfig_sight",
+      "relation": "used_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 23-25",
+      "weight": 1.0
+    },
+    {
+      "source": "peripheral_vision",
+      "target": "aisenseconfig_sight",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 71",
+      "weight": 1.0
+    },
+    {
+      "source": "target_tracking",
+      "target": "aisenseconfig_sight",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISenseConfig__Sight Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectordeg",
+      "target": "rigvmfunction_mathvectordeg",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorDeg Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "thumbnailcolorstriporientation_blueprinttype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ThumbnailColorStripOrientation_BlueprintType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "thumbnailcolorstriporientation_blueprinttype",
+      "target": "ui_thumbnail_rendering",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ThumbnailColorStripOrientation_BlueprintType Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "modularrigsingleconnection",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModularRigSingleConnection Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "modularrigsingleconnection",
+      "target": "modular_rig_architecture",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModularRigSingleConnection Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_boneharmonics_bonetarget",
+      "target": "modularrigsingleconnection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformertransformvariable",
+      "target": "rigunit_boneharmonics_bonetarget",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "RigVMTrait__SetDeformerTransformVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animation_curves",
+      "target": "animation_baking",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimCurveType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatfloor",
+      "target": "rigunit_mathvectordeg",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigUnit_MathFloatFloor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rootmotionsource",
+      "target": "animcurvetype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "RootMotionSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "application_state_management",
+      "target": "resource_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ApplicationLifecycleComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_module_components",
+      "label": "ControlRig Module Components",
+      "nodes": [
+        "rigunit_boneharmonics_bonetarget",
+        "modularrigsingleconnection"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigUnit__BoneHarmonics__BoneTarget Objects.md"
+    },
+    {
+      "id": "rigvm_deprecated_units",
+      "label": "Deprecated RigVM Units",
+      "nodes": [
+        "rigunit_mathfloatfloor",
+        "rigunit_mathvectordeg"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathFloatFloor Objects.md"
+    },
+    {
+      "id": "animation_system_enums",
+      "label": "Animation System Enumerations",
+      "nodes": [
+        "animcurvetype",
+        "bakingkeysettings",
+        "rootmotionsource"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimCurveType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

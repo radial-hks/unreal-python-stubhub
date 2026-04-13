@@ -1,0 +1,476 @@
+{
+  "nodes": [
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "StructBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptvectorlist_geometryscriptvectorlist",
+      "label": "GeometryScriptVectorList",
+      "file_type": "code",
+      "source_file": "GeometryScriptVectorList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptvectorlist_vector_operations",
+      "label": "Vector Mathematical Operations",
+      "file_type": "code",
+      "source_file": "GeometryScriptVectorList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbikeffector_pbikeffector",
+      "label": "PBIKEffector",
+      "file_type": "code",
+      "source_file": "PBIKEffector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinenavmodifiercomponent_splinenavmodifiercomponent",
+      "label": "SplineNavModifierComponent",
+      "file_type": "code",
+      "source_file": "SplineNavModifierComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interpolationparameter_interpolationparameter",
+      "label": "InterpolationParameter",
+      "file_type": "code",
+      "source_file": "InterpolationParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgactorselectorsettings_pcgactorselectorsettings",
+      "label": "PCGActorSelectorSettings",
+      "file_type": "code",
+      "source_file": "PCGActorSelectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floatrange_floatrange",
+      "label": "FloatRange",
+      "file_type": "code",
+      "source_file": "FloatRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getvectoranimationchannel_rigunit_getvectoranimationchannel",
+      "label": "RigUnit_GetVectorAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit_GetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setvectoranimationchannel_rigunit_setvectoranimationchannel",
+      "label": "RigUnit_SetVectorAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit__SetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneanimation_channel_pattern",
+      "label": "Animation Channel Get/Set Pattern",
+      "file_type": "code",
+      "source_file": "RigUnit_GetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetlibrary_widgetlibrary",
+      "label": "WidgetLibrary",
+      "file_type": "code",
+      "source_file": "WidgetLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetlibrary_ui_utilities",
+      "label": "UI Utility Functions",
+      "file_type": "code",
+      "source_file": "WidgetLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenegameplaycuetrack_moviescenegameplaycuetrack",
+      "label": "MovieSceneGameplayCueTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneGameplayCueTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneniagaraboolparametertrack_moviesceneniagaraboolparametertrack",
+      "label": "MovieSceneNiagaraBoolParameterTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraBoolParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneparameter_animation",
+      "label": "MovieScene Parameter Animation Pattern",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraBoolParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skinweightprofilelayer_skinweightprofilelayer",
+      "label": "SkinWeightProfileLayer",
+      "file_type": "code",
+      "source_file": "SkinWeightProfileLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshvertexattributedatatype_skeletalmeshvertexattributedatatype",
+      "label": "SkeletalMeshVertexAttributeDataType",
+      "file_type": "code",
+      "source_file": "SkeletalMeshVertexAttributeDataType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdispatchthreadcount_pcgdispatchthreadcount",
+      "label": "PCGDispatchThreadCount",
+      "file_type": "code",
+      "source_file": "PCGDispatchThreadCount Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moveforwarddirection_moveforwarddirection",
+      "label": "MoveForwardDirection",
+      "file_type": "code",
+      "source_file": "MoveForwardDirection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massreplicationtrait_massreplicationtrait",
+      "label": "MassReplicationTrait",
+      "file_type": "code",
+      "source_file": "MassReplicationTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerwaterentity_modelerwaterentity",
+      "label": "ModelerWaterEntity",
+      "file_type": "code",
+      "source_file": "ModelerWaterEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller_onpointerkeyreleased_wdpplayercontroller_onpointerkeyreleased",
+      "label": "WdpPlayerController_OnPointerKeyReleased",
+      "file_type": "code",
+      "source_file": "WdpPlayerController__OnPointerKeyReleased Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorvalidator_material_editorvalidator_material",
+      "label": "EditorValidator_Material",
+      "file_type": "code",
+      "source_file": "EditorValidator__Material Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithcadimportscenedata_datasmithcadimportscenedata",
+      "label": "DatasmithCADImportSceneData",
+      "file_type": "code",
+      "source_file": "DatasmithCADImportSceneData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometryscriptvectorlist_geometryscriptvectorlist",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptVectorList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pbikeffector_pbikeffector",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PBIKEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interpolationparameter_interpolationparameter",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterpolationParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgactorselectorsettings_pcgactorselectorsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGActorSelectorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "floatrange_floatrange",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FloatRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptvectorlist_vector_operations",
+      "target": "geometryscriptvectorlist_geometryscriptvectorlist",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptVectorList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getvectoranimationchannel_rigunit_getvectoranimationchannel",
+      "target": "rigunit_setvectoranimationchannel_rigunit_setvectoranimationchannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_GetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneparameter_animation",
+      "target": "moviescenegameplaycuetrack_moviescenegameplaycuetrack",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneNiagaraBoolParameterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneparameter_animation",
+      "target": "moviesceneniagaraboolparametertrack_moviesceneniagaraboolparametertrack",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneNiagaraBoolParameterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widgetlibrary_ui_utilities",
+      "target": "widgetlibrary_widgetlibrary",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WidgetLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneanimation_channel_pattern",
+      "target": "rigunit_getvectoranimationchannel_rigunit_getvectoranimationchannel",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_GetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneanimation_channel_pattern",
+      "target": "rigunit_setvectoranimationchannel_rigunit_setvectoranimationchannel",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skinweightprofilelayer_skinweightprofilelayer",
+      "target": "skeletalmeshvertexattributedatatype_skeletalmeshvertexattributedatatype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SkinWeightProfileLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modelerwaterentity_modelerwaterentity",
+      "target": "splinenavmodifiercomponent_splinenavmodifiercomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ModelerWaterEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller_onpointerkeyreleased_wdpplayercontroller_onpointerkeyreleased",
+      "target": "moveforwarddirection_moveforwarddirection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WdpPlayerController__OnPointerKeyReleased Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "struct_based_data_structures",
+      "label": "Struct-Based Data Structures",
+      "nodes": [
+        "geometryscriptvectorlist_geometryscriptvectorlist",
+        "pbikeffector_pbikeffector",
+        "interpolationparameter_interpolationparameter",
+        "pcgactorselectorsettings_pcgactorselectorsettings",
+        "floatrange_floatrange"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "StructBase Objects.md"
+    },
+    {
+      "id": "animation_channel_accessors",
+      "label": "Animation Channel Accessors",
+      "nodes": [
+        "rigunit_getvectoranimationchannel_rigunit_getvectoranimationchannel",
+        "rigunit_setvectoranimationchannel_rigunit_setvectoranimationchannel",
+        "moviesceneanimation_channel_pattern"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_GetVectorAnimationChannel Objects.md"
+    },
+    {
+      "id": "moviescene_parameter_tracks",
+      "label": "MovieScene Parameter Tracks",
+      "nodes": [
+        "moviescenegameplaycuetrack_moviescenegameplaycuetrack",
+        "moviesceneniagaraboolparametertrack_moviesceneniagaraboolparametertrack",
+        "moviesceneparameter_animation"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneGameplayCueTrack Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

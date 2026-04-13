@@ -1,0 +1,683 @@
+{
+  "nodes": [
+    {
+      "id": "colorgradingspinboxstyle",
+      "label": "ColorGradingSpinBoxStyle",
+      "file_type": "document",
+      "source_file": "ColorGradingSpinBoxStyle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatewidgetstyle",
+      "label": "SlateWidgetStyle",
+      "file_type": "document",
+      "source_file": "ColorGradingSpinBoxStyle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatebrush",
+      "label": "SlateBrush",
+      "file_type": "document",
+      "source_file": "ColorGradingSpinBoxStyle Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendstack_blendspaceupdatemode",
+      "label": "BlendStack_BlendspaceUpdateMode",
+      "file_type": "document",
+      "source_file": "BlendStack_BlendspaceUpdateMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "BlendStack_BlendspaceUpdateMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interptomovementcomponent_oninterptowaitbegidelegate",
+      "label": "InterpToMovementComponent_OnInterpToWaitBeginDelegate",
+      "file_type": "document",
+      "source_file": "InterpToMovementComponent_OnInterpToWaitBeginDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "InterpToMovementComponent_OnInterpToWaitBeginDelegate Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresult",
+      "label": "HitResult",
+      "file_type": "document",
+      "source_file": "InterpToMovementComponent_OnInterpToWaitBeginDelegate Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "instancedfoliagesettings",
+      "label": "InstancedFoliageSettings",
+      "file_type": "document",
+      "source_file": "InstancedFoliageSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliagetype_instancedstaticmesh",
+      "label": "FoliageType_InstancedStaticMesh",
+      "file_type": "document",
+      "source_file": "InstancedFoliageSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mockdatameshtrackercomponent",
+      "label": "MockDataMeshTrackerComponent",
+      "file_type": "document",
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecomponent",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mrmeshcomponent",
+      "label": "MRMeshComponent",
+      "file_type": "document",
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 246",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshtrackervertexcolormode",
+      "label": "MeshTrackerVertexColorMode",
+      "file_type": "document",
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 57",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmockdatameshtrackerupdated",
+      "label": "OnMockDataMeshTrackerUpdated",
+      "file_type": "document",
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 36",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaterniontorotator",
+      "label": "RigUnit_MathQuaternionToRotator",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaterniontorotator",
+      "label": "RigVMFunction_MathQuaternionToRotator",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quat",
+      "label": "Quat",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rotator",
+      "label": "Rotator",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitiontype",
+      "label": "AvaTransitionType",
+      "file_type": "document",
+      "source_file": "AvaTransitionType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatebase",
+      "label": "RigVMFunction_AccumulateBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_AccumulateBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_simbase",
+      "label": "RigVMFunction_SimBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_AccumulateBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ontimelinelinearcolor",
+      "label": "OnTimelineLinearColor",
+      "file_type": "document",
+      "source_file": "OnTimelineLinearColor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "OnTimelineLinearColor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linearcolor",
+      "label": "LinearColor",
+      "file_type": "document",
+      "source_file": "OnTimelineLinearColor Objects.md",
+      "source_location": "line 10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialintmask",
+      "label": "RadialIntMask",
+      "file_type": "document",
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodeint",
+      "label": "FieldNodeInt",
+      "file_type": "document",
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": "line 27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setmaskconditiontype",
+      "label": "SetMaskConditionType",
+      "file_type": "document",
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": "line 33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "layeredbondblendmode",
+      "label": "LayeredBoneBlendMode",
+      "file_type": "document",
+      "source_file": "LayeredBoneBlendMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalevelviewportsafeframe",
+      "label": "AvaLevelViewportSafeFrame",
+      "file_type": "document",
+      "source_file": "AvaLevelViewportSafeFrame Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "AvaLevelViewportSafeFrame Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "colorgradingspinboxstyle",
+      "target": "slatewidgetstyle",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorGradingSpinBoxStyle Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "colorgradingspinboxstyle",
+      "target": "slatebrush",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorGradingSpinBoxStyle Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "blendstack_blendspaceupdatemode",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlendStack_BlendspaceUpdateMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "interptomovementcomponent_oninterptowaitbegidelegate",
+      "target": "multicastdelegatebase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterpToMovementComponent_OnInterpToWaitBeginDelegate Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "interptomovementcomponent_oninterptowaitbegidelegate",
+      "target": "hitresult",
+      "relation": "has_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterpToMovementComponent_OnInterpToWaitBeginDelegate Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "instancedfoliagesettings",
+      "target": "foliagetype_instancedstaticmesh",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InstancedFoliageSettings Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "instancedfoliagesettings",
+      "target": "foliagetype_instancedstaticmesh",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InstancedFoliageSettings Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "mockdatameshtrackercomponent",
+      "target": "scenecomponent",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "mockdatameshtrackercomponent",
+      "target": "mrmeshcomponent",
+      "relation": "connects_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 260",
+      "weight": 1.0
+    },
+    {
+      "source": "mockdatameshtrackercomponent",
+      "target": "onmockdatameshtrackerupdated",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 36",
+      "weight": 1.0
+    },
+    {
+      "source": "mockdatameshtrackercomponent",
+      "target": "meshtrackervertexcolormode",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 57",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "rigvmfunction_mathquaterniontorotator",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "rigvmfunction_mathquaterniontorotator",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "quat",
+      "relation": "has_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 14",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "rotator",
+      "relation": "has_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "quat",
+      "relation": "converts_from",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontorotator",
+      "target": "rotator",
+      "relation": "converts_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitiontype",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatebase",
+      "target": "rigvmfunction_simbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_AccumulateBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "ontimelinelinearcolor",
+      "target": "delegatebase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnTimelineLinearColor Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "ontimelinelinearcolor",
+      "target": "linearcolor",
+      "relation": "has_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnTimelineLinearColor Objects.md",
+      "source_location": "line 10",
+      "weight": 1.0
+    },
+    {
+      "source": "radialintmask",
+      "target": "fieldnodeint",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "radialintmask",
+      "target": "vector",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "radialintmask",
+      "target": "setmaskconditiontype",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": "line 33",
+      "weight": 1.0
+    },
+    {
+      "source": "layeredbondblendmode",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LayeredBoneBlendMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "avalevelviewportsafeframe",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaLevelViewportSafeFrame Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "avalevelviewportsafeframe",
+      "target": "linearcolor",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaLevelViewportSafeFrame Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "mockdatameshtrackercomponent",
+      "target": "linearcolor",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MockDataMeshTrackerComponent Objects.md",
+      "source_location": "line 55",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_ui_styling_system",
+      "label": "Unreal Engine UI Styling System",
+      "nodes": [
+        "colorgradingspinboxstyle",
+        "slatewidgetstyle",
+        "slatebrush"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ColorGradingSpinBoxStyle Objects.md"
+    },
+    {
+      "id": "rigvm_math_rotation_conversion",
+      "label": "RigVM Math Rotation Conversion",
+      "nodes": [
+        "rigunit_mathquaterniontorotator",
+        "rigvmfunction_mathquaterniontorotator",
+        "quat",
+        "rotator"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathQuaternionToRotator Objects.md"
+    },
+    {
+      "id": "environmental_mesh_tracking_system",
+      "label": "Environmental Mesh Tracking System",
+      "nodes": [
+        "mockdatameshtrackercomponent",
+        "mrmeshcomponent",
+        "onmockdatameshtrackerupdated",
+        "meshtrackervertexcolormode"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MockDataMeshTrackerComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

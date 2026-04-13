@@ -1,0 +1,1588 @@
+{
+  "nodes": [
+    {
+      "id": "MaterialExpressionParameter",
+      "type": "Class",
+      "label": "MaterialExpressionParameter",
+      "properties": {
+        "description": "Material Expression Parameter",
+        "source_file": "MaterialExpressionParameter.h"
+      }
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "Class",
+      "label": "MaterialExpression"
+    },
+    {
+      "id": "EnhancedInputLibrary",
+      "type": "Class",
+      "label": "EnhancedInputLibrary",
+      "properties": {
+        "description": "Enhanced Input Library",
+        "source_file": "EnhancedInputLibrary.h"
+      }
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "Class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "LidarPointCloudColorationMode",
+      "type": "Enum",
+      "label": "LidarPointCloudColorationMode",
+      "properties": {
+        "description": "ELidar Point Cloud Coloration Mode",
+        "source_file": "LidarPointCloudShared.h"
+      }
+    },
+    {
+      "id": "AnimLayerControlRigObject",
+      "type": "Class",
+      "label": "AnimLayerControlRigObject",
+      "properties": {
+        "description": "Anim Layer Control Rig Object",
+        "source_file": "AnimLayers.h"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "Class",
+      "label": "StructBase"
+    },
+    {
+      "id": "TextureRenderTargetCube",
+      "type": "Class",
+      "label": "TextureRenderTargetCube",
+      "properties": {
+        "description": "TextureRenderTargetCube - Cube render target texture resource",
+        "source_file": "TextureRenderTargetCube.h"
+      }
+    },
+    {
+      "id": "TextureRenderTarget",
+      "type": "Class",
+      "label": "TextureRenderTarget"
+    },
+    {
+      "id": "RigOrConnectionRule",
+      "type": "Class",
+      "label": "RigOrConnectionRule",
+      "properties": {
+        "description": "Rig or Connection Rule",
+        "source_file": "RigConnectionRules.h"
+      }
+    },
+    {
+      "id": "RigConnectionRule",
+      "type": "Class",
+      "label": "RigConnectionRule"
+    },
+    {
+      "id": "GeoLayerBlueLibrary",
+      "type": "Class",
+      "label": "GeoLayerBlueLibrary",
+      "properties": {
+        "description": "Geo Layer Blue Library",
+        "source_file": "GeoLayerAPI.h"
+      }
+    },
+    {
+      "id": "EditableGameplayTagQueryExpression_AllTagsMatch",
+      "type": "Class",
+      "label": "EditableGameplayTagQueryExpression_AllTagsMatch",
+      "properties": {
+        "description": "Editable Gameplay Tag Query Expression All Tags Match",
+        "source_file": "GameplayTagContainer.h"
+      }
+    },
+    {
+      "id": "EditableGameplayTagQueryExpression",
+      "type": "Class",
+      "label": "EditableGameplayTagQueryExpression"
+    },
+    {
+      "id": "RigUnit_RotationConstraintLocalSpaceOffset",
+      "type": "Class",
+      "label": "RigUnit_RotationConstraintLocalSpaceOffset",
+      "properties": {
+        "description": "Constrains an item's rotation to multiple items' rotations",
+        "source_file": "RigUnit_TransformConstraint.h"
+      }
+    },
+    {
+      "id": "RigUnit_HighlevelBaseMutable",
+      "type": "Class",
+      "label": "RigUnit_HighlevelBaseMutable"
+    },
+    {
+      "id": "NavigableConvexDecompositionOptions",
+      "type": "Class",
+      "label": "NavigableConvexDecompositionOptions",
+      "properties": {
+        "description": "Settings to define the important regions for a convex decomposition",
+        "source_file": "CollisionFunctions.h"
+      }
+    },
+    {
+      "id": "ApplyRootMotionMoveToForceDelegate",
+      "type": "Class",
+      "label": "ApplyRootMotionMoveToForceDelegate",
+      "properties": {
+        "description": "Apply Root Motion Move to Force Delegate",
+        "source_file": "AbilityTask_ApplyRootMotionMoveToForce.h"
+      }
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "Class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "MediaSource",
+      "type": "Class",
+      "label": "MediaSource",
+      "properties": {
+        "description": "Abstract base class for media sources",
+        "source_file": "MediaSource.h"
+      }
+    },
+    {
+      "id": "Object",
+      "type": "Class",
+      "label": "Object"
+    },
+    {
+      "id": "SplineDeformType",
+      "type": "Enum",
+      "label": "SplineDeformType",
+      "properties": {
+        "description": "样条线模型变形类型",
+        "source_file": "AesAssetCommon.h"
+      }
+    },
+    {
+      "id": "AvaBooleanModifier",
+      "type": "Class",
+      "label": "AvaBooleanModifier",
+      "properties": {
+        "description": "Modifier to apply a mask on a certain shape",
+        "source_file": "AvaBooleanModifier.h"
+      }
+    },
+    {
+      "id": "AvaGeometryBaseModifier",
+      "type": "Class",
+      "label": "AvaGeometryBaseModifier"
+    },
+    {
+      "id": "PCGBadOutputsNodeSettings",
+      "type": "Class",
+      "label": "PCGBadOutputsNodeSettings",
+      "properties": {
+        "description": "Test node to write bad outputs",
+        "source_file": "PCGElementTest.h"
+      }
+    },
+    {
+      "id": "PCGSettings",
+      "type": "Class",
+      "label": "PCGSettings"
+    },
+    {
+      "id": "ControlRigRigHierarchyDragAndDropContext",
+      "type": "Class",
+      "label": "ControlRigRigHierarchyDragAndDropContext",
+      "properties": {
+        "description": "Control Rig Rig Hierarchy Drag and Drop Context",
+        "source_file": "ControlRigContextMenuContext.h"
+      }
+    },
+    {
+      "id": "DetectionTechnique",
+      "type": "Enum",
+      "label": "DetectionTechnique",
+      "properties": {
+        "description": "Detection method used for placing a notify/marker in the track",
+        "source_file": "FootstepAnimEventsModifier.h"
+      }
+    },
+    {
+      "id": "ContentBrowserDataPackageFilter",
+      "type": "Class",
+      "label": "ContentBrowserDataPackageFilter",
+      "properties": {
+        "description": "Data used to filter object instances by their package",
+        "source_file": "ContentBrowserDataFilter.h"
+      }
+    },
+    {
+      "id": "GizmoRectangleComponent",
+      "type": "Class",
+      "label": "GizmoRectangleComponent",
+      "properties": {
+        "description": "Simple Component for 3D Gizmos - Draws outline of 3D rectangle",
+        "source_file": "GizmoRectangleComponent.h"
+      }
+    },
+    {
+      "id": "GizmoBaseComponent",
+      "type": "Class",
+      "label": "GizmoBaseComponent"
+    },
+    {
+      "id": "LandscapeHLODTextureSizePolicy",
+      "type": "Enum",
+      "label": "LandscapeHLODTextureSizePolicy",
+      "properties": {
+        "description": "ELandscape HLODTexture Size Policy",
+        "source_file": "LandscapeProxy.h"
+      }
+    },
+    {
+      "id": "AesEditorRoadModifyStyle",
+      "type": "Class",
+      "label": "AesEditorRoadModifyStyle",
+      "properties": {
+        "description": "Aes Editor Road Modify Style",
+        "source_file": "AesEditorModeSettings.h"
+      }
+    },
+    {
+      "id": "AvaTransitionLevelHideMode",
+      "type": "Enum",
+      "label": "AvaTransitionLevelHideMode",
+      "properties": {
+        "description": "EAva Transition Level Hide Mode",
+        "source_file": "AvaTransitionEnums.h"
+      }
+    },
+    {
+      "id": "Engine",
+      "type": "Module",
+      "label": "Engine"
+    },
+    {
+      "id": "EnhancedInput",
+      "type": "Module",
+      "label": "EnhancedInput"
+    },
+    {
+      "id": "LidarPointCloudRuntime",
+      "type": "Module",
+      "label": "LidarPointCloudRuntime"
+    },
+    {
+      "id": "ControlRigEditor",
+      "type": "Module",
+      "label": "ControlRigEditor"
+    },
+    {
+      "id": "ControlRig",
+      "type": "Module",
+      "label": "ControlRig"
+    },
+    {
+      "id": "MagicGISAPI",
+      "type": "Module",
+      "label": "MagicGISAPI"
+    },
+    {
+      "id": "GameplayTags",
+      "type": "Module",
+      "label": "GameplayTags"
+    },
+    {
+      "id": "GeometryScriptingCore",
+      "type": "Module",
+      "label": "GeometryScriptingCore"
+    },
+    {
+      "id": "GameplayAbilities",
+      "type": "Module",
+      "label": "GameplayAbilities"
+    },
+    {
+      "id": "MediaAssets",
+      "type": "Module",
+      "label": "MediaAssets"
+    },
+    {
+      "id": "AesAsset",
+      "type": "Module",
+      "label": "AesAsset"
+    },
+    {
+      "id": "AvalancheModifiers",
+      "type": "Module",
+      "label": "AvalancheModifiers"
+    },
+    {
+      "id": "PCG",
+      "type": "Module",
+      "label": "PCG"
+    },
+    {
+      "id": "AnimationModifierLibrary",
+      "type": "Module",
+      "label": "AnimationModifierLibrary"
+    },
+    {
+      "id": "ContentBrowserData",
+      "type": "Module",
+      "label": "ContentBrowserData"
+    },
+    {
+      "id": "InteractiveToolsFramework",
+      "type": "Module",
+      "label": "InteractiveToolsFramework"
+    },
+    {
+      "id": "Landscape",
+      "type": "Module",
+      "label": "Landscape"
+    },
+    {
+      "id": "AesEditorMode",
+      "type": "Module",
+      "label": "AesEditorMode"
+    },
+    {
+      "id": "AvalancheTransition",
+      "type": "Module",
+      "label": "AvalancheTransition"
+    },
+    {
+      "id": "EnhancedInput_Plugin",
+      "type": "Plugin",
+      "label": "EnhancedInput"
+    },
+    {
+      "id": "LidarPointCloud",
+      "type": "Plugin",
+      "label": "LidarPointCloud"
+    },
+    {
+      "id": "ControlRig_Plugin",
+      "type": "Plugin",
+      "label": "ControlRig"
+    },
+    {
+      "id": "GISDataAPI",
+      "type": "Plugin",
+      "label": "GISDataAPI"
+    },
+    {
+      "id": "GeometryScripting",
+      "type": "Plugin",
+      "label": "GeometryScripting"
+    },
+    {
+      "id": "GameplayAbilities_Plugin",
+      "type": "Plugin",
+      "label": "GameplayAbilities"
+    },
+    {
+      "id": "AesWorld",
+      "type": "Plugin",
+      "label": "AesWorld"
+    },
+    {
+      "id": "Avalanche",
+      "type": "Plugin",
+      "label": "Avalanche"
+    },
+    {
+      "id": "PCG_Plugin",
+      "type": "Plugin",
+      "label": "PCG"
+    },
+    {
+      "id": "AnimationModifierLibrary_Plugin",
+      "type": "Plugin",
+      "label": "AnimationModifierLibrary"
+    },
+    {
+      "id": "request_rebuild_control_mappings_using_context",
+      "type": "Method",
+      "label": "request_rebuild_control_mappings_using_context"
+    },
+    {
+      "id": "is_action_key_mapping_player_mappable",
+      "type": "Method",
+      "label": "is_action_key_mapping_player_mappable"
+    },
+    {
+      "id": "get_third_player_mappable_key_slot",
+      "type": "Method",
+      "label": "get_third_player_mappable_key_slot"
+    },
+    {
+      "id": "get_geo_layer_api_object",
+      "type": "Method",
+      "label": "get_geo_layer_api_object"
+    },
+    {
+      "id": "validate",
+      "type": "Method",
+      "label": "validate"
+    },
+    {
+      "id": "get_url",
+      "type": "Method",
+      "label": "get_url"
+    },
+    {
+      "id": "set_mode",
+      "type": "Method",
+      "label": "set_mode"
+    },
+    {
+      "id": "get_mode",
+      "type": "Method",
+      "label": "get_mode"
+    },
+    {
+      "id": "desc_prop",
+      "type": "Property",
+      "label": "desc",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "group_prop",
+      "type": "Property",
+      "label": "group",
+      "properties": {
+        "type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "parameter_name_prop",
+      "type": "Property",
+      "label": "parameter_name",
+      "properties": {
+        "type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "control_rig_prop",
+      "type": "Property",
+      "label": "control_rig",
+      "properties": {
+        "type": "ControlRig",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "control_names_prop",
+      "type": "Property",
+      "label": "control_names",
+      "properties": {
+        "type": "Array[Name]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "size_x_prop",
+      "type": "Property",
+      "label": "size_x",
+      "properties": {
+        "type": "int32",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "hdr_prop",
+      "type": "Property",
+      "label": "hdr",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "child_rules_prop",
+      "type": "Property",
+      "label": "child_rules",
+      "properties": {
+        "type": "Array[RigConnectionRuleStash]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "tags_prop",
+      "type": "Property",
+      "label": "tags",
+      "properties": {
+        "type": "GameplayTagContainer",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "child_prop",
+      "type": "Property",
+      "label": "child",
+      "properties": {
+        "type": "RigElementKey",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "min_radius_prop",
+      "type": "Property",
+      "label": "min_radius",
+      "properties": {
+        "type": "double",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "tolerance_prop",
+      "type": "Property",
+      "label": "tolerance",
+      "properties": {
+        "type": "double",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "channel_prop",
+      "type": "Property",
+      "label": "channel",
+      "properties": {
+        "type": "uint8",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "mode_prop",
+      "type": "Property",
+      "label": "mode",
+      "properties": {
+        "type": "AvaBooleanMode",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "dragged_element_keys_prop",
+      "type": "Property",
+      "label": "dragged_element_keys",
+      "properties": {
+        "type": "Array[RigElementKey]",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "package_names_to_include_prop",
+      "type": "Property",
+      "label": "package_names_to_include",
+      "properties": {
+        "type": "Array[Name]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "color_prop",
+      "type": "Property",
+      "label": "color",
+      "properties": {
+        "type": "LinearColor",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "direction_x_prop",
+      "type": "Property",
+      "label": "direction_x",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "disable_edge_color_prop",
+      "type": "Property",
+      "label": "disable_edge_color",
+      "properties": {
+        "type": "LinearColor",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "NONE_enum",
+      "type": "EnumValue",
+      "label": "NONE",
+      "properties": {
+        "value": 0,
+        "description": "Uses color tint only"
+      }
+    },
+    {
+      "id": "DATA_enum",
+      "type": "EnumValue",
+      "label": "DATA",
+      "properties": {
+        "value": 1,
+        "description": "Uses imported RGB/Intensity data"
+      }
+    },
+    {
+      "id": "ELEVATION_enum",
+      "type": "EnumValue",
+      "label": "ELEVATION",
+      "properties": {
+        "value": 3,
+        "description": "Cloud's color will be overridden with elevation-based color"
+      }
+    },
+    {
+      "id": "CLASSIFICATION_enum",
+      "type": "EnumValue",
+      "label": "CLASSIFICATION",
+      "properties": {
+        "value": 5,
+        "description": "Uses Classification ID with Classification Colors property"
+      }
+    },
+    {
+      "id": "LINEAR_enum",
+      "type": "EnumValue",
+      "label": "LINEAR",
+      "properties": {
+        "value": 0,
+        "description": "模块按线性扭曲"
+      }
+    },
+    {
+      "id": "CURVE_enum",
+      "type": "EnumValue",
+      "label": "CURVE",
+      "properties": {
+        "value": 1,
+        "description": "模块按贝塞尔曲线扭曲"
+      }
+    },
+    {
+      "id": "PASS_THROUGH_REFERENCE_BONE_enum",
+      "type": "EnumValue",
+      "label": "PASS_THROUGH_REFERENCE_BONE",
+      "properties": {
+        "value": 0,
+        "description": "Create anim event when foot bone passes through reference bone"
+      }
+    },
+    {
+      "id": "FOOT_BONE_REACHES_GROUND_enum",
+      "type": "EnumValue",
+      "label": "FOOT_BONE_REACHES_GROUND",
+      "properties": {
+        "value": 1,
+        "description": "Create anim event when foot bone reaches ground level"
+      }
+    },
+    {
+      "id": "FOOT_BONE_SPEED_enum",
+      "type": "EnumValue",
+      "label": "FOOT_BONE_SPEED",
+      "properties": {
+        "value": 2,
+        "description": "Create anim event when foot bone translation speed is below threshold"
+      }
+    },
+    {
+      "id": "AUTOMATIC_SIZE_enum",
+      "type": "EnumValue",
+      "label": "AUTOMATIC_SIZE",
+      "properties": {
+        "value": 0,
+        "description": "Automatic texture size based on HLOD draw distance"
+      }
+    },
+    {
+      "id": "SPECIFIC_SIZE_enum",
+      "type": "EnumValue",
+      "label": "SPECIFIC_SIZE",
+      "properties": {
+        "value": 1,
+        "description": "User specified texture size"
+      }
+    },
+    {
+      "id": "NO_HIDE_enum",
+      "type": "EnumValue",
+      "label": "NO_HIDE",
+      "properties": {
+        "value": 0,
+        "description": "Do not hide the Actors of the Level"
+      }
+    },
+    {
+      "id": "HIDE_UNLESS_REUSE_enum",
+      "type": "EnumValue",
+      "label": "HIDE_UNLESS_REUSE",
+      "properties": {
+        "value": 1,
+        "description": "Hide Level's Actors unless it's re-used"
+      }
+    },
+    {
+      "id": "ALWAYS_HIDE_enum",
+      "type": "EnumValue",
+      "label": "ALWAYS_HIDE",
+      "properties": {
+        "value": 2,
+        "description": "Always hide Level's Actors even if re-used"
+      }
+    },
+    {
+      "id": "InputMappingContext",
+      "type": "Type",
+      "label": "InputMappingContext"
+    },
+    {
+      "id": "PlayerMappableKeySlotData",
+      "type": "Type",
+      "label": "PlayerMappableKeySlotData"
+    },
+    {
+      "id": "EnhancedActionKeyMapping",
+      "type": "Type",
+      "label": "EnhancedActionKeyMapping"
+    },
+    {
+      "id": "PlayerMappableKeySettings",
+      "type": "Type",
+      "label": "PlayerMappableKeySettings"
+    },
+    {
+      "id": "GeoLayerAPI",
+      "type": "Type",
+      "label": "GeoLayerAPI"
+    },
+    {
+      "id": "ControlRig",
+      "type": "Type",
+      "label": "ControlRig"
+    },
+    {
+      "id": "AvaBooleanMode",
+      "type": "Type",
+      "label": "AvaBooleanMode"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "Type",
+      "label": "RigElementKey"
+    }
+  ],
+  "edges": [
+    {
+      "source": "MaterialExpressionParameter",
+      "target": "MaterialExpression",
+      "label": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionParameter",
+      "target": "Engine",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "MaterialExpressionParameter",
+      "target": "desc_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "MaterialExpressionParameter",
+      "target": "group_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "MaterialExpressionParameter",
+      "target": "parameter_name_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "EnhancedInputLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "label": "inherits_from"
+    },
+    {
+      "source": "EnhancedInputLibrary",
+      "target": "EnhancedInput",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "EnhancedInputLibrary",
+      "target": "EnhancedInput_Plugin",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "EnhancedInputLibrary",
+      "target": "request_rebuild_control_mappings_using_context",
+      "label": "has_method"
+    },
+    {
+      "source": "EnhancedInputLibrary",
+      "target": "is_action_key_mapping_player_mappable",
+      "label": "has_method"
+    },
+    {
+      "source": "EnhancedInputLibrary",
+      "target": "get_third_player_mappable_key_slot",
+      "label": "has_method"
+    },
+    {
+      "source": "request_rebuild_control_mappings_using_context",
+      "target": "InputMappingContext",
+      "label": "accepts_parameter"
+    },
+    {
+      "source": "is_action_key_mapping_player_mappable",
+      "target": "EnhancedActionKeyMapping",
+      "label": "accepts_parameter"
+    },
+    {
+      "source": "get_third_player_mappable_key_slot",
+      "target": "PlayerMappableKeySlotData",
+      "label": "returns"
+    },
+    {
+      "source": "LidarPointCloudColorationMode",
+      "target": "LidarPointCloudRuntime",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "LidarPointCloudColorationMode",
+      "target": "LidarPointCloud",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "LidarPointCloudColorationMode",
+      "target": "NONE_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "LidarPointCloudColorationMode",
+      "target": "DATA_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "LidarPointCloudColorationMode",
+      "target": "ELEVATION_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "LidarPointCloudColorationMode",
+      "target": "CLASSIFICATION_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "AnimLayerControlRigObject",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "AnimLayerControlRigObject",
+      "target": "ControlRigEditor",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "AnimLayerControlRigObject",
+      "target": "ControlRig_Plugin",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "AnimLayerControlRigObject",
+      "target": "control_rig_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "AnimLayerControlRigObject",
+      "target": "control_names_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "control_rig_prop",
+      "target": "ControlRig",
+      "label": "has_type"
+    },
+    {
+      "source": "TextureRenderTargetCube",
+      "target": "TextureRenderTarget",
+      "label": "inherits_from"
+    },
+    {
+      "source": "TextureRenderTargetCube",
+      "target": "Engine",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "TextureRenderTargetCube",
+      "target": "size_x_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "TextureRenderTargetCube",
+      "target": "hdr_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "RigOrConnectionRule",
+      "target": "RigConnectionRule",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigOrConnectionRule",
+      "target": "ControlRig",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "RigOrConnectionRule",
+      "target": "ControlRig_Plugin",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "RigOrConnectionRule",
+      "target": "child_rules_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "GeoLayerBlueLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "label": "inherits_from"
+    },
+    {
+      "source": "GeoLayerBlueLibrary",
+      "target": "MagicGISAPI",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "GeoLayerBlueLibrary",
+      "target": "GISDataAPI",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "GeoLayerBlueLibrary",
+      "target": "get_geo_layer_api_object",
+      "label": "has_method"
+    },
+    {
+      "source": "get_geo_layer_api_object",
+      "target": "GeoLayerAPI",
+      "label": "returns"
+    },
+    {
+      "source": "EditableGameplayTagQueryExpression_AllTagsMatch",
+      "target": "EditableGameplayTagQueryExpression",
+      "label": "inherits_from"
+    },
+    {
+      "source": "EditableGameplayTagQueryExpression_AllTagsMatch",
+      "target": "GameplayTags",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "EditableGameplayTagQueryExpression_AllTagsMatch",
+      "target": "tags_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "RigUnit_RotationConstraintLocalSpaceOffset",
+      "target": "RigUnit_HighlevelBaseMutable",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigUnit_RotationConstraintLocalSpaceOffset",
+      "target": "ControlRig",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "RigUnit_RotationConstraintLocalSpaceOffset",
+      "target": "ControlRig_Plugin",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "RigUnit_RotationConstraintLocalSpaceOffset",
+      "target": "child_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "child_prop",
+      "target": "RigElementKey",
+      "label": "has_type"
+    },
+    {
+      "source": "NavigableConvexDecompositionOptions",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "NavigableConvexDecompositionOptions",
+      "target": "GeometryScriptingCore",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "NavigableConvexDecompositionOptions",
+      "target": "GeometryScripting",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "NavigableConvexDecompositionOptions",
+      "target": "min_radius_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "NavigableConvexDecompositionOptions",
+      "target": "tolerance_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "ApplyRootMotionMoveToForceDelegate",
+      "target": "MulticastDelegateBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "ApplyRootMotionMoveToForceDelegate",
+      "target": "GameplayAbilities",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "ApplyRootMotionMoveToForceDelegate",
+      "target": "GameplayAbilities_Plugin",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "MediaSource",
+      "target": "Object",
+      "label": "inherits_from"
+    },
+    {
+      "source": "MediaSource",
+      "target": "MediaAssets",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "MediaSource",
+      "target": "validate",
+      "label": "has_method"
+    },
+    {
+      "source": "MediaSource",
+      "target": "get_url",
+      "label": "has_method"
+    },
+    {
+      "source": "SplineDeformType",
+      "target": "AesAsset",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "SplineDeformType",
+      "target": "AesWorld",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "SplineDeformType",
+      "target": "LINEAR_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "SplineDeformType",
+      "target": "CURVE_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "AvaBooleanModifier",
+      "target": "AvaGeometryBaseModifier",
+      "label": "inherits_from"
+    },
+    {
+      "source": "AvaBooleanModifier",
+      "target": "AvalancheModifiers",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "AvaBooleanModifier",
+      "target": "Avalanche",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "AvaBooleanModifier",
+      "target": "channel_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "AvaBooleanModifier",
+      "target": "mode_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "AvaBooleanModifier",
+      "target": "set_mode",
+      "label": "has_method"
+    },
+    {
+      "source": "AvaBooleanModifier",
+      "target": "get_mode",
+      "label": "has_method"
+    },
+    {
+      "source": "set_mode",
+      "target": "AvaBooleanMode",
+      "label": "accepts_parameter"
+    },
+    {
+      "source": "get_mode",
+      "target": "AvaBooleanMode",
+      "label": "returns"
+    },
+    {
+      "source": "PCGBadOutputsNodeSettings",
+      "target": "PCGSettings",
+      "label": "inherits_from"
+    },
+    {
+      "source": "PCGBadOutputsNodeSettings",
+      "target": "PCG",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "PCGBadOutputsNodeSettings",
+      "target": "PCG_Plugin",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "ControlRigRigHierarchyDragAndDropContext",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "ControlRigRigHierarchyDragAndDropContext",
+      "target": "ControlRigEditor",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "ControlRigRigHierarchyDragAndDropContext",
+      "target": "ControlRig_Plugin",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "ControlRigRigHierarchyDragAndDropContext",
+      "target": "dragged_element_keys_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "DetectionTechnique",
+      "target": "AnimationModifierLibrary",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "DetectionTechnique",
+      "target": "AnimationModifierLibrary_Plugin",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "DetectionTechnique",
+      "target": "PASS_THROUGH_REFERENCE_BONE_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "DetectionTechnique",
+      "target": "FOOT_BONE_REACHES_GROUND_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "DetectionTechnique",
+      "target": "FOOT_BONE_SPEED_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "ContentBrowserDataPackageFilter",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "ContentBrowserDataPackageFilter",
+      "target": "ContentBrowserData",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "ContentBrowserDataPackageFilter",
+      "target": "package_names_to_include_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "GizmoRectangleComponent",
+      "target": "GizmoBaseComponent",
+      "label": "inherits_from"
+    },
+    {
+      "source": "GizmoRectangleComponent",
+      "target": "InteractiveToolsFramework",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "GizmoRectangleComponent",
+      "target": "color_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "GizmoRectangleComponent",
+      "target": "direction_x_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "LandscapeHLODTextureSizePolicy",
+      "target": "Landscape",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "LandscapeHLODTextureSizePolicy",
+      "target": "AUTOMATIC_SIZE_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "LandscapeHLODTextureSizePolicy",
+      "target": "SPECIFIC_SIZE_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "AesEditorRoadModifyStyle",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "AesEditorRoadModifyStyle",
+      "target": "AesEditorMode",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "AesEditorRoadModifyStyle",
+      "target": "AesWorld",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "AesEditorRoadModifyStyle",
+      "target": "disable_edge_color_prop",
+      "label": "has_property"
+    },
+    {
+      "source": "AvaTransitionLevelHideMode",
+      "target": "AvalancheTransition",
+      "label": "belongs_to_module"
+    },
+    {
+      "source": "AvaTransitionLevelHideMode",
+      "target": "Avalanche",
+      "label": "belongs_to_plugin"
+    },
+    {
+      "source": "AvaTransitionLevelHideMode",
+      "target": "NO_HIDE_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "AvaTransitionLevelHideMode",
+      "target": "HIDE_UNLESS_REUSE_enum",
+      "label": "has_enum_value"
+    },
+    {
+      "source": "AvaTransitionLevelHideMode",
+      "target": "ALWAYS_HIDE_enum",
+      "label": "has_enum_value"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_1",
+      "nodes": [
+        "MaterialExpressionParameter",
+        "MaterialExpression",
+        "Engine",
+        "MaterialExpressionParameter.h"
+      ],
+      "label": "class_hierarchy_with_source",
+      "properties": {
+        "description": "MaterialExpressionParameter inherits from MaterialExpression, belongs to Engine module, defined in MaterialExpressionParameter.h"
+      }
+    },
+    {
+      "id": "he_2",
+      "nodes": [
+        "EnhancedInputLibrary",
+        "BlueprintFunctionLibrary",
+        "EnhancedInput",
+        "EnhancedInput_Plugin"
+      ],
+      "label": "plugin_class_hierarchy",
+      "properties": {
+        "description": "EnhancedInputLibrary is part of EnhancedInput plugin ecosystem"
+      }
+    },
+    {
+      "id": "he_3",
+      "nodes": [
+        "LidarPointCloudColorationMode",
+        "NONE_enum",
+        "DATA_enum",
+        "ELEVATION_enum",
+        "CLASSIFICATION_enum"
+      ],
+      "label": "enum_with_values",
+      "properties": {
+        "description": "LidarPointCloudColorationMode enumeration defining point cloud coloration modes"
+      }
+    },
+    {
+      "id": "he_4",
+      "nodes": [
+        "AnimLayerControlRigObject",
+        "ControlRig",
+        "control_rig_prop",
+        "control_names_prop"
+      ],
+      "label": "struct_with_control_rig_reference",
+      "properties": {
+        "description": "AnimLayerControlRigObject holds ControlRig reference and control names"
+      }
+    },
+    {
+      "id": "he_5",
+      "nodes": [
+        "TextureRenderTargetCube",
+        "TextureRenderTarget",
+        "size_x_prop",
+        "hdr_prop",
+        "auto_generate_mips"
+      ],
+      "label": "render_target_configuration",
+      "properties": {
+        "description": "TextureRenderTargetCube configuration properties for cube render targets"
+      }
+    },
+    {
+      "id": "he_6",
+      "nodes": [
+        "GeoLayerBlueLibrary",
+        "get_geo_layer_api_object",
+        "GeoLayerAPI"
+      ],
+      "label": "api_accessor_pattern",
+      "properties": {
+        "description": "GeoLayerBlueLibrary provides access to GeoLayerAPI singleton"
+      }
+    },
+    {
+      "id": "he_7",
+      "nodes": [
+        "EditableGameplayTagQueryExpression_AllTagsMatch",
+        "EditableGameplayTagQueryExpression",
+        "tags_prop"
+      ],
+      "label": "gameplay_tag_query_expression",
+      "properties": {
+        "description": "Expression for matching all gameplay tags in a query"
+      }
+    },
+    {
+      "id": "he_8",
+      "nodes": [
+        "RigUnit_RotationConstraintLocalSpaceOffset",
+        "RigUnit_HighlevelBaseMutable",
+        "child_prop",
+        "RigElementKey"
+      ],
+      "label": "rig_unit_constraint",
+      "properties": {
+        "description": "RigUnit for constraining rotation with child element reference"
+      }
+    },
+    {
+      "id": "he_9",
+      "nodes": [
+        "NavigableConvexDecompositionOptions",
+        "min_radius_prop",
+        "tolerance_prop",
+        "GeometryScripting"
+      ],
+      "label": "geometry_processing_options",
+      "properties": {
+        "description": "Options for convex decomposition in geometry scripting"
+      }
+    },
+    {
+      "id": "he_10",
+      "nodes": [
+        "MediaSource",
+        "validate",
+        "get_url",
+        "MediaAssets"
+      ],
+      "label": "media_source_interface",
+      "properties": {
+        "description": "MediaSource abstract interface for media playback"
+      }
+    },
+    {
+      "id": "he_11",
+      "nodes": [
+        "SplineDeformType",
+        "LINEAR_enum",
+        "CURVE_enum",
+        "AesWorld"
+      ],
+      "label": "spline_deformation_types",
+      "properties": {
+        "description": "Spline deformation types for AesWorld plugin"
+      }
+    },
+    {
+      "id": "he_12",
+      "nodes": [
+        "AvaBooleanModifier",
+        "AvaGeometryBaseModifier",
+        "set_mode",
+        "get_mode",
+        "AvaBooleanMode"
+      ],
+      "label": "modifier_with_mode",
+      "properties": {
+        "description": "Avalanche boolean modifier with mode control"
+      }
+    },
+    {
+      "id": "he_13",
+      "nodes": [
+        "PCGBadOutputsNodeSettings",
+        "PCGSettings",
+        "PCG_Plugin"
+      ],
+      "label": "pcg_test_node",
+      "properties": {
+        "description": "PCG test node for writing bad outputs"
+      }
+    },
+    {
+      "id": "he_14",
+      "nodes": [
+        "ControlRigRigHierarchyDragAndDropContext",
+        "dragged_element_keys_prop",
+        "RigElementKey",
+        "ControlRig_Plugin"
+      ],
+      "label": "drag_drop_context",
+      "properties": {
+        "description": "Context for ControlRig hierarchy drag and drop operations"
+      }
+    },
+    {
+      "id": "he_15",
+      "nodes": [
+        "DetectionTechnique",
+        "PASS_THROUGH_REFERENCE_BONE_enum",
+        "FOOT_BONE_REACHES_GROUND_enum",
+        "FOOT_BONE_SPEED_enum"
+      ],
+      "label": "footstep_detection_methods",
+      "properties": {
+        "description": "Detection techniques for footstep animation events"
+      }
+    },
+    {
+      "id": "he_16",
+      "nodes": [
+        "ContentBrowserDataPackageFilter",
+        "package_names_to_include_prop",
+        "ContentBrowserData"
+      ],
+      "label": "content_browser_filter",
+      "properties": {
+        "description": "Filter for content browser package queries"
+      }
+    },
+    {
+      "id": "he_17",
+      "nodes": [
+        "GizmoRectangleComponent",
+        "GizmoBaseComponent",
+        "color_prop",
+        "direction_x_prop"
+      ],
+      "label": "gizmo_visual_component",
+      "properties": {
+        "description": "Rectangle gizmo component with color and direction properties"
+      }
+    },
+    {
+      "id": "he_18",
+      "nodes": [
+        "LandscapeHLODTextureSizePolicy",
+        "AUTOMATIC_SIZE_enum",
+        "SPECIFIC_SIZE_enum",
+        "Landscape"
+      ],
+      "label": "landscape_hlod_policy",
+      "properties": {
+        "description": "HLOD texture size policies for landscape rendering"
+      }
+    },
+    {
+      "id": "he_19",
+      "nodes": [
+        "AesEditorRoadModifyStyle",
+        "disable_edge_color_prop",
+        "AesWorld",
+        "AesEditorMode"
+      ],
+      "label": "editor_road_style",
+      "properties": {
+        "description": "Road modification style settings for AesWorld editor"
+      }
+    },
+    {
+      "id": "he_20",
+      "nodes": [
+        "AvaTransitionLevelHideMode",
+        "NO_HIDE_enum",
+        "HIDE_UNLESS_REUSE_enum",
+        "ALWAYS_HIDE_enum",
+        "Avalanche"
+      ],
+      "label": "transition_hide_modes",
+      "properties": {
+        "description": "Level hide modes for Avalanche transition system"
+      }
+    },
+    {
+      "id": "he_21",
+      "nodes": [
+        "EnhancedInputLibrary",
+        "request_rebuild_control_mappings_using_context",
+        "InputMappingContext",
+        "PlayerMappableKeySlotData"
+      ],
+      "label": "input_mapping_workflow",
+      "properties": {
+        "description": "EnhancedInput workflow for rebuilding control mappings"
+      }
+    },
+    {
+      "id": "he_22",
+      "nodes": [
+        "ApplyRootMotionMoveToForceDelegate",
+        "MulticastDelegateBase",
+        "GameplayAbilities_Plugin"
+      ],
+      "label": "ability_task_delegate",
+      "properties": {
+        "description": "Delegate for root motion ability tasks"
+      }
+    }
+  ]
+}

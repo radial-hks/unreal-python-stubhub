@@ -1,0 +1,669 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_MathTransformArrayToSRT",
+      "type": "class",
+      "label": "RigUnit_MathTransformArrayToSRT",
+      "deprecated": true,
+      "deprecation_message": "'RigUnit_MathTransformArrayToSRT' was renamed to 'RigVMFunction_MathTransformArrayToSRT'",
+      "properties": ["transforms", "translations", "rotations", "scales"]
+    },
+    {
+      "id": "RigVMFunction_MathTransformArrayToSRT",
+      "type": "class",
+      "label": "RigVMFunction_MathTransformArrayToSRT"
+    },
+    {
+      "id": "FZBH",
+      "type": "class",
+      "label": "FZBH",
+      "module": "FZBH_SJ202309110001",
+      "file": "FZBH.h",
+      "properties": [
+        "actor_guid", "actor_instance_guid", "allow_tick_before_begin_play",
+        "always_relevant", "async_physics_tick_enabled", "auto_destroy_when_finished",
+        "auto_receive_input", "block_input", "call_pre_replication",
+        "call_pre_replication_for_replay", "can_be_damaged", "can_be_in_cluster",
+        "content_bundle_guid", "custom_time_dilation", "data_layer_assets",
+        "data_layers", "default_update_overlaps_method_during_level_streaming",
+        "enable_auto_lod_generation", "external_data_layer_asset",
+        "find_camera_component_when_view_target", "generate_overlap_events_during_level_streaming",
+        "hidden", "hlod_layer", "ignores_origin_shifting", "initial_life_span",
+        "input_priority", "instigator", "is_editor_only_actor", "is_main_world_only",
+        "is_spatially_loaded", "layers", "min_net_update_frequency",
+        "net_cull_distance_squared", "net_dormancy", "net_load_on_client",
+        "net_priority", "net_update_frequency", "net_use_owner_relevancy",
+        "on_actor_begin_overlap", "on_actor_end_overlap", "on_actor_hit",
+        "on_begin_cursor_over", "on_clicked", "on_destroyed", "on_end_cursor_over",
+        "on_end_play", "on_input_touch_begin", "on_input_touch_end",
+        "on_input_touch_enter", "on_input_touch_leave", "on_released",
+        "on_take_any_damage", "on_take_point_damage", "on_take_radial_damage",
+        "only_relevant_to_owner", "optimize_bp_component_data", "physics_replication_mode",
+        "pivot_offset", "primary_actor_tick", "relevant_for_level_bounds",
+        "remote_role", "replay_rewindable", "replicate_movement",
+        "replicate_using_registered_sub_object_list", "replicated_movement",
+        "replicates", "role", "root_component", "runtime_grid",
+        "spawn_collision_handling_method", "sprite_scale", "tags",
+        "update_overlaps_method_during_level_streaming"
+      ]
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor"
+    },
+    {
+      "id": "GameplayAbilitySpecContainer",
+      "type": "class",
+      "label": "GameplayAbilitySpecContainer",
+      "description": "Fast serializer wrapper for above struct",
+      "plugin": "GameplayAbilities",
+      "module": "GameplayAbilities",
+      "file": "GameplayAbilitySpec.h"
+    },
+    {
+      "id": "FastArraySerializer",
+      "type": "class",
+      "label": "FastArraySerializer"
+    },
+    {
+      "id": "RoadHeatMapData_Atom",
+      "type": "class",
+      "label": "RoadHeatMapData_Atom",
+      "plugin": "CoveringAPI",
+      "module": "CoveringAPIEntity",
+      "file": "RoadHeatMapEntityAtom.h",
+      "properties": ["point", "value"]
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "MaterialExpressionSubstrateEyeBSDF",
+      "type": "class",
+      "label": "MaterialExpressionSubstrateEyeBSDF",
+      "module": "Engine",
+      "file": "MaterialExpressionSubstrate.h",
+      "properties": ["desc", "material_expression_editor_x", "material_expression_editor_y", "subsurface_profile"]
+    },
+    {
+      "id": "MaterialExpressionSubstrateBSDF",
+      "type": "class",
+      "label": "MaterialExpressionSubstrateBSDF"
+    },
+    {
+      "id": "SubsurfaceProfile",
+      "type": "type",
+      "label": "SubsurfaceProfile"
+    },
+    {
+      "id": "EditorScriptingCreateProxyMeshActorOptions_Deprecated",
+      "type": "class",
+      "label": "EditorScriptingCreateProxyMeshActorOptions_Deprecated",
+      "plugin": "EditorScriptingUtilities",
+      "module": "EditorScriptingUtilities",
+      "file": "EditorLevelLibrary.h",
+      "properties": [
+        "base_package_name", "destroy_source_actors", "mesh_proxy_settings",
+        "new_actor_label", "rename_components_from_source", "spawn_merged_actor"
+      ]
+    },
+    {
+      "id": "EditorScriptingJoinStaticMeshActorsOptions_Deprecated",
+      "type": "class",
+      "label": "EditorScriptingJoinStaticMeshActorsOptions_Deprecated"
+    },
+    {
+      "id": "MeshProxySettings",
+      "type": "type",
+      "label": "MeshProxySettings"
+    },
+    {
+      "id": "CollisionEventSignature",
+      "type": "class",
+      "label": "CollisionEventSignature",
+      "module": "Engine",
+      "file": "ChaosEventRelay.h",
+      "description": "Collision Event Signature Delegate Signature",
+      "args": ["collision_events"]
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "CollisionChaosEvent",
+      "type": "type",
+      "label": "CollisionChaosEvent"
+    },
+    {
+      "id": "WidgetTimingPolicy",
+      "type": "enum",
+      "label": "WidgetTimingPolicy",
+      "module": "UMG",
+      "file": "WidgetComponent.h",
+      "values": [
+        {"name": "REAL_TIME", "value": 0, "description": "The widget will tick using real time. When not ticking, real time will accumulate and be simulated on the next tick."},
+        {"name": "GAME_TIME", "value": 1, "description": "The widget will tick using game time, respecting pausing and time dilation."}
+      ]
+    },
+    {
+      "id": "MoviePipelineShotConfig",
+      "type": "class",
+      "label": "MoviePipelineShotConfig",
+      "plugin": "MovieRenderPipeline",
+      "module": "MovieRenderPipelineCore",
+      "file": "MoviePipelineShotConfig.h",
+      "properties": ["settings"]
+    },
+    {
+      "id": "MoviePipelineConfigBase",
+      "type": "class",
+      "label": "MoviePipelineConfigBase"
+    },
+    {
+      "id": "MoviePipelineSetting",
+      "type": "type",
+      "label": "MoviePipelineSetting"
+    },
+    {
+      "id": "GeoLayerParams",
+      "type": "class",
+      "label": "GeoLayerParams",
+      "plugin": "GISDataAPI",
+      "module": "MagicGISCore",
+      "file": "MagicGISDefines.h",
+      "properties": ["service_layer_name", "feature_type", "need_gcj_offset", "batch_feature_num", "layer_height_offset"]
+    },
+    {
+      "id": "RigUnit_ItemBase",
+      "type": "class",
+      "label": "RigUnit_ItemBase",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_Item.h"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit"
+    },
+    {
+      "id": "GameplayTasksComponent",
+      "type": "class",
+      "label": "GameplayTasksComponent",
+      "description": "The core ActorComponent for interfacing with the GameplayAbilities System",
+      "module": "GameplayTasks",
+      "file": "GameplayTasksComponent.h",
+      "properties": [
+        "asset_user_data", "asset_user_data_editor_only", "auto_activate",
+        "can_ever_affect_navigation", "component_tags", "editable_when_inherited",
+        "is_editor_only", "on_claimed_resources_change", "on_component_activated",
+        "on_component_deactivated", "primary_component_tick",
+        "replicate_using_registered_sub_object_list", "replicates"
+      ],
+      "methods": ["run_gameplay_task"]
+    },
+    {
+      "id": "ActorComponent",
+      "type": "class",
+      "label": "ActorComponent"
+    },
+    {
+      "id": "RigUnit_MathVectorBase",
+      "type": "class",
+      "label": "RigUnit_MathVectorBase",
+      "deprecated": true,
+      "deprecation_message": "'RigUnit_MathVectorBase' was renamed to 'RigVMFunction_MathVectorBase'"
+    },
+    {
+      "id": "RigVMFunction_MathVectorBase",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorBase"
+    },
+    {
+      "id": "ContentBrowserItem",
+      "type": "class",
+      "label": "ContentBrowserItem",
+      "description": "Representation of a Content Browser item. FContentBrowserItem is potentially a composite of multiple internal items",
+      "module": "ContentBrowserData",
+      "file": "ContentBrowserItem.h",
+      "methods": ["is_folder", "is_file", "get_virtual_path", "get_display_name"]
+    },
+    {
+      "id": "GeometryScriptMeshBevelSelectionOptions",
+      "type": "class",
+      "label": "GeometryScriptMeshBevelSelectionOptions",
+      "plugin": "GeometryScripting",
+      "module": "GeometryScriptingCore",
+      "file": "MeshModelingFunctions.h",
+      "properties": ["bevel_distance", "infer_material_id", "set_material_id", "subdivisions", "round_weight"]
+    },
+    {
+      "id": "ToolMenuSectionAlign",
+      "type": "enum",
+      "label": "ToolMenuSectionAlign",
+      "module": "ToolMenus",
+      "file": "ToolMenuSection.h",
+      "values": [
+        {"name": "DEFAULT", "value": 0},
+        {"name": "FIRST", "value": 1},
+        {"name": "MIDDLE", "value": 2},
+        {"name": "LAST", "value": 3}
+      ]
+    },
+    {
+      "id": "MVVMBlueprintFunctionReference",
+      "type": "class",
+      "label": "MVVMBlueprintFunctionReference",
+      "description": "A type that point to a function or a node that can be used to create a conversion function",
+      "plugin": "ModelViewViewModel",
+      "module": "ModelViewViewModelBlueprint",
+      "file": "MVVMBlueprintFunctionReference.h",
+      "properties": ["function_reference", "node", "type"]
+    },
+    {
+      "id": "UrbanEntityVariableDescription",
+      "type": "class",
+      "label": "UrbanEntityVariableDescription",
+      "description": "Struct indicating a variable in the generated class",
+      "plugin": "AesBuilderCommon",
+      "module": "UrbanEntity",
+      "file": "UrbanEntityVariableDescription.h",
+      "properties": [
+        "category", "display_name", "is_advanced", "is_editable",
+        "is_repeated", "is_transit", "nested_var_types",
+        "sub_variabilization", "tool_tip", "var_name", "var_type"
+      ]
+    },
+    {
+      "id": "UrbanEntityVariableDescription_Base",
+      "type": "class",
+      "label": "UrbanEntityVariableDescription_Base"
+    },
+    {
+      "id": "UrbanEntityNestedVariableDescription",
+      "type": "type",
+      "label": "UrbanEntityNestedVariableDescription"
+    },
+    {
+      "id": "UrbanEntityVariableType",
+      "type": "type",
+      "label": "UrbanEntityVariableType"
+    },
+    {
+      "id": "RigVMMemoryStorage",
+      "type": "class",
+      "label": "RigVMMemoryStorage",
+      "description": "The URigVMMemoryStorage represents an instance of heterogeneous memory. The memory layout is defined by the URigVMMemoryStorageGeneratorClass",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMMemoryStorage.h"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "AnimNode_TwoWayBlend",
+      "type": "class",
+      "label": "AnimNode_TwoWayBlend",
+      "description": "This represents a baked transition",
+      "module": "AnimGraphRuntime",
+      "file": "AnimNode_TwoWayBlend.h",
+      "properties": [
+        "a", "b", "alpha_input_type", "alpha_bool_enabled", "alpha",
+        "alpha_scale_bias", "alpha_bool_blend", "alpha_curve_name",
+        "alpha_scale_bias_clamp", "reset_child_on_activation", "always_update_children"
+      ]
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "label": "AnimNode_Base"
+    },
+    {
+      "id": "PoseLink",
+      "type": "type",
+      "label": "PoseLink"
+    },
+    {
+      "id": "AnimAlphaInputType",
+      "type": "type",
+      "label": "AnimAlphaInputType"
+    },
+    {
+      "id": "InputScaleBias",
+      "type": "type",
+      "label": "InputScaleBias"
+    },
+    {
+      "id": "InputAlphaBoolBlend",
+      "type": "type",
+      "label": "InputAlphaBoolBlend"
+    },
+    {
+      "id": "InputScaleBiasClamp",
+      "type": "type",
+      "label": "InputScaleBiasClamp"
+    },
+    {
+      "id": "DataLayerStateType",
+      "type": "enum",
+      "label": "DataLayerStateType",
+      "module": "Engine",
+      "file": "DataLayer.h",
+      "values": [
+        {"name": "UNLOADED", "value": 0},
+        {"name": "LOADED", "value": 1},
+        {"name": "ACTIVATED", "value": 2}
+      ]
+    },
+    {
+      "id": "RigUnit_SetAnimationChannelBase",
+      "type": "class",
+      "label": "RigUnit_SetAnimationChannelBase",
+      "description": "Set Animation Channel is used to change a control's animation channel value",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_ControlChannel.h",
+      "properties": ["control", "channel", "initial", "execute_context"]
+    },
+    {
+      "id": "RigUnit_GetAnimationChannelBase",
+      "type": "class",
+      "label": "RigUnit_GetAnimationChannelBase"
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "type",
+      "label": "ControlRigExecuteContext"
+    }
+  ],
+  "edges": [
+    {
+      "source": "RigUnit_MathTransformArrayToSRT",
+      "target": "RigVMFunction_MathTransformArrayToSRT",
+      "type": "inherits_from",
+      "deprecated": true
+    },
+    {
+      "source": "FZBH",
+      "target": "Actor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GameplayAbilitySpecContainer",
+      "target": "FastArraySerializer",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RoadHeatMapData_Atom",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RoadHeatMapData_Atom",
+      "target": "Vector",
+      "type": "has_property",
+      "property_name": "point"
+    },
+    {
+      "source": "MaterialExpressionSubstrateEyeBSDF",
+      "target": "MaterialExpressionSubstrateBSDF",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionSubstrateEyeBSDF",
+      "target": "SubsurfaceProfile",
+      "type": "has_property",
+      "property_name": "subsurface_profile"
+    },
+    {
+      "source": "EditorScriptingCreateProxyMeshActorOptions_Deprecated",
+      "target": "EditorScriptingJoinStaticMeshActorsOptions_Deprecated",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EditorScriptingCreateProxyMeshActorOptions_Deprecated",
+      "target": "MeshProxySettings",
+      "type": "has_property",
+      "property_name": "mesh_proxy_settings"
+    },
+    {
+      "source": "CollisionEventSignature",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CollisionEventSignature",
+      "target": "CollisionChaosEvent",
+      "type": "has_parameter",
+      "parameter_name": "collision_events"
+    },
+    {
+      "source": "MoviePipelineShotConfig",
+      "target": "MoviePipelineConfigBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MoviePipelineShotConfig",
+      "target": "MoviePipelineSetting",
+      "type": "has_property",
+      "property_name": "settings"
+    },
+    {
+      "source": "RigUnit_ItemBase",
+      "target": "RigUnit",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GameplayTasksComponent",
+      "target": "ActorComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathVectorBase",
+      "target": "RigVMFunction_MathVectorBase",
+      "type": "inherits_from",
+      "deprecated": true
+    },
+    {
+      "source": "UrbanEntityVariableDescription",
+      "target": "UrbanEntityVariableDescription_Base",
+      "type": "inherits_from"
+    },
+    {
+      "source": "UrbanEntityVariableDescription",
+      "target": "UrbanEntityNestedVariableDescription",
+      "type": "has_property",
+      "property_name": "nested_var_types"
+    },
+    {
+      "source": "UrbanEntityVariableDescription",
+      "target": "UrbanEntityVariableType",
+      "type": "has_property",
+      "property_name": "var_type"
+    },
+    {
+      "source": "RigVMMemoryStorage",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "AnimNode_Base",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "PoseLink",
+      "type": "has_property",
+      "property_name": "a"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "PoseLink",
+      "type": "has_property",
+      "property_name": "b"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "AnimAlphaInputType",
+      "type": "has_property",
+      "property_name": "alpha_input_type"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "InputScaleBias",
+      "type": "has_property",
+      "property_name": "alpha_scale_bias"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "InputAlphaBoolBlend",
+      "type": "has_property",
+      "property_name": "alpha_bool_blend"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "InputScaleBiasClamp",
+      "type": "has_property",
+      "property_name": "alpha_scale_bias_clamp"
+    },
+    {
+      "source": "RigUnit_SetAnimationChannelBase",
+      "target": "RigUnit_GetAnimationChannelBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_SetAnimationChannelBase",
+      "target": "ControlRigExecuteContext",
+      "type": "has_property",
+      "property_name": "execute_context"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_unit_deprecations",
+      "type": "deprecation_group",
+      "label": "Deprecated RigUnit Classes",
+      "nodes": [
+        "RigUnit_MathTransformArrayToSRT",
+        "RigUnit_MathVectorBase"
+      ],
+      "description": "RigUnit classes that were renamed to RigVMFunction variants"
+    },
+    {
+      "id": "animation_system",
+      "type": "module_group",
+      "label": "Animation System Classes",
+      "nodes": [
+        "AnimNode_TwoWayBlend",
+        "RigUnit_ItemBase",
+        "RigUnit_SetAnimationChannelBase",
+        "RigUnit_MathTransformArrayToSRT",
+        "RigUnit_MathVectorBase"
+      ],
+      "description": "Classes related to animation and rigging systems"
+    },
+    {
+      "id": "gameplay_system",
+      "type": "module_group",
+      "label": "Gameplay System Classes",
+      "nodes": [
+        "GameplayAbilitySpecContainer",
+        "GameplayTasksComponent"
+      ],
+      "description": "Classes related to gameplay abilities and tasks"
+    },
+    {
+      "id": "editor_scripting",
+      "type": "module_group",
+      "label": "Editor Scripting Classes",
+      "nodes": [
+        "EditorScriptingCreateProxyMeshActorOptions_Deprecated",
+        "ContentBrowserItem"
+      ],
+      "description": "Classes for editor scripting and utilities"
+    },
+    {
+      "id": "geometry_mesh",
+      "type": "module_group",
+      "label": "Geometry and Mesh Classes",
+      "nodes": [
+        "GeometryScriptMeshBevelSelectionOptions"
+      ],
+      "description": "Classes for geometry scripting and mesh manipulation"
+    },
+    {
+      "id": "material_system",
+      "type": "module_group",
+      "label": "Material System Classes",
+      "nodes": [
+        "MaterialExpressionSubstrateEyeBSDF"
+      ],
+      "description": "Classes for material expressions and rendering"
+    },
+    {
+      "id": "movie_render",
+      "type": "module_group",
+      "label": "Movie Render Pipeline Classes",
+      "nodes": [
+        "MoviePipelineShotConfig"
+      ],
+      "description": "Classes for movie rendering pipeline"
+    },
+    {
+      "id": "unreal_enums",
+      "type": "category_group",
+      "label": "Enumeration Types",
+      "nodes": [
+        "WidgetTimingPolicy",
+        "ToolMenuSectionAlign",
+        "DataLayerStateType"
+      ],
+      "description": "Enum types in Unreal Engine"
+    },
+    {
+      "id": "delegate_types",
+      "type": "category_group",
+      "label": "Delegate Types",
+      "nodes": [
+        "CollisionEventSignature"
+      ],
+      "description": "Delegate and event signature types"
+    },
+    {
+      "id": "custom_actor_classes",
+      "type": "category_group",
+      "label": "Custom Actor Classes",
+      "nodes": [
+        "FZBH"
+      ],
+      "description": "Custom actor implementations"
+    },
+    {
+      "id": "data_structures",
+      "type": "category_group",
+      "label": "Data Structure Classes",
+      "nodes": [
+        "RoadHeatMapData_Atom",
+        "GeoLayerParams",
+        "MVVMBlueprintFunctionReference",
+        "UrbanEntityVariableDescription",
+        "RigVMMemoryStorage"
+      ],
+      "description": "Classes representing data structures and parameters"
+    }
+  ]
+}

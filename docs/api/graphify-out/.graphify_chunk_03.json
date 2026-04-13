@@ -1,0 +1,1002 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_modifybonetransforms_perbone",
+      "label": "RigUnit_ModifyBoneTransforms_PerBone",
+      "file_type": "document",
+      "source_file": "RigUnit__ModifyBoneTransforms__PerBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeysettings",
+      "label": "DisplayClusterConfigurationICVFX_ChromakeySettings",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioparametercontrollerinterface",
+      "label": "AudioParameterControllerInterface",
+      "file_type": "document",
+      "source_file": "AudioParameterControllerInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataconverttype",
+      "label": "DataConvertType",
+      "file_type": "document",
+      "source_file": "DataConvertType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmodelactiveparams",
+      "label": "DCPModelActiveParams",
+      "file_type": "document",
+      "source_file": "DCPModelActiveParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionscenecolor",
+      "label": "DMMaterialStageExpressionSceneColor",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionSceneColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdomextractorprefabalgorithm",
+      "label": "EarthDomExtractorPrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthDomExtractorPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quartzquantizationboundary",
+      "label": "QuartzQuantizationBoundary",
+      "file_type": "document",
+      "source_file": "QuartzQuantizationBoundary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getintanimationchannelfromitem",
+      "label": "RigUnit_GetIntAnimationChannelFromItem",
+      "file_type": "document",
+      "source_file": "RigUnit_GetIntAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringfind",
+      "label": "RigVMFunction_StringFind",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringFind Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testtypedelementinterfacea",
+      "label": "TestTypedElementInterfaceA",
+      "file_type": "document",
+      "source_file": "TestTypedElementInterfaceA Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakeupdateresult",
+      "label": "CameraShakeUpdateResult",
+      "file_type": "document",
+      "source_file": "CameraShakeUpdateResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraparameterstore",
+      "label": "NiagaraParameterStore",
+      "file_type": "document",
+      "source_file": "NiagaraParameterStore Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurveitemarray",
+      "label": "RigUnit_FitChainToCurveItemArray",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_posesearchbase",
+      "label": "AnimNotifyState_PoseSearchBase",
+      "file_type": "document",
+      "source_file": "AnimNotifyState_PoseSearchBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraplatformset",
+      "label": "NiagaraPlatformSet",
+      "file_type": "document",
+      "source_file": "NiagaraPlatformSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chinamapmigrationidparams",
+      "label": "ChinaMapMigrationIdParams",
+      "file_type": "document",
+      "source_file": "ChinaMapMigrationIdParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxanimationlengthimporttype",
+      "label": "FBXAnimationLengthImportType",
+      "file_type": "document",
+      "source_file": "FBXAnimationLengthImportType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangedirectionallightnode",
+      "label": "InterchangeDirectionalLightNode",
+      "file_type": "document",
+      "source_file": "InterchangeDirectionalLightNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aescsvitemtype",
+      "label": "AesCSVItemType",
+      "file_type": "document",
+      "source_file": "AesCSVItemType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotentrancelocationresult",
+      "label": "SmartObjectSlotEntranceLocationResult",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotEntranceLocationResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitdebugpointmode",
+      "label": "RigUnitDebugPointMode",
+      "file_type": "document",
+      "source_file": "RigUnitDebugPointMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RigUnit__ModifyBoneTransforms__PerBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eidparams",
+      "label": "EidParams",
+      "file_type": "document",
+      "source_file": "DCPModelActiveParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpression",
+      "label": "DMMaterialStageExpression",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionSceneColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtextureextractorprefabalgorithm",
+      "label": "EarthTextureExtractorPrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthDomExtractorPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelfromitembase",
+      "label": "RigUnit_GetAnimationChannelFromItemBase",
+      "file_type": "document",
+      "source_file": "RigUnit_GetIntAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringbase",
+      "label": "RigVMFunction_StringBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringFind Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakepatternupdateresult",
+      "label": "CameraShakePatternUpdateResult",
+      "file_type": "document",
+      "source_file": "CameraShakeUpdateResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate",
+      "label": "AnimNotifyState",
+      "file_type": "document",
+      "source_file": "AnimNotifyState_PoseSearchBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "ChinaMapMigrationIdParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangebaselightnode",
+      "label": "InterchangeBaseLightNode",
+      "file_type": "document",
+      "source_file": "InterchangeDirectionalLightNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_modifybonetransforms",
+      "label": "RigUnit_ModifyBoneTransforms",
+      "file_type": "document",
+      "source_file": "RigUnit__ModifyBoneTransforms__PerBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeyrenderSettings",
+      "label": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeymarkers",
+      "label": "DisplayClusterConfigurationICVFX_ChromakeyMarkers",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeysettingssource",
+      "label": "DisplayClusterConfigurationICVFX_ChromakeySettingsSource",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeytype",
+      "label": "DisplayClusterConfigurationICVFX_ChromakeyType",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioparameterinterface",
+      "label": "AudioParameterInterface",
+      "file_type": "document",
+      "source_file": "AudioParameterControllerInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quartzcommandquantization",
+      "label": "QuartzCommandQuantization",
+      "file_type": "document",
+      "source_file": "QuartzQuantizationBoundary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quarztquantizationreference",
+      "label": "QuarztQuantizationReference",
+      "file_type": "document",
+      "source_file": "QuartzQuantizationBoundary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfourpointbezier",
+      "label": "RigVMFourPointBezier",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigcurvealignment",
+      "label": "ControlRigCurveAlignment",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurve_debugsettings",
+      "label": "RigUnit_FitChainToCurve_DebugSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurve_rotation",
+      "label": "RigUnit_FitChainToCurve_Rotation",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmanimeasingtype",
+      "label": "RigVMAnimEasingType",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaravariable",
+      "label": "NiagaraVariable",
+      "file_type": "document",
+      "source_file": "NiagaraParameterStore Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotentrancehandle",
+      "label": "SmartObjectSlotEntranceHandle",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotEntranceLocationResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraplatformsetcvarcondition",
+      "label": "NiagaraPlatformSetCVarCondition",
+      "file_type": "document",
+      "source_file": "NiagaraPlatformSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradeviceprofilestateentry",
+      "label": "NiagaraDeviceProfileStateEntry",
+      "file_type": "document",
+      "source_file": "NiagaraPlatformSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testtypedelementinterfaceb",
+      "label": "TestTypedElementInterfaceB",
+      "file_type": "document",
+      "source_file": "TestTypedElementInterfaceA Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_modifybonetransforms_perbone",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ModifyBoneTransforms__PerBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_modifybonetransforms_perbone",
+      "target": "rigunit_modifybonetransforms",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ModifyBoneTransforms__PerBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeysettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeysettings",
+      "target": "displayclusterconfigurationicvfx_chromakeyrenderSettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeysettings",
+      "target": "displayclusterconfigurationicvfx_chromakeymarkers",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeysettings",
+      "target": "displayclusterconfigurationicvfx_chromakeysettingssource",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeysettings",
+      "target": "displayclusterconfigurationicvfx_chromakeytype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioparametercontrollerinterface",
+      "target": "audioparameterinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioParameterControllerInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmodelactiveparams",
+      "target": "eidparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPModelActiveParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionscenecolor",
+      "target": "dmmaterialstageexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionSceneColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdomextractorprefabalgorithm",
+      "target": "earthtextureextractorprefabalgorithm",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDomExtractorPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quartzquantizationboundary",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "QuartzQuantizationBoundary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quartzquantizationboundary",
+      "target": "quartzcommandquantization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "QuartzQuantizationBoundary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quartzquantizationboundary",
+      "target": "quarztquantizationreference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "QuartzQuantizationBoundary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getintanimationchannelfromitem",
+      "target": "rigunit_getanimationchannelfromitembase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetIntAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringfind",
+      "target": "rigvmfunction_stringbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringFind Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerashakeupdateresult",
+      "target": "camerashakepatternupdateresult",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraShakeUpdateResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraparameterstore",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraParameterStore Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraparameterstore",
+      "target": "niagaravariable",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraParameterStore Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray",
+      "target": "rigvmfourpointbezier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray",
+      "target": "controlrigcurvealignment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray",
+      "target": "rigunit_fitchaintocurve_debugsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray",
+      "target": "rigunit_fitchaintocurve_rotation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray",
+      "target": "rigvmanimeasingtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray",
+      "target": "rigunit_modifybonetransforms_perbone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_posesearchbase",
+      "target": "animnotifystate",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState_PoseSearchBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraplatformset",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPlatformSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraplatformset",
+      "target": "niagaraplatformsetcvarcondition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPlatformSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraplatformset",
+      "target": "niagaradeviceprofilestateentry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPlatformSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chinamapmigrationidparams",
+      "target": "paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChinaMapMigrationIdParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangedirectionallightnode",
+      "target": "interchangebaselightnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeDirectionalLightNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotentrancelocationresult",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotEntranceLocationResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotentrancelocationresult",
+      "target": "smartobjectslotentrancehandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotEntranceLocationResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "testtypedelementinterfacea",
+      "target": "testtypedelementinterfaceb",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TestTypedElementInterfaceA Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getintanimationchannelfromitem",
+      "target": "rigunit_modifybonetransforms_perbone",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_GetIntAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringfind",
+      "target": "rigunit_modifybonetransforms_perbone",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction_StringFind Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraparameterstore",
+      "target": "audioparametercontrollerinterface",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NiagaraParameterStore Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraplatformset",
+      "target": "niagaraparameterstore",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraPlatformSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigunit_controlrig_hierarchy",
+      "label": "ControlRig Hierarchy Operations",
+      "nodes": [
+        "rigunit_modifybonetransforms_perbone",
+        "rigunit_getintanimationchannelfromitem",
+        "rigunit_fitchaintocurveitemarray"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ModifyBoneTransforms__PerBone Objects.md"
+    },
+    {
+      "id": "niagara_system_architecture",
+      "label": "Niagara System Architecture Components",
+      "nodes": [
+        "niagaraparameterstore",
+        "niagaraplatformset"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraParameterStore Objects.md"
+    },
+    {
+      "id": "unreal_structbase_hierarchy",
+      "label": "StructBase-derived Data Structures",
+      "nodes": [
+        "rigunit_modifybonetransforms_perbone",
+        "displayclusterconfigurationicvfx_chromakeysettings",
+        "quartzquantizationboundary",
+        "niagaraparameterstore",
+        "niagaraplatformset",
+        "smartobjectslotentrancelocationresult"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ModifyBoneTransforms__PerBone Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

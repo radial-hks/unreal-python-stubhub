@@ -1,0 +1,1034 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathdoubleconstant_rigvmfunction_mathdoubleconstant",
+      "label": "RigVMFunction_MathDoubleConstant",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleconstant_rigvmfunction_mathdoublebase",
+      "label": "RigVMFunction_MathDoubleBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmbindingmode_mvvmbindingmode",
+      "label": "MVVMBindingMode",
+      "file_type": "code",
+      "source_file": "MVVMBindingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode__skeletalcontrolbase_animgraphnode__skeletalcontrolbase",
+      "label": "AnimGraphNode_SkeletalControlBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SkeletalControlBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode__skeletalcontrolbase_animgraphnode_base",
+      "label": "AnimGraphNode_Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SkeletalControlBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode__skeletalcontrolbase_fanimnode_skeletalcontrolbase",
+      "label": "FAnimNode_SkeletalControlBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SkeletalControlBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tagcollectionmodifiercomponent_tagcollectionmodifiercomponent",
+      "label": "TagCollectionModifierComponent",
+      "file_type": "code",
+      "source_file": "TagCollectionModifierComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tagcollectionmodifiercomponent_actormodifiercorecomponent",
+      "label": "ActorModifierCoreComponent",
+      "file_type": "code",
+      "source_file": "TagCollectionModifierComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpletargetingselectiontask_simpletargetingselectiontask",
+      "label": "SimpleTargetingSelectionTask",
+      "file_type": "code",
+      "source_file": "SimpleTargetingSelectionTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpletargetingselectiontask_targetingtask",
+      "label": "TargetingTask",
+      "file_type": "code",
+      "source_file": "SimpleTargetingSelectionTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__poseisempty_rigunit__poseisempty",
+      "label": "RigUnit_PoseIsEmpty",
+      "file_type": "code",
+      "source_file": "RigUnit__PoseIsEmpty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__poseisempty_rigunit_hierarchybase",
+      "label": "RigUnit_HierarchyBase",
+      "file_type": "code",
+      "source_file": "RigUnit__PoseIsEmpty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__poseisempty_rigpose",
+      "label": "RigPose",
+      "file_type": "code",
+      "source_file": "RigUnit__PoseIsEmpty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigskeletalmeshcomponent_controlrigskeletalmeshcomponent",
+      "label": "ControlRigSkeletalMeshComponent",
+      "file_type": "code",
+      "source_file": "ControlRigSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigskeletalmeshcomponent_debugskelmeshcomponent",
+      "label": "DebugSkelMeshComponent",
+      "file_type": "code",
+      "source_file": "ControlRigSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigskeletalmeshcomponent_skeletal_mesh",
+      "label": "SkeletalMesh",
+      "file_type": "code",
+      "source_file": "ControlRigSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigskeletalmeshcomponent_physics_asset",
+      "label": "PhysicsAsset",
+      "file_type": "code",
+      "source_file": "ControlRigSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingprefabtype_aesbuildingprefabtype",
+      "label": "AesBuildingPrefabType",
+      "file_type": "code",
+      "source_file": "AesBuildingPrefabType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangefactoryassettype_interchangefactoryassettype",
+      "label": "InterchangeFactoryAssetType",
+      "file_type": "code",
+      "source_file": "InterchangeFactoryAssetType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolbinaryop_rigunit_mathboolbinaryop",
+      "label": "RigUnit_MathBoolBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBoolBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolbinaryop_rigvmfunction_mathboolbinaryop",
+      "label": "RigVMFunction_MathBoolBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBoolBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecamerashakesourcetriggertrack_moviescenecamerashakesourcetriggertrack",
+      "label": "MovieSceneCameraShakeSourceTriggerTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneCameraShakeSourceTriggerTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecamerashakesourcetriggertrack_moviescenetrack",
+      "label": "MovieSceneTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneCameraShakeSourceTriggerTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "swaprootbone_swaprootbone",
+      "label": "SwapRootBone",
+      "file_type": "code",
+      "source_file": "SwapRootBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncactionloadprimaryassetclasslist_asyncactionloadprimaryassetclasslist",
+      "label": "AsyncActionLoadPrimaryAssetClassList",
+      "file_type": "code",
+      "source_file": "AsyncActionLoadPrimaryAssetClassList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncactionloadprimaryassetclasslist_asyncactionloadprimaryassetbase",
+      "label": "AsyncActionLoadPrimaryAssetBase",
+      "file_type": "code",
+      "source_file": "AsyncActionLoadPrimaryAssetClassList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptiterativemeshsmoothingoptions_geometryscriptiterativemeshsmoothingoptions",
+      "label": "GeometryScriptIterativeMeshSmoothingOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptIterativeMeshSmoothingOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptiterativemeshsmoothingoptions_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "GeometryScriptIterativeMeshSmoothingOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptiterativemeshsmoothingoptions_geometryscriptemptyselectionbehavior",
+      "label": "GeometryScriptEmptySelectionBehavior",
+      "file_type": "code",
+      "source_file": "GeometryScriptIterativeMeshSmoothingOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__volumebake_geometryscript__volumebake",
+      "label": "GeometryScript_VolumeBake",
+      "file_type": "code",
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__volumebake_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__volumebake_dynamicmesh",
+      "label": "DynamicMesh",
+      "file_type": "code",
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__volumebake_volumetexture",
+      "label": "VolumeTexture",
+      "file_type": "code",
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__volumebake_computedistancefieldsettings",
+      "label": "ComputeDistanceFieldSettings",
+      "file_type": "code",
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__volumebake_distancefieldtotexturesettings",
+      "label": "DistanceFieldToTextureSettings",
+      "file_type": "code",
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerarigasset_camerarigasset",
+      "label": "CameraRigAsset",
+      "file_type": "code",
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerarigasset_object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerarigasset_gameplaytagcontainer",
+      "label": "GameplayTagContainer",
+      "file_type": "code",
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerarigasset_gameplaytag",
+      "label": "GameplayTag",
+      "file_type": "code",
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerarigasset_camerariginitialorientation",
+      "label": "CameraRigInitialOrientation",
+      "file_type": "code",
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveremapop_curveremapop",
+      "label": "CurveRemapOp",
+      "file_type": "code",
+      "source_file": "CurveRemapOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveremapop_retargetopbase",
+      "label": "RetargetOpBase",
+      "file_type": "code",
+      "source_file": "CurveRemapOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveremapop_curveremappair",
+      "label": "CurveRemapPair",
+      "file_type": "code",
+      "source_file": "CurveRemapOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolsproxybool_animdetailcontrolsproxybool",
+      "label": "AnimDetailControlsProxyBool",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolsproxybool_animdetailcontrolskeyedproxy",
+      "label": "AnimDetailControlsKeyedProxy",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolsproxybool_animdetailproxybool",
+      "label": "AnimDetailProxyBool",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groupactor_groupactor",
+      "label": "GroupActor",
+      "file_type": "code",
+      "source_file": "GroupActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groupactor_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "GroupActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massrepresentationparameters_massrepresentationparameters",
+      "label": "MassRepresentationParameters",
+      "file_type": "code",
+      "source_file": "MassRepresentationParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massrepresentationparameters_massconstsharedfragment",
+      "label": "MassConstSharedFragment",
+      "file_type": "code",
+      "source_file": "MassRepresentationParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massrepresentationparameters_massrepresentationtype",
+      "label": "MassRepresentationType",
+      "file_type": "code",
+      "source_file": "MassRepresentationParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapecubedynamicmesh_avashapecubedynamicmesh",
+      "label": "AvaShapeCubeDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaShapeCubeDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapecubedynamicmesh_avashape3ddynmeshbase",
+      "label": "AvaShape3DDynMeshBase",
+      "file_type": "code",
+      "source_file": "AvaShapeCubeDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustereyestereooffset_displayclustereyestereooffset",
+      "label": "DisplayClusterEyeStereoOffset",
+      "file_type": "code",
+      "source_file": "DisplayClusterEyeStereoOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathdoubleconstant_rigvmfunction_mathdoubleconstant",
+      "target": "rigvmfunction_mathdoubleconstant_rigvmfunction_mathdoublebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleConstant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode__skeletalcontrolbase_animgraphnode__skeletalcontrolbase",
+      "target": "animgraphnode__skeletalcontrolbase_animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SkeletalControlBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode__skeletalcontrolbase_animgraphnode__skeletalcontrolbase",
+      "target": "animgraphnode__skeletalcontrolbase_fanimnode_skeletalcontrolbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SkeletalControlBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tagcollectionmodifiercomponent_tagcollectionmodifiercomponent",
+      "target": "tagcollectionmodifiercomponent_actormodifiercorecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TagCollectionModifierComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "simpletargetingselectiontask_simpletargetingselectiontask",
+      "target": "simpletargetingselectiontask_targetingtask",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SimpleTargetingSelectionTask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__poseisempty_rigunit__poseisempty",
+      "target": "rigunit__poseisempty_rigunit_hierarchybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PoseIsEmpty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__poseisempty_rigunit__poseisempty",
+      "target": "rigunit__poseisempty_rigpose",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PoseIsEmpty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigskeletalmeshcomponent_controlrigskeletalmeshcomponent",
+      "target": "controlrigskeletalmeshcomponent_debugskelmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigskeletalmeshcomponent_controlrigskeletalmeshcomponent",
+      "target": "controlrigskeletalmeshcomponent_skeletal_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigskeletalmeshcomponent_controlrigskeletalmeshcomponent",
+      "target": "controlrigskeletalmeshcomponent_physics_asset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolbinaryop_rigunit_mathboolbinaryop",
+      "target": "rigunit_mathboolbinaryop_rigvmfunction_mathboolbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathBoolBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecamerashakesourcetriggertrack_moviescenecamerashakesourcetriggertrack",
+      "target": "moviescenecamerashakesourcetriggertrack_moviescenetrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCameraShakeSourceTriggerTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncactionloadprimaryassetclasslist_asyncactionloadprimaryassetclasslist",
+      "target": "asyncactionloadprimaryassetclasslist_asyncactionloadprimaryassetbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AsyncActionLoadPrimaryAssetClassList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptiterativemeshsmoothingoptions_geometryscriptiterativemeshsmoothingoptions",
+      "target": "geometryscriptiterativemeshsmoothingoptions_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptIterativeMeshSmoothingOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptiterativemeshsmoothingoptions_geometryscriptiterativemeshsmoothingoptions",
+      "target": "geometryscriptiterativemeshsmoothingoptions_geometryscriptemptyselectionbehavior",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptIterativeMeshSmoothingOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__volumebake_geometryscript__volumebake",
+      "target": "geometryscript__volumebake_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__volumebake_geometryscript__volumebake",
+      "target": "geometryscript__volumebake_dynamicmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__volumebake_geometryscript__volumebake",
+      "target": "geometryscript__volumebake_volumetexture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__volumebake_geometryscript__volumebake",
+      "target": "geometryscript__volumebake_computedistancefieldsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__volumebake_geometryscript__volumebake",
+      "target": "geometryscript__volumebake_distancefieldtotexturesettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerarigasset_camerarigasset",
+      "target": "camerarigasset_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerarigasset_camerarigasset",
+      "target": "camerarigasset_gameplaytagcontainer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerarigasset_camerarigasset",
+      "target": "camerarigasset_gameplaytag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerarigasset_camerarigasset",
+      "target": "camerarigasset_camerariginitialorientation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveremapop_curveremapop",
+      "target": "curveremapop_retargetopbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveRemapOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveremapop_curveremapop",
+      "target": "curveremapop_curveremappair",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveRemapOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxybool_animdetailcontrolsproxybool",
+      "target": "animdetailcontrolsproxybool_animdetailcontrolskeyedproxy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxybool_animdetailcontrolsproxybool",
+      "target": "animdetailcontrolsproxybool_animdetailproxybool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groupactor_groupactor",
+      "target": "groupactor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroupActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massrepresentationparameters_massrepresentationparameters",
+      "target": "massrepresentationparameters_massconstsharedfragment",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassRepresentationParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massrepresentationparameters_massrepresentationparameters",
+      "target": "massrepresentationparameters_massrepresentationtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassRepresentationParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashapecubedynamicmesh_avashapecubedynamicmesh",
+      "target": "avashapecubedynamicmesh_avashape3ddynmeshbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShapeCubeDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleconstant_rigvmfunction_mathdoubleconstant",
+      "target": "rigunit_mathboolbinaryop_rigvmfunction_mathboolbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathDoubleConstant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "simpletargetingselectiontask_simpletargetingselectiontask",
+      "target": "groupactor_groupactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "SimpleTargetingSelectionTask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerarigasset_camerarigasset",
+      "target": "moviescenecamerashakesourcetriggertrack_moviescenecamerashakesourcetriggertrack",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CameraRigAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__poseisempty_rigunit__poseisempty",
+      "target": "controlrigskeletalmeshcomponent_controlrigskeletalmeshcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__PoseIsEmpty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript__volumebake_geometryscript__volumebake",
+      "target": "geometryscriptiterativemeshsmoothingoptions_geometryscriptiterativemeshsmoothingoptions",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScript__VolumeBake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxybool_animdetailcontrolsproxybool",
+      "target": "curveremapop_curveremapop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AnimDetailControlsProxyBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massrepresentationparameters_massrepresentationparameters",
+      "target": "avashapecubedynamicmesh_avashapecubedynamicmesh",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MassRepresentationParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations_group",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathdoubleconstant_rigvmfunction_mathdoubleconstant",
+        "rigunit_mathboolbinaryop_rigvmfunction_mathboolbinaryop",
+        "rigunit__poseisempty_rigunit__poseisempty"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathDoubleConstant Objects.md"
+    },
+    {
+      "id": "animation_rigging_system",
+      "label": "Animation Rigging System",
+      "nodes": [
+        "animgraphnode__skeletalcontrolbase_animgraphnode__skeletalcontrolbase",
+        "controlrigskeletalmeshcomponent_controlrigskeletalmeshcomponent",
+        "rigunit__poseisempty_rigunit__poseisempty",
+        "curveremapop_curveremapop"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__SkeletalControlBase Objects.md"
+    },
+    {
+      "id": "geometry_processing_tools",
+      "label": "Geometry Processing Tools",
+      "nodes": [
+        "geometryscript__volumebake_geometryscript__volumebake",
+        "geometryscriptiterativemeshsmoothingoptions_geometryscriptiterativemeshsmoothingoptions",
+        "avashapecubedynamicmesh_avashapecubedynamicmesh"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScript__VolumeBake Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

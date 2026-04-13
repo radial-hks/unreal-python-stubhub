@@ -1,0 +1,767 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathvectordiv_rigvmfunction_mathvectordiv",
+      "label": "RigVMFunction MathVectorDiv",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorDiv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectordiv_rigvmfunction_mathvectorbinaryop",
+      "label": "RigVMFunction MathVectorBinaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorDiv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayerrotationparams_geolayerrotationparams",
+      "label": "GeoLayerRotationParams",
+      "file_type": "document",
+      "source_file": "GeoLayerRotationParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayerrotationparams_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "GeoLayerRotationParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkcolorblock_uiframeworkcolorblock",
+      "label": "UIFrameworkColorBlock",
+      "file_type": "document",
+      "source_file": "UIFrameworkColorBlock Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkcolorblock_uiframeworkwidget",
+      "label": "UIFrameworkWidget",
+      "file_type": "document",
+      "source_file": "UIFrameworkColorBlock Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendcolorburn_dmmaterialstageblendcolorburn",
+      "label": "DMMaterialStageBlendColorBurn",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendColorBurn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendcolorburn_dmmaterialstageblendfunction",
+      "label": "DMMaterialStageBlendFunction",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendColorBurn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetranslatortype_interchangetranslatortype",
+      "label": "InterchangeTranslatorType",
+      "file_type": "document",
+      "source_file": "InterchangeTranslatorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenelivelinkcontrollermaptrackrecorder_moviescenelivelinkcontrollermaptrackrecorder",
+      "label": "MovieSceneLiveLinkControllerMapTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieSceneLiveLinkControllerMapTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenelivelinkcontrollermaptrackrecorder_moviescenetrackrecorder",
+      "label": "MovieSceneTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieSceneLiveLinkControllerMapTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadlaneassetinfo_aesroadlaneassetinfo",
+      "label": "AesRoadLaneAssetInfo",
+      "file_type": "document",
+      "source_file": "AesRoadLaneAssetInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadlaneassetinfo_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "AesRoadLaneAssetInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioeffectparameters_audioeffectparameters",
+      "label": "AudioEffectParameters",
+      "file_type": "document",
+      "source_file": "AudioEffectParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicshingeactor_physicshingeactor",
+      "label": "PhysicsHingeActor",
+      "file_type": "document",
+      "source_file": "PhysicsHingeActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicshingeactor_physicsconstraintactor",
+      "label": "PhysicsConstraintActor",
+      "file_type": "document",
+      "source_file": "PhysicsHingeActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshpayloadtype_interchangemeshpayloadtype",
+      "label": "InterchangeMeshPayLoadType",
+      "file_type": "document",
+      "source_file": "InterchangeMeshPayLoadType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubletoint_rigunit_mathdoubletoint",
+      "label": "RigUnit MathDoubleToInt",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleToInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubletoint_rigvmfunction_mathdoubletoint",
+      "label": "RigVMFunction MathDoubleToInt",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleToInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerastepmoveparams_camerastepmoveparams",
+      "label": "CameraStepMoveParams",
+      "file_type": "document",
+      "source_file": "CameraStepMoveParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenudynamicisactionbuttonvisible_toolmenudynamicisactionbuttonvisible",
+      "label": "ToolMenuDynamicIsActionButtonVisible",
+      "file_type": "document",
+      "source_file": "ToolMenuDynamicIsActionButtonVisible Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenudynamicisactionbuttonvisible_delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "ToolMenuDynamicIsActionButtonVisible Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenelivelinkcontrollertrackrecorder_moviescenelivelinkcontrollertrackrecorder",
+      "label": "MovieSceneLiveLinkControllerTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieSceneLiveLinkControllerTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencerbindingproxy_sequencerbindingproxy",
+      "label": "SequencerBindingProxy",
+      "file_type": "document",
+      "source_file": "SequencerBindingProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencerbindingproxy_moviescenebindingproxy",
+      "label": "MovieSceneBindingProxy",
+      "file_type": "document",
+      "source_file": "SequencerBindingProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modulationdestination_modulationdestination",
+      "label": "ModulationDestination",
+      "file_type": "document",
+      "source_file": "ModulationDestination Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecamershakesourceshaketrack_moviescenecamershakesourceshaketrack",
+      "label": "MovieSceneCameraShakeSourceShakeTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneCameraShakeSourceShakeTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecamershakesourceshaketrack_moviescenenameabletrack",
+      "label": "MovieSceneNameableTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneCameraShakeSourceShakeTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainsettings_targetchainsettings",
+      "label": "TargetChainSettings",
+      "file_type": "document",
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainsettings_targetchainfksettings",
+      "label": "TargetChainFKSettings",
+      "file_type": "document",
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainsettings_targetchainiksettings",
+      "label": "TargetChainIKSettings",
+      "file_type": "document",
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainsettings_targetchainspeedplantsettings",
+      "label": "TargetChainSpeedPlantSettings",
+      "file_type": "document",
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapelinedynamicmesh_avashapelinedynamicmesh",
+      "label": "AvaShapeLineDynamicMesh",
+      "file_type": "document",
+      "source_file": "AvaShapeLineDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapelinedynamicmesh_avashaperoundedpolygondynamicmesh",
+      "label": "AvaShapeRoundedPolygonDynamicMesh",
+      "file_type": "document",
+      "source_file": "AvaShapeLineDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathraytransform_rigvmfunction_mathraytransform",
+      "label": "RigVMFunction MathRayTransform",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRayTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathraytransform_rigvmfunction_mathraybase",
+      "label": "RigVMFunction MathRayBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRayTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_namereplace_rigunit_namereplace",
+      "label": "RigUnit NameReplace",
+      "file_type": "document",
+      "source_file": "RigUnit__NameReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_namereplace_rigvmfunction_namereplace",
+      "label": "RigVMFunction NameReplace",
+      "file_type": "document",
+      "source_file": "RigUnit__NameReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathvectordiv_rigvmfunction_mathvectordiv",
+      "target": "rigvmfunction_mathvectordiv_rigvmfunction_mathvectorbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorDiv Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayerrotationparams_geolayerrotationparams",
+      "target": "geolayerrotationparams_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoLayerRotationParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkcolorblock_uiframeworkcolorblock",
+      "target": "uiframeworkcolorblock_uiframeworkwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkColorBlock Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendcolorburn_dmmaterialstageblendcolorburn",
+      "target": "dmmaterialstageblendcolorburn_dmmaterialstageblendfunction",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageBlendColorBurn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenelivelinkcontrollermaptrackrecorder_moviescenelivelinkcontrollermaptrackrecorder",
+      "target": "moviescenelivelinkcontrollermaptrackrecorder_moviescenetrackrecorder",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneLiveLinkControllerMapTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadlaneassetinfo_aesroadlaneassetinfo",
+      "target": "aesroadlaneassetinfo_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesRoadLaneAssetInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioeffectparameters_audioeffectparameters",
+      "target": "aesroadlaneassetinfo_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioEffectParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicshingeactor_physicshingeactor",
+      "target": "physicshingeactor_physicsconstraintactor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsHingeActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubletoint_rigunit_mathdoubletoint",
+      "target": "rigunit_mathdoubletoint_rigvmfunction_mathdoubletoint",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleToInt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerastepmoveparams_camerastepmoveparams",
+      "target": "geolayerrotationparams_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraStepMoveParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenudynamicisactionbuttonvisible_toolmenudynamicisactionbuttonvisible",
+      "target": "toolmenudynamicisactionbuttonvisible_delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ToolMenuDynamicIsActionButtonVisible Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenelivelinkcontrollertrackrecorder_moviescenelivelinkcontrollertrackrecorder",
+      "target": "moviescenelivelinkcontrollermaptrackrecorder_moviescenetrackrecorder",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneLiveLinkControllerTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequencerbindingproxy_sequencerbindingproxy",
+      "target": "sequencerbindingproxy_moviescenebindingproxy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SequencerBindingProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecamershakesourceshaketrack_moviescenecamershakesourceshaketrack",
+      "target": "moviescenecamershakesourceshaketrack_moviescenenameabletrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCameraShakeSourceShakeTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainsettings_targetchainsettings",
+      "target": "aesroadlaneassetinfo_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainsettings_targetchainsettings",
+      "target": "targetchainsettings_targetchainfksettings",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainsettings_targetchainsettings",
+      "target": "targetchainsettings_targetchainiksettings",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainsettings_targetchainsettings",
+      "target": "targetchainsettings_targetchainspeedplantsettings",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainsettings_targetchainfksettings",
+      "target": "targetchainsettings_targetchainiksettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TargetChainSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashapelinedynamicmesh_avashapelinedynamicmesh",
+      "target": "avashapelinedynamicmesh_avashaperoundedpolygondynamicmesh",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShapeLineDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathraytransform_rigvmfunction_mathraytransform",
+      "target": "rigvmfunction_mathraytransform_rigvmfunction_mathraybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRayTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_namereplace_rigunit_namereplace",
+      "target": "rigunit_namereplace_rigvmfunction_namereplace",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__NameReplace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectordiv_rigvmfunction_mathvectordiv",
+      "target": "rigvmfunction_mathraytransform_rigvmfunction_mathraytransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathVectorDiv Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectordiv_rigvmfunction_mathvectordiv",
+      "target": "rigunit_mathdoubletoint_rigvmfunction_mathdoubletoint",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathVectorDiv Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenelivelinkcontrollermaptrackrecorder_moviescenelivelinkcontrollermaptrackrecorder",
+      "target": "moviescenelivelinkcontrollertrackrecorder_moviescenelivelinkcontrollertrackrecorder",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneLiveLinkControllerMapTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecamershakesourceshaketrack_moviescenecamershakesourceshaketrack",
+      "target": "moviescenelivelinkcontrollermaptrackrecorder_moviescenetrackrecorder",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieSceneCameraShakeSourceShakeTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayerrotationparams_geolayerrotationparams",
+      "target": "camerastepmoveparams_camerastepmoveparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeoLayerRotationParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicshingeactor_physicshingeactor",
+      "target": "sequencerbindingproxy_sequencerbindingproxy",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "PhysicsHingeActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubletoint_rigunit_mathdoubletoint",
+      "target": "rigunit_namereplace_rigunit_namereplace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__MathDoubleToInt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetranslatortype_interchangetranslatortype",
+      "target": "interchangemeshpayloadtype_interchangemeshpayloadtype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InterchangeTranslatorType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_classes_migration",
+      "label": "Deprecated Classes Migrated to New Names",
+      "nodes": [
+        "physicshingeactor_physicshingeactor",
+        "rigunit_mathdoubletoint_rigunit_mathdoubletoint",
+        "sequencerbindingproxy_sequencerbindingproxy",
+        "rigunit_namereplace_rigunit_namereplace"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Operation Functions",
+      "nodes": [
+        "rigvmfunction_mathvectordiv_rigvmfunction_mathvectordiv",
+        "rigvmfunction_mathraytransform_rigvmfunction_mathraytransform",
+        "rigunit_mathdoubletoint_rigvmfunction_mathdoubletoint"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "livelink_recording_system",
+      "label": "LiveLink Controller Recording System",
+      "nodes": [
+        "moviescenelivelinkcontrollermaptrackrecorder_moviescenelivelinkcontrollermaptrackrecorder",
+        "moviescenelivelinkcontrollertrackrecorder_moviescenelivelinkcontrollertrackrecorder"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1041 @@
+{
+  "nodes": [
+    {
+      "id": "abilitytask_waitgameplaytagadded",
+      "label": "AbilityTask WaitGameplayTagAdded",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitGameplayTagAdded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplaytag",
+      "label": "AbilityTask WaitGameplayTag",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitGameplayTagAdded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitgameplaytagdelegate",
+      "label": "WaitGameplayTagDelegate",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitGameplayTagAdded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmediaplayermediaevent",
+      "label": "OnMediaPlayerMediaEvent",
+      "file_type": "code",
+      "source_file": "OnMediaPlayerMediaEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "OnMediaPlayerMediaEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiometer_getmeterchannelinfo",
+      "label": "AudioMeter GetMeterChannelInfo",
+      "file_type": "code",
+      "source_file": "AudioMeter__GetMeterChannelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "DelegateBase",
+      "file_type": "code",
+      "source_file": "AudioMeter__GetMeterChannelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meterchannelinfo",
+      "label": "MeterChannelInfo",
+      "file_type": "code",
+      "source_file": "AudioMeter__GetMeterChannelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatavectoroperation",
+      "label": "PCGMetadataVectorOperation",
+      "file_type": "code",
+      "source_file": "PCGMetadataVectorOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "PCGMetadataVectorOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsprismaticactor",
+      "label": "PhysicsPrismaticActor",
+      "file_type": "code",
+      "source_file": "PhysicsPrismaticActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsconstraintactor",
+      "label": "PhysicsConstraintActor",
+      "file_type": "code",
+      "source_file": "PhysicsPrismaticActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "packagefactory",
+      "label": "PackageFactory",
+      "file_type": "code",
+      "source_file": "PackageFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "PackageFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintgreaterequal",
+      "label": "RigVMFunction MathIntGreaterEqual",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase",
+      "label": "RigVMFunction MathIntBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassmanagerbase",
+      "label": "LandmassManagerBase",
+      "file_type": "code",
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapeblueprintbrushbase",
+      "label": "LandscapeBlueprintBrushBase",
+      "file_type": "code",
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassactor",
+      "label": "LandmassActor",
+      "file_type": "code",
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscape",
+      "label": "Landscape",
+      "file_type": "code",
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmasslandscapeinfo",
+      "label": "LandmassLandscapeInfo",
+      "file_type": "code",
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brushdatatree",
+      "label": "BrushDataTree",
+      "file_type": "code",
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mobilepatchinglibrary",
+      "label": "MobilePatchingLibrary",
+      "file_type": "code",
+      "source_file": "MobilePatchingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "MobilePatchingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mobileinstalledcontent",
+      "label": "MobileInstalledContent",
+      "file_type": "code",
+      "source_file": "MobilePatchingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorcross",
+      "label": "RigUnit MathVectorCross",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorCross Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorcross",
+      "label": "RigVMFunction MathVectorCross",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorCross Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchinteractionassetitem",
+      "label": "PoseSearchInteractionAssetItem",
+      "file_type": "code",
+      "source_file": "PoseSearchInteractionAssetItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "PoseSearchInteractionAssetItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationasset",
+      "label": "AnimationAsset",
+      "file_type": "code",
+      "source_file": "PoseSearchInteractionAssetItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "PoseSearchInteractionAssetItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformatom",
+      "label": "TransformAtom",
+      "file_type": "code",
+      "source_file": "TransformAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformatombase",
+      "label": "TransformAtomBase",
+      "file_type": "code",
+      "source_file": "TransformAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "TransformAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rotator",
+      "label": "Rotator",
+      "file_type": "code",
+      "source_file": "TransformAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinklightstaticdata",
+      "label": "LiveLinkLightStaticData",
+      "file_type": "code",
+      "source_file": "LiveLinkLightStaticData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktransformstaticdata",
+      "label": "LiveLinkTransformStaticData",
+      "file_type": "code",
+      "source_file": "LiveLinkLightStaticData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeslandmarkeditorcommand_import",
+      "label": "AesLandmarkEditorCommand Import",
+      "file_type": "code",
+      "source_file": "AesLandmarkEditorCommand__Import Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorcommand",
+      "label": "AesEditorCommand",
+      "file_type": "code",
+      "source_file": "AesLandmarkEditorCommand__Import Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spritepolygoncollection",
+      "label": "SpritePolygonCollection",
+      "file_type": "code",
+      "source_file": "SpritePolygonCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spritegeometrycollection",
+      "label": "SpriteGeometryCollection",
+      "file_type": "code",
+      "source_file": "SpritePolygonCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gdaldoublevector",
+      "label": "GDALDoubleVector",
+      "file_type": "code",
+      "source_file": "GDALDoubleVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "envquerycontext_blueprintbase",
+      "label": "EnvQueryContext BlueprintBase",
+      "file_type": "code",
+      "source_file": "EnvQueryContext_BlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "envquerycontext",
+      "label": "EnvQueryContext",
+      "file_type": "code",
+      "source_file": "EnvQueryContext_BlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayertype",
+      "label": "AnimLayerType",
+      "file_type": "code",
+      "source_file": "AnimLayerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorvolumetriccloudsettings",
+      "label": "SkyCreatorVolumetricCloudSettings",
+      "file_type": "code",
+      "source_file": "SkyCreatorVolumetricCloudSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmaterial",
+      "label": "StaticMaterial",
+      "file_type": "code",
+      "source_file": "StaticMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "code",
+      "source_file": "StaticMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshuvchannelinfo",
+      "label": "MeshUVChannelInfo",
+      "file_type": "code",
+      "source_file": "StaticMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencecollectionasset",
+      "label": "DaySequenceCollectionAsset",
+      "file_type": "code",
+      "source_file": "DaySequenceCollectionAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataasset",
+      "label": "DataAsset",
+      "file_type": "code",
+      "source_file": "DaySequenceCollectionAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencecollectionentry",
+      "label": "DaySequenceCollectionEntry",
+      "file_type": "code",
+      "source_file": "DaySequenceCollectionAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_aimoffsetlookat",
+      "label": "AnimGraphNode AimOffsetLookAt",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_AimOffsetLookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendspacebase",
+      "label": "AnimGraphNode BlendSpaceBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_AimOffsetLookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_aimoffsetlookat",
+      "label": "AnimNode AimOffsetLookAt",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_AimOffsetLookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "abilitytask_waitgameplaytagadded",
+      "target": "abilitytask_waitgameplaytag",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayTagAdded Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplaytagadded",
+      "target": "waitgameplaytagdelegate",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayTagAdded Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onmediaplayermediaevent",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnMediaPlayerMediaEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiometer_getmeterchannelinfo",
+      "target": "delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMeter__GetMeterChannelInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiometer_getmeterchannelinfo",
+      "target": "meterchannelinfo",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMeter__GetMeterChannelInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatavectoroperation",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataVectorOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicsprismaticactor",
+      "target": "physicsconstraintactor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsPrismaticActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "packagefactory",
+      "target": "factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PackageFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintgreaterequal",
+      "target": "rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntGreaterEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassmanagerbase",
+      "target": "landscapeblueprintbrushbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassmanagerbase",
+      "target": "landmassactor",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassmanagerbase",
+      "target": "landscape",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassmanagerbase",
+      "target": "landmasslandscapeinfo",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassmanagerbase",
+      "target": "brushdatatree",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mobilepatchinglibrary",
+      "target": "blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MobilePatchingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mobilepatchinglibrary",
+      "target": "mobileinstalledcontent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MobilePatchingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorcross",
+      "target": "rigvmfunction_mathvectorcross",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorCross Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchinteractionassetitem",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchInteractionAssetItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchinteractionassetitem",
+      "target": "animationasset",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchInteractionAssetItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchinteractionassetitem",
+      "target": "transform",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchInteractionAssetItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformatom",
+      "target": "transformatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransformAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformatom",
+      "target": "vector",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransformAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformatom",
+      "target": "rotator",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransformAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinklightstaticdata",
+      "target": "livelinktransformstaticdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkLightStaticData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeslandmarkeditorcommand_import",
+      "target": "aeseditorcommand",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesLandmarkEditorCommand__Import Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spritepolygoncollection",
+      "target": "spritegeometrycollection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpritePolygonCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gdaldoublevector",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GDALDoubleVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "envquerycontext_blueprintbase",
+      "target": "envquerycontext",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnvQueryContext_BlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animlayertype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimLayerType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorvolumetriccloudsettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorVolumetricCloudSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticmaterial",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StaticMaterial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticmaterial",
+      "target": "materialinterface",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StaticMaterial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticmaterial",
+      "target": "meshuvchannelinfo",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StaticMaterial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequencecollectionasset",
+      "target": "dataasset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceCollectionAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequencecollectionasset",
+      "target": "daysequencecollectionentry",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceCollectionAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_aimoffsetlookat",
+      "target": "animgraphnode_blendspacebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_AimOffsetLookAt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_aimoffsetlookat",
+      "target": "animnode_aimoffsetlookat",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_AimOffsetLookAt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorcross",
+      "target": "pcgmetadatavectoroperation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathVectorCross Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformatom",
+      "target": "transform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TransformAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassmanagerbase",
+      "target": "skycreatorvolumetriccloudsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "LandmassManagerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "vector_math_operations",
+      "label": "Vector Math Operations",
+      "nodes": [
+        "rigvmfunction_mathvectorcross",
+        "pcgmetadatavectoroperation",
+        "transformatom"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathVectorCross Objects.md"
+    },
+    {
+      "id": "unreal_delegates",
+      "label": "Unreal Delegate Types",
+      "nodes": [
+        "onmediaplayermediaevent",
+        "audiometer_getmeterchannelinfo",
+        "waitgameplaytagdelegate"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnMediaPlayerMediaEvent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

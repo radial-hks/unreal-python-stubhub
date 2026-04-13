@@ -1,0 +1,735 @@
+{
+  "nodes": [
+    {
+      "id": "actorhitsignature",
+      "label": "ActorHitSignature",
+      "file_type": "document",
+      "source_file": "ActorHitSignature Objects.md",
+      "source_location": "Actor.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorexponentialheightfogsettings_51",
+      "label": "SkyCreatorExponentialHeightFogSettings_51",
+      "file_type": "document",
+      "source_file": "SkyCreatorExponentialHeightFogSettings__51 Objects.md",
+      "source_location": "SkyCreatorWeatherSettings_51.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navpathevent",
+      "label": "NavPathEvent",
+      "file_type": "document",
+      "source_file": "NavPathEvent Objects.md",
+      "source_location": "NavigationTypes.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "file_type": "document",
+      "source_file": "Volume Objects.md",
+      "source_location": "Volume.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwavespectraldata",
+      "label": "SoundWaveSpectralData",
+      "file_type": "document",
+      "source_file": "SoundWaveSpectralData Objects.md",
+      "source_location": "SoundWave.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluerendertargetdynamic",
+      "label": "DMMaterialValueRenderTargetDynamic",
+      "file_type": "document",
+      "source_file": "DMMaterialValueRenderTargetDynamic Objects.md",
+      "source_location": "DMMaterialValueRenderTargetDynamic.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintlessequal",
+      "label": "RigUnit_MathIntLessEqual",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeanimationtracksetinstancenode",
+      "label": "InterchangeAnimationTrackSetInstanceNode",
+      "file_type": "document",
+      "source_file": "InterchangeAnimationTrackSetInstanceNode Objects.md",
+      "source_location": "InterchangeAnimationTrackSetNode.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rcbehaviournode",
+      "label": "RCBehaviourNode",
+      "file_type": "document",
+      "source_file": "RCBehaviourNode Objects.md",
+      "source_location": "RCBehaviourNode.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timesectiontod",
+      "label": "TimeSectionTOD",
+      "file_type": "document",
+      "source_file": "TimeSectionTOD Objects.md",
+      "source_location": "TOD_Base.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "braincomponent",
+      "label": "BrainComponent",
+      "file_type": "document",
+      "source_file": "BrainComponent Objects.md",
+      "source_location": "BrainComponent.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnaction_wait",
+      "label": "PawnAction_Wait",
+      "file_type": "document",
+      "source_file": "PawnAction__Wait Objects.md",
+      "source_location": "PawnAction_Wait.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeanimationtracknode",
+      "label": "InterchangeAnimationTrackNode",
+      "file_type": "document",
+      "source_file": "InterchangeAnimationTrackNode Objects.md",
+      "source_location": "InterchangeAnimationTrackSetNode.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationmediaoutput",
+      "label": "DisplayClusterConfigurationMediaOutput",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaOutput Objects.md",
+      "source_location": "DisplayClusterConfigurationTypes_Media.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertybagcontainertype",
+      "label": "PropertyBagContainerType",
+      "file_type": "document",
+      "source_file": "PropertyBagContainerType Objects.md",
+      "source_location": "PropertyBag.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorassetsortorder",
+      "label": "EditorAssetSortOrder",
+      "file_type": "document",
+      "source_file": "EditorAssetSortOrder Objects.md",
+      "source_location": "EditorAssetSubsystem.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingmergestaticmeshactorsoptions_deprecated",
+      "label": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "file_type": "document",
+      "source_file": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated Objects.md",
+      "source_location": "EditorLevelLibrary.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleadd",
+      "label": "RigUnit_MathDoubleAdd",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcreatenewvolumefrommeshoptions",
+      "label": "GeometryScriptCreateNewVolumeFromMeshOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptCreateNewVolumeFromMeshOptions Objects.md",
+      "source_location": "CreateNewAssetUtilityFunctions.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeindex8",
+      "label": "StateTreeIndex8",
+      "file_type": "document",
+      "source_file": "StateTreeIndex8 Objects.md",
+      "source_location": "StateTreeIndexTypes.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigshapelibrarylink",
+      "label": "ControlRigShapeLibraryLink",
+      "file_type": "document",
+      "source_file": "ControlRigShapeLibraryLink Objects.md",
+      "source_location": "ControlRigAssetUserData.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "effectsatom",
+      "label": "EffectsAtom",
+      "file_type": "document",
+      "source_file": "EffectsAtom Objects.md",
+      "source_location": "EffectsAtom.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintlessequal",
+      "label": "RigVMFunction_MathIntLessEqual",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleadd",
+      "label": "RigVMFunction_MathDoubleAdd",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeanimationtrackbasenode",
+      "label": "InterchangeAnimationTrackBaseNode",
+      "file_type": "document",
+      "source_file": "InterchangeAnimationTrackSetInstanceNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brush",
+      "label": "Brush",
+      "file_type": "document",
+      "source_file": "Volume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluedynamic",
+      "label": "DMMaterialValueDynamic",
+      "file_type": "document",
+      "source_file": "DMMaterialValueRenderTargetDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "BrainComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnaction",
+      "label": "PawnAction",
+      "file_type": "document",
+      "source_file": "PawnAction__Wait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingjoinstaticmeshactorsoptions_deprecated",
+      "label": "EditorScriptingJoinStaticMeshActorsOptions_Deprecated",
+      "file_type": "document",
+      "source_file": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "EffectsAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "namespaceduserdata",
+      "label": "NameSpacedUserData",
+      "file_type": "document",
+      "source_file": "ControlRigShapeLibraryLink Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal_engine",
+      "label": "Unreal Engine",
+      "file_type": "document",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aimodule",
+      "label": "AIModule",
+      "file_type": "document",
+      "source_file": "BrainComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_plugin",
+      "label": "Interchange Plugin",
+      "file_type": "document",
+      "source_file": "InterchangeAnimationTrackSetInstanceNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "ControlRigShapeLibraryLink Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreator_plugin",
+      "label": "SkyCreator Plugin",
+      "file_type": "document",
+      "source_file": "SkyCreatorExponentialHeightFogSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "volume",
+      "target": "brush",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Volume Objects.md",
+      "source_location": "Volume.h",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluerendertargetdynamic",
+      "target": "dmmaterialvaluedynamic",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialValueRenderTargetDynamic Objects.md",
+      "source_location": "DMMaterialValueRenderTargetDynamic.h",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintlessequal",
+      "target": "rigvmfunction_mathintlessequal",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleadd",
+      "target": "rigvmfunction_mathdoubleadd",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeanimationtracksetinstancenode",
+      "target": "interchangeanimationtrackbasenode",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeAnimationTrackSetInstanceNode Objects.md",
+      "source_location": "InterchangeAnimationTrackSetNode.h",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeanimationtracknode",
+      "target": "interchangeanimationtrackbasenode",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeAnimationTrackNode Objects.md",
+      "source_location": "InterchangeAnimationTrackSetNode.h",
+      "weight": 1.0
+    },
+    {
+      "source": "braincomponent",
+      "target": "actorcomponent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrainComponent Objects.md",
+      "source_location": "BrainComponent.h",
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_wait",
+      "target": "pawnaction",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction__Wait Objects.md",
+      "source_location": "PawnAction_Wait.h",
+      "weight": 1.0
+    },
+    {
+      "source": "editorscriptingmergestaticmeshactorsoptions_deprecated",
+      "target": "editorscriptingjoinstaticmeshactorsoptions_deprecated",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated Objects.md",
+      "source_location": "EditorLevelLibrary.h",
+      "weight": 1.0
+    },
+    {
+      "source": "effectsatom",
+      "target": "entityatombase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EffectsAtom Objects.md",
+      "source_location": "EffectsAtom.h",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigshapelibrarylink",
+      "target": "namespaceduserdata",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigShapeLibraryLink Objects.md",
+      "source_location": "ControlRigAssetUserData.h",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeanimationtracksetinstancenode",
+      "target": "interchangeanimationtracknode",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InterchangeAnimationTrackSetInstanceNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "braincomponent",
+      "target": "pawnaction_wait",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "BrainComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintlessequal",
+      "target": "rigunit_mathdoubleadd",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathIntLessEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "volume",
+      "target": "geometryscriptcreatenewvolumefrommeshoptions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Volume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorhitsignature",
+      "target": "volume",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ActorHitSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navpathevent",
+      "target": "braincomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NavPathEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorhitsignature",
+      "target": "unreal_engine",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorHitSignature Objects.md",
+      "source_location": "Actor.h",
+      "weight": 1.0
+    },
+    {
+      "source": "navpathevent",
+      "target": "unreal_engine",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavPathEvent Objects.md",
+      "source_location": "NavigationTypes.h",
+      "weight": 1.0
+    },
+    {
+      "source": "volume",
+      "target": "unreal_engine",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Volume Objects.md",
+      "source_location": "Volume.h",
+      "weight": 1.0
+    },
+    {
+      "source": "soundwavespectraldata",
+      "target": "unreal_engine",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundWaveSpectralData Objects.md",
+      "source_location": "SoundWave.h",
+      "weight": 1.0
+    },
+    {
+      "source": "braincomponent",
+      "target": "aimodule",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrainComponent Objects.md",
+      "source_location": "BrainComponent.h",
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_wait",
+      "target": "aimodule",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction__Wait Objects.md",
+      "source_location": "PawnAction_Wait.h",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeanimationtracksetinstancenode",
+      "target": "interchange_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeAnimationTrackSetInstanceNode Objects.md",
+      "source_location": "InterchangeAnimationTrackSetNode.h",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeanimationtracknode",
+      "target": "interchange_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeAnimationTrackNode Objects.md",
+      "source_location": "InterchangeAnimationTrackSetNode.h",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigshapelibrarylink",
+      "target": "controlrig_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigShapeLibraryLink Objects.md",
+      "source_location": "ControlRigAssetUserData.h",
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorexponentialheightfogsettings_51",
+      "target": "skycreator_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorExponentialHeightFogSettings__51 Objects.md",
+      "source_location": "SkyCreatorWeatherSettings_51.h",
+      "weight": 1.0
+    },
+    {
+      "source": "timesectiontod",
+      "target": "skycreator_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeSectionTOD Objects.md",
+      "source_location": "TOD_Base.h",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_track_nodes",
+      "label": "Animation Track Node System",
+      "nodes": [
+        "interchangeanimationtracksetinstancenode",
+        "interchangeanimationtracknode",
+        "interchangeanimationtrackbasenode"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeAnimationTrackSetInstanceNode Objects.md"
+    },
+    {
+      "id": "deprecated_rig_units",
+      "label": "Deprecated RigVM Math Functions",
+      "nodes": [
+        "rigunit_mathintlessequal",
+        "rigunit_mathdoubleadd"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathIntLessEqual Objects.md"
+    },
+    {
+      "id": "ai_system_components",
+      "label": "AI System Components",
+      "nodes": [
+        "braincomponent",
+        "pawnaction_wait",
+        "navpathevent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "BrainComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

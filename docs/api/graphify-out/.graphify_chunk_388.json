@@ -1,0 +1,547 @@
+{
+  "nodes": [
+    {
+      "id": "pcgspawnactorssettings_pcgspawnactorssettings",
+      "label": "PCGSpawnActorSettings",
+      "file_type": "document",
+      "source_file": "PCGSpawnActorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspawnactorssettings_subgraph_mechanism",
+      "label": "Subgraph-like Data Passing",
+      "file_type": "document",
+      "source_file": "PCGSpawnActorSettings Objects.md",
+      "source_location": "lines 8-10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbangeoedwaycomponent_urbangeoedwaycomponent",
+      "label": "UrbanGeoEdWayComponent",
+      "file_type": "document",
+      "source_file": "UrbanGeoEdWayComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createspaceheatmapsparams_createspaceheatmapsparams",
+      "label": "CreateSpaceHeatMapsParams",
+      "file_type": "document",
+      "source_file": "CreateSpaceHeatMapsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphglobalvariable_shotname_moviegraphglobalvariable_shotname",
+      "label": "MovieGraphGlobalVariable_ShotName",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalVariable_ShotName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterlightcardactor_displayclusterlightcardactor",
+      "label": "DisplayClusterLightCardActor",
+      "file_type": "document",
+      "source_file": "DisplayClusterLightCardActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterlightcardactor_polar_coordinates",
+      "label": "Polar Coordinate System",
+      "file_type": "document",
+      "source_file": "DisplayClusterLightCardActor Objects.md",
+      "source_location": "lines 58,82,86",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptbaketypeoptions_geometryscriptbaketypeoptions",
+      "label": "GeometryScriptBakeTypeOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptBakeTypeOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionlandscapegrassoutput_materialexpressionlandscapegrassoutput",
+      "label": "MaterialExpressionLandscapeGrassOutput",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLandscapeGrassOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkanimationrole_livelinkanimationrole",
+      "label": "LiveLinkAnimationRole",
+      "file_type": "document",
+      "source_file": "LiveLinkAnimationRole Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesflowmapeditorcommand_type_aesflowmapeditorcommand_type",
+      "label": "AesFlowMapEditorCommand_Type",
+      "file_type": "document",
+      "source_file": "AesFlowMapEditorCommand__Type Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onpcggraphcleanedexternal_onpcggraphcleanedexternal",
+      "label": "OnPCGGraphCleanedExternal",
+      "file_type": "document",
+      "source_file": "OnPCGGraphCleanedExternal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangevolumetexturefactorynode_interchangevolumetexturefactorynode",
+      "label": "InterchangeVolumeTextureFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeVolumeTextureFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "capsulecomponent_capsulecomponent",
+      "label": "CapsuleComponent",
+      "file_type": "document",
+      "source_file": "CapsuleComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "capsulecomponent_size_constraints",
+      "label": "Capsule Size Constraints",
+      "file_type": "document",
+      "source_file": "CapsuleComponent Objects.md",
+      "source_location": "lines 43-46",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycachetrack_geometrycachetrack",
+      "label": "GeometryCacheTrack",
+      "file_type": "document",
+      "source_file": "GeometryCacheTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycachetrack_looping_behavior",
+      "label": "Looping Animation Behavior",
+      "file_type": "document",
+      "source_file": "GeometryCacheTrack Objects.md",
+      "source_location": "lines 17-22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdassetcache2_usdassetcache2",
+      "label": "UsdAssetCache2",
+      "file_type": "document",
+      "source_file": "UsdAssetCache2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdassetcache2_thread_safe_retrieval",
+      "label": "Thread-Safe Asset Retrieval",
+      "file_type": "document",
+      "source_file": "UsdAssetCache2 Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdassetcache2_storage_priority",
+      "label": "Storage Priority Mechanism",
+      "file_type": "document",
+      "source_file": "UsdAssetCache2 Objects.md",
+      "source_location": "lines 18-27,84-86",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetguideline_assetguideline",
+      "label": "AssetGuideline",
+      "file_type": "document",
+      "source_file": "AssetGuideline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetguideline_localization_consideration",
+      "label": "Localization Table Dependency Issue",
+      "file_type": "document",
+      "source_file": "AssetGuideline Objects.md",
+      "source_location": "lines 9-11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "emptypayload_emptypayload",
+      "label": "EmptyPayload",
+      "file_type": "document",
+      "source_file": "EmptyPayload Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rasterstyle_rasterstyle",
+      "label": "RasterStyle",
+      "file_type": "document",
+      "source_file": "RasterStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmedadatabitwiseoperation_pcgmedadatabitwiseoperation",
+      "label": "PCGMedadataBitwiseOperation",
+      "file_type": "document",
+      "source_file": "PCGMedadataBitwiseOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatabitwiseoperation_pcgmetadatabitwiseoperation",
+      "label": "PCGMetadataBitwiseOperation",
+      "file_type": "document",
+      "source_file": "PCGMedadataBitwiseOperation Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onsynthenvelopevalue_onsynthenvelopevalue",
+      "label": "OnSynthEnvelopeValue",
+      "file_type": "document",
+      "source_file": "OnSynthEnvelopeValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onsynthenvelopevalue_audio_mixer_requirement",
+      "label": "Audio Mixer Requirement",
+      "file_type": "document",
+      "source_file": "OnSynthEnvelopeValue Objects.md",
+      "source_location": "lines 7-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphcommandlineencodernode_moviegraphcommandlineencodernode",
+      "label": "MovieGraphCommandLineEncoderNode",
+      "file_type": "document",
+      "source_file": "MovieGraphCommandLineEncoderNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphcommandlineencodernode_encoding_workflow",
+      "label": "Post-Render Encoding Workflow",
+      "file_type": "document",
+      "source_file": "MovieGraphCommandLineEncoderNode Objects.md",
+      "source_location": "lines 23-26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoremachineclockmode_propertyanimatorcoremachineclockmode",
+      "label": "PropertyAnimatorCoreMachineClockMode",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreMachineClockMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoresystemmode_propertyanimatorcoresystemmode",
+      "label": "PropertyAnimatorCoreSystemMode",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreMachineClockMode Objects.md",
+      "source_location": "line 8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairsimulationforces_hairsimulationforces",
+      "label": "HairSimulationForces",
+      "file_type": "document",
+      "source_file": "HairSimulationForces Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgspawnactorssettings_pcgspawnactorssettings",
+      "target": "pcgspawnactorssettings_subgraph_mechanism",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSpawnActorSettings Objects.md",
+      "source_location": "lines 8-10",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterlightcardactor_displayclusterlightcardactor",
+      "target": "displayclusterlightcardactor_polar_coordinates",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterLightCardActor Objects.md",
+      "source_location": "lines 58,82,86",
+      "weight": 1.0
+    },
+    {
+      "source": "capsulecomponent_capsulecomponent",
+      "target": "capsulecomponent_size_constraints",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CapsuleComponent Objects.md",
+      "source_location": "lines 43-46",
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycachetrack_geometrycachetrack",
+      "target": "geometrycachetrack_looping_behavior",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCacheTrack Objects.md",
+      "source_location": "lines 17-22",
+      "weight": 1.0
+    },
+    {
+      "source": "usdassetcache2_usdassetcache2",
+      "target": "usdassetcache2_thread_safe_retrieval",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UsdAssetCache2 Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "usdassetcache2_usdassetcache2",
+      "target": "usdassetcache2_storage_priority",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UsdAssetCache2 Objects.md",
+      "source_location": "lines 18-27,84-86",
+      "weight": 1.0
+    },
+    {
+      "source": "assetguideline_assetguideline",
+      "target": "assetguideline_localization_consideration",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetGuideline Objects.md",
+      "source_location": "lines 9-11",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmedadatabitwiseoperation_pcgmedadatabitwiseoperation",
+      "target": "pcgmetadatabitwiseoperation_pcgmetadatabitwiseoperation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMedadataBitwiseOperation Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "onsynthenvelopevalue_onsynthenvelopevalue",
+      "target": "onsynthenvelopevalue_audio_mixer_requirement",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnSynthEnvelopeValue Objects.md",
+      "source_location": "lines 7-8",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphcommandlineencodernode_moviegraphcommandlineencodernode",
+      "target": "moviegraphcommandlineencodernode_encoding_workflow",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphCommandLineEncoderNode Objects.md",
+      "source_location": "lines 23-26",
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcoremachineclockmode_propertyanimatorcoremachineclockmode",
+      "target": "propertyanimatorcoresystemmode_propertyanimatorcoresystemmode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreMachineClockMode Objects.md",
+      "source_location": "line 8",
+      "weight": 1.0
+    },
+    {
+      "source": "createspaceheatmapsparams_createspaceheatmapsparams",
+      "target": "rasterstyle_rasterstyle",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CreateSpaceHeatMapsParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgspawnactorssettings_pcgspawnactorssettings",
+      "target": "onpcggraphcleanedexternal_onpcggraphcleanedexternal",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGSpawnActorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphcommandlineencodernode_moviegraphcommandlineencodernode",
+      "target": "moviegraphglobalvariable_shotname_moviegraphglobalvariable_shotname",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieGraphCommandLineEncoderNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangevolumetexturefactorynode_interchangevolumetexturefactorynode",
+      "target": "geometrycachetrack_geometrycachetrack",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "InterchangeVolumeTextureFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pcg_deprecation_migrations",
+      "label": "PCG Deprecation and Renaming Pattern",
+      "nodes": [
+        "pcgmedadatabitwiseoperation_pcgmedadatabitwiseoperation",
+        "pcgmetadatabitwiseoperation_pcgmetadatabitwiseoperation"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMedadataBitwiseOperation Objects.md"
+    },
+    {
+      "id": "property_animator_deprecation",
+      "label": "Property Animator Deprecation Pattern",
+      "nodes": [
+        "propertyanimatorcoremachineclockmode_propertyanimatorcoremachineclockmode",
+        "propertyanimatorcoresystemmode_propertyanimatorcoresystemmode"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreMachineClockMode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

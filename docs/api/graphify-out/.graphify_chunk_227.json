@@ -1,0 +1,676 @@
+{
+  "nodes": [
+    {
+      "id": "wdpenvironmentsubsystem_wdpenvironmentsubsystem",
+      "label": "WdpEnvironmentSubsystem",
+      "file_type": "code",
+      "source_file": "WdpEnvironmentSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdevicepropertyhandle_inputdevicepropertyhandle",
+      "label": "InputDevicePropertyHandle",
+      "file_type": "code",
+      "source_file": "InputDevicePropertyHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidartoolactionspaintselection_lidartoolactionspaintselection",
+      "label": "LidarToolActionsPaintSelection",
+      "file_type": "code",
+      "source_file": "LidarToolActionsPaintSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_sphericalposereader_rigunit_sphericalposereader",
+      "label": "RigUnit_SphericalPoseReader",
+      "file_type": "code",
+      "source_file": "RigUnit_SphericalPoseReader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "angulardriveconstraint_angulardriveconstraint",
+      "label": "AngularDriveConstraint",
+      "file_type": "code",
+      "source_file": "AngularDriveConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatrad_rigvmfunction_mathfloatrad",
+      "label": "RigVMFunction_MathFloatRad",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatRad Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelscriptactor_levelscriptactor",
+      "label": "LevelScriptActor",
+      "file_type": "code",
+      "source_file": "LevelScriptActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_sequenceplayer_standalone_animnode_sequenceplayer_standalone",
+      "label": "AnimNode_SequencePlayer_Standalone",
+      "file_type": "code",
+      "source_file": "AnimNode__SequencePlayer__Standalone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editablegameplaytagqueryexpression_editablegameplaytagqueryexpression",
+      "label": "EditableGameplayTagQueryExpression",
+      "file_type": "code",
+      "source_file": "EditableGameplayTagQueryExpression Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenepastetracksparams_moviescenepastetracksparams",
+      "label": "MovieScenePasteTracksParams",
+      "file_type": "code",
+      "source_file": "MovieScenePasteTracksParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kskinnedlevelsetelem_kskinnedlevelsetelem",
+      "label": "KSkinnedLevelSetElem",
+      "file_type": "code",
+      "source_file": "KSkinnedLevelSetElem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolsproxyscale_animdetailcontrolsproxyscale",
+      "label": "AnimDetailControlsProxyScale",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "evaluatordatasource_evaluatordatasource",
+      "label": "EvaluatorDataSource",
+      "file_type": "code",
+      "source_file": "EvaluatorDataSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointsetcomponent_pointsetcomponent",
+      "label": "PointSetComponent",
+      "file_type": "code",
+      "source_file": "PointSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "grassinput_grassinput",
+      "label": "GrassInput",
+      "file_type": "code",
+      "source_file": "GrassInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplate_mediaplate",
+      "label": "MediaPlate",
+      "file_type": "code",
+      "source_file": "MediaPlate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jsonobjectwrapper_jsonobjectwrapper",
+      "label": "JsonObjectWrapper",
+      "file_type": "code",
+      "source_file": "JsonObjectWrapper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_visualdebugquatnospace_rigvmfunction_visualdebugquatnospace",
+      "label": "RigVMFunction_VisualDebugQuatNoSpace",
+      "file_type": "code",
+      "source_file": "RigVMFunction_VisualDebugQuatNoSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotdefinitiondataproxy_smartobjectslotdefinitiondataproxy",
+      "label": "SmartObjectSlotDefinitionDataProxy",
+      "file_type": "code",
+      "source_file": "SmartObjectSlotDefinitionDataProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumfeaturetexture_cesiumfeaturetexture",
+      "label": "CesiumFeatureTexture",
+      "file_type": "code",
+      "source_file": "CesiumFeatureTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubletoint_rigvmfunction_mathdoubletoint",
+      "label": "RigVMFunction_MathDoubleToInt",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleToInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+      "label": "RigUnit_HierarchyAddAnimationChannelScaleFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpenvironmentsubsystem_weathercontrolmanager",
+      "label": "WeatherControlManager",
+      "file_type": "code",
+      "source_file": "WdpEnvironmentSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpenvironmentsubsystem_realtimeweathermanager",
+      "label": "RealtimeWeatherManager",
+      "file_type": "code",
+      "source_file": "WdpEnvironmentSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_sphericalposereader_regionscalefactors",
+      "label": "RegionScaleFactors",
+      "file_type": "code",
+      "source_file": "RigUnit_SphericalPoseReader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_sphericalposereader_sphericalposereaderdebugsettings",
+      "label": "SphericalPoseReaderDebugSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_SphericalPoseReader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_sphericalposereader_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit_SphericalPoseReader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelscriptactor_levelscriptblueprint",
+      "label": "ULevelScriptBlueprint",
+      "file_type": "code",
+      "source_file": "LevelScriptActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenepastetracksparams_moviescenesequence",
+      "label": "MovieSceneSequence",
+      "file_type": "code",
+      "source_file": "MovieScenePasteTracksParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenepastetracksparams_moviescenebindingproxy",
+      "label": "MovieSceneBindingProxy",
+      "file_type": "code",
+      "source_file": "MovieScenePasteTracksParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenepastetracksparams_moviescenefolder",
+      "label": "MovieSceneFolder",
+      "file_type": "code",
+      "source_file": "MovieScenePasteTracksParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolsproxyscale_animdetailproxyscale",
+      "label": "AnimDetailProxyScale",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "grassinput_landscapegrasstype",
+      "label": "LandscapeGrassType",
+      "file_type": "code",
+      "source_file": "GrassInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplate_mediaplatecomponent",
+      "label": "MediaPlateComponent",
+      "file_type": "code",
+      "source_file": "MediaPlate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplate_staticmeshcomponent",
+      "label": "StaticMeshComponent",
+      "file_type": "code",
+      "source_file": "MediaPlate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelscalefloat_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelsinglelimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumfeaturetexture_cesiumpropertytexture",
+      "label": "CesiumPropertyTexture",
+      "file_type": "code",
+      "source_file": "CesiumFeatureTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotdefinitiondataproxy_smartobjectdefinitiondataproxy",
+      "label": "SmartObjectDefinitionDataProxy",
+      "file_type": "code",
+      "source_file": "SmartObjectSlotDefinitionDataProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "wdpenvironmentsubsystem_wdpenvironmentsubsystem",
+      "target": "wdpenvironmentsubsystem_weathercontrolmanager",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEnvironmentSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpenvironmentsubsystem_wdpenvironmentsubsystem",
+      "target": "wdpenvironmentsubsystem_realtimeweathermanager",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEnvironmentSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_sphericalposereader_rigunit_sphericalposereader",
+      "target": "rigunit_sphericalposereader_regionscalefactors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphericalPoseReader Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_sphericalposereader_rigunit_sphericalposereader",
+      "target": "rigunit_sphericalposereader_sphericalposereaderdebugsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphericalPoseReader Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_sphericalposereader_rigunit_sphericalposereader",
+      "target": "rigunit_sphericalposereader_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphericalPoseReader Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelscriptactor_levelscriptactor",
+      "target": "levelscriptactor_levelscriptblueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelScriptActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenepastetracksparams_moviescenepastetracksparams",
+      "target": "moviescenepastetracksparams_moviescenesequence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScenePasteTracksParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenepastetracksparams_moviescenepastetracksparams",
+      "target": "moviescenepastetracksparams_moviescenebindingproxy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScenePasteTracksParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenepastetracksparams_moviescenepastetracksparams",
+      "target": "moviescenepastetracksparams_moviescenefolder",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScenePasteTracksParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxyscale_animdetailcontrolsproxyscale",
+      "target": "animdetailcontrolsproxyscale_animdetailproxyscale",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "grassinput_grassinput",
+      "target": "grassinput_landscapegrasstype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GrassInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediaplate_mediaplate",
+      "target": "mediaplate_mediaplatecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaPlate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediaplate_mediaplate",
+      "target": "mediaplate_staticmeshcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaPlate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+      "target": "rigunit_hierarchyaddanimationchannelscalefloat_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+      "target": "rigunit_sphericalposereader_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+      "target": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelsinglelimitsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeaturetexture_cesiumfeaturetexture",
+      "target": "cesiumfeaturetexture_cesiumpropertytexture",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeatureTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotdefinitiondataproxy_smartobjectslotdefinitiondataproxy",
+      "target": "smartobjectslotdefinitiondataproxy_smartobjectdefinitiondataproxy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotDefinitionDataProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatrad_rigvmfunction_mathfloatrad",
+      "target": "rigvmfunction_mathdoubletoint_rigvmfunction_mathdoubletoint",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathFloatRad Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpenvironmentsubsystem_wdpenvironmentsubsystem",
+      "target": "levelscriptactor_levelscriptactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WdpEnvironmentSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenepastetracksparams_moviescenesequence",
+      "target": "animnode_sequenceplayer_standalone_animnode_sequenceplayer_standalone",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieScenePasteTracksParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_math_operations",
+      "label": "Control Rig Math Operations",
+      "nodes": [
+        "rigvmfunction_mathfloatrad_rigvmfunction_mathfloatrad",
+        "rigvmfunction_mathdoubletoint_rigvmfunction_mathdoubletoint",
+        "rigunit_sphericalposereader_rigunit_sphericalposereader",
+        "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathFloatRad Objects.md"
+    },
+    {
+      "id": "animation_system_components",
+      "label": "Animation System Components",
+      "nodes": [
+        "animnode_sequenceplayer_standalone_animnode_sequenceplayer_standalone",
+        "animdetailcontrolsproxyscale_animdetailcontrolsproxyscale",
+        "evaluatordatasource_evaluatordatasource"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode__SequencePlayer__Standalone Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

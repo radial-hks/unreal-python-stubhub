@@ -1,0 +1,453 @@
+{
+  "nodes": [
+    {
+      "id": "gltruntimeboneboundsfilter_gltruntimeboneboundsfilter",
+      "label": "glTFRuntimeBoneBoundsFilter",
+      "file_type": "code",
+      "source_file": "glTFRuntimeBoneBoundsFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayerentity_geolayerentity",
+      "label": "GeoLayerEntity",
+      "file_type": "code",
+      "source_file": "GeoLayerEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionviewproperty_materialexpressionviewproperty",
+      "label": "MaterialExpressionViewProperty",
+      "file_type": "code",
+      "source_file": "MaterialExpressionViewProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textureexportergeneric_textureexportergeneric",
+      "label": "TextureExporterGeneric",
+      "file_type": "code",
+      "source_file": "TextureExporterGeneric Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthlfomode_synthlfomode",
+      "label": "SynthLFOMode",
+      "file_type": "code",
+      "source_file": "SynthLFOMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_prepareforexecution_rigunit_prepareforexecution",
+      "label": "RigUnit_PrepareForExecution",
+      "file_type": "code",
+      "source_file": "RigUnit__PrepareForExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleclamp_rigvmfunction_mathdoubleclamp",
+      "label": "RigVMFunction_MathDoubleClamp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentityeditingtile_urbanentityeditingtile",
+      "label": "UrbanEntityEditingTile",
+      "file_type": "code",
+      "source_file": "UrbanEntityEditingTile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "touchswipedirection_touchswipedirection",
+      "label": "TouchSwipeDirection",
+      "file_type": "code",
+      "source_file": "TouchSwipeDirection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformfromeulertransformv2_rigvmfunction_mathtransformfromeulertransformv2",
+      "label": "RigVMFunction_MathTransformFromEulerTransformV2",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groundpositionmode_groundpositionmode",
+      "label": "GroundPositionMode",
+      "file_type": "code",
+      "source_file": "GroundPositionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwavetimecodeinfo_soundwavetimecodeinfo",
+      "label": "SoundWaveTimecodeInfo",
+      "file_type": "code",
+      "source_file": "SoundWaveTimecodeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuinsert_toolmenuinsert",
+      "label": "ToolMenuInsert",
+      "file_type": "code",
+      "source_file": "ToolMenuInsert Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbansceneresourcedatainfo_urbansceneresourcedatainfo",
+      "label": "UrbanSceneResourceDataInfo",
+      "file_type": "code",
+      "source_file": "UrbanSceneResourceDataInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugrectangle_rigvmfunction_debugrectangle",
+      "label": "RigVMFunction_DebugRectangle",
+      "file_type": "code",
+      "source_file": "RigVMFunction__DebugRectangle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "screenshotfunctionaltestbase_screenshotfunctionaltestbase",
+      "label": "ScreenshotFunctionalTestBase",
+      "file_type": "code",
+      "source_file": "ScreenshotFunctionalTestBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundsubmixbase_soundsubmixbase",
+      "label": "SoundSubmixBase",
+      "file_type": "code",
+      "source_file": "SoundSubmixBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendbonebychannel_animgraphnode_blendbonebychannel",
+      "label": "AnimGraphNode_BlendBoneByChannel",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_BlendBoneByChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbximportcontenttype_fbximportcontenttype",
+      "label": "FBXImportContentType",
+      "file_type": "code",
+      "source_file": "FBXImportContentType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperrenderactor_paperrenderactor",
+      "label": "PaperRenderActor",
+      "file_type": "code",
+      "source_file": "PaperRenderActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummetadataprimitive_cesiummetadataprimitive",
+      "label": "CesiumMetadataPrimitive",
+      "file_type": "code",
+      "source_file": "CesiumMetadataPrimitive Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actordatalayer_actordatalayer",
+      "label": "ActorDataLayer",
+      "file_type": "code",
+      "source_file": "ActorDataLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eulertransform_eulertransform",
+      "label": "EulerTransform",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperspriteactor_paperspriteactor",
+      "label": "PaperSpriteActor",
+      "file_type": "code",
+      "source_file": "PaperRenderActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathtransformfromeulertransformv2_rigvmfunction_mathtransformfromeulertransformv2",
+      "target": "eulertransform_eulertransform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformfromeulertransformv2_rigvmfunction_mathtransformfromeulertransformv2",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperrenderactor_paperrenderactor",
+      "target": "paperspriteactor_paperspriteactor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperRenderActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundsubmixbase_soundsubmixbase",
+      "target": "soundsubmixbase_soundsubmixbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundSubmixBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformfromeulertransformv2_rigvmfunction_mathtransformfromeulertransformv2",
+      "target": "rigvmfunction_debugrectangle_rigvmfunction_debugrectangle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleclamp_rigvmfunction_mathdoubleclamp",
+      "target": "rigvmfunction_debugrectangle_rigvmfunction_debugrectangle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathDoubleClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendbonebychannel_animgraphnode_blendbonebychannel",
+      "target": "rigunit_prepareforexecution_rigunit_prepareforexecution",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode_BlendBoneByChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformfromeulertransformv2_rigvmfunction_mathtransformfromeulertransformv2",
+      "target": "rigvmfunction_mathdoubleclamp_rigvmfunction_mathdoubleclamp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groundpositionmode_groundpositionmode",
+      "target": "animgraphnode_blendbonebychannel_animgraphnode_blendbonebychannel",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GroundPositionMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "screenshotfunctionaltestbase_screenshotfunctionaltestbase",
+      "target": "paperrenderactor_paperrenderactor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ScreenshotFunctionalTestBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiummetadataprimitive_cesiummetadataprimitive",
+      "target": "paperrenderactor_paperrenderactor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CesiumMetadataPrimitive Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actordatalayer_actordatalayer",
+      "target": "cesiummetadataprimitive_cesiummetadataprimitive",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ActorDataLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanentityeditingtile_urbanentityeditingtile",
+      "target": "urbansceneresourcedatainfo_urbansceneresourcedatainfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "UrbanEntityEditingTile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathtransformfromeulertransformv2_rigvmfunction_mathtransformfromeulertransformv2",
+        "rigvmfunction_mathdoubleclamp_rigvmfunction_mathdoubleclamp",
+        "rigvmfunction_debugrectangle_rigvmfunction_debugrectangle"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathDoubleClamp Objects.md"
+    },
+    {
+      "id": "deprecated_unreal_components",
+      "label": "Deprecated Unreal Components",
+      "nodes": [
+        "paperrenderactor_paperrenderactor",
+        "cesiummetadataprimitive_cesiummetadataprimitive",
+        "actordatalayer_actordatalayer"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PaperRenderActor Objects.md"
+    },
+    {
+      "id": "urban_scene_ecosystem",
+      "label": "Urban Scene Ecosystem",
+      "nodes": [
+        "urbanentityeditingtile_urbanentityeditingtile",
+        "urbansceneresourcedatainfo_urbansceneresourcedatainfo"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "UrbanEntityEditingTile Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

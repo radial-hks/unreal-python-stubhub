@@ -1,0 +1,895 @@
+{
+  "nodes": [
+    {
+      "id": "sharedmemorymediaoutputfactory_factory",
+      "label": "SharedMemoryMediaOutputFactory",
+      "file_type": "code",
+      "source_file": "SharedMemoryMediaOutputFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "namedinputcombinestructdatanode_node",
+      "label": "NamedInputCombineStructDataNode",
+      "file_type": "code",
+      "source_file": "NamedInputCombineStructDataNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpointfilterthresholdsettings_deprecated",
+      "label": "PCGPointFilterThresholdSettings",
+      "file_type": "code",
+      "source_file": "PCGPointFilterThresholdSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparamvector_preview",
+      "label": "NiagaraPreviewAxis_InterpParamVector",
+      "file_type": "code",
+      "source_file": "NiagaraPreviewAxis__InterpParamVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositinginputinterface_interface",
+      "label": "CompositingInputInterface",
+      "file_type": "code",
+      "source_file": "CompositingInputInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_posesearchmodifycost_notifier",
+      "label": "AnimNotifyState_PoseSearchModifyCost",
+      "file_type": "code",
+      "source_file": "AnimNotifyState_PoseSearchModifyCost Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_retargetposefrommesh_editor",
+      "label": "AnimGraphNode_RetargetPoseFromMesh",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__RetargetPoseFromMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytask_genericgameplaytaskdelegate_delegate",
+      "label": "GameplayTask_GenericGameplayTaskDelegate",
+      "file_type": "code",
+      "source_file": "GameplayTask_GenericGameplayTaskDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelstreamingdynamic_streaming",
+      "label": "LevelStreamingDynamic",
+      "file_type": "code",
+      "source_file": "LevelStreamingDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifiersmooth_modifier",
+      "label": "InputModifierSmooth",
+      "file_type": "code",
+      "source_file": "InputModifierSmooth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatextcase_enum",
+      "label": "AvaTextCase",
+      "file_type": "code",
+      "source_file": "AvaTextCase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressioneyeadaptation_material",
+      "label": "MaterialExpressionEyeAdaptation",
+      "file_type": "code",
+      "source_file": "MaterialExpressionEyeAdaptation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floornodeinfo_struct",
+      "label": "FloorNodeInfo",
+      "file_type": "code",
+      "source_file": "FloorNodeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatceil_math",
+      "label": "RigVMFunction_MathFloatCeil",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jsonstringifyflags_enum",
+      "label": "JsonStringifyFlags",
+      "file_type": "code",
+      "source_file": "JsonStringifyFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplayeffectapplied_target_task",
+      "label": "AbilityTask_WaitGameplayEffectApplied_Target",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitGameplayEffectApplied__Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetimewarpsection_timeline",
+      "label": "MovieSceneTimeWarpSection",
+      "file_type": "code",
+      "source_file": "MovieSceneTimeWarpSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "baseattenuationsettings_audio",
+      "label": "BaseAttenuationSettings",
+      "file_type": "code",
+      "source_file": "BaseAttenuationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugpointmutable_deprecated",
+      "label": "RigUnit_DebugPointMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__DebugPointMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsequencebase_animation",
+      "label": "AnimSequenceBase",
+      "file_type": "code",
+      "source_file": "AnimSequenceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mirroranimlibrary_library",
+      "label": "MirrorAnimLibrary",
+      "file_type": "code",
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spotlightstationary_deprecated",
+      "label": "SpotLightStationary",
+      "file_type": "code",
+      "source_file": "SpotLightStationary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_base",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "SharedMemoryMediaOutputFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nameinputadvancedvaluenode_base",
+      "label": "NameInputAdvancedValueNode",
+      "file_type": "code",
+      "source_file": "NamedInputCombineStructDataNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributefilterthresholdsettings_renamed",
+      "label": "PCGAttributeFilterThresholdSettings",
+      "file_type": "code",
+      "source_file": "PCGPointFilterThresholdSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparambase_base",
+      "label": "NiagaraPreviewAxis_InterpParamBase",
+      "file_type": "code",
+      "source_file": "NiagaraPreviewAxis__InterpParamVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interface_base",
+      "label": "Interface",
+      "file_type": "code",
+      "source_file": "CompositingInputInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_posesearchbase_base",
+      "label": "AnimNotifyState_PoseSearchBase",
+      "file_type": "code",
+      "source_file": "AnimNotifyState_PoseSearchModifyCost Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_base",
+      "label": "AnimGraphNode_Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__RetargetPoseFromMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_base",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "GameplayTask_GenericGameplayTaskDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelstreaming_base",
+      "label": "LevelStreaming",
+      "file_type": "code",
+      "source_file": "LevelStreamingDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifier_base",
+      "label": "InputModifier",
+      "file_type": "code",
+      "source_file": "InputModifierSmooth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_base",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "AvaTextCase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_base",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionEyeAdaptation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_base",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "FloorNodeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbase_base",
+      "label": "RigVMFunction_MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplayeffectapplied_base",
+      "label": "AbilityTask_WaitGameplayEffectApplied",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitGameplayEffectApplied__Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesection_base",
+      "label": "MovieSceneSection",
+      "file_type": "code",
+      "source_file": "MovieSceneTimeWarpSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugpointmutable_renamed",
+      "label": "RigVMFunction_DebugPointMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__DebugPointMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationasset_base",
+      "label": "AnimationAsset",
+      "file_type": "code",
+      "source_file": "AnimSequenceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_base",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spotlight_base",
+      "label": "SpotLight",
+      "file_type": "code",
+      "source_file": "SpotLightStationary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositinginputinterfaceproxy_proxy",
+      "label": "CompositingInputInterfaceProxy",
+      "file_type": "code",
+      "source_file": "CompositingInputInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mirroranimnodereference_node",
+      "label": "MirrorAnimNodeReference",
+      "file_type": "code",
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mirrordatatable_data",
+      "label": "MirrorDataTable",
+      "file_type": "code",
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnodereference_node",
+      "label": "AnimNodeReference",
+      "file_type": "code",
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "sharedmemorymediaoutputfactory_factory",
+      "target": "factory_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SharedMemoryMediaOutputFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "namedinputcombinestructdatanode_node",
+      "target": "nameinputadvancedvaluenode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NamedInputCombineStructDataNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpointfilterthresholdsettings_deprecated",
+      "target": "pcgattributefilterthresholdsettings_renamed",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointFilterThresholdSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamvector_preview",
+      "target": "niagarapreviewaxis_interpparambase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPreviewAxis__InterpParamVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "compositinginputinterface_interface",
+      "target": "interface_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CompositingInputInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_posesearchmodifycost_notifier",
+      "target": "animnotifystate_posesearchbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState_PoseSearchModifyCost Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_retargetposefrommesh_editor",
+      "target": "animgraphnode_base_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__RetargetPoseFromMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaytask_genericgameplaytaskdelegate_delegate",
+      "target": "multicastdelegatebase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayTask_GenericGameplayTaskDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelstreamingdynamic_streaming",
+      "target": "levelstreaming_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelStreamingDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputmodifiersmooth_modifier",
+      "target": "inputmodifier_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputModifierSmooth Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatextcase_enum",
+      "target": "enumbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTextCase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressioneyeadaptation_material",
+      "target": "materialexpression_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionEyeAdaptation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "floornodeinfo_struct",
+      "target": "structbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FloorNodeInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatceil_math",
+      "target": "rigvmfunction_mathfloatbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplayeffectapplied_target_task",
+      "target": "abilitytask_waitgameplayeffectapplied_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayEffectApplied__Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetimewarpsection_timeline",
+      "target": "moviescenesection_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTimeWarpSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "baseattenuationsettings_audio",
+      "target": "structbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BaseAttenuationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugpointmutable_deprecated",
+      "target": "rigvmfunction_debugpointmutable_renamed",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugPointMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencebase_animation",
+      "target": "animationasset_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequenceBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mirroranimlibrary_library",
+      "target": "blueprintfunctionlibrary_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spotlightstationary_deprecated",
+      "target": "spotlight_base",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpotLightStationary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "compositinginputinterface_interface",
+      "target": "compositinginputinterfaceproxy_proxy",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CompositingInputInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mirroranimlibrary_library",
+      "target": "mirroranimnodereference_node",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mirroranimlibrary_library",
+      "target": "mirrordatatable_data",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mirroranimlibrary_library",
+      "target": "animnodereference_node",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MirrorAnimLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_retargetposefrommesh_editor",
+      "target": "animsequencebase_animation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode__RetargetPoseFromMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_retargetposefrommesh_editor",
+      "target": "mirroranimlibrary_library",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__RetargetPoseFromMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_posesearchmodifycost_notifier",
+      "target": "animsequencebase_animation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNotifyState_PoseSearchModifyCost Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatceil_math",
+      "target": "rigvmfunction_debugpointmutable_renamed",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathFloatCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "floornodeinfo_struct",
+      "target": "baseattenuationsettings_audio",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "FloorNodeInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetimewarpsection_timeline",
+      "target": "animsequencebase_animation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MovieSceneTimeWarpSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamvector_preview",
+      "target": "moviescenetimewarpsection_timeline",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraPreviewAxis__InterpParamVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressioneyeadaptation_material",
+      "target": "moviescenetimewarpsection_timeline",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MaterialExpressionEyeAdaptation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelstreamingdynamic_streaming",
+      "target": "moviescenetimewarpsection_timeline",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "LevelStreamingDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_system_components",
+      "label": "Animation System Components",
+      "nodes": [
+        "animgraphnode_retargetposefrommesh_editor",
+        "animsequencebase_animation",
+        "mirroranimlibrary_library",
+        "animnotifystate_posesearchmodifycost_notifier"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__RetargetPoseFromMesh Objects.md"
+    },
+    {
+      "id": "deprecated_api_migration",
+      "label": "Deprecated API Migration",
+      "nodes": [
+        "pcgpointfilterthresholdsettings_deprecated",
+        "rigunit_debugpointmutable_deprecated",
+        "spotlightstationary_deprecated"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointFilterThresholdSettings Objects.md"
+    },
+    {
+      "id": "rigvm_math_and_debug_utilities",
+      "label": "RigVM Math and Debug Utilities",
+      "nodes": [
+        "rigvmfunction_mathfloatceil_math",
+        "rigvmfunction_debugpointmutable_renamed"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathFloatCeil Objects.md"
+    }
+  ],
+  "input_tokens": 22453,
+  "output_tokens": 0
+}

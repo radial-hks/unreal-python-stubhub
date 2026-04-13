@@ -1,0 +1,798 @@
+{
+  "nodes": [
+    {
+      "id": "materialoverridenanite",
+      "label": "MaterialOverrideNanite",
+      "file_type": "document",
+      "source_file": "MaterialOverrideNanite Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "document",
+      "source_file": "MaterialOverrideNanite Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stringvaluepair",
+      "label": "StringValuePair",
+      "file_type": "document",
+      "source_file": "StringValuePair Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatextcharactertransform",
+      "label": "AvaTextCharacterTransform",
+      "file_type": "document",
+      "source_file": "AvaTextCharacterTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "text3dcharactertransform",
+      "label": "Text3DCharacterTransform",
+      "file_type": "document",
+      "source_file": "AvaTextCharacterTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectfilteraudiobusmodulationsettings",
+      "label": "SourceEffectFilterAudioBusModulationSettings",
+      "file_type": "document",
+      "source_file": "SourceEffectFilterAudioBusModulationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiobus",
+      "label": "AudioBus",
+      "file_type": "document",
+      "source_file": "SourceEffectFilterAudioBusModulationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectionlibrary",
+      "label": "GeometryCollectionLibrary",
+      "file_type": "document",
+      "source_file": "GeometryCollectionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctiolibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "GeometryCollectionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectioncomponent",
+      "label": "GeometryCollectionComponent",
+      "file_type": "document",
+      "source_file": "GeometryCollectionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesfacadematerialinfo",
+      "label": "AesFacadeMaterialInfo",
+      "file_type": "document",
+      "source_file": "AesFacadeMaterialInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "softobjectpath",
+      "label": "SoftObjectPath",
+      "file_type": "document",
+      "source_file": "AesFacadeMaterialInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectcontainer",
+      "label": "SmartObjectContainer",
+      "file_type": "document",
+      "source_file": "SmartObjectContainer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintoffsetoption",
+      "label": "ConstraintOffsetOption",
+      "file_type": "document",
+      "source_file": "ConstraintOffsetOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setbycallerfloat",
+      "label": "SetByCallerFloat",
+      "file_type": "document",
+      "source_file": "SetByCallerFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytag",
+      "label": "GameplayTag",
+      "file_type": "document",
+      "source_file": "SetByCallerFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "overlays",
+      "label": "Overlays",
+      "file_type": "document",
+      "source_file": "Overlays Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionlandscapelayercoords",
+      "label": "MaterialExpressionLandscapeLayerCoords",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLandscapeLayerCoords Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLandscapeLayerCoords Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggraphinstance",
+      "label": "PCGGraphInstance",
+      "file_type": "document",
+      "source_file": "PCGGraphInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggraphinterface",
+      "label": "PCGGraphInterface",
+      "file_type": "document",
+      "source_file": "PCGGraphInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_poseloop",
+      "label": "RigUnit_PoseLoop",
+      "file_type": "document",
+      "source_file": "RigUnit__PoseLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunithierarchybasemutable",
+      "label": "RigUnit_HierarchyBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__PoseLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigpose",
+      "label": "RigPose",
+      "file_type": "document",
+      "source_file": "RigUnit__PoseLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interptomovementcomponent_oninterporesetdelegate",
+      "label": "InterpToMovementComponent_OnInterpToResetDelegate",
+      "file_type": "document",
+      "source_file": "InterpToMovementComponent_OnInterpToResetDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarundowncomponent",
+      "label": "AvaRundownComponent",
+      "file_type": "document",
+      "source_file": "AvaRundownComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "AvaRundownComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarundown",
+      "label": "AvaRundown",
+      "file_type": "document",
+      "source_file": "AvaRundownComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "facadeorientation",
+      "label": "FacadeOrientation",
+      "file_type": "document",
+      "source_file": "FacadeOrientation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlinebeaconhostobject",
+      "label": "OnlineBeaconHostObject",
+      "file_type": "document",
+      "source_file": "OnlineBeaconHostObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "OnlineBeaconHostObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "additivecontrolrig",
+      "label": "AdditiveControlRig",
+      "file_type": "document",
+      "source_file": "AdditiveControlRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig",
+      "label": "ControlRig",
+      "file_type": "document",
+      "source_file": "AdditiveControlRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertargetvolumefactorynew",
+      "label": "TextureRenderTargetVolumeFactoryNew",
+      "file_type": "document",
+      "source_file": "TextureRenderTargetVolumeFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "TextureRenderTargetVolumeFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaaxis",
+      "label": "AvaAxis",
+      "file_type": "document",
+      "source_file": "AvaAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationpostrender_blurpostprocess",
+      "label": "DisplayClusterConfigurationPostRender_BlurPostprocess",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationPostRender_BlurPostprocess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpbuildinglayernodesparam",
+      "label": "DCPBuildingLayerNodesParam",
+      "file_type": "document",
+      "source_file": "DCPBuildingLayerNodesParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "DCPBuildingLayerNodesParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nanite_material_system",
+      "label": "Nanite Material System",
+      "file_type": "document",
+      "source_file": "MaterialOverrideNanite Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_filter_effects",
+      "label": "Audio Filter Effects",
+      "file_type": "document",
+      "source_file": "SourceEffectFilterAudioBusModulationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_content_generation",
+      "label": "Procedural Content Generation",
+      "file_type": "document",
+      "source_file": "PCGGraphInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig_animation",
+      "label": "Control Rig Animation",
+      "file_type": "document",
+      "source_file": "RigUnit__PoseLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "networking_infrastructure",
+      "label": "Networking Infrastructure",
+      "file_type": "document",
+      "source_file": "OnlineBeaconHostObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialoverridenanite",
+      "target": "materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialOverrideNanite Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialoverridenanite",
+      "target": "nanite_material_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialOverrideNanite Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatextcharactertransform",
+      "target": "text3dcharactertransform",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTextCharacterTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectfilteraudiobusmodulationsettings",
+      "target": "audiobus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectFilterAudioBusModulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectfilteraudiobusmodulationsettings",
+      "target": "audio_filter_effects",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SourceEffectFilterAudioBusModulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionlibrary",
+      "target": "blueprintfunctiolibrary",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCollectionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionlibrary",
+      "target": "geometrycollectioncomponent",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCollectionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesfacadematerialinfo",
+      "target": "softobjectpath",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFacadeMaterialInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "setbycallerfloat",
+      "target": "gameplaytag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SetByCallerFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionlandscapelayercoords",
+      "target": "materialexpression",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionLandscapeLayerCoords Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggraphinstance",
+      "target": "pcggraphinterface",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGGraphInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggraphinstance",
+      "target": "pcggraphinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGGraphInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggraphinstance",
+      "target": "procedural_content_generation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGGraphInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_poseloop",
+      "target": "rigunithierarchybasemutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PoseLoop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_poseloop",
+      "target": "rigpose",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PoseLoop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_poseloop",
+      "target": "control_rig_animation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__PoseLoop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avarundowncomponent",
+      "target": "actorcomponent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaRundownComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avarundowncomponent",
+      "target": "avarundown",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaRundownComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlinebeaconhostobject",
+      "target": "actor",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnlineBeaconHostObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlinebeaconhostobject",
+      "target": "networking_infrastructure",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "OnlineBeaconHostObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "additivecontrolrig",
+      "target": "controlrig",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AdditiveControlRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturerendertargetvolumefactorynew",
+      "target": "factory",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureRenderTargetVolumeFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpbuildinglayernodesparam",
+      "target": "paramsbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPBuildingLayerNodesParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "additivecontrolrig",
+      "target": "control_rig_animation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AdditiveControlRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_poseloop",
+      "target": "additivecontrolrig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__PoseLoop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionlibrary",
+      "target": "facadeorientation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryCollectionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_component_hierarchy",
+      "label": "Unreal Component Hierarchy Pattern",
+      "nodes": [
+        "avatextcharactertransform",
+        "avarundowncomponent",
+        "onlinebeaconhostobject",
+        "actorcomponent",
+        "actor"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "material_system_components",
+      "label": "Material System Components",
+      "nodes": [
+        "materialoverridenanite",
+        "materialinterface",
+        "materialexpressionlandscapelayercoords",
+        "materialexpression",
+        "aesfacadematerialinfo"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "rig_and_animation_systems",
+      "label": "Rig and Animation Systems",
+      "nodes": [
+        "rigunit_poseloop",
+        "additivecontrolrig",
+        "controlrig",
+        "rigpose"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

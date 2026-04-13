@@ -1,0 +1,490 @@
+{
+  "nodes": [
+    {
+      "id": "pythonbpassetlib_pythonbpassetlib",
+      "label": "PythonBPAssetLib",
+      "file_type": "code",
+      "source_file": "PythonBPAssetLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositingmediacaptureoutput_compositingmediacaptureoutput",
+      "label": "CompositingMediaCaptureOutput",
+      "file_type": "code",
+      "source_file": "CompositingMediaCaptureOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathbooland_rigvmfunction__mathbooland",
+      "label": "RigVMFunction_MathBoolAnd",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoolAnd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratethinfilm_materialexpressionsubstratethinfilm",
+      "label": "MaterialExpressionSubstrateThinFilm",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstrateThinFilm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "winddirectionalsource_winddirectionalsource",
+      "label": "WindDirectionalSource",
+      "file_type": "code",
+      "source_file": "WindDirectionalSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "button_button",
+      "label": "Button",
+      "file_type": "code",
+      "source_file": "Button Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapelayerinfoobjectfactory_landscapelayerinfoobjectfactory",
+      "label": "LandscapeLayerInfoObjectFactory",
+      "file_type": "code",
+      "source_file": "LandscapeLayerInfoObjectFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "grassvariety_grassvariety",
+      "label": "GrassVariety",
+      "file_type": "code",
+      "source_file": "GrassVariety Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionextractor__motiontype_motionextractor__motiontype",
+      "label": "MotionExtractor_MotionType",
+      "file_type": "code",
+      "source_file": "MotionExtractor__MotionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bracketpayload_bracketpayload",
+      "label": "BracketPayload",
+      "file_type": "code",
+      "source_file": "BracketPayload Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sunpositiondata_sunpositiondata",
+      "label": "SunPositionData",
+      "file_type": "code",
+      "source_file": "SunPositionData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timelinelengthmode_timelinelengthmode",
+      "label": "TimelineLengthMode",
+      "file_type": "code",
+      "source_file": "TimelineLengthMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathmatrixfromvectors_rigunit__mathmatrixfromvectors",
+      "label": "RigUnit_MathMatrixFromVectors",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMatrixFromVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenevisibilitytrackrecorder_moviescenevisibilitytrackrecorder",
+      "label": "MovieSceneVisibilityTrackRecorder",
+      "file_type": "code",
+      "source_file": "MovieSceneVisibilityTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerint2variable_rigvmtrait_setdeformerint2variable",
+      "label": "RigVMTrait_SetDeformerInt2Variable",
+      "file_type": "code",
+      "source_file": "RigVMTrait_SetDeformerInt2Variable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdunrealassetinfo_usdunrealassetinfo",
+      "label": "UsdUnrealAssetInfo",
+      "file_type": "code",
+      "source_file": "UsdUnrealAssetInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneslomotrack_moviesceneslomotrack",
+      "label": "MovieSceneSlomoTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneSlomoTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editabletextbox_editabletextbox",
+      "label": "EditableTextBox",
+      "file_type": "code",
+      "source_file": "EditableTextBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestvectordelegate_onnamecollisiondelegate_pytestvectordelegate_onnamecollisiondelegate",
+      "label": "PyTestVectorDelegate_OnNameCollisionDelegate",
+      "file_type": "code",
+      "source_file": "PyTestVectorDelegate_OnNameCollisionDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript__meshedits_geometryscript__meshedits",
+      "label": "GeometryScript_MeshEdits",
+      "file_type": "code",
+      "source_file": "GeometryScript__MeshEdits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialnodesetparam_dcpmaterialnodesetparam",
+      "label": "DCPMaterialNodeSetParam",
+      "file_type": "code",
+      "source_file": "DCPMaterialNodeSetParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__collectionreverse_rigunit__collectionreverse",
+      "label": "RigUnit_CollectionReverse",
+      "file_type": "code",
+      "source_file": "RigUnit__CollectionReverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "compositingmediacaptureoutput_compositingmediacaptureoutput",
+      "target": "materialexpressionsubstratethinfilm_materialexpressionsubstratethinfilm",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CompositingMediaCaptureOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathbooland_rigvmfunction__mathbooland",
+      "target": "rigunit__mathmatrixfromvectors_rigunit__mathmatrixfromvectors",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathBoolAnd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathbooland_rigvmfunction__mathbooland",
+      "target": "rigvmtrait_setdeformerint2variable_rigvmtrait_setdeformerint2variable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathBoolAnd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathbooland_rigvmfunction__mathbooland",
+      "target": "rigunit__collectionreverse_rigunit__collectionreverse",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathBoolAnd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstratethinfilm_materialexpressionsubstratethinfilm",
+      "target": "compositingmediacaptureoutput_compositingmediacaptureoutput",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MaterialExpressionSubstrateThinFilm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapelayerinfoobjectfactory_landscapelayerinfoobjectfactory",
+      "target": "grassvariety_grassvariety",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LandscapeLayerInfoObjectFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "grassvariety_grassvariety",
+      "target": "landscapelayerinfoobjectfactory_landscapelayerinfoobjectfactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GrassVariety Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathmatrixfromvectors_rigunit__mathmatrixfromvectors",
+      "target": "rigvmfunction__mathbooland_rigvmfunction__mathbooland",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathMatrixFromVectors Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathmatrixfromvectors_rigunit__mathmatrixfromvectors",
+      "target": "rigvmtrait_setdeformerint2variable_rigvmtrait_setdeformerint2variable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathMatrixFromVectors Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathmatrixfromvectors_rigunit__mathmatrixfromvectors",
+      "target": "rigunit__collectionreverse_rigunit__collectionreverse",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathMatrixFromVectors Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenevisibilitytrackrecorder_moviescenevisibilitytrackrecorder",
+      "target": "moviesceneslomotrack_moviesceneslomotrack",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneVisibilityTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerint2variable_rigvmtrait_setdeformerint2variable",
+      "target": "rigvmfunction__mathbooland_rigvmfunction__mathbooland",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMTrait_SetDeformerInt2Variable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerint2variable_rigvmtrait_setdeformerint2variable",
+      "target": "rigunit__mathmatrixfromvectors_rigunit__mathmatrixfromvectors",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMTrait_SetDeformerInt2Variable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerint2variable_rigvmtrait_setdeformerint2variable",
+      "target": "rigunit__collectionreverse_rigunit__collectionreverse",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMTrait_SetDeformerInt2Variable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneslomotrack_moviesceneslomotrack",
+      "target": "moviescenevisibilitytrackrecorder_moviescenevisibilitytrackrecorder",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneSlomoTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "button_button",
+      "target": "editabletextbox_editabletextbox",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Button Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editabletextbox_editabletextbox",
+      "target": "button_button",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EditableTextBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__collectionreverse_rigunit__collectionreverse",
+      "target": "rigvmfunction__mathbooland_rigvmfunction__mathbooland",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__CollectionReverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__collectionreverse_rigunit__collectionreverse",
+      "target": "rigunit__mathmatrixfromvectors_rigunit__mathmatrixfromvectors",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__CollectionReverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__collectionreverse_rigunit__collectionreverse",
+      "target": "rigvmtrait_setdeformerint2variable_rigvmtrait_setdeformerint2variable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__CollectionReverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_controlrig_system",
+      "label": "ControlRig and RigVM System",
+      "nodes": [
+        "rigvmfunction__mathbooland_rigvmfunction__mathbooland",
+        "rigunit__mathmatrixfromvectors_rigunit__mathmatrixfromvectors",
+        "rigvmtrait_setdeformerint2variable_rigvmtrait_setdeformerint2variable",
+        "rigunit__collectionreverse_rigunit__collectionreverse"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathBoolAnd Objects.md"
+    },
+    {
+      "id": "umg_ui_framework",
+      "label": "UMG UI Widget Framework",
+      "nodes": [
+        "button_button",
+        "editabletextbox_editabletextbox"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Button Objects.md"
+    },
+    {
+      "id": "moviescene_track_system",
+      "label": "MovieScene Track System",
+      "nodes": [
+        "moviescenevisibilitytrackrecorder_moviescenevisibilitytrackrecorder",
+        "moviesceneslomotrack_moviesceneslomotrack"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneVisibilityTrackRecorder Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

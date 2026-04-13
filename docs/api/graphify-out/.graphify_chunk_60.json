@@ -1,0 +1,1032 @@
+{
+  "nodes": [
+    {
+      "id": "composurepostprocesspass",
+      "label": "ComposurePostProcessPass",
+      "file_type": "document",
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "composurepostprocesspass_set_setup_material",
+      "label": "set_setup_material",
+      "file_type": "document",
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 52"
+    },
+    {
+      "id": "composurepostprocesspass_set_output_render_target",
+      "label": "set_output_render_target",
+      "file_type": "document",
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 66"
+    },
+    {
+      "id": "composurepostprocesspass_get_setup_material",
+      "label": "get_setup_material",
+      "file_type": "document",
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 80"
+    },
+    {
+      "id": "composurepostprocesspass_get_output_render_target",
+      "label": "get_output_render_target",
+      "file_type": "document",
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 94"
+    },
+    {
+      "id": "materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "document",
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "texturerendertarget2d",
+      "label": "TextureRenderTarget2D",
+      "file_type": "document",
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "geometryscriptflarewarpoptions",
+      "label": "GeometryScriptFlareWarpOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptFlareWarpOptions Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "geometryscriptflaretype",
+      "label": "GeometryScriptFlareType",
+      "file_type": "document",
+      "source_file": "GeometryScriptFlareWarpOptions Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "geometryscript_ray",
+      "label": "GeometryScript_Ray",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "geometryscript_ray_make_ray_from_points",
+      "label": "make_ray_from_points",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 21"
+    },
+    {
+      "id": "geometryscript_ray_make_ray_from_point_direction",
+      "label": "make_ray_from_point_direction",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 40"
+    },
+    {
+      "id": "geometryscript_ray_get_transformed_ray",
+      "label": "get_transformed_ray",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 63"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_start_end",
+      "label": "get_ray_start_end",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 86"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_sphere_intersection",
+      "label": "get_ray_sphere_intersection",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 113"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_segment_closest_point",
+      "label": "get_ray_segment_closest_point",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 143"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_point_distance",
+      "label": "get_ray_point_distance",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 171"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_point",
+      "label": "get_ray_point",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 190"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_plane_intersection",
+      "label": "get_ray_plane_intersection",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 209"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_parameter",
+      "label": "get_ray_parameter",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 230"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_line_closest_point",
+      "label": "get_ray_line_closest_point",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 249"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_closest_point",
+      "label": "get_ray_closest_point",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 280"
+    },
+    {
+      "id": "geometryscript_ray_get_ray_box_intersection",
+      "label": "get_ray_box_intersection",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 299"
+    },
+    {
+      "id": "ray",
+      "label": "Ray",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "plane",
+      "label": "Plane",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "box",
+      "label": "Box",
+      "file_type": "document",
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "aescollisionexporter",
+      "label": "AesCollisionExporter",
+      "file_type": "document",
+      "source_file": "AesCollisionExporter Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "aescollisionlayerinfo",
+      "label": "AesCollisionLayerInfo",
+      "file_type": "document",
+      "source_file": "AesCollisionExporter Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "animnotify_playniagaraeeffect",
+      "label": "AnimNotify_PlayNiagaraEffect",
+      "file_type": "document",
+      "source_file": "AnimNotify_PlayNiagaraEffect Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "animnotify_playniagaraeeffect_get_spawned_effect",
+      "label": "get_spawned_effect",
+      "file_type": "document",
+      "source_file": "AnimNotify_PlayNiagaraEffect Objects.md",
+      "source_location": "line 87"
+    },
+    {
+      "id": "niagarasystem",
+      "label": "NiagaraSystem",
+      "file_type": "document",
+      "source_file": "AnimNotify_PlayNiagaraEffect Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "fxsystemcomponent",
+      "label": "FXSystemComponent",
+      "file_type": "document",
+      "source_file": "AnimNotify_PlayNiagaraEffect Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "rcbehaviourrangemapnode",
+      "label": "RCBehaviourRangeMapNode",
+      "file_type": "document",
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "rcbehaviourrangemapnode_on_passed",
+      "label": "on_passed",
+      "file_type": "document",
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 27"
+    },
+    {
+      "id": "rcbehaviourrangemapnode_is_supported",
+      "label": "is_supported",
+      "file_type": "document",
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 41"
+    },
+    {
+      "id": "rcbehaviourrangemapnode_execute",
+      "label": "execute",
+      "file_type": "document",
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 58"
+    },
+    {
+      "id": "rcbehaviour",
+      "label": "RCBehaviour",
+      "file_type": "document",
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "cesiumsublevel",
+      "label": "CesiumSubLevel",
+      "file_type": "document",
+      "source_file": "CesiumSubLevel Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "updatearrayduplicateparams",
+      "label": "UpdateArrayDuplicateParams",
+      "file_type": "document",
+      "source_file": "UpdateArrayDuplicateParams Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "rotator",
+      "label": "Rotator",
+      "file_type": "document",
+      "source_file": "UpdateArrayDuplicateParams Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "mediaplaylistfactorynew",
+      "label": "MediaPlaylistFactoryNew",
+      "file_type": "document",
+      "source_file": "MediaPlaylistFactoryNew Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "canvasicon",
+      "label": "CanvasIcon",
+      "file_type": "document",
+      "source_file": "CanvasIcon Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "texture",
+      "label": "Texture",
+      "file_type": "document",
+      "source_file": "CanvasIcon Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "shallowwatersimulationgrid",
+      "label": "ShallowWaterSimulationGrid",
+      "file_type": "document",
+      "source_file": "ShallowWaterSimulationGrid Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "interactivetoolpresetstore",
+      "label": "InteractiveToolPresetStore",
+      "file_type": "document",
+      "source_file": "InteractiveToolPresetStore Objects.md",
+      "source_location": "line 4"
+    },
+    {
+      "id": "interactivetoolpresetdefinition",
+      "label": "InteractiveToolPresetDefinition",
+      "file_type": "document",
+      "source_file": "InteractiveToolPresetStore Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "slatebrush",
+      "label": "SlateBrush",
+      "file_type": "document",
+      "source_file": "InteractiveToolPresetStore Objects.md",
+      "source_location": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "composurepostprocesspass",
+      "target": "composurepostprocesspass_set_setup_material",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 52",
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass",
+      "target": "composurepostprocesspass_set_output_render_target",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 66",
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass",
+      "target": "composurepostprocesspass_get_setup_material",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 80",
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass",
+      "target": "composurepostprocesspass_get_output_render_target",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 94",
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass_set_setup_material",
+      "target": "materialinterface",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 52",
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass_set_output_render_target",
+      "target": "texturerendertarget2d",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 66",
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass_get_setup_material",
+      "target": "materialinterface",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 80",
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass_get_output_render_target",
+      "target": "texturerendertarget2d",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": "line 94",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptflarewarpoptions",
+      "target": "geometryscriptflaretype",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptFlareWarpOptions Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_make_ray_from_points",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_make_ray_from_point_direction",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 40",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_transformed_ray",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 63",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_start_end",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 86",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_sphere_intersection",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 113",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_segment_closest_point",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 143",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_point_distance",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 171",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_point",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 190",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_plane_intersection",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 209",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_parameter",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 230",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_line_closest_point",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 249",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_closest_point",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 280",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray",
+      "target": "geometryscript_ray_get_ray_box_intersection",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 299",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_make_ray_from_points",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_make_ray_from_points",
+      "target": "ray",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_make_ray_from_point_direction",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 40",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_make_ray_from_point_direction",
+      "target": "ray",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 40",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_transformed_ray",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 63",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_transformed_ray",
+      "target": "transform",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 63",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_start_end",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 86",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_start_end",
+      "target": "vector",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 86",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_sphere_intersection",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 113",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_sphere_intersection",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 113",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_segment_closest_point",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 143",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_segment_closest_point",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 143",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_point_distance",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 171",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_point_distance",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 171",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_point",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 190",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_point",
+      "target": "vector",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 190",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_plane_intersection",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 209",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_plane_intersection",
+      "target": "plane",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 209",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_parameter",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 230",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_parameter",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 230",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_line_closest_point",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 249",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_line_closest_point",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 249",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_closest_point",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 280",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_closest_point",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 280",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_closest_point",
+      "target": "vector",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 280",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_box_intersection",
+      "target": "ray",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 299",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_box_intersection",
+      "target": "box",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": "line 299",
+      "weight": 1.0
+    },
+    {
+      "source": "aescollisionexporter",
+      "target": "aescollisionlayerinfo",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesCollisionExporter Objects.md",
+      "source_location": "line 31",
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playniagaraeeffect",
+      "target": "animnotify_playniagaraeeffect_get_spawned_effect",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify_PlayNiagaraEffect Objects.md",
+      "source_location": "line 87",
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playniagaraeeffect",
+      "target": "niagarasystem",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify_PlayNiagaraEffect Objects.md",
+      "source_location": "line 25",
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playniagaraeeffect_get_spawned_effect",
+      "target": "fxsystemcomponent",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify_PlayNiagaraEffect Objects.md",
+      "source_location": "line 87",
+      "weight": 1.0
+    },
+    {
+      "source": "rcbehaviourrangemapnode",
+      "target": "rcbehaviourrangemapnode_on_passed",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "rcbehaviourrangemapnode",
+      "target": "rcbehaviourrangemapnode_is_supported",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 41",
+      "weight": 1.0
+    },
+    {
+      "source": "rcbehaviourrangemapnode",
+      "target": "rcbehaviourrangemapnode_execute",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 58",
+      "weight": 1.0
+    },
+    {
+      "source": "rcbehaviourrangemapnode_on_passed",
+      "target": "rcbehaviour",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "rcbehaviourrangemapnode_is_supported",
+      "target": "rcbehaviour",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 41",
+      "weight": 1.0
+    },
+    {
+      "source": "rcbehaviourrangemapnode_execute",
+      "target": "rcbehaviour",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourRangeMapNode Objects.md",
+      "source_location": "line 58",
+      "weight": 1.0
+    },
+    {
+      "source": "updatearrayduplicateparams",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateArrayDuplicateParams Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "updatearrayduplicateparams",
+      "target": "rotator",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateArrayDuplicateParams Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "canvasicon",
+      "target": "texture",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CanvasIcon Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "interactivetoolpresetstore",
+      "target": "interactivetoolpresetdefinition",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InteractiveToolPresetStore Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "interactivetoolpresetstore",
+      "target": "slatebrush",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InteractiveToolPresetStore Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_sphere_intersection",
+      "target": "geometryscript_ray_get_ray_point",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_ray_get_ray_point",
+      "target": "geometryscript_ray_get_ray_closest_point",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScript_Ray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass_set_setup_material",
+      "target": "composurepostprocesspass_get_setup_material",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composurepostprocesspass_set_output_render_target",
+      "target": "composurepostprocesspass_get_output_render_target",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ComposurePostProcessPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

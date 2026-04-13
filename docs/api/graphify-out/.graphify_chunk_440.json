@@ -1,0 +1,630 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathrbfinterpolatequatbase_rigunit_mathrbfinterpolatequatbase",
+      "label": "RigUnit_MathRBFInterpolateQuatBase",
+      "file_type": "code",
+      "source_file": "RigUnit_MathRBFInterpolateQuatBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setgeolayerlocationparams_setgeolayerlocationparams",
+      "label": "SetGeoLayerLocationParams",
+      "file_type": "code",
+      "source_file": "SetGeoLayerLocationParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proceduralfoliagevolume_proceduralfoliagevolume",
+      "label": "ProceduralFoliageVolume",
+      "file_type": "code",
+      "source_file": "ProceduralFoliageVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__aimbone__target_rigunit__aimbone__target",
+      "label": "RigUnit_AimBone_Target",
+      "file_type": "code",
+      "source_file": "RigUnit__AimBone__Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onpropertyitemvariantchanged_onpropertyitemvariantchanged",
+      "label": "OnPropertyItemVariantChanged",
+      "file_type": "code",
+      "source_file": "OnPropertyItemVariantChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsamplephysicsintegerfield_materialexpressionsamplephysicsintegerfield",
+      "label": "MaterialExpressionSamplePhysicsIntegerField",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSamplePhysicsIntegerField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpeffectpostbase_dcpeffectpostbase",
+      "label": "DCPEffectPostBase",
+      "file_type": "code",
+      "source_file": "DCPEffectPostBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpassetdescription_wdpassetdescription",
+      "label": "WdpAssetDescription",
+      "file_type": "code",
+      "source_file": "WdpAssetDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__collectionchainarray_rigunit__collectionchainarray",
+      "label": "RigUnit_CollectionChainArray",
+      "file_type": "code",
+      "source_file": "RigUnit__CollectionChainArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearrayfloat3_niagaradatainterfacearrayfloat3",
+      "label": "NiagaraDataInterfaceArrayFloat3",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceArrayFloat3 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datadrivencvarenginesubsystem_datadrivencvarenginesubsystem",
+      "label": "DataDrivenCVarEngineSubsystem",
+      "file_type": "code",
+      "source_file": "DataDrivenCVarEngineSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcalculatenormalsoptions_geometryscriptcalculatenormalsoptions",
+      "label": "GeometryScriptCalculateNormalsOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptCalculateNormalsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimestaticmeshconfig_gltfruntimestaticmeshconfig",
+      "label": "glTFRuntimeStaticMeshConfig",
+      "file_type": "code",
+      "source_file": "glTFRuntimeStaticMeshConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphshowflags_moviegraphshowflags",
+      "label": "MovieGraphShowFlags",
+      "file_type": "code",
+      "source_file": "MovieGraphShowFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightcollection_lightcollection",
+      "label": "LightCollection",
+      "file_type": "code",
+      "source_file": "LightCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode__modifycurve_animgraphnode__modifycurve",
+      "label": "AnimGraphNode_ModifyCurve",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__ModifyCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolequals_rigvmfunction_mathboolequals",
+      "label": "RigVMFunction_MathBoolEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathBoolEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmdefaultmaterialpropertyslotvalue_dmdefaultmaterialpropertyslotvalue",
+      "label": "DMDefaultMaterialPropertySlotValue",
+      "file_type": "code",
+      "source_file": "DMDefaultMaterialPropertySlotValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aessplatmapeditorcommandparams__paint_aessplatmapeditorcommandparams__paint",
+      "label": "AesSplatMapEditorCommandParams_Paint",
+      "file_type": "code",
+      "source_file": "AesSplatMapEditorCommandParams__Paint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathfloatmake_rigvmfunction__mathfloatmake",
+      "label": "RigVMFunction_MathFloatMake",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "baseeum_baseeum",
+      "label": "BaseEum",
+      "file_type": "code",
+      "source_file": "BaseEum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathintgreater_rigvmfunction__mathintgreater",
+      "label": "RigVMFunction_MathIntGreater",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathIntGreater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "RigUnit__AimBone__Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathBoolEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "code",
+      "source_file": "glTFRuntimeStaticMeshConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathrbfinterpolatequatbase_rigunit_mathrbfinterpolatequatbase",
+      "target": "rigvmfunction_mathrbfinterpolatequatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathRBFInterpolateQuatBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "setgeolayerlocationparams_setgeolayerlocationparams",
+      "target": "eidparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SetGeoLayerLocationParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proceduralfoliagevolume_proceduralfoliagevolume",
+      "target": "volume",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProceduralFoliageVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__aimbone__target_rigunit__aimbone__target",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AimBone__Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__aimbone__target_rigunit__aimbone__target",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AimBone__Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onpropertyitemvariantchanged_onpropertyitemvariantchanged",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnPropertyItemVariantChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsamplephysicsintegerfield_materialexpressionsamplephysicsintegerfield",
+      "target": "materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSamplePhysicsIntegerField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpeffectpostbase_dcpeffectpostbase",
+      "target": "dcpeffectselectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPEffectPostBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpassetdescription_wdpassetdescription",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpAssetDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__collectionchainarray_rigunit__collectionchainarray",
+      "target": "rigunit_collectionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionChainArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__collectionchainarray_rigunit__collectionchainarray",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionChainArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearrayfloat3_niagaradatainterfacearrayfloat3",
+      "target": "niagaradatainterfacearray",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceArrayFloat3 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datadrivencvarenginesubsystem_datadrivencvarenginesubsystem",
+      "target": "enginesubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataDrivenCVarEngineSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcalculatenormalsoptions_geometryscriptcalculatenormalsoptions",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCalculateNormalsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimestaticmeshconfig_gltfruntimestaticmeshconfig",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeStaticMeshConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimestaticmeshconfig_gltfruntimestaticmeshconfig",
+      "target": "aesworld_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeStaticMeshConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphshowflags_moviegraphshowflags",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphShowFlags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightcollection_lightcollection",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode__modifycurve_animgraphnode__modifycurve",
+      "target": "animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__ModifyCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolequals_rigvmfunction_mathboolequals",
+      "target": "rigvmfunction_mathboolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathBoolEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolequals_rigvmfunction_mathboolequals",
+      "target": "rigvm_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathBoolEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmdefaultmaterialpropertyslotvalue_dmdefaultmaterialpropertyslotvalue",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMDefaultMaterialPropertySlotValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aessplatmapeditorcommandparams__paint_aessplatmapeditorcommandparams__paint",
+      "target": "aeseditorsimplecommandparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesSplatMapEditorCommandParams__Paint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathfloatmake_rigvmfunction__mathfloatmake",
+      "target": "rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathfloatmake_rigvmfunction__mathfloatmake",
+      "target": "rigvm_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "baseeum_baseeum",
+      "target": "actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BaseEum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathintgreater_rigvmfunction__mathintgreater",
+      "target": "rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntGreater Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathintgreater_rigvmfunction__mathintgreater",
+      "target": "rigvm_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntGreater Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolequals_rigvmfunction_mathboolequals",
+      "target": "rigvmfunction__mathintgreater_rigvmfunction__mathintgreater",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathBoolEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolequals_rigvmfunction_mathboolequals",
+      "target": "rigvmfunction__mathfloatmake_rigvmfunction__mathfloatmake",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathBoolEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathintgreater_rigvmfunction__mathintgreater",
+      "target": "rigvmfunction__mathfloatmake_rigvmfunction__mathfloatmake",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathIntGreater Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcalculatenormalsoptions_geometryscriptcalculatenormalsoptions",
+      "target": "gltfruntimestaticmeshconfig_gltfruntimestaticmeshconfig",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryScriptCalculateNormalsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Math Function Implementations",
+      "nodes": [
+        "rigvmfunction_mathboolequals_rigvmfunction_mathboolequals",
+        "rigvmfunction__mathfloatmake_rigvmfunction__mathfloatmake",
+        "rigvmfunction__mathintgreater_rigvmfunction__mathintgreater"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathBoolEquals Objects.md"
+    },
+    {
+      "id": "controlrig_structs",
+      "label": "ControlRig Structure Types",
+      "nodes": [
+        "rigunit__aimbone__target_rigunit__aimbone__target",
+        "rigunit__collectionchainarray_rigunit__collectionchainarray"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__AimBone__Target Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

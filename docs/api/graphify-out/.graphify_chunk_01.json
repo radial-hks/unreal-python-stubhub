@@ -1,0 +1,573 @@
+{
+  "nodes": [
+    {
+      "id": "MassAssortedFragmentsTrait",
+      "label": "Mass Assorted Fragments Trait",
+      "file_type": "code",
+      "source_file": "MassAssortedFragmentsTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigModuleIdentifier",
+      "label": "Rig Module Identifier",
+      "file_type": "code",
+      "source_file": "RigModuleIdentifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DisplayClusterConfigurationData_Base",
+      "label": "Display Cluster Configuration Data Base",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationData_Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGCombinePointsSettings",
+      "label": "PCG Combine Points Settings",
+      "file_type": "code",
+      "source_file": "PCGCombinePointsSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGMedadataTransformOperation",
+      "label": "PCG Medadata Transform Operation",
+      "file_type": "code",
+      "source_file": "PCGMedadataTransformOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGMetadataTransformOperation",
+      "label": "PCG Metadata Transform Operation",
+      "file_type": "code",
+      "source_file": "PCGMedadataTransformOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "GeoReferencingBFL",
+      "label": "Geo Referencing BFL",
+      "file_type": "code",
+      "source_file": "GeoReferencingBFL Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionTextureSampleParameter2DArray",
+      "label": "Material Expression Texture Sample Parameter 2DArray",
+      "file_type": "code",
+      "source_file": "MaterialExpressionTextureSampleParameter2DArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DisplayClusterChromakeyCardStageActorComponent",
+      "label": "Display Cluster Chromakey Card Stage Actor Component",
+      "file_type": "code",
+      "source_file": "DisplayClusterChromakeyCardStageActorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "HLODInstancedStaticMeshComponent",
+      "label": "HLOD Instanced Static Mesh Component",
+      "file_type": "code",
+      "source_file": "HLODInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathDoubleMax",
+      "label": "Rig VM Function Math Double Max",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LinearConstraintMotion",
+      "label": "Linear Constraint Motion",
+      "file_type": "code",
+      "source_file": "LinearConstraintMotion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneMediaTrack",
+      "label": "Movie Scene Media Track",
+      "file_type": "code",
+      "source_file": "MovieSceneMediaTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AssetsAtomBase",
+      "label": "Assets Atom Base",
+      "file_type": "code",
+      "source_file": "AssetsAtomBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathColorFromFloat",
+      "label": "Rig VM Function Math Color From Float",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathColorFromFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "BehaviorTreeComponent",
+      "label": "Behavior Tree Component",
+      "file_type": "code",
+      "source_file": "BehaviorTreeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MediaTimeStampInfo",
+      "label": "Media Time Stamp Info",
+      "file_type": "code",
+      "source_file": "MediaTimeStampInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DcpLoadAssetFinishResult",
+      "label": "Dcp Load Asset Finish Result",
+      "file_type": "code",
+      "source_file": "DcpLoadAssetFinishResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieGraphConditionGroupQuery_ComponentType",
+      "label": "Movie Graph Condition Group Query Component Type",
+      "file_type": "code",
+      "source_file": "MovieGraphConditionGroupQuery_ComponentType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SparseVolumeTextureViewerComponent",
+      "label": "Sparse Volume Texture Viewer Component",
+      "file_type": "code",
+      "source_file": "SparseVolumeTextureViewerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGIntersectionData",
+      "label": "PCG Intersection Data",
+      "file_type": "code",
+      "source_file": "PCGIntersectionData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_MathTransformBinaryOp",
+      "label": "Rig Unit Math Transform Binary Op",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathColorLerp",
+      "label": "Rig VM Function Math Color Lerp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathColorLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathColorBase",
+      "label": "Rig VM Function Math Color Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathColorFromFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathTransformBinaryOp",
+      "label": "Rig VM Function Math Transform Binary Op",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "MassAssortedFragmentsTrait",
+      "target": "MassEntityTraitBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassAssortedFragmentsTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigModuleIdentifier",
+      "target": "StructBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigModuleIdentifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DisplayClusterConfigurationData_Base",
+      "target": "Object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationData_Base Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGCombinePointsSettings",
+      "target": "PCGSettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGCombinePointsSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGMedadataTransformOperation",
+      "target": "PCGMetadataTransformOperation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMedadataTransformOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "GeoReferencingBFL",
+      "target": "BlueprintFunctionLibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoReferencingBFL Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter2DArray",
+      "target": "MaterialExpressionTextureSampleParameter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionTextureSampleParameter2DArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DisplayClusterChromakeyCardStageActorComponent",
+      "target": "DisplayClusterStageActorComponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterChromakeyCardStageActorComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "HLODInstancedStaticMeshComponent",
+      "target": "InstancedStaticMeshComponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HLODInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathDoubleMax",
+      "target": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneMediaTrack",
+      "target": "MovieSceneNameableTrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneMediaTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AssetsAtomBase",
+      "target": "EntityAtomBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetsAtomBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathColorFromFloat",
+      "target": "RigVMFunction_MathColorBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathColorFromFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "BehaviorTreeComponent",
+      "target": "BrainComponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BehaviorTreeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MediaTimeStampInfo",
+      "target": "Object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaTimeStampInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DcpLoadAssetFinishResult",
+      "target": "EventArgsBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DcpLoadAssetFinishResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieGraphConditionGroupQuery_ComponentType",
+      "target": "MovieGraphConditionGroupQueryBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphConditionGroupQuery_ComponentType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "SparseVolumeTextureViewerComponent",
+      "target": "PrimitiveComponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SparseVolumeTextureViewerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGIntersectionData",
+      "target": "PCGSpatialDataWithPointCache",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGIntersectionData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_MathTransformBinaryOp",
+      "target": "RigVMFunction_MathTransformBinaryOp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathColorLerp",
+      "target": "RigVMFunction_MathColorBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathColorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathColorFromFloat",
+      "target": "RigVMFunction_MathColorLerp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathColorFromFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGCombinePointsSettings",
+      "target": "PCGIntersectionData",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGCombinePointsSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DisplayClusterConfigurationData_Base",
+      "target": "DisplayClusterChromakeyCardStageActorComponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DisplayClusterConfigurationData_Base Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "HLODInstancedStaticMeshComponent",
+      "target": "SparseVolumeTextureViewerComponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "HLODInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_color_functions",
+      "label": "RigVM Math Color Functions",
+      "nodes": [
+        "RigVMFunction_MathColorFromFloat",
+        "RigVMFunction_MathColorLerp",
+        "RigVMFunction_MathColorBase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathColorFromFloat Objects.md"
+    },
+    {
+      "id": "pcg_data_structures",
+      "label": "PCG Data Structures",
+      "nodes": [
+        "PCGCombinePointsSettings",
+        "PCGIntersectionData",
+        "PCGMetadataTransformOperation"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGCombinePointsSettings Objects.md"
+    },
+    {
+      "id": "display_cluster_components",
+      "label": "Display Cluster Components",
+      "nodes": [
+        "DisplayClusterConfigurationData_Base",
+        "DisplayClusterChromakeyCardStageActorComponent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DisplayClusterConfigurationData_Base Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

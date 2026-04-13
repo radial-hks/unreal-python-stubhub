@@ -1,0 +1,877 @@
+{
+  "nodes": [
+    {
+      "id": "displayclusterconfigurationicvfx_camerarendersettings",
+      "label": "DisplayClusterConfigurationICVFX_CameraRenderSettings",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_CameraRenderSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacadelayoutshapegrammar",
+      "label": "EarthFacadeLayoutShapeGrammar",
+      "file_type": "code",
+      "source_file": "EarthFacadeLayoutShapeGrammar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageinputexpression",
+      "label": "DMMaterialStageInputExpression",
+      "file_type": "code",
+      "source_file": "DMMaterialStageInputExpression Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectrequestfilter",
+      "label": "SmartObjectRequestFilter",
+      "file_type": "code",
+      "source_file": "SmartObjectRequestFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktickdelegate",
+      "label": "LiveLinkTickDelegate",
+      "file_type": "code",
+      "source_file": "LiveLinkTickDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__itembasemutable",
+      "label": "RigUnit_ItemBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__ItemBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmviewmodelbindinghelpertest",
+      "label": "MVVMViewModelBindingHelperTest",
+      "file_type": "code",
+      "source_file": "MVVMViewModelBindingHelperTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oceancollisioncomponent",
+      "label": "OceanCollisionComponent",
+      "file_type": "code",
+      "source_file": "OceanCollisionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pivotscalegizmohandlegroup",
+      "label": "PivotScaleGizmoHandleGroup",
+      "file_type": "code",
+      "source_file": "PivotScaleGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusshadertext",
+      "label": "OptimusShaderText",
+      "file_type": "code",
+      "source_file": "OptimusShaderText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__gettransformanimationchannelfromitem",
+      "label": "RigUnit_GetTransformAnimationChannelFromItem",
+      "file_type": "code",
+      "source_file": "RigUnit__GetTransformAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsplinesamplersettings",
+      "label": "PCGSplineSamplerSettings",
+      "file_type": "code",
+      "source_file": "PCGSplineSamplerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatewidgetstylecontainerbase",
+      "label": "SlateWidgetStyleContainerBase",
+      "file_type": "code",
+      "source_file": "SlateWidgetStyleContainerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjunctionsurfaceprefabalgorithm",
+      "label": "EarthJunctionSurfacePrefabAlgorithm",
+      "file_type": "code",
+      "source_file": "EarthJunctionSurfacePrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppickpolylineapi",
+      "label": "WdpPickPolylineAPI",
+      "file_type": "code",
+      "source_file": "WdpPickPolylineAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__slidechain",
+      "label": "RigUnit_SlideChain",
+      "file_type": "code",
+      "source_file": "RigUnit__SlideChain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller__onzoomkeypressed",
+      "label": "WdpPlayerController_OnZoomKeyPressed",
+      "file_type": "code",
+      "source_file": "WdpPlayerController__OnZoomKeyPressed Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumfeaturesmetadatacomponent",
+      "label": "CesiumFeaturesMetadataComponent",
+      "file_type": "code",
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineoutputdata",
+      "label": "MoviePipelineOutputData",
+      "file_type": "code",
+      "source_file": "MoviePipelineOutputData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnsensingcomponent_seepawndelegate",
+      "label": "PawnSensingComponent_SeePawnDelegate",
+      "file_type": "code",
+      "source_file": "PawnSensingComponent_SeePawnDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "realcurve",
+      "label": "RealCurve",
+      "file_type": "code",
+      "source_file": "RealCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "int32convertermethod",
+      "label": "Int32ConverterMethod",
+      "file_type": "code",
+      "source_file": "Int32ConverterMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstage",
+      "label": "DMMaterialStage",
+      "file_type": "code",
+      "source_file": "DMMaterialStageInputExpression Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpression",
+      "label": "DMMaterialStageExpression",
+      "file_type": "code",
+      "source_file": "DMMaterialStageInputExpression Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmateriallayerobject",
+      "label": "DMMaterialLayerObject",
+      "file_type": "code",
+      "source_file": "DMMaterialStageInputExpression Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__ItemBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SlideChain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__ItemBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "code",
+      "source_file": "OceanCollisionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineexecutorjob",
+      "label": "MoviePipelineExecutorJob",
+      "file_type": "code",
+      "source_file": "MoviePipelineOutputData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinebase",
+      "label": "MoviePipelineBase",
+      "file_type": "code",
+      "source_file": "MoviePipelineOutputData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmviewmodelbase",
+      "label": "MVVMViewModelBase",
+      "file_type": "code",
+      "source_file": "MVVMViewModelBindingHelperTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "LiveLinkTickDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGSplineSamplerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsplinesamplerparams",
+      "label": "PCGSplineSamplerParams",
+      "file_type": "code",
+      "source_file": "PCGSplineSamplerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "code",
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumfeatureidsetdescription",
+      "label": "CesiumFeatureIdSetDescription",
+      "file_type": "code",
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumpropertytabledescription",
+      "label": "CesiumPropertyTableDescription",
+      "file_type": "code",
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumpropertytexturedescription",
+      "label": "CesiumPropertyTextureDescription",
+      "file_type": "code",
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "displayclusterconfigurationicvfx_camerarendersettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_CameraRenderSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacadelayoutshapegrammar",
+      "target": "earthfacadelayoutbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeLayoutShapeGrammar Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageinputexpression",
+      "target": "dmmaterialstageinputthroughput",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageInputExpression Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageinputexpression",
+      "target": "dmmaterialstage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageInputExpression Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageinputexpression",
+      "target": "dmmaterialstageexpression",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageInputExpression Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageinputexpression",
+      "target": "dmmateriallayerobject",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageInputExpression Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectrequestfilter",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectRequestFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktickdelegate",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkTickDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__itembasemutable",
+      "target": "rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ItemBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__itembasemutable",
+      "target": "controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ItemBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmviewmodelbindinghelpertest",
+      "target": "mvvmviewmodelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMViewModelBindingHelperTest Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oceancollisioncomponent",
+      "target": "primitivecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OceanCollisionComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pivotscalegizmohandlegroup",
+      "target": "axisgizmohandlegroup",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PivotScaleGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusshadertext",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusShaderText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__gettransformanimationchannelfromitem",
+      "target": "rigunit_getanimationchannelfromitembase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetTransformAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsplinesamplersettings",
+      "target": "pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSplineSamplerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsplinesamplersettings",
+      "target": "pcgsplinesamplerparams",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSplineSamplerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slatewidgetstylecontainerbase",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateWidgetStyleContainerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjunctionsurfaceprefabalgorithm",
+      "target": "earthprefabalgorithm",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthJunctionSurfacePrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdppickpolylineapi",
+      "target": "standardapiclassbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPickPolylineAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__slidechain",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SlideChain Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__slidechain",
+      "target": "controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SlideChain Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller__onzoomkeypressed",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController__OnZoomKeyPressed Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeaturesmetadatacomponent",
+      "target": "actorcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeaturesmetadatacomponent",
+      "target": "cesiumfeatureidsetdescription",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeaturesmetadatacomponent",
+      "target": "cesiumpropertytabledescription",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeaturesmetadatacomponent",
+      "target": "cesiumpropertytexturedescription",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeaturesMetadataComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineoutputdata",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineOutputData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineoutputdata",
+      "target": "moviepipelinebase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineOutputData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineoutputdata",
+      "target": "moviepipelineexecutorjob",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineOutputData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnsensingcomponent_seepawndelegate",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnSensingComponent_SeePawnDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "realcurve",
+      "target": "indexedcurve",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RealCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "int32convertermethod",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Int32ConverterMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__itembasemutable",
+      "target": "rigunit__slidechain",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ItemBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__itembasemutable",
+      "target": "rigunit__gettransformanimationchannelfromitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ItemBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__slidechain",
+      "target": "rigunit__gettransformanimationchannelfromitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__SlideChain Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktickdelegate",
+      "target": "wdpplayercontroller__onzoomkeypressed",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LiveLinkTickDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktickdelegate",
+      "target": "pawnsensingcomponent_seepawndelegate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LiveLinkTickDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller__onzoomkeypressed",
+      "target": "pawnsensingcomponent_seepawndelegate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpPlayerController__OnZoomKeyPressed Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacadelayoutshapegrammar",
+      "target": "earthjunctionsurfaceprefabalgorithm",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EarthFacadeLayoutShapeGrammar Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_unit_hierarchy",
+      "label": "ControlRig Unit Hierarchy",
+      "nodes": [
+        "rigunit__itembasemutable",
+        "rigunit__slidechain",
+        "rigunit__gettransformanimationchannelfromitem"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ItemBaseMutable Objects.md"
+    },
+    {
+      "id": "delegate_pattern",
+      "label": "Unreal Delegate Pattern",
+      "nodes": [
+        "livelinktickdelegate",
+        "wdpplayercontroller__onzoomkeypressed",
+        "pawnsensingcomponent_seepawndelegate"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LiveLinkTickDelegate Objects.md"
+    },
+    {
+      "id": "earth_prefab_system",
+      "label": "Earth Prefab System",
+      "nodes": [
+        "earthfacadelayoutshapegrammar",
+        "earthjunctionsurfaceprefabalgorithm"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthFacadeLayoutShapeGrammar Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

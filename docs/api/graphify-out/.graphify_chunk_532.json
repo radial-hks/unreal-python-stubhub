@@ -1,0 +1,757 @@
+{
+  "nodes": [
+    {
+      "id": "createmeshobjectsourcemeshtype_class",
+      "label": "CreateMeshObjectSourceMeshType",
+      "file_type": "code",
+      "source_file": "CreateMeshObjectSourceMeshType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_transformconstraint_class",
+      "label": "RigUnit_TransformConstraint",
+      "file_type": "code",
+      "source_file": "RigUnit__TransformConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getintanimationchannel_class",
+      "label": "RigUnit_GetIntAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit__GetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanagedcomponentlist_class",
+      "label": "PCGManagedComponentList",
+      "file_type": "code",
+      "source_file": "PCGManagedComponentList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "graphdataprovider_class",
+      "label": "GraphDataProvider",
+      "file_type": "code",
+      "source_file": "GraphDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polylinesgraphicsentityatom_class",
+      "label": "PolylinesGraphicsEntityAtom",
+      "file_type": "code",
+      "source_file": "PolylinesGraphicsEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchygetchainitemarray_class",
+      "label": "RigUnit_HierarchyGetChainItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyGetChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_setmetadata_class",
+      "label": "RigDispatch_SetMetadata",
+      "file_type": "code",
+      "source_file": "RigDispatch__SetMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pyteststructlibrary_class",
+      "label": "PyTestStructLibrary",
+      "file_type": "code",
+      "source_file": "PyTestStructLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "morphtarget_class",
+      "label": "MorphTarget",
+      "file_type": "code",
+      "source_file": "MorphTarget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene2dtransformtrack_class",
+      "label": "MovieScene2DTransformTrack",
+      "file_type": "code",
+      "source_file": "MovieScene2DTransformTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionwarprotationtype_class",
+      "label": "MotionWarpRotationType",
+      "file_type": "code",
+      "source_file": "MotionWarpRotationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datatablecategoryhandle_class",
+      "label": "DataTableCategoryHandle",
+      "file_type": "code",
+      "source_file": "DataTableCategoryHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamefeaturedata_class",
+      "label": "GameFeatureData",
+      "file_type": "code",
+      "source_file": "GameFeatureData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitattributechangethresholdelegate_class",
+      "label": "WaitAttributeChangeThresholdDelegate",
+      "file_type": "code",
+      "source_file": "WaitAttributeChangeThresholdDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animbonecompressionsettingsfactory_class",
+      "label": "AnimBoneCompressionSettingsFactory",
+      "file_type": "code",
+      "source_file": "AnimBoneCompressionSettingsFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spaceheatmapstyle_class",
+      "label": "SpaceHeatMapStyle",
+      "file_type": "code",
+      "source_file": "SpaceHeatMapStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_sequenceplayer_class",
+      "label": "AnimGraphNode_SequencePlayer",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaradialarrangemodifier_class",
+      "label": "AvaRadialArrangeModifier",
+      "file_type": "code",
+      "source_file": "AvaRadialArrangeModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datalayercreationparameters_class",
+      "label": "DataLayerCreationParameters",
+      "file_type": "code",
+      "source_file": "DataLayerCreationParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_deadblending_class",
+      "label": "AnimGraphNode_DeadBlending",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_DeadBlending Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigchildofprimaryconnectionrule_class",
+      "label": "RigChildOfPrimaryConnectionRule",
+      "file_type": "code",
+      "source_file": "RigChildOfPrimaryConnectionRule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_entity",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "CreateMeshObjectSourceMeshType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable_entity",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__TransformConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelbase_entity",
+      "label": "RigUnit_GetAnimationChannelBase",
+      "file_type": "code",
+      "source_file": "RigUnit__GetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanagedcomponentbase_entity",
+      "label": "PCGManagedComponentBase",
+      "file_type": "code",
+      "source_file": "PCGManagedComponentList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusgraphdataprovider_entity",
+      "label": "OptimusGraphDataProvider",
+      "file_type": "code",
+      "source_file": "GraphDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase_entity",
+      "label": "EntityAtomBase",
+      "file_type": "code",
+      "source_file": "PolylinesGraphicsEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchybase_entity",
+      "label": "RigUnit_HierarchyBase",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyGetChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_metadatabase_entity",
+      "label": "RigDispatch_MetadataBase",
+      "file_type": "code",
+      "source_file": "RigDispatch__SetMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctiolibrary_entity",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "PyTestStructLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_entity",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "MorphTarget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenepropertytrack_entity",
+      "label": "MovieScenePropertyTrack",
+      "file_type": "code",
+      "source_file": "MovieScene2DTransformTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_entity",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "DataTableCategoryHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primarydataasset_entity",
+      "label": "PrimaryDataAsset",
+      "file_type": "code",
+      "source_file": "GameFeatureData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_entity",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "WaitAttributeChangeThresholdDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_entity",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "AnimBoneCompressionSettingsFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_assetplayerbase_entity",
+      "label": "AnimGraphNode_AssetPlayerBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaarrangebasemodifier_entity",
+      "label": "AvaArrangeBaseModifier",
+      "file_type": "code",
+      "source_file": "AvaRadialArrangeModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_entity",
+      "label": "AnimGraphNode_Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_DeadBlending Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigconnectionrule_entity",
+      "label": "RigConnectionRule",
+      "file_type": "code",
+      "source_file": "RigChildOfPrimaryConnectionRule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "RigUnit__TransformConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "createmeshobjectsourcemeshtype_class",
+      "target": "enumbase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateMeshObjectSourceMeshType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_transformconstraint_class",
+      "target": "rigunit_highlevelbasemutable_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TransformConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getintanimationchannel_class",
+      "target": "rigunit_getanimationchannelbase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmanagedcomponentlist_class",
+      "target": "pcgmanagedcomponentbase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGManagedComponentList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "graphdataprovider_class",
+      "target": "optimusgraphdataprovider_entity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GraphDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "polylinesgraphicsentityatom_class",
+      "target": "entityatombase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PolylinesGraphicsEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetchainitemarray_class",
+      "target": "rigunit_hierarchybase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_setmetadata_class",
+      "target": "rigdispatch_metadatabase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigDispatch__SetMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pyteststructlibrary_class",
+      "target": "blueprintfunctiolibrary_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestStructLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "morphtarget_class",
+      "target": "object_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MorphTarget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene2dtransformtrack_class",
+      "target": "moviescenepropertytrack_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScene2DTransformTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datatablecategoryhandle_class",
+      "target": "structbase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataTableCategoryHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gamefeaturedata_class",
+      "target": "primarydataasset_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameFeatureData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waitattributechangethresholdelegate_class",
+      "target": "multicastdelegatebase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaitAttributeChangeThresholdDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animbonecompressionsettingsfactory_class",
+      "target": "factory_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimBoneCompressionSettingsFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_sequenceplayer_class",
+      "target": "animgraphnode_assetplayerbase_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaradialarrangemodifier_class",
+      "target": "avaarrangebasemodifier_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaRadialArrangeModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_deadblending_class",
+      "target": "animgraphnode_base_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_DeadBlending Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigchildofprimaryconnectionrule_class",
+      "target": "rigconnectionrule_entity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigChildOfPrimaryConnectionRule Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_transformconstraint_class",
+      "target": "controlrig_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__TransformConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getintanimationchannel_class",
+      "target": "controlrig_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__GetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetchainitemarray_class",
+      "target": "controlrig_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_HierarchyGetChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_setmetadata_class",
+      "target": "controlrig_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigDispatch__SetMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigchildofprimaryconnectionrule_class",
+      "target": "controlrig_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigChildOfPrimaryConnectionRule Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_sequenceplayer_class",
+      "target": "animgraphnode_deadblending_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_transformconstraint_class",
+      "target": "rigunit_hierarchygetchainitemarray_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__TransformConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_hierarchy_units",
+      "label": "ControlRig Hierarchy and Transform Units",
+      "nodes": [
+        "rigunit_transformconstraint_class",
+        "rigunit_hierarchygetchainitemarray_class",
+        "rigdispatch_setmetadata_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__TransformConstraint Objects.md"
+    },
+    {
+      "id": "animgraph_node_types",
+      "label": "Animation Graph Node Types",
+      "nodes": [
+        "animgraphnode_sequenceplayer_class",
+        "animgraphnode_deadblending_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__SequencePlayer Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

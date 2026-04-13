@@ -1,0 +1,442 @@
+{
+  "nodes": [
+    {
+      "id": "timeinterval_timeinterval",
+      "label": "TimeInterval",
+      "file_type": "code",
+      "source_file": "TimeInterval Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencermeshtrail_sequencermeshtrail",
+      "label": "SequencerMeshTrail",
+      "file_type": "code",
+      "source_file": "SequencerMeshTrail Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rb_constraintactor_rb_constraintactor",
+      "label": "RB_ConstraintActor",
+      "file_type": "code",
+      "source_file": "RB_ConstraintActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsconstraintactor_physicsconstraintactor",
+      "label": "PhysicsConstraintActor",
+      "file_type": "code",
+      "source_file": "RB_ConstraintActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_settransformitemarray_rigunit_settransformitemarray",
+      "label": "RigUnit_SetTransformItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit__SetTransformItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackdetails_curve_hapticfeedbackdetails_curve",
+      "label": "HapticFeedbackDetails_Curve",
+      "file_type": "code",
+      "source_file": "HapticFeedbackDetails_Curve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmlinkedpinvalue_mvvmlinkedpinvalue",
+      "label": "MVVMLinkedPinValue",
+      "file_type": "code",
+      "source_file": "MVVMLinkedPinValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerint4variable_rigvmtrait_setdeformerint4variable",
+      "label": "RigVMTrait_SetDeformerInt4Variable",
+      "file_type": "code",
+      "source_file": "RigVMTrait_SetDeformerInt4Variable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectdebugrenderingcomponent_smartobjectdebugrenderingcomponent",
+      "label": "SmartObjectDebugRenderingComponent",
+      "file_type": "code",
+      "source_file": "SmartObjectDebugRenderingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggraphinterface_pcggraphinterface",
+      "label": "PCGGraphInterface",
+      "file_type": "code",
+      "source_file": "PCGGraphInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggraph_pcggraph",
+      "label": "PCGGraph",
+      "file_type": "code",
+      "source_file": "PCGGraphInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_lookat_animnode_lookat",
+      "label": "AnimNode_LookAt",
+      "file_type": "code",
+      "source_file": "AnimNode__LookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspatialnoisemode_pcgspatialnoisemode",
+      "label": "PCGSpatialNoiseMode",
+      "file_type": "code",
+      "source_file": "PCGSpatialNoiseMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangebaselightnode_interchangebaselightnode",
+      "label": "InterchangeBaseLightNode",
+      "file_type": "code",
+      "source_file": "InterchangeBaseLightNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionnamedreroutebase_materialexpressionnamedreroutebase",
+      "label": "MaterialExpressionNamedRerouteBase",
+      "file_type": "code",
+      "source_file": "MaterialExpressionNamedRerouteBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdprectpickerapiparams_wdprectpickerapiparams",
+      "label": "WdpRectPickerApiParams",
+      "file_type": "code",
+      "source_file": "WdpRectPickerApiParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenssettings_cameralenssettings",
+      "label": "CameraLensSettings",
+      "file_type": "code",
+      "source_file": "CameraLensSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacegrid2d_niagaradatainterfacegrid2d",
+      "label": "NiagaraDataInterfaceGrid2D",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescriptingboolchannel_moviescenescriptingboolchannel",
+      "label": "MovieSceneScriptingBoolChannel",
+      "file_type": "code",
+      "source_file": "MovieSceneScriptingBoolChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "arraysortorder_arraysortorder",
+      "label": "ArraySortOrder",
+      "file_type": "code",
+      "source_file": "ArraySortOrder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpcgpointfragment_earthpcgpointfragment",
+      "label": "EarthPcgPointFragment",
+      "file_type": "code",
+      "source_file": "EarthPcgPointFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkcontrollerbase_livelinkcontrollerbase",
+      "label": "LiveLinkControllerBase",
+      "file_type": "code",
+      "source_file": "LiveLinkControllerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "triggercapsule_triggercapsule",
+      "label": "TriggerCapsule",
+      "file_type": "code",
+      "source_file": "TriggerCapsule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "richcurvetangentweightmode_richcurvetangentweightmode",
+      "label": "RichCurveTangentWeightMode",
+      "file_type": "code",
+      "source_file": "RichCurveTangentWeightMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rb_constraintactor_rb_constraintactor",
+      "target": "physicsconstraintactor_physicsconstraintactor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RB_ConstraintActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggraphinterface_pcggraphinterface",
+      "target": "pcggraph_pcggraph",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGGraphInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequencermeshtrail_sequencermeshtrail",
+      "target": "triggercapsule_triggercapsule",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SequencerMeshTrail Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransformitemarray_rigunit_settransformitemarray",
+      "target": "rigvmtrait_setdeformerint4variable_rigvmtrait_setdeformerint4variable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetTransformItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggraphinterface_pcggraphinterface",
+      "target": "pcgspatialnoisemode_pcgspatialnoisemode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGGraphInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangebaselightnode_interchangebaselightnode",
+      "target": "cameralenssettings_cameralenssettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InterchangeBaseLightNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescriptingboolchannel_moviescenescriptingboolchannel",
+      "target": "sequencermeshtrail_sequencermeshtrail",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieSceneScriptingBoolChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacegrid2d_niagaradatainterfacegrid2d",
+      "target": "earthpcgpointfragment_earthpcgpointfragment",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NiagaraDataInterfaceGrid2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_lookat_animnode_lookat",
+      "target": "rigunit_settransformitemarray_rigunit_settransformitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode__LookAt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionnamedreroutebase_materialexpressionnamedreroutebase",
+      "target": "mvvmlinkedpinvalue_mvvmlinkedpinvalue",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionNamedRerouteBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackdetails_curve_hapticfeedbackdetails_curve",
+      "target": "cameralenssettings_cameralenssettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "HapticFeedbackDetails_Curve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "arraysortorder_arraysortorder",
+      "target": "richcurvetangentweightmode_richcurvetangentweightmode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ArraySortOrder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkcontrollerbase_livelinkcontrollerbase",
+      "target": "wdprectpickerapiparams_wdprectpickerapiparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LiveLinkControllerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_animation_system_components",
+      "label": "ControlRig/Animation System Components",
+      "nodes": [
+        "rigunit_settransformitemarray_rigunit_settransformitemarray",
+        "rigvmtrait_setdeformerint4variable_rigvmtrait_setdeformerint4variable",
+        "animnode_lookat_animnode_lookat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetTransformItemArray Objects.md"
+    },
+    {
+      "id": "sequencer_timeline_system",
+      "label": "Sequencer/Timeline Animation System",
+      "nodes": [
+        "sequencermeshtrail_sequencermeshtrail",
+        "moviescenescriptingboolchannel_moviescenescriptingboolchannel"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SequencerMeshTrail Objects.md"
+    },
+    {
+      "id": "procedural_content_generation_system",
+      "label": "Procedural Content Generation System",
+      "nodes": [
+        "pcggraphinterface_pcggraphinterface",
+        "pcgspatialnoisemode_pcgspatialnoisemode",
+        "earthpcgpointfragment_earthpcgpointfragment"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGGraphInterface Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

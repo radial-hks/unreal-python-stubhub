@@ -1,0 +1,389 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_chainharmonics_wave",
+      "label": "RigUnit_ChainHarmonics_Wave",
+      "file_type": "code",
+      "source_file": "RigUnit__ChainHarmonics__Wave Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputusersettings_enhancedinputusersettingschanged",
+      "label": "EnhancedInputUserSettings_EnhancedInputUserSettingsChanged",
+      "file_type": "code",
+      "source_file": "EnhancedInputUserSettings__EnhancedInputUserSettingsChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatortimesourcebase",
+      "label": "PropertyAnimatorTimeSourceBase",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorTimeSourceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoretimesourcebase",
+      "label": "PropertyAnimatorCoreTimeSourceBase",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorTimeSourceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatequatlerp",
+      "label": "RigUnit_AccumulateQuatLerp",
+      "file_type": "code",
+      "source_file": "RigUnit__AccumulateQuatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatequatlerp",
+      "label": "RigVMFunction_AccumulateQuatLerp",
+      "file_type": "code",
+      "source_file": "RigUnit__AccumulateQuatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userinterfaceactiontype",
+      "label": "UserInterfaceActionType",
+      "file_type": "code",
+      "source_file": "UserInterfaceActionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opencolorioeditorblueprintlibrary",
+      "label": "OpenColorIOEditorBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "OpenColorIOEditorBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmultiselectsettings",
+      "label": "PCGMultiSelectSettings",
+      "file_type": "code",
+      "source_file": "PCGMultiSelectSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdatamodel",
+      "label": "AnimDataModel",
+      "file_type": "code",
+      "source_file": "AnimDataModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameracalibrationsubsystem",
+      "label": "CameraCalibrationSubsystem",
+      "file_type": "code",
+      "source_file": "CameraCalibrationSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcglandscapecacheserializationmode",
+      "label": "PCGLandscapeCacheSerializationMode",
+      "file_type": "code",
+      "source_file": "PCGLandscapeCacheSerializationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proceduralfoliagespawnerfactory",
+      "label": "ProceduralFoliageSpawnerFactory",
+      "file_type": "code",
+      "source_file": "ProceduralFoliageSpawnerFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathcolorfromfloat",
+      "label": "RigUnit_MathColorFromFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__MathColorFromFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolorfromfloat",
+      "label": "RigVMFunction_MathColorFromFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__MathColorFromFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector3f",
+      "label": "Vector3f",
+      "file_type": "code",
+      "source_file": "Vector3f Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "outlineritemnameenum",
+      "label": "OutlinerItemNameEnum",
+      "file_type": "code",
+      "source_file": "OutlinerItemNameEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptbakecurvatureclampmode",
+      "label": "GeometryScriptBakeCurvatureClampMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptBakeCurvatureClampMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createheatmapsparams",
+      "label": "CreateHeatMapsParams",
+      "file_type": "code",
+      "source_file": "CreateHeatMapsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_deltafrompreviousquat",
+      "label": "RigVMFunction_DeltaFromPreviousQuat",
+      "file_type": "code",
+      "source_file": "RigVMFunction_DeltaFromPreviousQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourcedataoverridepluginsourcesettingsbase",
+      "label": "SourceDataOverridePluginSourceSettingsBase",
+      "file_type": "code",
+      "source_file": "SourceDataOverridePluginSourceSettingsBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_tangentfromcontrolrigspline",
+      "label": "RigUnit_TangentFromControlRigSpline",
+      "file_type": "code",
+      "source_file": "RigUnit_TangentFromControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelrotator",
+      "label": "RigUnit_HierarchyAddAnimationChannelRotator",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerint2arrayvariable",
+      "label": "RigVMTrait_SetDeformerInt2ArrayVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerInt2ArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectrenderingcomponent",
+      "label": "SmartObjectRenderingComponent",
+      "file_type": "code",
+      "source_file": "SmartObjectRenderingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "propertyanimatortimesourcebase",
+      "target": "propertyanimatorcoretimesourcebase",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorTimeSourceBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatequatlerp",
+      "target": "rigvmfunction_accumulatequatlerp",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AccumulateQuatLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorfromfloat",
+      "target": "rigvmfunction_mathcolorfromfloat",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathColorFromFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonics_wave",
+      "target": "vector3f",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__ChainHarmonics__Wave Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_deltafrompreviousquat",
+      "target": "rigvmfunction_accumulatequatlerp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_DeltaFromPreviousQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdatamodel",
+      "target": "rigunit_chainharmonics_wave",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimDataModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_tangentfromcontrolrigspline",
+      "target": "rigunit_chainharmonics_wave",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_TangentFromControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelrotator",
+      "target": "animdatamodel",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerint2arrayvariable",
+      "target": "rigunit_hierarchyaddanimationchannelrotator",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigVMTrait__SetDeformerInt2ArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_animation_units",
+      "label": "Control Rig Animation Units",
+      "nodes": [
+        "rigunit_chainharmonics_wave",
+        "rigunit_tangentfromcontrolrigspline",
+        "rigunit_hierarchyaddanimationchannelrotator",
+        "rigvmtrait_setdeformerint2arrayvariable"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,708 @@
+{
+  "nodes": [
+    {
+      "id": "EarthSplinePlacementType_earth_spline_placement_type",
+      "label": "EarthSplinePlacementType",
+      "file_type": "document",
+      "source_file": "EarthSplinePlacementType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "VoipListenerSynthComponent_voip_listener_synth_component",
+      "label": "VoipListenerSynthComponent",
+      "file_type": "document",
+      "source_file": "VoipListenerSynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "BlueprintMacroFactory_blueprint_macro_factory",
+      "label": "BlueprintMacroFactory",
+      "file_type": "document",
+      "source_file": "BlueprintMacroFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneAnimationTrackRecorderEditorSettings_movie_scene_animation_track_recorder_editor_settings",
+      "label": "MovieSceneAnimationTrackRecorderEditorSettings",
+      "file_type": "document",
+      "source_file": "MovieSceneAnimationTrackRecorderEditorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MoviePipelineGameOverrideSetting_movie_pipeline_game_override_setting",
+      "label": "MoviePipelineGameOverrideSetting",
+      "file_type": "document",
+      "source_file": "MoviePipelineGameOverrideSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathVectorSub_rig_vm_function_math_vector_sub",
+      "label": "RigVMFunction_MathVectorSub",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MVVMBlueprintFieldPath_mvvm_blueprint_field_path",
+      "label": "MVVMBlueprintFieldPath",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintFieldPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "BackgroundBlurSlot_background_blur_slot",
+      "label": "BackgroundBlurSlot",
+      "file_type": "document",
+      "source_file": "BackgroundBlurSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "OnTakeRecorderPreInitialize_on_take_recorder_pre_initialize",
+      "label": "OnTakeRecorderPreInitialize",
+      "file_type": "document",
+      "source_file": "OnTakeRecorderPreInitialize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "GeoreferenceUpdated_georeference_updated",
+      "label": "GeoreferenceUpdated",
+      "file_type": "document",
+      "source_file": "GeoreferenceUpdated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AnimGraphNode_SequenceEvaluator_anim_graph_node_sequence_evaluator",
+      "label": "AnimGraphNode_SequenceEvaluator",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_SequenceEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "TextRenderComponent_text_render_component",
+      "label": "TextRenderComponent",
+      "file_type": "document",
+      "source_file": "TextRenderComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AvaModifiersAxis_ava_modifiers_axis",
+      "label": "AvaModifiersAxis",
+      "file_type": "document",
+      "source_file": "AvaModifiersAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SkylightTime_skylight_time",
+      "label": "SkylightTime",
+      "file_type": "document",
+      "source_file": "SkylightTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_MathVectorMax_rig_unit_math_vector_max",
+      "label": "RigUnit_MathVectorMax",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EditorUtilityCircularThrobber_editor_utility_circular_throbber",
+      "label": "EditorUtilityCircularThrobber",
+      "file_type": "document",
+      "source_file": "EditorUtilityCircularThrobber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ForceFeedbackComponent_force_feedback_component",
+      "label": "ForceFeedbackComponent",
+      "file_type": "document",
+      "source_file": "ForceFeedbackComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EarthTextureOverlayer_earth_texture_overlayer",
+      "label": "EarthTextureOverlayer",
+      "file_type": "document",
+      "source_file": "EarthTextureOverlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit__MathBoolFlipFlop_rig_unit__math_bool_flip_flop",
+      "label": "RigUnit_MathBoolFlipFlop",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolFlipFlop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RCBehaviourBind_rc_behaviour_bind",
+      "label": "RCBehaviourBind",
+      "file_type": "document",
+      "source_file": "RCBehaviourBind Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_HierarchyAddControlVector2D_rig_unit_hierarchy_add_control_vector2d",
+      "label": "RigUnit_HierarchyAddControlVector2D",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "OnPawnControllerChanged_on_pawn_controller_changed",
+      "label": "OnPawnControllerChanged",
+      "file_type": "document",
+      "source_file": "OnPawnControllerChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SynthComponent_synth_component",
+      "label": "SynthComponent",
+      "file_type": "document",
+      "source_file": "VoipListenerSynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "BlueprintFactory_blueprint_factory",
+      "label": "BlueprintFactory",
+      "file_type": "document",
+      "source_file": "BlueprintMacroFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneTrackRecorderSettings_movie_scene_track_recorder_settings",
+      "label": "MovieSceneTrackRecorderSettings",
+      "file_type": "document",
+      "source_file": "MovieSceneAnimationTrackRecorderEditorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MoviePipelineSetting_movie_pipeline_setting",
+      "label": "MoviePipelineSetting",
+      "file_type": "document",
+      "source_file": "MoviePipelineGameOverrideSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathVectorBinaryOp_rig_vm_function_math_vector_binary_op",
+      "label": "RigVMFunction_MathVectorBinaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "StructBase_struct_base",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintFieldPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PanelSlot_panel_slot",
+      "label": "PanelSlot",
+      "file_type": "document",
+      "source_file": "BackgroundBlurSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DelegateBase_delegate_base",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "OnTakeRecorderPreInitialize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MulticastDelegateBase_multicast_delegate_base",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "GeoreferenceUpdated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AnimGraphNode_AssetPlayerBase_anim_graph_node_asset_player_base",
+      "label": "AnimGraphNode_AssetPlayerBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_SequenceEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PrimitiveComponent_primitive_component",
+      "label": "PrimitiveComponent",
+      "file_type": "document",
+      "source_file": "TextRenderComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ParamsBase_params_base",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "SkylightTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathVectorMax_rig_vm_function_math_vector_max",
+      "label": "RigVMFunction_MathVectorMax",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CircularThrobber_circular_throbber",
+      "label": "CircularThrobber",
+      "file_type": "document",
+      "source_file": "EditorUtilityCircularThrobber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SceneComponent_scene_component",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "ForceFeedbackComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EarthPrefabActor_earth_prefab_actor",
+      "label": "EarthPrefabActor",
+      "file_type": "document",
+      "source_file": "EarthTextureOverlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathBoolFlipFlop_rig_vm_function_math_bool_flip_flop",
+      "label": "RigVMFunction_MathBoolFlipFlop",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolFlipFlop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RCBehaviour_rc_behaviour",
+      "label": "RCBehaviour",
+      "file_type": "document",
+      "source_file": "RCBehaviourBind Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_HierarchyAddControlElement_rig_unit_hierarchy_add_control_element",
+      "label": "RigUnit_HierarchyAddControlElement",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "VoipListenerSynthComponent_voip_listener_synth_component",
+      "target": "SynthComponent_synth_component",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VoipListenerSynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "BlueprintMacroFactory_blueprint_macro_factory",
+      "target": "BlueprintFactory_blueprint_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintMacroFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneAnimationTrackRecorderEditorSettings_movie_scene_animation_track_recorder_editor_settings",
+      "target": "MovieSceneTrackRecorderSettings_movie_scene_track_recorder_settings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneAnimationTrackRecorderEditorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineGameOverrideSetting_movie_pipeline_game_override_setting",
+      "target": "MoviePipelineSetting_movie_pipeline_setting",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineGameOverrideSetting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathVectorSub_rig_vm_function_math_vector_sub",
+      "target": "RigVMFunction_MathVectorBinaryOp_rig_vm_function_math_vector_binary_op",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MVVMBlueprintFieldPath_mvvm_blueprint_field_path",
+      "target": "StructBase_struct_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBlueprintFieldPath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "BackgroundBlurSlot_background_blur_slot",
+      "target": "PanelSlot_panel_slot",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BackgroundBlurSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "OnTakeRecorderPreInitialize_on_take_recorder_pre_initialize",
+      "target": "DelegateBase_delegate_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnTakeRecorderPreInitialize Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "GeoreferenceUpdated_georeference_updated",
+      "target": "MulticastDelegateBase_multicast_delegate_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoreferenceUpdated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_SequenceEvaluator_anim_graph_node_sequence_evaluator",
+      "target": "AnimGraphNode_AssetPlayerBase_anim_graph_node_asset_player_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_SequenceEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "TextRenderComponent_text_render_component",
+      "target": "PrimitiveComponent_primitive_component",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextRenderComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "SkylightTime_skylight_time",
+      "target": "ParamsBase_params_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkylightTime Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_MathVectorMax_rig_unit_math_vector_max",
+      "target": "RigVMFunction_MathVectorMax_rig_vm_function_math_vector_max",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EditorUtilityCircularThrobber_editor_utility_circular_throbber",
+      "target": "CircularThrobber_circular_throbber",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityCircularThrobber Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ForceFeedbackComponent_force_feedback_component",
+      "target": "SceneComponent_scene_component",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ForceFeedbackComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EarthTextureOverlayer_earth_texture_overlayer",
+      "target": "EarthPrefabActor_earth_prefab_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTextureOverlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit__MathBoolFlipFlop_rig_unit__math_bool_flip_flop",
+      "target": "RigVMFunction_MathBoolFlipFlop_rig_vm_function_math_bool_flip_flop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathBoolFlipFlop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RCBehaviourBind_rc_behaviour_bind",
+      "target": "RCBehaviour_rc_behaviour",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourBind Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_HierarchyAddControlVector2D_rig_unit_hierarchy_add_control_vector2d",
+      "target": "RigUnit_HierarchyAddControlElement_rig_unit_hierarchy_add_control_element",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControlVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "OnPawnControllerChanged_on_pawn_controller_changed",
+      "target": "MulticastDelegateBase_multicast_delegate_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnPawnControllerChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathVectorSub_rig_vm_function_math_vector_sub",
+      "target": "RigVMFunction_MathVectorMax_rig_vm_function_math_vector_max",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_vector_operations",
+      "label": "RigVM Math Vector Operations",
+      "nodes": [
+        "RigVMFunction_MathVectorSub_rig_vm_function_math_vector_sub",
+        "RigVMFunction_MathVectorMax_rig_vm_function_math_vector_max",
+        "RigUnit_MathVectorMax_rig_unit_math_vector_max"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorSub Objects.md"
+    },
+    {
+      "id": "deprecated_rigvm_renames",
+      "label": "Deprecated RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "RigUnit_MathVectorMax_rig_unit_math_vector_max",
+        "RigUnit__MathBoolFlipFlop_rig_unit__math_bool_flip_flop"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_MathVectorMax Objects.md"
+    },
+    {
+      "id": "unreal_engine_base_components",
+      "label": "Unreal Engine Base Component Classes",
+      "nodes": [
+        "PrimitiveComponent_primitive_component",
+        "SceneComponent_scene_component"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "TextRenderComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

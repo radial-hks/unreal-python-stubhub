@@ -1,0 +1,933 @@
+{
+  "nodes": [
+    {
+      "id": "materialexpressionsetlocal_materialexpressionsetlocal",
+      "label": "MaterialExpressionSetLocal",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSetLocal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugpoint_rigunit_debugpoint",
+      "label": "RigUnit_DebugPoint",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbrushmanager_waterbrushmanager",
+      "label": "WaterBrushManager",
+      "file_type": "document",
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigstructscope_rigstructscope",
+      "label": "RigStructScope",
+      "file_type": "document",
+      "source_file": "RigStructScope Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agentmessage_agentmessage",
+      "label": "AgentMessage",
+      "file_type": "document",
+      "source_file": "AgentMessage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_quaterniontoaxisandangle_rigunit_quaterniontoaxisandangle",
+      "label": "RigUnit_QuaternionToAxisAndAngle",
+      "file_type": "document",
+      "source_file": "RigUnit_QuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_slot_animgraphnode_slot",
+      "label": "AnimGraphNode_Slot",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_Slot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgdynamicmeshcomponent_svgdynamicmeshcomponent",
+      "label": "SVGDynamicMeshComponent",
+      "file_type": "document",
+      "source_file": "SVGDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassactor_landmassactor",
+      "label": "LandmassActor",
+      "file_type": "document",
+      "source_file": "LandmassActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktransform_livelinktransform",
+      "label": "LiveLinkTransform",
+      "file_type": "document",
+      "source_file": "LiveLinkTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonergridconstrainttexture_ceclonergridconstrainttexture",
+      "label": "CEClonerGridConstraintTexture",
+      "file_type": "document",
+      "source_file": "CEClonerGridConstraintTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangescenevariantsetsnode_interchangescenevariantsetsnode",
+      "label": "InterchangeSceneVariantSetsNode",
+      "file_type": "document",
+      "source_file": "InterchangeSceneVariantSetsNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldfiltertype_fieldfiltertype",
+      "label": "FieldFilterType",
+      "file_type": "document",
+      "source_file": "FieldFilterType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_velocity_posesearchfeaturechannel_velocity",
+      "label": "PoseSearchFeatureChannel_Velocity",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Velocity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorbbkey_vector_valueorbbkey_vector",
+      "label": "ValueOrBBKey_Vector",
+      "file_type": "document",
+      "source_file": "ValueOrBBKey_Vector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcurvecompressioncodec_animcurvecompressioncodec",
+      "label": "AnimCurveCompressionCodec",
+      "file_type": "document",
+      "source_file": "AnimCurveCompressionCodec Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditormainwidget_aeseditormainwidget",
+      "label": "AesEditorMainWidget",
+      "file_type": "document",
+      "source_file": "AesEditorMainWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_posesearchsamplingattribute_animnotifystate_posesearchsamplingattribute",
+      "label": "AnimNotifyState_PoseSearchSamplingAttribute",
+      "file_type": "document",
+      "source_file": "AnimNotifyState_PoseSearchSamplingAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedplayerinput_enhancedplayerinput",
+      "label": "EnhancedPlayerInput",
+      "file_type": "document",
+      "source_file": "EnhancedPlayerInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolonce_rigunit_mathboolonce",
+      "label": "RigUnit_MathBoolOnce",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolOnce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsharingtransitioninstance_animsharingtransitioninstance",
+      "label": "AnimSharingTransitionInstance",
+      "file_type": "document",
+      "source_file": "AnimSharingTransitionInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ontablealtered_ontablealtered",
+      "label": "OnTableAltered",
+      "file_type": "document",
+      "source_file": "OnTableAltered Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSetLocal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugpoint_rigvmfunction_debugpoint",
+      "label": "RigVMFunction_DebugPoint",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterlandscapebrush_waterlandscapebrush",
+      "label": "WaterLandscapeBrush",
+      "file_type": "document",
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RigStructScope Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_QuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_animgraphnode_base",
+      "label": "AnimGraphNode_Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_Slot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgbasedynamicmeshcomponent_svgbasedynamicmeshcomponent",
+      "label": "SVGBaseDynamicMeshComponent",
+      "file_type": "document",
+      "source_file": "SVGDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "LandmassActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangebasenode_interchangebasenode",
+      "label": "InterchangeBaseNode",
+      "file_type": "document",
+      "source_file": "InterchangeSceneVariantSetsNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_posesearchfeaturechannel",
+      "label": "PoseSearchFeatureChannel",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Velocity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorblackboardkeybase_valueorblackboardkeybase",
+      "label": "ValueOrBlackboardKeyBase",
+      "file_type": "document",
+      "source_file": "ValueOrBBKey_Vector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "AnimCurveCompressionCodec Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userwidget_userwidget",
+      "label": "UserWidget",
+      "file_type": "document",
+      "source_file": "AesEditorMainWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_posesearchsamplingevent_animnotifystate_posesearchsamplingevent",
+      "label": "AnimNotifyState_PoseSearchSamplingEvent",
+      "file_type": "document",
+      "source_file": "AnimNotifyState_PoseSearchSamplingAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playerinput_playerinput",
+      "label": "PlayerInput",
+      "file_type": "document",
+      "source_file": "EnhancedPlayerInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolonce_rigvmfunction_mathboolonce",
+      "label": "RigVMFunction_MathBoolOnce",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolOnce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animinstance_animinstance",
+      "label": "AnimInstance",
+      "file_type": "document",
+      "source_file": "AnimSharingTransitionInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnTableAltered Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbody_waterbody",
+      "label": "WaterBody",
+      "file_type": "document",
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_texture",
+      "label": "Texture",
+      "file_type": "document",
+      "source_file": "CEClonerGridConstraintTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface_materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "document",
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_materialinstancedynamic",
+      "label": "MaterialInstanceDynamic",
+      "file_type": "document",
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animinstance_animinstance_ref",
+      "label": "AnimInstance",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Velocity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassmanagerbase_landmassmanagerbase",
+      "label": "LandmassManagerBase",
+      "file_type": "document",
+      "source_file": "LandmassActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshcomponent_skeletalmeshcomponent",
+      "label": "SkeletalMeshComponent",
+      "file_type": "document",
+      "source_file": "AnimSharingTransitionInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionsetlocal_materialexpressionsetlocal",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSetLocal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugpoint_rigunit_debugpoint",
+      "target": "rigvmfunction_debugpoint_rigvmfunction_debugpoint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbrushmanager_waterbrushmanager",
+      "target": "waterlandscapebrush_waterlandscapebrush",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigstructscope_rigstructscope",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigStructScope Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agentmessage_agentmessage",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AgentMessage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoaxisandangle_rigunit_quaterniontoaxisandangle",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_QuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_slot_animgraphnode_slot",
+      "target": "animgraphnode_base_animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_Slot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "svgdynamicmeshcomponent_svgdynamicmeshcomponent",
+      "target": "svgbasedynamicmeshcomponent_svgbasedynamicmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SVGDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassactor_landmassactor",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktransform_livelinktransform",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonergridconstrainttexture_ceclonergridconstrainttexture",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerGridConstraintTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangescenevariantsetsnode_interchangescenevariantsetsnode",
+      "target": "interchangebasenode_interchangebasenode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeSceneVariantSetsNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_velocity_posesearchfeaturechannel_velocity",
+      "target": "posesearchfeaturechannel_posesearchfeaturechannel",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_Velocity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "valueorbbkey_vector_valueorbbkey_vector",
+      "target": "valueorblackboardkeybase_valueorblackboardkeybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ValueOrBBKey_Vector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animcurvecompressioncodec_animcurvecompressioncodec",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCurveCompressionCodec Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditormainwidget_aeseditormainwidget",
+      "target": "userwidget_userwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorMainWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_posesearchsamplingattribute_animnotifystate_posesearchsamplingattribute",
+      "target": "animnotifystate_posesearchsamplingevent_animnotifystate_posesearchsamplingevent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState_PoseSearchSamplingAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedplayerinput_enhancedplayerinput",
+      "target": "playerinput_playerinput",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedPlayerInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolonce_rigunit_mathboolonce",
+      "target": "rigvmfunction_mathboolonce_rigvmfunction_mathboolonce",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathBoolOnce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsharingtransitioninstance_animsharingtransitioninstance",
+      "target": "animinstance_animinstance",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSharingTransitionInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ontablealtered_ontablealtered",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnTableAltered Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbrushmanager_waterbrushmanager",
+      "target": "waterbody_waterbody",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonergridconstrainttexture_ceclonergridconstrainttexture",
+      "target": "texture_texture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerGridConstraintTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbrushmanager_waterbrushmanager",
+      "target": "materialinterface_materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbrushmanager_waterbrushmanager",
+      "target": "materialinstancedynamic_materialinstancedynamic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBrushManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_velocity_posesearchfeaturechannel_velocity",
+      "target": "animnotifystate_posesearchsamplingattribute_animnotifystate_posesearchsamplingattribute",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_Velocity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_velocity_posesearchfeaturechannel_velocity",
+      "target": "animinstance_animinstance_ref",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_Velocity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassactor_landmassactor",
+      "target": "landmassmanagerbase_landmassmanagerbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassactor_landmassactor",
+      "target": "materialinterface_materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassactor_landmassactor",
+      "target": "materialinstancedynamic_materialinstancedynamic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsharingtransitioninstance_animsharingtransitioninstance",
+      "target": "skeletalmeshcomponent_skeletalmeshcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSharingTransitionInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugpoint_rigunit_debugpoint",
+      "target": "rigvmfunction_debugpoint_rigvmfunction_debugpoint",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit_DebugPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolonce_rigunit_mathboolonce",
+      "target": "rigvmfunction_mathboolonce_rigvmfunction_mathboolonce",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit__MathBoolOnce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigstructscope_rigstructscope",
+      "target": "rigvmfunction_mathboolonce_rigvmfunction_mathboolonce",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigStructScope Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_quaterniontoaxisandangle_rigunit_quaterniontoaxisandangle",
+      "target": "rigunit_mathboolonce_rigunit_mathboolonce",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_QuaternionToAxisAndAngle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_velocity_posesearchfeaturechannel_velocity",
+      "target": "animsharingtransitioninstance_animsharingtransitioninstance",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PoseSearchFeatureChannel_Velocity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_slot_animgraphnode_slot",
+      "target": "animsharingtransitioninstance_animsharingtransitioninstance",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode_Slot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_system_deprecated_classes",
+      "label": "Rig System Deprecated Classes",
+      "nodes": [
+        "rigunit_debugpoint_rigunit_debugpoint",
+        "rigunit_mathboolonce_rigunit_mathboolonce"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugPoint Objects.md"
+    },
+    {
+      "id": "animation_pose_search_system",
+      "label": "Animation Pose Search System",
+      "nodes": [
+        "posesearchfeaturechannel_velocity_posesearchfeaturechannel_velocity",
+        "animnotifystate_posesearchsamplingattribute_animnotifystate_posesearchsamplingattribute"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_Velocity Objects.md"
+    },
+    {
+      "id": "water_landscaping_system",
+      "label": "Water Landscaping System",
+      "nodes": [
+        "waterbrushmanager_waterbrushmanager",
+        "landmassactor_landmassactor"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WaterBrushManager Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

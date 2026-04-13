@@ -1,0 +1,592 @@
+{
+  "nodes": [
+    {
+      "id": "blackboarddata_blackboarddata",
+      "label": "BlackboardData",
+      "file_type": "document",
+      "source_file": "BlackboardData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintparent_constraintparent",
+      "label": "ConstraintParent",
+      "file_type": "document",
+      "source_file": "ConstraintParent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectchorussettings_sourceeffectchorussettings",
+      "label": "SourceEffectChorusSettings",
+      "file_type": "document",
+      "source_file": "SourceEffectChorusSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionunpremult_materialexpressionunpremult",
+      "label": "MaterialExpressionUnpremult",
+      "file_type": "document",
+      "source_file": "MaterialExpressionUnpremult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interpcurvepointtwovectors_interpcurvepointtwovectors",
+      "label": "InterpCurvePointTwoVectors",
+      "file_type": "document",
+      "source_file": "InterpCurvePointTwoVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationdata_displayclusterconfigurationdata",
+      "label": "DisplayClusterConfigurationData",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clusterobject_clusterobject",
+      "label": "ClusterObject",
+      "file_type": "document",
+      "source_file": "ClusterObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgreversesplineoperation_pcgreversesplineoperation",
+      "label": "PCGReverseSplineOperation",
+      "file_type": "document",
+      "source_file": "PCGReverseSplineOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationhostdisplaydata_displayclusterconfigurationhostdisplaydata",
+      "label": "DisplayClusterConfigurationHostDisplayData",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationHostDisplayData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_visibilitylist_displayclusterconfigurationicvfx_visibilitylist",
+      "label": "DisplayClusterConfigurationICVFX_VisibilityList",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_VisibilityList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundassetcompressiontype_soundassetcompressiontype",
+      "label": "SoundAssetCompressionType",
+      "file_type": "document",
+      "source_file": "SoundAssetCompressionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_binaryquaternionop_rigunit_binaryquaternionop",
+      "label": "RigUnit_BinaryQuaternionOp",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryQuaternionOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ontakerecorderfinished_ontakerecorderfinished",
+      "label": "OnTakeRecorderFinished",
+      "file_type": "document",
+      "source_file": "OnTakeRecorderFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionchildren_rigunit_collectionchildren",
+      "label": "RigUnit_CollectionChildren",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionChildren Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameraanimationhandle_cameraanimationhandle",
+      "label": "CameraAnimationHandle",
+      "file_type": "document",
+      "source_file": "CameraAnimationHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerrotatorarrayvariable_rigvmtrait_setdeformerrotatorarrayvariable",
+      "label": "RigVMTrait_SetDeformerRotatorArrayVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerRotatorArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterexclusionmode_waterexclusionmode",
+      "label": "WaterExclusionMode",
+      "file_type": "document",
+      "source_file": "WaterExclusionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onactorready_onactorready",
+      "label": "OnActorReady",
+      "file_type": "document",
+      "source_file": "OnActorReady Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simdebugdatarow_simdebugdatarow",
+      "label": "SimDebugDataRow",
+      "file_type": "document",
+      "source_file": "SimDebugDataRow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typedelementpasteoptions_typedelementpasteoptions",
+      "label": "TypedElementPasteOptions",
+      "file_type": "document",
+      "source_file": "TypedElementPasteOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coneconstraint_coneconstraint",
+      "label": "ConeConstraint",
+      "file_type": "document",
+      "source_file": "ConeConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatetransformmul_rigvmfunction_accumulatetransformmul",
+      "label": "RigVMFunction_AccumulateTransformMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction__AccumulateTransformMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionbase_rigunit_collectionbase",
+      "label": "RigUnit_CollectionBase",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionChildren Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatebase_rigvmfunction_accumulatebase",
+      "label": "RigVMFunction_AccumulateBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__AccumulateTransformMul Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerRotatorArrayVariable Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxunpremult_materialexpressionmaterialxunpremult",
+      "label": "MaterialExpressionMaterialXUnpremult",
+      "file_type": "document",
+      "source_file": "MaterialExpressionUnpremult Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationdata_base_displayclusterconfigurationdata_base",
+      "label": "DisplayClusterConfigurationData_Base",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintbaseparams_constraintbaseparams",
+      "label": "ConstraintBaseParams",
+      "file_type": "document",
+      "source_file": "ConeConstraint Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryQuaternionOp Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interpcurvemode_interpcurvemode",
+      "label": "InterpCurveMode",
+      "file_type": "document",
+      "source_file": "InterpCurvePointTwoVectors Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundmodulationdestinationsettings_soundmodulationdestinationsettings",
+      "label": "SoundModulationDestinationSettings",
+      "file_type": "document",
+      "source_file": "SourceEffectChorusSettings Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "angularconstraintmotion_angularconstraintmotion",
+      "label": "AngularConstraintMotion",
+      "file_type": "document",
+      "source_file": "ConeConstraint Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_multiplyquaternion_rigunit_multiplyquaternion",
+      "label": "RigUnit_MultiplyQuaternion",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryQuaternionOp Objects.md",
+      "source_location": "line 82",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatetransformmul_rigunit_accumulatetransformmul",
+      "label": "RigUnit_AccumulateTransformMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction__AccumulateTransformMul Objects.md",
+      "source_location": "line 134",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "twistconstraint_twistconstraint",
+      "label": "TwistConstraint",
+      "file_type": "document",
+      "source_file": "ConeConstraint Objects.md",
+      "source_location": "line 34",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_collectionchildren_rigunit_collectionchildren",
+      "target": "rigunit_collectionbase_rigunit_collectionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionChildren Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatetransformmul_rigvmfunction_accumulatetransformmul",
+      "target": "rigvmfunction_accumulatebase_rigvmfunction_accumulatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__AccumulateTransformMul Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerrotatorarrayvariable_rigvmtrait_setdeformerrotatorarrayvariable",
+      "target": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait_SetDeformerRotatorArrayVariable Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionunpremult_materialexpressionunpremult",
+      "target": "materialexpressionmaterialxunpremult_materialexpressionmaterialxunpremult",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionUnpremult Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationdata_displayclusterconfigurationdata",
+      "target": "displayclusterconfigurationdata_base_displayclusterconfigurationdata_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationData Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "coneconstraint_coneconstraint",
+      "target": "constraintbaseparams_constraintbaseparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConeConstraint Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_binaryquaternionop_rigunit_binaryquaternionop",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryQuaternionOp Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectchorussettings_sourceeffectchorussettings",
+      "target": "soundmodulationdestinationsettings_soundmodulationdestinationsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectChorusSettings Objects.md",
+      "source_location": "lines 19, 22, 25, 28, 31, 34",
+      "weight": 1.0
+    },
+    {
+      "source": "interpcurvepointtwovectors_interpcurvepointtwovectors",
+      "target": "interpcurvemode_interpcurvemode",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterpCurvePointTwoVectors Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "coneconstraint_coneconstraint",
+      "target": "angularconstraintmotion_angularconstraintmotion",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConeConstraint Objects.md",
+      "source_location": "lines 23, 24",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_visibilitylist_displayclusterconfigurationicvfx_visibilitylist",
+      "target": "displayclusterconfigurationdata_displayclusterconfigurationdata",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DisplayClusterConfigurationICVFX_VisibilityList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multiplyquaternion_rigunit_multiplyquaternion",
+      "target": "rigunit_binaryquaternionop_rigunit_binaryquaternionop",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_BinaryQuaternionOp Objects.md",
+      "source_location": "line 82",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatetransformmul_rigunit_accumulatetransformmul",
+      "target": "rigvmfunction_accumulatetransformmul_rigvmfunction_accumulatetransformmul",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__AccumulateTransformMul Objects.md",
+      "source_location": "line 134",
+      "weight": 1.0
+    },
+    {
+      "source": "twistconstraint_twistconstraint",
+      "target": "constraintbaseparams_constraintbaseparams",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ConeConstraint Objects.md",
+      "source_location": "line 34",
+      "weight": 1.0
+    },
+    {
+      "source": "coneconstraint_coneconstraint",
+      "target": "twistconstraint_twistconstraint",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ConeConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintparent_constraintparent",
+      "target": "rigunit_collectionchildren_rigunit_collectionchildren",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ConstraintParent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blackboarddata_blackboarddata",
+      "target": "blackboarddata_blackboarddata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlackboardData Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_hierarchy_system",
+      "label": "Control Rig Hierarchy System",
+      "nodes": [
+        "constraintparent_constraintparent",
+        "rigunit_collectionchildren_rigunit_collectionchildren",
+        "rigvmfunction_accumulatetransformmul_rigvmfunction_accumulatetransformmul",
+        "rigunit_binaryquaternionop_rigunit_binaryquaternionop"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ConstraintParent Objects.md"
+    },
+    {
+      "id": "physics_constraint_system",
+      "label": "Physics Constraint System",
+      "nodes": [
+        "coneconstraint_coneconstraint",
+        "twistconstraint_twistconstraint",
+        "constraintbaseparams_constraintbaseparams"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ConeConstraint Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

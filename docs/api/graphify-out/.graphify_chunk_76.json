@@ -1,0 +1,639 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_beginexecution",
+      "label": "RigUnit_BeginExecution",
+      "file_type": "document",
+      "source_file": "RigUnit__BeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit__BeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit__BeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarundownpageplaytype",
+      "label": "AvaRundownPagePlayType",
+      "file_type": "document",
+      "source_file": "AvaRundownPagePlayType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "AvaRundownPagePlayType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondatalayerruntimestatechanged",
+      "label": "OnDataLayerRuntimeStateChanged",
+      "file_type": "document",
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datalayerinstance",
+      "label": "DataLayerInstance",
+      "file_type": "document",
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datalayerruntimestate",
+      "label": "DataLayerRuntimeState",
+      "file_type": "document",
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangefunctioncallshadernode",
+      "label": "InterchangeFunctionCallShaderNode",
+      "file_type": "document",
+      "source_file": "InterchangeFunctionCallShaderNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeshadernode",
+      "label": "InterchangeShaderNode",
+      "file_type": "document",
+      "source_file": "InterchangeFunctionCallShaderNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionterrainlayerswitch",
+      "label": "MaterialExpressionTerrainLayerSwitch",
+      "file_type": "document",
+      "source_file": "MaterialExpressionTerrainLayerSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionlandscapelayerswitch",
+      "label": "MaterialExpressionLandscapeLayerSwitch",
+      "file_type": "document",
+      "source_file": "MaterialExpressionTerrainLayerSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectmodelentity",
+      "label": "ProjectModelEntity",
+      "file_type": "document",
+      "source_file": "ProjectModelEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstandardactorentity",
+      "label": "WdpStandardActorEntity",
+      "file_type": "document",
+      "source_file": "ProjectModelEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmtexturechannelmask",
+      "label": "DMTextureChannelMask",
+      "file_type": "document",
+      "source_file": "DMTextureChannelMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatabs",
+      "label": "RigVMFunction_MathFloatAbs",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatunaryop",
+      "label": "RigVMFunction_MathFloatUnaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "masssimplemovementtrait",
+      "label": "MassSimpleMovementTrait",
+      "file_type": "document",
+      "source_file": "MassSimpleMovementTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massentitytraitbase",
+      "label": "MassEntityTraitBase",
+      "file_type": "document",
+      "source_file": "MassSimpleMovementTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeevaluatoritem",
+      "label": "StateTreeEvaluatorItem",
+      "file_type": "document",
+      "source_file": "StateTreeEvaluatorItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeeditornode",
+      "label": "StateTreeEditorNode",
+      "file_type": "document",
+      "source_file": "StateTreeEvaluatorItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riglogicrotationtype",
+      "label": "RigLogicRotationType",
+      "file_type": "document",
+      "source_file": "RigLogicRotationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolsproxytransform",
+      "label": "AnimDetailControlsProxyTransform",
+      "file_type": "document",
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolskeyedproxy",
+      "label": "AnimDetailControlsKeyedProxy",
+      "file_type": "document",
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailproxylocation",
+      "label": "AnimDetailProxyLocation",
+      "file_type": "document",
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailproxyrotation",
+      "label": "AnimDetailProxyRotation",
+      "file_type": "document",
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailproxyscale",
+      "label": "AnimDetailProxyScale",
+      "file_type": "document",
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__BeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_plugin",
+      "label": "Interchange Plugin",
+      "file_type": "document",
+      "source_file": "InterchangeFunctionCallShaderNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_beginexecution",
+      "target": "rigunit",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__BeginExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_beginexecution",
+      "target": "controlrigexecutecontext",
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__BeginExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_beginexecution",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__BeginExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avarundownpageplaytype",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaRundownPagePlayType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ondatalayerruntimestatechanged",
+      "target": "multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ondatalayerruntimestatechanged",
+      "target": "datalayerinstance",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ondatalayerruntimestatechanged",
+      "target": "datalayerruntimestate",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ondatalayerruntimestatechanged",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDataLayerRuntimeStateChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangefunctioncallshadernode",
+      "target": "interchangeshadernode",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeFunctionCallShaderNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangefunctioncallshadernode",
+      "target": "interchange_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeFunctionCallShaderNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionterrainlayerswitch",
+      "target": "materialexpressionlandscapelayerswitch",
+      "relation": "deprecated_alias_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionTerrainLayerSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "projectmodelentity",
+      "target": "wdpstandardactorentity",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProjectModelEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmtexturechannelmask",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMTextureChannelMask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatabs",
+      "target": "rigvmfunction_mathfloatunaryop",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatabs",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "masssimplemovementtrait",
+      "target": "massentitytraitbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassSimpleMovementTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreeevaluatoritem",
+      "target": "statetreeeditornode",
+      "relation": "deprecated_alias_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeEvaluatorItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riglogicrotationtype",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigLogicRotationType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxytransform",
+      "target": "animdetailcontrolskeyedproxy",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxytransform",
+      "target": "animdetailproxylocation",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxytransform",
+      "target": "animdetailproxyrotation",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxytransform",
+      "target": "animdetailproxyscale",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxytransform",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riglogicrotationtype",
+      "target": "rigvmfunction_mathfloatabs",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigLogicRotationType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_beginexecution",
+      "target": "rigvmfunction_mathfloatabs",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__BeginExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_ecosystem",
+      "label": "ControlRig Ecosystem Classes",
+      "nodes": [
+        "rigunit_beginexecution",
+        "animdetailcontrolsproxytransform",
+        "riglogicrotationtype",
+        "rigvmfunction_mathfloatabs"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__BeginExecution Objects.md"
+    },
+    {
+      "id": "unreal_enum_types",
+      "label": "Unreal Engine Enum Types",
+      "nodes": [
+        "avarundownpageplaytype",
+        "dmtexturechannelmask",
+        "riglogicrotationtype"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AvaRundownPagePlayType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

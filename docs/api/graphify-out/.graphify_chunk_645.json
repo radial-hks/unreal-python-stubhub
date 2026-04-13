@@ -1,0 +1,2187 @@
+{
+  "nodes": [
+    {
+      "id": "PCGDensityNoiseSettings",
+      "type": "class",
+      "label": "PCGDensityNoiseSettings",
+      "properties": {
+        "deprecated": true,
+        "deprecated_message": "'PCGDensityNoiseSettings' was renamed to 'PCGAttributeNoiseSettings'",
+        "source_module": "PCG",
+        "source_file": "PCGAttributeNoiseSettings.h"
+      }
+    },
+    {
+      "id": "PCGAttributeNoiseSettings",
+      "type": "class",
+      "label": "PCGAttributeNoiseSettings",
+      "properties": {
+        "source_module": "PCG"
+      }
+    },
+    {
+      "id": "InterchangeTranslatorAssetType",
+      "type": "enum",
+      "label": "InterchangeTranslatorAssetType",
+      "properties": {
+        "source_module": "InterchangeCore",
+        "source_file": "InterchangeTranslatorBase.h"
+      }
+    },
+    {
+      "id": "InterchangeTranslatorAssetType.NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "InterchangeTranslatorAssetType.TEXTURES",
+      "type": "enum_value",
+      "label": "TEXTURES",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "InterchangeTranslatorAssetType.MATERIALS",
+      "type": "enum_value",
+      "label": "MATERIALS",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "InterchangeTranslatorAssetType.MESHES",
+      "type": "enum_value",
+      "label": "MESHES",
+      "properties": {
+        "value": 4
+      }
+    },
+    {
+      "id": "InterchangeTranslatorAssetType.ANIMATIONS",
+      "type": "enum_value",
+      "label": "ANIMATIONS",
+      "properties": {
+        "value": 8
+      }
+    },
+    {
+      "id": "AssetRegistry",
+      "type": "interface",
+      "label": "AssetRegistry",
+      "properties": {
+        "source_module": "AssetRegistry",
+        "source_file": "IAssetRegistry.h"
+      }
+    },
+    {
+      "id": "AssetRegistry.wait_for_package",
+      "type": "method",
+      "label": "wait_for_package",
+      "properties": {
+        "description": "Wait for the scan of a specific package to be complete"
+      }
+    },
+    {
+      "id": "AssetRegistry.wait_for_completion",
+      "type": "method",
+      "label": "wait_for_completion",
+      "properties": {
+        "description": "Wait for scan to be complete"
+      }
+    },
+    {
+      "id": "AssetRegistry.use_filter_to_exclude_assets",
+      "type": "method",
+      "label": "use_filter_to_exclude_assets",
+      "properties": {
+        "description": "Trims items out of the asset data list that pass the supplied filter"
+      }
+    },
+    {
+      "id": "AssetRegistry.search_all_assets",
+      "type": "method",
+      "label": "search_all_assets",
+      "properties": {
+        "description": "Look for all assets on disk"
+      }
+    },
+    {
+      "id": "AssetRegistry.scan_paths_synchronous",
+      "type": "method",
+      "label": "scan_paths_synchronous",
+      "properties": {
+        "description": "Scan the supplied paths recursively right now"
+      }
+    },
+    {
+      "id": "AssetRegistry.scan_modified_asset_files",
+      "type": "method",
+      "label": "scan_modified_asset_files",
+      "properties": {
+        "description": "Forces a rescan of specific filenames"
+      }
+    },
+    {
+      "id": "AssetRegistry.scan_files_synchronous",
+      "type": "method",
+      "label": "scan_files_synchronous",
+      "properties": {
+        "description": "Scan the specified individual files right now"
+      }
+    },
+    {
+      "id": "AssetRegistry.run_assets_through_filter",
+      "type": "method",
+      "label": "run_assets_through_filter",
+      "properties": {
+        "description": "Trims items out of the asset data list that do not pass the supplied filter"
+      }
+    },
+    {
+      "id": "AssetRegistry.prioritize_search_path",
+      "type": "method",
+      "label": "prioritize_search_path",
+      "properties": {
+        "description": "Prioritize scanning of assets in specified path"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_referencers",
+      "type": "method",
+      "label": "get_referencers",
+      "properties": {
+        "description": "Gets a list of packages that reference the supplied package"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_dependencies",
+      "type": "method",
+      "label": "get_dependencies",
+      "properties": {
+        "description": "Gets a list of paths to objects that are referenced by the supplied package"
+      }
+    },
+    {
+      "id": "AssetRegistry.k2_get_asset_by_object_path",
+      "type": "method",
+      "label": "k2_get_asset_by_object_path",
+      "properties": {
+        "description": "Gets the asset data for the specified object path"
+      }
+    },
+    {
+      "id": "AssetRegistry.is_search_async",
+      "type": "method",
+      "label": "is_search_async",
+      "properties": {
+        "description": "Whether searching is done async"
+      }
+    },
+    {
+      "id": "AssetRegistry.is_search_all_assets",
+      "type": "method",
+      "label": "is_search_all_assets",
+      "properties": {
+        "description": "Whether SearchAllAssets has been called"
+      }
+    },
+    {
+      "id": "AssetRegistry.is_loading_assets",
+      "type": "method",
+      "label": "is_loading_assets",
+      "properties": {
+        "description": "Returns true if the asset registry is currently loading files"
+      }
+    },
+    {
+      "id": "AssetRegistry.has_assets",
+      "type": "method",
+      "label": "has_assets",
+      "properties": {
+        "description": "Does the given path contain assets"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_sub_paths",
+      "type": "method",
+      "label": "get_sub_paths",
+      "properties": {
+        "description": "Gets a list of all paths that are currently cached below the passed-in base path"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_in_memory_assets",
+      "type": "method",
+      "label": "get_in_memory_assets",
+      "properties": {
+        "description": "Gets asset data for in-memory assets only"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_derived_class_names",
+      "type": "method",
+      "label": "get_derived_class_names",
+      "properties": {
+        "description": "Returns the names of all classes derived by the supplied class names"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_assets_by_paths",
+      "type": "method",
+      "label": "get_assets_by_paths",
+      "properties": {
+        "description": "Gets asset data for all assets in any of the supplied folder paths"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_assets_by_path",
+      "type": "method",
+      "label": "get_assets_by_path",
+      "properties": {
+        "description": "Gets asset data for all assets in the supplied folder path"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_assets_by_package_name",
+      "type": "method",
+      "label": "get_assets_by_package_name",
+      "properties": {
+        "description": "Gets asset data for the assets in the package"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_assets_by_class",
+      "type": "method",
+      "label": "get_assets_by_class",
+      "properties": {
+        "description": "Gets asset data for all assets with the supplied class"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_assets",
+      "type": "method",
+      "label": "get_assets",
+      "properties": {
+        "description": "Gets asset data for all assets that match the filter"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_asset_by_object_path",
+      "type": "method",
+      "label": "get_asset_by_object_path",
+      "properties": {
+        "description": "Get Asset by Object Path"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_ancestor_class_names",
+      "type": "method",
+      "label": "get_ancestor_class_names",
+      "properties": {
+        "description": "Returns ancestors of specified class name"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_all_cached_paths",
+      "type": "method",
+      "label": "get_all_cached_paths",
+      "properties": {
+        "description": "Gets a list of all paths that are currently cached"
+      }
+    },
+    {
+      "id": "AssetRegistry.get_all_assets",
+      "type": "method",
+      "label": "get_all_assets",
+      "properties": {
+        "description": "Gets asset data for all assets in the registry"
+      }
+    },
+    {
+      "id": "SlatePostSettings",
+      "type": "struct",
+      "label": "SlatePostSettings",
+      "properties": {
+        "source_module": "SlateRHIRenderer",
+        "source_file": "SlateRHIRendererSettings.h",
+        "description": "Settings for a particular Slate Post RT"
+      }
+    },
+    {
+      "id": "SlatePostSettings.enabled",
+      "type": "property",
+      "label": "enabled",
+      "properties": {
+        "type": "bool",
+        "access": "read-write",
+        "description": "Should this post buffer be enabled for updating"
+      }
+    },
+    {
+      "id": "SlatePostSettings.post_processor_class",
+      "type": "property",
+      "label": "post_processor_class",
+      "properties": {
+        "type": "type(Class)",
+        "access": "read-write",
+        "description": "Copy of actually loaded post processor class"
+      }
+    },
+    {
+      "id": "PaperTileMap",
+      "type": "class",
+      "label": "PaperTileMap",
+      "properties": {
+        "source_module": "Paper2D",
+        "source_file": "PaperTileMap.h",
+        "description": "A tile map is a 2D grid with a defined width and height (in tiles)"
+      }
+    },
+    {
+      "id": "PaperTileMap.asset_import_data",
+      "type": "property",
+      "label": "asset_import_data",
+      "properties": {
+        "type": "AssetImportData",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "PaperTileMap.background_color",
+      "type": "property",
+      "label": "background_color",
+      "properties": {
+        "type": "LinearColor",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.collision_thickness",
+      "type": "property",
+      "label": "collision_thickness",
+      "properties": {
+        "type": "float",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.hex_side_length",
+      "type": "property",
+      "label": "hex_side_length",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.layer_grid_color",
+      "type": "property",
+      "label": "layer_grid_color",
+      "properties": {
+        "type": "LinearColor",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.map_height",
+      "type": "property",
+      "label": "map_height",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.map_width",
+      "type": "property",
+      "label": "map_width",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.material",
+      "type": "property",
+      "label": "material",
+      "properties": {
+        "type": "MaterialInterface",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.multi_tile_grid_color",
+      "type": "property",
+      "label": "multi_tile_grid_color",
+      "properties": {
+        "type": "LinearColor",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.multi_tile_grid_height",
+      "type": "property",
+      "label": "multi_tile_grid_height",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.multi_tile_grid_offset_x",
+      "type": "property",
+      "label": "multi_tile_grid_offset_x",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.multi_tile_grid_offset_y",
+      "type": "property",
+      "label": "multi_tile_grid_offset_y",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.multi_tile_grid_width",
+      "type": "property",
+      "label": "multi_tile_grid_width",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.pixels_per_unreal_unit",
+      "type": "property",
+      "label": "pixels_per_unreal_unit",
+      "properties": {
+        "type": "float",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.projection_mode",
+      "type": "property",
+      "label": "projection_mode",
+      "properties": {
+        "type": "TileMapProjectionMode",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.separation_per_layer",
+      "type": "property",
+      "label": "separation_per_layer",
+      "properties": {
+        "type": "float",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.separation_per_tile_x",
+      "type": "property",
+      "label": "separation_per_tile_x",
+      "properties": {
+        "type": "float",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.separation_per_tile_y",
+      "type": "property",
+      "label": "separation_per_tile_y",
+      "properties": {
+        "type": "float",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.sprite_collision_domain",
+      "type": "property",
+      "label": "sprite_collision_domain",
+      "properties": {
+        "type": "SpriteCollisionMode",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.tile_grid_color",
+      "type": "property",
+      "label": "tile_grid_color",
+      "properties": {
+        "type": "LinearColor",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.tile_height",
+      "type": "property",
+      "label": "tile_height",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.tile_layers",
+      "type": "property",
+      "label": "tile_layers",
+      "properties": {
+        "type": "Array[PaperTileLayer]",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "PaperTileMap.tile_width",
+      "type": "property",
+      "label": "tile_width",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "SwapAudioOutputResult",
+      "type": "struct",
+      "label": "SwapAudioOutputResult",
+      "properties": {
+        "source_module": "AudioMixer",
+        "source_file": "AudioMixerBlueprintLibrary.h",
+        "description": "Out structure for use with AudioMixerBlueprintLibrary::SwapAudioOutputDevice"
+      }
+    },
+    {
+      "id": "SwapAudioOutputResult.current_device_id",
+      "type": "property",
+      "label": "current_device_id",
+      "properties": {
+        "type": "str",
+        "access": "read-only",
+        "description": "ID of the currently set device"
+      }
+    },
+    {
+      "id": "SwapAudioOutputResult.requested_device_id",
+      "type": "property",
+      "label": "requested_device_id",
+      "properties": {
+        "type": "str",
+        "access": "read-only",
+        "description": "ID of the requested device"
+      }
+    },
+    {
+      "id": "SwapAudioOutputResult.result",
+      "type": "property",
+      "label": "result",
+      "properties": {
+        "type": "SwapAudioOutputDeviceResultState",
+        "access": "read-only",
+        "description": "Result of the call"
+      }
+    },
+    {
+      "id": "ResponseChannel",
+      "type": "struct",
+      "label": "ResponseChannel",
+      "properties": {
+        "source_module": "Engine",
+        "source_file": "EngineTypes.h",
+        "description": "Describes response for a single collision response channel"
+      }
+    },
+    {
+      "id": "ResponseChannel.channel",
+      "type": "property",
+      "label": "channel",
+      "properties": {
+        "type": "Name",
+        "access": "read-write",
+        "description": "This should match DisplayName of ECollisionChannel"
+      }
+    },
+    {
+      "id": "ResponseChannel.response",
+      "type": "property",
+      "label": "response",
+      "properties": {
+        "type": "CollisionResponseType",
+        "access": "read-write",
+        "description": "Describes how the channel behaves"
+      }
+    },
+    {
+      "id": "RigVMFunction_RandomFloat",
+      "type": "class",
+      "label": "RigVMFunction_RandomFloat",
+      "properties": {
+        "source_module": "RigVM",
+        "source_file": "RigVMFunction_Random.h",
+        "description": "Generates a random float between a min and a max"
+      }
+    },
+    {
+      "id": "RigVMFunction_RandomFloat.seed",
+      "type": "property",
+      "label": "seed",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "RigVMFunction_RandomFloat.minimum",
+      "type": "property",
+      "label": "minimum",
+      "properties": {
+        "type": "float",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "RigVMFunction_RandomFloat.maximum",
+      "type": "property",
+      "label": "maximum",
+      "properties": {
+        "type": "float",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "RigVMFunction_RandomFloat.duration",
+      "type": "property",
+      "label": "duration",
+      "properties": {
+        "type": "float",
+        "access": "read-write",
+        "description": "The duration at which the number won't change"
+      }
+    },
+    {
+      "id": "RigVMFunction_RandomFloat.result",
+      "type": "property",
+      "label": "result",
+      "properties": {
+        "type": "float",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddNull",
+      "type": "class",
+      "label": "RigUnit_HierarchyAddNull",
+      "properties": {
+        "source_module": "ControlRig",
+        "source_file": "RigUnit_DynamicHierarchy.h",
+        "description": "Adds a new null to the hierarchy"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddNull.execute_context",
+      "type": "property",
+      "label": "execute_context",
+      "properties": {
+        "type": "ControlRigExecuteContext",
+        "access": "read-write",
+        "description": "This property is used to chain multiple mutable units together"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddNull.parent",
+      "type": "property",
+      "label": "parent",
+      "properties": {
+        "type": "RigElementKey",
+        "access": "read-write",
+        "description": "The parent of the new element to add"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddNull.name",
+      "type": "property",
+      "label": "name",
+      "properties": {
+        "type": "Name",
+        "access": "read-write",
+        "description": "The name of the new element to add"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddNull.item",
+      "type": "property",
+      "label": "item",
+      "properties": {
+        "type": "RigElementKey",
+        "access": "read-write",
+        "description": "The resulting item"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddNull.transform",
+      "type": "property",
+      "label": "transform",
+      "properties": {
+        "type": "Transform",
+        "access": "read-write",
+        "description": "The initial transform of the new element"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddNull.space",
+      "type": "property",
+      "label": "space",
+      "properties": {
+        "type": "RigVMTransformSpace",
+        "access": "read-write",
+        "description": "Defines if the transform should be interpreted in local or global space"
+      }
+    },
+    {
+      "id": "UrbanStaticMeshAssetUserData",
+      "type": "class",
+      "label": "UrbanStaticMeshAssetUserData",
+      "properties": {
+        "source_plugin": "AesBuilder",
+        "source_module": "UrbanEntityBuilder",
+        "source_file": "UrbanStaticMeshAssetUserData.h",
+        "description": "Asset user data that can be used with Urban Static Mesh Entity"
+      }
+    },
+    {
+      "id": "UrbanStaticMeshAssetUserData.material_color",
+      "type": "property",
+      "label": "material_color",
+      "properties": {
+        "type": "Map[SoftObjectPath, LinearColor]",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "UrbanStaticMeshAssetUserData.material_simplification",
+      "type": "property",
+      "label": "material_simplification",
+      "properties": {
+        "type": "Map[SoftObjectPath, str]",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "ComputeKernelSource",
+      "type": "class",
+      "label": "ComputeKernelSource",
+      "properties": {
+        "source_plugin": "ComputeFramework",
+        "source_module": "ComputeFramework",
+        "source_file": "ComputeKernelSource.h",
+        "description": "Class representing the source for a UComputeKernel"
+      }
+    },
+    {
+      "id": "ComputeKernelSource.additional_sources",
+      "type": "property",
+      "label": "additional_sources",
+      "properties": {
+        "type": "Array[ComputeSource]",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "ComputeKernelSource.definitions_set",
+      "type": "property",
+      "label": "definitions_set",
+      "properties": {
+        "type": "ComputeKernelDefinitionSet",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "ComputeKernelSource.entry_point",
+      "type": "property",
+      "label": "entry_point",
+      "properties": {
+        "type": "str",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "ComputeKernelSource.external_inputs",
+      "type": "property",
+      "label": "external_inputs",
+      "properties": {
+        "type": "Array[ShaderFunctionDefinition]",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "ComputeKernelSource.external_outputs",
+      "type": "property",
+      "label": "external_outputs",
+      "properties": {
+        "type": "Array[ShaderFunctionDefinition]",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "ComputeKernelSource.group_size",
+      "type": "property",
+      "label": "group_size",
+      "properties": {
+        "type": "IntVector",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "ComputeKernelSource.permutation_set",
+      "type": "property",
+      "label": "permutation_set",
+      "properties": {
+        "type": "ComputeKernelPermutationSet",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "MaterialExpressionCloudSampleAttribute",
+      "type": "class",
+      "label": "MaterialExpressionCloudSampleAttribute",
+      "properties": {
+        "source_module": "Engine",
+        "source_file": "MaterialExpressionCloudLayer.h"
+      }
+    },
+    {
+      "id": "MaterialExpressionCloudSampleAttribute.desc",
+      "type": "property",
+      "label": "desc",
+      "properties": {
+        "type": "str",
+        "access": "read-write",
+        "description": "A description that level designers can add"
+      }
+    },
+    {
+      "id": "MaterialExpressionCloudSampleAttribute.material_expression_editor_x",
+      "type": "property",
+      "label": "material_expression_editor_x",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "MaterialExpressionCloudSampleAttribute.material_expression_editor_y",
+      "type": "property",
+      "label": "material_expression_editor_y",
+      "properties": {
+        "type": "int32",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "RigUnit_StringFind",
+      "type": "class",
+      "label": "RigUnit_StringFind",
+      "properties": {
+        "deprecated": true,
+        "deprecated_message": "'RigUnit_StringFind' was renamed to 'RigVMFunction_StringFind'"
+      }
+    },
+    {
+      "id": "RigVMFunction_StringFind",
+      "type": "class",
+      "label": "RigVMFunction_StringFind",
+      "properties": {
+        "source_module": "RigVM"
+      }
+    },
+    {
+      "id": "ConstraintFrame",
+      "type": "enum",
+      "label": "ConstraintFrame",
+      "properties": {
+        "source_module": "PhysicsCore",
+        "source_file": "ChaosEngineInterface.h",
+        "description": "Enum to indicate which context frame we use for physical constraints"
+      }
+    },
+    {
+      "id": "ConstraintFrame.FRAME1",
+      "type": "enum_value",
+      "label": "FRAME1",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "ConstraintFrame.FRAME2",
+      "type": "enum_value",
+      "label": "FRAME2",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "AnimLinkableElement",
+      "type": "struct",
+      "label": "AnimLinkableElement",
+      "properties": {
+        "source_module": "Engine",
+        "source_file": "AnimLinkableElement.h",
+        "description": "Used to describe an element that can be linked to a segment in a montage or sequence"
+      }
+    },
+    {
+      "id": "AnimLinkableElement.link_method",
+      "type": "property",
+      "label": "link_method",
+      "properties": {
+        "type": "AnimLinkMethod",
+        "access": "read-write",
+        "description": "The method we are using to calculate our times"
+      }
+    },
+    {
+      "id": "AnimLinkableElement.linked_sequence",
+      "type": "property",
+      "label": "linked_sequence",
+      "properties": {
+        "type": "AnimSequenceBase",
+        "access": "read-only",
+        "description": "The Animation Sequence that this montage element will link to"
+      }
+    },
+    {
+      "id": "AnimLinkableElement.slot_index",
+      "type": "property",
+      "label": "slot_index",
+      "properties": {
+        "type": "int32",
+        "access": "read-write",
+        "description": "The slot index we are currently using within LinkedMontage"
+      }
+    },
+    {
+      "id": "PCGSplineSamplingInteriorOrientation",
+      "type": "enum",
+      "label": "PCGSplineSamplingInteriorOrientation",
+      "properties": {
+        "source_plugin": "PCG",
+        "source_module": "PCG",
+        "source_file": "PCGSplineSampler.h"
+      }
+    },
+    {
+      "id": "PCGSplineSamplingInteriorOrientation.UNIFORM",
+      "type": "enum_value",
+      "label": "UNIFORM",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "PCGSplineSamplingInteriorOrientation.FOLLOW_CURVATURE",
+      "type": "enum_value",
+      "label": "FOLLOW_CURVATURE",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "LightMixerObjectFilter",
+      "type": "class",
+      "label": "LightMixerObjectFilter",
+      "properties": {
+        "source_plugin": "LightMixer",
+        "source_module": "LightMixer",
+        "source_file": "LightMixerObjectFilter.h"
+      }
+    },
+    {
+      "id": "UVMapSettings",
+      "type": "struct",
+      "label": "UVMapSettings",
+      "properties": {
+        "source_module": "StaticMeshDescription",
+        "source_file": "UVMapSettings.h",
+        "description": "UV map generation settings that are exposed to the user"
+      }
+    },
+    {
+      "id": "UVMapSettings.position",
+      "type": "property",
+      "label": "position",
+      "properties": {
+        "type": "Vector",
+        "access": "read-write",
+        "description": "Position of the UV mapping gizmo"
+      }
+    },
+    {
+      "id": "UVMapSettings.rotation",
+      "type": "property",
+      "label": "rotation",
+      "properties": {
+        "type": "Rotator",
+        "access": "read-write",
+        "description": "Rotation of the UV mapping gizmo (angles in degrees)"
+      }
+    },
+    {
+      "id": "UVMapSettings.scale",
+      "type": "property",
+      "label": "scale",
+      "properties": {
+        "type": "Vector",
+        "access": "read-write",
+        "description": "Scale of the UV mapping gizmo"
+      }
+    },
+    {
+      "id": "UVMapSettings.size",
+      "type": "property",
+      "label": "size",
+      "properties": {
+        "type": "Vector",
+        "access": "read-write",
+        "description": "Length, width, height of the UV mapping gizmo"
+      }
+    },
+    {
+      "id": "UVMapSettings.uv_tile",
+      "type": "property",
+      "label": "uv_tile",
+      "properties": {
+        "type": "Vector2D",
+        "access": "read-write",
+        "description": "Tiling of the UV mapping"
+      }
+    },
+    {
+      "id": "AssetEditorToolkitMenuContext",
+      "type": "class",
+      "label": "AssetEditorToolkitMenuContext",
+      "properties": {
+        "source_module": "UnrealEd",
+        "source_file": "AssetEditorToolkitMenuContext.h"
+      }
+    },
+    {
+      "id": "AssetEditorToolkitMenuContext.get_editing_objects",
+      "type": "method",
+      "label": "get_editing_objects",
+      "properties": {
+        "description": "Get Editing Objects"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Fabrik",
+      "type": "class",
+      "label": "AnimGraphNode_Fabrik",
+      "properties": {
+        "source_module": "AnimGraph",
+        "source_file": "AnimGraphNode_Fabrik.h",
+        "description": "Editor node for FABRIK IK skeletal controller"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Fabrik.become_relevant_function",
+      "type": "property",
+      "label": "become_relevant_function",
+      "properties": {
+        "type": "MemberReference",
+        "access": "read-write",
+        "description": "Function called when the node becomes relevant"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Fabrik.binding",
+      "type": "property",
+      "label": "binding",
+      "properties": {
+        "type": "AnimGraphNodeBinding",
+        "access": "read-write",
+        "description": "Bindings for pins that this node exposes"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Fabrik.initial_update_function",
+      "type": "property",
+      "label": "initial_update_function",
+      "properties": {
+        "type": "MemberReference",
+        "access": "read-write",
+        "description": "Function called before the node is updated for the first time"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Fabrik.node",
+      "type": "property",
+      "label": "node",
+      "properties": {
+        "type": "AnimNode_Fabrik",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Fabrik.show_pin_for_properties",
+      "type": "property",
+      "label": "show_pin_for_properties",
+      "properties": {
+        "type": "Array[OptionalPinFromProperty]",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Fabrik.tag",
+      "type": "property",
+      "label": "tag",
+      "properties": {
+        "type": "Name",
+        "access": "read-write",
+        "description": "Optional reference tag name"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Fabrik.update_function",
+      "type": "property",
+      "label": "update_function",
+      "properties": {
+        "type": "MemberReference",
+        "access": "read-write",
+        "description": "Function called when the node is updated"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathBoolUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolUnaryOp",
+      "properties": {
+        "source_module": "RigVM",
+        "source_file": "RigVMFunction_MathBool.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathBoolUnaryOp.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "bool",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathBoolUnaryOp.result",
+      "type": "property",
+      "label": "result",
+      "properties": {
+        "type": "bool",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "RigUnit_ToSwingAndTwist",
+      "type": "class",
+      "label": "RigUnit_ToSwingAndTwist",
+      "properties": {
+        "source_module": "ControlRig",
+        "source_file": "RigUnit_Converter.h",
+        "description": "Rig Unit to Swing and Twist"
+      }
+    },
+    {
+      "id": "RigUnit_ToSwingAndTwist.input",
+      "type": "property",
+      "label": "input",
+      "properties": {
+        "type": "Quat",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "RigUnit_ToSwingAndTwist.twist_axis",
+      "type": "property",
+      "label": "twist_axis",
+      "properties": {
+        "type": "Vector",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "RigUnit_ToSwingAndTwist.swing",
+      "type": "property",
+      "label": "swing",
+      "properties": {
+        "type": "Quat",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "RigUnit_ToSwingAndTwist.twist",
+      "type": "property",
+      "label": "twist",
+      "properties": {
+        "type": "Quat",
+        "access": "read-only"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "PCGDensityNoiseSettings",
+      "target": "PCGAttributeNoiseSettings",
+      "type": "extends",
+      "properties": {}
+    },
+    {
+      "source": "InterchangeTranslatorAssetType.NONE",
+      "target": "InterchangeTranslatorAssetType",
+      "type": "enum_value_of",
+      "properties": {}
+    },
+    {
+      "source": "InterchangeTranslatorAssetType.TEXTURES",
+      "target": "InterchangeTranslatorAssetType",
+      "type": "enum_value_of",
+      "properties": {}
+    },
+    {
+      "source": "InterchangeTranslatorAssetType.MATERIALS",
+      "target": "InterchangeTranslatorAssetType",
+      "type": "enum_value_of",
+      "properties": {}
+    },
+    {
+      "source": "InterchangeTranslatorAssetType.MESHES",
+      "target": "InterchangeTranslatorAssetType",
+      "type": "enum_value_of",
+      "properties": {}
+    },
+    {
+      "source": "InterchangeTranslatorAssetType.ANIMATIONS",
+      "target": "InterchangeTranslatorAssetType",
+      "type": "enum_value_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.wait_for_package",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.wait_for_completion",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.use_filter_to_exclude_assets",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.search_all_assets",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.scan_paths_synchronous",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.scan_modified_asset_files",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.scan_files_synchronous",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.run_assets_through_filter",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.prioritize_search_path",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_referencers",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_dependencies",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.k2_get_asset_by_object_path",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.is_search_async",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.is_search_all_assets",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.is_loading_assets",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.has_assets",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_sub_paths",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_in_memory_assets",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_derived_class_names",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_assets_by_paths",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_assets_by_path",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_assets_by_package_name",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_assets_by_class",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_assets",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_asset_by_object_path",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_ancestor_class_names",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_all_cached_paths",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetRegistry.get_all_assets",
+      "target": "AssetRegistry",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "SlatePostSettings.enabled",
+      "target": "SlatePostSettings",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "SlatePostSettings.post_processor_class",
+      "target": "SlatePostSettings",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.asset_import_data",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.background_color",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.collision_thickness",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.hex_side_length",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.layer_grid_color",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.map_height",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.map_width",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.material",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.multi_tile_grid_color",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.multi_tile_grid_height",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.multi_tile_grid_offset_x",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.multi_tile_grid_offset_y",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.multi_tile_grid_width",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.pixels_per_unreal_unit",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.projection_mode",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.separation_per_layer",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.separation_per_tile_x",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.separation_per_tile_y",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.sprite_collision_domain",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.tile_grid_color",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.tile_height",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.tile_layers",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PaperTileMap.tile_width",
+      "target": "PaperTileMap",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "SwapAudioOutputResult.current_device_id",
+      "target": "SwapAudioOutputResult",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "SwapAudioOutputResult.requested_device_id",
+      "target": "SwapAudioOutputResult",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "SwapAudioOutputResult.result",
+      "target": "SwapAudioOutputResult",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ResponseChannel.channel",
+      "target": "ResponseChannel",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ResponseChannel.response",
+      "target": "ResponseChannel",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_RandomFloat.seed",
+      "target": "RigVMFunction_RandomFloat",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_RandomFloat.minimum",
+      "target": "RigVMFunction_RandomFloat",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_RandomFloat.maximum",
+      "target": "RigVMFunction_RandomFloat",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_RandomFloat.duration",
+      "target": "RigVMFunction_RandomFloat",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_RandomFloat.result",
+      "target": "RigVMFunction_RandomFloat",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddNull.execute_context",
+      "target": "RigUnit_HierarchyAddNull",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddNull.parent",
+      "target": "RigUnit_HierarchyAddNull",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddNull.name",
+      "target": "RigUnit_HierarchyAddNull",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddNull.item",
+      "target": "RigUnit_HierarchyAddNull",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddNull.transform",
+      "target": "RigUnit_HierarchyAddNull",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddNull.space",
+      "target": "RigUnit_HierarchyAddNull",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "UrbanStaticMeshAssetUserData.material_color",
+      "target": "UrbanStaticMeshAssetUserData",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "UrbanStaticMeshAssetUserData.material_simplification",
+      "target": "UrbanStaticMeshAssetUserData",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ComputeKernelSource.additional_sources",
+      "target": "ComputeKernelSource",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ComputeKernelSource.definitions_set",
+      "target": "ComputeKernelSource",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ComputeKernelSource.entry_point",
+      "target": "ComputeKernelSource",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ComputeKernelSource.external_inputs",
+      "target": "ComputeKernelSource",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ComputeKernelSource.external_outputs",
+      "target": "ComputeKernelSource",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ComputeKernelSource.group_size",
+      "target": "ComputeKernelSource",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "ComputeKernelSource.permutation_set",
+      "target": "ComputeKernelSource",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "MaterialExpressionCloudSampleAttribute.desc",
+      "target": "MaterialExpressionCloudSampleAttribute",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "MaterialExpressionCloudSampleAttribute.material_expression_editor_x",
+      "target": "MaterialExpressionCloudSampleAttribute",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "MaterialExpressionCloudSampleAttribute.material_expression_editor_y",
+      "target": "MaterialExpressionCloudSampleAttribute",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimLinkableElement.link_method",
+      "target": "AnimLinkableElement",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimLinkableElement.linked_sequence",
+      "target": "AnimLinkableElement",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimLinkableElement.slot_index",
+      "target": "AnimLinkableElement",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "PCGSplineSamplingInteriorOrientation.UNIFORM",
+      "target": "PCGSplineSamplingInteriorOrientation",
+      "type": "enum_value_of",
+      "properties": {}
+    },
+    {
+      "source": "PCGSplineSamplingInteriorOrientation.FOLLOW_CURVATURE",
+      "target": "PCGSplineSamplingInteriorOrientation",
+      "type": "enum_value_of",
+      "properties": {}
+    },
+    {
+      "source": "UVMapSettings.position",
+      "target": "UVMapSettings",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "UVMapSettings.rotation",
+      "target": "UVMapSettings",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "UVMapSettings.scale",
+      "target": "UVMapSettings",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "UVMapSettings.size",
+      "target": "UVMapSettings",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "UVMapSettings.uv_tile",
+      "target": "UVMapSettings",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AssetEditorToolkitMenuContext.get_editing_objects",
+      "target": "AssetEditorToolkitMenuContext",
+      "type": "method_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimGraphNode_Fabrik.become_relevant_function",
+      "target": "AnimGraphNode_Fabrik",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimGraphNode_Fabrik.binding",
+      "target": "AnimGraphNode_Fabrik",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimGraphNode_Fabrik.initial_update_function",
+      "target": "AnimGraphNode_Fabrik",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimGraphNode_Fabrik.node",
+      "target": "AnimGraphNode_Fabrik",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimGraphNode_Fabrik.show_pin_for_properties",
+      "target": "AnimGraphNode_Fabrik",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimGraphNode_Fabrik.tag",
+      "target": "AnimGraphNode_Fabrik",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "AnimGraphNode_Fabrik.update_function",
+      "target": "AnimGraphNode_Fabrik",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathBoolUnaryOp.value",
+      "target": "RigVMFunction_MathBoolUnaryOp",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathBoolUnaryOp.result",
+      "target": "RigVMFunction_MathBoolUnaryOp",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_ToSwingAndTwist.input",
+      "target": "RigUnit_ToSwingAndTwist",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_ToSwingAndTwist.twist_axis",
+      "target": "RigUnit_ToSwingAndTwist",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_ToSwingAndTwist.swing",
+      "target": "RigUnit_ToSwingAndTwist",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_ToSwingAndTwist.twist",
+      "target": "RigUnit_ToSwingAndTwist",
+      "type": "property_of",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddNull",
+      "target": "RigUnit_HierarchyAddElement",
+      "type": "extends",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_RandomFloat",
+      "target": "RigVMFunction_MathBase",
+      "type": "extends",
+      "properties": {}
+    },
+    {
+      "source": "UrbanStaticMeshAssetUserData",
+      "target": "AssetUserData",
+      "type": "extends",
+      "properties": {}
+    },
+    {
+      "source": "MaterialExpressionCloudSampleAttribute",
+      "target": "MaterialExpression",
+      "type": "extends",
+      "properties": {}
+    },
+    {
+      "source": "LightMixerObjectFilter",
+      "target": "ObjectMixerObjectFilter",
+      "type": "extends",
+      "properties": {}
+    },
+    {
+      "source": "AnimGraphNode_Fabrik",
+      "target": "AnimGraphNode_SkeletalControlBase",
+      "type": "extends",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathBoolUnaryOp",
+      "target": "RigVMFunction_MathBoolBase",
+      "type": "extends",
+      "properties": {}
+    },
+    {
+      "source": "RigUnit_StringFind",
+      "target": "RigVMFunction_StringFind",
+      "type": "renamed_to",
+      "properties": {}
+    },
+    {
+      "source": "ConstraintFrame.FRAME1",
+      "target": "ConstraintFrame",
+      "type": "enum_value_of",
+      "properties": {}
+    },
+    {
+      "source": "ConstraintFrame.FRAME2",
+      "target": "ConstraintFrame",
+      "type": "enum_value_of",
+      "properties": {}
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "nodes": [
+        "AssetRegistry.get_referencers",
+        "Name",
+        "AssetRegistryDependencyOptions",
+        "Array"
+      ],
+      "type": "method_signature",
+      "properties": {
+        "description": "get_referencers takes package_name (Name) and reference_options (AssetRegistryDependencyOptions), returns Array[Name]"
+      }
+    },
+    {
+      "id": "hyperedge_2",
+      "nodes": [
+        "AssetRegistry.get_dependencies",
+        "Name",
+        "AssetRegistryDependencyOptions",
+        "Array"
+      ],
+      "type": "method_signature",
+      "properties": {
+        "description": "get_dependencies takes package_name (Name) and dependency_options (AssetRegistryDependencyOptions), returns Array[Name]"
+      }
+    },
+    {
+      "id": "hyperedge_3",
+      "nodes": [
+        "AssetRegistry.get_assets_by_class",
+        "TopLevelAssetPath",
+        "Array",
+        "AssetData"
+      ],
+      "type": "method_signature",
+      "properties": {
+        "description": "get_assets_by_class takes class_path_name (TopLevelAssetPath), returns Array[AssetData]"
+      }
+    },
+    {
+      "id": "hyperedge_4",
+      "nodes": [
+        "AssetRegistry.get_assets",
+        "ARFilter",
+        "Array",
+        "AssetData"
+      ],
+      "type": "method_signature",
+      "properties": {
+        "description": "get_assets takes filter (ARFilter), returns Array[AssetData]"
+      }
+    },
+    {
+      "id": "hyperedge_5",
+      "nodes": [
+        "PaperTileMap",
+        "PaperTileLayer",
+        "MaterialInterface",
+        "AssetImportData",
+        "TileMapProjectionMode",
+        "SpriteCollisionMode"
+      ],
+      "type": "complex_composition",
+      "properties": {
+        "description": "PaperTileMap is composed of tile layers, materials, import data, and projection/collision settings"
+      }
+    },
+    {
+      "id": "hyperedge_6",
+      "nodes": [
+        "SwapAudioOutputResult",
+        "SwapAudioOutputDeviceResultState"
+      ],
+      "type": "type_dependency",
+      "properties": {
+        "description": "SwapAudioOutputResult uses SwapAudioOutputDeviceResultState for result field"
+      }
+    },
+    {
+      "id": "hyperedge_7",
+      "nodes": [
+        "ResponseChannel",
+        "CollisionResponseType"
+      ],
+      "type": "type_dependency",
+      "properties": {
+        "description": "ResponseChannel uses CollisionResponseType for response field"
+      }
+    },
+    {
+      "id": "hyperedge_8",
+      "nodes": [
+        "RigUnit_HierarchyAddNull",
+        "RigElementKey",
+        "ControlRigExecuteContext",
+        "Transform",
+        "RigVMTransformSpace"
+      ],
+      "type": "complex_composition",
+      "properties": {
+        "description": "RigUnit_HierarchyAddNull uses RigElementKey for parent/item, ControlRigExecuteContext for execution, Transform for initial transform, and RigVMTransformSpace for space definition"
+      }
+    },
+    {
+      "id": "hyperedge_9",
+      "nodes": [
+        "UrbanStaticMeshAssetUserData",
+        "SoftObjectPath",
+        "LinearColor"
+      ],
+      "type": "complex_composition",
+      "properties": {
+        "description": "UrbanStaticMeshAssetUserData uses Map[SoftObjectPath, LinearColor] and Map[SoftObjectPath, str] for material properties"
+      }
+    },
+    {
+      "id": "hyperedge_10",
+      "nodes": [
+        "ComputeKernelSource",
+        "ComputeSource",
+        "ComputeKernelDefinitionSet",
+        "ShaderFunctionDefinition",
+        "IntVector",
+        "ComputeKernelPermutationSet"
+      ],
+      "type": "complex_composition",
+      "properties": {
+        "description": "ComputeKernelSource depends on multiple compute-related types for kernel compilation"
+      }
+    },
+    {
+      "id": "hyperedge_11",
+      "nodes": [
+        "UVMapSettings",
+        "Vector",
+        "Vector2D",
+        "Rotator"
+      ],
+      "type": "complex_composition",
+      "properties": {
+        "description": "UVMapSettings uses Vector for position/scale/size, Vector2D for uv_tile, and Rotator for rotation"
+      }
+    },
+    {
+      "id": "hyperedge_12",
+      "nodes": [
+        "AnimGraphNode_Fabrik",
+        "MemberReference",
+        "AnimGraphNodeBinding",
+        "AnimNode_Fabrik",
+        "OptionalPinFromProperty"
+      ],
+      "type": "complex_composition",
+      "properties": {
+        "description": "AnimGraphNode_Fabrik uses multiple types for animation graph functionality"
+      }
+    },
+    {
+      "id": "hyperedge_13",
+      "nodes": [
+        "RigUnit_ToSwingAndTwist",
+        "Quat",
+        "Vector"
+      ],
+      "type": "complex_composition",
+      "properties": {
+        "description": "RigUnit_ToSwingAndTwist uses Quat for input/swing/twist and Vector for twist_axis"
+      }
+    },
+    {
+      "id": "hyperedge_14",
+      "nodes": [
+        "AnimLinkableElement",
+        "AnimLinkMethod",
+        "AnimSequenceBase"
+      ],
+      "type": "complex_composition",
+      "properties": {
+        "description": "AnimLinkableElement uses AnimLinkMethod for linking and AnimSequenceBase for sequence reference"
+      }
+    },
+    {
+      "id": "hyperedge_15",
+      "nodes": [
+        "SlatePostSettings",
+        "Class"
+      ],
+      "type": "type_dependency",
+      "properties": {
+        "description": "SlatePostSettings uses type(Class) for post_processor_class field"
+      }
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "PCGDensityNoiseSettings Objects.md",
+      "InterchangeTranslatorAssetType Objects.md",
+      "AssetRegistry Objects.md",
+      "SlatePostSettings Objects.md",
+      "PaperTileMap Objects.md",
+      "SwapAudioOutputResult Objects.md",
+      "ResponseChannel Objects.md",
+      "RigVMFunction__RandomFloat Objects.md",
+      "RigUnit__HierarchyAddNull Objects.md",
+      "UrbanStaticMeshAssetUserData Objects.md",
+      "ComputeKernelSource Objects.md",
+      "MaterialExpressionCloudSampleAttribute Objects.md",
+      "RigUnit__StringFind Objects.md",
+      "ConstraintFrame Objects.md",
+      "AnimLinkableElement Objects.md",
+      "PCGSplineSamplingInteriorOrientation Objects.md",
+      "LightMixerObjectFilter Objects.md",
+      "UVMapSettings Objects.md",
+      "AssetEditorToolkitMenuContext Objects.md",
+      "AnimGraphNode__Fabrik Objects.md",
+      "RigVMFunction_MathBoolUnaryOp Objects.md",
+      "RigUnit__ToSwingAndTwist Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_nodes": 200,
+    "total_edges": 135,
+    "total_hyperedges": 15
+  }
+}

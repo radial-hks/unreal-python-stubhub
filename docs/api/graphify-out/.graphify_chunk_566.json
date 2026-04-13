@@ -1,0 +1,1033 @@
+{
+  "nodes": [
+    {
+      "id": "MaterialExpressionVectorNoise",
+      "type": "class",
+      "label": "MaterialExpressionVectorNoise",
+      "metadata": {
+        "module": "Engine",
+        "file": "MaterialExpressionVectorNoise.h",
+        "description": "Material Expression Vector Noise"
+      }
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression",
+      "metadata": {
+        "description": "Base class for material expressions"
+      }
+    },
+    {
+      "id": "VectorNoiseFunction",
+      "type": "enum",
+      "label": "VectorNoiseFunction",
+      "metadata": {
+        "description": "Noise function type"
+      }
+    },
+    {
+      "id": "PositionOrigin",
+      "type": "enum",
+      "label": "PositionOrigin",
+      "metadata": {
+        "description": "Position origin type"
+      }
+    },
+    {
+      "id": "ObservedComponent",
+      "type": "struct",
+      "label": "ObservedComponent",
+      "metadata": {
+        "plugin": "ChaosCaching",
+        "module": "ChaosCaching",
+        "file": "CacheManagerActor.h",
+        "description": "Observed Component"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase",
+      "metadata": {
+        "description": "Base class for structs"
+      }
+    },
+    {
+      "id": "SoftComponentReference",
+      "type": "struct",
+      "label": "SoftComponentReference",
+      "metadata": {
+        "description": "Soft reference to a component"
+      }
+    },
+    {
+      "id": "DirectoryPath",
+      "type": "struct",
+      "label": "DirectoryPath",
+      "metadata": {
+        "description": "Directory path structure"
+      }
+    },
+    {
+      "id": "Int32RangeBound",
+      "type": "struct",
+      "label": "Int32RangeBound",
+      "metadata": {
+        "module": "CoreUObject",
+        "file": "NoExportTypes.h",
+        "description": "Defines a single bound for a range of values"
+      }
+    },
+    {
+      "id": "RangeBoundTypes",
+      "type": "enum",
+      "label": "RangeBoundTypes",
+      "metadata": {
+        "description": "Types of range bounds"
+      }
+    },
+    {
+      "id": "MagicGISLayerViewActor",
+      "type": "class",
+      "label": "MagicGISLayerViewActor",
+      "metadata": {
+        "plugin": "GISDataAPI",
+        "module": "MagicGISLayer",
+        "file": "MagicGISLayerViewActor.h",
+        "description": "Magic GISLayer View Actor"
+      }
+    },
+    {
+      "id": "MagicGISViewActor",
+      "type": "class",
+      "label": "MagicGISViewActor",
+      "metadata": {
+        "description": "Base class for MagicGIS view actors"
+      }
+    },
+    {
+      "id": "MagicGISLayerView",
+      "type": "class",
+      "label": "MagicGISLayerView",
+      "metadata": {
+        "description": "GIS Layer View"
+      }
+    },
+    {
+      "id": "MovieSceneNiagaraCacheSection",
+      "type": "class",
+      "label": "MovieSceneNiagaraCacheSection",
+      "metadata": {
+        "plugin": "NiagaraSimCaching",
+        "module": "NiagaraSimCaching",
+        "file": "MovieSceneNiagaraCacheSection.h",
+        "description": "Movie scene section that control NiagaraCache playback"
+      }
+    },
+    {
+      "id": "MovieSceneBaseCacheSection",
+      "type": "class",
+      "label": "MovieSceneBaseCacheSection",
+      "metadata": {
+        "description": "Base class for movie scene cache sections"
+      }
+    },
+    {
+      "id": "MovieSceneNiagaraCacheParams",
+      "type": "struct",
+      "label": "MovieSceneNiagaraCacheParams",
+      "metadata": {
+        "description": "Parameters for Niagara cache in movie scene"
+      }
+    },
+    {
+      "id": "OptimusNode_AnimAttributeDataInterface",
+      "type": "class",
+      "label": "OptimusNode_AnimAttributeDataInterface",
+      "metadata": {
+        "plugin": "DeformerGraph",
+        "module": "OptimusCore",
+        "file": "OptimusNode_AnimAttributeDataInterface.h",
+        "description": "Deprecated",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "OptimusNode_DataInterface",
+      "type": "class",
+      "label": "OptimusNode_DataInterface",
+      "metadata": {
+        "description": "Base class for Optimus data interface nodes"
+      }
+    },
+    {
+      "id": "OptimusComputeDataInterface",
+      "type": "class",
+      "label": "OptimusComputeDataInterface",
+      "metadata": {
+        "description": "Data interface for Optimus compute"
+      }
+    },
+    {
+      "id": "CameraAnimationSequence",
+      "type": "class",
+      "label": "CameraAnimationSequence",
+      "metadata": {
+        "plugin": "TemplateSequence",
+        "module": "TemplateSequence",
+        "file": "CameraAnimationSequence.h",
+        "description": "A template sequence specifically designed for playing on cameras"
+      }
+    },
+    {
+      "id": "TemplateSequence",
+      "type": "class",
+      "label": "TemplateSequence",
+      "metadata": {
+        "description": "Base class for template sequences"
+      }
+    },
+    {
+      "id": "WidgetLibrary_OnGameWindowCloseButtonClickedDelegate",
+      "type": "delegate",
+      "label": "WidgetLibrary_OnGameWindowCloseButtonClickedDelegate",
+      "metadata": {
+        "module": "UMG",
+        "file": "WidgetBlueprintLibrary.h",
+        "description": "On Game Window Close Button Clicked Delegate"
+      }
+    },
+    {
+      "id": "DelegateBase",
+      "type": "class",
+      "label": "DelegateBase",
+      "metadata": {
+        "description": "Base class for delegates"
+      }
+    },
+    {
+      "id": "MaterialExpressionShadowReplace",
+      "type": "class",
+      "label": "MaterialExpressionShadowReplace",
+      "metadata": {
+        "module": "Engine",
+        "file": "MaterialExpressionShadowReplace.h",
+        "description": "Material Expression Shadow Replace"
+      }
+    },
+    {
+      "id": "RigUnit_SetBoneRotation",
+      "type": "class",
+      "label": "RigUnit_SetBoneRotation",
+      "metadata": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_SetBoneRotation.h",
+        "description": "SetBoneRotation is used to perform a change in the hierarchy by setting a single bone's rotation"
+      }
+    },
+    {
+      "id": "RigUnitMutable",
+      "type": "class",
+      "label": "RigUnitMutable",
+      "metadata": {
+        "description": "Base class for mutable rig units"
+      }
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "struct",
+      "label": "ControlRigExecuteContext",
+      "metadata": {
+        "description": "Execution context for Control Rig"
+      }
+    },
+    {
+      "id": "RigVMTransformSpace",
+      "type": "enum",
+      "label": "RigVMTransformSpace",
+      "metadata": {
+        "description": "Transform space for RigVM"
+      }
+    },
+    {
+      "id": "PhysicalAnimationData",
+      "type": "struct",
+      "label": "PhysicalAnimationData",
+      "metadata": {
+        "module": "Engine",
+        "file": "PhysicalAnimationComponent.h",
+        "description": "Stores info on the type of motor that will be used for a given bone"
+      }
+    },
+    {
+      "id": "NiagaraStripScriptByteCodeOption",
+      "type": "enum",
+      "label": "NiagaraStripScriptByteCodeOption",
+      "metadata": {
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraSettings.h",
+        "description": "ENiagara Strip Script Byte Code Option"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase",
+      "metadata": {
+        "description": "Base class for enums"
+      }
+    },
+    {
+      "id": "InterpCurveTwoVectors",
+      "type": "struct",
+      "label": "InterpCurveTwoVectors",
+      "metadata": {
+        "module": "CoreUObject",
+        "file": "NoExportTypes.h",
+        "description": "Describes an entire curve that is used to compute two 3D vector values from a float input"
+      }
+    },
+    {
+      "id": "InterpCurvePointTwoVectors",
+      "type": "struct",
+      "label": "InterpCurvePointTwoVectors",
+      "metadata": {
+        "description": "Point in an interpolation curve for two vectors"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathBoolConstant",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolConstant",
+      "metadata": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathBool.h",
+        "description": "Rig VMFunction Math Bool Constant"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathBoolBase",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolBase",
+      "metadata": {
+        "description": "Base class for RigVM math bool functions"
+      }
+    },
+    {
+      "id": "SVGData",
+      "type": "class",
+      "label": "SVGData",
+      "metadata": {
+        "plugin": "SVGImporter",
+        "module": "SVGImporter",
+        "file": "SVGData.h",
+        "description": "SVGData"
+      }
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object",
+      "metadata": {
+        "description": "Base class for all Unreal objects"
+      }
+    },
+    {
+      "id": "Texture2D",
+      "type": "class",
+      "label": "Texture2D",
+      "metadata": {
+        "description": "2D texture resource"
+      }
+    },
+    {
+      "id": "SVGSplineConversionQuality",
+      "type": "enum",
+      "label": "SVGSplineConversionQuality",
+      "metadata": {
+        "description": "Quality settings for SVG spline conversion"
+      }
+    },
+    {
+      "id": "AnimGraphNode_RotationMultiplier",
+      "type": "class",
+      "label": "AnimGraphNode_RotationMultiplier",
+      "metadata": {
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_RotationMultiplier.h",
+        "description": "Anim Graph Node Rotation Multiplier"
+      }
+    },
+    {
+      "id": "AnimGraphNode_SkeletalControlBase",
+      "type": "class",
+      "label": "AnimGraphNode_SkeletalControlBase",
+      "metadata": {
+        "description": "Base class for animation graph skeletal control nodes"
+      }
+    },
+    {
+      "id": "AnimNode_RotationMultiplier",
+      "type": "struct",
+      "label": "AnimNode_RotationMultiplier",
+      "metadata": {
+        "description": "Animation node for rotation multiplier"
+      }
+    },
+    {
+      "id": "MemberReference",
+      "type": "struct",
+      "label": "MemberReference",
+      "metadata": {
+        "description": "Reference to a member"
+      }
+    },
+    {
+      "id": "AnimGraphNodeBinding",
+      "type": "struct",
+      "label": "AnimGraphNodeBinding",
+      "metadata": {
+        "description": "Bindings for animation graph nodes"
+      }
+    },
+    {
+      "id": "OptionalPinFromProperty",
+      "type": "struct",
+      "label": "OptionalPinFromProperty",
+      "metadata": {
+        "description": "Optional pin from property"
+      }
+    },
+    {
+      "id": "SkyCreatorWeatherPreset_51",
+      "type": "class",
+      "label": "SkyCreatorWeatherPreset_51",
+      "metadata": {
+        "plugin": "SkyCreatorPlugin",
+        "module": "SkyCreatorPlugin",
+        "file": "SkyCreatorWeatherPreset_51.h",
+        "description": "Sky Creator Weather Preset 51"
+      }
+    },
+    {
+      "id": "DataAsset",
+      "type": "class",
+      "label": "DataAsset",
+      "metadata": {
+        "description": "Base class for data assets"
+      }
+    },
+    {
+      "id": "SkyCreatorSkyAtmosphereSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorSkyAtmosphereSettings_51",
+      "metadata": {
+        "description": "Sky atmosphere settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorVolumetricCloudSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorVolumetricCloudSettings_51",
+      "metadata": {
+        "description": "Volumetric cloud settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorBackgroundCloudSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorBackgroundCloudSettings_51",
+      "metadata": {
+        "description": "Background cloud settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorSkyLightSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorSkyLightSettings_51",
+      "metadata": {
+        "description": "Sky light settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorSunLightSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorSunLightSettings_51",
+      "metadata": {
+        "description": "Sun light settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorMoonLightSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorMoonLightSettings_51",
+      "metadata": {
+        "description": "Moon light settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorExponentialHeightFogSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorExponentialHeightFogSettings_51",
+      "metadata": {
+        "description": "Exponential height fog settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorStarMapSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorStarMapSettings_51",
+      "metadata": {
+        "description": "Star map settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorWeatherFXSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorWeatherFXSettings_51",
+      "metadata": {
+        "description": "Weather FX settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorWeatherMaterialFXSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorWeatherMaterialFXSettings_51",
+      "metadata": {
+        "description": "Weather material FX settings for weather preset"
+      }
+    },
+    {
+      "id": "SkyCreatorWindSettings_51",
+      "type": "struct",
+      "label": "SkyCreatorWindSettings_51",
+      "metadata": {
+        "description": "Wind settings for weather preset"
+      }
+    },
+    {
+      "id": "ExtendMPCSettings_51",
+      "type": "struct",
+      "label": "ExtendMPCSettings_51",
+      "metadata": {
+        "description": "Extended MPC settings for weather preset"
+      }
+    },
+    {
+      "id": "ExtendSettings_51",
+      "type": "struct",
+      "label": "ExtendSettings_51",
+      "metadata": {
+        "description": "Extended settings for weather preset"
+      }
+    },
+    {
+      "id": "RigVMMemoryStatistics",
+      "type": "struct",
+      "label": "RigVMMemoryStatistics",
+      "metadata": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMStatistics.h",
+        "description": "Rig VMMemory Statistics"
+      }
+    },
+    {
+      "id": "PointLightStationary",
+      "type": "class",
+      "label": "PointLightStationary",
+      "metadata": {
+        "description": "Point Light Stationary",
+        "deprecated": true,
+        "deprecation_message": "'PointLightStationary' was renamed to 'PointLight'"
+      }
+    },
+    {
+      "id": "PointLight",
+      "type": "class",
+      "label": "PointLight",
+      "metadata": {
+        "description": "Point light actor"
+      }
+    },
+    {
+      "id": "WebToImage_OnUrlChanged",
+      "type": "delegate",
+      "label": "WebToImage_OnUrlChanged",
+      "metadata": {
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIEntity",
+        "file": "WebToImage.h",
+        "description": "On Url Changed Delegate"
+      }
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase",
+      "metadata": {
+        "description": "Base class for multicast delegates"
+      }
+    },
+    {
+      "id": "UsdStageOptions",
+      "type": "struct",
+      "label": "UsdStageOptions",
+      "metadata": {
+        "plugin": "USDCore",
+        "module": "USDClasses",
+        "file": "USDStageOptions.h",
+        "description": "Usd Stage Options"
+      }
+    },
+    {
+      "id": "UsdUpAxis",
+      "type": "enum",
+      "label": "UsdUpAxis",
+      "metadata": {
+        "description": "USD up axis enumeration"
+      }
+    },
+    {
+      "id": "AvaBroadcastOutputChannelViewInterface",
+      "type": "interface",
+      "label": "AvaBroadcastOutputChannelViewInterface",
+      "metadata": {
+        "plugin": "Avalanche",
+        "module": "AvalancheMedia",
+        "file": "IAvaBroadcastOutputChannelViewInterface.h",
+        "description": "Ava Broadcast Output Channel View Interface"
+      }
+    },
+    {
+      "id": "Interface",
+      "type": "class",
+      "label": "Interface",
+      "metadata": {
+        "description": "Base class for interfaces"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "MaterialExpressionVectorNoise",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionVectorNoise",
+      "target": "VectorNoiseFunction",
+      "type": "has_property",
+      "label": "has noise_function"
+    },
+    {
+      "source": "MaterialExpressionVectorNoise",
+      "target": "PositionOrigin",
+      "type": "has_property",
+      "label": "has world_position_origin_type"
+    },
+    {
+      "source": "ObservedComponent",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ObservedComponent",
+      "target": "SoftComponentReference",
+      "type": "has_property",
+      "label": "has soft_component_ref"
+    },
+    {
+      "source": "ObservedComponent",
+      "target": "DirectoryPath",
+      "type": "has_property",
+      "label": "has usd_cache_directory"
+    },
+    {
+      "source": "Int32RangeBound",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "Int32RangeBound",
+      "target": "RangeBoundTypes",
+      "type": "has_property",
+      "label": "has type"
+    },
+    {
+      "source": "MagicGISLayerViewActor",
+      "target": "MagicGISViewActor",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MagicGISLayerViewActor",
+      "target": "MagicGISLayerView",
+      "type": "has_property",
+      "label": "has gis_layer_view"
+    },
+    {
+      "source": "MovieSceneNiagaraCacheSection",
+      "target": "MovieSceneBaseCacheSection",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieSceneNiagaraCacheSection",
+      "target": "MovieSceneNiagaraCacheParams",
+      "type": "has_property",
+      "label": "has params"
+    },
+    {
+      "source": "OptimusNode_AnimAttributeDataInterface",
+      "target": "OptimusNode_DataInterface",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "OptimusNode_AnimAttributeDataInterface",
+      "target": "OptimusComputeDataInterface",
+      "type": "has_property",
+      "label": "has data_interface_data"
+    },
+    {
+      "source": "CameraAnimationSequence",
+      "target": "TemplateSequence",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "WidgetLibrary_OnGameWindowCloseButtonClickedDelegate",
+      "target": "DelegateBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionShadowReplace",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_SetBoneRotation",
+      "target": "RigUnitMutable",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_SetBoneRotation",
+      "target": "ControlRigExecuteContext",
+      "type": "has_property",
+      "label": "has execute_context"
+    },
+    {
+      "source": "RigUnit_SetBoneRotation",
+      "target": "RigVMTransformSpace",
+      "type": "has_property",
+      "label": "has space"
+    },
+    {
+      "source": "PhysicalAnimationData",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "NiagaraStripScriptByteCodeOption",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "InterpCurveTwoVectors",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "InterpCurveTwoVectors",
+      "target": "InterpCurvePointTwoVectors",
+      "type": "has_property",
+      "label": "has points array"
+    },
+    {
+      "source": "RigVMFunction_MathBoolConstant",
+      "target": "RigVMFunction_MathBoolBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "SVGData",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "SVGData",
+      "target": "Texture2D",
+      "type": "has_property",
+      "label": "has svg_texture"
+    },
+    {
+      "source": "SVGData",
+      "target": "SVGSplineConversionQuality",
+      "type": "has_property",
+      "label": "has override_quality"
+    },
+    {
+      "source": "AnimGraphNode_RotationMultiplier",
+      "target": "AnimGraphNode_SkeletalControlBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimGraphNode_RotationMultiplier",
+      "target": "AnimNode_RotationMultiplier",
+      "type": "has_property",
+      "label": "has node"
+    },
+    {
+      "source": "AnimGraphNode_RotationMultiplier",
+      "target": "MemberReference",
+      "type": "has_property",
+      "label": "has become_relevant_function"
+    },
+    {
+      "source": "AnimGraphNode_RotationMultiplier",
+      "target": "AnimGraphNodeBinding",
+      "type": "has_property",
+      "label": "has binding"
+    },
+    {
+      "source": "AnimGraphNode_RotationMultiplier",
+      "target": "OptionalPinFromProperty",
+      "type": "has_property",
+      "label": "has show_pin_for_properties"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "DataAsset",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorSkyAtmosphereSettings_51",
+      "type": "has_property",
+      "label": "has sky_atmosphere_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorVolumetricCloudSettings_51",
+      "type": "has_property",
+      "label": "has volumetric_cloud_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorBackgroundCloudSettings_51",
+      "type": "has_property",
+      "label": "has background_cloud_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorSkyLightSettings_51",
+      "type": "has_property",
+      "label": "has sky_light_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorSunLightSettings_51",
+      "type": "has_property",
+      "label": "has sun_light_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorMoonLightSettings_51",
+      "type": "has_property",
+      "label": "has moon_light_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorExponentialHeightFogSettings_51",
+      "type": "has_property",
+      "label": "has exponential_height_fog_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorStarMapSettings_51",
+      "type": "has_property",
+      "label": "has star_map_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorWeatherFXSettings_51",
+      "type": "has_property",
+      "label": "has weather_fx_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorWeatherMaterialFXSettings_51",
+      "type": "has_property",
+      "label": "has weather_material_fx_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "SkyCreatorWindSettings_51",
+      "type": "has_property",
+      "label": "has wind_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "ExtendMPCSettings_51",
+      "type": "has_property",
+      "label": "has extend_mpc_settings"
+    },
+    {
+      "source": "SkyCreatorWeatherPreset_51",
+      "target": "ExtendSettings_51",
+      "type": "has_property",
+      "label": "has extend_settings"
+    },
+    {
+      "source": "RigVMMemoryStatistics",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "PointLightStationary",
+      "target": "PointLight",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "PointLightStationary",
+      "target": "PointLight",
+      "type": "deprecated_in_favor_of",
+      "label": "deprecated, use PointLight"
+    },
+    {
+      "source": "WebToImage_OnUrlChanged",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "UsdStageOptions",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "UsdStageOptions",
+      "target": "UsdUpAxis",
+      "type": "has_property",
+      "label": "has up_axis"
+    },
+    {
+      "source": "AvaBroadcastOutputChannelViewInterface",
+      "target": "Interface",
+      "type": "inherits_from",
+      "label": "inherits from"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "material_expression_inheritance",
+      "nodes": ["MaterialExpressionVectorNoise", "MaterialExpressionShadowReplace", "MaterialExpression"],
+      "edges": [
+        "MaterialExpressionVectorNoise->MaterialExpression",
+        "MaterialExpressionShadowReplace->MaterialExpression"
+      ],
+      "label": "Material Expression Inheritance Pattern",
+      "description": "Multiple material expression classes inherit from the base MaterialExpression class"
+    },
+    {
+      "id": "struct_base_hierarchy",
+      "nodes": ["ObservedComponent", "Int32RangeBound", "PhysicalAnimationData", "InterpCurveTwoVectors", "RigVMMemoryStatistics", "UsdStageOptions", "StructBase"],
+      "edges": [
+        "ObservedComponent->StructBase",
+        "Int32RangeBound->StructBase",
+        "PhysicalAnimationData->StructBase",
+        "InterpCurveTwoVectors->StructBase",
+        "RigVMMemoryStatistics->StructBase",
+        "UsdStageOptions->StructBase"
+      ],
+      "label": "StructBase Inheritance",
+      "description": "Multiple struct types inherit from StructBase"
+    },
+    {
+      "id": "rigvm_function_hierarchy",
+      "nodes": ["RigVMFunction_MathBoolConstant", "RigVMFunction_MathBoolBase", "RigUnit_SetBoneRotation", "RigUnitMutable"],
+      "edges": [
+        "RigVMFunction_MathBoolConstant->RigVMFunction_MathBoolBase",
+        "RigUnit_SetBoneRotation->RigUnitMutable"
+      ],
+      "label": "RigVM Function Inheritance",
+      "description": "RigVM functions and units have their own inheritance hierarchies"
+    },
+    {
+      "id": "weather_preset_composition",
+      "nodes": [
+        "SkyCreatorWeatherPreset_51",
+        "SkyCreatorSkyAtmosphereSettings_51",
+        "SkyCreatorVolumetricCloudSettings_51",
+        "SkyCreatorBackgroundCloudSettings_51",
+        "SkyCreatorSkyLightSettings_51",
+        "SkyCreatorSunLightSettings_51",
+        "SkyCreatorMoonLightSettings_51",
+        "SkyCreatorExponentialHeightFogSettings_51",
+        "SkyCreatorStarMapSettings_51",
+        "SkyCreatorWeatherFXSettings_51",
+        "SkyCreatorWeatherMaterialFXSettings_51",
+        "SkyCreatorWindSettings_51",
+        "ExtendMPCSettings_51",
+        "ExtendSettings_51"
+      ],
+      "edges": [
+        "SkyCreatorWeatherPreset_51->SkyCreatorSkyAtmosphereSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorVolumetricCloudSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorBackgroundCloudSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorSkyLightSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorSunLightSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorMoonLightSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorExponentialHeightFogSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorStarMapSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorWeatherFXSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorWeatherMaterialFXSettings_51",
+        "SkyCreatorWeatherPreset_51->SkyCreatorWindSettings_51",
+        "SkyCreatorWeatherPreset_51->ExtendMPCSettings_51",
+        "SkyCreatorWeatherPreset_51->ExtendSettings_51"
+      ],
+      "label": "Weather Preset Configuration Composition",
+      "description": "SkyCreatorWeatherPreset_51 is composed of multiple settings objects for comprehensive weather configuration"
+    },
+    {
+      "id": "delegate_types",
+      "nodes": ["WidgetLibrary_OnGameWindowCloseButtonClickedDelegate", "WebToImage_OnUrlChanged", "DelegateBase", "MulticastDelegateBase"],
+      "edges": [
+        "WidgetLibrary_OnGameWindowCloseButtonClickedDelegate->DelegateBase",
+        "WebToImage_OnUrlChanged->MulticastDelegateBase"
+      ],
+      "label": "Delegate Type Hierarchy",
+      "description": "Different delegate types inherit from different base classes depending on their multicast behavior"
+    },
+    {
+      "id": "anim_graph_node_hierarchy",
+      "nodes": ["AnimGraphNode_RotationMultiplier", "AnimGraphNode_SkeletalControlBase", "AnimNode_RotationMultiplier"],
+      "edges": [
+        "AnimGraphNode_RotationMultiplier->AnimGraphNode_SkeletalControlBase",
+        "AnimGraphNode_RotationMultiplier->AnimNode_RotationMultiplier"
+      ],
+      "label": "Animation Graph Node Pattern",
+      "description": "Animation graph nodes inherit from specialized base classes and contain corresponding animation node data"
+    }
+  ]
+}

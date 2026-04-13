@@ -1,0 +1,526 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathmatrixtotransform",
+      "label": "RigUnit MathMatrixToTransform",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMatrixToTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixtotransform",
+      "label": "RigVMFunction MathMatrixToTransform",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMatrixToTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perplatformframerate",
+      "label": "PerPlatformFrameRate",
+      "file_type": "code",
+      "source_file": "PerPlatformFrameRate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onchaosphysicscollision",
+      "label": "OnChaosPhysicsCollision",
+      "file_type": "code",
+      "source_file": "OnChaosPhysicsCollision Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageinputthroughput",
+      "label": "DMMaterialStageInputThroughput",
+      "file_type": "code",
+      "source_file": "DMMaterialStageInputThroughput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "boolconverterrule",
+      "label": "BoolConverterRule",
+      "file_type": "code",
+      "source_file": "BoolConverterRule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datatable",
+      "label": "DataTable",
+      "file_type": "code",
+      "source_file": "DataTable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_binaryfloatop",
+      "label": "RigUnit BinaryFloatOp",
+      "file_type": "code",
+      "source_file": "RigUnit__BinaryFloatOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatceil",
+      "label": "RigUnit MathFloatCeil",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatceil",
+      "label": "RigVMFunction MathFloatCeil",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "templatesequencetrack",
+      "label": "TemplateSequenceTrack",
+      "file_type": "code",
+      "source_file": "TemplateSequenceTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massagentfeetlocationsynctrait",
+      "label": "MassAgentFeetLocationSyncTrait",
+      "file_type": "code",
+      "source_file": "MassAgentFeetLocationSyncTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbinaryop",
+      "label": "RigVMFunction MathQuaternionBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathQuaternionBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionhsvtorgb",
+      "label": "MaterialExpressionHsvToRgb",
+      "file_type": "code",
+      "source_file": "MaterialExpressionHsvToRgb Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinksubjectpreset",
+      "label": "LiveLinkSubjectPreset",
+      "file_type": "code",
+      "source_file": "LiveLinkSubjectPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionperinstancerandom",
+      "label": "MaterialExpressionPerInstanceRandom",
+      "file_type": "code",
+      "source_file": "MaterialExpressionPerInstanceRandom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "getlogcachesresp",
+      "label": "GetLogCachesResp",
+      "file_type": "code",
+      "source_file": "GetLogCachesResp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "speedunit",
+      "label": "SpeedUnit",
+      "file_type": "code",
+      "source_file": "SpeedUnit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_resetroot",
+      "label": "AnimGraphNode ResetRoot",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_ResetRoot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatefloatlerp",
+      "label": "RigVMFunction AccumulateFloatLerp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AccumulateFloatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitioncomparisonresult",
+      "label": "AvaTransitionComparisonResult",
+      "file_type": "code",
+      "source_file": "AvaTransitionComparisonResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbinaryaggregateop",
+      "label": "RigVMFunction MathIntBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathIntBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktransformaxisswitchpreprocessor",
+      "label": "LiveLinkTransformAxisSwitchPreProcessor",
+      "file_type": "code",
+      "source_file": "LiveLinkTransformAxisSwitchPreProcessor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanchetext3dactor",
+      "label": "AvalancheText3DActor",
+      "file_type": "code",
+      "source_file": "AvalancheText3DActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatextactor",
+      "label": "AvaTextActor",
+      "file_type": "code",
+      "source_file": "AvalancheText3DActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datatable_json_support",
+      "label": "DataTable JSON Support",
+      "file_type": "code",
+      "source_file": "DataTable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datatable_csv_support",
+      "label": "DataTable CSV Support",
+      "file_type": "code",
+      "source_file": "DataTable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_binary_operations",
+      "label": "RigVM Binary Operations Pattern",
+      "file_type": "code",
+      "source_file": "RigUnit__BinaryFloatOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_color_conversion",
+      "label": "MaterialExpression Color Conversion",
+      "file_type": "code",
+      "source_file": "MaterialExpressionHsvToRgb Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelink_axis_transformation",
+      "label": "LiveLink Axis Transformation",
+      "file_type": "code",
+      "source_file": "LiveLinkTransformAxisSwitchPreProcessor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathmatrixtotransform",
+      "target": "rigvmfunction_mathmatrixtotransform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMatrixToTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatceil",
+      "target": "rigvmfunction_mathfloatceil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avalanchetext3dactor",
+      "target": "avatextactor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvalancheText3DActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datatable",
+      "target": "datatable_json_support",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataTable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datatable",
+      "target": "datatable_csv_support",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataTable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_binaryfloatop",
+      "target": "rigvm_binary_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__BinaryFloatOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionbinaryop",
+      "target": "rigvm_binary_operations",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathQuaternionBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintbinaryaggregateop",
+      "target": "rigvm_binary_operations",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathIntBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionhsvtorgb",
+      "target": "materialexpression_color_conversion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionHsvToRgb Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktransformaxisswitchpreprocessor",
+      "target": "livelink_axis_transformation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkTransformAxisSwitchPreProcessor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datatable_json_support",
+      "target": "datatable_csv_support",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DataTable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionbinaryop",
+      "target": "rigunit_binaryfloatop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathQuaternionBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintbinaryaggregateop",
+      "target": "rigunit_binaryfloatop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathIntBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatefloatlerp",
+      "target": "rigvmfunction_mathfloatceil",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__AccumulateFloatLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionperinstancerandom",
+      "target": "materialexpressionhsvtorgb",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MaterialExpressionPerInstanceRandom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinksubjectpreset",
+      "target": "livelinktransformaxisswitchpreprocessor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LiveLinkSubjectPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_binary_math_operations",
+      "label": "RigVM Binary Math Operations",
+      "nodes": [
+        "rigunit_binaryfloatop",
+        "rigvmfunction_mathquaternionbinaryop",
+        "rigvmfunction_mathintbinaryaggregateop"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__BinaryFloatOp Objects.md"
+    },
+    {
+      "id": "unreal_engine_deprecated_api",
+      "label": "Unreal Engine Deprecated API",
+      "nodes": [
+        "rigunit_mathmatrixtotransform",
+        "rigunit_mathfloatceil",
+        "avalanchetext3dactor"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMatrixToTransform Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

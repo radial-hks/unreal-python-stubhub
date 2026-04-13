@@ -1,0 +1,951 @@
+{
+  "metadata": {
+    "source_files": [
+      "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings Objects.md",
+      "NiagaraCompileErrorSeverity Objects.md",
+      "PackageTools Objects.md",
+      "InputActionValue Objects.md",
+      "OnGeometryCollectionRootMovedEvent Objects.md",
+      "MobileInstalledContent Objects.md",
+      "MaterialExpressionParticleMotionBlurFade Objects.md",
+      "AssetRegistryDependencyOptions Objects.md",
+      "VOscillator Objects.md",
+      "StateTreeEvaluatorBlueprintBase Objects.md",
+      "RigUnit_MathDoubleConstTwoPi Objects.md",
+      "WdpPickResult Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "chunk_id": 69
+  },
+  "entities": [
+    {
+      "id": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "type": "class",
+      "name": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "description": "Rig Unit Hierarchy Add Animation Channel Rotator Limit Settings",
+      "inheritance": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_DynamicHierarchy.h"
+      }
+    },
+    {
+      "id": "NiagaraCompileErrorSeverity",
+      "type": "enum",
+      "name": "NiagaraCompileErrorSeverity",
+      "description": "ENiagara Compile Error Severity",
+      "source": {
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraSettings.h"
+      }
+    },
+    {
+      "id": "PackageTools",
+      "type": "class",
+      "name": "PackageTools",
+      "description": "Package Tools",
+      "inheritance": "Object",
+      "source": {
+        "module": "UnrealEd",
+        "file": "PackageTools.h"
+      }
+    },
+    {
+      "id": "InputActionValue",
+      "type": "class",
+      "name": "InputActionValue",
+      "description": "Input Action Value",
+      "inheritance": "StructBase",
+      "source": {
+        "plugin": "EnhancedInput",
+        "module": "EnhancedInput",
+        "file": "InputActionValue.h"
+      }
+    },
+    {
+      "id": "OnGeometryCollectionRootMovedEvent",
+      "type": "class",
+      "name": "OnGeometryCollectionRootMovedEvent",
+      "description": "On Geometry Collection Root Moved Event Delegate Signature",
+      "inheritance": "MulticastDelegateBase",
+      "source": {
+        "module": "GeometryCollectionEngine",
+        "file": "GeometryCollectionComponent.h"
+      }
+    },
+    {
+      "id": "MobileInstalledContent",
+      "type": "class",
+      "name": "MobileInstalledContent",
+      "description": "Mobile Installed Content",
+      "inheritance": "Object",
+      "source": {
+        "plugin": "MobilePatchingUtils",
+        "module": "MobilePatchingUtils",
+        "file": "MobilePatchingLibrary.h"
+      }
+    },
+    {
+      "id": "MaterialExpressionParticleMotionBlurFade",
+      "type": "class",
+      "name": "MaterialExpressionParticleMotionBlurFade",
+      "description": "Material Expression Particle Motion Blur Fade",
+      "inheritance": "MaterialExpression",
+      "source": {
+        "module": "Engine",
+        "file": "MaterialExpressionParticleMotionBlurFade.h"
+      }
+    },
+    {
+      "id": "AssetRegistryDependencyOptions",
+      "type": "class",
+      "name": "AssetRegistryDependencyOptions",
+      "description": "namespace UE::AssetRegistry",
+      "inheritance": "StructBase",
+      "source": {
+        "module": "AssetRegistry",
+        "file": "IAssetRegistry.h"
+      }
+    },
+    {
+      "id": "VOscillator",
+      "type": "class",
+      "name": "VOscillator",
+      "description": "Defines FVector oscillation.",
+      "inheritance": "StructBase",
+      "source": {
+        "plugin": "EngineCameras",
+        "module": "EngineCameras",
+        "file": "LegacyCameraShake.h"
+      }
+    },
+    {
+      "id": "StateTreeEvaluatorBlueprintBase",
+      "type": "class",
+      "name": "StateTreeEvaluatorBlueprintBase",
+      "description": "Base class for Blueprint based evaluators.",
+      "inheritance": "StateTreeNodeBlueprintBase",
+      "source": {
+        "plugin": "StateTree",
+        "module": "StateTreeModule",
+        "file": "StateTreeEvaluatorBlueprintBase.h"
+      }
+    },
+    {
+      "id": "RigUnit_MathDoubleConstTwoPi",
+      "type": "class",
+      "name": "RigUnit_MathDoubleConstTwoPi",
+      "description": "deprecated: 'RigUnit_MathDoubleConstTwoPi' was renamed to 'RigVMFunction_MathDoubleConstTwoPi'.",
+      "inheritance": "RigVMFunction_MathDoubleConstTwoPi"
+    },
+    {
+      "id": "WdpPickResult",
+      "type": "class",
+      "name": "WdpPickResult",
+      "description": "Wdp Pick Result",
+      "inheritance": "StructBase",
+      "source": {
+        "plugin": "WdpDataModel",
+        "module": "WdpPicker",
+        "file": "WdpPickResult.h"
+      }
+    },
+    {
+      "id": "RigControlLimitEnabled",
+      "type": "type_reference",
+      "name": "RigControlLimitEnabled"
+    },
+    {
+      "id": "FOscillator",
+      "type": "type_reference",
+      "name": "FOscillator"
+    },
+    {
+      "id": "InputActionValueType",
+      "type": "type_reference",
+      "name": "InputActionValueType"
+    },
+    {
+      "id": "WdpActorEntity",
+      "type": "type_reference",
+      "name": "WdpActorEntity"
+    },
+    {
+      "id": "PrimitiveComponent",
+      "type": "type_reference",
+      "name": "PrimitiveComponent"
+    },
+    {
+      "id": "Vector",
+      "type": "type_reference",
+      "name": "Vector"
+    },
+    {
+      "id": "HitResult",
+      "type": "type_reference",
+      "name": "HitResult"
+    },
+    {
+      "id": "Array",
+      "type": "type_reference",
+      "name": "Array"
+    },
+    {
+      "id": "method_sanitize_package_name",
+      "type": "method",
+      "name": "sanitize_package_name",
+      "description": "Replaces all invalid package name characters with _",
+      "class": "PackageTools",
+      "returns": "str",
+      "static": true
+    },
+    {
+      "id": "method_package_name_to_filename",
+      "type": "method",
+      "name": "package_name_to_filename",
+      "description": "Converts a long package name to a file name. This can be called on package paths as well, provide no extension in that case. Will return an empty string if it fails.",
+      "class": "PackageTools",
+      "returns": "str",
+      "static": true
+    },
+    {
+      "id": "method_filename_to_package_name",
+      "type": "method",
+      "name": "filename_to_package_name",
+      "description": "Tries to convert a given relative or absolute filename to a long package name or path starting with a root like /Game. This works on both package names and directories, and it does not validate that it actually exists on disk.",
+      "class": "PackageTools",
+      "returns": "str",
+      "static": true
+    },
+    {
+      "id": "method_mount",
+      "type": "method",
+      "name": "mount",
+      "description": "Mount installed content",
+      "class": "MobileInstalledContent",
+      "returns": "bool"
+    },
+    {
+      "id": "method_get_installed_content_size",
+      "type": "method",
+      "name": "get_installed_content_size",
+      "description": "Get the installed content size in megabytes",
+      "class": "MobileInstalledContent",
+      "returns": "float"
+    },
+    {
+      "id": "method_get_disk_free_space",
+      "type": "method",
+      "name": "get_disk_free_space",
+      "description": "Get the disk free space in megabytes where content is installed",
+      "class": "MobileInstalledContent",
+      "returns": "float"
+    },
+    {
+      "id": "method_receive_tree_stop",
+      "type": "method",
+      "name": "receive_tree_stop",
+      "description": "Receive Tree Stop",
+      "class": "StateTreeEvaluatorBlueprintBase",
+      "returns": "None"
+    },
+    {
+      "id": "method_receive_tree_start",
+      "type": "method",
+      "name": "receive_tree_start",
+      "description": "Receive Tree Start",
+      "class": "StateTreeEvaluatorBlueprintBase",
+      "returns": "None"
+    },
+    {
+      "id": "method_receive_tick",
+      "type": "method",
+      "name": "receive_tick",
+      "description": "Receive Tick",
+      "class": "StateTreeEvaluatorBlueprintBase",
+      "returns": "None"
+    }
+  ],
+  "properties": [
+    {
+      "id": "prop_pitch",
+      "type": "property",
+      "name": "pitch",
+      "class": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "property_type": "RigControlLimitEnabled",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_yaw",
+      "type": "property",
+      "name": "yaw",
+      "class": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "property_type": "RigControlLimitEnabled",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_roll",
+      "type": "property",
+      "name": "roll",
+      "class": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "property_type": "RigControlLimitEnabled",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_x_oscillator",
+      "type": "property",
+      "name": "x",
+      "class": "VOscillator",
+      "property_type": "FOscillator",
+      "access": "read-write",
+      "description": "Oscillation in the X axis."
+    },
+    {
+      "id": "prop_y_oscillator",
+      "type": "property",
+      "name": "y",
+      "class": "VOscillator",
+      "property_type": "FOscillator",
+      "access": "read-write",
+      "description": "Oscillation in the Y axis."
+    },
+    {
+      "id": "prop_z_oscillator",
+      "type": "property",
+      "name": "z",
+      "class": "VOscillator",
+      "property_type": "FOscillator",
+      "access": "read-write",
+      "description": "Oscillation in the Z axis."
+    },
+    {
+      "id": "prop_desc",
+      "type": "property",
+      "name": "desc",
+      "class": "MaterialExpressionParticleMotionBlurFade",
+      "property_type": "str",
+      "access": "read-write",
+      "description": "A description that level designers can add (shows in the material editor UI)."
+    },
+    {
+      "id": "prop_material_expression_editor_x",
+      "type": "property",
+      "name": "material_expression_editor_x",
+      "class": "MaterialExpressionParticleMotionBlurFade",
+      "property_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_material_expression_editor_y",
+      "type": "property",
+      "name": "material_expression_editor_y",
+      "class": "MaterialExpressionParticleMotionBlurFade",
+      "property_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_include_soft_package_references",
+      "type": "property",
+      "name": "include_soft_package_references",
+      "class": "AssetRegistryDependencyOptions",
+      "property_type": "bool",
+      "access": "read-write",
+      "description": "Dependencies which don't need to be loaded for the object to be used (i.e. soft object paths)"
+    },
+    {
+      "id": "prop_include_hard_package_references",
+      "type": "property",
+      "name": "include_hard_package_references",
+      "class": "AssetRegistryDependencyOptions",
+      "property_type": "bool",
+      "access": "read-write",
+      "description": "Dependencies which are required for correct usage of the source asset, and must be loaded at the same time"
+    },
+    {
+      "id": "prop_include_searchable_names",
+      "type": "property",
+      "name": "include_searchable_names",
+      "class": "AssetRegistryDependencyOptions",
+      "property_type": "bool",
+      "access": "read-write",
+      "description": "References to specific SearchableNames inside a package"
+    },
+    {
+      "id": "prop_include_soft_management_references",
+      "type": "property",
+      "name": "include_soft_management_references",
+      "class": "AssetRegistryDependencyOptions",
+      "property_type": "bool",
+      "access": "read-write",
+      "description": "Indirect management references, these are set through recursion for Primary Assets that manage packages or other primary assets"
+    },
+    {
+      "id": "prop_include_hard_management_references",
+      "type": "property",
+      "name": "include_hard_management_references",
+      "class": "AssetRegistryDependencyOptions",
+      "property_type": "bool",
+      "access": "read-write",
+      "description": "Reference that says one object directly manages another object, set when Primary Assets manage things explicitly"
+    },
+    {
+      "id": "prop_description",
+      "type": "property",
+      "name": "description",
+      "class": "StateTreeEvaluatorBlueprintBase",
+      "property_type": "Text",
+      "access": "read-write",
+      "description": "Description of the node."
+    },
+    {
+      "id": "prop_icon_color",
+      "type": "property",
+      "name": "icon_color",
+      "class": "StateTreeEvaluatorBlueprintBase",
+      "property_type": "Color",
+      "access": "read-write",
+      "description": "Color of the icon."
+    },
+    {
+      "id": "prop_icon_name",
+      "type": "property",
+      "name": "icon_name",
+      "class": "StateTreeEvaluatorBlueprintBase",
+      "property_type": "Name",
+      "access": "read-write",
+      "description": "Name of the icon in format: StyleSetName | StyleName [ | SmallStyleName | StatusOverlayStyleName]"
+    },
+    {
+      "id": "prop_entity_result",
+      "type": "property",
+      "name": "entity_result",
+      "class": "WdpPickResult",
+      "property_type": "WdpActorEntity",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_component_result",
+      "type": "property",
+      "name": "component_result",
+      "class": "WdpPickResult",
+      "property_type": "PrimitiveComponent",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_point_result",
+      "type": "property",
+      "name": "point_result",
+      "class": "WdpPickResult",
+      "property_type": "Vector",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_hit_result",
+      "type": "property",
+      "name": "hit_result",
+      "class": "WdpPickResult",
+      "property_type": "HitResult",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_multi_trace_results",
+      "type": "property",
+      "name": "multi_trace_results",
+      "class": "WdpPickResult",
+      "property_type": "Array[HitResult]",
+      "access": "read-only"
+    }
+  ],
+  "enum_values": [
+    {
+      "enum": "NiagaraCompileErrorSeverity",
+      "name": "IGNORE",
+      "value": 0
+    },
+    {
+      "enum": "NiagaraCompileErrorSeverity",
+      "name": "LOG_ONLY",
+      "value": 1
+    },
+    {
+      "enum": "NiagaraCompileErrorSeverity",
+      "name": "WARNING",
+      "value": 2
+    },
+    {
+      "enum": "NiagaraCompileErrorSeverity",
+      "name": "ERROR",
+      "value": 3
+    }
+  ],
+  "parameters": [
+    {
+      "method": "sanitize_package_name",
+      "name": "package_name",
+      "type": "str"
+    },
+    {
+      "method": "package_name_to_filename",
+      "name": "package_name",
+      "type": "str"
+    },
+    {
+      "method": "package_name_to_filename",
+      "name": "extension",
+      "type": "str",
+      "default": ""
+    },
+    {
+      "method": "filename_to_package_name",
+      "name": "filename",
+      "type": "str"
+    },
+    {
+      "method": "mount",
+      "name": "pak_order",
+      "type": "int",
+      "default": "1",
+      "description": "Content pak priority"
+    },
+    {
+      "method": "mount",
+      "name": "mount_point",
+      "type": "str",
+      "description": "Path to mount the pak at"
+    },
+    {
+      "method": "receive_tick",
+      "name": "delta_time",
+      "type": "float"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "to": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "type": "inherits_from"
+    },
+    {
+      "from": "NiagaraCompileErrorSeverity",
+      "to": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "PackageTools",
+      "to": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "from": "InputActionValue",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "OnGeometryCollectionRootMovedEvent",
+      "to": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "MobileInstalledContent",
+      "to": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "from": "MaterialExpressionParticleMotionBlurFade",
+      "to": "MaterialExpression",
+      "type": "inherits_from"
+    },
+    {
+      "from": "AssetRegistryDependencyOptions",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "VOscillator",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "StateTreeEvaluatorBlueprintBase",
+      "to": "StateTreeNodeBlueprintBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigUnit_MathDoubleConstTwoPi",
+      "to": "RigVMFunction_MathDoubleConstTwoPi",
+      "type": "inherits_from"
+    },
+    {
+      "from": "WdpPickResult",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "to": "ControlRig",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "NiagaraCompileErrorSeverity",
+      "to": "Niagara",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "PackageTools",
+      "to": "UnrealEd",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "InputActionValue",
+      "to": "EnhancedInput",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "OnGeometryCollectionRootMovedEvent",
+      "to": "GeometryCollectionEngine",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "MobileInstalledContent",
+      "to": "MobilePatchingUtils",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "MaterialExpressionParticleMotionBlurFade",
+      "to": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "AssetRegistryDependencyOptions",
+      "to": "AssetRegistry",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "VOscillator",
+      "to": "EngineCameras",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "StateTreeEvaluatorBlueprintBase",
+      "to": "StateTreeModule",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "WdpPickResult",
+      "to": "WdpPicker",
+      "type": "defined_in_module"
+    },
+    {
+      "from": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "to": "ControlRig",
+      "type": "defined_in_plugin"
+    },
+    {
+      "from": "NiagaraCompileErrorSeverity",
+      "to": "Niagara",
+      "type": "defined_in_plugin"
+    },
+    {
+      "from": "InputActionValue",
+      "to": "EnhancedInput",
+      "type": "defined_in_plugin"
+    },
+    {
+      "from": "MobileInstalledContent",
+      "to": "MobilePatchingUtils",
+      "type": "defined_in_plugin"
+    },
+    {
+      "from": "VOscillator",
+      "to": "EngineCameras",
+      "type": "defined_in_plugin"
+    },
+    {
+      "from": "StateTreeEvaluatorBlueprintBase",
+      "to": "StateTree",
+      "type": "defined_in_plugin"
+    },
+    {
+      "from": "WdpPickResult",
+      "to": "WdpDataModel",
+      "type": "defined_in_plugin"
+    },
+    {
+      "from": "method_sanitize_package_name",
+      "to": "PackageTools",
+      "type": "method_of"
+    },
+    {
+      "from": "method_package_name_to_filename",
+      "to": "PackageTools",
+      "type": "method_of"
+    },
+    {
+      "from": "method_filename_to_package_name",
+      "to": "PackageTools",
+      "type": "method_of"
+    },
+    {
+      "from": "method_mount",
+      "to": "MobileInstalledContent",
+      "type": "method_of"
+    },
+    {
+      "from": "method_get_installed_content_size",
+      "to": "MobileInstalledContent",
+      "type": "method_of"
+    },
+    {
+      "from": "method_get_disk_free_space",
+      "to": "MobileInstalledContent",
+      "type": "method_of"
+    },
+    {
+      "from": "method_receive_tree_stop",
+      "to": "StateTreeEvaluatorBlueprintBase",
+      "type": "method_of"
+    },
+    {
+      "from": "method_receive_tree_start",
+      "to": "StateTreeEvaluatorBlueprintBase",
+      "type": "method_of"
+    },
+    {
+      "from": "method_receive_tick",
+      "to": "StateTreeEvaluatorBlueprintBase",
+      "type": "method_of"
+    },
+    {
+      "from": "prop_pitch",
+      "to": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_yaw",
+      "to": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_roll",
+      "to": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_x_oscillator",
+      "to": "VOscillator",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_y_oscillator",
+      "to": "VOscillator",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_z_oscillator",
+      "to": "VOscillator",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_desc",
+      "to": "MaterialExpressionParticleMotionBlurFade",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_material_expression_editor_x",
+      "to": "MaterialExpressionParticleMotionBlurFade",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_material_expression_editor_y",
+      "to": "MaterialExpressionParticleMotionBlurFade",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_include_soft_package_references",
+      "to": "AssetRegistryDependencyOptions",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_include_hard_package_references",
+      "to": "AssetRegistryDependencyOptions",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_include_searchable_names",
+      "to": "AssetRegistryDependencyOptions",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_include_soft_management_references",
+      "to": "AssetRegistryDependencyOptions",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_include_hard_management_references",
+      "to": "AssetRegistryDependencyOptions",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_description",
+      "to": "StateTreeEvaluatorBlueprintBase",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_icon_color",
+      "to": "StateTreeEvaluatorBlueprintBase",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_icon_name",
+      "to": "StateTreeEvaluatorBlueprintBase",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_entity_result",
+      "to": "WdpPickResult",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_component_result",
+      "to": "WdpPickResult",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_point_result",
+      "to": "WdpPickResult",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_hit_result",
+      "to": "WdpPickResult",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_multi_trace_results",
+      "to": "WdpPickResult",
+      "type": "property_of"
+    },
+    {
+      "from": "prop_pitch",
+      "to": "RigControlLimitEnabled",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_yaw",
+      "to": "RigControlLimitEnabled",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_roll",
+      "to": "RigControlLimitEnabled",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_x_oscillator",
+      "to": "FOscillator",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_y_oscillator",
+      "to": "FOscillator",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_z_oscillator",
+      "to": "FOscillator",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_entity_result",
+      "to": "WdpActorEntity",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_component_result",
+      "to": "PrimitiveComponent",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_point_result",
+      "to": "Vector",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_hit_result",
+      "to": "HitResult",
+      "type": "has_type"
+    },
+    {
+      "from": "prop_multi_trace_results",
+      "to": "Array",
+      "type": "has_type"
+    }
+  ],
+  "modules": [
+    {
+      "name": "ControlRig",
+      "plugin": "ControlRig"
+    },
+    {
+      "name": "Niagara",
+      "plugin": "Niagara"
+    },
+    {
+      "name": "UnrealEd"
+    },
+    {
+      "name": "EnhancedInput",
+      "plugin": "EnhancedInput"
+    },
+    {
+      "name": "GeometryCollectionEngine"
+    },
+    {
+      "name": "MobilePatchingUtils",
+      "plugin": "MobilePatchingUtils"
+    },
+    {
+      "name": "Engine"
+    },
+    {
+      "name": "AssetRegistry"
+    },
+    {
+      "name": "EngineCameras",
+      "plugin": "EngineCameras"
+    },
+    {
+      "name": "StateTreeModule",
+      "plugin": "StateTree"
+    },
+    {
+      "name": "WdpPicker",
+      "plugin": "WdpDataModel"
+    }
+  ],
+  "plugins": [
+    {
+      "name": "ControlRig"
+    },
+    {
+      "name": "Niagara"
+    },
+    {
+      "name": "EnhancedInput"
+    },
+    {
+      "name": "MobilePatchingUtils"
+    },
+    {
+      "name": "EngineCameras"
+    },
+    {
+      "name": "StateTree"
+    },
+    {
+      "name": "WdpDataModel"
+    }
+  ]
+}

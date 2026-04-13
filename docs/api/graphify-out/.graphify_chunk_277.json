@@ -1,0 +1,498 @@
+{
+  "nodes": [
+    {
+      "id": "geometryscript_newassetutils_geometryscript_newassetutils",
+      "label": "GeometryScript_NewAssetUtils",
+      "file_type": "code",
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_newassetutils_dynamic_mesh",
+      "label": "DynamicMesh",
+      "file_type": "code",
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_newassetutils_texture2d",
+      "label": "Texture2D",
+      "file_type": "code",
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_newassetutils_static_mesh",
+      "label": "StaticMesh",
+      "file_type": "code",
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_newassetutils_skeletal_mesh",
+      "label": "SkeletalMesh",
+      "file_type": "code",
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsubgraphnode_pcgsubgraphnode",
+      "label": "PCGSubgraphNode",
+      "file_type": "code",
+      "source_file": "PCGSubgraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transferboneweightsmethod_transferboneweightsmethod",
+      "label": "TransferBoneWeightsMethod",
+      "file_type": "code",
+      "source_file": "TransferBoneWeightsMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transferboneweightsmethod_closest_point_on_surface",
+      "label": "CLOSEST_POINT_ON_SURFACE",
+      "file_type": "code",
+      "source_file": "TransferBoneWeightsMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transferboneweightsmethod_inpaint_weights",
+      "label": "INPAINT_WEIGHTS",
+      "file_type": "code",
+      "source_file": "TransferBoneWeightsMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetree_statetree",
+      "label": "StateTree",
+      "file_type": "code",
+      "source_file": "StateTree Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_unaryquaternionop_rigunit_unaryquaternionop",
+      "label": "RigUnit_UnaryQuaternionOp",
+      "file_type": "code",
+      "source_file": "RigUnit_UnaryQuaternionOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffectreverbfastsettings_submixeffectreverbfastsettings",
+      "label": "SubmixEffectReverbFastSettings",
+      "file_type": "code",
+      "source_file": "SubmixEffectReverbFastSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "remotecontrolinterceptiontestobject_remotecontrolinterceptiontestobject",
+      "label": "RemoteControlInterceptionTestObject",
+      "file_type": "code",
+      "source_file": "RemoteControlInterceptionTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpsectionentity_dcpsectionentity",
+      "label": "DCPSectionEntity",
+      "file_type": "code",
+      "source_file": "DCPSectionEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "triggerthresholdlinestyle_triggerthresholdlinestyle",
+      "label": "TriggerThresholdLineStyle",
+      "file_type": "code",
+      "source_file": "TriggerThresholdLineStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foscillator_foscillator",
+      "label": "FOscillator",
+      "file_type": "code",
+      "source_file": "FOscillator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_transformfromcontrolrigspline_rigunit_transformfromcontrolrigspline",
+      "label": "RigUnit_TransformFromControlRigSpline",
+      "file_type": "code",
+      "source_file": "RigUnit_TransformFromControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialpropertyroughness_dmmaterialpropertyroughness",
+      "label": "DMMaterialPropertyRoughness",
+      "file_type": "code",
+      "source_file": "DMMaterialPropertyRoughness Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_vectormath_geometryscript_vectormath",
+      "label": "GeometryScript_VectorMath",
+      "file_type": "code",
+      "source_file": "GeometryScript_VectorMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_vectormath_vector_operations",
+      "label": "Vector Operations",
+      "file_type": "code",
+      "source_file": "GeometryScript_VectorMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdlevelsequenceassetuserdata_usdlevelsequenceassetuserdata",
+      "label": "UsdLevelSequenceAssetUserData",
+      "file_type": "code",
+      "source_file": "UsdLevelSequenceAssetUserData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_controlrig_animgraphnode_controlrig",
+      "label": "AnimGraphNode_ControlRig",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_ControlRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesignificancelevel_particlesignificancelevel",
+      "label": "ParticleSignificanceLevel",
+      "file_type": "code",
+      "source_file": "ParticleSignificanceLevel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffect_buffer_hapticfeedbackeffect_buffer",
+      "label": "HapticFeedbackEffect_Buffer",
+      "file_type": "code",
+      "source_file": "HapticFeedbackEffect_Buffer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "canvaspanel_canvaspanel",
+      "label": "CanvasPanel",
+      "file_type": "code",
+      "source_file": "CanvasPanel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphysconstrainttype_animphysconstrainttype",
+      "label": "AnimPhysConstraintType",
+      "file_type": "code",
+      "source_file": "AnimPhysConstraintType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsystem_subsystem",
+      "label": "Subsystem",
+      "file_type": "code",
+      "source_file": "Subsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stereolayershapeequirect_stereolayershapeequirect",
+      "label": "StereoLayerShapeEquirect",
+      "file_type": "code",
+      "source_file": "StereoLayerShapeEquirect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometryscript_newassetutils_geometryscript_newassetutils",
+      "target": "geometryscript_newassetutils_dynamic_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_newassetutils_geometryscript_newassetutils",
+      "target": "geometryscript_newassetutils_static_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_newassetutils_geometryscript_newassetutils",
+      "target": "geometryscript_newassetutils_skeletal_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_newassetutils_geometryscript_newassetutils",
+      "target": "geometryscript_newassetutils_texture2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_NewAssetUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transferboneweightsmethod_closest_point_on_surface",
+      "target": "transferboneweightsmethod_inpaint_weights",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TransferBoneWeightsMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_unaryquaternionop_rigunit_unaryquaternionop",
+      "target": "rigunit_transformfromcontrolrigspline_rigunit_transformfromcontrolrigspline",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_UnaryQuaternionOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_unaryquaternionop_rigunit_unaryquaternionop",
+      "target": "animgraphnode_controlrig_animgraphnode_controlrig",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_UnaryQuaternionOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_transformfromcontrolrigspline_rigunit_transformfromcontrolrigspline",
+      "target": "animgraphnode_controlrig_animgraphnode_controlrig",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_TransformFromControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_vectormath_geometryscript_vectormath",
+      "target": "geometryscript_vectormath_vector_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_VectorMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "submixeffectreverbfastsettings_submixeffectreverbfastsettings",
+      "target": "submixeffectreverbfastsettings_submixeffectreverbfastsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixEffectReverbFastSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlesignificancelevel_particlesignificancelevel",
+      "target": "particlesignificancelevel_particlesignificancelevel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSignificanceLevel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "canvaspanel_canvaspanel",
+      "target": "canvaspanel_canvaspanel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CanvasPanel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "subsystem_subsystem",
+      "target": "subsystem_subsystem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Subsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetree_statetree",
+      "target": "statetree_statetree",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTree Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "asset_creation_workflow",
+      "label": "Asset Creation Workflow",
+      "nodes": [
+        "geometryscript_newassetutils_geometryscript_newassetutils",
+        "geometryscript_newassetutils_dynamic_mesh",
+        "geometryscript_newassetutils_texture2d",
+        "geometryscript_newassetutils_static_mesh",
+        "geometryscript_newassetutils_skeletal_mesh"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_NewAssetUtils Objects.md"
+    },
+    {
+      "id": "control_rig_system",
+      "label": "Control Rig System",
+      "nodes": [
+        "rigunit_unaryquaternionop_rigunit_unaryquaternionop",
+        "rigunit_transformfromcontrolrigspline_rigunit_transformfromcontrolrigspline",
+        "animgraphnode_controlrig_animgraphnode_controlrig"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_UnaryQuaternionOp Objects.md"
+    },
+    {
+      "id": "vector_math_operations",
+      "label": "Vector Math Operations",
+      "nodes": [
+        "geometryscript_vectormath_geometryscript_vectormath",
+        "geometryscript_vectormath_vector_operations"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_VectorMath Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

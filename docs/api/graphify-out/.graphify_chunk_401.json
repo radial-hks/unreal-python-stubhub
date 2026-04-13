@@ -1,0 +1,909 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+      "label": "RigUnit_ParentConstraintMath",
+      "file_type": "code",
+      "source_file": "RigUnit_ParentConstraintMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_parentconstraintmath_rigunit_highlevelbase",
+      "label": "RigUnit_HighlevelBase",
+      "file_type": "code",
+      "source_file": "RigUnit_ParentConstraintMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_parentconstraintmath_constraintparent",
+      "label": "ConstraintParent",
+      "file_type": "code",
+      "source_file": "RigUnit_ParentConstraintMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionmatchinganimnodereference_motionmatchinganimnodereference",
+      "label": "MotionMatchingAnimNodeReference",
+      "file_type": "code",
+      "source_file": "MotionMatchingAnimNodeReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionmatchinganimnodereference_animnodereference",
+      "label": "AnimNodeReference",
+      "file_type": "code",
+      "source_file": "MotionMatchingAnimNodeReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneaudiotrack_moviesceneaudiotrack",
+      "label": "MovieSceneAudioTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneAudioTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneaudiotrack_moviescenenameabletrack",
+      "label": "MovieSceneNameableTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneAudioTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesinstancedstaticmeshcomponent_aesinstancedstaticmeshcomponent",
+      "label": "AesInstancedStaticMeshComponent",
+      "file_type": "code",
+      "source_file": "AesInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesinstancedstaticmeshcomponent_instancedstaticmeshcomponent",
+      "label": "InstancedStaticMeshComponent",
+      "file_type": "code",
+      "source_file": "AesInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspawnactornode_pcgspawnactornode",
+      "label": "PCGSpawnActorNode",
+      "file_type": "code",
+      "source_file": "PCGSpawnActorNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspawnactornode_pcgbasesubgraphnode",
+      "label": "PCGBaseSubgraphNode",
+      "file_type": "code",
+      "source_file": "PCGSpawnActorNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "endplayreason_endplayreason",
+      "label": "EndPlayReason",
+      "file_type": "code",
+      "source_file": "EndPlayReason Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperflipbookactor_paperflipbookactor",
+      "label": "PaperFlipbookActor",
+      "file_type": "code",
+      "source_file": "PaperFlipbookActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperflipbookactor_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "PaperFlipbookActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperflipbookactor_paperflipbookcomponent",
+      "label": "PaperFlipbookComponent",
+      "file_type": "code",
+      "source_file": "PaperFlipbookActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnoderandom_soundnoderandom",
+      "label": "SoundNodeRandom",
+      "file_type": "code",
+      "source_file": "SoundNodeRandom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnoderandom_soundnode",
+      "label": "SoundNode",
+      "file_type": "code",
+      "source_file": "SoundNodeRandom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatequals_rigunit_mathfloatequals",
+      "label": "RigUnit_MathFloatEquals",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatequals_rigvmfunction_mathfloatequals",
+      "label": "RigVMFunction_MathFloatEquals",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesfacedirectiontype_aesfacedirectiontype",
+      "label": "AesFacadeDirectionType",
+      "file_type": "code",
+      "source_file": "AesFacadeDirectionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphwarmupsettingnode_moviegraphwarmupsettingnode",
+      "label": "MovieGraphWarmUpSettingNode",
+      "file_type": "code",
+      "source_file": "MovieGraphWarmUpSettingNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphwarmupsettingnode_moviegraphsettingnode",
+      "label": "MovieGraphSettingNode",
+      "file_type": "code",
+      "source_file": "MovieGraphWarmUpSettingNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthbuildingfootprinttype_earthbuildingfootprinttype",
+      "label": "EarthBuildingFootprintType",
+      "file_type": "code",
+      "source_file": "EarthBuildingFootprintType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxunpremult_materialexpressionmaterialxunpremult",
+      "label": "MaterialExpressionMaterialXUnpremult",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXUnpremult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxunpremult_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXUnpremult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaplaybackgraph_avaplaybackgraph",
+      "label": "AvaPlaybackGraph",
+      "file_type": "code",
+      "source_file": "AvaPlaybackGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaplaybackgraph_object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "AvaPlaybackGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaplaybackgraph_avaplaybackunloadoptions",
+      "label": "AvaPlaybackUnloadOptions",
+      "file_type": "code",
+      "source_file": "AvaPlaybackGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaplaybackgraph_avaplaybackstopoptions",
+      "label": "AvaPlaybackStopOptions",
+      "file_type": "code",
+      "source_file": "AvaPlaybackGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testmoviescenetrack_testmoviescenetrack",
+      "label": "TestMovieSceneTrack",
+      "file_type": "code",
+      "source_file": "TestMovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testmoviescenetrack_moviescenetrack",
+      "label": "MovieSceneTrack",
+      "file_type": "code",
+      "source_file": "TestMovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodycustom_waterbodycustom",
+      "label": "WaterBodyCustom",
+      "file_type": "code",
+      "source_file": "WaterBodyCustom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodycustom_waterbody",
+      "label": "WaterBody",
+      "file_type": "code",
+      "source_file": "WaterBodyCustom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodycustom_watersplinecomponent",
+      "label": "WaterSplineComponent",
+      "file_type": "code",
+      "source_file": "WaterBodyCustom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodycustom_waterbodycomponent",
+      "label": "WaterBodyComponent",
+      "file_type": "code",
+      "source_file": "WaterBodyCustom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitycustomlevellimits_entitycustomlevellimits",
+      "label": "EntityCustomLevelLimits",
+      "file_type": "code",
+      "source_file": "EntityCustomLevelLimits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegateulowentryextendedstandardlibrarycompareobjects_delegateulowentryextendedstandardlibrarycompareobjects",
+      "label": "DelegateULowEntryExtendedStandardLibraryCompareObjects",
+      "file_type": "code",
+      "source_file": "DelegateULowEntryExtendedStandardLibraryCompareObjects Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegateulowentryextendedstandardlibrarycompareobjects_delegatebase",
+      "label": "DelegateBase",
+      "file_type": "code",
+      "source_file": "DelegateULowEntryExtendedStandardLibraryCompareObjects Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmateriallayerobject_dmmateriallayerobject",
+      "label": "DMMaterialLayerObject",
+      "file_type": "code",
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmateriallayerobject_dmmaterialcomponent",
+      "label": "DMMaterialComponent",
+      "file_type": "code",
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmateriallayerobject_dmmaterialstage",
+      "label": "DMMaterialStage",
+      "file_type": "code",
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmateriallayerobject_dmmaterialeffectstack",
+      "label": "DMMaterialEffectStack",
+      "file_type": "code",
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmateriallayerobject_dmmaterialslot",
+      "label": "DMMaterialSlot",
+      "file_type": "code",
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nnedenoisertemporaloutputmappingdata_nnedenoisertemporaloutputmappingdata",
+      "label": "NNEDenoiserTemporalOutputMappingData",
+      "file_type": "code",
+      "source_file": "NNEDenoiserTemporalOutputMappingData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nnedenoisertemporaloutputmappingdata_nnedenoiserbasemappingdata",
+      "label": "NNEDenoiserBaseMappingData",
+      "file_type": "code",
+      "source_file": "NNEDenoiserTemporalOutputMappingData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintviewcondition_mvvmblueprintviewcondition",
+      "label": "MVVMBlueprintViewCondition",
+      "file_type": "code",
+      "source_file": "MVVMBlueprintViewCondition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintviewcondition_object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "MVVMBlueprintViewCondition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintviewcondition_mvvmblueprintpropertypath",
+      "label": "MVVMBlueprintPropertyPath",
+      "file_type": "code",
+      "source_file": "MVVMBlueprintViewCondition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerfloorpolygonatom_modelerfloorpolygonatom",
+      "label": "ModelerFloorPolygonAtom",
+      "file_type": "code",
+      "source_file": "ModelerFloorPolygonAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerfloorpolygonatom_relativepolygonatom",
+      "label": "RelativePolygonAtom",
+      "file_type": "code",
+      "source_file": "ModelerFloorPolygonAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+      "target": "rigunit_parentconstraintmath_rigunit_highlevelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ParentConstraintMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+      "target": "rigunit_parentconstraintmath_constraintparent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ParentConstraintMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionmatchinganimnodereference_motionmatchinganimnodereference",
+      "target": "motionmatchinganimnodereference_animnodereference",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionMatchingAnimNodeReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneaudiotrack_moviesceneaudiotrack",
+      "target": "moviesceneaudiotrack_moviescenenameabletrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneAudioTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancedstaticmeshcomponent_aesinstancedstaticmeshcomponent",
+      "target": "aesinstancedstaticmeshcomponent_instancedstaticmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgspawnactornode_pcgspawnactornode",
+      "target": "pcgspawnactornode_pcgbasesubgraphnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSpawnActorNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperflipbookactor_paperflipbookactor",
+      "target": "paperflipbookactor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperFlipbookActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperflipbookactor_paperflipbookactor",
+      "target": "paperflipbookactor_paperflipbookcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperFlipbookActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnoderandom_soundnoderandom",
+      "target": "soundnoderandom_soundnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundNodeRandom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatequals_rigunit_mathfloatequals",
+      "target": "rigunit_mathfloatequals_rigvmfunction_mathfloatequals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphwarmupsettingnode_moviegraphwarmupsettingnode",
+      "target": "moviegraphwarmupsettingnode_moviegraphsettingnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphWarmUpSettingNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxunpremult_materialexpressionmaterialxunpremult",
+      "target": "materialexpressionmaterialxunpremult_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXUnpremult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaplaybackgraph_avaplaybackgraph",
+      "target": "avaplaybackgraph_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaPlaybackGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaplaybackgraph_avaplaybackgraph",
+      "target": "avaplaybackgraph_avaplaybackunloadoptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaPlaybackGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaplaybackgraph_avaplaybackgraph",
+      "target": "avaplaybackgraph_avaplaybackstopoptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaPlaybackGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "testmoviescenetrack_testmoviescenetrack",
+      "target": "testmoviescenetrack_moviescenetrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TestMovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodycustom_waterbodycustom",
+      "target": "waterbodycustom_waterbody",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyCustom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodycustom_waterbodycustom",
+      "target": "waterbodycustom_watersplinecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyCustom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodycustom_waterbodycustom",
+      "target": "waterbodycustom_waterbodycomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyCustom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "delegateulowentryextendedstandardlibrarycompareobjects_delegateulowentryextendedstandardlibrarycompareobjects",
+      "target": "delegateulowentryextendedstandardlibrarycompareobjects_delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DelegateULowEntryExtendedStandardLibraryCompareObjects Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmateriallayerobject_dmmateriallayerobject",
+      "target": "dmmateriallayerobject_dmmaterialcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmateriallayerobject_dmmateriallayerobject",
+      "target": "dmmateriallayerobject_dmmaterialstage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmateriallayerobject_dmmateriallayerobject",
+      "target": "dmmateriallayerobject_dmmaterialeffectstack",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmateriallayerobject_dmmateriallayerobject",
+      "target": "dmmateriallayerobject_dmmaterialslot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialLayerObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nnedenoisertemporaloutputmappingdata_nnedenoisertemporaloutputmappingdata",
+      "target": "nnedenoisertemporaloutputmappingdata_nnedenoiserbasemappingdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NNEDenoiserTemporalOutputMappingData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmblueprintviewcondition_mvvmblueprintviewcondition",
+      "target": "mvvmblueprintviewcondition_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBlueprintViewCondition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmblueprintviewcondition_mvvmblueprintviewcondition",
+      "target": "mvvmblueprintviewcondition_mvvmblueprintpropertypath",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBlueprintViewCondition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modelerfloorpolygonatom_modelerfloorpolygonatom",
+      "target": "modelerfloorpolygonatom_relativepolygonatom",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelerFloorPolygonAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneaudiotrack_moviesceneaudiotrack",
+      "target": "testmoviescenetrack_testmoviescenetrack",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneAudioTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancedstaticmeshcomponent_aesinstancedstaticmeshcomponent",
+      "target": "waterbodycustom_waterbodycustom",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperflipbookactor_paperflipbookactor",
+      "target": "waterbodycustom_waterbodycustom",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "PaperFlipbookActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_track_system",
+      "label": "Movie Scene Track System",
+      "nodes": [
+        "moviesceneaudiotrack_moviesceneaudiotrack",
+        "testmoviescenetrack_testmoviescenetrack"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneAudioTrack Objects.md"
+    },
+    {
+      "id": "aes_world_plugin_components",
+      "label": "AesWorld Plugin Components",
+      "nodes": [
+        "aesinstancedstaticmeshcomponent_aesinstancedstaticmeshcomponent",
+        "aesfacedirectiontype_aesfacedirectiontype",
+        "earthbuildingfootprinttype_earthbuildingfootprinttype",
+        "entitycustomlevellimits_entitycustomlevellimits",
+        "modelerfloorpolygonatom_modelerfloorpolygonatom"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "AesInstancedStaticMeshComponent Objects.md"
+    },
+    {
+      "id": "unreal_actor_types",
+      "label": "Unreal Engine Actor Types",
+      "nodes": [
+        "paperflipbookactor_paperflipbookactor",
+        "waterbodycustom_waterbodycustom"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PaperFlipbookActor Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

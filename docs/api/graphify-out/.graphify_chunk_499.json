@@ -1,0 +1,553 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathvectormirror_rigunit_mathvectormirror",
+      "label": "RigUnit_MathVectorMirror",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorMirror Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormirror_rigvmfunction_mathvectormirror",
+      "label": "RigVMFunction_MathVectorMirror",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorMirror Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptuvtexeldensityoptions_geometryscriptuvtexeldensityoptions",
+      "label": "GeometryScriptUVTexelDensityOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptUVTexelDensityOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripttexeldensitymode_geometryscripttexeldensitymode",
+      "label": "GeometryScriptTexelDensityMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptUVTexelDensityOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmeshsamplersettings_pcgmeshsamplersettings",
+      "label": "PCGMeshSamplerSettings",
+      "file_type": "code",
+      "source_file": "PCGMeshSamplerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshpointsamplingoptions_geometryscriptmeshpointsamplingoptions",
+      "label": "GeometryScriptMeshPointSamplingOptions",
+      "file_type": "code",
+      "source_file": "PCGMeshSamplerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptnonuniformpointsamplingoptions_geometryscriptnonuniformpointsamplingoptions",
+      "label": "GeometryScriptNonUniformPointSamplingOptions",
+      "file_type": "code",
+      "source_file": "PCGMeshSamplerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptlodtype_geometryscriptlodtype",
+      "label": "GeometryScriptLODType",
+      "file_type": "code",
+      "source_file": "PCGMeshSamplerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "canvasrendertarget2dfactorynew_canvasrendertarget2dfactorynew",
+      "label": "CanvasRenderTarget2DFactoryNew",
+      "file_type": "code",
+      "source_file": "CanvasRenderTarget2DFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_assetplayerrelevancybase_animnode_assetplayerrelevancybase",
+      "label": "AnimNode_AssetPlayerRelevancyBase",
+      "file_type": "code",
+      "source_file": "AnimNode_AssetPlayerRelevancyBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_setmetadata_rigdispatch_setmetadata",
+      "label": "RigDispatch_SetMetadata",
+      "file_type": "code",
+      "source_file": "RigDispatch_SetMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanbuildsimpleimporttool_urbanbuildsimpleimporttool",
+      "label": "UrbanBuildSimpleImportTool",
+      "file_type": "code",
+      "source_file": "UrbanBuildSimpleImportTool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanbuildsystem_urbanbuildsystem",
+      "label": "UrbanBuildSystem",
+      "file_type": "code",
+      "source_file": "UrbanBuildSimpleImportTool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentity_urbanentity",
+      "label": "UrbanEntity",
+      "file_type": "code",
+      "source_file": "UrbanBuildSimpleImportTool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "importsubsystem_onassetpostlodimport_dyn_importsubsystem_onassetpostlodimport_dyn",
+      "label": "ImportSubsystem_OnAssetPostLODImport_Dyn",
+      "file_type": "code",
+      "source_file": "ImportSubsystem_OnAssetPostLODImport_Dyn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodifiertype_earthroadmodifiertype",
+      "label": "EarthRoadModifierType",
+      "file_type": "code",
+      "source_file": "EarthRoadModifierType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_framestoseconds_rigunit_framestoseconds",
+      "label": "RigUnit_FramesToSeconds",
+      "file_type": "code",
+      "source_file": "RigUnit_FramesToSeconds Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_framestoseconds_rigvmfunction_framestoseconds",
+      "label": "RigVMFunction_FramesToSeconds",
+      "file_type": "code",
+      "source_file": "RigUnit_FramesToSeconds Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimuscomponentsourcebinding_optimuscomponentsourcebinding",
+      "label": "OptimusComponentSourceBinding",
+      "file_type": "code",
+      "source_file": "OptimusComponentSourceBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxpremolt_materialexpressionmaterialxpremolt",
+      "label": "MaterialExpressionMaterialXPremult",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXPremult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointentityatom_pointentityatom",
+      "label": "PointEntityAtom",
+      "file_type": "code",
+      "source_file": "PointEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewmodeindex_viewmodeindex",
+      "label": "ViewModeIndex",
+      "file_type": "code",
+      "source_file": "ViewModeIndex Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfmaterialexportoptions_gltfmaterialexportoptions",
+      "label": "GLTFMaterialExportOptions",
+      "file_type": "code",
+      "source_file": "GLTFMaterialExportOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_onpointerevent_widget_onpointerevent",
+      "label": "Widget_OnPointerEvent",
+      "file_type": "code",
+      "source_file": "Widget_OnPointerEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_rotaterootbone_animgraphnode_rotaterootbone",
+      "label": "AnimGraphNode_RotateRootBone",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__RotateRootBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papertilemapactor_papertilemapactor",
+      "label": "PaperTileMapActor",
+      "file_type": "code",
+      "source_file": "PaperTileMapActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseconfig_blueprint_aisenseconfig_blueprint",
+      "label": "AISenseConfig_Blueprint",
+      "file_type": "code",
+      "source_file": "AISenseConfig_Blueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorexposuresettings_51_skycreatorexposuresettings_51",
+      "label": "SkyCreatorExposureSettings_51",
+      "file_type": "code",
+      "source_file": "SkyCreatorExposureSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesobjectassetactor_aesobjectassetactor",
+      "label": "AesObjectAssetActor",
+      "file_type": "code",
+      "source_file": "AesObjectAssetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetmetadata_aesassetmetadata",
+      "label": "AesAssetMetaData",
+      "file_type": "code",
+      "source_file": "AesObjectAssetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "envquerynode_envquerynode",
+      "label": "EnvQueryNode",
+      "file_type": "code",
+      "source_file": "EnvQueryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathvectormirror_rigunit_mathvectormirror",
+      "target": "rigvmfunction_mathvectormirror_rigvmfunction_mathvectormirror",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorMirror Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptuvtexeldensityoptions_geometryscriptuvtexeldensityoptions",
+      "target": "geometryscripttexeldensitymode_geometryscripttexeldensitymode",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptUVTexelDensityOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmeshsamplersettings_pcgmeshsamplersettings",
+      "target": "geometryscriptmeshpointsamplingoptions_geometryscriptmeshpointsamplingoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMeshSamplerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmeshsamplersettings_pcgmeshsamplersettings",
+      "target": "geometryscriptnonuniformpointsamplingoptions_geometryscriptnonuniformpointsamplingoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMeshSamplerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmeshsamplersettings_pcgmeshsamplersettings",
+      "target": "geometryscriptlodtype_geometryscriptlodtype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMeshSamplerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptuvtexeldensityoptions_geometryscriptuvtexeldensityoptions",
+      "target": "pcgmeshsamplersettings_pcgmeshsamplersettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptUVTexelDensityOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_framestoseconds_rigunit_framestoseconds",
+      "target": "rigvmfunction_framestoseconds_rigvmfunction_framestoseconds",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FramesToSeconds Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormirror_rigunit_mathvectormirror",
+      "target": "rigunit_framestoseconds_rigunit_framestoseconds",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathVectorMirror Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_setmetadata_rigdispatch_setmetadata",
+      "target": "rigunit_mathvectormirror_rigunit_mathvectormirror",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigDispatch_SetMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanbuildsimpleimporttool_urbanbuildsimpleimporttool",
+      "target": "urbanbuildsystem_urbanbuildsystem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanBuildSimpleImportTool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanbuildsimpleimporttool_urbanbuildsimpleimporttool",
+      "target": "urbanentity_urbanentity",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanBuildSimpleImportTool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_assetplayerrelevancybase_animnode_assetplayerrelevancybase",
+      "target": "animgraphnode_rotaterootbone_animgraphnode_rotaterootbone",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode_AssetPlayerRelevancyBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "papertilemapactor_papertilemapactor",
+      "target": "aesobjectassetactor_aesobjectassetactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PaperTileMapActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesobjectassetactor_aesobjectassetactor",
+      "target": "aesassetmetadata_aesassetmetadata",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesObjectAssetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisenseconfig_blueprint_aisenseconfig_blueprint",
+      "target": "envquerynode_envquerynode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AISenseConfig_Blueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfmaterialexportoptions_gltfmaterialexportoptions",
+      "target": "materialexpressionmaterialxpremolt_materialexpressionmaterialxpremolt",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GLTFMaterialExportOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "geometry_script_classes",
+      "label": "Geometry Script Module Classes",
+      "nodes": [
+        "geometryscriptuvtexeldensityoptions_geometryscriptuvtexeldensityoptions",
+        "pcgmeshsamplersettings_pcgmeshsamplersettings",
+        "geometryscriptmeshpointsamplingoptions_geometryscriptmeshpointsamplingoptions",
+        "geometryscriptnonuniformpointsamplingoptions_geometryscriptnonuniformpointsamplingoptions",
+        "geometryscriptlodtype_geometryscriptlodtype"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGMeshSamplerSettings Objects.md"
+    },
+    {
+      "id": "rig_module_classes",
+      "label": "Control Rig Module Classes",
+      "nodes": [
+        "rigunit_mathvectormirror_rigunit_mathvectormirror",
+        "rigvmfunction_mathvectormirror_rigvmfunction_mathvectormirror",
+        "rigdispatch_setmetadata_rigdispatch_setmetadata",
+        "rigunit_framestoseconds_rigunit_framestoseconds",
+        "rigvmfunction_framestoseconds_rigvmfunction_framestoseconds"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathVectorMirror Objects.md"
+    },
+    {
+      "id": "actor_asset_classes",
+      "label": "Asset Actor Classes",
+      "nodes": [
+        "papertilemapactor_papertilemapactor",
+        "aesobjectassetactor_aesobjectassetactor"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PaperTileMapActor Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

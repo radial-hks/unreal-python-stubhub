@@ -1,0 +1,600 @@
+{
+  "nodes": [
+    {
+      "id": "waterbodytype_waterbodytype",
+      "label": "WaterBodyType",
+      "file_type": "code",
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodytype_river",
+      "label": "RIVER Enum Value",
+      "file_type": "code",
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodytype_lake",
+      "label": "LAKE Enum Value",
+      "file_type": "code",
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodytype_ocean",
+      "label": "OCEAN Enum Value",
+      "file_type": "code",
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodytype_transition",
+      "label": "TRANSITION Enum Value",
+      "file_type": "code",
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeobjtranslator_interchangeobjtranslator",
+      "label": "InterchangeOBJTranslator",
+      "file_type": "code",
+      "source_file": "InterchangeOBJTranslator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncgameplaymessagedelegate_asyncgameplaymessagedelegate",
+      "label": "AsyncGameplayMessageDelegate",
+      "file_type": "code",
+      "source_file": "AsyncGameplayMessageDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinesidecarcamera_moviepipelinesidecarcamera",
+      "label": "MoviePipelineSidecarCamera",
+      "file_type": "code",
+      "source_file": "MoviePipelineSidecarCamera Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveeditorgaussianfilter_curveeditorgaussianfilter",
+      "label": "CurveEditorGaussianFilter",
+      "file_type": "code",
+      "source_file": "CurveEditorGaussianFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationcameramotionblurmode_displayclusterconfigurationcameramotionblurmode",
+      "label": "DisplayClusterConfigurationCameraMotionBlurMode",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationCameraMotionBlurMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_legik_animnode_legik",
+      "label": "AnimNode_LegIK",
+      "file_type": "code",
+      "source_file": "AnimNode__LegIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_vertexcolors_geometryscript_vertexcolors",
+      "label": "GeometryScript_VertexColors",
+      "file_type": "code",
+      "source_file": "GeometryScript__VertexColors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floorwayinfo_floorwayinfo",
+      "label": "FloorWayInfo",
+      "file_type": "code",
+      "source_file": "FloorWayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_sequenceexecution_rigunit_sequenceexecution",
+      "label": "RigUnit_SequenceExecution",
+      "file_type": "code",
+      "source_file": "RigUnit_SequenceExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequencerdisplayrate_avasequencerdisplayrate",
+      "label": "AvaSequencerDisplayRate",
+      "file_type": "code",
+      "source_file": "AvaSequencerDisplayRate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getspacetransform_rigunit_getspacetransform",
+      "label": "RigUnit_GetSpaceTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_GetSpaceTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimpleactionparams_aeseditorsimpleactionparams",
+      "label": "AesEditorSimpleActionParams",
+      "file_type": "code",
+      "source_file": "AesEditorSimpleActionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsplittopbottom_materialexpressionsplittopbottom",
+      "label": "MaterialExpressionSplitTopBottom",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSplitTopBottom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polyline2dentityatom_polyline2dentityatom",
+      "label": "Polyline2DEntityAtom",
+      "file_type": "code",
+      "source_file": "Polyline2DEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintadd_rigunit_mathintadd",
+      "label": "RigUnit_MathIntAdd",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolinteger_entry_rigunit_setmulticontrolinteger_entry",
+      "label": "RigUnit_SetMultiControlInteger_Entry",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMultiControlInteger__Entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "analysisproperties_analysisproperties",
+      "label": "AnalysisProperties",
+      "file_type": "code",
+      "source_file": "AnalysisProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithcadstitchingtechnique_datasmithcadstitchingtechnique",
+      "label": "DatasmithCADStitchingTechnique",
+      "file_type": "code",
+      "source_file": "DatasmithCADStitchingTechnique Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionfloatmodulo_dmmaterialstageexpressionfloatmodulo",
+      "label": "DMMaterialStageExpressionFloatModulo",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionFloatModulo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onwdpbuttonclickedevent_onwdpbuttonclickedevent",
+      "label": "OnWdpButtonClickedEvent",
+      "file_type": "code",
+      "source_file": "OnWdpButtonClickedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_rigidbody_animgraphnode_rigidbody",
+      "label": "AnimGraphNode_RigidBody",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_RigidBody Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "waterbodytype_river",
+      "target": "waterbodytype_waterbodytype",
+      "relation": "instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_lake",
+      "target": "waterbodytype_waterbodytype",
+      "relation": "instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_ocean",
+      "target": "waterbodytype_waterbodytype",
+      "relation": "instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_transition",
+      "target": "waterbodytype_waterbodytype",
+      "relation": "instance_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_river",
+      "target": "waterbodytype_lake",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_river",
+      "target": "waterbodytype_ocean",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_river",
+      "target": "waterbodytype_transition",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_lake",
+      "target": "waterbodytype_ocean",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_lake",
+      "target": "waterbodytype_transition",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodytype_ocean",
+      "target": "waterbodytype_transition",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WaterBodyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_legik_animnode_legik",
+      "target": "rigunit_sequenceexecution_rigunit_sequenceexecution",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "AnimNode__LegIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_legik_animnode_legik",
+      "target": "rigunit_getspacetransform_rigunit_getspacetransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode__LegIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_legik_animnode_legik",
+      "target": "rigunit_setmulticontrolinteger_entry_rigunit_setmulticontrolinteger_entry",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "AnimNode__LegIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_sequenceexecution_rigunit_sequenceexecution",
+      "target": "rigunit_getspacetransform_rigunit_getspacetransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "RigUnit_SequenceExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_sequenceexecution_rigunit_sequenceexecution",
+      "target": "rigunit_setmulticontrolinteger_entry_rigunit_setmulticontrolinteger_entry",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigUnit_SequenceExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getspacetransform_rigunit_getspacetransform",
+      "target": "rigunit_setmulticontrolinteger_entry_rigunit_setmulticontrolinteger_entry",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigUnit_GetSpaceTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_rigidbody_animgraphnode_rigidbody",
+      "target": "animnode_legik_animnode_legik",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "AnimGraphNode_RigidBody Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsplittopbottom_materialexpressionsplittopbottom",
+      "target": "dmmaterialstageexpressionfloatmodulo_dmmaterialstageexpressionfloatmodulo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "MaterialExpressionSplitTopBottom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsplittopbottom_materialexpressionsplittopbottom",
+      "target": "moviepipelinesidecarcamera_moviepipelinesidecarcamera",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MaterialExpressionSplitTopBottom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionfloatmodulo_dmmaterialstageexpressionfloatmodulo",
+      "target": "moviepipelinesidecarcamera_moviepipelinesidecarcamera",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DMMaterialStageExpressionFloatModulo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncgameplaymessagedelegate_asyncgameplaymessagedelegate",
+      "target": "aeseditorsimpleactionparams_aeseditorsimpleactionparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "AsyncGameplayMessageDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncgameplaymessagedelegate_asyncgameplaymessagedelegate",
+      "target": "floorwayinfo_floorwayinfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AsyncGameplayMessageDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorsimpleactionparams_aeseditorsimpleactionparams",
+      "target": "floorwayinfo_floorwayinfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesEditorSimpleActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasequencerdisplayrate_avasequencerdisplayrate",
+      "target": "asyncgameplaymessagedelegate_asyncgameplaymessagedelegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "AvaSequencerDisplayRate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasequencerdisplayrate_avasequencerdisplayrate",
+      "target": "floorwayinfo_floorwayinfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "AvaSequencerDisplayRate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasequencerdisplayrate_avasequencerdisplayrate",
+      "target": "aeseditorsimpleactionparams_aeseditorsimpleactionparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "AvaSequencerDisplayRate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_ecosystem",
+      "label": "Control Rig Ecosystem",
+      "nodes": [
+        "rigunit_sequenceexecution_rigunit_sequenceexecution",
+        "rigunit_getspacetransform_rigunit_getspacetransform",
+        "rigunit_setmulticontrolinteger_entry_rigunit_setmulticontrolinteger_entry",
+        "rigunit_mathintadd_rigunit_mathintadd",
+        "animnode_legik_animnode_legik",
+        "animgraphnode_rigidbody_animgraphnode_rigidbody"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigUnit_SequenceExecution Objects.md"
+    },
+    {
+      "id": "aesworld_avalanche_plugin_ecosystem",
+      "label": "AesWorld/Avalanche Plugin Ecosystem",
+      "nodes": [
+        "asyncgameplaymessagedelegate_asyncgameplaymessagedelegate",
+        "floorwayinfo_floorwayinfo",
+        "aeseditorsimpleactionparams_aeseditorsimpleactionparams",
+        "avasequencerdisplayrate_avasequencerdisplayrate"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AsyncGameplayMessageDelegate Objects.md"
+    },
+    {
+      "id": "water_body_types_group",
+      "label": "Water Body Types Group",
+      "nodes": [
+        "waterbodytype_river",
+        "waterbodytype_lake",
+        "waterbodytype_ocean",
+        "waterbodytype_transition"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,432 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathcolorbase_deprecated_class",
+      "label": "RigUnit_MathColorBase (Deprecated)",
+      "file_type": "code",
+      "source_file": "RigUnit__MathColorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelfromitembase_class",
+      "label": "RigUnit_GetAnimationChannelFromItemBase",
+      "file_type": "code",
+      "source_file": "RigUnit__GetAnimationChannelFromItemBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrymaskcompositeoperation_enum",
+      "label": "GeometryMaskCompositeOperation",
+      "file_type": "code",
+      "source_file": "GeometryMaskCompositeOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unrealeditorsubsystem_class",
+      "label": "UnrealEditorSubsystem",
+      "file_type": "code",
+      "source_file": "UnrealEditorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgworldqueryselectlandscapehits_enum",
+      "label": "PCGWorldQuerySelectLandscapeHits",
+      "file_type": "code",
+      "source_file": "PCGWorldQuerySelectLandscapeHits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetclipping_enum",
+      "label": "WidgetClipping",
+      "file_type": "code",
+      "source_file": "WidgetClipping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialsample_class",
+      "label": "MaterialExpressionMaterialSample",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolkitwidgetstyle_class",
+      "label": "ToolkitWidgetStyle",
+      "file_type": "code",
+      "source_file": "ToolkitWidgetStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "text3dstyle_struct",
+      "label": "Text3DStyle",
+      "file_type": "code",
+      "source_file": "Text3DStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resonanceaudioreverbpluginpreset_class",
+      "label": "ResonanceAudioReverbPluginPreset",
+      "file_type": "code",
+      "source_file": "ResonanceAudioReverbPluginPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleclamp_deprecated_class",
+      "label": "RigUnit_MathDoubleClamp (Deprecated)",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptissamemeshoptions_struct",
+      "label": "GeometryScriptIsSameMeshOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptIsSameMeshOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timelinetemplate_class",
+      "label": "TimelineTemplate",
+      "file_type": "code",
+      "source_file": "TimelineTemplate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangebasenode_class",
+      "label": "InterchangeBaseNode",
+      "file_type": "code",
+      "source_file": "InterchangeBaseNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mobilependingcontent_class",
+      "label": "MobilePendingContent",
+      "file_type": "code",
+      "source_file": "MobilePendingContent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller_onpointerkeytriggered_delegate",
+      "label": "WdpPlayerController_OnPointerKeyTriggered",
+      "file_type": "code",
+      "source_file": "WdpPlayerController__OnPointerKeyTriggered Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugrectangle_class",
+      "label": "RigUnit_DebugRectangle",
+      "file_type": "code",
+      "source_file": "RigUnit__DebugRectangle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_sequenceevaluator_standalone_class",
+      "label": "AnimNode_SequenceEvaluator_Standalone",
+      "file_type": "code",
+      "source_file": "AnimNode_SequenceEvaluator_Standalone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaralinearramp_struct",
+      "label": "NiagaraLinearRamp",
+      "file_type": "code",
+      "source_file": "NiagaraLinearRamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "additiveanimationtype_enum",
+      "label": "AdditiveAnimationType",
+      "file_type": "code",
+      "source_file": "AdditiveAnimationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocapture_class",
+      "label": "AudioCapture",
+      "file_type": "code",
+      "source_file": "AudioCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformervectorarrayvariable_class",
+      "label": "RigVMTrait_SetDeformerVectorArrayVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait_SetDeformerVectorArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathcolorbase_deprecated_class",
+      "target": "rigunit_getanimationchannelfromitembase_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathColorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorbase_deprecated_class",
+      "target": "rigunit_debugrectangle_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathColorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorbase_deprecated_class",
+      "target": "rigunit_mathdoubleclamp_deprecated_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__MathColorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getanimationchannelfromitembase_class",
+      "target": "animnode_sequenceevaluator_standalone_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__GetAnimationChannelFromItemBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrymaskcompositeoperation_enum",
+      "target": "geometryscriptissamemeshoptions_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryMaskCompositeOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolkitwidgetstyle_class",
+      "target": "text3dstyle_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ToolkitWidgetStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolkitwidgetstyle_class",
+      "target": "widgetclipping_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ToolkitWidgetStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "resonanceaudioreverbpluginpreset_class",
+      "target": "audiocapture_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ResonanceAudioReverbPluginPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugrectangle_class",
+      "target": "rigunit_mathdoubleclamp_deprecated_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__DebugRectangle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_sequenceevaluator_standalone_class",
+      "target": "additiveanimationtype_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_SequenceEvaluator_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaralinearramp_struct",
+      "target": "timelinetemplate_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NiagaraLinearRamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangebasenode_class",
+      "target": "mobilependingcontent_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "InterchangeBaseNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformervectorarrayvariable_class",
+      "target": "rigunit_debugrectangle_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMTrait_SetDeformerVectorArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformervectorarrayvariable_class",
+      "target": "rigunit_getanimationchannelfromitembase_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMTrait_SetDeformerVectorArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_units",
+      "label": "ControlRig System Units",
+      "nodes": [
+        "rigunit_mathcolorbase_deprecated_class",
+        "rigunit_getanimationchannelfromitembase_class",
+        "rigunit_mathdoubleclamp_deprecated_class",
+        "rigunit_debugrectangle_class",
+        "rigvmtrait_setdeformervectorarrayvariable_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathColorBase Objects.md"
+    },
+    {
+      "id": "ui_styling_system",
+      "label": "UI Styling and Widget System",
+      "nodes": [
+        "toolkitwidgetstyle_class",
+        "text3dstyle_struct",
+        "widgetclipping_enum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ToolkitWidgetStyle Objects.md"
+    },
+    {
+      "id": "audio_processing_system",
+      "label": "Audio Processing and Capture System",
+      "nodes": [
+        "resonanceaudioreverbpluginpreset_class",
+        "audiocapture_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ResonanceAudioReverbPluginPreset Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

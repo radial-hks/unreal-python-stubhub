@@ -1,0 +1,660 @@
+{
+  "nodes": [
+    {
+      "id": "pcgsplinecrosssectiongeneratorsettings_class",
+      "label": "PCGSplineCrossSectionGeneratorSettings",
+      "file_type": "document",
+      "source_file": "PCGSplineCrossSectionGeneratorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgprimitivecrosssectionsettings_class",
+      "label": "PCGPrimitiveCrossSectionSettings",
+      "file_type": "document",
+      "source_file": "PCGSplineCrossSectionGeneratorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediasoundcomponentfftsize_enum",
+      "label": "MediaSoundComponentFFTSize",
+      "file_type": "document",
+      "source_file": "MediaSoundComponentFFTSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ml_uv_control_struct",
+      "label": "ML_UV_Control",
+      "file_type": "document",
+      "source_file": "ML__UV__Control Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxrgbtohsv_class",
+      "label": "MaterialExpressionMaterialXRgbToHsv",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXRgbToHsv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionrgbtohsv_class",
+      "label": "MaterialExpressionRgbToHsv",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXRgbToHsv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringconcat_function",
+      "label": "RigVMFunction_StringConcat",
+      "file_type": "document",
+      "source_file": "RigVMFunction__StringConcat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphlibrary_class",
+      "label": "MovieGraphLibrary",
+      "file_type": "document",
+      "source_file": "MovieGraphLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "righierarchycontroller_class",
+      "label": "RigHierarchyController",
+      "file_type": "document",
+      "source_file": "RigHierarchyController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstrataslabbsdf_class",
+      "label": "MaterialExpressionStrataSlabBSDF",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStrataSlabBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstrateslabbsdf_class",
+      "label": "MaterialExpressionSubstrateSlabBSDF",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStrataSlabBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggetpcgcomponentsettings_class",
+      "label": "PCGGetPCGComponentSettings",
+      "file_type": "document",
+      "source_file": "PCGGetPCGComponentSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaymodifierinfo_struct",
+      "label": "GameplayModifierInfo",
+      "file_type": "document",
+      "source_file": "GameplayModifierInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationtransitiongraph_class",
+      "label": "AnimationTransitionGraph",
+      "file_type": "document",
+      "source_file": "AnimationTransitionGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolrotator_entry_struct",
+      "label": "RigUnit_SetMultiControlRotator_Entry",
+      "file_type": "document",
+      "source_file": "RigUnit_SetMultiControlRotator_Entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolnotequals_unit",
+      "label": "RigUnit_MathBoolNotEquals",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolnotequals_function",
+      "label": "RigVMFunction_MathBoolNotEquals",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_add_vectorvector_unit",
+      "label": "RigUnit_Add_VectorVector",
+      "file_type": "document",
+      "source_file": "RigUnit__Add__VectorVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcginstancepackerbase_class",
+      "label": "PCGInstancePackerBase",
+      "file_type": "document",
+      "source_file": "PCGInstancePackerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcginstancedatapackerbase_class",
+      "label": "PCGInstanceDataPackerBase",
+      "file_type": "document",
+      "source_file": "PCGInstancePackerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdummygetpropertytest_class",
+      "label": "PCGDummyGetPropertyTest",
+      "file_type": "document",
+      "source_file": "PCGDummyGetPropertyTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpsectionapiregister_class",
+      "label": "DCPSectionAPIRegister",
+      "file_type": "document",
+      "source_file": "DCPSectionAPIRegister Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_class",
+      "label": "Widget",
+      "file_type": "document",
+      "source_file": "Widget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neuralmodeltiletype_enum",
+      "label": "NeuralModelTileType",
+      "file_type": "document",
+      "source_file": "NeuralModelTileType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectordot_function",
+      "label": "RigVMFunction_MathVectorDot",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorDot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelstreaming_class",
+      "label": "LevelStreaming",
+      "file_type": "document",
+      "source_file": "LevelStreaming Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wmtsrequestparams_struct",
+      "label": "WMTSRequestParams",
+      "file_type": "document",
+      "source_file": "WMTSRequestParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fft_audio_processing",
+      "label": "FFT Audio Processing",
+      "file_type": "document",
+      "source_file": "MediaSoundComponentFFTSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uv_texture_controls",
+      "label": "UV Texture Controls",
+      "file_type": "document",
+      "source_file": "ML__UV__Control Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_hierarchy_manipulation",
+      "label": "Rig Hierarchy Manipulation",
+      "file_type": "document",
+      "source_file": "RigHierarchyController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movie_render_pipeline",
+      "label": "Movie Render Pipeline",
+      "file_type": "document",
+      "source_file": "MovieGraphLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_accessibility",
+      "label": "Widget Accessibility",
+      "file_type": "document",
+      "source_file": "Widget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_navigation",
+      "label": "Widget Navigation",
+      "file_type": "document",
+      "source_file": "Widget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_rendering",
+      "label": "Widget Rendering",
+      "file_type": "document",
+      "source_file": "Widget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neural_network_tiling",
+      "label": "Neural Network Tiling",
+      "file_type": "document",
+      "source_file": "NeuralModelTileType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "level_streaming_management",
+      "label": "Level Streaming Management",
+      "file_type": "document",
+      "source_file": "LevelStreaming Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplay_modification_system",
+      "label": "Gameplay Modification System",
+      "file_type": "document",
+      "source_file": "GameplayModifierInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_data_collection",
+      "label": "PCG Data Collection",
+      "file_type": "document",
+      "source_file": "PCGGetPCGComponentSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgsplinecrosssectiongeneratorsettings_class",
+      "target": "pcgprimitivecrosssectionsettings_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSplineCrossSectionGeneratorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxrgbtohsv_class",
+      "target": "materialexpressionrgbtohsv_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXRgbToHsv Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstrataslabbsdf_class",
+      "target": "materialexpressionsubstrateslabbsdf_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStrataSlabBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolnotequals_unit",
+      "target": "rigvmfunction_mathboolnotequals_function",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathBoolNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcginstancepackerbase_class",
+      "target": "pcginstancedatapackerbase_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGInstancePackerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediasoundcomponentfftsize_enum",
+      "target": "fft_audio_processing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MediaSoundComponentFFTSize Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ml_uv_control_struct",
+      "target": "uv_texture_controls",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ML__UV__Control Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "righierarchycontroller_class",
+      "target": "rig_hierarchy_manipulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigHierarchyController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphlibrary_class",
+      "target": "movie_render_pipeline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieGraphLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widget_class",
+      "target": "widget_accessibility",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Widget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widget_class",
+      "target": "widget_navigation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Widget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widget_class",
+      "target": "widget_rendering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Widget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuralmodeltiletype_enum",
+      "target": "neural_network_tiling",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "NeuralModelTileType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelstreaming_class",
+      "target": "level_streaming_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "LevelStreaming Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaymodifierinfo_struct",
+      "target": "gameplay_modification_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayModifierInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggetpcgcomponentsettings_class",
+      "target": "pcg_data_collection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGGetPCGComponentSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringconcat_function",
+      "target": "rigvmfunction_mathvectordot_function",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction__StringConcat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "righierarchycontroller_class",
+      "target": "rigunit_setmulticontrolrotator_entry_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigHierarchyController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationtransitiongraph_class",
+      "target": "moviegraphlibrary_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AnimationTransitionGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_stringconcat_function",
+        "rigvmfunction_mathvectordot_function",
+        "rigvmfunction_mathboolnotequals_function",
+        "rigunit_add_vectorvector_unit"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__StringConcat Objects.md"
+    },
+    {
+      "id": "widget_subsystems",
+      "label": "Widget Subsystems",
+      "nodes": [
+        "widget_accessibility",
+        "widget_navigation",
+        "widget_rendering"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Widget Objects.md"
+    },
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Renamed Classes",
+      "nodes": [
+        "pcgsplinecrosssectiongeneratorsettings_class",
+        "materialexpressionmaterialxrgbtohsv_class",
+        "materialexpressionstrataslabbsdf_class",
+        "rigunit_mathboolnotequals_unit",
+        "pcginstancepackerbase_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGSplineCrossSectionGeneratorSettings Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

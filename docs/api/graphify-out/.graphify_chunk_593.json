@@ -1,0 +1,718 @@
+{
+  "nodes": [
+    {
+      "id": "AudioMixerStreamDataFormatType",
+      "type": "enum",
+      "label": "AudioMixerStreamDataFormatType",
+      "module": "AudioMixer",
+      "file": "AudioMixerBlueprintLibrary.h",
+      "description": "Duplicate of Audio::EAudioMixerStreamDataFormat::Type, to get around UHT's lack of namespace support",
+      "values": ["UNKNOWN", "FLOAT", "INT16", "UNSUPPORTED"]
+    },
+    {
+      "id": "LinearGradientTileType",
+      "type": "enum",
+      "label": "LinearGradientTileType",
+      "plugin": "DynamicMaterial",
+      "module": "DynamicMaterialEditor",
+      "file": "DMMSGLinear.h",
+      "description": "ELinear Gradient Tile Type",
+      "values": ["NO_TILE", "TILE", "TILE_AND_MIRROR"]
+    },
+    {
+      "id": "AnimGraphNode_IKRig",
+      "type": "class",
+      "label": "AnimGraphNode_IKRig",
+      "plugin": "IKRig",
+      "module": "IKRigDeveloper",
+      "file": "AnimGraphNode_IKRig.h",
+      "description": "Editor node for IKRig"
+    },
+    {
+      "id": "AnimGraphNode_CustomProperty",
+      "type": "class",
+      "label": "AnimGraphNode_CustomProperty"
+    },
+    {
+      "id": "AnimNode_IKRig",
+      "type": "class",
+      "label": "AnimNode_IKRig"
+    },
+    {
+      "id": "MemberReference",
+      "type": "class",
+      "label": "MemberReference"
+    },
+    {
+      "id": "AnimGraphNodeBinding",
+      "type": "class",
+      "label": "AnimGraphNodeBinding"
+    },
+    {
+      "id": "OptionalPinFromProperty",
+      "type": "class",
+      "label": "OptionalPinFromProperty"
+    },
+    {
+      "id": "GeometryScriptBakeCurvatureTypeMode",
+      "type": "enum",
+      "label": "GeometryScriptBakeCurvatureTypeMode",
+      "plugin": "GeometryScripting",
+      "module": "GeometryScriptingCore",
+      "file": "MeshBakeFunctions.h",
+      "description": "EGeometry Script Bake Curvature Type Mode",
+      "values": ["MEAN", "MAX", "MIN", "GAUSSIAN"]
+    },
+    {
+      "id": "CameraFocusMethod",
+      "type": "enum",
+      "label": "CameraFocusMethod",
+      "module": "CinematicCamera",
+      "file": "CineCameraSettings.h",
+      "description": "Supported methods for focusing the camera",
+      "values": ["DO_NOT_OVERRIDE", "MANUAL", "TRACKING", "DISABLE"]
+    },
+    {
+      "id": "EarthSeedFragment",
+      "type": "struct",
+      "label": "EarthSeedFragment",
+      "plugin": "AesWorld",
+      "module": "EarthPrefab",
+      "file": "EarthCommonFragments.h",
+      "description": "定义随机种子数据片段的结构体"
+    },
+    {
+      "id": "EarthExternalFragment",
+      "type": "struct",
+      "label": "EarthExternalFragment"
+    },
+    {
+      "id": "DisplayClusterConfigurationDiagnostics",
+      "type": "struct",
+      "label": "DisplayClusterConfigurationDiagnostics",
+      "plugin": "nDisplay",
+      "module": "DisplayClusterConfiguration",
+      "file": "DisplayClusterConfigurationTypes.h",
+      "description": "Display Cluster Configuration Diagnostics"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "UrbanWorldProjectionType",
+      "type": "enum",
+      "label": "UrbanWorldProjectionType",
+      "plugin": "AesRuntime",
+      "module": "UrbanWorld",
+      "file": "UrbanWorld.h",
+      "description": "EUrban World Projection Type",
+      "values": ["ORTHO", "CUSTOM"]
+    },
+    {
+      "id": "MaterialExpressionLogarithm10",
+      "type": "class",
+      "label": "MaterialExpressionLogarithm10",
+      "module": "Engine",
+      "file": "MaterialExpressionLogarithm10.h",
+      "description": "Material Expression Logarithm 10"
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression"
+    },
+    {
+      "id": "AdditiveBasePoseType",
+      "type": "enum",
+      "label": "AdditiveBasePoseType",
+      "module": "Engine",
+      "file": "AnimEnums.h",
+      "description": "For an additive animation, indicates what the animation is relative to",
+      "values": ["ABPT_NONE", "ABPT_REF_POSE", "ABPT_ANIM_SCALED", "ABPT_ANIM_FRAME", "ABPT_LOCAL_ANIM_FRAME"]
+    },
+    {
+      "id": "AvaToolboxIrregularPolygonDynamicMesh",
+      "type": "class",
+      "label": "AvaToolboxIrregularPolygonDynamicMesh",
+      "deprecated": true,
+      "description": "deprecated: 'AvaToolboxIrregularPolygonDynamicMesh' was renamed to 'AvaShapeIrregularPolygonDynamicMesh'"
+    },
+    {
+      "id": "AvaShapeIrregularPolygonDynamicMesh",
+      "type": "class",
+      "label": "AvaShapeIrregularPolygonDynamicMesh"
+    },
+    {
+      "id": "ComponentOnInputTouchEndSignature",
+      "type": "delegate",
+      "label": "ComponentOnInputTouchEndSignature",
+      "module": "Engine",
+      "file": "PrimitiveComponent.h",
+      "description": "Component on Input Touch End Signature Delegate Signature"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "TouchIndex",
+      "type": "enum",
+      "label": "TouchIndex"
+    },
+    {
+      "id": "PrimitiveComponent",
+      "type": "class",
+      "label": "PrimitiveComponent"
+    },
+    {
+      "id": "PCGMatchAndSetWeightedEntry",
+      "type": "struct",
+      "label": "PCGMatchAndSetWeightedEntry",
+      "plugin": "PCG",
+      "module": "PCG",
+      "file": "PCGMatchAndSetWeighted.h",
+      "description": "PCGMatch and Set Weighted Entry"
+    },
+    {
+      "id": "PCGMetadataTypesConstantStruct",
+      "type": "struct",
+      "label": "PCGMetadataTypesConstantStruct"
+    },
+    {
+      "id": "AesTilesVisibilityLayerParam",
+      "type": "struct",
+      "label": "AesTilesVisibilityLayerParam",
+      "plugin": "WdpRuntimeAPI",
+      "module": "AesTilesAPI",
+      "file": "AesTilesVisualAPIParams.h",
+      "description": "Visibility"
+    },
+    {
+      "id": "AesTilesVisualApiParamBase",
+      "type": "struct",
+      "label": "AesTilesVisualApiParamBase"
+    },
+    {
+      "id": "RigUnit_PoseGetDelta",
+      "type": "class",
+      "label": "RigUnit_PoseGetDelta",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_Hierarchy.h",
+      "description": "Compares two pose caches and compares their values"
+    },
+    {
+      "id": "RigUnit_HierarchyBase",
+      "type": "class",
+      "label": "RigUnit_HierarchyBase"
+    },
+    {
+      "id": "RigPose",
+      "type": "struct",
+      "label": "RigPose"
+    },
+    {
+      "id": "RigElementType",
+      "type": "enum",
+      "label": "RigElementType"
+    },
+    {
+      "id": "RigVMTransformSpace",
+      "type": "enum",
+      "label": "RigVMTransformSpace"
+    },
+    {
+      "id": "RigElementKeyCollection",
+      "type": "struct",
+      "label": "RigElementKeyCollection"
+    },
+    {
+      "id": "SelectSubjectTypeEnum",
+      "type": "enum",
+      "label": "SelectSubjectTypeEnum",
+      "plugin": "GeometryCollectionPlugin",
+      "module": "GeometryCollectionNodes",
+      "file": "GeometryCollectionSelectionNodes.h",
+      "description": "ESelect Subject Type Enum",
+      "values": ["DATAFLOW_SELECT_SUBJECT_TYPE_VERTICES", "DATAFLOW_SELECT_SUBJECT_TYPE_BOUNDING_BOX", "DATAFLOW_SELECT_SUBJECT_TYPE_CENTROID"]
+    },
+    {
+      "id": "AesVegetationSpecie",
+      "type": "struct",
+      "label": "AesVegetationSpecie",
+      "plugin": "AesWorld",
+      "module": "AesAsset",
+      "file": "AesVegetationAsset.h",
+      "description": "植被树种资产标签数据"
+    },
+    {
+      "id": "TableRowBase",
+      "type": "struct",
+      "label": "TableRowBase"
+    },
+    {
+      "id": "SoftObjectPath",
+      "type": "struct",
+      "label": "SoftObjectPath"
+    },
+    {
+      "id": "Vector2f",
+      "type": "struct",
+      "label": "Vector2f"
+    },
+    {
+      "id": "GeometryCollectionPhysicsTypeEnum",
+      "type": "enum",
+      "label": "GeometryCollectionPhysicsTypeEnum",
+      "module": "Chaos",
+      "file": "GeometryCollectionSimulationTypes.h",
+      "description": "EGeometry Collection Physics Type Enum",
+      "values": ["CHAOS_ANGULAR_VELOCITY", "CHAOS_DYNAMIC_STATE", "CHAOS_LINEAR_VELOCITY", "CHAOS_INITIAL_ANGULAR_VELOCITY", "CHAOS_INITIAL_LINEAR_VELOCITY", "CHAOS_COLLISION_GROUP", "CHAOS_LINEAR_FORCE", "CHAOS_ANGULAR_TORQUE", "CHAOS_DISABLE_THRESHOLD", "CHAOS_SLEEPING_THRESHOLD", "CHAOS_EXTERNAL_CLUSTER_STRAIN", "CHAOS_INTERNAL_CLUSTER_STRAIN", "CHAOS_LINEAR_IMPULSE"]
+    },
+    {
+      "id": "PreviewMaterial",
+      "type": "class",
+      "label": "PreviewMaterial",
+      "module": "UnrealEd",
+      "file": "PreviewMaterial.h",
+      "description": "Preview Material"
+    },
+    {
+      "id": "Material",
+      "type": "class",
+      "label": "Material"
+    },
+    {
+      "id": "BlendMode",
+      "type": "enum",
+      "label": "BlendMode"
+    },
+    {
+      "id": "MaterialShadingModel",
+      "type": "enum",
+      "label": "MaterialShadingModel"
+    },
+    {
+      "id": "PhysicalMaterial",
+      "type": "class",
+      "label": "PhysicalMaterial"
+    },
+    {
+      "id": "PCGProjectionColorBlendMode",
+      "type": "enum",
+      "label": "PCGProjectionColorBlendMode",
+      "plugin": "PCG",
+      "module": "PCG",
+      "file": "PCGProjectionParams.h",
+      "description": "EPCGProjection Color Blend Mode",
+      "values": ["SOURCE_VALUE", "TARGET_VALUE", "ADD", "SUBTRACT", "MULTIPLY"]
+    },
+    {
+      "id": "MVVMConditionOperation",
+      "type": "enum",
+      "label": "MVVMConditionOperation",
+      "plugin": "ModelViewViewModel",
+      "module": "ModelViewViewModel",
+      "file": "MVVMConditionOperation.h",
+      "description": "EMVVMCondition Operation",
+      "values": ["EQUAL", "NOT_EQUAL", "MORE_THAN", "MORE_THAN_OR_EQUAL", "LESS_THAN", "LESS_THAN_OR_EQUAL", "BETWEEN_INCLUSIVE", "BETWEEN_EXCLUSIVE"]
+    },
+    {
+      "id": "WdpScene",
+      "type": "class",
+      "label": "WdpScene",
+      "plugin": "AesRuntimeCore",
+      "module": "WdpDataModel",
+      "file": "WdpScene.h",
+      "description": "Wdp Scene"
+    },
+    {
+      "id": "WorldSubsystem",
+      "type": "class",
+      "label": "WorldSubsystem"
+    },
+    {
+      "id": "WdpEntityMgr",
+      "type": "class",
+      "label": "WdpEntityMgr"
+    },
+    {
+      "id": "WdpTransactionMgr",
+      "type": "class",
+      "label": "WdpTransactionMgr"
+    },
+    {
+      "id": "IWdpEntity",
+      "type": "interface",
+      "label": "IWdpEntity"
+    },
+    {
+      "id": "WdpJsonObjectWrapper",
+      "type": "struct",
+      "label": "WdpJsonObjectWrapper"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AudioMixerStreamDataFormatType",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "LinearGradientTileType",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimGraphNode_IKRig",
+      "target": "AnimGraphNode_CustomProperty",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimGraphNode_IKRig",
+      "target": "AnimNode_IKRig",
+      "type": "has_property",
+      "property_name": "node"
+    },
+    {
+      "source": "AnimGraphNode_IKRig",
+      "target": "MemberReference",
+      "type": "has_property",
+      "property_name": "become_relevant_function"
+    },
+    {
+      "source": "AnimGraphNode_IKRig",
+      "target": "MemberReference",
+      "type": "has_property",
+      "property_name": "initial_update_function"
+    },
+    {
+      "source": "AnimGraphNode_IKRig",
+      "target": "MemberReference",
+      "type": "has_property",
+      "property_name": "update_function"
+    },
+    {
+      "source": "AnimGraphNode_IKRig",
+      "target": "AnimGraphNodeBinding",
+      "type": "has_property",
+      "property_name": "binding"
+    },
+    {
+      "source": "AnimGraphNode_IKRig",
+      "target": "OptionalPinFromProperty",
+      "type": "has_property",
+      "property_name": "show_pin_for_properties"
+    },
+    {
+      "source": "GeometryScriptBakeCurvatureTypeMode",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "CameraFocusMethod",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "EarthSeedFragment",
+      "target": "EarthExternalFragment",
+      "type": "inherits"
+    },
+    {
+      "source": "DisplayClusterConfigurationDiagnostics",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "UrbanWorldProjectionType",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "MaterialExpressionLogarithm10",
+      "target": "MaterialExpression",
+      "type": "inherits"
+    },
+    {
+      "source": "AdditiveBasePoseType",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "AvaToolboxIrregularPolygonDynamicMesh",
+      "target": "AvaShapeIrregularPolygonDynamicMesh",
+      "type": "inherits"
+    },
+    {
+      "source": "ComponentOnInputTouchEndSignature",
+      "target": "MulticastDelegateBase",
+      "type": "inherits"
+    },
+    {
+      "source": "PCGMatchAndSetWeightedEntry",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "PCGMatchAndSetWeightedEntry",
+      "target": "PCGMetadataTypesConstantStruct",
+      "type": "has_property",
+      "property_name": "value"
+    },
+    {
+      "source": "AesTilesVisibilityLayerParam",
+      "target": "AesTilesVisualApiParamBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_PoseGetDelta",
+      "target": "RigUnit_HierarchyBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_PoseGetDelta",
+      "target": "RigPose",
+      "type": "has_property",
+      "property_name": "pose_a"
+    },
+    {
+      "source": "RigUnit_PoseGetDelta",
+      "target": "RigPose",
+      "type": "has_property",
+      "property_name": "pose_b"
+    },
+    {
+      "source": "RigUnit_PoseGetDelta",
+      "target": "RigElementType",
+      "type": "has_property",
+      "property_name": "element_type"
+    },
+    {
+      "source": "RigUnit_PoseGetDelta",
+      "target": "RigVMTransformSpace",
+      "type": "has_property",
+      "property_name": "space"
+    },
+    {
+      "source": "RigUnit_PoseGetDelta",
+      "target": "RigElementKeyCollection",
+      "type": "has_property",
+      "property_name": "items_to_compare"
+    },
+    {
+      "source": "RigUnit_PoseGetDelta",
+      "target": "RigElementKeyCollection",
+      "type": "has_property",
+      "property_name": "items_with_delta"
+    },
+    {
+      "source": "SelectSubjectTypeEnum",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "AesVegetationSpecie",
+      "target": "TableRowBase",
+      "type": "inherits"
+    },
+    {
+      "source": "AesVegetationSpecie",
+      "target": "SoftObjectPath",
+      "type": "has_property",
+      "property_name": "mesh"
+    },
+    {
+      "source": "AesVegetationSpecie",
+      "target": "Vector2f",
+      "type": "has_property",
+      "property_name": "scale_range"
+    },
+    {
+      "source": "AesVegetationSpecie",
+      "target": "Vector2f",
+      "type": "has_property",
+      "property_name": "vgm_edge_scale_range"
+    },
+    {
+      "source": "AesVegetationSpecie",
+      "target": "Vector2f",
+      "type": "has_property",
+      "property_name": "slope_limit_range"
+    },
+    {
+      "source": "AesVegetationSpecie",
+      "target": "Vector2f",
+      "type": "has_property",
+      "property_name": "height_limit_range"
+    },
+    {
+      "source": "GeometryCollectionPhysicsTypeEnum",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "PreviewMaterial",
+      "target": "Material",
+      "type": "inherits"
+    },
+    {
+      "source": "PreviewMaterial",
+      "target": "BlendMode",
+      "type": "has_property",
+      "property_name": "blend_mode"
+    },
+    {
+      "source": "PreviewMaterial",
+      "target": "MaterialShadingModel",
+      "type": "has_property",
+      "property_name": "shading_model"
+    },
+    {
+      "source": "PreviewMaterial",
+      "target": "PhysicalMaterial",
+      "type": "has_property",
+      "property_name": "phys_material"
+    },
+    {
+      "source": "PCGProjectionColorBlendMode",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "MVVMConditionOperation",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "WdpScene",
+      "target": "WorldSubsystem",
+      "type": "inherits"
+    },
+    {
+      "source": "WdpScene",
+      "target": "WdpEntityMgr",
+      "type": "has_property",
+      "property_name": "entity_mgr"
+    },
+    {
+      "source": "WdpScene",
+      "target": "WdpTransactionMgr",
+      "type": "has_property",
+      "property_name": "transaction_mgr"
+    },
+    {
+      "source": "WdpScene",
+      "target": "IWdpEntity",
+      "type": "returns",
+      "method": "get_entity_by_id_bp"
+    },
+    {
+      "source": "WdpScene",
+      "target": "IWdpEntity",
+      "type": "returns",
+      "method": "create_wdp_entity"
+    },
+    {
+      "source": "WdpScene",
+      "target": "IWdpEntity",
+      "type": "returns",
+      "method": "create_wdp_actor_entity"
+    },
+    {
+      "source": "WdpScene",
+      "target": "WdpTransactionMgr",
+      "type": "returns",
+      "method": "get_transaction_mgr"
+    },
+    {
+      "source": "WdpScene",
+      "target": "WdpJsonObjectWrapper",
+      "type": "returns",
+      "method": "save_wdp_scene"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he1",
+      "type": "delegate_signature",
+      "nodes": ["ComponentOnInputTouchEndSignature", "TouchIndex", "PrimitiveComponent"],
+      "description": "Delegate signature for touch end events with finger_index and touched_component parameters"
+    },
+    {
+      "id": "he2",
+      "type": "pose_comparison",
+      "nodes": ["RigUnit_PoseGetDelta", "RigPose", "RigElementKeyCollection", "RigElementType", "RigVMTransformSpace"],
+      "description": "Compares two pose caches with configurable thresholds and transform spaces"
+    },
+    {
+      "id": "he3",
+      "type": "wdp_entity_management",
+      "nodes": ["WdpScene", "IWdpEntity", "WdpEntityMgr", "WdpTransactionMgr", "WdpJsonObjectWrapper"],
+      "description": "Scene subsystem managing entities with transaction support and serialization"
+    },
+    {
+      "id": "he4",
+      "type": "vegetation_scatter",
+      "nodes": ["AesVegetationSpecie", "SoftObjectPath", "Vector2f"],
+      "description": "Vegetation species configuration for procedural scattering with scale, slope, and height constraints"
+    },
+    {
+      "id": "he5",
+      "type": "pcg_weighted_matching",
+      "nodes": ["PCGMatchAndSetWeightedEntry", "PCGMetadataTypesConstantStruct"],
+      "description": "Weighted entry for PCG matching and setting operations with metadata value"
+    },
+    {
+      "id": "he6",
+      "type": "material_rendering",
+      "nodes": ["PreviewMaterial", "Material", "BlendMode", "MaterialShadingModel", "PhysicalMaterial"],
+      "description": "Material preview with comprehensive rendering properties including blend mode, shading model, and physical material"
+    },
+    {
+      "id": "he7",
+      "type": "ik_rig_animation_node",
+      "nodes": ["AnimGraphNode_IKRig", "AnimNode_IKRig", "AnimGraphNodeBinding", "MemberReference"],
+      "description": "Editor animation graph node for IK Rig with bindings and lifecycle callbacks"
+    },
+    {
+      "id": "he8",
+      "type": "curvature_baking",
+      "nodes": ["GeometryScriptBakeCurvatureTypeMode"],
+      "description": "Curvature type modes for geometry baking: MEAN, MAX, MIN, GAUSSIAN for mesh processing"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "AudioMixerStreamDataFormatType Objects.md",
+      "LinearGradientTileType Objects.md",
+      "AnimGraphNode_IKRig Objects.md",
+      "GeometryScriptBakeCurvatureTypeMode Objects.md",
+      "CameraFocusMethod Objects.md",
+      "EarthSeedFragment Objects.md",
+      "DisplayClusterConfigurationDiagnostics Objects.md",
+      "UrbanWorldProjectionType Objects.md",
+      "MaterialExpressionLogarithm10 Objects.md",
+      "AdditiveBasePoseType Objects.md",
+      "AvaToolboxIrregularPolygonDynamicMesh Objects.md",
+      "ComponentOnInputTouchEndSignature Objects.md",
+      "PCGMatchAndSetWeightedEntry Objects.md",
+      "AesTilesVisibilityLayerParam Objects.md",
+      "RigUnit__PoseGetDelta Objects.md",
+      "SelectSubjectTypeEnum Objects.md",
+      "AesVegetationSpecie Objects.md",
+      "GeometryCollectionPhysicsTypeEnum Objects.md",
+      "PreviewMaterial Objects.md",
+      "PCGProjectionColorBlendMode Objects.md",
+      "MVVMConditionOperation Objects.md",
+      "WdpScene Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_nodes": 54,
+    "total_edges": 49,
+    "total_hyperedges": 8
+  }
+}

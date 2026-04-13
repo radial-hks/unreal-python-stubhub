@@ -1,0 +1,506 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_setupshapelibraryfromuserdata_rigunitmutable",
+      "label": "RigUnit_SetupShapeLibraryFromUserData extends RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_SetupShapeLibraryFromUserData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setupshapelibraryfromuserdata_controlrig",
+      "label": "RigUnit_SetupShapeLibraryFromUserData works with ControlRig",
+      "file_type": "code",
+      "source_file": "RigUnit_SetupShapeLibraryFromUserData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "immunitygameplayeffectcomponent_gameplayeffectcomponent",
+      "label": "ImmunityGameplayEffectComponent extends GameplayEffectComponent",
+      "file_type": "code",
+      "source_file": "ImmunityGameplayEffectComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "immunitygameplayeffectcomponent_asc",
+      "label": "ImmunityGameplayEffectComponent registers global handler on ASC",
+      "file_type": "code",
+      "source_file": "ImmunityGameplayEffectComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonerhoneycomblayout_ceclonerhoneycomblayout",
+      "label": "AvaClonerHoneycombLayout renamed to CEClonerHoneycombLayout",
+      "file_type": "code",
+      "source_file": "AvaClonerHoneycombLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createparabolasparams_parabolastyle",
+      "label": "CreateParabolasParams uses ParabolaStyle",
+      "file_type": "code",
+      "source_file": "CreateParabolasParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatlerp_mathfloatbase",
+      "label": "RigVMFunction_MathFloatLerp extends RigVMFunction_MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatamaketransformsettings_pcgmetadatamodelbase",
+      "label": "PCGMetadataMakeTransformSettings extends PCGMetadataSettingsBase",
+      "file_type": "code",
+      "source_file": "PCGMetadataMakeTransformSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatamodelbase_pcgsettings",
+      "label": "PCGMetadataSettingsBase extends PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGMetadataSettingsBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshdecomposition_blueprintfunctionlibrary",
+      "label": "GeometryScript_MeshDecomposition extends BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "GeometryScript__MeshDecomposition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshdecomposition_split_functions",
+      "label": "GeometryScript_MeshDecomposition provides mesh split functions",
+      "file_type": "code",
+      "source_file": "GeometryScript__MeshDecomposition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_mirror_animgraphmodelbase",
+      "label": "AnimGraphNode_Mirror extends AnimGraphNode_Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__Mirror Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctionmateriallayerblendinstancefactory_materialfunctioninstancefactory",
+      "label": "MaterialFunctionMaterialLayerBlendInstanceFactory extends MaterialFunctionInstanceFactory",
+      "file_type": "code",
+      "source_file": "MaterialFunctionMaterialLayerBlendInstanceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playermappablekeyqueryoptions_key_types",
+      "label": "PlayerMappableKeyQueryOptions uses Key and PlayerMappableKeySlot types",
+      "file_type": "code",
+      "source_file": "PlayerMappableKeyQueryOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vreditormode_vreditormodebase",
+      "label": "VREditorMode extends VREditorModeBase",
+      "file_type": "code",
+      "source_file": "VREditorMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vreditormode_vr_editor",
+      "label": "VREditorMode provides VR editor controls and manipulation",
+      "file_type": "code",
+      "source_file": "VREditorMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveflagschangedpayload_curvepayload",
+      "label": "CurveFlagsChangedPayload extends CurvePayload",
+      "file_type": "code",
+      "source_file": "CurveFlagsChangedPayload Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacestaticmesh_niagaradatainterface",
+      "label": "NiagaraDataInterfaceStaticMesh extends NiagaraDataInterface",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceStaticMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacestaticmesh_sampling",
+      "label": "NiagaraDataInterfaceStaticMesh enables static mesh sampling",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceStaticMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updatepathparams_pathstyle",
+      "label": "UpdatePathParams uses PathStyle",
+      "file_type": "code",
+      "source_file": "UpdatePathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getitemshortname_rigmodulesbase",
+      "label": "RigUnit_GetItemShortName extends RigUnit_RigModulesBase",
+      "file_type": "code",
+      "source_file": "RigUnit__GetItemShortName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getitemshortname_namespace_handling",
+      "label": "RigUnit_GetItemShortName extracts short names without namespace",
+      "file_type": "code",
+      "source_file": "RigUnit__GetItemShortName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesclusterassetdata_aesassetdata",
+      "label": "AesClusterAssetData extends AesAssetData",
+      "file_type": "code",
+      "source_file": "AesClusterAssetData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesclusterassetdata_child_assets",
+      "label": "AesClusterAssetData manages child asset references",
+      "file_type": "code",
+      "source_file": "AesClusterAssetData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector4dcameravariable_cameravariableasset",
+      "label": "Vector4dCameraVariable extends CameraVariableAsset",
+      "file_type": "code",
+      "source_file": "Vector4dCameraVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shpreceiveddelegate_multicastdelegatebase",
+      "label": "ShpReceivedDelegate extends MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "ShpReceivedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shpreceiveddelegate_file_handling",
+      "label": "ShpReceivedDelegate handles shape file reception",
+      "file_type": "code",
+      "source_file": "ShpReceivedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "panmovementmode_enumbase",
+      "label": "PanMovementMode extends EnumBase",
+      "file_type": "code",
+      "source_file": "PanMovementMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeslandmarkeditorcommandparams_create_aeseditorcommandparams",
+      "label": "AesLandmarkEditorCommandParams_Create extends AesEditorCommandParams",
+      "file_type": "code",
+      "source_file": "AesLandmarkEditorCommandParams__Create Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorpathobjectinterface_interface",
+      "label": "EditorPathObjectInterface extends Interface",
+      "file_type": "code",
+      "source_file": "EditorPathObjectInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_setupshapelibraryfromuserdata_rigunitmutable",
+      "target": "rigunit_setupshapelibraryfromuserdata_controlrig",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetupShapeLibraryFromUserData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "immunitygameplayeffectcomponent_gameplayeffectcomponent",
+      "target": "immunitygameplayeffectcomponent_asc",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImmunityGameplayEffectComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createparabolasparams_parabolastyle",
+      "target": "updatepathparams_pathstyle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CreateParabolasParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshdecomposition_blueprintfunctionlibrary",
+      "target": "geometryscript_meshdecomposition_split_functions",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshDecomposition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatamaketransformsettings_pcgmetadatamodelbase",
+      "target": "pcgmetadatamodelbase_pcgsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataMakeTransformSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vreditormode_vreditormodebase",
+      "target": "vreditormode_vr_editor",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VREditorMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacestaticmesh_niagaradatainterface",
+      "target": "niagaradatainterfacestaticmesh_sampling",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceStaticMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getitemshortname_rigmodulesbase",
+      "target": "rigunit_getitemshortname_namespace_handling",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetItemShortName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setupshapelibraryfromuserdata_controlrig",
+      "target": "rigunit_getitemshortname_namespace_handling",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SetupShapeLibraryFromUserData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesclusterassetdata_aesassetdata",
+      "target": "aesclusterassetdata_child_assets",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesClusterAssetData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesclusterassetdata_aesassetdata",
+      "target": "aeslandmarkeditorcommandparams_create_aeseditorcommandparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesClusterAssetData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "shpreceiveddelegate_multicastdelegatebase",
+      "target": "shpreceiveddelegate_file_handling",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ShpReceivedDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createparabolasparams_parabolastyle",
+      "target": "shpreceiveddelegate_file_handling",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CreateParabolasParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_hierarchy_namespace_system",
+      "label": "ControlRig namespace handling components",
+      "nodes": [
+        "rigunit_setupshapelibraryfromuserdata_controlrig",
+        "rigunit_getitemshortname_namespace_handling"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_SetupShapeLibraryFromUserData Objects.md"
+    },
+    {
+      "id": "pcg_metadata_operation_chain",
+      "label": "PCG metadata operation inheritance chain",
+      "nodes": [
+        "pcgmetadatamaketransformsettings_pcgmetadatamodelbase",
+        "pcgmetadatamodelbase_pcgsettings"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataMakeTransformSettings Objects.md"
+    },
+    {
+      "id": "aes_asset_management_system",
+      "label": "AES plugin asset management components",
+      "nodes": [
+        "aesclusterassetdata_child_assets",
+        "aeslandmarkeditorcommandparams_create_aeseditorcommandparams"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesClusterAssetData Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,35 @@
+{
+  "total_files": 22,
+  "total_words": 4442,
+  "files": {
+    "code": [],
+    "document": [
+      "GameplayEffectAttributeCaptureSource Objects.md",
+      "ImportanceSamplingLibrary Objects.md",
+      "MovieSceneGeometryCacheTrack Objects.md",
+      "NavAreaBase Objects.md",
+      "VolumetricCloudRenderTargetMode Objects.md",
+      "RigVMFunction_DebugRectangle Objects.md",
+      "RigVMFunction__StringRight Objects.md",
+      "ComponentNameParams Objects.md",
+      "TypedElementSelectionSet Objects.md",
+      "ACLVisualFidelityChangeResult Objects.md",
+      "GraphicsAtom Objects.md",
+      "RigUnit__GetFloatAnimationChannelFromItem Objects.md",
+      "RectPickActionParams Objects.md",
+      "ChaosVDConstraintDataComponent Objects.md",
+      "TwoVectors Objects.md",
+      "RigUnit_GetControlTransform Objects.md",
+      "MovieSceneLiveLinkTrack Objects.md",
+      "MediaPlaylist Objects.md",
+      "GeometryScriptBakeTypes Objects.md",
+      "LowEntrySplitScreenTypeTwoPlayers Objects.md",
+      "DamageModelTypeEnum Objects.md",
+      "OnTakeRecorderMarkedFrameAdded Objects.md"
+    ],
+    "paper": [],
+    "image": [],
+    "video": []
+  },
+  "skipped_sensitive": []
+}

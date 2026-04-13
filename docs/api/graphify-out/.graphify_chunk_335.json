@@ -1,0 +1,613 @@
+{
+  "nodes": [
+    {
+      "id": "skeleton_skeleton",
+      "label": "Skeleton",
+      "file_type": "code",
+      "source_file": "Skeleton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeleton_bonetree",
+      "label": "Bone Tree",
+      "file_type": "code",
+      "source_file": "Skeleton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeleton_compatibility",
+      "label": "Skeleton Compatibility System",
+      "file_type": "code",
+      "source_file": "Skeleton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolvector2d",
+      "label": "RigUnit SetControlVector2D",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_hierarchy",
+      "label": "ControlRig Hierarchy",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updatepoiparams",
+      "label": "UpdatePoiParams",
+      "file_type": "code",
+      "source_file": "UpdatePoiParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmeshselectorweightedentry",
+      "label": "PCGMeshSelectorWeightedEntry",
+      "file_type": "code",
+      "source_file": "PCGMeshSelectorWeightedEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_weightedselection",
+      "label": "PCG Weighted Selection",
+      "file_type": "code",
+      "source_file": "PCGMeshSelectorWeightedEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "importsubsystem_postlodimport",
+      "label": "ImportSubsystem Post-LOD Import Delegate",
+      "file_type": "code",
+      "source_file": "ImportSubsystem__OnAssetPostLODImport__Dyn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaterniontoeuler",
+      "label": "RigUnit MathQuaternionToEuler",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionToEuler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternion_to_euler_conversion",
+      "label": "Quaternion to Euler Conversion",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionToEuler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displaycluster_custompostprocess",
+      "label": "DisplayCluster Custom PostProcess Settings",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationViewport_CustomPostprocessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgconverttopointdatasettings",
+      "label": "PCGConvertToPointDataSettings",
+      "file_type": "code",
+      "source_file": "PCGConvertToPointDataSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_attributeconversion",
+      "label": "PCG Attribute Conversion",
+      "file_type": "code",
+      "source_file": "PCGConvertToPointDataSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorweathermaterialfxsettings",
+      "label": "SkyCreator Weather Material FX Settings",
+      "file_type": "code",
+      "source_file": "SkyCreatorWeatherMaterialFXSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weather_materialeffects",
+      "label": "Weather Material Effects System",
+      "file_type": "code",
+      "source_file": "SkyCreatorWeatherMaterialFXSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opencvarucodetectedmarker",
+      "label": "OpenCVArucoDetectedMarker",
+      "file_type": "code",
+      "source_file": "OpenCVArucoDetectedMarker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aruco_marker_detection",
+      "label": "ArUco Marker Detection",
+      "file_type": "code",
+      "source_file": "OpenCVArucoDetectedMarker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanstaticmeshblueprintlibrary",
+      "label": "UrbanStaticMeshBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "UrbanStaticMeshBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialspecification_management",
+      "label": "Material Specification Management",
+      "file_type": "code",
+      "source_file": "UrbanStaticMeshBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelexporterfbx",
+      "label": "LevelExporterFBX",
+      "file_type": "code",
+      "source_file": "LevelExporterFBX Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbx_export",
+      "label": "FBX Export",
+      "file_type": "code",
+      "source_file": "LevelExporterFBX Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bakedshallowwatersimulationcomponent",
+      "label": "BakedShallowWaterSimulationComponent",
+      "file_type": "code",
+      "source_file": "BakedShallowWaterSimulationComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffect",
+      "label": "GameplayEffect",
+      "file_type": "code",
+      "source_file": "GameplayEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayability_system",
+      "label": "Gameplay Ability System",
+      "file_type": "code",
+      "source_file": "GameplayEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geffect_stacking",
+      "label": "GameplayEffect Stacking System",
+      "file_type": "code",
+      "source_file": "GameplayEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riglogicrotationorder",
+      "label": "RigLogicRotationOrder",
+      "file_type": "code",
+      "source_file": "RigLogicRotationOrder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rotationorder_enumeration",
+      "label": "Rotation Order Enumeration",
+      "file_type": "code",
+      "source_file": "RigLogicRotationOrder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayerinfoparams",
+      "label": "GeoLayerInfoParams",
+      "file_type": "code",
+      "source_file": "GeoLayerInfoParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gis_layer_management",
+      "label": "GIS Layer Management",
+      "file_type": "code",
+      "source_file": "GeoLayerInfoParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel",
+      "label": "PoseSearchFeatureChannel",
+      "file_type": "code",
+      "source_file": "PoseSearchFeatureChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearch_features",
+      "label": "Pose Search Feature System",
+      "file_type": "code",
+      "source_file": "PoseSearchFeatureChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "skeleton_skeleton",
+      "target": "skeleton_bonetree",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Skeleton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeleton_skeleton",
+      "target": "skeleton_compatibility",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Skeleton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeleton_compatibility",
+      "target": "skeleton_skeleton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Skeleton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector2d",
+      "target": "controlrig_hierarchy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmeshselectorweightedentry",
+      "target": "pcg_weightedselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMeshSelectorWeightedEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniontoeuler",
+      "target": "quaternion_to_euler_conversion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionToEuler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quaternion_to_euler_conversion",
+      "target": "riglogicrotationorder",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathQuaternionToEuler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgconverttopointdatasettings",
+      "target": "pcg_attributeconversion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGConvertToPointDataSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweathermaterialfxsettings",
+      "target": "weather_materialeffects",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorWeatherMaterialFXSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencvarucodetectedmarker",
+      "target": "aruco_marker_detection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OpenCVArucoDetectedMarker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanstaticmeshblueprintlibrary",
+      "target": "materialspecification_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanStaticMeshBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelexporterfbx",
+      "target": "fbx_export",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelExporterFBX Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffect",
+      "target": "gameplayability_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffect",
+      "target": "geffect_stacking",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riglogicrotationorder",
+      "target": "rotationorder_enumeration",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigLogicRotationOrder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayerinfoparams",
+      "target": "gis_layer_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoLayerInfoParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel",
+      "target": "posesearch_features",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeleton_bonetree",
+      "target": "controlrig_hierarchy",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Skeleton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quaternion_to_euler_conversion",
+      "target": "rigunit_setcontrolvector2d",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_MathQuaternionToEuler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcg_weightedselection",
+      "target": "pcg_attributeconversion",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGMeshSelectorWeightedEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aruco_marker_detection",
+      "target": "posesearch_features",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OpenCVArucoDetectedMarker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_rotation_transformations",
+      "label": "Rig Rotation Transformation System",
+      "nodes": [
+        "rigunit_setcontrolvector2d",
+        "quaternion_to_euler_conversion",
+        "riglogicrotationorder"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetControlVector2D Objects.md"
+    },
+    {
+      "id": "pcg_procedural_generation",
+      "label": "PCG Procedural Generation Framework",
+      "nodes": [
+        "pcgmeshselectorweightedentry",
+        "pcgconverttopointdatasettings",
+        "pcg_weightedselection",
+        "pcg_attributeconversion"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGMeshSelectorWeightedEntry Objects.md"
+    },
+    {
+      "id": "skeleton_animation_system",
+      "label": "Skeleton Animation and Retargeting System",
+      "nodes": [
+        "skeleton_skeleton",
+        "skeleton_bonetree",
+        "skeleton_compatibility",
+        "controlrig_hierarchy"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Skeleton Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

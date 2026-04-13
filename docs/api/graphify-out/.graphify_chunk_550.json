@@ -1,0 +1,684 @@
+{
+  "nodes": [
+    {
+      "id": "entityroadlevellimits_entityroadlevellimits",
+      "label": "EntityRoadLevelLimits",
+      "file_type": "document",
+      "source_file": "EntityRoadLevelLimits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublefloor_rigvmfunction_mathdoublefloor",
+      "label": "RigVMFunction_MathDoubleFloor",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleFloor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorclock_propertyanimatorclock",
+      "label": "PropertyAnimatorClock",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorClock Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewportsmanager_viewportsmanager",
+      "label": "ViewportsManager",
+      "file_type": "document",
+      "source_file": "ViewportsManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserdatacollectionfilter_contentbrowserdatacollectionfilter",
+      "label": "ContentBrowserDataCollectionFilter",
+      "file_type": "document",
+      "source_file": "ContentBrowserDataCollectionFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorclampspatially_rigvmfunction_mathvectorclampspatially",
+      "label": "RigVMFunction_MathVectorClampSpatially",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorClampSpatially Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthglobalsettings_earthglobalsettings",
+      "label": "EarthGlobalSettings",
+      "file_type": "document",
+      "source_file": "EarthGlobalSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifiestate_timedniagaraeffect_animnotifiestate_timedniagaraeffect",
+      "label": "AnimNotifyState_TimedNiagaraEffect",
+      "file_type": "document",
+      "source_file": "AnimNotifyState_TimedNiagaraEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strandstexturesmeshtype_strandstexturesmeshtype",
+      "label": "StrandsTexturesMeshType",
+      "file_type": "document",
+      "source_file": "StrandsTexturesMeshType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionuvrotator_dmmaterialstageexpressionuvrotator",
+      "label": "DMMaterialStageExpressionUVRotator",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionUVRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaostrailingeventdata_chaostrailingeventdata",
+      "label": "ChaosTrailingEventData",
+      "file_type": "document",
+      "source_file": "ChaosTrailingEventData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodelerjunctionprefab_earthroadmodelerjunctionprefab",
+      "label": "EarthRoadModelerJunctionPrefab",
+      "file_type": "document",
+      "source_file": "EarthRoadModelerJunctionPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "matineecamerashakefunctionlibrary_matineecamerashakefunctionlibrary",
+      "label": "MatineeCameraShakeFunctionLibrary",
+      "file_type": "document",
+      "source_file": "MatineeCameraShakeFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector",
+      "label": "RigVMFunction_TimeOffsetVector",
+      "file_type": "document",
+      "source_file": "RigVMFunction__TimeOffsetVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_ccdikitemarray_rigunit_ccdikitemarray",
+      "label": "RigUnit_CCDIKItemArray",
+      "file_type": "document",
+      "source_file": "RigUnit_CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnodeparamcrossfade_soundnodeparamcrossfade",
+      "label": "SoundNodeParamCrossFade",
+      "file_type": "document",
+      "source_file": "SoundNodeParamCrossFade Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthshapegrammarexpansionresult_earthshapegrammarexpansionresult",
+      "label": "EarthShapeGrammarExpansionResult",
+      "file_type": "document",
+      "source_file": "EarthShapeGrammarExpansionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_posedriver_animgraphnode_posedriver",
+      "label": "AnimGraphNode_PoseDriver",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseDriver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairtexturelayout_hairtexturelayout",
+      "label": "HairTextureLayout",
+      "file_type": "document",
+      "source_file": "HairTextureLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constantqanalyzer_constantqanalyzer",
+      "label": "ConstantQAnalyzer",
+      "file_type": "document",
+      "source_file": "ConstantQAnalyzer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoredata_propertyanimatorcoredata",
+      "label": "PropertyAnimatorCoreData",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicentrybox_dynamicentrybox",
+      "label": "DynamicEntryBox",
+      "file_type": "document",
+      "source_file": "DynamicEntryBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworldplugin_aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EntityRoadLevelLimits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmplugin_rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleFloor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigplugin_controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit_CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ccdik_solver_ccdik_solver",
+      "label": "CCDIK Solver",
+      "file_type": "document",
+      "source_file": "RigUnit_CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatial_clamping_spatial_clamping",
+      "label": "Spatial Clamping",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorClampSpatially Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "time_offset_recording_time_offset_recording",
+      "label": "Time Offset Recording",
+      "file_type": "document",
+      "source_file": "RigVMFunction__TimeOffsetVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bone_chain_manipulation_bone_chain_manipulation",
+      "label": "Bone Chain Manipulation",
+      "file_type": "document",
+      "source_file": "RigUnit_CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth_settings_earth_settings",
+      "label": "Earth Settings",
+      "file_type": "document",
+      "source_file": "EarthGlobalSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_analysis_audio_analysis",
+      "label": "Audio Analysis",
+      "file_type": "document",
+      "source_file": "ConstantQAnalyzer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_driven_by_pose_animation_driven_by_pose",
+      "label": "Animation Driven by Pose",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseDriver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "property_animation_system_property_animation_system",
+      "label": "Property Animation System",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorClock Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "entityroadlevellimits_entityroadlevellimits",
+      "target": "aesworldplugin_aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityRoadLevelLimits Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublefloor_rigvmfunction_mathdoublefloor",
+      "target": "rigvmplugin_rigvm_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleFloor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorclampspatially_rigvmfunction_mathvectorclampspatially",
+      "target": "rigvmplugin_rigvm_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorClampSpatially Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorclampspatially_rigvmfunction_mathvectorclampspatially",
+      "target": "spatial_clamping_spatial_clamping",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorClampSpatially Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector",
+      "target": "rigvmplugin_rigvm_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__TimeOffsetVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector",
+      "target": "time_offset_recording_time_offset_recording",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__TimeOffsetVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdikitemarray_rigunit_ccdikitemarray",
+      "target": "controlrigplugin_controlrig_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdikitemarray_rigunit_ccdikitemarray",
+      "target": "ccdik_solver_ccdik_solver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdikitemarray_rigunit_ccdikitemarray",
+      "target": "bone_chain_manipulation_bone_chain_manipulation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthglobalsettings_earthglobalsettings",
+      "target": "aesworldplugin_aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGlobalSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthglobalsettings_earthglobalsettings",
+      "target": "earth_settings_earth_settings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGlobalSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadmodelerjunctionprefab_earthroadmodelerjunctionprefab",
+      "target": "aesworldplugin_aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadModelerJunctionPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthshapegrammarexpansionresult_earthshapegrammarexpansionresult",
+      "target": "aesworldplugin_aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthShapeGrammarExpansionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorclock_propertyanimatorclock",
+      "target": "property_animation_system_property_animation_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorClock Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorclock_propertyanimatorclock",
+      "target": "propertyanimatorcoredata_propertyanimatorcoredata",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PropertyAnimatorClock Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constantqanalyzer_constantqanalyzer",
+      "target": "audio_analysis_audio_analysis",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConstantQAnalyzer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_posedriver_animgraphnode_posedriver",
+      "target": "animation_driven_by_pose_animation_driven_by_pose",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseDriver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdikitemarray_rigunit_ccdikitemarray",
+      "target": "rigvmfunction_mathvectorclampspatially_rigvmfunction_mathvectorclampspatially",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector",
+      "target": "propertyanimatorclock_propertyanimatorclock",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction__TimeOffsetVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constantqanalyzer_constantqanalyzer",
+      "target": "soundnodeparamcrossfade_soundnodeparamcrossfade",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ConstantQAnalyzer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaostrailingeventdata_chaostrailingeventdata",
+      "target": "rigunit_ccdikitemarray_rigunit_ccdikitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ChaosTrailingEventData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublefloor_rigvmfunction_mathdoublefloor",
+      "target": "rigvmfunction_mathvectorclampspatially_rigvmfunction_mathvectorclampspatially",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleFloor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublefloor_rigvmfunction_mathdoublefloor",
+      "target": "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleFloor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityroadlevellimits_entityroadlevellimits",
+      "target": "earthglobalsettings_earthglobalsettings",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EntityRoadLevelLimits Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityroadlevellimits_entityroadlevellimits",
+      "target": "earthroadmodelerjunctionprefab_earthroadmodelerjunctionprefab",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EntityRoadLevelLimits Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthglobalsettings_earthglobalsettings",
+      "target": "earthroadmodelerjunctionprefab_earthroadmodelerjunctionprefab",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthGlobalSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthglobalsettings_earthglobalsettings",
+      "target": "earthshapegrammarexpansionresult_earthshapegrammarexpansionresult",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EarthGlobalSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathdoublefloor_rigvmfunction_mathdoublefloor",
+        "rigvmfunction_mathvectorclampspatially_rigvmfunction_mathvectorclampspatially",
+        "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleFloor Objects.md"
+    },
+    {
+      "id": "earth_system_components",
+      "label": "Earth System Components",
+      "nodes": [
+        "entityroadlevellimits_entityroadlevellimits",
+        "earthglobalsettings_earthglobalsettings",
+        "earthroadmodelerjunctionprefab_earthroadmodelerjunctionprefab",
+        "earthshapegrammarexpansionresult_earthshapegrammarexpansionresult"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EntityRoadLevelLimits Objects.md"
+    },
+    {
+      "id": "animation_and_physics_interaction",
+      "label": "Animation and Physics Interaction",
+      "nodes": [
+        "rigunit_ccdikitemarray_rigunit_ccdikitemarray",
+        "animgraphnode_posedriver_animgraphnode_posedriver",
+        "chaostrailingeventdata_chaostrailingeventdata",
+        "animnotifiestate_timedniagaraeffect_animnotifiestate_timedniagaraeffect"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_CCDIKItemArray Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

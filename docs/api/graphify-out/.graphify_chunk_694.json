@@ -1,0 +1,1201 @@
+{
+  "nodes": [
+    {
+      "id": "animphysaxistype",
+      "label": "AnimPhysAxisType",
+      "file_type": "code",
+      "source_file": "AnimPhysAxisType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorbinaryop",
+      "label": "RigUnit_MathVectorBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "superapihttpimage",
+      "label": "SuperAPIHttpImage",
+      "file_type": "code",
+      "source_file": "SuperAPIHttpImage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_autouvmethod",
+      "label": "GenerateStaticMeshLODProcess_AutoUVMethod",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODProcess_AutoUVMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarundownpage",
+      "label": "AvaRundownPage",
+      "file_type": "code",
+      "source_file": "AvaRundownPage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanagedsplinemeshcomponent",
+      "label": "PCGManagedSplineMeshComponent",
+      "file_type": "code",
+      "source_file": "PCGManagedSplineMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialspritecomponent",
+      "label": "MaterialSpriteComponent",
+      "file_type": "code",
+      "source_file": "MaterialSpriteComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangescenehierarchytype",
+      "label": "InterchangeSceneHierarchyType",
+      "file_type": "code",
+      "source_file": "InterchangeSceneHierarchyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intpoint",
+      "label": "IntPoint",
+      "file_type": "code",
+      "source_file": "IntPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitsplinecurvetochainitemarray",
+      "label": "RigUnit_FitSplineCurveToChainItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadataoperationsettings",
+      "label": "PCGMetadataOperationSettings",
+      "file_type": "code",
+      "source_file": "PCGMetadataOperationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneniagaracacheparams",
+      "label": "MovieSceneNiagaraCacheParams",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgizmocoordaxisspace",
+      "label": "WdpGizmoCoordAxisSpace",
+      "file_type": "code",
+      "source_file": "WdpGizmoCoordAxisSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "trianglesetcomponent",
+      "label": "TriangleSetComponent",
+      "file_type": "code",
+      "source_file": "TriangleSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsanitycheckpointdatasettings",
+      "label": "PCGSanityCheckPointDataSettings",
+      "file_type": "code",
+      "source_file": "PCGSanityCheckPointDataSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendbonebychannel",
+      "label": "AnimGraphNode_BlendBoneByChannel",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__BlendBoneByChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacegrid3d",
+      "label": "NiagaraDataInterfaceGrid3D",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avanormalmodifiersplitmethod",
+      "label": "AvaNormalModifierSplitMethod",
+      "file_type": "code",
+      "source_file": "AvaNormalModifierSplitMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatevectorbase",
+      "label": "RigUnit_MathRBFInterpolateVectorBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathRBFInterpolateVectorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionpreviousframeswitch",
+      "label": "MaterialExpressionPreviousFrameSwitch",
+      "file_type": "code",
+      "source_file": "MaterialExpressionPreviousFrameSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorrecorderpropertymap",
+      "label": "ActorRecorderPropertyMap",
+      "file_type": "code",
+      "source_file": "ActorRecorderPropertyMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthregionalprefabassetlibrary",
+      "label": "EarthRegionalPrefabAssetLibrary",
+      "file_type": "code",
+      "source_file": "EarthRegionalPrefabAssetLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphyslinearconstrainttype",
+      "label": "AnimPhysLinearConstraintType",
+      "file_type": "code",
+      "source_file": "AnimPhysAxisType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbinaryop",
+      "label": "RigVMFunction_MathVectorBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialbillboardcomponent",
+      "label": "MaterialBillboardComponent",
+      "file_type": "code",
+      "source_file": "MaterialSpriteComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcopyattributesettings",
+      "label": "PCGCopyAttributesSettings",
+      "file_type": "code",
+      "source_file": "PCGMetadataOperationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorbase",
+      "label": "RigVMFunction_MathRBFInterpolateVectorBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathRBFInterpolateVectorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image",
+      "label": "Image",
+      "file_type": "code",
+      "source_file": "SuperAPIHttpImage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "AvaRundownPage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanagedcomponent",
+      "label": "PCGManagedComponent",
+      "file_type": "code",
+      "source_file": "PCGManagedSplineMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshcomponent",
+      "label": "MeshComponent",
+      "file_type": "code",
+      "source_file": "TriangleSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "AnimPhysAxisType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenebasecacheparams",
+      "label": "MovieSceneBaseCacheParams",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base",
+      "label": "AnimGraphNode_Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__BlendBoneByChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacerwbase",
+      "label": "NiagaraDataInterfaceRWBase",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionPreviousFrameSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "ActorRecorderPropertyMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataasset",
+      "label": "DataAsset",
+      "file_type": "code",
+      "source_file": "EarthRegionalPrefabAssetLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGSanityCheckPointDataSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d",
+      "label": "Vector2D",
+      "file_type": "code",
+      "source_file": "IntPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "code",
+      "source_file": "SuperAPIHttpImage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin",
+      "label": "Avalanche Plugin",
+      "file_type": "code",
+      "source_file": "AvaRundownPage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "code",
+      "source_file": "PCGManagedSplineMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigspline_plugin",
+      "label": "ControlRigSpline Plugin",
+      "file_type": "code",
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimcaching_plugin",
+      "label": "NiagaraSimCaching Plugin",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesruntimecore_plugin",
+      "label": "AesRuntimeCore Plugin",
+      "file_type": "code",
+      "source_file": "WdpGizmoCoordAxisSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshmodelingtoolset_plugin",
+      "label": "MeshModelingToolset Plugin",
+      "file_type": "code",
+      "source_file": "TriangleSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takes_plugin",
+      "label": "Takes Plugin",
+      "file_type": "code",
+      "source_file": "ActorRecorderPropertyMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "code",
+      "source_file": "EarthRegionalPrefabAssetLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshlodtoolset_plugin",
+      "label": "MeshLODToolset Plugin",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODProcess_AutoUVMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_plugin",
+      "label": "Interchange Plugin",
+      "file_type": "code",
+      "source_file": "InterchangeSceneHierarchyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimcache_createparameters",
+      "label": "NiagaraSimCacheCreateParameters",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimcache",
+      "label": "NiagaraSimCache",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigspline",
+      "label": "ControlRigSpline",
+      "file_type": "code",
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animphysaxistype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPhysAxisType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animphysaxistype",
+      "target": "animphyslinearconstrainttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPhysAxisType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbinaryop",
+      "target": "rigvmfunction_mathvectorbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbinaryop",
+      "target": "rigvmfunction_mathvectorbinaryop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "superapihttpimage",
+      "target": "image",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SuperAPIHttpImage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "superapihttpimage",
+      "target": "coveringapi_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SuperAPIHttpImage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_autouvmethod",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenerateStaticMeshLODProcess_AutoUVMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_autouvmethod",
+      "target": "meshlodtoolset_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenerateStaticMeshLODProcess_AutoUVMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avarundownpage",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaRundownPage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avarundownpage",
+      "target": "avalanche_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaRundownPage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmanagedsplinemeshcomponent",
+      "target": "pcgmanagedcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGManagedSplineMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmanagedsplinemeshcomponent",
+      "target": "pcg_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGManagedSplineMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialspritecomponent",
+      "target": "materialbillboardcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialSpriteComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialspritecomponent",
+      "target": "materialbillboardcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialSpriteComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangescenehierarchytype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeSceneHierarchyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangescenehierarchytype",
+      "target": "interchange_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeSceneHierarchyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "intpoint",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "intpoint",
+      "target": "vector2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "controlrigspline_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "controlrigspline",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadataoperationsettings",
+      "target": "pcgcopyattributesettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataOperationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadataoperationsettings",
+      "target": "pcgcopyattributesettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataOperationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadataoperationsettings",
+      "target": "pcg_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataOperationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaracacheparams",
+      "target": "moviescenebasecacheparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaracacheparams",
+      "target": "niagarasimcaching_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaracacheparams",
+      "target": "niagarasimcache",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaracacheparams",
+      "target": "niagarasimcache_createparameters",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgizmocoordaxisspace",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGizmoCoordAxisSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgizmocoordaxisspace",
+      "target": "aesruntimecore_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGizmoCoordAxisSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "trianglesetcomponent",
+      "target": "meshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TriangleSetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "trianglesetcomponent",
+      "target": "meshmodelingtoolset_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TriangleSetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsanitycheckpointdatasettings",
+      "target": "pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSanityCheckPointDataSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsanitycheckpointdatasettings",
+      "target": "pcg_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSanityCheckPointDataSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendbonebychannel",
+      "target": "animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__BlendBoneByChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacegrid3d",
+      "target": "niagaradatainterfacerwbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceGrid3D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacegrid3d",
+      "target": "niagara_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceGrid3D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avanormalmodifiersplitmethod",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaNormalModifierSplitMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avanormalmodifiersplitmethod",
+      "target": "avalanche_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaNormalModifierSplitMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorbase",
+      "target": "rigvmfunction_mathrbfinterpolatevectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateVectorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorbase",
+      "target": "rigvmfunction_mathrbfinterpolatevectorbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateVectorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionpreviousframeswitch",
+      "target": "materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionPreviousFrameSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorrecorderpropertymap",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorRecorderPropertyMap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorrecorderpropertymap",
+      "target": "takes_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorRecorderPropertyMap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthregionalprefabassetlibrary",
+      "target": "dataasset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRegionalPrefabAssetLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthregionalprefabassetlibrary",
+      "target": "aesworld_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRegionalPrefabAssetLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmanagedsplinemeshcomponent",
+      "target": "pcgmetadataoperationsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGManagedSplineMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacegrid3d",
+      "target": "moviesceneniagaracacheparams",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraDataInterfaceGrid3D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcache",
+      "target": "niagaradatainterfacegrid3d",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneNiagaraCacheParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animphysaxistype",
+      "target": "avanormalmodifiersplitmethod",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimPhysAxisType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "intpoint",
+      "target": "wdpgizmocoordaxisspace",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "IntPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "niagara_caching_system",
+      "label": "Niagara Caching System Components",
+      "nodes": [
+        "niagaradatainterfacegrid3d",
+        "moviesceneniagaracacheparams",
+        "niagarasimcache",
+        "niagarasimcache_createparameters"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraDataInterfaceGrid3D Objects.md"
+    },
+    {
+      "id": "pcg_framework_components",
+      "label": "PCG Framework Components",
+      "nodes": [
+        "pcgmanagedsplinemeshcomponent",
+        "pcgmetadataoperationsettings",
+        "pcgsanitycheckpointdatasettings",
+        "pcgsettings",
+        "pcgmanagedcomponent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGManagedSplineMeshComponent Objects.md"
+    },
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Classes with Rename Migrations",
+      "nodes": [
+        "animphysaxistype",
+        "rigunit_mathvectorbinaryop",
+        "materialspritecomponent",
+        "pcgmetadataoperationsettings",
+        "rigunit_mathrbfinterpolatevectorbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AnimPhysAxisType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

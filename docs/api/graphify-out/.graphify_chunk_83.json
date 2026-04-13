@@ -1,0 +1,1030 @@
+{
+  "nodes": [
+    {
+      "id": "magicgisvectorlayerviewactor_magicgisvectorlayerviewactor",
+      "label": "MagicGISVectorLayerViewActor",
+      "file_type": "document",
+      "source_file": "MagicGISVectorLayerViewActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "magicgisvectorlayerviewactor_magicgislayerviewactor",
+      "label": "MagicGISLayerViewActor",
+      "file_type": "document",
+      "source_file": "MagicGISVectorLayerViewActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoresystemmode_propertyanimatorcoresystemmode",
+      "label": "PropertyAnimatorCoreSystemMode",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoresystemmode_local_time",
+      "label": "LOCAL_TIME Mode",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoresystemmode_utc_time",
+      "label": "UTC_TIME Mode",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoresystemmode_countdown",
+      "label": "COUNTDOWN Mode",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoresystemmode_stopwatch",
+      "label": "STOPWATCH Mode",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstratasimpleclearcoatbsdf_materialexpressionstratasimpleclearcoatbsdf",
+      "label": "MaterialExpressionStrataSimpleClearCoatBSDF",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStrataSimpleClearCoatBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstratasimpleclearcoatbsdf_materialexpressionsubstratesimpleclearcoatbsdf",
+      "label": "MaterialExpressionSubstrateSimpleClearCoatBSDF",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStrataSimpleClearCoatBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motiondesignbroadcastlibrary_motiondesignbroadcastlibrary",
+      "label": "MotionDesignBroadcastLibrary",
+      "file_type": "document",
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motiondesignbroadcastlibrary_get_channel_viewport_size",
+      "label": "get_channel_viewport_size Method",
+      "file_type": "document",
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motiondesignbroadcastlibrary_get_channel_type",
+      "label": "get_channel_type Method",
+      "file_type": "document",
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motiondesignbroadcastlibrary_get_channel_status",
+      "label": "get_channel_status Method",
+      "file_type": "document",
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motiondesignbroadcastlibrary_get_channel_name",
+      "label": "get_channel_name Method",
+      "file_type": "document",
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringcontains_rigvmfunction_stringcontains",
+      "label": "RigVMFunction_StringContains",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringcontains_name_property",
+      "label": "name Property",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringcontains_search_property",
+      "label": "search Property",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringcontains_result_property",
+      "label": "result Property",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathrbfinterpolatevectorxform_rigunit__mathrbfinterpolatevectorxform",
+      "label": "RigUnit_MathRBFInterpolateVectorXform",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateVectorXform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathrbfinterpolatevectorxform_rigvmfunction_mathrbfinterpolatevectorxform",
+      "label": "RigVMFunction_MathRBFInterpolateVectorXform",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateVectorXform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__hierarchyaddanimationchannelscalevector_rigunit__hierarchyaddanimationchannelscalevector",
+      "label": "RigUnit_HierarchyAddAnimationChannelScaleVector",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__hierarchyaddanimationchannelscalevector_initial_value",
+      "label": "initial_value Property",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__hierarchyaddanimationchannelscalevector_minimum_value",
+      "label": "minimum_value Property",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__hierarchyaddanimationchannelscalevector_maximum_value",
+      "label": "maximum_value Property",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__hierarchyaddanimationchannelscalevector_limits_enabled",
+      "label": "limits_enabled Property",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimstageexecutionloopeditordata_niagarasimstageexecutionloopeditordata",
+      "label": "NiagaraSimStageExecutionLoopEditorData",
+      "file_type": "document",
+      "source_file": "NiagaraSimStageExecutionLoopEditorData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendlistbyenum_animnode_blendlistbyenum",
+      "label": "AnimNode_BlendListByEnum",
+      "file_type": "document",
+      "source_file": "AnimNode_BlendListByEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendlistbyenum_animnode_blendlistbase",
+      "label": "AnimNode_BlendListBase",
+      "file_type": "document",
+      "source_file": "AnimNode_BlendListByEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "keymappingrow_keymappingrow",
+      "label": "KeyMappingRow",
+      "file_type": "document",
+      "source_file": "KeyMappingRow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "keymappingrow_mappings_property",
+      "label": "mappings Property",
+      "file_type": "document",
+      "source_file": "KeyMappingRow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelexportert3d_modelexportert3d",
+      "label": "ModelExporterT3D",
+      "file_type": "document",
+      "source_file": "ModelExporterT3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelexportert3d_exporter",
+      "label": "Exporter Base Class",
+      "file_type": "document",
+      "source_file": "ModelExporterT3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_moviescenetrack",
+      "label": "MovieSceneTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_set_track_row_display_name",
+      "label": "set_track_row_display_name Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_get_track_row_display_name",
+      "label": "get_track_row_display_name Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_set_display_name",
+      "label": "set_display_name Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_get_display_name",
+      "label": "get_display_name Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_set_color_tint",
+      "label": "set_color_tint Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_get_color_tint",
+      "label": "get_color_tint Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_add_section",
+      "label": "add_section Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_remove_section",
+      "label": "remove_section Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack_get_sections",
+      "label": "get_sections Method",
+      "file_type": "document",
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gis_plugin_concept",
+      "label": "GIS Data API Plugin",
+      "file_type": "document",
+      "source_file": "MagicGISVectorLayerViewActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin_concept",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin_concept",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin_concept",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NiagaraSimStageExecutionLoopEditorData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinput_plugin_concept",
+      "label": "EnhancedInput Plugin",
+      "file_type": "document",
+      "source_file": "KeyMappingRow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin_concept",
+      "label": "Avalanche Plugin",
+      "file_type": "document",
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "magicgisvectorlayerviewactor_magicgisvectorlayerviewactor",
+      "target": "magicgisvectorlayerviewactor_magicgislayerviewactor",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MagicGISVectorLayerViewActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "magicgisvectorlayerviewactor_magicgisvectorlayerviewactor",
+      "target": "gis_plugin_concept",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MagicGISVectorLayerViewActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcoresystemmode_local_time",
+      "target": "propertyanimatorcoresystemmode_propertyanimatorcoresystemmode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcoresystemmode_utc_time",
+      "target": "propertyanimatorcoresystemmode_propertyanimatorcoresystemmode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcoresystemmode_countdown",
+      "target": "propertyanimatorcoresystemmode_propertyanimatorcoresystemmode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcoresystemmode_stopwatch",
+      "target": "propertyanimatorcoresystemmode_propertyanimatorcoresystemmode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstratasimpleclearcoatbsdf_materialexpressionstratasimpleclearcoatbsdf",
+      "target": "materialexpressionstratasimpleclearcoatbsdf_materialexpressionsubstratesimpleclearcoatbsdf",
+      "relation": "deprecated_alias_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStrataSimpleClearCoatBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motiondesignbroadcastlibrary_motiondesignbroadcastlibrary",
+      "target": "avalanche_plugin_concept",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motiondesignbroadcastlibrary_get_channel_viewport_size",
+      "target": "motiondesignbroadcastlibrary_motiondesignbroadcastlibrary",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motiondesignbroadcastlibrary_get_channel_type",
+      "target": "motiondesignbroadcastlibrary_motiondesignbroadcastlibrary",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motiondesignbroadcastlibrary_get_channel_status",
+      "target": "motiondesignbroadcastlibrary_motiondesignbroadcastlibrary",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motiondesignbroadcastlibrary_get_channel_name",
+      "target": "motiondesignbroadcastlibrary_motiondesignbroadcastlibrary",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motiondesignbroadcastlibrary_get_channel_viewport_size",
+      "target": "motiondesignbroadcastlibrary_get_channel_name",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motiondesignbroadcastlibrary_get_channel_type",
+      "target": "motiondesignbroadcastlibrary_get_channel_status",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MotionDesignBroadcastLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringcontains_rigvmfunction_stringcontains",
+      "target": "rigvm_plugin_concept",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringcontains_name_property",
+      "target": "rigvmfunction_stringcontains_rigvmfunction_stringcontains",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringcontains_search_property",
+      "target": "rigvmfunction_stringcontains_rigvmfunction_stringcontains",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringcontains_result_property",
+      "target": "rigvmfunction_stringcontains_rigvmfunction_stringcontains",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathrbfinterpolatevectorxform_rigunit__mathrbfinterpolatevectorxform",
+      "target": "rigunit__mathrbfinterpolatevectorxform_rigvmfunction_mathrbfinterpolatevectorxform",
+      "relation": "deprecated_alias_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateVectorXform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__hierarchyaddanimationchannelscalevector_rigunit__hierarchyaddanimationchannelscalevector",
+      "target": "controlrig_plugin_concept",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__hierarchyaddanimationchannelscalevector_initial_value",
+      "target": "rigunit__hierarchyaddanimationchannelscalevector_rigunit__hierarchyaddanimationchannelscalevector",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__hierarchyaddanimationchannelscalevector_minimum_value",
+      "target": "rigunit__hierarchyaddanimationchannelscalevector_rigunit__hierarchyaddanimationchannelscalevector",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__hierarchyaddanimationchannelscalevector_maximum_value",
+      "target": "rigunit__hierarchyaddanimationchannelscalevector_rigunit__hierarchyaddanimationchannelscalevector",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__hierarchyaddanimationchannelscalevector_limits_enabled",
+      "target": "rigunit__hierarchyaddanimationchannelscalevector_rigunit__hierarchyaddanimationchannelscalevector",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__hierarchyaddanimationchannelscalevector_minimum_value",
+      "target": "rigunit__hierarchyaddanimationchannelscalevector_maximum_value",
+      "relation": "constrains",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__hierarchyaddanimationchannelscalevector_limits_enabled",
+      "target": "rigunit__hierarchyaddanimationchannelscalevector_minimum_value",
+      "relation": "controls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelScaleVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimstageexecutionloopeditordata_niagarasimstageexecutionloopeditordata",
+      "target": "niagara_plugin_concept",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSimStageExecutionLoopEditorData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendlistbyenum_animnode_blendlistbyenum",
+      "target": "animnode_blendlistbyenum_animnode_blendlistbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_BlendListByEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "keymappingrow_keymappingrow",
+      "target": "enhancedinput_plugin_concept",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KeyMappingRow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "keymappingrow_mappings_property",
+      "target": "keymappingrow_keymappingrow",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KeyMappingRow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modelexportert3d_modelexportert3d",
+      "target": "modelexportert3d_exporter",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelExporterT3D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_set_track_row_display_name",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_get_track_row_display_name",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_set_display_name",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_get_display_name",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_set_color_tint",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_get_color_tint",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_add_section",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_remove_section",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_get_sections",
+      "target": "moviescenetrack_moviescenetrack",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_set_track_row_display_name",
+      "target": "moviescenetrack_get_track_row_display_name",
+      "relation": "complements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_set_display_name",
+      "target": "moviescenetrack_get_display_name",
+      "relation": "complements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_set_color_tint",
+      "target": "moviescenetrack_get_color_tint",
+      "relation": "complements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrack_add_section",
+      "target": "moviescenetrack_remove_section",
+      "relation": "opposes",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvm_plugin_concept",
+      "target": "controlrig_plugin_concept",
+      "relation": "related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_StringContains Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "channel_metadata_methods",
+      "label": "Channel Metadata Access Methods",
+      "nodes": [
+        "motiondesignbroadcastlibrary_get_channel_viewport_size",
+        "motiondesignbroadcastlibrary_get_channel_type",
+        "motiondesignbroadcastlibrary_get_channel_status",
+        "motiondesignbroadcastlibrary_get_channel_name"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MotionDesignBroadcastLibrary Objects.md"
+    },
+    {
+      "id": "display_name_management",
+      "label": "Display Name Management API",
+      "nodes": [
+        "moviescenetrack_set_track_row_display_name",
+        "moviescenetrack_get_track_row_display_name",
+        "moviescenetrack_set_display_name",
+        "moviescenetrack_get_display_name"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneTrack Objects.md"
+    },
+    {
+      "id": "time_source_modes",
+      "label": "Time Source Mode Options",
+      "nodes": [
+        "propertyanimatorcoresystemmode_local_time",
+        "propertyanimatorcoresystemmode_utc_time",
+        "propertyanimatorcoresystemmode_countdown",
+        "propertyanimatorcoresystemmode_stopwatch"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreSystemMode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

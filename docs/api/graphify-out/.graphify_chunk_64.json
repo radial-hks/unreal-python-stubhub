@@ -1,0 +1,485 @@
+{
+  "nodes": [
+    {
+      "id": "unreal.rigvminstructionsetexecutestate",
+      "label": "RigVMInstructionSetExecuteState",
+      "file_type": "document",
+      "source_file": "RigVMInstructionSetExecuteState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RigVMInstructionSetExecuteState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin.rigvm",
+      "label": "Plugin: RigVM",
+      "file_type": "document",
+      "source_file": "RigVMInstructionSetExecuteState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.structiterator",
+      "label": "StructIterator",
+      "file_type": "document",
+      "source_file": "StructIterator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.object",
+      "label": "object",
+      "file_type": "document",
+      "source_file": "StructIterator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.texture2darrayasset",
+      "label": "Texture2DArrayAsset",
+      "file_type": "document",
+      "source_file": "Texture2DArrayAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin.aesbuildercommon",
+      "label": "Plugin: AesBuilderCommon",
+      "file_type": "document",
+      "source_file": "Texture2DArrayAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.enumselector",
+      "label": "EnumSelector",
+      "file_type": "document",
+      "source_file": "EnumSelector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin.pcg",
+      "label": "Plugin: PCG",
+      "file_type": "document",
+      "source_file": "EnumSelector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.runtimevirtualtexturefactory",
+      "label": "RuntimeVirtualTextureFactory",
+      "file_type": "document",
+      "source_file": "RuntimeVirtualTextureFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "RuntimeVirtualTextureFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.asyncimageexport",
+      "label": "AsyncImageExport",
+      "file_type": "document",
+      "source_file": "AsyncImageExport Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.blueprintasyncactionbase",
+      "label": "BlueprintAsyncActionBase",
+      "file_type": "document",
+      "source_file": "AsyncImageExport Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.optimusresourcedescription",
+      "label": "OptimusResourceDescription",
+      "file_type": "document",
+      "source_file": "OptimusResourceDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin.deformergraph",
+      "label": "Plugin: DeformerGraph",
+      "file_type": "document",
+      "source_file": "OptimusResourceDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.rigunit_debugrectangleitemspace",
+      "label": "RigUnit_DebugRectangleItemSpace",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugRectangleItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.rigunit_debugbasemutable",
+      "label": "RigUnit_DebugBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugRectangleItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin.controlrig",
+      "label": "Plugin: ControlRig",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugRectangleItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.mirrorrowtype",
+      "label": "MirrorRowType",
+      "file_type": "document",
+      "source_file": "MirrorRowType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "MirrorRowType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.componentwakesignature",
+      "label": "ComponentWakeSignature",
+      "file_type": "document",
+      "source_file": "ComponentWakeSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "ComponentWakeSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.metahumancustomizablebodypart",
+      "label": "MetaHumanCustomizableBodyPart",
+      "file_type": "document",
+      "source_file": "MetaHumanCustomizableBodyPart Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin.metahumansdk",
+      "label": "Plugin: MetaHumanSDK",
+      "file_type": "document",
+      "source_file": "MetaHumanCustomizableBodyPart Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal.blueprintcamerapose",
+      "label": "BlueprintCameraPose",
+      "file_type": "document",
+      "source_file": "BlueprintCameraPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin.gameplaycameras",
+      "label": "Plugin: GameplayCameras",
+      "file_type": "document",
+      "source_file": "BlueprintCameraPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "unreal.rigvminstructionsetexecutestate",
+      "target": "unreal.structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMInstructionSetExecuteState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.rigvminstructionsetexecutestate",
+      "target": "plugin.rigvm",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMInstructionSetExecuteState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.structiterator",
+      "target": "unreal.object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StructIterator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.texture2darrayasset",
+      "target": "unreal.structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Texture2DArrayAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.texture2darrayasset",
+      "target": "plugin.aesbuildercommon",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Texture2DArrayAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.enumselector",
+      "target": "unreal.structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnumSelector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.enumselector",
+      "target": "plugin.pcg",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnumSelector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.runtimevirtualtexturefactory",
+      "target": "unreal.factory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RuntimeVirtualTextureFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.asyncimageexport",
+      "target": "unreal.blueprintasyncactionbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AsyncImageExport Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.optimusresourcedescription",
+      "target": "unreal.object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusResourceDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.optimusresourcedescription",
+      "target": "plugin.deformergraph",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusResourceDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.rigunit_debugrectangleitemspace",
+      "target": "unreal.rigunit_debugbasemutable",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugRectangleItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.rigunit_debugrectangleitemspace",
+      "target": "plugin.controlrig",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugRectangleItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.mirrorrowtype",
+      "target": "unreal.enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MirrorRowType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.componentwakesignature",
+      "target": "unreal.multicastdelegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentWakeSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.metahumancustomizablebodypart",
+      "target": "unreal.structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaHumanCustomizableBodyPart Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.metahumancustomizablebodypart",
+      "target": "plugin.metahumansdk",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaHumanCustomizableBodyPart Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.blueprintcamerapose",
+      "target": "unreal.structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal.blueprintcamerapose",
+      "target": "plugin.gameplaycameras",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,529 @@
+{
+  "nodes": [
+    {
+      "id": "ToolMenuDynamicGetActionCheckState_class",
+      "label": "ToolMenuDynamicGetActionCheckState",
+      "file_type": "code",
+      "source_file": "ToolMenuDynamicGetActionCheckState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ReplicatedLevelSequenceActor_class",
+      "label": "ReplicatedLevelSequenceActor",
+      "file_type": "code",
+      "source_file": "ReplicatedLevelSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SetDevicePropertyParams_class",
+      "label": "SetDevicePropertyParams",
+      "file_type": "code",
+      "source_file": "SetDevicePropertyParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DataAsset_class",
+      "label": "DataAsset",
+      "file_type": "code",
+      "source_file": "DataAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CreateHeatMapParams_class",
+      "label": "CreateHeatMapParams",
+      "file_type": "code",
+      "source_file": "CreateHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "UpgradeNiagaraScriptResults_class",
+      "label": "UpgradeNiagaraScriptResults",
+      "file_type": "code",
+      "source_file": "UpgradeNiagaraScriptResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InterchangeBaseNodeContainer_class",
+      "label": "InterchangeBaseNodeContainer",
+      "file_type": "code",
+      "source_file": "InterchangeBaseNodeContainer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "TargetingSubsystem_class",
+      "label": "TargetingSubsystem",
+      "file_type": "code",
+      "source_file": "TargetingSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionStaticBool_class",
+      "label": "MaterialExpressionStaticBool",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStaticBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CesiumGlobeAnchorComponent_class",
+      "label": "CesiumGlobeAnchorComponent",
+      "file_type": "code",
+      "source_file": "CesiumGlobeAnchorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WrapBox_class",
+      "label": "WrapBox",
+      "file_type": "code",
+      "source_file": "WrapBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionLandscapeLayerSwitch_class",
+      "label": "MaterialExpressionLandscapeLayerSwitch",
+      "file_type": "code",
+      "source_file": "MaterialExpressionLandscapeLayerSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InputActionAccumulationBehavior_enum",
+      "label": "InputActionAccumulationBehavior",
+      "file_type": "code",
+      "source_file": "InputActionAccumulationBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_MathFloatAsin_class",
+      "label": "RigUnit_MathFloatAsin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatAsin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGAttributeFilterNamesSettings_class",
+      "label": "PCGAttributeFilterNamesSettings",
+      "file_type": "code",
+      "source_file": "PCGAttributeFilterNamesSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "NiagaraModuleScriptFactory_class",
+      "label": "NiagaraModuleScriptFactory",
+      "file_type": "code",
+      "source_file": "NiagaraModuleScriptFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathTransformInverse_class",
+      "label": "RigVMFunction_MathTransformInverse",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformInverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_MathFloatLess_class",
+      "label": "RigUnit_MathFloatLess",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatLess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionDecalMipmapLevel_class",
+      "label": "MaterialExpressionDecalMipmapLevel",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDecalMipmapLevel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PrimaryAssetId_struct",
+      "label": "PrimaryAssetId",
+      "file_type": "code",
+      "source_file": "PrimaryAssetId Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EarthTileInfo_struct",
+      "label": "EarthTileInfo",
+      "file_type": "code",
+      "source_file": "EarthTileInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "BodySetup_class",
+      "label": "BodySetup",
+      "file_type": "code",
+      "source_file": "BodySetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ActivateDevicePropertyParams_class",
+      "label": "ActivateDevicePropertyParams",
+      "file_type": "code",
+      "source_file": "SetDevicePropertyParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "NiagaraPythonScriptModuleInput_type",
+      "label": "NiagaraPythonScriptModuleInput",
+      "file_type": "code",
+      "source_file": "UpgradeNiagaraScriptResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CesiumGeoreference_class",
+      "label": "CesiumGeoreference",
+      "file_type": "code",
+      "source_file": "CesiumGlobeAnchorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "HeatMapData_type",
+      "label": "HeatMapData",
+      "file_type": "code",
+      "source_file": "CreateHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathFloatAsin_class",
+      "label": "RigVMFunction_MathFloatAsin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatAsin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGDeleteAttributesSettings_class",
+      "label": "PCGDeleteAttributesSettings",
+      "file_type": "code",
+      "source_file": "PCGAttributeFilterNamesSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathFloatLess_class",
+      "label": "RigVMFunction_MathFloatLess",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatLess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "ToolMenuDynamicGetActionCheckState_class",
+      "target": "ReplicatedLevelSequenceActor_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ToolMenuDynamicGetActionCheckState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "SetDevicePropertyParams_class",
+      "target": "ActivateDevicePropertyParams_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SetDevicePropertyParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "CreateHeatMapParams_class",
+      "target": "HeatMapData_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "UpgradeNiagaraScriptResults_class",
+      "target": "NiagaraPythonScriptModuleInput_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpgradeNiagaraScriptResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumGlobeAnchorComponent_class",
+      "target": "CesiumGeoreference_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumGlobeAnchorComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_MathFloatAsin_class",
+      "target": "RigVMFunction_MathFloatAsin_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatAsin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGAttributeFilterNamesSettings_class",
+      "target": "PCGDeleteAttributesSettings_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeFilterNamesSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_MathFloatLess_class",
+      "target": "RigVMFunction_MathFloatLess_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatLess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "TargetingSubsystem_class",
+      "target": "WrapBox_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "TargetingSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionStaticBool_class",
+      "target": "MaterialExpressionLandscapeLayerSwitch_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionStaticBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionStaticBool_class",
+      "target": "MaterialExpressionDecalMipmapLevel_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionStaticBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionLandscapeLayerSwitch_class",
+      "target": "MaterialExpressionDecalMipmapLevel_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionLandscapeLayerSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "InputActionAccumulationBehavior_enum",
+      "target": "TargetingSubsystem_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "InputActionAccumulationBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PrimaryAssetId_struct",
+      "target": "DataAsset_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PrimaryAssetId Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EarthTileInfo_struct",
+      "target": "CesiumGlobeAnchorComponent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthTileInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "BodySetup_class",
+      "target": "ReplicatedLevelSequenceActor_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "BodySetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "material_expression_types",
+      "label": "Material Expression Types",
+      "nodes": [
+        "MaterialExpressionStaticBool_class",
+        "MaterialExpressionLandscapeLayerSwitch_class",
+        "MaterialExpressionDecalMipmapLevel_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MaterialExpressionStaticBool Objects.md"
+    },
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Renamed Classes",
+      "nodes": [
+        "SetDevicePropertyParams_class",
+        "RigUnit_MathFloatAsin_class",
+        "PCGAttributeFilterNamesSettings_class",
+        "RigUnit_MathFloatLess_class"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SetDevicePropertyParams Objects.md"
+    },
+    {
+      "id": "geospatial_system",
+      "label": "Geospatial System",
+      "nodes": [
+        "CesiumGlobeAnchorComponent_class",
+        "CesiumGeoreference_class",
+        "EarthTileInfo_struct"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CesiumGlobeAnchorComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

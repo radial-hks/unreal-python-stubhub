@@ -1,0 +1,662 @@
+{
+  "nodes": [
+    {
+      "id": "moviegraphmetadataattribute_class",
+      "label": "MovieGraphMetadataAttribute",
+      "file_type": "document",
+      "source_file": "MovieGraphMetadataAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusvariabledescription_class",
+      "label": "OptimusVariableDescription",
+      "file_type": "document",
+      "source_file": "OptimusVariableDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgroupentity_class",
+      "label": "WdpGroupEntity",
+      "file_type": "document",
+      "source_file": "WdpGroupEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collisionchaoseventbodyinfo_class",
+      "label": "CollisionChaosEventBodyInfo",
+      "file_type": "document",
+      "source_file": "CollisionChaosEventBodyInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "magicgistifflayerviewactor_class",
+      "label": "MagicGISTiffLayerViewActor",
+      "file_type": "document",
+      "source_file": "MagicGISTiffLayerViewActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworktextbase_class",
+      "label": "UIFrameworkTextBase",
+      "file_type": "document",
+      "source_file": "UIFrameworkTextBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linearcolor_class",
+      "label": "LinearColor",
+      "file_type": "document",
+      "source_file": "LinearColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolinteger_class",
+      "label": "RigUnit_SetControlInteger",
+      "file_type": "document",
+      "source_file": "RigUnit__SetControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilityspinbox_class",
+      "label": "EditorUtilitySpinBox",
+      "file_type": "document",
+      "source_file": "EditorUtilitySpinBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendstack_base_class",
+      "label": "AnimGraphNode_BlendStack_Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendStack_Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthinstancedstaticmeshalgorithm_class",
+      "label": "EarthInstancedStaticMeshAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthInstancedStaticMeshAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturecompressionquality_enum",
+      "label": "TextureCompressionQuality",
+      "file_type": "document",
+      "source_file": "TextureCompressionQuality Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleceil_class",
+      "label": "RigUnit_MathDoubleCeil",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloattodouble_class",
+      "label": "RigVMFunction_MathFloatToDouble",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathFloatToDouble Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringreverse_class",
+      "label": "RigVMFunction_StringReverse",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringReverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimuspersistentbufferdataprovider_class",
+      "label": "OptimusPersistentBufferDataProvider",
+      "file_type": "document",
+      "source_file": "OptimusPersistentBufferDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapemeshdata_class",
+      "label": "AvaShapeMeshData",
+      "file_type": "document",
+      "source_file": "AvaShapeMeshData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxfractal3d_class",
+      "label": "MaterialExpressionMaterialXFractal3D",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXFractal3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mappingqueryresult_enum",
+      "label": "MappingQueryResult",
+      "file_type": "document",
+      "source_file": "MappingQueryResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigspline_class",
+      "label": "ControlRigSpline",
+      "file_type": "document",
+      "source_file": "ControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hierarchicallodsetup_class",
+      "label": "HierarchicalLODSetup",
+      "file_type": "document",
+      "source_file": "HierarchicalLODSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeskeletalanimationtracknode_class",
+      "label": "InterchangeSkeletalAnimationTrackNode",
+      "file_type": "document",
+      "source_file": "InterchangeSkeletalAnimationTrackNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moverenderpipeline_plugin",
+      "label": "MovieRenderPipeline Plugin",
+      "file_type": "document",
+      "source_file": "MovieGraphMetadataAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformergraph_plugin",
+      "label": "DeformerGraph Plugin",
+      "file_type": "document",
+      "source_file": "OptimusVariableDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpapplication_plugin",
+      "label": "WdpApplication Plugin",
+      "file_type": "document",
+      "source_file": "WdpGroupEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gisdataapi_plugin",
+      "label": "GISDataAPI Plugin",
+      "file_type": "document",
+      "source_file": "MagicGISTiffLayerViewActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframework_plugin",
+      "label": "UIFramework Plugin",
+      "file_type": "document",
+      "source_file": "UIFrameworkTextBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__SetControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendstack_plugin",
+      "label": "BlendStack Plugin",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendStack_Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthInstancedStaticMeshAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin",
+      "label": "Avalanche Plugin",
+      "file_type": "document",
+      "source_file": "AvaShapeMeshData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_plugin",
+      "label": "Interchange Plugin",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXFractal3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinput_plugin",
+      "label": "EnhancedInput Plugin",
+      "file_type": "document",
+      "source_file": "MappingQueryResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigspline_plugin",
+      "label": "ControlRigSpline Plugin",
+      "file_type": "document",
+      "source_file": "ControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviegraphmetadataattribute_class",
+      "target": "moverenderpipeline_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphMetadataAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusvariabledescription_class",
+      "target": "deformergraph_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusVariableDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgroupentity_class",
+      "target": "wdpapplication_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGroupEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "magicgistifflayerviewactor_class",
+      "target": "gisdataapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MagicGISTiffLayerViewActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworktextbase_class",
+      "target": "uiframework_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkTextBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworktextbase_class",
+      "target": "linearcolor_class",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkTextBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolinteger_class",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendstack_base_class",
+      "target": "blendstack_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendStack_Base Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthinstancedstaticmeshalgorithm_class",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthInstancedStaticMeshAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleceil_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloattodouble_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatToDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringreverse_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringReverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimuspersistentbufferdataprovider_class",
+      "target": "deformergraph_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusPersistentBufferDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashapemeshdata_class",
+      "target": "avalanche_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShapeMeshData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxfractal3d_class",
+      "target": "interchange_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXFractal3D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mappingqueryresult_enum",
+      "target": "enhancedinput_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MappingQueryResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigspline_class",
+      "target": "controlrigspline_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeskeletalanimationtracknode_class",
+      "target": "interchange_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeSkeletalAnimationTrackNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleceil_class",
+      "target": "rigvmfunction_mathfloattodouble_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathDoubleCeil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolinteger_class",
+      "target": "controlrigspline_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__SetControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusvariabledescription_class",
+      "target": "optimuspersistentbufferdataprovider_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "OptimusVariableDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxfractal3d_class",
+      "target": "avashapemeshdata_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "MaterialExpressionMaterialXFractal3D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendstack_base_class",
+      "target": "interchangeskeletalanimationtracknode_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode_BlendStack_Base Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigunit_mathdoubleceil_class",
+        "rigvmfunction_mathfloattodouble_class",
+        "rigvmfunction_stringreverse_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathDoubleCeil Objects.md"
+    },
+    {
+      "id": "deformer_graph_system",
+      "label": "DeformerGraph System Components",
+      "nodes": [
+        "optimusvariabledescription_class",
+        "optimuspersistentbufferdataprovider_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "OptimusVariableDescription Objects.md"
+    },
+    {
+      "id": "interchange_animation_pipeline",
+      "label": "Interchange Animation Pipeline",
+      "nodes": [
+        "interchangeskeletalanimationtracknode_class",
+        "materialexpressionmaterialxfractal3d_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InterchangeSkeletalAnimationTrackNode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

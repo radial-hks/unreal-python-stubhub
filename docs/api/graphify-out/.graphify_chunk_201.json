@@ -1,0 +1,563 @@
+{
+  "nodes": [
+    {
+      "id": "gameplayabilitytargetactor_radius_gameplayabilitytargetactor_radius",
+      "label": "GameplayAbilityTargetActor Radius",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor__Radius Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetactor_radius_radius_property",
+      "label": "Radius Property",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor__Radius Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashape2ddynmeshbase_avashape2ddynmeshbase",
+      "label": "AvaShape2DDynMeshBase",
+      "file_type": "document",
+      "source_file": "AvaShape2DDynMeshBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashape2ddynmeshbase_size2d_property",
+      "label": "Size2D Property",
+      "file_type": "document",
+      "source_file": "AvaShape2DDynMeshBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmcomponentlifestate_dmcomponentlifestate",
+      "label": "DMComponentLifetimeState Enum",
+      "file_type": "document",
+      "source_file": "DMComponentLifetimeState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_timeoffsetfloat_rigunit_timeoffsetfloat",
+      "label": "RigUnit TimeOffsetFloat (Deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit__TimeOffsetFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailproxyrotation_animdetailproxyrotation",
+      "label": "AnimDetailProxyRotation Struct",
+      "file_type": "document",
+      "source_file": "AnimDetailProxyRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massvisualizationcomponent_massvisualizationcomponent",
+      "label": "MassVisualizationComponent",
+      "file_type": "document",
+      "source_file": "MassVisualizationComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "translationunit_translationunit",
+      "label": "TranslationUnit Enum",
+      "file_type": "document",
+      "source_file": "TranslationUnit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "windsourcetype_windsourcetype",
+      "label": "WindSourceType Enum",
+      "file_type": "document",
+      "source_file": "WindSourceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xrcontrollerposetype_xrcontrollerposetype",
+      "label": "XRControllerPoseType Enum",
+      "file_type": "document",
+      "source_file": "XRControllerPoseType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionscenetexture_dmmaterialstageexpressionscenetexture",
+      "label": "DMMaterialStageExpressionSceneTexture",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionSceneTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumflytorotation_cesiumflytorotation",
+      "label": "CesiumFlyToRotation Enum",
+      "file_type": "document",
+      "source_file": "CesiumFlyToRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_getcheckboxstate_widget_getcheckboxstate",
+      "label": "Widget GetCheckBoxState Delegate",
+      "file_type": "document",
+      "source_file": "Widget__GetCheckBoxState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdinstancedstaticmeshcomponent_chaosvdinstancedstaticmeshcomponent",
+      "label": "ChaosVDInstancedStaticMeshComponent",
+      "file_type": "document",
+      "source_file": "ChaosVDInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "label": "RigVMTrait OptimusVariableBase",
+      "file_type": "document",
+      "source_file": "RigVMTrait__OptimusVariableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptrendercapturecamerasforboxoptions_geometryscriptrendercapturecamerasforboxoptions",
+      "label": "GeometryScriptRenderCaptureCamerasForBoxOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptRenderCaptureCamerasForBoxOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectlayerapisetlayerhiddenparams_projectlayerapisetlayerhiddenparams",
+      "label": "ProjectLayerAPISetLayerHiddenParams",
+      "file_type": "document",
+      "source_file": "ProjectLayerAPISetLayerHiddenParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geovectorlayerparams_geovectorlayerparams",
+      "label": "GeoVectorLayerParams",
+      "file_type": "document",
+      "source_file": "GeoVectorLayerParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particleeventmanager_particleeventmanager",
+      "label": "ParticleEventManager Actor",
+      "file_type": "document",
+      "source_file": "ParticleEventManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchybase_rigunit_hierarchybase",
+      "label": "RigUnit HierarchyBase",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentitymodelerdirtyreason_urbanentitymodelerdirtyreason",
+      "label": "UrbanEntityModelerDirtyReason Enum",
+      "file_type": "document",
+      "source_file": "UrbanEntityModelerDirtyReason Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxngondynamicmesh_avatoolboxngondynamicmesh",
+      "label": "AvaToolboxNGonDynamicMesh (Deprecated)",
+      "file_type": "document",
+      "source_file": "AvaToolboxNGonDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textrenderactor_textrenderactor",
+      "label": "TextRenderActor",
+      "file_type": "document",
+      "source_file": "TextRenderActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textrenderactor_text_render_component",
+      "label": "TextRender Component",
+      "file_type": "document",
+      "source_file": "TextRenderActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "gameplayabilitytargetactor_radius_gameplayabilitytargetactor_radius",
+      "target": "gameplayabilitytargetactor_radius_radius_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor__Radius Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilitytargetactor_radius_radius_property",
+      "target": "gameplayabilitytargetactor_radius_gameplayabilitytargetactor_radius",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor__Radius Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashape2ddynmeshbase_avashape2ddynmeshbase",
+      "target": "avashape2ddynmeshbase_size2d_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShape2DDynMeshBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashape2ddynmeshbase_size2d_property",
+      "target": "avashape2ddynmeshbase_avashape2ddynmeshbase",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShape2DDynMeshBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_timeoffsetfloat_rigunit_timeoffsetfloat",
+      "target": "animdetailproxyrotation_animdetailproxyrotation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__TimeOffsetFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailproxyrotation_animdetailproxyrotation",
+      "target": "rigunit_timeoffsetfloat_rigunit_timeoffsetfloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimDetailProxyRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailproxyrotation_animdetailproxyrotation",
+      "target": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimDetailProxyRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "target": "animdetailproxyrotation_animdetailproxyrotation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMTrait__OptimusVariableBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massvisualizationcomponent_massvisualizationcomponent",
+      "target": "chaosvdinstancedstaticmeshcomponent_chaosvdinstancedstaticmeshcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MassVisualizationComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvdinstancedstaticmeshcomponent_chaosvdinstancedstaticmeshcomponent",
+      "target": "massvisualizationcomponent_massvisualizationcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ChaosVDInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmcomponentlifestate_dmcomponentlifestate",
+      "target": "dmmaterialstageexpressionscenetexture_dmmaterialstageexpressionscenetexture",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DMComponentLifetimeState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionscenetexture_dmmaterialstageexpressionscenetexture",
+      "target": "dmcomponentlifestate_dmcomponentlifestate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DMMaterialStageExpressionSceneTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xrcontrollerposetype_xrcontrollerposetype",
+      "target": "cesiumflytorotation_cesiumflytorotation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "XRControllerPoseType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumflytorotation_cesiumflytorotation",
+      "target": "xrcontrollerposetype_xrcontrollerposetype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CesiumFlyToRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrendercapturecamerasforboxoptions_geometryscriptrendercapturecamerasforboxoptions",
+      "target": "textrenderactor_textrenderactor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptRenderCaptureCamerasForBoxOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "textrenderactor_textrenderactor",
+      "target": "textrenderactor_text_render_component",
+      "relation": "has_component",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextRenderActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "textrenderactor_text_render_component",
+      "target": "textrenderactor_textrenderactor",
+      "relation": "component_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextRenderActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchybase_rigunit_hierarchybase",
+      "target": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__HierarchyBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "target": "rigunit_hierarchybase_rigunit_hierarchybase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMTrait__OptimusVariableBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "projectlayerapisetlayerhiddenparams_projectlayerapisetlayerhiddenparams",
+      "target": "geovectorlayerparams_geovectorlayerparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ProjectLayerAPISetLayerHiddenParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geovectorlayerparams_geovectorlayerparams",
+      "target": "projectlayerapisetlayerhiddenparams_projectlayerapisetlayerhiddenparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeoVectorLayerParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particleeventmanager_particleeventmanager",
+      "target": "textrenderactor_textrenderactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ParticleEventManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatoolboxngondynamicmesh_avatoolboxngondynamicmesh",
+      "target": "avashape2ddynmeshbase_avashape2ddynmeshbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AvaToolboxNGonDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashape2ddynmeshbase_avashape2ddynmeshbase",
+      "target": "avatoolboxngondynamicmesh_avatoolboxngondynamicmesh",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AvaShape2DDynMeshBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_animation_system",
+      "label": "Control Rig Animation System",
+      "nodes": [
+        "rigunit_timeoffsetfloat_rigunit_timeoffsetfloat",
+        "animdetailproxyrotation_animdetailproxyrotation",
+        "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+        "rigunit_hierarchybase_rigunit_hierarchybase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__TimeOffsetFloat Objects.md"
+    },
+    {
+      "id": "dynamic_material_system",
+      "label": "Dynamic Material System",
+      "nodes": [
+        "dmcomponentlifestate_dmcomponentlifestate",
+        "dmmaterialstageexpressionscenetexture_dmmaterialstageexpressionscenetexture"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DMComponentLifetimeState Objects.md"
+    },
+    {
+      "id": "spatial_data_layer_management",
+      "label": "Spatial Data Layer Management",
+      "nodes": [
+        "projectlayerapisetlayerhiddenparams_projectlayerapisetlayerhiddenparams",
+        "geovectorlayerparams_geovectorlayerparams"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ProjectLayerAPISetLayerHiddenParams Objects.md"
+    }
+  ],
+  "input_tokens": 15000,
+  "output_tokens": 0
+}

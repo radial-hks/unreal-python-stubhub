@@ -1,0 +1,770 @@
+{
+  "nodes": [
+    {
+      "id": "createrasterparams_batch_createrasterparams_batch",
+      "label": "CreateRasterParams_Batch",
+      "file_type": "code",
+      "source_file": "CreateRasterParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathbooltoggled_rigunit_mathbooltoggled",
+      "label": "RigUnit_MathBoolToggled (Deprecated)",
+      "file_type": "code",
+      "source_file": "RigUnit__MathBoolToggled Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugtransformarraymutableitemspace_rigunit_debugtransformarraymutableitemspace",
+      "label": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "file_type": "code",
+      "source_file": "RigUnit_DebugTransformArrayMutableItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterialmodeleditoronlydatainterface_dynamicmaterialmodeleditoronlydatainterface",
+      "label": "DynamicMaterialModelEditorOnlyDataInterface",
+      "file_type": "code",
+      "source_file": "DynamicMaterialModelEditorOnlyDataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosbreakingsortmethod_chaosbreakingsortmethod",
+      "label": "ChaosBreakingSortMethod",
+      "file_type": "code",
+      "source_file": "ChaosBreakingSortMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldsystemmetadatafilter_fieldsystemmetadatafilter",
+      "label": "FieldSystemMetaDataFilter",
+      "file_type": "code",
+      "source_file": "FieldSystemMetaDataFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapespheredynamicmesh_avashapespheredynamicmesh",
+      "label": "AvaShapeSphereDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaShapeSphereDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgizmocoordaxisdomain_earthgizmocoordaxisdomain",
+      "label": "EarthGizmoCoordAxisDomain",
+      "file_type": "code",
+      "source_file": "EarthGizmoCoordAxisDomain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbiksolversettings_pbiksolversettings",
+      "label": "PBIKSolverSettings",
+      "file_type": "code",
+      "source_file": "PBIKSolverSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescriptingkey_moviescenescriptingkey",
+      "label": "MovieSceneScriptingKey",
+      "file_type": "code",
+      "source_file": "MovieSceneScriptingKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialixtexturesampleblurkernel_materialixtexturesampleblurkernel",
+      "label": "MAterialXTextureSampleBlurKernel",
+      "file_type": "code",
+      "source_file": "MAterialXTextureSampleBlurKernel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "performtargetingready_performtargetingready",
+      "label": "PerformTargetingReady",
+      "file_type": "code",
+      "source_file": "PerformTargetingReady Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeblueprintpipelinebasefactory_interchangeblueprintpipelinebasefactory",
+      "label": "InterchangeBlueprintPipelineBaseFactory",
+      "file_type": "code",
+      "source_file": "InterchangeBlueprintPipelineBaseFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperspriteatlas_paperspriteatlas",
+      "label": "PaperSpriteAtlas",
+      "file_type": "code",
+      "source_file": "PaperSpriteAtlas Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rb_radialforcecomponent_rb_radialforcecomponent",
+      "label": "RB_RadialForceComponent (Deprecated)",
+      "file_type": "code",
+      "source_file": "RB__RadialForceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixelstreaming51cloudaudiocomponent_pixelstreaming51cloudaudiocomponent",
+      "label": "PixelStreaming51CloudAudioComponent",
+      "file_type": "code",
+      "source_file": "PixelStreaming51CloudAudioComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraeffectrendererproperties_niagaraeffectrendererproperties",
+      "label": "NiagaraEffectRendererProperties (Deprecated)",
+      "file_type": "code",
+      "source_file": "NiagaraEffectRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatpow_rigvmfunction_mathfloatpow",
+      "label": "RigVMFunction_MathFloatPow",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatPow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "layer_layer",
+      "label": "Layer",
+      "file_type": "code",
+      "source_file": "Layer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthweightedsubassetinfo_earthweightedsubassetinfo",
+      "label": "EarthWeightedSubAssetInfo",
+      "file_type": "code",
+      "source_file": "EarthWeightedSubAssetInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptpointclusteringoptions_geometryscriptpointclusteringoptions",
+      "label": "GeometryScriptPointClusteringOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptPointClusteringOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmnode_rigvmnode",
+      "label": "RigVMNode",
+      "file_type": "code",
+      "source_file": "RigVMNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": "CreateRasterParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbooltoggled_rigvmfunction_mathbooltoggled",
+      "label": "RigVMFunction_MathBoolToggled",
+      "file_type": "code",
+      "source_file": "RigUnit__MathBoolToggled Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbasemutable_rigunit_debugbasemutable",
+      "label": "RigUnit_DebugBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_DebugTransformArrayMutableItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldsystemmetadata_fieldsystemmetadata",
+      "label": "FieldSystemMetaData",
+      "file_type": "code",
+      "source_file": "FieldSystemMetaDataFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashape3ddynmeshbase_avashape3ddynmeshbase",
+      "label": "AvaShape3DDynMeshBase",
+      "file_type": "code",
+      "source_file": "AvaShapeSphereDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialforcecomponent_radialforcecomponent",
+      "label": "RadialForceComponent",
+      "file_type": "code",
+      "source_file": "RB__RadialForceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererproperties_niagararendererproperties",
+      "label": "NiagaraRendererProperties",
+      "file_type": "code",
+      "source_file": "NiagaraEffectRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+      "label": "RigVMFunction_MathFloatBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatPow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthsubassetinfo_earthsubassetinfo",
+      "label": "EarthSubAssetInfo",
+      "file_type": "code",
+      "source_file": "EarthWeightedSubAssetInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interface_interface",
+      "label": "Interface",
+      "file_type": "code",
+      "source_file": "DynamicMaterialModelEditorOnlyDataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "InterchangeBlueprintPipelineBaseFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent_synthcomponent",
+      "label": "SynthComponent",
+      "file_type": "code",
+      "source_file": "PixelStreaming51CloudAudioComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "MovieSceneScriptingKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_build_concept",
+      "label": "Material Build Concept",
+      "file_type": "code",
+      "source_file": "DynamicMaterialModelEditorOnlyDataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "breaking_event_sorting_concept",
+      "label": "Breaking Event Sorting Concept",
+      "file_type": "code",
+      "source_file": "ChaosBreakingSortMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particle_filtering_concept",
+      "label": "Particle Filtering Concept",
+      "file_type": "code",
+      "source_file": "FieldSystemMetaDataFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ik_solver_configuration_concept",
+      "label": "IK Solver Configuration Concept",
+      "file_type": "code",
+      "source_file": "PBIKSolverSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kmeans_clustering_concept",
+      "label": "K-Means Clustering Concept",
+      "file_type": "code",
+      "source_file": "GeometryScriptPointClusteringOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_graph_node_concept",
+      "label": "RigVM Graph Node Concept",
+      "file_type": "code",
+      "source_file": "RigVMNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sprite_atlas_optimization_concept",
+      "label": "Sprite Atlas Optimization Concept",
+      "file_type": "code",
+      "source_file": "PaperSpriteAtlas Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webrtc_audio_streaming_concept",
+      "label": "WebRTC Audio Streaming Concept",
+      "file_type": "code",
+      "source_file": "PixelStreaming51CloudAudioComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "prefab_weight_system_concept",
+      "label": "Prefab Weight System Concept",
+      "file_type": "code",
+      "source_file": "EarthWeightedSubAssetInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "createrasterparams_batch_createrasterparams_batch",
+      "target": "paramsbase_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateRasterParams__Batch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathbooltoggled_rigunit_mathbooltoggled",
+      "target": "rigvmfunction_mathbooltoggled_rigvmfunction_mathbooltoggled",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathBoolToggled Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformarraymutableitemspace_rigunit_debugtransformarraymutableitemspace",
+      "target": "rigunit_debugbasemutable_rigunit_debugbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugTransformArrayMutableItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodeleditoronlydatainterface_dynamicmaterialmodeleditoronlydatainterface",
+      "target": "interface_interface",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialModelEditorOnlyDataInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldsystemmetadatafilter_fieldsystemmetadatafilter",
+      "target": "fieldsystemmetadata_fieldsystemmetadata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldSystemMetaDataFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashapespheredynamicmesh_avashapespheredynamicmesh",
+      "target": "avashape3ddynmeshbase_avashape3ddynmeshbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShapeSphereDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rb_radialforcecomponent_rb_radialforcecomponent",
+      "target": "radialforcecomponent_radialforcecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RB__RadialForceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pixelstreaming51cloudaudiocomponent_pixelstreaming51cloudaudiocomponent",
+      "target": "synthcomponent_synthcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PixelStreaming51CloudAudioComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraeffectrendererproperties_niagaraeffectrendererproperties",
+      "target": "niagararendererproperties_niagararendererproperties",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraEffectRendererProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatpow_rigvmfunction_mathfloatpow",
+      "target": "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatPow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthweightedsubassetinfo_earthweightedsubassetinfo",
+      "target": "earthsubassetinfo_earthsubassetinfo",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthWeightedSubAssetInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeblueprintpipelinebasefactory_interchangeblueprintpipelinebasefactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeBlueprintPipelineBaseFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescriptingkey_moviescenescriptingkey",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneScriptingKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodeleditoronlydatainterface_dynamicmaterialmodeleditoronlydatainterface",
+      "target": "material_build_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DynamicMaterialModelEditorOnlyDataInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosbreakingsortmethod_chaosbreakingsortmethod",
+      "target": "breaking_event_sorting_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ChaosBreakingSortMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldsystemmetadatafilter_fieldsystemmetadatafilter",
+      "target": "particle_filtering_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FieldSystemMetaDataFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pbiksolversettings_pbiksolversettings",
+      "target": "ik_solver_configuration_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PBIKSolverSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptpointclusteringoptions_geometryscriptpointclusteringoptions",
+      "target": "kmeans_clustering_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptPointClusteringOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmnode_rigvmnode",
+      "target": "rigvm_graph_node_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperspriteatlas_paperspriteatlas",
+      "target": "sprite_atlas_optimization_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PaperSpriteAtlas Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pixelstreaming51cloudaudiocomponent_pixelstreaming51cloudaudiocomponent",
+      "target": "webrtc_audio_streaming_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PixelStreaming51CloudAudioComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthweightedsubassetinfo_earthweightedsubassetinfo",
+      "target": "prefab_weight_system_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthWeightedSubAssetInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmnode_rigvmnode",
+      "target": "rigvmfunction_mathfloatpow_rigvmfunction_mathfloatpow",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmnode_rigvmnode",
+      "target": "rigunit_debugtransformarraymutableitemspace_rigunit_debugtransformarraymutableitemspace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosbreakingsortmethod_chaosbreakingsortmethod",
+      "target": "fieldsystemmetadatafilter_fieldsystemmetadatafilter",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ChaosBreakingSortMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_api_patterns",
+      "label": "Deprecated API Patterns",
+      "nodes": [
+        "rigunit_mathbooltoggled_rigunit_mathbooltoggled",
+        "rb_radialforcecomponent_rb_radialforcecomponent",
+        "niagaraeffectrendererproperties_niagaraeffectrendererproperties"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "rigvm_ecosystem",
+      "label": "RigVM Ecosystem Components",
+      "nodes": [
+        "rigvmnode_rigvmnode",
+        "rigvmfunction_mathfloatpow_rigvmfunction_mathfloatpow",
+        "rigunit_debugtransformarraymutableitemspace_rigunit_debugtransformarraymutableitemspace"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

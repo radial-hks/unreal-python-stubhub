@@ -1,0 +1,368 @@
+{
+  "entities": [
+    {
+      "id": "AnimGraphNode_IdentityPose",
+      "type": "Class",
+      "name": "AnimGraphNode_IdentityPose",
+      "module": "AnimGraph",
+      "properties": [
+        "become_relevant_function",
+        "binding",
+        "initial_update_function",
+        "node",
+        "show_pin_for_properties",
+        "tag",
+        "update_function"
+      ]
+    },
+    {
+      "id": "MaterialExpressionMaterialXDifference",
+      "type": "Class",
+      "name": "MaterialExpressionMaterialXDifference",
+      "module": "InterchangeImport",
+      "properties": [
+        "const_alpha",
+        "desc",
+        "material_expression_editor_x",
+        "material_expression_editor_y"
+      ]
+    },
+    {
+      "id": "AbilitySystemCheatManagerExtension",
+      "type": "Class",
+      "name": "AbilitySystemCheatManagerExtension",
+      "module": "GameplayAbilities",
+      "properties": []
+    },
+    {
+      "id": "WDPScreenPosBoundChangeEventArgs",
+      "type": "Class",
+      "name": "WDPScreenPosBoundChangeEventArgs",
+      "module": "ApplicationAPI",
+      "properties": ["screen_pos_bounds"]
+    },
+    {
+      "id": "CesiumMetadataValue",
+      "type": "Class",
+      "name": "CesiumMetadataValue",
+      "module": "CesiumRuntime",
+      "properties": []
+    },
+    {
+      "id": "AISense_Blueprint",
+      "type": "Class",
+      "name": "AISense_Blueprint",
+      "module": "AIModule",
+      "properties": [
+        "auto_register_all_pawns_as_sources",
+        "listener_container",
+        "listener_data_type",
+        "notify_type",
+        "wants_new_pawn_notification"
+      ]
+    },
+    {
+      "id": "MaterialExpressionFmod",
+      "type": "Class",
+      "name": "MaterialExpressionFmod",
+      "module": "Engine",
+      "properties": [
+        "desc",
+        "material_expression_editor_x",
+        "material_expression_editor_y"
+      ]
+    },
+    {
+      "id": "UserListEntry",
+      "type": "Class",
+      "name": "UserListEntry",
+      "module": "UMG",
+      "properties": []
+    },
+    {
+      "id": "MotionWarpRotationMethod",
+      "type": "Enum",
+      "name": "MotionWarpRotationMethod",
+      "module": "MotionWarping",
+      "values": ["SLERP", "SLERP_WITH_CLAMPED_RATE", "CONSTANT_RATE"]
+    },
+    {
+      "id": "SkeletalPhysicsActor",
+      "type": "Class",
+      "name": "SkeletalPhysicsActor",
+      "module": null,
+      "properties": []
+    },
+    {
+      "id": "FbxImportUI",
+      "type": "Class",
+      "name": "FbxImportUI",
+      "module": "UnrealEd",
+      "properties": [
+        "anim_end_frame",
+        "anim_sequence_import_data",
+        "anim_start_frame",
+        "auto_compute_lod_distances",
+        "automated_import_should_detect_type",
+        "create_physics_asset",
+        "file_axis_direction",
+        "file_creator",
+        "file_creator_application",
+        "file_sample_rate",
+        "file_units",
+        "file_version",
+        "import_animations",
+        "import_as_skeletal",
+        "import_materials",
+        "import_mesh",
+        "import_rigid_mesh",
+        "import_textures",
+        "is_obj_import",
+        "lod_distance0",
+        "lod_distance1",
+        "lod_distance2",
+        "lod_distance3",
+        "lod_distance4",
+        "lod_distance5",
+        "lod_distance6",
+        "lod_distance7",
+        "lod_number",
+        "mesh_type_to_import",
+        "minimum_lod_number",
+        "original_import_type",
+        "override_animation_name",
+        "override_full_name",
+        "physics_asset",
+        "reset_to_fbx_on_material_conflict",
+        "skeletal_mesh_import_data",
+        "skeleton",
+        "static_mesh_import_data",
+        "texture_import_data"
+      ]
+    },
+    {
+      "id": "RigUnit_StringTruncate",
+      "type": "Class",
+      "name": "RigUnit_StringTruncate",
+      "module": null,
+      "properties": []
+    },
+    {
+      "id": "PCGPrintGrammarSettings",
+      "type": "Class",
+      "name": "PCGPrintGrammarSettings",
+      "module": "PCG",
+      "properties": [
+        "break_debugger",
+        "category",
+        "debug",
+        "debug_buffer_size",
+        "debug_settings",
+        "description",
+        "determinism_settings",
+        "dump_cooked_hlsl",
+        "dump_data_descriptions",
+        "enabled",
+        "execute_on_gpu",
+        "expose_to_library",
+        "grammar",
+        "print_shader_debug_values",
+        "seed",
+        "use_seed"
+      ]
+    },
+    {
+      "id": "AudioMaterialEnvelopeStyle",
+      "type": "Class",
+      "name": "AudioMaterialEnvelopeStyle",
+      "module": "AudioWidgets",
+      "properties": [
+        "background_color",
+        "curve_color",
+        "desired_size",
+        "material",
+        "outline_color"
+      ]
+    },
+    {
+      "id": "SphericalLimitType",
+      "type": "Enum",
+      "name": "SphericalLimitType",
+      "module": "AnimGraphRuntime",
+      "values": ["INNER", "OUTER"]
+    },
+    {
+      "id": "RigVMFunction_MathColorMake",
+      "type": "Class",
+      "name": "RigVMFunction_MathColorMake",
+      "module": "RigVM",
+      "properties": ["a", "b", "g", "r", "result"]
+    },
+    {
+      "id": "RigUnit_MathFloatGreater",
+      "type": "Class",
+      "name": "RigUnit_MathFloatGreater",
+      "module": null,
+      "properties": []
+    },
+    {
+      "id": "RigUnit_SwitchParent",
+      "type": "Class",
+      "name": "RigUnit_SwitchParent",
+      "module": "ControlRig",
+      "properties": [
+        "child",
+        "execute_context",
+        "maintain_global",
+        "mode",
+        "parent"
+      ]
+    },
+    {
+      "id": "RigUnit_MathIntClamp",
+      "type": "Class",
+      "name": "RigUnit_MathIntClamp",
+      "module": null,
+      "properties": []
+    },
+    {
+      "id": "FrameTime",
+      "type": "Class",
+      "name": "FrameTime",
+      "module": "CoreUObject",
+      "properties": ["frame_number", "sub_frame"]
+    },
+    {
+      "id": "RigUnit_VisualDebugTransform",
+      "type": "Class",
+      "name": "RigUnit_VisualDebugTransform",
+      "module": "ControlRig",
+      "properties": [
+        "bone_space",
+        "enabled",
+        "scale",
+        "thickness",
+        "value"
+      ]
+    },
+    {
+      "id": "GeometryScriptSetStaticMeshCollisionOptions",
+      "type": "Class",
+      "name": "GeometryScriptSetStaticMeshCollisionOptions",
+      "module": "GeometryScriptingCore",
+      "properties": ["mark_as_customized"]
+    }
+  ],
+  "relations": [
+    {
+      "source": "AnimGraphNode_IdentityPose",
+      "target": "AnimGraphNode_RefPoseBase",
+      "type": "INHERITS"
+    },
+    {
+      "source": "MaterialExpressionMaterialXDifference",
+      "target": "MaterialExpression",
+      "type": "INHERITS"
+    },
+    {
+      "source": "AbilitySystemCheatManagerExtension",
+      "target": "CheatManagerExtension",
+      "type": "INHERITS"
+    },
+    {
+      "source": "WDPScreenPosBoundChangeEventArgs",
+      "target": "EventArgsBase",
+      "type": "INHERITS"
+    },
+    {
+      "source": "CesiumMetadataValue",
+      "target": "StructBase",
+      "type": "INHERITS"
+    },
+    {
+      "source": "AISense_Blueprint",
+      "target": "AISense",
+      "type": "INHERITS"
+    },
+    {
+      "source": "MaterialExpressionFmod",
+      "target": "MaterialExpression",
+      "type": "INHERITS"
+    },
+    {
+      "source": "UserListEntry",
+      "target": "Interface",
+      "type": "INHERITS"
+    },
+    {
+      "source": "MotionWarpRotationMethod",
+      "target": "EnumBase",
+      "type": "INHERITS"
+    },
+    {
+      "source": "SkeletalPhysicsActor",
+      "target": "SkeletalMeshActor",
+      "type": "INHERITS"
+    },
+    {
+      "source": "FbxImportUI",
+      "target": "Object",
+      "type": "INHERITS"
+    },
+    {
+      "source": "RigUnit_StringTruncate",
+      "target": "RigVMFunction_StringTruncate",
+      "type": "INHERITS"
+    },
+    {
+      "source": "PCGPrintGrammarSettings",
+      "target": "PCGSettings",
+      "type": "INHERITS"
+    },
+    {
+      "source": "AudioMaterialEnvelopeStyle",
+      "target": "AudioMaterialWidgetStyle",
+      "type": "INHERITS"
+    },
+    {
+      "source": "SphericalLimitType",
+      "target": "EnumBase",
+      "type": "INHERITS"
+    },
+    {
+      "source": "RigVMFunction_MathColorMake",
+      "target": "RigVMFunction_MathColorBase",
+      "type": "INHERITS"
+    },
+    {
+      "source": "RigUnit_MathFloatGreater",
+      "target": "RigVMFunction_MathFloatGreater",
+      "type": "INHERITS"
+    },
+    {
+      "source": "RigUnit_SwitchParent",
+      "target": "RigUnit_DynamicHierarchyBaseMutable",
+      "type": "INHERITS"
+    },
+    {
+      "source": "RigUnit_MathIntClamp",
+      "target": "RigVMFunction_MathIntClamp",
+      "type": "INHERITS"
+    },
+    {
+      "source": "FrameTime",
+      "target": "StructBase",
+      "type": "INHERITS"
+    },
+    {
+      "source": "RigUnit_VisualDebugTransform",
+      "target": "RigUnit_DebugBase",
+      "type": "INHERITS"
+    },
+    {
+      "source": "GeometryScriptSetStaticMeshCollisionOptions",
+      "target": "StructBase",
+      "type": "INHERITS"
+    }
+  ]
+}

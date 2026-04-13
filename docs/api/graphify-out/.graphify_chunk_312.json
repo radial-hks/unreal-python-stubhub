@@ -1,0 +1,395 @@
+{
+  "nodes": [
+    {
+      "id": "wdpscreenposboundapi_wdpscreenposboundapi",
+      "label": "WdpScreenPosBoundAPI",
+      "file_type": "code",
+      "source_file": "WdpScreenPosBoundAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "minimapentity_minimapentity",
+      "label": "MiniMapEntity",
+      "file_type": "code",
+      "source_file": "MiniMapEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundbuilderoptions_metasoundbuilderoptions",
+      "label": "MetaSoundBuilderOptions",
+      "file_type": "code",
+      "source_file": "MetaSoundBuilderOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller_onanykeyrotatevalueupdated_wdpplayercontroller_onanykeyrotatevalueupdated",
+      "label": "WdpPlayerController_OnAnyKeyRotateValueUpdated",
+      "file_type": "code",
+      "source_file": "WdpPlayerController__OnAnyKeyRotateValueUpdated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparambase_niagarapreviewaxis_interpparambase",
+      "label": "NiagaraPreviewAxis_InterpParamBase",
+      "file_type": "code",
+      "source_file": "NiagaraPreviewAxis__InterpParamBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+      "label": "RigVMFunction_MathFloatBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundoutputblueprintaccess_metasoundoutputblueprintaccess",
+      "label": "MetasoundOutputBlueprintAccess",
+      "file_type": "code",
+      "source_file": "MetasoundOutputBlueprintAccess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "crsimpointintegratetype_crsimpointintegratetype",
+      "label": "CRSimPointIntegrateType",
+      "file_type": "code",
+      "source_file": "CRSimPointIntegrateType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaymodmagnitudescalculation_gameplaymodmagnitudescalculation",
+      "label": "GameplayModMagnitudeCalculation",
+      "file_type": "code",
+      "source_file": "GameplayModMagnitudeCalculation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudimportsettings_ascii_columns_lidarpointcloudimportsettings_ascii_columns",
+      "label": "LidarPointCloudImportSettings_ASCII_Columns",
+      "file_type": "code",
+      "source_file": "LidarPointCloudImportSettings__ASCII__Columns Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lensdistortionstate_lensdistortionstate",
+      "label": "LensDistortionState",
+      "file_type": "code",
+      "source_file": "LensDistortionState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgloadalembicfunctionlibrary_pcgloadalembicfunctionlibrary",
+      "label": "PCGLoadAlembicFunctionLibrary",
+      "file_type": "code",
+      "source_file": "PCGLoadAlembicFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneeventtriggersection_moviesceneeventtriggersection",
+      "label": "MovieSceneEventTriggerSection",
+      "file_type": "code",
+      "source_file": "MovieSceneEventTriggerSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "batchexportoptions_batchexportoptions",
+      "label": "BatchExportOptions",
+      "file_type": "code",
+      "source_file": "BatchExportOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiolinkblueprintinterface_audiolinkblueprintinterface",
+      "label": "AudioLinkBlueprintInterface",
+      "file_type": "code",
+      "source_file": "AudioLinkBlueprintInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "customprimitivedata_customprimitivedata",
+      "label": "CustomPrimitiveData",
+      "file_type": "code",
+      "source_file": "CustomPrimitiveData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inlineeditabletextblockstyle_inlineeditabletextblockstyle",
+      "label": "InlineEditableTextBlockStyle",
+      "file_type": "code",
+      "source_file": "InlineEditableTextBlockStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendmultiply_dmmaterialstageblendmultiply",
+      "label": "DMMaterialStageBlendMultiply",
+      "file_type": "code",
+      "source_file": "DMMaterialStageBlendMultiply Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshdescription_staticmeshdescription",
+      "label": "StaticMeshDescription",
+      "file_type": "code",
+      "source_file": "StaticMeshDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "btdecorator_blueprintbase_btdecorator_blueprintbase",
+      "label": "BTDecorator_BlueprintBase",
+      "file_type": "code",
+      "source_file": "BTDecorator__BlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpswitchnoderesponseparam_dcpswitchnoderesponseparam",
+      "label": "DCPSwitchNodeResponseParam",
+      "file_type": "code",
+      "source_file": "DCPSwitchNodeResponseParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brusheffectsmoothblending_brusheffectsmoothblending",
+      "label": "BrushEffectSmoothBlending",
+      "file_type": "code",
+      "source_file": "BrushEffectSmoothBlending Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "wdpscreenposboundapi_wdpscreenposboundapi",
+      "target": "metasoundoutputblueprintaccess_metasoundoutputblueprintaccess",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WdpScreenPosBoundAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundoutputblueprintaccess_metasoundoutputblueprintaccess",
+      "target": "metasoundbuilderoptions_metasoundbuilderoptions",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MetasoundOutputBlueprintAccess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "crsimpointintegratetype_crsimpointintegratetype",
+      "target": "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CRSimPointIntegrateType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaymodmagnitudescalculation_gameplaymodmagnitudescalculation",
+      "target": "metasoundoutputblueprintaccess_metasoundoutputblueprintaccess",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GameplayModMagnitudeCalculation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticmeshdescription_staticmeshdescription",
+      "target": "customprimitivedata_customprimitivedata",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "StaticMeshDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgloadalembicfunctionlibrary_pcgloadalembicfunctionlibrary",
+      "target": "staticmeshdescription_staticmeshdescription",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGLoadAlembicFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendmultiply_dmmaterialstageblendmultiply",
+      "target": "staticmeshdescription_staticmeshdescription",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DMMaterialStageBlendMultiply Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "batchexportoptions_batchexportoptions",
+      "target": "pcgloadalembicfunctionlibrary_pcgloadalembicfunctionlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "BatchExportOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lensdistortionstate_lensdistortionstate",
+      "target": "minimapentity_minimapentity",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "LensDistortionState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneeventtriggersection_moviesceneeventtriggersection",
+      "target": "audiolinkblueprintinterface_audiolinkblueprintinterface",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieSceneEventTriggerSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "btdecorator_blueprintbase_btdecorator_blueprintbase",
+      "target": "wdpplayercontroller_onanykeyrotatevalueupdated_wdpplayercontroller_onanykeyrotatevalueupdated",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "BTDecorator__BlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparambase_niagarapreviewaxis_interpparambase",
+      "target": "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NiagaraPreviewAxis__InterpParamBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "metasound_output_type_handling",
+      "label": "MetaSound Output Type Handling",
+      "nodes": [
+        "metasoundoutputblueprintaccess_metasoundoutputblueprintaccess",
+        "metasoundbuilderoptions_metasoundbuilderoptions"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MetasoundOutputBlueprintAccess Objects.md"
+    },
+    {
+      "id": "unreal_editor_styling_system",
+      "label": "Unreal Editor Styling System",
+      "nodes": [
+        "inlineeditabletextblockstyle_inlineeditabletextblockstyle"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InlineEditableTextBlockStyle Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

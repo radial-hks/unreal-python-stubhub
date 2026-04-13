@@ -1,0 +1,1367 @@
+{
+  "nodes": [
+    {
+      "id": "TakeRecorderSources",
+      "type": "class",
+      "label": "TakeRecorderSources",
+      "properties": {
+        "inherits_from": "Object",
+        "module": "TakesCore",
+        "plugin": "Takes",
+        "file": "TakeRecorderSources.h",
+        "description": "A list of sources to record for any given take"
+      }
+    },
+    {
+      "id": "TakeRecorderSources.start_recording_source",
+      "type": "method",
+      "label": "start_recording_source",
+      "properties": {
+        "class": "TakeRecorderSources",
+        "returns": "None"
+      }
+    },
+    {
+      "id": "TakeRecorderSources.remove_source",
+      "type": "method",
+      "label": "remove_source",
+      "properties": {
+        "class": "TakeRecorderSources",
+        "returns": "None"
+      }
+    },
+    {
+      "id": "TakeRecorderSources.get_sources_copy",
+      "type": "method",
+      "label": "get_sources_copy",
+      "properties": {
+        "class": "TakeRecorderSources",
+        "returns": "Array[TakeRecorderSource]"
+      }
+    },
+    {
+      "id": "TakeRecorderSources.add_source",
+      "type": "method",
+      "label": "add_source",
+      "properties": {
+        "class": "TakeRecorderSources",
+        "returns": "TakeRecorderSource"
+      }
+    },
+    {
+      "id": "LiveLinkMetaData",
+      "type": "class",
+      "label": "LiveLinkMetaData",
+      "properties": {
+        "inherits_from": "StructBase",
+        "module": "LiveLinkInterface",
+        "file": "LiveLinkTypes.h",
+        "description": "Live Link Meta Data"
+      }
+    },
+    {
+      "id": "LiveLinkMetaData.string_meta_data",
+      "type": "property",
+      "label": "string_meta_data",
+      "properties": {
+        "class": "LiveLinkMetaData",
+        "type": "Map[Name, str]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "LiveLinkMetaData.scene_time",
+      "type": "property",
+      "label": "scene_time",
+      "properties": {
+        "class": "LiveLinkMetaData",
+        "type": "QualifiedTime",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "SoundConcurrencyFactory",
+      "type": "class",
+      "label": "SoundConcurrencyFactory",
+      "properties": {
+        "inherits_from": "Factory",
+        "module": "AudioEditor",
+        "file": "SoundConcurrencyFactory.h"
+      }
+    },
+    {
+      "id": "SoundConcurrencyFactory.asset_import_task",
+      "type": "property",
+      "label": "asset_import_task",
+      "properties": {
+        "class": "SoundConcurrencyFactory",
+        "type": "AssetImportTask",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "SoundConcurrencyFactory.automated_import_data",
+      "type": "property",
+      "label": "automated_import_data",
+      "properties": {
+        "class": "SoundConcurrencyFactory",
+        "type": "AutomatedAssetImportData",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "SoundConcurrencyFactory.context_class",
+      "type": "property",
+      "label": "context_class",
+      "properties": {
+        "class": "SoundConcurrencyFactory",
+        "type": "type(Class)",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MovieSceneFadeTrack",
+      "type": "class",
+      "label": "MovieSceneFadeTrack",
+      "properties": {
+        "inherits_from": "MovieSceneFloatTrack",
+        "module": "MovieSceneTracks",
+        "file": "MovieSceneFadeTrack.h",
+        "description": "Implements a movie scene track that controls a fade"
+      }
+    },
+    {
+      "id": "MovieSceneFadeTrack.condition_container",
+      "type": "property",
+      "label": "condition_container",
+      "properties": {
+        "class": "MovieSceneFadeTrack",
+        "type": "MovieSceneConditionContainer",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MovieSceneFadeTrack.display_name",
+      "type": "property",
+      "label": "display_name",
+      "properties": {
+        "class": "MovieSceneFadeTrack",
+        "type": "Text",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MovieSceneFadeTrack.display_options",
+      "type": "property",
+      "label": "display_options",
+      "properties": {
+        "class": "MovieSceneFadeTrack",
+        "type": "MovieSceneTrackDisplayOptions",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "CesiumMetadataArray",
+      "type": "class",
+      "label": "CesiumMetadataArray",
+      "properties": {
+        "inherits_from": "CesiumPropertyArray",
+        "deprecated": true,
+        "deprecated_message": "'CesiumMetadataArray' was renamed to 'CesiumPropertyArray'"
+      }
+    },
+    {
+      "id": "AnimGraphNode_RotationOffsetBlendSpace",
+      "type": "class",
+      "label": "AnimGraphNode_RotationOffsetBlendSpace",
+      "properties": {
+        "inherits_from": "AnimGraphNode_BlendSpaceBase",
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_RotationOffsetBlendSpace.h"
+      }
+    },
+    {
+      "id": "AnimGraphNode_RotationOffsetBlendSpace.node",
+      "type": "property",
+      "label": "node",
+      "properties": {
+        "class": "AnimGraphNode_RotationOffsetBlendSpace",
+        "type": "AnimNode_RotationOffsetBlendSpace",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimGraphNode_RotationOffsetBlendSpace.tag",
+      "type": "property",
+      "label": "tag",
+      "properties": {
+        "class": "AnimGraphNode_RotationOffsetBlendSpace",
+        "type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MovieSceneConsoleVariableCollection",
+      "type": "class",
+      "label": "MovieSceneConsoleVariableCollection",
+      "properties": {
+        "inherits_from": "StructBase",
+        "module": "MovieSceneTracks",
+        "file": "MovieSceneCVarSection.h"
+      }
+    },
+    {
+      "id": "MovieSceneConsoleVariableCollection.interface",
+      "type": "property",
+      "label": "interface",
+      "properties": {
+        "class": "MovieSceneConsoleVariableCollection",
+        "type": "MovieSceneConsoleVariableTrackInterface",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MovieSceneConsoleVariableCollection.only_include_checked",
+      "type": "property",
+      "label": "only_include_checked",
+      "properties": {
+        "class": "MovieSceneConsoleVariableCollection",
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AesVegetationEditorCommandParams_Paint",
+      "type": "class",
+      "label": "AesVegetationEditorCommandParams_Paint",
+      "properties": {
+        "inherits_from": "AesEditorSimpleCommandParams",
+        "plugin": "AesWorld",
+        "module": "AesEditorMode",
+        "file": "AesVegetationEditorAction_Paint.h"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationCluster",
+      "type": "class",
+      "label": "DisplayClusterConfigurationCluster",
+      "properties": {
+        "inherits_from": "DisplayClusterConfigurationData_Base",
+        "plugin": "nDisplay",
+        "module": "DisplayClusterConfiguration",
+        "file": "DisplayClusterConfigurationTypes.h"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationCluster.failover",
+      "type": "property",
+      "label": "failover",
+      "properties": {
+        "class": "DisplayClusterConfigurationCluster",
+        "type": "DisplayClusterConfigurationFailoverSettings",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationCluster.network",
+      "type": "property",
+      "label": "network",
+      "properties": {
+        "class": "DisplayClusterConfigurationCluster",
+        "type": "DisplayClusterConfigurationNetworkSettings",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationCluster.nodes",
+      "type": "property",
+      "label": "nodes",
+      "properties": {
+        "class": "DisplayClusterConfigurationCluster",
+        "type": "Map[str, DisplayClusterConfigurationClusterNode]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationCluster.get_referenced_mesh_names",
+      "type": "method",
+      "label": "get_referenced_mesh_names",
+      "properties": {
+        "class": "DisplayClusterConfigurationCluster",
+        "returns": "Array[str]"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationCluster.get_node_ids",
+      "type": "method",
+      "label": "get_node_ids",
+      "properties": {
+        "class": "DisplayClusterConfigurationCluster",
+        "returns": "Array[str]"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationCluster.get_node",
+      "type": "method",
+      "label": "get_node",
+      "properties": {
+        "class": "DisplayClusterConfigurationCluster",
+        "returns": "DisplayClusterConfigurationClusterNode"
+      }
+    },
+    {
+      "id": "PixelStreamer51CloudInputComponent_OnLargeString_BP",
+      "type": "class",
+      "label": "PixelStreamer51CloudInputComponent_OnLargeString_BP",
+      "properties": {
+        "inherits_from": "MulticastDelegateBase",
+        "plugin": "PixelStreaming51Cloud",
+        "module": "PixelStreaming51Cloud",
+        "file": "PixelStreaming51CloudInputComponent.h",
+        "description": "The BP delegate which will be notified about a large data as string"
+      }
+    },
+    {
+      "id": "EarthTagFragment",
+      "type": "class",
+      "label": "EarthTagFragment",
+      "properties": {
+        "inherits_from": "EarthPropertyFragment",
+        "plugin": "AesWorld",
+        "module": "EarthPrefab",
+        "file": "EarthCommonFragments.h",
+        "description": "定义标签数据片段的结构体"
+      }
+    },
+    {
+      "id": "EarthTagFragment.tags",
+      "type": "property",
+      "label": "tags",
+      "properties": {
+        "class": "EarthTagFragment",
+        "type": "Array[Name]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "EarthTagFragment.valid",
+      "type": "property",
+      "label": "valid",
+      "properties": {
+        "class": "EarthTagFragment",
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathTransformUnaryOp",
+      "properties": {
+        "inherits_from": "RigVMFunction_MathTransformBase",
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathTransform.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformUnaryOp.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "class": "RigVMFunction_MathTransformUnaryOp",
+        "type": "Transform",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformUnaryOp.result",
+      "type": "property",
+      "label": "result",
+      "properties": {
+        "class": "RigVMFunction_MathTransformUnaryOp",
+        "type": "Transform",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "AvaClonerAxis",
+      "type": "class",
+      "label": "AvaClonerAxis",
+      "properties": {
+        "inherits_from": "EnumBase",
+        "deprecated": true,
+        "deprecated_message": "'AvaClonerAxis' was renamed to 'CEClonerAxis'"
+      }
+    },
+    {
+      "id": "AvaClonerAxis.X",
+      "type": "enum_value",
+      "label": "X",
+      "properties": {
+        "class": "AvaClonerAxis",
+        "value": 0
+      }
+    },
+    {
+      "id": "AvaClonerAxis.Y",
+      "type": "enum_value",
+      "label": "Y",
+      "properties": {
+        "class": "AvaClonerAxis",
+        "value": 1
+      }
+    },
+    {
+      "id": "AvaClonerAxis.Z",
+      "type": "enum_value",
+      "label": "Z",
+      "properties": {
+        "class": "AvaClonerAxis",
+        "value": 2
+      }
+    },
+    {
+      "id": "AvaClonerAxis.CUSTOM",
+      "type": "enum_value",
+      "label": "CUSTOM",
+      "properties": {
+        "class": "AvaClonerAxis",
+        "value": 3
+      }
+    },
+    {
+      "id": "PCGSplineMeshParams",
+      "type": "class",
+      "label": "PCGSplineMeshParams",
+      "properties": {
+        "inherits_from": "StructBase",
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGSplineMeshParams.h"
+      }
+    },
+    {
+      "id": "PCGSplineMeshParams.forward_axis",
+      "type": "property",
+      "label": "forward_axis",
+      "properties": {
+        "class": "PCGSplineMeshParams",
+        "type": "PCGSplineMeshForwardAxis",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "PCGSplineMeshParams.scale_mesh_to_bounds",
+      "type": "property",
+      "label": "scale_mesh_to_bounds",
+      "properties": {
+        "class": "PCGSplineMeshParams",
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "PCGSplineMeshParams.spline_up_dir",
+      "type": "property",
+      "label": "spline_up_dir",
+      "properties": {
+        "class": "PCGSplineMeshParams",
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "GeometryScript_UVs",
+      "type": "class",
+      "label": "GeometryScript_UVs",
+      "properties": {
+        "inherits_from": "BlueprintFunctionLibrary",
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingCore",
+        "file": "MeshUVFunctions.h",
+        "description": "Geometry Script Library Mesh UVFunctions"
+      }
+    },
+    {
+      "id": "GeometryScript_UVs.translate_mesh_u_vs",
+      "type": "method",
+      "label": "translate_mesh_u_vs",
+      "properties": {
+        "class": "GeometryScript_UVs",
+        "returns": "DynamicMesh",
+        "static": true
+      }
+    },
+    {
+      "id": "GeometryScript_UVs.set_num_uv_sets",
+      "type": "method",
+      "label": "set_num_uv_sets",
+      "properties": {
+        "class": "GeometryScript_UVs",
+        "returns": "DynamicMesh",
+        "static": true
+      }
+    },
+    {
+      "id": "GeometryScript_UVs.rotate_mesh_u_vs",
+      "type": "method",
+      "label": "rotate_mesh_u_vs",
+      "properties": {
+        "class": "GeometryScript_UVs",
+        "returns": "DynamicMesh",
+        "static": true
+      }
+    },
+    {
+      "id": "GeometryScript_UVs.scale_mesh_u_vs",
+      "type": "method",
+      "label": "scale_mesh_u_vs",
+      "properties": {
+        "class": "GeometryScript_UVs",
+        "returns": "DynamicMesh",
+        "static": true
+      }
+    },
+    {
+      "id": "GeometryScript_UVs.repack_mesh_u_vs",
+      "type": "method",
+      "label": "repack_mesh_u_vs",
+      "properties": {
+        "class": "GeometryScript_UVs",
+        "returns": "DynamicMesh",
+        "static": true
+      }
+    },
+    {
+      "id": "glTFRuntimeAssetActor",
+      "type": "class",
+      "label": "glTFRuntimeAssetActor",
+      "properties": {
+        "inherits_from": "Actor",
+        "plugin": "AesWorld",
+        "module": "glTFRuntime",
+        "file": "glTFRuntimeAssetActor.h"
+      }
+    },
+    {
+      "id": "glTFRuntimeAssetActor.asset",
+      "type": "property",
+      "label": "asset",
+      "properties": {
+        "class": "glTFRuntimeAssetActor",
+        "type": "glTFRuntimeAsset",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "glTFRuntimeAssetActor.asset_root",
+      "type": "property",
+      "label": "asset_root",
+      "properties": {
+        "class": "glTFRuntimeAssetActor",
+        "type": "SceneComponent",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "glTFRuntimeAssetActor.allow_cameras",
+      "type": "property",
+      "label": "allow_cameras",
+      "properties": {
+        "class": "glTFRuntimeAssetActor",
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "glTFRuntimeAssetActor.allow_lights",
+      "type": "property",
+      "label": "allow_lights",
+      "properties": {
+        "class": "glTFRuntimeAssetActor",
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "glTFRuntimeAssetActor.set_curve_animation_by_name",
+      "type": "method",
+      "label": "set_curve_animation_by_name",
+      "properties": {
+        "class": "glTFRuntimeAssetActor",
+        "returns": "None"
+      }
+    },
+    {
+      "id": "glTFRuntimeAssetActor.get_skeletal_animation_by_name",
+      "type": "method",
+      "label": "get_skeletal_animation_by_name",
+      "properties": {
+        "class": "glTFRuntimeAssetActor",
+        "returns": "AnimSequence"
+      }
+    },
+    {
+      "id": "RootMotionModifier_Scale",
+      "type": "class",
+      "label": "RootMotionModifier_Scale",
+      "properties": {
+        "inherits_from": "RootMotionModifier",
+        "plugin": "MotionWarping",
+        "module": "MotionWarping",
+        "file": "RootMotionModifier.h"
+      }
+    },
+    {
+      "id": "RootMotionModifier_Scale.scale",
+      "type": "property",
+      "label": "scale",
+      "properties": {
+        "class": "RootMotionModifier_Scale",
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RootMotionModifier_Scale.add_root_motion_modifier_scale",
+      "type": "method",
+      "label": "add_root_motion_modifier_scale",
+      "properties": {
+        "class": "RootMotionModifier_Scale",
+        "returns": "RootMotionModifier_Scale",
+        "static": true
+      }
+    },
+    {
+      "id": "GeometryScriptIndexList",
+      "type": "class",
+      "label": "GeometryScriptIndexList",
+      "properties": {
+        "inherits_from": "StructBase",
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingCore",
+        "file": "GeometryScriptTypes.h"
+      }
+    },
+    {
+      "id": "GeometryScriptIndexList.index_type",
+      "type": "property",
+      "label": "index_type",
+      "properties": {
+        "class": "GeometryScriptIndexList",
+        "type": "GeometryScriptIndexType",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "GeometryScriptIndexList.set_index_list_item",
+      "type": "method",
+      "label": "set_index_list_item",
+      "properties": {
+        "class": "GeometryScriptIndexList",
+        "returns": "bool"
+      }
+    },
+    {
+      "id": "GeometryScriptIndexList.get_index_list_length",
+      "type": "method",
+      "label": "get_index_list_length",
+      "properties": {
+        "class": "GeometryScriptIndexList",
+        "returns": "int"
+      }
+    },
+    {
+      "id": "GeometryScriptIndexList.convert_index_list_to_array",
+      "type": "method",
+      "label": "convert_index_list_to_array",
+      "properties": {
+        "class": "GeometryScriptIndexList",
+        "returns": "Array[int]"
+      }
+    },
+    {
+      "id": "MoviePipeline",
+      "type": "class",
+      "label": "MoviePipeline",
+      "properties": {
+        "inherits_from": "MoviePipelineBase",
+        "plugin": "MovieRenderPipeline",
+        "module": "MovieRenderPipelineCore",
+        "file": "MoviePipeline.h"
+      }
+    },
+    {
+      "id": "MoviePipeline.initialize",
+      "type": "method",
+      "label": "initialize",
+      "properties": {
+        "class": "MoviePipeline",
+        "returns": "None"
+      }
+    },
+    {
+      "id": "MoviePipeline.get_preview_texture",
+      "type": "method",
+      "label": "get_preview_texture",
+      "properties": {
+        "class": "MoviePipeline",
+        "returns": "Texture"
+      }
+    },
+    {
+      "id": "MoviePipeline.get_pipeline_primary_config",
+      "type": "method",
+      "label": "get_pipeline_primary_config",
+      "properties": {
+        "class": "MoviePipeline",
+        "returns": "MoviePipelinePrimaryConfig"
+      }
+    },
+    {
+      "id": "MoviePipeline.get_current_job",
+      "type": "method",
+      "label": "get_current_job",
+      "properties": {
+        "class": "MoviePipeline",
+        "returns": "MoviePipelineExecutorJob"
+      }
+    },
+    {
+      "id": "AnimNode_ApplyMeshSpaceAdditive",
+      "type": "class",
+      "label": "AnimNode_ApplyMeshSpaceAdditive",
+      "properties": {
+        "inherits_from": "AnimNode_Base",
+        "module": "Engine",
+        "file": "AnimNode_ApplyMeshSpaceAdditive.h"
+      }
+    },
+    {
+      "id": "AnimNode_ApplyMeshSpaceAdditive.base",
+      "type": "property",
+      "label": "base",
+      "properties": {
+        "class": "AnimNode_ApplyMeshSpaceAdditive",
+        "type": "PoseLink",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimNode_ApplyMeshSpaceAdditive.additive",
+      "type": "property",
+      "label": "additive",
+      "properties": {
+        "class": "AnimNode_ApplyMeshSpaceAdditive",
+        "type": "PoseLink",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimNode_ApplyMeshSpaceAdditive.alpha",
+      "type": "property",
+      "label": "alpha",
+      "properties": {
+        "class": "AnimNode_ApplyMeshSpaceAdditive",
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimNode_ApplyMeshSpaceAdditive.alpha_input_type",
+      "type": "property",
+      "label": "alpha_input_type",
+      "properties": {
+        "class": "AnimNode_ApplyMeshSpaceAdditive",
+        "type": "AnimAlphaInputType",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimNode_SequenceEvaluator_Standalone",
+      "type": "class",
+      "label": "AnimNode_SequenceEvaluator_Standalone",
+      "properties": {
+        "inherits_from": "AnimNode_SequenceEvaluatorBase",
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_SequenceEvaluator.h",
+        "description": "Sequence evaluator node that can be used standalone (without constant folding)"
+      }
+    },
+    {
+      "id": "AnimNode_SequenceEvaluator_Standalone.sequence",
+      "type": "property",
+      "label": "sequence",
+      "properties": {
+        "class": "AnimNode_SequenceEvaluator_Standalone",
+        "type": "AnimSequenceBase",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimNode_SequenceEvaluator_Standalone.explicit_time",
+      "type": "property",
+      "label": "explicit_time",
+      "properties": {
+        "class": "AnimNode_SequenceEvaluator_Standalone",
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimNode_SequenceEvaluator_Standalone.should_loop",
+      "type": "property",
+      "label": "should_loop",
+      "properties": {
+        "class": "AnimNode_SequenceEvaluator_Standalone",
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "PCGManagedISMComponent",
+      "type": "class",
+      "label": "PCGManagedISMComponent",
+      "properties": {
+        "inherits_from": "PCGManagedComponent",
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGManagedResource.h"
+      }
+    },
+    {
+      "id": "PCGManagedISMComponent.generated_component",
+      "type": "property",
+      "label": "generated_component",
+      "properties": {
+        "class": "PCGManagedISMComponent",
+        "type": "ActorComponent",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "PCGManagedISMComponent.is_marked_unused",
+      "type": "property",
+      "label": "is_marked_unused",
+      "properties": {
+        "class": "PCGManagedISMComponent",
+        "type": "bool",
+        "access": "Read-Only"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "TakeRecorderSources",
+      "target": "Object",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_2",
+      "source": "TakeRecorderSources.start_recording_source",
+      "target": "TakeRecorderSources",
+      "label": "method_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_3",
+      "source": "LiveLinkMetaData",
+      "target": "StructBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_4",
+      "source": "LiveLinkMetaData.string_meta_data",
+      "target": "LiveLinkMetaData",
+      "label": "property_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_5",
+      "source": "SoundConcurrencyFactory",
+      "target": "Factory",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_6",
+      "source": "MovieSceneFadeTrack",
+      "target": "MovieSceneFloatTrack",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_7",
+      "source": "CesiumMetadataArray",
+      "target": "CesiumPropertyArray",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_8",
+      "source": "AnimGraphNode_RotationOffsetBlendSpace",
+      "target": "AnimGraphNode_BlendSpaceBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_9",
+      "source": "MovieSceneConsoleVariableCollection",
+      "target": "StructBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_10",
+      "source": "AesVegetationEditorCommandParams_Paint",
+      "target": "AesEditorSimpleCommandParams",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_11",
+      "source": "DisplayClusterConfigurationCluster",
+      "target": "DisplayClusterConfigurationData_Base",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_12",
+      "source": "DisplayClusterConfigurationCluster.get_node",
+      "target": "DisplayClusterConfigurationCluster",
+      "label": "method_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_13",
+      "source": "PixelStreamer51CloudInputComponent_OnLargeString_BP",
+      "target": "MulticastDelegateBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_14",
+      "source": "EarthTagFragment",
+      "target": "EarthPropertyFragment",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_15",
+      "source": "EarthTagFragment.tags",
+      "target": "EarthTagFragment",
+      "label": "property_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_16",
+      "source": "RigVMFunction_MathTransformUnaryOp",
+      "target": "RigVMFunction_MathTransformBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_17",
+      "source": "AvaClonerAxis",
+      "target": "EnumBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_18",
+      "source": "AvaClonerAxis.X",
+      "target": "AvaClonerAxis",
+      "label": "enum_value_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_19",
+      "source": "PCGSplineMeshParams",
+      "target": "StructBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_20",
+      "source": "PCGSplineMeshParams.forward_axis",
+      "target": "PCGSplineMeshParams",
+      "label": "property_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_21",
+      "source": "GeometryScript_UVs",
+      "target": "BlueprintFunctionLibrary",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_22",
+      "source": "GeometryScript_UVs.translate_mesh_u_vs",
+      "target": "GeometryScript_UVs",
+      "label": "method_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_23",
+      "source": "glTFRuntimeAssetActor",
+      "target": "Actor",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_24",
+      "source": "glTFRuntimeAssetActor.asset",
+      "target": "glTFRuntimeAssetActor",
+      "label": "property_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_25",
+      "source": "glTFRuntimeAssetActor.get_skeletal_animation_by_name",
+      "target": "glTFRuntimeAssetActor",
+      "label": "method_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_26",
+      "source": "RootMotionModifier_Scale",
+      "target": "RootMotionModifier",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_27",
+      "source": "RootMotionModifier_Scale.scale",
+      "target": "RootMotionModifier_Scale",
+      "label": "property_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_28",
+      "source": "GeometryScriptIndexList",
+      "target": "StructBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_29",
+      "source": "GeometryScriptIndexList.get_index_list_length",
+      "target": "GeometryScriptIndexList",
+      "label": "method_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_30",
+      "source": "MoviePipeline",
+      "target": "MoviePipelineBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_31",
+      "source": "MoviePipeline.initialize",
+      "target": "MoviePipeline",
+      "label": "method_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_32",
+      "source": "AnimNode_ApplyMeshSpaceAdditive",
+      "target": "AnimNode_Base",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_33",
+      "source": "AnimNode_ApplyMeshSpaceAdditive.base",
+      "target": "AnimNode_ApplyMeshSpaceAdditive",
+      "label": "property_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_34",
+      "source": "AnimNode_SequenceEvaluator_Standalone",
+      "target": "AnimNode_SequenceEvaluatorBase",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_35",
+      "source": "AnimNode_SequenceEvaluator_Standalone.sequence",
+      "target": "AnimNode_SequenceEvaluator_Standalone",
+      "label": "property_of",
+      "type": "membership"
+    },
+    {
+      "id": "edge_36",
+      "source": "PCGManagedISMComponent",
+      "target": "PCGManagedComponent",
+      "label": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "id": "edge_37",
+      "source": "PCGManagedISMComponent.generated_component",
+      "target": "PCGManagedISMComponent",
+      "label": "property_of",
+      "type": "membership"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "nodes": [
+        "TakeRecorderSources.start_recording_source",
+        "TakeRecorderSources",
+        "Array[TakeRecorderSource]",
+        "QualifiedTime"
+      ],
+      "label": "method_signature",
+      "description": "start_recording_source takes Array[TakeRecorderSource] and QualifiedTime as parameters"
+    },
+    {
+      "id": "hyperedge_2",
+      "nodes": [
+        "LiveLinkMetaData",
+        "LiveLinkMetaData.string_meta_data",
+        "LiveLinkMetaData.scene_time"
+      ],
+      "label": "class_properties_group",
+      "description": "LiveLinkMetaData has string_meta_data and scene_time as editor properties"
+    },
+    {
+      "id": "hyperedge_3",
+      "nodes": [
+        "MovieSceneFadeTrack",
+        "MovieSceneFadeTrack.condition_container",
+        "MovieSceneFadeTrack.display_name",
+        "MovieSceneFadeTrack.display_options"
+      ],
+      "label": "class_properties_group",
+      "description": "MovieSceneFadeTrack has multiple editor properties for track configuration"
+    },
+    {
+      "id": "hyperedge_4",
+      "nodes": [
+        "DisplayClusterConfigurationCluster",
+        "DisplayClusterConfigurationCluster.failover",
+        "DisplayClusterConfigurationCluster.network",
+        "DisplayClusterConfigurationCluster.nodes"
+      ],
+      "label": "cluster_configuration",
+      "description": "DisplayClusterConfigurationCluster manages failover, network, and nodes configuration"
+    },
+    {
+      "id": "hyperedge_5",
+      "nodes": [
+        "GeometryScript_UVs",
+        "GeometryScript_UVs.translate_mesh_u_vs",
+        "GeometryScript_UVs.rotate_mesh_u_vs",
+        "GeometryScript_UVs.scale_mesh_u_vs",
+        "GeometryScript_UVs.repack_mesh_u_vs"
+      ],
+      "label": "uv_transformation_methods",
+      "description": "GeometryScript_UVs provides multiple UV transformation methods"
+    },
+    {
+      "id": "hyperedge_6",
+      "nodes": [
+        "glTFRuntimeAssetActor",
+        "glTFRuntimeAssetActor.allow_cameras",
+        "glTFRuntimeAssetActor.allow_lights",
+        "glTFRuntimeAssetActor.allow_skeletal_animations"
+      ],
+      "label": "asset_loading_options",
+      "description": "glTFRuntimeAssetActor controls what types of content to load from glTF assets"
+    },
+    {
+      "id": "hyperedge_7",
+      "nodes": [
+        "AnimNode_ApplyMeshSpaceAdditive",
+        "AnimNode_ApplyMeshSpaceAdditive.base",
+        "AnimNode_ApplyMeshSpaceAdditive.additive",
+        "AnimNode_ApplyMeshSpaceAdditive.alpha"
+      ],
+      "label": "animation_blending",
+      "description": "AnimNode_ApplyMeshSpaceAdditive blends base and additive poses with alpha control"
+    },
+    {
+      "id": "hyperedge_8",
+      "nodes": [
+        "RootMotionModifier_Scale.add_root_motion_modifier_scale",
+        "RootMotionModifier_Scale",
+        "MotionWarpingComponent",
+        "AnimSequenceBase"
+      ],
+      "label": "factory_method_pattern",
+      "description": "Static factory method creates RootMotionModifier_Scale with MotionWarpingComponent and AnimSequenceBase"
+    },
+    {
+      "id": "hyperedge_9",
+      "nodes": [
+        "AvaClonerAxis",
+        "AvaClonerAxis.X",
+        "AvaClonerAxis.Y",
+        "AvaClonerAxis.Z",
+        "AvaClonerAxis.CUSTOM"
+      ],
+      "label": "enum_values",
+      "description": "AvaClonerAxis enum defines X, Y, Z, and CUSTOM axis options"
+    },
+    {
+      "id": "hyperedge_10",
+      "nodes": [
+        "MoviePipeline",
+        "MoviePipeline.initialize",
+        "MoviePipeline.get_preview_texture",
+        "MoviePipeline.get_pipeline_primary_config",
+        "MoviePipeline.get_current_job"
+      ],
+      "label": "pipeline_workflow",
+      "description": "MoviePipeline provides workflow methods for initialization and job management"
+    },
+    {
+      "id": "hyperedge_11",
+      "nodes": [
+        "PCGSplineMeshParams",
+        "PCGSplineMeshParams.forward_axis",
+        "PCGSplineMeshParams.scale_mesh_to_bounds",
+        "PCGSplineMeshParams.spline_boundary_min",
+        "PCGSplineMeshParams.spline_boundary_max"
+      ],
+      "label": "spline_mesh_configuration",
+      "description": "PCGSplineMeshParams configures spline mesh generation with forward axis, scaling, and boundary options"
+    },
+    {
+      "id": "hyperedge_12",
+      "nodes": [
+        "GeometryScriptIndexList",
+        "GeometryScriptIndexList.set_index_list_item",
+        "GeometryScriptIndexList.get_index_list_length",
+        "GeometryScriptIndexList.convert_index_list_to_array"
+      ],
+      "label": "index_list_operations",
+      "description": "GeometryScriptIndexList provides operations for manipulating index lists"
+    },
+    {
+      "id": "hyperedge_13",
+      "nodes": [
+        "TakeRecorderSources",
+        "TakeRecorderSources.add_source",
+        "TakeRecorderSources.remove_source",
+        "TakeRecorderSources.get_sources_copy"
+      ],
+      "label": "source_management",
+      "description": "TakeRecorderSources manages recording sources with add, remove, and get operations"
+    },
+    {
+      "id": "hyperedge_14",
+      "nodes": [
+        "CesiumMetadataArray",
+        "CesiumPropertyArray"
+      ],
+      "label": "deprecation_rename",
+      "description": "CesiumMetadataArray was renamed to CesiumPropertyArray"
+    },
+    {
+      "id": "hyperedge_15",
+      "nodes": [
+        "AvaClonerAxis",
+        "CEClonerAxis"
+      ],
+      "label": "deprecation_rename",
+      "description": "AvaClonerAxis was renamed to CEClonerAxis"
+    },
+    {
+      "id": "hyperedge_16",
+      "nodes": [
+        "EarthTagFragment",
+        "EarthTagFragment.tags",
+        "EarthTagFragment.valid",
+        "EarthTagFragment.validated"
+      ],
+      "label": "tag_fragment_structure",
+      "description": "EarthTagFragment contains tags array with validity tracking"
+    },
+    {
+      "id": "hyperedge_17",
+      "nodes": [
+        "RigVMFunction_MathTransformUnaryOp",
+        "RigVMFunction_MathTransformUnaryOp.value",
+        "RigVMFunction_MathTransformUnaryOp.result"
+      ],
+      "label": "transform_operation",
+      "description": "RigVMFunction_MathTransformUnaryOp transforms input value to result"
+    },
+    {
+      "id": "hyperedge_18",
+      "nodes": [
+        "AnimNode_SequenceEvaluator_Standalone",
+        "AnimNode_SequenceEvaluator_Standalone.sequence",
+        "AnimNode_SequenceEvaluator_Standalone.explicit_time",
+        "AnimNode_SequenceEvaluator_Standalone.should_loop"
+      ],
+      "label": "sequence_evaluation",
+      "description": "AnimNode_SequenceEvaluator_Standalone evaluates animation sequence with time and loop controls"
+    },
+    {
+      "id": "hyperedge_19",
+      "nodes": [
+        "DisplayClusterConfigurationCluster",
+        "DisplayClusterConfigurationCluster.get_referenced_mesh_names",
+        "DisplayClusterConfigurationCluster.get_node_ids",
+        "DisplayClusterConfigurationCluster.get_node"
+      ],
+      "label": "cluster_query_methods",
+      "description": "DisplayClusterConfigurationCluster provides query methods for mesh names and node information"
+    },
+    {
+      "id": "hyperedge_20",
+      "nodes": [
+        "glTFRuntimeAssetActor",
+        "glTFRuntimeAssetActor.static_mesh_config",
+        "glTFRuntimeAssetActor.skeletal_mesh_config",
+        "glTFRuntimeAssetActor.skeletal_animation_config"
+      ],
+      "label": "gltf_asset_configuration",
+      "description": "glTFRuntimeAssetActor has configuration options for static meshes, skeletal meshes, and animations"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "TakeRecorderSources Objects.md",
+      "LiveLinkMetaData Objects.md",
+      "SoundConcurrencyFactory Objects.md",
+      "MovieSceneFadeTrack Objects.md",
+      "CesiumMetadataArray Objects.md",
+      "AnimGraphNode__RotationOffsetBlendSpace Objects.md",
+      "MovieSceneConsoleVariableCollection Objects.md",
+      "AesVegetationEditorCommandParams__Paint Objects.md",
+      "DisplayClusterConfigurationCluster Objects.md",
+      "PixelStreamer51CloudInputComponent__OnLargeString__BP Objects.md",
+      "EarthTagFragment Objects.md",
+      "RigVMFunction__MathTransformUnaryOp Objects.md",
+      "AvaClonerAxis Objects.md",
+      "PCGSplineMeshParams Objects.md",
+      "GeometryScript_UVs Objects.md",
+      "glTFRuntimeAssetActor Objects.md",
+      "RootMotionModifier_Scale Objects.md",
+      "GeometryScriptIndexList Objects.md",
+      "MoviePipeline Objects.md",
+      "AnimNode_ApplyMeshSpaceAdditive Objects.md",
+      "AnimNode__SequenceEvaluator__Standalone Objects.md",
+      "PCGManagedISMComponent Objects.md"
+    ],
+    "total_classes": 22,
+    "total_methods": 25,
+    "total_properties": 46,
+    "total_enum_values": 4,
+    "chunk_id": 604,
+    "generated_at": "2026-04-12"
+  }
+}

@@ -1,0 +1,762 @@
+{
+  "chunk_id": 105,
+  "files_processed": [
+    "RigUnit__MathTransformMul Objects.md",
+    "NamedCurveValue Objects.md",
+    "RigBaseElement Objects.md",
+    "CEClonerStepExtension Objects.md",
+    "RigUnit__MathQuaternionUnaryOp Objects.md",
+    "InterchangeTextureCubeArrayNode Objects.md",
+    "GeometryScriptGridSizingMethod Objects.md",
+    "MaterialExpressionTextureProperty Objects.md",
+    "RigUnit__GetCurrentNameSpace Objects.md",
+    "RichImageRow Objects.md",
+    "RigUnit__SetShapeTransform Objects.md",
+    "GeometryScriptBlurMeshVertexColorsOptions Objects.md"
+  ],
+  "entities": [
+    {
+      "id": "RigUnit_MathTransformMul",
+      "type": "class",
+      "name": "RigUnit_MathTransformMul",
+      "base_class": "RigVMFunction_MathTransformMul",
+      "deprecated": true,
+      "deprecation_message": "'RigUnit_MathTransformMul' was renamed to 'RigVMFunction_MathTransformMul'",
+      "properties": [
+        {
+          "name": "a",
+          "type": "Transform",
+          "default_value": "[[0.000000, 0.000000, 0.000000], [-0.000000, 0.000000, 0.000000], [1.000000, 1.000000, 1.000000]]"
+        },
+        {
+          "name": "b",
+          "type": "Transform",
+          "default_value": "[[0.000000, 0.000000, 0.000000], [-0.000000, 0.000000, 0.000000], [1.000000, 1.000000, 1.000000]]"
+        },
+        {
+          "name": "result",
+          "type": "Transform",
+          "default_value": "[[0.000000, 0.000000, 0.000000], [-0.000000, 0.000000, 0.000000], [1.000000, 1.000000, 1.000000]]"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": ["a: Transform", "b: Transform", "result: Transform"],
+          "return_type": "None"
+        }
+      ]
+    },
+    {
+      "id": "NamedCurveValue",
+      "type": "class",
+      "name": "NamedCurveValue",
+      "base_class": "StructBase",
+      "description": "Name/value pair for retrieving curve values",
+      "cpp_source": {
+        "module": "Engine",
+        "file": "CurveSourceInterface.h"
+      },
+      "properties": [
+        {
+          "name": "name",
+          "type": "Name",
+          "access": "read-write",
+          "description": "The name of the curve",
+          "default_value": "\"None\""
+        },
+        {
+          "name": "value",
+          "type": "float",
+          "access": "read-write",
+          "description": "The value of the curve",
+          "default_value": "0.000000"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": ["name: Name", "value: float"],
+          "return_type": "None"
+        },
+        {
+          "name": "name",
+          "type": "property_getter",
+          "return_type": "Name"
+        },
+        {
+          "name": "name",
+          "type": "property_setter",
+          "parameters": ["value: Name"],
+          "return_type": "None"
+        },
+        {
+          "name": "value",
+          "type": "property_getter",
+          "return_type": "float"
+        },
+        {
+          "name": "value",
+          "type": "property_setter",
+          "parameters": ["value: float"],
+          "return_type": "None"
+        }
+      ]
+    },
+    {
+      "id": "RigBaseElement",
+      "type": "class",
+      "name": "RigBaseElement",
+      "base_class": "StructBase",
+      "description": "Rig Base Element",
+      "cpp_source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigHierarchyElements.h"
+      },
+      "properties": [
+        {
+          "name": "created_at_instruction_index",
+          "type": "int32",
+          "access": "read-write"
+        },
+        {
+          "name": "index",
+          "type": "int32",
+          "access": "read-only"
+        },
+        {
+          "name": "key",
+          "type": "RigElementKey",
+          "access": "read-only"
+        },
+        {
+          "name": "selected",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "sub_index",
+          "type": "int32",
+          "access": "read-only"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": ["key: RigElementKey", "index: int", "sub_index: int", "created_at_instruction_index: int", "selected: bool"],
+          "return_type": "None"
+        },
+        {
+          "name": "key",
+          "type": "property_getter",
+          "return_type": "RigElementKey"
+        },
+        {
+          "name": "index",
+          "type": "property_getter",
+          "return_type": "int"
+        },
+        {
+          "name": "sub_index",
+          "type": "property_getter",
+          "return_type": "int"
+        },
+        {
+          "name": "created_at_instruction_index",
+          "type": "property_getter",
+          "return_type": "int"
+        },
+        {
+          "name": "selected",
+          "type": "property_getter",
+          "return_type": "bool"
+        }
+      ]
+    },
+    {
+      "id": "CEClonerStepExtension",
+      "type": "class",
+      "name": "CEClonerStepExtension",
+      "base_class": "CEClonerExtensionBase",
+      "description": "Extension dealing with delta step accumulated options",
+      "cpp_source": {
+        "plugin": "ClonerEffector",
+        "module": "ClonerEffector",
+        "file": "CEClonerStepExtension.h"
+      },
+      "properties": [
+        {
+          "name": "delta_step_enabled",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Enable steps to add delta variation on each clone instance"
+        },
+        {
+          "name": "delta_step_position",
+          "type": "Vector",
+          "access": "read-write",
+          "description": "Amount of position difference between one step and the next one"
+        },
+        {
+          "name": "delta_step_rotation",
+          "type": "Rotator",
+          "access": "read-write",
+          "description": "Amount of rotation difference between one step and the next one"
+        },
+        {
+          "name": "delta_step_scale",
+          "type": "Vector",
+          "access": "read-write",
+          "description": "Amount of scale difference between one step and the next one"
+        }
+      ],
+      "methods": [
+        {
+          "name": "set_delta_step_scale",
+          "parameters": ["scale: Vector"],
+          "return_type": "None",
+          "description": "Set Delta Step Scale"
+        },
+        {
+          "name": "set_delta_step_rotation",
+          "parameters": ["rotation: Rotator"],
+          "return_type": "None",
+          "description": "Set Delta Step Rotation"
+        },
+        {
+          "name": "set_delta_step_position",
+          "parameters": ["position: Vector"],
+          "return_type": "None",
+          "description": "Set Delta Step Position"
+        },
+        {
+          "name": "set_delta_step_enabled",
+          "parameters": ["enabled: bool"],
+          "return_type": "None",
+          "description": "Set Delta Step Enabled"
+        },
+        {
+          "name": "get_delta_step_scale",
+          "parameters": [],
+          "return_type": "Vector",
+          "description": "Get Delta Step Scale"
+        },
+        {
+          "name": "get_delta_step_rotation",
+          "parameters": [],
+          "return_type": "Rotator",
+          "description": "Get Delta Step Rotation"
+        },
+        {
+          "name": "get_delta_step_position",
+          "parameters": [],
+          "return_type": "Vector",
+          "description": "Get Delta Step Position"
+        },
+        {
+          "name": "get_delta_step_enabled",
+          "parameters": [],
+          "return_type": "bool",
+          "description": "Get Delta Step Enabled"
+        }
+      ]
+    },
+    {
+      "id": "RigUnit_MathQuaternionUnaryOp",
+      "type": "class",
+      "name": "RigUnit_MathQuaternionUnaryOp",
+      "base_class": "RigVMFunction_MathQuaternionUnaryOp",
+      "deprecated": true,
+      "deprecation_message": "'RigUnit_MathQuaternionUnaryOp' was renamed to 'RigVMFunction_MathQuaternionUnaryOp'",
+      "properties": [
+        {
+          "name": "value",
+          "type": "Quat",
+          "default_value": "[0.000000, 0.000000, 0.000000, 1.000000]"
+        },
+        {
+          "name": "result",
+          "type": "Quat",
+          "default_value": "[0.000000, 0.000000, 0.000000, 1.000000]"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": ["value: Quat", "result: Quat"],
+          "return_type": "None"
+        }
+      ]
+    },
+    {
+      "id": "InterchangeTextureCubeArrayNode",
+      "type": "class",
+      "name": "InterchangeTextureCubeArrayNode",
+      "base_class": "InterchangeTextureNode",
+      "description": "Interchange Texture Cube Array Node",
+      "cpp_source": {
+        "plugin": "Interchange",
+        "module": "InterchangeNodes",
+        "file": "InterchangeTextureCubeArrayNode.h"
+      },
+      "properties": [],
+      "methods": []
+    },
+    {
+      "id": "GeometryScriptGridSizingMethod",
+      "type": "enum",
+      "name": "GeometryScriptGridSizingMethod",
+      "base_class": "EnumBase",
+      "description": "EGeometry Script Grid Sizing Method",
+      "cpp_source": {
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingCore",
+        "file": "MeshVoxelFunctions.h"
+      },
+      "values": [
+        {
+          "name": "GRID_CELL_SIZE",
+          "value": 0
+        },
+        {
+          "name": "GRID_RESOLUTION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "MaterialExpressionTextureProperty",
+      "type": "class",
+      "name": "MaterialExpressionTextureProperty",
+      "base_class": "MaterialExpression",
+      "description": "Material Expression Texture Property",
+      "cpp_source": {
+        "module": "Engine",
+        "file": "MaterialExpressionTextureProperty.h"
+      },
+      "properties": [
+        {
+          "name": "desc",
+          "type": "str",
+          "access": "read-write",
+          "description": "A description that level designers can add (shows in the material editor UI)"
+        },
+        {
+          "name": "material_expression_editor_x",
+          "type": "int32",
+          "access": "read-write"
+        },
+        {
+          "name": "material_expression_editor_y",
+          "type": "int32",
+          "access": "read-write"
+        },
+        {
+          "name": "property_",
+          "type": "MaterialExposedTextureProperty",
+          "access": "read-write",
+          "description": "Texture property to be accessed"
+        }
+      ],
+      "methods": []
+    },
+    {
+      "id": "RigUnit_GetCurrentNameSpace",
+      "type": "class",
+      "name": "RigUnit_GetCurrentNameSpace",
+      "base_class": "RigUnit_RigModulesBase",
+      "description": "Returns the currently used namespace of the module",
+      "cpp_source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_RigModules.h"
+      },
+      "properties": [
+        {
+          "name": "name_space",
+          "type": "str",
+          "access": "read-write",
+          "description": "The current namespace of the rig module"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": ["name_space: str"],
+          "return_type": "None"
+        },
+        {
+          "name": "name_space",
+          "type": "property_getter",
+          "return_type": "str"
+        }
+      ]
+    },
+    {
+      "id": "RichImageRow",
+      "type": "class",
+      "name": "RichImageRow",
+      "base_class": "TableRowBase",
+      "description": "Simple struct for rich text styles",
+      "cpp_source": {
+        "module": "UMG",
+        "file": "RichTextBlockImageDecorator.h"
+      },
+      "properties": [
+        {
+          "name": "brush",
+          "type": "SlateBrush",
+          "access": "read-write"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": [],
+          "return_type": "None"
+        }
+      ]
+    },
+    {
+      "id": "RigUnit_SetShapeTransform",
+      "type": "class",
+      "name": "RigUnit_SetShapeTransform",
+      "base_class": "RigUnitMutable",
+      "description": "SetShapeTransform is used to perform a change in the hierarchy by setting a single control's shape transform. This is typically only used during the Construction Event.",
+      "cpp_source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_SetControlOffset.h"
+      },
+      "properties": [
+        {
+          "name": "control",
+          "type": "Name",
+          "access": "read-write",
+          "description": "The name of the Control to set the transform for"
+        },
+        {
+          "name": "execute_context",
+          "type": "ControlRigExecuteContext",
+          "access": "read-write",
+          "description": "This property is used to chain multiple mutable units together"
+        },
+        {
+          "name": "transform",
+          "type": "Transform",
+          "access": "read-write",
+          "description": "The shape transform to set for the control"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": ["execute_context: ControlRigExecuteContext", "control: Name", "transform: Transform"],
+          "return_type": "None"
+        },
+        {
+          "name": "control",
+          "type": "property_getter",
+          "return_type": "Name"
+        },
+        {
+          "name": "control",
+          "type": "property_setter",
+          "parameters": ["value: Name"],
+          "return_type": "None"
+        },
+        {
+          "name": "transform",
+          "type": "property_getter",
+          "return_type": "Transform"
+        },
+        {
+          "name": "transform",
+          "type": "property_setter",
+          "parameters": ["value: Transform"],
+          "return_type": "None"
+        }
+      ]
+    },
+    {
+      "id": "GeometryScriptBlurMeshVertexColorsOptions",
+      "type": "class",
+      "name": "GeometryScriptBlurMeshVertexColorsOptions",
+      "base_class": "StructBase",
+      "description": "Geometry Script Blur Mesh Vertex Colors Options",
+      "cpp_source": {
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingCore",
+        "file": "MeshVertexColorFunctions.h"
+      },
+      "properties": [
+        {
+          "name": "alpha",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Blur alpha channel"
+        },
+        {
+          "name": "blue",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Blur blue channel"
+        },
+        {
+          "name": "green",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Blur green channel"
+        },
+        {
+          "name": "red",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Blur red channel"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": ["red: bool", "green: bool", "blue: bool", "alpha: bool"],
+          "return_type": "None"
+        },
+        {
+          "name": "red",
+          "type": "property_getter",
+          "return_type": "bool"
+        },
+        {
+          "name": "red",
+          "type": "property_setter",
+          "parameters": ["value: bool"],
+          "return_type": "None"
+        },
+        {
+          "name": "green",
+          "type": "property_getter",
+          "return_type": "bool"
+        },
+        {
+          "name": "green",
+          "type": "property_setter",
+          "parameters": ["value: bool"],
+          "return_type": "None"
+        },
+        {
+          "name": "blue",
+          "type": "property_getter",
+          "return_type": "bool"
+        },
+        {
+          "name": "blue",
+          "type": "property_setter",
+          "parameters": ["value: bool"],
+          "return_type": "None"
+        },
+        {
+          "name": "alpha",
+          "type": "property_getter",
+          "return_type": "bool"
+        },
+        {
+          "name": "alpha",
+          "type": "property_setter",
+          "parameters": ["value: bool"],
+          "return_type": "None"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "RigUnit_MathTransformMul",
+      "to": "RigVMFunction_MathTransformMul",
+      "type": "inherits_from",
+      "deprecated": true
+    },
+    {
+      "from": "NamedCurveValue",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "NamedCurveValue",
+      "to": "Name",
+      "type": "uses_type",
+      "context": "property: name"
+    },
+    {
+      "from": "NamedCurveValue",
+      "to": "float",
+      "type": "uses_type",
+      "context": "property: value"
+    },
+    {
+      "from": "RigBaseElement",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigBaseElement",
+      "to": "RigElementKey",
+      "type": "uses_type",
+      "context": "property: key"
+    },
+    {
+      "from": "CEClonerStepExtension",
+      "to": "CEClonerExtensionBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "CEClonerStepExtension",
+      "to": "Vector",
+      "type": "uses_type",
+      "context": "properties: delta_step_position, delta_step_scale"
+    },
+    {
+      "from": "CEClonerStepExtension",
+      "to": "Rotator",
+      "type": "uses_type",
+      "context": "property: delta_step_rotation"
+    },
+    {
+      "from": "RigUnit_MathQuaternionUnaryOp",
+      "to": "RigVMFunction_MathQuaternionUnaryOp",
+      "type": "inherits_from",
+      "deprecated": true
+    },
+    {
+      "from": "RigUnit_MathQuaternionUnaryOp",
+      "to": "Quat",
+      "type": "uses_type",
+      "context": "properties: value, result"
+    },
+    {
+      "from": "InterchangeTextureCubeArrayNode",
+      "to": "InterchangeTextureNode",
+      "type": "inherits_from"
+    },
+    {
+      "from": "GeometryScriptGridSizingMethod",
+      "to": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "MaterialExpressionTextureProperty",
+      "to": "MaterialExpression",
+      "type": "inherits_from"
+    },
+    {
+      "from": "MaterialExpressionTextureProperty",
+      "to": "MaterialExposedTextureProperty",
+      "type": "uses_type",
+      "context": "property: property_"
+    },
+    {
+      "from": "RigUnit_GetCurrentNameSpace",
+      "to": "RigUnit_RigModulesBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RichImageRow",
+      "to": "TableRowBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RichImageRow",
+      "to": "SlateBrush",
+      "type": "uses_type",
+      "context": "property: brush"
+    },
+    {
+      "from": "RigUnit_SetShapeTransform",
+      "to": "RigUnitMutable",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigUnit_SetShapeTransform",
+      "to": "Name",
+      "type": "uses_type",
+      "context": "property: control"
+    },
+    {
+      "from": "RigUnit_SetShapeTransform",
+      "to": "ControlRigExecuteContext",
+      "type": "uses_type",
+      "context": "property: execute_context"
+    },
+    {
+      "from": "RigUnit_SetShapeTransform",
+      "to": "Transform",
+      "type": "uses_type",
+      "context": "property: transform"
+    },
+    {
+      "from": "GeometryScriptBlurMeshVertexColorsOptions",
+      "to": "StructBase",
+      "type": "inherits_from"
+    }
+  ],
+  "modules": {
+    "Engine": {
+      "classes": ["NamedCurveValue", "MaterialExpressionTextureProperty"],
+      "files": ["CurveSourceInterface.h", "MaterialExpressionTextureProperty.h"]
+    },
+    "ControlRig": {
+      "classes": ["RigBaseElement", "RigUnit_GetCurrentNameSpace", "RigUnit_SetShapeTransform"],
+      "files": ["RigHierarchyElements.h", "RigUnit_RigModules.h", "RigUnit_SetControlOffset.h"]
+    },
+    "ClonerEffector": {
+      "classes": ["CEClonerStepExtension"],
+      "files": ["CEClonerStepExtension.h"]
+    },
+    "InterchangeNodes": {
+      "classes": ["InterchangeTextureCubeArrayNode"],
+      "files": ["InterchangeTextureCubeArrayNode.h"]
+    },
+    "GeometryScriptingCore": {
+      "classes": ["GeometryScriptGridSizingMethod", "GeometryScriptBlurMeshVertexColorsOptions"],
+      "files": ["MeshVoxelFunctions.h", "MeshVertexColorFunctions.h"]
+    },
+    "UMG": {
+      "classes": ["RichImageRow"],
+      "files": ["RichTextBlockImageDecorator.h"]
+    }
+  },
+  "plugins": {
+    "ControlRig": {
+      "classes": ["RigBaseElement", "RigUnit_GetCurrentNameSpace", "RigUnit_SetShapeTransform"]
+    },
+    "ClonerEffector": {
+      "classes": ["CEClonerStepExtension"]
+    },
+    "Interchange": {
+      "classes": ["InterchangeTextureCubeArrayNode"]
+    },
+    "GeometryScripting": {
+      "classes": ["GeometryScriptGridSizingMethod", "GeometryScriptBlurMeshVertexColorsOptions"]
+    }
+  },
+  "type_references": {
+    "Transform": ["RigUnit_MathTransformMul", "RigUnit_SetShapeTransform"],
+    "Name": ["NamedCurveValue", "RigUnit_SetShapeTransform"],
+    "Quat": ["RigUnit_MathQuaternionUnaryOp"],
+    "Vector": ["CEClonerStepExtension"],
+    "Rotator": ["CEClonerStepExtension"],
+    "bool": ["RigBaseElement", "CEClonerStepExtension", "GeometryScriptBlurMeshVertexColorsOptions"],
+    "float": ["NamedCurveValue"],
+    "str": ["MaterialExpressionTextureProperty", "RigUnit_GetCurrentNameSpace"],
+    "int": ["RigBaseElement", "MaterialExpressionTextureProperty"]
+  },
+  "statistics": {
+    "total_entities": 12,
+    "total_classes": 11,
+    "total_enums": 1,
+    "total_properties": 35,
+    "total_methods": 38,
+    "deprecated_entities": 2,
+    "files_processed": 12
+  }
+}

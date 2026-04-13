@@ -1,0 +1,1191 @@
+{
+  "nodes": [
+    {
+      "id": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate",
+      "type": "class",
+      "label": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate",
+      "description": "Platform Screen Orientation Changed Delegate",
+      "module": "Engine",
+      "file": "BlueprintPlatformLibrary.h",
+      "parent": "MulticastDelegateBase"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "MovieSceneMediaPlayerPropertyTrack",
+      "type": "class",
+      "label": "MovieSceneMediaPlayerPropertyTrack",
+      "description": "Movie Scene Media Player Property Track",
+      "plugin": "MediaCompositing",
+      "module": "MediaCompositing",
+      "file": "MovieSceneMediaPlayerPropertyTrack.h",
+      "parent": "MovieScenePropertyTrack"
+    },
+    {
+      "id": "MovieScenePropertyTrack",
+      "type": "class",
+      "label": "MovieScenePropertyTrack"
+    },
+    {
+      "id": "JoyImageFormats",
+      "type": "enum",
+      "label": "JoyImageFormats",
+      "description": "EJoy Image Formats",
+      "plugin": "VictoryBPLibrary",
+      "module": "VictoryBPLibrary",
+      "file": "VictoryBPFunctionLibrary.h",
+      "parent": "EnumBase",
+      "values": ["JPG", "PNG", "BMP", "ICO", "EXR", "ICNS"]
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "AvaInteractiveToolsToolViewportPointListPlanner",
+      "type": "class",
+      "label": "AvaInteractiveToolsToolViewportPointListPlanner",
+      "description": "Ava Interactive Tools Tool Viewport Point List Planner",
+      "plugin": "Avalanche",
+      "module": "AvalancheInteractiveTools",
+      "file": "AvaInteractiveToolsToolViewportPointListPlanner.h",
+      "parent": "AvaInteractiveToolsToolViewportPlanner"
+    },
+    {
+      "id": "AvaInteractiveToolsToolViewportPlanner",
+      "type": "class",
+      "label": "AvaInteractiveToolsToolViewportPlanner"
+    },
+    {
+      "id": "RigUnit_ConvertVectorRotation",
+      "type": "class",
+      "label": "RigUnit_ConvertVectorRotation",
+      "description": "Rig Unit Convert Vector Rotation",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_Converter.h",
+      "parent": "RigUnit_ConvertRotation"
+    },
+    {
+      "id": "RigUnit_ConvertRotation",
+      "type": "class",
+      "label": "RigUnit_ConvertRotation"
+    },
+    {
+      "id": "DynamicMeshComponentTangentsMode",
+      "type": "enum",
+      "label": "DynamicMeshComponentTangentsMode",
+      "description": "Tangent calculation modes",
+      "module": "GeometryFramework",
+      "file": "BaseDynamicMeshComponent.h",
+      "parent": "EnumBase",
+      "values": ["NO_TANGENTS", "AUTO_CALCULATED", "EXTERNALLY_PROVIDED", "DEFAULT"]
+    },
+    {
+      "id": "NavigationEvent",
+      "type": "class",
+      "label": "NavigationEvent",
+      "description": "FNavigationEvent describes a navigation action (Left, Right, Up, Down)",
+      "module": "SlateCore",
+      "file": "Events.h",
+      "parent": "InputEvent"
+    },
+    {
+      "id": "InputEvent",
+      "type": "class",
+      "label": "InputEvent"
+    },
+    {
+      "id": "RigVMTemplateNode",
+      "type": "class",
+      "label": "RigVMTemplateNode",
+      "description": "The Template Node represents an unresolved function",
+      "plugin": "RigVM",
+      "module": "RigVMDeveloper",
+      "file": "RigVMTemplateNode.h",
+      "parent": "RigVMNode",
+      "methods": ["is_singleton", "is_resolved", "is_fully_unresolved", "get_script_struct", "get_notation"]
+    },
+    {
+      "id": "RigVMNode",
+      "type": "class",
+      "label": "RigVMNode"
+    },
+    {
+      "id": "MoviePipelineCollectionModifier",
+      "type": "class",
+      "label": "MoviePipelineCollectionModifier",
+      "description": "deprecated: renamed to MovieGraphCollectionModifier",
+      "parent": "MovieGraphCollectionModifier"
+    },
+    {
+      "id": "MovieGraphCollectionModifier",
+      "type": "class",
+      "label": "MovieGraphCollectionModifier"
+    },
+    {
+      "id": "RigUnit_SetBoneTranslation",
+      "type": "class",
+      "label": "RigUnit_SetBoneTranslation",
+      "description": "SetBoneTranslation is used to perform a change in the hierarchy by setting a single bone's Translation",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_SetBoneTranslation.h",
+      "parent": "RigUnitMutable",
+      "properties": ["bone", "execute_context", "propagate_to_children", "space", "translation", "weight"]
+    },
+    {
+      "id": "RigUnitMutable",
+      "type": "class",
+      "label": "RigUnitMutable"
+    },
+    {
+      "id": "RigVMFunction_MathColorSub",
+      "type": "class",
+      "label": "RigVMFunction_MathColorSub",
+      "description": "Returns the difference of the two values",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathColor.h",
+      "parent": "RigVMFunction_MathColorBinaryOp",
+      "properties": ["a", "b", "result"]
+    },
+    {
+      "id": "RigVMFunction_MathColorBinaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathColorBinaryOp"
+    },
+    {
+      "id": "AnimGraphNode_RotateRootBone",
+      "type": "class",
+      "label": "AnimGraphNode_RotateRootBone",
+      "description": "Anim Graph Node Rotate Root Bone",
+      "module": "AnimGraph",
+      "file": "AnimGraphNode_RotateRootBone.h",
+      "parent": "AnimGraphNode_Base",
+      "properties": ["become_relevant_function", "binding", "initial_update_function", "node", "show_pin_for_properties", "tag", "update_function"]
+    },
+    {
+      "id": "AnimGraphNode_Base",
+      "type": "class",
+      "label": "AnimGraphNode_Base"
+    },
+    {
+      "id": "LiveLinkSubjectName",
+      "type": "struct",
+      "label": "LiveLinkSubjectName",
+      "description": "Live Link Subject Name",
+      "module": "LiveLinkInterface",
+      "file": "LiveLinkTypes.h",
+      "parent": "StructBase",
+      "properties": ["name"]
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "MathRBFInterpolateVectorXform_Target",
+      "type": "struct",
+      "label": "MathRBFInterpolateVectorXform_Target",
+      "description": "Math RBFInterpolate Vector Xform Target",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathRBFInterpolate.h",
+      "parent": "StructBase",
+      "properties": ["target", "value"]
+    },
+    {
+      "id": "GizmoBoxComponent",
+      "type": "class",
+      "label": "GizmoBoxComponent",
+      "description": "Simple Component intended to be used as part of 3D Gizmos",
+      "module": "InteractiveToolsFramework",
+      "file": "GizmoBoxComponent.h",
+      "parent": "GizmoBaseComponent",
+      "properties": ["color", "dimensions", "enable_axis_flip", "hover_size_multiplier", "line_thickness", "origin", "pixel_hit_distance_threshold", "remove_hidden_lines", "rotation"]
+    },
+    {
+      "id": "GizmoBaseComponent",
+      "type": "class",
+      "label": "GizmoBaseComponent"
+    },
+    {
+      "id": "PCGGenSourcePlayer",
+      "type": "class",
+      "label": "PCGGenSourcePlayer",
+      "description": "A UPCGGenSourcePlayer is automatically captured for all PlayerControllers in the level on Login/Logout",
+      "plugin": "PCG",
+      "module": "PCG",
+      "file": "PCGGenSourcePlayer.h",
+      "parent": "Object"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "InputLibrary",
+      "type": "class",
+      "label": "InputLibrary",
+      "description": "Kismet Input Library",
+      "module": "Engine",
+      "file": "KismetInputLibrary.h",
+      "parent": "BlueprintFunctionLibrary",
+      "methods": ["pointer_event_is_touch_event", "pointer_event_is_mouse_button_down", "pointer_event_get_wheel_delta", "pointer_event_get_user_index", "pointer_event_get_touchpad_index", "pointer_event_get_screen_space_position", "pointer_event_get_pointer_index", "pointer_event_get_last_screen_space_position", "pointer_event_get_gesture_type", "pointer_event_get_gesture_delta", "pointer_event_get_effecting_button", "pointer_event_get_cursor_delta", "modifier_keys_state_is_shift_down", "modifier_keys_state_is_control_down", "modifier_keys_state_is_command_down", "modifier_keys_state_is_alt_down", "key_is_vector_axis", "key_is_valid", "key_is_mouse_button", "key_is_modifier_key", "key_is_keyboard_key", "key_is_gamepad_key", "key_is_digital", "key_is_button_axis", "key_is_axis3d", "key_is_axis2d", "key_is_axis1d", "key_is_float_axis", "key_is_analog", "key_get_navigation_direction_from_key", "key_get_navigation_direction_from_analog", "key_get_navigation_action_from_key", "key_get_navigation_action", "key_get_display_name", "input_event_is_shift_down", "input_event_is_right_shift_down", "input_event_is_right_control_down", "input_event_is_right_command_down", "input_event_is_right_alt_down", "input_event_is_repeat", "input_event_is_left_shift_down", "input_event_is_left_control_down", "input_event_is_left_command_down", "input_event_is_left_alt_down", "input_event_is_control_down", "input_event_is_command_down", "input_event_is_alt_down", "input_chord_get_display_name", "get_user_index", "get_modifier_keys_state", "get_key", "get_analog_value", "equal_equal_key_key", "equal_equal_input_chord_input_chord", "calibrate_tilt"]
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "WdpUpdateShapePointsParams",
+      "type": "class",
+      "label": "WdpUpdateShapePointsParams",
+      "description": "Wdp Update Shape Points Params",
+      "plugin": "WdpRuntimeAPI",
+      "module": "ApplicationAPI",
+      "file": "WdpShapeEditorAPI.h",
+      "parent": "ParamsBase",
+      "properties": ["guid", "hit_keys"]
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "MaterialEditorClickEventParam",
+      "type": "class",
+      "label": "MaterialEditorClickEventParam",
+      "description": "Material Editor Click Event Param",
+      "plugin": "WdpAssetAPI",
+      "module": "DcpAPI",
+      "file": "DCPMaterialEditorAPIParams.h",
+      "parent": "EventArgsBase",
+      "properties": ["material_lable", "material_name"]
+    },
+    {
+      "id": "EventArgsBase",
+      "type": "class",
+      "label": "EventArgsBase"
+    },
+    {
+      "id": "StreamingVolumeUsage",
+      "type": "enum",
+      "label": "StreamingVolumeUsage",
+      "description": "Enum for different usage cases of level streaming volumes",
+      "module": "Engine",
+      "file": "LevelStreamingVolume.h",
+      "parent": "EnumBase",
+      "values": ["SVB_LOADING", "SVB_LOADING_AND_VISIBILITY", "SVB_VISIBILITY_BLOCKING_ON_LOAD", "SVB_BLOCKING_ON_LOAD", "SVB_LOADING_NOT_VISIBLE"]
+    },
+    {
+      "id": "RigUnit_MathDoubleSign",
+      "type": "class",
+      "label": "RigUnit_MathDoubleSign",
+      "description": "deprecated: renamed to RigVMFunction_MathDoubleSign",
+      "parent": "RigVMFunction_MathDoubleSign"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleSign",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleSign"
+    },
+    {
+      "id": "CEClonerCylinderLayout",
+      "type": "class",
+      "label": "CEClonerCylinderLayout",
+      "description": "CECloner Cylinder Layout",
+      "plugin": "ClonerEffector",
+      "module": "ClonerEffector",
+      "file": "CEClonerCylinderLayout.h",
+      "parent": "CEClonerLayoutBase",
+      "properties": ["angle_ratio", "angle_start", "base_count", "height", "height_count", "orient_mesh", "plane", "radius", "rotation", "scale"],
+      "methods": ["set_scale", "set_rotation", "set_radius", "set_plane", "set_orient_mesh", "set_height_count", "set_height", "set_base_count", "set_angle_start", "set_angle_ratio", "get_scale", "get_rotation", "get_radius", "get_plane", "get_orient_mesh", "get_height_count", "get_height", "get_base_count", "get_angle_start", "get_angle_ratio"]
+    },
+    {
+      "id": "CEClonerLayoutBase",
+      "type": "class",
+      "label": "CEClonerLayoutBase"
+    },
+    {
+      "id": "Rotator",
+      "type": "type",
+      "label": "Rotator"
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "label": "Quat"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "LinearColor",
+      "type": "type",
+      "label": "LinearColor"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "type",
+      "label": "ControlRigExecuteContext"
+    },
+    {
+      "id": "RigVMTransformSpace",
+      "type": "type",
+      "label": "RigVMTransformSpace"
+    },
+    {
+      "id": "PointerEvent",
+      "type": "type",
+      "label": "PointerEvent"
+    },
+    {
+      "id": "Key",
+      "type": "type",
+      "label": "Key"
+    },
+    {
+      "id": "Vector2D",
+      "type": "type",
+      "label": "Vector2D"
+    },
+    {
+      "id": "SlateGesture",
+      "type": "type",
+      "label": "SlateGesture"
+    },
+    {
+      "id": "SlateModifierKeysState",
+      "type": "type",
+      "label": "SlateModifierKeysState"
+    },
+    {
+      "id": "KeyEvent",
+      "type": "type",
+      "label": "KeyEvent"
+    },
+    {
+      "id": "AnalogInputEvent",
+      "type": "type",
+      "label": "AnalogInputEvent"
+    },
+    {
+      "id": "UINavigation",
+      "type": "type",
+      "label": "UINavigation"
+    },
+    {
+      "id": "UINavigationAction",
+      "type": "type",
+      "label": "UINavigationAction"
+    },
+    {
+      "id": "InputChord",
+      "type": "type",
+      "label": "InputChord"
+    },
+    {
+      "id": "Text",
+      "type": "type",
+      "label": "Text"
+    },
+    {
+      "id": "MovieSceneConditionContainer",
+      "type": "type",
+      "label": "MovieSceneConditionContainer"
+    },
+    {
+      "id": "MovieSceneTrackDisplayOptions",
+      "type": "type",
+      "label": "MovieSceneTrackDisplayOptions"
+    },
+    {
+      "id": "MovieSceneTrackEvalOptions",
+      "type": "type",
+      "label": "MovieSceneTrackEvalOptions"
+    },
+    {
+      "id": "Array_Text",
+      "type": "type",
+      "label": "Array[Text]"
+    },
+    {
+      "id": "Color",
+      "type": "type",
+      "label": "Color"
+    },
+    {
+      "id": "CEClonerPlane",
+      "type": "type",
+      "label": "CEClonerPlane"
+    },
+    {
+      "id": "MemberReference",
+      "type": "type",
+      "label": "MemberReference"
+    },
+    {
+      "id": "AnimGraphNodeBinding",
+      "type": "type",
+      "label": "AnimGraphNodeBinding"
+    },
+    {
+      "id": "AnimNode_RotateRootBone",
+      "type": "type",
+      "label": "AnimNode_RotateRootBone"
+    },
+    {
+      "id": "Array_OptionalPinFromProperty",
+      "type": "type",
+      "label": "Array[OptionalPinFromProperty]"
+    }
+  ],
+  "edges": [
+    {
+      "source": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate",
+      "target": "MulticastDelegateBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate",
+      "target": "Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "MovieScenePropertyTrack",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "MediaCompositing",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "MediaCompositing",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "MovieSceneConditionContainer",
+      "relation": "has_property",
+      "property_name": "condition_container"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "Text",
+      "relation": "has_property",
+      "property_name": "display_name"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "MovieSceneTrackDisplayOptions",
+      "relation": "has_property",
+      "property_name": "display_options"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "MovieSceneTrackEvalOptions",
+      "relation": "has_property",
+      "property_name": "eval_options"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "Array_Text",
+      "relation": "has_property",
+      "property_name": "track_row_display_names"
+    },
+    {
+      "source": "MovieSceneMediaPlayerPropertyTrack",
+      "target": "Color",
+      "relation": "has_property",
+      "property_name": "track_tint"
+    },
+    {
+      "source": "JoyImageFormats",
+      "target": "EnumBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "JoyImageFormats",
+      "target": "VictoryBPLibrary",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "JoyImageFormats",
+      "target": "VictoryBPLibrary",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "AvaInteractiveToolsToolViewportPointListPlanner",
+      "target": "AvaInteractiveToolsToolViewportPlanner",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "AvaInteractiveToolsToolViewportPointListPlanner",
+      "target": "Avalanche",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "AvaInteractiveToolsToolViewportPointListPlanner",
+      "target": "AvalancheInteractiveTools",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "RigUnit_ConvertVectorRotation",
+      "target": "RigUnit_ConvertRotation",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "RigUnit_ConvertVectorRotation",
+      "target": "ControlRig",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "RigUnit_ConvertVectorRotation",
+      "target": "ControlRig",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "RigUnit_ConvertVectorRotation",
+      "target": "Rotator",
+      "relation": "has_property",
+      "property_name": "input"
+    },
+    {
+      "source": "RigUnit_ConvertVectorRotation",
+      "target": "Quat",
+      "relation": "has_property",
+      "property_name": "result"
+    },
+    {
+      "source": "DynamicMeshComponentTangentsMode",
+      "target": "EnumBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "DynamicMeshComponentTangentsMode",
+      "target": "GeometryFramework",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "NavigationEvent",
+      "target": "InputEvent",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "NavigationEvent",
+      "target": "SlateCore",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "RigVMTemplateNode",
+      "target": "RigVMNode",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "RigVMTemplateNode",
+      "target": "RigVM",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMTemplateNode",
+      "target": "RigVMDeveloper",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "MoviePipelineCollectionModifier",
+      "target": "MovieGraphCollectionModifier",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "MoviePipelineCollectionModifier",
+      "target": "MoviePipelineCollectionModifier",
+      "relation": "deprecated_for",
+      "replacement": "MovieGraphCollectionModifier"
+    },
+    {
+      "source": "RigUnit_SetBoneTranslation",
+      "target": "RigUnitMutable",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "RigUnit_SetBoneTranslation",
+      "target": "ControlRig",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "RigUnit_SetBoneTranslation",
+      "target": "ControlRig",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "RigUnit_SetBoneTranslation",
+      "target": "Name",
+      "relation": "has_property",
+      "property_name": "bone"
+    },
+    {
+      "source": "RigUnit_SetBoneTranslation",
+      "target": "ControlRigExecuteContext",
+      "relation": "has_property",
+      "property_name": "execute_context"
+    },
+    {
+      "source": "RigUnit_SetBoneTranslation",
+      "target": "Vector",
+      "relation": "has_property",
+      "property_name": "translation"
+    },
+    {
+      "source": "RigUnit_SetBoneTranslation",
+      "target": "RigVMTransformSpace",
+      "relation": "has_property",
+      "property_name": "space"
+    },
+    {
+      "source": "RigVMFunction_MathColorSub",
+      "target": "RigVMFunction_MathColorBinaryOp",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathColorSub",
+      "target": "RigVM",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathColorSub",
+      "target": "RigVM",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathColorSub",
+      "target": "LinearColor",
+      "relation": "has_property",
+      "property_name": "a"
+    },
+    {
+      "source": "RigVMFunction_MathColorSub",
+      "target": "LinearColor",
+      "relation": "has_property",
+      "property_name": "b"
+    },
+    {
+      "source": "RigVMFunction_MathColorSub",
+      "target": "LinearColor",
+      "relation": "has_property",
+      "property_name": "result"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "AnimGraphNode_Base",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "AnimGraph",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "MemberReference",
+      "relation": "has_property",
+      "property_name": "become_relevant_function"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "AnimGraphNodeBinding",
+      "relation": "has_property",
+      "property_name": "binding"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "MemberReference",
+      "relation": "has_property",
+      "property_name": "initial_update_function"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "AnimNode_RotateRootBone",
+      "relation": "has_property",
+      "property_name": "node"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "Array_OptionalPinFromProperty",
+      "relation": "has_property",
+      "property_name": "show_pin_for_properties"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "Name",
+      "relation": "has_property",
+      "property_name": "tag"
+    },
+    {
+      "source": "AnimGraphNode_RotateRootBone",
+      "target": "MemberReference",
+      "relation": "has_property",
+      "property_name": "update_function"
+    },
+    {
+      "source": "LiveLinkSubjectName",
+      "target": "StructBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "LiveLinkSubjectName",
+      "target": "LiveLinkInterface",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "LiveLinkSubjectName",
+      "target": "Name",
+      "relation": "has_property",
+      "property_name": "name"
+    },
+    {
+      "source": "MathRBFInterpolateVectorXform_Target",
+      "target": "StructBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "MathRBFInterpolateVectorXform_Target",
+      "target": "RigVM",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "MathRBFInterpolateVectorXform_Target",
+      "target": "RigVM",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "MathRBFInterpolateVectorXform_Target",
+      "target": "Vector",
+      "relation": "has_property",
+      "property_name": "target"
+    },
+    {
+      "source": "MathRBFInterpolateVectorXform_Target",
+      "target": "Transform",
+      "relation": "has_property",
+      "property_name": "value"
+    },
+    {
+      "source": "GizmoBoxComponent",
+      "target": "GizmoBaseComponent",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "GizmoBoxComponent",
+      "target": "InteractiveToolsFramework",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "GizmoBoxComponent",
+      "target": "LinearColor",
+      "relation": "has_property",
+      "property_name": "color"
+    },
+    {
+      "source": "GizmoBoxComponent",
+      "target": "Vector",
+      "relation": "has_property",
+      "property_name": "dimensions"
+    },
+    {
+      "source": "GizmoBoxComponent",
+      "target": "Vector",
+      "relation": "has_property",
+      "property_name": "origin"
+    },
+    {
+      "source": "GizmoBoxComponent",
+      "target": "Quat",
+      "relation": "has_property",
+      "property_name": "rotation"
+    },
+    {
+      "source": "PCGGenSourcePlayer",
+      "target": "Object",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "PCGGenSourcePlayer",
+      "target": "PCG",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "PCGGenSourcePlayer",
+      "target": "PCG",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "PointerEvent",
+      "relation": "method_parameter",
+      "method": "pointer_event_is_touch_event"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "PointerEvent",
+      "relation": "method_parameter",
+      "method": "pointer_event_is_mouse_button_down"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "Key",
+      "relation": "method_parameter",
+      "method": "pointer_event_is_mouse_button_down"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "PointerEvent",
+      "relation": "method_parameter",
+      "method": "pointer_event_get_screen_space_position"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "Vector2D",
+      "relation": "method_return_type",
+      "method": "pointer_event_get_screen_space_position"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "SlateModifierKeysState",
+      "relation": "method_parameter",
+      "method": "modifier_keys_state_is_shift_down"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "Key",
+      "relation": "method_parameter",
+      "method": "key_is_valid"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "KeyEvent",
+      "relation": "method_parameter",
+      "method": "key_get_navigation_direction_from_key"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "UINavigation",
+      "relation": "method_return_type",
+      "method": "key_get_navigation_direction_from_key"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "AnalogInputEvent",
+      "relation": "method_parameter",
+      "method": "key_get_navigation_direction_from_analog"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "InputEvent",
+      "relation": "method_parameter",
+      "method": "input_event_is_shift_down"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "Key",
+      "relation": "method_parameter",
+      "method": "key_get_display_name"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "Text",
+      "relation": "method_return_type",
+      "method": "key_get_display_name"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "InputChord",
+      "relation": "method_parameter",
+      "method": "input_chord_get_display_name"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "SlateModifierKeysState",
+      "relation": "method_return_type",
+      "method": "get_modifier_keys_state"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "KeyEvent",
+      "relation": "method_parameter",
+      "method": "get_key"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "Key",
+      "relation": "method_return_type",
+      "method": "get_key"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "AnalogInputEvent",
+      "relation": "method_parameter",
+      "method": "get_analog_value"
+    },
+    {
+      "source": "InputLibrary",
+      "target": "InputChord",
+      "relation": "method_parameter",
+      "method": "equal_equal_input_chord_input_chord"
+    },
+    {
+      "source": "WdpUpdateShapePointsParams",
+      "target": "ParamsBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "WdpUpdateShapePointsParams",
+      "target": "WdpRuntimeAPI",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "WdpUpdateShapePointsParams",
+      "target": "ApplicationAPI",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "MaterialEditorClickEventParam",
+      "target": "EventArgsBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "MaterialEditorClickEventParam",
+      "target": "WdpAssetAPI",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "MaterialEditorClickEventParam",
+      "target": "DcpAPI",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "StreamingVolumeUsage",
+      "target": "EnumBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "StreamingVolumeUsage",
+      "target": "Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "RigUnit_MathDoubleSign",
+      "target": "RigVMFunction_MathDoubleSign",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathDoubleSign",
+      "target": "RigVMFunction_MathDoubleSign",
+      "relation": "deprecated_for",
+      "replacement": "RigVMFunction_MathDoubleSign"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "CEClonerLayoutBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "ClonerEffector",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "ClonerEffector",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "Rotator",
+      "relation": "has_property",
+      "property_name": "rotation"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "Vector",
+      "relation": "has_property",
+      "property_name": "scale"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "CEClonerPlane",
+      "relation": "has_property",
+      "property_name": "plane"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "Rotator",
+      "relation": "method_return_type",
+      "method": "get_rotation"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "Rotator",
+      "relation": "method_parameter",
+      "method": "set_rotation"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "Vector",
+      "relation": "method_return_type",
+      "method": "get_scale"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "Vector",
+      "relation": "method_parameter",
+      "method": "set_scale"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "CEClonerPlane",
+      "relation": "method_return_type",
+      "method": "get_plane"
+    },
+    {
+      "source": "CEClonerCylinderLayout",
+      "target": "CEClonerPlane",
+      "relation": "method_parameter",
+      "method": "set_plane"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_control_rig_bone_transforms",
+      "label": "Control Rig Bone Transform Operations",
+      "nodes": ["RigUnit_SetBoneTranslation", "RigUnit_ConvertVectorRotation", "Vector", "Rotator", "Quat", "Transform", "ControlRigExecuteContext", "RigVMTransformSpace"],
+      "description": "Classes and types related to bone transformation in Control Rig"
+    },
+    {
+      "id": "he_rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": ["RigVMFunction_MathColorSub", "RigVMFunction_MathDoubleSign", "MathRBFInterpolateVectorXform_Target", "LinearColor", "Vector"],
+      "description": "Mathematical operations in RigVM framework"
+    },
+    {
+      "id": "he_input_events_navigation",
+      "label": "Input Events and Navigation",
+      "nodes": ["InputLibrary", "NavigationEvent", "InputEvent", "PointerEvent", "KeyEvent", "AnalogInputEvent", "Key", "InputChord", "UINavigation", "UINavigationAction", "Vector2D", "SlateGesture", "SlateModifierKeysState"],
+      "description": "Input handling, events, and navigation in Unreal Engine"
+    },
+    {
+      "id": "he_moviescene_tracks",
+      "label": "Movie Scene Tracks",
+      "nodes": ["MovieSceneMediaPlayerPropertyTrack", "MovieScenePropertyTrack", "MovieSceneConditionContainer", "MovieSceneTrackDisplayOptions", "MovieSceneTrackEvalOptions"],
+      "description": "Movie scene track system for animation and media"
+    },
+    {
+      "id": "he_gizmo_components",
+      "label": "Gizmo Components",
+      "nodes": ["GizmoBoxComponent", "GizmoBaseComponent", "Vector", "LinearColor", "Quat"],
+      "description": "3D gizmo components for editor tools"
+    },
+    {
+      "id": "he_cloner_layouts",
+      "label": "Cloner Layout System",
+      "nodes": ["CEClonerCylinderLayout", "CEClonerLayoutBase", "CEClonerPlane", "Vector", "Rotator"],
+      "description": "Cloner effector layout system for procedural generation"
+    },
+    {
+      "id": "he_animation_graph_nodes",
+      "label": "Animation Graph Nodes",
+      "nodes": ["AnimGraphNode_RotateRootBone", "AnimGraphNode_Base", "AnimNode_RotateRootBone", "MemberReference", "AnimGraphNodeBinding"],
+      "description": "Animation graph node system"
+    },
+    {
+      "id": "he_live_link_system",
+      "label": "Live Link System",
+      "nodes": ["LiveLinkSubjectName", "Name", "StructBase"],
+      "description": "Live link subject tracking system"
+    },
+    {
+      "id": "he_enum_types",
+      "label": "Enumeration Types",
+      "nodes": ["JoyImageFormats", "DynamicMeshComponentTangentsMode", "StreamingVolumeUsage", "EnumBase"],
+      "description": "Enumeration types across different modules"
+    },
+    {
+      "id": "he_pcg_generation",
+      "label": "PCG Generation Sources",
+      "nodes": ["PCGGenSourcePlayer", "Object"],
+      "description": "Procedural content generation source system"
+    },
+    {
+      "id": "he_deprecated_classes",
+      "label": "Deprecated Classes",
+      "nodes": ["MoviePipelineCollectionModifier", "RigUnit_MathDoubleSign"],
+      "description": "Classes that have been deprecated and renamed"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "PlatformGameInstance__PlatformScreenOrientationChangedDelegate Objects.md",
+      "MovieSceneMediaPlayerPropertyTrack Objects.md",
+      "JoyImageFormats Objects.md",
+      "AvaInteractiveToolsToolViewportPointListPlanner Objects.md",
+      "RigUnit__ConvertVectorRotation Objects.md",
+      "DynamicMeshComponentTangentsMode Objects.md",
+      "NavigationEvent Objects.md",
+      "RigVMTemplateNode Objects.md",
+      "MoviePipelineCollectionModifier Objects.md",
+      "RigUnit_SetBoneTranslation Objects.md",
+      "RigVMFunction__MathColorSub Objects.md",
+      "AnimGraphNode_RotateRootBone Objects.md",
+      "LiveLinkSubjectName Objects.md",
+      "MathRBFInterpolateVectorXform_Target Objects.md",
+      "GizmoBoxComponent Objects.md",
+      "PCGGenSourcePlayer Objects.md",
+      "InputLibrary Objects.md",
+      "WdpUpdateShapePointsParams Objects.md",
+      "MaterialEditorClickEventParam Objects.md",
+      "StreamingVolumeUsage Objects.md",
+      "RigUnit_MathDoubleSign Objects.md",
+      "CEClonerCylinderLayout Objects.md"
+    ],
+    "total_nodes": 77,
+    "total_edges": 118,
+    "total_hyperedges": 12,
+    "extraction_date": "2026-04-12",
+    "framework": "Unreal Engine Python API",
+    "chunk_id": 616
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_HierarchyAddAnimationChannelScaleVector",
+      "type": "class",
+      "label": "RigUnit_HierarchyAddAnimationChannelScaleVector",
+      "description": "Adds a new animation channel to the hierarchy. Note: This node only runs as part of the construction event.",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_DynamicHierarchy.h"
+      },
+      "properties": [
+        {"name": "execute_context", "type": "ControlRigExecuteContext", "access": "read-write"},
+        {"name": "initial_value", "type": "Vector", "access": "read-write"},
+        {"name": "item", "type": "RigElementKey", "access": "read-write"},
+        {"name": "limits_enabled", "type": "RigUnit_HierarchyAddAnimationChannelVectorLimitSettings", "access": "read-write"},
+        {"name": "maximum_value", "type": "Vector", "access": "read-write"},
+        {"name": "minimum_value", "type": "Vector", "access": "read-write"},
+        {"name": "name", "type": "Name", "access": "read-write"},
+        {"name": "parent", "type": "RigElementKey", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "PCGUnitTestDummyComponent",
+      "type": "class",
+      "label": "PCGUnitTestDummyComponent",
+      "description": "PCGUnit Test Dummy Component",
+      "source": {
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGGetActorPropertyTest.h"
+      },
+      "properties": [
+        {"name": "asset_user_data", "type": "Array[AssetUserData]", "access": "read-write"},
+        {"name": "asset_user_data_editor_only", "type": "Array[AssetUserData]", "access": "read-write"},
+        {"name": "auto_activate", "type": "bool", "access": "read-write"},
+        {"name": "can_ever_affect_navigation", "type": "bool", "access": "read-write"},
+        {"name": "component_tags", "type": "Array[Name]", "access": "read-write"},
+        {"name": "editable_when_inherited", "type": "bool", "access": "read-write"},
+        {"name": "int_property", "type": "int32", "access": "read-only"},
+        {"name": "is_editor_only", "type": "bool", "access": "read-write"},
+        {"name": "on_component_activated", "type": "ActorComponentActivatedSignature", "access": "read-write"},
+        {"name": "on_component_deactivated", "type": "ActorComponentDeactivateSignature", "access": "read-write"},
+        {"name": "primary_component_tick", "type": "ActorComponentTickFunction", "access": "read-write"},
+        {"name": "replicate_using_registered_sub_object_list", "type": "bool", "access": "read-write"},
+        {"name": "replicates", "type": "bool", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "GeometryScriptCreateNewTexture2DAssetOptions",
+      "type": "struct",
+      "label": "GeometryScriptCreateNewTexture2DAssetOptions",
+      "description": "Geometry Script Create New Texture 2DAsset Options",
+      "source": {
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingEditor",
+        "file": "CreateNewAssetUtilityFunctions.h"
+      },
+      "properties": [
+        {"name": "overwrite_if_exists", "type": "bool", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "RigVMFunction_MathVectorIsNearlyZero",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorIsNearlyZero",
+      "description": "Returns true if the value is nearly zero",
+      "source": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathVector.h"
+      },
+      "properties": [
+        {"name": "result", "type": "bool", "access": "read-write"},
+        {"name": "tolerance", "type": "float", "access": "read-write"},
+        {"name": "value", "type": "Vector", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "InterchangeTextureFactoryNode",
+      "type": "class",
+      "label": "InterchangeTextureFactoryNode",
+      "description": "Interchange Texture Factory Node",
+      "source": {
+        "plugin": "Interchange",
+        "module": "InterchangeFactoryNodes",
+        "file": "InterchangeTextureFactoryNode.h"
+      },
+      "methods": [
+        {"name": "set_custom_virtual_texture_streaming", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_custom_translated_texture_node_uid", "return_type": "bool", "params": ["str"]},
+        {"name": "set_custom_srgb", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_custom_prefer_compressed_source_data", "return_type": "bool", "params": ["bool"]},
+        {"name": "set_custom_power_of_two_mode", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_padding_color", "return_type": "bool", "params": ["Color", "bool"]},
+        {"name": "set_custom_mip_load_options", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_mip_gen_settings", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_max_texture_size", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_lossy_compression_amount", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_lod_group", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_lod_bias", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_filter", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_downscale_options", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_downscale", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_defer_compression", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_custom_compression_settings", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_compression_quality", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_compression_no_alpha", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_custom_composite_texture_mode", "return_type": "bool", "params": ["int", "bool"]},
+        {"name": "set_custom_composite_power", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_color_space", "return_type": "bool", "params": ["TextureColorSpace", "bool"]},
+        {"name": "set_custom_chroma_key_threshold", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_chroma_key_color", "return_type": "bool", "params": ["Color", "bool"]},
+        {"name": "set_customb_use_legacy_gamma", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_customb_preserve_border", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_customb_flip_green_channel", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_customb_do_scale_mips_for_alpha_coverage", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_customb_chroma_key_texture", "return_type": "bool", "params": ["bool", "bool"]},
+        {"name": "set_custom_alpha_coverage_thresholds", "return_type": "bool", "params": ["Vector4", "bool"]},
+        {"name": "set_custom_allow_non_power_of_two", "return_type": "bool", "params": ["bool"]},
+        {"name": "set_custom_adjust_vibrance", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_adjust_saturation", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_adjust_rgb_curve", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_adjust_min_alpha", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_adjust_max_alpha", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_adjust_hue", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_adjust_brightness_curve", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "set_custom_adjust_brightness", "return_type": "bool", "params": ["float", "bool"]},
+        {"name": "initialize_texture_node", "return_type": "None", "params": ["str", "str", "str"]},
+        {"name": "get_object_class", "return_type": "Class", "params": []},
+        {"name": "get_custom_virtual_texture_streaming", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_custom_translated_texture_node_uid", "return_type": "Optional[str]", "params": []},
+        {"name": "get_custom_srgb", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_custom_prefer_compressed_source_data", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_custom_power_of_two_mode", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_padding_color", "return_type": "Optional[Color]", "params": []},
+        {"name": "get_custom_mip_load_options", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_mip_gen_settings", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_max_texture_size", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_lossy_compression_amount", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_lod_group", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_lod_bias", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_filter", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_downscale_options", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_downscale", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_defer_compression", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_custom_compression_settings", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_compression_quality", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_compression_no_alpha", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_custom_composite_texture_mode", "return_type": "Optional[int]", "params": []},
+        {"name": "get_custom_composite_power", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_color_space", "return_type": "Optional[TextureColorSpace]", "params": []},
+        {"name": "get_custom_chroma_key_threshold", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_chroma_key_color", "return_type": "Optional[Color]", "params": []},
+        {"name": "get_customb_use_legacy_gamma", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_customb_preserve_border", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_customb_flip_green_channel", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_customb_do_scale_mips_for_alpha_coverage", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_customb_chroma_key_texture", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_custom_alpha_coverage_thresholds", "return_type": "Optional[Vector4]", "params": []},
+        {"name": "get_custom_allow_non_power_of_two", "return_type": "Optional[bool]", "params": []},
+        {"name": "get_custom_adjust_vibrance", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_adjust_saturation", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_adjust_rgb_curve", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_adjust_min_alpha", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_adjust_max_alpha", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_adjust_hue", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_adjust_brightness_curve", "return_type": "Optional[float]", "params": []},
+        {"name": "get_custom_adjust_brightness", "return_type": "Optional[float]", "params": []}
+      ]
+    },
+    {
+      "id": "SubUVBoundingVertexCount",
+      "type": "enum",
+      "label": "SubUVBoundingVertexCount",
+      "description": "More bounding vertices results in reduced overdraw, but adds more triangle overhead. The eight vertex mode is best used when the SubUV texture has a lot of space to cut out that is not captured by the four vertex version, and when the particles using the texture will be few and large.",
+      "source": {
+        "module": "Engine",
+        "file": "SubUVAnimation.h"
+      },
+      "values": [
+        {"name": "BVC_FOUR_VERTICES", "value": 0},
+        {"name": "BVC_EIGHT_VERTICES", "value": 1}
+      ]
+    },
+    {
+      "id": "SkyCreatorSunPositionType",
+      "type": "enum",
+      "label": "SkyCreatorSunPositionType",
+      "description": "ESky Creator Sun Position Type",
+      "source": {
+        "plugin": "SkyCreatorPlugin",
+        "module": "SkyCreatorPlugin",
+        "file": "SkyCreatorActor.h"
+      },
+      "values": [
+        {"name": "SUN_POSITION_TYPE_SIMPLE", "value": 0},
+        {"name": "SUN_POSITION_TYPE_REAL", "value": 1}
+      ]
+    },
+    {
+      "id": "ComposurePostProcessPassPolicy",
+      "type": "class",
+      "label": "ComposurePostProcessPassPolicy",
+      "description": "Abstract base class for setting up post passes. Used in conjuntion with UComposurePostProcessingPassProxy.",
+      "source": {
+        "plugin": "Composure",
+        "module": "Composure",
+        "file": "ComposurePostProcessingPassProxy.h"
+      },
+      "methods": [
+        {"name": "setup_post_process", "return_type": "MaterialInterface", "params": ["SceneCaptureComponent2D"]}
+      ]
+    },
+    {
+      "id": "NavigationLink",
+      "type": "class",
+      "label": "NavigationLink",
+      "description": "Navigation Link",
+      "source": {
+        "module": "Engine",
+        "file": "NavLinkDefinition.h"
+      },
+      "properties": [
+        {"name": "area_class", "type": "type(Class)", "access": "read-write"},
+        {"name": "description", "type": "str", "access": "read-write"},
+        {"name": "direction", "type": "NavLinkDirection", "access": "read-write"},
+        {"name": "left", "type": "Vector", "access": "read-write"},
+        {"name": "left_project_height", "type": "float", "access": "read-write"},
+        {"name": "max_fall_down_length", "type": "float", "access": "read-write"},
+        {"name": "right", "type": "Vector", "access": "read-write"},
+        {"name": "snap_height", "type": "float", "access": "read-write"},
+        {"name": "snap_radius", "type": "float", "access": "read-write"},
+        {"name": "snap_to_cheapest_area", "type": "bool", "access": "read-write"},
+        {"name": "supported_agents", "type": "NavAgentSelector", "access": "read-write"},
+        {"name": "use_snap_height", "type": "bool", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "RigUnit_BinaryQuaternionOp",
+      "type": "class",
+      "label": "RigUnit_BinaryQuaternionOp",
+      "description": "Two args and a result of Quaternion type",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_Quaternion.h"
+      },
+      "properties": [
+        {"name": "argument0", "type": "Quat", "access": "read-write"},
+        {"name": "argument1", "type": "Quat", "access": "read-write"},
+        {"name": "result", "type": "Quat", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "AvaSequenceTime",
+      "type": "struct",
+      "label": "AvaSequenceTime",
+      "description": "Ava Sequence Time",
+      "source": {
+        "plugin": "Avalanche",
+        "module": "AvalancheSequence",
+        "file": "AvaSequenceShared.h"
+      },
+      "properties": [
+        {"name": "frame", "type": "int32", "access": "read-write"},
+        {"name": "has_time_constraint", "type": "bool", "access": "read-write"},
+        {"name": "mark_label", "type": "str", "access": "read-write"},
+        {"name": "seconds", "type": "double", "access": "read-write"},
+        {"name": "sub_frame", "type": "double", "access": "read-write"},
+        {"name": "time_type", "type": "AvaSequenceTimeType", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "CollisionResponseContainer",
+      "type": "struct",
+      "label": "CollisionResponseContainer",
+      "description": "Container for indicating a set of collision channels that this object will collide with.",
+      "source": {
+        "module": "Engine",
+        "file": "EngineTypes.h"
+      },
+      "properties": [
+        {"name": "camera", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "destructible", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "ecc_custom_api", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "ecc_projectile", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "engine_trace_channel1", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "engine_trace_channel2", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "engine_trace_channel3", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "engine_trace_channel4", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "engine_trace_channel5", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "engine_trace_channel6", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel10", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel11", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel12", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel13", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel14", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel15", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel16", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel17", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel18", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel2", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel4", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel5", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel6", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel7", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel8", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "game_trace_channel9", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "pawn", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "physics_body", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "vehicle", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "visibility", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "world_dynamic", "type": "CollisionResponseType", "access": "read-write"},
+        {"name": "world_static", "type": "CollisionResponseType", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "NiagaraDataInterfaceRenderTarget2D",
+      "type": "class",
+      "label": "NiagaraDataInterfaceRenderTarget2D",
+      "description": "Niagara Data Interface Render Target 2D",
+      "source": {
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraDataInterfaceRenderTarget2D.h"
+      },
+      "properties": [
+        {"name": "inherit_user_parameter_settings", "type": "bool", "access": "read-write"},
+        {"name": "mip_map_generation", "type": "NiagaraMipMapGeneration", "access": "read-write"},
+        {"name": "mip_map_generation_type", "type": "NiagaraMipMapGenerationType", "access": "read-write"},
+        {"name": "override_format", "type": "bool", "access": "read-write"},
+        {"name": "override_render_target_filter", "type": "TextureFilter", "access": "read-write"},
+        {"name": "override_render_target_format", "type": "TextureRenderTargetFormat", "access": "read-write"},
+        {"name": "preview_render_target", "type": "bool", "access": "read-write"},
+        {"name": "render_target_user_parameter", "type": "NiagaraUserParameterBinding", "access": "read-write"},
+        {"name": "size", "type": "IntPoint", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "PlayerMappableKeySlotData",
+      "type": "struct",
+      "label": "PlayerMappableKeySlotData",
+      "description": "Player Mappable Key Slot",
+      "source": {
+        "plugin": "EnhancedInput",
+        "module": "EnhancedInput",
+        "file": "PlayerMappableKeySlot.h"
+      },
+      "properties": [
+        {"name": "slot_number", "type": "int32", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "AvaNormalModifier",
+      "type": "class",
+      "label": "AvaNormalModifier",
+      "description": "Ava Normal Modifier",
+      "source": {
+        "plugin": "Avalanche",
+        "module": "AvalancheModifiers",
+        "file": "AvaNormalModifier.h"
+      },
+      "properties": [
+        {"name": "angle_threshold", "type": "float", "access": "read-write"},
+        {"name": "angle_weighted", "type": "bool", "access": "read-write"},
+        {"name": "area_weighted", "type": "bool", "access": "read-write"},
+        {"name": "invert", "type": "bool", "access": "read-write"},
+        {"name": "modifier_enabled", "type": "bool", "access": "read-write"},
+        {"name": "poly_group_layer", "type": "str", "access": "read-write"},
+        {"name": "split_method", "type": "AvaNormalModifierSplitMethod", "access": "read-write"}
+      ],
+      "methods": [
+        {"name": "set_split_method", "return_type": "None", "params": ["AvaNormalModifierSplitMethod"]},
+        {"name": "set_poly_group_layer_idx", "return_type": "None", "params": ["int"]},
+        {"name": "set_invert", "return_type": "None", "params": ["bool"]},
+        {"name": "set_area_weighted", "return_type": "None", "params": ["bool"]},
+        {"name": "set_angle_weighted", "return_type": "None", "params": ["bool"]},
+        {"name": "set_angle_threshold", "return_type": "None", "params": ["float"]},
+        {"name": "get_split_method", "return_type": "AvaNormalModifierSplitMethod", "params": []},
+        {"name": "get_poly_group_layer_idx", "return_type": "int", "params": []},
+        {"name": "get_invert", "return_type": "bool", "params": []},
+        {"name": "get_area_weighted", "return_type": "bool", "params": []},
+        {"name": "get_angle_weighted", "return_type": "bool", "params": []},
+        {"name": "get_angle_threshold", "return_type": "float", "params": []}
+      ]
+    },
+    {
+      "id": "RigUnit_CollectionChildren",
+      "type": "class",
+      "label": "RigUnit_CollectionChildren",
+      "description": "Creates a collection based on the direct or recursive children of a provided parent item. Returns an empty collection for an invalid parent item.",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_Collection.h"
+      },
+      "properties": [
+        {"name": "collection", "type": "RigElementKeyCollection", "access": "read-write"},
+        {"name": "include_parent", "type": "bool", "access": "read-write"},
+        {"name": "parent", "type": "RigElementKey", "access": "read-write"},
+        {"name": "recursive", "type": "bool", "access": "read-write"},
+        {"name": "type_to_search", "type": "RigElementType", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "EarthUniqueEntityBase",
+      "type": "class",
+      "label": "EarthUniqueEntityBase",
+      "description": "Earth Unique Entity Base",
+      "source": {
+        "plugin": "AesWorld",
+        "module": "EarthCore",
+        "file": "EarthUniqueEntityBase.h"
+      },
+      "properties": [
+        {"name": "actor_guid", "type": "Guid", "access": "read-write"},
+        {"name": "actor_instance_guid", "type": "Guid", "access": "read-write"},
+        {"name": "allow_tick_before_begin_play", "type": "bool", "access": "read-write"},
+        {"name": "always_relevant", "type": "bool", "access": "read-write"},
+        {"name": "async_physics_tick_enabled", "type": "bool", "access": "read-write"},
+        {"name": "auto_destroy_when_finished", "type": "bool", "access": "read-write"},
+        {"name": "auto_receive_input", "type": "AutoReceiveInput", "access": "read-write"},
+        {"name": "block_input", "type": "bool", "access": "read-write"},
+        {"name": "call_pre_replication", "type": "bool", "access": "read-write"},
+        {"name": "call_pre_replication_for_replay", "type": "bool", "access": "read-write"},
+        {"name": "can_be_damaged", "type": "bool", "access": "read-write"},
+        {"name": "can_be_in_cluster", "type": "bool", "access": "read-write"},
+        {"name": "content_bundle_guid", "type": "Guid", "access": "read-write"},
+        {"name": "custom_time_dilation", "type": "float", "access": "read-write"},
+        {"name": "data_layer_assets", "type": "Array[DataLayerAsset]", "access": "read-write"},
+        {"name": "data_layers", "type": "Array[ActorDataLayer]", "access": "read-only"},
+        {"name": "default_update_overlaps_method_during_level_streaming", "type": "ActorUpdateOverlapsMethod", "access": "read-only"},
+        {"name": "enable_auto_lod_generation", "type": "bool", "access": "read-write"},
+        {"name": "entity_atoms", "type": "Array[EarthEntityAtomBase]", "access": "read-only"},
+        {"name": "entity_id", "type": "int64", "access": "read-only"},
+        {"name": "external_data_layer_asset", "type": "ExternalDataLayerAsset", "access": "read-only"},
+        {"name": "find_camera_component_when_view_target", "type": "bool", "access": "read-write"},
+        {"name": "generate_overlap_events_during_level_streaming", "type": "bool", "access": "read-write"},
+        {"name": "hidden", "type": "bool", "access": "read-write"},
+        {"name": "hlod_layer", "type": "HLODLayer", "access": "read-write"},
+        {"name": "ignores_origin_shifting", "type": "bool", "access": "read-write"},
+        {"name": "initial_life_span", "type": "float", "access": "read-write"},
+        {"name": "input_priority", "type": "int32", "access": "read-write"},
+        {"name": "instigator", "type": "Pawn", "access": "read-write"},
+        {"name": "is_editor_only_actor", "type": "bool", "access": "read-write"},
+        {"name": "is_main_world_only", "type": "bool", "access": "read-write"},
+        {"name": "is_spatially_loaded", "type": "bool", "access": "read-write"},
+        {"name": "layers", "type": "Array[Name]", "access": "read-write"},
+        {"name": "min_net_update_frequency", "type": "float", "access": "read-write"},
+        {"name": "net_cull_distance_squared", "type": "float", "access": "read-write"},
+        {"name": "net_dormancy", "type": "NetDormancy", "access": "read-write"},
+        {"name": "net_load_on_client", "type": "bool", "access": "read-write"},
+        {"name": "net_priority", "type": "float", "access": "read-write"},
+        {"name": "net_update_frequency", "type": "float", "access": "read-write"},
+        {"name": "net_use_owner_relevancy", "type": "bool", "access": "read-write"},
+        {"name": "on_actor_begin_overlap", "type": "ActorBeginOverlapSignature", "access": "read-write"},
+        {"name": "on_actor_end_overlap", "type": "ActorEndOverlapSignature", "access": "read-write"},
+        {"name": "on_actor_hit", "type": "ActorHitSignature", "access": "read-write"},
+        {"name": "on_begin_cursor_over", "type": "ActorBeginCursorOverSignature", "access": "read-write"},
+        {"name": "on_clicked", "type": "ActorOnClickedSignature", "access": "read-write"},
+        {"name": "on_destroyed", "type": "ActorDestroyedSignature", "access": "read-write"},
+        {"name": "on_end_cursor_over", "type": "ActorEndCursorOverSignature", "access": "read-write"},
+        {"name": "on_end_play", "type": "ActorEndPlaySignature", "access": "read-write"},
+        {"name": "on_input_touch_begin", "type": "ActorOnInputTouchBeginSignature", "access": "read-write"},
+        {"name": "on_input_touch_end", "type": "ActorOnInputTouchEndSignature", "access": "read-write"},
+        {"name": "on_input_touch_enter", "type": "ActorBeginTouchOverSignature", "access": "read-write"},
+        {"name": "on_input_touch_leave", "type": "ActorEndTouchOverSignature", "access": "read-write"},
+        {"name": "on_released", "type": "ActorOnReleasedSignature", "access": "read-write"},
+        {"name": "on_take_any_damage", "type": "TakeAnyDamageSignature", "access": "read-write"},
+        {"name": "on_take_point_damage", "type": "TakePointDamageSignature", "access": "read-write"},
+        {"name": "on_take_radial_damage", "type": "TakeRadialDamageSignature", "access": "read-write"},
+        {"name": "only_relevant_to_owner", "type": "bool", "access": "read-write"},
+        {"name": "optimize_bp_component_data", "type": "bool", "access": "read-write"},
+        {"name": "physics_replication_mode", "type": "PhysicsReplicationMode", "access": "read-write"},
+        {"name": "pivot_offset", "type": "Vector", "access": "read-write"},
+        {"name": "primary_actor_tick", "type": "ActorTickFunction", "access": "read-write"},
+        {"name": "relevant_for_level_bounds", "type": "bool", "access": "read-write"},
+        {"name": "remote_role", "type": "NetRole", "access": "read-only"},
+        {"name": "replay_rewindable", "type": "bool", "access": "read-write"},
+        {"name": "replicate_movement", "type": "bool", "access": "read-write"},
+        {"name": "replicate_using_registered_sub_object_list", "type": "bool", "access": "read-write"},
+        {"name": "replicated_movement", "type": "RepMovement", "access": "read-write"},
+        {"name": "replicates", "type": "bool", "access": "read-write"},
+        {"name": "role", "type": "NetRole", "access": "read-only"},
+        {"name": "root_component", "type": "SceneComponent", "access": "read-write"},
+        {"name": "runtime_grid", "type": "Name", "access": "read-write"},
+        {"name": "spawn_collision_handling_method", "type": "SpawnActorCollisionHandlingMethod", "access": "read-write"},
+        {"name": "sprite_scale", "type": "float", "access": "read-write"},
+        {"name": "tags", "type": "Array[Name]", "access": "read-write"},
+        {"name": "update_overlaps_method_during_level_streaming", "type": "ActorUpdateOverlapsMethod", "access": "read-write"}
+      ],
+      "methods": [
+        {"name": "merge_entity", "return_type": "bool", "params": ["Map[Class, EarthEntityAtomBase]"]}
+      ]
+    },
+    {
+      "id": "MVVMBlueprintViewConversionPath",
+      "type": "struct",
+      "label": "MVVMBlueprintViewConversionPath",
+      "description": "MVVMBlueprint View Conversion Path",
+      "source": {
+        "plugin": "ModelViewViewModel",
+        "module": "ModelViewViewModelBlueprint",
+        "file": "MVVMBlueprintViewBinding.h"
+      },
+      "properties": [
+        {"name": "destination_to_source_conversion", "type": "MVVMBlueprintViewConversionFunction", "access": "read-only"},
+        {"name": "source_to_destination_conversion", "type": "MVVMBlueprintViewConversionFunction", "access": "read-only"}
+      ]
+    },
+    {
+      "id": "MovieSceneAnimatorSection",
+      "type": "class",
+      "label": "MovieSceneAnimatorSection",
+      "description": "Movie scene section for a sequencer animator track",
+      "source": {
+        "plugin": "PropertyAnimatorCore",
+        "module": "PropertyAnimatorCore",
+        "file": "MovieSceneAnimatorSection.h"
+      },
+      "properties": [
+        {"name": "color_tint", "type": "Color", "access": "read-write"},
+        {"name": "condition_container", "type": "MovieSceneConditionContainer", "access": "read-write"},
+        {"name": "custom_end_time", "type": "double", "access": "read-write"},
+        {"name": "custom_start_time", "type": "double", "access": "read-write"},
+        {"name": "easing", "type": "MovieSceneEasingSettings", "access": "read-write"},
+        {"name": "eval_options", "type": "MovieSceneSectionEvalOptions", "access": "read-write"},
+        {"name": "eval_time_mode", "type": "MovieSceneAnimatorEvalTimeMode", "access": "read-write"},
+        {"name": "is_active", "type": "bool", "access": "read-write"},
+        {"name": "is_locked", "type": "bool", "access": "read-write"},
+        {"name": "post_roll_frames", "type": "FrameNumber", "access": "read-write"},
+        {"name": "pre_roll_frames", "type": "FrameNumber", "access": "read-write"},
+        {"name": "section_range", "type": "MovieSceneFrameRange", "access": "read-write"},
+        {"name": "timecode_source", "type": "MovieSceneTimecodeSource", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "GenerateStaticMeshLODProcess_PreprocessSettings",
+      "type": "struct",
+      "label": "GenerateStaticMeshLODProcess_PreprocessSettings",
+      "description": "Generate Static Mesh LODProcess Preprocess Settings",
+      "source": {
+        "plugin": "MeshLODToolset",
+        "module": "MeshLODToolset",
+        "file": "GenerateStaticMeshLODProcess.h"
+      },
+      "properties": [
+        {"name": "filter_group_layer", "type": "Name", "access": "read-write"},
+        {"name": "thicken_amount", "type": "float", "access": "read-write"},
+        {"name": "thicken_weight_map_name", "type": "Name", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "PhysicsAssetEditorPhysicsHandleComponent",
+      "type": "class",
+      "label": "PhysicsAssetEditorPhysicsHandleComponent",
+      "description": "Extend the Physics Handle for PhAt. This adds support for manipulating the physics if it is running in a RigidBody AnimNode (which is always is with Chaos at the moment).",
+      "source": {
+        "module": "PhysicsAssetEditor",
+        "file": "PhysicsAssetEditorPhysicsHandleComponent.h"
+      },
+      "properties": [
+        {"name": "angular_damping", "type": "float", "access": "read-write"},
+        {"name": "angular_stiffness", "type": "float", "access": "read-write"},
+        {"name": "asset_user_data", "type": "Array[AssetUserData]", "access": "read-write"},
+        {"name": "asset_user_data_editor_only", "type": "Array[AssetUserData]", "access": "read-write"},
+        {"name": "auto_activate", "type": "bool", "access": "read-write"},
+        {"name": "can_ever_affect_navigation", "type": "bool", "access": "read-write"},
+        {"name": "component_tags", "type": "Array[Name]", "access": "read-write"},
+        {"name": "editable_when_inherited", "type": "bool", "access": "read-write"},
+        {"name": "interpolate_target", "type": "bool", "access": "read-write"},
+        {"name": "interpolation_speed", "type": "float", "access": "read-write"},
+        {"name": "is_editor_only", "type": "bool", "access": "read-write"},
+        {"name": "linear_damping", "type": "float", "access": "read-write"},
+        {"name": "linear_stiffness", "type": "float", "access": "read-write"},
+        {"name": "on_component_activated", "type": "ActorComponentActivatedSignature", "access": "read-write"},
+        {"name": "on_component_deactivated", "type": "ActorComponentDeactivateSignature", "access": "read-write"},
+        {"name": "primary_component_tick", "type": "ActorComponentTickFunction", "access": "read-write"},
+        {"name": "replicate_using_registered_sub_object_list", "type": "bool", "access": "read-write"},
+        {"name": "replicates", "type": "bool", "access": "read-write"},
+        {"name": "soft_angular_constraint", "type": "bool", "access": "read-write"},
+        {"name": "soft_linear_constraint", "type": "bool", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "GameplayEffectPeriodInhibitionRemovedPolicy",
+      "type": "enum",
+      "label": "GameplayEffectPeriodInhibitionRemovedPolicy",
+      "description": "Enumeration of policies for dealing with the period of a gameplay effect when inhibition is removed",
+      "source": {
+        "plugin": "GameplayAbilities",
+        "module": "GameplayAbilities",
+        "file": "GameplayEffect.h"
+      },
+      "values": [
+        {"name": "NEVER_RESET", "value": 0, "description": "Does not reset. The period timing will continue as if the inhibition hadn't occurred."},
+        {"name": "RESET_PERIOD", "value": 1, "description": "Resets the period. The next execution will occur one full period from when inhibition is removed."},
+        {"name": "EXECUTE_AND_RESET_PERIOD", "value": 2, "description": "Executes immediately and resets the period."}
+      ]
+    }
+  ],
+  "edges": [
+    {"source": "RigUnit_HierarchyAddAnimationChannelScaleVector", "target": "RigUnit_HierarchyAddElement", "type": "inherits"},
+    {"source": "PCGUnitTestDummyComponent", "target": "ActorComponent", "type": "inherits"},
+    {"source": "GeometryScriptCreateNewTexture2DAssetOptions", "target": "StructBase", "type": "inherits"},
+    {"source": "RigVMFunction_MathVectorIsNearlyZero", "target": "RigVMFunction_MathVectorBase", "type": "inherits"},
+    {"source": "InterchangeTextureFactoryNode", "target": "InterchangeFactoryBaseNode", "type": "inherits"},
+    {"source": "SubUVBoundingVertexCount", "target": "EnumBase", "type": "inherits"},
+    {"source": "SkyCreatorSunPositionType", "target": "EnumBase", "type": "inherits"},
+    {"source": "ComposurePostProcessPassPolicy", "target": "Object", "type": "inherits"},
+    {"source": "NavigationLink", "target": "NavigationLinkBase", "type": "inherits"},
+    {"source": "RigUnit_BinaryQuaternionOp", "target": "RigUnit", "type": "inherits"},
+    {"source": "AvaSequenceTime", "target": "StructBase", "type": "inherits"},
+    {"source": "CollisionResponseContainer", "target": "StructBase", "type": "inherits"},
+    {"source": "NiagaraDataInterfaceRenderTarget2D", "target": "NiagaraDataInterfaceRWBase", "type": "inherits"},
+    {"source": "PlayerMappableKeySlotData", "target": "StructBase", "type": "inherits"},
+    {"source": "AvaNormalModifier", "target": "AvaGeometryBaseModifier", "type": "inherits"},
+    {"source": "RigUnit_CollectionChildren", "target": "RigUnit_CollectionBase", "type": "inherits"},
+    {"source": "EarthUniqueEntityBase", "target": "EarthStandardActorEntity", "type": "inherits"},
+    {"source": "MVVMBlueprintViewConversionPath", "target": "StructBase", "type": "inherits"},
+    {"source": "MovieSceneAnimatorSection", "target": "MovieSceneSection", "type": "inherits"},
+    {"source": "GenerateStaticMeshLODProcess_PreprocessSettings", "target": "StructBase", "type": "inherits"},
+    {"source": "PhysicsAssetEditorPhysicsHandleComponent", "target": "PhysicsHandleComponent", "type": "inherits"},
+    {"source": "GameplayEffectPeriodInhibitionRemovedPolicy", "target": "EnumBase", "type": "inherits"},
+    {"source": "ControlRig", "target": "RigUnit_HierarchyAddAnimationChannelScaleVector", "type": "provides", "module": "ControlRig"},
+    {"source": "ControlRig", "target": "RigVMFunction_MathVectorIsNearlyZero", "type": "provides", "module": "ControlRig"},
+    {"source": "ControlRig", "target": "RigUnit_BinaryQuaternionOp", "type": "provides", "module": "ControlRig"},
+    {"source": "ControlRig", "target": "RigUnit_CollectionChildren", "type": "provides", "module": "ControlRig"},
+    {"source": "PCG", "target": "PCGUnitTestDummyComponent", "type": "provides", "module": "PCG"},
+    {"source": "GeometryScripting", "target": "GeometryScriptCreateNewTexture2DAssetOptions", "type": "provides", "module": "GeometryScriptingEditor"},
+    {"source": "RigVM", "target": "RigVMFunction_MathVectorIsNearlyZero", "type": "provides", "module": "RigVM"},
+    {"source": "Interchange", "target": "InterchangeTextureFactoryNode", "type": "provides", "module": "InterchangeFactoryNodes"},
+    {"source": "Engine", "target": "SubUVBoundingVertexCount", "type": "provides", "module": "Engine"},
+    {"source": "Engine", "target": "NavigationLink", "type": "provides", "module": "Engine"},
+    {"source": "Engine", "target": "CollisionResponseContainer", "type": "provides", "module": "Engine"},
+    {"source": "SkyCreatorPlugin", "target": "SkyCreatorSunPositionType", "type": "provides", "module": "SkyCreatorPlugin"},
+    {"source": "Composure", "target": "ComposurePostProcessPassPolicy", "type": "provides", "module": "Composure"},
+    {"source": "Avalanche", "target": "AvaSequenceTime", "type": "provides", "module": "AvalancheSequence"},
+    {"source": "Avalanche", "target": "AvaNormalModifier", "type": "provides", "module": "AvalancheModifiers"},
+    {"source": "Niagara", "target": "NiagaraDataInterfaceRenderTarget2D", "type": "provides", "module": "Niagara"},
+    {"source": "EnhancedInput", "target": "PlayerMappableKeySlotData", "type": "provides", "module": "EnhancedInput"},
+    {"source": "AesWorld", "target": "EarthUniqueEntityBase", "type": "provides", "module": "EarthCore"},
+    {"source": "ModelViewViewModel", "target": "MVVMBlueprintViewConversionPath", "type": "provides", "module": "ModelViewViewModelBlueprint"},
+    {"source": "PropertyAnimatorCore", "target": "MovieSceneAnimatorSection", "type": "provides", "module": "PropertyAnimatorCore"},
+    {"source": "MeshLODToolset", "target": "GenerateStaticMeshLODProcess_PreprocessSettings", "type": "provides", "module": "MeshLODToolset"},
+    {"source": "PhysicsAssetEditor", "target": "PhysicsAssetEditorPhysicsHandleComponent", "type": "provides", "module": "PhysicsAssetEditor"},
+    {"source": "GameplayAbilities", "target": "GameplayEffectPeriodInhibitionRemovedPolicy", "type": "provides", "module": "GameplayAbilities"}
+  ]
+}

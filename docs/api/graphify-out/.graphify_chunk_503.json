@@ -1,0 +1,493 @@
+{
+  "nodes": [
+    {
+      "id": "coveringlibrary_coveringlibrary",
+      "label": "CoveringLibrary",
+      "file_type": "code",
+      "source_file": "CoveringLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringlibrary_store_triangles_location_to_texture",
+      "label": "store_triangles_location_to_texture",
+      "file_type": "code",
+      "source_file": "CoveringLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringlibrary_store_points_location_to_texture",
+      "label": "store_points_location_to_texture",
+      "file_type": "code",
+      "source_file": "CoveringLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+      "label": "RigVMFunction_MathTransformRotateVector",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformRotateVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstaticswitch_materialexpressionstaticswitch",
+      "label": "MaterialExpressionStaticSwitch",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStaticSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigworkflowoptions_controlrigworkflowoptions",
+      "label": "ControlRigWorkflowOptions",
+      "file_type": "code",
+      "source_file": "ControlRigWorkflowOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxfromarray_rigvmfunction_mathboxfromarray",
+      "label": "RigVMFunction_MathBoxFromArray",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoxFromArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolcolor_rigunit_setcontrolcolor",
+      "label": "RigUnit_SetControlColor",
+      "file_type": "code",
+      "source_file": "RigUnit_SetControlColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "realtimevideoapi_realtimevideoapi",
+      "label": "RealTimeVideoAPI",
+      "file_type": "code",
+      "source_file": "RealTimeVideoAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_noisefloat_rigunit_noisefloat",
+      "label": "RigUnit_NoiseFloat",
+      "file_type": "code",
+      "source_file": "RigUnit_NoiseFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshinstancevisualizationmeshdesc_staticmeshinstancevisualizationmeshdesc",
+      "label": "StaticMeshInstanceVisualizationMeshDesc",
+      "file_type": "code",
+      "source_file": "StaticMeshInstanceVisualizationMeshDesc Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waveformtransformationbase_waveformtransformationbase",
+      "label": "WaveformTransformationBase",
+      "file_type": "code",
+      "source_file": "WaveformTransformationBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaracompilationmode_niagaracompilationmode",
+      "label": "NiagaraCompilationMode",
+      "file_type": "code",
+      "source_file": "NiagaraCompilationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthoutlineprefab_earthoutlineprefab",
+      "label": "EarthOutlinePrefab",
+      "file_type": "code",
+      "source_file": "EarthOutlinePrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "crsimpoint_crsimpoint",
+      "label": "CRSimPoint",
+      "file_type": "code",
+      "source_file": "CRSimPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlineproxyinappreceiptsresult_onlineproxyinappreceiptsresult",
+      "label": "OnlineProxyInAppReceiptsResult",
+      "file_type": "code",
+      "source_file": "OnlineProxyInAppReceiptsResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zoneshapepoint_zoneshapepoint",
+      "label": "ZoneShapePoint",
+      "file_type": "code",
+      "source_file": "ZoneShapePoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptremovehiddentrianglesoptions_geometryscriptremovehiddentrianglesoptions",
+      "label": "GeometryScriptRemoveHiddenTrianglesOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptRemoveHiddenTrianglesOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "outlinecomponentparams_outlinecomponentparams",
+      "label": "OutlineComponentParams",
+      "file_type": "code",
+      "source_file": "OutlineComponentParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent_actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "code",
+      "source_file": "ActorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgworldrayhitqueryparams_pcgworldrayhitqueryparams",
+      "label": "PCGWorldRayHitQueryParams",
+      "file_type": "code",
+      "source_file": "PCGWorldRayHitQueryParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_startprofilingtimer_rigunit_startprofilingtimer",
+      "label": "RigUnit_StartProfilingTimer",
+      "file_type": "code",
+      "source_file": "RigUnit_StartProfilingTimer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "coveringlibrary_store_triangles_location_to_texture",
+      "target": "coveringlibrary_coveringlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoveringLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coveringlibrary_store_points_location_to_texture",
+      "target": "coveringlibrary_coveringlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoveringLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coveringlibrary_store_triangles_location_to_texture",
+      "target": "coveringlibrary_store_points_location_to_texture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CoveringLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+      "target": "rigvmfunction_mathboxfromarray_rigvmfunction_mathboxfromarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathTransformRotateVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolcolor_rigunit_setcontrolcolor",
+      "target": "controlrigworkflowoptions_controlrigworkflowoptions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_SetControlColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolcolor_rigunit_setcontrolcolor",
+      "target": "rigunit_startprofilingtimer_rigunit_startprofilingtimer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SetControlColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_noisefloat_rigunit_noisefloat",
+      "target": "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_NoiseFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthoutlineprefab_earthoutlineprefab",
+      "target": "zoneshapepoint_zoneshapepoint",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthOutlinePrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthoutlineprefab_earthoutlineprefab",
+      "target": "outlinecomponentparams_outlinecomponentparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthOutlinePrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zoneshapepoint_zoneshapepoint",
+      "target": "geometryscriptremovehiddentrianglesoptions_geometryscriptremovehiddentrianglesoptions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ZoneShapePoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "realtimevideoapi_realtimevideoapi",
+      "target": "coveringlibrary_coveringlibrary",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RealTimeVideoAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgworldrayhitqueryparams_pcgworldrayhitqueryparams",
+      "target": "actorcomponent_actorcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGWorldRayHitQueryParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgworldrayhitqueryparams_pcgworldrayhitqueryparams",
+      "target": "geometryscriptremovehiddentrianglesoptions_geometryscriptremovehiddentrianglesoptions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGWorldRayHitQueryParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "crsimpoint_crsimpoint",
+      "target": "rigunit_setcontrolcolor_rigunit_setcontrolcolor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CRSimPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "crsimpoint_crsimpoint",
+      "target": "rigunit_startprofilingtimer_rigunit_startprofilingtimer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CRSimPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaracompilationmode_niagaracompilationmode",
+      "target": "waveformtransformationbase_waveformtransformationbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NiagaraCompilationMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "outlinecomponentparams_outlinecomponentparams",
+      "target": "actorcomponent_actorcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "OutlineComponentParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticmeshinstancevisualizationmeshdesc_staticmeshinstancevisualizationmeshdesc",
+      "target": "actorcomponent_actorcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "StaticMeshInstanceVisualizationMeshDesc Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_startprofilingtimer_rigunit_startprofilingtimer",
+      "target": "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_StartProfilingTimer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_startprofilingtimer_rigunit_startprofilingtimer",
+      "target": "rigvmfunction_mathboxfromarray_rigvmfunction_mathboxfromarray",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_StartProfilingTimer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_ecosystem",
+      "label": "Control Rig Ecosystem",
+      "nodes": [
+        "rigunit_setcontrolcolor_rigunit_setcontrolcolor",
+        "controlrigworkflowoptions_controlrigworkflowoptions",
+        "rigunit_startprofilingtimer_rigunit_startprofilingtimer",
+        "crsimpoint_crsimpoint"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_SetControlColor Objects.md"
+    },
+    {
+      "id": "geometric_texture_baking",
+      "label": "Geometric Texture Baking",
+      "nodes": [
+        "coveringlibrary_store_triangles_location_to_texture",
+        "coveringlibrary_store_points_location_to_texture",
+        "coveringlibrary_coveringlibrary",
+        "realtimevideoapi_realtimevideoapi"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CoveringLibrary Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+        "rigvmfunction_mathboxfromarray_rigvmfunction_mathboxfromarray",
+        "rigunit_noisefloat_rigunit_noisefloat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathTransformRotateVector Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

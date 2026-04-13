@@ -1,0 +1,539 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "label": "RigUnit SetMultiControlBool",
+      "file_type": "code",
+      "source_file": "RigUnit_SetMultiControlBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseconfig_team_aisenseconfig_team",
+      "label": "AISenseConfig Team",
+      "file_type": "code",
+      "source_file": "AISenseConfig__Team Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertargetsamplecount_texturerendertargetsamplecount",
+      "label": "TextureRenderTargetSampleCount",
+      "file_type": "code",
+      "source_file": "TextureRenderTargetSampleCount Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreestate_statetreestate",
+      "label": "StateTreeState",
+      "file_type": "code",
+      "source_file": "StateTreeState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointdamageevent_pointdamageevent",
+      "label": "PointDamageEvent",
+      "file_type": "code",
+      "source_file": "PointDamageEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodyheightmapsettings_waterbodyheightmapsettings",
+      "label": "WaterBodyHeightmapSettings",
+      "file_type": "code",
+      "source_file": "WaterBodyHeightmapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionobjectorientation_dmmaterialstageexpressionobjectorientation",
+      "label": "DMMaterialStageExpressionObjectOrientation",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionObjectOrientation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialtexture_dmmaterialtexture",
+      "label": "DMMaterialTexture",
+      "file_type": "code",
+      "source_file": "DMMaterialTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "easingfunctype_easingfunctype",
+      "label": "EasingFuncType",
+      "file_type": "code",
+      "source_file": "EasingFuncType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "api_startandendpointinarray_api_startandendpointinarray",
+      "label": "API StartAndEndPointInArray",
+      "file_type": "code",
+      "source_file": "API__StartAndEndPointInArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorvisiondeficiency_colorvisiondeficiency",
+      "label": "ColorVisionDeficiency",
+      "file_type": "code",
+      "source_file": "ColorVisionDeficiency Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffectsoundwavefactory_hapticfeedbackeffectsoundwavefactory",
+      "label": "HapticFeedbackEffectSoundWaveFactory",
+      "file_type": "code",
+      "source_file": "HapticFeedbackEffectSoundWaveFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangerectlightfactorynode_interchangerectlightfactorynode",
+      "label": "InterchangeRectLightFactoryNode",
+      "file_type": "code",
+      "source_file": "InterchangeRectLightFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multilineeditabletext_multilineeditabletext",
+      "label": "MultiLineEditableText",
+      "file_type": "code",
+      "source_file": "MultiLineEditableText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigElementKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pgcopyattributesoperation_pgcopyattributesoperation",
+      "label": "PCGCopyAttributesOperation",
+      "file_type": "code",
+      "source_file": "PCGCopyAttributesOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialdecalresponse_materialdecalresponse",
+      "label": "MaterialDecalResponse",
+      "file_type": "code",
+      "source_file": "MaterialDecalResponse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leveleditorcontextmenucontext_leveleditorcontextmenucontext",
+      "label": "LevelEditorContextMenuContext",
+      "file_type": "code",
+      "source_file": "LevelEditorContextMenuContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsfieldcomponent_physicsfieldcomponent",
+      "label": "PhysicsFieldComponent",
+      "file_type": "code",
+      "source_file": "PhysicsFieldComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "initialoscillatoroffset_initialoscillatoroffset",
+      "label": "InitialOscillatorOffset",
+      "file_type": "code",
+      "source_file": "InitialOscillatorOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdatatypelibrary_earthdatatypelibrary",
+      "label": "EarthDataTypeLibrary",
+      "file_type": "code",
+      "source_file": "EarthDataTypeLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystemfactorynew_niagarasystemfactorynew",
+      "label": "NiagaraSystemFactoryNew",
+      "file_type": "code",
+      "source_file": "NiagaraSystemFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_executecontext_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit_SetMultiControlBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolbool_entry_rigunit_setmulticontrolbool_entry",
+      "label": "RigUnit SetMultiControlBool Entry",
+      "file_type": "code",
+      "source_file": "RigUnit_SetMultiControlBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbrushblendtype_waterbrushblendtype",
+      "label": "WaterBrushBlendType",
+      "file_type": "code",
+      "source_file": "WaterBodyHeightmapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbrushffects_waterbrushffects",
+      "label": "WaterBrushEffects",
+      "file_type": "code",
+      "source_file": "WaterBodyHeightmapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterfalloffsetsettings_waterfalloffsetsettings",
+      "label": "WaterFalloffSettings",
+      "file_type": "code",
+      "source_file": "WaterBodyHeightmapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmtexturechannelmask_dmtexturechannelmask",
+      "label": "DMTextureChannelMask",
+      "file_type": "code",
+      "source_file": "DMMaterialTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textblockstyle_textblockstyle",
+      "label": "TextBlockStyle",
+      "file_type": "code",
+      "source_file": "MultiLineEditableText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmultilineeditabletextchangedevent_onmultilineeditabletextchangedevent",
+      "label": "OnMultiLineEditableTextChangedEvent",
+      "file_type": "code",
+      "source_file": "MultiLineEditableText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmultilineeditabletextcommittedevent_onmultilineeditabletextcommittedevent",
+      "label": "OnMultiLineEditableTextCommittedEvent",
+      "file_type": "code",
+      "source_file": "MultiLineEditableText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdatabase_earthdatabase",
+      "label": "EarthDataBase",
+      "file_type": "code",
+      "source_file": "EarthDataTypeLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "instancedstruct_instancedstruct",
+      "label": "InstancedStruct",
+      "file_type": "code",
+      "source_file": "EarthDataTypeLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "target": "controlrig_executecontext_controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetMultiControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "target": "rigunit_setmulticontrolbool_entry_rigunit_setmulticontrolbool_entry",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetMultiControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodyheightmapsettings_waterbodyheightmapsettings",
+      "target": "waterbrushblendtype_waterbrushblendtype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyHeightmapSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodyheightmapsettings_waterbodyheightmapsettings",
+      "target": "waterbrushffects_waterbrushffects",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyHeightmapSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodyheightmapsettings_waterbodyheightmapsettings",
+      "target": "waterfalloffsetsettings_waterfalloffsetsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyHeightmapSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialtexture_dmmaterialtexture",
+      "target": "dmtexturechannelmask_dmtexturechannelmask",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "multilineeditabletext_multilineeditabletext",
+      "target": "textblockstyle_textblockstyle",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MultiLineEditableText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "multilineeditabletext_multilineeditabletext",
+      "target": "onmultilineeditabletextchangedevent_onmultilineeditabletextchangedevent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MultiLineEditableText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "multilineeditabletext_multilineeditabletext",
+      "target": "onmultilineeditabletextcommittedevent_onmultilineeditabletextcommittedevent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MultiLineEditableText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdatatypelibrary_earthdatatypelibrary",
+      "target": "earthdatabase_earthdatabase",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDataTypeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdatatypelibrary_earthdatatypelibrary",
+      "target": "instancedstruct_instancedstruct",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDataTypeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementkey_rigelementkey",
+      "target": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigElementKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointdamageevent_pointdamageevent",
+      "target": "materialdecalresponse_materialdecalresponse",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PointDamageEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackeffectsoundwavefactory_hapticfeedbackeffectsoundwavefactory",
+      "target": "niagarasystemfactorynew_niagarasystemfactorynew",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "HapticFeedbackEffectSoundWaveFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_hierarchy_system",
+      "label": "ControlRig Hierarchy System",
+      "nodes": [
+        "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+        "rigelementkey_rigelementkey",
+        "controlrig_executecontext_controlrigexecutecontext"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_SetMultiControlBool Objects.md"
+    },
+    {
+      "id": "factory_pattern_implementations",
+      "label": "Factory Pattern Implementations",
+      "nodes": [
+        "hapticfeedbackeffectsoundwavefactory_hapticfeedbackeffectsoundwavefactory",
+        "interchangerectlightfactorynode_interchangerectlightfactorynode",
+        "niagarasystemfactorynew_niagarasystemfactorynew"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "HapticFeedbackEffectSoundWaveFactory Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

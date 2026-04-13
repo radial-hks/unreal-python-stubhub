@@ -1,0 +1,899 @@
+{
+  "nodes": [
+    {
+      "id": "abilitytask_waitgameplayeffectapplied",
+      "label": "AbilityTask WaitGameplayEffectApplied",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayEffectApplied Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask",
+      "label": "AbilityTask",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayEffectApplied Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilities_plugin",
+      "label": "GameplayAbilities Plugin",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayEffectApplied Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationsystembase",
+      "label": "NavigationSystemBase",
+      "file_type": "document",
+      "source_file": "NavigationSystemBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "NavigationSystemBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "NavigationSystemBase Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "richtextblockinlinedecorator",
+      "label": "RichTextBlockInlineDecorator",
+      "file_type": "document",
+      "source_file": "RichTextBlockInlineDecorator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "richtextblockdecorator",
+      "label": "RichTextBlockDecorator",
+      "file_type": "document",
+      "source_file": "RichTextBlockInlineDecorator Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "RichTextBlockInlineDecorator Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inline_text_styling",
+      "label": "Inline Text Styling",
+      "file_type": "document",
+      "source_file": "RichTextBlockInlineDecorator Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptdisplacefromtextureoptions",
+      "label": "GeometryScriptDisplaceFromTextureOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_displacement",
+      "label": "Texture Displacement",
+      "file_type": "document",
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d",
+      "label": "Vector2D",
+      "file_type": "document",
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perplatformint",
+      "label": "PerPlatformInt",
+      "file_type": "document",
+      "source_file": "PerPlatformInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coreuobject_module",
+      "label": "CoreUObject Module",
+      "file_type": "document",
+      "source_file": "PerPlatformInt Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "per_platform_overrides",
+      "label": "Per-Platform Overrides",
+      "file_type": "document",
+      "source_file": "PerPlatformInt Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondistancefieldgradient",
+      "label": "MaterialExpressionDistanceFieldGradient",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDistanceFieldGradient Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDistanceFieldGradient Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distance_field_rendering",
+      "label": "Distance Field Rendering",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDistanceFieldGradient Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "positionorigin",
+      "label": "PositionOrigin",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDistanceFieldGradient Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonergridconstraintsphere",
+      "label": "CEClonerGridConstraintSphere",
+      "file_type": "document",
+      "source_file": "CEClonerGridConstraintSphere Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clonereffector_plugin",
+      "label": "ClonerEffector Plugin",
+      "file_type": "document",
+      "source_file": "CEClonerGridConstraintSphere Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "grid_constraint",
+      "label": "Grid Constraint",
+      "file_type": "document",
+      "source_file": "CEClonerGridConstraintSphere Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "CEClonerGridConstraintSphere Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterwidgetcomponent",
+      "label": "DisplayClusterWidgetComponent",
+      "file_type": "document",
+      "source_file": "DisplayClusterWidgetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetcomponent",
+      "label": "WidgetComponent",
+      "file_type": "document",
+      "source_file": "DisplayClusterWidgetComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndisplay_plugin",
+      "label": "nDisplay Plugin",
+      "file_type": "document",
+      "source_file": "DisplayClusterWidgetComponent Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_initialization_optimization",
+      "label": "Widget Initialization Optimization",
+      "file_type": "document",
+      "source_file": "DisplayClusterWidgetComponent Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reverbvolume",
+      "label": "ReverbVolume",
+      "file_type": "document",
+      "source_file": "ReverbVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiovolume",
+      "label": "AudioVolume",
+      "file_type": "document",
+      "source_file": "ReverbVolume Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorunaryop",
+      "label": "RigVMFunction MathVectorUnaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction MathVectorBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unary_vector_operations",
+      "label": "Unary Vector Operations",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animatedtexturefactory",
+      "label": "AnimatedTextureFactory",
+      "file_type": "document",
+      "source_file": "AnimatedTextureFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthanimatedtexturefactory",
+      "label": "EarthAnimatedTextureFactory",
+      "file_type": "document",
+      "source_file": "AnimatedTextureFactory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodevector",
+      "label": "FieldNodeVector",
+      "file_type": "document",
+      "source_file": "FieldNodeVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodebase",
+      "label": "FieldNodeBase",
+      "file_type": "document",
+      "source_file": "FieldNodeVector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldsystemengine_module",
+      "label": "FieldSystemEngine Module",
+      "file_type": "document",
+      "source_file": "FieldNodeVector Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "field_system",
+      "label": "Field System",
+      "file_type": "document",
+      "source_file": "FieldNodeVector Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "abilitytask_waitgameplayeffectapplied",
+      "target": "abilitytask",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayEffectApplied Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplayeffectapplied",
+      "target": "gameplayabilities_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayEffectApplied Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "navigationsystembase",
+      "target": "object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavigationSystemBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "navigationsystembase",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavigationSystemBase Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "richtextblockinlinedecorator",
+      "target": "richtextblockdecorator",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RichTextBlockInlineDecorator Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "richtextblockinlinedecorator",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RichTextBlockInlineDecorator Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "richtextblockinlinedecorator",
+      "target": "inline_text_styling",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RichTextBlockInlineDecorator Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdisplacefromtextureoptions",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdisplacefromtextureoptions",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdisplacefromtextureoptions",
+      "target": "texture_displacement",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdisplacefromtextureoptions",
+      "target": "vector2d",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": "lines 21-22",
+      "weight": 1.0
+    },
+    {
+      "source": "perplatformint",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerPlatformInt Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "perplatformint",
+      "target": "coreuobject_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerPlatformInt Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "perplatformint",
+      "target": "per_platform_overrides",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PerPlatformInt Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondistancefieldgradient",
+      "target": "materialexpression",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDistanceFieldGradient Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondistancefieldgradient",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDistanceFieldGradient Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondistancefieldgradient",
+      "target": "distance_field_rendering",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionDistanceFieldGradient Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondistancefieldgradient",
+      "target": "positionorigin",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDistanceFieldGradient Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonergridconstraintsphere",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerGridConstraintSphere Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonergridconstraintsphere",
+      "target": "clonereffector_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerGridConstraintSphere Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonergridconstraintsphere",
+      "target": "grid_constraint",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CEClonerGridConstraintSphere Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonergridconstraintsphere",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerGridConstraintSphere Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterwidgetcomponent",
+      "target": "widgetcomponent",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterWidgetComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterwidgetcomponent",
+      "target": "ndisplay_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterWidgetComponent Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterwidgetcomponent",
+      "target": "widget_initialization_optimization",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DisplayClusterWidgetComponent Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "reverbvolume",
+      "target": "audiovolume",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ReverbVolume Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "reverbvolume",
+      "target": "audiovolume",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ReverbVolume Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorunaryop",
+      "target": "rigvmfunction_mathvectorbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorunaryop",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorunaryop",
+      "target": "unary_vector_operations",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorunaryop",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": "lines 17-18",
+      "weight": 1.0
+    },
+    {
+      "source": "animatedtexturefactory",
+      "target": "earthanimatedtexturefactory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimatedTextureFactory Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animatedtexturefactory",
+      "target": "earthanimatedtexturefactory",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimatedTextureFactory Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "fieldnodevector",
+      "target": "fieldnodebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldNodeVector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "fieldnodevector",
+      "target": "fieldsystemengine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldNodeVector Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "fieldnodevector",
+      "target": "field_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FieldNodeVector Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "vector2d",
+      "target": "vector",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptDisplaceFromTextureOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpression",
+      "target": "abilitytask",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorbase",
+      "target": "rigvmfunction_mathvectorunaryop",
+      "relation": "defines_contract_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathVectorUnaryOp Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "fieldnodebase",
+      "target": "fieldnodevector",
+      "relation": "defines_contract_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "FieldNodeVector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "vector_math_classes",
+      "label": "Vector Mathematics Classes",
+      "nodes": ["vector", "vector2d", "rigvmfunction_mathvectorunaryop", "rigvmfunction_mathvectorbase"],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null
+    },
+    {
+      "id": "deprecated_unreal_classes",
+      "label": "Deprecated Unreal Classes",
+      "nodes": ["reverbvolume", "audiovolume", "animatedtexturefactory", "earthanimatedtexturefactory"],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": null
+    },
+    {
+      "id": "struct_based_configurations",
+      "label": "Struct-Based Configuration Classes",
+      "nodes": ["structbase", "geometryscriptdisplacefromtextureoptions", "perplatformint", "ceclonergridconstraintsphere"],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

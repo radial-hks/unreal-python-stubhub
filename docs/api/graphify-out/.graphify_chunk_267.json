@@ -1,0 +1,432 @@
+{
+  "nodes": [
+    {
+      "id": "urbandatabplibrary_class",
+      "label": "UrbanDataBPLibrary",
+      "file_type": "code",
+      "source_file": "UrbanDataBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbandatabplibrary_get_used_foliage_types",
+      "label": "get_used_foliage_types",
+      "file_type": "code",
+      "source_file": "UrbanDataBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbandatabplibrary_get_instance_transforms",
+      "label": "get_instance_transforms",
+      "file_type": "code",
+      "source_file": "UrbanDataBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationdata_class",
+      "label": "NavigationData",
+      "file_type": "code",
+      "source_file": "NavigationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelvector_class",
+      "label": "RigUnit_HierarchyAddAnimationChannelVector",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "devicebuttonstate_struct",
+      "label": "DeviceButtonState",
+      "file_type": "code",
+      "source_file": "DeviceButtonState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesmessagematch_enum",
+      "label": "AesMessageMatch",
+      "file_type": "code",
+      "source_file": "AesMessageMatch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "emitter_class",
+      "label": "Emitter",
+      "file_type": "code",
+      "source_file": "Emitter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "emitter_particle_system_component",
+      "label": "particle_system_component",
+      "file_type": "code",
+      "source_file": "Emitter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kismetarraylibrary_class",
+      "label": "KismetArrayLibrary",
+      "file_type": "code",
+      "source_file": "KismetArrayLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kismetarraylibrary_sort_string_array",
+      "label": "sort_string_array",
+      "file_type": "code",
+      "source_file": "KismetArrayLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kismetarraylibrary_sort_int_array",
+      "label": "sort_int_array",
+      "file_type": "code",
+      "source_file": "KismetArrayLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kismetarraylibrary_filter_array",
+      "label": "filter_array",
+      "file_type": "code",
+      "source_file": "KismetArrayLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectdynamicsprocessortype_enum",
+      "label": "SourceEffectDynamicsProcessorType",
+      "file_type": "code",
+      "source_file": "SourceEffectDynamicsProcessorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputcombostepdata_struct",
+      "label": "InputComboStepData",
+      "file_type": "code",
+      "source_file": "InputComboStepData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lumenraylightingmodeoverride_enum",
+      "label": "LumenRayLightingModeOverride",
+      "file_type": "code",
+      "source_file": "LumenRayLightingModeOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_mirrorbase_class",
+      "label": "AnimNode_MirrorBase",
+      "file_type": "code",
+      "source_file": "AnimNode__MirrorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputscalebiasclampconstants_struct",
+      "label": "InputScaleBiasClampConstants",
+      "file_type": "code",
+      "source_file": "InputScaleBiasClampConstants Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poseasset_class",
+      "label": "PoseAsset",
+      "file_type": "code",
+      "source_file": "PoseAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poseasset_update_pose_from_animation",
+      "label": "update_pose_from_animation",
+      "file_type": "code",
+      "source_file": "PoseAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computekernel_class",
+      "label": "ComputeKernel",
+      "file_type": "code",
+      "source_file": "ComputeKernel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendclassname_struct",
+      "label": "MetasoundFrontendClassName",
+      "file_type": "code",
+      "source_file": "MetasoundFrontendClassName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "urbandatabplibrary_get_used_foliage_types",
+      "target": "urbandatabplibrary_class",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanDataBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbandatabplibrary_get_instance_transforms",
+      "target": "urbandatabplibrary_class",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanDataBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbandatabplibrary_get_used_foliage_types",
+      "target": "urbandatabplibrary_get_instance_transforms",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "UrbanDataBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "emitter_particle_system_component",
+      "target": "emitter_class",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Emitter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kismetarraylibrary_sort_string_array",
+      "target": "kismetarraylibrary_class",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KismetArrayLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kismetarraylibrary_sort_int_array",
+      "target": "kismetarraylibrary_class",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KismetArrayLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kismetarraylibrary_filter_array",
+      "target": "kismetarraylibrary_class",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KismetArrayLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kismetarraylibrary_sort_string_array",
+      "target": "kismetarraylibrary_sort_int_array",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "KismetArrayLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "poseasset_update_pose_from_animation",
+      "target": "poseasset_class",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devicebuttonstate_struct",
+      "target": "inputcombostepdata_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DeviceButtonState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelvector_class",
+      "target": "animnode_mirrorbase_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelvector_class",
+      "target": "poseasset_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_mirrorbase_class",
+      "target": "inputscalebiasclampconstants_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AnimNode__MirrorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "computekernel_class",
+      "target": "metasoundfrontendclassname_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "ComputeKernel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "input_processing_system",
+      "label": "Input Processing System",
+      "nodes": [
+        "devicebuttonstate_struct",
+        "inputcombostepdata_struct",
+        "inputscalebiasclampconstants_struct"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DeviceButtonState Objects.md"
+    },
+    {
+      "id": "animation_workflow",
+      "label": "Animation Workflow",
+      "nodes": [
+        "rigunit_hierarchyaddanimationchannelvector_class",
+        "animnode_mirrorbase_class",
+        "poseasset_class",
+        "inputscalebiasclampconstants_struct"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVector Objects.md"
+    },
+    {
+      "id": "array_manipulation_api",
+      "label": "Array Manipulation API",
+      "nodes": [
+        "kismetarraylibrary_sort_string_array",
+        "kismetarraylibrary_sort_int_array",
+        "kismetarraylibrary_filter_array"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "KismetArrayLibrary Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

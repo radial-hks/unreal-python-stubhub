@@ -1,0 +1,716 @@
+{
+  "nodes": [
+    {
+      "id": "aesassetregionlibrary_aesassetregionlibrary",
+      "label": "AesAssetRegionLibrary",
+      "file_type": "code",
+      "source_file": "AesAssetRegionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeblueprintpropertyref_statetreeblueprintpropertyref",
+      "label": "StateTreeBlueprintPropertyRef",
+      "file_type": "code",
+      "source_file": "StateTreeBlueprintPropertyRef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationpostprocess_displayclusterconfigurationpostprocess",
+      "label": "DisplayClusterConfigurationPostprocess",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationPostprocess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "creategeometryentitiesresult_creategeometryentitiesresult",
+      "label": "CreateGeometryEntitiesResult",
+      "file_type": "code",
+      "source_file": "CreateGeometryEntitiesResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorvalidator_localization_editorvalidator_localization",
+      "label": "EditorValidator_Localization",
+      "file_type": "code",
+      "source_file": "EditorValidator_Localization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "magicgisinstancedstaticmeshcomponent_magicgisinstancedstaticmeshcomponent",
+      "label": "MagicGISInstancedStaticMeshComponent",
+      "file_type": "code",
+      "source_file": "MagicGISInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphresolveargs_moviegraphresolveargs",
+      "label": "MovieGraphResolveArgs",
+      "file_type": "code",
+      "source_file": "MovieGraphResolveArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "netrole_netrole",
+      "label": "NetRole",
+      "file_type": "code",
+      "source_file": "NetRole Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenemediasection_moviescenemediasection",
+      "label": "MovieSceneMediaSection",
+      "file_type": "code",
+      "source_file": "MovieSceneMediaSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneskeletalanimationsection_moviesceneskeletalanimationsection",
+      "label": "MovieSceneSkeletalAnimationSection",
+      "file_type": "code",
+      "source_file": "MovieSceneSkeletalAnimationSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelsinglelimitsettings_rigunit_hierarchyaddanimationchannelsinglelimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsubdividesegmentsettings_pcgsubdividesegmentsettings",
+      "label": "PCGSubdivideSegmentSettings",
+      "file_type": "code",
+      "source_file": "PCGSubdivideSegmentSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterialinstancefactory_dynamicmaterialinstancefactory",
+      "label": "DynamicMaterialInstanceFactory",
+      "file_type": "code",
+      "source_file": "DynamicMaterialInstanceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertargetfactorynew_texturerendertargetfactorynew",
+      "label": "TextureRenderTargetFactoryNew",
+      "file_type": "code",
+      "source_file": "TextureRenderTargetFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "endturncallbackproxy_endturncallbackproxy",
+      "label": "EndTurnCallbackProxy",
+      "file_type": "code",
+      "source_file": "EndTurnCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jsonblueprintfunctionlibrary_jsonblueprintfunctionlibrary",
+      "label": "JsonBlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "JsonBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixmul_rigunit_mathmatrixmul",
+      "label": "RigUnit_MathMatrixMul",
+      "file_type": "code",
+      "source_file": "RigUnit_MathMatrixMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturefilter_texturefilter",
+      "label": "TextureFilter",
+      "file_type": "code",
+      "source_file": "TextureFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brushtype_brushtype",
+      "label": "BrushType",
+      "file_type": "code",
+      "source_file": "BrushType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectoraraysum_rigvmfunction_mathvectoraraysum",
+      "label": "RigVMFunction_MathVectorArraySum",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorArraySum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshreductionsettings_staticmeshreductionsettings",
+      "label": "StaticMeshReductionSettings",
+      "file_type": "code",
+      "source_file": "StaticMeshReductionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "negativespacesamplemethod_negativespacesamplemethod",
+      "label": "NegativeSpaceSampleMethod",
+      "file_type": "code",
+      "source_file": "NegativeSpaceSampleMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "AesAssetRegionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "NetRole Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescensection_moviescensection",
+      "label": "MovieSceneSection",
+      "file_type": "code",
+      "source_file": "MovieSceneMediaSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "DynamicMaterialInstanceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jsonobjectwrapper_jsonobjectwrapper",
+      "label": "JsonObjectWrapper",
+      "file_type": "code",
+      "source_file": "JsonBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "aesassetregionlibrary_aesassetregionlibrary",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesAssetRegionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreeblueprintpropertyref_statetreeblueprintpropertyref",
+      "target": "statetreepropertyref_statetreepropertyref",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeBlueprintPropertyRef Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationpostprocess_displayclusterconfigurationpostprocess",
+      "target": "displayclusterconfigurationpolymorphicentity_displayclusterconfigurationpolymorphicentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationPostprocess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "creategeometryentitiesresult_creategeometryentitiesresult",
+      "target": "resultbase_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateGeometryEntitiesResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorvalidator_localization_editorvalidator_localization",
+      "target": "editorvalidatorbase_editorvalidatorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorValidator_Localization Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "magicgisinstancedstaticmeshcomponent_magicgisinstancedstaticmeshcomponent",
+      "target": "instancedstaticmeshcomponent_instancedstaticmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MagicGISInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphresolveargs_moviegraphresolveargs",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphResolveArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "netrole_netrole",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NetRole Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenemediasection_moviescenemediasection",
+      "target": "moviescensection_moviescensection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneMediaSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneskeletalanimationsection_moviesceneskeletalanimationsection",
+      "target": "moviescensection_moviescensection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSkeletalAnimationSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelsinglelimitsettings_rigunit_hierarchyaddanimationchannelsinglelimitsettings",
+      "target": "rigunit_hierarchyaddanimationchannelemptylimitsettings_rigunit_hierarchyaddanimationchannelemptylimitsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdividesegmentsettings_pcgsubdividesegmentsettings",
+      "target": "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSubdivideSegmentSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialinstancefactory_dynamicmaterialinstancefactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialInstanceFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturerendertargetfactorynew_texturerendertargetfactorynew",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureRenderTargetFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "endturncallbackproxy_endturncallbackproxy",
+      "target": "onlineblueprintcallproxybase_onlineblueprintcallproxybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EndTurnCallbackProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "jsonblueprintfunctionlibrary_jsonblueprintfunctionlibrary",
+      "target": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JsonBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixmul_rigunit_mathmatrixmul",
+      "target": "rigvmfunction_mathmatrixmul_rigvmfunction_mathmatrixmul",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathMatrixMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturefilter_texturefilter",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brushtype_brushtype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrushType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectoraraysum_rigvmfunction_mathvectoraraysum",
+      "target": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorArraySum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticmeshreductionsettings_staticmeshreductionsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StaticMeshReductionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "negativespacesamplemethod_negativespacesamplemethod",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NegativeSpaceSampleMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenemediasection_moviescenemediasection",
+      "target": "mediasource_mediasource",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneMediaSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenemediasection_moviescenemediasection",
+      "target": "mediatexture_mediatexture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneMediaSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenemediasection_moviescenemediasection",
+      "target": "mediasoundcomponent_mediasoundcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneMediaSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenemediasection_moviescenemediasection",
+      "target": "mediaplayer_mediaplayer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneMediaSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "jsonblueprintfunctionlibrary_jsonblueprintfunctionlibrary",
+      "target": "jsonobjectwrapper_jsonobjectwrapper",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JsonBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenemediasection_moviescenemediasection",
+      "target": "moviesceneskeletalanimationsection_moviesceneskeletalanimationsection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneMediaSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneskeletalanimationsection_moviesceneskeletalanimationsection",
+      "target": "moviescenemediasection_moviescenemediasection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneSkeletalAnimationSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialinstancefactory_dynamicmaterialinstancefactory",
+      "target": "texturerendertargetfactorynew_texturerendertargetfactorynew",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DynamicMaterialInstanceFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturerendertargetfactorynew_texturerendertargetfactorynew",
+      "target": "dynamicmaterialinstancefactory_dynamicmaterialinstancefactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "TextureRenderTargetFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetregionlibrary_aesassetregionlibrary",
+      "target": "moviegraphresolveargs_moviegraphresolveargs",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesAssetRegionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphresolveargs_moviegraphresolveargs",
+      "target": "aesassetregionlibrary_aesassetregionlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieGraphResolveArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturefilter_texturefilter",
+      "target": "brushtype_brushtype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "TextureFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brushtype_brushtype",
+      "target": "texturefilter_texturefilter",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "BrushType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectoraraysum_rigvmfunction_mathvectoraraysum",
+      "target": "rigunit_mathmatrixmul_rigunit_mathmatrixmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathVectorArraySum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixmul_rigunit_mathmatrixmul",
+      "target": "rigvmfunction_mathvectoraraysum_rigvmfunction_mathvectoraraysum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_MathMatrixMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "enum_based_types",
+      "label": "Enum-Based Types",
+      "nodes": [
+        "netrole_netrole",
+        "texturefilter_texturefilter",
+        "brushtype_brushtype",
+        "negativespacesamplemethod_negativespacesamplemethod"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NetRole Objects.md"
+    },
+    {
+      "id": "struct_based_data_structures",
+      "label": "Struct-Based Data Structures",
+      "nodes": [
+        "aesassetregionlibrary_aesassetregionlibrary",
+        "moviegraphresolveargs_moviegraphresolveargs",
+        "staticmeshreductionsettings_staticmeshreductionsettings"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesAssetRegionLibrary Objects.md"
+    },
+    {
+      "id": "factory_pattern_implementations",
+      "label": "Factory Pattern Implementations",
+      "nodes": [
+        "dynamicmaterialinstancefactory_dynamicmaterialinstancefactory",
+        "texturerendertargetfactorynew_texturerendertargetfactorynew"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DynamicMaterialInstanceFactory Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

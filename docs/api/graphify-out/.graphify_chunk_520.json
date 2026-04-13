@@ -1,0 +1,660 @@
+{
+  "nodes": [
+    {
+      "id": "animgraphnode_rotationoffsetblendspacegraph",
+      "label": "AnimGraphNode_RotationOffsetBlendSpaceGraph",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjunctionlanetype",
+      "label": "EarthJunctionLaneType",
+      "file_type": "code",
+      "source_file": "EarthJunctionLaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthshapegrammarprocessingmode",
+      "label": "EarthShapeGrammarProcessingMode",
+      "file_type": "code",
+      "source_file": "EarthShapeGrammarProcessingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugfloathistory",
+      "label": "DebugFloatHistory",
+      "file_type": "code",
+      "source_file": "DebugFloatHistory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcolorpickedevent",
+      "label": "EarthColorPickedEvent",
+      "file_type": "code",
+      "source_file": "EarthColorPickedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigtransformelement",
+      "label": "RigTransformElement",
+      "file_type": "code",
+      "source_file": "RigTransformElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatmod",
+      "label": "RigUnit_MathFloatMod",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatMod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmod",
+      "label": "RigVMFunction_MathFloatMod",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatMod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesmarkersystemstatics",
+      "label": "AesMarkerSystemStatics",
+      "file_type": "code",
+      "source_file": "AesMarkerSystemStatics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffectbufferfactory",
+      "label": "HapticFeedbackEffectBufferFactory",
+      "file_type": "code",
+      "source_file": "HapticFeedbackEffectBufferFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2f",
+      "label": "Vector2f",
+      "file_type": "code",
+      "source_file": "Vector2f Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionserverstreamingoutmode",
+      "label": "WorldPartitionServerStreamingOutMode",
+      "file_type": "code",
+      "source_file": "WorldPartitionServerStreamingOutMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigtransformworkflowoptions",
+      "label": "ControlRigTransformWorkflowOptions",
+      "file_type": "code",
+      "source_file": "ControlRigTransformWorkflowOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_applyrootmotionjumpforce",
+      "label": "AbilityTask_ApplyRootMotionJumpForce",
+      "file_type": "code",
+      "source_file": "AbilityTask__ApplyRootMotionJumpForce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparamfloat",
+      "label": "NiagaraPreviewAxis_InterpParamFloat",
+      "file_type": "code",
+      "source_file": "NiagaraPreviewAxis__InterpParamFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgboundsmodifiermode",
+      "label": "PCGBoundsModifierMode",
+      "file_type": "code",
+      "source_file": "PCGBoundsModifierMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintequals",
+      "label": "RigUnit_MathIntEquals",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintequals",
+      "label": "RigVMFunction_MathIntEquals",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_copyposefrommesh",
+      "label": "AnimNode_CopyPoseFromMesh",
+      "file_type": "code",
+      "source_file": "AnimNode__CopyPoseFromMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbakeboardlayer_terrain",
+      "label": "AesBakeBoardLayer_Terrain",
+      "file_type": "code",
+      "source_file": "AesBakeBoardLayer__Terrain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugtypeenum",
+      "label": "DebugTypeEnum",
+      "file_type": "code",
+      "source_file": "DebugTypeEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_callfunction",
+      "label": "AnimNode_CallFunction",
+      "file_type": "code",
+      "source_file": "AnimNode__CallFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthsound",
+      "label": "SynthSound",
+      "file_type": "code",
+      "source_file": "SynthSound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimbonemath",
+      "label": "RigUnit_AimBoneMath",
+      "file_type": "code",
+      "source_file": "RigUnit_AimBoneMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "markercacheinfo",
+      "label": "MarkerCacheInfo",
+      "file_type": "code",
+      "source_file": "AesMarkerSystemStatics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimitem_target",
+      "label": "RigUnit_AimItem_Target",
+      "file_type": "code",
+      "source_file": "RigUnit_AimBoneMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimbone_debugsettings",
+      "label": "RigUnit_AimBone_DebugSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_AimBoneMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshcomponent",
+      "label": "SkeletalMeshComponent",
+      "file_type": "code",
+      "source_file": "AnimNode__CopyPoseFromMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworldterrainprecisionmode",
+      "label": "AesWorldTerrainPrecisionMode",
+      "file_type": "code",
+      "source_file": "AesBakeBoardLayer__Terrain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applyrootmotionjumpforcedelegate",
+      "label": "ApplyRootMotionJumpForceDelegate",
+      "file_type": "code",
+      "source_file": "AbilityTask__ApplyRootMotionJumpForce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigTransformElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linearcolor",
+      "label": "LinearColor",
+      "file_type": "code",
+      "source_file": "EarthColorPickedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animgraphnode_rotationoffsetblendspacegraph",
+      "target": "animgraphnode_blendspacegraphbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigtransformelement",
+      "target": "rigbaseelement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigTransformElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatmod",
+      "target": "rigvmfunction_mathfloatmod",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmarkersystemstatics",
+      "target": "blueprintfuntionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesMarkerSystemStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmarkersystemstatics",
+      "target": "markercacheinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesMarkerSystemStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackeffectbufferfactory",
+      "target": "factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HapticFeedbackEffectBufferFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtransformworkflowoptions",
+      "target": "controlrigworkflowoptions",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigTransformWorkflowOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_applyrootmotionjumpforce",
+      "target": "abilitytask_applyrootmotion_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__ApplyRootMotionJumpForce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_applyrootmotionjumpforce",
+      "target": "applyrootmotionjumpforcedelegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__ApplyRootMotionJumpForce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamfloat",
+      "target": "niagarapreviewaxis_interpparambase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPreviewAxis__InterpParamFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintequals",
+      "target": "rigvmfunction_mathintequals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_copyposefrommesh",
+      "target": "animnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__CopyPoseFromMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_copyposefrommesh",
+      "target": "skeletalmeshcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__CopyPoseFromMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbakeboardlayer_terrain",
+      "target": "aesbakeboardlayer",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBakeBoardLayer__Terrain Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbakeboardlayer_terrain",
+      "target": "aesworldterrainprecisionmode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBakeBoardLayer__Terrain Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_callfunction",
+      "target": "animnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__CallFunction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthsound",
+      "target": "soundwaveprocedural",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthSound Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimbonemath",
+      "target": "rigunit_highlevelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimBoneMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimbonemath",
+      "target": "rigunit_aimitem_target",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimBoneMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimbonemath",
+      "target": "rigunit_aimbone_debugsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimBoneMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigtransformelement",
+      "target": "rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigTransformElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcolorpickedevent",
+      "target": "linearcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthColorPickedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatmod",
+      "target": "rigunit_mathintequals",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_copyposefrommesh",
+      "target": "animnode_callfunction",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode__CopyPoseFromMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigtransformelement",
+      "target": "rigunit_aimbonemath",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigTransformElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtransformworkflowoptions",
+      "target": "rigtransformelement",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ControlRigTransformWorkflowOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_deprecated_classes",
+      "label": "Deprecated RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_mathfloatmod",
+        "rigunit_mathintequals"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatMod Objects.md"
+    },
+    {
+      "id": "controlrig_transform_system",
+      "label": "ControlRig Transform System Components",
+      "nodes": [
+        "rigtransformelement",
+        "rigunit_aimbonemath",
+        "controlrigtransformworkflowoptions"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigTransformElement Objects.md"
+    },
+    {
+      "id": "aesworld_terrain_processing",
+      "label": "AesWorld Terrain Processing Components",
+      "nodes": [
+        "aesbakeboardlayer_terrain",
+        "aesmarkersystemstatics",
+        "earthshapegrammarprocessingmode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesBakeBoardLayer__Terrain Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

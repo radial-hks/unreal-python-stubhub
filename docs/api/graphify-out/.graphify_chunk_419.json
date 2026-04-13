@@ -1,0 +1,559 @@
+{
+  "nodes": [
+    {
+      "id": "widget_getfloat_widget_getfloat",
+      "label": "Widget GetFloat",
+      "file_type": "code",
+      "source_file": "Widget__GetFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionintersection_rigunit_collectionintersection",
+      "label": "RigUnit CollectionIntersection",
+      "file_type": "code",
+      "source_file": "RigUnit__CollectionIntersection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshexporterfbx_staticmeshexporterfbx",
+      "label": "StaticMeshExporterFBX",
+      "file_type": "code",
+      "source_file": "StaticMeshExporterFBX Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontroldrivenlist_rigunit_getcontroldrivenlist",
+      "label": "RigUnit GetControlDrivenList",
+      "file_type": "code",
+      "source_file": "RigUnit__GetControlDrivenList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartreduceparams_smartreduceparams",
+      "label": "SmartReduceParams",
+      "file_type": "code",
+      "source_file": "SmartReduceParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithstaticmeshimportoptions_datasmithstaticmeshimportoptions",
+      "label": "DatasmithStaticMeshImportOptions",
+      "file_type": "code",
+      "source_file": "DatasmithStaticMeshImportOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublelessequal_rigunit_mathdoublelessequal",
+      "label": "RigUnit MathDoubleLessEqual",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleLessEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stretchgizmohandlegroup_stretchgizmohandlegroup",
+      "label": "StretchGizmoHandleGroup",
+      "file_type": "code",
+      "source_file": "StretchGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperspritefactory_paperspritefactory",
+      "label": "PaperSpriteFactory",
+      "file_type": "code",
+      "source_file": "PaperSpriteFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthesisutilitiesblueprintfunctionlibrary_synthesisutilitiesblueprintfunctionlibrary",
+      "label": "SynthesisUtilitiesBlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "SynthesisUtilitiesBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springik_rigunit_springik",
+      "label": "RigUnit SpringIK",
+      "file_type": "code",
+      "source_file": "RigUnit__SpringIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonrbfvalues_pythonrbfvalues",
+      "label": "PythonRBFValues",
+      "file_type": "code",
+      "source_file": "PythonRBFValues Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexture2dnode_interchangetexture2dnode",
+      "label": "InterchangeTexture2DNode",
+      "file_type": "code",
+      "source_file": "InterchangeTexture2DNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumpropertytablepropertystatus_cesiumpropertytablepropertystatus",
+      "label": "CesiumPropertyTablePropertyStatus",
+      "file_type": "code",
+      "source_file": "CesiumPropertyTablePropertyStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormakeabsolute_rigvmfunction_mathvectormakeabsolute",
+      "label": "RigVMFunction MathVectorMakeAbsolute",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMakeAbsolute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpression_dmmaterialstageexpression",
+      "label": "DMMaterialStageExpression",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpression Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movementcomp_projectile_movementcomp_projectile",
+      "label": "MovementComp Projectile",
+      "file_type": "code",
+      "source_file": "MovementComp_Projectile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asseteditorsubsystem_asseteditorsubsystem",
+      "label": "AssetEditorSubsystem",
+      "file_type": "code",
+      "source_file": "AssetEditorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythontexturelib_pythontexturelib",
+      "label": "PythonTextureLib",
+      "file_type": "code",
+      "source_file": "PythonTextureLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencemodifiercomponent_daysequencemodifiercomponent",
+      "label": "DaySequenceModifierComponent",
+      "file_type": "code",
+      "source_file": "DaySequenceModifierComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdebugvisualizationsettings_pcgdebugvisualizationsettings",
+      "label": "PCGDebugVisualizationSettings",
+      "file_type": "code",
+      "source_file": "PCGDebugVisualizationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_blendtransform_rigunit_blendtransform",
+      "label": "RigUnit BlendTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_BlendTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "springik_solver_springik_solver",
+      "label": "Spring IK Solver",
+      "file_type": "code",
+      "source_file": "RigUnit__SpringIK Objects.md",
+      "source_location": "7-9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "frequency_conversion_frequency_conversion",
+      "label": "Frequency Conversion",
+      "file_type": "code",
+      "source_file": "SynthesisUtilitiesBlueprintFunctionLibrary Objects.md",
+      "source_location": "16-62",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_manipulation_texture_manipulation",
+      "label": "Texture Manipulation",
+      "file_type": "code",
+      "source_file": "PythonTextureLib Objects.md",
+      "source_location": "15-504",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collection_operations_collection_operations",
+      "label": "Collection Operations",
+      "file_type": "code",
+      "source_file": "RigUnit__CollectionIntersection Objects.md",
+      "source_location": "1-83",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asset_editor_management_asset_editor_management",
+      "label": "Asset Editor Management",
+      "file_type": "code",
+      "source_file": "AssetEditorSubsystem Objects.md",
+      "source_location": "14-55",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_api_migration_deprecated_api_migration",
+      "label": "Deprecated API Migration",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleLessEqual Objects.md",
+      "source_location": "7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "widget_getfloat_widget_getfloat",
+      "target": "rigunit_collectionintersection_rigunit_collectionintersection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Widget__GetFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionintersection_rigunit_collectionintersection",
+      "target": "rigunit_getcontroldrivenlist_rigunit_getcontroldrivenlist",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "RigUnit__CollectionIntersection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontroldrivenlist_rigunit_getcontroldrivenlist",
+      "target": "rigunit_springik_rigunit_springik",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "RigUnit__GetControlDrivenList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springik_rigunit_springik",
+      "target": "rigunit_blendtransform_rigunit_blendtransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__SpringIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springik_rigunit_springik",
+      "target": "springik_solver_springik_solver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SpringIK Objects.md",
+      "source_location": "4-9",
+      "weight": 1.0
+    },
+    {
+      "source": "synthesisutilitiesblueprintfunctionlibrary_synthesisutilitiesblueprintfunctionlibrary",
+      "target": "frequency_conversion_frequency_conversion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthesisUtilitiesBlueprintFunctionLibrary Objects.md",
+      "source_location": "16-62",
+      "weight": 1.0
+    },
+    {
+      "source": "pythontexturelib_pythontexturelib",
+      "target": "texture_manipulation_texture_manipulation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PythonTextureLib Objects.md",
+      "source_location": "15-504",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionintersection_rigunit_collectionintersection",
+      "target": "collection_operations_collection_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionIntersection Objects.md",
+      "source_location": "1-83",
+      "weight": 1.0
+    },
+    {
+      "source": "asseteditorsubsystem_asseteditorsubsystem",
+      "target": "asset_editor_management_asset_editor_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetEditorSubsystem Objects.md",
+      "source_location": "14-55",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublelessequal_rigunit_mathdoublelessequal",
+      "target": "deprecated_api_migration_deprecated_api_migration",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleLessEqual Objects.md",
+      "source_location": "7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormakeabsolute_rigvmfunction_mathvectormakeabsolute",
+      "target": "rigunit_blendtransform_rigunit_blendtransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathVectorMakeAbsolute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pythonrbfvalues_pythonrbfvalues",
+      "target": "rigunit_springik_rigunit_springik",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.62,
+      "source_file": "PythonRBFValues Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequencemodifiercomponent_daysequencemodifiercomponent",
+      "target": "rigunit_springik_rigunit_springik",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.61,
+      "source_file": "DaySequenceModifierComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumpropertytablepropertystatus_cesiumpropertytablepropertystatus",
+      "target": "datasmithstaticmeshimportoptions_datasmithstaticmeshimportoptions",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.58,
+      "source_file": "CesiumPropertyTablePropertyStatus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticmeshexporterfbx_staticmeshexporterfbx",
+      "target": "datasmithstaticmeshimportoptions_datasmithstaticmeshimportoptions",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "StaticMeshExporterFBX Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperspritefactory_paperspritefactory",
+      "target": "staticmeshexporterfbx_staticmeshexporterfbx",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PaperSpriteFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stretchgizmohandlegroup_stretchgizmohandlegroup",
+      "target": "rigunit_springik_rigunit_springik",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.59,
+      "source_file": "StretchGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexture2dnode_interchangetexture2dnode",
+      "target": "pythontexturelib_pythontexturelib",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.71,
+      "source_file": "InterchangeTexture2DNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpression_dmmaterialstageexpression",
+      "target": "interchangetexture2dnode_interchangetexture2dnode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.63,
+      "source_file": "DMMaterialStageExpression Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdebugvisualizationsettings_pcgdebugvisualizationsettings",
+      "target": "stretchgizmohandlegroup_stretchgizmohandlegroup",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.57,
+      "source_file": "PCGDebugVisualizationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_ecosystem",
+      "label": "Control Rig Ecosystem",
+      "nodes": [
+        "rigunit_collectionintersection_rigunit_collectionintersection",
+        "rigunit_getcontroldrivenlist_rigunit_getcontroldrivenlist",
+        "rigunit_springik_rigunit_springik",
+        "rigunit_blendtransform_rigunit_blendtransform",
+        "rigvmfunction_mathvectormakeabsolute_rigvmfunction_mathvectormakeabsolute"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "RigUnit__CollectionIntersection Objects.md"
+    },
+    {
+      "id": "texture_pipeline",
+      "label": "Texture Pipeline",
+      "nodes": [
+        "pythontexturelib_pythontexturelib",
+        "interchangetexture2dnode_interchangetexture2dnode",
+        "dmmaterialstageexpression_dmmaterialstageexpression"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.73,
+      "source_file": "PythonTextureLib Objects.md"
+    },
+    {
+      "id": "import_export_workflow",
+      "label": "Import/Export Workflow",
+      "nodes": [
+        "staticmeshexporterfbx_staticmeshexporterfbx",
+        "datasmithstaticmeshimportoptions_datasmithstaticmeshimportoptions",
+        "paperspritefactory_paperspritefactory"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "StaticMeshExporterFBX Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

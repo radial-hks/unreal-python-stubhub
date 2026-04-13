@@ -1,0 +1,936 @@
+{
+  "nodes": [
+    {
+      "id": "bonetranslationretargetingmode_enum",
+      "label": "Bone Translation Retargeting Mode",
+      "file_type": "code",
+      "source_file": "BoneTranslationRetargetingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatebase_class",
+      "label": "RigUnit AccumulateBase",
+      "file_type": "code",
+      "source_file": "RigUnit_AccumulateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatebase_class",
+      "label": "RigVMFunction AccumulateBase",
+      "file_type": "code",
+      "source_file": "RigUnit_AccumulateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesembankmenteditorcommandparams_select_class",
+      "label": "AesEmbankmentEditorCommandParams Select",
+      "file_type": "code",
+      "source_file": "AesEmbankmentEditorCommandParams__Select Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommandparams_class",
+      "label": "AesEditorSimpleCommandParams",
+      "file_type": "code",
+      "source_file": "AesEmbankmentEditorCommandParams__Select Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshoptimizationimportance_enum",
+      "label": "Skeletal Mesh Optimization Importance",
+      "file_type": "code",
+      "source_file": "SkeletalMeshOptimizationImportance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpenvironmententity_class",
+      "label": "WdpEnvironmentEntity",
+      "file_type": "code",
+      "source_file": "WdpEnvironmentEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uniqueentitybase_class",
+      "label": "UniqueEntityBase",
+      "file_type": "code",
+      "source_file": "WdpEnvironmentEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerasteprotateparams_class",
+      "label": "CameraStepRotateParams",
+      "file_type": "code",
+      "source_file": "CameraStepRotateParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase_class",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": "CameraStepRotateParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcamerarotatedir_enum",
+      "label": "WdpCameraRotateDir",
+      "file_type": "code",
+      "source_file": "CameraStepRotateParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondatadrivenshaderplatforminfoswitch_class",
+      "label": "MaterialExpressionDataDrivenShaderPlatformInfoSwitch",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDataDrivenShaderPlatformInfoSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_class",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDataDrivenShaderPlatformInfoSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmstructmutable_class",
+      "label": "RigVMStructMutable",
+      "file_type": "code",
+      "source_file": "RigVMStructMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmstruct_class",
+      "label": "RigVMStruct",
+      "file_type": "code",
+      "source_file": "RigVMStructMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmexecutecontext_class",
+      "label": "RigVMExecuteContext",
+      "file_type": "code",
+      "source_file": "RigVMStructMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "layerglobalsettingparams_class",
+      "label": "LayerGlobalSettingParams",
+      "file_type": "code",
+      "source_file": "LayerGlobalSettingParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionperinstancecustomdata3vector_class",
+      "label": "MaterialExpressionPerInstanceCustomData3Vector",
+      "file_type": "code",
+      "source_file": "MaterialExpressionPerInstanceCustomData3Vector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjunctionlanefragment_class",
+      "label": "EarthJunctionLaneFragment",
+      "file_type": "code",
+      "source_file": "EarthJunctionLaneFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment_class",
+      "label": "EarthPropertyFragment",
+      "file_type": "code",
+      "source_file": "EarthJunctionLaneFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystemspawnsectionstartbehavior_enum",
+      "label": "NiagaraSystemSpawnSectionStartBehavior",
+      "file_type": "code",
+      "source_file": "NiagaraSystemSpawnSectionStartBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionskyatmosphereaerialperspective_class",
+      "label": "MaterialExpressionSkyAtmosphereAerialPerspective",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSkyAtmosphereAerialPerspective Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendspacebase_class",
+      "label": "AnimGraphNode_BlendSpaceBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_BlendSpaceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_assetplayerbase_class",
+      "label": "AnimGraphNode_AssetPlayerBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_BlendSpaceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpoutlinethicknessresult_class",
+      "label": "WdpOutlineThicknessResult",
+      "file_type": "code",
+      "source_file": "WdpOutlineThicknessResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_class",
+      "label": "ResultBase",
+      "file_type": "code",
+      "source_file": "WdpOutlineThicknessResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscenechangeinfo_class",
+      "label": "WdpSceneChangeInfo",
+      "file_type": "code",
+      "source_file": "WdpOutlineThicknessResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shadowcacheinvalidationbehavior_enum",
+      "label": "ShadowCacheInvalidationBehavior",
+      "file_type": "code",
+      "source_file": "ShadowCacheInvalidationBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlevelsequenceplayercamercutevent_class",
+      "label": "OnLevelSequencePlayerCameraCutEvent",
+      "file_type": "code",
+      "source_file": "OnLevelSequencePlayerCameraCutEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_class",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "OnLevelSequencePlayerCameraCutEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameracomponent_class",
+      "label": "CameraComponent",
+      "file_type": "code",
+      "source_file": "OnLevelSequencePlayerCameraCutEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "add_null_above_selected_class",
+      "label": "add_null_above_selected",
+      "file_type": "code",
+      "source_file": "add__null__above__selected Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuentryscript_class",
+      "label": "ToolMenuEntryScript",
+      "file_type": "code",
+      "source_file": "add__null__above__selected Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rignullelement_class",
+      "label": "RigNullElement",
+      "file_type": "code",
+      "source_file": "add__null__above__selected Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalineargradientsettings_class",
+      "label": "AvaLinearGradientSettings",
+      "file_type": "code",
+      "source_file": "AvaLinearGradientSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_class",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "AvaLinearGradientSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avagradientdirection_enum",
+      "label": "AvaGradientDirection",
+      "file_type": "code",
+      "source_file": "AvaLinearGradientSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_getwidget_class",
+      "label": "Widget_GetWidget",
+      "file_type": "code",
+      "source_file": "Widget_GetWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase_class",
+      "label": "DelegateBase",
+      "file_type": "code",
+      "source_file": "Widget_GetWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_class",
+      "label": "Widget",
+      "file_type": "code",
+      "source_file": "Widget_GetWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisibilitynodesparam_class",
+      "label": "AesTilesVisibilityNodesParam",
+      "file_type": "code",
+      "source_file": "AesTilesVisibilityNodesParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisualapiparambase_class",
+      "label": "AesTilesVisualApiParamBase",
+      "file_type": "code",
+      "source_file": "AesTilesVisibilityNodesParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activegameplayeffect_class",
+      "label": "ActiveGameplayEffect",
+      "file_type": "code",
+      "source_file": "ActiveGameplayEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fastarrayserializeritem_class",
+      "label": "FastArraySerializerItem",
+      "file_type": "code",
+      "source_file": "ActiveGameplayEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectspec_class",
+      "label": "GameplayEffectSpec",
+      "file_type": "code",
+      "source_file": "ActiveGameplayEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_accumulatebase_class",
+      "target": "rigvmfunction_accumulatebase_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AccumulateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesembankmenteditorcommandparams_select_class",
+      "target": "aeseditorsimplecommandparams_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEmbankmentEditorCommandParams__Select Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpenvironmententity_class",
+      "target": "uniqueentitybase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEnvironmentEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerasteprotateparams_class",
+      "target": "paramsbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraStepRotateParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerasteprotateparams_class",
+      "target": "wdpcamerarotatedir_enum",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraStepRotateParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondatadrivenshaderplatforminfoswitch_class",
+      "target": "materialexpression_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDataDrivenShaderPlatformInfoSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmstructmutable_class",
+      "target": "rigvmstruct_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMStructMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmstructmutable_class",
+      "target": "rigvmexecutecontext_class",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMStructMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "layerglobalsettingparams_class",
+      "target": "paramsbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LayerGlobalSettingParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionperinstancecustomdata3vector_class",
+      "target": "materialexpression_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionPerInstanceCustomData3Vector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjunctionlanefragment_class",
+      "target": "earthpropertyfragment_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthJunctionLaneFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendspacebase_class",
+      "target": "animgraphnode_assetplayerbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpoutlinethicknessresult_class",
+      "target": "resultbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpOutlineThicknessResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpoutlinethicknessresult_class",
+      "target": "wdpscenechangeinfo_class",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpOutlineThicknessResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlevelsequenceplayercamercutevent_class",
+      "target": "multicastdelegatebase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnLevelSequencePlayerCameraCutEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlevelsequenceplayercamercutevent_class",
+      "target": "cameracomponent_class",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnLevelSequencePlayerCameraCutEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "add_null_above_selected_class",
+      "target": "toolmenuentryscript_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "add__null__above__selected Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "add_null_above_selected_class",
+      "target": "rignullelement_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "add__null__above__selected Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avalineargradientsettings_class",
+      "target": "structbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaLinearGradientSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avalineargradientsettings_class",
+      "target": "avagradientdirection_enum",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaLinearGradientSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widget_getwidget_class",
+      "target": "delegatebase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Widget_GetWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widget_getwidget_class",
+      "target": "widget_class",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Widget_GetWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesvisibilitynodesparam_class",
+      "target": "aestilesvisualapiparambase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesVisibilityNodesParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activegameplayeffect_class",
+      "target": "fastarrayserializeritem_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActiveGameplayEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activegameplayeffect_class",
+      "target": "gameplayeffectspec_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActiveGameplayEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionskyatmosphereaerialperspective_class",
+      "target": "materialexpression_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSkyAtmosphereAerialPerspective Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bonetranslationretargetingmode_enum",
+      "target": "skeletalmeshoptimizationimportance_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BoneTranslationRetargetingMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerasteprotateparams_class",
+      "target": "layerglobalsettingparams_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CameraStepRotateParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpoutlinethicknessresult_class",
+      "target": "wdpenvironmententity_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WdpOutlineThicknessResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondatadrivenshaderplatforminfoswitch_class",
+      "target": "materialexpressionperinstancecustomdata3vector_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionDataDrivenShaderPlatformInfoSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondatadrivenshaderplatforminfoswitch_class",
+      "target": "materialexpressionskyatmosphereaerialperspective_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionDataDrivenShaderPlatformInfoSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionperinstancecustomdata3vector_class",
+      "target": "materialexpressionskyatmosphereaerialperspective_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionPerInstanceCustomData3Vector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmstructmutable_class",
+      "target": "rigunit_accumulatebase_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMStructMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendspacebase_class",
+      "target": "bonetranslationretargetingmode_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode_BlendSpaceBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasystemspawnsectionstartbehavior_enum",
+      "target": "activegameplayeffect_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraSystemSpawnSectionStartBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "shadowcacheinvalidationbehavior_enum",
+      "target": "materialexpressiondatadrivenshaderplatforminfoswitch_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ShadowCacheInvalidationBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesvisibilitynodesparam_class",
+      "target": "aesembankmenteditorcommandparams_select_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesTilesVisibilityNodesParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjunctionlanefragment_class",
+      "target": "aesembankmenteditorcommandparams_select_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthJunctionLaneFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlevelsequenceplayercamercutevent_class",
+      "target": "camerasteprotateparams_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OnLevelSequencePlayerCameraCutEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "material_expression_system",
+      "label": "Material Expression System",
+      "nodes": [
+        "materialexpressiondatadrivenshaderplatforminfoswitch_class",
+        "materialexpressionperinstancecustomdata3vector_class",
+        "materialexpressionskyatmosphereaerialperspective_class",
+        "materialexpression_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionDataDrivenShaderPlatformInfoSwitch Objects.md"
+    },
+    {
+      "id": "parameter_base_pattern",
+      "label": "Parameter Base Pattern",
+      "nodes": [
+        "camerasteprotateparams_class",
+        "layerglobalsettingparams_class",
+        "paramsbase_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CameraStepRotateParams Objects.md"
+    },
+    {
+      "id": "wdp_api_ecosystem",
+      "label": "WDP API Ecosystem",
+      "nodes": [
+        "wdpenvironmententity_class",
+        "camerasteprotateparams_class",
+        "wdpoutlinethicknessresult_class",
+        "aestilesvisibilitynodesparam_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpEnvironmentEntity Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

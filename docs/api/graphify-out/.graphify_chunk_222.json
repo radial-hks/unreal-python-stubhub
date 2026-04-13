@@ -1,0 +1,776 @@
+{
+  "nodes": [
+    {
+      "id": "composureuvmapsettings_composureuvmapsettings",
+      "label": "ComposureUVMapSettings",
+      "file_type": "code",
+      "source_file": "ComposureUVMapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmutablebase_rigunit_mathmutablebase",
+      "label": "RigUnit_MathMutableBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMutableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+      "label": "RigUnit_TwoBoneIKSimple_DebugSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__TwoBoneIKSimple__DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scriptexecutionmode_scriptexecutionmode",
+      "label": "ScriptExecutionMode",
+      "file_type": "code",
+      "source_file": "ScriptExecutionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeanimationpayloadtype_interchangeanimationpayloadtype",
+      "label": "InterchangeAnimationPayLoadType",
+      "file_type": "code",
+      "source_file": "InterchangeAnimationPayLoadType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_springbone_animgraphnode_springbone",
+      "label": "AnimGraphNode_SpringBone",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SpringBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreepropertyreftype_statetreepropertyreftype",
+      "label": "StateTreePropertyRefType",
+      "file_type": "code",
+      "source_file": "StateTreePropertyRefType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+      "label": "RigUnit_RigModulesBase",
+      "file_type": "code",
+      "source_file": "RigUnit__RigModulesBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionarcsinefast_materialexpressionarcsinefast",
+      "label": "MaterialExpressionArcsineFast",
+      "file_type": "code",
+      "source_file": "MaterialExpressionArcsineFast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcurvetype_groomcurvetype",
+      "label": "GroomCurveType",
+      "file_type": "code",
+      "source_file": "GroomCurveType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithimportoptions_datasmithimportoptions",
+      "label": "DatasmithImportOptions",
+      "file_type": "code",
+      "source_file": "DatasmithImportOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthfilteralgorithm_synthfilteralgorithm",
+      "label": "SynthFilterAlgorithm",
+      "file_type": "code",
+      "source_file": "SynthFilterAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublesin_rigunit_mathdoublesin",
+      "label": "RigUnit_MathDoubleSin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleSin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hardwaredeviceprimarytype_hardwaredeviceprimarytype",
+      "label": "HardwareDevicePrimaryType",
+      "file_type": "code",
+      "source_file": "HardwareDevicePrimaryType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublegreater_rigunit_mathdoublegreater",
+      "label": "RigUnit_MathDoubleGreater",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleGreater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmetadatatag_rigunit_setmetadatatag",
+      "label": "RigUnit_SetMetadataTag",
+      "file_type": "code",
+      "source_file": "RigUnit_SetMetadataTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onaudiofinished_onaudiofinished",
+      "label": "OnAudioFinished",
+      "file_type": "code",
+      "source_file": "OnAudioFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "getsectionparams_getsectionparams",
+      "label": "GetSectionParams",
+      "file_type": "code",
+      "source_file": "GetSectionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_rotationoffsetblendspace_animnode_rotationoffsetblendspace",
+      "label": "AnimNode_RotationOffsetBlendSpace",
+      "file_type": "code",
+      "source_file": "AnimNode_RotationOffsetBlendSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_pointsimulation_bonetarget_rigunit_pointsimulation_bonetarget",
+      "label": "RigUnit_PointSimulation_BoneTarget",
+      "file_type": "code",
+      "source_file": "RigUnit_PointSimulation_BoneTarget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webbrowser51_onurlchanged_webbrowser51_onurlchanged",
+      "label": "WebBrowser51_OnUrlChanged",
+      "file_type": "code",
+      "source_file": "WebBrowser51__OnUrlChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreetaskblueprintbase_statetreetaskblueprintbase",
+      "label": "StateTreeTaskBlueprintBase",
+      "file_type": "code",
+      "source_file": "StateTreeTaskBlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "ComposureUVMapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmutablebase_rigvmfunction_mathmutablebase",
+      "label": "RigVMFunction_MathMutableBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMutableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "ScriptExecutionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_skeletalcontrolbase_animgraphnode_skeletalcontrolbase",
+      "label": "AnimGraphNode_SkeletalControlBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SpringBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit__RigModulesBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionArcsineFast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithoptionsbase_datasmithoptionsbase",
+      "label": "DatasmithOptionsBase",
+      "file_type": "code",
+      "source_file": "DatasmithImportOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublesin_rigvmfunction_mathdoublesin",
+      "label": "RigVMFunction_MathDoubleSin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleSin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublegreater_rigvmfunction_mathdoublegreater",
+      "label": "RigVMFunction_MathDoubleGreater",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleGreater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_SetMetadataTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "OnAudioFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_resultbase",
+      "label": "ResultBase",
+      "file_type": "code",
+      "source_file": "GetSectionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendspaceplayer_animnode_blendspaceplayer",
+      "label": "AnimNode_BlendSpacePlayer",
+      "file_type": "code",
+      "source_file": "AnimNode_RotationOffsetBlendSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreenodeblueprintbase_statetreenodeblueprintbase",
+      "label": "StateTreeNodeBlueprintBase",
+      "file_type": "code",
+      "source_file": "StateTreeTaskBlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "composureuvmapsettings_composureuvmapsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposureUVMapSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmutablebase_rigunit_mathmutablebase",
+      "target": "rigvmfunction_mathmutablebase_rigvmfunction_mathmutablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMutableBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmutablebase_rigunit_mathmutablebase",
+      "target": "rigvmfunction_mathmutablebase_rigvmfunction_mathmutablebase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMutableBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TwoBoneIKSimple__DebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scriptexecutionmode_scriptexecutionmode",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScriptExecutionMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeanimationpayloadtype_interchangeanimationpayloadtype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeAnimationPayLoadType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_springbone_animgraphnode_springbone",
+      "target": "animgraphnode_skeletalcontrolbase_animgraphnode_skeletalcontrolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SpringBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreepropertyreftype_statetreepropertyreftype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreePropertyRefType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__RigModulesBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionarcsinefast_materialexpressionarcsinefast",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArcsineFast Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcurvetype_groomcurvetype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCurveType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithimportoptions_datasmithimportoptions",
+      "target": "datasmithoptionsbase_datasmithoptionsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithImportOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthfilteralgorithm_synthfilteralgorithm",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthFilterAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublesin_rigunit_mathdoublesin",
+      "target": "rigvmfunction_mathdoublesin_rigvmfunction_mathdoublesin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleSin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublesin_rigunit_mathdoublesin",
+      "target": "rigvmfunction_mathdoublesin_rigvmfunction_mathdoublesin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleSin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hardwaredeviceprimarytype_hardwaredeviceprimarytype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HardwareDevicePrimaryType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublegreater_rigunit_mathdoublegreater",
+      "target": "rigvmfunction_mathdoublegreater_rigvmfunction_mathdoublegreater",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleGreater Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublegreater_rigunit_mathdoublegreater",
+      "target": "rigvmfunction_mathdoublegreater_rigvmfunction_mathdoublegreater",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleGreater Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmetadatatag_rigunit_setmetadatatag",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetMetadataTag Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onaudiofinished_onaudiofinished",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnAudioFinished Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getsectionparams_getsectionparams",
+      "target": "resultbase_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GetSectionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rotationoffsetblendspace_animnode_rotationoffsetblendspace",
+      "target": "animnode_blendspaceplayer_animnode_blendspaceplayer",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_RotationOffsetBlendSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_pointsimulation_bonetarget_rigunit_pointsimulation_bonetarget",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PointSimulation_BoneTarget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "webbrowser51_onurlchanged_webbrowser51_onurlchanged",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WebBrowser51__OnUrlChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreetaskblueprintbase_statetreetaskblueprintbase",
+      "target": "statetreenodeblueprintbase_statetreenodeblueprintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeTaskBlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublesin_rigunit_mathdoublesin",
+      "target": "rigunit_mathdoublegreater_rigunit_mathdoublegreater",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathDoubleSin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmutablebase_rigunit_mathmutablebase",
+      "target": "rigunit_mathdoublesin_rigunit_mathdoublesin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathMutableBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmutablebase_rigunit_mathmutablebase",
+      "target": "rigunit_mathdoublegreater_rigunit_mathdoublegreater",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathMutableBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+      "target": "rigunit_setmetadatatag_rigunit_setmetadatatag",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__RigModulesBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+      "target": "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__RigModulesBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+      "target": "rigunit_pointsimulation_bonetarget_rigunit_pointsimulation_bonetarget",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__RigModulesBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_springbone_animgraphnode_springbone",
+      "target": "animnode_rotationoffsetblendspace_animnode_rotationoffsetblendspace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode__SpringBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scriptexecutionmode_scriptexecutionmode",
+      "target": "statetreepropertyreftype_statetreepropertyreftype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ScriptExecutionMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_rigunit_system",
+      "label": "ControlRig RigUnit Classes",
+      "nodes": [
+        "rigunit_mathmutablebase_rigunit_mathmutablebase",
+        "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+        "rigunit_setmetadatatag_rigunit_setmetadatatag",
+        "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+        "rigunit_pointsimulation_bonetarget_rigunit_pointsimulation_bonetarget"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__RigModulesBase Objects.md"
+    },
+    {
+      "id": "deprecated_rigunit_renames",
+      "label": "Deprecated RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_mathmutablebase_rigunit_mathmutablebase",
+        "rigunit_mathdoublesin_rigunit_mathdoublesin",
+        "rigunit_mathdoublegreater_rigunit_mathdoublegreater"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMutableBase Objects.md"
+    },
+    {
+      "id": "animation_graph_nodes",
+      "label": "Animation Graph Node System",
+      "nodes": [
+        "animgraphnode_springbone_animgraphnode_springbone",
+        "animnode_rotationoffsetblendspace_animnode_rotationoffsetblendspace"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__SpringBone Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

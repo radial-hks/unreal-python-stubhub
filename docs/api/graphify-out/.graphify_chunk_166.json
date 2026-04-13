@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {"id": "riglogictranslationtype_riglogictranslationtype", "label": "RigLogicTranslationType", "file_type": "document", "source_file": "RigLogicTranslationType Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "dmmaterialstagegradientlinear_dmmaterialstagegradientlinear", "label": "DMMaterialStageGradientLinear", "file_type": "document", "source_file": "DMMaterialStageGradientLinear Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "interface_assetuserdata_interface_assetuserdata", "label": "Interface_AssetUserData", "file_type": "document", "source_file": "Interface_AssetUserData Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "ceclonereffectorchanneldata_ceclonereffectorchanneldata", "label": "CEClonerEffectorChannelData", "file_type": "document", "source_file": "CEClonerEffectorChannelData Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "listviewbase_listviewbase", "label": "ListViewBase", "file_type": "document", "source_file": "ListViewBase Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "materialexpressionfloor_materialexpressionfloor", "label": "MaterialExpressionFloor", "file_type": "document", "source_file": "MaterialExpressionFloor Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "neuralprofile_neuralprofile", "label": "NeuralProfile", "file_type": "document", "source_file": "NeuralProfile Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "xrmotioncontrollerdata_xrmotioncontrollerdata", "label": "XRMotionControllerData", "file_type": "document", "source_file": "XRMotionControllerData Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "lowentryimageformat_lowentryimageformat", "label": "LowEntryImageFormat", "file_type": "document", "source_file": "LowEntryImageFormat Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "importsubsystem_importsubsystem", "label": "ImportSubsystem", "file_type": "document", "source_file": "ImportSubsystem Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "rigvmfunction_mathfloatconsttwopi_rigvmfunction_mathfloatconsttwopi", "label": "RigVMFunction_MathFloatConstTwoPi", "file_type": "document", "source_file": "RigVMFunction_MathFloatConstTwoPi Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "worldpartitionstreamingquerysource_worldpartitionstreamingquerysource", "label": "WorldPartitionStreamingQuerySource", "file_type": "document", "source_file": "WorldPartitionStreamingQuerySource Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "aesrastereditorcommandparams_smooth_aesrastereditorcommandparams_smooth", "label": "AesRasterEditorCommandParams_Smooth", "file_type": "document", "source_file": "AesRasterEditorCommandParams__Smooth Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "interactivetoolpresetdefinition_interactivetoolpresetdefinition", "label": "InteractiveToolPresetDefinition", "file_type": "document", "source_file": "InteractiveToolPresetDefinition Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "dmmaterialstageexpressionclamp_dmmaterialstageexpressionclamp", "label": "DMMaterialStageExpressionClamp", "file_type": "document", "source_file": "DMMaterialStageExpressionClamp Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "dmmaterialstageinputgradient_dmmaterialstageinputgradient", "label": "DMMaterialStageInputGradient", "file_type": "document", "source_file": "DMMaterialStageInputGradient Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "functionaltestingmanager_functionaltestingmanager", "label": "FunctionalTestingManager", "file_type": "document", "source_file": "FunctionalTestingManager Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "compressedimagesequenceprotocol_compressedimagesequenceprotocol", "label": "CompressedImageSequenceProtocol", "file_type": "document", "source_file": "CompressedImageSequenceProtocol Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "bindtoviewtarget_bindtoviewtarget", "label": "BindToViewTarget", "file_type": "document", "source_file": "BindToViewTarget Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "blueprintmaterialtexturenodesbplibrary_blueprintmaterialtexturenodesbplibrary", "label": "BlueprintMaterialTextureNodesBPLibrary", "file_type": "document", "source_file": "BlueprintMaterialTextureNodesBPLibrary Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "motioncontrollercomponent_motioncontrollercomponent", "label": "MotionControllerComponent", "file_type": "document", "source_file": "MotionControllerComponent Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}
+  ],
+  "edges": [
+    {"source": "dmmaterialstagegradientlinear_dmmaterialstagegradientlinear", "target": "dmmaterialstageinputgradient_dmmaterialstageinputgradient", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "DMMaterialStageGradientLinear Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "dmmaterialstageinputgradient_dmmaterialstageinputgradient", "target": "dmmaterialstagegradientlinear_dmmaterialstagegradientlinear", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "DMMaterialStageInputGradient Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "dmmaterialstageexpressionclamp_dmmaterialstageexpressionclamp", "target": "dmmaterialstageinputgradient_dmmaterialstageinputgradient", "relation": "conceptually_related_to", "confidence": "INFERRED", "confidence_score": 0.75, "source_file": "DMMaterialStageExpressionClamp Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "xrmotioncontrollerdata_xrmotioncontrollerdata", "target": "motioncontrollercomponent_motioncontrollercomponent", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.85, "source_file": "XRMotionControllerData Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "materialexpressionfloor_materialexpressionfloor", "target": "dmmaterialstageexpressionclamp_dmmaterialstageexpressionclamp", "relation": "conceptually_related_to", "confidence": "INFERRED", "confidence_score": 0.65, "source_file": "MaterialExpressionFloor Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "compressedimagesequenceprotocol_compressedimagesequenceprotocol", "target": "lowentryimageformat_lowentryimageformat", "relation": "conceptually_related_to", "confidence": "INFERRED", "confidence_score": 0.7, "source_file": "CompressedImageSequenceProtocol Objects.md", "source_location": null, "weight": 1.0}
+  ],
+  "hyperedges": [
+    {
+      "id": "dynamic_material_system",
+      "label": "Dynamic Material System Components",
+      "nodes": [
+        "dmmaterialstagegradientlinear_dmmaterialstagegradientlinear",
+        "dmmaterialstageexpressionclamp_dmmaterialstageexpressionclamp",
+        "dmmaterialstageinputgradient_dmmaterialstageinputgradient"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "multiple"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

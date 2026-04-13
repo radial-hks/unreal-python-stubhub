@@ -1,0 +1,2413 @@
+{
+  "nodes": [
+    {
+      "id": "RelativePolygon2DAtom",
+      "type": "class",
+      "label": "RelativePolygon2DAtom",
+      "description": "Relative Polygon 2DAtom"
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "class",
+      "label": "EntityAtomBase",
+      "description": "Base class for RelativePolygon2DAtom"
+    },
+    {
+      "id": "WdpPolygon2D",
+      "type": "type",
+      "label": "WdpPolygon2D"
+    },
+    {
+      "id": "RelativePolygon2DAtom_coordinates",
+      "type": "property",
+      "label": "coordinates",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGTagFilterOperation",
+      "type": "enum",
+      "label": "PCGTagFilterOperation",
+      "description": "EPCGTag Filter Operation"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "PCGTagFilterOperation_KEEP_ONLY_SELECTED_TAGS",
+      "type": "enum_value",
+      "label": "KEEP_ONLY_SELECTED_TAGS",
+      "value": 0
+    },
+    {
+      "id": "PCGTagFilterOperation_DELETE_SELECTED_TAGS",
+      "type": "enum_value",
+      "label": "DELETE_SELECTED_TAGS",
+      "value": 1
+    },
+    {
+      "id": "SVGFillComponent",
+      "type": "class",
+      "label": "SVGFillComponent",
+      "description": "SVGFill Component"
+    },
+    {
+      "id": "SVGDynamicMeshComponent",
+      "type": "class",
+      "label": "SVGDynamicMeshComponent"
+    },
+    {
+      "id": "bool",
+      "type": "primitive",
+      "label": "bool"
+    },
+    {
+      "id": "float",
+      "type": "primitive",
+      "label": "float"
+    },
+    {
+      "id": "Color",
+      "type": "type",
+      "label": "Color"
+    },
+    {
+      "id": "DynamicMeshComponentColorOverrideMode",
+      "type": "type",
+      "label": "DynamicMeshComponentColorOverrideMode"
+    },
+    {
+      "id": "DynamicMeshVertexColorTransformMode",
+      "type": "type",
+      "label": "DynamicMeshVertexColorTransformMode"
+    },
+    {
+      "id": "Array_Name",
+      "type": "type",
+      "label": "Array[Name]"
+    },
+    {
+      "id": "CollisionTraceFlag",
+      "type": "type",
+      "label": "CollisionTraceFlag"
+    },
+    {
+      "id": "DynamicMeshComponentDistanceFieldMode",
+      "type": "type",
+      "label": "DynamicMeshComponentDistanceFieldMode"
+    },
+    {
+      "id": "DynamicMeshDrawPath",
+      "type": "type",
+      "label": "DynamicMeshDrawPath"
+    },
+    {
+      "id": "int32",
+      "type": "primitive",
+      "label": "int32"
+    },
+    {
+      "id": "RendererStencilMask",
+      "type": "type",
+      "label": "RendererStencilMask"
+    },
+    {
+      "id": "CustomPrimitiveData",
+      "type": "type",
+      "label": "CustomPrimitiveData"
+    },
+    {
+      "id": "DetailMode",
+      "type": "type",
+      "label": "DetailMode"
+    },
+    {
+      "id": "MaterialInterface",
+      "type": "type",
+      "label": "MaterialInterface"
+    },
+    {
+      "id": "Array_MaterialInterface",
+      "type": "type",
+      "label": "Array[MaterialInterface]"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "Rotator",
+      "type": "type",
+      "label": "Rotator"
+    },
+    {
+      "id": "SVGExtrudeType",
+      "type": "type",
+      "label": "SVGExtrudeType"
+    },
+    {
+      "id": "FirstPersonPrimitiveType",
+      "type": "type",
+      "label": "FirstPersonPrimitiveType"
+    },
+    {
+      "id": "HLODBatchingPolicy",
+      "type": "type",
+      "label": "HLODBatchingPolicy"
+    },
+    {
+      "id": "IndirectLightingCacheQuality",
+      "type": "type",
+      "label": "IndirectLightingCacheQuality"
+    },
+    {
+      "id": "LightingChannels",
+      "type": "type",
+      "label": "LightingChannels"
+    },
+    {
+      "id": "LightmapType",
+      "type": "type",
+      "label": "LightmapType"
+    },
+    {
+      "id": "ComponentMobility",
+      "type": "type",
+      "label": "ComponentMobility"
+    },
+    {
+      "id": "LinearColor",
+      "type": "type",
+      "label": "LinearColor"
+    },
+    {
+      "id": "UpdateRelatedAtom",
+      "type": "class",
+      "label": "UpdateRelatedAtom",
+      "description": "Update Related Atom"
+    },
+    {
+      "id": "PaperCharacter",
+      "type": "class",
+      "label": "PaperCharacter",
+      "description": "APaperCharacter behaves like ACharacter, but uses a UPaperFlipbookComponent instead of a USkeletalMeshComponent as a visual representation"
+    },
+    {
+      "id": "Character",
+      "type": "class",
+      "label": "Character"
+    },
+    {
+      "id": "Guid",
+      "type": "type",
+      "label": "Guid"
+    },
+    {
+      "id": "Class",
+      "type": "type",
+      "label": "type(Class)"
+    },
+    {
+      "id": "AutoPossessAI",
+      "type": "type",
+      "label": "AutoPossessAI"
+    },
+    {
+      "id": "AutoReceiveInput",
+      "type": "type",
+      "label": "AutoReceiveInput"
+    },
+    {
+      "id": "CapsuleComponent",
+      "type": "type",
+      "label": "CapsuleComponent"
+    },
+    {
+      "id": "CharacterMovementComponent",
+      "type": "type",
+      "label": "CharacterMovementComponent"
+    },
+    {
+      "id": "Array_DataLayerAsset",
+      "type": "type",
+      "label": "Array[DataLayerAsset]"
+    },
+    {
+      "id": "Array_ActorDataLayer",
+      "type": "type",
+      "label": "Array[ActorDataLayer]"
+    },
+    {
+      "id": "ActorUpdateOverlapsMethod",
+      "type": "type",
+      "label": "ActorUpdateOverlapsMethod"
+    },
+    {
+      "id": "HLODLayer",
+      "type": "type",
+      "label": "HLODLayer"
+    },
+    {
+      "id": "ExternalDataLayerAsset",
+      "type": "type",
+      "label": "ExternalDataLayerAsset"
+    },
+    {
+      "id": "Pawn",
+      "type": "type",
+      "label": "Pawn"
+    },
+    {
+      "id": "SkeletalMeshComponent",
+      "type": "type",
+      "label": "SkeletalMeshComponent"
+    },
+    {
+      "id": "LandedSignature",
+      "type": "type",
+      "label": "LandedSignature"
+    },
+    {
+      "id": "Controller",
+      "type": "type",
+      "label": "Controller"
+    },
+    {
+      "id": "Array_Name_1",
+      "type": "type",
+      "label": "Array[Name]"
+    },
+    {
+      "id": "NetDormancy",
+      "type": "type",
+      "label": "NetDormancy"
+    },
+    {
+      "id": "ActorBeginOverlapSignature",
+      "type": "type",
+      "label": "ActorBeginOverlapSignature"
+    },
+    {
+      "id": "ActorEndOverlapSignature",
+      "type": "type",
+      "label": "ActorEndOverlapSignature"
+    },
+    {
+      "id": "ActorHitSignature",
+      "type": "type",
+      "label": "ActorHitSignature"
+    },
+    {
+      "id": "ActorBeginCursorOverSignature",
+      "type": "type",
+      "label": "ActorBeginCursorOverSignature"
+    },
+    {
+      "id": "CharacterMovementUpdatedSignature",
+      "type": "type",
+      "label": "CharacterMovementUpdatedSignature"
+    },
+    {
+      "id": "ActorOnClickedSignature",
+      "type": "type",
+      "label": "ActorOnClickedSignature"
+    },
+    {
+      "id": "ActorDestroyedSignature",
+      "type": "type",
+      "label": "ActorDestroyedSignature"
+    },
+    {
+      "id": "ActorEndCursorOverSignature",
+      "type": "type",
+      "label": "ActorEndCursorOverSignature"
+    },
+    {
+      "id": "ActorEndPlaySignature",
+      "type": "type",
+      "label": "ActorEndPlaySignature"
+    },
+    {
+      "id": "ActorOnInputTouchBeginSignature",
+      "type": "type",
+      "label": "ActorOnInputTouchBeginSignature"
+    },
+    {
+      "id": "ActorOnInputTouchEndSignature",
+      "type": "type",
+      "label": "ActorOnInputTouchEndSignature"
+    },
+    {
+      "id": "ActorBeginTouchOverSignature",
+      "type": "type",
+      "label": "ActorBeginTouchOverSignature"
+    },
+    {
+      "id": "ActorEndTouchOverSignature",
+      "type": "type",
+      "label": "ActorEndTouchOverSignature"
+    },
+    {
+      "id": "CharacterReachedApexSignature",
+      "type": "type",
+      "label": "CharacterReachedApexSignature"
+    },
+    {
+      "id": "ActorOnReleasedSignature",
+      "type": "type",
+      "label": "ActorOnReleasedSignature"
+    },
+    {
+      "id": "TakeAnyDamageSignature",
+      "type": "type",
+      "label": "TakeAnyDamageSignature"
+    },
+    {
+      "id": "TakePointDamageSignature",
+      "type": "type",
+      "label": "TakePointDamageSignature"
+    },
+    {
+      "id": "TakeRadialDamageSignature",
+      "type": "type",
+      "label": "TakeRadialDamageSignature"
+    },
+    {
+      "id": "ActorTickFunction",
+      "type": "type",
+      "label": "ActorTickFunction"
+    },
+    {
+      "id": "PlayerState",
+      "type": "type",
+      "label": "PlayerState"
+    },
+    {
+      "id": "PawnControllerChangedSignature",
+      "type": "type",
+      "label": "PawnControllerChangedSignature"
+    },
+    {
+      "id": "PawnRestartedSignature",
+      "type": "type",
+      "label": "PawnRestartedSignature"
+    },
+    {
+      "id": "NetRole",
+      "type": "type",
+      "label": "NetRole"
+    },
+    {
+      "id": "SceneComponent",
+      "type": "type",
+      "label": "SceneComponent"
+    },
+    {
+      "id": "SpawnActorCollisionHandlingMethod",
+      "type": "type",
+      "label": "SpawnActorCollisionHandlingMethod"
+    },
+    {
+      "id": "PaperFlipbookComponent",
+      "type": "type",
+      "label": "PaperFlipbookComponent"
+    },
+    {
+      "id": "RemoteControlPresetFactory",
+      "type": "class",
+      "label": "RemoteControlPresetFactory",
+      "description": "Implements a factory for URemoteControlPreset objects."
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "label": "Factory"
+    },
+    {
+      "id": "AssetImportTask",
+      "type": "type",
+      "label": "AssetImportTask"
+    },
+    {
+      "id": "AutomatedAssetImportData",
+      "type": "type",
+      "label": "AutomatedAssetImportData"
+    },
+    {
+      "id": "Array_str",
+      "type": "type",
+      "label": "Array[str]"
+    },
+    {
+      "id": "SubmixFilterType",
+      "type": "enum",
+      "label": "SubmixFilterType",
+      "description": "ESubmix Filter Type"
+    },
+    {
+      "id": "SubmixFilterType_LOW_PASS",
+      "type": "enum_value",
+      "label": "LOW_PASS",
+      "value": 0
+    },
+    {
+      "id": "SubmixFilterType_HIGH_PASS",
+      "type": "enum_value",
+      "label": "HIGH_PASS",
+      "value": 1
+    },
+    {
+      "id": "SubmixFilterType_BAND_PASS",
+      "type": "enum_value",
+      "label": "BAND_PASS",
+      "value": 2
+    },
+    {
+      "id": "SubmixFilterType_BAND_STOP",
+      "type": "enum_value",
+      "label": "BAND_STOP",
+      "value": 3
+    },
+    {
+      "id": "ConstraintTarget",
+      "type": "struct",
+      "label": "ConstraintTarget",
+      "description": "Constraint Target"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "TransformFilter",
+      "type": "type",
+      "label": "TransformFilter"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "ConstraintTarget_filter",
+      "type": "property",
+      "label": "filter",
+      "access": "read-only"
+    },
+    {
+      "id": "ConstraintTarget_maintain_offset",
+      "type": "property",
+      "label": "maintain_offset",
+      "access": "read-write"
+    },
+    {
+      "id": "ConstraintTarget_transform",
+      "type": "property",
+      "label": "transform",
+      "access": "read-write"
+    },
+    {
+      "id": "ConstraintTarget_weight",
+      "type": "property",
+      "label": "weight",
+      "access": "read-write"
+    },
+    {
+      "id": "ConstraintTarget___init__",
+      "type": "method",
+      "label": "__init__"
+    },
+    {
+      "id": "SynthStereoDelayMode",
+      "type": "enum",
+      "label": "SynthStereoDelayMode",
+      "description": "ESynth Stereo Delay Mode"
+    },
+    {
+      "id": "SynthStereoDelayMode_NORMAL",
+      "type": "enum_value",
+      "label": "NORMAL",
+      "value": 0
+    },
+    {
+      "id": "SynthStereoDelayMode_CROSS",
+      "type": "enum_value",
+      "label": "CROSS",
+      "value": 1
+    },
+    {
+      "id": "SynthStereoDelayMode_PING_PONG",
+      "type": "enum_value",
+      "label": "PING_PONG",
+      "value": 2
+    },
+    {
+      "id": "GeometryScriptFillHolesOptions",
+      "type": "struct",
+      "label": "GeometryScriptFillHolesOptions",
+      "description": "Geometry Script Fill Holes Options"
+    },
+    {
+      "id": "GeometryScriptFillHolesMethod",
+      "type": "type",
+      "label": "GeometryScriptFillHolesMethod"
+    },
+    {
+      "id": "GeometryScriptFillHolesOptions_fill_method",
+      "type": "property",
+      "label": "fill_method",
+      "access": "read-write"
+    },
+    {
+      "id": "GeometryScriptFillHolesOptions_delete_isolated_triangles",
+      "type": "property",
+      "label": "delete_isolated_triangles",
+      "access": "read-write"
+    },
+    {
+      "id": "GeometryScriptFillHolesOptions___init__",
+      "type": "method",
+      "label": "__init__"
+    },
+    {
+      "id": "AnimNotifyState_PoseSearchBlockTransition",
+      "type": "class",
+      "label": "AnimNotifyState_PoseSearchBlockTransition",
+      "description": "A pose search search will not return results that overlap this notify"
+    },
+    {
+      "id": "AnimNotifyState_PoseSearchBase",
+      "type": "class",
+      "label": "AnimNotifyState_PoseSearchBase"
+    },
+    {
+      "id": "RigUnit_ConvertVectorToRotation",
+      "type": "class",
+      "label": "RigUnit_ConvertVectorToRotation",
+      "description": "Rig Unit Convert Vector to Rotation"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit"
+    },
+    {
+      "id": "RigUnit_ConvertVectorToRotation_input",
+      "type": "property",
+      "label": "input",
+      "access": "read-write"
+    },
+    {
+      "id": "RigUnit_ConvertVectorToRotation_result",
+      "type": "property",
+      "label": "result",
+      "access": "read-only"
+    },
+    {
+      "id": "RigUnit_ConvertVectorToRotation___init__",
+      "type": "method",
+      "label": "__init__"
+    },
+    {
+      "id": "PCGWeightedByCategoryEntryList",
+      "type": "struct",
+      "label": "PCGWeightedByCategoryEntryList",
+      "description": "PCGWeighted by Category Entry List"
+    },
+    {
+      "id": "str",
+      "type": "primitive",
+      "label": "str"
+    },
+    {
+      "id": "Array_PCGMeshSelectorWeightedEntry",
+      "type": "type",
+      "label": "Array[PCGMeshSelectorWeightedEntry]"
+    },
+    {
+      "id": "PCGWeightedByCategoryEntryList_category_entry",
+      "type": "property",
+      "label": "category_entry",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGWeightedByCategoryEntryList_is_default",
+      "type": "property",
+      "label": "is_default",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGWeightedByCategoryEntryList_weighted_mesh_entries",
+      "type": "property",
+      "label": "weighted_mesh_entries",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGWeightedByCategoryEntryList___init__",
+      "type": "method",
+      "label": "__init__"
+    },
+    {
+      "id": "PCGObjectPropertyOverrideDescription",
+      "type": "struct",
+      "label": "PCGObjectPropertyOverrideDescription",
+      "description": "Represents the override source and the object property"
+    },
+    {
+      "id": "PCGAttributePropertyInputSelector",
+      "type": "type",
+      "label": "PCGAttributePropertyInputSelector"
+    },
+    {
+      "id": "PCGObjectPropertyOverrideDescription_input_source",
+      "type": "property",
+      "label": "input_source",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGObjectPropertyOverrideDescription_property_target",
+      "type": "property",
+      "label": "property_target",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGObjectPropertyOverrideDescription___init__",
+      "type": "method",
+      "label": "__init__"
+    },
+    {
+      "id": "AnimGroupRole",
+      "type": "enum",
+      "label": "AnimGroupRole",
+      "description": "EAnim Group Role"
+    },
+    {
+      "id": "AnimGroupRole_CAN_BE_LEADER",
+      "type": "enum_value",
+      "label": "CAN_BE_LEADER",
+      "value": 0,
+      "description": "This node can be the leader"
+    },
+    {
+      "id": "AnimGroupRole_ALWAYS_FOLLOWER",
+      "type": "enum_value",
+      "label": "ALWAYS_FOLLOWER",
+      "value": 1,
+      "description": "This node will always be a follower"
+    },
+    {
+      "id": "AnimGroupRole_ALWAYS_LEADER",
+      "type": "enum_value",
+      "label": "ALWAYS_LEADER",
+      "value": 2,
+      "description": "This node will always be a leader"
+    },
+    {
+      "id": "AnimGroupRole_TRANSITION_LEADER",
+      "type": "enum_value",
+      "label": "TRANSITION_LEADER",
+      "value": 3,
+      "description": "This node will be excluded from the sync group while blending in"
+    },
+    {
+      "id": "AnimGroupRole_TRANSITION_FOLLOWER",
+      "type": "enum_value",
+      "label": "TRANSITION_FOLLOWER",
+      "value": 4,
+      "description": "This node will be excluded from the sync group while blending in"
+    },
+    {
+      "id": "AnimGroupRole_EXCLUSIVE_ALWAYS_LEADER",
+      "type": "enum_value",
+      "label": "EXCLUSIVE_ALWAYS_LEADER",
+      "value": 5,
+      "description": "This node will always be a leader"
+    },
+    {
+      "id": "AIController",
+      "type": "class",
+      "label": "AIController",
+      "description": "AIController is the base class of controllers for AI-controlled Pawns"
+    },
+    {
+      "id": "Controller",
+      "type": "class",
+      "label": "Controller"
+    },
+    {
+      "id": "PawnActionsComponent",
+      "type": "type",
+      "label": "PawnActionsComponent"
+    },
+    {
+      "id": "BrainComponent",
+      "type": "type",
+      "label": "BrainComponent"
+    },
+    {
+      "id": "BlackboardComponent",
+      "type": "type",
+      "label": "BlackboardComponent"
+    },
+    {
+      "id": "PathFollowingComponent",
+      "type": "type",
+      "label": "PathFollowingComponent"
+    },
+    {
+      "id": "AIPerceptionComponent",
+      "type": "type",
+      "label": "AIPerceptionComponent"
+    },
+    {
+      "id": "PhysicsReplicationMode",
+      "type": "type",
+      "label": "PhysicsReplicationMode"
+    },
+    {
+      "id": "AIMoveCompletedSignature",
+      "type": "type",
+      "label": "AIMoveCompletedSignature"
+    },
+    {
+      "id": "InstigatedAnyDamageSignature",
+      "type": "type",
+      "label": "InstigatedAnyDamageSignature"
+    },
+    {
+      "id": "OnPossessedPawnChanged",
+      "type": "type",
+      "label": "OnPossessedPawnChanged"
+    },
+    {
+      "id": "RepMovement",
+      "type": "type",
+      "label": "RepMovement"
+    },
+    {
+      "id": "AIController_start_ai_logic_on_possess",
+      "type": "property",
+      "label": "start_ai_logic_on_possess",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_stop_ai_logic_on_unposses",
+      "type": "property",
+      "label": "stop_ai_logic_on_unposses",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_skip_extra_los_checks",
+      "type": "property",
+      "label": "skip_extra_los_checks",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_allow_strafe",
+      "type": "property",
+      "label": "allow_strafe",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_wants_player_state",
+      "type": "property",
+      "label": "wants_player_state",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_set_control_rotation_from_pawn_orientation",
+      "type": "property",
+      "label": "set_control_rotation_from_pawn_orientation",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_brain_component",
+      "type": "property",
+      "label": "brain_component",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_actions_comp",
+      "type": "property",
+      "label": "actions_comp",
+      "access": "read-only"
+    },
+    {
+      "id": "AIController_blackboard",
+      "type": "property",
+      "label": "blackboard",
+      "access": "read-only"
+    },
+    {
+      "id": "AIController_default_navigation_filter_class",
+      "type": "property",
+      "label": "default_navigation_filter_class",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_receive_move_completed",
+      "type": "property",
+      "label": "receive_move_completed",
+      "access": "read-write"
+    },
+    {
+      "id": "AIController_use_blackboard",
+      "type": "method",
+      "label": "use_blackboard"
+    },
+    {
+      "id": "AIController_unclaim_task_resource",
+      "type": "method",
+      "label": "unclaim_task_resource"
+    },
+    {
+      "id": "AIController_set_path_following_component",
+      "type": "method",
+      "label": "set_path_following_component"
+    },
+    {
+      "id": "AIController_set_move_block_detection",
+      "type": "method",
+      "label": "set_move_block_detection"
+    },
+    {
+      "id": "AIController_run_behavior_tree",
+      "type": "method",
+      "label": "run_behavior_tree"
+    },
+    {
+      "id": "AIController_on_using_black_board",
+      "type": "method",
+      "label": "on_using_black_board"
+    },
+    {
+      "id": "AIController_move_to_location",
+      "type": "method",
+      "label": "move_to_location"
+    },
+    {
+      "id": "AIController_move_to_actor",
+      "type": "method",
+      "label": "move_to_actor"
+    },
+    {
+      "id": "AIController_set_focus",
+      "type": "method",
+      "label": "set_focus"
+    },
+    {
+      "id": "AIController_set_focal_point",
+      "type": "method",
+      "label": "set_focal_point"
+    },
+    {
+      "id": "AIController_clear_focus",
+      "type": "method",
+      "label": "clear_focus"
+    },
+    {
+      "id": "AIController_has_partial_path",
+      "type": "method",
+      "label": "has_partial_path"
+    },
+    {
+      "id": "AIController_get_path_following_component",
+      "type": "method",
+      "label": "get_path_following_component"
+    },
+    {
+      "id": "AIController_get_move_status",
+      "type": "method",
+      "label": "get_move_status"
+    },
+    {
+      "id": "AIController_get_immediate_move_destination",
+      "type": "method",
+      "label": "get_immediate_move_destination"
+    },
+    {
+      "id": "AIController_get_focus_actor",
+      "type": "method",
+      "label": "get_focus_actor"
+    },
+    {
+      "id": "AIController_get_focal_point_on_actor",
+      "type": "method",
+      "label": "get_focal_point_on_actor"
+    },
+    {
+      "id": "AIController_get_focal_point",
+      "type": "method",
+      "label": "get_focal_point"
+    },
+    {
+      "id": "AIController_get_ai_perception_component",
+      "type": "method",
+      "label": "get_ai_perception_component"
+    },
+    {
+      "id": "AIController_claim_task_resource",
+      "type": "method",
+      "label": "claim_task_resource"
+    },
+    {
+      "id": "BlackboardData",
+      "type": "type",
+      "label": "BlackboardData"
+    },
+    {
+      "id": "BehaviorTree",
+      "type": "type",
+      "label": "BehaviorTree"
+    },
+    {
+      "id": "PathFollowingRequestResult",
+      "type": "type",
+      "label": "PathFollowingRequestResult"
+    },
+    {
+      "id": "Actor",
+      "type": "type",
+      "label": "Actor"
+    },
+    {
+      "id": "PathFollowingStatus",
+      "type": "type",
+      "label": "PathFollowingStatus"
+    },
+    {
+      "id": "CustomProgramLibrary",
+      "type": "class",
+      "label": "CustomProgramLibrary",
+      "description": "Custom Program Library"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "CustomProgramLibrary_set_program_model",
+      "type": "method",
+      "label": "set_program_model"
+    },
+    {
+      "id": "CustomProgramLibrary_set_build_visible_by_eid",
+      "type": "method",
+      "label": "set_build_visible_by_eid"
+    },
+    {
+      "id": "CustomProgramLibrary_set_build_visible_by_actor",
+      "type": "method",
+      "label": "set_build_visible_by_actor"
+    },
+    {
+      "id": "CustomProgramLibrary_save_viewport_scene_by_name",
+      "type": "method",
+      "label": "save_viewport_scene_by_name"
+    },
+    {
+      "id": "CustomProgramLibrary_remove_build_visible_by_actor",
+      "type": "method",
+      "label": "remove_build_visible_by_actor"
+    },
+    {
+      "id": "CustomProgramLibrary_query_viewport_scene",
+      "type": "method",
+      "label": "query_viewport_scene"
+    },
+    {
+      "id": "CustomProgramLibrary_new_viewport_scene",
+      "type": "method",
+      "label": "new_viewport_scene"
+    },
+    {
+      "id": "CustomProgramLibrary_get_id_array",
+      "type": "method",
+      "label": "get_id_array"
+    },
+    {
+      "id": "CustomProgramLibrary_delete_viewport_scene",
+      "type": "method",
+      "label": "delete_viewport_scene"
+    },
+    {
+      "id": "CustomProgramLibrary_create_split_screen_for_left_right",
+      "type": "method",
+      "label": "create_split_screen_for_left_right"
+    },
+    {
+      "id": "CustomProgramLibrary_create_split_screen_for_four_grid",
+      "type": "method",
+      "label": "create_split_screen_for_four_grid"
+    },
+    {
+      "id": "CustomProgramLibrary_close_viewport_scene",
+      "type": "method",
+      "label": "close_viewport_scene"
+    },
+    {
+      "id": "CustomProgramLibrary_check_viewport_scene",
+      "type": "method",
+      "label": "check_viewport_scene"
+    },
+    {
+      "id": "CustomProgramLibrary_activate_splite_index",
+      "type": "method",
+      "label": "activate_splite_index"
+    },
+    {
+      "id": "ViewportSceneFileParams",
+      "type": "type",
+      "label": "ViewportSceneFileParams"
+    },
+    {
+      "id": "Array_ViewportSceneFileParams",
+      "type": "type",
+      "label": "Array[ViewportSceneFileParams]"
+    },
+    {
+      "id": "int",
+      "type": "primitive",
+      "label": "int"
+    },
+    {
+      "id": "GroomFactory",
+      "type": "class",
+      "label": "GroomFactory",
+      "description": "Groom Factory"
+    },
+    {
+      "id": "MaterialExpressionStrataThinFilm",
+      "type": "class",
+      "label": "MaterialExpressionStrataThinFilm",
+      "description": "deprecated: was renamed to MaterialExpressionSubstrateThinFilm"
+    },
+    {
+      "id": "MaterialExpressionSubstrateThinFilm",
+      "type": "class",
+      "label": "MaterialExpressionSubstrateThinFilm"
+    },
+    {
+      "id": "InterchangeBlueprintPipelineBase",
+      "type": "class",
+      "label": "InterchangeBlueprintPipelineBase",
+      "description": "Interchange Blueprint Pipeline Base"
+    },
+    {
+      "id": "Blueprint",
+      "type": "class",
+      "label": "Blueprint"
+    },
+    {
+      "id": "BlueprintCompileMode",
+      "type": "type",
+      "label": "BlueprintCompileMode"
+    },
+    {
+      "id": "ShouldCookBlueprintPropertyGuids",
+      "type": "type",
+      "label": "ShouldCookBlueprintPropertyGuids"
+    },
+    {
+      "id": "ThumbnailInfo",
+      "type": "type",
+      "label": "ThumbnailInfo"
+    },
+    {
+      "id": "Array_str_1",
+      "type": "type",
+      "label": "Array[str]"
+    },
+    {
+      "id": "PCGCreatePointsSettings",
+      "type": "class",
+      "label": "PCGCreatePointsSettings",
+      "description": "Creates point data from a provided list of points"
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "label": "PCGSettings"
+    },
+    {
+      "id": "Text",
+      "type": "type",
+      "label": "Text"
+    },
+    {
+      "id": "PCGCoordinateSpace",
+      "type": "type",
+      "label": "PCGCoordinateSpace"
+    },
+    {
+      "id": "PCGDebugVisualizationSettings",
+      "type": "type",
+      "label": "PCGDebugVisualizationSettings"
+    },
+    {
+      "id": "PCGDeterminismSettings",
+      "type": "type",
+      "label": "PCGDeterminismSettings"
+    },
+    {
+      "id": "Array_PCGPoint",
+      "type": "type",
+      "label": "Array[PCGPoint]"
+    },
+    {
+      "id": "PCGCreatePointsSettings_points_to_create",
+      "type": "property",
+      "label": "points_to_create",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGCreatePointsSettings_coordinate_space",
+      "type": "property",
+      "label": "coordinate_space",
+      "access": "read-write"
+    },
+    {
+      "id": "PCGCreatePointsSettings_cull_points_outside_volume",
+      "type": "property",
+      "label": "cull_points_outside_volume",
+      "access": "read-write"
+    },
+    {
+      "id": "SoundfieldSubmix",
+      "type": "class",
+      "label": "SoundfieldSubmix",
+      "description": "Sound Submix class meant for use with soundfield formats"
+    },
+    {
+      "id": "SoundSubmixWithParentBase",
+      "type": "class",
+      "label": "SoundSubmixWithParentBase"
+    },
+    {
+      "id": "Array_SoundSubmixBase",
+      "type": "type",
+      "label": "Array[SoundSubmixBase]"
+    },
+    {
+      "id": "SoundfieldEncodingSettingsBase",
+      "type": "type",
+      "label": "SoundfieldEncodingSettingsBase"
+    },
+    {
+      "id": "SoundSubmixBase",
+      "type": "type",
+      "label": "SoundSubmixBase"
+    },
+    {
+      "id": "Array_SoundfieldEffectBase",
+      "type": "type",
+      "label": "Array[SoundfieldEffectBase]"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "plugin_WdpDataModel",
+      "type": "plugin",
+      "label": "WdpDataModel"
+    },
+    {
+      "id": "module_WdpGeometryEntity",
+      "type": "module",
+      "label": "WdpGeometryEntity"
+    },
+    {
+      "id": "file_RelativePolygon2DAtom_h",
+      "type": "file",
+      "label": "RelativePolygon2DAtom.h"
+    },
+    {
+      "id": "plugin_PCG",
+      "type": "plugin",
+      "label": "PCG"
+    },
+    {
+      "id": "module_PCG",
+      "type": "module",
+      "label": "PCG"
+    },
+    {
+      "id": "file_PCGDeleteTags_h",
+      "type": "file",
+      "label": "PCGDeleteTags.h"
+    },
+    {
+      "id": "plugin_SVGImporter",
+      "type": "plugin",
+      "label": "SVGImporter"
+    },
+    {
+      "id": "module_SVGImporter",
+      "type": "module",
+      "label": "SVGImporter"
+    },
+    {
+      "id": "file_SVGFillComponent_h",
+      "type": "file",
+      "label": "SVGFillComponent.h"
+    },
+    {
+      "id": "plugin_AesRuntimeCore",
+      "type": "plugin",
+      "label": "AesRuntimeCore"
+    },
+    {
+      "id": "module_WdpDataModel_1",
+      "type": "module",
+      "label": "WdpDataModel"
+    },
+    {
+      "id": "file_UpdateRelatedAtom_h",
+      "type": "file",
+      "label": "UpdateRelatedAtom.h"
+    },
+    {
+      "id": "plugin_Paper2D",
+      "type": "plugin",
+      "label": "Paper2D"
+    },
+    {
+      "id": "module_Paper2D",
+      "type": "module",
+      "label": "Paper2D"
+    },
+    {
+      "id": "file_PaperCharacter_h",
+      "type": "file",
+      "label": "PaperCharacter.h"
+    },
+    {
+      "id": "plugin_RemoteControl",
+      "type": "plugin",
+      "label": "RemoteControl"
+    },
+    {
+      "id": "module_RemoteControlUI",
+      "type": "module",
+      "label": "RemoteControlUI"
+    },
+    {
+      "id": "file_RemoteControlPresetFactory_h",
+      "type": "file",
+      "label": "RemoteControlPresetFactory.h"
+    },
+    {
+      "id": "plugin_Synthesis",
+      "type": "plugin",
+      "label": "Synthesis"
+    },
+    {
+      "id": "module_Synthesis",
+      "type": "module",
+      "label": "Synthesis"
+    },
+    {
+      "id": "file_SubmixEffectFilter_h",
+      "type": "file",
+      "label": "SubmixEffectFilter.h"
+    },
+    {
+      "id": "plugin_ControlRig",
+      "type": "plugin",
+      "label": "ControlRig"
+    },
+    {
+      "id": "module_ControlRig",
+      "type": "module",
+      "label": "ControlRig"
+    },
+    {
+      "id": "file_RigUnit_TransformConstraint_h",
+      "type": "file",
+      "label": "RigUnit_TransformConstraint.h"
+    },
+    {
+      "id": "file_EpicSynth1Types_h",
+      "type": "file",
+      "label": "EpicSynth1Types.h"
+    },
+    {
+      "id": "plugin_GeometryScripting",
+      "type": "plugin",
+      "label": "GeometryScripting"
+    },
+    {
+      "id": "module_GeometryScriptingCore",
+      "type": "module",
+      "label": "GeometryScriptingCore"
+    },
+    {
+      "id": "file_MeshRepairFunctions_h",
+      "type": "file",
+      "label": "MeshRepairFunctions.h"
+    },
+    {
+      "id": "plugin_PoseSearch",
+      "type": "plugin",
+      "label": "PoseSearch"
+    },
+    {
+      "id": "module_PoseSearch",
+      "type": "module",
+      "label": "PoseSearch"
+    },
+    {
+      "id": "file_PoseSearchAnimNotifies_h",
+      "type": "file",
+      "label": "PoseSearchAnimNotifies.h"
+    },
+    {
+      "id": "file_RigUnit_Converter_h",
+      "type": "file",
+      "label": "RigUnit_Converter.h"
+    },
+    {
+      "id": "file_PCGMeshSelectorWeightedByCategory_h",
+      "type": "file",
+      "label": "PCGMeshSelectorWeightedByCategory.h"
+    },
+    {
+      "id": "file_PCGObjectPropertyOverride_h",
+      "type": "file",
+      "label": "PCGObjectPropertyOverride.h"
+    },
+    {
+      "id": "module_Engine",
+      "type": "module",
+      "label": "Engine"
+    },
+    {
+      "id": "file_AnimationAsset_h",
+      "type": "file",
+      "label": "AnimationAsset.h"
+    },
+    {
+      "id": "module_AIModule",
+      "type": "module",
+      "label": "AIModule"
+    },
+    {
+      "id": "file_AIController_h",
+      "type": "file",
+      "label": "AIController.h"
+    },
+    {
+      "id": "plugin_CustomProgram",
+      "type": "plugin",
+      "label": "CustomProgram"
+    },
+    {
+      "id": "module_CustomProgram",
+      "type": "module",
+      "label": "CustomProgram"
+    },
+    {
+      "id": "file_CustomProgramLibrary_h",
+      "type": "file",
+      "label": "CustomProgramLibrary.h"
+    },
+    {
+      "id": "plugin_HairStrands",
+      "type": "plugin",
+      "label": "HairStrands"
+    },
+    {
+      "id": "module_HairStrandsEditor",
+      "type": "module",
+      "label": "HairStrandsEditor"
+    },
+    {
+      "id": "file_GroomFactory_h",
+      "type": "file",
+      "label": "GroomFactory.h"
+    },
+    {
+      "id": "module_InterchangeEngine",
+      "type": "module",
+      "label": "InterchangeEngine"
+    },
+    {
+      "id": "file_InterchangeBlueprintPipelineBase_h",
+      "type": "file",
+      "label": "InterchangeBlueprintPipelineBase.h"
+    },
+    {
+      "id": "file_PCGCreatePoints_h",
+      "type": "file",
+      "label": "PCGCreatePoints.h"
+    },
+    {
+      "id": "file_SoundSubmix_h",
+      "type": "file",
+      "label": "SoundSubmix.h"
+    }
+  ],
+  "edges": [
+    {
+      "source": "RelativePolygon2DAtom",
+      "target": "EntityAtomBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "RelativePolygon2DAtom",
+      "target": "RelativePolygon2DAtom_coordinates",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RelativePolygon2DAtom_coordinates",
+      "target": "WdpPolygon2D",
+      "type": "TYPE"
+    },
+    {
+      "source": "RelativePolygon2DAtom",
+      "target": "plugin_WdpDataModel",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "RelativePolygon2DAtom",
+      "target": "module_WdpGeometryEntity",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "RelativePolygon2DAtom",
+      "target": "file_RelativePolygon2DAtom_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "PCGTagFilterOperation",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "PCGTagFilterOperation",
+      "target": "PCGTagFilterOperation_KEEP_ONLY_SELECTED_TAGS",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "PCGTagFilterOperation",
+      "target": "PCGTagFilterOperation_DELETE_SELECTED_TAGS",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "PCGTagFilterOperation",
+      "target": "plugin_PCG",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "PCGTagFilterOperation",
+      "target": "module_PCG",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "PCGTagFilterOperation",
+      "target": "file_PCGDeleteTags_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "SVGFillComponent",
+      "target": "SVGDynamicMeshComponent",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "SVGFillComponent",
+      "target": "plugin_SVGImporter",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "SVGFillComponent",
+      "target": "module_SVGImporter",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "SVGFillComponent",
+      "target": "file_SVGFillComponent_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "UpdateRelatedAtom",
+      "target": "EntityAtomBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "UpdateRelatedAtom",
+      "target": "plugin_AesRuntimeCore",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "UpdateRelatedAtom",
+      "target": "module_WdpDataModel_1",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "UpdateRelatedAtom",
+      "target": "file_UpdateRelatedAtom_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "PaperCharacter",
+      "target": "Character",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "PaperCharacter",
+      "target": "plugin_Paper2D",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "PaperCharacter",
+      "target": "module_Paper2D",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "PaperCharacter",
+      "target": "file_PaperCharacter_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "RemoteControlPresetFactory",
+      "target": "Factory",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "RemoteControlPresetFactory",
+      "target": "plugin_RemoteControl",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "RemoteControlPresetFactory",
+      "target": "module_RemoteControlUI",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "RemoteControlPresetFactory",
+      "target": "file_RemoteControlPresetFactory_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "SubmixFilterType",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "SubmixFilterType",
+      "target": "SubmixFilterType_LOW_PASS",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "SubmixFilterType",
+      "target": "SubmixFilterType_HIGH_PASS",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "SubmixFilterType",
+      "target": "SubmixFilterType_BAND_PASS",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "SubmixFilterType",
+      "target": "SubmixFilterType_BAND_STOP",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "SubmixFilterType",
+      "target": "plugin_Synthesis",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "SubmixFilterType",
+      "target": "module_Synthesis",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "SubmixFilterType",
+      "target": "file_SubmixEffectFilter_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "ConstraintTarget_filter",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "ConstraintTarget_filter",
+      "target": "TransformFilter",
+      "type": "TYPE"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "ConstraintTarget_maintain_offset",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "ConstraintTarget_maintain_offset",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "ConstraintTarget_transform",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "ConstraintTarget_transform",
+      "target": "Transform",
+      "type": "TYPE"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "ConstraintTarget_weight",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "ConstraintTarget_weight",
+      "target": "float",
+      "type": "TYPE"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "ConstraintTarget___init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "plugin_ControlRig",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "module_ControlRig",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "ConstraintTarget",
+      "target": "file_RigUnit_TransformConstraint_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "SynthStereoDelayMode",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "SynthStereoDelayMode",
+      "target": "SynthStereoDelayMode_NORMAL",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "SynthStereoDelayMode",
+      "target": "SynthStereoDelayMode_CROSS",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "SynthStereoDelayMode",
+      "target": "SynthStereoDelayMode_PING_PONG",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "SynthStereoDelayMode",
+      "target": "plugin_Synthesis",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "SynthStereoDelayMode",
+      "target": "module_Synthesis",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "SynthStereoDelayMode",
+      "target": "file_EpicSynth1Types_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions",
+      "target": "GeometryScriptFillHolesOptions_fill_method",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions_fill_method",
+      "target": "GeometryScriptFillHolesMethod",
+      "type": "TYPE"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions",
+      "target": "GeometryScriptFillHolesOptions_delete_isolated_triangles",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions_delete_isolated_triangles",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions",
+      "target": "GeometryScriptFillHolesOptions___init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions",
+      "target": "plugin_GeometryScripting",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions",
+      "target": "module_GeometryScriptingCore",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "GeometryScriptFillHolesOptions",
+      "target": "file_MeshRepairFunctions_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "AnimNotifyState_PoseSearchBlockTransition",
+      "target": "AnimNotifyState_PoseSearchBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AnimNotifyState_PoseSearchBlockTransition",
+      "target": "plugin_PoseSearch",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "AnimNotifyState_PoseSearchBlockTransition",
+      "target": "module_PoseSearch",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "AnimNotifyState_PoseSearchBlockTransition",
+      "target": "file_PoseSearchAnimNotifies_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation",
+      "target": "RigUnit",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation",
+      "target": "RigUnit_ConvertVectorToRotation_input",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation_input",
+      "target": "Vector",
+      "type": "TYPE"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation",
+      "target": "RigUnit_ConvertVectorToRotation_result",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation_result",
+      "target": "Rotator",
+      "type": "TYPE"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation",
+      "target": "RigUnit_ConvertVectorToRotation___init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation",
+      "target": "plugin_ControlRig",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation",
+      "target": "module_ControlRig",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "RigUnit_ConvertVectorToRotation",
+      "target": "file_RigUnit_Converter_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList",
+      "target": "PCGWeightedByCategoryEntryList_category_entry",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList_category_entry",
+      "target": "str",
+      "type": "TYPE"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList",
+      "target": "PCGWeightedByCategoryEntryList_is_default",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList_is_default",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList",
+      "target": "PCGWeightedByCategoryEntryList_weighted_mesh_entries",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList_weighted_mesh_entries",
+      "target": "Array_PCGMeshSelectorWeightedEntry",
+      "type": "TYPE"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList",
+      "target": "PCGWeightedByCategoryEntryList___init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList",
+      "target": "plugin_PCG",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList",
+      "target": "module_PCG",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "PCGWeightedByCategoryEntryList",
+      "target": "file_PCGMeshSelectorWeightedByCategory_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription",
+      "target": "PCGObjectPropertyOverrideDescription_input_source",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription_input_source",
+      "target": "PCGAttributePropertyInputSelector",
+      "type": "TYPE"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription",
+      "target": "PCGObjectPropertyOverrideDescription_property_target",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription_property_target",
+      "target": "str",
+      "type": "TYPE"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription",
+      "target": "PCGObjectPropertyOverrideDescription___init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription",
+      "target": "plugin_PCG",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription",
+      "target": "module_PCG",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "PCGObjectPropertyOverrideDescription",
+      "target": "file_PCGObjectPropertyOverride_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "AnimGroupRole_CAN_BE_LEADER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "AnimGroupRole_ALWAYS_FOLLOWER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "AnimGroupRole_ALWAYS_LEADER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "AnimGroupRole_TRANSITION_LEADER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "AnimGroupRole_TRANSITION_FOLLOWER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "AnimGroupRole_EXCLUSIVE_ALWAYS_LEADER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "module_Engine",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "AnimGroupRole",
+      "target": "file_AnimationAsset_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "AIController",
+      "target": "Controller",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_start_ai_logic_on_possess",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_start_ai_logic_on_possess",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_stop_ai_logic_on_unposses",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_stop_ai_logic_on_unposses",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_skip_extra_los_checks",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_skip_extra_los_checks",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_allow_strafe",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_allow_strafe",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_wants_player_state",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_wants_player_state",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_set_control_rotation_from_pawn_orientation",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_set_control_rotation_from_pawn_orientation",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_brain_component",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_brain_component",
+      "target": "BrainComponent",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_actions_comp",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_actions_comp",
+      "target": "PawnActionsComponent",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_blackboard",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_blackboard",
+      "target": "BlackboardComponent",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_default_navigation_filter_class",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_default_navigation_filter_class",
+      "target": "Class",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_receive_move_completed",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AIController_receive_move_completed",
+      "target": "AIMoveCompletedSignature",
+      "type": "TYPE"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_use_blackboard",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_unclaim_task_resource",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_set_path_following_component",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_set_move_block_detection",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_run_behavior_tree",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_on_using_black_board",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_move_to_location",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_move_to_actor",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_set_focus",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_set_focal_point",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_clear_focus",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_has_partial_path",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_get_path_following_component",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_get_move_status",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_get_immediate_move_destination",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_get_focus_actor",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_get_focal_point_on_actor",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_get_focal_point",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_get_ai_perception_component",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "AIController_claim_task_resource",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "AIController",
+      "target": "module_AIModule",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "AIController",
+      "target": "file_AIController_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_set_program_model",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_set_build_visible_by_eid",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_set_build_visible_by_actor",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_save_viewport_scene_by_name",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_remove_build_visible_by_actor",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_query_viewport_scene",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_new_viewport_scene",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_get_id_array",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_delete_viewport_scene",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_create_split_screen_for_left_right",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_create_split_screen_for_four_grid",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_close_viewport_scene",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_check_viewport_scene",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "CustomProgramLibrary_activate_splite_index",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "plugin_CustomProgram",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "module_CustomProgram",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "CustomProgramLibrary",
+      "target": "file_CustomProgramLibrary_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "GroomFactory",
+      "target": "Factory",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "GroomFactory",
+      "target": "plugin_HairStrands",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "GroomFactory",
+      "target": "module_HairStrandsEditor",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "GroomFactory",
+      "target": "file_GroomFactory_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "MaterialExpressionStrataThinFilm",
+      "target": "MaterialExpressionSubstrateThinFilm",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "InterchangeBlueprintPipelineBase",
+      "target": "Blueprint",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "InterchangeBlueprintPipelineBase",
+      "target": "module_InterchangeEngine",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "InterchangeBlueprintPipelineBase",
+      "target": "file_InterchangeBlueprintPipelineBase_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "PCGCreatePointsSettings",
+      "target": "PCGSettings",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "PCGCreatePointsSettings",
+      "target": "PCGCreatePointsSettings_points_to_create",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "PCGCreatePointsSettings_points_to_create",
+      "target": "Array_PCGPoint",
+      "type": "TYPE"
+    },
+    {
+      "source": "PCGCreatePointsSettings",
+      "target": "PCGCreatePointsSettings_coordinate_space",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "PCGCreatePointsSettings_coordinate_space",
+      "target": "PCGCoordinateSpace",
+      "type": "TYPE"
+    },
+    {
+      "source": "PCGCreatePointsSettings",
+      "target": "PCGCreatePointsSettings_cull_points_outside_volume",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "PCGCreatePointsSettings_cull_points_outside_volume",
+      "target": "bool",
+      "type": "TYPE"
+    },
+    {
+      "source": "PCGCreatePointsSettings",
+      "target": "plugin_PCG",
+      "type": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "source": "PCGCreatePointsSettings",
+      "target": "module_PCG",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "PCGCreatePointsSettings",
+      "target": "file_PCGCreatePoints_h",
+      "type": "DEFINED_IN_FILE"
+    },
+    {
+      "source": "SoundfieldSubmix",
+      "target": "SoundSubmixWithParentBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "SoundfieldSubmix",
+      "target": "module_Engine",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "SoundfieldSubmix",
+      "target": "file_SoundSubmix_h",
+      "type": "DEFINED_IN_FILE"
+    }
+  ]
+}

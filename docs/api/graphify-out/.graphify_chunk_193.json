@@ -1,0 +1,928 @@
+{
+  "nodes": [
+    {
+      "id": "soundfieldencodingsettingsbase_soundfieldencodingsettingsbase",
+      "label": "SoundfieldEncodingSettingsBase",
+      "file_type": "document",
+      "source_file": "SoundfieldEncodingSettingsBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "virtualkeyboarddismissaction_virtualkeyboarddismissaction",
+      "label": "VirtualKeyboardDismissAction",
+      "file_type": "document",
+      "source_file": "VirtualKeyboardDismissAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpointfrommeshsettings_pcgpointfrommeshsettings",
+      "label": "PCGPointFromMeshSettings",
+      "file_type": "document",
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_cameraocio_displayclusterconfigurationicvfx_cameraocio",
+      "label": "DisplayClusterConfigurationICVFX_CameraOCIO",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_CameraOCIO Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringreplace_rigvmfunction_stringreplace",
+      "label": "RigVMFunction_StringReplace",
+      "file_type": "document",
+      "source_file": "RigVMFunction__StringReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyentry_propertyentry",
+      "label": "PropertyEntry",
+      "file_type": "document",
+      "source_file": "PropertyEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshcuttercutdistribution_meshcuttercutdistribution",
+      "label": "MeshCutterCutDistribution",
+      "file_type": "document",
+      "source_file": "MeshCutterCutDistribution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputtriggerchordblocker_inputtriggerchordblocker",
+      "label": "InputTriggerChordBlocker",
+      "file_type": "document",
+      "source_file": "InputTriggerChordBlocker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorperceptioninfoupdateddelegate_actorperceptioninfoupdateddelegate",
+      "label": "ActorPerceptionInfoUpdatedDelegate",
+      "file_type": "document",
+      "source_file": "ActorPerceptionInfoUpdatedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavetablesamplingmode_wavetablesamplingmode",
+      "label": "WaveTableSamplingMode",
+      "file_type": "document",
+      "source_file": "WaveTableSamplingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbooltointeger_rigvmfunction_mathbooltointeger",
+      "label": "RigVMFunction_MathBoolToInteger",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoolToInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concertclientvrpresenceactor_concertclientvrpresenceactor",
+      "label": "ConcertClientVRPresenceActor",
+      "file_type": "document",
+      "source_file": "ConcertClientVRPresenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplayertrackoptions_mediaplayertrackoptions",
+      "label": "MediaPlayerTrackOptions",
+      "file_type": "document",
+      "source_file": "MediaPlayerTrackOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonegraphannotationtestingcomponent_zonegraphannotationtestingcomponent",
+      "label": "ZoneGraphAnnotationTestingComponent",
+      "file_type": "document",
+      "source_file": "ZoneGraphAnnotationTestingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringleft_rigvmfunction_stringleft",
+      "label": "RigVMFunction_StringLeft",
+      "file_type": "document",
+      "source_file": "RigVMFunction__StringLeft Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riverwayinfo_riverwayinfo",
+      "label": "RiverWayInfo",
+      "file_type": "document",
+      "source_file": "RiverWayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_netquantizenormal_vector_netquantizenormal",
+      "label": "Vector_NetQuantizeNormal",
+      "file_type": "document",
+      "source_file": "Vector_NetQuantizeNormal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercoremoveoperation_actormodifiercoremoveoperation",
+      "label": "ActorModifierCoreMoveOperation",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreMoveOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitionconditionblueprint_avatransitionconditionblueprint",
+      "label": "AvaTransitionConditionBlueprint",
+      "file_type": "document",
+      "source_file": "AvaTransitionConditionBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_itembase_rigunit_itembase",
+      "label": "RigUnit_ItemBase",
+      "file_type": "document",
+      "source_file": "RigUnit__ItemBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarundownmacrocommand_avarundownmacrocommand",
+      "label": "AvaRundownMacroCommand",
+      "file_type": "document",
+      "source_file": "AvaRundownMacroCommand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintmax_rigvmfunction_mathintmax",
+      "label": "RigVMFunction_MathIntMax",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings_pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "document",
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringbase_rigvmfunction_stringbase",
+      "label": "RigVMFunction_StringBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__StringReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolbase_rigvmfunction_mathboolbase",
+      "label": "RigVMFunction_MathBoolBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoolToInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "label": "RigVMFunction_MathIntBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputtriggerchordaction_inputtriggerchordaction",
+      "label": "InputTriggerChordAction",
+      "file_type": "document",
+      "source_file": "InputTriggerChordBlocker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concertclientpresenceactor_concertclientpresenceactor",
+      "label": "ConcertClientPresenceActor",
+      "file_type": "document",
+      "source_file": "ConcertClientVRPresenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugdrawcomponent_debugdrawcomponent",
+      "label": "DebugDrawComponent",
+      "file_type": "document",
+      "source_file": "ZoneGraphAnnotationTestingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit__ItemBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeconditionblueprintbase_statetreeconditionblueprintbase",
+      "label": "StateTreeConditionBlueprintBase",
+      "file_type": "document",
+      "source_file": "AvaTransitionConditionBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmesh_staticmesh",
+      "label": "StaticMesh",
+      "file_type": "document",
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationocioconfiguration_displayclusterconfigurationocioconfiguration",
+      "label": "DisplayClusterConfigurationOCIOConfiguration",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_CameraOCIO Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationocioprofile_displayclusterconfigurationocioprofile",
+      "label": "DisplayClusterConfigurationOCIOProfile",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_CameraOCIO Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialproperty_materialproperty",
+      "label": "MaterialProperty",
+      "file_type": "document",
+      "source_file": "PropertyEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intpoint_intpoint",
+      "label": "IntPoint",
+      "file_type": "document",
+      "source_file": "PropertyEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rivernodeinfo_rivernodeinfo",
+      "label": "RiverNodeInfo",
+      "file_type": "document",
+      "source_file": "RiverWayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "RiverWayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorebase_actormodifiercorebase",
+      "label": "ActorModifierCoreBase",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreMoveOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorestackposition_actormodifiercorestackposition",
+      "label": "ActorModifierCoreStackPosition",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreMoveOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputaction_inputaction",
+      "label": "InputAction",
+      "file_type": "document",
+      "source_file": "InputTriggerChordBlocker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputactionvalue_inputactionvalue",
+      "label": "InputActionValue",
+      "file_type": "document",
+      "source_file": "InputTriggerChordBlocker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshcomponent_staticmeshcomponent",
+      "label": "StaticMeshComponent",
+      "file_type": "document",
+      "source_file": "ConcertClientVRPresenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textrendercomponent_textrendercomponent",
+      "label": "TextRenderComponent",
+      "file_type": "document",
+      "source_file": "ConcertClientVRPresenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonegraphannotationtest_zonegraphannotationtest",
+      "label": "ZoneGraphAnnotationTest",
+      "file_type": "document",
+      "source_file": "ZoneGraphAnnotationTestingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorperceptionupdateinfo_actorperceptionupdateinfo",
+      "label": "ActorPerceptionUpdateInfo",
+      "file_type": "document",
+      "source_file": "ActorPerceptionInfoUpdatedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "Vector_NetQuantizeNormal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetname_assetname",
+      "label": "AssetName",
+      "file_type": "document",
+      "source_file": "RiverWayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdebugvisualizationsettings_pcgdebugvisualizationsettings",
+      "label": "PCGDebugVisualizationSettings",
+      "file_type": "document",
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdeterminismsettings_pcgdeterminismsettings",
+      "label": "PCGDeterminismSettings",
+      "file_type": "document",
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opencolorioviewtransformdirection_opencolorioviewtransformdirection",
+      "label": "OpenColorIOViewTransformDirection",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_CameraOCIO Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgpointfrommeshsettings_pcgpointfrommeshsettings",
+      "target": "pcgsettings_pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpointfrommeshsettings_pcgpointfrommeshsettings",
+      "target": "staticmesh_staticmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpointfrommeshsettings_pcgpointfrommeshsettings",
+      "target": "pcgdebugvisualizationsettings_pcgdebugvisualizationsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpointfrommeshsettings_pcgpointfrommeshsettings",
+      "target": "pcgdeterminismsettings_pcgdeterminismsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointFromMeshSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringreplace_rigvmfunction_stringreplace",
+      "target": "rigvmfunction_stringbase_rigvmfunction_stringbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__StringReplace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringleft_rigvmfunction_stringleft",
+      "target": "rigvmfunction_stringbase_rigvmfunction_stringbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__StringLeft Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathbooltointeger_rigvmfunction_mathbooltointeger",
+      "target": "rigvmfunction_mathboolbase_rigvmfunction_mathboolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoolToInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintmax_rigvmfunction_mathintmax",
+      "target": "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputtriggerchordblocker_inputtriggerchordblocker",
+      "target": "inputtriggerchordaction_inputtriggerchordaction",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputTriggerChordBlocker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputtriggerchordblocker_inputtriggerchordblocker",
+      "target": "inputaction_inputaction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputTriggerChordBlocker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputtriggerchordblocker_inputtriggerchordblocker",
+      "target": "inputactionvalue_inputactionvalue",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputTriggerChordBlocker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concertclientvrpresenceactor_concertclientvrpresenceactor",
+      "target": "concertclientpresenceactor_concertclientpresenceactor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConcertClientVRPresenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concertclientvrpresenceactor_concertclientvrpresenceactor",
+      "target": "staticmeshcomponent_staticmeshcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConcertClientVRPresenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concertclientvrpresenceactor_concertclientvrpresenceactor",
+      "target": "textrendercomponent_textrendercomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConcertClientVRPresenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zonegraphannotationtestingcomponent_zonegraphannotationtestingcomponent",
+      "target": "debugdrawcomponent_debugdrawcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ZoneGraphAnnotationTestingComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zonegraphannotationtestingcomponent_zonegraphannotationtestingcomponent",
+      "target": "zonegraphannotationtest_zonegraphannotationtest",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ZoneGraphAnnotationTestingComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itembase_rigunit_itembase",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ItemBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitionconditionblueprint_avatransitionconditionblueprint",
+      "target": "statetreeconditionblueprintbase_statetreeconditionblueprintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionConditionBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_cameraocio_displayclusterconfigurationicvfx_cameraocio",
+      "target": "displayclusterconfigurationocioconfiguration_displayclusterconfigurationocioconfiguration",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_CameraOCIO Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_cameraocio_displayclusterconfigurationicvfx_cameraocio",
+      "target": "displayclusterconfigurationocioprofile_displayclusterconfigurationocioprofile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_CameraOCIO Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationocioconfiguration_displayclusterconfigurationocioconfiguration",
+      "target": "opencolorioviewtransformdirection_opencolorioviewtransformdirection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_CameraOCIO Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyentry_propertyentry",
+      "target": "materialproperty_materialproperty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyentry_propertyentry",
+      "target": "intpoint_intpoint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riverwayinfo_riverwayinfo",
+      "target": "rivernodeinfo_rivernodeinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RiverWayInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riverwayinfo_riverwayinfo",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RiverWayInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riverwayinfo_riverwayinfo",
+      "target": "assetname_assetname",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RiverWayInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercoremoveoperation_actormodifiercoremoveoperation",
+      "target": "actormodifiercorebase_actormodifiercorebase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreMoveOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercoremoveoperation_actormodifiercoremoveoperation",
+      "target": "actormodifiercorestackposition_actormodifiercorestackposition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreMoveOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vector_netquantizenormal_vector_netquantizenormal",
+      "target": "vector_vector",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Vector_NetQuantizeNormal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorperceptioninfoupdateddelegate_actorperceptioninfoupdateddelegate",
+      "target": "actorperceptionupdateinfo_actorperceptionupdateinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorPerceptionInfoUpdatedDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringreplace_rigvmfunction_stringreplace",
+      "target": "rigvmfunction_stringleft_rigvmfunction_stringleft",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__StringReplace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathbooltointeger_rigvmfunction_mathbooltointeger",
+      "target": "rigvmfunction_mathintmax_rigvmfunction_mathintmax",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathBoolToInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshcuttercutdistribution_meshcuttercutdistribution",
+      "target": "wavetablesamplingmode_wavetablesamplingmode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MeshCutterCutDistribution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_string_functions",
+      "label": "RigVM String Manipulation Functions",
+      "nodes": [
+        "rigvmfunction_stringreplace_rigvmfunction_stringreplace",
+        "rigvmfunction_stringleft_rigvmfunction_stringleft",
+        "rigvmfunction_stringbase_rigvmfunction_stringbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction__StringReplace Objects.md"
+    },
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Functions",
+      "nodes": [
+        "rigvmfunction_mathbooltointeger_rigvmfunction_mathbooltointeger",
+        "rigvmfunction_mathintmax_rigvmfunction_mathintmax",
+        "rigvmfunction_mathboolbase_rigvmfunction_mathboolbase",
+        "rigvmfunction_mathintbinaryaggregateop_rigvmfunction_mathintbinaryaggregateop"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathBoolToInteger Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

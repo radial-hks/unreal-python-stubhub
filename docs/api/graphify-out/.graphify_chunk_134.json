@@ -1,0 +1,717 @@
+{
+  "nodes": [
+    {
+      "id": "vectorcurvechannel_vectorcurvechannel",
+      "label": "VectorCurveChannel",
+      "file_type": "code",
+      "source_file": "VectorCurveChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarawaterfunctionlibrary_niagarawaterfunctionlibrary",
+      "label": "NiagaraWaterFunctionLibrary",
+      "file_type": "code",
+      "source_file": "NiagaraWaterFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodbakeresolution_generatestaticmeshlodbakeresolution",
+      "label": "GenerateStaticMeshLODBakeResolution",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODBakeResolution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaramoduledependencyscriptconstraint_niagaramoduledependencyscriptconstraint",
+      "label": "NiagaraModuleDependencyScriptConstraint",
+      "file_type": "code",
+      "source_file": "NiagaraModuleDependencyScriptConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchbone_posesearchbone",
+      "label": "PoseSearchBone",
+      "file_type": "code",
+      "source_file": "PoseSearchBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animtoolblendoperation_animtoolblendoperation",
+      "label": "AnimToolBlendOperation",
+      "file_type": "code",
+      "source_file": "AnimToolBlendOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterblueprintapi_displayclusterblueprintapi",
+      "label": "DisplayClusterBlueprintAPI",
+      "file_type": "code",
+      "source_file": "DisplayClusterBlueprintAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationqueryfilter_navigationqueryfilter",
+      "label": "NavigationQueryFilter",
+      "file_type": "code",
+      "source_file": "NavigationQueryFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "localpositionorigin_localpositionorigin",
+      "label": "LocalPositionOrigin",
+      "file_type": "code",
+      "source_file": "LocalPositionOrigin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assettagssubsystem_assettagssubsystem",
+      "label": "AssetTagsSubsystem",
+      "file_type": "code",
+      "source_file": "AssetTagsSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeassetactorasync_gltfruntimeassetactorasync",
+      "label": "glTFRuntimeAssetActorAsync",
+      "file_type": "code",
+      "source_file": "glTFRuntimeAssetActorAsync Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimevirtualtexturestreamingproxy_runtimevirtualtexturestreamingproxy",
+      "label": "RuntimeVirtualTextureStreamingProxy",
+      "file_type": "code",
+      "source_file": "RuntimeVirtualTextureStreamingProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxisinside_rigvmfunction_mathboxisinside",
+      "label": "RigVMFunction_MathBoxIsInside",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoxIsInside Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfactorynew_materialfactorynew",
+      "label": "MaterialFactoryNew",
+      "file_type": "code",
+      "source_file": "MaterialFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tracetypequery_tracetypequery",
+      "label": "TraceTypeQuery",
+      "file_type": "code",
+      "source_file": "TraceTypeQuery Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_worldoriginanchor",
+      "label": "WorldOriginAnchor",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenematerialparametersection_moviescenematerialparametersection",
+      "label": "MovieSceneMaterialParameterSection",
+      "file_type": "code",
+      "source_file": "MovieSceneMaterialParameterSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressiondeltatime_dmmaterialstageexpressiondeltatime",
+      "label": "DMMaterialStageExpressionDeltaTime",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionDeltaTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "search_replace_entry_search_replace_entry",
+      "label": "search_replace_entry",
+      "file_type": "code",
+      "source_file": "search_replace_entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneprimitivematerialsection_moviesceneprimitivematerialsection",
+      "label": "MovieScenePrimitiveMaterialSection",
+      "file_type": "code",
+      "source_file": "MovieScenePrimitiveMaterialSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_torigspace_rotation_rigunit_torigspace_rotation",
+      "label": "RigUnit_ToRigSpace_Rotation",
+      "file_type": "code",
+      "source_file": "RigUnit__ToRigSpace__Rotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "legacycamerashake_legacycamerashake",
+      "label": "LegacyCameraShake",
+      "file_type": "code",
+      "source_file": "LegacyCameraShake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarawaterfunctionlibrary_set_water_body_component",
+      "label": "set_water_body_component",
+      "file_type": "code",
+      "source_file": "NiagaraWaterFunctionLibrary Objects.md",
+      "source_location": "lines 15-33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarawaterfunctionlibrary_set_water_body",
+      "label": "set_water_body",
+      "file_type": "code",
+      "source_file": "NiagaraWaterFunctionLibrary Objects.md",
+      "source_location": "lines 34-52",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchbone_bonereference",
+      "label": "BoneReference Property",
+      "file_type": "code",
+      "source_file": "PoseSearchBone Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assettagssubsystem_collection_management",
+      "label": "Collection Management Functions",
+      "file_type": "code",
+      "source_file": "AssetTagsSubsystem Objects.md",
+      "source_location": "lines 15-518",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_geospatial_conversion",
+      "label": "Geospatial Coordinate Conversion",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "lines 311-969",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_origin_at_planet_center",
+      "label": "origin_at_planet_center Property",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 106",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_earth_radius",
+      "label": "earth_radius Property",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 55",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_origin_latitude",
+      "label": "origin_latitude Property",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 107",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_origin_longitude",
+      "label": "origin_longitude Property",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 108",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_origin_altitude",
+      "label": "origin_altitude Property",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 105",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_use_actor_transform_as_origin",
+      "label": "use_actor_transform_as_origin Property",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 148",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_world_center_transform",
+      "label": "world_center_transform Property",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 149",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor_anchor_type",
+      "label": "anchor_type Property",
+      "file_type": "code",
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterblueprintapi_cluster_event_management",
+      "label": "Cluster Event Management",
+      "file_type": "code",
+      "source_file": "DisplayClusterBlueprintAPI Objects.md",
+      "source_location": "lines 15-272",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "legacycamerashake_oscillation_system",
+      "label": "Camera Oscillation System",
+      "file_type": "code",
+      "source_file": "LegacyCameraShake Objects.md",
+      "source_location": "lines 22-33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "legacycamerashake_anim_sequence_playback",
+      "label": "Animation Sequence Playback",
+      "file_type": "code",
+      "source_file": "LegacyCameraShake Objects.md",
+      "source_location": "lines 17-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxisinside_point_in_box_test",
+      "label": "Point-in-Box Spatial Query",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoxIsInside Objects.md",
+      "source_location": "lines 1-73",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_torigspace_rotation_space_conversion",
+      "label": "World-to-Rig Space Conversion",
+      "file_type": "code",
+      "source_file": "RigUnit__ToRigSpace__Rotation Objects.md",
+      "source_location": "lines 1-80",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "niagarawaterfunctionlibrary_set_water_body",
+      "target": "niagarawaterfunctionlibrary_set_water_body_component",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraWaterFunctionLibrary Objects.md",
+      "source_location": "line 46",
+      "weight": 1.0
+    },
+    {
+      "source": "niagarawaterfunctionlibrary_niagarawaterfunctionlibrary",
+      "target": "niagarawaterfunctionlibrary_set_water_body_component",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraWaterFunctionLibrary Objects.md",
+      "source_location": "lines 15-33",
+      "weight": 1.0
+    },
+    {
+      "source": "niagarawaterfunctionlibrary_niagarawaterfunctionlibrary",
+      "target": "niagarawaterfunctionlibrary_set_water_body",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraWaterFunctionLibrary Objects.md",
+      "source_location": "lines 34-52",
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchbone_posesearchbone",
+      "target": "posesearchbone_bonereference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchBone Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "assettagssubsystem_assettagssubsystem",
+      "target": "assettagssubsystem_collection_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetTagsSubsystem Objects.md",
+      "source_location": "lines 15-518",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_worldoriginanchor",
+      "target": "worldoriginanchor_geospatial_conversion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "lines 311-969",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_geospatial_conversion",
+      "target": "worldoriginanchor_origin_at_planet_center",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 106",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_geospatial_conversion",
+      "target": "worldoriginanchor_earth_radius",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 55",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_geospatial_conversion",
+      "target": "worldoriginanchor_origin_latitude",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 107",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_geospatial_conversion",
+      "target": "worldoriginanchor_origin_longitude",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 108",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_geospatial_conversion",
+      "target": "worldoriginanchor_origin_altitude",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 105",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_geospatial_conversion",
+      "target": "worldoriginanchor_use_actor_transform_as_origin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 148",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_geospatial_conversion",
+      "target": "worldoriginanchor_world_center_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 149",
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_geospatial_conversion",
+      "target": "worldoriginanchor_anchor_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterblueprintapi_displayclusterblueprintapi",
+      "target": "displayclusterblueprintapi_cluster_event_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterBlueprintAPI Objects.md",
+      "source_location": "lines 15-272",
+      "weight": 1.0
+    },
+    {
+      "source": "legacycamerashake_legacycamerashake",
+      "target": "legacycamerashake_oscillation_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LegacyCameraShake Objects.md",
+      "source_location": "lines 22-33",
+      "weight": 1.0
+    },
+    {
+      "source": "legacycamerashake_legacycamerashake",
+      "target": "legacycamerashake_anim_sequence_playback",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LegacyCameraShake Objects.md",
+      "source_location": "lines 17-31",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxisinside_rigvmfunction_mathboxisinside",
+      "target": "rigvmfunction_mathboxisinside_point_in_box_test",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoxIsInside Objects.md",
+      "source_location": "lines 1-73",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_torigspace_rotation_rigunit_torigspace_rotation",
+      "target": "rigunit_torigspace_rotation_space_conversion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ToRigSpace__Rotation Objects.md",
+      "source_location": "lines 1-80",
+      "weight": 1.0
+    },
+    {
+      "source": "legacycamerashake_oscillation_system",
+      "target": "legacycamerashake_anim_sequence_playback",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LegacyCameraShake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_origin_latitude",
+      "target": "worldoriginanchor_origin_longitude",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_origin_latitude",
+      "target": "worldoriginanchor_origin_altitude",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldoriginanchor_origin_longitude",
+      "target": "worldoriginanchor_origin_altitude",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WorldOriginAnchor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxisinside_point_in_box_test",
+      "target": "rigunit_torigspace_rotation_space_conversion",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "worldoriginanchor_coordinate_system_properties",
+      "label": "WorldOriginAnchor Geodetic Coordinate System",
+      "nodes": [
+        "worldoriginanchor_origin_latitude",
+        "worldoriginanchor_origin_longitude",
+        "worldoriginanchor_origin_altitude",
+        "worldoriginanchor_earth_radius",
+        "worldoriginanchor_origin_at_planet_center"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WorldOriginAnchor Objects.md"
+    },
+    {
+      "id": "legacycamerashake_shake_methods",
+      "label": "LegacyCameraShake Shake Effect Methods",
+      "nodes": [
+        "legacycamerashake_oscillation_system",
+        "legacycamerashake_anim_sequence_playback"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LegacyCameraShake Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

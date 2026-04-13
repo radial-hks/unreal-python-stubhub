@@ -1,0 +1,970 @@
+{
+  "nodes": [
+    {
+      "id": "MaterialExpressionAtmosphericLightVector",
+      "type": "class",
+      "label": "MaterialExpressionAtmosphericLightVector",
+      "properties": {
+        "parent": "MaterialExpression",
+        "module": "Engine",
+        "file": "MaterialExpressionAtmosphericLightVector.h",
+        "description": "Material Expression Atmospheric Light Vector"
+      }
+    },
+    {
+      "id": "MaterialExpressionAtmosphericLightVector.desc",
+      "type": "property",
+      "label": "desc",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write",
+        "description": "A description that level designers can add (shows in the material editor UI)"
+      }
+    },
+    {
+      "id": "MaterialExpressionStrataLegacyConversion",
+      "type": "class",
+      "label": "MaterialExpressionStrataLegacyConversion",
+      "properties": {
+        "parent": "MaterialExpressionSubstrateShadingModels",
+        "deprecated": true,
+        "renamed_to": "MaterialExpressionSubstrateShadingModels"
+      }
+    },
+    {
+      "id": "MaterialExpressionSubstrateBSDF",
+      "type": "class",
+      "label": "MaterialExpressionSubstrateBSDF",
+      "properties": {
+        "parent": "MaterialExpression",
+        "module": "Engine",
+        "file": "MaterialExpressionSubstrate.h",
+        "description": "UMaterialExpressionSubstrateBSDF can only be used for Substrate nodes ouputing SubstrateData that would need a preview"
+      }
+    },
+    {
+      "id": "EditorUtilityScrollBar",
+      "type": "class",
+      "label": "EditorUtilityScrollBar",
+      "properties": {
+        "parent": "ScrollBar",
+        "module": "Blutility",
+        "file": "EditorUtilityWidgetComponents.h",
+        "description": "Editor Utility Scroll Bar"
+      }
+    },
+    {
+      "id": "CEClonerSpawnBehaviorMode",
+      "type": "enum",
+      "label": "CEClonerSpawnBehaviorMode",
+      "properties": {
+        "module": "ClonerEffector",
+        "plugin": "ClonerEffector",
+        "file": "CEClonerEffectorShared.h",
+        "description": "Enumerates all modes for how clones are spawned"
+      }
+    },
+    {
+      "id": "CEClonerSpawnBehaviorMode.INSTANT",
+      "type": "enum_value",
+      "label": "INSTANT",
+      "properties": {
+        "value": 0,
+        "description": "Spawns instantly the number of clones needed for the layout"
+      }
+    },
+    {
+      "id": "CEClonerSpawnBehaviorMode.RATE",
+      "type": "enum_value",
+      "label": "RATE",
+      "properties": {
+        "value": 1,
+        "description": "Spawns at a specific rate per second during the spawn loop duration"
+      }
+    },
+    {
+      "id": "PCGMergeAttributesSettings",
+      "type": "class",
+      "label": "PCGMergeAttributesSettings",
+      "properties": {
+        "parent": "PCGSettings",
+        "module": "PCG",
+        "plugin": "PCG",
+        "file": "PCGMergeAttributes.h",
+        "description": "Merges multiple attribute sets together into a single attribute set"
+      }
+    },
+    {
+      "id": "PCGMetadataStringOperation",
+      "type": "enum",
+      "label": "PCGMetadataStringOperation",
+      "properties": {
+        "module": "PCG",
+        "plugin": "PCG",
+        "file": "PCGMetadataStringOpElement.h",
+        "description": "EPCGMetadata String Operation"
+      }
+    },
+    {
+      "id": "PCGMetadataStringOperation.APPEND",
+      "type": "enum_value",
+      "label": "APPEND",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "PCGMetadataStringOperation.REPLACE",
+      "type": "enum_value",
+      "label": "REPLACE",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "InputAxisKeyMapping",
+      "type": "class",
+      "label": "InputAxisKeyMapping",
+      "properties": {
+        "parent": "StructBase",
+        "module": "Engine",
+        "file": "PlayerInput.h",
+        "description": "Defines a mapping between an axis and key"
+      }
+    },
+    {
+      "id": "InputAxisKeyMapping.__init__",
+      "type": "method",
+      "label": "__init__",
+      "properties": {
+        "parameters": [
+          {"name": "axis_name", "type": "Name", "default": "\"None\""},
+          {"name": "scale", "type": "float", "default": "0.000000"},
+          {"name": "key", "type": "Key", "default": "[]"}
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "InputAxisKeyMapping.axis_name",
+      "type": "property",
+      "label": "axis_name",
+      "properties": {
+        "type": "Name",
+        "access": "Read-Write",
+        "description": "Friendly name of axis, e.g \"MoveForward\""
+      }
+    },
+    {
+      "id": "InputAxisKeyMapping.scale",
+      "type": "property",
+      "label": "scale",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write",
+        "description": "Multiplier to use for the mapping when accumulating the axis value"
+      }
+    },
+    {
+      "id": "InputAxisKeyMapping.key",
+      "type": "property",
+      "label": "key",
+      "properties": {
+        "type": "Key",
+        "access": "Read-Write",
+        "description": "Key to bind it to"
+      }
+    },
+    {
+      "id": "TextureSampleBlurFilter",
+      "type": "enum",
+      "label": "TextureSampleBlurFilter",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "MaterialXTextureSampleBlurFilter"
+      }
+    },
+    {
+      "id": "TextureSampleBlurFilter.BOX",
+      "type": "enum_value",
+      "label": "BOX",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "TextureSampleBlurFilter.GAUSSIAN",
+      "type": "enum_value",
+      "label": "GAUSSIAN",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "RigUnit_Subtract_VectorVector",
+      "type": "class",
+      "label": "RigUnit_Subtract_VectorVector",
+      "properties": {
+        "parent": "RigUnit_BinaryVectorOp",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_Vector.h",
+        "description": "Rig Unit Subtract Vector Vector"
+      }
+    },
+    {
+      "id": "RigUnit_Subtract_VectorVector.__init__",
+      "type": "method",
+      "label": "__init__",
+      "properties": {
+        "parameters": [
+          {"name": "argument0", "type": "Vector", "default": "[0.000000, 0.000000, 0.000000]"},
+          {"name": "argument1", "type": "Vector", "default": "[0.000000, 0.000000, 0.000000]"},
+          {"name": "result", "type": "Vector", "default": "[0.000000, 0.000000, 0.000000]"}
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "AvaPatternModifierGridLayoutOptions",
+      "type": "class",
+      "label": "AvaPatternModifierGridLayoutOptions",
+      "properties": {
+        "parent": "StructBase",
+        "module": "AvalancheModifiers",
+        "plugin": "Avalanche",
+        "file": "AvaPatternModifier.h",
+        "description": "Ava Pattern Modifier Grid Layout Options"
+      }
+    },
+    {
+      "id": "AvaPatternModifierGridLayoutOptions.__init__",
+      "type": "method",
+      "label": "__init__",
+      "properties": {
+        "parameters": [
+          {"name": "plane", "type": "AvaPatternModifierPlane", "default": "AvaPatternModifierPlane.XY"},
+          {"name": "axis_inverted", "type": "Vector2b", "default": "[False, False]"},
+          {"name": "repeat_count", "type": "IntPoint", "default": "[0, 0]"},
+          {"name": "spacing", "type": "Vector2D", "default": "[0.000000, 0.000000]"},
+          {"name": "centered", "type": "bool", "default": "False"},
+          {"name": "accumulate_transform", "type": "bool", "default": "False"},
+          {"name": "rotation", "type": "Rotator", "default": "[0.000000, 0.000000, 0.000000]"},
+          {"name": "scale", "type": "Vector", "default": "[0.000000, 0.000000, 0.000000]"}
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "PCGDuplicatePointSettings",
+      "type": "class",
+      "label": "PCGDuplicatePointSettings",
+      "properties": {
+        "parent": "PCGSettings",
+        "module": "PCG",
+        "plugin": "PCG",
+        "file": "PCGDuplicatePoint.h",
+        "description": "Creates duplicates of each point with optional transform offsets"
+      }
+    },
+    {
+      "id": "PCGDuplicatePointSettings.iterations",
+      "type": "property",
+      "label": "iterations",
+      "properties": {
+        "type": "int32",
+        "access": "Read-Write",
+        "description": "Number of duplicates to produce"
+      }
+    },
+    {
+      "id": "PCGDuplicatePointSettings.direction",
+      "type": "property",
+      "label": "direction",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write",
+        "description": "Direction to stack point duplicates"
+      }
+    },
+    {
+      "id": "PCGDuplicatePointSettings.point_transform",
+      "type": "property",
+      "label": "point_transform",
+      "properties": {
+        "type": "Transform",
+        "access": "Read-Write",
+        "description": "Transform offset for each point duplicate"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshQueries",
+      "type": "class",
+      "label": "GeometryScript_MeshQueries",
+      "properties": {
+        "parent": "BlueprintFunctionLibrary",
+        "module": "GeometryScriptingCore",
+        "plugin": "GeometryScripting",
+        "file": "MeshQueryFunctions.h",
+        "description": "Geometry Script Library Mesh Query Functions"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshQueries.is_valid_vertex_id",
+      "type": "method",
+      "label": "is_valid_vertex_id",
+      "properties": {
+        "is_classmethod": true,
+        "parameters": [
+          {"name": "target_mesh", "type": "DynamicMesh"},
+          {"name": "vertex_id", "type": "int32"}
+        ],
+        "return_type": "bool",
+        "description": "Returns true if Vertex ID refers to a valid vertex in the Target Mesh"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshQueries.get_vertex_position",
+      "type": "method",
+      "label": "get_vertex_position",
+      "properties": {
+        "is_classmethod": true,
+        "parameters": [
+          {"name": "target_mesh", "type": "DynamicMesh"},
+          {"name": "vertex_id", "type": "int32"}
+        ],
+        "return_type": "Tuple[Vector, bool]",
+        "description": "Gets the 3D position of a mesh vertex in the mesh local space, by Vertex ID"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshQueries.get_vertex_count",
+      "type": "method",
+      "label": "get_vertex_count",
+      "properties": {
+        "is_classmethod": true,
+        "parameters": [
+          {"name": "target_mesh", "type": "DynamicMesh"}
+        ],
+        "return_type": "int32",
+        "description": "Gets the number of vertices in the mesh"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshQueries.get_triangle_positions",
+      "type": "method",
+      "label": "get_triangle_positions",
+      "properties": {
+        "is_classmethod": true,
+        "parameters": [
+          {"name": "target_mesh", "type": "DynamicMesh"},
+          {"name": "triangle_id", "type": "int32"}
+        ],
+        "return_type": "Tuple[bool, Vector, Vector, Vector]",
+        "description": "Returns the 3D positions (in the mesh local space) of the three vertices of the requested triangle"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshQueries.get_mesh_bounding_box",
+      "type": "method",
+      "label": "get_mesh_bounding_box",
+      "properties": {
+        "is_classmethod": true,
+        "parameters": [
+          {"name": "target_mesh", "type": "DynamicMesh"}
+        ],
+        "return_type": "Box",
+        "description": "Computes the bounding box of the mesh vertices in the local space of the mesh"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshQueries.get_is_closed_mesh",
+      "type": "method",
+      "label": "get_is_closed_mesh",
+      "properties": {
+        "is_classmethod": true,
+        "parameters": [
+          {"name": "target_mesh", "type": "DynamicMesh"}
+        ],
+        "return_type": "bool",
+        "description": "Returns true if the mesh is closed, such as no topological boundary edges"
+      }
+    },
+    {
+      "id": "StateTreeItem",
+      "type": "class",
+      "label": "StateTreeItem",
+      "properties": {
+        "parent": "StateTreeEditorNode",
+        "deprecated": true,
+        "renamed_to": "StateTreeEditorNode"
+      }
+    },
+    {
+      "id": "WaterBodyOcean",
+      "type": "class",
+      "label": "WaterBodyOcean",
+      "properties": {
+        "parent": "WaterBody",
+        "module": "Water",
+        "plugin": "Water",
+        "file": "WaterBodyOceanActor.h",
+        "description": "Water Body Ocean"
+      }
+    },
+    {
+      "id": "DMMaterialStage",
+      "type": "class",
+      "label": "DMMaterialStage",
+      "properties": {
+        "parent": "DMMaterialComponent",
+        "module": "DynamicMaterialEditor",
+        "plugin": "DynamicMaterial",
+        "file": "DMMaterialStage.h",
+        "description": "A component which wraps a source and its inputs"
+      }
+    },
+    {
+      "id": "DMMaterialStage.source",
+      "type": "property",
+      "label": "source",
+      "properties": {
+        "type": "DMMaterialStageSource",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "DMMaterialStage.inputs",
+      "type": "property",
+      "label": "inputs",
+      "properties": {
+        "type": "Array[DMMaterialStageInput]",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "DMMaterialStage.set_source",
+      "type": "method",
+      "label": "set_source",
+      "properties": {
+        "parameters": [
+          {"name": "source", "type": "DMMaterialStageSource"}
+        ],
+        "return_type": "None",
+        "description": "Set Source"
+      }
+    },
+    {
+      "id": "DMMaterialStage.set_enabled",
+      "type": "method",
+      "label": "set_enabled",
+      "properties": {
+        "parameters": [
+          {"name": "enabled", "type": "bool"}
+        ],
+        "return_type": "bool",
+        "description": "Set Enabled"
+      }
+    },
+    {
+      "id": "DMMaterialStage.get_source",
+      "type": "method",
+      "label": "get_source",
+      "properties": {
+        "parameters": [],
+        "return_type": "DMMaterialStageSource",
+        "description": "Get Source"
+      }
+    },
+    {
+      "id": "DMMaterialStage.create_material_stage",
+      "type": "method",
+      "label": "create_material_stage",
+      "properties": {
+        "is_classmethod": true,
+        "parameters": [
+          {"name": "layer", "type": "DMMaterialLayerObject", "default": "None"}
+        ],
+        "return_type": "DMMaterialStage",
+        "description": "Create Material Stage"
+      }
+    },
+    {
+      "id": "RigUnit_SetTransformAnimationChannel",
+      "type": "class",
+      "label": "RigUnit_SetTransformAnimationChannel",
+      "properties": {
+        "parent": "RigUnit_SetAnimationChannelBase",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_ControlChannel.h",
+        "description": "Set Transform Channel is used to set a control's animation channel value"
+      }
+    },
+    {
+      "id": "RigUnit_SetTransformAnimationChannel.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "Transform",
+        "access": "Read-Write",
+        "description": "The new value of the animation channel"
+      }
+    },
+    {
+      "id": "RigUnit_DebugLine",
+      "type": "class",
+      "label": "RigUnit_DebugLine",
+      "properties": {
+        "parent": "RigUnit_DebugBaseMutable",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_DebugLine.h",
+        "description": "Rig Unit Debug Line"
+      }
+    },
+    {
+      "id": "RigUnit_DebugLine.__init__",
+      "type": "method",
+      "label": "__init__",
+      "properties": {
+        "parameters": [
+          {"name": "execute_context", "type": "ControlRigExecuteContext", "default": "[]"},
+          {"name": "a", "type": "Vector", "default": "[0.000000, 0.000000, 0.000000]"},
+          {"name": "b", "type": "Vector", "default": "[0.000000, 0.000000, 0.000000]"},
+          {"name": "color", "type": "LinearColor", "default": "[0.000000, 0.000000, 0.000000, 0.000000]"},
+          {"name": "thickness", "type": "float", "default": "0.000000"},
+          {"name": "space", "type": "Name", "default": "\"None\""},
+          {"name": "world_offset", "type": "Transform", "default": "[[0.000000, 0.000000, 0.000000], [-0.000000, 0.000000, 0.000000], [1.000000, 1.000000, 1.000000]]"},
+          {"name": "enabled", "type": "bool", "default": "False"}
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "ColorCorrectRegionsSubsystem",
+      "type": "class",
+      "label": "ColorCorrectRegionsSubsystem",
+      "properties": {
+        "parent": "TickableWorldSubsystem",
+        "module": "ColorCorrectRegions",
+        "plugin": "ColorCorrectRegions",
+        "file": "ColorCorrectRegionsSubsystem.h",
+        "description": "World Subsystem responsible for managing AColorCorrectRegion classes in level"
+      }
+    },
+    {
+      "id": "ColorCorrectRegionsSubsystem.refresh_stenci_id_assignment_for_all_ccr",
+      "type": "method",
+      "label": "refresh_stenci_id_assignment_for_all_ccr",
+      "properties": {
+        "parameters": [],
+        "return_type": "None",
+        "description": "Refresh Stenci Id Assignment for All CCR"
+      }
+    },
+    {
+      "id": "BaseplateEIdFilter",
+      "type": "class",
+      "label": "BaseplateEIdFilter",
+      "properties": {
+        "parent": "StructBase",
+        "module": "WdpDaaS",
+        "plugin": "WdpCommon",
+        "file": "WdpDaaSDataType.h",
+        "description": "Baseplate EId Filter"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformFromSRT",
+      "type": "class",
+      "label": "RigVMFunction_MathTransformFromSRT",
+      "properties": {
+        "parent": "RigVMFunction_MathTransformBase",
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_MathTransform.h",
+        "description": "Composes a Transform (and Euler Transform) from its components"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformFromSRT.location",
+      "type": "property",
+      "label": "location",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformFromSRT.rotation",
+      "type": "property",
+      "label": "rotation",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformFromSRT.scale",
+      "type": "property",
+      "label": "scale",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformFromSRT.transform",
+      "type": "property",
+      "label": "transform",
+      "properties": {
+        "type": "Transform",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "RigUnit_ItemHarmonics",
+      "type": "class",
+      "label": "RigUnit_ItemHarmonics",
+      "properties": {
+        "parent": "RigUnit_HighlevelBaseMutable",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_BoneHarmonics.h",
+        "description": "Drives an array of items through a harmonics spectrum"
+      }
+    },
+    {
+      "id": "RigUnit_ItemHarmonics.wave_amplitude",
+      "type": "property",
+      "label": "wave_amplitude",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write",
+        "description": "The amplitude in degrees per axis"
+      }
+    },
+    {
+      "id": "RigUnit_ItemHarmonics.wave_frequency",
+      "type": "property",
+      "label": "wave_frequency",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigUnit_ItemHarmonics.targets",
+      "type": "property",
+      "label": "targets",
+      "properties": {
+        "type": "Array[RigUnit_Harmonics_TargetItem]",
+        "access": "Read-Only",
+        "description": "The items to drive"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "MaterialExpressionAtmosphericLightVector",
+      "target": "MaterialExpression",
+      "label": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionAtmosphericLightVector",
+      "target": "MaterialExpressionAtmosphericLightVector.desc",
+      "label": "has_property"
+    },
+    {
+      "source": "MaterialExpressionStrataLegacyConversion",
+      "target": "MaterialExpressionSubstrateShadingModels",
+      "label": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionStrataLegacyConversion",
+      "target": "MaterialExpressionSubstrateShadingModels",
+      "label": "renamed_to"
+    },
+    {
+      "source": "MaterialExpressionSubstrateBSDF",
+      "target": "MaterialExpression",
+      "label": "inherits_from"
+    },
+    {
+      "source": "EditorUtilityScrollBar",
+      "target": "ScrollBar",
+      "label": "inherits_from"
+    },
+    {
+      "source": "CEClonerSpawnBehaviorMode",
+      "target": "CEClonerSpawnBehaviorMode.INSTANT",
+      "label": "has_value"
+    },
+    {
+      "source": "CEClonerSpawnBehaviorMode",
+      "target": "CEClonerSpawnBehaviorMode.RATE",
+      "label": "has_value"
+    },
+    {
+      "source": "PCGMergeAttributesSettings",
+      "target": "PCGSettings",
+      "label": "inherits_from"
+    },
+    {
+      "source": "PCGMetadataStringOperation",
+      "target": "PCGMetadataStringOperation.APPEND",
+      "label": "has_value"
+    },
+    {
+      "source": "PCGMetadataStringOperation",
+      "target": "PCGMetadataStringOperation.REPLACE",
+      "label": "has_value"
+    },
+    {
+      "source": "InputAxisKeyMapping",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "InputAxisKeyMapping",
+      "target": "InputAxisKeyMapping.__init__",
+      "label": "has_method"
+    },
+    {
+      "source": "InputAxisKeyMapping",
+      "target": "InputAxisKeyMapping.axis_name",
+      "label": "has_property"
+    },
+    {
+      "source": "InputAxisKeyMapping",
+      "target": "InputAxisKeyMapping.scale",
+      "label": "has_property"
+    },
+    {
+      "source": "InputAxisKeyMapping",
+      "target": "InputAxisKeyMapping.key",
+      "label": "has_property"
+    },
+    {
+      "source": "TextureSampleBlurFilter",
+      "target": "TextureSampleBlurFilter.BOX",
+      "label": "has_value"
+    },
+    {
+      "source": "TextureSampleBlurFilter",
+      "target": "TextureSampleBlurFilter.GAUSSIAN",
+      "label": "has_value"
+    },
+    {
+      "source": "TextureSampleBlurFilter",
+      "target": "MaterialXTextureSampleBlurFilter",
+      "label": "renamed_to"
+    },
+    {
+      "source": "RigUnit_Subtract_VectorVector",
+      "target": "RigUnit_BinaryVectorOp",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigUnit_Subtract_VectorVector",
+      "target": "RigUnit_Subtract_VectorVector.__init__",
+      "label": "has_method"
+    },
+    {
+      "source": "AvaPatternModifierGridLayoutOptions",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "AvaPatternModifierGridLayoutOptions",
+      "target": "AvaPatternModifierGridLayoutOptions.__init__",
+      "label": "has_method"
+    },
+    {
+      "source": "PCGDuplicatePointSettings",
+      "target": "PCGSettings",
+      "label": "inherits_from"
+    },
+    {
+      "source": "PCGDuplicatePointSettings",
+      "target": "PCGDuplicatePointSettings.iterations",
+      "label": "has_property"
+    },
+    {
+      "source": "PCGDuplicatePointSettings",
+      "target": "PCGDuplicatePointSettings.direction",
+      "label": "has_property"
+    },
+    {
+      "source": "PCGDuplicatePointSettings",
+      "target": "PCGDuplicatePointSettings.point_transform",
+      "label": "has_property"
+    },
+    {
+      "source": "GeometryScript_MeshQueries",
+      "target": "BlueprintFunctionLibrary",
+      "label": "inherits_from"
+    },
+    {
+      "source": "GeometryScript_MeshQueries",
+      "target": "GeometryScript_MeshQueries.is_valid_vertex_id",
+      "label": "has_method"
+    },
+    {
+      "source": "GeometryScript_MeshQueries",
+      "target": "GeometryScript_MeshQueries.get_vertex_position",
+      "label": "has_method"
+    },
+    {
+      "source": "GeometryScript_MeshQueries",
+      "target": "GeometryScript_MeshQueries.get_vertex_count",
+      "label": "has_method"
+    },
+    {
+      "source": "GeometryScript_MeshQueries",
+      "target": "GeometryScript_MeshQueries.get_triangle_positions",
+      "label": "has_method"
+    },
+    {
+      "source": "GeometryScript_MeshQueries",
+      "target": "GeometryScript_MeshQueries.get_mesh_bounding_box",
+      "label": "has_method"
+    },
+    {
+      "source": "GeometryScript_MeshQueries",
+      "target": "GeometryScript_MeshQueries.get_is_closed_mesh",
+      "label": "has_method"
+    },
+    {
+      "source": "StateTreeItem",
+      "target": "StateTreeEditorNode",
+      "label": "inherits_from"
+    },
+    {
+      "source": "StateTreeItem",
+      "target": "StateTreeEditorNode",
+      "label": "renamed_to"
+    },
+    {
+      "source": "WaterBodyOcean",
+      "target": "WaterBody",
+      "label": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStage",
+      "target": "DMMaterialComponent",
+      "label": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStage",
+      "target": "DMMaterialStage.source",
+      "label": "has_property"
+    },
+    {
+      "source": "DMMaterialStage",
+      "target": "DMMaterialStage.inputs",
+      "label": "has_property"
+    },
+    {
+      "source": "DMMaterialStage",
+      "target": "DMMaterialStage.set_source",
+      "label": "has_method"
+    },
+    {
+      "source": "DMMaterialStage",
+      "target": "DMMaterialStage.set_enabled",
+      "label": "has_method"
+    },
+    {
+      "source": "DMMaterialStage",
+      "target": "DMMaterialStage.get_source",
+      "label": "has_method"
+    },
+    {
+      "source": "DMMaterialStage",
+      "target": "DMMaterialStage.create_material_stage",
+      "label": "has_method"
+    },
+    {
+      "source": "RigUnit_SetTransformAnimationChannel",
+      "target": "RigUnit_SetAnimationChannelBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigUnit_SetTransformAnimationChannel",
+      "target": "RigUnit_SetTransformAnimationChannel.value",
+      "label": "has_property"
+    },
+    {
+      "source": "RigUnit_DebugLine",
+      "target": "RigUnit_DebugBaseMutable",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigUnit_DebugLine",
+      "target": "RigUnit_DebugLine.__init__",
+      "label": "has_method"
+    },
+    {
+      "source": "ColorCorrectRegionsSubsystem",
+      "target": "TickableWorldSubsystem",
+      "label": "inherits_from"
+    },
+    {
+      "source": "ColorCorrectRegionsSubsystem",
+      "target": "ColorCorrectRegionsSubsystem.refresh_stenci_id_assignment_for_all_ccr",
+      "label": "has_method"
+    },
+    {
+      "source": "BaseplateEIdFilter",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathTransformFromSRT",
+      "target": "RigVMFunction_MathTransformBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathTransformFromSRT",
+      "target": "RigVMFunction_MathTransformFromSRT.location",
+      "label": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathTransformFromSRT",
+      "target": "RigVMFunction_MathTransformFromSRT.rotation",
+      "label": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathTransformFromSRT",
+      "target": "RigVMFunction_MathTransformFromSRT.scale",
+      "label": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathTransformFromSRT",
+      "target": "RigVMFunction_MathTransformFromSRT.transform",
+      "label": "has_property"
+    },
+    {
+      "source": "RigUnit_ItemHarmonics",
+      "target": "RigUnit_HighlevelBaseMutable",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigUnit_ItemHarmonics",
+      "target": "RigUnit_ItemHarmonics.wave_amplitude",
+      "label": "has_property"
+    },
+    {
+      "source": "RigUnit_ItemHarmonics",
+      "target": "RigUnit_ItemHarmonics.wave_frequency",
+      "label": "has_property"
+    },
+    {
+      "source": "RigUnit_ItemHarmonics",
+      "target": "RigUnit_ItemHarmonics.targets",
+      "label": "has_property"
+    }
+  ]
+}

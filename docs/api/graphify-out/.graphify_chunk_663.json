@@ -1,0 +1,1075 @@
+{
+  "nodes": [
+    {
+      "id": "materialexpressionin",
+      "label": "MaterialExpressionIn",
+      "file_type": "document",
+      "source_file": "MaterialExpressionIn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxin",
+      "label": "MaterialExpressionMaterialXIn",
+      "file_type": "document",
+      "source_file": "MaterialExpressionIn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikretargetfactory",
+      "label": "IKRetargetFactory",
+      "file_type": "document",
+      "source_file": "IKRetargetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "IKRetargetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatfloat",
+      "label": "RigVMFunction_MathRBFInterpolateQuatFloat",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatbase",
+      "label": "RigVMFunction_MathRBFInterpolateQuatBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatsign",
+      "label": "RigVMFunction_MathFloatSign",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatunaryop",
+      "label": "RigVMFunction_MathFloatUnaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hasmetadata",
+      "label": "RigUnit_HasMetadata",
+      "file_type": "document",
+      "source_file": "RigUnit_HasMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_HasMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkbutton",
+      "label": "UIFrameworkButton",
+      "file_type": "document",
+      "source_file": "UIFrameworkButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkwidget",
+      "label": "UIFrameworkWidget",
+      "file_type": "document",
+      "source_file": "UIFrameworkButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorpresettextrotation",
+      "label": "PropertyAnimatorPresetTextRotation",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorPresetTextRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcorepropertypreset",
+      "label": "PropertyAnimatorCorePropertyPreset",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorPresetTextRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphtimestepdata",
+      "label": "MovieGraphTimeStepData",
+      "file_type": "document",
+      "source_file": "MovieGraphTimeStepData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MovieGraphTimeStepData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptdebug",
+      "label": "GeometryScriptDebug",
+      "file_type": "document",
+      "source_file": "GeometryScriptDebug Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "GeometryScriptDebug Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustercomponentref",
+      "label": "DisplayClusterComponentRef",
+      "file_type": "document",
+      "source_file": "DisplayClusterComponentRef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflowtransfernodefalloff",
+      "label": "DataflowTransferNodeFalloff",
+      "file_type": "document",
+      "source_file": "DataflowTransferNodeFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "DataflowTransferNodeFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getrelativetransformforitem",
+      "label": "RigUnit_GetRelativeTransformForItem",
+      "file_type": "document",
+      "source_file": "RigUnit__GetRelativeTransformForItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorisnearlyzero",
+      "label": "RigUnit_MathVectorIsNearlyZero",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorIsNearlyZero Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorisnearlyzero",
+      "label": "RigVMFunction_MathVectorIsNearlyZero",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorIsNearlyZero Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eartheditmodebase",
+      "label": "EarthEditModeBase",
+      "file_type": "document",
+      "source_file": "EarthEditModeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "EarthEditModeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanscenebuildresource",
+      "label": "UrbanSceneBuildResource",
+      "file_type": "document",
+      "source_file": "UrbanSceneBuildResource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiontextureobjectparameter",
+      "label": "MaterialExpressionTextureObjectParameter",
+      "file_type": "document",
+      "source_file": "MaterialExpressionTextureObjectParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiontexturesampleparameter",
+      "label": "MaterialExpressionTextureSampleParameter",
+      "file_type": "document",
+      "source_file": "MaterialExpressionTextureObjectParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadynamicmeshconvertermodifier",
+      "label": "AvaDynamicMeshConverterModifier",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avageometrybasemodifier",
+      "label": "AvaGeometryBaseModifier",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inspectedattributeenum",
+      "label": "InspectedAttributeEnum",
+      "file_type": "document",
+      "source_file": "InspectedAttributeEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "softobjectpath",
+      "label": "SoftObjectPath",
+      "file_type": "document",
+      "source_file": "SoftObjectPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchnormalizationset",
+      "label": "PoseSearchNormalizationSet",
+      "file_type": "document",
+      "source_file": "PoseSearchNormalizationSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataasset",
+      "label": "DataAsset",
+      "file_type": "document",
+      "source_file": "PoseSearchNormalizationSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simulcaminfo",
+      "label": "SimulcamInfo",
+      "file_type": "document",
+      "source_file": "SimulcamInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updateheatmapparams",
+      "label": "UpdateHeatMapParams",
+      "file_type": "document",
+      "source_file": "UpdateHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "UpdateHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_plugin",
+      "label": "IKRig Plugin",
+      "file_type": "document",
+      "source_file": "IKRetargetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit_HasMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframework_plugin",
+      "label": "UIFramework Plugin",
+      "file_type": "document",
+      "source_file": "UIFrameworkButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimator_plugin",
+      "label": "PropertyAnimator Plugin",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorPresetTextRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movierenderpipeline_plugin",
+      "label": "MovieRenderPipeline Plugin",
+      "file_type": "document",
+      "source_file": "MovieGraphTimeStepData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptDebug Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndisplay_plugin",
+      "label": "nDisplay Plugin",
+      "file_type": "document",
+      "source_file": "DisplayClusterComponentRef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollection_plugin",
+      "label": "GeometryCollectionPlugin",
+      "file_type": "document",
+      "source_file": "DataflowTransferNodeFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthEditModeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesruntime_plugin",
+      "label": "AesRuntime Plugin",
+      "file_type": "document",
+      "source_file": "UrbanSceneBuildResource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin",
+      "label": "Avalanche Plugin",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearch_plugin",
+      "label": "PoseSearch Plugin",
+      "file_type": "document",
+      "source_file": "PoseSearchNormalizationSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameracalibrationcore_plugin",
+      "label": "CameraCalibrationCore Plugin",
+      "file_type": "document",
+      "source_file": "SimulcamInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "UpdateHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionin",
+      "target": "materialexpressionmaterialxin",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionIn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikretargetfactory",
+      "target": "factory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRetargetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikretargetfactory",
+      "target": "ikrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRetargetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatfloat",
+      "target": "rigvmfunction_mathrbfinterpolatequatbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatfloat",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatsign",
+      "target": "rigvmfunction_mathfloatunaryop",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatsign",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadata",
+      "target": "rigunit",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HasMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadata",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HasMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkbutton",
+      "target": "uiframeworkwidget",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkButton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkbutton",
+      "target": "uiframework_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkButton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorpresettextrotation",
+      "target": "propertyanimatorcorepropertypreset",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorPresetTextRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorpresettextrotation",
+      "target": "propertyanimator_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorPresetTextRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphtimestepdata",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphTimeStepData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphtimestepdata",
+      "target": "movierenderpipeline_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphTimeStepData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdebug",
+      "target": "object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptDebug Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdebug",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptDebug Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercomponentref",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterComponentRef Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustercomponentref",
+      "target": "ndisplay_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterComponentRef Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataflowtransfernodefalloff",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataflowTransferNodeFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataflowtransfernodefalloff",
+      "target": "geometrycollection_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataflowTransferNodeFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrelativetransformforitem",
+      "target": "rigunit",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetRelativeTransformForItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrelativetransformforitem",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetRelativeTransformForItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorisnearlyzero",
+      "target": "rigvmfunction_mathvectorisnearlyzero",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorIsNearlyZero Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eartheditmodebase",
+      "target": "actor",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthEditModeBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eartheditmodebase",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthEditModeBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanscenebuildresource",
+      "target": "object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanSceneBuildResource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanscenebuildresource",
+      "target": "aesruntime_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanSceneBuildResource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiontextureobjectparameter",
+      "target": "materialexpressiontexturesampleparameter",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionTextureObjectParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifier",
+      "target": "avageometrybasemodifier",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifier",
+      "target": "avalanche_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inspectedattributeenum",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InspectedAttributeEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "softobjectpath",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoftObjectPath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchnormalizationset",
+      "target": "dataasset",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchNormalizationSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchnormalizationset",
+      "target": "posesearch_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchNormalizationSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "simulcaminfo",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SimulcamInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "simulcaminfo",
+      "target": "cameracalibrationcore_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SimulcamInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "updateheatmapparams",
+      "target": "paramsbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "updateheatmapparams",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatfloat",
+      "target": "rigvmfunction_mathfloatsign",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadata",
+      "target": "rigunit_getrelativetransformforitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_HasMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdebug",
+      "target": "avadynamicmeshconvertermodifier",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptDebug Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphtimestepdata",
+      "target": "simulcaminfo",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieGraphTimeStepData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchnormalizationset",
+      "target": "ikretargetfactory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PoseSearchNormalizationSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigging_and_animation_ecosystem",
+      "label": "Rigging and Animation Ecosystem",
+      "nodes": [
+        "rigvmfunction_mathrbfinterpolatequatfloat",
+        "rigvmfunction_mathfloatsign",
+        "rigunit_hasmetadata",
+        "rigunit_getrelativetransformforitem",
+        "ikretargetfactory",
+        "posesearchnormalizationset"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatFloat Objects.md"
+    },
+    {
+      "id": "scene_and_geometry_processing",
+      "label": "Scene and Geometry Processing",
+      "nodes": [
+        "geometryscriptdebug",
+        "urbanscenebuildresource",
+        "avadynamicmeshconvertermodifier",
+        "dataflowtransfernodefalloff"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptDebug Objects.md"
+    },
+    {
+      "id": "deprecated_and_renamed_classes",
+      "label": "Deprecated and Renamed Classes",
+      "nodes": [
+        "materialexpressionin",
+        "rigunit_mathvectorisnearlyzero"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionIn Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

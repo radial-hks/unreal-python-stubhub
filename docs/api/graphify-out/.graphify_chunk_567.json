@@ -1,0 +1,906 @@
+{
+  "nodes": [
+    {
+      "id": "TextureCubeArray",
+      "type": "Class",
+      "properties": {
+        "inherits_from": "Texture",
+        "description": "Texture Cube Array",
+        "module": "Engine",
+        "file": "TextureCubeArray.h"
+      }
+    },
+    {
+      "id": "Texture",
+      "type": "Class",
+      "properties": {
+        "description": "Base texture class"
+      }
+    },
+    {
+      "id": "DynamicMesh",
+      "type": "Type",
+      "properties": {
+        "description": "Dynamic mesh type"
+      }
+    },
+    {
+      "id": "MaterialInterface",
+      "type": "Type",
+      "properties": {
+        "description": "Material interface type"
+      }
+    },
+    {
+      "id": "NiagaraEmitterScriptProperties",
+      "type": "Struct",
+      "properties": {
+        "inherits_from": "StructBase",
+        "description": "Niagara Emitter Script Properties",
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraEmitter.h"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "Class",
+      "properties": {
+        "description": "Base struct class"
+      }
+    },
+    {
+      "id": "PCGDynamicMeshData",
+      "type": "Class",
+      "properties": {
+        "inherits_from": "PCGSpatialData",
+        "description": "PCGDynamic Mesh Data",
+        "plugin": "PCGGeometryScriptInterop",
+        "module": "PCGGeometryScriptInterop",
+        "file": "PCGDynamicMeshData.h"
+      }
+    },
+    {
+      "id": "PCGSpatialData",
+      "type": "Class",
+      "properties": {
+        "description": "Base PCG spatial data class"
+      }
+    },
+    {
+      "id": "PCGMetadata",
+      "type": "Type",
+      "properties": {
+        "description": "PCG metadata type"
+      }
+    },
+    {
+      "id": "GeometryScriptMathWarpType",
+      "type": "Enum",
+      "properties": {
+        "inherits_from": "EnumBase",
+        "description": "EGeometry Script Math Warp Type",
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingCore",
+        "file": "MeshDeformFunctions.h"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "Class",
+      "properties": {
+        "description": "Base enum class"
+      }
+    },
+    {
+      "id": "SIN_WAVE1D",
+      "type": "EnumValue",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "SIN_WAVE2D",
+      "type": "EnumValue",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "SIN_WAVE3D",
+      "type": "EnumValue",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "PropertyControllerBlink",
+      "type": "Class",
+      "properties": {
+        "inherits_from": "PropertyAnimatorPulse",
+        "description": "Deprecated: renamed to PropertyAnimatorPulse",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "PropertyAnimatorPulse",
+      "type": "Class",
+      "properties": {
+        "description": "Property animator pulse"
+      }
+    },
+    {
+      "id": "AvaColorChannel",
+      "type": "Enum",
+      "properties": {
+        "inherits_from": "EnumBase",
+        "description": "EAva Color Channel",
+        "plugin": "DynamicMaterial",
+        "module": "DynamicMaterialEditor",
+        "file": "DMEDefs.h"
+      }
+    },
+    {
+      "id": "NONE",
+      "type": "EnumValue",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "RED",
+      "type": "EnumValue",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "GREEN",
+      "type": "EnumValue",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "BLUE",
+      "type": "EnumValue",
+      "properties": {
+        "value": 4
+      }
+    },
+    {
+      "id": "ALPHA",
+      "type": "EnumValue",
+      "properties": {
+        "value": 8
+      }
+    },
+    {
+      "id": "RigUnit_MathFloatConstTwoPi",
+      "type": "Class",
+      "properties": {
+        "inherits_from": "RigVMFunction_MathFloatConstTwoPi",
+        "description": "Deprecated: renamed to RigVMFunction_MathFloatConstTwoPi",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "RigVMFunction_MathFloatConstTwoPi",
+      "type": "Class",
+      "properties": {
+        "description": "RigVM function for math float constant two pi"
+      }
+    },
+    {
+      "id": "AnimationCurveMetaData",
+      "type": "Struct",
+      "properties": {
+        "inherits_from": "StructBase",
+        "description": "Animation Curve Meta Data",
+        "plugin": "AnimationData",
+        "module": "AnimationData",
+        "file": "AnimSequencerDataModel.h"
+      }
+    },
+    {
+      "id": "ComponentEndCursorOverSignature",
+      "type": "Delegate",
+      "properties": {
+        "inherits_from": "MulticastDelegateBase",
+        "description": "Component End Cursor Over Signature Delegate",
+        "module": "Engine",
+        "file": "PrimitiveComponent.h"
+      }
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "Class",
+      "properties": {
+        "description": "Base multicast delegate class"
+      }
+    },
+    {
+      "id": "PrimitiveComponent",
+      "type": "Type",
+      "properties": {
+        "description": "Primitive component type"
+      }
+    },
+    {
+      "id": "HairBendConstraint",
+      "type": "Struct",
+      "properties": {
+        "inherits_from": "StructBase",
+        "description": "Hair Bend Constraint",
+        "plugin": "HairStrands",
+        "module": "HairStrandsCore",
+        "file": "GroomAssetPhysics.h"
+      }
+    },
+    {
+      "id": "RuntimeFloatCurve",
+      "type": "Type",
+      "properties": {
+        "description": "Runtime float curve type"
+      }
+    },
+    {
+      "id": "BrushFalloffMode",
+      "type": "Enum",
+      "properties": {
+        "inherits_from": "EnumBase",
+        "description": "EBrush Falloff Mode",
+        "plugin": "Landmass",
+        "module": "Landmass",
+        "file": "FalloffSettings.h"
+      }
+    },
+    {
+      "id": "ANGLE",
+      "type": "EnumValue",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "WIDTH",
+      "type": "EnumValue",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "OnGeometryCollectionFullyDecayedEvent",
+      "type": "Delegate",
+      "properties": {
+        "inherits_from": "MulticastDelegateBase",
+        "description": "On Geometry Collection Fully Decayed Event Delegate",
+        "module": "GeometryCollectionEngine",
+        "file": "GeometryCollectionComponent.h"
+      }
+    },
+    {
+      "id": "glTFRuntimeMeshLODAsync",
+      "type": "Delegate",
+      "properties": {
+        "inherits_from": "DelegateBase",
+        "description": "Gl TFRuntime Mesh LODAsync Delegate",
+        "plugin": "AesWorld",
+        "module": "glTFRuntime",
+        "file": "glTFRuntimeParser.h"
+      }
+    },
+    {
+      "id": "DelegateBase",
+      "type": "Class",
+      "properties": {
+        "description": "Base delegate class"
+      }
+    },
+    {
+      "id": "glTFRuntimeMeshLOD",
+      "type": "Type",
+      "properties": {
+        "description": "glTF runtime mesh LOD type"
+      }
+    },
+    {
+      "id": "ParameterGroupData",
+      "type": "Struct",
+      "properties": {
+        "inherits_from": "StructBase",
+        "description": "Parameter Group Data",
+        "module": "Engine",
+        "file": "Material.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorSelectBool",
+      "type": "Function",
+      "properties": {
+        "inherits_from": "RigVMFunction_MathVectorBase",
+        "description": "Return one of the two values based on the condition",
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathVector.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorBase",
+      "type": "Class",
+      "properties": {
+        "description": "Base class for RigVM math vector functions"
+      }
+    },
+    {
+      "id": "Vector",
+      "type": "Type",
+      "properties": {
+        "description": "Vector type"
+      }
+    },
+    {
+      "id": "RuntimeVirtualTextureMipValueMode",
+      "type": "Enum",
+      "properties": {
+        "inherits_from": "EnumBase",
+        "description": "Set how Mip levels are calculated",
+        "module": "Engine",
+        "file": "MaterialExpressionRuntimeVirtualTextureSample.h"
+      }
+    },
+    {
+      "id": "RVTMVM_NONE",
+      "type": "EnumValue",
+      "properties": {
+        "value": 0,
+        "description": "Use default computed mip level"
+      }
+    },
+    {
+      "id": "RVTMVM_MIP_LEVEL",
+      "type": "EnumValue",
+      "properties": {
+        "value": 1,
+        "description": "Use an absolute mip level from the MipLevel pin"
+      }
+    },
+    {
+      "id": "RVTMVM_MIP_BIAS",
+      "type": "EnumValue",
+      "properties": {
+        "value": 2,
+        "description": "Bias the default computed mip level"
+      }
+    },
+    {
+      "id": "RVTMVM_DERIVATIVE_UV",
+      "type": "EnumValue",
+      "properties": {
+        "value": 4,
+        "description": "Compute mip level from DDX and DDY derivatives of UV"
+      }
+    },
+    {
+      "id": "RVTMVM_DERIVATIVE_WORLD",
+      "type": "EnumValue",
+      "properties": {
+        "value": 5,
+        "description": "Compute mip level from DDX and DDY derivatives of world position"
+      }
+    },
+    {
+      "id": "AudioPropertiesSheetAssetBase",
+      "type": "Class",
+      "properties": {
+        "inherits_from": "Object",
+        "description": "Audio Properties Sheet Asset Base",
+        "module": "AudioExtensions",
+        "file": "AudioPropertiesSheetAssetBase.h"
+      }
+    },
+    {
+      "id": "Object",
+      "type": "Class",
+      "properties": {
+        "description": "Base object class"
+      }
+    },
+    {
+      "id": "MaterialOptions",
+      "type": "Class",
+      "properties": {
+        "inherits_from": "Object",
+        "description": "Options object to define what and how a material should be baked out",
+        "module": "MaterialBaking",
+        "file": "MaterialOptions.h"
+      }
+    },
+    {
+      "id": "PropertyEntry",
+      "type": "Type",
+      "properties": {
+        "description": "Property entry type"
+      }
+    },
+    {
+      "id": "IntPoint",
+      "type": "Type",
+      "properties": {
+        "description": "Integer point type"
+      }
+    },
+    {
+      "id": "FloatInterval",
+      "type": "Struct",
+      "properties": {
+        "inherits_from": "StructBase",
+        "description": "An interval of floats, defined by inclusive min and max values",
+        "module": "CoreUObject",
+        "file": "NoExportTypes.h"
+      }
+    },
+    {
+      "id": "PoseSearchAssetSamplerSpace",
+      "type": "Enum",
+      "properties": {
+        "inherits_from": "EnumBase",
+        "description": "EPose Search Asset Sampler Space",
+        "plugin": "PoseSearch",
+        "module": "PoseSearch",
+        "file": "PoseSearchAssetSamplerLibrary.h"
+      }
+    },
+    {
+      "id": "LOCAL",
+      "type": "EnumValue",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "COMPONENT",
+      "type": "EnumValue",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "WORLD",
+      "type": "EnumValue",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "RigUnit_MathVectorAngle",
+      "type": "Class",
+      "properties": {
+        "inherits_from": "RigVMFunction_MathVectorAngle",
+        "description": "Deprecated: renamed to RigVMFunction_MathVectorAngle",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorAngle",
+      "type": "Class",
+      "properties": {
+        "description": "RigVM function for math vector angle"
+      }
+    },
+    {
+      "id": "RigUnit_MathRBFInterpolateVectorBase",
+      "type": "Class",
+      "properties": {
+        "inherits_from": "RigVMFunction_MathRBFInterpolateVectorBase",
+        "description": "Deprecated: renamed to RigVMFunction_MathRBFInterpolateVectorBase",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "RigVMFunction_MathRBFInterpolateVectorBase",
+      "type": "Class",
+      "properties": {
+        "description": "RigVM function for math RBF interpolate vector base"
+      }
+    },
+    {
+      "id": "RBFVectorDistanceType",
+      "type": "Enum",
+      "properties": {
+        "description": "RBF vector distance type"
+      }
+    },
+    {
+      "id": "RBFKernelType",
+      "type": "Enum",
+      "properties": {
+        "description": "RBF kernel type"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "TextureCubeArray",
+      "target": "Texture",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TextureCubeArray",
+      "target": "DynamicMesh",
+      "type": "property_type"
+    },
+    {
+      "source": "TextureCubeArray",
+      "target": "MaterialInterface",
+      "type": "property_type"
+    },
+    {
+      "source": "NiagaraEmitterScriptProperties",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGDynamicMeshData",
+      "target": "PCGSpatialData",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGDynamicMeshData",
+      "target": "DynamicMesh",
+      "type": "property_type"
+    },
+    {
+      "source": "PCGDynamicMeshData",
+      "target": "MaterialInterface",
+      "type": "property_type"
+    },
+    {
+      "source": "PCGDynamicMeshData",
+      "target": "PCGMetadata",
+      "type": "property_type"
+    },
+    {
+      "source": "GeometryScriptMathWarpType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryScriptMathWarpType",
+      "target": "SIN_WAVE1D",
+      "type": "has_value"
+    },
+    {
+      "source": "GeometryScriptMathWarpType",
+      "target": "SIN_WAVE2D",
+      "type": "has_value"
+    },
+    {
+      "source": "GeometryScriptMathWarpType",
+      "target": "SIN_WAVE3D",
+      "type": "has_value"
+    },
+    {
+      "source": "PropertyControllerBlink",
+      "target": "PropertyAnimatorPulse",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PropertyControllerBlink",
+      "target": "PropertyAnimatorPulse",
+      "type": "renamed_to"
+    },
+    {
+      "source": "AvaColorChannel",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaColorChannel",
+      "target": "NONE",
+      "type": "has_value"
+    },
+    {
+      "source": "AvaColorChannel",
+      "target": "RED",
+      "type": "has_value"
+    },
+    {
+      "source": "AvaColorChannel",
+      "target": "GREEN",
+      "type": "has_value"
+    },
+    {
+      "source": "AvaColorChannel",
+      "target": "BLUE",
+      "type": "has_value"
+    },
+    {
+      "source": "AvaColorChannel",
+      "target": "ALPHA",
+      "type": "has_value"
+    },
+    {
+      "source": "RigUnit_MathFloatConstTwoPi",
+      "target": "RigVMFunction_MathFloatConstTwoPi",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathFloatConstTwoPi",
+      "target": "RigVMFunction_MathFloatConstTwoPi",
+      "type": "renamed_to"
+    },
+    {
+      "source": "AnimationCurveMetaData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ComponentEndCursorOverSignature",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ComponentEndCursorOverSignature",
+      "target": "PrimitiveComponent",
+      "type": "parameter_type"
+    },
+    {
+      "source": "HairBendConstraint",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "HairBendConstraint",
+      "target": "RuntimeFloatCurve",
+      "type": "property_type"
+    },
+    {
+      "source": "BrushFalloffMode",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BrushFalloffMode",
+      "target": "ANGLE",
+      "type": "has_value"
+    },
+    {
+      "source": "BrushFalloffMode",
+      "target": "WIDTH",
+      "type": "has_value"
+    },
+    {
+      "source": "OnGeometryCollectionFullyDecayedEvent",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "glTFRuntimeMeshLODAsync",
+      "target": "DelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "glTFRuntimeMeshLODAsync",
+      "target": "glTFRuntimeMeshLOD",
+      "type": "parameter_type"
+    },
+    {
+      "source": "ParameterGroupData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathVectorSelectBool",
+      "target": "RigVMFunction_MathVectorBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathVectorSelectBool",
+      "target": "Vector",
+      "type": "parameter_type"
+    },
+    {
+      "source": "RuntimeVirtualTextureMipValueMode",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RuntimeVirtualTextureMipValueMode",
+      "target": "RVTMVM_NONE",
+      "type": "has_value"
+    },
+    {
+      "source": "RuntimeVirtualTextureMipValueMode",
+      "target": "RVTMVM_MIP_LEVEL",
+      "type": "has_value"
+    },
+    {
+      "source": "RuntimeVirtualTextureMipValueMode",
+      "target": "RVTMVM_MIP_BIAS",
+      "type": "has_value"
+    },
+    {
+      "source": "RuntimeVirtualTextureMipValueMode",
+      "target": "RVTMVM_DERIVATIVE_UV",
+      "type": "has_value"
+    },
+    {
+      "source": "RuntimeVirtualTextureMipValueMode",
+      "target": "RVTMVM_DERIVATIVE_WORLD",
+      "type": "has_value"
+    },
+    {
+      "source": "AudioPropertiesSheetAssetBase",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialOptions",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialOptions",
+      "target": "PropertyEntry",
+      "type": "property_type"
+    },
+    {
+      "source": "MaterialOptions",
+      "target": "IntPoint",
+      "type": "property_type"
+    },
+    {
+      "source": "FloatInterval",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PoseSearchAssetSamplerSpace",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PoseSearchAssetSamplerSpace",
+      "target": "LOCAL",
+      "type": "has_value"
+    },
+    {
+      "source": "PoseSearchAssetSamplerSpace",
+      "target": "COMPONENT",
+      "type": "has_value"
+    },
+    {
+      "source": "PoseSearchAssetSamplerSpace",
+      "target": "WORLD",
+      "type": "has_value"
+    },
+    {
+      "source": "RigUnit_MathVectorAngle",
+      "target": "RigVMFunction_MathVectorAngle",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathVectorAngle",
+      "target": "RigVMFunction_MathVectorAngle",
+      "type": "renamed_to"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateVectorBase",
+      "target": "RigVMFunction_MathRBFInterpolateVectorBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateVectorBase",
+      "target": "RigVMFunction_MathRBFInterpolateVectorBase",
+      "type": "renamed_to"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateVectorBase",
+      "target": "Vector",
+      "type": "parameter_type"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateVectorBase",
+      "target": "RBFVectorDistanceType",
+      "type": "parameter_type"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateVectorBase",
+      "target": "RBFKernelType",
+      "type": "parameter_type"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_niagara_plugin",
+      "nodes": ["NiagaraEmitterScriptProperties", "Niagara", "NiagaraEmitter.h"],
+      "type": "plugin_structure",
+      "description": "Niagara plugin module structure"
+    },
+    {
+      "id": "he_pcg_plugin",
+      "nodes": ["PCGDynamicMeshData", "PCGGeometryScriptInterop", "PCGDynamicMeshData.h"],
+      "type": "plugin_structure",
+      "description": "PCG Geometry Script Interop plugin structure"
+    },
+    {
+      "id": "he_geometry_script_plugin",
+      "nodes": ["GeometryScriptMathWarpType", "GeometryScripting", "GeometryScriptingCore", "MeshDeformFunctions.h"],
+      "type": "plugin_structure",
+      "description": "Geometry Scripting plugin structure"
+    },
+    {
+      "id": "he_dynamic_material_plugin",
+      "nodes": ["AvaColorChannel", "DynamicMaterial", "DynamicMaterialEditor", "DMEDefs.h"],
+      "type": "plugin_structure",
+      "description": "Dynamic Material plugin structure"
+    },
+    {
+      "id": "he_hair_strands_plugin",
+      "nodes": ["HairBendConstraint", "HairStrands", "HairStrandsCore", "GroomAssetPhysics.h"],
+      "type": "plugin_structure",
+      "description": "Hair Strands plugin structure"
+    },
+    {
+      "id": "he_landmass_plugin",
+      "nodes": ["BrushFalloffMode", "Landmass", "FalloffSettings.h"],
+      "type": "plugin_structure",
+      "description": "Landmass plugin structure"
+    },
+    {
+      "id": "he_gltf_plugin",
+      "nodes": ["glTFRuntimeMeshLODAsync", "AesWorld", "glTFRuntime", "glTFRuntimeParser.h"],
+      "type": "plugin_structure",
+      "description": "glTF Runtime plugin structure"
+    },
+    {
+      "id": "he_rigvm_plugin",
+      "nodes": ["RigVMFunction_MathVectorSelectBool", "RigVM", "RigVMFunction_MathVector.h"],
+      "type": "plugin_structure",
+      "description": "RigVM plugin structure"
+    },
+    {
+      "id": "he_pose_search_plugin",
+      "nodes": ["PoseSearchAssetSamplerSpace", "PoseSearch", "PoseSearchAssetSamplerLibrary.h"],
+      "type": "plugin_structure",
+      "description": "Pose Search plugin structure"
+    },
+    {
+      "id": "he_deprecated_renames",
+      "nodes": ["PropertyControllerBlink", "PropertyAnimatorPulse", "RigUnit_MathFloatConstTwoPi", "RigVMFunction_MathFloatConstTwoPi", "RigUnit_MathVectorAngle", "RigVMFunction_MathVectorAngle", "RigUnit_MathRBFInterpolateVectorBase", "RigVMFunction_MathRBFInterpolateVectorBase"],
+      "type": "deprecation_pattern",
+      "description": "Classes deprecated and renamed following naming convention changes"
+    },
+    {
+      "id": "he_texture_types",
+      "nodes": ["TextureCubeArray", "Texture", "DynamicMesh", "MaterialInterface"],
+      "type": "texture_system",
+      "description": "Texture type hierarchy and associated types"
+    },
+    {
+      "id": "he_delegate_types",
+      "nodes": ["ComponentEndCursorOverSignature", "OnGeometryCollectionFullyDecayedEvent", "glTFRuntimeMeshLODAsync", "MulticastDelegateBase", "DelegateBase"],
+      "type": "delegate_hierarchy",
+      "description": "Delegate type inheritance hierarchy"
+    },
+    {
+      "id": "he_enum_types",
+      "nodes": ["GeometryScriptMathWarpType", "AvaColorChannel", "BrushFalloffMode", "RuntimeVirtualTextureMipValueMode", "PoseSearchAssetSamplerSpace", "EnumBase"],
+      "type": "enum_hierarchy",
+      "description": "Enum type inheritance hierarchy"
+    },
+    {
+      "id": "he_struct_types",
+      "nodes": ["NiagaraEmitterScriptProperties", "AnimationCurveMetaData", "HairBendConstraint", "ParameterGroupData", "FloatInterval", "StructBase"],
+      "type": "struct_hierarchy",
+      "description": "Struct type inheritance hierarchy"
+    },
+    {
+      "id": "he_material_baking",
+      "nodes": ["MaterialOptions", "PropertyEntry", "IntPoint", "MaterialBaking"],
+      "type": "material_system",
+      "description": "Material baking configuration system"
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "nodes": [
+    {
+      "id": "widget_getbool_widget_getbool",
+      "label": "Widget_GetBool",
+      "file_type": "document",
+      "source_file": "Widget_GetBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_linkedanimlayer_animnode_linkedanimlayer",
+      "label": "AnimNode_LinkedAnimLayer",
+      "file_type": "document",
+      "source_file": "AnimNode__LinkedAnimLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadjunctionsign_roadjunctionsign",
+      "label": "RoadJunctionSign",
+      "file_type": "document",
+      "source_file": "RoadJunctionSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_rigidbody_animgraphnode_rigidbody",
+      "label": "AnimGraphNode_RigidBody",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__RigidBody Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rotationconstraint_rigunit_rotationconstraint",
+      "label": "RigUnit_RotationConstraint",
+      "file_type": "document",
+      "source_file": "RigUnit_RotationConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_finditemswithmetadatatag_rigunit_finditemswithmetadatatag",
+      "label": "RigUnit_FindItemsWithMetadataTag",
+      "file_type": "document",
+      "source_file": "RigUnit__FindItemsWithMetadataTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthanimatedtexture2d_earthanimatedtexture2d",
+      "label": "EarthAnimatedTexture2D",
+      "file_type": "document",
+      "source_file": "EarthAnimatedTexture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify_pauseclothingsimulation_animnotify_pauseclothingsimulation",
+      "label": "AnimNotify_PauseClothingSimulation",
+      "file_type": "document",
+      "source_file": "AnimNotify_PauseClothingSimulation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_noisevector2_rigvmfunction_noisevector2",
+      "label": "RigVMFunction_NoiseVector2",
+      "file_type": "document",
+      "source_file": "RigVMFunction_NoiseVector2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchycreateposeitemarray_rigunit_hierarchycreateposeitemarray",
+      "label": "RigUnit_HierarchyCreatePoseItemArray",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyCreatePoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcameravariabletable_blueprintcameravariabletable",
+      "label": "BlueprintCameraVariableTable",
+      "file_type": "document",
+      "source_file": "BlueprintCameraVariableTable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "billboardcomponent_billboardcomponent",
+      "label": "BillboardComponent",
+      "file_type": "document",
+      "source_file": "BillboardComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+      "label": "RigUnit_ParentConstraintMath",
+      "file_type": "document",
+      "source_file": "RigUnit__ParentConstraintMath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecompletionmodeoverride_moviescenecompletionmodeoverride",
+      "label": "MovieSceneCompletionModeOverride",
+      "file_type": "document",
+      "source_file": "MovieSceneCompletionModeOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "featuretexturepropertydescription_featuretexturepropertydescription",
+      "label": "FeatureTexturePropertyDescription",
+      "file_type": "document",
+      "source_file": "FeatureTexturePropertyDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsoftismcomponentdescriptor_pcgsoftismcomponentdescriptor",
+      "label": "PCGSoftISMComponentDescriptor",
+      "file_type": "document",
+      "source_file": "PCGSoftISMComponentDescriptor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_inertialization_animnode_inertialization",
+      "label": "AnimNode_Inertialization",
+      "file_type": "document",
+      "source_file": "AnimNode_Inertialization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weathercontrolmanager_currenttimesectionnotifyevent_weathercontrolmanager_currenttimesectionnotifyevent",
+      "label": "WeatherControlManager_CurrentTimeSectionNotifyEvent",
+      "file_type": "document",
+      "source_file": "WeatherControlManager__CurrentTimeSectionNotifyEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spectatorpawn_spectatorpawn",
+      "label": "SpectatorPawn",
+      "file_type": "document",
+      "source_file": "SpectatorPawn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangevertexcolorimportoption_interchangevertexcolorimportoption",
+      "label": "InterchangeVertexColorImportOption",
+      "file_type": "document",
+      "source_file": "InterchangeVertexColorImportOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigcontextmenucontext_controlrigcontextmenucontext",
+      "label": "ControlRigContextMenuContext",
+      "file_type": "document",
+      "source_file": "ControlRigContextMenuContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motiondesignsequencelibrary_motiondesignsequencelibrary",
+      "label": "MotionDesignSequenceLibrary",
+      "file_type": "document",
+      "source_file": "MotionDesignSequenceLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintparent_constraintparent",
+      "label": "ConstraintParent",
+      "file_type": "document",
+      "source_file": "RigUnit_RotationConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_RotationConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigpose_rigpose",
+      "label": "RigPose",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyCreatePoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animatedtexture_playback_control",
+      "label": "Animated Texture Playback Control",
+      "file_type": "document",
+      "source_file": "EarthAnimatedTexture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "widget_getbool_widget_getbool",
+      "target": "delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Widget_GetBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_linkedanimlayer_animnode_linkedanimlayer",
+      "target": "animnode_linkedanimgraph",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__LinkedAnimLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadjunctionsign_roadjunctionsign",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadJunctionSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_rigidbody_animgraphnode_rigidbody",
+      "target": "animgraphnode_skeletalcontrolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__RigidBody Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_rotationconstraint_rigunit_rotationconstraint",
+      "target": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_RotationConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_rotationconstraint_rigunit_rotationconstraint",
+      "target": "constraintparent_constraintparent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_RotationConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_finditemswithmetadatatag_rigunit_finditemswithmetadatatag",
+      "target": "rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FindItemsWithMetadataTag Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthanimatedtexture2d_earthanimatedtexture2d",
+      "target": "texture",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthAnimatedTexture2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthanimatedtexture2d_earthanimatedtexture2d",
+      "target": "animatedtexture_playback_control",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthAnimatedTexture2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_pauseclothingsimulation_animnotify_pauseclothingsimulation",
+      "target": "animnotify",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify_PauseClothingSimulation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_noisevector2_rigvmfunction_noisevector2",
+      "target": "rigvmfunction_mathbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_NoiseVector2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchycreateposeitemarray_rigunit_hierarchycreateposeitemarray",
+      "target": "rigunit_hierarchybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyCreatePoseItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchycreateposeitemarray_rigunit_hierarchycreateposeitemarray",
+      "target": "rigpose_rigpose",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyCreatePoseItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameravariabletable_blueprintcameravariabletable",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraVariableTable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "billboardcomponent_billboardcomponent",
+      "target": "primitivecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BillboardComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+      "target": "rigunit_highlevelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ParentConstraintMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+      "target": "constraintparent_constraintparent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ParentConstraintMath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecompletionmodeoverride_moviescenecompletionmodeoverride",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCompletionModeOverride Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "featuretexturepropertydescription_featuretexturepropertydescription",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FeatureTexturePropertyDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsoftismcomponentdescriptor_pcgsoftismcomponentdescriptor",
+      "target": "softismcomponentdescriptor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSoftISMComponentDescriptor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_inertialization_animnode_inertialization",
+      "target": "animnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_Inertialization Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "weathercontrolmanager_currenttimesectionnotifyevent_weathercontrolmanager_currenttimesectionnotifyevent",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WeatherControlManager__CurrentTimeSectionNotifyEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spectatorpawn_spectatorpawn",
+      "target": "defaultpawn",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpectatorPawn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangevertexcolorimportoption_interchangevertexcolorimportoption",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeVertexColorImportOption Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigcontextmenucontext_controlrigcontextmenucontext",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigContextMenuContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motiondesignsequencelibrary_motiondesignsequencelibrary",
+      "target": "blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionDesignSequenceLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_rotationconstraint_rigunit_rotationconstraint",
+      "target": "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "RigUnit_RotationConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthanimatedtexture2d_earthanimatedtexture2d",
+      "target": "billboardcomponent_billboardcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "EarthAnimatedTexture2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_constraint_system",
+      "label": "Rig Constraint System",
+      "nodes": [
+        "rigunit_rotationconstraint_rigunit_rotationconstraint",
+        "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+        "constraintparent_constraintparent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_RotationConstraint Objects.md"
+    },
+    {
+      "id": "animation_node_system",
+      "label": "Animation Node System",
+      "nodes": [
+        "animnode_linkedanimlayer_animnode_linkedanimlayer",
+        "animgraphnode_rigidbody_animgraphnode_rigidbody",
+        "animnode_inertialization_animnode_inertialization"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "AnimNode__LinkedAnimLayer Objects.md"
+    },
+    {
+      "id": "controlrig_framework",
+      "label": "ControlRig Framework",
+      "nodes": [
+        "rigunit_rotationconstraint_rigunit_rotationconstraint",
+        "rigunit_finditemswithmetadatatag_rigunit_finditemswithmetadatatag",
+        "rigunit_hierarchycreateposeitemarray_rigunit_hierarchycreateposeitemarray",
+        "rigunit_parentconstraintmath_rigunit_parentconstraintmath",
+        "controlrigcontextmenucontext_controlrigcontextmenucontext"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "RigUnit_RotationConstraint Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

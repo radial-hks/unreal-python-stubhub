@@ -1,0 +1,420 @@
+{
+  "nodes": [
+    {
+      "id": "compasswidgetbase_compasswidgetbase",
+      "label": "Compass Widget Base",
+      "file_type": "document",
+      "source_file": "CompassWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgizmocoordaxisspace_earthgizmocoordaxisspace",
+      "label": "Earth Gizmo Coord Axis Space",
+      "file_type": "document",
+      "source_file": "EarthGizmoCoordAxisSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraoffecttype_niagaraoffecttype",
+      "label": "Niagara Effect Type",
+      "file_type": "document",
+      "source_file": "NiagaraEffectType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosgameplayeventdispatcher_chaosgameplayeventdispatcher",
+      "label": "Chaos Gameplay Event Dispatcher",
+      "file_type": "document",
+      "source_file": "ChaosGameplayEventDispatcher Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmetadatatagarray_rigunit_setmetadatatagarray",
+      "label": "RigUnit SetMetadataTagArray",
+      "file_type": "document",
+      "source_file": "RigUnit__SetMetadataTagArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialpropertybasecolor_dmmaterialpropertybasecolor",
+      "label": "DM Material Property Base Color",
+      "file_type": "document",
+      "source_file": "DMMaterialPropertyBaseColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerafilmbacksettings_camerafilmbacksettings",
+      "label": "Camera Filmback Settings",
+      "file_type": "document",
+      "source_file": "CameraFilmbackSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformcurvechannel_transformcurvechannel",
+      "label": "Transform Curve Channel",
+      "file_type": "document",
+      "source_file": "TransformCurveChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "namedtransform_namedtransform",
+      "label": "Named Transform",
+      "file_type": "document",
+      "source_file": "NamedTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarascriptbase_niagarascriptbase",
+      "label": "Niagara Script Base",
+      "file_type": "document",
+      "source_file": "NiagaraScriptBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggetboundssettings_pcggetboundssettings",
+      "label": "PCG Get Bounds Settings",
+      "file_type": "document",
+      "source_file": "PCGGetBoundsSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hud_hud",
+      "label": "HUD",
+      "file_type": "document",
+      "source_file": "HUD Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "imguicanvassizetype_imguicanvassizetype",
+      "label": "ImGui Canvas Size Type",
+      "file_type": "document",
+      "source_file": "ImGuiCanvasSizeType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onquartzcommandevent_onquartzcommandevent",
+      "label": "On Quartz Command Event",
+      "file_type": "document",
+      "source_file": "OnQuartzCommandEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapecustomizedcoordtype_landscapecustomizedcoordtype",
+      "label": "Landscape Customized Coord Type",
+      "file_type": "document",
+      "source_file": "LandscapeCustomizedCoordType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdplocaltoglobalgeorefparams_wdplocaltoglobalgeorefparams",
+      "label": "Wdp Local to Global Geo Ref Params",
+      "file_type": "document",
+      "source_file": "WdpLocalToGlobalGeoRefParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionbentnormalcustomoutput_materialexpressionbentnormalcustomoutput",
+      "label": "Material Expression Bent Normal Custom Output",
+      "file_type": "document",
+      "source_file": "MaterialExpressionBentNormalCustomOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_hearing_aisense_hearing",
+      "label": "AI Sense Hearing",
+      "file_type": "document",
+      "source_file": "AISense__Hearing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "developersettings_developersettings",
+      "label": "Developer Settings",
+      "file_type": "document",
+      "source_file": "DeveloperSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatdiv_rigunit_mathfloatdiv",
+      "label": "RigUnit MathFloatDiv",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatDiv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinepointtype_splinepointtype",
+      "label": "Spline Point Type",
+      "file_type": "document",
+      "source_file": "SplinePointType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_getvariable_optimusnode_getvariable",
+      "label": "Optimus Node Get Variable",
+      "file_type": "document",
+      "source_file": "OptimusNode__GetVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "compasswidgetbase_compasswidgetbase",
+      "target": "hud_hud",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CompassWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthgizmocoordaxisspace_earthgizmocoordaxisspace",
+      "target": "transformcurvechannel_transformcurvechannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthGizmoCoordAxisSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraoffecttype_niagaraoffecttype",
+      "target": "niagarascriptbase_niagarascriptbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraEffectType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosgameplayeventdispatcher_chaosgameplayeventdispatcher",
+      "target": "aisense_hearing_aisense_hearing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ChaosGameplayEventDispatcher Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmetadatatagarray_rigunit_setmetadatatagarray",
+      "target": "rigunit_mathfloatdiv_rigunit_mathfloatdiv",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialpropertybasecolor_dmmaterialpropertybasecolor",
+      "target": "materialexpressionbentnormalcustomoutput_materialexpressionbentnormalcustomoutput",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DMMaterialPropertyBaseColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerafilmbacksettings_camerafilmbacksettings",
+      "target": "namedtransform_namedtransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CameraFilmbackSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformcurvechannel_transformcurvechannel",
+      "target": "namedtransform_namedtransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TransformCurveChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggetboundssettings_pcggetboundssettings",
+      "target": "camerafilmbacksettings_camerafilmbacksettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGGetBoundsSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onquartzcommandevent_onquartzcommandevent",
+      "target": "chaosgameplayeventdispatcher_chaosgameplayeventdispatcher",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "OnQuartzCommandEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdplocaltoglobalgeorefparams_wdplocaltoglobalgeorefparams",
+      "target": "earthgizmocoordaxisspace_earthgizmocoordaxisspace",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpLocalToGlobalGeoRefParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splinepointtype_splinepointtype",
+      "target": "transformcurvechannel_transformcurvechannel",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SplinePointType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_getvariable_optimusnode_getvariable",
+      "target": "rigunit_setmetadatatagarray_rigunit_setmetadatatagarray",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OptimusNode__GetVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "niagara_system_components",
+      "label": "Niagara System Components",
+      "nodes": [
+        "niagaraoffecttype_niagaraoffecttype",
+        "niagarascriptbase_niagarascriptbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraEffectType Objects.md"
+    },
+    {
+      "id": "spatial_transform_systems",
+      "label": "Spatial Transform Systems",
+      "nodes": [
+        "transformcurvechannel_transformcurvechannel",
+        "namedtransform_namedtransform",
+        "splinepointtype_splinepointtype"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "TransformCurveChannel Objects.md"
+    },
+    {
+      "id": "rig_control_units",
+      "label": "Rig Control Units",
+      "nodes": [
+        "rigunit_setmetadatatagarray_rigunit_setmetadatatagarray",
+        "rigunit_mathfloatdiv_rigunit_mathfloatdiv",
+        "optimusnode_getvariable_optimusnode_getvariable"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetMetadataTagArray Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

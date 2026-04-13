@@ -1,0 +1,637 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatcolor_rigvmfunction_mathrbfinterpolatequatcolor",
+      "label": "RigVMFunction_MathRBFInterpolateQuatColor",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatbase_rigvmfunction_mathrbfinterpolatequatbase",
+      "label": "RigVMFunction_MathRBFInterpolateQuatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmesheditpolygroupmode_geometryscriptmesheditpolygroupmode",
+      "label": "GeometryScriptMeshEditPolygroupMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptMeshEditPolygroupMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmpanelwidgetviewextension_mvvmpanelwidgetviewextension",
+      "label": "MVVMPanelWidgetViewExtension",
+      "file_type": "code",
+      "source_file": "MVVMPanelWidgetViewExtension Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmviewextension_mvvmviewextension",
+      "label": "MVVMViewExtension",
+      "file_type": "code",
+      "source_file": "MVVMPanelWidgetViewExtension Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subjectmetadata_subjectmetadata",
+      "label": "SubjectMetadata",
+      "file_type": "code",
+      "source_file": "SubjectMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarendertargetmediaoutput_avarendertargetmediaoutput",
+      "label": "AvaRenderTargetMediaOutput",
+      "file_type": "code",
+      "source_file": "AvaRenderTargetMediaOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avabroadcastrendertargetmediaoutput_avabroadcastrendertargetmediaoutput",
+      "label": "AvaBroadcastRenderTargetMediaOutput",
+      "file_type": "code",
+      "source_file": "AvaRenderTargetMediaOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanscenepayloadcomponent_sphere_urbanscenepayloadcomponent_sphere",
+      "label": "UrbanScenePayloadComponent_Sphere",
+      "file_type": "code",
+      "source_file": "UrbanScenePayloadComponent__Sphere Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanscenepayloadcomponent_urbanscenepayloadcomponent",
+      "label": "UrbanScenePayloadComponent",
+      "file_type": "code",
+      "source_file": "UrbanScenePayloadComponent__Sphere Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolunaryop_rigunit_mathboolunaryop",
+      "label": "RigUnit_MathBoolUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBoolUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolunaryop_rigvmfunction_mathboolunaryop",
+      "label": "RigVMFunction_MathBoolUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBoolUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgbasesubgraphnode_pcgbasesubgraphnode",
+      "label": "PCGBaseSubgraphNode",
+      "file_type": "code",
+      "source_file": "PCGBaseSubgraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnode_pcgnode",
+      "label": "PCGNode",
+      "file_type": "code",
+      "source_file": "PCGBaseSubgraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinesegmentworkmetrics_moviepipelinesegmentworkmetrics",
+      "label": "MoviePipelineSegmentWorkMetrics",
+      "file_type": "code",
+      "source_file": "MoviePipelineSegmentWorkMetrics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatexponential_rigvmfunction_mathfloatexponential",
+      "label": "RigVMFunction_MathFloatExponential",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatunaryop_rigvmfunction_mathfloatunaryop",
+      "label": "RigVMFunction_MathFloatUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_dynamichierarchybasemutable_rigunit_dynamichierarchybasemutable",
+      "label": "RigUnit_DynamicHierarchyBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_DynamicHierarchyBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_DynamicHierarchyBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorwindsettings_51_skycreatorwindsettings_51",
+      "label": "SkyCreatorWindSettings_51",
+      "file_type": "code",
+      "source_file": "SkyCreatorWindSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createwindowsparams_createwindowsparams",
+      "label": "CreateWindowsParams",
+      "file_type": "code",
+      "source_file": "CreateWindowsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coverwindowstyle_coverwindowstyle",
+      "label": "CoverWindowStyle",
+      "file_type": "code",
+      "source_file": "CreateWindowsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathcoloradd_rigunit_mathcoloradd",
+      "label": "RigUnit_MathColorAdd",
+      "file_type": "code",
+      "source_file": "RigUnit__MathColorAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd",
+      "label": "RigVMFunction_MathColorAdd",
+      "file_type": "code",
+      "source_file": "RigUnit__MathColorAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakeinfo_camerashakeinfo",
+      "label": "CameraShakeInfo",
+      "file_type": "code",
+      "source_file": "CameraShakeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinedeferredpassbase_moviepipelinedeferredpassbase",
+      "label": "MoviePipelineDeferredPassBase",
+      "file_type": "code",
+      "source_file": "MoviePipelineDeferredPassBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineimagepassbase_moviepipelineimagepassbase",
+      "label": "MoviePipelineImagePassBase",
+      "file_type": "code",
+      "source_file": "MoviePipelineDeferredPassBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashaperectangledynamicmesh_avashaperectangledynamicmesh",
+      "label": "AvaShapeRectangleDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaShapeRectangleDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashape2ddynmeshbase_avashape2ddynmeshbase",
+      "label": "AvaShape2DDynMeshBase",
+      "file_type": "code",
+      "source_file": "AvaShapeRectangleDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliageinstancedstaticmeshcomponent_foliageinstancedstaticmeshcomponent",
+      "label": "FoliageInstancedStaticMeshComponent",
+      "file_type": "code",
+      "source_file": "FoliageInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hierarchicalinstancedstaticmeshcomponent_hierarchicalinstancedstaticmeshcomponent",
+      "label": "HierarchicalInstancedStaticMeshComponent",
+      "file_type": "code",
+      "source_file": "FoliageInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndiskelmesh_adjacencytriangleindexformat_ndiskelmesh_adjacencytriangleindexformat",
+      "label": "NDISkelMesh_AdjacencyTriangleIndexFormat",
+      "file_type": "code",
+      "source_file": "NDISkelMesh__AdjacencyTriangleIndexFormat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmgraphfunctionlayout_rigvmgraphfunctionlayout",
+      "label": "RigVMGraphFunctionLayout",
+      "file_type": "code",
+      "source_file": "RigVMGraphFunctionLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmnodelayout_rigvmnodelayout",
+      "label": "RigVMNodeLayout",
+      "file_type": "code",
+      "source_file": "RigVMGraphFunctionLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonermeshsampledata_ceclonermeshsampledata",
+      "label": "CEClonerMeshSampleData",
+      "file_type": "code",
+      "source_file": "CEClonerMeshSampleData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenucontextbase_toolmenucontextbase",
+      "label": "ToolMenuContextBase",
+      "file_type": "code",
+      "source_file": "ToolMenuContextBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatcolor_rigvmfunction_mathrbfinterpolatequatcolor",
+      "target": "rigvmfunction_mathrbfinterpolatequatbase_rigvmfunction_mathrbfinterpolatequatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmpanelwidgetviewextension_mvvmpanelwidgetviewextension",
+      "target": "mvvmviewextension_mvvmviewextension",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMPanelWidgetViewExtension Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avarendertargetmediaoutput_avarendertargetmediaoutput",
+      "target": "avabroadcastrendertargetmediaoutput_avabroadcastrendertargetmediaoutput",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaRenderTargetMediaOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanscenepayloadcomponent_sphere_urbanscenepayloadcomponent_sphere",
+      "target": "urbanscenepayloadcomponent_urbanscenepayloadcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanScenePayloadComponent__Sphere Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolunaryop_rigunit_mathboolunaryop",
+      "target": "rigvmfunction_mathboolunaryop_rigvmfunction_mathboolunaryop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathBoolUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgbasesubgraphnode_pcgbasesubgraphnode",
+      "target": "pcgnode_pcgnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBaseSubgraphNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatexponential_rigvmfunction_mathfloatexponential",
+      "target": "rigvmfunction_mathfloatunaryop_rigvmfunction_mathfloatunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_dynamichierarchybasemutable_rigunit_dynamichierarchybasemutable",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DynamicHierarchyBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createwindowsparams_createwindowsparams",
+      "target": "coverwindowstyle_coverwindowstyle",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CreateWindowsParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcoloradd_rigunit_mathcoloradd",
+      "target": "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathColorAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinedeferredpassbase_moviepipelinedeferredpassbase",
+      "target": "moviepipelineimagepassbase_moviepipelineimagepassbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineDeferredPassBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashaperectangledynamicmesh_avashaperectangledynamicmesh",
+      "target": "avashape2ddynmeshbase_avashape2ddynmeshbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShapeRectangleDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foliageinstancedstaticmeshcomponent_foliageinstancedstaticmeshcomponent",
+      "target": "hierarchicalinstancedstaticmeshcomponent_hierarchicalinstancedstaticmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FoliageInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmgraphfunctionlayout_rigvmgraphfunctionlayout",
+      "target": "rigvmnodelayout_rigvmnodelayout",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMGraphFunctionLayout Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatcolor_rigvmfunction_mathrbfinterpolatequatcolor",
+      "target": "rigvmfunction_mathfloatexponential_rigvmfunction_mathfloatexponential",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatcolor_rigvmfunction_mathrbfinterpolatequatcolor",
+      "target": "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatexponential_rigvmfunction_mathfloatexponential",
+      "target": "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "RigVMFunction__MathFloatExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinesegmentworkmetrics_moviepipelinesegmentworkmetrics",
+      "target": "moviepipelinedeferredpassbase_moviepipelinedeferredpassbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MoviePipelineSegmentWorkMetrics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_dynamichierarchybasemutable_rigunit_dynamichierarchybasemutable",
+      "target": "rigvmfunction_mathrbfinterpolatequatcolor_rigvmfunction_mathrbfinterpolatequatcolor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "RigUnit_DynamicHierarchyBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigvm_units",
+      "label": "Deprecated RigVM/RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_mathboolunaryop_rigunit_mathboolunaryop",
+        "rigunit_mathcoloradd_rigunit_mathcoloradd",
+        "rigvmgraphfunctionlayout_rigvmgraphfunctionlayout",
+        "avarendertargetmediaoutput_avarendertargetmediaoutput"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathBoolUnaryOp Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operation Functions",
+      "nodes": [
+        "rigvmfunction_mathrbfinterpolatequatcolor_rigvmfunction_mathrbfinterpolatequatcolor",
+        "rigvmfunction_mathfloatexponential_rigvmfunction_mathfloatexponential",
+        "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatColor Objects.md"
+    },
+    {
+      "id": "unreal_component_hierarchy",
+      "label": "Unreal Engine Component Inheritance Chain",
+      "nodes": [
+        "foliageinstancedstaticmeshcomponent_foliageinstancedstaticmeshcomponent",
+        "hierarchicalinstancedstaticmeshcomponent_hierarchicalinstancedstaticmeshcomponent",
+        "avashaperectangledynamicmesh_avashaperectangledynamicmesh",
+        "urbanscenepayloadcomponent_sphere_urbanscenepayloadcomponent_sphere"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "FoliageInstancedStaticMeshComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

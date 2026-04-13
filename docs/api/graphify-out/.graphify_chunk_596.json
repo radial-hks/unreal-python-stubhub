@@ -1,0 +1,1169 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_twoboneiksimple",
+      "label": "RigUnit TwoBoneIKSimple",
+      "file_type": "document",
+      "source_file": "RigUnit__TwoBoneIKSimple Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computekernelfromtextfactory",
+      "label": "ComputeKernelFromTextFactory",
+      "file_type": "document",
+      "source_file": "ComputeKernelFromTextFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_animbase",
+      "label": "RigUnit AnimBase",
+      "file_type": "document",
+      "source_file": "RigUnit_AnimBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgstrokecomponent",
+      "label": "SVGStrokeComponent",
+      "file_type": "document",
+      "source_file": "SVGStrokeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialcomponentdynamic",
+      "label": "DMMaterialComponentDynamic",
+      "file_type": "document",
+      "source_file": "DMMaterialComponentDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pathfollowingstatus",
+      "label": "PathFollowingStatus",
+      "file_type": "document",
+      "source_file": "PathFollowingStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tablerowbase",
+      "label": "TableRowBase",
+      "file_type": "document",
+      "source_file": "TableRowBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelstreaminglevelinstanceeditor",
+      "label": "LevelStreamingLevelInstanceEditor",
+      "file_type": "document",
+      "source_file": "LevelStreamingLevelInstanceEditor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthinstancetransformsfragment",
+      "label": "EarthInstanceTransformsFragment",
+      "file_type": "document",
+      "source_file": "EarthInstanceTransformsFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatmod",
+      "label": "RigUnit MathFloatMod",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatMod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onvisibilitychangedevent",
+      "label": "OnVisibilityChangedEvent",
+      "file_type": "document",
+      "source_file": "OnVisibilityChangedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaravalidationruleset",
+      "label": "NiagaraValidationRuleSet",
+      "file_type": "document",
+      "source_file": "NiagaraValidationRuleSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexturecubefactorynode",
+      "label": "InterchangeTextureCubeFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeTextureCubeFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_bonename",
+      "label": "RigUnit BoneName",
+      "file_type": "document",
+      "source_file": "RigUnit_BoneName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "alphablend",
+      "label": "AlphaBlend",
+      "file_type": "document",
+      "source_file": "AlphaBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressiontruncate",
+      "label": "DMMaterialStageExpressionTruncate",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionTruncate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorbezierfourpoint",
+      "label": "RigUnit MathVectorBezierFourPoint",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorBezierFourPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linesetcomponent",
+      "label": "LineSetComponent",
+      "file_type": "document",
+      "source_file": "LineSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixunaryop",
+      "label": "RigUnit MathMatrixUnaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathMatrixUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendversion",
+      "label": "MetasoundFrontendVersion",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendVersion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstrataconverttodecal",
+      "label": "MaterialExpressionStrataConvertToDecal",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStrataConvertToDecal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecapturecomponent",
+      "label": "SceneCaptureComponent",
+      "file_type": "document",
+      "source_file": "SceneCaptureComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__TwoBoneIKSimple Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "ComputeKernelFromTextFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animbase",
+      "label": "RigVMFunction AnimBase",
+      "file_type": "document",
+      "source_file": "RigUnit_AnimBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgdynamicmeshcomponent",
+      "label": "SVGDynamicMeshComponent",
+      "file_type": "document",
+      "source_file": "SVGStrokeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialcomponent",
+      "label": "DMMaterialComponent",
+      "file_type": "document",
+      "source_file": "DMMaterialComponentDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "PathFollowingStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "TableRowBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelstreamingalwaysloaded",
+      "label": "LevelStreamingAlwaysLoaded",
+      "file_type": "document",
+      "source_file": "LevelStreamingLevelInstanceEditor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment",
+      "label": "EarthPropertyFragment",
+      "file_type": "document",
+      "source_file": "EarthInstanceTransformsFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmod",
+      "label": "RigVMFunction MathFloatMod",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatMod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnVisibilityChangedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "NiagaraValidationRuleSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexturefactorynode",
+      "label": "InterchangeTextureFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeTextureCubeFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_BoneName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionmathbase",
+      "label": "DMMaterialStageExpressionMathBase",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionTruncate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbezierfourpoint",
+      "label": "RigVMFunction MathVectorBezierFourPoint",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorBezierFourPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshcomponent",
+      "label": "MeshComponent",
+      "file_type": "document",
+      "source_file": "LineSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixunaryop",
+      "label": "RigVMFunction MathMatrixUnaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathMatrixUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstrateconverttodecal",
+      "label": "MaterialExpressionSubstrateConvertToDecal",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStrataConvertToDecal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecomponent",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "SceneCaptureComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "two_bone_ik_solver",
+      "label": "Two Bone IK Solver",
+      "file_type": "document",
+      "source_file": "RigUnit__TwoBoneIKSimple Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_system",
+      "label": "ControlRig System",
+      "file_type": "document",
+      "source_file": "RigUnit__TwoBoneIKSimple Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compute_framework",
+      "label": "Compute Framework",
+      "file_type": "document",
+      "source_file": "ComputeKernelFromTextFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svg_importer",
+      "label": "SVG Importer",
+      "file_type": "document",
+      "source_file": "SVGStrokeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_material_system",
+      "label": "Dynamic Material System",
+      "file_type": "document",
+      "source_file": "DMMaterialComponentDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_navigation",
+      "label": "AI Navigation",
+      "file_type": "document",
+      "source_file": "PathFollowingStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "data_table_system",
+      "label": "Data Table System",
+      "file_type": "document",
+      "source_file": "TableRowBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "level_streaming",
+      "label": "Level Streaming",
+      "file_type": "document",
+      "source_file": "LevelStreamingLevelInstanceEditor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth_prefab_system",
+      "label": "Earth Prefab System",
+      "file_type": "document",
+      "source_file": "EarthInstanceTransformsFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_effects",
+      "label": "Niagara Effects",
+      "file_type": "document",
+      "source_file": "NiagaraValidationRuleSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_pipeline",
+      "label": "Interchange Pipeline",
+      "file_type": "document",
+      "source_file": "InterchangeTextureCubeFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_rigging",
+      "label": "Animation Rigging",
+      "file_type": "document",
+      "source_file": "RigUnit_BoneName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_blending",
+      "label": "Material Blending",
+      "file_type": "document",
+      "source_file": "AlphaBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mesh_modeling_tools",
+      "label": "Mesh Modeling Tools",
+      "file_type": "document",
+      "source_file": "LineSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasound_audio",
+      "label": "Metasound Audio System",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendVersion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scene_capture_rendering",
+      "label": "Scene Capture Rendering",
+      "file_type": "document",
+      "source_file": "SceneCaptureComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_twoboneiksimple",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TwoBoneIKSimple Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twoboneiksimple",
+      "target": "two_bone_ik_solver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TwoBoneIKSimple Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twoboneiksimple",
+      "target": "controlrig_system",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TwoBoneIKSimple Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "computekernelfromtextfactory",
+      "target": "factory",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComputeKernelFromTextFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "computekernelfromtextfactory",
+      "target": "compute_framework",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComputeKernelFromTextFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_animbase",
+      "target": "rigvmfunction_animbase",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AnimBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "svgstrokecomponent",
+      "target": "svgdynamicmeshcomponent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SVGStrokeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "svgstrokecomponent",
+      "target": "svg_importer",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SVGStrokeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialcomponentdynamic",
+      "target": "dmmaterialcomponent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialComponentDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialcomponentdynamic",
+      "target": "dynamic_material_system",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialComponentDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pathfollowingstatus",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PathFollowingStatus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pathfollowingstatus",
+      "target": "ai_navigation",
+      "relation": "used_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PathFollowingStatus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tablerowbase",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TableRowBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tablerowbase",
+      "target": "data_table_system",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TableRowBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelstreaminglevelinstanceeditor",
+      "target": "levelstreamingalwaysloaded",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelStreamingLevelInstanceEditor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelstreaminglevelinstanceeditor",
+      "target": "level_streaming",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelStreamingLevelInstanceEditor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthinstancetransformsfragment",
+      "target": "earthpropertyfragment",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthInstanceTransformsFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthinstancetransformsfragment",
+      "target": "earth_prefab_system",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthInstanceTransformsFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatmod",
+      "target": "rigvmfunction_mathfloatmod",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onvisibilitychangedevent",
+      "target": "multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnVisibilityChangedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaravalidationruleset",
+      "target": "object",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraValidationRuleSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaravalidationruleset",
+      "target": "niagara_effects",
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraValidationRuleSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexturecubefactorynode",
+      "target": "interchangetexturefactorynode",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTextureCubeFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexturecubefactorynode",
+      "target": "interchange_pipeline",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTextureCubeFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_bonename",
+      "target": "rigunit",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BoneName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_bonename",
+      "target": "animation_rigging",
+      "relation": "used_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BoneName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "alphablend",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AlphaBlend Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "alphablend",
+      "target": "material_blending",
+      "relation": "used_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AlphaBlend Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiontruncate",
+      "target": "dmmaterialstageexpressionmathbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionTruncate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiontruncate",
+      "target": "dynamic_material_system",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionTruncate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbezierfourpoint",
+      "target": "rigvmfunction_mathvectorbezierfourpoint",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorBezierFourPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "linesetcomponent",
+      "target": "meshcomponent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LineSetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "linesetcomponent",
+      "target": "mesh_modeling_tools",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LineSetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixunaryop",
+      "target": "rigvmfunction_mathmatrixunaryop",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathMatrixUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendversion",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundFrontendVersion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendversion",
+      "target": "metasound_audio",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundFrontendVersion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstrataconverttodecal",
+      "target": "materialexpressionsubstrateconverttodecal",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStrataConvertToDecal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scenecapturecomponent",
+      "target": "scenecomponent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SceneCaptureComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scenecapturecomponent",
+      "target": "scene_capture_rendering",
+      "relation": "used_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SceneCaptureComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_animbase",
+      "target": "controlrig_system",
+      "relation": "part_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_AnimBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatmod",
+      "target": "controlrig_system",
+      "relation": "part_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbezierfourpoint",
+      "target": "controlrig_system",
+      "relation": "part_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathVectorBezierFourPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixunaryop",
+      "target": "controlrig_system",
+      "relation": "part_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathMatrixUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_bonename",
+      "target": "rigunit_twoboneiksimple",
+      "relation": "used_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_BoneName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "alphablend",
+      "target": "dmmaterialcomponentdynamic",
+      "relation": "used_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AlphaBlend Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiontruncate",
+      "target": "alphablend",
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DMMaterialStageExpressionTruncate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scenecapturecomponent",
+      "target": "svgstrokecomponent",
+      "relation": "can_capture",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "SceneCaptureComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scenecapturecomponent",
+      "target": "linesetcomponent",
+      "relation": "can_capture",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "SceneCaptureComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_deprecated_units",
+      "label": "Deprecated ControlRig Units Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_animbase",
+        "rigunit_mathfloatmod",
+        "rigunit_mathvectorbezierfourpoint",
+        "rigunit_mathmatrixunaryop"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AnimBase Objects.md"
+    },
+    {
+      "id": "component_rendering_system",
+      "label": "Component Rendering System",
+      "nodes": [
+        "svgstrokecomponent",
+        "linesetcomponent",
+        "scenecapturecomponent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SVGStrokeComponent Objects.md"
+    },
+    {
+      "id": "unreal_engine_api_patterns",
+      "label": "Unreal Engine API Object Patterns",
+      "nodes": [
+        "structbase",
+        "object",
+        "enumbase",
+        "factory"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "TableRowBase Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,846 @@
+{
+  "nodes": [
+    {
+      "id": "parametricmaterialstyle",
+      "label": "ParametricMaterialStyle",
+      "file_type": "document",
+      "source_file": "ParametricMaterialStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapeparametricmaterialstyle",
+      "label": "AvaShapeParametricMaterialStyle",
+      "file_type": "document",
+      "source_file": "ParametricMaterialStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionchildrenarray",
+      "label": "RigUnit_CollectionChildrenArray",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionChildrenArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionbase",
+      "label": "RigUnit_CollectionBase",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionChildrenArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionChildrenArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementtype",
+      "label": "RigElementType",
+      "file_type": "document",
+      "source_file": "RigUnit_CollectionChildrenArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aessplatmapeditorcommandparams_pen",
+      "label": "AesSplatMapEditorCommandParams_Pen",
+      "file_type": "document",
+      "source_file": "AesSplatMapEditorCommandParams__Pen Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommandparams",
+      "label": "AesEditorSimpleCommandParams",
+      "file_type": "document",
+      "source_file": "AesSplatMapEditorCommandParams__Pen Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequenceconditiontag",
+      "label": "DaySequenceConditionTag",
+      "file_type": "document",
+      "source_file": "DaySequenceConditionTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "DaySequenceConditionTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialenvelope",
+      "label": "AudioMaterialEnvelope",
+      "file_type": "document",
+      "source_file": "AudioMaterialEnvelope Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget",
+      "label": "Widget",
+      "file_type": "document",
+      "source_file": "AudioMaterialEnvelope Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialenvelopesettings",
+      "label": "AudioMaterialEnvelopeSettings",
+      "file_type": "document",
+      "source_file": "AudioMaterialEnvelope Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialenvelopestyle",
+      "label": "AudioMaterialEnvelopeStyle",
+      "file_type": "document",
+      "source_file": "AudioMaterialEnvelope Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectiondifference",
+      "label": "RigUnit_CollectionDifference",
+      "file_type": "document",
+      "source_file": "RigUnit__CollectionDifference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkeycollection",
+      "label": "RigElementKeyCollection",
+      "file_type": "document",
+      "source_file": "RigUnit__CollectionDifference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_makedynamicadditive",
+      "label": "AnimGraphNode_MakeDynamicAdditive",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_MakeDynamicAdditive Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base",
+      "label": "AnimGraphNode_Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_MakeDynamicAdditive Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_makedynamicadditive",
+      "label": "AnimNode_MakeDynamicAdditive",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_MakeDynamicAdditive Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "doublerange",
+      "label": "DoubleRange",
+      "file_type": "document",
+      "source_file": "DoubleRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "DoubleRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "doublerangebound",
+      "label": "DoubleRangeBound",
+      "file_type": "document",
+      "source_file": "DoubleRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "notifyfiltertype",
+      "label": "NotifyFilterType",
+      "file_type": "document",
+      "source_file": "NotifyFilterType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxlinedynamicmesh",
+      "label": "AvaToolboxLineDynamicMesh",
+      "file_type": "document",
+      "source_file": "AvaToolboxLineDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapelinedynamicmesh",
+      "label": "AvaShapeLineDynamicMesh",
+      "file_type": "document",
+      "source_file": "AvaToolboxLineDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthterraformingmeshgenerator",
+      "label": "EarthTerraformingMeshGenerator",
+      "file_type": "document",
+      "source_file": "EarthTerraformingMeshGenerator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarclippingvolumemode",
+      "label": "LidarClippingVolumeMode",
+      "file_type": "document",
+      "source_file": "LidarClippingVolumeMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdmodelcardgeometry",
+      "label": "UsdModelCardGeometry",
+      "file_type": "document",
+      "source_file": "UsdModelCardGeometry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescritingdoubleasfloatkey",
+      "label": "MovieSceneScriptingDoubleAsFloatKey",
+      "file_type": "document",
+      "source_file": "MovieSceneScriptingDoubleAsFloatKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescritingfloatkey",
+      "label": "MovieSceneScriptingFloatKey",
+      "file_type": "document",
+      "source_file": "MovieSceneScriptingDoubleAsFloatKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanprojmodel",
+      "label": "UrbanProjModel",
+      "file_type": "document",
+      "source_file": "UrbanProjModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stringassetreference",
+      "label": "StringAssetReference",
+      "file_type": "document",
+      "source_file": "StringAssetReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "softobjectpath",
+      "label": "SoftObjectPath",
+      "file_type": "document",
+      "source_file": "StringAssetReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpnodeinforesult",
+      "label": "DCPNodeInfoResult",
+      "file_type": "document",
+      "source_file": "DCPNodeInfoResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase",
+      "label": "ResultBase",
+      "file_type": "document",
+      "source_file": "DCPNodeInfoResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpnodessingleinforesult",
+      "label": "DCPNodeSingleInfoResult",
+      "file_type": "document",
+      "source_file": "DCPNodeInfoResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscenechangeinfo",
+      "label": "WdpSceneChangeInfo",
+      "file_type": "document",
+      "source_file": "DCPNodeInfoResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uinavigationrule",
+      "label": "UINavigationRule",
+      "file_type": "document",
+      "source_file": "UINavigationRule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringendswith",
+      "label": "RigVMFunction_StringEndsWith",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringEndsWith Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringbase",
+      "label": "RigVMFunction_StringBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringEndsWith Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterstagegeometrycomponent",
+      "label": "DisplayClusterStageGeometryComponent",
+      "file_type": "document",
+      "source_file": "DisplayClusterStageGeometryComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "DisplayClusterStageGeometryComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "DisplayClusterStageGeometryComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "realtimeweathermanager_weatherupdateevent",
+      "label": "RealtimeWeatherManager_WeatherUpdateEvent",
+      "file_type": "document",
+      "source_file": "RealtimeWeatherManager__WeatherUpdateEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "RealtimeWeatherManager__WeatherUpdateEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "realtimeweatherdata",
+      "label": "RealtimeWeatherData",
+      "file_type": "document",
+      "source_file": "RealtimeWeatherManager__WeatherUpdateEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "swapaudiooutputdeviceresultstate",
+      "label": "SwapAudioOutputDeviceResultState",
+      "file_type": "document",
+      "source_file": "SwapAudioOutputDeviceResultState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "parametricmaterialstyle",
+      "target": "avashapeparametricmaterialstyle",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParametricMaterialStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionchildrenarray",
+      "target": "rigunit_collectionbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionChildrenArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionchildrenarray",
+      "target": "rigelementkey",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionChildrenArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionchildrenarray",
+      "target": "rigelementtype",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionChildrenArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aessplatmapeditorcommandparams_pen",
+      "target": "aeseditorsimplecommandparams",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesSplatMapEditorCommandParams__Pen Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequenceconditiontag",
+      "target": "object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceConditionTag Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialenvelope",
+      "target": "widget",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMaterialEnvelope Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialenvelope",
+      "target": "audiomaterialenvelopesettings",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMaterialEnvelope Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialenvelope",
+      "target": "audiomaterialenvelopestyle",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMaterialEnvelope Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectiondifference",
+      "target": "rigunit_collectionbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionDifference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectiondifference",
+      "target": "rigelementkeycollection",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionDifference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectiondifference",
+      "target": "rigunit_collectionchildrenarray",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__CollectionDifference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_makedynamicadditive",
+      "target": "animgraphnode_base",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_MakeDynamicAdditive Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_makedynamicadditive",
+      "target": "animnode_makedynamicadditive",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_MakeDynamicAdditive Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doublerange",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DoubleRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doublerange",
+      "target": "doublerangebound",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DoubleRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatoolboxlinedynamicmesh",
+      "target": "avashapelinedynamicmesh",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaToolboxLineDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescritingdoubleasfloatkey",
+      "target": "moviescenescritingfloatkey",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneScriptingDoubleAsFloatKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescritingdoubleasfloatkey",
+      "target": "doublerange",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneScriptingDoubleAsFloatKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stringassetreference",
+      "target": "softobjectpath",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StringAssetReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpnodeinforesult",
+      "target": "resultbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPNodeInfoResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpnodeinforesult",
+      "target": "dcpnodessingleinforesult",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPNodeInfoResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpnodeinforesult",
+      "target": "wdpscenechangeinfo",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPNodeInfoResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringendswith",
+      "target": "rigvmfunction_stringbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringEndsWith Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterstagegeometrycomponent",
+      "target": "actorcomponent",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterStageGeometryComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterstagegeometrycomponent",
+      "target": "vector",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterStageGeometryComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "realtimeweathermanager_weatherupdateevent",
+      "target": "multicastdelegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RealtimeWeatherManager__WeatherUpdateEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "realtimeweathermanager_weatherupdateevent",
+      "target": "realtimeweatherdata",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RealtimeWeatherManager__WeatherUpdateEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_collection_operations",
+      "label": "Control Rig Collection Operations",
+      "nodes": [
+        "rigunit_collectionchildrenarray",
+        "rigunit_collectiondifference",
+        "rigelementkeycollection"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_CollectionChildrenArray Objects.md"
+    },
+    {
+      "id": "unreal_engine_deprecated_types",
+      "label": "Unreal Engine Deprecated Types",
+      "nodes": [
+        "parametricmaterialstyle",
+        "avatoolboxlinedynamicmesh",
+        "stringassetreference"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ParametricMaterialStyle Objects.md"
+    },
+    {
+      "id": "ui_widget_components",
+      "label": "UI Widget Components",
+      "nodes": [
+        "audiomaterialenvelope",
+        "widget",
+        "uinavigationrule"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AudioMaterialEnvelope Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

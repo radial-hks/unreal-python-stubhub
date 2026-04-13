@@ -1,0 +1,1042 @@
+{
+  "nodes": [
+    {
+      "id": "culldistancevolume_class",
+      "label": "CullDistanceVolume",
+      "file_type": "code",
+      "source_file": "CullDistanceVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "culldistancevolume_cull_distances",
+      "label": "cull_distances property",
+      "file_type": "code",
+      "source_file": "CullDistanceVolume Objects.md",
+      "source_location": "40-42",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "culldistancevolume_enabled",
+      "label": "enabled property",
+      "file_type": "code",
+      "source_file": "CullDistanceVolume Objects.md",
+      "source_location": "60",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitcancel_class",
+      "label": "AbilityTask_WaitCancel",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitCancel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitcancel_on_cancel",
+      "label": "on_cancel property",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitCancel Objects.md",
+      "source_location": "17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdprangepickshapepointsparams_class",
+      "label": "WdpRangePickShapePointsParams",
+      "file_type": "code",
+      "source_file": "WdpRangePickShapePointsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getrotatoranimationchannel_class",
+      "label": "RigUnit_GetRotatorAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit_GetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getrotatoranimationchannel_value",
+      "label": "value property",
+      "file_type": "code",
+      "source_file": "RigUnit_GetRotatorAnimationChannel Objects.md",
+      "source_location": "20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelbounds_class",
+      "label": "LevelBounds",
+      "file_type": "code",
+      "source_file": "LevelBounds Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelbounds_auto_update_bounds",
+      "label": "auto_update_bounds property",
+      "file_type": "code",
+      "source_file": "LevelBounds Objects.md",
+      "source_location": "31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelbounds_box_component",
+      "label": "box_component property",
+      "file_type": "code",
+      "source_file": "LevelBounds Objects.md",
+      "source_location": "33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapengondynamicmesh_class",
+      "label": "AvaShapeNGonDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaShapeNGonDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapengondynamicmesh_num_sides",
+      "label": "num_sides property",
+      "file_type": "code",
+      "source_file": "AvaShapeNGonDynamicMesh Objects.md",
+      "source_location": "28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterialmodelbase_class",
+      "label": "DynamicMaterialModelBase",
+      "file_type": "code",
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterialmodelbase_resolve_material_model",
+      "label": "resolve_material_model method",
+      "file_type": "code",
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": "17-27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterialmodelbase_get_generated_material",
+      "label": "get_generated_material method",
+      "file_type": "code",
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": "33-43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterialmodelbase_get_dynamic_material_instance",
+      "label": "get_dynamic_material_instance method",
+      "file_type": "code",
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": "47-58",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nonblendableintegeranimationattribute_class",
+      "label": "NonBlendableIntegerAnimationAttribute",
+      "file_type": "code",
+      "source_file": "NonBlendableIntegerAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintnegate_class",
+      "label": "RigUnit_MathIntNegate",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcptransformanchorobject_class",
+      "label": "DCPTransformAnchorObject",
+      "file_type": "code",
+      "source_file": "DCPTransformAnchorObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcptransformanchorobject_anchor_component",
+      "label": "anchor_component property",
+      "file_type": "code",
+      "source_file": "DCPTransformAnchorObject Objects.md",
+      "source_location": "17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoranimbaseobj_class",
+      "label": "EditorAnimBaseObj",
+      "file_type": "code",
+      "source_file": "EditorAnimBaseObj Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorelibrary_class",
+      "label": "ActorModifierCoreLibrary",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorelibrary_find_modifier_stack",
+      "label": "find_modifier_stack method",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": "510-531",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorelibrary_insert_modifier",
+      "label": "insert_modifier method",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": "193-215",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorelibrary_remove_modifier",
+      "label": "remove_modifier method",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": "132-150",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorelibrary_enable_modifier",
+      "label": "enable_modifier method",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": "628-645",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapeparametricmaterialstyle_class",
+      "label": "AvaShapeParametricMaterialStyle",
+      "file_type": "code",
+      "source_file": "AvaShapeParametricMaterialStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystem_class",
+      "label": "NiagaraSystem",
+      "file_type": "code",
+      "source_file": "NiagaraSystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystem_fixed_bounds",
+      "label": "fixed_bounds property",
+      "file_type": "code",
+      "source_file": "NiagaraSystem Objects.md",
+      "source_location": "41",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystem_effect_type",
+      "label": "effect_type property",
+      "file_type": "code",
+      "source_file": "NiagaraSystem Objects.md",
+      "source_location": "37-39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrydouble_class",
+      "label": "LowEntryDouble",
+      "file_type": "code",
+      "source_file": "LowEntryDouble Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrydouble_get_double",
+      "label": "get_double method",
+      "file_type": "code",
+      "source_file": "LowEntryDouble Objects.md",
+      "source_location": "117-128",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrydouble_set_double",
+      "label": "set_double method",
+      "file_type": "code",
+      "source_file": "LowEntryDouble Objects.md",
+      "source_location": "16-27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrydouble_cast_to_long_bytes",
+      "label": "cast_to_long_bytes method",
+      "file_type": "code",
+      "source_file": "LowEntryDouble Objects.md",
+      "source_location": "334-345",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitycheckbox_class",
+      "label": "EditorUtilityCheckBox",
+      "file_type": "code",
+      "source_file": "EditorUtilityCheckBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitycheckbox_checked_state",
+      "label": "checked_state property",
+      "file_type": "code",
+      "source_file": "EditorUtilityCheckBox Objects.md",
+      "source_location": "21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgizmobplibrary_class",
+      "label": "EarthGizmoBPLibrary",
+      "file_type": "code",
+      "source_file": "EarthGizmoBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgizmobplibrary_is_bit_set",
+      "label": "is_bit_set method",
+      "file_type": "code",
+      "source_file": "EarthGizmoBPLibrary Objects.md",
+      "source_location": "16-32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgizmobplibrary_case_switch_object",
+      "label": "case_switch_object method",
+      "file_type": "code",
+      "source_file": "EarthGizmoBPLibrary Objects.md",
+      "source_location": "35-68",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshcomponentupdateflag_class",
+      "label": "MeshComponentUpdateFlag",
+      "file_type": "code",
+      "source_file": "MeshComponentUpdateFlag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionmatchinganimnodelibrary_class",
+      "label": "MotionMatchingAnimNodeLibrary",
+      "file_type": "code",
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionmatchinganimnodelibrary_set_database_to_search",
+      "label": "set_database_to_search method",
+      "file_type": "code",
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": "35-52",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionmatchinganimnodelibrary_set_databases_to_search",
+      "label": "set_databases_to_search method",
+      "file_type": "code",
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": "55-72",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionmatchinganimnodelibrary_reset_databases_to_search",
+      "label": "reset_databases_to_search method",
+      "file_type": "code",
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": "75-90",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visibleatom_class",
+      "label": "VisibleAtom",
+      "file_type": "code",
+      "source_file": "VisibleAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visibleatom_visible",
+      "label": "visible property",
+      "file_type": "code",
+      "source_file": "VisibleAtom Objects.md",
+      "source_location": "17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visibleatom_set_visible",
+      "label": "set_visible method",
+      "file_type": "code",
+      "source_file": "VisibleAtom Objects.md",
+      "source_location": "33-46",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeskeletonfactory_class",
+      "label": "InterchangeSkeletonFactory",
+      "file_type": "code",
+      "source_file": "InterchangeSkeletonFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionnamesearcharray_class",
+      "label": "RigUnit_CollectionNameSearchArray",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionNameSearchArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionnamesearcharray_partial_name",
+      "label": "partial_name property",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionNameSearchArray Objects.md",
+      "source_location": "19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionnamesearcharray_items",
+      "label": "items property",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionNameSearchArray Objects.md",
+      "source_location": "18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "culldistancevolume_class",
+      "target": "culldistancevolume_cull_distances",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CullDistanceVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "culldistancevolume_class",
+      "target": "culldistancevolume_enabled",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CullDistanceVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitcancel_class",
+      "target": "abilitytask_waitcancel_on_cancel",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitCancel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrotatoranimationchannel_class",
+      "target": "rigunit_getrotatoranimationchannel_value",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelbounds_class",
+      "target": "levelbounds_auto_update_bounds",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelBounds Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelbounds_class",
+      "target": "levelbounds_box_component",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelBounds Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashapengondynamicmesh_class",
+      "target": "avashapengondynamicmesh_num_sides",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShapeNGonDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodelbase_class",
+      "target": "dynamicmaterialmodelbase_resolve_material_model",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodelbase_class",
+      "target": "dynamicmaterialmodelbase_get_generated_material",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodelbase_class",
+      "target": "dynamicmaterialmodelbase_get_dynamic_material_instance",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodelbase_resolve_material_model",
+      "target": "dynamicmaterialmodelbase_get_generated_material",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodelbase_resolve_material_model",
+      "target": "dynamicmaterialmodelbase_get_dynamic_material_instance",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DynamicMaterialModelBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcptransformanchorobject_class",
+      "target": "dcptransformanchorobject_anchor_component",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPTransformAnchorObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorelibrary_class",
+      "target": "actormodifiercorelibrary_find_modifier_stack",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorelibrary_class",
+      "target": "actormodifiercorelibrary_insert_modifier",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorelibrary_class",
+      "target": "actormodifiercorelibrary_remove_modifier",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorelibrary_class",
+      "target": "actormodifiercorelibrary_enable_modifier",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorelibrary_find_modifier_stack",
+      "target": "actormodifiercorelibrary_insert_modifier",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasystem_class",
+      "target": "niagarasystem_fixed_bounds",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasystem_class",
+      "target": "niagarasystem_effect_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lowentrydouble_class",
+      "target": "lowentrydouble_get_double",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LowEntryDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lowentrydouble_class",
+      "target": "lowentrydouble_set_double",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LowEntryDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lowentrydouble_class",
+      "target": "lowentrydouble_cast_to_long_bytes",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LowEntryDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lowentrydouble_set_double",
+      "target": "lowentrydouble_get_double",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LowEntryDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilitycheckbox_class",
+      "target": "editorutilitycheckbox_checked_state",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityCheckBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthgizmobplibrary_class",
+      "target": "earthgizmobplibrary_is_bit_set",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGizmoBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthgizmobplibrary_class",
+      "target": "earthgizmobplibrary_case_switch_object",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGizmoBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionmatchinganimnodelibrary_class",
+      "target": "motionmatchinganimnodelibrary_set_database_to_search",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionmatchinganimnodelibrary_class",
+      "target": "motionmatchinganimnodelibrary_set_databases_to_search",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionmatchinganimnodelibrary_class",
+      "target": "motionmatchinganimnodelibrary_reset_databases_to_search",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionmatchinganimnodelibrary_set_database_to_search",
+      "target": "motionmatchinganimnodelibrary_reset_databases_to_search",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionmatchinganimnodelibrary_set_databases_to_search",
+      "target": "motionmatchinganimnodelibrary_reset_databases_to_search",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visibleatom_class",
+      "target": "visibleatom_visible",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VisibleAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visibleatom_class",
+      "target": "visibleatom_set_visible",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VisibleAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visibleatom_set_visible",
+      "target": "visibleatom_visible",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "VisibleAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionnamesearcharray_class",
+      "target": "rigunit_collectionnamesearcharray_partial_name",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionNameSearchArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionnamesearcharray_class",
+      "target": "rigunit_collectionnamesearcharray_items",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionNameSearchArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionnamesearcharray_partial_name",
+      "target": "rigunit_collectionnamesearcharray_items",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_CollectionNameSearchArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasystem_fixed_bounds",
+      "target": "levelbounds_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NiagaraSystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshcomponentupdateflag_class",
+      "target": "rigunit_mathintnegate_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MeshComponentUpdateFlag Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorelibrary_insert_modifier",
+      "target": "actormodifiercorelibrary_remove_modifier",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorelibrary_insert_modifier",
+      "target": "actormodifiercorelibrary_enable_modifier",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ActorModifierCoreLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "modifier_crud_operations",
+      "label": "Modifier CRUD Operations",
+      "nodes": [
+        "actormodifiercorelibrary_insert_modifier",
+        "actormodifiercorelibrary_remove_modifier",
+        "actormodifiercorelibrary_enable_modifier",
+        "actormodifiercorelibrary_find_modifier_stack"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ActorModifierCoreLibrary Objects.md"
+    },
+    {
+      "id": "database_search_operations",
+      "label": "Database Search Operations",
+      "nodes": [
+        "motionmatchinganimnodelibrary_set_database_to_search",
+        "motionmatchinganimnodelibrary_set_databases_to_search",
+        "motionmatchinganimnodelibrary_reset_databases_to_search"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MotionMatchingAnimNodeLibrary Objects.md"
+    },
+    {
+      "id": "double_value_operations",
+      "label": "Double Value Operations",
+      "nodes": [
+        "lowentrydouble_get_double",
+        "lowentrydouble_set_double",
+        "lowentrydouble_cast_to_long_bytes"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LowEntryDouble Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

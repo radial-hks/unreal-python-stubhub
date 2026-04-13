@@ -1,0 +1,1777 @@
+{
+  "nodes": [
+    {
+      "id": "AvaToolbox2DArrowDynamicMesh",
+      "type": "class",
+      "label": "AvaToolbox2DArrowDynamicMesh",
+      "deprecated": true,
+      "deprecation_note": "'AvaToolbox2DArrowDynamicMesh' was renamed to 'AvaShape2DArrowDynamicMesh'"
+    },
+    {
+      "id": "AvaShape2DArrowDynamicMesh",
+      "type": "class",
+      "label": "AvaShape2DArrowDynamicMesh"
+    },
+    {
+      "id": "AvaFont",
+      "type": "class",
+      "label": "AvaFont",
+      "description": "Ava Font",
+      "source": {
+        "plugin": "Avalanche",
+        "module": "AvalancheText",
+        "file": "AvaFont.h"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "Font",
+      "type": "type",
+      "label": "Font"
+    },
+    {
+      "id": "AudioMeterDefaultColorStyle",
+      "type": "class",
+      "label": "AudioMeterDefaultColorStyle",
+      "description": "Audio Meter Default Color Style",
+      "source": {
+        "plugin": "AudioWidgets",
+        "module": "AudioWidgets",
+        "file": "AudioMeter.h"
+      }
+    },
+    {
+      "id": "SlateWidgetStyle",
+      "type": "class",
+      "label": "SlateWidgetStyle"
+    },
+    {
+      "id": "LinearColor",
+      "type": "type",
+      "label": "LinearColor"
+    },
+    {
+      "id": "RigUnit_MathTransformFromEulerTransform",
+      "type": "class",
+      "label": "RigUnit_MathTransformFromEulerTransform",
+      "deprecated": true,
+      "deprecation_note": "'RigUnit_MathTransformFromEulerTransform' was renamed to 'RigVMFunction_MathTransformFromEulerTransform'"
+    },
+    {
+      "id": "RigVMFunction_MathTransformFromEulerTransform",
+      "type": "class",
+      "label": "RigVMFunction_MathTransformFromEulerTransform"
+    },
+    {
+      "id": "EulerTransform",
+      "type": "type",
+      "label": "EulerTransform"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "PyTestInterface",
+      "type": "class",
+      "label": "PyTestInterface",
+      "description": "Py Test Interface",
+      "source": {
+        "plugin": "PythonScriptPlugin",
+        "module": "PythonScriptPlugin",
+        "file": "PyTestInterface.h"
+      }
+    },
+    {
+      "id": "Interface",
+      "type": "class",
+      "label": "Interface"
+    },
+    {
+      "id": "RigUnit_ClosestParameterFromControlRigSpline",
+      "type": "class",
+      "label": "RigUnit_ClosestParameterFromControlRigSpline",
+      "description": "Retrieves the closest U value from a given Spline and a position",
+      "source": {
+        "plugin": "ControlRigSpline",
+        "module": "ControlRigSpline",
+        "file": "ControlRigSplineUnits.h"
+      }
+    },
+    {
+      "id": "RigUnit_ControlRigSplineBase",
+      "type": "class",
+      "label": "RigUnit_ControlRigSplineBase"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "ControlRigSpline",
+      "type": "type",
+      "label": "ControlRigSpline"
+    },
+    {
+      "id": "RCBehaviourSetAssetByPathNode",
+      "type": "class",
+      "label": "RCBehaviourSetAssetByPathNode",
+      "description": "Takes the string as a path and goes on to search for the Asset it is connected to, setting it to a Target Exposed Property",
+      "source": {
+        "plugin": "RemoteControl",
+        "module": "RemoteControlLogic",
+        "file": "RCBehaviourSetAssetByPathNode.h"
+      }
+    },
+    {
+      "id": "RCBehaviourNode",
+      "type": "class",
+      "label": "RCBehaviourNode"
+    },
+    {
+      "id": "RCBehaviour",
+      "type": "type",
+      "label": "RCBehaviour"
+    },
+    {
+      "id": "NiagaraSystemVisibilityCullingSettings",
+      "type": "class",
+      "label": "NiagaraSystemVisibilityCullingSettings",
+      "description": "Scalability settings for Niagara Systems for a particular platform set (unless overridden)",
+      "source": {
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraEffectType.h"
+      }
+    },
+    {
+      "id": "glTFRuntimeBasisMatrix",
+      "type": "class",
+      "label": "glTFRuntimeBasisMatrix",
+      "description": "Gl TFRuntime Basis Matrix",
+      "source": {
+        "plugin": "AesWorld",
+        "module": "glTFRuntime",
+        "file": "glTFRuntimeParser.h"
+      }
+    },
+    {
+      "id": "CesiumSampleHeightMostDetailedAsyncAction",
+      "type": "class",
+      "label": "CesiumSampleHeightMostDetailedAsyncAction",
+      "description": "Cesium Sample Height Most Detailed Async Action",
+      "source": {
+        "plugin": "CesiumForUnreal",
+        "module": "CesiumRuntime",
+        "file": "CesiumSampleHeightMostDetailedAsyncAction.h"
+      }
+    },
+    {
+      "id": "BlueprintAsyncActionBase",
+      "type": "class",
+      "label": "BlueprintAsyncActionBase"
+    },
+    {
+      "id": "CesiumSampleHeightMostDetailedComplete",
+      "type": "type",
+      "label": "CesiumSampleHeightMostDetailedComplete"
+    },
+    {
+      "id": "SwitchCustomInput",
+      "type": "class",
+      "label": "SwitchCustomInput",
+      "description": "Switch Custom Input",
+      "source": {
+        "module": "Engine",
+        "file": "MaterialExpressionSwitch.h"
+      }
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "FloatCameraVariable",
+      "type": "class",
+      "label": "FloatCameraVariable",
+      "description": "Float camera variable",
+      "source": {
+        "plugin": "GameplayCameras",
+        "module": "GameplayCameras",
+        "file": "CameraVariableAssets.h"
+      }
+    },
+    {
+      "id": "CameraVariableAsset",
+      "type": "class",
+      "label": "CameraVariableAsset"
+    },
+    {
+      "id": "MaterialExpressionLinearInterpolate",
+      "type": "class",
+      "label": "MaterialExpressionLinearInterpolate",
+      "description": "Material Expression Linear Interpolate",
+      "source": {
+        "module": "Engine",
+        "file": "MaterialExpressionLinearInterpolate.h"
+      }
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression"
+    },
+    {
+      "id": "SynthComponentMonoWaveTable",
+      "type": "class",
+      "label": "SynthComponentMonoWaveTable",
+      "description": "Synth Component Mono Wave Table",
+      "source": {
+        "plugin": "Synthesis",
+        "module": "Synthesis",
+        "file": "SynthComponentMonoWaveTable.h"
+      }
+    },
+    {
+      "id": "SynthComponent",
+      "type": "class",
+      "label": "SynthComponent"
+    },
+    {
+      "id": "OnTableAltered",
+      "type": "type",
+      "label": "OnTableAltered"
+    },
+    {
+      "id": "NumTablesChanged",
+      "type": "type",
+      "label": "NumTablesChanged"
+    },
+    {
+      "id": "SynthLFOType",
+      "type": "type",
+      "label": "SynthLFOType"
+    },
+    {
+      "id": "CurveInterpolationType",
+      "type": "type",
+      "label": "CurveInterpolationType"
+    },
+    {
+      "id": "MonoWaveTableSynthPreset",
+      "type": "type",
+      "label": "MonoWaveTableSynthPreset"
+    },
+    {
+      "id": "AnimNode_ApplyAdditive",
+      "type": "class",
+      "label": "AnimNode_ApplyAdditive",
+      "description": "Anim Node Apply Additive",
+      "source": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_ApplyAdditive.h"
+      }
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "label": "AnimNode_Base"
+    },
+    {
+      "id": "PoseLink",
+      "type": "type",
+      "label": "PoseLink"
+    },
+    {
+      "id": "InputScaleBias",
+      "type": "type",
+      "label": "InputScaleBias"
+    },
+    {
+      "id": "InputAlphaBoolBlend",
+      "type": "type",
+      "label": "InputAlphaBoolBlend"
+    },
+    {
+      "id": "InputScaleBiasClamp",
+      "type": "type",
+      "label": "InputScaleBiasClamp"
+    },
+    {
+      "id": "AnimAlphaInputType",
+      "type": "type",
+      "label": "AnimAlphaInputType"
+    },
+    {
+      "id": "DMMaterialStageThroughputLayerBlend",
+      "type": "class",
+      "label": "DMMaterialStageThroughputLayerBlend",
+      "description": "Used as the source for mask stages",
+      "source": {
+        "plugin": "DynamicMaterial",
+        "module": "DynamicMaterialEditor",
+        "file": "DMMaterialStageThroughputLayerBlend.h"
+      }
+    },
+    {
+      "id": "DMMaterialStageThroughput",
+      "type": "class",
+      "label": "DMMaterialStageThroughput"
+    },
+    {
+      "id": "AvaColorChannel",
+      "type": "type",
+      "label": "AvaColorChannel"
+    },
+    {
+      "id": "DMMaterialStageInput",
+      "type": "type",
+      "label": "DMMaterialStageInput"
+    },
+    {
+      "id": "DMMaterialStage",
+      "type": "type",
+      "label": "DMMaterialStage"
+    },
+    {
+      "id": "DMMaterialLayerObject",
+      "type": "type",
+      "label": "DMMaterialLayerObject"
+    },
+    {
+      "id": "MassVisualizationTrait",
+      "type": "class",
+      "label": "MassVisualizationTrait",
+      "description": "This class has been soft-deprecated. Use MassStationaryVisualizationTrait or MassMovableVisualizationTrait",
+      "deprecated": true,
+      "source": {
+        "plugin": "MassGameplay",
+        "module": "MassRepresentation",
+        "file": "MassVisualizationTrait.h"
+      }
+    },
+    {
+      "id": "MassEntityTraitBase",
+      "type": "class",
+      "label": "MassEntityTraitBase"
+    },
+    {
+      "id": "MassVisualizationLODParameters",
+      "type": "type",
+      "label": "MassVisualizationLODParameters"
+    },
+    {
+      "id": "MassRepresentationParameters",
+      "type": "type",
+      "label": "MassRepresentationParameters"
+    },
+    {
+      "id": "StaticMeshInstanceVisualizationDesc",
+      "type": "type",
+      "label": "StaticMeshInstanceVisualizationDesc"
+    },
+    {
+      "id": "DCPSaveLibrary",
+      "type": "class",
+      "label": "DCPSaveLibrary",
+      "description": "DCPSave Library",
+      "source": {
+        "plugin": "WdpAssetLoader",
+        "module": "BimAssetLoader",
+        "file": "DCPSaveLibrary.h"
+      }
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "DCPSaveEntity",
+      "type": "type",
+      "label": "DCPSaveEntity"
+    },
+    {
+      "id": "DCPEffectAtom",
+      "type": "type",
+      "label": "DCPEffectAtom"
+    },
+    {
+      "id": "DCPCommonAtom",
+      "type": "type",
+      "label": "DCPCommonAtom"
+    },
+    {
+      "id": "ChaosCollisionEventRequestSettings",
+      "type": "class",
+      "label": "ChaosCollisionEventRequestSettings",
+      "description": "Settings used to define collision event requests",
+      "source": {
+        "module": "GeometryCollectionEngine",
+        "file": "ChaosCollisionEventFilter.h"
+      }
+    },
+    {
+      "id": "ChaosCollisionSortMethod",
+      "type": "type",
+      "label": "ChaosCollisionSortMethod"
+    },
+    {
+      "id": "MaterialExpressionPreSkinnedNormal",
+      "type": "class",
+      "label": "MaterialExpressionPreSkinnedNormal",
+      "description": "Material Expression Pre Skinned Normal",
+      "source": {
+        "module": "Engine",
+        "file": "MaterialExpressionPreSkinnedNormal.h"
+      }
+    },
+    {
+      "id": "RuntimeVirtualTextureMaterialType",
+      "type": "enum",
+      "label": "RuntimeVirtualTextureMaterialType",
+      "description": "Enumeration of virtual texture stack layouts to support",
+      "source": {
+        "module": "Engine",
+        "file": "RuntimeVirtualTextureEnum.h"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "DisplayClusterMoviePipelineViewportPass_Unlit",
+      "type": "class",
+      "label": "DisplayClusterMoviePipelineViewportPass_Unlit",
+      "description": "nDisplay viewport render pass (Unlit)",
+      "source": {
+        "plugin": "nDisplay",
+        "module": "DisplayClusterMoviePipeline",
+        "file": "DisplayClusterMoviePipelineViewportPass.h"
+      }
+    },
+    {
+      "id": "DisplayClusterMoviePipelineViewportPassBase",
+      "type": "class",
+      "label": "DisplayClusterMoviePipelineViewportPassBase"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AvaToolbox2DArrowDynamicMesh",
+      "target": "AvaShape2DArrowDynamicMesh",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaFont",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaFont",
+      "target": "current_font",
+      "type": "has_property"
+    },
+    {
+      "source": "current_font",
+      "target": "Font",
+      "type": "has_type"
+    },
+    {
+      "source": "AudioMeterDefaultColorStyle",
+      "target": "SlateWidgetStyle",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AudioMeterDefaultColorStyle",
+      "target": "meter_background_color",
+      "type": "has_property"
+    },
+    {
+      "source": "meter_background_color",
+      "target": "LinearColor",
+      "type": "has_type"
+    },
+    {
+      "source": "AudioMeterDefaultColorStyle",
+      "target": "meter_value_color",
+      "type": "has_property"
+    },
+    {
+      "source": "meter_value_color",
+      "target": "LinearColor",
+      "type": "has_type"
+    },
+    {
+      "source": "AudioMeterDefaultColorStyle",
+      "target": "meter_peak_color",
+      "type": "has_property"
+    },
+    {
+      "source": "meter_peak_color",
+      "target": "LinearColor",
+      "type": "has_type"
+    },
+    {
+      "source": "AudioMeterDefaultColorStyle",
+      "target": "meter_clipping_color",
+      "type": "has_property"
+    },
+    {
+      "source": "meter_clipping_color",
+      "target": "LinearColor",
+      "type": "has_type"
+    },
+    {
+      "source": "AudioMeterDefaultColorStyle",
+      "target": "meter_scale_color",
+      "type": "has_property"
+    },
+    {
+      "source": "meter_scale_color",
+      "target": "LinearColor",
+      "type": "has_type"
+    },
+    {
+      "source": "AudioMeterDefaultColorStyle",
+      "target": "meter_scale_label_color",
+      "type": "has_property"
+    },
+    {
+      "source": "meter_scale_label_color",
+      "target": "LinearColor",
+      "type": "has_type"
+    },
+    {
+      "source": "RigUnit_MathTransformFromEulerTransform",
+      "target": "RigVMFunction_MathTransformFromEulerTransform",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PyTestInterface",
+      "target": "Interface",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PyTestInterface",
+      "target": "func_interface",
+      "type": "has_method"
+    },
+    {
+      "source": "func_interface",
+      "target": "int",
+      "type": "returns"
+    },
+    {
+      "source": "RigUnit_ClosestParameterFromControlRigSpline",
+      "target": "RigUnit_ControlRigSplineBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_ClosestParameterFromControlRigSpline",
+      "target": "spline",
+      "type": "has_property"
+    },
+    {
+      "source": "spline",
+      "target": "ControlRigSpline",
+      "type": "has_type"
+    },
+    {
+      "source": "RigUnit_ClosestParameterFromControlRigSpline",
+      "target": "position",
+      "type": "has_property"
+    },
+    {
+      "source": "position",
+      "target": "Vector",
+      "type": "has_type"
+    },
+    {
+      "source": "RigUnit_ClosestParameterFromControlRigSpline",
+      "target": "u",
+      "type": "has_property"
+    },
+    {
+      "source": "u",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "RCBehaviourSetAssetByPathNode",
+      "target": "RCBehaviourNode",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RCBehaviourSetAssetByPathNode",
+      "target": "is_supported",
+      "type": "has_method"
+    },
+    {
+      "source": "is_supported",
+      "target": "bool",
+      "type": "returns"
+    },
+    {
+      "source": "RCBehaviourSetAssetByPathNode",
+      "target": "execute",
+      "type": "has_method"
+    },
+    {
+      "source": "execute",
+      "target": "bool",
+      "type": "returns"
+    },
+    {
+      "source": "NiagaraSystemVisibilityCullingSettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NiagaraSystemVisibilityCullingSettings",
+      "target": "cull_by_view_frustum",
+      "type": "has_property"
+    },
+    {
+      "source": "cull_by_view_frustum",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "NiagaraSystemVisibilityCullingSettings",
+      "target": "allow_pre_culling_by_view_frustum",
+      "type": "has_property"
+    },
+    {
+      "source": "allow_pre_culling_by_view_frustum",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "NiagaraSystemVisibilityCullingSettings",
+      "target": "cull_when_not_rendered",
+      "type": "has_property"
+    },
+    {
+      "source": "cull_when_not_rendered",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "NiagaraSystemVisibilityCullingSettings",
+      "target": "max_time_outside_view_frustum",
+      "type": "has_property"
+    },
+    {
+      "source": "max_time_outside_view_frustum",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "NiagaraSystemVisibilityCullingSettings",
+      "target": "max_time_without_render",
+      "type": "has_property"
+    },
+    {
+      "source": "max_time_without_render",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "glTFRuntimeBasisMatrix",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "glTFRuntimeBasisMatrix",
+      "target": "x_axis",
+      "type": "has_property"
+    },
+    {
+      "source": "x_axis",
+      "target": "Vector",
+      "type": "has_type"
+    },
+    {
+      "source": "glTFRuntimeBasisMatrix",
+      "target": "y_axis",
+      "type": "has_property"
+    },
+    {
+      "source": "y_axis",
+      "target": "Vector",
+      "type": "has_type"
+    },
+    {
+      "source": "glTFRuntimeBasisMatrix",
+      "target": "z_axis",
+      "type": "has_property"
+    },
+    {
+      "source": "z_axis",
+      "target": "Vector",
+      "type": "has_type"
+    },
+    {
+      "source": "glTFRuntimeBasisMatrix",
+      "target": "origin",
+      "type": "has_property"
+    },
+    {
+      "source": "origin",
+      "target": "Vector",
+      "type": "has_type"
+    },
+    {
+      "source": "CesiumSampleHeightMostDetailedAsyncAction",
+      "target": "BlueprintAsyncActionBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CesiumSampleHeightMostDetailedAsyncAction",
+      "target": "on_heights_sampled",
+      "type": "has_property"
+    },
+    {
+      "source": "on_heights_sampled",
+      "target": "CesiumSampleHeightMostDetailedComplete",
+      "type": "has_type"
+    },
+    {
+      "source": "SwitchCustomInput",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SwitchCustomInput",
+      "target": "input_name",
+      "type": "has_property"
+    },
+    {
+      "source": "input_name",
+      "target": "Name",
+      "type": "has_type"
+    },
+    {
+      "source": "FloatCameraVariable",
+      "target": "CameraVariableAsset",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FloatCameraVariable",
+      "target": "default_value",
+      "type": "has_property"
+    },
+    {
+      "source": "default_value",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "FloatCameraVariable",
+      "target": "auto_reset",
+      "type": "has_property"
+    },
+    {
+      "source": "auto_reset",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "MaterialExpressionLinearInterpolate",
+      "target": "MaterialExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionLinearInterpolate",
+      "target": "const_a",
+      "type": "has_property"
+    },
+    {
+      "source": "const_a",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "MaterialExpressionLinearInterpolate",
+      "target": "const_b",
+      "type": "has_property"
+    },
+    {
+      "source": "const_b",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "MaterialExpressionLinearInterpolate",
+      "target": "const_alpha",
+      "type": "has_property"
+    },
+    {
+      "source": "const_alpha",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "SynthComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "on_table_altered",
+      "type": "has_property"
+    },
+    {
+      "source": "on_table_altered",
+      "target": "OnTableAltered",
+      "type": "has_type"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "on_num_tables_changed",
+      "type": "has_property"
+    },
+    {
+      "source": "on_num_tables_changed",
+      "target": "NumTablesChanged",
+      "type": "has_type"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "current_preset",
+      "type": "has_property"
+    },
+    {
+      "source": "current_preset",
+      "target": "MonoWaveTableSynthPreset",
+      "type": "has_type"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_wave_table_position",
+      "type": "has_method"
+    },
+    {
+      "source": "set_wave_table_position",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_sustain_pedal_state",
+      "type": "has_method"
+    },
+    {
+      "source": "set_sustain_pedal_state",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_pos_lfo_type",
+      "type": "has_method"
+    },
+    {
+      "source": "set_pos_lfo_type",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_pos_lfo_frequency",
+      "type": "has_method"
+    },
+    {
+      "source": "set_pos_lfo_frequency",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_pos_lfo_depth",
+      "type": "has_method"
+    },
+    {
+      "source": "set_pos_lfo_depth",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_frequency",
+      "type": "has_method"
+    },
+    {
+      "source": "set_frequency",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_frequency_with_midi_note",
+      "type": "has_method"
+    },
+    {
+      "source": "set_frequency_with_midi_note",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "note_on",
+      "type": "has_method"
+    },
+    {
+      "source": "note_on",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "note_off",
+      "type": "has_method"
+    },
+    {
+      "source": "note_off",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "get_num_table_entries",
+      "type": "has_method"
+    },
+    {
+      "source": "get_num_table_entries",
+      "target": "int",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "get_max_table_index",
+      "type": "has_method"
+    },
+    {
+      "source": "get_max_table_index",
+      "target": "int",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "get_key_frame_values_for_table",
+      "type": "has_method"
+    },
+    {
+      "source": "get_key_frame_values_for_table",
+      "target": "Array[float]",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "get_curve_tangent",
+      "type": "has_method"
+    },
+    {
+      "source": "get_curve_tangent",
+      "target": "float",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_curve_value",
+      "type": "has_method"
+    },
+    {
+      "source": "set_curve_value",
+      "target": "bool",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_curve_tangent",
+      "type": "has_method"
+    },
+    {
+      "source": "set_curve_tangent",
+      "target": "bool",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "set_curve_interpolation_type",
+      "type": "has_method"
+    },
+    {
+      "source": "set_curve_interpolation_type",
+      "target": "bool",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "refresh_wave_table",
+      "type": "has_method"
+    },
+    {
+      "source": "refresh_wave_table",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "SynthComponentMonoWaveTable",
+      "target": "refresh_all_wave_tables",
+      "type": "has_method"
+    },
+    {
+      "source": "refresh_all_wave_tables",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "AnimNode_Base",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "base",
+      "type": "has_property"
+    },
+    {
+      "source": "base",
+      "target": "PoseLink",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "additive",
+      "type": "has_property"
+    },
+    {
+      "source": "additive",
+      "target": "PoseLink",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "alpha",
+      "type": "has_property"
+    },
+    {
+      "source": "alpha",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "alpha_scale_bias",
+      "type": "has_property"
+    },
+    {
+      "source": "alpha_scale_bias",
+      "target": "InputScaleBias",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "lod_threshold",
+      "type": "has_property"
+    },
+    {
+      "source": "lod_threshold",
+      "target": "int",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "alpha_bool_blend",
+      "type": "has_property"
+    },
+    {
+      "source": "alpha_bool_blend",
+      "target": "InputAlphaBoolBlend",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "alpha_curve_name",
+      "type": "has_property"
+    },
+    {
+      "source": "alpha_curve_name",
+      "target": "Name",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "alpha_scale_bias_clamp",
+      "type": "has_property"
+    },
+    {
+      "source": "alpha_scale_bias_clamp",
+      "target": "InputScaleBiasClamp",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "alpha_input_type",
+      "type": "has_property"
+    },
+    {
+      "source": "alpha_input_type",
+      "target": "AnimAlphaInputType",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimNode_ApplyAdditive",
+      "target": "alpha_bool_enabled",
+      "type": "has_property"
+    },
+    {
+      "source": "alpha_bool_enabled",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "DMMaterialStageThroughput",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "is_alpha_only_blend",
+      "type": "has_property"
+    },
+    {
+      "source": "is_alpha_only_blend",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "mask_channel_override",
+      "type": "has_property"
+    },
+    {
+      "source": "mask_channel_override",
+      "target": "AvaColorChannel",
+      "type": "has_type"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "premultiply_alpha",
+      "type": "has_property"
+    },
+    {
+      "source": "premultiply_alpha",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "use_premultiply_alpha",
+      "type": "has_method"
+    },
+    {
+      "source": "use_premultiply_alpha",
+      "target": "bool",
+      "type": "returns"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "set_premultiply_alpha",
+      "type": "has_method"
+    },
+    {
+      "source": "set_premultiply_alpha",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "set_mask_channel_override",
+      "type": "has_method"
+    },
+    {
+      "source": "set_mask_channel_override",
+      "target": "None",
+      "type": "returns"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "get_mask_channel_override",
+      "type": "has_method"
+    },
+    {
+      "source": "get_mask_channel_override",
+      "target": "AvaColorChannel",
+      "type": "returns"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "get_input_mask",
+      "type": "has_method"
+    },
+    {
+      "source": "get_input_mask",
+      "target": "DMMaterialStageInput",
+      "type": "returns"
+    },
+    {
+      "source": "DMMaterialStageThroughputLayerBlend",
+      "target": "create_stage",
+      "type": "has_method"
+    },
+    {
+      "source": "create_stage",
+      "target": "DMMaterialStage",
+      "type": "returns"
+    },
+    {
+      "source": "MassVisualizationTrait",
+      "target": "MassEntityTraitBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MassVisualizationTrait",
+      "target": "allow_server_side_visualization",
+      "type": "has_property"
+    },
+    {
+      "source": "allow_server_side_visualization",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "MassVisualizationTrait",
+      "target": "lod_params",
+      "type": "has_property"
+    },
+    {
+      "source": "lod_params",
+      "target": "MassVisualizationLODParameters",
+      "type": "has_type"
+    },
+    {
+      "source": "MassVisualizationTrait",
+      "target": "params",
+      "type": "has_property"
+    },
+    {
+      "source": "params",
+      "target": "MassRepresentationParameters",
+      "type": "has_type"
+    },
+    {
+      "source": "MassVisualizationTrait",
+      "target": "static_mesh_instance_desc",
+      "type": "has_property"
+    },
+    {
+      "source": "static_mesh_instance_desc",
+      "target": "StaticMeshInstanceVisualizationDesc",
+      "type": "has_type"
+    },
+    {
+      "source": "DCPSaveLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DCPSaveLibrary",
+      "target": "get_dcp_save_entity",
+      "type": "has_method"
+    },
+    {
+      "source": "get_dcp_save_entity",
+      "target": "DCPSaveEntity",
+      "type": "returns"
+    },
+    {
+      "source": "DCPSaveLibrary",
+      "target": "get_dcp_effect_atom",
+      "type": "has_method"
+    },
+    {
+      "source": "get_dcp_effect_atom",
+      "target": "DCPEffectAtom",
+      "type": "returns"
+    },
+    {
+      "source": "DCPSaveLibrary",
+      "target": "get_dcp_common_atom",
+      "type": "has_method"
+    },
+    {
+      "source": "get_dcp_common_atom",
+      "target": "DCPCommonAtom",
+      "type": "returns"
+    },
+    {
+      "source": "DCPSaveLibrary",
+      "target": "check_dcp_save_entity",
+      "type": "has_method"
+    },
+    {
+      "source": "check_dcp_save_entity",
+      "target": "bool",
+      "type": "returns"
+    },
+    {
+      "source": "ChaosCollisionEventRequestSettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ChaosCollisionEventRequestSettings",
+      "target": "max_number_results",
+      "type": "has_property"
+    },
+    {
+      "source": "max_number_results",
+      "target": "int",
+      "type": "has_type"
+    },
+    {
+      "source": "ChaosCollisionEventRequestSettings",
+      "target": "min_mass",
+      "type": "has_property"
+    },
+    {
+      "source": "min_mass",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "ChaosCollisionEventRequestSettings",
+      "target": "min_speed",
+      "type": "has_property"
+    },
+    {
+      "source": "min_speed",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "ChaosCollisionEventRequestSettings",
+      "target": "min_impulse",
+      "type": "has_property"
+    },
+    {
+      "source": "min_impulse",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "ChaosCollisionEventRequestSettings",
+      "target": "max_distance",
+      "type": "has_property"
+    },
+    {
+      "source": "max_distance",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "ChaosCollisionEventRequestSettings",
+      "target": "sort_method",
+      "type": "has_property"
+    },
+    {
+      "source": "sort_method",
+      "target": "ChaosCollisionSortMethod",
+      "type": "has_type"
+    },
+    {
+      "source": "MaterialExpressionPreSkinnedNormal",
+      "target": "MaterialExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RuntimeVirtualTextureMaterialType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterMoviePipelineViewportPass_Unlit",
+      "target": "DisplayClusterMoviePipelineViewportPassBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterMoviePipelineViewportPass_Unlit",
+      "target": "render_main_pass",
+      "type": "has_property"
+    },
+    {
+      "source": "render_main_pass",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "DisplayClusterMoviePipelineViewportPass_Unlit",
+      "target": "enabled_warp_blend",
+      "type": "has_property"
+    },
+    {
+      "source": "enabled_warp_blend",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "DisplayClusterMoviePipelineViewportPass_Unlit",
+      "target": "accumulator_includes_alpha",
+      "type": "has_property"
+    },
+    {
+      "source": "accumulator_includes_alpha",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "DisplayClusterMoviePipelineViewportPass_Unlit",
+      "target": "disable_multisample_effects",
+      "type": "has_property"
+    },
+    {
+      "source": "disable_multisample_effects",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "DisplayClusterMoviePipelineViewportPass_Unlit",
+      "target": "add_default_layer",
+      "type": "has_property"
+    },
+    {
+      "source": "add_default_layer",
+      "target": "bool",
+      "type": "has_type"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "func_interface_params",
+      "nodes": ["func_interface", "value"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "func_interface",
+        "parameters": [
+          {
+            "name": "value",
+            "type": "int"
+          }
+        ]
+      }
+    },
+    {
+      "id": "is_supported_params",
+      "nodes": ["is_supported", "behaviour"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "is_supported",
+        "parameters": [
+          {
+            "name": "behaviour",
+            "type": "RCBehaviour"
+          }
+        ]
+      }
+    },
+    {
+      "id": "execute_params",
+      "nodes": ["execute", "behaviour"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "execute",
+        "parameters": [
+          {
+            "name": "behaviour",
+            "type": "RCBehaviour"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_wave_table_position_params",
+      "nodes": ["set_wave_table_position", "position"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_wave_table_position",
+        "parameters": [
+          {
+            "name": "position",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_sustain_pedal_state_params",
+      "nodes": ["set_sustain_pedal_state", "sustain_pedal_state"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_sustain_pedal_state",
+        "parameters": [
+          {
+            "name": "sustain_pedal_state",
+            "type": "bool"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_pos_lfo_type_params",
+      "nodes": ["set_pos_lfo_type", "lfo_type"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_pos_lfo_type",
+        "parameters": [
+          {
+            "name": "lfo_type",
+            "type": "SynthLFOType"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_pos_lfo_frequency_params",
+      "nodes": ["set_pos_lfo_frequency", "lfo_frequency"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_pos_lfo_frequency",
+        "parameters": [
+          {
+            "name": "lfo_frequency",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_pos_lfo_depth_params",
+      "nodes": ["set_pos_lfo_depth", "lfo_depth"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_pos_lfo_depth",
+        "parameters": [
+          {
+            "name": "lfo_depth",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_frequency_params",
+      "nodes": ["set_frequency", "frequency_hz"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_frequency",
+        "parameters": [
+          {
+            "name": "frequency_hz",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_frequency_with_midi_note_params",
+      "nodes": ["set_frequency_with_midi_note", "midi_note"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_frequency_with_midi_note",
+        "parameters": [
+          {
+            "name": "midi_note",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note_on_params",
+      "nodes": ["note_on", "midi_note", "velocity"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "note_on",
+        "parameters": [
+          {
+            "name": "midi_note",
+            "type": "float"
+          },
+          {
+            "name": "velocity",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note_off_params",
+      "nodes": ["note_off", "midi_note"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "note_off",
+        "parameters": [
+          {
+            "name": "midi_note",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "get_key_frame_values_for_table_params",
+      "nodes": ["get_key_frame_values_for_table", "table_index"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "get_key_frame_values_for_table",
+        "parameters": [
+          {
+            "name": "table_index",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "get_curve_tangent_params",
+      "nodes": ["get_curve_tangent", "table_index"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "get_curve_tangent",
+        "parameters": [
+          {
+            "name": "table_index",
+            "type": "int"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_curve_value_params",
+      "nodes": ["set_curve_value", "table_index", "keyframe_index", "new_value"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_curve_value",
+        "parameters": [
+          {
+            "name": "table_index",
+            "type": "int"
+          },
+          {
+            "name": "keyframe_index",
+            "type": "int"
+          },
+          {
+            "name": "new_value",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_curve_tangent_params",
+      "nodes": ["set_curve_tangent", "table_index", "new_tangent"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_curve_tangent",
+        "parameters": [
+          {
+            "name": "table_index",
+            "type": "int"
+          },
+          {
+            "name": "new_tangent",
+            "type": "float"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_curve_interpolation_type_params",
+      "nodes": ["set_curve_interpolation_type", "interpolation_type", "table_index"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_curve_interpolation_type",
+        "parameters": [
+          {
+            "name": "interpolation_type",
+            "type": "CurveInterpolationType"
+          },
+          {
+            "name": "table_index",
+            "type": "int"
+          }
+        ]
+      }
+    },
+    {
+      "id": "refresh_wave_table_params",
+      "nodes": ["refresh_wave_table", "index"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "refresh_wave_table",
+        "parameters": [
+          {
+            "name": "index",
+            "type": "int"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_premultiply_alpha_params",
+      "nodes": ["set_premultiply_alpha", "value"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_premultiply_alpha",
+        "parameters": [
+          {
+            "name": "value",
+            "type": "bool"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set_mask_channel_override_params",
+      "nodes": ["set_mask_channel_override", "mask_channel"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "set_mask_channel_override",
+        "parameters": [
+          {
+            "name": "mask_channel",
+            "type": "AvaColorChannel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "create_stage_params",
+      "nodes": ["create_stage", "layer"],
+      "type": "method_parameters",
+      "metadata": {
+        "method": "create_stage",
+        "parameters": [
+          {
+            "name": "layer",
+            "type": "DMMaterialLayerObject",
+            "optional": true
+          }
+        ]
+      }
+    }
+  ]
+}

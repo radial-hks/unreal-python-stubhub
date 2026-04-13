@@ -1,0 +1,1500 @@
+{
+  "nodes": [
+    {
+      "id": "FunctionalTestResult",
+      "type": "enum",
+      "label": "FunctionalTestResult",
+      "properties": {
+        "module": "FunctionalTesting",
+        "file": "FunctionalTest.h",
+        "base_class": "EnumBase"
+      }
+    },
+    {
+      "id": "FunctionalTestResult.DEFAULT",
+      "type": "enum_value",
+      "label": "DEFAULT"
+    },
+    {
+      "id": "FunctionalTestResult.INVALID",
+      "type": "enum_value",
+      "label": "INVALID"
+    },
+    {
+      "id": "FunctionalTestResult.ERROR",
+      "type": "enum_value",
+      "label": "ERROR"
+    },
+    {
+      "id": "FunctionalTestResult.RUNNING",
+      "type": "enum_value",
+      "label": "RUNNING"
+    },
+    {
+      "id": "FunctionalTestResult.FAILED",
+      "type": "enum_value",
+      "label": "FAILED"
+    },
+    {
+      "id": "FunctionalTestResult.SUCCEEDED",
+      "type": "enum_value",
+      "label": "SUCCEEDED"
+    },
+    {
+      "id": "CompositionGraphCapturePasses",
+      "type": "struct",
+      "label": "CompositionGraphCapturePasses",
+      "properties": {
+        "module": "MovieSceneCapture",
+        "file": "CompositionGraphCaptureProtocol.h",
+        "base_class": "StructBase"
+      }
+    },
+    {
+      "id": "CompositionGraphCapturePasses.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "Array[str]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "LiveLinkCameraBlueprintData",
+      "type": "struct",
+      "label": "LiveLinkCameraBlueprintData",
+      "properties": {
+        "module": "LiveLinkInterface",
+        "file": "LiveLinkCameraTypes.h",
+        "base_class": "LiveLinkBaseBlueprintData"
+      }
+    },
+    {
+      "id": "LiveLinkCameraBlueprintData.static_data",
+      "type": "property",
+      "label": "static_data",
+      "properties": {
+        "type": "LiveLinkCameraStaticData",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "LiveLinkCameraBlueprintData.frame_data",
+      "type": "property",
+      "label": "frame_data",
+      "properties": {
+        "type": "LiveLinkCameraFrameData",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "CompositingElement",
+      "type": "class",
+      "label": "CompositingElement",
+      "properties": {
+        "module": "Composure",
+        "file": "CompositingElement.h",
+        "base_class": "ComposurePipelineBaseActor"
+      }
+    },
+    {
+      "id": "CompositingElement.auto_run",
+      "type": "property",
+      "label": "auto_run",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "CompositingElement.inputs",
+      "type": "property",
+      "label": "inputs",
+      "properties": {
+        "type": "Array[CompositingElementInput]",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "CompositingElement.outputs",
+      "type": "property",
+      "label": "outputs",
+      "properties": {
+        "type": "Array[CompositingElementOutput]",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "CompositingElement.transform_passes",
+      "type": "property",
+      "label": "transform_passes",
+      "properties": {
+        "type": "Array[CompositingElementTransform]",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "CompositingElement.render_resolution",
+      "type": "property",
+      "label": "render_resolution",
+      "properties": {
+        "type": "IntPoint",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "CompositingElement.render_format",
+      "type": "property",
+      "label": "render_format",
+      "properties": {
+        "type": "TextureRenderTargetFormat",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "CompositingElement.set_target_camera",
+      "type": "method",
+      "label": "set_target_camera",
+      "properties": {
+        "parameters": ["new_camera_actor: CameraActor"],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "CompositingElement.set_opacity",
+      "type": "method",
+      "label": "set_opacity",
+      "properties": {
+        "parameters": ["new_opacity: float"],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "CompositingElement.render_comp_element",
+      "type": "method",
+      "label": "render_comp_element",
+      "properties": {
+        "parameters": ["camera_cut_this_frame: bool"],
+        "return_type": "Texture"
+      }
+    },
+    {
+      "id": "CompositingElement.create_new_input_pass",
+      "type": "method",
+      "label": "create_new_input_pass",
+      "properties": {
+        "parameters": ["pass_name: Name", "input_type: Class"],
+        "return_type": "CompositingElementInput"
+      }
+    },
+    {
+      "id": "CompositingElement.find_transform_pass",
+      "type": "method",
+      "label": "find_transform_pass",
+      "properties": {
+        "parameters": ["transform_type: Class", "optional_pass_name: Name"],
+        "return_type": "Tuple[CompositingElementTransform, Texture]"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshDeformers",
+      "type": "class",
+      "label": "GeometryScript_MeshDeformers",
+      "properties": {
+        "module": "GeometryScriptingCore",
+        "file": "MeshDeformFunctions.h",
+        "base_class": "BlueprintFunctionLibrary",
+        "plugin": "GeometryScripting"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshDeformers.apply_twist_warp_to_mesh",
+      "type": "method",
+      "label": "apply_twist_warp_to_mesh",
+      "properties": {
+        "parameters": ["target_mesh: DynamicMesh", "options: GeometryScriptTwistWarpOptions", "twist_orientation: Transform", "twist_angle: float", "twist_extent: float", "debug: GeometryScriptDebug"],
+        "return_type": "DynamicMesh"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshDeformers.apply_perlin_noise_to_mesh",
+      "type": "method",
+      "label": "apply_perlin_noise_to_mesh",
+      "properties": {
+        "parameters": ["target_mesh: DynamicMesh", "selection: GeometryScriptMeshSelection", "options: GeometryScriptPerlinNoiseOptions", "debug: GeometryScriptDebug"],
+        "return_type": "DynamicMesh"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshDeformers.apply_bend_warp_to_mesh",
+      "type": "method",
+      "label": "apply_bend_warp_to_mesh",
+      "properties": {
+        "parameters": ["target_mesh: DynamicMesh", "options: GeometryScriptBendWarpOptions", "bend_orientation: Transform", "bend_angle: float", "bend_extent: float", "debug: GeometryScriptDebug"],
+        "return_type": "DynamicMesh"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshDeformers.apply_displace_from_texture_map",
+      "type": "method",
+      "label": "apply_displace_from_texture_map",
+      "properties": {
+        "parameters": ["target_mesh: DynamicMesh", "texture: Texture2D", "selection: GeometryScriptMeshSelection", "options: GeometryScriptDisplaceFromTextureOptions", "uv_layer: int", "debug: GeometryScriptDebug"],
+        "return_type": "DynamicMesh"
+      }
+    },
+    {
+      "id": "GeometryScript_MeshDeformers.apply_iterative_smoothing_to_mesh",
+      "type": "method",
+      "label": "apply_iterative_smoothing_to_mesh",
+      "properties": {
+        "parameters": ["target_mesh: DynamicMesh", "selection: GeometryScriptMeshSelection", "options: GeometryScriptIterativeMeshSmoothingOptions", "debug: GeometryScriptDebug"],
+        "return_type": "DynamicMesh"
+      }
+    },
+    {
+      "id": "RigUnit_MapRange_Float",
+      "type": "class",
+      "label": "RigUnit_MapRange_Float",
+      "properties": {
+        "module": "ControlRig",
+        "file": "RigUnit_Float.h",
+        "base_class": "RigUnit",
+        "plugin": "ControlRig"
+      }
+    },
+    {
+      "id": "RigUnit_MapRange_Float.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigUnit_MapRange_Float.min_in",
+      "type": "property",
+      "label": "min_in",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigUnit_MapRange_Float.max_in",
+      "type": "property",
+      "label": "max_in",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigUnit_MapRange_Float.min_out",
+      "type": "property",
+      "label": "min_out",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigUnit_MapRange_Float.max_out",
+      "type": "property",
+      "label": "max_out",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigUnit_MapRange_Float.result",
+      "type": "property",
+      "label": "result",
+      "properties": {
+        "type": "float",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleToFloat",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleToFloat",
+      "properties": {
+        "module": "RigVM",
+        "file": "RigVMFunction_MathDouble.h",
+        "base_class": "RigVMFunction_MathDoubleBase",
+        "plugin": "RigVM"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleToFloat.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "double",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleToFloat.result",
+      "type": "property",
+      "label": "result",
+      "properties": {
+        "type": "float",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "RigUnit_MathDoubleGreaterEqual",
+      "type": "class",
+      "label": "RigUnit_MathDoubleGreaterEqual",
+      "properties": {
+        "base_class": "RigVMFunction_MathDoubleGreaterEqual",
+        "deprecated": true,
+        "deprecation_message": "Renamed to RigVMFunction_MathDoubleGreaterEqual"
+      }
+    },
+    {
+      "id": "MaterialExpressionIsOrthographic",
+      "type": "class",
+      "label": "MaterialExpressionIsOrthographic",
+      "properties": {
+        "module": "Engine",
+        "file": "MaterialExpressionIsOrthographic.h",
+        "base_class": "MaterialExpression"
+      }
+    },
+    {
+      "id": "MaterialExpressionIsOrthographic.desc",
+      "type": "property",
+      "label": "desc",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimGraphNode_PoseHandler",
+      "type": "class",
+      "label": "AnimGraphNode_PoseHandler",
+      "properties": {
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_PoseHandler.h",
+        "base_class": "AnimGraphNode_AssetPlayerBase"
+      }
+    },
+    {
+      "id": "AnimGraphNode_PoseHandler.tag",
+      "type": "property",
+      "label": "tag",
+      "properties": {
+        "type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimGraphNode_PoseHandler.binding",
+      "type": "property",
+      "label": "binding",
+      "properties": {
+        "type": "AnimGraphNodeBinding",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigHierarchy",
+      "type": "class",
+      "label": "RigHierarchy",
+      "properties": {
+        "module": "ControlRig",
+        "file": "RigHierarchy.h",
+        "base_class": "Object",
+        "plugin": "ControlRig"
+      }
+    },
+    {
+      "id": "RigHierarchy.set_local_transform",
+      "type": "method",
+      "label": "set_local_transform",
+      "properties": {
+        "parameters": ["key: RigElementKey", "transform: Transform", "initial: bool", "affect_children: bool", "setup_undo: bool", "print_python_commands: bool"],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "RigHierarchy.get_global_transform",
+      "type": "method",
+      "label": "get_global_transform",
+      "properties": {
+        "parameters": ["key: RigElementKey", "initial: bool"],
+        "return_type": "Transform"
+      }
+    },
+    {
+      "id": "RigHierarchy.set_control_value",
+      "type": "method",
+      "label": "set_control_value",
+      "properties": {
+        "parameters": ["key: RigElementKey", "value: RigControlValue", "value_type: RigControlValueType", "setup_undo: bool", "print_python_commands: bool"],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "RigHierarchy.get_controls",
+      "type": "method",
+      "label": "get_controls",
+      "properties": {
+        "parameters": ["traverse: bool"],
+        "return_type": "Array[RigElementKey]"
+      }
+    },
+    {
+      "id": "RigHierarchy.get_bones",
+      "type": "method",
+      "label": "get_bones",
+      "properties": {
+        "parameters": ["traverse: bool"],
+        "return_type": "Array[RigElementKey]"
+      }
+    },
+    {
+      "id": "RigHierarchy.set_parent_weight",
+      "type": "method",
+      "label": "set_parent_weight",
+      "properties": {
+        "parameters": ["child: RigElementKey", "parent: RigElementKey", "weight: RigElementWeight", "initial: bool", "affect_children: bool"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "RigHierarchy.get_pose",
+      "type": "method",
+      "label": "get_pose",
+      "properties": {
+        "parameters": ["initial: bool", "include_transient_controls: bool"],
+        "return_type": "RigPose"
+      }
+    },
+    {
+      "id": "GeometryScriptScalarList",
+      "type": "struct",
+      "label": "GeometryScriptScalarList",
+      "properties": {
+        "module": "GeometryScriptingCore",
+        "file": "GeometryScriptTypes.h",
+        "base_class": "StructBase",
+        "plugin": "GeometryScripting"
+      }
+    },
+    {
+      "id": "GeometryScriptScalarList.get_scalar_list_item",
+      "type": "method",
+      "label": "get_scalar_list_item",
+      "properties": {
+        "parameters": ["index: int"],
+        "return_type": "Tuple[float, bool]"
+      }
+    },
+    {
+      "id": "GeometryScriptScalarList.set_scalar_list_item",
+      "type": "method",
+      "label": "set_scalar_list_item",
+      "properties": {
+        "parameters": ["index: int", "new_value: float"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "GeometryScriptScalarList.scalar_multiply",
+      "type": "method",
+      "label": "scalar_multiply",
+      "properties": {
+        "parameters": ["scalar_list_b: GeometryScriptScalarList", "constant_multiplier: float"],
+        "return_type": "GeometryScriptScalarList"
+      }
+    },
+    {
+      "id": "MaterialProperty",
+      "type": "enum",
+      "label": "MaterialProperty",
+      "properties": {
+        "module": "Engine",
+        "file": "SceneTypes.h",
+        "base_class": "EnumBase"
+      }
+    },
+    {
+      "id": "MaterialProperty.MP_EMISSIVE_COLOR",
+      "type": "enum_value",
+      "label": "MP_EMISSIVE_COLOR"
+    },
+    {
+      "id": "MaterialProperty.MP_OPACITY",
+      "type": "enum_value",
+      "label": "MP_OPACITY"
+    },
+    {
+      "id": "MaterialProperty.MP_BASE_COLOR",
+      "type": "enum_value",
+      "label": "MP_BASE_COLOR"
+    },
+    {
+      "id": "MaterialProperty.MP_METALLIC",
+      "type": "enum_value",
+      "label": "MP_METALLIC"
+    },
+    {
+      "id": "MaterialProperty.MP_ROUGHNESS",
+      "type": "enum_value",
+      "label": "MP_ROUGHNESS"
+    },
+    {
+      "id": "MaterialProperty.MP_NORMAL",
+      "type": "enum_value",
+      "label": "MP_NORMAL"
+    },
+    {
+      "id": "CesiumSampleHeightResult",
+      "type": "struct",
+      "label": "CesiumSampleHeightResult",
+      "properties": {
+        "module": "CesiumRuntime",
+        "file": "CesiumSampleHeightResult.h",
+        "base_class": "StructBase",
+        "plugin": "CesiumForUnreal"
+      }
+    },
+    {
+      "id": "CesiumSampleHeightResult.longitude_latitude_height",
+      "type": "property",
+      "label": "longitude_latitude_height",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "CesiumSampleHeightResult.sample_success",
+      "type": "property",
+      "label": "sample_success",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "TakeRecorderLevelVisibilitySource",
+      "type": "class",
+      "label": "TakeRecorderLevelVisibilitySource",
+      "properties": {
+        "module": "TakeRecorderSources",
+        "file": "TakeRecorderLevelVisibilitySource.h",
+        "base_class": "TakeRecorderLevelVisibilitySourceSettings",
+        "plugin": "Takes"
+      }
+    },
+    {
+      "id": "TakeRecorderLevelVisibilitySource.enabled",
+      "type": "property",
+      "label": "enabled",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "TakeRecorderLevelVisibilitySource.level_visibility_track_name",
+      "type": "property",
+      "label": "level_visibility_track_name",
+      "properties": {
+        "type": "Text",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorRound",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorRound",
+      "properties": {
+        "module": "RigVM",
+        "file": "RigVMFunction_MathVector.h",
+        "base_class": "RigVMFunction_MathVectorUnaryOp",
+        "plugin": "RigVM"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorRound.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorRound.result",
+      "type": "property",
+      "label": "result",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigUnit_MathTransformToEulerTransform",
+      "type": "class",
+      "label": "RigUnit_MathTransformToEulerTransform",
+      "properties": {
+        "base_class": "RigVMFunction_MathTransformToEulerTransform",
+        "deprecated": true,
+        "deprecation_message": "Renamed to RigVMFunction_MathTransformToEulerTransform"
+      }
+    },
+    {
+      "id": "PropertyControllerOscillate",
+      "type": "class",
+      "label": "PropertyControllerOscillate",
+      "properties": {
+        "base_class": "PropertyAnimatorOscillate",
+        "deprecated": true,
+        "deprecation_message": "Renamed to PropertyAnimatorOscillate"
+      }
+    },
+    {
+      "id": "NNEDenoiserTemporalAsset",
+      "type": "class",
+      "label": "NNEDenoiserTemporalAsset",
+      "properties": {
+        "module": "NNEDenoiser",
+        "file": "NNEDenoiserTemporalAsset.h",
+        "base_class": "DataAsset",
+        "plugin": "NNEDenoiser"
+      }
+    },
+    {
+      "id": "NNEDenoiserTemporalAsset.model_data",
+      "type": "property",
+      "label": "model_data",
+      "properties": {
+        "type": "NNEModelData",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "NNEDenoiserTemporalAsset.input_mapping",
+      "type": "property",
+      "label": "input_mapping",
+      "properties": {
+        "type": "DataTable",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "NNEDenoiserTemporalAsset.output_mapping",
+      "type": "property",
+      "label": "output_mapping",
+      "properties": {
+        "type": "DataTable",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "GeometryScript_NewAssetUtils",
+      "type": "class",
+      "label": "GeometryScript_NewAssetUtils",
+      "properties": {
+        "module": "GeometryScriptingEditor",
+        "file": "CreateNewAssetUtilityFunctions.h",
+        "base_class": "BlueprintFunctionLibrary",
+        "plugin": "GeometryScripting"
+      }
+    },
+    {
+      "id": "GeometryScript_NewAssetUtils.create_new_static_mesh_asset_from_mesh",
+      "type": "method",
+      "label": "create_new_static_mesh_asset_from_mesh",
+      "properties": {
+        "parameters": ["from_dynamic_mesh: DynamicMesh", "asset_path_and_name: str", "options: GeometryScriptCreateNewStaticMeshAssetOptions", "debug: GeometryScriptDebug"],
+        "return_type": "Tuple[StaticMesh, GeometryScriptOutcomePins]"
+      }
+    },
+    {
+      "id": "GeometryScript_NewAssetUtils.create_new_skeletal_mesh_asset_from_mesh",
+      "type": "method",
+      "label": "create_new_skeletal_mesh_asset_from_mesh",
+      "properties": {
+        "parameters": ["from_dynamic_mesh: DynamicMesh", "skeleton: Skeleton", "asset_path_and_name: str", "options: GeometryScriptCreateNewSkeletalMeshAssetOptions", "debug: GeometryScriptDebug"],
+        "return_type": "Tuple[SkeletalMesh, GeometryScriptOutcomePins]"
+      }
+    },
+    {
+      "id": "GeometryScript_NewAssetUtils.create_new_volume_from_mesh",
+      "type": "method",
+      "label": "create_new_volume_from_mesh",
+      "properties": {
+        "parameters": ["from_dynamic_mesh: DynamicMesh", "create_in_world: World", "actor_transform: Transform", "base_actor_name: str", "options: GeometryScriptCreateNewVolumeFromMeshOptions", "debug: GeometryScriptDebug"],
+        "return_type": "Tuple[Volume, World, GeometryScriptOutcomePins]"
+      }
+    },
+    {
+      "id": "RigUnit_MathQuaternionEquals",
+      "type": "class",
+      "label": "RigUnit_MathQuaternionEquals",
+      "properties": {
+        "base_class": "RigVMFunction_MathQuaternionEquals",
+        "deprecated": true,
+        "deprecation_message": "Renamed to RigVMFunction_MathQuaternionEquals"
+      }
+    },
+    {
+      "id": "WdpEditModeBase",
+      "type": "class",
+      "label": "WdpEditModeBase",
+      "properties": {
+        "module": "WdpEditMode",
+        "file": "WdpEditModeBase.h",
+        "base_class": "Actor",
+        "plugin": "AesRuntimeCore"
+      }
+    },
+    {
+      "id": "DynamicMesh",
+      "type": "type_reference",
+      "label": "DynamicMesh"
+    },
+    {
+      "id": "Transform",
+      "type": "type_reference",
+      "label": "Transform"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "type_reference",
+      "label": "RigElementKey"
+    },
+    {
+      "id": "StaticMesh",
+      "type": "type_reference",
+      "label": "StaticMesh"
+    },
+    {
+      "id": "SkeletalMesh",
+      "type": "type_reference",
+      "label": "SkeletalMesh"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "source": "FunctionalTestResult",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e2",
+      "source": "FunctionalTestResult.DEFAULT",
+      "target": "FunctionalTestResult",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e3",
+      "source": "FunctionalTestResult.INVALID",
+      "target": "FunctionalTestResult",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e4",
+      "source": "FunctionalTestResult.ERROR",
+      "target": "FunctionalTestResult",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e5",
+      "source": "FunctionalTestResult.RUNNING",
+      "target": "FunctionalTestResult",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e6",
+      "source": "FunctionalTestResult.FAILED",
+      "target": "FunctionalTestResult",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e7",
+      "source": "FunctionalTestResult.SUCCEEDED",
+      "target": "FunctionalTestResult",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e8",
+      "source": "CompositionGraphCapturePasses",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e9",
+      "source": "CompositionGraphCapturePasses.value",
+      "target": "CompositionGraphCapturePasses",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e10",
+      "source": "LiveLinkCameraBlueprintData",
+      "target": "LiveLinkBaseBlueprintData",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e11",
+      "source": "LiveLinkCameraBlueprintData.static_data",
+      "target": "LiveLinkCameraBlueprintData",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e12",
+      "source": "LiveLinkCameraBlueprintData.frame_data",
+      "target": "LiveLinkCameraBlueprintData",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e13",
+      "source": "CompositingElement",
+      "target": "ComposurePipelineBaseActor",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e14",
+      "source": "CompositingElement.auto_run",
+      "target": "CompositingElement",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e15",
+      "source": "CompositingElement.inputs",
+      "target": "CompositingElement",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e16",
+      "source": "CompositingElement.outputs",
+      "target": "CompositingElement",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e17",
+      "source": "CompositingElement.transform_passes",
+      "target": "CompositingElement",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e18",
+      "source": "CompositingElement.render_resolution",
+      "target": "CompositingElement",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e19",
+      "source": "CompositingElement.render_format",
+      "target": "CompositingElement",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e20",
+      "source": "CompositingElement.set_target_camera",
+      "target": "CompositingElement",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e21",
+      "source": "CompositingElement.set_opacity",
+      "target": "CompositingElement",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e22",
+      "source": "CompositingElement.render_comp_element",
+      "target": "CompositingElement",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e23",
+      "source": "CompositingElement.create_new_input_pass",
+      "target": "CompositingElement",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e24",
+      "source": "CompositingElement.find_transform_pass",
+      "target": "CompositingElement",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e25",
+      "source": "GeometryScript_MeshDeformers",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e26",
+      "source": "GeometryScript_MeshDeformers.apply_twist_warp_to_mesh",
+      "target": "GeometryScript_MeshDeformers",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e27",
+      "source": "GeometryScript_MeshDeformers.apply_perlin_noise_to_mesh",
+      "target": "GeometryScript_MeshDeformers",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e28",
+      "source": "GeometryScript_MeshDeformers.apply_bend_warp_to_mesh",
+      "target": "GeometryScript_MeshDeformers",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e29",
+      "source": "GeometryScript_MeshDeformers.apply_displace_from_texture_map",
+      "target": "GeometryScript_MeshDeformers",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e30",
+      "source": "GeometryScript_MeshDeformers.apply_iterative_smoothing_to_mesh",
+      "target": "GeometryScript_MeshDeformers",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e31",
+      "source": "RigUnit_MapRange_Float",
+      "target": "RigUnit",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e32",
+      "source": "RigUnit_MapRange_Float.value",
+      "target": "RigUnit_MapRange_Float",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e33",
+      "source": "RigUnit_MapRange_Float.min_in",
+      "target": "RigUnit_MapRange_Float",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e34",
+      "source": "RigUnit_MapRange_Float.max_in",
+      "target": "RigUnit_MapRange_Float",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e35",
+      "source": "RigUnit_MapRange_Float.min_out",
+      "target": "RigUnit_MapRange_Float",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e36",
+      "source": "RigUnit_MapRange_Float.max_out",
+      "target": "RigUnit_MapRange_Float",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e37",
+      "source": "RigUnit_MapRange_Float.result",
+      "target": "RigUnit_MapRange_Float",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e38",
+      "source": "RigVMFunction_MathDoubleToFloat",
+      "target": "RigVMFunction_MathDoubleBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e39",
+      "source": "RigVMFunction_MathDoubleToFloat.value",
+      "target": "RigVMFunction_MathDoubleToFloat",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e40",
+      "source": "RigVMFunction_MathDoubleToFloat.result",
+      "target": "RigVMFunction_MathDoubleToFloat",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e41",
+      "source": "RigUnit_MathDoubleGreaterEqual",
+      "target": "RigVMFunction_MathDoubleGreaterEqual",
+      "type": "inherits_from",
+      "label": "inherits from (deprecated)"
+    },
+    {
+      "id": "e42",
+      "source": "MaterialExpressionIsOrthographic",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e43",
+      "source": "MaterialExpressionIsOrthographic.desc",
+      "target": "MaterialExpressionIsOrthographic",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e44",
+      "source": "AnimGraphNode_PoseHandler",
+      "target": "AnimGraphNode_AssetPlayerBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e45",
+      "source": "AnimGraphNode_PoseHandler.tag",
+      "target": "AnimGraphNode_PoseHandler",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e46",
+      "source": "AnimGraphNode_PoseHandler.binding",
+      "target": "AnimGraphNode_PoseHandler",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e47",
+      "source": "RigHierarchy",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e48",
+      "source": "RigHierarchy.set_local_transform",
+      "target": "RigHierarchy",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e49",
+      "source": "RigHierarchy.get_global_transform",
+      "target": "RigHierarchy",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e50",
+      "source": "RigHierarchy.set_control_value",
+      "target": "RigHierarchy",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e51",
+      "source": "RigHierarchy.get_controls",
+      "target": "RigHierarchy",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e52",
+      "source": "RigHierarchy.get_bones",
+      "target": "RigHierarchy",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e53",
+      "source": "RigHierarchy.set_parent_weight",
+      "target": "RigHierarchy",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e54",
+      "source": "RigHierarchy.get_pose",
+      "target": "RigHierarchy",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e55",
+      "source": "GeometryScriptScalarList",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e56",
+      "source": "GeometryScriptScalarList.get_scalar_list_item",
+      "target": "GeometryScriptScalarList",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e57",
+      "source": "GeometryScriptScalarList.set_scalar_list_item",
+      "target": "GeometryScriptScalarList",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e58",
+      "source": "GeometryScriptScalarList.scalar_multiply",
+      "target": "GeometryScriptScalarList",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e59",
+      "source": "MaterialProperty",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e60",
+      "source": "MaterialProperty.MP_EMISSIVE_COLOR",
+      "target": "MaterialProperty",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e61",
+      "source": "MaterialProperty.MP_OPACITY",
+      "target": "MaterialProperty",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e62",
+      "source": "MaterialProperty.MP_BASE_COLOR",
+      "target": "MaterialProperty",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e63",
+      "source": "MaterialProperty.MP_METALLIC",
+      "target": "MaterialProperty",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e64",
+      "source": "MaterialProperty.MP_ROUGHNESS",
+      "target": "MaterialProperty",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e65",
+      "source": "MaterialProperty.MP_NORMAL",
+      "target": "MaterialProperty",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "id": "e66",
+      "source": "CesiumSampleHeightResult",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e67",
+      "source": "CesiumSampleHeightResult.longitude_latitude_height",
+      "target": "CesiumSampleHeightResult",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e68",
+      "source": "CesiumSampleHeightResult.sample_success",
+      "target": "CesiumSampleHeightResult",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e69",
+      "source": "TakeRecorderLevelVisibilitySource",
+      "target": "TakeRecorderLevelVisibilitySourceSettings",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e70",
+      "source": "TakeRecorderLevelVisibilitySource.enabled",
+      "target": "TakeRecorderLevelVisibilitySource",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e71",
+      "source": "TakeRecorderLevelVisibilitySource.level_visibility_track_name",
+      "target": "TakeRecorderLevelVisibilitySource",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e72",
+      "source": "RigVMFunction_MathVectorRound",
+      "target": "RigVMFunction_MathVectorUnaryOp",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e73",
+      "source": "RigVMFunction_MathVectorRound.value",
+      "target": "RigVMFunction_MathVectorRound",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e74",
+      "source": "RigVMFunction_MathVectorRound.result",
+      "target": "RigVMFunction_MathVectorRound",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e75",
+      "source": "RigUnit_MathTransformToEulerTransform",
+      "target": "RigVMFunction_MathTransformToEulerTransform",
+      "type": "inherits_from",
+      "label": "inherits from (deprecated)"
+    },
+    {
+      "id": "e76",
+      "source": "PropertyControllerOscillate",
+      "target": "PropertyAnimatorOscillate",
+      "type": "inherits_from",
+      "label": "inherits from (deprecated)"
+    },
+    {
+      "id": "e77",
+      "source": "NNEDenoiserTemporalAsset",
+      "target": "DataAsset",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e78",
+      "source": "NNEDenoiserTemporalAsset.model_data",
+      "target": "NNEDenoiserTemporalAsset",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e79",
+      "source": "NNEDenoiserTemporalAsset.input_mapping",
+      "target": "NNEDenoiserTemporalAsset",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e80",
+      "source": "NNEDenoiserTemporalAsset.output_mapping",
+      "target": "NNEDenoiserTemporalAsset",
+      "type": "property_of",
+      "label": "property of"
+    },
+    {
+      "id": "e81",
+      "source": "GeometryScript_NewAssetUtils",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "e82",
+      "source": "GeometryScript_NewAssetUtils.create_new_static_mesh_asset_from_mesh",
+      "target": "GeometryScript_NewAssetUtils",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e83",
+      "source": "GeometryScript_NewAssetUtils.create_new_skeletal_mesh_asset_from_mesh",
+      "target": "GeometryScript_NewAssetUtils",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e84",
+      "source": "GeometryScript_NewAssetUtils.create_new_volume_from_mesh",
+      "target": "GeometryScript_NewAssetUtils",
+      "type": "method_of",
+      "label": "method of"
+    },
+    {
+      "id": "e85",
+      "source": "RigUnit_MathQuaternionEquals",
+      "target": "RigVMFunction_MathQuaternionEquals",
+      "type": "inherits_from",
+      "label": "inherits from (deprecated)"
+    },
+    {
+      "id": "e86",
+      "source": "WdpEditModeBase",
+      "target": "Actor",
+      "type": "inherits_from",
+      "label": "inherits from"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "h1",
+      "type": "method_signature",
+      "nodes": [
+        "GeometryScript_MeshDeformers.apply_twist_warp_to_mesh",
+        "DynamicMesh",
+        "Transform"
+      ],
+      "label": "apply_twist_warp_to_mesh uses DynamicMesh and Transform"
+    },
+    {
+      "id": "h2",
+      "type": "method_signature",
+      "nodes": [
+        "GeometryScript_NewAssetUtils.create_new_static_mesh_asset_from_mesh",
+        "DynamicMesh",
+        "StaticMesh"
+      ],
+      "label": "create_new_static_mesh_asset_from_mesh converts DynamicMesh to StaticMesh"
+    },
+    {
+      "id": "h3",
+      "type": "method_signature",
+      "nodes": [
+        "GeometryScript_NewAssetUtils.create_new_skeletal_mesh_asset_from_mesh",
+        "DynamicMesh",
+        "SkeletalMesh"
+      ],
+      "label": "create_new_skeletal_mesh_asset_from_mesh converts DynamicMesh to SkeletalMesh"
+    },
+    {
+      "id": "h4",
+      "type": "method_signature",
+      "nodes": [
+        "RigHierarchy.set_local_transform",
+        "RigElementKey",
+        "Transform"
+      ],
+      "label": "set_local_transform uses RigElementKey and Transform"
+    },
+    {
+      "id": "h5",
+      "type": "method_signature",
+      "nodes": [
+        "RigHierarchy.get_global_transform",
+        "RigElementKey",
+        "Transform"
+      ],
+      "label": "get_global_transform returns Transform for RigElementKey"
+    },
+    {
+      "id": "h6",
+      "type": "deprecated_pattern",
+      "nodes": [
+        "RigUnit_MathDoubleGreaterEqual",
+        "RigVMFunction_MathDoubleGreaterEqual",
+        "RigUnit_MathTransformToEulerTransform",
+        "RigVMFunction_MathTransformToEulerTransform",
+        "RigUnit_MathQuaternionEquals",
+        "RigVMFunction_MathQuaternionEquals",
+        "PropertyControllerOscillate",
+        "PropertyAnimatorOscillate"
+      ],
+      "label": "Deprecated classes renamed to RigVMFunction or PropertyAnimator variants"
+    },
+    {
+      "id": "h7",
+      "type": "plugin_module_group",
+      "nodes": [
+        "GeometryScript_MeshDeformers",
+        "GeometryScriptScalarList",
+        "GeometryScript_NewAssetUtils"
+      ],
+      "label": "GeometryScripting plugin classes"
+    },
+    {
+      "id": "h8",
+      "type": "plugin_module_group",
+      "nodes": [
+        "RigUnit_MapRange_Float",
+        "RigVMFunction_MathDoubleToFloat",
+        "RigUnit_MathDoubleGreaterEqual",
+        "RigHierarchy",
+        "RigVMFunction_MathVectorRound",
+        "RigUnit_MathTransformToEulerTransform",
+        "RigUnit_MathQuaternionEquals"
+      ],
+      "label": "ControlRig/RigVM plugin classes"
+    },
+    {
+      "id": "h9",
+      "type": "material_system",
+      "nodes": [
+        "MaterialProperty",
+        "MaterialExpressionIsOrthographic"
+      ],
+      "label": "Material system classes"
+    },
+    {
+      "id": "h10",
+      "type": "animation_system",
+      "nodes": [
+        "AnimGraphNode_PoseHandler"
+      ],
+      "label": "Animation system classes"
+    }
+  ]
+}

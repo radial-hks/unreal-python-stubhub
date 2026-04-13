@@ -1,0 +1,1049 @@
+{
+  "nodes": [
+    {
+      "id": "roadheatmapapi_roadheatmapapi",
+      "label": "RoadHeatMapAPI",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadheatmapapi_un_filter_road_heat_map_entity",
+      "label": "un_filter_road_heat_map_entity",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadheatmapapi_outline_road_heat_map_entity",
+      "label": "outline_road_heat_map_entity",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadheatmapapi_modify_road_heat_map",
+      "label": "modify_road_heat_map",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadheatmapapi_get_road_heat_map_entity",
+      "label": "get_road_heat_map_entity",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadheatmapapi_filter_road_heat_map_entity",
+      "label": "filter_road_heat_map_entity",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "params_unroadheatmapfilterparam",
+      "label": "UnRoadHeatMapFilterParam",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "params_roadheatmapoutlineparam",
+      "label": "RoadHeatMapOutlineParam",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "params_modifyroadheatmapmparam",
+      "label": "ModifyRoadHeatMapParam",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "params_roadheatmapinfoparam",
+      "label": "RoadHeatMapInfoParam",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "params_roadheatmapfilterparam",
+      "label": "RoadHeatMapFilterParam",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "result_eidresult",
+      "label": "EidResult",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "result_roadeidvalueresult",
+      "label": "RoadEidValueResult",
+      "file_type": "document",
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorclamp",
+      "label": "RigVMFunction_MathVectorClamp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction_MathVectorBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimcachefactorynew_niagarasimcachefactorynew",
+      "label": "NiagaraSimCacheFactoryNew",
+      "file_type": "document",
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_assetimporttask",
+      "label": "AssetImportTask",
+      "file_type": "document",
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_automatedassetimportdata",
+      "label": "AutomatedAssetImportData",
+      "file_type": "document",
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonestocopyfromsource_bonestocopyfromsource",
+      "label": "BonesToCopyFromSource",
+      "file_type": "document",
+      "source_file": "BonesToCopyFromSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonestocopyfromsource_all_bones",
+      "label": "ALL_BONES",
+      "file_type": "document",
+      "source_file": "BonesToCopyFromSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonestocopyfromsource_only_bound_and_parents",
+      "label": "ONLY_BOUND_AND_PARENTS",
+      "file_type": "document",
+      "source_file": "BonesToCopyFromSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonestocopyfromsource_only_bound_and_root",
+      "label": "ONLY_BOUND_AND_ROOT",
+      "file_type": "document",
+      "source_file": "BonesToCopyFromSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformaccumulatearray",
+      "label": "RigUnit_MathTransformAccumulateArray",
+      "file_type": "document",
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformaccumulatearray",
+      "label": "RigVMFunction_MathTransformAccumulateArray",
+      "file_type": "document",
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_rigvmexecutecontext",
+      "label": "RigVMExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_rigvmtransformspace",
+      "label": "RigVMTransformSpace",
+      "file_type": "document",
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxscenenormalgenerationmethod_fbxscenenormalgenerationmethod",
+      "label": "FBXSceneNormalGenerationMethod",
+      "file_type": "document",
+      "source_file": "FBXSceneNormalGenerationMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxscenenormalgenerationmethod_built_in",
+      "label": "BUILT_IN",
+      "file_type": "document",
+      "source_file": "FBXSceneNormalGenerationMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxscenenormalgenerationmethod_mikk_t_space",
+      "label": "MIKK_T_SPACE",
+      "file_type": "document",
+      "source_file": "FBXSceneNormalGenerationMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createpathparams_batch_createpathparams_batch",
+      "label": "CreatePathParams_Batch",
+      "file_type": "document",
+      "source_file": "CreatePathParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "CreatePathParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_createpathsparams",
+      "label": "CreatePathsParams",
+      "file_type": "document",
+      "source_file": "CreatePathParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkticksignature_livelinkticksignature",
+      "label": "LiveLinkTickSignature",
+      "file_type": "document",
+      "source_file": "LiveLinkTickSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "LiveLinkTickSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationviewport_pernodecolorgrading",
+      "label": "DisplayClusterConfigurationViewport_PerNodeColorGrading",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationViewport_PerNodeColorGrading Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationViewport_PerNodeColorGrading Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_displayclusterconfigurationviewport_colorgradingrenderingsettings",
+      "label": "DisplayClusterConfigurationViewport_ColorGradingRenderingSettings",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationViewport_PerNodeColorGrading Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massimulationlodtrait_massimulationlodtrait",
+      "label": "MassSimulationLODTrait",
+      "file_type": "document",
+      "source_file": "MassSimulationLODTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_massentitytraitbase",
+      "label": "MassEntityTraitBase",
+      "file_type": "document",
+      "source_file": "MassSimulationLODTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_massimulationlodparameters",
+      "label": "MassSimulationLODParameters",
+      "file_type": "document",
+      "source_file": "MassSimulationLODTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_massimulationvariabletickparameters",
+      "label": "MassSimulationVariableTickParameters",
+      "file_type": "document",
+      "source_file": "MassSimulationLODTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_controlrigsplinefromtransforms",
+      "label": "RigUnit_ControlRigSplineFromTransforms",
+      "file_type": "document",
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_rigunit_controlrigsplinebase",
+      "label": "RigUnit_ControlRigSplineBase",
+      "file_type": "document",
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_splinetype",
+      "label": "SplineType",
+      "file_type": "document",
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "type_controlrigspline",
+      "label": "ControlRigSpline",
+      "file_type": "document",
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontfactory_fontfactory",
+      "label": "FontFactory",
+      "file_type": "document",
+      "source_file": "FontFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "roadheatmapapi_un_filter_road_heat_map_entity",
+      "target": "roadheatmapapi_roadheatmapapi",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_outline_road_heat_map_entity",
+      "target": "roadheatmapapi_roadheatmapapi",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_modify_road_heat_map",
+      "target": "roadheatmapapi_roadheatmapapi",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_get_road_heat_map_entity",
+      "target": "roadheatmapapi_roadheatmapapi",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_filter_road_heat_map_entity",
+      "target": "roadheatmapapi_roadheatmapapi",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_un_filter_road_heat_map_entity",
+      "target": "params_unroadheatmapfilterparam",
+      "relation": "accepts_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_outline_road_heat_map_entity",
+      "target": "params_roadheatmapoutlineparam",
+      "relation": "accepts_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_modify_road_heat_map",
+      "target": "params_modifyroadheatmapmparam",
+      "relation": "accepts_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_get_road_heat_map_entity",
+      "target": "params_roadheatmapinfoparam",
+      "relation": "accepts_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_filter_road_heat_map_entity",
+      "target": "params_roadheatmapfilterparam",
+      "relation": "accepts_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_un_filter_road_heat_map_entity",
+      "target": "result_eidresult",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_outline_road_heat_map_entity",
+      "target": "result_eidresult",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_modify_road_heat_map",
+      "target": "result_eidresult",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_filter_road_heat_map_entity",
+      "target": "result_eidresult",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapapi_get_road_heat_map_entity",
+      "target": "result_roadeidvalueresult",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorclamp",
+      "target": "base_rigvmfunction_mathvectorbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorclamp",
+      "target": "type_vector",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcachefactorynew_niagarasimcachefactorynew",
+      "target": "base_factory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcachefactorynew_niagarasimcachefactorynew",
+      "target": "type_assetimporttask",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcachefactorynew_niagarasimcachefactorynew",
+      "target": "type_automatedassetimportdata",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bonestocopyfromsource_all_bones",
+      "target": "bonestocopyfromsource_bonestocopyfromsource",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BonesToCopyFromSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bonestocopyfromsource_only_bound_and_parents",
+      "target": "bonestocopyfromsource_bonestocopyfromsource",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BonesToCopyFromSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bonestocopyfromsource_only_bound_and_root",
+      "target": "bonestocopyfromsource_bonestocopyfromsource",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BonesToCopyFromSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformaccumulatearray",
+      "target": "rigvmfunction_mathtransformaccumulatearray",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformaccumulatearray",
+      "target": "type_transform",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformaccumulatearray",
+      "target": "type_rigvmexecutecontext",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformaccumulatearray",
+      "target": "type_rigvmtransformspace",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbxscenenormalgenerationmethod_built_in",
+      "target": "fbxscenenormalgenerationmethod_fbxscenenormalgenerationmethod",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FBXSceneNormalGenerationMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbxscenenormalgenerationmethod_mikk_t_space",
+      "target": "fbxscenenormalgenerationmethod_fbxscenenormalgenerationmethod",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FBXSceneNormalGenerationMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createpathparams_batch_createpathparams_batch",
+      "target": "base_paramsbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreatePathParams__Batch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createpathparams_batch_createpathparams_batch",
+      "target": "type_createpathsparams",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreatePathParams__Batch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkticksignature_livelinkticksignature",
+      "target": "base_multicastdelegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkTickSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationviewport_pernodecolorgrading",
+      "target": "base_structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationViewport_PerNodeColorGrading Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationviewport_pernodecolorgrading",
+      "target": "type_displayclusterconfigurationviewport_colorgradingrenderingsettings",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationViewport_PerNodeColorGrading Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massimulationlodtrait_massimulationlodtrait",
+      "target": "base_massentitytraitbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassSimulationLODTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massimulationlodtrait_massimulationlodtrait",
+      "target": "type_massimulationlodparameters",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassSimulationLODTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massimulationlodtrait_massimulationlodtrait",
+      "target": "type_massimulationvariabletickparameters",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassSimulationLODTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_controlrigsplinefromtransforms",
+      "target": "base_rigunit_controlrigsplinebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_controlrigsplinefromtransforms",
+      "target": "type_transform",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_controlrigsplinefromtransforms",
+      "target": "type_splinetype",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_controlrigsplinefromtransforms",
+      "target": "type_controlrigspline",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fontfactory_fontfactory",
+      "target": "base_factory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FontFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcachefactorynew_niagarasimcachefactorynew",
+      "target": "fontfactory_fontfactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorclamp",
+      "target": "rigunit_mathtransformaccumulatearray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathVectorClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_controlrigsplinefromtransforms",
+      "target": "rigunit_mathtransformaccumulatearray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "RigUnit__ControlRigSplineFromTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bonestocopyfromsource_bonestocopyfromsource",
+      "target": "massimulationlodtrait_massimulationlodtrait",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "BonesToCopyFromSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathvectorclamp",
+        "rigunit_mathtransformaccumulatearray",
+        "rigunit_controlrigsplinefromtransforms"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigVMFunction__MathVectorClamp Objects.md"
+    },
+    {
+      "id": "unreal_factory_pattern",
+      "label": "Unreal Factory Pattern Classes",
+      "nodes": [
+        "niagarasimcachefactorynew_niagarasimcachefactorynew",
+        "fontfactory_fontfactory"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraSimCacheFactoryNew Objects.md"
+    },
+    {
+      "id": "heat_map_operations",
+      "label": "Road Heat Map Operations",
+      "nodes": [
+        "roadheatmapapi_un_filter_road_heat_map_entity",
+        "roadheatmapapi_outline_road_heat_map_entity",
+        "roadheatmapapi_modify_road_heat_map",
+        "roadheatmapapi_get_road_heat_map_entity",
+        "roadheatmapapi_filter_road_heat_map_entity"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapAPI Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

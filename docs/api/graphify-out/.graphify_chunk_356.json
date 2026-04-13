@@ -1,0 +1,475 @@
+{
+  "nodes": [
+    {
+      "id": "urbanbuildtemplatemeshcomponent_urbanbuildtemplatemeshcomponent",
+      "label": "UrbanBuildTemplateMeshComponent",
+      "file_type": "document",
+      "source_file": "UrbanBuildTemplateMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconste_rigvmfunction_mathfloatconste",
+      "label": "RigVMFunction_MathFloatConstE",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathFloatConstE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hlodbuilderinstancingsettings_hlodbuilderinstancingsettings",
+      "label": "HLODBuilderInstancingSettings",
+      "file_type": "document",
+      "source_file": "HLODBuilderInstancingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computekernelfactory_computekernelfactory",
+      "label": "ComputeKernelFactory",
+      "file_type": "document",
+      "source_file": "ComputeKernelFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "watermeshinfo_watermeshinfo",
+      "label": "WaterMeshInfo",
+      "file_type": "document",
+      "source_file": "WaterMeshInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_customproperty_animgraphnode_customproperty",
+      "label": "AnimGraphNode_CustomProperty",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__CustomProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_graphterminal_optimusnode_graphterminal",
+      "label": "OptimusNode_GraphTerminal",
+      "file_type": "document",
+      "source_file": "OptimusNode_GraphTerminal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeonstaticmeshcreated_gltfruntimeonstaticmeshcreated",
+      "label": "glTFRuntimeOnStaticMeshCreated",
+      "file_type": "document",
+      "source_file": "glTFRuntimeOnStaticMeshCreated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "key_key",
+      "label": "Key",
+      "file_type": "document",
+      "source_file": "Key Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearrayposition_niagaradatainterfacearrayposition",
+      "label": "NiagaraDataInterfaceArrayPosition",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceArrayPosition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avviewportdataactor_avviewportdataactor",
+      "label": "AvaViewportDataActor",
+      "file_type": "document",
+      "source_file": "AvaViewportDataActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocurvesourcecomponent_audiocurvesourcecomponent",
+      "label": "AudioCurveSourceComponent",
+      "file_type": "document",
+      "source_file": "AudioCurveSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkcamerastaticdata_livelinkcamerastaticdata",
+      "label": "LiveLinkCameraStaticData",
+      "file_type": "document",
+      "source_file": "LiveLinkCameraStaticData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_ccdik_rigunit_ccdik",
+      "label": "RigUnit_CCDIK",
+      "file_type": "document",
+      "source_file": "RigUnit__CCDIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnodereferenceconversionresult_animnodereferenceconversionresult",
+      "label": "AnimNodeReferenceConversionResult",
+      "file_type": "document",
+      "source_file": "AnimNodeReferenceConversionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontrolvisibility_rigunit_getcontrolvisibility",
+      "label": "RigUnit_GetControlVisibility",
+      "file_type": "document",
+      "source_file": "RigUnit__GetControlVisibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaioconnection_mediaioconnection",
+      "label": "MediaIOConnection",
+      "file_type": "document",
+      "source_file": "MediaIOConnection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+      "label": "RigUnit_MathVectorMakeAbsolute",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorMakeAbsolute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialknobstyle_audiomaterialknobstyle",
+      "label": "AudioMaterialKnobStyle",
+      "file_type": "document",
+      "source_file": "AudioMaterialKnobStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_noisevector_rigunit_noisevector",
+      "label": "RigUnit_NoiseVector",
+      "file_type": "document",
+      "source_file": "RigUnit__NoiseVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorassetsubsystem_editorassetsubsystem",
+      "label": "EditorAssetSubsystem",
+      "file_type": "document",
+      "source_file": "EditorAssetSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_posebyname_animgraphnode_posebyname",
+      "label": "AnimGraphNode_PoseByName",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__PoseByName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormakeabsolute_rigvmfunction_mathvectormakeabsolute",
+      "label": "RigVMFunction_MathVectorMakeAbsolute",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorMakeAbsolute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_noisevector_rigvmfunction_noisevector",
+      "label": "RigVMFunction_NoiseVector",
+      "file_type": "document",
+      "source_file": "RigUnit__NoiseVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshcomponent_meshcomponent",
+      "label": "MeshComponent",
+      "file_type": "document",
+      "source_file": "UrbanBuildTemplateMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatconstant",
+      "label": "RigVMFunction_MathFloatConstant",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathFloatConstE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hlodbuildersettings_hlodbuildersettings",
+      "label": "HLODBuilderSettings",
+      "file_type": "document",
+      "source_file": "HLODBuilderInstancingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ik_solving_concept",
+      "label": "Inverse Kinematics Solving",
+      "file_type": "document",
+      "source_file": "RigUnit__CCDIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curve_driven_audio_sync_concept",
+      "label": "Curve-Driven Audio Synchronization",
+      "file_type": "document",
+      "source_file": "AudioCurveSourceComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "urbanbuildtemplatemeshcomponent_urbanbuildtemplatemeshcomponent",
+      "target": "meshcomponent_meshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanBuildTemplateMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatconste_rigvmfunction_mathfloatconste",
+      "target": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatconstant",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatConstE Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hlodbuilderinstancingsettings_hlodbuilderinstancingsettings",
+      "target": "hlodbuildersettings_hlodbuildersettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HLODBuilderInstancingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+      "target": "rigvmfunction_mathvectormakeabsolute_rigvmfunction_mathvectormakeabsolute",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorMakeAbsolute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_noisevector_rigunit_noisevector",
+      "target": "rigvmfunction_noisevector_rigvmfunction_noisevector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__NoiseVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdik_rigunit_ccdik",
+      "target": "ik_solving_concept",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__CCDIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiocurvesourcecomponent_audiocurvesourcecomponent",
+      "target": "curve_driven_audio_sync_concept",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AudioCurveSourceComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatconste_rigvmfunction_mathfloatconste",
+      "target": "rigunit_noisevector_rigunit_noisevector",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathFloatConstE Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "watermeshinfo_watermeshinfo",
+      "target": "niagaradatainterfacearrayposition_niagaradatainterfacearrayposition",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WaterMeshInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_customproperty_animgraphnode_customproperty",
+      "target": "animgraphnode_posebyname_animgraphnode_posebyname",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__CustomProperty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "key_key",
+      "target": "livelinkcamerastaticdata_livelinkcamerastaticdata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Key Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolvisibility_rigunit_getcontrolvisibility",
+      "target": "rigunit_ccdik_rigunit_ccdik",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__GetControlVisibility Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_graph_system",
+      "label": "Animation Graph System Components",
+      "nodes": [
+        "animgraphnode_customproperty_animgraphnode_customproperty",
+        "animgraphnode_posebyname_animgraphnode_posebyname",
+        "animnodereferenceconversionresult_animnodereferenceconversionresult"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimGraphNode__CustomProperty Objects.md"
+    },
+    {
+      "id": "rig_math_operations",
+      "label": "Rig Math Operations",
+      "nodes": [
+        "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+        "rigunit_noisevector_rigunit_noisevector",
+        "rigvmfunction_mathfloatconste_rigvmfunction_mathfloatconste"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathVectorMakeAbsolute Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

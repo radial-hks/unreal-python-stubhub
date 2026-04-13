@@ -1,0 +1,558 @@
+{
+  "nodes": [
+    {
+      "id": "moviescenecapturesettings_class",
+      "label": "MovieSceneCaptureSettings",
+      "file_type": "document",
+      "source_file": "MovieSceneCaptureSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecapturesettings_frame_rate_control",
+      "label": "Frame Rate Control Mechanism",
+      "file_type": "document",
+      "source_file": "MovieSceneCaptureSettings Objects.md",
+      "source_location": "lines 20, 26, 49",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecapturesettings_output_naming",
+      "label": "Output File Naming System",
+      "file_type": "document",
+      "source_file": "MovieSceneCaptureSettings Objects.md",
+      "source_location": "lines 26-43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecapturesettings_cinematic_control",
+      "label": "Cinematic Mode Controls",
+      "file_type": "document",
+      "source_file": "MovieSceneCaptureSettings Objects.md",
+      "source_location": "lines 16-17, 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomoverridetype_enum",
+      "label": "GroomOverrideType",
+      "file_type": "document",
+      "source_file": "GroomOverrideType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenelivelinksection_class",
+      "label": "MovieSceneLiveLinkSection",
+      "file_type": "document",
+      "source_file": "MovieSceneLiveLinkSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcompilemode_enum",
+      "label": "BlueprintCompileMode",
+      "file_type": "document",
+      "source_file": "BlueprintCompileMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionlandscapelayersample_class",
+      "label": "MaterialExpressionLandscapeLayerSample",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLandscapeLayerSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeswatereditorcommand_createwater_class",
+      "label": "AesWaterEditorCommand_CreateWater",
+      "file_type": "document",
+      "source_file": "AesWaterEditorCommand__CreateWater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmnativized_class",
+      "label": "RigVMNativized",
+      "file_type": "document",
+      "source_file": "RigVMNativized Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringtrimwhitespace_class",
+      "label": "RigVMFunction_StringTrimWhitespace",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringTrimWhitespace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sharedmemorymediasourcemode_enum",
+      "label": "SharedMemoryMediaSourceMode",
+      "file_type": "document",
+      "source_file": "SharedMemoryMediaSourceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondesaturation_class",
+      "label": "MaterialExpressionDesaturation",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDesaturation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updatewindowparams_class",
+      "label": "UpdateWindowParams",
+      "file_type": "document",
+      "source_file": "UpdateWindowParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionactorfilter_class",
+      "label": "WorldPartitionActorFilter",
+      "file_type": "document",
+      "source_file": "WorldPartitionActorFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatefloatmul_class",
+      "label": "RigUnit_AccumulateFloatMul",
+      "file_type": "document",
+      "source_file": "RigUnit__AccumulateFloatMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenegroupcondition_class",
+      "label": "MovieSceneGroupCondition",
+      "file_type": "document",
+      "source_file": "MovieSceneGroupCondition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintabs_class",
+      "label": "RigUnit_MathIntAbs",
+      "file_type": "document",
+      "source_file": "RigUnit_MathIntAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonerrangeextension_class",
+      "label": "CEClonerRangeExtension",
+      "file_type": "document",
+      "source_file": "CEClonerRangeExtension Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inheritedtagcontainer_class",
+      "label": "InheritedTagContainer",
+      "file_type": "document",
+      "source_file": "InheritedTagContainer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformervector2arrayvariable_class",
+      "label": "RigVMTrait_SetDeformerVector2ArrayVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerVector2ArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oninputaction_class",
+      "label": "OnInputAction",
+      "file_type": "document",
+      "source_file": "OnInputAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatsign_class",
+      "label": "RigUnit_MathFloatSign",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggraphauthoringtesthelpersettings_class",
+      "label": "PCGGraphAuthoringTestHelperSettings",
+      "file_type": "document",
+      "source_file": "PCGGraphAuthoringTestHelperSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_splineik_class",
+      "label": "AnimNode_SplineIK",
+      "file_type": "document",
+      "source_file": "AnimNode_SplineIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_splineik_twist_interpolation",
+      "label": "Twist Interpolation System",
+      "file_type": "document",
+      "source_file": "AnimNode_SplineIK Objects.md",
+      "source_location": "lines 38-40",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_deprecated_naming",
+      "label": "RigUnit Deprecated Naming Pattern",
+      "file_type": "document",
+      "source_file": "RigUnit__AccumulateFloatMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sharedmemory_frame_sync_pattern",
+      "label": "Frame Synchronization Pattern",
+      "file_type": "document",
+      "source_file": "SharedMemoryMediaSourceMode Objects.md",
+      "source_location": "lines 7-10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inheritedtagcontainer_tag_combination",
+      "label": "Tag Combination Formula",
+      "file_type": "document",
+      "source_file": "InheritedTagContainer Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviescenecapturesettings_class",
+      "target": "moviescenecapturesettings_frame_rate_control",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneCaptureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecapturesettings_class",
+      "target": "moviescenecapturesettings_output_naming",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneCaptureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecapturesettings_class",
+      "target": "moviescenecapturesettings_cinematic_control",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneCaptureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecapturesettings_frame_rate_control",
+      "target": "moviescenecapturesettings_output_naming",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneCaptureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_splineik_class",
+      "target": "animnode_splineik_twist_interpolation",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode_SplineIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatefloatmul_class",
+      "target": "rigunit_deprecated_naming",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AccumulateFloatMul Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintabs_class",
+      "target": "rigunit_deprecated_naming",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntAbs Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatsign_class",
+      "target": "rigunit_deprecated_naming",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatSign Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "sharedmemorymediasourcemode_enum",
+      "target": "sharedmemory_frame_sync_pattern",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SharedMemoryMediaSourceMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inheritedtagcontainer_class",
+      "target": "inheritedtagcontainer_tag_combination",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InheritedTagContainer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenelivelinksection_class",
+      "target": "moviescenecapturesettings_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieSceneLiveLinkSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenegroupcondition_class",
+      "target": "moviescenelivelinksection_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneGroupCondition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondesaturation_class",
+      "target": "materialexpressionlandscapelayersample_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionDesaturation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringtrimwhitespace_class",
+      "target": "rigvmnativized_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_StringTrimWhitespace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformervector2arrayvariable_class",
+      "target": "rigvmnativized_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMTrait_SetDeformerVector2ArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonerrangeextension_class",
+      "target": "animnode_splineik_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CEClonerRangeExtension Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcompilemode_enum",
+      "target": "groomoverridetype_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "BlueprintCompileMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcompilemode_enum",
+      "target": "sharedmemorymediasourcemode_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "BlueprintCompileMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomoverridetype_enum",
+      "target": "sharedmemorymediasourcemode_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GroomOverrideType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_migration_pattern",
+      "label": "Deprecated RigUnit Migration Pattern",
+      "nodes": [
+        "rigunit_accumulatefloatmul_class",
+        "rigunit_mathintabs_class",
+        "rigunit_mathfloatsign_class"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AccumulateFloatMul Objects.md"
+    },
+    {
+      "id": "moviescene_condition_evaluation_system",
+      "label": "MovieScene Condition Evaluation System",
+      "nodes": [
+        "moviescenelivelinksection_class",
+        "moviescenegroupcondition_class",
+        "moviescenecapturesettings_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneLiveLinkSection Objects.md"
+    },
+    {
+      "id": "rigvm_function_ecosystem",
+      "label": "RigVM Function Ecosystem",
+      "nodes": [
+        "rigvmnativized_class",
+        "rigvmfunction_stringtrimwhitespace_class",
+        "rigvmtrait_setdeformervector2arrayvariable_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMNativized Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

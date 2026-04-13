@@ -1,0 +1,1185 @@
+{
+  "nodes": [
+    {
+      "id": "class_Name",
+      "type": "class",
+      "name": "Name",
+      "description": "Type for all Unreal exposed name instances",
+      "module": "unreal",
+      "base_class": "_WrapperBase"
+    },
+    {
+      "id": "class_RigVMFunction_MathMatrixToVectors",
+      "type": "class",
+      "name": "RigVMFunction_MathMatrixToVectors",
+      "description": "Converts the matrix to its vectors",
+      "module": "unreal",
+      "base_class": "RigVMFunction_MathMatrixBase",
+      "plugin": "RigVM",
+      "source_file": "RigVMFunction_MathMatrix.h"
+    },
+    {
+      "id": "class_Actor",
+      "type": "class",
+      "name": "Actor",
+      "description": "Actor is the base class for an Object that can be placed or spawned in a level",
+      "module": "unreal",
+      "base_class": "Object",
+      "source_file": "Actor.h"
+    },
+    {
+      "id": "class_ComboBoxStyle",
+      "type": "class",
+      "name": "ComboBoxStyle",
+      "description": "Represents the appearance of an SComboBox",
+      "module": "unreal",
+      "base_class": "SlateWidgetStyle",
+      "source_file": "SlateTypes.h"
+    },
+    {
+      "id": "class_GeometryScript_AssetUtils",
+      "type": "class",
+      "name": "GeometryScript_AssetUtils",
+      "description": "Generic asset utils function library for geometry scripting",
+      "module": "unreal",
+      "base_class": "BlueprintFunctionLibrary",
+      "plugin": "GeometryScripting",
+      "source_file": "MeshAssetFunctions.h"
+    },
+    {
+      "id": "class_SafeZoneSlot",
+      "type": "class",
+      "name": "SafeZoneSlot",
+      "description": "Safe Zone Slot",
+      "module": "unreal",
+      "base_class": "PanelSlot",
+      "source_file": "SafeZoneSlot.h"
+    },
+    {
+      "id": "enum_AutoExposureMethod",
+      "type": "enum",
+      "name": "AutoExposureMethod",
+      "description": "Used by FPostProcessSettings Auto Exposure",
+      "module": "unreal",
+      "base_class": "EnumBase",
+      "values": ["AEM_HISTOGRAM", "AEM_BASIC", "AEM_MANUAL"]
+    },
+    {
+      "id": "class_AnimationTrackPayload",
+      "type": "class",
+      "name": "AnimationTrackPayload",
+      "description": "Animation Track Payload",
+      "module": "unreal",
+      "base_class": "EmptyPayload",
+      "source_file": "AnimDataNotifications.h"
+    },
+    {
+      "id": "class_EarthMarkerProducerFragments",
+      "type": "class",
+      "name": "EarthMarkerProducerFragments",
+      "description": "Earth Marker Producer Fragments",
+      "module": "unreal",
+      "base_class": "StructBase",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "class_ChangedMaterialInfo",
+      "type": "class",
+      "name": "ChangedMaterialInfo",
+      "description": "Changed Material Info",
+      "module": "unreal",
+      "base_class": "StructBase",
+      "plugin": "WdpApplication"
+    },
+    {
+      "id": "class_RigVMUserWorkflowRegistry",
+      "type": "class",
+      "name": "RigVMUserWorkflowRegistry",
+      "description": "Rig VMUser Workflow Registry",
+      "module": "unreal",
+      "base_class": "Object",
+      "plugin": "RigVM"
+    },
+    {
+      "id": "enum_EarthRoadLaneType",
+      "type": "enum",
+      "name": "EarthRoadLaneType",
+      "description": "Road lane types",
+      "module": "unreal",
+      "base_class": "EnumBase",
+      "plugin": "AesWorld",
+      "values": ["LANE", "INFRASTRUCTURE", "BASE", "DRIVING", "SIDEWALK", "CENTERLINE", "SHOULDER", "PARKING", "BIKING", "EDGELINE", "DIVIDINGLINE", "GUARDRAIL", "TRAFFICSIGN", "MULTILANE", "CROSSWALK", "GREENBELT", "STOPLINE"]
+    },
+    {
+      "id": "class_glTFRuntimeMaterialsConfig",
+      "type": "class",
+      "name": "glTFRuntimeMaterialsConfig",
+      "description": "Gl TFRuntime Materials Config",
+      "module": "unreal",
+      "base_class": "StructBase",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "class_UsdAssetCache",
+      "type": "class",
+      "name": "UsdAssetCache",
+      "description": "Asset that tracks generated assets based on the hash of source prim data for USD",
+      "module": "unreal",
+      "base_class": "Object",
+      "plugin": "USDCore"
+    },
+    {
+      "id": "enum_GenerateStaticMeshLODProcess_NormalsMethod",
+      "type": "enum",
+      "name": "GenerateStaticMeshLODProcess_NormalsMethod",
+      "description": "EGenerate Static Mesh LODProcess Normals Method",
+      "module": "unreal",
+      "base_class": "EnumBase",
+      "plugin": "MeshLODToolset",
+      "values": ["FROM_ANGLE_THRESHOLD", "PER_VERTEX", "PER_TRIANGLE"]
+    },
+    {
+      "id": "class_InstancePointDamageSignature",
+      "type": "class",
+      "name": "InstancePointDamageSignature",
+      "description": "Instance Point Damage Signature Delegate",
+      "module": "unreal",
+      "base_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "class_AnimNode_BoneDrivenController",
+      "type": "class",
+      "name": "AnimNode_BoneDrivenController",
+      "description": "Runtime version of a bone driven controller which maps part of the state from one bone to another",
+      "module": "unreal",
+      "base_class": "AnimNode_SkeletalControlBase"
+    },
+    {
+      "id": "class_MovieSceneScriptingStringChannel",
+      "type": "class",
+      "name": "MovieSceneScriptingStringChannel",
+      "description": "Movie Scene Scripting String Channel",
+      "module": "unreal",
+      "base_class": "MovieSceneScriptingChannel",
+      "plugin": "SequencerScripting"
+    },
+    {
+      "id": "enum_InterchangePipelineTask",
+      "type": "enum",
+      "name": "InterchangePipelineTask",
+      "description": "EInterchange Pipeline Task",
+      "module": "unreal",
+      "base_class": "EnumBase",
+      "values": ["POST_TRANSLATOR", "POST_FACTORY", "POST_IMPORT", "EXPORT"]
+    },
+    {
+      "id": "class_UniformInteger",
+      "type": "class",
+      "name": "UniformInteger",
+      "description": "Set a uniform integer value independently of the sample position",
+      "module": "unreal",
+      "base_class": "FieldNodeInt"
+    },
+    {
+      "id": "class_MovieGraphInputNode",
+      "type": "class",
+      "name": "MovieGraphInputNode",
+      "description": "A graph node which displays all input members available in the graph",
+      "module": "unreal",
+      "base_class": "MovieGraphNode",
+      "plugin": "MovieRenderPipeline"
+    },
+    {
+      "id": "enum_MediaSoundChannels",
+      "type": "enum",
+      "name": "MediaSoundChannels",
+      "description": "Available media sound channel types",
+      "module": "unreal",
+      "base_class": "EnumBase",
+      "values": ["MONO", "STEREO", "SURROUND"]
+    },
+    {
+      "id": "method_Name_init",
+      "type": "method",
+      "name": "__init__",
+      "class": "Name",
+      "parameters": ["value"]
+    },
+    {
+      "id": "method_Name_cast",
+      "type": "method",
+      "name": "cast",
+      "class": "Name",
+      "classmethod": true
+    },
+    {
+      "id": "method_Name_is_valid",
+      "type": "method",
+      "name": "is_valid",
+      "class": "Name",
+      "return_type": "bool"
+    },
+    {
+      "id": "method_Name_is_none",
+      "type": "method",
+      "name": "is_none",
+      "class": "Name",
+      "return_type": "bool"
+    },
+    {
+      "id": "prop_RigVMFunction_MathMatrixToVectors_value",
+      "type": "property",
+      "name": "value",
+      "class": "RigVMFunction_MathMatrixToVectors",
+      "property_type": "Matrix",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_RigVMFunction_MathMatrixToVectors_origin",
+      "type": "property",
+      "name": "origin",
+      "class": "RigVMFunction_MathMatrixToVectors",
+      "property_type": "Vector",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_RigVMFunction_MathMatrixToVectors_x",
+      "type": "property",
+      "name": "x",
+      "class": "RigVMFunction_MathMatrixToVectors",
+      "property_type": "Vector",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_RigVMFunction_MathMatrixToVectors_y",
+      "type": "property",
+      "name": "y",
+      "class": "RigVMFunction_MathMatrixToVectors",
+      "property_type": "Vector",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_RigVMFunction_MathMatrixToVectors_z",
+      "type": "property",
+      "name": "z",
+      "class": "RigVMFunction_MathMatrixToVectors",
+      "property_type": "Vector",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_Actor_root_component",
+      "type": "property",
+      "name": "root_component",
+      "class": "Actor",
+      "property_type": "SceneComponent",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_Actor_tags",
+      "type": "property",
+      "name": "tags",
+      "class": "Actor",
+      "property_type": "Array[Name]",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_Actor_replicates",
+      "type": "property",
+      "name": "replicates",
+      "class": "Actor",
+      "property_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_Actor_hidden",
+      "type": "property",
+      "name": "hidden",
+      "class": "Actor",
+      "property_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_Actor_can_be_damaged",
+      "type": "property",
+      "name": "can_be_damaged",
+      "class": "Actor",
+      "property_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "method_GeometryScript_AssetUtils_copy_mesh_to_static_mesh",
+      "type": "method",
+      "name": "copy_mesh_to_static_mesh",
+      "class": "GeometryScript_AssetUtils",
+      "classmethod": true,
+      "description": "Updates a Static Mesh Asset with new geometry converted from a Dynamic Mesh"
+    },
+    {
+      "id": "method_GeometryScript_AssetUtils_copy_mesh_from_static_mesh",
+      "type": "method",
+      "name": "copy_mesh_from_static_mesh",
+      "class": "GeometryScript_AssetUtils",
+      "classmethod": true,
+      "description": "Extracts a Dynamic Mesh from a Static Mesh Asset"
+    },
+    {
+      "id": "method_GeometryScript_AssetUtils_get_material_list_from_static_mesh",
+      "type": "method",
+      "name": "get_material_list_from_static_mesh",
+      "class": "GeometryScript_AssetUtils",
+      "classmethod": true,
+      "description": "Get the asset materials from the static mesh asset"
+    },
+    {
+      "id": "method_RigVMUserWorkflowRegistry_register_provider",
+      "type": "method",
+      "name": "register_provider",
+      "class": "RigVMUserWorkflowRegistry",
+      "return_type": "int"
+    },
+    {
+      "id": "method_RigVMUserWorkflowRegistry_unregister_provider",
+      "type": "method",
+      "name": "unregister_provider",
+      "class": "RigVMUserWorkflowRegistry"
+    },
+    {
+      "id": "method_RigVMUserWorkflowRegistry_get_workflows",
+      "type": "method",
+      "name": "get_workflows",
+      "class": "RigVMUserWorkflowRegistry",
+      "return_type": "Array[RigVMUserWorkflow]"
+    },
+    {
+      "id": "method_UsdAssetCache_get_cached_asset",
+      "type": "method",
+      "name": "get_cached_asset",
+      "class": "UsdAssetCache",
+      "description": "Returns the asset associated with a particular Hash"
+    },
+    {
+      "id": "method_UsdAssetCache_cache_asset",
+      "type": "method",
+      "name": "cache_asset",
+      "class": "UsdAssetCache",
+      "description": "Adds an existing asset to the cache attached to a particular hash"
+    },
+    {
+      "id": "method_UsdAssetCache_delete_unreferenced_assets",
+      "type": "method",
+      "name": "delete_unreferenced_assets",
+      "class": "UsdAssetCache",
+      "description": "Deletes all assets that are tracked, deletable, and not used by other UObjects"
+    },
+    {
+      "id": "prop_SafeZoneSlot_is_title_safe",
+      "type": "property",
+      "name": "is_title_safe",
+      "class": "SafeZoneSlot",
+      "property_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_SafeZoneSlot_padding",
+      "type": "property",
+      "name": "padding",
+      "class": "SafeZoneSlot",
+      "property_type": "Margin",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_SafeZoneSlot_h_align",
+      "type": "property",
+      "name": "h_align",
+      "class": "SafeZoneSlot",
+      "property_type": "HorizontalAlignment",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_SafeZoneSlot_v_align",
+      "type": "property",
+      "name": "v_align",
+      "class": "SafeZoneSlot",
+      "property_type": "VerticalAlignment",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_ComboBoxStyle_combo_button_style",
+      "type": "property",
+      "name": "combo_button_style",
+      "class": "ComboBoxStyle",
+      "property_type": "ComboButtonStyle",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_ComboBoxStyle_pressed_slate_sound",
+      "type": "property",
+      "name": "pressed_slate_sound",
+      "class": "ComboBoxStyle",
+      "property_type": "SlateSound",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_ComboBoxStyle_content_padding",
+      "type": "property",
+      "name": "content_padding",
+      "class": "ComboBoxStyle",
+      "property_type": "Margin",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_AnimationTrackPayload_name",
+      "type": "property",
+      "name": "name",
+      "class": "AnimationTrackPayload",
+      "property_type": "Name",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_glTFRuntimeMaterialsConfig_cache_mode",
+      "type": "property",
+      "name": "cache_mode",
+      "class": "glTFRuntimeMaterialsConfig",
+      "property_type": "EglTFRuntimeCacheMode",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_glTFRuntimeMaterialsConfig_materials_override_map",
+      "type": "property",
+      "name": "materials_override_map",
+      "class": "glTFRuntimeMaterialsConfig",
+      "property_type": "Map[int, MaterialInterface]",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_glTFRuntimeMaterialsConfig_images_config",
+      "type": "property",
+      "name": "images_config",
+      "class": "glTFRuntimeMaterialsConfig",
+      "property_type": "glTFRuntimeImagesConfig",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_UsdAssetCache_asset_directory",
+      "type": "property",
+      "name": "asset_directory",
+      "class": "UsdAssetCache",
+      "property_type": "DirectoryPath",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_UsdAssetCache_hash_to_asset_paths",
+      "type": "property",
+      "name": "hash_to_asset_paths",
+      "class": "UsdAssetCache",
+      "property_type": "Map[str, SoftObjectPath]",
+      "access": "read-write"
+    },
+    {
+      "id": "method_MovieSceneScriptingStringChannel_add_key",
+      "type": "method",
+      "name": "add_key",
+      "class": "MovieSceneScriptingStringChannel",
+      "return_type": "MovieSceneScriptingStringKey"
+    },
+    {
+      "id": "method_MovieSceneScriptingStringChannel_get_keys",
+      "type": "method",
+      "name": "get_keys",
+      "class": "MovieSceneScriptingStringChannel",
+      "return_type": "Array[MovieSceneScriptingKey]"
+    },
+    {
+      "id": "method_MovieSceneScriptingStringChannel_set_default",
+      "type": "method",
+      "name": "set_default",
+      "class": "MovieSceneScriptingStringChannel"
+    },
+    {
+      "id": "prop_AnimNode_BoneDrivenController_source_bone",
+      "type": "property",
+      "name": "source_bone",
+      "class": "AnimNode_BoneDrivenController",
+      "property_type": "BoneReference",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_AnimNode_BoneDrivenController_target_bone",
+      "type": "property",
+      "name": "target_bone",
+      "class": "AnimNode_BoneDrivenController",
+      "property_type": "BoneReference",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_AnimNode_BoneDrivenController_multiplier",
+      "type": "property",
+      "name": "multiplier",
+      "class": "AnimNode_BoneDrivenController",
+      "property_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_AnimNode_BoneDrivenController_driving_curve",
+      "type": "property",
+      "name": "driving_curve",
+      "class": "AnimNode_BoneDrivenController",
+      "property_type": "CurveFloat",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_UniformInteger_magnitude",
+      "type": "property",
+      "name": "magnitude",
+      "class": "UniformInteger",
+      "property_type": "int",
+      "access": "read-write"
+    },
+    {
+      "id": "method_UniformInteger_set_uniform_integer",
+      "type": "method",
+      "name": "set_uniform_integer",
+      "class": "UniformInteger",
+      "return_type": "UniformInteger"
+    },
+    {
+      "id": "prop_MovieGraphInputNode_script_tags",
+      "type": "property",
+      "name": "script_tags",
+      "class": "MovieGraphInputNode",
+      "property_type": "Array[str]",
+      "access": "read-write"
+    },
+    {
+      "id": "event_Actor_on_actor_begin_overlap",
+      "type": "event",
+      "name": "on_actor_begin_overlap",
+      "class": "Actor",
+      "delegate_type": "ActorBeginOverlapSignature",
+      "description": "Called when another actor begins to overlap this actor"
+    },
+    {
+      "id": "event_Actor_on_actor_end_overlap",
+      "type": "event",
+      "name": "on_actor_end_overlap",
+      "class": "Actor",
+      "delegate_type": "ActorEndOverlapSignature",
+      "description": "Called when another actor stops overlapping this actor"
+    },
+    {
+      "id": "event_Actor_on_actor_hit",
+      "type": "event",
+      "name": "on_actor_hit",
+      "class": "Actor",
+      "delegate_type": "ActorHitSignature",
+      "description": "Called when this Actor hits or is hit by something solid"
+    },
+    {
+      "id": "event_Actor_on_take_any_damage",
+      "type": "event",
+      "name": "on_take_any_damage",
+      "class": "Actor",
+      "delegate_type": "TakeAnyDamageSignature",
+      "description": "Called when the actor is damaged in any way"
+    },
+    {
+      "id": "event_Actor_on_take_point_damage",
+      "type": "event",
+      "name": "on_take_point_damage",
+      "class": "Actor",
+      "delegate_type": "TakePointDamageSignature",
+      "description": "Called when the actor is damaged by point damage"
+    },
+    {
+      "id": "event_Actor_on_take_radial_damage",
+      "type": "event",
+      "name": "on_take_radial_damage",
+      "class": "Actor",
+      "delegate_type": "TakeRadialDamageSignature",
+      "description": "Called when the actor is damaged by radial damage"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_inheritance_Name_WrapperBase",
+      "source": "class_Name",
+      "target": "_WrapperBase",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_RigVMFunction_MathMatrixToVectors_MathMatrixBase",
+      "source": "class_RigVMFunction_MathMatrixToVectors",
+      "target": "RigVMFunction_MathMatrixBase",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_Actor_Object",
+      "source": "class_Actor",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_ComboBoxStyle_SlateWidgetStyle",
+      "source": "class_ComboBoxStyle",
+      "target": "SlateWidgetStyle",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_GeometryScript_AssetUtils_BlueprintFunctionLibrary",
+      "source": "class_GeometryScript_AssetUtils",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_SafeZoneSlot_PanelSlot",
+      "source": "class_SafeZoneSlot",
+      "target": "PanelSlot",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_AnimationTrackPayload_EmptyPayload",
+      "source": "class_AnimationTrackPayload",
+      "target": "EmptyPayload",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_EarthMarkerProducerFragments_StructBase",
+      "source": "class_EarthMarkerProducerFragments",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_ChangedMaterialInfo_StructBase",
+      "source": "class_ChangedMaterialInfo",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_RigVMUserWorkflowRegistry_Object",
+      "source": "class_RigVMUserWorkflowRegistry",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_glTFRuntimeMaterialsConfig_StructBase",
+      "source": "class_glTFRuntimeMaterialsConfig",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_UsdAssetCache_Object",
+      "source": "class_UsdAssetCache",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_InstancePointDamageSignature_MulticastDelegateBase",
+      "source": "class_InstancePointDamageSignature",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_AnimNode_BoneDrivenController_AnimNode_SkeletalControlBase",
+      "source": "class_AnimNode_BoneDrivenController",
+      "target": "AnimNode_SkeletalControlBase",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_MovieSceneScriptingStringChannel_MovieSceneScriptingChannel",
+      "source": "class_MovieSceneScriptingStringChannel",
+      "target": "MovieSceneScriptingChannel",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_UniformInteger_FieldNodeInt",
+      "source": "class_UniformInteger",
+      "target": "FieldNodeInt",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_inheritance_MovieGraphInputNode_MovieGraphNode",
+      "source": "class_MovieGraphInputNode",
+      "target": "MovieGraphNode",
+      "type": "inherits_from"
+    },
+    {
+      "id": "edge_ownership_method_Name_init",
+      "source": "method_Name_init",
+      "target": "class_Name",
+      "type": "belongs_to"
+    },
+    {
+      "id": "edge_ownership_method_Name_cast",
+      "source": "method_Name_cast",
+      "target": "class_Name",
+      "type": "belongs_to"
+    },
+    {
+      "id": "edge_ownership_method_Name_is_valid",
+      "source": "method_Name_is_valid",
+      "target": "class_Name",
+      "type": "belongs_to"
+    },
+    {
+      "id": "edge_ownership_method_Name_is_none",
+      "source": "method_Name_is_none",
+      "target": "class_Name",
+      "type": "belongs_to"
+    },
+    {
+      "id": "edge_ownership_prop_RigVMFunction_value",
+      "source": "prop_RigVMFunction_MathMatrixToVectors_value",
+      "target": "class_RigVMFunction_MathMatrixToVectors",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_RigVMFunction_origin",
+      "source": "prop_RigVMFunction_MathMatrixToVectors_origin",
+      "target": "class_RigVMFunction_MathMatrixToVectors",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_RigVMFunction_x",
+      "source": "prop_RigVMFunction_MathMatrixToVectors_x",
+      "target": "class_RigVMFunction_MathMatrixToVectors",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_RigVMFunction_y",
+      "source": "prop_RigVMFunction_MathMatrixToVectors_y",
+      "target": "class_RigVMFunction_MathMatrixToVectors",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_RigVMFunction_z",
+      "source": "prop_RigVMFunction_MathMatrixToVectors_z",
+      "target": "class_RigVMFunction_MathMatrixToVectors",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_Actor_root_component",
+      "source": "prop_Actor_root_component",
+      "target": "class_Actor",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_Actor_tags",
+      "source": "prop_Actor_tags",
+      "target": "class_Actor",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_Actor_replicates",
+      "source": "prop_Actor_replicates",
+      "target": "class_Actor",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_Actor_hidden",
+      "source": "prop_Actor_hidden",
+      "target": "class_Actor",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_Actor_can_be_damaged",
+      "source": "prop_Actor_can_be_damaged",
+      "target": "class_Actor",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_method_GeometryScript_copy_mesh_to_static_mesh",
+      "source": "method_GeometryScript_AssetUtils_copy_mesh_to_static_mesh",
+      "target": "class_GeometryScript_AssetUtils",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_GeometryScript_copy_mesh_from_static_mesh",
+      "source": "method_GeometryScript_AssetUtils_copy_mesh_from_static_mesh",
+      "target": "class_GeometryScript_AssetUtils",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_GeometryScript_get_material_list",
+      "source": "method_GeometryScript_AssetUtils_get_material_list_from_static_mesh",
+      "target": "class_GeometryScript_AssetUtils",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_RigVMUserWorkflowRegistry_register_provider",
+      "source": "method_RigVMUserWorkflowRegistry_register_provider",
+      "target": "class_RigVMUserWorkflowRegistry",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_RigVMUserWorkflowRegistry_unregister_provider",
+      "source": "method_RigVMUserWorkflowRegistry_unregister_provider",
+      "target": "class_RigVMUserWorkflowRegistry",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_RigVMUserWorkflowRegistry_get_workflows",
+      "source": "method_RigVMUserWorkflowRegistry_get_workflows",
+      "target": "class_RigVMUserWorkflowRegistry",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_UsdAssetCache_get_cached_asset",
+      "source": "method_UsdAssetCache_get_cached_asset",
+      "target": "class_UsdAssetCache",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_UsdAssetCache_cache_asset",
+      "source": "method_UsdAssetCache_cache_asset",
+      "target": "class_UsdAssetCache",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_UsdAssetCache_delete_unreferenced_assets",
+      "source": "method_UsdAssetCache_delete_unreferenced_assets",
+      "target": "class_UsdAssetCache",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_prop_SafeZoneSlot_is_title_safe",
+      "source": "prop_SafeZoneSlot_is_title_safe",
+      "target": "class_SafeZoneSlot",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_SafeZoneSlot_padding",
+      "source": "prop_SafeZoneSlot_padding",
+      "target": "class_SafeZoneSlot",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_SafeZoneSlot_h_align",
+      "source": "prop_SafeZoneSlot_h_align",
+      "target": "class_SafeZoneSlot",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_SafeZoneSlot_v_align",
+      "source": "prop_SafeZoneSlot_v_align",
+      "target": "class_SafeZoneSlot",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_ComboBoxStyle_combo_button_style",
+      "source": "prop_ComboBoxStyle_combo_button_style",
+      "target": "class_ComboBoxStyle",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_ComboBoxStyle_pressed_slate_sound",
+      "source": "prop_ComboBoxStyle_pressed_slate_sound",
+      "target": "class_ComboBoxStyle",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_ComboBoxStyle_content_padding",
+      "source": "prop_ComboBoxStyle_content_padding",
+      "target": "class_ComboBoxStyle",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_AnimationTrackPayload_name",
+      "source": "prop_AnimationTrackPayload_name",
+      "target": "class_AnimationTrackPayload",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_glTFRuntimeMaterialsConfig_cache_mode",
+      "source": "prop_glTFRuntimeMaterialsConfig_cache_mode",
+      "target": "class_glTFRuntimeMaterialsConfig",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_glTFRuntimeMaterialsConfig_materials_override_map",
+      "source": "prop_glTFRuntimeMaterialsConfig_materials_override_map",
+      "target": "class_glTFRuntimeMaterialsConfig",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_glTFRuntimeMaterialsConfig_images_config",
+      "source": "prop_glTFRuntimeMaterialsConfig_images_config",
+      "target": "class_glTFRuntimeMaterialsConfig",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_UsdAssetCache_asset_directory",
+      "source": "prop_UsdAssetCache_asset_directory",
+      "target": "class_UsdAssetCache",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_UsdAssetCache_hash_to_asset_paths",
+      "source": "prop_UsdAssetCache_hash_to_asset_paths",
+      "target": "class_UsdAssetCache",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_method_MovieSceneScriptingStringChannel_add_key",
+      "source": "method_MovieSceneScriptingStringChannel_add_key",
+      "target": "class_MovieSceneScriptingStringChannel",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_MovieSceneScriptingStringChannel_get_keys",
+      "source": "method_MovieSceneScriptingStringChannel_get_keys",
+      "target": "class_MovieSceneScriptingStringChannel",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_method_MovieSceneScriptingStringChannel_set_default",
+      "source": "method_MovieSceneScriptingStringChannel_set_default",
+      "target": "class_MovieSceneScriptingStringChannel",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_prop_AnimNode_BoneDrivenController_source_bone",
+      "source": "prop_AnimNode_BoneDrivenController_source_bone",
+      "target": "class_AnimNode_BoneDrivenController",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_AnimNode_BoneDrivenController_target_bone",
+      "source": "prop_AnimNode_BoneDrivenController_target_bone",
+      "target": "class_AnimNode_BoneDrivenController",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_AnimNode_BoneDrivenController_multiplier",
+      "source": "prop_AnimNode_BoneDrivenController_multiplier",
+      "target": "class_AnimNode_BoneDrivenController",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_AnimNode_BoneDrivenController_driving_curve",
+      "source": "prop_AnimNode_BoneDrivenController_driving_curve",
+      "target": "class_AnimNode_BoneDrivenController",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_prop_UniformInteger_magnitude",
+      "source": "prop_UniformInteger_magnitude",
+      "target": "class_UniformInteger",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_method_UniformInteger_set_uniform_integer",
+      "source": "method_UniformInteger_set_uniform_integer",
+      "target": "class_UniformInteger",
+      "type": "method_of"
+    },
+    {
+      "id": "edge_ownership_prop_MovieGraphInputNode_script_tags",
+      "source": "prop_MovieGraphInputNode_script_tags",
+      "target": "class_MovieGraphInputNode",
+      "type": "property_of"
+    },
+    {
+      "id": "edge_ownership_event_Actor_on_actor_begin_overlap",
+      "source": "event_Actor_on_actor_begin_overlap",
+      "target": "class_Actor",
+      "type": "event_of"
+    },
+    {
+      "id": "edge_ownership_event_Actor_on_actor_end_overlap",
+      "source": "event_Actor_on_actor_end_overlap",
+      "target": "class_Actor",
+      "type": "event_of"
+    },
+    {
+      "id": "edge_ownership_event_Actor_on_actor_hit",
+      "source": "event_Actor_on_actor_hit",
+      "target": "class_Actor",
+      "type": "event_of"
+    },
+    {
+      "id": "edge_ownership_event_Actor_on_take_any_damage",
+      "source": "event_Actor_on_take_any_damage",
+      "target": "class_Actor",
+      "type": "event_of"
+    },
+    {
+      "id": "edge_ownership_event_Actor_on_take_point_damage",
+      "source": "event_Actor_on_take_point_damage",
+      "target": "class_Actor",
+      "type": "event_of"
+    },
+    {
+      "id": "edge_ownership_event_Actor_on_take_radial_damage",
+      "source": "event_Actor_on_take_radial_damage",
+      "target": "class_Actor",
+      "type": "event_of"
+    },
+    {
+      "id": "edge_type_prop_Actor_root_component_SceneComponent",
+      "source": "prop_Actor_root_component",
+      "target": "SceneComponent",
+      "type": "has_type"
+    },
+    {
+      "id": "edge_type_prop_RigVMFunction_value_Matrix",
+      "source": "prop_RigVMFunction_MathMatrixToVectors_value",
+      "target": "Matrix",
+      "type": "has_type"
+    },
+    {
+      "id": "edge_type_prop_RigVMFunction_origin_Vector",
+      "source": "prop_RigVMFunction_MathMatrixToVectors_origin",
+      "target": "Vector",
+      "type": "has_type"
+    },
+    {
+      "id": "edge_type_prop_SafeZoneSlot_padding_Margin",
+      "source": "prop_SafeZoneSlot_padding",
+      "target": "Margin",
+      "type": "has_type"
+    },
+    {
+      "id": "edge_type_prop_AnimNode_driving_curve_CurveFloat",
+      "source": "prop_AnimNode_BoneDrivenController_driving_curve",
+      "target": "CurveFloat",
+      "type": "has_type"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_matrix_to_vectors_conversion",
+      "nodes": [
+        "class_RigVMFunction_MathMatrixToVectors",
+        "prop_RigVMFunction_MathMatrixToVectors_value",
+        "prop_RigVMFunction_MathMatrixToVectors_origin",
+        "prop_RigVMFunction_MathMatrixToVectors_x",
+        "prop_RigVMFunction_MathMatrixToVectors_y",
+        "prop_RigVMFunction_MathMatrixToVectors_z"
+      ],
+      "description": "Matrix to vectors conversion process: converts a Matrix input to its component vectors (x, y, z) and origin",
+      "type": "transformation"
+    },
+    {
+      "id": "hyperedge_actor_lifecycle",
+      "nodes": [
+        "class_Actor",
+        "event_Actor_on_actor_begin_overlap",
+        "event_Actor_on_actor_end_overlap",
+        "event_Actor_on_actor_hit",
+        "event_Actor_on_take_any_damage"
+      ],
+      "description": "Actor lifecycle events and interactions with other actors and damage systems",
+      "type": "lifecycle"
+    },
+    {
+      "id": "hyperedge_geometry_script_asset_workflow",
+      "nodes": [
+        "class_GeometryScript_AssetUtils",
+        "method_GeometryScript_AssetUtils_copy_mesh_to_static_mesh",
+        "method_GeometryScript_AssetUtils_copy_mesh_from_static_mesh",
+        "method_GeometryScript_AssetUtils_get_material_list_from_static_mesh"
+      ],
+      "description": "Geometry scripting workflow for mesh asset manipulation: copy meshes between dynamic and static mesh assets and manage materials",
+      "type": "workflow"
+    },
+    {
+      "id": "hyperedge_usd_asset_caching",
+      "nodes": [
+        "class_UsdAssetCache",
+        "prop_UsdAssetCache_hash_to_asset_paths",
+        "method_UsdAssetCache_cache_asset",
+        "method_UsdAssetCache_get_cached_asset",
+        "method_UsdAssetCache_delete_unreferenced_assets"
+      ],
+      "description": "USD asset caching system: tracks generated assets via hash mapping, with caching, retrieval, and cleanup capabilities",
+      "type": "system"
+    },
+    {
+      "id": "hyperedge_rigvm_workflow_registry",
+      "nodes": [
+        "class_RigVMUserWorkflowRegistry",
+        "method_RigVMUserWorkflowRegistry_register_provider",
+        "method_RigVMUserWorkflowRegistry_unregister_provider",
+        "method_RigVMUserWorkflowRegistry_get_workflows"
+      ],
+      "description": "RigVM workflow registration and management system for custom workflows",
+      "type": "registry"
+    },
+    {
+      "id": "hyperedge_bone_driven_controller",
+      "nodes": [
+        "class_AnimNode_BoneDrivenController",
+        "prop_AnimNode_BoneDrivenController_source_bone",
+        "prop_AnimNode_BoneDrivenController_target_bone",
+        "prop_AnimNode_BoneDrivenController_multiplier",
+        "prop_AnimNode_BoneDrivenController_driving_curve"
+      ],
+      "description": "Bone driven controller system: maps bone state from source to target using multiplier or curve-based transformation",
+      "type": "animation"
+    },
+    {
+      "id": "hyperedge_moviescene_string_channel",
+      "nodes": [
+        "class_MovieSceneScriptingStringChannel",
+        "method_MovieSceneScriptingStringChannel_add_key",
+        "method_MovieSceneScriptingStringChannel_get_keys",
+        "method_MovieSceneScriptingStringChannel_set_default"
+      ],
+      "description": "Movie scene scripting for string channels: keyframe management and default value handling",
+      "type": "sequencer"
+    },
+    {
+      "id": "hyperedge_safezone_ui_layout",
+      "nodes": [
+        "class_SafeZoneSlot",
+        "prop_SafeZoneSlot_is_title_safe",
+        "prop_SafeZoneSlot_padding",
+        "prop_SafeZoneSlot_h_align",
+        "prop_SafeZoneSlot_v_align"
+      ],
+      "description": "Safe zone UI layout system: manages safe area scaling, padding, and alignment for UI elements",
+      "type": "ui_layout"
+    },
+    {
+      "id": "hyperedge_gltf_material_configuration",
+      "nodes": [
+        "class_glTFRuntimeMaterialsConfig",
+        "prop_glTFRuntimeMaterialsConfig_cache_mode",
+        "prop_glTFRuntimeMaterialsConfig_materials_override_map",
+        "prop_glTFRuntimeMaterialsConfig_images_config"
+      ],
+      "description": "glTF runtime material configuration: cache settings, material overrides, and image processing options",
+      "type": "import_config"
+    },
+    {
+      "id": "hyperedge_uniform_integer_field",
+      "nodes": [
+        "class_UniformInteger",
+        "prop_UniformInteger_magnitude",
+        "method_UniformInteger_set_uniform_integer"
+      ],
+      "description": "Uniform integer field system: creates a field with constant integer output value",
+      "type": "field_system"
+    },
+    {
+      "id": "hyperedge_movie_graph_input",
+      "nodes": [
+        "class_MovieGraphInputNode",
+        "prop_MovieGraphInputNode_script_tags"
+      ],
+      "description": "Movie render graph input node with script tagging for pre/post render identification",
+      "type": "render_graph"
+    },
+    {
+      "id": "hyperedge_combobox_style_system",
+      "nodes": [
+        "class_ComboBoxStyle",
+        "prop_ComboBoxStyle_combo_button_style",
+        "prop_ComboBoxStyle_pressed_slate_sound",
+        "prop_ComboBoxStyle_content_padding"
+      ],
+      "description": "ComboBox styling system: button styles, sounds, and layout padding for UI combo boxes",
+      "type": "ui_styling"
+    }
+  ]
+}

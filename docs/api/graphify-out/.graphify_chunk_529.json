@@ -1,0 +1,614 @@
+{
+  "nodes": [
+    {
+      "id": "lowentrysplittypethreeplayers_enum",
+      "label": "LowEntrySplitScreenTypeThreePlayers",
+      "file_type": "document",
+      "source_file": "LowEntrySplitScreenTypeThreePlayers Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skyatmospheretransformmode_enum",
+      "label": "SkyAtmosphereTransformMode",
+      "file_type": "document",
+      "source_file": "SkyAtmosphereTransformMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontimportcharacterset_enum",
+      "label": "FontImportCharacterSet",
+      "file_type": "document",
+      "source_file": "FontImportCharacterSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editablegameplaytagqueryexpression_noexprmatch_class",
+      "label": "EditableGameplayTagQueryExpression_NoExprMatch",
+      "file_type": "document",
+      "source_file": "EditableGameplayTagQueryExpression_NoExprMatch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitydataresult_class",
+      "label": "EntityDataResult",
+      "file_type": "document",
+      "source_file": "EntityDataResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendablelocation_enum",
+      "label": "BlendableLocation",
+      "file_type": "document",
+      "source_file": "BlendableLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundgroup_enum",
+      "label": "SoundGroup",
+      "file_type": "document",
+      "source_file": "SoundGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioparameterconversionstatics_class",
+      "label": "AudioParameterConversionStatics",
+      "file_type": "document",
+      "source_file": "AudioParameterConversionStatics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnaction_class",
+      "label": "PawnAction",
+      "file_type": "document",
+      "source_file": "PawnAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "switchactor_class",
+      "label": "SwitchActor",
+      "file_type": "document",
+      "source_file": "SwitchActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opacitysourcemode_enum",
+      "label": "OpacitySourceMode",
+      "file_type": "document",
+      "source_file": "OpacitySourceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorpresetrotation_class",
+      "label": "PropertyAnimatorPresetRotation",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorPresetRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgableroofprefab_class",
+      "label": "EarthGableRoofPrefab",
+      "file_type": "document",
+      "source_file": "EarthGableRoofPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionviewsize_class",
+      "label": "MaterialExpressionViewSize",
+      "file_type": "document",
+      "source_file": "MaterialExpressionViewSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "locationservices_class",
+      "label": "LocationServices",
+      "file_type": "document",
+      "source_file": "LocationServices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintmin_class",
+      "label": "RigVMFunction_MathIntMin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintequals_class",
+      "label": "RigVMFunction_MathIntEquals",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintgreaterequal_class",
+      "label": "RigVMFunction_MathIntGreaterEqual",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "watermeshcomponent_class",
+      "label": "WaterMeshComponent",
+      "file_type": "document",
+      "source_file": "WaterMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlegikdefinition_class",
+      "label": "AnimLegIKDefinition",
+      "file_type": "document",
+      "source_file": "AnimLegIKDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mousecursorinteractor_class",
+      "label": "MouseCursorInteractor",
+      "file_type": "document",
+      "source_file": "MouseCursorInteractor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioparameter_concept",
+      "label": "AudioParameter",
+      "file_type": "document",
+      "source_file": "AudioParameterConversionStatics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "postprocessing_pipeline_concept",
+      "label": "Post Processing Pipeline",
+      "file_type": "document",
+      "source_file": "BlendableLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_int_operations_concept",
+      "label": "RigVM Integer Operations",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_ai_actions_concept",
+      "label": "Deprecated AI Actions Pattern",
+      "file_type": "document",
+      "source_file": "PawnAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "water_rendering_system_concept",
+      "label": "Water Rendering System",
+      "file_type": "document",
+      "source_file": "WaterMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leg_ik_system_concept",
+      "label": "Leg IK System",
+      "file_type": "document",
+      "source_file": "AnimLegIKDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "variant_manager_system_concept",
+      "label": "Variant Manager System",
+      "file_type": "document",
+      "source_file": "SwitchActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mobile_location_services_concept",
+      "label": "Mobile Location Services",
+      "file_type": "document",
+      "source_file": "LocationServices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "editablegameplaytagqueryexpression_noexprmatch_class",
+      "target": "editablegameplaytagqueryexpression_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditableGameplayTagQueryExpression_NoExprMatch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entitydataresult_class",
+      "target": "resultbase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityDataResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioparameterconversionstatics_class",
+      "target": "audioparameter_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioParameterConversionStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_class",
+      "target": "deprecated_ai_actions_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PawnAction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "switchactor_class",
+      "target": "variant_manager_system_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SwitchActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blendablelocation_enum",
+      "target": "postprocessing_pipeline_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "BlendableLocation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintmin_class",
+      "target": "rigvm_int_operations_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction__MathIntMin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintequals_class",
+      "target": "rigvm_int_operations_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction_MathIntEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintgreaterequal_class",
+      "target": "rigvm_int_operations_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction__MathIntGreaterEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintmin_class",
+      "target": "rigvmfunction_mathintbinaryaggregateop_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntMin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintequals_class",
+      "target": "rigvmfunction_mathintbase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintgreaterequal_class",
+      "target": "rigvmfunction_mathintbase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntGreaterEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintequals_class",
+      "target": "rigvmfunction_mathintgreaterequal_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathIntEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "watermeshcomponent_class",
+      "target": "water_rendering_system_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WaterMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animlegikdefinition_class",
+      "target": "leg_ik_system_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AnimLegIKDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "locationservices_class",
+      "target": "mobile_location_services_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "LocationServices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorpresetrotation_class",
+      "target": "propertyanimatorcorepropertypreset_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorPresetRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthgableroofprefab_class",
+      "target": "earthroofprefab_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGableRoofPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionviewsize_class",
+      "target": "materialexpression_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionViewSize Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mousecursorinteractor_class",
+      "target": "viewportinteractor_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MouseCursorInteractor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "switchactor_class",
+      "target": "actor_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SwitchActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "watermeshcomponent_class",
+      "target": "meshcomponent_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_class",
+      "target": "object_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioparameterconversionstatics_class",
+      "target": "blueprintfuntionlibrary_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioParameterConversionStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "locationservices_class",
+      "target": "blueprintfuntionlibrary_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LocationServices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioparameterconversionstatics_class",
+      "target": "locationservices_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AudioParameterConversionStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_integer_math_functions",
+      "label": "RigVM Integer Math Functions",
+      "nodes": [
+        "rigvmfunction_mathintmin_class",
+        "rigvmfunction_mathintequals_class",
+        "rigvmfunction_mathintgreaterequal_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathIntMin Objects.md"
+    },
+    {
+      "id": "audio_conversion_methods",
+      "label": "Audio Parameter Type Conversion Methods",
+      "nodes": [
+        "audioparameterconversionstatics_class",
+        "audioparameter_concept"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AudioParameterConversionStatics Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

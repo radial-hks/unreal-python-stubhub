@@ -1,0 +1,662 @@
+{
+  "nodes": [
+    {
+      "id": "FCEase",
+      "type": "enum",
+      "name": "FCEase",
+      "module": "FCTween",
+      "plugin": "FCTween",
+      "file": "FCEasing.h",
+      "description": "EFCEase",
+      "values": [
+        "LINEAR", "SMOOTHSTEP", "STEPPED", "IN_SINE", "OUT_SINE", "IN_OUT_SINE",
+        "IN_QUAD", "OUT_QUAD", "IN_OUT_QUAD", "IN_CUBIC", "OUT_CUBIC", "IN_OUT_CUBIC",
+        "IN_QUART", "OUT_QUART", "IN_OUT_QUART", "IN_QUINT", "OUT_QUINT", "IN_OUT_QUINT",
+        "IN_EXPO", "OUT_EXPO", "IN_OUT_EXPO", "IN_CIRC", "OUT_CIRC", "IN_OUT_CIRC",
+        "IN_ELASTIC", "OUT_ELASTIC", "IN_OUT_ELASTIC", "IN_BOUNCE", "OUT_BOUNCE",
+        "IN_OUT_BOUNCE", "IN_BACK", "OUT_BACK", "IN_OUT_BACK"
+      ]
+    },
+    {
+      "id": "RigUnit_UnaryQuaternionOp",
+      "type": "class",
+      "name": "RigUnit_UnaryQuaternionOp",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_Quaternion.h",
+      "description": "Two args and a result of Quaternion type",
+      "properties": [
+        {"name": "argument", "type": "Quat", "access": "read-write"},
+        {"name": "result", "type": "Quat", "access": "read-only"}
+      ]
+    },
+    {
+      "id": "AesFlowMapEditorCommandParams_Paint",
+      "type": "class",
+      "name": "AesFlowMapEditorCommandParams_Paint",
+      "module": "AesEditorMode",
+      "plugin": "AesWorld",
+      "file": "AesFlowMapEditorAction_Paint.h",
+      "description": "Aes Flow Map Editor Command Params Paint"
+    },
+    {
+      "id": "ToolMenus",
+      "type": "class",
+      "name": "ToolMenus",
+      "module": "ToolMenus",
+      "file": "ToolMenus.h",
+      "description": "Tool Menus",
+      "properties": [
+        {"name": "customized_menus", "type": "Array[CustomizedToolMenu]", "access": "read-write"},
+        {"name": "menu_profiles", "type": "Map[Name, ToolMenuProfileMap]", "access": "read-write"},
+        {"name": "menu_substitutions_during_generate", "type": "Map[Name, Name]", "access": "read-write"}
+      ],
+      "methods": [
+        "unregister_owner_by_name", "set_section_position", "set_section_label",
+        "remove_section", "remove_menu", "remove_entry", "register_menu",
+        "refresh_menu_widget", "refresh_all_widgets", "is_menu_registered",
+        "get", "find_menu", "find_context", "extend_menu", "add_menu_entry_object"
+      ]
+    },
+    {
+      "id": "AesRoadEditorCommandParams_AdvancedTools",
+      "type": "class",
+      "name": "AesRoadEditorCommandParams_AdvancedTools",
+      "module": "AesEditorMode",
+      "plugin": "AesWorld",
+      "file": "AesRoadEditorAction_AdvancedTools.h",
+      "description": "Aes Road Editor Command Params Advanced Tools"
+    },
+    {
+      "id": "InputScaleBiasClampState",
+      "type": "struct",
+      "name": "InputScaleBiasClampState",
+      "module": "Engine",
+      "file": "InputScaleBias.h",
+      "description": "Mutable state struct to be used with FInputScaleBiasClampConstants"
+    },
+    {
+      "id": "InterchangeActorFactory",
+      "type": "class",
+      "name": "InterchangeActorFactory",
+      "module": "InterchangeImport",
+      "plugin": "Interchange",
+      "file": "InterchangeActorFactory.h",
+      "description": "Interchange Actor Factory"
+    },
+    {
+      "id": "SpeedTreeGeometryType",
+      "type": "enum",
+      "name": "SpeedTreeGeometryType",
+      "module": "Engine",
+      "file": "MaterialExpressionSpeedTree.h",
+      "description": "ESpeed Tree Geometry Type",
+      "values": ["STG_BRANCH", "STG_FROND", "STG_LEAF", "STG_FACING_LEAF", "STG_BILLBOARD"]
+    },
+    {
+      "id": "PartyBeaconClient",
+      "type": "class",
+      "name": "PartyBeaconClient",
+      "module": "OnlineSubsystemUtils",
+      "plugin": "OnlineSubsystemUtils",
+      "file": "PartyBeaconClient.h",
+      "description": "A beacon client used for making reservations with an existing game session",
+      "properties": [
+        {"name": "actor_guid", "type": "Guid", "access": "read-write"},
+        {"name": "actor_instance_guid", "type": "Guid", "access": "read-write"},
+        {"name": "allow_tick_before_begin_play", "type": "bool", "access": "read-write"},
+        {"name": "always_relevant", "type": "bool", "access": "read-write"},
+        {"name": "async_physics_tick_enabled", "type": "bool", "access": "read-write"},
+        {"name": "auto_destroy_when_finished", "type": "bool", "access": "read-write"},
+        {"name": "auto_receive_input", "type": "AutoReceiveInput", "access": "read-write"},
+        {"name": "block_input", "type": "bool", "access": "read-write"},
+        {"name": "can_be_damaged", "type": "bool", "access": "read-write"},
+        {"name": "can_be_in_cluster", "type": "bool", "access": "read-write"},
+        {"name": "content_bundle_guid", "type": "Guid", "access": "read-write"},
+        {"name": "custom_time_dilation", "type": "float", "access": "read-write"},
+        {"name": "data_layers", "type": "Array[ActorDataLayer]", "access": "read-only"},
+        {"name": "enable_auto_lod_generation", "type": "bool", "access": "read-write"},
+        {"name": "external_data_layer_asset", "type": "ExternalDataLayerAsset", "access": "read-only"},
+        {"name": "find_camera_component_when_view_target", "type": "bool", "access": "read-write"},
+        {"name": "generate_overlap_events_during_level_streaming", "type": "bool", "access": "read-write"},
+        {"name": "hidden", "type": "bool", "access": "read-write"},
+        {"name": "hlod_layer", "type": "HLODLayer", "access": "read-write"},
+        {"name": "ignores_origin_shifting", "type": "bool", "access": "read-write"},
+        {"name": "initial_life_span", "type": "float", "access": "read-write"},
+        {"name": "input_priority", "type": "int32", "access": "read-write"},
+        {"name": "instigator", "type": "Pawn", "access": "read-write"},
+        {"name": "is_editor_only_actor", "type": "bool", "access": "read-write"},
+        {"name": "is_main_world_only", "type": "bool", "access": "read-write"},
+        {"name": "is_spatially_loaded", "type": "bool", "access": "read-write"},
+        {"name": "layers", "type": "Array[Name]", "access": "read-write"},
+        {"name": "min_net_update_frequency", "type": "float", "access": "read-write"},
+        {"name": "net_cull_distance_squared", "type": "float", "access": "read-write"},
+        {"name": "net_dormancy", "type": "NetDormancy", "access": "read-write"},
+        {"name": "net_load_on_client", "type": "bool", "access": "read-write"},
+        {"name": "net_priority", "type": "float", "access": "read-write"},
+        {"name": "net_update_frequency", "type": "float", "access": "read-write"},
+        {"name": "net_use_owner_relevancy", "type": "bool", "access": "read-write"},
+        {"name": "on_actor_begin_overlap", "type": "ActorBeginOverlapSignature", "access": "read-write"},
+        {"name": "on_actor_end_overlap", "type": "ActorEndOverlapSignature", "access": "read-write"},
+        {"name": "on_actor_hit", "type": "ActorHitSignature", "access": "read-write"},
+        {"name": "on_begin_cursor_over", "type": "ActorBeginCursorOverSignature", "access": "read-write"},
+        {"name": "on_clicked", "type": "ActorOnClickedSignature", "access": "read-write"},
+        {"name": "on_destroyed", "type": "ActorDestroyedSignature", "access": "read-write"},
+        {"name": "on_end_cursor_over", "type": "ActorEndCursorOverSignature", "access": "read-write"},
+        {"name": "on_end_play", "type": "ActorEndPlaySignature", "access": "read-write"},
+        {"name": "on_input_touch_begin", "type": "ActorOnInputTouchBeginSignature", "access": "read-write"},
+        {"name": "on_input_touch_end", "type": "ActorOnInputTouchEndSignature", "access": "read-write"},
+        {"name": "on_input_touch_enter", "type": "ActorBeginTouchOverSignature", "access": "read-write"},
+        {"name": "on_input_touch_leave", "type": "ActorEndTouchOverSignature", "access": "read-write"},
+        {"name": "on_released", "type": "ActorOnReleasedSignature", "access": "read-write"},
+        {"name": "on_take_any_damage", "type": "TakeAnyDamageSignature", "access": "read-write"},
+        {"name": "on_take_point_damage", "type": "TakePointDamageSignature", "access": "read-write"},
+        {"name": "on_take_radial_damage", "type": "TakeRadialDamageSignature", "access": "read-write"},
+        {"name": "only_relevant_to_owner", "type": "bool", "access": "read-write"},
+        {"name": "optimize_bp_component_data", "type": "bool", "access": "read-write"},
+        {"name": "physics_replication_mode", "type": "PhysicsReplicationMode", "access": "read-write"},
+        {"name": "pivot_offset", "type": "Vector", "access": "read-write"},
+        {"name": "primary_actor_tick", "type": "ActorTickFunction", "access": "read-write"},
+        {"name": "relevant_for_level_bounds", "type": "bool", "access": "read-write"},
+        {"name": "remote_role", "type": "NetRole", "access": "read-only"},
+        {"name": "replay_rewindable", "type": "bool", "access": "read-write"},
+        {"name": "replicate_movement", "type": "bool", "access": "read-write"},
+        {"name": "replicate_using_registered_sub_object_list", "type": "bool", "access": "read-write"},
+        {"name": "replicated_movement", "type": "RepMovement", "access": "read-write"},
+        {"name": "replicates", "type": "bool", "access": "read-write"},
+        {"name": "role", "type": "NetRole", "access": "read-only"},
+        {"name": "root_component", "type": "SceneComponent", "access": "read-write"},
+        {"name": "runtime_grid", "type": "Name", "access": "read-write"},
+        {"name": "spawn_collision_handling_method", "type": "SpawnActorCollisionHandlingMethod", "access": "read-write"},
+        {"name": "sprite_scale", "type": "float", "access": "read-write"},
+        {"name": "tags", "type": "Array[Name]", "access": "read-write"},
+        {"name": "update_overlaps_method_during_level_streaming", "type": "ActorUpdateOverlapsMethod", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "RB_Handle",
+      "type": "class",
+      "name": "RB_Handle",
+      "description": "deprecated: 'RB_Handle' was renamed to 'PhysicsHandleComponent'",
+      "deprecated": true,
+      "renamed_to": "PhysicsHandleComponent"
+    },
+    {
+      "id": "PCGAddComponentSettings",
+      "type": "class",
+      "name": "PCGAddComponentSettings",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGAddComponent.h",
+      "description": "Creates components and adds them to specified actors",
+      "properties": [
+        {"name": "actor_reference_attribute", "type": "PCGAttributePropertyInputSelector", "access": "read-write"},
+        {"name": "allow_template_component_editing", "type": "bool", "access": "read-write"},
+        {"name": "break_debugger", "type": "bool", "access": "read-write"},
+        {"name": "category", "type": "Text", "access": "read-write"},
+        {"name": "class_attribute", "type": "PCGAttributePropertyInputSelector", "access": "read-write"},
+        {"name": "component_reference_attribute", "type": "PCGAttributePropertyOutputNoSourceSelector", "access": "read-write"},
+        {"name": "debug", "type": "bool", "access": "read-write"},
+        {"name": "debug_buffer_size", "type": "int32", "access": "read-write"},
+        {"name": "debug_settings", "type": "PCGDebugVisualizationSettings", "access": "read-write"},
+        {"name": "description", "type": "Text", "access": "read-write"},
+        {"name": "determinism_settings", "type": "PCGDeterminismSettings", "access": "read-write"},
+        {"name": "dump_cooked_hlsl", "type": "bool", "access": "read-write"},
+        {"name": "dump_data_descriptions", "type": "bool", "access": "read-write"},
+        {"name": "enabled", "type": "bool", "access": "read-write"},
+        {"name": "execute_on_gpu", "type": "bool", "access": "read-write"},
+        {"name": "expose_to_library", "type": "bool", "access": "read-write"},
+        {"name": "print_shader_debug_values", "type": "bool", "access": "read-write"},
+        {"name": "seed", "type": "int32", "access": "read-write"},
+        {"name": "template_component", "type": "ActorComponent", "access": "read-write"},
+        {"name": "template_component_class", "type": "Class", "access": "read-only"},
+        {"name": "use_class_attribute", "type": "bool", "access": "read-write"},
+        {"name": "use_seed", "type": "bool", "access": "read-write", "deprecated": true}
+      ]
+    },
+    {
+      "id": "LeaderboardQueryResult",
+      "type": "class",
+      "name": "LeaderboardQueryResult",
+      "module": "OnlineSubsystemUtils",
+      "plugin": "OnlineSubsystemUtils",
+      "file": "LeaderboardQueryCallbackProxy.h",
+      "description": "Leaderboard Query Result Delegate Signature",
+      "parameters": [{"name": "leaderboard_value", "type": "int32"}]
+    },
+    {
+      "id": "ModelerFenceEntity",
+      "type": "class",
+      "name": "ModelerFenceEntity",
+      "module": "WdpModelerEntity",
+      "plugin": "AesRuntimeModeler",
+      "file": "ModelerFenceEntity.h",
+      "description": "Modeler Fence Entity",
+      "properties": [
+        {"name": "actor_guid", "type": "Guid", "access": "read-write"},
+        {"name": "actor_instance_guid", "type": "Guid", "access": "read-write"},
+        {"name": "allow_tick_before_begin_play", "type": "bool", "access": "read-write"},
+        {"name": "always_relevant", "type": "bool", "access": "read-write"},
+        {"name": "async_physics_tick_enabled", "type": "bool", "access": "read-write"},
+        {"name": "auto_destroy_when_finished", "type": "bool", "access": "read-write"},
+        {"name": "auto_receive_input", "type": "AutoReceiveInput", "access": "read-write"},
+        {"name": "block_input", "type": "bool", "access": "read-write"},
+        {"name": "can_be_damaged", "type": "bool", "access": "read-write"},
+        {"name": "can_be_in_cluster", "type": "bool", "access": "read-write"},
+        {"name": "content_bundle_guid", "type": "Guid", "access": "read-write"},
+        {"name": "custom_time_dilation", "type": "float", "access": "read-write"},
+        {"name": "data_layers", "type": "Array[ActorDataLayer]", "access": "read-only"},
+        {"name": "enable_auto_lod_generation", "type": "bool", "access": "read-write"},
+        {"name": "entity_atoms", "type": "Array[EntityAtomBase]", "access": "read-only"},
+        {"name": "entity_id", "type": "int64", "access": "read-only"},
+        {"name": "external_data_layer_asset", "type": "ExternalDataLayerAsset", "access": "read-only"},
+        {"name": "find_camera_component_when_view_target", "type": "bool", "access": "read-write"},
+        {"name": "generate_overlap_events_during_level_streaming", "type": "bool", "access": "read-write"},
+        {"name": "hidden", "type": "bool", "access": "read-write"},
+        {"name": "hlod_layer", "type": "HLODLayer", "access": "read-write"},
+        {"name": "ignores_origin_shifting", "type": "bool", "access": "read-write"},
+        {"name": "initial_life_span", "type": "float", "access": "read-write"},
+        {"name": "input_priority", "type": "int32", "access": "read-write"},
+        {"name": "instigator", "type": "Pawn", "access": "read-write"},
+        {"name": "is_editor_only_actor", "type": "bool", "access": "read-write"},
+        {"name": "is_main_world_only", "type": "bool", "access": "read-write"},
+        {"name": "is_spatially_loaded", "type": "bool", "access": "read-write"},
+        {"name": "layers", "type": "Array[Name]", "access": "read-write"},
+        {"name": "min_net_update_frequency", "type": "float", "access": "read-write"},
+        {"name": "net_cull_distance_squared", "type": "float", "access": "read-write"},
+        {"name": "net_dormancy", "type": "NetDormancy", "access": "read-write"},
+        {"name": "net_load_on_client", "type": "bool", "access": "read-write"},
+        {"name": "net_priority", "type": "float", "access": "read-write"},
+        {"name": "net_update_frequency", "type": "float", "access": "read-write"},
+        {"name": "net_use_owner_relevancy", "type": "bool", "access": "read-write"},
+        {"name": "on_actor_begin_overlap", "type": "ActorBeginOverlapSignature", "access": "read-write"},
+        {"name": "on_actor_end_overlap", "type": "ActorEndOverlapSignature", "access": "read-write"},
+        {"name": "on_actor_hit", "type": "ActorHitSignature", "access": "read-write"},
+        {"name": "on_begin_cursor_over", "type": "ActorBeginCursorOverSignature", "access": "read-write"},
+        {"name": "on_clicked", "type": "ActorOnClickedSignature", "access": "read-write"},
+        {"name": "on_destroyed", "type": "ActorDestroyedSignature", "access": "read-write"},
+        {"name": "on_end_cursor_over", "type": "ActorEndCursorOverSignature", "access": "read-write"},
+        {"name": "on_end_play", "type": "ActorEndPlaySignature", "access": "read-write"},
+        {"name": "on_input_touch_begin", "type": "ActorOnInputTouchBeginSignature", "access": "read-write"},
+        {"name": "on_input_touch_end", "type": "ActorOnInputTouchEndSignature", "access": "read-write"},
+        {"name": "on_input_touch_enter", "type": "ActorBeginTouchOverSignature", "access": "read-write"},
+        {"name": "on_input_touch_leave", "type": "ActorEndTouchOverSignature", "access": "read-write"},
+        {"name": "on_released", "type": "ActorOnReleasedSignature", "access": "read-write"},
+        {"name": "on_take_any_damage", "type": "TakeAnyDamageSignature", "access": "read-write"},
+        {"name": "on_take_point_damage", "type": "TakePointDamageSignature", "access": "read-write"},
+        {"name": "on_take_radial_damage", "type": "TakeRadialDamageSignature", "access": "read-write"},
+        {"name": "only_relevant_to_owner", "type": "bool", "access": "read-write"},
+        {"name": "optimize_bp_component_data", "type": "bool", "access": "read-write"},
+        {"name": "physics_replication_mode", "type": "PhysicsReplicationMode", "access": "read-write"},
+        {"name": "pivot_offset", "type": "Vector", "access": "read-write"},
+        {"name": "primary_actor_tick", "type": "ActorTickFunction", "access": "read-write"},
+        {"name": "relevant_for_level_bounds", "type": "bool", "access": "read-write"},
+        {"name": "remote_role", "type": "NetRole", "access": "read-only"},
+        {"name": "replay_rewindable", "type": "bool", "access": "read-write"},
+        {"name": "replicate_movement", "type": "bool", "access": "read-write"},
+        {"name": "replicate_using_registered_sub_object_list", "type": "bool", "access": "read-write"},
+        {"name": "replicated_movement", "type": "RepMovement", "access": "read-write"},
+        {"name": "replicates", "type": "bool", "access": "read-write"},
+        {"name": "role", "type": "NetRole", "access": "read-only"},
+        {"name": "root_component", "type": "SceneComponent", "access": "read-write"},
+        {"name": "runtime_grid", "type": "Name", "access": "read-write"},
+        {"name": "spawn_collision_handling_method", "type": "SpawnActorCollisionHandlingMethod", "access": "read-write"},
+        {"name": "sprite_scale", "type": "float", "access": "read-write"},
+        {"name": "tags", "type": "Array[Name]", "access": "read-write"},
+        {"name": "update_overlaps_method_during_level_streaming", "type": "ActorUpdateOverlapsMethod", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "ParticleSystemLOD",
+      "type": "struct",
+      "name": "ParticleSystemLOD",
+      "module": "Engine",
+      "file": "ParticleSystem.h",
+      "description": "Structure containing per-LOD settings that pertain to the entire UParticleSystem"
+    },
+    {
+      "id": "CommonResolutionMenuContext",
+      "type": "class",
+      "name": "CommonResolutionMenuContext",
+      "module": "UnrealEd",
+      "file": "LevelEditorPlaySettings.h",
+      "description": "Common Resolution Menu Context"
+    },
+    {
+      "id": "TypedElementSelectionSetState",
+      "type": "struct",
+      "name": "TypedElementSelectionSetState",
+      "module": "TypedElementRuntime",
+      "file": "TypedElementSelectionSet.h",
+      "description": "Typed Element Selection Set State"
+    },
+    {
+      "id": "LevelSequenceCameraSettings",
+      "type": "struct",
+      "name": "LevelSequenceCameraSettings",
+      "module": "LevelSequence",
+      "file": "LevelSequenceCameraSettings.h",
+      "description": "Level Sequence Camera Settings",
+      "properties": [
+        {"name": "aspect_ratio_axis_constraint", "type": "AspectRatioAxisConstraint", "access": "read-write"},
+        {"name": "override_aspect_ratio_axis_constraint", "type": "bool", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "RigVMFunction_AccumulateFloatMul",
+      "type": "class",
+      "name": "RigVMFunction_AccumulateFloatMul",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_Accumulate.h",
+      "description": "Multiplies a value over time over and over again",
+      "properties": [
+        {"name": "initial_value", "type": "float", "access": "read-write"},
+        {"name": "integrate_delta_time", "type": "bool", "access": "read-write"},
+        {"name": "multiplier", "type": "float", "access": "read-write"},
+        {"name": "result", "type": "float", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "GeometryScriptOutcomePins",
+      "type": "enum",
+      "name": "GeometryScriptOutcomePins",
+      "module": "GeometryScriptingCore",
+      "plugin": "GeometryScripting",
+      "file": "GeometryScriptTypes.h",
+      "description": "EGeometry Script Outcome Pins",
+      "values": ["FAILURE", "SUCCESS"]
+    },
+    {
+      "id": "PCGMetadataMakeRotatorSettings",
+      "type": "class",
+      "name": "PCGMetadataMakeRotatorSettings",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGMetadataMakeRotator.h",
+      "description": "Create a Rotator from 1, 2 or 3 axis",
+      "properties": [
+        {"name": "break_debugger", "type": "bool", "access": "read-write"},
+        {"name": "category", "type": "Text", "access": "read-write"},
+        {"name": "debug", "type": "bool", "access": "read-write"},
+        {"name": "debug_buffer_size", "type": "int32", "access": "read-write"},
+        {"name": "debug_settings", "type": "PCGDebugVisualizationSettings", "access": "read-write"},
+        {"name": "description", "type": "Text", "access": "read-write"},
+        {"name": "determinism_settings", "type": "PCGDeterminismSettings", "access": "read-write"},
+        {"name": "dump_cooked_hlsl", "type": "bool", "access": "read-write"},
+        {"name": "dump_data_descriptions", "type": "bool", "access": "read-write"},
+        {"name": "enabled", "type": "bool", "access": "read-write"},
+        {"name": "execute_on_gpu", "type": "bool", "access": "read-write"},
+        {"name": "expose_to_library", "type": "bool", "access": "read-write"},
+        {"name": "input_source1", "type": "PCGAttributePropertyInputSelector", "access": "read-write"},
+        {"name": "input_source2", "type": "PCGAttributePropertyInputSelector", "access": "read-write"},
+        {"name": "input_source3", "type": "PCGAttributePropertyInputSelector", "access": "read-write"},
+        {"name": "operation", "type": "PCGMetadataMakeRotatorOp", "access": "read-write"},
+        {"name": "output_data_from_pin", "type": "Name", "access": "read-write"},
+        {"name": "output_target", "type": "PCGAttributePropertyOutputSelector", "access": "read-write"},
+        {"name": "print_shader_debug_values", "type": "bool", "access": "read-write"},
+        {"name": "seed", "type": "int32", "access": "read-write"},
+        {"name": "use_seed", "type": "bool", "access": "read-write", "deprecated": true}
+      ]
+    },
+    {
+      "id": "RigUnit_FitChainToCurve_Rotation",
+      "type": "struct",
+      "name": "RigUnit_FitChainToCurve_Rotation",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_FitChainToCurve.h",
+      "description": "Rig Unit Fit Chain to Curve Rotation",
+      "properties": [
+        {"name": "ratio", "type": "float", "access": "read-only"},
+        {"name": "rotation", "type": "Quat", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "RigUnit_MathFloatCos",
+      "type": "class",
+      "name": "RigUnit_MathFloatCos",
+      "description": "deprecated: 'RigUnit_MathFloatCos' was renamed to 'RigVMFunction_MathFloatCos'",
+      "deprecated": true,
+      "renamed_to": "RigVMFunction_MathFloatCos"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "name": "RigUnit",
+      "inferred": true
+    },
+    {
+      "id": "AesEditorSimpleCommandParams",
+      "type": "class",
+      "name": "AesEditorSimpleCommandParams",
+      "inferred": true
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "name": "Object",
+      "inferred": true
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "name": "StructBase",
+      "inferred": true
+    },
+    {
+      "id": "InterchangeFactoryBase",
+      "type": "class",
+      "name": "InterchangeFactoryBase",
+      "inferred": true
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "name": "EnumBase",
+      "inferred": true
+    },
+    {
+      "id": "OnlineBeaconClient",
+      "type": "class",
+      "name": "OnlineBeaconClient",
+      "inferred": true
+    },
+    {
+      "id": "PhysicsHandleComponent",
+      "type": "class",
+      "name": "PhysicsHandleComponent",
+      "inferred": true
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "name": "PCGSettings",
+      "inferred": true
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "name": "MulticastDelegateBase",
+      "inferred": true
+    },
+    {
+      "id": "WdpStandardActorEntity",
+      "type": "class",
+      "name": "WdpStandardActorEntity",
+      "inferred": true
+    },
+    {
+      "id": "ToolMenuContextBase",
+      "type": "class",
+      "name": "ToolMenuContextBase",
+      "inferred": true
+    },
+    {
+      "id": "RigVMFunction_AccumulateBase",
+      "type": "class",
+      "name": "RigVMFunction_AccumulateBase",
+      "inferred": true
+    },
+    {
+      "id": "PCGMetadataSettingsBase",
+      "type": "class",
+      "name": "PCGMetadataSettingsBase",
+      "inferred": true
+    },
+    {
+      "id": "RigVMFunction_MathFloatCos",
+      "type": "class",
+      "name": "RigVMFunction_MathFloatCos",
+      "inferred": true
+    }
+  ],
+  "edges": [
+    {"source": "RigUnit_UnaryQuaternionOp", "target": "RigUnit", "type": "INHERITS_FROM"},
+    {"source": "AesFlowMapEditorCommandParams_Paint", "target": "AesEditorSimpleCommandParams", "type": "INHERITS_FROM"},
+    {"source": "ToolMenus", "target": "Object", "type": "INHERITS_FROM"},
+    {"source": "AesRoadEditorCommandParams_AdvancedTools", "target": "AesEditorSimpleCommandParams", "type": "INHERITS_FROM"},
+    {"source": "InputScaleBiasClampState", "target": "StructBase", "type": "INHERITS_FROM"},
+    {"source": "InterchangeActorFactory", "target": "InterchangeFactoryBase", "type": "INHERITS_FROM"},
+    {"source": "SpeedTreeGeometryType", "target": "EnumBase", "type": "INHERITS_FROM"},
+    {"source": "PartyBeaconClient", "target": "OnlineBeaconClient", "type": "INHERITS_FROM"},
+    {"source": "RB_Handle", "target": "PhysicsHandleComponent", "type": "RENAMED_TO"},
+    {"source": "PCGAddComponentSettings", "target": "PCGSettings", "type": "INHERITS_FROM"},
+    {"source": "LeaderboardQueryResult", "target": "MulticastDelegateBase", "type": "INHERITS_FROM"},
+    {"source": "ModelerFenceEntity", "target": "WdpStandardActorEntity", "type": "INHERITS_FROM"},
+    {"source": "ParticleSystemLOD", "target": "StructBase", "type": "INHERITS_FROM"},
+    {"source": "CommonResolutionMenuContext", "target": "ToolMenuContextBase", "type": "INHERITS_FROM"},
+    {"source": "TypedElementSelectionSetState", "target": "StructBase", "type": "INHERITS_FROM"},
+    {"source": "LevelSequenceCameraSettings", "target": "StructBase", "type": "INHERITS_FROM"},
+    {"source": "RigVMFunction_AccumulateFloatMul", "target": "RigVMFunction_AccumulateBase", "type": "INHERITS_FROM"},
+    {"source": "GeometryScriptOutcomePins", "target": "EnumBase", "type": "INHERITS_FROM"},
+    {"source": "PCGMetadataMakeRotatorSettings", "target": "PCGMetadataSettingsBase", "type": "INHERITS_FROM"},
+    {"source": "RigUnit_FitChainToCurve_Rotation", "target": "StructBase", "type": "INHERITS_FROM"},
+    {"source": "RigUnit_MathFloatCos", "target": "RigVMFunction_MathFloatCos", "type": "RENAMED_TO"},
+    {"source": "FCEase", "target": "EnumBase", "type": "INHERITS_FROM"},
+    {"source": "RigUnit_UnaryQuaternionOp", "target": "Quat", "type": "HAS_PROPERTY", "property_name": "argument"},
+    {"source": "RigUnit_UnaryQuaternionOp", "target": "Quat", "type": "HAS_PROPERTY", "property_name": "result"},
+    {"source": "PCGAddComponentSettings", "target": "PCGAttributePropertyInputSelector", "type": "HAS_PROPERTY", "property_name": "actor_reference_attribute"},
+    {"source": "PCGAddComponentSettings", "target": "PCGAttributePropertyInputSelector", "type": "HAS_PROPERTY", "property_name": "class_attribute"},
+    {"source": "PCGAddComponentSettings", "target": "PCGAttributePropertyOutputNoSourceSelector", "type": "HAS_PROPERTY", "property_name": "component_reference_attribute"},
+    {"source": "PCGAddComponentSettings", "target": "ActorComponent", "type": "HAS_PROPERTY", "property_name": "template_component"},
+    {"source": "PCGAddComponentSettings", "target": "Class", "type": "HAS_PROPERTY", "property_name": "template_component_class"},
+    {"source": "PCGMetadataMakeRotatorSettings", "target": "PCGAttributePropertyInputSelector", "type": "HAS_PROPERTY", "property_name": "input_source1"},
+    {"source": "PCGMetadataMakeRotatorSettings", "target": "PCGAttributePropertyInputSelector", "type": "HAS_PROPERTY", "property_name": "input_source2"},
+    {"source": "PCGMetadataMakeRotatorSettings", "target": "PCGAttributePropertyInputSelector", "type": "HAS_PROPERTY", "property_name": "input_source3"},
+    {"source": "PCGMetadataMakeRotatorSettings", "target": "PCGMetadataMakeRotatorOp", "type": "HAS_PROPERTY", "property_name": "operation"},
+    {"source": "PCGMetadataMakeRotatorSettings", "target": "PCGAttributePropertyOutputSelector", "type": "HAS_PROPERTY", "property_name": "output_target"},
+    {"source": "RigUnit_FitChainToCurve_Rotation", "target": "Quat", "type": "HAS_PROPERTY", "property_name": "rotation"},
+    {"source": "LevelSequenceCameraSettings", "target": "AspectRatioAxisConstraint", "type": "HAS_PROPERTY", "property_name": "aspect_ratio_axis_constraint"}
+  ],
+  "hyperedges": [
+    {
+      "id": "he_plugin_aesworld",
+      "name": "AesWorld Plugin Classes",
+      "node_ids": ["AesFlowMapEditorCommandParams_Paint", "AesRoadEditorCommandParams_AdvancedTools"],
+      "description": "Classes from AesWorld plugin"
+    },
+    {
+      "id": "he_plugin_controlrig",
+      "name": "ControlRig Plugin Classes",
+      "node_ids": ["RigUnit_UnaryQuaternionOp", "RigUnit_FitChainToCurve_Rotation"],
+      "description": "Classes from ControlRig plugin"
+    },
+    {
+      "id": "he_plugin_pcg",
+      "name": "PCG Plugin Classes",
+      "node_ids": ["PCGAddComponentSettings", "PCGMetadataMakeRotatorSettings"],
+      "description": "Classes from PCG plugin"
+    },
+    {
+      "id": "he_plugin_onlinesubsystemutils",
+      "name": "OnlineSubsystemUtils Plugin Classes",
+      "node_ids": ["PartyBeaconClient", "LeaderboardQueryResult"],
+      "description": "Classes from OnlineSubsystemUtils plugin"
+    },
+    {
+      "id": "he_plugin_rigvm",
+      "name": "RigVM Plugin Classes",
+      "node_ids": ["RigVMFunction_AccumulateFloatMul"],
+      "description": "Classes from RigVM plugin"
+    },
+    {
+      "id": "he_plugin_fctween",
+      "name": "FCTween Plugin Classes",
+      "node_ids": ["FCEase"],
+      "description": "Classes from FCTween plugin"
+    },
+    {
+      "id": "he_plugin_interchange",
+      "name": "Interchange Plugin Classes",
+      "node_ids": ["InterchangeActorFactory"],
+      "description": "Classes from Interchange plugin"
+    },
+    {
+      "id": "he_plugin_geometryscripting",
+      "name": "GeometryScripting Plugin Classes",
+      "node_ids": ["GeometryScriptOutcomePins"],
+      "description": "Classes from GeometryScripting plugin"
+    },
+    {
+      "id": "he_plugin_aesruntimemodeler",
+      "name": "AesRuntimeModeler Plugin Classes",
+      "node_ids": ["ModelerFenceEntity"],
+      "description": "Classes from AesRuntimeModeler plugin"
+    },
+    {
+      "id": "he_module_engine",
+      "name": "Engine Module Classes",
+      "node_ids": ["InputScaleBiasClampState", "SpeedTreeGeometryType", "ParticleSystemLOD"],
+      "description": "Classes from Engine module"
+    },
+    {
+      "id": "he_module_toolmenus",
+      "name": "ToolMenus Module Classes",
+      "node_ids": ["ToolMenus"],
+      "description": "Classes from ToolMenus module"
+    },
+    {
+      "id": "he_module_unrealed",
+      "name": "UnrealEd Module Classes",
+      "node_ids": ["CommonResolutionMenuContext"],
+      "description": "Classes from UnrealEd module"
+    },
+    {
+      "id": "he_module_typedelementruntime",
+      "name": "TypedElementRuntime Module Classes",
+      "node_ids": ["TypedElementSelectionSetState"],
+      "description": "Classes from TypedElementRuntime module"
+    },
+    {
+      "id": "he_module_levelsequence",
+      "name": "LevelSequence Module Classes",
+      "node_ids": ["LevelSequenceCameraSettings"],
+      "description": "Classes from LevelSequence module"
+    },
+    {
+      "id": "he_type_enum",
+      "name": "Enum Types",
+      "node_ids": ["FCEase", "SpeedTreeGeometryType", "GeometryScriptOutcomePins"],
+      "description": "All enumeration types"
+    },
+    {
+      "id": "he_type_struct",
+      "name": "Struct Types",
+      "node_ids": ["InputScaleBiasClampState", "ParticleSystemLOD", "TypedElementSelectionSetState", "LevelSequenceCameraSettings", "RigUnit_FitChainToCurve_Rotation"],
+      "description": "All struct types"
+    },
+    {
+      "id": "he_deprecated",
+      "name": "Deprecated Classes",
+      "node_ids": ["RB_Handle", "RigUnit_MathFloatCos"],
+      "description": "Classes that have been deprecated or renamed"
+    },
+    {
+      "id": "he_quaternion_related",
+      "name": "Quaternion-Related Classes",
+      "node_ids": ["RigUnit_UnaryQuaternionOp", "RigUnit_FitChainToCurve_Rotation"],
+      "description": "Classes that work with Quaternions"
+    }
+  ]
+}

@@ -1,0 +1,1016 @@
+{
+  "entities": [
+    {
+      "id": "unreal.Variant",
+      "type": "class",
+      "name": "Variant",
+      "module": "VariantManagerContent",
+      "plugin": "VariantManagerContent",
+      "file": "Variant.h",
+      "extends": "Object",
+      "description": "Variant"
+    },
+    {
+      "id": "unreal.SliderStyle",
+      "type": "class",
+      "name": "SliderStyle",
+      "module": "SlateCore",
+      "file": "SlateTypes.h",
+      "extends": "SlateWidgetStyle",
+      "description": "Represents the appearance of an SSlider"
+    },
+    {
+      "id": "unreal.WorldPartitionRuntimeCellState",
+      "type": "enum",
+      "name": "WorldPartitionRuntimeCellState",
+      "module": "Engine",
+      "file": "WorldPartitionRuntimeCell.h",
+      "extends": "EnumBase",
+      "description": "Cell State",
+      "values": ["UNLOADED", "LOADED", "ACTIVATED"]
+    },
+    {
+      "id": "unreal.MovieSceneSequencePlayToParams",
+      "type": "struct",
+      "name": "MovieSceneSequencePlayToParams",
+      "module": "MovieScene",
+      "file": "MovieSceneSequencePlayer.h",
+      "extends": "StructBase",
+      "description": "Movie Scene Sequence Play to Params"
+    },
+    {
+      "id": "unreal.RigUnit_AimItem",
+      "type": "class",
+      "name": "RigUnit_AimItem",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_AimBone.h",
+      "extends": "RigUnit_HighlevelBaseMutable",
+      "description": "Aligns the rotation of a primary and secondary axis of a bone to a global target"
+    },
+    {
+      "id": "unreal.RigUnit_SetRotation",
+      "type": "class",
+      "name": "RigUnit_SetRotation",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_SetTransform.h",
+      "extends": "RigUnitMutable",
+      "description": "SetRotation is used to set a single rotation on hierarchy"
+    },
+    {
+      "id": "unreal.RigVMFunction_MathBoolOnce",
+      "type": "class",
+      "name": "RigVMFunction_MathBoolOnce",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathBool.h",
+      "extends": "RigVMFunction_MathBoolBase",
+      "description": "Returns true once the first time this node is hit"
+    },
+    {
+      "id": "unreal.EditorValidator_Material",
+      "type": "class",
+      "name": "EditorValidator_Material",
+      "module": "DataValidation",
+      "plugin": "DataValidation",
+      "file": "EditorValidator_Material.h",
+      "extends": "EditorValidatorBase",
+      "description": "Checks if UMaterial and UMaterialInstance are compiling on all validation shader platforms"
+    },
+    {
+      "id": "unreal.LiveLinkCustomTimeStep",
+      "type": "class",
+      "name": "LiveLinkCustomTimeStep",
+      "module": "LiveLink",
+      "plugin": "LiveLink",
+      "file": "LiveLinkCustomTimeStep.h",
+      "extends": "GenlockedCustomTimeStep",
+      "description": "Control the Engine TimeStep via a live link source"
+    },
+    {
+      "id": "unreal.BaseMaterialTranslationSubsystem",
+      "type": "class",
+      "name": "BaseMaterialTranslationSubsystem",
+      "module": "MaterialBaseTrans",
+      "plugin": "AesRuntime",
+      "file": "MaterialBaseTransSubsystem.h",
+      "extends": "GameInstanceSubsystem",
+      "description": "Base Material Translation Subsystem"
+    },
+    {
+      "id": "unreal.PCGMeshInstanceList",
+      "type": "struct",
+      "name": "PCGMeshInstanceList",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGMeshSelectorBase.h",
+      "extends": "StructBase",
+      "description": "PCGMesh Instance List"
+    },
+    {
+      "id": "unreal.AnimNode_LinkedInputPose",
+      "type": "class",
+      "name": "AnimNode_LinkedInputPose",
+      "module": "Engine",
+      "file": "AnimNode_LinkedInputPose.h",
+      "extends": "AnimNode_Base",
+      "description": "Anim Node Linked Input Pose"
+    },
+    {
+      "id": "unreal.ActorModifierCoreBlueprintFactory",
+      "type": "class",
+      "name": "ActorModifierCoreBlueprintFactory",
+      "module": "ActorModifierCoreEditor",
+      "plugin": "ActorModifierCore",
+      "file": "ActorModifierCoreBlueprintFactory.h",
+      "extends": "Factory",
+      "description": "Factory responsible to create a UActorModifierCoreBlueprint object"
+    },
+    {
+      "id": "unreal.PassiveSoundMixModifier",
+      "type": "struct",
+      "name": "PassiveSoundMixModifier",
+      "module": "Engine",
+      "file": "SoundClass.h",
+      "extends": "StructBase",
+      "description": "Structure containing information on a SoundMix to activate passively"
+    },
+    {
+      "id": "unreal.MaterialExpressionStrataAdd",
+      "type": "class",
+      "name": "MaterialExpressionStrataAdd",
+      "extends": "MaterialExpressionSubstrateAdd",
+      "deprecated": true,
+      "deprecated_message": "'MaterialExpressionStrataAdd' was renamed to 'MaterialExpressionSubstrateAdd'"
+    },
+    {
+      "id": "unreal.WalkableSlopeOverride",
+      "type": "struct",
+      "name": "WalkableSlopeOverride",
+      "module": "Engine",
+      "file": "EngineTypes.h",
+      "extends": "StructBase",
+      "description": "Struct allowing control over walkable normals, by allowing a restriction or relaxation of what steepness is normally walkable"
+    },
+    {
+      "id": "unreal.InterpolationBlend",
+      "type": "enum",
+      "name": "InterpolationBlend",
+      "module": "AnimGraphRuntime",
+      "file": "AnimNode_LookAt.h",
+      "extends": "EnumBase",
+      "description": "Various ways to interpolate TAlphaBlend",
+      "values": ["LINEAR", "CUBIC", "SINUSOIDAL", "EASE_IN_OUT_EXPONENT2", "EASE_IN_OUT_EXPONENT3", "EASE_IN_OUT_EXPONENT4", "EASE_IN_OUT_EXPONENT5"]
+    },
+    {
+      "id": "unreal.CollisionTypeEnum",
+      "type": "enum",
+      "name": "CollisionTypeEnum",
+      "module": "Chaos",
+      "file": "GeometryCollectionSimulationTypes.h",
+      "extends": "EnumBase",
+      "description": "ECollision Type Enum",
+      "values": ["CHAOS_VOLUMETRIC", "CHAOS_SURFACE_VOLUMETRIC"]
+    },
+    {
+      "id": "unreal.DCPEffectPostAndMainPass",
+      "type": "class",
+      "name": "DCPEffectPostAndMainPass",
+      "module": "BimAssetLoader",
+      "plugin": "WdpAssetLoader",
+      "file": "DCPEffectSelector.h",
+      "extends": "DCPEffectPostBase",
+      "description": "Custom:带pass通道控制的post"
+    },
+    {
+      "id": "unreal.VectorQuantization",
+      "type": "enum",
+      "name": "VectorQuantization",
+      "module": "Engine",
+      "file": "ReplicatedState.h",
+      "extends": "EnumBase",
+      "description": "Describes rules for network replicating a vector efficiently",
+      "values": ["ROUND_WHOLE_NUMBER", "ROUND_ONE_DECIMAL", "ROUND_TWO_DECIMALS"]
+    },
+    {
+      "id": "unreal.UrbanEntityEditorBp",
+      "type": "class",
+      "name": "UrbanEntityEditorBp",
+      "module": "UrbanEntityEditor",
+      "plugin": "AesEditor",
+      "file": "UrbanEntityEditorBp.h",
+      "extends": "BlueprintFunctionLibrary",
+      "description": "Urban Entity Editor Bp"
+    },
+    {
+      "id": "unreal.AvaClonerMeshRenderMode",
+      "type": "enum",
+      "name": "AvaClonerMeshRenderMode",
+      "extends": "EnumBase",
+      "deprecated": true,
+      "deprecated_message": "'AvaClonerMeshRenderMode' was renamed to 'CEClonerMeshRenderMode'",
+      "values": ["ITERATE", "RANDOM", "BLEND"]
+    },
+    {
+      "id": "unreal.VariantSet",
+      "type": "class_ref",
+      "name": "VariantSet"
+    },
+    {
+      "id": "unreal.VariantDependency",
+      "type": "class_ref",
+      "name": "VariantDependency"
+    },
+    {
+      "id": "unreal.PropertyValue",
+      "type": "class_ref",
+      "name": "PropertyValue"
+    },
+    {
+      "id": "unreal.Actor",
+      "type": "class_ref",
+      "name": "Actor"
+    },
+    {
+      "id": "unreal.Texture2D",
+      "type": "class_ref",
+      "name": "Texture2D"
+    },
+    {
+      "id": "unreal.LevelVariantSets",
+      "type": "class_ref",
+      "name": "LevelVariantSets"
+    },
+    {
+      "id": "unreal.SlateBrush",
+      "type": "class_ref",
+      "name": "SlateBrush"
+    },
+    {
+      "id": "unreal.RigElementKey",
+      "type": "struct_ref",
+      "name": "RigElementKey"
+    },
+    {
+      "id": "unreal.ControlRigExecuteContext",
+      "type": "struct_ref",
+      "name": "ControlRigExecuteContext"
+    },
+    {
+      "id": "unreal.RigUnit_AimItem_Target",
+      "type": "struct_ref",
+      "name": "RigUnit_AimItem_Target"
+    },
+    {
+      "id": "unreal.RigUnit_AimBone_DebugSettings",
+      "type": "struct_ref",
+      "name": "RigUnit_AimBone_DebugSettings"
+    },
+    {
+      "id": "unreal.RigVMTransformSpace",
+      "type": "enum_ref",
+      "name": "RigVMTransformSpace"
+    },
+    {
+      "id": "unreal.Quat",
+      "type": "struct_ref",
+      "name": "Quat"
+    },
+    {
+      "id": "unreal.FrameRate",
+      "type": "struct_ref",
+      "name": "FrameRate"
+    },
+    {
+      "id": "unreal.LiveLinkSubjectKey",
+      "type": "struct_ref",
+      "name": "LiveLinkSubjectKey"
+    },
+    {
+      "id": "unreal.PCGPointData",
+      "type": "class_ref",
+      "name": "PCGPointData"
+    },
+    {
+      "id": "unreal.Transform",
+      "type": "struct_ref",
+      "name": "Transform"
+    },
+    {
+      "id": "unreal.PCGSoftISMComponentDescriptor",
+      "type": "struct_ref",
+      "name": "PCGSoftISMComponentDescriptor"
+    },
+    {
+      "id": "unreal.SoundMix",
+      "type": "class_ref",
+      "name": "SoundMix"
+    },
+    {
+      "id": "unreal.WalkableSlopeBehavior",
+      "type": "enum_ref",
+      "name": "WalkableSlopeBehavior"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "unreal.Variant",
+      "to": "unreal.Object",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.Variant",
+      "to": "unreal.VariantSet",
+      "type": "references",
+      "context": "get_parent method returns VariantSet"
+    },
+    {
+      "from": "unreal.Variant",
+      "to": "unreal.VariantDependency",
+      "type": "references",
+      "context": "get_dependency, add_dependency, set_dependency methods"
+    },
+    {
+      "from": "unreal.Variant",
+      "to": "unreal.PropertyValue",
+      "type": "references",
+      "context": "capture_property, get_captured_properties methods"
+    },
+    {
+      "from": "unreal.Variant",
+      "to": "unreal.Actor",
+      "type": "references",
+      "context": "add_actor_binding, get_actor, remove_actor_binding methods"
+    },
+    {
+      "from": "unreal.Variant",
+      "to": "unreal.Texture2D",
+      "type": "references",
+      "context": "get_thumbnail, set_thumbnail_from_texture methods"
+    },
+    {
+      "from": "unreal.Variant",
+      "to": "unreal.LevelVariantSets",
+      "type": "references",
+      "context": "get_dependents method parameter"
+    },
+    {
+      "from": "unreal.SliderStyle",
+      "to": "unreal.SlateWidgetStyle",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.SliderStyle",
+      "to": "unreal.SlateBrush",
+      "type": "has_property",
+      "context": "normal_bar_image, hovered_bar_image, disabled_bar_image, normal_thumb_image, hovered_thumb_image, disabled_thumb_image properties"
+    },
+    {
+      "from": "unreal.WorldPartitionRuntimeCellState",
+      "to": "unreal.EnumBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.MovieSceneSequencePlayToParams",
+      "to": "unreal.StructBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.RigUnit_AimItem",
+      "to": "unreal.RigUnit_HighlevelBaseMutable",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.RigUnit_AimItem",
+      "to": "unreal.RigElementKey",
+      "type": "has_property",
+      "context": "item property"
+    },
+    {
+      "from": "unreal.RigUnit_AimItem",
+      "to": "unreal.ControlRigExecuteContext",
+      "type": "has_property",
+      "context": "execute_context property"
+    },
+    {
+      "from": "unreal.RigUnit_AimItem",
+      "to": "unreal.RigUnit_AimItem_Target",
+      "type": "has_property",
+      "context": "primary, secondary properties"
+    },
+    {
+      "from": "unreal.RigUnit_AimItem",
+      "to": "unreal.RigUnit_AimBone_DebugSettings",
+      "type": "has_property",
+      "context": "debug_settings property"
+    },
+    {
+      "from": "unreal.RigUnit_SetRotation",
+      "to": "unreal.RigUnitMutable",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.RigUnit_SetRotation",
+      "to": "unreal.RigElementKey",
+      "type": "has_property",
+      "context": "item property"
+    },
+    {
+      "from": "unreal.RigUnit_SetRotation",
+      "to": "unreal.RigVMTransformSpace",
+      "type": "has_property",
+      "context": "space property"
+    },
+    {
+      "from": "unreal.RigUnit_SetRotation",
+      "to": "unreal.Quat",
+      "type": "has_property",
+      "context": "value property"
+    },
+    {
+      "from": "unreal.RigUnit_SetRotation",
+      "to": "unreal.ControlRigExecuteContext",
+      "type": "has_property",
+      "context": "execute_context property"
+    },
+    {
+      "from": "unreal.RigVMFunction_MathBoolOnce",
+      "to": "unreal.RigVMFunction_MathBoolBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.EditorValidator_Material",
+      "to": "unreal.EditorValidatorBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.LiveLinkCustomTimeStep",
+      "to": "unreal.GenlockedCustomTimeStep",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.LiveLinkCustomTimeStep",
+      "to": "unreal.FrameRate",
+      "type": "has_property",
+      "context": "live_link_data_rate property"
+    },
+    {
+      "from": "unreal.LiveLinkCustomTimeStep",
+      "to": "unreal.LiveLinkSubjectKey",
+      "type": "has_property",
+      "context": "subject_key property"
+    },
+    {
+      "from": "unreal.BaseMaterialTranslationSubsystem",
+      "to": "unreal.GameInstanceSubsystem",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.PCGMeshInstanceList",
+      "to": "unreal.StructBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.PCGMeshInstanceList",
+      "to": "unreal.Transform",
+      "type": "has_property",
+      "context": "instances property is Array[Transform]"
+    },
+    {
+      "from": "unreal.PCGMeshInstanceList",
+      "to": "unreal.PCGPointData",
+      "type": "has_property",
+      "context": "point_data property"
+    },
+    {
+      "from": "unreal.PCGMeshInstanceList",
+      "to": "unreal.PCGSoftISMComponentDescriptor",
+      "type": "has_property",
+      "context": "descriptor property"
+    },
+    {
+      "from": "unreal.AnimNode_LinkedInputPose",
+      "to": "unreal.AnimNode_Base",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.ActorModifierCoreBlueprintFactory",
+      "to": "unreal.Factory",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.PassiveSoundMixModifier",
+      "to": "unreal.StructBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.PassiveSoundMixModifier",
+      "to": "unreal.SoundMix",
+      "type": "has_property",
+      "context": "sound_mix property"
+    },
+    {
+      "from": "unreal.MaterialExpressionStrataAdd",
+      "to": "unreal.MaterialExpressionSubstrateAdd",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.WalkableSlopeOverride",
+      "to": "unreal.StructBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.WalkableSlopeOverride",
+      "to": "unreal.WalkableSlopeBehavior",
+      "type": "has_property",
+      "context": "walkable_slope_behavior property"
+    },
+    {
+      "from": "unreal.InterpolationBlend",
+      "to": "unreal.EnumBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.CollisionTypeEnum",
+      "to": "unreal.EnumBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.DCPEffectPostAndMainPass",
+      "to": "unreal.DCPEffectPostBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.VectorQuantization",
+      "to": "unreal.EnumBase",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.UrbanEntityEditorBp",
+      "to": "unreal.BlueprintFunctionLibrary",
+      "type": "extends"
+    },
+    {
+      "from": "unreal.AvaClonerMeshRenderMode",
+      "to": "unreal.EnumBase",
+      "type": "extends"
+    }
+  ],
+  "methods": [
+    {
+      "class": "unreal.Variant",
+      "name": "switch_on",
+      "description": "Switch On"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "set_thumbnail_from_texture",
+      "parameters": [{"name": "new_thumbnail", "type": "Texture2D"}],
+      "description": "Sets the thumbnail to use for this variant. Can receive nullptr to clear it"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "set_thumbnail_from_file",
+      "parameters": [{"name": "file_path", "type": "str"}],
+      "description": "Set Thumbnail from File"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "set_thumbnail_from_editor_viewport",
+      "description": "Sets the thumbnail from the active editor viewport. Doesn't do anything if the Editor is not available"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "set_thumbnail_from_camera",
+      "parameters": [
+        {"name": "world_context_object", "type": "Object"},
+        {"name": "camera_transform", "type": "Transform"},
+        {"name": "fov_degrees", "type": "float", "default": 50.0},
+        {"name": "min_z", "type": "float", "default": 50.0},
+        {"name": "gamma", "type": "float", "default": 2.2}
+      ],
+      "description": "Set Thumbnail from Camera"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "set_display_text",
+      "parameters": [{"name": "new_display_text", "type": "Text"}],
+      "description": "Set Display Text"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "is_active",
+      "return_type": "bool",
+      "description": "Returns true if none of our properties are dirty"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_thumbnail",
+      "return_type": "Texture2D",
+      "description": "Gets the thumbnail currently used for this variant"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_parent",
+      "return_type": "VariantSet",
+      "description": "Get Parent"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_num_dependencies",
+      "return_type": "int",
+      "description": "Get Num Dependencies"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_num_actors",
+      "return_type": "int",
+      "description": "Get Num Actors"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_display_text",
+      "return_type": "Text",
+      "description": "Get Display Text"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_dependents",
+      "parameters": [
+        {"name": "level_variant_sets", "type": "LevelVariantSets"},
+        {"name": "only_enabled_dependencies", "type": "bool"}
+      ],
+      "return_type": "Array[Variant]",
+      "description": "Returns all the variants that have this variant as a dependency"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_dependency",
+      "parameters": [{"name": "index", "type": "int"}],
+      "return_type": "VariantDependency",
+      "description": "Get the dependency at index 'Index' by value. Will crash if index is invalid"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_actor",
+      "parameters": [{"name": "actor_index", "type": "int"}],
+      "return_type": "Actor",
+      "description": "Get Actor"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "set_dependency",
+      "parameters": [
+        {"name": "index", "type": "int"},
+        {"name": "dependency", "type": "VariantDependency"}
+      ],
+      "return_type": "VariantDependency",
+      "description": "Set Dependency"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "remove_captured_property_by_name",
+      "parameters": [
+        {"name": "actor", "type": "Actor"},
+        {"name": "property_path", "type": "str"}
+      ],
+      "description": "Removes property capture with PropertyPath from Actor's binding within Variant, if it exists"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "remove_captured_property",
+      "parameters": [
+        {"name": "actor", "type": "Actor"},
+        {"name": "property_", "type": "PropertyValue"}
+      ],
+      "description": "Removes a property capture from an actor binding within Variant, if it exists"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "remove_actor_binding_by_name",
+      "parameters": [{"name": "actor_name", "type": "str"}],
+      "description": "Looks for an actor binding to an actor with ActorLabel within Variant and removes it, if it exists"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "remove_actor_binding",
+      "parameters": [{"name": "actor", "type": "Actor"}],
+      "description": "Removes an actor binding to Actor from Variant, if it exists"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "get_captured_properties",
+      "parameters": [{"name": "actor", "type": "Actor"}],
+      "return_type": "Array[PropertyValue]",
+      "description": "Returns which properties have been captured for this actor in Variant"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "delete_dependency",
+      "parameters": [{"name": "index", "type": "int"}],
+      "description": "Delete Dependency"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "capture_property",
+      "parameters": [
+        {"name": "actor", "type": "Actor"},
+        {"name": "property_path", "type": "str"}
+      ],
+      "return_type": "PropertyValue",
+      "description": "Finds the actor binding to Actor within Variant and tries capturing a property with PropertyPath"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "add_dependency",
+      "parameters": [{"name": "dependency", "type": "VariantDependency"}],
+      "return_type": "Tuple[int, VariantDependency]",
+      "description": "Add Dependency"
+    },
+    {
+      "class": "unreal.Variant",
+      "name": "add_actor_binding",
+      "parameters": [{"name": "actor", "type": "Actor"}],
+      "description": "Binds the Actor to the Variant, internally creating a VariantObjectBinding"
+    },
+    {
+      "class": "unreal.BaseMaterialTranslationSubsystem",
+      "name": "toggle_bmt_enable",
+      "description": "Blueprint debug call function"
+    },
+    {
+      "class": "unreal.UrbanEntityEditorBp",
+      "name": "build_prefabs_in_path",
+      "static": true,
+      "parameters": [
+        {"name": "root_path", "type": "str"},
+        {"name": "save_hip", "type": "bool"}
+      ],
+      "description": "Build Prefabs in Path"
+    }
+  ],
+  "properties": [
+    {
+      "class": "unreal.SliderStyle",
+      "name": "normal_bar_image",
+      "type": "SlateBrush",
+      "access": "read-write",
+      "description": "Image to use when the slider bar is in its normal state"
+    },
+    {
+      "class": "unreal.SliderStyle",
+      "name": "hovered_bar_image",
+      "type": "SlateBrush",
+      "access": "read-write",
+      "description": "Image to use when the slider bar is in its hovered state"
+    },
+    {
+      "class": "unreal.SliderStyle",
+      "name": "disabled_bar_image",
+      "type": "SlateBrush",
+      "access": "read-write",
+      "description": "Image to use when the slider bar is in its disabled state"
+    },
+    {
+      "class": "unreal.SliderStyle",
+      "name": "normal_thumb_image",
+      "type": "SlateBrush",
+      "access": "read-write",
+      "description": "Image to use when the slider thumb is in its normal state"
+    },
+    {
+      "class": "unreal.SliderStyle",
+      "name": "hovered_thumb_image",
+      "type": "SlateBrush",
+      "access": "read-write",
+      "description": "Image to use when the slider thumb is in its hovered state"
+    },
+    {
+      "class": "unreal.SliderStyle",
+      "name": "disabled_thumb_image",
+      "type": "SlateBrush",
+      "access": "read-write",
+      "description": "Image to use when the slider thumb is in its disabled state"
+    },
+    {
+      "class": "unreal.SliderStyle",
+      "name": "bar_thickness",
+      "type": "float",
+      "access": "read-write"
+    },
+    {
+      "class": "unreal.MovieSceneSequencePlayToParams",
+      "name": "exclusive",
+      "type": "bool",
+      "access": "read-write",
+      "description": "Should the PlayTo time be considered exclusive? Defaults to true as end frames in Sequencer are exclusive by default"
+    },
+    {
+      "class": "unreal.RigUnit_AimItem",
+      "name": "item",
+      "type": "RigElementKey",
+      "access": "read-write",
+      "description": "The name of the item to align"
+    },
+    {
+      "class": "unreal.RigUnit_AimItem",
+      "name": "primary",
+      "type": "RigUnit_AimItem_Target",
+      "access": "read-write",
+      "description": "The primary target for the aim"
+    },
+    {
+      "class": "unreal.RigUnit_AimItem",
+      "name": "secondary",
+      "type": "RigUnit_AimItem_Target",
+      "access": "read-write",
+      "description": "The secondary target for the aim - also referred to as PoleVector / UpVector"
+    },
+    {
+      "class": "unreal.RigUnit_AimItem",
+      "name": "weight",
+      "type": "float",
+      "access": "read-write",
+      "description": "The weight of the change - how much the change should be applied"
+    },
+    {
+      "class": "unreal.RigUnit_AimItem",
+      "name": "debug_settings",
+      "type": "RigUnit_AimBone_DebugSettings",
+      "access": "read-write",
+      "description": "The debug setting for the node"
+    },
+    {
+      "class": "unreal.RigUnit_SetRotation",
+      "name": "item",
+      "type": "RigElementKey",
+      "access": "read-write",
+      "description": "The item to set the rotation for"
+    },
+    {
+      "class": "unreal.RigUnit_SetRotation",
+      "name": "space",
+      "type": "RigVMTransformSpace",
+      "access": "read-write",
+      "description": "Defines if the rotation should be set in local or global space"
+    },
+    {
+      "class": "unreal.RigUnit_SetRotation",
+      "name": "initial",
+      "type": "bool",
+      "access": "read-write",
+      "description": "Defines if the transform should be set as current (false) or initial (true). Initial transforms for bones and other elements in the hierarchy represent the reference pose's value"
+    },
+    {
+      "class": "unreal.RigUnit_SetRotation",
+      "name": "value",
+      "type": "Quat",
+      "access": "read-write",
+      "description": "The new rotation of the given item"
+    },
+    {
+      "class": "unreal.RigUnit_SetRotation",
+      "name": "weight",
+      "type": "float",
+      "access": "read-write",
+      "description": "Defines how much the change will be applied"
+    },
+    {
+      "class": "unreal.RigUnit_SetRotation",
+      "name": "propagate_to_children",
+      "type": "bool",
+      "access": "read-write",
+      "description": "If set to true children of affected items in the hierarchy will follow the transform change - otherwise only the parent will move"
+    },
+    {
+      "class": "unreal.RigVMFunction_MathBoolOnce",
+      "name": "duration",
+      "type": "float",
+      "access": "read-write",
+      "description": "The duration in seconds at which the result is true. Use 0 for a different result every time"
+    },
+    {
+      "class": "unreal.RigVMFunction_MathBoolOnce",
+      "name": "result",
+      "type": "bool",
+      "access": "read-only"
+    },
+    {
+      "class": "unreal.EditorValidator_Material",
+      "name": "is_enabled",
+      "type": "bool",
+      "access": "read-write"
+    },
+    {
+      "class": "unreal.EditorValidator_Material",
+      "name": "only_print_custom_message",
+      "type": "bool",
+      "access": "read-write",
+      "description": "Whether we should also print out the source validator when printing validation errors"
+    },
+    {
+      "class": "unreal.LiveLinkCustomTimeStep",
+      "name": "frame_rate_divider",
+      "type": "uint32",
+      "access": "read-write",
+      "description": "Allows genlock to period to be a multiple of the live link data period. For example a value of 2 will run at half the live link data rate"
+    },
+    {
+      "class": "unreal.LiveLinkCustomTimeStep",
+      "name": "live_link_data_rate",
+      "type": "FrameRate",
+      "access": "read-write",
+      "description": "Expected Live Link data rate. If real rate differs, then delta times will contract/expand with respect to real time"
+    },
+    {
+      "class": "unreal.LiveLinkCustomTimeStep",
+      "name": "lock_step_mode",
+      "type": "bool",
+      "access": "read-write",
+      "description": "Lockstep mode means that we only allow FrameRateDivider data frames of the selected subject per engine loop"
+    },
+    {
+      "class": "unreal.LiveLinkCustomTimeStep",
+      "name": "subject_key",
+      "type": "LiveLinkSubjectKey",
+      "access": "read-write",
+      "description": "The specific subject that we listen to"
+    },
+    {
+      "class": "unreal.LiveLinkCustomTimeStep",
+      "name": "timeout_in_seconds",
+      "type": "double",
+      "access": "read-write",
+      "description": "Determines how long it should wait for live link data before deciding that it is not in synchronized state anymore"
+    },
+    {
+      "class": "unreal.PCGMeshInstanceList",
+      "name": "instances",
+      "type": "Array[Transform]",
+      "access": "read-write"
+    },
+    {
+      "class": "unreal.PCGMeshInstanceList",
+      "name": "point_data",
+      "type": "PCGPointData",
+      "access": "read-write"
+    },
+    {
+      "class": "unreal.PCGMeshInstanceList",
+      "name": "instances_indices",
+      "type": "Array[int32]",
+      "access": "read-write"
+    },
+    {
+      "class": "unreal.PCGMeshInstanceList",
+      "name": "instances_metadata_entry",
+      "type": "Array[int64]",
+      "access": "read-write",
+      "deprecated": true,
+      "deprecated_message": "Property 'InstancesMetadataEntry' is deprecated"
+    },
+    {
+      "class": "unreal.AnimNode_LinkedInputPose",
+      "name": "name",
+      "type": "Name",
+      "access": "read-write",
+      "description": "The name of this linked input pose node's pose, used to identify the input of this graph"
+    },
+    {
+      "class": "unreal.PassiveSoundMixModifier",
+      "name": "sound_mix",
+      "type": "SoundMix",
+      "access": "read-only",
+      "description": "The SoundMix to activate"
+    },
+    {
+      "class": "unreal.PassiveSoundMixModifier",
+      "name": "min_volume_threshold",
+      "type": "float",
+      "access": "read-only",
+      "description": "Minimum volume level required to activate SoundMix. Below this value the SoundMix will not be active"
+    },
+    {
+      "class": "unreal.PassiveSoundMixModifier",
+      "name": "max_volume_threshold",
+      "type": "float",
+      "access": "read-only",
+      "description": "Maximum volume level required to activate SoundMix. Above this value the SoundMix will not be active"
+    },
+    {
+      "class": "unreal.WalkableSlopeOverride",
+      "name": "walkable_slope_behavior",
+      "type": "WalkableSlopeBehavior",
+      "access": "read-write",
+      "description": "Behavior of this surface (whether we affect the walkable slope)"
+    },
+    {
+      "class": "unreal.WalkableSlopeOverride",
+      "name": "walkable_slope_angle",
+      "type": "float",
+      "access": "read-write",
+      "description": "Override walkable slope angle (in degrees), applying the rules of the Walkable Slope Behavior"
+    }
+  ]
+}

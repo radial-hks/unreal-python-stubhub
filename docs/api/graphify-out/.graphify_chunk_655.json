@@ -1,0 +1,1086 @@
+{
+  "nodes": [
+    {
+      "id": "hairstrandscomponent_hairstrandscomponent",
+      "label": "HairStrandsComponent",
+      "file_type": "document",
+      "source_file": "HairStrandsComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairstrandscomponent_groomcomponent",
+      "label": "GroomComponent",
+      "file_type": "document",
+      "source_file": "HairStrandsComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbezieritemspace_rigunit_debugbezieritemspace",
+      "label": "RigUnit_DebugBezierItemSpace",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugBezierItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbezieritemspace_rigvmfunction_debugbasemutable",
+      "label": "RigVMFunction_DebugBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugBezierItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbezieritemspace_bezier",
+      "label": "Bezier Curve",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugBezierItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolconsttrue_rigunit_mathboolconsttrue",
+      "label": "RigUnit_MathBoolConstTrue",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolConstTrue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolconsttrue_rigvmfunction_mathboolconsttrue",
+      "label": "RigVMFunction_MathBoolConstTrue",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolConstTrue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondragenterevent_ondragenterevent",
+      "label": "OnDragEnterEvent",
+      "file_type": "document",
+      "source_file": "OnDragEnterEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondragenterevent_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnDragEnterEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialxappend4vector_materialexpressionmaterialxappend4vector",
+      "label": "MaterialExpressionMaterialXAppend4Vector",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXAppend4Vector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialxappend4vector_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXAppend4Vector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "springarmcomponent_springarmcomponent",
+      "label": "SpringArmComponent",
+      "file_type": "document",
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "springarmcomponent_scenecomponent",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "springarmcomponent_camera_boom",
+      "label": "Camera Boom",
+      "file_type": "document",
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "springarmcomponent_collision_detection",
+      "label": "Collision Detection",
+      "file_type": "document",
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "springarmcomponent_camera_lag",
+      "label": "Camera Lag",
+      "file_type": "document",
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytaskresource_gameplaytaskresource",
+      "label": "GameplayTaskResource",
+      "file_type": "document",
+      "source_file": "GameplayTaskResource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytaskresource_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "GameplayTaskResource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnodedata_animnodedata",
+      "label": "AnimNodeData",
+      "file_type": "document",
+      "source_file": "AnimNodeData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnodedata_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "AnimNodeData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "calibrationpointvisualization_calibrationpointvisualization",
+      "label": "CalibrationPointVisualization",
+      "file_type": "document",
+      "source_file": "CalibrationPointVisualization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "calibrationpointvisualization_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "CalibrationPointVisualization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_soundparameterinterfaceinfo_gameplaycuenotify_soundparameterinterfaceinfo",
+      "label": "GameplayCueNotify_SoundParameterInterfaceInfo",
+      "file_type": "document",
+      "source_file": "GameplayCueNotify__SoundParameterInterfaceInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_soundparameterinterfaceinfo_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "GameplayCueNotify__SoundParameterInterfaceInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatdeg_rigunit_mathfloatdeg",
+      "label": "RigUnit_MathFloatDeg",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatDeg Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatdeg_rigvmfunction_mathfloatdeg",
+      "label": "RigVMFunction_MathFloatDeg",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatDeg Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "drawgeometryparams_drawgeometryparams",
+      "label": "DrawGeometryParams",
+      "file_type": "document",
+      "source_file": "DrawGeometryParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "drawgeometryparams_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "DrawGeometryParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeskeletonconfig_gltfruntimeskeletonconfig",
+      "label": "glTFRuntimeSkeletonConfig",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletonConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeskeletonconfig_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletonConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeskeletonconfig_skeleton_import",
+      "label": "Skeleton Import",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletonConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialentityresult_dcpmaterialentityresult",
+      "label": "DCPMaterialEntityResult",
+      "file_type": "document",
+      "source_file": "DCPMaterialEntityResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialentityresult_resultbase",
+      "label": "ResultBase",
+      "file_type": "document",
+      "source_file": "DCPMaterialEntityResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkbuttonwidget_uiframeworkbuttonwidget",
+      "label": "UIFrameworkButtonWidget",
+      "file_type": "document",
+      "source_file": "UIFrameworkButtonWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkbuttonwidget_button",
+      "label": "Button",
+      "file_type": "document",
+      "source_file": "UIFrameworkButtonWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitionlayercomparetype_avatransitionlayercomparetype",
+      "label": "AvaTransitionLayerCompareType",
+      "file_type": "document",
+      "source_file": "AvaTransitionLayerCompareType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitionlayercomparetype_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "AvaTransitionLayerCompareType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanagedresource_pcgmanagedresource",
+      "label": "PCGManagedResource",
+      "file_type": "document",
+      "source_file": "PCGManagedResource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanagedresource_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "PCGManagedResource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanagedresource_resource_management",
+      "label": "Resource Management",
+      "file_type": "document",
+      "source_file": "PCGManagedResource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "showloginuicallbackproxy_showloginuicallbackproxy",
+      "label": "ShowLoginUICallbackProxy",
+      "file_type": "document",
+      "source_file": "ShowLoginUICallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "showloginuicallbackproxy_blueprintasyncactionbase",
+      "label": "BlueprintAsyncActionBase",
+      "file_type": "document",
+      "source_file": "ShowLoginUICallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorweatherpreset_skycreatorweatherpreset",
+      "label": "SkyCreatorWeatherPreset",
+      "file_type": "document",
+      "source_file": "SkyCreatorWeatherPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorweatherpreset_dataasset",
+      "label": "DataAsset",
+      "file_type": "document",
+      "source_file": "SkyCreatorWeatherPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorweatherpreset_weather_settings",
+      "label": "Weather Settings",
+      "file_type": "document",
+      "source_file": "SkyCreatorWeatherPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "loudnesssettings_loudnesssettings",
+      "label": "LoudnessSettings",
+      "file_type": "document",
+      "source_file": "LoudnessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "loudnesssettings_audiosynesthesiasettings",
+      "label": "AudioSynesthesiaSettings",
+      "file_type": "document",
+      "source_file": "LoudnessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "loudnesssettings_audio_analysis",
+      "label": "Audio Analysis",
+      "file_type": "document",
+      "source_file": "LoudnessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp",
+      "label": "RigUnit_AccumulateFloatLerp",
+      "file_type": "document",
+      "source_file": "RigUnit_AccumulateFloatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatefloatlerp_rigvmfunction_accumulatefloatlerp",
+      "label": "RigVMFunction_AccumulateFloatLerp",
+      "file_type": "document",
+      "source_file": "RigUnit_AccumulateFloatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_ragdoll_animgraphnode_ragdoll",
+      "label": "AnimGraphNode_Ragdoll",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_Ragdoll Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_ragdoll_animgraphnode_rigidbody",
+      "label": "AnimGraphNode_RigidBody",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_Ragdoll Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_rigvm",
+      "label": "Control Rig & RigVM",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugBezierItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_api_patterns",
+      "label": "Deprecated API Patterns",
+      "file_type": "document",
+      "source_file": "HairStrandsComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_system",
+      "label": "Animation System",
+      "file_type": "document",
+      "source_file": "AnimNodeData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_system",
+      "label": "Camera System",
+      "file_type": "document",
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "hairstrandscomponent_hairstrandscomponent",
+      "target": "hairstrandscomponent_groomcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairStrandsComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbezieritemspace_rigunit_debugbezieritemspace",
+      "target": "rigunit_debugbezieritemspace_rigvmfunction_debugbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugBezierItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbezieritemspace_rigunit_debugbezieritemspace",
+      "target": "rigunit_debugbezieritemspace_bezier",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugBezierItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbezieritemspace_rigunit_debugbezieritemspace",
+      "target": "controlrig_rigvm",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__DebugBezierItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolconsttrue_rigunit_mathboolconsttrue",
+      "target": "rigunit_mathboolconsttrue_rigvmfunction_mathboolconsttrue",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathBoolConstTrue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolconsttrue_rigunit_mathboolconsttrue",
+      "target": "deprecated_api_patterns",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathBoolConstTrue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ondragenterevent_ondragenterevent",
+      "target": "ondragenterevent_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDragEnterEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialxappend4vector_materialexpressionmaterialxappend4vector",
+      "target": "materialxappend4vector_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXAppend4Vector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "springarmcomponent_springarmcomponent",
+      "target": "springarmcomponent_scenecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "springarmcomponent_springarmcomponent",
+      "target": "springarmcomponent_camera_boom",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "springarmcomponent_springarmcomponent",
+      "target": "springarmcomponent_collision_detection",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "springarmcomponent_springarmcomponent",
+      "target": "springarmcomponent_camera_lag",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "springarmcomponent_springarmcomponent",
+      "target": "camera_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "springarmcomponent_collision_detection",
+      "target": "springarmcomponent_camera_lag",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SpringArmComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaytaskresource_gameplaytaskresource",
+      "target": "gameplaytaskresource_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayTaskResource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnodedata_animnodedata",
+      "target": "animnodedata_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNodeData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnodedata_animnodedata",
+      "target": "animation_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AnimNodeData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "calibrationpointvisualization_calibrationpointvisualization",
+      "target": "calibrationpointvisualization_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CalibrationPointVisualization Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_soundparameterinterfaceinfo_gameplaycuenotify_soundparameterinterfaceinfo",
+      "target": "gameplaycuenotify_soundparameterinterfaceinfo_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCueNotify__SoundParameterInterfaceInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatdeg_rigunit_mathfloatdeg",
+      "target": "rigunit_mathfloatdeg_rigvmfunction_mathfloatdeg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatDeg Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatdeg_rigunit_mathfloatdeg",
+      "target": "deprecated_api_patterns",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathFloatDeg Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "drawgeometryparams_drawgeometryparams",
+      "target": "drawgeometryparams_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DrawGeometryParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeskeletonconfig_gltfruntimeskeletonconfig",
+      "target": "gltfruntimeskeletonconfig_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeSkeletonConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeskeletonconfig_gltfruntimeskeletonconfig",
+      "target": "gltfruntimeskeletonconfig_skeleton_import",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "glTFRuntimeSkeletonConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmaterialentityresult_dcpmaterialentityresult",
+      "target": "dcpmaterialentityresult_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPMaterialEntityResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkbuttonwidget_uiframeworkbuttonwidget",
+      "target": "uiframeworkbuttonwidget_button",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkButtonWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitionlayercomparetype_avatransitionlayercomparetype",
+      "target": "avatransitionlayercomparetype_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionLayerCompareType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmanagedresource_pcgmanagedresource",
+      "target": "pcgmanagedresource_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGManagedResource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmanagedresource_pcgmanagedresource",
+      "target": "pcgmanagedresource_resource_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "PCGManagedResource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "showloginuicallbackproxy_showloginuicallbackproxy",
+      "target": "showloginuicallbackproxy_blueprintasyncactionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ShowLoginUICallbackProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweatherpreset_skycreatorweatherpreset",
+      "target": "skycreatorweatherpreset_dataasset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorWeatherPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweatherpreset_skycreatorweatherpreset",
+      "target": "skycreatorweatherpreset_weather_settings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SkyCreatorWeatherPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "loudnesssettings_loudnesssettings",
+      "target": "loudnesssettings_audiosynesthesiasettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LoudnessSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "loudnesssettings_loudnesssettings",
+      "target": "loudnesssettings_audio_analysis",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "LoudnessSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp",
+      "target": "rigunit_accumulatefloatlerp_rigvmfunction_accumulatefloatlerp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AccumulateFloatLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp",
+      "target": "deprecated_api_patterns",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_AccumulateFloatLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_ragdoll_animgraphnode_ragdoll",
+      "target": "animgraphnode_ragdoll_animgraphnode_rigidbody",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_Ragdoll Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_ragdoll_animgraphnode_ragdoll",
+      "target": "deprecated_api_patterns",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode_Ragdoll Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_ragdoll_animgraphnode_ragdoll",
+      "target": "animation_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AnimGraphNode_Ragdoll Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolconsttrue_rigunit_mathboolconsttrue",
+      "target": "rigunit_mathfloatdeg_rigunit_mathfloatdeg",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathBoolConstTrue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatdeg_rigunit_mathfloatdeg",
+      "target": "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathFloatDeg Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairstrandscomponent_hairstrandscomponent",
+      "target": "deprecated_api_patterns",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "HairStrandsComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rig_units",
+      "label": "Deprecated RigVM Units",
+      "nodes": [
+        "rigunit_mathboolconsttrue_rigunit_mathboolconsttrue",
+        "rigunit_mathfloatdeg_rigunit_mathfloatdeg",
+        "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__MathBoolConstTrue Objects.md"
+    },
+    {
+      "id": "unreal_base_types",
+      "label": "Unreal Engine Base Types",
+      "nodes": [
+        "gameplaytaskresource_object",
+        "animnodedata_structbase",
+        "calibrationpointvisualization_enumbase",
+        "gameplaycuenotify_soundparameterinterfaceinfo_structbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GameplayTaskResource Objects.md"
+    },
+    {
+      "id": "camera_boom_features",
+      "label": "Camera Boom Features",
+      "nodes": [
+        "springarmcomponent_camera_boom",
+        "springarmcomponent_collision_detection",
+        "springarmcomponent_camera_lag"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpringArmComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

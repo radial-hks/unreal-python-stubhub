@@ -1,0 +1,392 @@
+{
+  "nodes": [
+    {
+      "id": "groupactorexportert3d_class",
+      "label": "GroupActorExporterT3D",
+      "file_type": "document",
+      "source_file": "GroupActorExporterT3D Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unrealed_module",
+      "label": "UnrealEd Module",
+      "file_type": "document",
+      "source_file": "GroupActorExporterT3D Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangedecalactorfactory_class",
+      "label": "InterchangeDecalActorFactory",
+      "file_type": "document",
+      "source_file": "InterchangeDecalActorFactory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_plugin",
+      "label": "Interchange Plugin",
+      "file_type": "document",
+      "source_file": "InterchangeDecalActorFactory Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialpropertyopacity_class",
+      "label": "DMMaterialPropertyOpacity",
+      "file_type": "document",
+      "source_file": "DMMaterialPropertyOpacity Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterial_plugin",
+      "label": "DynamicMaterial Plugin",
+      "file_type": "document",
+      "source_file": "DMMaterialPropertyOpacity Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment_class",
+      "label": "EarthPropertyFragment",
+      "file_type": "document",
+      "source_file": "EarthPropertyFragment Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthPropertyFragment Objects.md",
+      "source_location": "line 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compasssource_class",
+      "label": "CompassSource",
+      "file_type": "document",
+      "source_file": "CompassSource Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "CompassSource Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributegetfromindexsettings_class",
+      "label": "PCGAttributeGetFromIndexSettings",
+      "file_type": "document",
+      "source_file": "PCGAttributeGetFromIndexSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGAttributeGetFromIndexSettings Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponenttickfunction_class",
+      "label": "ActorComponentTickFunction",
+      "file_type": "document",
+      "source_file": "ActorComponentTickFunction Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "ActorComponentTickFunction Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spotlight_class",
+      "label": "SpotLight",
+      "file_type": "document",
+      "source_file": "SpotLight Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spotlight_component",
+      "label": "SpotLightComponent",
+      "file_type": "document",
+      "source_file": "SpotLight Objects.md",
+      "source_location": "line 130",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_posegettransform_class",
+      "label": "RigUnit_PoseGetTransform",
+      "file_type": "document",
+      "source_file": "RigUnit__PoseGetTransform Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__PoseGetTransform Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polylineatom_class",
+      "label": "PolylineAtom",
+      "file_type": "document",
+      "source_file": "PolylineAtom Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpdatamodel_plugin",
+      "label": "WdpDataModel Plugin",
+      "file_type": "document",
+      "source_file": "PolylineAtom Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onsunset_class",
+      "label": "OnSunset",
+      "file_type": "document",
+      "source_file": "OnSunset Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorplugin_plugin",
+      "label": "SkyCreatorPlugin Plugin",
+      "file_type": "document",
+      "source_file": "OnSunset Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringtrimwhitespace_class",
+      "label": "RigUnit_StringTrimWhitespace",
+      "file_type": "document",
+      "source_file": "RigUnit_StringTrimWhitespace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "groupactorexportert3d_class",
+      "target": "unrealed_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroupActorExporterT3D Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangedecalactorfactory_class",
+      "target": "interchange_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeDecalActorFactory Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialpropertyopacity_class",
+      "target": "dynamicmaterial_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialPropertyOpacity Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "earthpropertyfragment_class",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPropertyFragment Objects.md",
+      "source_location": "line 14",
+      "weight": 1.0
+    },
+    {
+      "source": "compasssource_class",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CompassSource Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributegetfromindexsettings_class",
+      "target": "pcg_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeGetFromIndexSettings Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "actorcomponenttickfunction_class",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorComponentTickFunction Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "spotlight_class",
+      "target": "spotlight_component",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpotLight Objects.md",
+      "source_location": "line 130",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegettransform_class",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PoseGetTransform Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "polylineatom_class",
+      "target": "wdpdatamodel_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PolylineAtom Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "onsunset_class",
+      "target": "skycreatorplugin_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnSunset Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "actorcomponenttickfunction_class",
+      "target": "spotlight_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ActorComponentTickFunction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringtrimwhitespace_class",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_StringTrimWhitespace Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 3200,
+  "output_tokens": 0
+}

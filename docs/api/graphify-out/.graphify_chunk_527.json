@@ -1,0 +1,782 @@
+{
+  "nodes": [
+    {
+      "id": "combinedtransformgizmoactor_combinedtransformgizmoactor",
+      "label": "CombinedTransformGizmoActor",
+      "file_type": "code",
+      "source_file": "CombinedTransformGizmoActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "combinedtransformgizmoactor_gizmoactor",
+      "label": "GizmoActor",
+      "file_type": "code",
+      "source_file": "CombinedTransformGizmoActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediasoundcomponent_mediasoundcomponent",
+      "label": "MediaSoundComponent",
+      "file_type": "code",
+      "source_file": "MediaSoundComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediasoundcomponent_synthcomponent",
+      "label": "SynthComponent",
+      "file_type": "code",
+      "source_file": "MediaSoundComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediasoundcomponent_mediaplayer",
+      "label": "MediaPlayer",
+      "file_type": "code",
+      "source_file": "MediaSoundComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_componenttolocalspace_animgraphnode_componenttolocalspace",
+      "label": "AnimGraphNode_ComponentToLocalSpace",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_ComponentToLocalSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_componenttolocalspace_animgraphnode_base",
+      "label": "AnimGraphNode_Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_ComponentToLocalSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontroltype_rigcontroltype",
+      "label": "RigControlType",
+      "file_type": "code",
+      "source_file": "RigControlType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdeviceaudiobasedvibrationproperty_inputdeviceaudiobasedvibrationproperty",
+      "label": "InputDeviceAudioBasedVibrationProperty",
+      "file_type": "code",
+      "source_file": "InputDeviceAudioBasedVibrationProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdeviceaudiobasedvibrationproperty_inputdeviceproperty",
+      "label": "InputDeviceProperty",
+      "file_type": "code",
+      "source_file": "InputDeviceAudioBasedVibrationProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdeviceaudiobasedvibrationproperty_audiobasedvibrationdata",
+      "label": "AudioBasedVibrationData",
+      "file_type": "code",
+      "source_file": "InputDeviceAudioBasedVibrationProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringpadinteger_rigvmfunction_stringpadinteger",
+      "label": "RigVMFunction_StringPadInteger",
+      "file_type": "code",
+      "source_file": "RigVMFunction__StringPadInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringpadinteger_rigvmfunction_stringbase",
+      "label": "RigVMFunction_StringBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__StringPadInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updatecustompoiparams_updatecustompoiparams",
+      "label": "UpdateCustomPoiParams",
+      "file_type": "code",
+      "source_file": "UpdateCustomPoiParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updatecustompoiparams_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": "UpdateCustomPoiParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massmovementtrait_massmovementtrait",
+      "label": "MassMovementTrait",
+      "file_type": "code",
+      "source_file": "MassMovementTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massmovementtrait_massentitytraitbase",
+      "label": "MassEntityTraitBase",
+      "file_type": "code",
+      "source_file": "MassMovementTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massmovementtrait_massmovementparameters",
+      "label": "MassMovementParameters",
+      "file_type": "code",
+      "source_file": "MassMovementTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringwindowvisibility_coveringwindowvisibility",
+      "label": "CoveringWindowVisibility",
+      "file_type": "code",
+      "source_file": "CoveringWindowVisibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "throbber_throbber",
+      "label": "Throbber",
+      "file_type": "code",
+      "source_file": "Throbber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "throbber_widget",
+      "label": "Widget",
+      "file_type": "code",
+      "source_file": "Throbber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatconstant",
+      "label": "RigVMFunction_MathFloatConstant",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction_MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_slidechain_rigunit_slidechain",
+      "label": "RigUnit_SlideChain",
+      "file_type": "code",
+      "source_file": "RigUnit_SlideChain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_slidechain_rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_SlideChain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatatan_rigvmfunction_mathfloatatan",
+      "label": "RigVMFunction_MathFloatAtan",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatAtan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatatan_rigvmfunction_mathfloatunaryop",
+      "label": "RigVMFunction_MathFloatUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatAtan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riginfluencemap_riginfluencemap",
+      "label": "RigInfluenceMap",
+      "file_type": "code",
+      "source_file": "RigInfluenceMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riginfluencemap_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "RigInfluenceMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeskeletalMeshfactory_interchangeskeletalMeshfactory",
+      "label": "InterchangeSkeletalMeshFactory",
+      "file_type": "code",
+      "source_file": "InterchangeSkeletalMeshFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeskeletalMeshfactory_interchangefactorybase",
+      "label": "InterchangeFactoryBase",
+      "file_type": "code",
+      "source_file": "InterchangeSkeletalMeshFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "solvertrailingfiltersettings_solvertrailingfiltersettings",
+      "label": "SolverTrailingFilterSettings",
+      "file_type": "code",
+      "source_file": "SolverTrailingFilterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalcontrolreference_skeletalcontrolreference",
+      "label": "SkeletalControlReference",
+      "file_type": "code",
+      "source_file": "SkeletalControlReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalcontrolreference_animnodereference",
+      "label": "AnimNodeReference",
+      "file_type": "code",
+      "source_file": "SkeletalControlReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "baseplatetile_baseplatetile",
+      "label": "BaseplateTile",
+      "file_type": "code",
+      "source_file": "BaseplateTile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimcacheattributecapturemode_niagarasimcacheattributecapturemode",
+      "label": "NiagaraSimCacheAttributeCaptureMode",
+      "file_type": "code",
+      "source_file": "NiagaraSimCacheAttributeCaptureMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_tangentfromcontrolrigspline_rigunit_tangentfromcontrolrigspline",
+      "label": "RigUnit_TangentFromControlRigSpline",
+      "file_type": "code",
+      "source_file": "RigUnit__TangentFromControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_tangentfromcontrolrigspline_rigunit_controlrigsplinebase",
+      "label": "RigUnit_ControlRigSplineBase",
+      "file_type": "code",
+      "source_file": "RigUnit__TangentFromControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_tangentfromcontrolrigspline_controlrigspline",
+      "label": "ControlRigSpline",
+      "file_type": "code",
+      "source_file": "RigUnit__TangentFromControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgetpickedpointsresult_wdpgetpickedpointsresult",
+      "label": "WdpGetPickedPointsResult",
+      "file_type": "code",
+      "source_file": "WdpGetPickedPointsResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgetpickedpointsresult_resultbase",
+      "label": "ResultBase",
+      "file_type": "code",
+      "source_file": "WdpGetPickedPointsResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springinterpvector_rigunit_springinterpvector",
+      "label": "RigUnit_SpringInterpVector",
+      "file_type": "code",
+      "source_file": "RigUnit_SpringInterpVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springinterpvector_rigvmfunction_simbase",
+      "label": "RigVMFunction_SimBase",
+      "file_type": "code",
+      "source_file": "RigUnit_SpringInterpVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "combinedtransformgizmoactor_combinedtransformgizmoactor",
+      "target": "combinedtransformgizmoactor_gizmoactor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CombinedTransformGizmoActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediasoundcomponent_mediasoundcomponent",
+      "target": "mediasoundcomponent_synthcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaSoundComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediasoundcomponent_mediasoundcomponent",
+      "target": "mediasoundcomponent_mediaplayer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaSoundComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_componenttolocalspace_animgraphnode_componenttolocalspace",
+      "target": "animgraphnode_componenttolocalspace_animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_ComponentToLocalSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputdeviceaudiobasedvibrationproperty_inputdeviceaudiobasedvibrationproperty",
+      "target": "inputdeviceaudiobasedvibrationproperty_inputdeviceproperty",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceAudioBasedVibrationProperty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputdeviceaudiobasedvibrationproperty_inputdeviceaudiobasedvibrationproperty",
+      "target": "inputdeviceaudiobasedvibrationproperty_audiobasedvibrationdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceAudioBasedVibrationProperty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringpadinteger_rigvmfunction_stringpadinteger",
+      "target": "rigvmfunction_stringpadinteger_rigvmfunction_stringbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__StringPadInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "updatecustompoiparams_updatecustompoiparams",
+      "target": "updatecustompoiparams_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateCustomPoiParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massmovementtrait_massmovementtrait",
+      "target": "massmovementtrait_massentitytraitbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassMovementTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massmovementtrait_massmovementtrait",
+      "target": "massmovementtrait_massmovementparameters",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassMovementTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "throbber_throbber",
+      "target": "throbber_widget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Throbber Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatconstant",
+      "target": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatConstant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_slidechain_rigunit_slidechain",
+      "target": "rigunit_slidechain_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SlideChain Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatatan_rigvmfunction_mathfloatatan",
+      "target": "rigvmfunction_mathfloatatan_rigvmfunction_mathfloatunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatAtan Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riginfluencemap_riginfluencemap",
+      "target": "riginfluencemap_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigInfluenceMap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeskeletalMeshfactory_interchangeskeletalMeshfactory",
+      "target": "interchangeskeletalMeshfactory_interchangefactorybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeSkeletalMeshFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "solvertrailingfiltersettings_solvertrailingfiltersettings",
+      "target": "riginfluencemap_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SolverTrailingFilterSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalcontrolreference_skeletalcontrolreference",
+      "target": "skeletalcontrolreference_animnodereference",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalControlReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "baseplatetile_baseplatetile",
+      "target": "riginfluencemap_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BaseplateTile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_tangentfromcontrolrigspline_rigunit_tangentfromcontrolrigspline",
+      "target": "rigunit_tangentfromcontrolrigspline_rigunit_controlrigsplinebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TangentFromControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_tangentfromcontrolrigspline_rigunit_tangentfromcontrolrigspline",
+      "target": "rigunit_tangentfromcontrolrigspline_controlrigspline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TangentFromControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgetpickedpointsresult_wdpgetpickedpointsresult",
+      "target": "wdpgetpickedpointsresult_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGetPickedPointsResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springinterpvector_rigunit_springinterpvector",
+      "target": "rigunit_springinterpvector_rigvmfunction_simbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SpringInterpVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatconstant",
+      "target": "rigvmfunction_mathfloatatan_rigvmfunction_mathfloatatan",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathFloatConstant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_slidechain_rigunit_slidechain",
+      "target": "rigunit_springinterpvector_rigunit_springinterpvector",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SlideChain Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringpadinteger_rigvmfunction_stringpadinteger",
+      "target": "rigvmfunction_mathfloatatan_rigvmfunction_mathfloatatan",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction__StringPadInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_math_operations",
+      "label": "RigVM Math Functions",
+      "nodes": [
+        "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatconstant",
+        "rigvmfunction_mathfloatatan_rigvmfunction_mathfloatatan",
+        "rigvmfunction_stringpadinteger_rigvmfunction_stringpadinteger"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathFloatConstant Objects.md"
+    },
+    {
+      "id": "rig_unit_operations",
+      "label": "Control Rig Unit Operations",
+      "nodes": [
+        "rigunit_slidechain_rigunit_slidechain",
+        "rigunit_tangentfromcontrolrigspline_rigunit_tangentfromcontrolrigspline",
+        "rigunit_springinterpvector_rigunit_springinterpvector"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SlideChain Objects.md"
+    },
+    {
+      "id": "unreal_struct_types",
+      "label": "Unreal Engine Struct Types",
+      "nodes": [
+        "riginfluencemap_riginfluencemap",
+        "solvertrailingfiltersettings_solvertrailingfiltersettings",
+        "baseplatetile_baseplatetile"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigInfluenceMap Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

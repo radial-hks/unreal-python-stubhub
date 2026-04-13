@@ -1,0 +1,659 @@
+{
+  "nodes": [
+    {
+      "id": "actormodifiercoreblueprintbase",
+      "label": "ActorModifierCoreBlueprintBase",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorebase",
+      "label": "ActorModifierCoreBase",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onsoundloadcomplete",
+      "label": "OnSoundLoadComplete",
+      "file_type": "document",
+      "source_file": "OnSoundLoadComplete Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "OnSoundLoadComplete Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_resolveconnector",
+      "label": "RigUnit_ResolveConnector",
+      "file_type": "document",
+      "source_file": "RigUnit__ResolveConnector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigmodulesbase",
+      "label": "RigUnit_RigModulesBase",
+      "file_type": "document",
+      "source_file": "RigUnit__ResolveConnector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "color",
+      "label": "Color",
+      "file_type": "document",
+      "source_file": "Color Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "Color Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptuvtriangle",
+      "label": "GeometryScriptUVTriangle",
+      "file_type": "document",
+      "source_file": "GeometryScriptUVTriangle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platformuserid",
+      "label": "PlatformUserId",
+      "file_type": "document",
+      "source_file": "PlatformUserId Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusgroomwritedataprovider",
+      "label": "OptimusGroomWriteDataProvider",
+      "file_type": "document",
+      "source_file": "OptimusGroomWriteDataProvider Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computedataprovider",
+      "label": "ComputeDataProvider",
+      "file_type": "document",
+      "source_file": "OptimusGroomWriteDataProvider Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicbatchactor",
+      "label": "DynamicBatchActor",
+      "file_type": "document",
+      "source_file": "DynamicBatchActor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "DynamicBatchActor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_shapeexists",
+      "label": "RigUnit_ShapeExists",
+      "file_type": "document",
+      "source_file": "RigUnit_ShapeExists Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_ShapeExists Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlineproxystoreofferdiscounttype",
+      "label": "OnlineProxyStoreOfferDiscountType",
+      "file_type": "document",
+      "source_file": "OnlineProxyStoreOfferDiscountType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "OnlineProxyStoreOfferDiscountType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avabasemodifier",
+      "label": "AvaBaseModifier",
+      "file_type": "document",
+      "source_file": "AvaBaseModifier Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "refractioncoveragemode",
+      "label": "RefractionCoverageMode",
+      "file_type": "document",
+      "source_file": "RefractionCoverageMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwave",
+      "label": "SoundWave",
+      "file_type": "document",
+      "source_file": "OnSoundLoadComplete Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit__ResolveConnector Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d",
+      "label": "Vector2D",
+      "file_type": "document",
+      "source_file": "GeometryScriptUVTriangle Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcomponent",
+      "label": "GroomComponent",
+      "file_type": "document",
+      "source_file": "OptimusGroomWriteDataProvider Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercoremetadata",
+      "label": "ActorModifierCoreMetadata",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "line 25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorebasemodifier_lifecycle",
+      "label": "Modifier Lifecycle",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "lines 19-177",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_module",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__ResolveConnector Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptUVTriangle Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairstrands_plugin",
+      "label": "HairStrands Plugin",
+      "file_type": "document",
+      "source_file": "OptimusGroomWriteDataProvider Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin",
+      "label": "Avalanche Plugin",
+      "file_type": "document",
+      "source_file": "AvaBaseModifier Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercore_plugin",
+      "label": "ActorModifierCore Plugin",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "actormodifiercoreblueprintbase",
+      "target": "actormodifiercorebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "onsoundloadcomplete",
+      "target": "delegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnSoundLoadComplete Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_resolveconnector",
+      "target": "rigunit_rigmodulesbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ResolveConnector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "color",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Color Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptuvtriangle",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptUVTriangle Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "platformuserid",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformUserId Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "optimusgroomwritedataprovider",
+      "target": "computedataprovider",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusGroomWriteDataProvider Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicbatchactor",
+      "target": "actor",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicBatchActor Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_shapeexists",
+      "target": "rigunit",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ShapeExists Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "onlineproxystoreofferdiscounttype",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnlineProxyStoreOfferDiscountType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "avabasemodifier",
+      "target": "actormodifiercorebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaBaseModifier Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "refractioncoveragemode",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RefractionCoverageMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "onsoundloadcomplete",
+      "target": "soundwave",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnSoundLoadComplete Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_resolveconnector",
+      "target": "rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ResolveConnector Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptuvtriangle",
+      "target": "vector2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptUVTriangle Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "optimusgroomwritedataprovider",
+      "target": "groomcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusGroomWriteDataProvider Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercoreblueprintbase",
+      "target": "actormodifiercoremetadata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "line 25",
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercoreblueprintbase",
+      "target": "actormodifiercorebasemodifier_lifecycle",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "lines 19-177",
+      "weight": 1.0
+    },
+    {
+      "source": "avabasemodifier",
+      "target": "actormodifiercoreblueprintbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AvaBaseModifier Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_resolveconnector",
+      "target": "controlrig_module",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ResolveConnector Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_shapeexists",
+      "target": "controlrig_module",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ShapeExists Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptuvtriangle",
+      "target": "geometryscripting_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptUVTriangle Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "optimusgroomwritedataprovider",
+      "target": "hairstrands_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusGroomWriteDataProvider Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "avabasemodifier",
+      "target": "avalanche_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaBaseModifier Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercoreblueprintbase",
+      "target": "actormodifiercore_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_resolveconnector",
+      "target": "rigunit_shapeexists",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__ResolveConnector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "color",
+      "target": "geometryscriptuvtriangle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Color Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_struct_types",
+      "label": "Unreal Engine Struct Types",
+      "nodes": [
+        "color",
+        "geometryscriptuvtriangle",
+        "platformuserid"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Color Objects.md"
+    },
+    {
+      "id": "controlrig_units",
+      "label": "ControlRig Unit Classes",
+      "nodes": [
+        "rigunit_resolveconnector",
+        "rigunit_shapeexists"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__ResolveConnector Objects.md"
+    },
+    {
+      "id": "modifier_hierarchy",
+      "label": "Actor Modifier Class Hierarchy",
+      "nodes": [
+        "actormodifiercorebase",
+        "actormodifiercoreblueprintbase",
+        "avabasemodifier"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ActorModifierCoreBlueprintBase Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

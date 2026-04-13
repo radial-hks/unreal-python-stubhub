@@ -1,0 +1,371 @@
+{
+  "nodes": [
+    {
+      "id": "cullingfield_cullingfield",
+      "label": "CullingField",
+      "file_type": "document",
+      "source_file": "CullingField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigdrawcontainer_controlrigdrawcontainer",
+      "label": "ControlRigDrawContainer",
+      "file_type": "document",
+      "source_file": "ControlRigDrawContainer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmousecapturebegineventsynth2d_onmousecapturebegineventsynth2d",
+      "label": "OnMouseCaptureBeginEventSynth2D",
+      "file_type": "document",
+      "source_file": "OnMouseCaptureBeginEventSynth2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_copyposefrommesh_animgraphnode_copyposefrommesh",
+      "label": "AnimGraphNode_CopyPoseFromMesh",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__CopyPoseFromMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixinverse_rigunit_mathmatrixinverse",
+      "label": "RigUnit_MathMatrixInverse",
+      "file_type": "document",
+      "source_file": "RigUnit_MathMatrixInverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avacinecameraactor_avacinecameraactor",
+      "label": "AvaCineCameraActor",
+      "file_type": "document",
+      "source_file": "AvaCineCameraActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleatan2_rigvmfunction_mathdoubleatan2",
+      "label": "RigVMFunction_MathDoubleAtan2",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleAtan2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendsubtract_dmmaterialstageblendsubtract",
+      "label": "DMMaterialStageBlendSubtract",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendSubtract Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerboolarrayvariable_rigvmtrait_setdeformerboolarrayvariable",
+      "label": "RigVMTrait_SetDeformerBoolArrayVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerBoolArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene3dpathsection_axis_moviescene3dpathsection_axis",
+      "label": "MovieScene3DPathSection_Axis",
+      "file_type": "document",
+      "source_file": "MovieScene3DPathSection_Axis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondeleteactorsend_ondeleteactorsend",
+      "label": "OnDeleteActorsEnd",
+      "file_type": "document",
+      "source_file": "OnDeleteActorsEnd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenechaoscachesection_moviescenechaoscachesection",
+      "label": "MovieSceneChaosCacheSection",
+      "file_type": "document",
+      "source_file": "MovieSceneChaosCacheSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonereffectormode_ceclonereffectormode",
+      "label": "CEClonerEffectorMode",
+      "file_type": "document",
+      "source_file": "CEClonerEffectorMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_uvsettings_generatestaticmeshlodprocess_uvsettings",
+      "label": "GenerateStaticMeshLODProcess_UVSettings",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_UVSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstaticboolparameter_materialexpressionstaticboolparameter",
+      "label": "MaterialExpressionStaticBoolParameter",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStaticBoolParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xaxislabelsunit_xaxislabelsunit",
+      "label": "XAxisLabelsUnit",
+      "file_type": "document",
+      "source_file": "XAxisLabelsUnit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseconfig_prediction_aisenseconfig_prediction",
+      "label": "AISenseConfig_Prediction",
+      "file_type": "document",
+      "source_file": "AISenseConfig_Prediction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tapdelayinfo_tapdelayinfo",
+      "label": "TapDelayInfo",
+      "file_type": "document",
+      "source_file": "TapDelayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_transformconstraintperitem_rigunit_transformconstraintperitem",
+      "label": "RigUnit_TransformConstraintPerItem",
+      "file_type": "document",
+      "source_file": "RigUnit_TransformConstraintPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformervectorvariable_rigvmtrait_setdeformervectorvariable",
+      "label": "RigVMTrait_SetDeformerVectorVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait__SetDeformerVectorVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributeselectaxis_pcgattributeselectaxis",
+      "label": "PCGAttributeSelectAxis",
+      "file_type": "document",
+      "source_file": "PCGAttributeSelectAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapeblueprintbrushbase_landscapeblueprintbrushbase",
+      "label": "LandscapeBlueprintBrushBase",
+      "file_type": "document",
+      "source_file": "LandscapeBlueprintBrushBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "controlrigdrawcontainer_controlrigdrawcontainer",
+      "target": "rigunit_mathmatrixinverse_rigunit_mathmatrixinverse",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ControlRigDrawContainer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene3dpathsection_axis_moviescene3dpathsection_axis",
+      "target": "pcgattributeselectaxis_pcgattributeselectaxis",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "MovieScene3DPathSection_Axis Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerboolarrayvariable_rigvmtrait_setdeformerboolarrayvariable",
+      "target": "rigvmtrait_setdeformervectorvariable_rigvmtrait_setdeformervectorvariable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "RigVMTrait_SetDeformerBoolArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avacinecameraactor_avacinecameraactor",
+      "target": "landscapeblueprintbrushbase_landscapeblueprintbrushbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AvaCineCameraActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleatan2_rigvmfunction_mathdoubleatan2",
+      "target": "rigunit_transformconstraintperitem_rigunit_transformconstraintperitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "RigVMFunction__MathDoubleAtan2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenechaoscachesection_moviescenechaoscachesection",
+      "target": "rigvmtrait_setdeformerboolarrayvariable_rigvmtrait_setdeformerboolarrayvariable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "MovieSceneChaosCacheSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cullingfield_cullingfield",
+      "target": "generatestaticmeshlodprocess_uvsettings_generatestaticmeshlodprocess_uvsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CullingField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonereffectormode_ceclonereffectormode",
+      "target": "animgraphnode_copyposefrommesh_animgraphnode_copyposefrommesh",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.62,
+      "source_file": "CEClonerEffectorMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tapdelayinfo_tapdelayinfo",
+      "target": "xaxislabelsunit_xaxislabelsunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "TapDelayInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstaticboolparameter_materialexpressionstaticboolparameter",
+      "target": "dmmaterialstageblendsubtract_dmmaterialstageblendsubtract",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.73,
+      "source_file": "MaterialExpressionStaticBoolParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisenseconfig_prediction_aisenseconfig_prediction",
+      "target": "ondeleteactorsend_ondeleteactorsend",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.58,
+      "source_file": "AISenseConfig_Prediction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onmousecapturebegineventsynth2d_onmousecapturebegineventsynth2d",
+      "target": "tapdelayinfo_tapdelayinfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.61,
+      "source_file": "OnMouseCaptureBeginEventSynth2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

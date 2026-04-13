@@ -1,0 +1,1069 @@
+{
+  "nodes": [
+    {
+      "id": "interchangematerialxpipeline_interchangematerialxpipeline",
+      "label": "InterchangeMaterialXPipeline",
+      "file_type": "document",
+      "source_file": "InterchangeMaterialXPipeline Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxpipeline_interchangepipelinebase",
+      "label": "InterchangePipelineBase",
+      "file_type": "document",
+      "source_file": "InterchangeMaterialXPipeline Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneulertransformtrack_moviesceneulertransformtrack",
+      "label": "MovieSceneEulerTransformTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneEulerTransformTrack Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneulertransformtrack_moviescenepropertytrack",
+      "label": "MovieScenePropertyTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneEulerTransformTrack Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneulertransformtrack_3deulertransformproperties",
+      "label": "3D Euler Transform Properties",
+      "file_type": "document",
+      "source_file": "MovieSceneEulerTransformTrack Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterfaceclasssupportlibrary",
+      "label": "CameraLensEffectInterfaceClassSupportLibrary",
+      "file_type": "document",
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenseffectinterfaceclasssupportlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenseffectinterfaceclasssupportlibrary_set_interface_class",
+      "label": "set_interface_class",
+      "file_type": "document",
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenseffectinterfaceclasssupportlibrary_is_interface_valid",
+      "label": "is_interface_valid",
+      "file_type": "document",
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenseffectinterfaceclasssupportlibrary_is_interface_class_valid",
+      "label": "is_interface_class_valid",
+      "file_type": "document",
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 66",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenseffectinterfaceclasssupportlibrary_get_interface_class",
+      "label": "get_interface_class",
+      "file_type": "document",
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 88",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterface",
+      "label": "CameraLensEffectInterface",
+      "file_type": "document",
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp",
+      "label": "RigUnit_AccumulateFloatLerp",
+      "file_type": "document",
+      "source_file": "RigUnit__AccumulateFloatLerp Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatefloatlerp_rigvmfunction_accumulatefloatlerp",
+      "label": "RigVMFunction_AccumulateFloatLerp",
+      "file_type": "document",
+      "source_file": "RigUnit__AccumulateFloatLerp Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintpropertypath_mvvmblueprintpropertypath",
+      "label": "MVVMBlueprintPropertyPath",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintpropertypath_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintpropertypath_mvvm_binding",
+      "label": "MVVM Binding",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintpropertypath_property_path",
+      "label": "Property Path",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolskeyedproxy_animdetailcontrolskeyedproxy",
+      "label": "AnimDetailControlsKeyedProxy",
+      "file_type": "document",
+      "source_file": "AnimDetailControlsKeyedProxy Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolskeyedproxy_controlrigcontrolsproxy",
+      "label": "ControlRigControlsProxy",
+      "file_type": "document",
+      "source_file": "AnimDetailControlsKeyedProxy Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "socketreference_socketreference",
+      "label": "SocketReference",
+      "file_type": "document",
+      "source_file": "SocketReference Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "socketreference_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "SocketReference Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "socketreference_socket_name",
+      "label": "socket_name",
+      "file_type": "document",
+      "source_file": "SocketReference Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_toswingandtwist_rigunit_toswingandtwist",
+      "label": "RigUnit_ToSwingAndTwist",
+      "file_type": "document",
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_toswingandtwist_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_toswingandtwist_quaternion_conversion",
+      "label": "Quaternion to Swing and Twist Conversion",
+      "file_type": "document",
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_toswingandtwist_swing",
+      "label": "swing",
+      "file_type": "document",
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_toswingandtwist_twist",
+      "label": "twist",
+      "file_type": "document",
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_toswingandtwist_twist_axis",
+      "label": "twist_axis",
+      "file_type": "document",
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotdefinition_smartobjectslotdefinition",
+      "label": "SmartObjectSlotDefinition",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotdefinition_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotdefinition_behavior_definitions",
+      "label": "behavior_definitions",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotdefinition_activity_tags",
+      "label": "activity_tags",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotdefinition_smart_objects",
+      "label": "Smart Objects",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugcamerahud_debugcamerahud",
+      "label": "DebugCameraHUD",
+      "file_type": "document",
+      "source_file": "DebugCameraHUD Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugcamerahud_hud",
+      "label": "HUD",
+      "file_type": "document",
+      "source_file": "DebugCameraHUD Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugcamerahud_debug_camera_controller",
+      "label": "DebugCameraController",
+      "file_type": "document",
+      "source_file": "DebugCameraHUD Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugcamerahud_player_owner",
+      "label": "player_owner",
+      "file_type": "document",
+      "source_file": "DebugCameraHUD Objects.md",
+      "source_location": "line 106",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystemupdatemode_particlesystemupdatemode",
+      "label": "ParticleSystemUpdateMode",
+      "file_type": "document",
+      "source_file": "ParticleSystemUpdateMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystemupdatemode_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "ParticleSystemUpdateMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystemupdatemode_real_time",
+      "label": "EPSUM_REAL_TIME",
+      "file_type": "document",
+      "source_file": "ParticleSystemUpdateMode Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystemupdatemode_fixed_time",
+      "label": "EPSUM_FIXED_TIME",
+      "file_type": "document",
+      "source_file": "ParticleSystemUpdateMode Objects.md",
+      "source_location": "line 25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatecolorstylingmode_slatecolorstylingmode",
+      "label": "SlateColorStylingMode",
+      "file_type": "document",
+      "source_file": "SlateColorStylingMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatecolorstylingmode_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "SlateColorStylingMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatecolorstylingmode_use_color_specified",
+      "label": "USE_COLOR_SPECIFIED",
+      "file_type": "document",
+      "source_file": "SlateColorStylingMode Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatecolorstylingmode_use_color_foreground",
+      "label": "USE_COLOR_FOREGROUND",
+      "file_type": "document",
+      "source_file": "SlateColorStylingMode Objects.md",
+      "source_location": "line 26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeplugin_interchangepipelinesmodule",
+      "label": "InterchangePipelines Module",
+      "file_type": "document",
+      "source_file": "InterchangeMaterialXPipeline Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetracksmodule_moviescenetracks",
+      "label": "MovieSceneTracks Module",
+      "file_type": "document",
+      "source_file": "MovieSceneEulerTransformTrack Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enginemodule_engine",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigplugin_controlrigmodule",
+      "label": "ControlRig Module",
+      "file_type": "document",
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelviewviewmodelplugin_modelviewviewModelblueprintmodule",
+      "label": "ModelViewViewModelBlueprint Module",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectsplugin_smartobjectsmodule",
+      "label": "SmartObjectsModule Module",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "interchangematerialxpipeline_interchangematerialxpipeline",
+      "target": "interchangematerialxpipeline_interchangepipelinebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialXPipeline Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxpipeline_interchangematerialxpipeline",
+      "target": "interchangeplugin_interchangepipelinesmodule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialXPipeline Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneulertransformtrack_moviesceneulertransformtrack",
+      "target": "moviesceneulertransformtrack_moviescenepropertytrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneEulerTransformTrack Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneulertransformtrack_moviesceneulertransformtrack",
+      "target": "moviesceneulertransformtrack_3deulertransformproperties",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneEulerTransformTrack Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneulertransformtrack_moviesceneulertransformtrack",
+      "target": "moviescenetracksmodule_moviescenetracks",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneEulerTransformTrack Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterfaceclasssupportlibrary",
+      "target": "cameralenseffectinterfaceclasssupportlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterfaceclasssupportlibrary",
+      "target": "enginemodule_engine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralenseffectinterfaceclasssupportlibrary_set_interface_class",
+      "target": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterfaceclasssupportlibrary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralenseffectinterfaceclasssupportlibrary_set_interface_class",
+      "target": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 31",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralenseffectinterfaceclasssupportlibrary_is_interface_valid",
+      "target": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterfaceclasssupportlibrary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 45",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralenseffectinterfaceclasssupportlibrary_is_interface_valid",
+      "target": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 54",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralenseffectinterfaceclasssupportlibrary_is_interface_class_valid",
+      "target": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterfaceclasssupportlibrary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 66",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralenseffectinterfaceclasssupportlibrary_get_interface_class",
+      "target": "cameralenseffectinterfaceclasssupportlibrary_cameralenseffectinterfaceclasssupportlibrary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLensEffectInterfaceClassSupportLibrary Objects.md",
+      "source_location": "line 88",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp",
+      "target": "rigunit_accumulatefloatlerp_rigvmfunction_accumulatefloatlerp",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AccumulateFloatLerp Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmblueprintpropertypath_mvvmblueprintpropertypath",
+      "target": "mvvmblueprintpropertypath_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmblueprintpropertypath_mvvmblueprintpropertypath",
+      "target": "mvvmblueprintpropertypath_mvvm_binding",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmblueprintpropertypath_mvvmblueprintpropertypath",
+      "target": "mvvmblueprintpropertypath_property_path",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmblueprintpropertypath_mvvmblueprintpropertypath",
+      "target": "modelviewviewmodelplugin_modelviewviewmodelblueprintmodule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBlueprintPropertyPath Objects.md",
+      "source_location": "line 14",
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolskeyedproxy_animdetailcontrolskeyedproxy",
+      "target": "animdetailcontrolskeyedproxy_controlrigcontrolsproxy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsKeyedProxy Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "socketreference_socketreference",
+      "target": "socketreference_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SocketReference Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "socketreference_socketreference",
+      "target": "socketreference_socket_name",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SocketReference Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_toswingandtwist_rigunit_toswingandtwist",
+      "target": "rigunit_toswingandtwist_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_toswingandtwist_rigunit_toswingandtwist",
+      "target": "rigunit_toswingandtwist_quaternion_conversion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_toswingandtwist_rigunit_toswingandtwist",
+      "target": "rigunit_toswingandtwist_swing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_toswingandtwist_rigunit_toswingandtwist",
+      "target": "rigunit_toswingandtwist_twist",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_toswingandtwist_rigunit_toswingandtwist",
+      "target": "rigunit_toswingandtwist_twist_axis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_toswingandtwist_rigunit_toswingandtwist",
+      "target": "controlrigplugin_controlrigmodule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToSwingAndTwist Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotdefinition_smartobjectslotdefinition",
+      "target": "smartobjectslotdefinition_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotdefinition_smartobjectslotdefinition",
+      "target": "smartobjectslotdefinition_behavior_definitions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotdefinition_smartobjectslotdefinition",
+      "target": "smartobjectslotdefinition_activity_tags",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotdefinition_smartobjectslotdefinition",
+      "target": "smartobjectslotdefinition_smart_objects",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotdefinition_smartobjectslotdefinition",
+      "target": "smartobjectsplugin_smartobjectsmodule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotDefinition Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "debugcamerahud_debugcamerahud",
+      "target": "debugcamerahud_hud",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DebugCameraHUD Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "debugcamerahud_debugcamerahud",
+      "target": "debugcamerahud_debug_camera_controller",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DebugCameraHUD Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "debugcamerahud_debugcamerahud",
+      "target": "debugcamerahud_player_owner",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DebugCameraHUD Objects.md",
+      "source_location": "line 106",
+      "weight": 1.0
+    },
+    {
+      "source": "debugcamerahud_debugcamerahud",
+      "target": "enginemodule_engine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DebugCameraHUD Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemupdatemode_particlesystemupdatemode",
+      "target": "particlesystemupdatemode_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemUpdateMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemupdatemode_particlesystemupdatemode",
+      "target": "particlesystemupdatemode_real_time",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemUpdateMode Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemupdatemode_particlesystemupdatemode",
+      "target": "particlesystemupdatemode_fixed_time",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemUpdateMode Objects.md",
+      "source_location": "line 25",
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemupdatemode_particlesystemupdatemode",
+      "target": "enginemodule_engine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemUpdateMode Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "slatecolorstylingmode_slatecolorstylingmode",
+      "target": "slatecolorstylingmode_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateColorStylingMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "slatecolorstylingmode_slatecolorstylingmode",
+      "target": "slatecolorstylingmode_use_color_specified",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateColorStylingMode Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "slatecolorstylingmode_slatecolorstylingmode",
+      "target": "slatecolorstylingmode_use_color_foreground",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateColorStylingMode Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "socketreference_socketreference",
+      "target": "enginemodule_engine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SocketReference Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolskeyedproxy_animdetailcontrolskeyedproxy",
+      "target": "controlrigplugin_controlrigmodule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsKeyedProxy Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp",
+      "target": "controlrigplugin_controlrigmodule",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__AccumulateFloatLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigunit_classes",
+      "label": "ControlRig RigUnit Classes",
+      "nodes": [
+        "rigunit_toswingandtwist_rigunit_toswingandtwist",
+        "rigunit_accumulatefloatlerp_rigunit_accumulatefloatlerp",
+        "animdetailcontrolskeyedproxy_animdetailcontrolskeyedproxy"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple Files"
+    },
+    {
+      "id": "unreal_engine_modules",
+      "label": "Unreal Engine Core Modules",
+      "nodes": [
+        "enginemodule_engine",
+        "moviescenetracksmodule_moviescenetracks",
+        "controlrigplugin_controlrigmodule",
+        "interchangeplugin_interchangepipelinesmodule"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple Files"
+    }
+  ],
+  "input_tokens": 8456,
+  "output_tokens": 0
+}

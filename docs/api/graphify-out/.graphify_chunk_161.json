@@ -1,0 +1,609 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_toworldspace_location_rigunit_toworldspace_location",
+      "label": "RigUnit_ToWorldSpace_Location",
+      "file_type": "document",
+      "source_file": "RigUnit_ToWorldSpace_Location Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_toworldspace_location_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "RigUnit_ToWorldSpace_Location Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gerstnerwaveoctave_gerstnerwaveoctave",
+      "label": "GerstnerWaveOctave",
+      "file_type": "document",
+      "source_file": "GerstnerWaveOctave Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigtestdataframe_controlrigtestdataframe",
+      "label": "ControlRigTestDataFrame",
+      "file_type": "document",
+      "source_file": "ControlRigTestDataFrame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "label": "RigUnit_SetRelativeBoneTransform",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcounterroundingmode_propertyanimatorcounterroundingmode",
+      "label": "PropertyAnimatorCounterRoundingMode",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCounterRoundingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "expandablearea_expandablearea",
+      "label": "ExpandableArea",
+      "file_type": "document",
+      "source_file": "ExpandableArea Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinemeshactor_splinemeshactor",
+      "label": "SplineMeshActor",
+      "file_type": "document",
+      "source_file": "SplineMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "edgraphpintype_edgraphpintype",
+      "label": "EdGraphPinType",
+      "file_type": "document",
+      "source_file": "EdGraphPinType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothinginteractor_clothinginteractor",
+      "label": "ClothingInteractor",
+      "file_type": "document",
+      "source_file": "ClothingInteractor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeschema_statetreeschema",
+      "label": "StateTreeSchema",
+      "file_type": "document",
+      "source_file": "StateTreeSchema Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leveleditorsubsystem_leveleditorsubsystem",
+      "label": "LevelEditorSubsystem",
+      "file_type": "document",
+      "source_file": "LevelEditorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_twistbonesperitem_rigunit_twistbonesperitem",
+      "label": "RigUnit_TwistBonesPerItem",
+      "file_type": "document",
+      "source_file": "RigUnit_TwistBonesPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionnormalize_materialexpressionnormalize",
+      "label": "MaterialExpressionNormalize",
+      "file_type": "document",
+      "source_file": "MaterialExpressionNormalize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendbonebychannelentry_blendbonebychannelentry",
+      "label": "BlendBoneByChannelEntry",
+      "file_type": "document",
+      "source_file": "BlendBoneByChannelEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudnormal_lidarpointcloudnormal",
+      "label": "LidarPointCloudNormal",
+      "file_type": "document",
+      "source_file": "LidarPointCloudNormal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadisplaymediacapture_avadisplaymediacapture",
+      "label": "AvaDisplayMediaCapture",
+      "file_type": "document",
+      "source_file": "AvaDisplayMediaCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distributionfloat_distributionfloat",
+      "label": "DistributionFloat",
+      "file_type": "document",
+      "source_file": "DistributionFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintmod_rigunit_mathintmod",
+      "label": "RigUnit_MathIntMod",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntMod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstanceparams_materialinstanceparams",
+      "label": "MaterialInstanceParams",
+      "file_type": "document",
+      "source_file": "MaterialInstanceParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathrbfinterpolatequatxform_target_mathrbfinterpolatequatxform_target",
+      "label": "MathRBFInterpolateQuatXform_Target",
+      "file_type": "document",
+      "source_file": "MathRBFInterpolateQuatXform_Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenebindinglifetimetrack_moviescenebindinglifetimetrack",
+      "label": "MovieSceneBindingLifetimeTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneBindingLifetimeTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuentry_toolmenuentry",
+      "label": "ToolMenuEntry",
+      "file_type": "document",
+      "source_file": "ToolMenuEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_ToWorldSpace_Location Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_TwistBonesPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigpose_rigpose",
+      "label": "RigPose",
+      "file_type": "document",
+      "source_file": "ControlRigTestDataFrame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonetransform_propagate_to_children",
+      "label": "Bone Transform Propagate to Children Pattern",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_toworldspace_location_rigunit_toworldspace_location",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToWorldSpace_Location Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twistbonesperitem_rigunit_twistbonesperitem",
+      "target": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_TwistBonesPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "target": "transform_transform",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mathrbfinterpolatequatxform_target_mathrbfinterpolatequatxform_target",
+      "target": "transform_transform",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateQuatXform_Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "target": "rigunit_twistbonesperitem_rigunit_twistbonesperitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_toworldspace_location_rigunit_toworldspace_location",
+      "target": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_ToWorldSpace_Location Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "target": "bonetransform_propagate_to_children",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twistbonesperitem_rigunit_twistbonesperitem",
+      "target": "bonetransform_propagate_to_children",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_TwistBonesPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blendbonebychannelentry_blendbonebychannelentry",
+      "target": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "BlendBoneByChannelEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtestdataframe_controlrigtestdataframe",
+      "target": "rigpose_rigpose",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigTestDataFrame Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twistbonesperitem_rigunit_twistbonesperitem",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_TwistBonesPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gerstnerwaveoctave_gerstnerwaveoctave",
+      "target": "lidarpointcloudnormal_lidarpointcloudnormal",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GerstnerWaveOctave Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "leveleditorsubsystem_leveleditorsubsystem",
+      "target": "splinemeshactor_splinemeshactor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LevelEditorSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avadisplaymediacapture_avadisplaymediacapture",
+      "target": "distributionfloat_distributionfloat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDisplayMediaCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintmod_rigunit_mathintmod",
+      "target": "distributionfloat_distributionfloat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_toworldspace_location_rigunit_toworldspace_location",
+      "target": "rigunit_toworldspace_location_vector",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToWorldSpace_Location Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenebindinglifetimetrack_moviescenebindinglifetimetrack",
+      "target": "statetreeschema_statetreeschema",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneBindingLifetimeTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenuentry_toolmenuentry",
+      "target": "leveleditorsubsystem_leveleditorsubsystem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ToolMenuEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstanceparams_materialinstanceparams",
+      "target": "materialexpressionnormalize_materialexpressionnormalize",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialInstanceParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "edgraphpintype_edgraphpintype",
+      "target": "statetreeschema_statetreeschema",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EdGraphPinType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clothinginteractor_clothinginteractor",
+      "target": "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ClothingInteractor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_bone_transform_system",
+      "label": "ControlRig Bone Transform System",
+      "nodes": [
+        "rigunit_setrelativebonetransform_rigunit_setrelativebonetransform",
+        "rigunit_twistbonesperitem_rigunit_twistbonesperitem",
+        "blendbonebychannelentry_blendbonebychannelentry",
+        "bonetransform_propagate_to_children"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetRelativeBoneTransform Objects.md"
+    },
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Renamed Classes",
+      "nodes": [
+        "avadisplaymediacapture_avadisplaymediacapture",
+        "rigunit_mathintmod_rigunit_mathintmod"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDisplayMediaCapture Objects.md"
+    },
+    {
+      "id": "editor_infrastructure_components",
+      "label": "Editor Infrastructure Components",
+      "nodes": [
+        "leveleditorsubsystem_leveleditorsubsystem",
+        "toolmenuentry_toolmenuentry",
+        "edgraphpintype_edgraphpintype"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LevelEditorSubsystem Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

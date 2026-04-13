@@ -1,0 +1,1324 @@
+{
+  "nodes": [
+    {
+      "id": "AnimGraphNode_DeadBlending",
+      "type": "class",
+      "label": "AnimGraphNode_DeadBlending",
+      "properties": {
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_DeadBlending.h",
+        "description": "Anim Graph Node Dead Blending"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Base",
+      "type": "class",
+      "label": "AnimGraphNode_Base"
+    },
+    {
+      "id": "MovieGraphWidgetRendererBaseNode",
+      "type": "class",
+      "label": "MovieGraphWidgetRendererBaseNode",
+      "properties": {
+        "module": "MovieRenderPipelineCore",
+        "plugin": "MovieRenderPipeline",
+        "file": "MovieGraphWidgetRendererBaseNode.h",
+        "description": "Base node containing common logic for nodes that render widgets."
+      }
+    },
+    {
+      "id": "MovieGraphRenderPassNode",
+      "type": "class",
+      "label": "MovieGraphRenderPassNode"
+    },
+    {
+      "id": "AsyncPhysicsInputComponent",
+      "type": "class",
+      "label": "AsyncPhysicsInputComponent",
+      "properties": {
+        "module": "Engine",
+        "file": "AsyncPhysicsInputComponent.h",
+        "description": "Async Physics Input Component"
+      }
+    },
+    {
+      "id": "ActorComponent",
+      "type": "class",
+      "label": "ActorComponent"
+    },
+    {
+      "id": "RestrictedGameplayTagTableRow",
+      "type": "class",
+      "label": "RestrictedGameplayTagTableRow",
+      "properties": {
+        "module": "GameplayTags",
+        "file": "GameplayTagsManager.h",
+        "description": "Simple struct for a table row in the restricted gameplay tag table and element in the ini list"
+      }
+    },
+    {
+      "id": "GameplayTagTableRow",
+      "type": "class",
+      "label": "GameplayTagTableRow"
+    },
+    {
+      "id": "AnimNotifyState",
+      "type": "class",
+      "label": "AnimNotifyState",
+      "properties": {
+        "module": "Engine",
+        "file": "AnimNotifyState.h",
+        "description": "Anim Notify State"
+      }
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "AnimInstance",
+      "type": "class",
+      "label": "AnimInstance",
+      "properties": {
+        "module": "Engine",
+        "file": "AnimInstance.h",
+        "description": "Anim Instance"
+      }
+    },
+    {
+      "id": "AnimNode_MakeDynamicAdditive",
+      "type": "class",
+      "label": "AnimNode_MakeDynamicAdditive",
+      "properties": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_MakeDynamicAdditive.h",
+        "description": "Anim Node Make Dynamic Additive"
+      }
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "label": "AnimNode_Base"
+    },
+    {
+      "id": "NavArea_LowHeight",
+      "type": "class",
+      "label": "NavArea_LowHeight",
+      "properties": {
+        "module": "NavigationSystem",
+        "file": "NavArea_LowHeight.h",
+        "description": "Special area that can be generated in spaces with insufficient free height above. Cannot be traversed by anyone."
+      }
+    },
+    {
+      "id": "NavArea",
+      "type": "class",
+      "label": "NavArea"
+    },
+    {
+      "id": "HairGroupsPhysics",
+      "type": "class",
+      "label": "HairGroupsPhysics",
+      "properties": {
+        "module": "HairStrandsCore",
+        "plugin": "HairStrands",
+        "file": "GroomAssetPhysics.h",
+        "description": "Hair Groups Physics"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "WdpCommonInput_OnAnyKeyRotateValueUpdated",
+      "type": "class",
+      "label": "WdpCommonInput_OnAnyKeyRotateValueUpdated",
+      "properties": {
+        "module": "WdpCamera",
+        "plugin": "WdpCamera",
+        "file": "WdpCommonInput.h",
+        "description": "Rotate 和Pointer通用的旋转的更新值，用于不区分左键右键单指双指的情况，已经适配分辨率等问题,移动时转换成的XY值，X=Yaw Y=Pitch"
+      }
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "RigUnit_MathVectorUnit",
+      "type": "class",
+      "label": "RigUnit_MathVectorUnit",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "RigVMFunction_MathVectorUnit"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorUnit",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorUnit"
+    },
+    {
+      "id": "RigUnit_SetTranslation",
+      "type": "class",
+      "label": "RigUnit_SetTranslation",
+      "properties": {
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_SetTransform.h",
+        "description": "SetTranslation is used to set a single translation on hierarchy."
+      }
+    },
+    {
+      "id": "RigUnitMutable",
+      "type": "class",
+      "label": "RigUnitMutable"
+    },
+    {
+      "id": "ImportSubsystem_OnAssetPreImport_Dyn",
+      "type": "class",
+      "label": "ImportSubsystem_OnAssetPreImport_Dyn",
+      "properties": {
+        "module": "UnrealEd",
+        "file": "ImportSubsystem.h",
+        "description": "delegate type fired when new assets are being (re-)imported. Params: UFactory* InFactory, UClass* InClass, UObject* InParent, const FName& Name, const TCHAR* Type"
+      }
+    },
+    {
+      "id": "StateTreeHandle",
+      "type": "class",
+      "label": "StateTreeHandle",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "StateTreeStateHandle"
+      }
+    },
+    {
+      "id": "StateTreeStateHandle",
+      "type": "class",
+      "label": "StateTreeStateHandle"
+    },
+    {
+      "id": "AnimNode_RetargetPoseFromMesh",
+      "type": "class",
+      "label": "AnimNode_RetargetPoseFromMesh",
+      "properties": {
+        "module": "IKRig",
+        "plugin": "IKRig",
+        "file": "AnimNode_RetargetPoseFromMesh.h",
+        "description": "Anim Node Retarget Pose from Mesh"
+      }
+    },
+    {
+      "id": "OnAudioInputDevicesObtained",
+      "type": "class",
+      "label": "OnAudioInputDevicesObtained",
+      "properties": {
+        "module": "AudioCapture",
+        "plugin": "AudioCapture",
+        "file": "AudioCaptureBlueprintLibrary.h",
+        "description": "Called when a list of all available audio devices is retrieved"
+      }
+    },
+    {
+      "id": "DelegateBase",
+      "type": "class",
+      "label": "DelegateBase"
+    },
+    {
+      "id": "AnimGraphNode_LinkedInputPose",
+      "type": "class",
+      "label": "AnimGraphNode_LinkedInputPose",
+      "properties": {
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_LinkedInputPose.h",
+        "description": "Anim Graph Node Linked Input Pose"
+      }
+    },
+    {
+      "id": "MediaCaptureCroppingType",
+      "type": "enum",
+      "label": "MediaCaptureCroppingType",
+      "properties": {
+        "module": "MediaIOCore",
+        "plugin": "MediaIOFramework",
+        "file": "MediaCapture.h",
+        "description": "Type of cropping"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "AnimCurveCompressionSettingsFactory",
+      "type": "class",
+      "label": "AnimCurveCompressionSettingsFactory",
+      "properties": {
+        "module": "UnrealEd",
+        "file": "AnimCurveCompressionSettingsFactory.h",
+        "description": "Anim Curve Compression Settings Factory"
+      }
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "label": "Factory"
+    },
+    {
+      "id": "AnimStateTransitionNode",
+      "type": "class",
+      "label": "AnimStateTransitionNode",
+      "properties": {
+        "module": "AnimGraph",
+        "file": "AnimStateTransitionNode.h",
+        "description": "Anim State Transition Node"
+      }
+    },
+    {
+      "id": "AnimStateNodeBase",
+      "type": "class",
+      "label": "AnimStateNodeBase"
+    },
+    {
+      "id": "RigUnit_DebugArc",
+      "type": "class",
+      "label": "RigUnit_DebugArc",
+      "properties": {
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_DebugPrimitives.h",
+        "description": "Rig Unit Debug Arc"
+      }
+    },
+    {
+      "id": "RigUnit_DebugBaseMutable",
+      "type": "class",
+      "label": "RigUnit_DebugBaseMutable"
+    },
+    {
+      "id": "AnimNode_SplineIK",
+      "type": "class",
+      "label": "AnimNode_SplineIK",
+      "properties": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_SplineIK.h",
+        "description": "Anim Node Spline IK"
+      }
+    },
+    {
+      "id": "AnimNode_SkeletalControlBase",
+      "type": "class",
+      "label": "AnimNode_SkeletalControlBase"
+    },
+    {
+      "id": "property_composite_onto_final_image",
+      "type": "property",
+      "label": "composite_onto_final_image",
+      "properties": {
+        "data_type": "bool",
+        "description": "If true, the pass will be composited onto each render. Does not apply to multi-layer EXR files."
+      }
+    },
+    {
+      "id": "property_become_relevant_function",
+      "type": "property",
+      "label": "become_relevant_function",
+      "properties": {
+        "data_type": "MemberReference",
+        "description": "Function called when the node becomes relevant, meaning it goes from having no weight to any weight."
+      }
+    },
+    {
+      "id": "property_binding",
+      "type": "property",
+      "label": "binding",
+      "properties": {
+        "data_type": "AnimGraphNodeBinding",
+        "description": "Bindings for pins that this node exposes"
+      }
+    },
+    {
+      "id": "property_node",
+      "type": "property",
+      "label": "node",
+      "properties": {
+        "data_type": "AnimNode_DeadBlending"
+      }
+    },
+    {
+      "id": "method_get_data_to_write",
+      "type": "method",
+      "label": "get_data_to_write",
+      "properties": {
+        "returns": "AsyncPhysicsData",
+        "description": "Get the async physics data to write to. This data will make its way to the async physics tick on client and server. Should not be called from async tick"
+      }
+    },
+    {
+      "id": "method_get_data_to_consume",
+      "type": "method",
+      "label": "get_data_to_consume",
+      "properties": {
+        "returns": "AsyncPhysicsData",
+        "description": "Get the async physics data to execute logic off of. This data should not be modified and will NOT make its way back. Should be called from async tick"
+      }
+    },
+    {
+      "id": "method_received_notify_tick",
+      "type": "method",
+      "label": "received_notify_tick",
+      "properties": {
+        "returns": "bool",
+        "description": "Received Notify Tick"
+      }
+    },
+    {
+      "id": "method_received_notify_end",
+      "type": "method",
+      "label": "received_notify_end",
+      "properties": {
+        "returns": "bool",
+        "description": "Received Notify End"
+      }
+    },
+    {
+      "id": "method_received_notify_begin",
+      "type": "method",
+      "label": "received_notify_begin",
+      "properties": {
+        "returns": "bool",
+        "description": "Received Notify Begin"
+      }
+    },
+    {
+      "id": "method_get_notify_name",
+      "type": "method",
+      "label": "get_notify_name",
+      "properties": {
+        "returns": "str",
+        "description": "Implementable event to get a custom name for the notify"
+      }
+    },
+    {
+      "id": "method_montage_play",
+      "type": "method",
+      "label": "montage_play",
+      "properties": {
+        "returns": "float",
+        "description": "Plays an animation montage. Returns the length of the animation montage in seconds. Returns 0.f if failed to play."
+      }
+    },
+    {
+      "id": "method_montage_stop",
+      "type": "method",
+      "label": "montage_stop",
+      "properties": {
+        "description": "Stopped montages will blend out using their montage asset's BlendOut, with InBlendOutTime as the BlendTime"
+      }
+    },
+    {
+      "id": "method_snapshot_pose",
+      "type": "method",
+      "label": "snapshot_pose",
+      "properties": {
+        "returns": "PoseSnapshot",
+        "description": "Takes a snapshot of the current skeletal mesh component pose and saves it to the specified snapshot."
+      }
+    },
+    {
+      "id": "method_set_morph_target",
+      "type": "method",
+      "label": "set_morph_target",
+      "properties": {
+        "description": "Sets a morph target to a certain weight."
+      }
+    },
+    {
+      "id": "param_mesh_comp",
+      "type": "parameter",
+      "label": "mesh_comp",
+      "properties": {
+        "data_type": "SkeletalMeshComponent"
+      }
+    },
+    {
+      "id": "param_animation",
+      "type": "parameter",
+      "label": "animation",
+      "properties": {
+        "data_type": "AnimSequenceBase"
+      }
+    },
+    {
+      "id": "param_montage_to_play",
+      "type": "parameter",
+      "label": "montage_to_play",
+      "properties": {
+        "data_type": "AnimMontage"
+      }
+    },
+    {
+      "id": "param_blend_out_time",
+      "type": "parameter",
+      "label": "blend_out_time",
+      "properties": {
+        "data_type": "float"
+      }
+    },
+    {
+      "id": "property_notify_color",
+      "type": "property",
+      "label": "notify_color",
+      "properties": {
+        "data_type": "Color",
+        "description": "Color of Notify in editor"
+      }
+    },
+    {
+      "id": "property_should_fire_in_editor",
+      "type": "property",
+      "label": "should_fire_in_editor",
+      "properties": {
+        "data_type": "bool",
+        "description": "Whether this notify state instance should fire in animation editors"
+      }
+    },
+    {
+      "id": "property_on_montage_blending_out",
+      "type": "property",
+      "label": "on_montage_blending_out",
+      "properties": {
+        "data_type": "OnMontageBlendingOutStartedMCDelegate",
+        "description": "Called when a montage starts blending out, whether interrupted or finished"
+      }
+    },
+    {
+      "id": "property_root_motion_mode",
+      "type": "property",
+      "label": "root_motion_mode",
+      "properties": {
+        "data_type": "RootMotionMode",
+        "description": "Sets where this blueprint pulls Root Motion from"
+      }
+    },
+    {
+      "id": "property_additive",
+      "type": "property",
+      "label": "additive",
+      "properties": {
+        "data_type": "PoseLink",
+        "description": "Pose to make additive"
+      }
+    },
+    {
+      "id": "property_base",
+      "type": "property",
+      "label": "base",
+      "properties": {
+        "data_type": "PoseLink",
+        "description": "Reference pose for additive delta calculation"
+      }
+    },
+    {
+      "id": "property_mesh_space_additive",
+      "type": "property",
+      "label": "mesh_space_additive",
+      "properties": {
+        "data_type": "bool",
+        "description": "Do additive delta calculation in mesh space"
+      }
+    },
+    {
+      "id": "property_default_cost",
+      "type": "property",
+      "label": "default_cost",
+      "properties": {
+        "data_type": "float",
+        "description": "travel cost multiplier for path distance"
+      }
+    },
+    {
+      "id": "property_draw_color",
+      "type": "property",
+      "label": "draw_color",
+      "properties": {
+        "data_type": "Color",
+        "description": "area color in navigation view"
+      }
+    },
+    {
+      "id": "property_external_forces",
+      "type": "property",
+      "label": "external_forces",
+      "properties": {
+        "data_type": "HairExternalForces",
+        "description": "External Forces for the hair physics"
+      }
+    },
+    {
+      "id": "property_solver_settings",
+      "type": "property",
+      "label": "solver_settings",
+      "properties": {
+        "data_type": "HairSolverSettings",
+        "description": "Solver Settings for the hair physics"
+      }
+    },
+    {
+      "id": "property_execute_context",
+      "type": "property",
+      "label": "execute_context",
+      "properties": {
+        "data_type": "ControlRigExecuteContext",
+        "description": "This property is used to chain multiple mutable units together"
+      }
+    },
+    {
+      "id": "property_item",
+      "type": "property",
+      "label": "item",
+      "properties": {
+        "data_type": "RigElementKey",
+        "description": "The item to set the translation for"
+      }
+    },
+    {
+      "id": "property_space",
+      "type": "property",
+      "label": "space",
+      "properties": {
+        "data_type": "RigVMTransformSpace",
+        "description": "Defines if the translation should be set in local or global space"
+      }
+    },
+    {
+      "id": "property_value_translation",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "data_type": "Vector",
+        "description": "The new translation of the given item"
+      }
+    },
+    {
+      "id": "property_weight",
+      "type": "property",
+      "label": "weight",
+      "properties": {
+        "data_type": "float",
+        "description": "Defines how much the change will be applied"
+      }
+    },
+    {
+      "id": "property_source_mesh_component",
+      "type": "property",
+      "label": "source_mesh_component",
+      "properties": {
+        "data_type": "SkeletalMeshComponent",
+        "description": "The Skeletal Mesh Component to retarget animation from. Assumed to be animated and tick BEFORE this anim instance."
+      }
+    },
+    {
+      "id": "property_ik_retargeter_asset",
+      "type": "property",
+      "label": "ik_retargeter_asset",
+      "properties": {
+        "data_type": "IKRetargeter",
+        "description": "Retarget asset to use. Must define a Source and Target IK Rig compatible with the SourceMeshComponent and current anim instance."
+      }
+    },
+    {
+      "id": "property_copy_curves",
+      "type": "property",
+      "label": "copy_curves",
+      "properties": {
+        "data_type": "bool",
+        "description": "Copy curves from SouceMeshComponent. This will copy any curves the source/target Skeleton have in common."
+      }
+    },
+    {
+      "id": "property_lod_threshold",
+      "type": "property",
+      "label": "lod_threshold",
+      "properties": {
+        "data_type": "int32",
+        "description": "Max LOD that this node is allowed to run."
+      }
+    },
+    {
+      "id": "enum_value_NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "properties": {
+        "value": 0,
+        "description": "Do not crop the captured image."
+      }
+    },
+    {
+      "id": "enum_value_CENTER",
+      "type": "enum_value",
+      "label": "CENTER",
+      "properties": {
+        "value": 1,
+        "description": "Keep the center of the captured image."
+      }
+    },
+    {
+      "id": "enum_value_TOP_LEFT",
+      "type": "enum_value",
+      "label": "TOP_LEFT",
+      "properties": {
+        "value": 2,
+        "description": "Keep the top left corner of the captured image."
+      }
+    },
+    {
+      "id": "enum_value_CUSTOM",
+      "type": "enum_value",
+      "label": "CUSTOM",
+      "properties": {
+        "value": 3,
+        "description": "Use the StartCapturePoint and the size of the MediaOutput to keep of the captured image."
+      }
+    },
+    {
+      "id": "property_automatic_rule_based_on_sequence_player_in_state",
+      "type": "property",
+      "label": "automatic_rule_based_on_sequence_player_in_state",
+      "properties": {
+        "data_type": "bool",
+        "description": "Try setting the rule automatically based on most relevant asset player node's remaining time and the Automatic Rule Trigger Time of the transition, ignoring the internal time"
+      }
+    },
+    {
+      "id": "property_bidirectional",
+      "type": "property",
+      "label": "bidirectional",
+      "properties": {
+        "data_type": "bool",
+        "description": "This transition can go both directions"
+      }
+    },
+    {
+      "id": "property_crossfade_duration",
+      "type": "property",
+      "label": "crossfade_duration",
+      "properties": {
+        "data_type": "float",
+        "description": "The duration to cross-fade for"
+      }
+    },
+    {
+      "id": "property_logic_type",
+      "type": "property",
+      "label": "logic_type",
+      "properties": {
+        "data_type": "TransitionLogicType",
+        "description": "What transition logic to use"
+      }
+    },
+    {
+      "id": "property_transform",
+      "type": "property",
+      "label": "transform",
+      "properties": {
+        "data_type": "Transform"
+      }
+    },
+    {
+      "id": "property_color",
+      "type": "property",
+      "label": "color",
+      "properties": {
+        "data_type": "LinearColor"
+      }
+    },
+    {
+      "id": "property_radius",
+      "type": "property",
+      "label": "radius",
+      "properties": {
+        "data_type": "float"
+      }
+    },
+    {
+      "id": "property_control_points",
+      "type": "property",
+      "label": "control_points",
+      "properties": {
+        "data_type": "Array[Transform]",
+        "description": "Transforms applied to spline points *"
+      }
+    },
+    {
+      "id": "property_roll",
+      "type": "property",
+      "label": "roll",
+      "properties": {
+        "data_type": "float",
+        "description": "Overall roll of the spline, applied on top of other rotations along the direction of the spline"
+      }
+    },
+    {
+      "id": "property_twist_start",
+      "type": "property",
+      "label": "twist_start",
+      "properties": {
+        "data_type": "float",
+        "description": "The twist of the start bone. Twist is interpolated along the spline according to Twist Blend."
+      }
+    },
+    {
+      "id": "property_stretch",
+      "type": "property",
+      "label": "stretch",
+      "properties": {
+        "data_type": "float",
+        "description": "The maximum stretch allowed when fitting bones to the spline. 0.0 means bones do not stretch their length, 1.0 means bones stretch to the length of the spline"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "AnimGraphNode_DeadBlending",
+      "target": "AnimGraphNode_Base",
+      "type": "inherits"
+    },
+    {
+      "source": "MovieGraphWidgetRendererBaseNode",
+      "target": "MovieGraphRenderPassNode",
+      "type": "inherits"
+    },
+    {
+      "source": "AsyncPhysicsInputComponent",
+      "target": "ActorComponent",
+      "type": "inherits"
+    },
+    {
+      "source": "RestrictedGameplayTagTableRow",
+      "target": "GameplayTagTableRow",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimNotifyState",
+      "target": "Object",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimInstance",
+      "target": "Object",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimNode_MakeDynamicAdditive",
+      "target": "AnimNode_Base",
+      "type": "inherits"
+    },
+    {
+      "source": "NavArea_LowHeight",
+      "target": "NavArea",
+      "type": "inherits"
+    },
+    {
+      "source": "HairGroupsPhysics",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "WdpCommonInput_OnAnyKeyRotateValueUpdated",
+      "target": "MulticastDelegateBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_MathVectorUnit",
+      "target": "RigVMFunction_MathVectorUnit",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_SetTranslation",
+      "target": "RigUnitMutable",
+      "type": "inherits"
+    },
+    {
+      "source": "ImportSubsystem_OnAssetPreImport_Dyn",
+      "target": "MulticastDelegateBase",
+      "type": "inherits"
+    },
+    {
+      "source": "StateTreeHandle",
+      "target": "StateTreeStateHandle",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimNode_RetargetPoseFromMesh",
+      "target": "AnimNode_Base",
+      "type": "inherits"
+    },
+    {
+      "source": "OnAudioInputDevicesObtained",
+      "target": "DelegateBase",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimGraphNode_LinkedInputPose",
+      "target": "AnimGraphNode_Base",
+      "type": "inherits"
+    },
+    {
+      "source": "MediaCaptureCroppingType",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimCurveCompressionSettingsFactory",
+      "target": "Factory",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimStateTransitionNode",
+      "target": "AnimStateNodeBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_DebugArc",
+      "target": "RigUnit_DebugBaseMutable",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimNode_SplineIK",
+      "target": "AnimNode_SkeletalControlBase",
+      "type": "inherits"
+    },
+    {
+      "source": "MovieGraphWidgetRendererBaseNode",
+      "target": "property_composite_onto_final_image",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimGraphNode_DeadBlending",
+      "target": "property_become_relevant_function",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimGraphNode_DeadBlending",
+      "target": "property_binding",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimGraphNode_DeadBlending",
+      "target": "property_node",
+      "type": "has_property"
+    },
+    {
+      "source": "AsyncPhysicsInputComponent",
+      "target": "method_get_data_to_write",
+      "type": "has_method"
+    },
+    {
+      "source": "AsyncPhysicsInputComponent",
+      "target": "method_get_data_to_consume",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimNotifyState",
+      "target": "method_received_notify_tick",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimNotifyState",
+      "target": "method_received_notify_end",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimNotifyState",
+      "target": "method_received_notify_begin",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimNotifyState",
+      "target": "method_get_notify_name",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimInstance",
+      "target": "method_montage_play",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimInstance",
+      "target": "method_montage_stop",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimInstance",
+      "target": "method_snapshot_pose",
+      "type": "has_method"
+    },
+    {
+      "source": "AnimInstance",
+      "target": "method_set_morph_target",
+      "type": "has_method"
+    },
+    {
+      "source": "method_received_notify_tick",
+      "target": "param_mesh_comp",
+      "type": "has_parameter"
+    },
+    {
+      "source": "method_received_notify_tick",
+      "target": "param_animation",
+      "type": "has_parameter"
+    },
+    {
+      "source": "method_montage_play",
+      "target": "param_montage_to_play",
+      "type": "has_parameter"
+    },
+    {
+      "source": "method_montage_stop",
+      "target": "param_blend_out_time",
+      "type": "has_parameter"
+    },
+    {
+      "source": "AnimNotifyState",
+      "target": "property_notify_color",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNotifyState",
+      "target": "property_should_fire_in_editor",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimInstance",
+      "target": "property_on_montage_blending_out",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimInstance",
+      "target": "property_root_motion_mode",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_MakeDynamicAdditive",
+      "target": "property_additive",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_MakeDynamicAdditive",
+      "target": "property_base",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_MakeDynamicAdditive",
+      "target": "property_mesh_space_additive",
+      "type": "has_property"
+    },
+    {
+      "source": "NavArea_LowHeight",
+      "target": "property_default_cost",
+      "type": "has_property"
+    },
+    {
+      "source": "NavArea_LowHeight",
+      "target": "property_draw_color",
+      "type": "has_property"
+    },
+    {
+      "source": "HairGroupsPhysics",
+      "target": "property_external_forces",
+      "type": "has_property"
+    },
+    {
+      "source": "HairGroupsPhysics",
+      "target": "property_solver_settings",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SetTranslation",
+      "target": "property_execute_context",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SetTranslation",
+      "target": "property_item",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SetTranslation",
+      "target": "property_space",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SetTranslation",
+      "target": "property_value_translation",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SetTranslation",
+      "target": "property_weight",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_RetargetPoseFromMesh",
+      "target": "property_source_mesh_component",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_RetargetPoseFromMesh",
+      "target": "property_ik_retargeter_asset",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_RetargetPoseFromMesh",
+      "target": "property_copy_curves",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_RetargetPoseFromMesh",
+      "target": "property_lod_threshold",
+      "type": "has_property"
+    },
+    {
+      "source": "MediaCaptureCroppingType",
+      "target": "enum_value_NONE",
+      "type": "has_value"
+    },
+    {
+      "source": "MediaCaptureCroppingType",
+      "target": "enum_value_CENTER",
+      "type": "has_value"
+    },
+    {
+      "source": "MediaCaptureCroppingType",
+      "target": "enum_value_TOP_LEFT",
+      "type": "has_value"
+    },
+    {
+      "source": "MediaCaptureCroppingType",
+      "target": "enum_value_CUSTOM",
+      "type": "has_value"
+    },
+    {
+      "source": "AnimStateTransitionNode",
+      "target": "property_automatic_rule_based_on_sequence_player_in_state",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimStateTransitionNode",
+      "target": "property_bidirectional",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimStateTransitionNode",
+      "target": "property_crossfade_duration",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimStateTransitionNode",
+      "target": "property_logic_type",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_DebugArc",
+      "target": "property_transform",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_DebugArc",
+      "target": "property_color",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_DebugArc",
+      "target": "property_radius",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_SplineIK",
+      "target": "property_control_points",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_SplineIK",
+      "target": "property_roll",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_SplineIK",
+      "target": "property_twist_start",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_SplineIK",
+      "target": "property_stretch",
+      "type": "has_property"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_animal_notify_state_methods",
+      "type": "class_method_signature",
+      "nodes": [
+        "AnimNotifyState",
+        "method_received_notify_begin",
+        "method_received_notify_tick",
+        "method_received_notify_end",
+        "param_mesh_comp",
+        "param_animation"
+      ],
+      "description": "AnimNotifyState lifecycle methods for handling notify events with common parameters"
+    },
+    {
+      "id": "hyperedge_anim_instance_montage",
+      "type": "feature_group",
+      "nodes": [
+        "AnimInstance",
+        "method_montage_play",
+        "method_montage_stop",
+        "property_on_montage_blending_out",
+        "param_montage_to_play",
+        "param_blend_out_time"
+      ],
+      "description": "AnimInstance montage playback control system with events"
+    },
+    {
+      "id": "hyperedge_anim_node_dynamic_additive",
+      "type": "feature_group",
+      "nodes": [
+        "AnimNode_MakeDynamicAdditive",
+        "property_additive",
+        "property_base",
+        "property_mesh_space_additive"
+      ],
+      "description": "AnimNode for creating dynamic additive animations with base and additive poses"
+    },
+    {
+      "id": "hyperedge_rig_unit_translation",
+      "type": "feature_group",
+      "nodes": [
+        "RigUnit_SetTranslation",
+        "property_item",
+        "property_space",
+        "property_value_translation",
+        "property_weight"
+      ],
+      "description": "RigUnit for setting translations with space and weight controls"
+    },
+    {
+      "id": "hyperedge_retarget_pose",
+      "type": "feature_group",
+      "nodes": [
+        "AnimNode_RetargetPoseFromMesh",
+        "property_source_mesh_component",
+        "property_ik_retargeter_asset",
+        "property_copy_curves",
+        "property_lod_threshold"
+      ],
+      "description": "Animation retargeting system with IK retargeter and LOD support"
+    },
+    {
+      "id": "hyperedge_media_cropping_enum",
+      "type": "enumeration",
+      "nodes": [
+        "MediaCaptureCroppingType",
+        "enum_value_NONE",
+        "enum_value_CENTER",
+        "enum_value_TOP_LEFT",
+        "enum_value_CUSTOM"
+      ],
+      "description": "Media capture cropping type enumeration with all possible values"
+    },
+    {
+      "id": "hyperedge_anim_transition",
+      "type": "feature_group",
+      "nodes": [
+        "AnimStateTransitionNode",
+        "property_automatic_rule_based_on_sequence_player_in_state",
+        "property_bidirectional",
+        "property_crossfade_duration",
+        "property_logic_type"
+      ],
+      "description": "Animation state transition node with transition logic and blending controls"
+    },
+    {
+      "id": "hyperedge_rig_debug_arc",
+      "type": "feature_group",
+      "nodes": [
+        "RigUnit_DebugArc",
+        "property_transform",
+        "property_color",
+        "property_radius"
+      ],
+      "description": "Debug arc visualization unit for ControlRig"
+    },
+    {
+      "id": "hyperedge_spline_ik",
+      "type": "feature_group",
+      "nodes": [
+        "AnimNode_SplineIK",
+        "property_control_points",
+        "property_roll",
+        "property_twist_start",
+        "property_stretch"
+      ],
+      "description": "Spline IK animation node with control points and twist parameters"
+    },
+    {
+      "id": "hyperedge_deprecated_classes",
+      "type": "deprecation_group",
+      "nodes": [
+        "RigUnit_MathVectorUnit",
+        "RigVMFunction_MathVectorUnit",
+        "StateTreeHandle",
+        "StateTreeStateHandle"
+      ],
+      "description": "Classes that have been renamed/deprecated with their replacements"
+    },
+    {
+      "id": "hyperedge_physics_components",
+      "type": "module_group",
+      "nodes": [
+        "AsyncPhysicsInputComponent",
+        "method_get_data_to_write",
+        "method_get_data_to_consume"
+      ],
+      "description": "Async physics input component for physics data handling"
+    },
+    {
+      "id": "hyperedge_hair_physics",
+      "type": "plugin_feature",
+      "nodes": [
+        "HairGroupsPhysics",
+        "property_external_forces",
+        "property_solver_settings"
+      ],
+      "description": "Hair strands physics system with external forces and solver settings"
+    },
+    {
+      "id": "hyperedge_widget_renderer",
+      "type": "rendering_feature",
+      "nodes": [
+        "MovieGraphWidgetRendererBaseNode",
+        "property_composite_onto_final_image"
+      ],
+      "description": "Movie graph widget rendering with compositing support"
+    },
+    {
+      "id": "hyperedge_navigation_area",
+      "type": "navigation_feature",
+      "nodes": [
+        "NavArea_LowHeight",
+        "property_default_cost",
+        "property_draw_color"
+      ],
+      "description": "Navigation area for low height spaces"
+    }
+  ]
+}

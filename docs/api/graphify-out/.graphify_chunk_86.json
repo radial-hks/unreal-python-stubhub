@@ -1,0 +1,687 @@
+{
+  "nodes": [
+    {
+      "id": "rigvminvokeentrynode",
+      "label": "RigVMInvokeEntryNode",
+      "file_type": "document",
+      "source_file": "RigVMInvokeEntryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmnode",
+      "label": "RigVMNode",
+      "file_type": "document",
+      "source_file": "RigVMInvokeEntryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "get_entry_name",
+      "label": "get_entry_name method",
+      "file_type": "document",
+      "source_file": "RigVMInvokeEntryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommand_createhole",
+      "label": "AesTerrainEditorCommand_CreateHole",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommand__CreateHole Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommand",
+      "label": "AesEditorSimpleCommand",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommand__CreateHole Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliagedensityfalloff",
+      "label": "FoliageDensityFalloff",
+      "file_type": "document",
+      "source_file": "FoliageDensityFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "FoliageDensityFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "falloff_curve",
+      "label": "falloff_curve property",
+      "file_type": "document",
+      "source_file": "FoliageDensityFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffect_curve",
+      "label": "HapticFeedbackEffect_Curve",
+      "file_type": "document",
+      "source_file": "HapticFeedbackEffect_Curve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffect_base",
+      "label": "HapticFeedbackEffect_Base",
+      "file_type": "document",
+      "source_file": "HapticFeedbackEffect_Curve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediacoiuresourceencoding",
+      "label": "MediaIOCoreSourceEncoding",
+      "file_type": "document",
+      "source_file": "MediaIOCoreSourceEncoding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "MediaIOCoreSourceEncoding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_source_encoding",
+      "label": "Texture Source Encoding",
+      "file_type": "document",
+      "source_file": "MediaIOCoreSourceEncoding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "granularsynth",
+      "label": "GranularSynth",
+      "file_type": "document",
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent",
+      "label": "SynthComponent",
+      "file_type": "document",
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "granular_synthesis",
+      "label": "Granular Synthesis",
+      "file_type": "document",
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "note_on_off",
+      "label": "Note On/Off Methods",
+      "file_type": "document",
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "grain_parameters",
+      "label": "Grain Parameters",
+      "file_type": "document",
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture2darray",
+      "label": "Texture2DArray",
+      "file_type": "document",
+      "source_file": "Texture2DArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture",
+      "label": "Texture",
+      "file_type": "document",
+      "source_file": "Texture2DArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_addressing",
+      "label": "Texture Addressing",
+      "file_type": "document",
+      "source_file": "Texture2DArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_compression",
+      "label": "Texture Compression",
+      "file_type": "document",
+      "source_file": "Texture2DArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avacolorstyle",
+      "label": "AvaColorStyle",
+      "file_type": "document",
+      "source_file": "AvaColorStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "color_style",
+      "label": "Color Style",
+      "file_type": "document",
+      "source_file": "AvaColorStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lanetype",
+      "label": "LaneType",
+      "file_type": "document",
+      "source_file": "LaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "road_system",
+      "label": "Road System",
+      "file_type": "document",
+      "source_file": "LaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animstatenodebase",
+      "label": "AnimStateNodeBase",
+      "file_type": "document",
+      "source_file": "AnimStateNodeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "edgraphnode",
+      "label": "EdGraphNode",
+      "file_type": "document",
+      "source_file": "AnimStateNodeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_state_machine",
+      "label": "Animation State Machine",
+      "file_type": "document",
+      "source_file": "AnimStateNodeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movementmodechangedsignature",
+      "label": "MovementModeChangedSignature",
+      "file_type": "document",
+      "source_file": "MovementModeChangedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "MovementModeChangedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "character_movement",
+      "label": "Character Movement",
+      "file_type": "document",
+      "source_file": "MovementModeChangedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsign",
+      "label": "MaterialExpressionSign",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_editor",
+      "label": "Material Editor",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvminvokeentrynode",
+      "target": "rigvmnode",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMInvokeEntryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "get_entry_name",
+      "target": "rigvminvokeentrynode",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMInvokeEntryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommand_createhole",
+      "target": "aeseditorsimplecommand",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainEditorCommand__CreateHole Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foliagedensityfalloff",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FoliageDensityFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "falloff_curve",
+      "target": "foliagedensityfalloff",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FoliageDensityFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackeffect_curve",
+      "target": "hapticfeedbackeffect_base",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HapticFeedbackEffect_Curve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacoiuresourceencoding",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaIOCoreSourceEncoding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacoiuresourceencoding",
+      "target": "texture_source_encoding",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaIOCoreSourceEncoding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "granularsynth",
+      "target": "synthcomponent",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "granularsynth",
+      "target": "granular_synthesis",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "note_on_off",
+      "target": "granularsynth",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "grain_parameters",
+      "target": "granularsynth",
+      "relation": "configures",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GranularSynth Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texture2darray",
+      "target": "texture",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Texture2DArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texture_addressing",
+      "target": "texture2darray",
+      "relation": "property_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Texture2DArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texture_compression",
+      "target": "texture2darray",
+      "relation": "property_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Texture2DArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avacolorstyle",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaColorStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avacolorstyle",
+      "target": "color_style",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaColorStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lanetype",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LaneType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lanetype",
+      "target": "road_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "LaneType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animstatenodebase",
+      "target": "edgraphnode",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimStateNodeBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animstatenodebase",
+      "target": "animation_state_machine",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimStateNodeBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "movementmodechangedsignature",
+      "target": "multicastdelegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovementModeChangedSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "movementmodechangedsignature",
+      "target": "character_movement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovementModeChangedSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsign",
+      "target": "materialexpression",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsign",
+      "target": "material_editor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacoiuresourceencoding",
+      "target": "texture2darray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MediaIOCoreSourceEncoding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_enum_types",
+      "label": "Unreal Engine Enum Types",
+      "nodes": [
+        "mediacoiuresourceencoding",
+        "avacolorstyle",
+        "lanetype"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "unreal_engine_base_classes",
+      "label": "Unreal Engine Base Classes",
+      "nodes": [
+        "rigvminvokeentrynode",
+        "aesterraineditorcommand_createhole",
+        "foliagedensityfalloff",
+        "hapticfeedbackeffect_curve",
+        "granularsynth",
+        "texture2darray",
+        "animstatenodebase",
+        "movementmodechangedsignature",
+        "materialexpressionsign"
+      ],
+      "relation": "inherit_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

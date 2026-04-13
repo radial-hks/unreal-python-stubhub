@@ -1,0 +1,644 @@
+{
+  "nodes": [
+    {
+      "id": "matrix_matrix",
+      "label": "Matrix",
+      "file_type": "document",
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetpickedinfo_assetpickedinfo",
+      "label": "AssetPickedInfo",
+      "file_type": "document",
+      "source_file": "AssetPickedInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalancheremoteproxyplayable_avalancheremoteproxyplayable",
+      "label": "AvalancheRemoteProxyPlayable",
+      "file_type": "document",
+      "source_file": "AvalancheRemoteProxyPlayable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "imagecenterpointinfo_imagecenterpointinfo",
+      "label": "ImageCenterPointInfo",
+      "file_type": "document",
+      "source_file": "ImageCenterPointInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector3dcameravariable_vector3dcameravariable",
+      "label": "Vector3dCameraVariable",
+      "file_type": "document",
+      "source_file": "Vector3dCameraVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcollisiongenerationmethod_geometryscriptcollisiongenerationmethod",
+      "label": "GeometryScriptCollisionGenerationMethod",
+      "file_type": "document",
+      "source_file": "GeometryScriptCollisionGenerationMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperterrainactor_paperterrainactor",
+      "label": "PaperTerrainActor",
+      "file_type": "document",
+      "source_file": "PaperTerrainActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aitask_locklogic_aitask_locklogic",
+      "label": "AITask_LockLogic",
+      "file_type": "document",
+      "source_file": "AITask__LockLogic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsharinginstance_animsharinginstance",
+      "label": "AnimSharingInstance",
+      "file_type": "document",
+      "source_file": "AnimSharingInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontrolcolor_rigunit_getcontrolcolor",
+      "label": "RigUnit_GetControlColor",
+      "file_type": "document",
+      "source_file": "RigUnit_GetControlColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sreply_sreply",
+      "label": "SReply",
+      "file_type": "document",
+      "source_file": "SReply Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionbinaryop_materialexpressionbinaryop",
+      "label": "MaterialExpressionBinaryOp",
+      "file_type": "document",
+      "source_file": "MaterialExpressionBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityflagatom_entityflagatom",
+      "label": "EntityFlagAtom",
+      "file_type": "document",
+      "source_file": "EntityFlagAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneasyncaction_sequenceprediction_moviesceneasyncaction_sequenceprediction",
+      "label": "MovieSceneAsyncAction_SequencePrediction",
+      "file_type": "document",
+      "source_file": "MovieSceneAsyncAction__SequencePrediction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationsequencebrowsercontextmenucontext_animationsequencebrowsercontextmenucontext",
+      "label": "AnimationSequenceBrowserContextMenuContext",
+      "file_type": "document",
+      "source_file": "AnimationSequenceBrowserContextMenuContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_distributerotationforcollection_rigunit_distributerotationforcollection",
+      "label": "RigUnit_DistributeRotationForCollection",
+      "file_type": "document",
+      "source_file": "RigUnit_DistributeRotationForCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesslotassettagdata_aesslotassettagdata",
+      "label": "AesSlotAssetTagData",
+      "file_type": "document",
+      "source_file": "AesSlotAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialchannellistpreset_dmmaterialchannellistpreset",
+      "label": "DMMaterialChannelListPreset",
+      "file_type": "document",
+      "source_file": "DMMaterialChannelListPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massmovementparameters_massmovementparameters",
+      "label": "MassMovementParameters",
+      "file_type": "document",
+      "source_file": "MassMovementParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigconnectorsettings_rigconnectorsettings",
+      "label": "RigConnectorSettings",
+      "file_type": "document",
+      "source_file": "RigConnectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublesub_rigunit_mathdoublesub",
+      "label": "RigUnit_MathDoubleSub",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sceneimportfactory_sceneimportfactory",
+      "label": "SceneImportFactory",
+      "file_type": "document",
+      "source_file": "SceneImportFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "imagecenterpointinfo_imagecenterpointinfo",
+      "target": "datatablepointinfobase_datatablepointinfobase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImageCenterPointInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vector3dcameravariable_vector3dcameravariable",
+      "target": "cameravariableasset_cameravariableasset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Vector3dCameraVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperterrainactor_paperterrainactor",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperTerrainActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aitask_locklogic_aitask_locklogic",
+      "target": "aitask_aitask",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AITask__LockLogic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolcolor_rigunit_getcontrolcolor",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetControlColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sreply_sreply",
+      "target": "eventreply_eventreply",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SReply Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionbinaryop_materialexpressionbinaryop",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityflagatom_entityflagatom",
+      "target": "entityatombase_entityatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityFlagAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneasyncaction_sequenceprediction_moviesceneasyncaction_sequenceprediction",
+      "target": "blueprintasyncactionbase_blueprintasyncactionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneAsyncAction__SequencePrediction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_distributerotationforcollection_rigunit_distributerotationforcollection",
+      "target": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DistributeRotationForCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massmovementparameters_massmovementparameters",
+      "target": "massconstsharedfragment_massconstsharedfragment",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassMovementParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublesub_rigunit_mathdoublesub",
+      "target": "rigvmfunction_mathdoublesub_rigvmfunction_mathdoublesub",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sceneimportfactory_sceneimportfactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SceneImportFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avalancheremoteproxyplayable_avalancheremoteproxyplayable",
+      "target": "avaplayableremoteproxy_avaplayableremoteproxy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvalancheRemoteProxyPlayable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix_matrix",
+      "target": "plane_plane",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix_matrix",
+      "target": "vector_vector",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix_matrix",
+      "target": "vector4_vector4",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix_matrix",
+      "target": "quat_quat",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix_matrix",
+      "target": "rotator_rotator",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix_matrix",
+      "target": "transform_transform",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix_matrix",
+      "target": "rigunit_distributerotationforcollection_rigunit_distributerotationforcollection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix_matrix",
+      "target": "rigunit_getcontrolcolor_rigunit_getcontrolcolor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Matrix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolcolor_rigunit_getcontrolcolor",
+      "target": "rigunit_distributerotationforcollection_rigunit_distributerotationforcollection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_GetControlColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolcolor_rigunit_getcontrolcolor",
+      "target": "rigconnectorsettings_rigconnectorsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_GetControlColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_distributerotationforcollection_rigunit_distributerotationforcollection",
+      "target": "rigconnectorsettings_rigconnectorsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_DistributeRotationForCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneasyncaction_sequenceprediction_moviesceneasyncaction_sequenceprediction",
+      "target": "matrix_matrix",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneAsyncAction__SequencePrediction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetpickedinfo_assetpickedinfo",
+      "target": "imagecenterpointinfo_imagecenterpointinfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AssetPickedInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vector3dcameravariable_vector3dcameravariable",
+      "target": "imagecenterpointinfo_imagecenterpointinfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Vector3dCameraVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcollisiongenerationmethod_geometryscriptcollisiongenerationmethod",
+      "target": "paperterrainactor_paperterrainactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "GeometryScriptCollisionGenerationMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperterrainactor_paperterrainactor",
+      "target": "sceneimportfactory_sceneimportfactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PaperTerrainActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aitask_locklogic_aitask_locklogic",
+      "target": "animsharinginstance_animsharinginstance",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AITask__LockLogic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionbinaryop_materialexpressionbinaryop",
+      "target": "dmmaterialchannellistpreset_dmmaterialchannellistpreset",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massmovementparameters_massmovementparameters",
+      "target": "aitask_locklogic_aitask_locklogic",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MassMovementParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityflagatom_entityflagatom",
+      "target": "aesslotassettagdata_aesslotassettagdata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "EntityFlagAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationsequencebrowsercontextmenucontext_animationsequencebrowsercontextmenucontext",
+      "target": "animsharinginstance_animsharinginstance",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimationSequenceBrowserContextMenuContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_math_transformations",
+      "label": "Rig Math and Transform Operations",
+      "nodes": [
+        "matrix_matrix",
+        "rigunit_distributerotationforcollection_rigunit_distributerotationforcollection",
+        "rigunit_getcontrolcolor_rigunit_getcontrolcolor",
+        "rigconnectorsettings_rigconnectorsettings",
+        "rigunit_mathdoublesub_rigunit_mathdoublesub"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Matrix Objects.md"
+    },
+    {
+      "id": "camera_and_visual_systems",
+      "label": "Camera and Visual Systems",
+      "nodes": [
+        "vector3dcameravariable_vector3dcameravariable",
+        "imagecenterpointinfo_imagecenterpointinfo",
+        "moviesceneasyncaction_sequenceprediction_moviesceneasyncaction_sequenceprediction"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Vector3dCameraVariable Objects.md"
+    },
+    {
+      "id": "animation_and_sharing_systems",
+      "label": "Animation and Sharing Systems",
+      "nodes": [
+        "animsharinginstance_animsharinginstance",
+        "animationsequencebrowsercontextmenucontext_animationsequencebrowsercontextmenucontext",
+        "aitask_locklogic_aitask_locklogic",
+        "massmovementparameters_massmovementparameters"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimSharingInstance Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

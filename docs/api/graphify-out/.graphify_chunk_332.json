@@ -1,0 +1,961 @@
+{
+  "nodes": [
+    {
+      "id": "wdpcurve2d_wdpcurve2d",
+      "label": "WdpCurve2D",
+      "file_type": "code",
+      "source_file": "WdpCurve2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolbinaryop_rigvmfunction_mathboolbinaryop",
+      "label": "RigVMFunction MathBoolBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathBoolBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialeffectstack_dmmaterialeffectstack",
+      "label": "DMMaterialEffectStack",
+      "file_type": "code",
+      "source_file": "DMMaterialEffectStack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectcue_gameplayeffectcue",
+      "label": "GameplayEffectCue",
+      "file_type": "code",
+      "source_file": "GameplayEffectCue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdomoverlayerprefabalgorithm_earthdomoverlayerprefabalgorithm",
+      "label": "EarthDomOverlayerPrefabAlgorithm",
+      "file_type": "code",
+      "source_file": "EarthDomOverlayerPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatevectorlerp_rigvmfunction_accumulatevectorlerp",
+      "label": "RigVMFunction AccumulateVectorLerp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AccumulateVectorLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textureaddress_textureaddress",
+      "label": "TextureAddress",
+      "file_type": "code",
+      "source_file": "TextureAddress Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_settransform_rigunit_settransform",
+      "label": "RigUnit SetTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecapturesource_scenecapturesource",
+      "label": "SceneCaptureSource",
+      "file_type": "code",
+      "source_file": "SceneCaptureSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecustomprimitivedatatrack_moviescenecustomprimitivedatatrack",
+      "label": "MovieSceneCustomPrimitiveDataTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineimagesequenceoutputbase_moviepipelineimagesequenceoutputbase",
+      "label": "MoviePipelineImageSequenceOutputBase",
+      "file_type": "code",
+      "source_file": "MoviePipelineImageSequenceOutputBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectappliedselfdelegate_gameplayeffectappliedselfdelegate",
+      "label": "GameplayEffectAppliedSelfDelegate",
+      "file_type": "code",
+      "source_file": "GameplayEffectAppliedSelfDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixelstreaming51cloudstreamerinput_pixelstreaming51cloudstreamerinput",
+      "label": "PixelStreaming51CloudStreamerInput",
+      "file_type": "code",
+      "source_file": "PixelStreaming51CloudStreamerInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithvredassetimportdata_datasmithvredassetimportdata",
+      "label": "DatasmithVREDAssetImportData",
+      "file_type": "code",
+      "source_file": "DatasmithVREDAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneobjectbindingptr_moviesceneobjectbindingptr",
+      "label": "MovieSceneObjectBindingPtr",
+      "file_type": "code",
+      "source_file": "MovieSceneObjectBindingPtr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_animgraphnode_base",
+      "label": "AnimGraphNode Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenepositiontype_moviescenepositiontype",
+      "label": "MovieScenePositionType",
+      "file_type": "code",
+      "source_file": "MovieScenePositionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+      "label": "RigUnit HierarchyAddControl ShapeSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControl_ShapeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpoint_earthpoint",
+      "label": "EarthPoint",
+      "file_type": "code",
+      "source_file": "EarthPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "drivendestinationmode_drivendestinationmode",
+      "label": "DrivenDestinationMode",
+      "file_type": "code",
+      "source_file": "DrivenDestinationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector4_vector4",
+      "label": "Vector4",
+      "file_type": "code",
+      "source_file": "Vector4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vfvideolog_vfvideolog",
+      "label": "VFVideoLog",
+      "file_type": "code",
+      "source_file": "VFVideoLog Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialeffectstack_dmmaterialeffect",
+      "label": "DMMaterialEffect",
+      "file_type": "code",
+      "source_file": "DMMaterialEffectStack Objects.md",
+      "source_location": "20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialeffectstack_dmmaterialslot",
+      "label": "DMMaterialSlot",
+      "file_type": "code",
+      "source_file": "DMMaterialEffectStack Objects.md",
+      "source_location": "116",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialeffectstack_dmmateriallayerobject",
+      "label": "DMMaterialLayerObject",
+      "file_type": "code",
+      "source_file": "DMMaterialEffectStack Objects.md",
+      "source_location": "130",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectcue_gameplaytagcontainer",
+      "label": "GameplayTagContainer",
+      "file_type": "code",
+      "source_file": "GameplayEffectCue Objects.md",
+      "source_location": "19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectcue_gameplayattribute",
+      "label": "GameplayAttribute",
+      "file_type": "code",
+      "source_file": "GameplayEffectCue Objects.md",
+      "source_location": "21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatevectorlerp_vector",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AccumulateVectorLerp Objects.md",
+      "source_location": "18,19,21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_settransform_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": "24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_settransform_rigvmtransformspace",
+      "label": "RigVMTransformSpace",
+      "file_type": "code",
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": "27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_settransform_transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": "28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_settransform_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": "21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecustomprimitivedatatrack_moviescenenameabletrack",
+      "label": "MovieSceneNameableTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecustomprimitivedatatrack_moviesceneconditioncontainer",
+      "label": "MovieSceneConditionContainer",
+      "file_type": "code",
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": "16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecustomprimitivedatatrack_moviescenetrackdisplayoptions",
+      "label": "MovieSceneTrackDisplayOptions",
+      "file_type": "code",
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": "18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecustomprimitivedatatrack_moviescenetrackevaloptions",
+      "label": "MovieSceneTrackEvalOptions",
+      "file_type": "code",
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": "19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectappliedselfdelegate_gameplayeffectspechandle",
+      "label": "GameplayEffectSpecHandle",
+      "file_type": "code",
+      "source_file": "GameplayEffectAppliedSelfDelegate Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectappliedselfdelegate_activegameplayeffecthandle",
+      "label": "ActiveGameplayEffectHandle",
+      "file_type": "code",
+      "source_file": "GameplayEffectAppliedSelfDelegate Objects.md",
+      "source_location": "12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithvredassetimportdata_datasmithassetimportdata",
+      "label": "DatasmithAssetImportData",
+      "file_type": "code",
+      "source_file": "DatasmithVREDAssetImportData Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithvredassetimportdata_datasmithassetimportoptions",
+      "label": "DatasmithAssetImportOptions",
+      "file_type": "code",
+      "source_file": "DatasmithVREDAssetImportData Objects.md",
+      "source_location": "18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithvredassetimportdata_datasmithimportinfo",
+      "label": "DatasmithImportInfo",
+      "file_type": "code",
+      "source_file": "DatasmithVREDAssetImportData Objects.md",
+      "source_location": "19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneobjectbindingptr_moviesceneobjectbindingid",
+      "label": "MovieSceneObjectBindingID",
+      "file_type": "code",
+      "source_file": "MovieSceneObjectBindingPtr Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_k2node",
+      "label": "K2Node",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_fanimnode_base",
+      "label": "FAnimNode Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": "10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_animgraphnodebinding",
+      "label": "AnimGraphNodeBinding",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": "21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_memberreference",
+      "label": "MemberReference",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": "19,21,24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_shapesettings_linearcolor",
+      "label": "LinearColor",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControl_ShapeSettings Objects.md",
+      "source_location": "17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpoint_transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "EarthPoint Objects.md",
+      "source_location": "21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpoint_vector",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "EarthPoint Objects.md",
+      "source_location": "17,18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector4_rotator",
+      "label": "Rotator",
+      "file_type": "code",
+      "source_file": "Vector4 Objects.md",
+      "source_location": "546",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector4_quat",
+      "label": "Quat",
+      "file_type": "code",
+      "source_file": "Vector4 Objects.md",
+      "source_location": "561",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "dmmaterialeffectstack_dmmaterialeffectstack",
+      "target": "dmmaterialeffectstack_dmmaterialeffect",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialEffectStack Objects.md",
+      "source_location": "20",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialeffectstack_dmmaterialeffectstack",
+      "target": "dmmaterialeffectstack_dmmaterialslot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialEffectStack Objects.md",
+      "source_location": "116",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialeffectstack_dmmaterialeffectstack",
+      "target": "dmmaterialeffectstack_dmmateriallayerobject",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialEffectStack Objects.md",
+      "source_location": "130",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffectcue_gameplayeffectcue",
+      "target": "gameplayeffectcue_gameplaytagcontainer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectCue Objects.md",
+      "source_location": "19",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffectcue_gameplayeffectcue",
+      "target": "gameplayeffectcue_gameplayattribute",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectCue Objects.md",
+      "source_location": "21",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatevectorlerp_rigvmfunction_accumulatevectorlerp",
+      "target": "rigvmfunction_accumulatevectorlerp_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_AccumulateVectorLerp Objects.md",
+      "source_location": "18,19,21",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransform_rigunit_settransform",
+      "target": "rigunit_settransform_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": "24",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransform_rigunit_settransform",
+      "target": "rigunit_settransform_rigvmtransformspace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": "27",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransform_rigunit_settransform",
+      "target": "rigunit_settransform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": "28",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransform_rigunit_settransform",
+      "target": "rigunit_settransform_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": "21",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecustomprimitivedatatrack_moviescenecustomprimitivedatatrack",
+      "target": "moviescenecustomprimitivedatatrack_moviescenenameabletrack",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecustomprimitivedatatrack_moviescenecustomprimitivedatatrack",
+      "target": "moviescenecustomprimitivedatatrack_moviesceneconditioncontainer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": "16",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecustomprimitivedatatrack_moviescenecustomprimitivedatatrack",
+      "target": "moviescenecustomprimitivedatatrack_moviescenetrackdisplayoptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": "18",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecustomprimitivedatatrack_moviescenecustomprimitivedatatrack",
+      "target": "moviescenecustomprimitivedatatrack_moviescenetrackevaloptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md",
+      "source_location": "19",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffectappliedselfdelegate_gameplayeffectappliedselfdelegate",
+      "target": "gameplayeffectappliedselfdelegate_gameplayeffectspechandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectAppliedSelfDelegate Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffectappliedselfdelegate_gameplayeffectappliedselfdelegate",
+      "target": "gameplayeffectappliedselfdelegate_activegameplayeffecthandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectAppliedSelfDelegate Objects.md",
+      "source_location": "12",
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithvredassetimportdata_datasmithvredassetimportdata",
+      "target": "datasmithvredassetimportdata_datasmithassetimportdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithVREDAssetImportData Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithvredassetimportdata_datasmithvredassetimportdata",
+      "target": "datasmithvredassetimportdata_datasmithassetimportoptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithVREDAssetImportData Objects.md",
+      "source_location": "18",
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithvredassetimportdata_datasmithvredassetimportdata",
+      "target": "datasmithvredassetimportdata_datasmithimportinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithVREDAssetImportData Objects.md",
+      "source_location": "19",
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneobjectbindingptr_moviesceneobjectbindingptr",
+      "target": "moviesceneobjectbindingptr_moviesceneobjectbindingid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneObjectBindingPtr Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_base_animgraphnode_base",
+      "target": "animgraphnode_base_k2node",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_base_animgraphnode_base",
+      "target": "animgraphnode_base_fanimnode_base",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": "10",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_base_animgraphnode_base",
+      "target": "animgraphnode_base_animgraphnodebinding",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": "21",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_base_animgraphnode_base",
+      "target": "animgraphnode_base_memberreference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__Base Objects.md",
+      "source_location": "19,21,24",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+      "target": "rigunit_settransform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControl_ShapeSettings Objects.md",
+      "source_location": "19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+      "target": "rigunit_hierarchyaddcontrol_shapesettings_linearcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControl_ShapeSettings Objects.md",
+      "source_location": "17",
+      "weight": 1.0
+    },
+    {
+      "source": "earthpoint_earthpoint",
+      "target": "rigunit_settransform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPoint Objects.md",
+      "source_location": "21",
+      "weight": 1.0
+    },
+    {
+      "source": "earthpoint_earthpoint",
+      "target": "rigvmfunction_accumulatevectorlerp_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPoint Objects.md",
+      "source_location": "17,18",
+      "weight": 1.0
+    },
+    {
+      "source": "earthpoint_earthpoint",
+      "target": "vector4_vector4",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPoint Objects.md",
+      "source_location": "19",
+      "weight": 1.0
+    },
+    {
+      "source": "vector4_vector4",
+      "target": "rigvmfunction_accumulatevectorlerp_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Vector4 Objects.md",
+      "source_location": "532",
+      "weight": 1.0
+    },
+    {
+      "source": "vector4_vector4",
+      "target": "vector4_rotator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Vector4 Objects.md",
+      "source_location": "546",
+      "weight": 1.0
+    },
+    {
+      "source": "vector4_vector4",
+      "target": "vector4_quat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Vector4 Objects.md",
+      "source_location": "561",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatevectorlerp_rigvmfunction_accumulatevectorlerp",
+      "target": "rigvmfunction_mathboolbinaryop_rigvmfunction_mathboolbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_AccumulateVectorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransform_rigunit_settransform",
+      "target": "rigvmfunction_accumulatevectorlerp_rigvmfunction_accumulatevectorlerp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_SetTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdomoverlayerprefabalgorithm_earthdomoverlayerprefabalgorithm",
+      "target": "earthpoint_earthpoint",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthDomOverlayerPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_vector_transform_ecosystem",
+      "label": "RigVM Vector and Transform Operations",
+      "nodes": [
+        "rigvmfunction_accumulatevectorlerp_rigvmfunction_accumulatevectorlerp",
+        "rigunit_settransform_rigunit_settransform",
+        "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+        "vector4_vector4"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_AccumulateVectorLerp Objects.md"
+    },
+    {
+      "id": "gameplay_effect_system",
+      "label": "Gameplay Effect System",
+      "nodes": [
+        "gameplayeffectcue_gameplayeffectcue",
+        "gameplayeffectappliedselfdelegate_gameplayeffectappliedselfdelegate"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayEffectCue Objects.md"
+    },
+    {
+      "id": "moviescene_animation_infrastructure",
+      "label": "Movie Scene and Animation Infrastructure",
+      "nodes": [
+        "moviescenecustomprimitivedatatrack_moviescenecustomprimitivedatatrack",
+        "moviesceneobjectbindingptr_moviesceneobjectbindingptr",
+        "moviescenepositiontype_moviescenepositiontype",
+        "animgraphnode_base_animgraphnode_base"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneCustomPrimitiveDataTrack Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

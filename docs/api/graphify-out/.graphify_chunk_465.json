@@ -1,0 +1,489 @@
+{
+  "nodes": [
+    {
+      "id": "valueorblackboardkeybase_valueorblackboardkeybase",
+      "label": "ValueOrBlackboardKeyBase",
+      "file_type": "code",
+      "source_file": "ValueOrBlackboardKeyBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailproxyvector3_animdetailproxyvector3",
+      "label": "AnimDetailProxyVector3",
+      "file_type": "code",
+      "source_file": "AnimDetailProxyVector3 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createpathparams_createpathparams",
+      "label": "CreatePathParams",
+      "file_type": "code",
+      "source_file": "CreatePathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createpathparams_pathstyle",
+      "label": "PathStyle",
+      "file_type": "code",
+      "source_file": "CreatePathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "egltfruntimemorphtargetsduplicatestrategy_egltfruntimemorphtargetsduplicatestrategy",
+      "label": "EglTFRuntimeMorphTargetsDuplicateStrategy",
+      "file_type": "code",
+      "source_file": "EglTFRuntimeMorphTargetsDuplicateStrategy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmrendertargetwidgetrendererbase_dmrendertargetwidgetrendererbase",
+      "label": "DMRenderTargetWidgetRendererBase",
+      "file_type": "code",
+      "source_file": "DMRenderTargetWidgetRendererBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmrendertargetwidgetrendererbase_dmrendertargetrenderer",
+      "label": "DMRenderTargetRenderer",
+      "file_type": "code",
+      "source_file": "DMRenderTargetWidgetRendererBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnmovementcomponent_pawnmovementcomponent",
+      "label": "PawnMovementComponent",
+      "file_type": "code",
+      "source_file": "PawnMovementComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnmovementcomponent_input_vector_accumulation",
+      "label": "Input Vector Accumulation System",
+      "file_type": "code",
+      "source_file": "PawnMovementComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrylatentactionobject_lowentrylatentactionobject",
+      "label": "LowEntryLatentActionObject",
+      "file_type": "code",
+      "source_file": "LowEntryLatentActionObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weathercontrolmanager_weathercontrolmanager",
+      "label": "WeatherControlManager",
+      "file_type": "code",
+      "source_file": "WeatherControlManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weathercontrolmanager_time_section_system",
+      "label": "Time Section System",
+      "file_type": "code",
+      "source_file": "WeatherControlManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brushbuilder_brushbuilder",
+      "label": "BrushBuilder",
+      "file_type": "code",
+      "source_file": "BrushBuilder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brushbuilder_geometry_validation",
+      "label": "Geometry Validation Pattern",
+      "file_type": "code",
+      "source_file": "BrushBuilder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointwidget_pointwidget",
+      "label": "PointWidget",
+      "file_type": "code",
+      "source_file": "PointWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointwidget_pointgraphicsdata",
+      "label": "PointGraphicsData",
+      "file_type": "code",
+      "source_file": "PointWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leveleditormenucontext_leveleditormenucontext",
+      "label": "LevelEditorMenuContext",
+      "file_type": "code",
+      "source_file": "LevelEditorMenuContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massspawndatagenerator_massspawndatagenerator",
+      "label": "MassSpawnDataGenerator",
+      "file_type": "code",
+      "source_file": "MassSpawnDataGenerator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massspawndatagenerator_massentityspawnmdatageneratorbase",
+      "label": "MassEntitySpawnDataGeneratorBase",
+      "file_type": "code",
+      "source_file": "MassSpawnDataGenerator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasorttypeenum_datasorttypeenum",
+      "label": "DataSortTypeEnum",
+      "file_type": "code",
+      "source_file": "DataSortTypeEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintless_rigvmfunction_mathintless",
+      "label": "RigVMFunction_MathIntLess",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntLess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintless_rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathIntLess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xrhmddata_xrhmddata",
+      "label": "XRHMDData",
+      "file_type": "code",
+      "source_file": "XRHMDData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatoreasecurve_propertyanimatoreasecurve",
+      "label": "PropertyAnimatorEaseCurve",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorEaseCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendluminosity_dmmaterialstageblendluminosity",
+      "label": "DMMaterialStageBlendLuminosity",
+      "file_type": "code",
+      "source_file": "DMMaterialStageBlendLuminosity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendluminosity_dmmaterialstageblendfunction",
+      "label": "DMMaterialStageBlendFunction",
+      "file_type": "code",
+      "source_file": "DMMaterialStageBlendLuminosity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timerdynamicdelegate_timerdynamicdelegate",
+      "label": "TimerDynamicDelegate",
+      "file_type": "code",
+      "source_file": "TimerDynamicDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avviewportsnapstate_avviewportsnapstate",
+      "label": "AvaViewportSnapState",
+      "file_type": "code",
+      "source_file": "AvaViewportSnapState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpprojectobjectapi_wdpprojectobjectapi",
+      "label": "WdpProjectObjectAPI",
+      "file_type": "code",
+      "source_file": "WdpProjectObjectAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpprojectobjectapi_transform_management",
+      "label": "Transform Management API",
+      "file_type": "code",
+      "source_file": "WdpProjectObjectAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "createpathparams_createpathparams",
+      "target": "createpathparams_pathstyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreatePathParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmrendertargetwidgetrendererbase_dmrendertargetwidgetrendererbase",
+      "target": "dmrendertargetwidgetrendererbase_dmrendertargetrenderer",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMRenderTargetWidgetRendererBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnmovementcomponent_pawnmovementcomponent",
+      "target": "pawnmovementcomponent_input_vector_accumulation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnMovementComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "weathercontrolmanager_weathercontrolmanager",
+      "target": "weathercontrolmanager_time_section_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WeatherControlManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brushbuilder_brushbuilder",
+      "target": "brushbuilder_geometry_validation",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrushBuilder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointwidget_pointwidget",
+      "target": "pointwidget_pointgraphicsdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PointWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massspawndatagenerator_massspawndatagenerator",
+      "target": "massspawndatagenerator_massentityspawnmdatageneratorbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassSpawnDataGenerator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintless_rigvmfunction_mathintless",
+      "target": "rigvmfunction_mathintless_rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntLess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendluminosity_dmmaterialstageblendluminosity",
+      "target": "dmmaterialstageblendluminosity_dmmaterialstageblendfunction",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageBlendLuminosity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpprojectobjectapi_wdpprojectobjectapi",
+      "target": "wdpprojectobjectapi_transform_management",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpProjectObjectAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "valueorblackboardkeybase_valueorblackboardkeybase",
+      "target": "pawnmovementcomponent_pawnmovementcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ValueOrBlackboardKeyBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailproxyvector3_animdetailproxyvector3",
+      "target": "rigvmfunction_mathintless_rigvmfunction_mathintless",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimDetailProxyVector3 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xrhmddata_xrhmddata",
+      "target": "animdetailproxyvector3_animdetailproxyvector3",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "XRHMDData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "leveleditormenucontext_leveleditormenucontext",
+      "target": "avviewportsnapstate_avviewportsnapstate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LevelEditorMenuContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatoreasecurve_propertyanimatoreasecurve",
+      "target": "timerdynamicdelegate_timerdynamicdelegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PropertyAnimatorEaseCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

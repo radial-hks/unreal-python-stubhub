@@ -1,0 +1,466 @@
+{
+  "nodes": [
+    {
+      "id": "optimusnodegraph_optimusnodegraph",
+      "label": "OptimusNodeGraph",
+      "file_type": "code",
+      "source_file": "OptimusNodeGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_noisevector_rigunit_noisevector",
+      "label": "RigUnit_NoiseVector (Deprecated)",
+      "file_type": "code",
+      "source_file": "RigUnit_NoiseVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_noisevector_rigvmfunction_noisevector",
+      "label": "RigVMFunction_NoiseVector",
+      "file_type": "code",
+      "source_file": "RigUnit_NoiseVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "warpingvectormode_warpingvectormode",
+      "label": "WarpingVectorMode",
+      "file_type": "code",
+      "source_file": "WarpingVectorMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthembankmentprefabalgorith_earthembankmentprefabalgorith",
+      "label": "EarthEmbankmentPrefabAlgorithm",
+      "file_type": "code",
+      "source_file": "EarthEmbankmentPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanscenenode_base_urbanscenenode_base",
+      "label": "UrbanSceneNode_Base",
+      "file_type": "code",
+      "source_file": "UrbanSceneNode__Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatevisibility_slatevisibility",
+      "label": "SlateVisibility",
+      "file_type": "code",
+      "source_file": "SlateVisibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "achievementquerycallbackproxy_achievementquerycallbackproxy",
+      "label": "AchievementQueryCallbackProxy",
+      "file_type": "code",
+      "source_file": "AchievementQueryCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tilesheetpaddingfactory_tilesheetpaddingfactory",
+      "label": "TileSheetPaddingFactory",
+      "file_type": "code",
+      "source_file": "TileSheetPaddingFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpglobalsettingsfpsresults_wdpglobalsettingsfpsresults",
+      "label": "WdpGlobalSettingsFPSResults",
+      "file_type": "code",
+      "source_file": "WdpGlobalSettingsFPSResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tickableconstraint_tickableconstraint",
+      "label": "TickableConstraint",
+      "file_type": "code",
+      "source_file": "TickableConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitylistview_editorutilitylistview",
+      "label": "EditorUtilityListView",
+      "file_type": "code",
+      "source_file": "EditorUtilityListView Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transientbufferdataprovider_transientbufferdataprovider",
+      "label": "TransientBufferDataProvider (Deprecated)",
+      "file_type": "code",
+      "source_file": "TransientBufferDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimustransientbufferdataprovid_optimustransientbufferdataprovid",
+      "label": "OptimusTransientBufferDataProvider",
+      "file_type": "code",
+      "source_file": "TransientBufferDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunctionreferencearray_rigvmfunctionreferencearray",
+      "label": "RigVMFunctionReferenceArray",
+      "file_type": "code",
+      "source_file": "RigVMFunctionReferenceArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshpaintsupport_staticmeshpaintsupport",
+      "label": "StaticMeshPaintSupport",
+      "file_type": "code",
+      "source_file": "StaticMeshPaintSupport Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getitemsinnamespace_rigunit_getitemsinnamespace",
+      "label": "RigUnit_GetItemsInNameSpace",
+      "file_type": "code",
+      "source_file": "RigUnit__GetItemsInNameSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdparticledatacomponent_chaosvdparticledatacomponent",
+      "label": "ChaosVDParticleDataComponent",
+      "file_type": "code",
+      "source_file": "ChaosVDParticleDataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshinsetoutsetfa_geometryscriptmeshinsetoutsetfa",
+      "label": "GeometryScriptMeshInsetOutsetFacesOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptMeshInsetOutsetFacesOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatlessequal_rigunit_mathfloatlessequal",
+      "label": "RigUnit_MathFloatLessEqual (Deprecated)",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatLessEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatlessequal_rigvmfunction_mathfloatlessequal",
+      "label": "RigVMFunction_MathFloatLessEqual",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatLessEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_pre_generatestaticmeshlodprocess_pre",
+      "label": "GenerateStaticMeshLODProcess_PreprocessSettings",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODProcess__PreprocessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrelativerotationforit_rigunit_setrelativerotationforit",
+      "label": "RigUnit_SetRelativeRotationForItem",
+      "file_type": "code",
+      "source_file": "RigUnit_SetRelativeRotationForItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "async_dotask_async_dotask",
+      "label": "Async_DoTask",
+      "file_type": "code",
+      "source_file": "Async_DoTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "overlayslot_overlayslot",
+      "label": "OverlaySlot",
+      "file_type": "code",
+      "source_file": "OverlaySlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_noisevector_rigunit_noisevector",
+      "target": "rigvmfunction_noisevector_rigvmfunction_noisevector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_NoiseVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatlessequal_rigunit_mathfloatlessequal",
+      "target": "rigvmfunction_mathfloatlessequal_rigvmfunction_mathfloatlessequal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatLessEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transientbufferdataprovider_transientbufferdataprovider",
+      "target": "optimustransientbufferdataprovid_optimustransientbufferdataprovid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransientBufferDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnodegraph_optimusnodegraph",
+      "target": "rigvmfunctionreferencearray_rigvmfunctionreferencearray",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "OptimusNodeGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "achievementquerycallbackproxy_achievementquerycallbackproxy",
+      "target": "async_dotask_async_dotask",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AchievementQueryCallbackProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilitylistview_editorutilitylistview",
+      "target": "slatevisibility_slatevisibility",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EditorUtilityListView Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilitylistview_editorutilitylistview",
+      "target": "overlayslot_overlayslot",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EditorUtilityListView Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmeshinsetoutsetfa_geometryscriptmeshinsetoutsetfa",
+      "target": "generatestaticmeshlodprocess_pre_generatestaticmeshlodprocess_pre",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScriptMeshInsetOutsetFacesOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmeshinsetoutsetfa_geometryscriptmeshinsetoutsetfa",
+      "target": "staticmeshpaintsupport_staticmeshpaintsupport",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptMeshInsetOutsetFacesOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativerotationforit_rigunit_setrelativerotationforit",
+      "target": "rigunit_getitemsinnamespace_rigunit_getitemsinnamespace",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetRelativeRotationForItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativerotationforit_rigunit_setrelativerotationforit",
+      "target": "rigvmfunctionreferencearray_rigvmfunctionreferencearray",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SetRelativeRotationForItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvdparticledatacomponent_chaosvdparticledatacomponent",
+      "target": "tickableconstraint_tickableconstraint",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ChaosVDParticleDataComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpglobalsettingsfpsresults_wdpglobalsettingsfpsresults",
+      "target": "async_dotask_async_dotask",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "WdpGlobalSettingsFPSResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tilesheetpaddingfactory_tilesheetpaddingfactory",
+      "target": "staticmeshpaintsupport_staticmeshpaintsupport",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "TileSheetPaddingFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_to_rigvmfunction_migration",
+      "label": "Deprecated RigUnit to RigVMFunction Migration Pattern",
+      "nodes": [
+        "rigunit_noisevector_rigunit_noisevector",
+        "rigvmfunction_noisevector_rigvmfunction_noisevector",
+        "rigunit_mathfloatlessequal_rigunit_mathfloatlessequal",
+        "rigvmfunction_mathfloatlessequal_rigvmfunction_mathfloatlessequal",
+        "transientbufferdataprovider_transientbufferdataprovider",
+        "optimustransientbufferdataprovid_optimustransientbufferdataprovid"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "async_callback_delegate_pattern",
+      "label": "Async Callback Delegate Pattern",
+      "nodes": [
+        "achievementquerycallbackproxy_achievementquerycallbackproxy",
+        "async_dotask_async_dotask"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "ui_widget_visibility_layout_pattern",
+      "label": "UI Widget Visibility and Layout Pattern",
+      "nodes": [
+        "slatevisibility_slatevisibility",
+        "editorutilitylistview_editorutilitylistview",
+        "overlayslot_overlayslot"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

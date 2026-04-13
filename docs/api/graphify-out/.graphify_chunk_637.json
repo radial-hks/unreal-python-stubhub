@@ -1,0 +1,1306 @@
+{
+  "nodes": [
+    {
+      "id": "BrushEffectDisplacement",
+      "type": "class",
+      "label": "BrushEffectDisplacement",
+      "description": "Brush Effect Displacement",
+      "plugin": "Landmass",
+      "module": "Landmass",
+      "file": "BrushEffectsList.h",
+      "extends": "StructBase"
+    },
+    {
+      "id": "GeometryScriptChannelPackSource",
+      "type": "class",
+      "label": "GeometryScriptChannelPackSource",
+      "description": "Geometry Script Channel Pack Source",
+      "plugin": "GeometryScripting",
+      "module": "GeometryScriptingEditor",
+      "file": "EditorTextureMapFunctions.h",
+      "extends": "StructBase"
+    },
+    {
+      "id": "AvaJustifyDepth",
+      "type": "enum",
+      "label": "AvaJustifyDepth",
+      "description": "EAva Justify Depth",
+      "plugin": "Avalanche",
+      "module": "AvalancheModifiers",
+      "file": "AvaJustifyModifier.h",
+      "extends": "EnumBase"
+    },
+    {
+      "id": "WMSLayerDefine",
+      "type": "class",
+      "label": "WMSLayerDefine",
+      "description": "WMSLayer Define",
+      "plugin": "GISDataAPI",
+      "module": "MagicGISLayer",
+      "file": "MagicGISDynamicLayerDefines.h",
+      "extends": "StructBase"
+    },
+    {
+      "id": "MovieGraphNamedResolution",
+      "type": "class",
+      "label": "MovieGraphNamedResolution",
+      "description": "Holds information about a screen resolution to be used for rendering",
+      "plugin": "MovieRenderPipeline",
+      "module": "MovieRenderPipelineCore",
+      "file": "MovieGraphNamedResolution.h",
+      "extends": "StructBase"
+    },
+    {
+      "id": "WdpProjectLayerAPI",
+      "type": "class",
+      "label": "WdpProjectLayerAPI",
+      "description": "Wdp Project Layer API",
+      "plugin": "WdpRuntimeAPI",
+      "module": "ApplicationAPI",
+      "file": "WdpProjectLayerAPI.h",
+      "extends": "StandardApiClassBase"
+    },
+    {
+      "id": "PixelStreaming51CloudDelegates_NewConnection",
+      "type": "class",
+      "label": "PixelStreaming51CloudDelegates_NewConnection",
+      "description": "A new connection has been made to the session",
+      "plugin": "PixelStreaming51Cloud",
+      "module": "PixelStreaming51Cloud",
+      "file": "PixelStreaming51CloudDelegates.h",
+      "extends": "MulticastDelegateBase"
+    },
+    {
+      "id": "OptimusImplicitPersistentBufferDataProvider",
+      "type": "class",
+      "label": "OptimusImplicitPersistentBufferDataProvider",
+      "description": "Compute Framework Data Provider for a transient buffer",
+      "plugin": "DeformerGraph",
+      "module": "OptimusCore",
+      "file": "OptimusDataInterfaceRawBuffer.h",
+      "extends": "OptimusRawBufferDataProvider"
+    },
+    {
+      "id": "RigUnit_AccumulateVectorLerp",
+      "type": "class",
+      "label": "RigUnit_AccumulateVectorLerp",
+      "description": "deprecated: renamed to RigVMFunction_AccumulateVectorLerp",
+      "extends": "RigVMFunction_AccumulateVectorLerp",
+      "deprecated": true
+    },
+    {
+      "id": "DynamicMeshComponent",
+      "type": "class",
+      "label": "DynamicMeshComponent",
+      "description": "UDynamicMeshComponent is a mesh component similar to UProceduralMeshComponent, except it bases the renderable geometry off an internal UDynamicMesh instance",
+      "module": "GeometryFramework",
+      "file": "DynamicMeshComponent.h",
+      "extends": "BaseDynamicMeshComponent"
+    },
+    {
+      "id": "EarthTextureExtractorPrefabAlgorithm",
+      "type": "class",
+      "label": "EarthTextureExtractorPrefabAlgorithm",
+      "description": "Earth Texture Extractor Prefab Algorithm",
+      "plugin": "AesWorld",
+      "module": "AesEarth",
+      "file": "EarthTextureExtractorCommon.h",
+      "extends": "EarthPrefabAlgorithm"
+    },
+    {
+      "id": "WdpShapeChangedPointInfo",
+      "type": "class",
+      "label": "WdpShapeChangedPointInfo",
+      "description": "Wdp Shape Changed Point Info",
+      "plugin": "WdpApplication",
+      "module": "WdpShapeEditor",
+      "file": "WdpShapeEditorDefines.h",
+      "extends": "StructBase"
+    },
+    {
+      "id": "RangeEntity",
+      "type": "class",
+      "label": "RangeEntity",
+      "description": "Range Entity",
+      "plugin": "CoveringAPI",
+      "module": "CoveringAPIEntity",
+      "file": "RangeEntity.h",
+      "extends": "WdpActorEntity"
+    },
+    {
+      "id": "RigVMFunction_MathIntClamp",
+      "type": "class",
+      "label": "RigVMFunction_MathIntClamp",
+      "description": "Clamps the given value within the range provided by minimum and maximum",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathInt.h",
+      "extends": "RigVMFunction_MathIntBase"
+    },
+    {
+      "id": "PCGManagedDebugDrawComponent",
+      "type": "class",
+      "label": "PCGManagedDebugDrawComponent",
+      "description": "Manages the editor DebugDrawComponent for displaying debug information within SIE and PIE",
+      "plugin": "PCG",
+      "module": "PCG",
+      "file": "PCGDebugDrawComponent.h",
+      "extends": "PCGManagedComponent"
+    },
+    {
+      "id": "AvalancheLevelStreamingPlayable",
+      "type": "class",
+      "label": "AvalancheLevelStreamingPlayable",
+      "description": "deprecated: renamed to AvaPlayableLevelStreaming",
+      "extends": "AvaPlayableLevelStreaming",
+      "deprecated": true
+    },
+    {
+      "id": "AISenseConfig_Blueprint",
+      "type": "class",
+      "label": "AISenseConfig_Blueprint",
+      "description": "AISense Config Blueprint",
+      "module": "AIModule",
+      "file": "AISenseConfig_Blueprint.h",
+      "extends": "AISenseConfig"
+    },
+    {
+      "id": "PythonLandscapeLib",
+      "type": "class",
+      "label": "PythonLandscapeLib",
+      "description": "Python Landscape Lib",
+      "plugin": "TAPython",
+      "module": "TAPython",
+      "file": "PythonLandscapeLib.h",
+      "extends": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "InterchangeAnimSequenceFactory",
+      "type": "class",
+      "label": "InterchangeAnimSequenceFactory",
+      "description": "Interchange Anim Sequence Factory",
+      "plugin": "Interchange",
+      "module": "InterchangeImport",
+      "file": "InterchangeAnimSequenceFactory.h",
+      "extends": "InterchangeFactoryBase"
+    },
+    {
+      "id": "DMMaterialStageExpressionParticleSpeed",
+      "type": "class",
+      "label": "DMMaterialStageExpressionParticleSpeed",
+      "description": "DMMaterial Stage Expression Particle Speed",
+      "plugin": "DynamicMaterial",
+      "module": "DynamicMaterialEditor",
+      "file": "DMMSEParticleSpeed.h",
+      "extends": "DMMaterialStageExpression"
+    },
+    {
+      "id": "EarthFacadePrefabAlgorithm",
+      "type": "class",
+      "label": "EarthFacadePrefabAlgorithm",
+      "description": "适配立面预制体的生成算法",
+      "plugin": "AesWorld",
+      "module": "EarthPrefab",
+      "file": "EarthFacadePrefab.h",
+      "extends": "EarthPrefabAlgorithm"
+    },
+    {
+      "id": "DynamicSubsystem",
+      "type": "class",
+      "label": "DynamicSubsystem",
+      "description": "Dynamic Subsystems auto populate/depopulate existing collections when modules are loaded and unloaded",
+      "module": "Engine",
+      "file": "Subsystem.h",
+      "extends": "Subsystem"
+    },
+    {
+      "id": "Texture2D",
+      "type": "type",
+      "label": "Texture2D"
+    },
+    {
+      "id": "LinearColor",
+      "type": "type",
+      "label": "LinearColor"
+    },
+    {
+      "id": "GeometryScriptReadGammaSpace",
+      "type": "type",
+      "label": "GeometryScriptReadGammaSpace"
+    },
+    {
+      "id": "GeometryScriptRGBAChannel",
+      "type": "type",
+      "label": "GeometryScriptRGBAChannel"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "IntPoint",
+      "type": "type",
+      "label": "IntPoint"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "DynamicMesh",
+      "type": "type",
+      "label": "DynamicMesh"
+    },
+    {
+      "id": "CollisionTraceFlag",
+      "type": "type",
+      "label": "CollisionTraceFlag"
+    },
+    {
+      "id": "DynamicMeshComponentTangentsMode",
+      "type": "type",
+      "label": "DynamicMeshComponentTangentsMode"
+    },
+    {
+      "id": "MaterialInterface",
+      "type": "type",
+      "label": "MaterialInterface"
+    },
+    {
+      "id": "LandscapeProxy",
+      "type": "type",
+      "label": "LandscapeProxy"
+    },
+    {
+      "id": "Landscape",
+      "type": "type",
+      "label": "Landscape"
+    },
+    {
+      "id": "LandscapeStreamingProxy",
+      "type": "type",
+      "label": "LandscapeStreamingProxy"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "Guid",
+      "type": "type",
+      "label": "Guid"
+    },
+    {
+      "id": "Vector2D",
+      "type": "type",
+      "label": "Vector2D"
+    },
+    {
+      "id": "Canvas",
+      "type": "type",
+      "label": "Canvas"
+    },
+    {
+      "id": "Class",
+      "type": "type",
+      "label": "Class"
+    },
+    {
+      "id": "World",
+      "type": "type",
+      "label": "World"
+    }
+  ],
+  "edges": [
+    {
+      "source": "BrushEffectDisplacement",
+      "target": "StructBase",
+      "type": "extends"
+    },
+    {
+      "source": "BrushEffectDisplacement",
+      "target": "displacement_height",
+      "type": "has-property",
+      "property_type": "float"
+    },
+    {
+      "source": "BrushEffectDisplacement",
+      "target": "displacement_tiling",
+      "type": "has-property",
+      "property_type": "float"
+    },
+    {
+      "source": "BrushEffectDisplacement",
+      "target": "texture",
+      "type": "has-property",
+      "property_type": "Texture2D"
+    },
+    {
+      "source": "BrushEffectDisplacement",
+      "target": "midpoint",
+      "type": "has-property",
+      "property_type": "float"
+    },
+    {
+      "source": "BrushEffectDisplacement",
+      "target": "channel",
+      "type": "has-property",
+      "property_type": "LinearColor"
+    },
+    {
+      "source": "BrushEffectDisplacement",
+      "target": "weightmap_influence",
+      "type": "has-property",
+      "property_type": "float"
+    },
+    {
+      "source": "GeometryScriptChannelPackSource",
+      "target": "StructBase",
+      "type": "extends"
+    },
+    {
+      "source": "GeometryScriptChannelPackSource",
+      "target": "texture",
+      "type": "has-property",
+      "property_type": "Texture2D"
+    },
+    {
+      "source": "GeometryScriptChannelPackSource",
+      "target": "read_gamma_space",
+      "type": "has-property",
+      "property_type": "GeometryScriptReadGammaSpace"
+    },
+    {
+      "source": "GeometryScriptChannelPackSource",
+      "target": "channel",
+      "type": "has-property",
+      "property_type": "GeometryScriptRGBAChannel"
+    },
+    {
+      "source": "GeometryScriptChannelPackSource",
+      "target": "default_value",
+      "type": "has-property",
+      "property_type": "float"
+    },
+    {
+      "source": "AvaJustifyDepth",
+      "target": "EnumBase",
+      "type": "extends"
+    },
+    {
+      "source": "AvaJustifyDepth",
+      "target": "NONE",
+      "type": "enum-value",
+      "value": 0
+    },
+    {
+      "source": "AvaJustifyDepth",
+      "target": "FRONT",
+      "type": "enum-value",
+      "value": 1
+    },
+    {
+      "source": "AvaJustifyDepth",
+      "target": "CENTER",
+      "type": "enum-value",
+      "value": 2
+    },
+    {
+      "source": "AvaJustifyDepth",
+      "target": "BACK",
+      "type": "enum-value",
+      "value": 3
+    },
+    {
+      "source": "WMSLayerDefine",
+      "target": "StructBase",
+      "type": "extends"
+    },
+    {
+      "source": "MovieGraphNamedResolution",
+      "target": "StructBase",
+      "type": "extends"
+    },
+    {
+      "source": "MovieGraphNamedResolution",
+      "target": "profile_name",
+      "type": "has-property",
+      "property_type": "Name"
+    },
+    {
+      "source": "MovieGraphNamedResolution",
+      "target": "resolution",
+      "type": "has-property",
+      "property_type": "IntPoint"
+    },
+    {
+      "source": "MovieGraphNamedResolution",
+      "target": "description",
+      "type": "has-property",
+      "property_type": "str"
+    },
+    {
+      "source": "WdpProjectLayerAPI",
+      "target": "StandardApiClassBase",
+      "type": "extends"
+    },
+    {
+      "source": "WdpProjectLayerAPI",
+      "target": "set_layer_hidden",
+      "type": "has-method"
+    },
+    {
+      "source": "PixelStreaming51CloudDelegates_NewConnection",
+      "target": "MulticastDelegateBase",
+      "type": "extends"
+    },
+    {
+      "source": "OptimusImplicitPersistentBufferDataProvider",
+      "target": "OptimusRawBufferDataProvider",
+      "type": "extends"
+    },
+    {
+      "source": "RigUnit_AccumulateVectorLerp",
+      "target": "RigVMFunction_AccumulateVectorLerp",
+      "type": "extends"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "BaseDynamicMeshComponent",
+      "type": "extends"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "tangents_type",
+      "type": "has-property",
+      "property_type": "DynamicMeshComponentTangentsMode"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "collision_type",
+      "type": "has-property",
+      "property_type": "CollisionTraceFlag"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "use_async_cooking",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "enable_complex_collision",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "defer_collision_updates",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "validate_material_slots",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "update_collision",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "set_tangents_type",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "set_dynamic_mesh",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "set_deferred_collision_updates_enabled",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "set_complex_as_simple_collision_enabled",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "set_allows_geometry_selection",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "notify_mesh_vertex_attributes_modified",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "notify_mesh_modified",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "get_tangents_type",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "enable_complex_as_simple_collision",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "configure_material_set",
+      "type": "has-method"
+    },
+    {
+      "source": "DynamicMeshComponent",
+      "target": "allows_geometry_selection",
+      "type": "has-method"
+    },
+    {
+      "source": "EarthTextureExtractorPrefabAlgorithm",
+      "target": "EarthPrefabAlgorithm",
+      "type": "extends"
+    },
+    {
+      "source": "EarthTextureExtractorPrefabAlgorithm",
+      "target": "required_fragments",
+      "type": "has-property",
+      "property_type": "Array[ScriptStruct]"
+    },
+    {
+      "source": "WdpShapeChangedPointInfo",
+      "target": "StructBase",
+      "type": "extends"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "WdpActorEntity",
+      "type": "extends"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "store_bottom_triangles_location_to_texture",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "store_bottom_triangles_location",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "store_array_points_location_to_texture",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "store_array_points_location",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_type",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_stroke_weight",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_polygon_for_procedural_mesh",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_polygon",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_height",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_fill_area_type",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_fill_area_color",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_coord_z",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "set_color",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "horizontal_location",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "get_owner_world",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "create_range_for_procedural_mesh",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "create_range",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "collate_points_data",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "calculate_array_wall_mesh_data",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "calculate_array_instance_mesh_data",
+      "type": "has-method"
+    },
+    {
+      "source": "RangeEntity",
+      "target": "add_point_to_spline_array",
+      "type": "has-method"
+    },
+    {
+      "source": "RigVMFunction_MathIntClamp",
+      "target": "RigVMFunction_MathIntBase",
+      "type": "extends"
+    },
+    {
+      "source": "RigVMFunction_MathIntClamp",
+      "target": "value",
+      "type": "has-property",
+      "property_type": "int32"
+    },
+    {
+      "source": "RigVMFunction_MathIntClamp",
+      "target": "minimum",
+      "type": "has-property",
+      "property_type": "int32"
+    },
+    {
+      "source": "RigVMFunction_MathIntClamp",
+      "target": "maximum",
+      "type": "has-property",
+      "property_type": "int32"
+    },
+    {
+      "source": "RigVMFunction_MathIntClamp",
+      "target": "result",
+      "type": "has-property",
+      "property_type": "int32"
+    },
+    {
+      "source": "PCGManagedDebugDrawComponent",
+      "target": "PCGManagedComponent",
+      "type": "extends"
+    },
+    {
+      "source": "PCGManagedDebugDrawComponent",
+      "target": "crc",
+      "type": "has-property",
+      "property_type": "PCGCrc"
+    },
+    {
+      "source": "PCGManagedDebugDrawComponent",
+      "target": "generated_component",
+      "type": "has-property",
+      "property_type": "ActorComponent"
+    },
+    {
+      "source": "PCGManagedDebugDrawComponent",
+      "target": "is_marked_unused",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "PCGManagedDebugDrawComponent",
+      "target": "marked_transient_on_load",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "AvalancheLevelStreamingPlayable",
+      "target": "AvaPlayableLevelStreaming",
+      "type": "extends"
+    },
+    {
+      "source": "AISenseConfig_Blueprint",
+      "target": "AISenseConfig",
+      "type": "extends"
+    },
+    {
+      "source": "AISenseConfig_Blueprint",
+      "target": "debug_color",
+      "type": "has-property",
+      "property_type": "Color"
+    },
+    {
+      "source": "AISenseConfig_Blueprint",
+      "target": "implementation",
+      "type": "has-property",
+      "property_type": "Class"
+    },
+    {
+      "source": "AISenseConfig_Blueprint",
+      "target": "max_age",
+      "type": "has-property",
+      "property_type": "float"
+    },
+    {
+      "source": "AISenseConfig_Blueprint",
+      "target": "starts_enabled",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "BlueprintFunctionLibrary",
+      "type": "extends"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "set_weightmap_data",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "set_heightmap_data",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "recalculate_normals",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "landscape_update_grass",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "landscape_get_grass_components",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "landscape_flush_grass_components",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "get_weightmap_data",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "get_visibility_data",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "get_used_paint_layers",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "get_layer_names",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "get_landscape_guid",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "get_landscape_extent",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "get_landscape_components",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "get_heightmap_data",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "create_landscape_proxy_with_guid",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "create_landscape_proxy",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "create_landscape",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "clear_layer",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "clear_all_layers",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "cal_landscape_size",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "assign_layer_info",
+      "type": "has-method"
+    },
+    {
+      "source": "PythonLandscapeLib",
+      "target": "add_adjacent_landscape_proxy",
+      "type": "has-method"
+    },
+    {
+      "source": "InterchangeAnimSequenceFactory",
+      "target": "InterchangeFactoryBase",
+      "type": "extends"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "DMMaterialStageExpression",
+      "type": "extends"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "allow_nested_inputs",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "component_dirty",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "component_state",
+      "type": "has-property",
+      "property_type": "DMComponentLifetimeState"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "editable_properties",
+      "type": "has-property",
+      "property_type": "Array[Name]"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "input_connectors",
+      "type": "has-property",
+      "property_type": "Array[DMMaterialStageConnector]"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "input_required",
+      "type": "has-property",
+      "property_type": "bool"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "material_expression_class",
+      "type": "has-property",
+      "property_type": "Class"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "menus",
+      "type": "has-property",
+      "property_type": "Array[DMExpressionMenu]"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "name",
+      "type": "has-property",
+      "property_type": "Text"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleSpeed",
+      "target": "output_connectors",
+      "type": "has-property",
+      "property_type": "Array[DMMaterialStageConnector]"
+    },
+    {
+      "source": "EarthFacadePrefabAlgorithm",
+      "target": "EarthPrefabAlgorithm",
+      "type": "extends"
+    },
+    {
+      "source": "EarthFacadePrefabAlgorithm",
+      "target": "required_fragments",
+      "type": "has-property",
+      "property_type": "Array[ScriptStruct]"
+    },
+    {
+      "source": "DynamicSubsystem",
+      "target": "Subsystem",
+      "type": "extends"
+    },
+    {
+      "source": "Landmass",
+      "target": "BrushEffectsList.h",
+      "type": "module-file"
+    },
+    {
+      "source": "GeometryScriptingEditor",
+      "target": "EditorTextureMapFunctions.h",
+      "type": "module-file"
+    },
+    {
+      "source": "AvalancheModifiers",
+      "target": "AvaJustifyModifier.h",
+      "type": "module-file"
+    },
+    {
+      "source": "MagicGISLayer",
+      "target": "MagicGISDynamicLayerDefines.h",
+      "type": "module-file"
+    },
+    {
+      "source": "MovieRenderPipelineCore",
+      "target": "MovieGraphNamedResolution.h",
+      "type": "module-file"
+    },
+    {
+      "source": "ApplicationAPI",
+      "target": "WdpProjectLayerAPI.h",
+      "type": "module-file"
+    },
+    {
+      "source": "PixelStreaming51Cloud",
+      "target": "PixelStreaming51CloudDelegates.h",
+      "type": "module-file"
+    },
+    {
+      "source": "OptimusCore",
+      "target": "OptimusDataInterfaceRawBuffer.h",
+      "type": "module-file"
+    },
+    {
+      "source": "GeometryFramework",
+      "target": "DynamicMeshComponent.h",
+      "type": "module-file"
+    },
+    {
+      "source": "AesEarth",
+      "target": "EarthTextureExtractorCommon.h",
+      "type": "module-file"
+    },
+    {
+      "source": "WdpShapeEditor",
+      "target": "WdpShapeEditorDefines.h",
+      "type": "module-file"
+    },
+    {
+      "source": "CoveringAPIEntity",
+      "target": "RangeEntity.h",
+      "type": "module-file"
+    },
+    {
+      "source": "RigVM",
+      "target": "RigVMFunction_MathInt.h",
+      "type": "module-file"
+    },
+    {
+      "source": "PCG",
+      "target": "PCGDebugDrawComponent.h",
+      "type": "module-file"
+    },
+    {
+      "source": "AIModule",
+      "target": "AISenseConfig_Blueprint.h",
+      "type": "module-file"
+    },
+    {
+      "source": "TAPython",
+      "target": "PythonLandscapeLib.h",
+      "type": "module-file"
+    },
+    {
+      "source": "InterchangeImport",
+      "target": "InterchangeAnimSequenceFactory.h",
+      "type": "module-file"
+    },
+    {
+      "source": "DynamicMaterialEditor",
+      "target": "DMMSEParticleSpeed.h",
+      "type": "module-file"
+    },
+    {
+      "source": "EarthPrefab",
+      "target": "EarthFacadePrefab.h",
+      "type": "module-file"
+    },
+    {
+      "source": "Engine",
+      "target": "Subsystem.h",
+      "type": "module-file"
+    },
+    {
+      "source": "Landmass",
+      "target": "Landmass",
+      "type": "plugin-module"
+    },
+    {
+      "source": "GeometryScripting",
+      "target": "GeometryScriptingEditor",
+      "type": "plugin-module"
+    },
+    {
+      "source": "Avalanche",
+      "target": "AvalancheModifiers",
+      "type": "plugin-module"
+    },
+    {
+      "source": "GISDataAPI",
+      "target": "MagicGISLayer",
+      "type": "plugin-module"
+    },
+    {
+      "source": "MovieRenderPipeline",
+      "target": "MovieRenderPipelineCore",
+      "type": "plugin-module"
+    },
+    {
+      "source": "WdpRuntimeAPI",
+      "target": "ApplicationAPI",
+      "type": "plugin-module"
+    },
+    {
+      "source": "PixelStreaming51Cloud",
+      "target": "PixelStreaming51Cloud",
+      "type": "plugin-module"
+    },
+    {
+      "source": "DeformerGraph",
+      "target": "OptimusCore",
+      "type": "plugin-module"
+    },
+    {
+      "source": "AesWorld",
+      "target": "AesEarth",
+      "type": "plugin-module"
+    },
+    {
+      "source": "WdpApplication",
+      "target": "WdpShapeEditor",
+      "type": "plugin-module"
+    },
+    {
+      "source": "CoveringAPI",
+      "target": "CoveringAPIEntity",
+      "type": "plugin-module"
+    },
+    {
+      "source": "RigVM",
+      "target": "RigVM",
+      "type": "plugin-module"
+    },
+    {
+      "source": "PCG",
+      "target": "PCG",
+      "type": "plugin-module"
+    },
+    {
+      "source": "TAPython",
+      "target": "TAPython",
+      "type": "plugin-module"
+    },
+    {
+      "source": "Interchange",
+      "target": "InterchangeImport",
+      "type": "plugin-module"
+    },
+    {
+      "source": "DynamicMaterial",
+      "target": "DynamicMaterialEditor",
+      "type": "plugin-module"
+    },
+    {
+      "source": "AesWorld",
+      "target": "EarthPrefab",
+      "type": "plugin-module"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he1",
+      "type": "method-signature",
+      "nodes": ["DynamicMeshComponent", "set_dynamic_mesh", "DynamicMesh"],
+      "description": "set_dynamic_mesh(new_mesh: DynamicMesh) -> None"
+    },
+    {
+      "id": "he2",
+      "type": "method-signature",
+      "nodes": ["DynamicMeshComponent", "update_collision", "bool"],
+      "description": "update_collision(only_if_pending: bool = True) -> None"
+    },
+    {
+      "id": "he3",
+      "type": "method-signature",
+      "nodes": ["PythonLandscapeLib", "set_heightmap_data", "LandscapeProxy", "Array[int]", "bool"],
+      "description": "set_heightmap_data(landscape: LandscapeProxy, height_data: Array[int32]) -> bool"
+    },
+    {
+      "id": "he4",
+      "type": "method-signature",
+      "nodes": ["PythonLandscapeLib", "create_landscape", "Transform", "int", "Landscape"],
+      "description": "create_landscape(landscape_transform: Transform, section_size: int, sections_per_component: int, component_count_x: int, component_count_y: int) -> Landscape"
+    },
+    {
+      "id": "he5",
+      "type": "method-signature",
+      "nodes": ["RangeEntity", "create_range", "Vector", "str", "float", "bool"],
+      "description": "create_range(points: Array[Vector], ignore_index: Array[int32], range_type: str, bottom_type: str, range_hight: float, range_bottom_width: float, range_color: str) -> bool"
+    },
+    {
+      "id": "he6",
+      "type": "class-hierarchy",
+      "nodes": ["EarthFacadePrefabAlgorithm", "EarthTextureExtractorPrefabAlgorithm", "EarthPrefabAlgorithm"],
+      "description": "Both EarthFacadePrefabAlgorithm and EarthTextureExtractorPrefabAlgorithm extend EarthPrefabAlgorithm"
+    },
+    {
+      "id": "he7",
+      "type": "deprecated-class",
+      "nodes": ["RigUnit_AccumulateVectorLerp", "RigVMFunction_AccumulateVectorLerp"],
+      "description": "RigUnit_AccumulateVectorLerp is deprecated and renamed to RigVMFunction_AccumulateVectorLerp"
+    },
+    {
+      "id": "he8",
+      "type": "deprecated-class",
+      "nodes": ["AvalancheLevelStreamingPlayable", "AvaPlayableLevelStreaming"],
+      "description": "AvalancheLevelStreamingPlayable is deprecated and renamed to AvaPlayableLevelStreaming"
+    },
+    {
+      "id": "he9",
+      "type": "method-signature",
+      "nodes": ["RangeEntity", "store_array_points_location_to_texture", "Vector", "float", "Texture2D"],
+      "description": "store_array_points_location_to_texture(points_array: Array[Vector], min_x: float, max_x: float, min_y: float, max_y: float, use32_texture: bool) -> Texture2D"
+    },
+    {
+      "id": "he10",
+      "type": "method-signature",
+      "nodes": ["DynamicMeshComponent", "configure_material_set", "MaterialInterface", "bool"],
+      "description": "configure_material_set(new_material_set: Array[MaterialInterface], delete_extra_slots: bool = True) -> None"
+    },
+    {
+      "id": "he11",
+      "type": "method-signature",
+      "nodes": ["PythonLandscapeLib", "create_landscape_proxy", "Transform", "Landscape", "LandscapeStreamingProxy"],
+      "description": "create_landscape_proxy(landscape_transform: Transform, section_size: int, sections_per_component: int, component_count_x: int, component_count_y: int, shared_landscape_actor: Landscape) -> LandscapeStreamingProxy"
+    },
+    {
+      "id": "he12",
+      "type": "method-signature",
+      "nodes": ["WdpProjectLayerAPI", "set_layer_hidden", "ProjectLayerAPISetLayerHiddenParams", "ResultBase"],
+      "description": "set_layer_hidden(params: ProjectLayerAPISetLayerHiddenParams) -> Optional[ResultBase]"
+    },
+    {
+      "id": "he13",
+      "type": "delegate-signature",
+      "nodes": ["PixelStreaming51CloudDelegates_NewConnection", "str", "bool"],
+      "description": "Delegate args: streamer_id (str), player_id (str), quality_controller (bool)"
+    },
+    {
+      "id": "he14",
+      "type": "property-group",
+      "nodes": ["BrushEffectDisplacement", "displacement_height", "displacement_tiling", "texture", "midpoint", "channel", "weightmap_influence"],
+      "description": "BrushEffectDisplacement has 6 properties controlling displacement effects"
+    },
+    {
+      "id": "he15",
+      "type": "property-group",
+      "nodes": ["GeometryScriptChannelPackSource", "texture", "read_gamma_space", "channel", "default_value"],
+      "description": "GeometryScriptChannelPackSource has 4 properties for texture channel packing"
+    },
+    {
+      "id": "he16",
+      "type": "enum-group",
+      "nodes": ["AvaJustifyDepth", "NONE", "FRONT", "CENTER", "BACK"],
+      "description": "AvaJustifyDepth enum has 4 values: NONE=0, FRONT=1, CENTER=2, BACK=3"
+    },
+    {
+      "id": "he17",
+      "type": "property-group",
+      "nodes": ["MovieGraphNamedResolution", "profile_name", "resolution", "description"],
+      "description": "MovieGraphNamedResolution has 3 properties defining screen resolution"
+    },
+    {
+      "id": "he18",
+      "type": "property-group",
+      "nodes": ["RigVMFunction_MathIntClamp", "value", "minimum", "maximum", "result"],
+      "description": "RigVMFunction_MathIntClamp has 4 properties for integer clamping"
+    },
+    {
+      "id": "he19",
+      "type": "property-group",
+      "nodes": ["AISenseConfig_Blueprint", "debug_color", "implementation", "max_age", "starts_enabled"],
+      "description": "AISenseConfig_Blueprint has 4 properties for AI sense configuration"
+    },
+    {
+      "id": "he20",
+      "type": "method-group",
+      "nodes": ["PythonLandscapeLib", "set_weightmap_data", "set_heightmap_data", "get_heightmap_data", "get_weightmap_data"],
+      "description": "PythonLandscapeLib provides methods for landscape heightmap and weightmap manipulation"
+    }
+  ],
+  "metadata": {
+    "source_files": 22,
+    "total_nodes": 42,
+    "total_edges": 175,
+    "total_hyperedges": 20,
+    "generated_at": "2026-04-12",
+    "source": "Unreal Engine Python API Documentation",
+    "chunk_id": 637
+  }
+}

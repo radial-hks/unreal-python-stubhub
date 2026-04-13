@@ -1,0 +1,781 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathtransformselectbool_rigunit_mathtransformselectbool",
+      "label": "RigUnit_MathTransformSelectBool",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformSelectBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformselectbool_rigvmfunction_mathtransformselectbool",
+      "label": "RigVMFunction_MathTransformSelectBool",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformSelectBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatmod",
+      "label": "RigVMFunction_MathFloatMod",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatMod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatbinaryop",
+      "label": "RigVMFunction_MathFloatBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatMod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerfloatvariable_rigvmtrait_setdeformerfloatvariable",
+      "label": "RigVMTrait_SetDeformerFloatVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerFloatVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerfloatvariable_rigvmtrait_optimusvariablebase",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerFloatVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcacheimportsettings_groomcacheimportsettings",
+      "label": "GroomCacheImportSettings",
+      "file_type": "code",
+      "source_file": "GroomCacheImportSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcacheimportsettings_groomconversionsettings",
+      "label": "GroomConversionSettings",
+      "file_type": "code",
+      "source_file": "GroomCacheImportSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcacheimportsettings_groomcacheimporttype",
+      "label": "GroomCacheImportType",
+      "file_type": "code",
+      "source_file": "GroomCacheImportSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathbase_rigunit_mathbase",
+      "label": "RigUnit_MathBase",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathbase_rigvmfunction_mathbase",
+      "label": "RigVMFunction_MathBase",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "planereflectioncapture_planereflectioncapture",
+      "label": "PlaneReflectionCapture",
+      "file_type": "code",
+      "source_file": "PlaneReflectionCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "planereflectioncapture_reflectioncapture",
+      "label": "ReflectionCapture",
+      "file_type": "code",
+      "source_file": "PlaneReflectionCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "planereflectioncapture_reflectioncapturecomponent",
+      "label": "ReflectionCaptureComponent",
+      "file_type": "code",
+      "source_file": "PlaneReflectionCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "planereflectioncapture_netdormancy",
+      "label": "NetDormancy",
+      "file_type": "code",
+      "source_file": "PlaneReflectionCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buttonpressmethod_buttonpressmethod",
+      "label": "ButtonPressMethod",
+      "file_type": "code",
+      "source_file": "ButtonPressMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditoruishowevent_aeseditoruishowevent",
+      "label": "AesEditorUIShowEvent",
+      "file_type": "code",
+      "source_file": "AesEditorUIShowEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "drawspherecomponent_drawspherecomponent",
+      "label": "DrawSphereComponent",
+      "file_type": "code",
+      "source_file": "DrawSphereComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "drawspherecomponent_spherecomponent",
+      "label": "SphereComponent",
+      "file_type": "code",
+      "source_file": "DrawSphereComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visualgroupnodes_visualgroupnodes",
+      "label": "VisualGroupNodes",
+      "file_type": "code",
+      "source_file": "VisualGroupNodes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpbuildingstatechangeeventparam_dcpbuildingstatechangeeventparam",
+      "label": "DcpBuildingStateChangeEventParam",
+      "file_type": "code",
+      "source_file": "DcpBuildingStateChangeEventParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpbuildingstatechangeeventparam_dcpbuildingstatechange",
+      "label": "DcpBuildingStateChange",
+      "file_type": "code",
+      "source_file": "DcpBuildingStateChangeEventParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediatexture_mediatexture",
+      "label": "MediaTexture",
+      "file_type": "code",
+      "source_file": "MediaTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediatexture_texture",
+      "label": "Texture",
+      "file_type": "code",
+      "source_file": "MediaTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediatexture_mediaplayer",
+      "label": "MediaPlayer",
+      "file_type": "code",
+      "source_file": "MediaTexture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneboundobjectproxy_moviesceneboundobjectproxy",
+      "label": "MovieSceneBoundObjectProxy",
+      "file_type": "code",
+      "source_file": "MovieSceneBoundObjectProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangevolumetexturenode_interchangevolumetexturenode",
+      "label": "InterchangeVolumeTextureNode",
+      "file_type": "code",
+      "source_file": "InterchangeVolumeTextureNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangevolumetexturenode_interchangetexturenode",
+      "label": "InterchangeTextureNode",
+      "file_type": "code",
+      "source_file": "InterchangeVolumeTextureNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenefadesection_moviescenefadesection",
+      "label": "MovieSceneFadeSection",
+      "file_type": "code",
+      "source_file": "MovieSceneFadeSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenefadesection_moviescenesection",
+      "label": "MovieSceneSection",
+      "file_type": "code",
+      "source_file": "MovieSceneFadeSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "netdormancy_netdormancy",
+      "label": "NetDormancy",
+      "file_type": "code",
+      "source_file": "NetDormancy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectordiv_rigunit_mathvectordiv",
+      "label": "RigUnit_MathVectorDiv",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorDiv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectordiv_rigvmfunction_mathvectordiv",
+      "label": "RigVMFunction_MathVectorDiv",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorDiv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rbfkerneltype_rbfkerneltype",
+      "label": "RBFKernelType",
+      "file_type": "code",
+      "source_file": "RBFKernelType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userdefinedimagecaptureprotocol_userdefinedimagecaptureprotocol",
+      "label": "UserDefinedImageCaptureProtocol",
+      "file_type": "code",
+      "source_file": "UserDefinedImageCaptureProtocol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userdefinedimagecaptureprotocol_userdefinedcaptureprotocol",
+      "label": "UserDefinedCaptureProtocol",
+      "file_type": "code",
+      "source_file": "UserDefinedImageCaptureProtocol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userdefinedimagecaptureprotocol_desiredimageformat",
+      "label": "DesiredImageFormat",
+      "file_type": "code",
+      "source_file": "UserDefinedImageCaptureProtocol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_chainharmonics_reach_rigunit_chainharmonics_reach",
+      "label": "RigUnit_ChainHarmonics_Reach",
+      "file_type": "code",
+      "source_file": "RigUnit_ChainHarmonics_Reach Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_chainharmonics_reach_rigvmanimeasingtype",
+      "label": "RigVMAnimEasingType",
+      "file_type": "code",
+      "source_file": "RigUnit_ChainHarmonics_Reach Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshpoolutility_geometryscript_meshpoolutility",
+      "label": "GeometryScript_MeshPoolUtility",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshPoolUtility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshpoolutility_dynamicmeshpool",
+      "label": "DynamicMeshPool",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshPoolUtility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraperfbaselinestats_niagaraperfbaselinestats",
+      "label": "NiagaraPerfBaselineStats",
+      "file_type": "code",
+      "source_file": "NiagaraPerfBaselineStats Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathtransformselectbool_rigunit_mathtransformselectbool",
+      "target": "rigunit_mathtransformselectbool_rigvmfunction_mathtransformselectbool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformSelectBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatmod",
+      "target": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerfloatvariable_rigvmtrait_setdeformerfloatvariable",
+      "target": "rigvmtrait_setdeformerfloatvariable_rigvmtrait_optimusvariablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerFloatVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcacheimportsettings_groomcacheimportsettings",
+      "target": "groomcacheimportsettings_groomconversionsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCacheImportSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcacheimportsettings_groomcacheimportsettings",
+      "target": "groomcacheimportsettings_groomcacheimporttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCacheImportSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathbase_rigunit_mathbase",
+      "target": "rigunit_mathbase_rigvmfunction_mathbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planereflectioncapture_planereflectioncapture",
+      "target": "planereflectioncapture_reflectioncapture",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaneReflectionCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planereflectioncapture_planereflectioncapture",
+      "target": "planereflectioncapture_reflectioncapturecomponent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaneReflectionCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planereflectioncapture_planereflectioncapture",
+      "target": "planereflectioncapture_netdormancy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaneReflectionCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "drawspherecomponent_drawspherecomponent",
+      "target": "drawspherecomponent_spherecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DrawSphereComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpbuildingstatechangeeventparam_dcpbuildingstatechangeeventparam",
+      "target": "dcpbuildingstatechangeeventparam_dcpbuildingstatechange",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DcpBuildingStateChangeEventParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediatexture_mediatexture",
+      "target": "mediatexture_texture",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediatexture_mediatexture",
+      "target": "mediatexture_mediaplayer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangevolumetexturenode_interchangevolumetexturenode",
+      "target": "interchangevolumetexturenode_interchangetexturenode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeVolumeTextureNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenefadesection_moviescenefadesection",
+      "target": "moviescenefadesection_moviescenesection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneFadeSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectordiv_rigunit_mathvectordiv",
+      "target": "rigunit_mathvectordiv_rigvmfunction_mathvectordiv",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorDiv Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "userdefinedimagecaptureprotocol_userdefinedimagecaptureprotocol",
+      "target": "userdefinedimagecaptureprotocol_userdefinedcaptureprotocol",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UserDefinedImageCaptureProtocol Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "userdefinedimagecaptureprotocol_userdefinedimagecaptureprotocol",
+      "target": "userdefinedimagecaptureprotocol_desiredimageformat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UserDefinedImageCaptureProtocol Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonics_reach_rigunit_chainharmonics_reach",
+      "target": "rigunit_chainharmonics_reach_rigvmanimeasingtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ChainHarmonics_Reach Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshpoolutility_geometryscript_meshpoolutility",
+      "target": "geometryscript_meshpoolutility_dynamicmeshpool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshPoolUtility Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatmod",
+      "target": "rbfkerneltype_rbfkerneltype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatmod",
+      "target": "rigunit_mathvectordiv_rigunit_mathvectordiv",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatmod",
+      "target": "rigunit_mathtransformselectbool_rigunit_mathtransformselectbool",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatmod",
+      "target": "rigunit_mathbase_rigunit_mathbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction_MathFloatMod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediatexture_mediatexture",
+      "target": "interchangevolumetexturenode_interchangevolumetexturenode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MediaTexture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcacheimportsettings_groomcacheimportsettings",
+      "target": "userdefinedimagecaptureprotocol_userdefinedimagecaptureprotocol",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GroomCacheImportSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planereflectioncapture_planereflectioncapture",
+      "target": "drawspherecomponent_drawspherecomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PlaneReflectionCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonics_reach_rigunit_chainharmonics_reach",
+      "target": "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatmod",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_ChainHarmonics_Reach Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathfloatmod_rigvmfunction_mathfloatmod",
+        "rigunit_mathvectordiv_rigunit_mathvectordiv",
+        "rigunit_mathtransformselectbool_rigunit_mathtransformselectbool",
+        "rigunit_mathbase_rigunit_mathbase",
+        "rbfkerneltype_rbfkerneltype",
+        "rigunit_chainharmonics_reach_rigunit_chainharmonics_reach"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "import_export_pipeline",
+      "label": "Import/Export Pipeline",
+      "nodes": [
+        "groomcacheimportsettings_groomcacheimportsettings",
+        "userdefinedimagecaptureprotocol_userdefinedimagecaptureprotocol",
+        "interchangevolumetexturenode_interchangevolumetexturenode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

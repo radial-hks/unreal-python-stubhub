@@ -1,0 +1,200 @@
+{
+  "nodes": [
+    {"id": "aesdommanager_aesdommanager", "label": "AesDomManager", "file_type": "document", "source_file": "AesDomManager Objects.md"},
+    {"id": "aesdommanager_toggle_custom_dom_channel", "label": "toggle_custom_dom_channel", "file_type": "document", "source_file": "AesDomManager Objects.md"},
+    {"id": "aesdommanager_init", "label": "init", "file_type": "document", "source_file": "AesDomManager Objects.md"},
+    {"id": "aesdommanager_get_custom_dom_channels_num", "label": "get_custom_dom_channels_num", "file_type": "document", "source_file": "AesDomManager Objects.md"},
+    {"id": "aesdommanager_get_custom_dom_channel_index", "label": "get_custom_dom_channel_index", "file_type": "document", "source_file": "AesDomManager Objects.md"},
+
+    {"id": "advancedcopycompletedevent_advancedcopycompletedevent", "label": "AdvancedCopyCompletedEvent", "file_type": "document", "source_file": "AdvancedCopyCompletedEvent Objects.md"},
+
+    {"id": "dataflowfieldfallofftype_dataflowfieldfallofftype", "label": "DataflowFieldFalloffType", "file_type": "document", "source_file": "DataflowFieldFalloffType Objects.md"},
+    {"id": "dataflowfieldfallofftype_none", "label": "DATAFLOW_FIELD_FALLOFF_TYPE_NONE", "file_type": "document", "source_file": "DataflowFieldFalloffType Objects.md"},
+    {"id": "dataflowfieldfallofftype_linear", "label": "DATAFLOW_FIELD_FALLOFF_TYPE_LINEAR", "file_type": "document", "source_file": "DataflowFieldFalloffType Objects.md"},
+    {"id": "dataflowfieldfallofftype_inverse", "label": "DATAFLOW_FIELD_FALLOFF_TYPE_INVERSE", "file_type": "document", "source_file": "DataflowFieldFalloffType Objects.md"},
+    {"id": "dataflowfieldfallofftype_squared", "label": "DATAFLOW_FIELD_FALLOFF_TYPE_SQUARED", "file_type": "document", "source_file": "DataflowFieldFalloffType Objects.md"},
+    {"id": "dataflowfieldfallofftype_logarithmic", "label": "DATAFLOW_FIELD_FALLOFF_TYPE_LOGARITHMIC", "file_type": "document", "source_file": "DataflowFieldFalloffType Objects.md"},
+
+    {"id": "aeslandmarkeditorcommandparams_import_aeslandmarkeditorcommandparams_import", "label": "AesLandmarkEditorCommandParams_Import", "file_type": "document", "source_file": "AesLandmarkEditorCommandParams__Import Objects.md"},
+
+    {"id": "rigunit_fabrik_rigunit_fabrik", "label": "RigUnit_FABRIK", "file_type": "document", "source_file": "RigUnit_FABRIK Objects.md"},
+    {"id": "rigunit_fabrik_fabrik_solver", "label": "FABRIK IK Solver Algorithm", "file_type": "document", "source_file": "RigUnit_FABRIK Objects.md"},
+
+    {"id": "moviescenetransformtrack_moviescenetransformtrack", "label": "MovieSceneTransformTrack", "file_type": "document", "source_file": "MovieSceneTransformTrack Objects.md"},
+
+    {"id": "bodyinstance_bodyinstance", "label": "BodyInstance", "file_type": "document", "source_file": "BodyInstance Objects.md"},
+    {"id": "bodyinstance_physics_simulation", "label": "Physics Simulation System", "file_type": "document", "source_file": "BodyInstance Objects.md"},
+
+    {"id": "travelanimtype_travelanimtype", "label": "TravelAnimType", "file_type": "document", "source_file": "TravelAnimType Objects.md"},
+    {"id": "travelanimtype_tat_linear", "label": "TAT_LINEAR", "file_type": "document", "source_file": "TravelAnimType Objects.md"},
+    {"id": "travelanimtype_tat_curve", "label": "TAT_CURVE", "file_type": "document", "source_file": "TravelAnimType Objects.md"},
+    {"id": "travelanimtype_tat_custom_path", "label": "TAT_CUSTOM_PATH", "file_type": "document", "source_file": "TravelAnimType Objects.md"},
+
+    {"id": "pcgselfpruningparameters_pcgselfpruningparameters", "label": "PCGSelfPruningParameters", "file_type": "document", "source_file": "PCGSelfPruningParameters Objects.md"},
+    {"id": "pcgselfpruningparameters_pruning_algorithm", "label": "PCG Point Pruning Algorithm", "file_type": "document", "source_file": "PCGSelfPruningParameters Objects.md"},
+
+    {"id": "rigunit_divide_floatfloat_rigunit_divide_floatfloat", "label": "RigUnit_Divide_FloatFloat", "file_type": "document", "source_file": "RigUnit_Divide_FloatFloat Objects.md"},
+
+    {"id": "rigvmfunction_mathintlessequal_rigvmfunction_mathintlessequal", "label": "RigVMFunction_MathIntLessEqual", "file_type": "document", "source_file": "RigVMFunction_MathIntLessEqual Objects.md"},
+
+    {"id": "visualloggerfiltervolume_visualloggerfiltervolume", "label": "VisualLoggerFilterVolume", "file_type": "document", "source_file": "VisualLoggerFilterVolume Objects.md"},
+
+    {"id": "rigvmfunction_secondstoframes_rigvmfunction_secondstoframes", "label": "RigVMFunction_SecondsToFrames", "file_type": "document", "source_file": "RigVMFunction_SecondsToFrames Objects.md"},
+    {"id": "rigvmfunction_secondstoframes_time_conversion", "label": "Time Conversion Operation", "file_type": "document", "source_file": "RigVMFunction_SecondsToFrames Objects.md"},
+
+    {"id": "animgraphnode_assetplayerbase_animgraphnode_assetplayerbase", "label": "AnimGraphNode_AssetPlayerBase", "file_type": "document", "source_file": "AnimGraphNode_AssetPlayerBase Objects.md"},
+
+    {"id": "targetingpreset_targetingpreset", "label": "TargetingPreset", "file_type": "document", "source_file": "TargetingPreset Objects.md"},
+
+    {"id": "gislinedataforgenerator_gislinedataforgenerator", "label": "GISLineDataForGenerator", "file_type": "document", "source_file": "GISLineDataForGenerator Objects.md"},
+
+    {"id": "editorutilityprogressbar_editorutilityprogressbar", "label": "EditorUtilityProgressBar", "file_type": "document", "source_file": "EditorUtilityProgressBar Objects.md"},
+
+    {"id": "controlrigposeprojectsettings_controlrigposeprojectsettings", "label": "ControlRigPoseProjectSettings", "file_type": "document", "source_file": "ControlRigPoseProjectSettings Objects.md"},
+
+    {"id": "rigvmfunction_getworldtime_rigvmfunction_getworldtime", "label": "RigVMFunction_GetWorldTime", "file_type": "document", "source_file": "RigVMFunction__GetWorldTime Objects.md"},
+    {"id": "rigvmfunction_getworldtime_time_retrieval", "label": "World Time Retrieval Operation", "file_type": "document", "source_file": "RigVMFunction__GetWorldTime Objects.md"},
+
+    {"id": "reimportgroomcachefactory_reimportgroomcachefactory", "label": "ReimportGroomCacheFactory", "file_type": "document", "source_file": "ReimportGroomCacheFactory Objects.md"},
+
+    {"id": "aesterraineditorcommand_flattenpolygon_aesterraineditorcommand_flattenpolygon", "label": "AesTerrainEditorCommand_FlattenPolygon", "file_type": "document", "source_file": "AesTerrainEditorCommand__FlattenPolygon Objects.md"},
+
+    {"id": "rigunit_setcurvevalue_rigunit_setcurvevalue", "label": "RigUnit_SetCurveValue", "file_type": "document", "source_file": "RigUnit_SetCurveValue Objects.md"},
+
+    {"id": "worldsubsystem_worldsubsystem", "label": "WorldSubsystem", "file_type": "document", "source_file": "AesDomManager Objects.md"},
+    {"id": "delegatebase_delegatebase", "label": "DelegateBase", "file_type": "document", "source_file": "AdvancedCopyCompletedEvent Objects.md"},
+    {"id": "enumbase_enumbase", "label": "EnumBase", "file_type": "document", "source_file": "DataflowFieldFalloffType Objects.md"},
+    {"id": "aeseditorcommandparams_aeseditorcommandparams", "label": "AesEditorCommandParams", "file_type": "document", "source_file": "AesLandmarkEditorCommandParams__Import Objects.md"},
+    {"id": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable", "label": "RigUnit_HighlevelBaseMutable", "file_type": "document", "source_file": "RigUnit_FABRIK Objects.md"},
+    {"id": "moviescenepropertytrack_moviescenepropertytrack", "label": "MovieScenePropertyTrack", "file_type": "document", "source_file": "MovieSceneTransformTrack Objects.md"},
+    {"id": "bodyinstancecore_bodyinstancecore", "label": "BodyInstanceCore", "file_type": "document", "source_file": "BodyInstance Objects.md"},
+    {"id": "structbase_structbase", "label": "StructBase", "file_type": "document", "source_file": "PCGSelfPruningParameters Objects.md"},
+    {"id": "rigunit_binaryfloatop_rigunit_binaryfloatop", "label": "RigUnit_BinaryFloatOp", "file_type": "document", "source_file": "RigUnit_Divide_FloatFloat Objects.md"},
+    {"id": "rigvmfunction_mathintbase_rigvmfunction_mathintbase", "label": "RigVMFunction_MathIntBase", "file_type": "document", "source_file": "RigVMFunction_MathIntLessEqual Objects.md"},
+    {"id": "volume_volume", "label": "Volume", "file_type": "document", "source_file": "VisualLoggerFilterVolume Objects.md"},
+    {"id": "rigvmfunction_animbase_rigvmfunction_animbase", "label": "RigVMFunction_AnimBase", "file_type": "document", "source_file": "RigVMFunction_SecondsToFrames Objects.md"},
+    {"id": "animgraphnode_base_animgraphnode_base", "label": "AnimGraphNode_Base", "file_type": "document", "source_file": "AnimGraphNode_AssetPlayerBase Objects.md"},
+    {"id": "dataasset_dataasset", "label": "DataAsset", "file_type": "document", "source_file": "TargetingPreset Objects.md"},
+    {"id": "progressbar_progressbar", "label": "ProgressBar", "file_type": "document", "source_file": "EditorUtilityProgressBar Objects.md"},
+    {"id": "object_object", "label": "Object", "file_type": "document", "source_file": "ControlRigPoseProjectSettings Objects.md"},
+    {"id": "hairstrandsfactory_hairstrandsfactory", "label": "HairStrandsFactory", "file_type": "document", "source_file": "ReimportGroomCacheFactory Objects.md"},
+    {"id": "aeseditorsimplecommand_aeseditorsimplecommand", "label": "AesEditorSimpleCommand", "file_type": "document", "source_file": "AesTerrainEditorCommand__FlattenPolygon Objects.md"},
+    {"id": "rigunitmutable_rigunitmutable", "label": "RigUnitMutable", "file_type": "document", "source_file": "RigUnit_SetCurveValue Objects.md"}
+  ],
+  "edges": [
+    {"source": "aesdommanager_aesdommanager", "target": "worldsubsystem_worldsubsystem", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AesDomManager Objects.md", "weight": 1.0},
+    {"source": "aesdommanager_toggle_custom_dom_channel", "target": "aesdommanager_aesdommanager", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AesDomManager Objects.md", "weight": 1.0},
+    {"source": "aesdommanager_init", "target": "aesdommanager_aesdommanager", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AesDomManager Objects.md", "weight": 1.0},
+    {"source": "aesdommanager_get_custom_dom_channels_num", "target": "aesdommanager_aesdommanager", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AesDomManager Objects.md", "weight": 1.0},
+    {"source": "aesdommanager_get_custom_dom_channel_index", "target": "aesdommanager_aesdommanager", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AesDomManager Objects.md", "weight": 1.0},
+
+    {"source": "advancedcopycompletedevent_advancedcopycompletedevent", "target": "delegatebase_delegatebase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AdvancedCopyCompletedEvent Objects.md", "weight": 1.0},
+
+    {"source": "dataflowfieldfallofftype_dataflowfieldfallofftype", "target": "enumbase_enumbase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "DataflowFieldFalloffType Objects.md", "weight": 1.0},
+    {"source": "dataflowfieldfallofftype_none", "target": "dataflowfieldfallofftype_dataflowfieldfallofftype", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "DataflowFieldFalloffType Objects.md", "weight": 1.0},
+    {"source": "dataflowfieldfallofftype_linear", "target": "dataflowfieldfallofftype_dataflowfieldfallofftype", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "DataflowFieldFalloffType Objects.md", "weight": 1.0},
+    {"source": "dataflowfieldfallofftype_inverse", "target": "dataflowfieldfallofftype_dataflowfieldfallofftype", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "DataflowFieldFalloffType Objects.md", "weight": 1.0},
+    {"source": "dataflowfieldfallofftype_squared", "target": "dataflowfieldfallofftype_dataflowfieldfallofftype", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "DataflowFieldFalloffType Objects.md", "weight": 1.0},
+    {"source": "dataflowfieldfallofftype_logarithmic", "target": "dataflowfieldfallofftype_dataflowfieldfallofftype", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "DataflowFieldFalloffType Objects.md", "weight": 1.0},
+
+    {"source": "aeslandmarkeditorcommandparams_import_aeslandmarkeditorcommandparams_import", "target": "aeseditorcommandparams_aeseditorcommandparams", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AesLandmarkEditorCommandParams__Import Objects.md", "weight": 1.0},
+
+    {"source": "rigunit_fabrik_rigunit_fabrik", "target": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "RigUnit_FABRIK Objects.md", "weight": 1.0},
+    {"source": "rigunit_fabrik_rigunit_fabrik", "target": "rigunit_fabrik_fabrik_solver", "relation": "implements", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "RigUnit_FABRIK Objects.md", "weight": 1.0},
+
+    {"source": "moviescenetransformtrack_moviescenetransformtrack", "target": "moviescenepropertytrack_moviescenepropertytrack", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "MovieSceneTransformTrack Objects.md", "weight": 1.0},
+
+    {"source": "bodyinstance_bodyinstance", "target": "bodyinstancecore_bodyinstancecore", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "BodyInstance Objects.md", "weight": 1.0},
+    {"source": "bodyinstance_bodyinstance", "target": "bodyinstance_physics_simulation", "relation": "implements", "confidence": "INFERRED", "confidence_score": 0.95, "source_file": "BodyInstance Objects.md", "weight": 1.0},
+
+    {"source": "travelanimtype_travelanimtype", "target": "enumbase_enumbase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "TravelAnimType Objects.md", "weight": 1.0},
+    {"source": "travelanimtype_tat_linear", "target": "travelanimtype_travelanimtype", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "TravelAnimType Objects.md", "weight": 1.0},
+    {"source": "travelanimtype_tat_curve", "target": "travelanimtype_travelanimtype", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "TravelAnimType Objects.md", "weight": 1.0},
+    {"source": "travelanimtype_tat_custom_path", "target": "travelanimtype_travelanimtype", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "TravelAnimType Objects.md", "weight": 1.0},
+
+    {"source": "pcgselfpruningparameters_pcgselfpruningparameters", "target": "structbase_structbase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "PCGSelfPruningParameters Objects.md", "weight": 1.0},
+    {"source": "pcgselfpruningparameters_pcgselfpruningparameters", "target": "pcgselfpruningparameters_pruning_algorithm", "relation": "implements", "confidence": "INFERRED", "confidence_score": 0.85, "source_file": "PCGSelfPruningParameters Objects.md", "weight": 1.0},
+
+    {"source": "rigunit_divide_floatfloat_rigunit_divide_floatfloat", "target": "rigunit_binaryfloatop_rigunit_binaryfloatop", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "RigUnit_Divide_FloatFloat Objects.md", "weight": 1.0},
+
+    {"source": "rigvmfunction_mathintlessequal_rigvmfunction_mathintlessequal", "target": "rigvmfunction_mathintbase_rigvmfunction_mathintbase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "RigVMFunction_MathIntLessEqual Objects.md", "weight": 1.0},
+
+    {"source": "visualloggerfiltervolume_visualloggerfiltervolume", "target": "volume_volume", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "VisualLoggerFilterVolume Objects.md", "weight": 1.0},
+
+    {"source": "rigvmfunction_secondstoframes_rigvmfunction_secondstoframes", "target": "rigvmfunction_animbase_rigvmfunction_animbase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "RigVMFunction_SecondsToFrames Objects.md", "weight": 1.0},
+    {"source": "rigvmfunction_secondstoframes_rigvmfunction_secondstoframes", "target": "rigvmfunction_secondstoframes_time_conversion", "relation": "implements", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "RigVMFunction_SecondsToFrames Objects.md", "weight": 1.0},
+
+    {"source": "animgraphnode_assetplayerbase_animgraphnode_assetplayerbase", "target": "animgraphnode_base_animgraphnode_base", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AnimGraphNode_AssetPlayerBase Objects.md", "weight": 1.0},
+
+    {"source": "targetingpreset_targetingpreset", "target": "dataasset_dataasset", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "TargetingPreset Objects.md", "weight": 1.0},
+
+    {"source": "gislinedataforgenerator_gislinedataforgenerator", "target": "structbase_structbase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "GISLineDataForGenerator Objects.md", "weight": 1.0},
+
+    {"source": "editorutilityprogressbar_editorutilityprogressbar", "target": "progressbar_progressbar", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "EditorUtilityProgressBar Objects.md", "weight": 1.0},
+
+    {"source": "controlrigposeprojectsettings_controlrigposeprojectsettings", "target": "object_object", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "ControlRigPoseProjectSettings Objects.md", "weight": 1.0},
+
+    {"source": "rigvmfunction_getworldtime_rigvmfunction_getworldtime", "target": "rigvmfunction_animbase_rigvmfunction_animbase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "RigVMFunction__GetWorldTime Objects.md", "weight": 1.0},
+    {"source": "rigvmfunction_getworldtime_rigvmfunction_getworldtime", "target": "rigvmfunction_getworldtime_time_retrieval", "relation": "implements", "confidence": "INFERRED", "confidence_score": 0.9, "source_file": "RigVMFunction__GetWorldTime Objects.md", "weight": 1.0},
+
+    {"source": "reimportgroomcachefactory_reimportgroomcachefactory", "target": "hairstrandsfactory_hairstrandsfactory", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "ReimportGroomCacheFactory Objects.md", "weight": 1.0},
+
+    {"source": "aesterraineditorcommand_flattenpolygon_aesterraineditorcommand_flattenpolygon", "target": "aeseditorsimplecommand_aeseditorsimplecommand", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AesTerrainEditorCommand__FlattenPolygon Objects.md", "weight": 1.0},
+
+    {"source": "rigunit_setcurvevalue_rigunit_setcurvevalue", "target": "rigunitmutable_rigunitmutable", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "RigUnit_SetCurveValue Objects.md", "weight": 1.0},
+
+    {"source": "aesdommanager_aesdommanager", "target": "aeslandmarkeditorcommandparams_import_aeslandmarkeditorcommandparams_import", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.7, "source_file": "AesDomManager Objects.md", "weight": 1.0},
+    {"source": "aeslandmarkeditorcommandparams_import_aeslandmarkeditorcommandparams_import", "target": "aesterraineditorcommand_flattenpolygon_aesterraineditorcommand_flattenpolygon", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.75, "source_file": "AesLandmarkEditorCommandParams__Import Objects.md", "weight": 1.0},
+
+    {"source": "rigvmfunction_secondstoframes_rigvmfunction_secondstoframes", "target": "rigvmfunction_getworldtime_rigvmfunction_getworldtime", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.8, "source_file": "RigVMFunction_SecondsToFrames Objects.md", "weight": 1.0},
+
+    {"source": "rigunit_fabrik_rigunit_fabrik", "target": "rigunit_setcurvevalue_rigunit_setcurvevalue", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.65, "source_file": "RigUnit_FABRIK Objects.md", "weight": 1.0},
+
+    {"source": "dataflowfieldfallofftype_dataflowfieldfallofftype", "target": "travelanimtype_travelanimtype", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.6, "source_file": "DataflowFieldFalloffType Objects.md", "weight": 1.0}
+  ],
+  "hyperedges": [
+    {
+      "id": "aes_world_plugin_components",
+      "label": "AesWorld Plugin Components",
+      "nodes": [
+        "aesdommanager_aesdommanager",
+        "aeslandmarkeditorcommandparams_import_aeslandmarkeditorcommandparams_import",
+        "aesterraineditorcommand_flattenpolygon_aesterraineditorcommand_flattenpolygon"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesDomManager Objects.md"
+    },
+    {
+      "id": "rigvm_controlrig_functions",
+      "label": "RigVM ControlRig Function System",
+      "nodes": [
+        "rigunit_fabrik_rigunit_fabrik",
+        "rigunit_divide_floatfloat_rigunit_divide_floatfloat",
+        "rigvmfunction_mathintlessequal_rigvmfunction_mathintlessequal",
+        "rigvmfunction_secondstoframes_rigvmfunction_secondstoframes",
+        "rigvmfunction_getworldtime_rigvmfunction_getworldtime",
+        "rigunit_setcurvevalue_rigunit_setcurvevalue"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_FABRIK Objects.md"
+    },
+    {
+      "id": "unreal_engine_enum_types",
+      "label": "Unreal Engine Enumeration Types",
+      "nodes": [
+        "dataflowfieldfallofftype_dataflowfieldfallofftype",
+        "travelanimtype_travelanimtype"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DataflowFieldFalloffType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

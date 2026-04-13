@@ -1,0 +1,974 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathcolormake",
+      "label": "RigUnit MathColorMake",
+      "file_type": "document",
+      "source_file": "RigUnit_MathColorMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolormake",
+      "label": "RigVMFunction MathColorMake",
+      "file_type": "document",
+      "source_file": "RigUnit_MathColorMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interpcurvequat",
+      "label": "InterpCurveQuat",
+      "file_type": "document",
+      "source_file": "InterpCurveQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interpcuvepointquat",
+      "label": "InterpCurvePointQuat",
+      "file_type": "document",
+      "source_file": "InterpCurveQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputusersettings_mappingcontextregisteredwithsettings",
+      "label": "EnhancedInputUserSettings MappingContextRegisteredWithSettings",
+      "file_type": "document",
+      "source_file": "EnhancedInputUserSettings__MappingContextRegisteredWithSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmappingcontext",
+      "label": "InputMappingContext",
+      "file_type": "document",
+      "source_file": "EnhancedInputUserSettings__MappingContextRegisteredWithSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatatrigsettings",
+      "label": "PCGMetadataTrigSettings",
+      "file_type": "document",
+      "source_file": "PCGMetadataTrigSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatatrigoperation",
+      "label": "PCGMetadataTrigOperation",
+      "file_type": "document",
+      "source_file": "PCGMetadataTrigSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "behaviortree",
+      "label": "BehaviorTree",
+      "file_type": "document",
+      "source_file": "BehaviorTree Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blackboarddata",
+      "label": "BlackboardData",
+      "file_type": "document",
+      "source_file": "BehaviorTree Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multilineeditabletextbox",
+      "label": "MultiLineEditableTextBox",
+      "file_type": "document",
+      "source_file": "MultiLineEditableTextBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicontransformpassrendered",
+      "label": "DynamicOnTransformPassRendered",
+      "file_type": "document",
+      "source_file": "DynamicOnTransformPassRendered Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositingelement",
+      "label": "CompositingElement",
+      "file_type": "document",
+      "source_file": "DynamicOnTransformPassRendered Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelernodecomponent",
+      "label": "ModelerNodeComponent",
+      "file_type": "document",
+      "source_file": "ModelerNodeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnodedistancecrossfade",
+      "label": "SoundNodeDistanceCrossFade",
+      "file_type": "document",
+      "source_file": "SoundNodeDistanceCrossFade Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnode",
+      "label": "SoundNode",
+      "file_type": "document",
+      "source_file": "SoundNodeDistanceCrossFade Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webtoimagestate",
+      "label": "WebToImageState",
+      "file_type": "document",
+      "source_file": "WebToImageState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnodeigidbodylibrary",
+      "label": "AnimNodeRigidBodyLibrary",
+      "file_type": "document",
+      "source_file": "AnimNodeRigidBodyLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigidbodyanimnodereference",
+      "label": "RigidBodyAnimNodeReference",
+      "file_type": "document",
+      "source_file": "AnimNodeRigidBodyLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsasset",
+      "label": "PhysicsAsset",
+      "file_type": "document",
+      "source_file": "AnimNodeRigidBodyLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolormul",
+      "label": "RigVMFunction MathColorMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathColorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linearcolor",
+      "label": "LinearColor",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathColorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguewave",
+      "label": "DialogueWave",
+      "file_type": "document",
+      "source_file": "DialogueWave Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguecontextmapping",
+      "label": "DialogueContextMapping",
+      "file_type": "document",
+      "source_file": "DialogueWave Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onoverallloudnessresults",
+      "label": "OnOverallLoudnessResults",
+      "file_type": "document",
+      "source_file": "OnOverallLoudnessResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "loudnessresults",
+      "label": "LoudnessResults",
+      "file_type": "document",
+      "source_file": "OnOverallLoudnessResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolvector2d",
+      "label": "RigUnit SetControlVector2D",
+      "file_type": "document",
+      "source_file": "RigUnit_SetControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit_SetControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d",
+      "label": "Vector2D",
+      "file_type": "document",
+      "source_file": "RigUnit_SetControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gisvectorentity",
+      "label": "GisVectorEntity",
+      "file_type": "document",
+      "source_file": "GisVectorEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdevicetriggereffect",
+      "label": "InputDeviceTriggerEffect",
+      "file_type": "document",
+      "source_file": "InputDeviceTriggerEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "devicetriggerbasedata",
+      "label": "DeviceTriggerBaseData",
+      "file_type": "document",
+      "source_file": "InputDeviceTriggerEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectormakerelative",
+      "label": "RigUnit MathVectorMakeRelative",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormakerelative",
+      "label": "RigVMFunction MathVectorMakeRelative",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkgamelayertype",
+      "label": "UIFrameworkGameLayerType",
+      "file_type": "document",
+      "source_file": "UIFrameworkGameLayerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxin",
+      "label": "MaterialExpressionMaterialXIn",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXIn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXIn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadeidvalueresult",
+      "label": "RoadEidValueResult",
+      "file_type": "document",
+      "source_file": "RoadEidValueResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpsceneschangeinfo",
+      "label": "WdpSceneChangeInfo",
+      "file_type": "document",
+      "source_file": "RoadEidValueResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecontrolrigparametertrack",
+      "label": "MovieSceneControlRigParameterTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneControlRigParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenenameabletrack",
+      "label": "MovieSceneNameableTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneControlRigParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig",
+      "label": "ControlRig",
+      "file_type": "document",
+      "source_file": "MovieSceneControlRigParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletal_mesh_animation",
+      "label": "Skeletal Mesh Animation",
+      "file_type": "document",
+      "source_file": "MovieSceneControlRigParameterTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distance_based_audio",
+      "label": "Distance-Based Audio",
+      "file_type": "document",
+      "source_file": "SoundNodeDistanceCrossFade Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternion_interpolation",
+      "label": "Quaternion Interpolation",
+      "file_type": "document",
+      "source_file": "InterpCurveQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_control_system",
+      "label": "Rig Control System",
+      "file_type": "document",
+      "source_file": "RigUnit_SetControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "behavior_tree_system",
+      "label": "Behavior Tree System",
+      "file_type": "document",
+      "source_file": "BehaviorTree Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ui_text_input",
+      "label": "UI Text Input",
+      "file_type": "document",
+      "source_file": "MultiLineEditableTextBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigid_body_physics_animation",
+      "label": "Rigid Body Physics Animation",
+      "file_type": "document",
+      "source_file": "AnimNodeRigidBodyLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_metadata_operations",
+      "label": "PCG Metadata Operations",
+      "file_type": "document",
+      "source_file": "PCGMetadataTrigSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_compositing",
+      "label": "Material Compositing",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXIn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathcolormake",
+      "target": "rigvmfunction_mathcolormake",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathColorMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interpcurvequat",
+      "target": "interpcuvepointquat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterpCurveQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interpcurvequat",
+      "target": "quaternion_interpolation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "InterpCurveQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputusersettings_mappingcontextregisteredwithsettings",
+      "target": "inputmappingcontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputUserSettings__MappingContextRegisteredWithSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatatrigsettings",
+      "target": "pcgmetadatatrigoperation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataTrigSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatatrigsettings",
+      "target": "pcg_metadata_operations",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGMetadataTrigSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "behaviortree",
+      "target": "blackboarddata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BehaviorTree Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "behaviortree",
+      "target": "behavior_tree_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "BehaviorTree Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "multilineeditabletextbox",
+      "target": "ui_text_input",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MultiLineEditableTextBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicontransformpassrendered",
+      "target": "compositingelement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicOnTransformPassRendered Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodedistancecrossfade",
+      "target": "soundnode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundNodeDistanceCrossFade Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodedistancecrossfade",
+      "target": "distance_based_audio",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "SoundNodeDistanceCrossFade Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnodeigidbodylibrary",
+      "target": "rigidbodyanimnodereference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNodeRigidBodyLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnodeigidbodylibrary",
+      "target": "physicsasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNodeRigidBodyLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnodeigidbodylibrary",
+      "target": "rigid_body_physics_animation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AnimNodeRigidBodyLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcolormul",
+      "target": "linearcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathColorMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dialoguewave",
+      "target": "dialoguecontextmapping",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DialogueWave Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onoverallloudnessresults",
+      "target": "loudnessresults",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnOverallLoudnessResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector2d",
+      "target": "controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector2d",
+      "target": "vector2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector2d",
+      "target": "rig_control_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetControlVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputdevicetriggereffect",
+      "target": "devicetriggerbasedata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceTriggerEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormakerelative",
+      "target": "rigvmfunction_mathvectormakerelative",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormakerelative",
+      "target": "vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxin",
+      "target": "materialexpression",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXIn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxin",
+      "target": "material_compositing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionMaterialXIn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadeidvalueresult",
+      "target": "wdpsceneschangeinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadEidValueResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecontrolrigparametertrack",
+      "target": "moviescenenameabletrack",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneControlRigParameterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecontrolrigparametertrack",
+      "target": "controlrig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneControlRigParameterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecontrolrigparametertrack",
+      "target": "skeletal_mesh_animation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieSceneControlRigParameterTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector2d",
+      "target": "moviescenecontrolrigparametertrack",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SetControlVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcolormul",
+      "target": "rigvmfunction_mathcolormake",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathColorMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormakerelative",
+      "target": "rigunit_setcontrolvector2d",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodedistancecrossfade",
+      "target": "onoverallloudnessresults",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "SoundNodeDistanceCrossFade Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnodeigidbodylibrary",
+      "target": "moviescenecontrolrigparametertrack",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimNodeRigidBodyLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_vm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigunit_mathcolormake",
+        "rigvmfunction_mathcolormake",
+        "rigvmfunction_mathcolormul",
+        "rigunit_mathvectormakerelative",
+        "rigvmfunction_mathvectormakerelative"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathColorMake Objects.md"
+    },
+    {
+      "id": "animation_control_systems",
+      "label": "Animation Control Systems",
+      "nodes": [
+        "rigunit_setcontrolvector2d",
+        "animnodeigidbodylibrary",
+        "moviescenecontrolrigparametertrack",
+        "controlrig"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_SetControlVector2D Objects.md"
+    },
+    {
+      "id": "audio_processing_system",
+      "label": "Audio Processing System",
+      "nodes": [
+        "soundnodedistancecrossfade",
+        "dialoguewave",
+        "onoverallloudnessresults"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SoundNodeDistanceCrossFade Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

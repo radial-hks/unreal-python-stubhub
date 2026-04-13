@@ -1,0 +1,1131 @@
+{
+  "nodes": [
+    {
+      "id": "ControlRigBlueprintFactory",
+      "type": "class",
+      "label": "ControlRigBlueprintFactory",
+      "properties": {
+        "inherits_from": "Factory",
+        "module": "ControlRigEditor",
+        "plugin": "ControlRig",
+        "file": "ControlRigBlueprintFactory.h",
+        "description": "Control Rig Blueprint Factory"
+      }
+    },
+    {
+      "id": "create_new_control_rig_asset",
+      "type": "method",
+      "label": "create_new_control_rig_asset",
+      "properties": {
+        "returns": "ControlRigBlueprint",
+        "parameters": ["desired_package_path", "modular_rig"],
+        "static": true
+      }
+    },
+    {
+      "id": "create_control_rig_from_skeletal_mesh_or_skeleton",
+      "type": "method",
+      "label": "create_control_rig_from_skeletal_mesh_or_skeleton",
+      "properties": {
+        "returns": "ControlRigBlueprint",
+        "parameters": ["selected_object", "modular_rig"],
+        "static": true
+      }
+    },
+    {
+      "id": "PCGProceduralISMComponent",
+      "type": "class",
+      "label": "PCGProceduralISMComponent",
+      "properties": {
+        "inherits_from": "StaticMeshComponent",
+        "module": "PCG",
+        "plugin": "PCG",
+        "file": "PCGProceduralISMComponent.h",
+        "description": "Experimental instanced primitive that is not backed by CPU instance data. Instance data must be written direct to the GPU scene."
+      }
+    },
+    {
+      "id": "set_num_instances",
+      "type": "method",
+      "label": "set_num_instances",
+      "properties": {
+        "returns": "None",
+        "parameters": ["num_instances"]
+      }
+    },
+    {
+      "id": "set_num_custom_data_floats",
+      "type": "method",
+      "label": "set_num_custom_data_floats",
+      "properties": {
+        "returns": "None",
+        "parameters": ["num_custom_data_floats"]
+      }
+    },
+    {
+      "id": "set_local_bounds",
+      "type": "method",
+      "label": "set_local_bounds",
+      "properties": {
+        "returns": "None",
+        "parameters": ["local_bounds"]
+      }
+    },
+    {
+      "id": "set_cull_distances",
+      "type": "method",
+      "label": "set_cull_distances",
+      "properties": {
+        "returns": "None",
+        "parameters": ["start_cull_distance", "end_cull_distance"]
+      }
+    },
+    {
+      "id": "get_num_instances",
+      "type": "method",
+      "label": "get_num_instances",
+      "properties": {
+        "returns": "int32"
+      }
+    },
+    {
+      "id": "clear_instances",
+      "type": "method",
+      "label": "clear_instances",
+      "properties": {
+        "returns": "None"
+      }
+    },
+    {
+      "id": "ControlRigComponentSpace",
+      "type": "enum",
+      "label": "ControlRigComponentSpace",
+      "properties": {
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "ControlRigComponent.h",
+        "description": "Enum for controlling which space a transform is applied in."
+      }
+    },
+    {
+      "id": "WORLD_SPACE",
+      "type": "enum_value",
+      "label": "WORLD_SPACE",
+      "properties": {
+        "value": 0,
+        "description": "World space transform"
+      }
+    },
+    {
+      "id": "ACTOR_SPACE",
+      "type": "enum_value",
+      "label": "ACTOR_SPACE",
+      "properties": {
+        "value": 1,
+        "description": "The space below the actor's root transform"
+      }
+    },
+    {
+      "id": "COMPONENT_SPACE",
+      "type": "enum_value",
+      "label": "COMPONENT_SPACE",
+      "properties": {
+        "value": 2,
+        "description": "The space defined by the Control Rig Component"
+      }
+    },
+    {
+      "id": "RIG_SPACE",
+      "type": "enum_value",
+      "label": "RIG_SPACE",
+      "properties": {
+        "value": 3,
+        "description": "The space within the rig. Currently the same as Component Space. Inside of control rig this is called 'Global Space'."
+      }
+    },
+    {
+      "id": "LOCAL_SPACE",
+      "type": "enum_value",
+      "label": "LOCAL_SPACE",
+      "properties": {
+        "value": 4,
+        "description": "The space defined by each element's parent (bone, control etc)"
+      }
+    },
+    {
+      "id": "Struct",
+      "type": "class",
+      "label": "Struct",
+      "properties": {
+        "inherits_from": "Field",
+        "module": "CoreUObject"
+      }
+    },
+    {
+      "id": "RigUnit_DebugBase",
+      "type": "class",
+      "label": "RigUnit_DebugBase",
+      "properties": {
+        "inherits_from": "RigUnit",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_DebugBase.h",
+        "description": "Rig Unit Debug Base"
+      }
+    },
+    {
+      "id": "SkyCreatorWindSettings",
+      "type": "class",
+      "label": "SkyCreatorWindSettings",
+      "properties": {
+        "inherits_from": "StructBase",
+        "module": "SkyCreatorPlugin",
+        "plugin": "SkyCreatorPlugin",
+        "file": "SkyCreatorWeatherSettings.h",
+        "description": "Sky Creator Wind Settings"
+      }
+    },
+    {
+      "id": "cloud_wind_direction",
+      "type": "property",
+      "label": "cloud_wind_direction",
+      "properties": {
+        "type": "float",
+        "description": "Wind direction angle of Low Cloud layer in degrees."
+      }
+    },
+    {
+      "id": "cloud_wind_speed",
+      "type": "property",
+      "label": "cloud_wind_speed",
+      "properties": {
+        "type": "float",
+        "description": "Wind speed of Low Cloud layer in m/s."
+      }
+    },
+    {
+      "id": "precipitation_wind_direction",
+      "type": "property",
+      "label": "precipitation_wind_direction",
+      "properties": {
+        "type": "float",
+        "description": "Wind direction angle of precipitation particles in degrees."
+      }
+    },
+    {
+      "id": "precipitation_wind_speed",
+      "type": "property",
+      "label": "precipitation_wind_speed",
+      "properties": {
+        "type": "float",
+        "description": "Wind speed of precipitation particles."
+      }
+    },
+    {
+      "id": "PoseSearchMirrorOption",
+      "type": "enum",
+      "label": "PoseSearchMirrorOption",
+      "properties": {
+        "module": "PoseSearch",
+        "plugin": "PoseSearch",
+        "file": "PoseSearchDatabase.h",
+        "description": "EPose Search Mirror Option"
+      }
+    },
+    {
+      "id": "UNMIRRORED_ONLY",
+      "type": "enum_value",
+      "label": "UNMIRRORED_ONLY",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "MIRRORED_ONLY",
+      "type": "enum_value",
+      "label": "MIRRORED_ONLY",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "UNMIRRORED_AND_MIRRORED",
+      "type": "enum_value",
+      "label": "UNMIRRORED_AND_MIRRORED",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "HLODProxyDesc",
+      "type": "class",
+      "label": "HLODProxyDesc",
+      "properties": {
+        "inherits_from": "Object",
+        "module": "Engine",
+        "file": "HLODProxyDesc.h",
+        "description": "Describe a LODActor"
+      }
+    },
+    {
+      "id": "AnimNode_LiveLinkPose",
+      "type": "class",
+      "label": "AnimNode_LiveLinkPose",
+      "properties": {
+        "inherits_from": "AnimNode_Base",
+        "module": "LiveLinkAnimationCore",
+        "file": "AnimNode_LiveLinkPose.h",
+        "description": "Anim Node Live Link Pose"
+      }
+    },
+    {
+      "id": "input_pose",
+      "type": "property",
+      "label": "input_pose",
+      "properties": {
+        "type": "PoseLink"
+      }
+    },
+    {
+      "id": "live_link_subject_name",
+      "type": "property",
+      "label": "live_link_subject_name",
+      "properties": {
+        "type": "LiveLinkSubjectName"
+      }
+    },
+    {
+      "id": "do_live_link_evaluation",
+      "type": "property",
+      "label": "do_live_link_evaluation",
+      "properties": {
+        "type": "bool"
+      }
+    },
+    {
+      "id": "retarget_asset",
+      "type": "property",
+      "label": "retarget_asset",
+      "properties": {
+        "type": "Class"
+      }
+    },
+    {
+      "id": "RigModuleSettings",
+      "type": "class",
+      "label": "RigModuleSettings",
+      "properties": {
+        "inherits_from": "StructBase",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigModuleDefines.h",
+        "description": "Rig Module Settings"
+      }
+    },
+    {
+      "id": "identifier",
+      "type": "property",
+      "label": "identifier",
+      "properties": {
+        "type": "RigModuleIdentifier",
+        "description": "The identifier used to retrieve the module in the module library"
+      }
+    },
+    {
+      "id": "category",
+      "type": "property",
+      "label": "category",
+      "properties": {
+        "type": "str",
+        "description": "The category of the module"
+      }
+    },
+    {
+      "id": "keywords",
+      "type": "property",
+      "label": "keywords",
+      "properties": {
+        "type": "str",
+        "description": "The keywords of the module"
+      }
+    },
+    {
+      "id": "description",
+      "type": "property",
+      "label": "description",
+      "properties": {
+        "type": "str",
+        "description": "The description of the module"
+      }
+    },
+    {
+      "id": "RangeAPI",
+      "type": "class",
+      "label": "RangeAPI",
+      "properties": {
+        "inherits_from": "ApiClassBase",
+        "module": "CoveringAPIDefine",
+        "plugin": "CoveringAPI",
+        "file": "RangeAPI.h",
+        "description": "Range API"
+      }
+    },
+    {
+      "id": "get_range_info",
+      "type": "method",
+      "label": "get_range_info",
+      "properties": {
+        "returns": "GetRangeInfoRes or None",
+        "parameters": ["range_eid_parms"]
+      }
+    },
+    {
+      "id": "Rotator3dCameraVariable",
+      "type": "class",
+      "label": "Rotator3dCameraVariable",
+      "properties": {
+        "inherits_from": "CameraVariableAsset",
+        "module": "GameplayCameras",
+        "plugin": "GameplayCameras",
+        "file": "CameraVariableAssets.h",
+        "description": "Rotator3d camera variable."
+      }
+    },
+    {
+      "id": "default_value",
+      "type": "property",
+      "label": "default_value",
+      "properties": {
+        "type": "Rotator3d",
+        "description": "The default value of this variable."
+      }
+    },
+    {
+      "id": "auto_reset",
+      "type": "property",
+      "label": "auto_reset",
+      "properties": {
+        "type": "bool",
+        "description": "Whether this variable auto-resets to its default value every frame."
+      }
+    },
+    {
+      "id": "MotionExtractor_MathOperation",
+      "type": "enum",
+      "label": "MotionExtractor_MathOperation",
+      "properties": {
+        "module": "AnimationModifierLibrary",
+        "plugin": "AnimationModifierLibrary",
+        "file": "MotionExtractorTypes.h",
+        "description": "Math operations that can be applied to the extracted value before add it to the curve"
+      }
+    },
+    {
+      "id": "NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "ADDITION",
+      "type": "enum_value",
+      "label": "ADDITION",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "SUBTRACTION",
+      "type": "enum_value",
+      "label": "SUBTRACTION",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "DIVISION",
+      "type": "enum_value",
+      "label": "DIVISION",
+      "properties": {
+        "value": 3
+      }
+    },
+    {
+      "id": "MULTIPLICATION",
+      "type": "enum_value",
+      "label": "MULTIPLICATION",
+      "properties": {
+        "value": 4
+      }
+    },
+    {
+      "id": "DMMaterialValueFloat3RPY",
+      "type": "class",
+      "label": "DMMaterialValueFloat3RPY",
+      "properties": {
+        "inherits_from": "DMMaterialValueFloat",
+        "module": "DynamicMaterial",
+        "plugin": "DynamicMaterial",
+        "file": "DMMaterialValueFloat3RPY.h",
+        "description": "Component representing an FRotator value. Manages its own parameter."
+      }
+    },
+    {
+      "id": "set_value",
+      "type": "method",
+      "label": "set_value",
+      "properties": {
+        "returns": "None",
+        "parameters": ["value"]
+      }
+    },
+    {
+      "id": "get_value",
+      "type": "method",
+      "label": "get_value",
+      "properties": {
+        "returns": "Rotator"
+      }
+    },
+    {
+      "id": "ForceFeedbackAttenuationSettings",
+      "type": "class",
+      "label": "ForceFeedbackAttenuationSettings",
+      "properties": {
+        "inherits_from": "BaseAttenuationSettings",
+        "module": "Engine",
+        "file": "ForceFeedbackAttenuation.h",
+        "description": "The struct for defining the properties used when determining attenuation for a force feedback effect"
+      }
+    },
+    {
+      "id": "attenuation_shape",
+      "type": "property",
+      "label": "attenuation_shape",
+      "properties": {
+        "type": "AttenuationShape",
+        "description": "The shape of the non-custom attenuation method."
+      }
+    },
+    {
+      "id": "falloff_distance",
+      "type": "property",
+      "label": "falloff_distance",
+      "properties": {
+        "type": "float",
+        "description": "The distance over which volume attenuation occurs."
+      }
+    },
+    {
+      "id": "GameplayEffectCustomExecutionOutput",
+      "type": "class",
+      "label": "GameplayEffectCustomExecutionOutput",
+      "properties": {
+        "inherits_from": "StructBase",
+        "module": "GameplayAbilities",
+        "plugin": "GameplayAbilities",
+        "file": "GameplayEffectExecutionCalculation.h",
+        "description": "Struct representing the output of a custom gameplay effect execution."
+      }
+    },
+    {
+      "id": "LevelSequenceBurnInInitSettings",
+      "type": "class",
+      "label": "LevelSequenceBurnInInitSettings",
+      "properties": {
+        "inherits_from": "Object",
+        "module": "LevelSequence",
+        "file": "LevelSequenceActor.h",
+        "description": "Level Sequence Burn in Init Settings"
+      }
+    },
+    {
+      "id": "NiagaraStackItem",
+      "type": "class",
+      "label": "NiagaraStackItem",
+      "properties": {
+        "inherits_from": "NiagaraStackEntry",
+        "module": "NiagaraEditor",
+        "plugin": "Niagara",
+        "file": "NiagaraStackItem.h",
+        "description": "Niagara Stack Item"
+      }
+    },
+    {
+      "id": "TestSpatialUtilsActor",
+      "type": "class",
+      "label": "TestSpatialUtilsActor",
+      "properties": {
+        "inherits_from": "Actor",
+        "module": "MagicGISCore",
+        "plugin": "GISDataAPI",
+        "file": "TestSpatialUtilsActor.h",
+        "description": "Test Spatial Utils Actor"
+      }
+    },
+    {
+      "id": "cartesian",
+      "type": "property",
+      "label": "cartesian",
+      "properties": {
+        "type": "Vector"
+      }
+    },
+    {
+      "id": "geo_position",
+      "type": "property",
+      "label": "geo_position",
+      "properties": {
+        "type": "Vector"
+      }
+    },
+    {
+      "id": "EditorPerProjectUserSettings",
+      "type": "class",
+      "label": "EditorPerProjectUserSettings",
+      "properties": {
+        "inherits_from": "Object",
+        "module": "UnrealEd",
+        "file": "EditorPerProjectUserSettings.h",
+        "description": "Editor Per Project User Settings"
+      }
+    },
+    {
+      "id": "always_build_uat",
+      "type": "property",
+      "label": "always_build_uat",
+      "properties": {
+        "type": "bool",
+        "description": "Always build UAT\\UBT before launching the game. It will decrease iteration times if disabled"
+      }
+    },
+    {
+      "id": "automatically_hot_reload_new_classes",
+      "type": "property",
+      "label": "automatically_hot_reload_new_classes",
+      "properties": {
+        "type": "bool",
+        "description": "If enabled, any newly added classes will be automatically compiled and trigger a hot-reload of the module they were added to"
+      }
+    },
+    {
+      "id": "QuitMatchCallbackProxy",
+      "type": "class",
+      "label": "QuitMatchCallbackProxy",
+      "properties": {
+        "inherits_from": "OnlineBlueprintCallProxyBase",
+        "module": "OnlineSubsystemUtils",
+        "plugin": "OnlineSubsystemUtils",
+        "file": "QuitMatchCallbackProxy.h",
+        "description": "Quit Match Callback Proxy"
+      }
+    },
+    {
+      "id": "on_success",
+      "type": "property",
+      "label": "on_success",
+      "properties": {
+        "type": "EmptyOnlineDelegate",
+        "description": "Called when there is a successful query"
+      }
+    },
+    {
+      "id": "on_failure",
+      "type": "property",
+      "label": "on_failure",
+      "properties": {
+        "type": "EmptyOnlineDelegate",
+        "description": "Called when there is an unsuccessful query"
+      }
+    },
+    {
+      "id": "PaperTerrainComponent",
+      "type": "class",
+      "label": "PaperTerrainComponent",
+      "properties": {
+        "inherits_from": "PrimitiveComponent",
+        "module": "Paper2D",
+        "plugin": "Paper2D",
+        "file": "PaperTerrainComponent.h",
+        "description": "The terrain visualization component for an associated spline component. This takes a 2D terrain material and instances sprite geometry along the spline path."
+      }
+    },
+    {
+      "id": "terrain_material",
+      "type": "property",
+      "label": "terrain_material",
+      "properties": {
+        "type": "PaperTerrainMaterial",
+        "description": "The terrain material to apply to this component (set of rules for which sprites are used on different surfaces or the interior)"
+      }
+    },
+    {
+      "id": "terrain_color",
+      "type": "property",
+      "label": "terrain_color",
+      "properties": {
+        "type": "LinearColor",
+        "description": "The color of the terrain (passed to the sprite material as a vertex color)"
+      }
+    },
+    {
+      "id": "set_terrain_color",
+      "type": "method",
+      "label": "set_terrain_color",
+      "properties": {
+        "returns": "None",
+        "parameters": ["new_color"]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "ControlRigBlueprintFactory",
+      "target": "Factory",
+      "label": "inherits_from"
+    },
+    {
+      "source": "ControlRigBlueprintFactory",
+      "target": "create_new_control_rig_asset",
+      "label": "has_method"
+    },
+    {
+      "source": "ControlRigBlueprintFactory",
+      "target": "create_control_rig_from_skeletal_mesh_or_skeleton",
+      "label": "has_method"
+    },
+    {
+      "source": "PCGProceduralISMComponent",
+      "target": "StaticMeshComponent",
+      "label": "inherits_from"
+    },
+    {
+      "source": "PCGProceduralISMComponent",
+      "target": "set_num_instances",
+      "label": "has_method"
+    },
+    {
+      "source": "PCGProceduralISMComponent",
+      "target": "set_num_custom_data_floats",
+      "label": "has_method"
+    },
+    {
+      "source": "PCGProceduralISMComponent",
+      "target": "set_local_bounds",
+      "label": "has_method"
+    },
+    {
+      "source": "PCGProceduralISMComponent",
+      "target": "set_cull_distances",
+      "label": "has_method"
+    },
+    {
+      "source": "PCGProceduralISMComponent",
+      "target": "get_num_instances",
+      "label": "has_method"
+    },
+    {
+      "source": "PCGProceduralISMComponent",
+      "target": "clear_instances",
+      "label": "has_method"
+    },
+    {
+      "source": "ControlRigComponentSpace",
+      "target": "WORLD_SPACE",
+      "label": "has_value"
+    },
+    {
+      "source": "ControlRigComponentSpace",
+      "target": "ACTOR_SPACE",
+      "label": "has_value"
+    },
+    {
+      "source": "ControlRigComponentSpace",
+      "target": "COMPONENT_SPACE",
+      "label": "has_value"
+    },
+    {
+      "source": "ControlRigComponentSpace",
+      "target": "RIG_SPACE",
+      "label": "has_value"
+    },
+    {
+      "source": "ControlRigComponentSpace",
+      "target": "LOCAL_SPACE",
+      "label": "has_value"
+    },
+    {
+      "source": "Struct",
+      "target": "Field",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigUnit_DebugBase",
+      "target": "RigUnit",
+      "label": "inherits_from"
+    },
+    {
+      "source": "SkyCreatorWindSettings",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "SkyCreatorWindSettings",
+      "target": "cloud_wind_direction",
+      "label": "has_property"
+    },
+    {
+      "source": "SkyCreatorWindSettings",
+      "target": "cloud_wind_speed",
+      "label": "has_property"
+    },
+    {
+      "source": "SkyCreatorWindSettings",
+      "target": "precipitation_wind_direction",
+      "label": "has_property"
+    },
+    {
+      "source": "SkyCreatorWindSettings",
+      "target": "precipitation_wind_speed",
+      "label": "has_property"
+    },
+    {
+      "source": "PoseSearchMirrorOption",
+      "target": "UNMIRRORED_ONLY",
+      "label": "has_value"
+    },
+    {
+      "source": "PoseSearchMirrorOption",
+      "target": "MIRRORED_ONLY",
+      "label": "has_value"
+    },
+    {
+      "source": "PoseSearchMirrorOption",
+      "target": "UNMIRRORED_AND_MIRRORED",
+      "label": "has_value"
+    },
+    {
+      "source": "HLODProxyDesc",
+      "target": "Object",
+      "label": "inherits_from"
+    },
+    {
+      "source": "AnimNode_LiveLinkPose",
+      "target": "AnimNode_Base",
+      "label": "inherits_from"
+    },
+    {
+      "source": "AnimNode_LiveLinkPose",
+      "target": "input_pose",
+      "label": "has_property"
+    },
+    {
+      "source": "AnimNode_LiveLinkPose",
+      "target": "live_link_subject_name",
+      "label": "has_property"
+    },
+    {
+      "source": "AnimNode_LiveLinkPose",
+      "target": "do_live_link_evaluation",
+      "label": "has_property"
+    },
+    {
+      "source": "AnimNode_LiveLinkPose",
+      "target": "retarget_asset",
+      "label": "has_property"
+    },
+    {
+      "source": "RigModuleSettings",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RigModuleSettings",
+      "target": "identifier",
+      "label": "has_property"
+    },
+    {
+      "source": "RigModuleSettings",
+      "target": "category",
+      "label": "has_property"
+    },
+    {
+      "source": "RigModuleSettings",
+      "target": "keywords",
+      "label": "has_property"
+    },
+    {
+      "source": "RigModuleSettings",
+      "target": "description",
+      "label": "has_property"
+    },
+    {
+      "source": "RangeAPI",
+      "target": "ApiClassBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "RangeAPI",
+      "target": "get_range_info",
+      "label": "has_method"
+    },
+    {
+      "source": "Rotator3dCameraVariable",
+      "target": "CameraVariableAsset",
+      "label": "inherits_from"
+    },
+    {
+      "source": "Rotator3dCameraVariable",
+      "target": "default_value",
+      "label": "has_property"
+    },
+    {
+      "source": "Rotator3dCameraVariable",
+      "target": "auto_reset",
+      "label": "has_property"
+    },
+    {
+      "source": "MotionExtractor_MathOperation",
+      "target": "NONE",
+      "label": "has_value"
+    },
+    {
+      "source": "MotionExtractor_MathOperation",
+      "target": "ADDITION",
+      "label": "has_value"
+    },
+    {
+      "source": "MotionExtractor_MathOperation",
+      "target": "SUBTRACTION",
+      "label": "has_value"
+    },
+    {
+      "source": "MotionExtractor_MathOperation",
+      "target": "DIVISION",
+      "label": "has_value"
+    },
+    {
+      "source": "MotionExtractor_MathOperation",
+      "target": "MULTIPLICATION",
+      "label": "has_value"
+    },
+    {
+      "source": "DMMaterialValueFloat3RPY",
+      "target": "DMMaterialValueFloat",
+      "label": "inherits_from"
+    },
+    {
+      "source": "DMMaterialValueFloat3RPY",
+      "target": "set_value",
+      "label": "has_method"
+    },
+    {
+      "source": "DMMaterialValueFloat3RPY",
+      "target": "get_value",
+      "label": "has_method"
+    },
+    {
+      "source": "ForceFeedbackAttenuationSettings",
+      "target": "BaseAttenuationSettings",
+      "label": "inherits_from"
+    },
+    {
+      "source": "ForceFeedbackAttenuationSettings",
+      "target": "attenuation_shape",
+      "label": "has_property"
+    },
+    {
+      "source": "ForceFeedbackAttenuationSettings",
+      "target": "falloff_distance",
+      "label": "has_property"
+    },
+    {
+      "source": "GameplayEffectCustomExecutionOutput",
+      "target": "StructBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "LevelSequenceBurnInInitSettings",
+      "target": "Object",
+      "label": "inherits_from"
+    },
+    {
+      "source": "NiagaraStackItem",
+      "target": "NiagaraStackEntry",
+      "label": "inherits_from"
+    },
+    {
+      "source": "TestSpatialUtilsActor",
+      "target": "Actor",
+      "label": "inherits_from"
+    },
+    {
+      "source": "TestSpatialUtilsActor",
+      "target": "cartesian",
+      "label": "has_property"
+    },
+    {
+      "source": "TestSpatialUtilsActor",
+      "target": "geo_position",
+      "label": "has_property"
+    },
+    {
+      "source": "EditorPerProjectUserSettings",
+      "target": "Object",
+      "label": "inherits_from"
+    },
+    {
+      "source": "EditorPerProjectUserSettings",
+      "target": "always_build_uat",
+      "label": "has_property"
+    },
+    {
+      "source": "EditorPerProjectUserSettings",
+      "target": "automatically_hot_reload_new_classes",
+      "label": "has_property"
+    },
+    {
+      "source": "QuitMatchCallbackProxy",
+      "target": "OnlineBlueprintCallProxyBase",
+      "label": "inherits_from"
+    },
+    {
+      "source": "QuitMatchCallbackProxy",
+      "target": "on_success",
+      "label": "has_property"
+    },
+    {
+      "source": "QuitMatchCallbackProxy",
+      "target": "on_failure",
+      "label": "has_property"
+    },
+    {
+      "source": "PaperTerrainComponent",
+      "target": "PrimitiveComponent",
+      "label": "inherits_from"
+    },
+    {
+      "source": "PaperTerrainComponent",
+      "target": "terrain_material",
+      "label": "has_property"
+    },
+    {
+      "source": "PaperTerrainComponent",
+      "target": "terrain_color",
+      "label": "has_property"
+    },
+    {
+      "source": "PaperTerrainComponent",
+      "target": "set_terrain_color",
+      "label": "has_method"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_plugin_classes",
+      "label": "ControlRig Plugin Classes",
+      "nodes": ["ControlRigBlueprintFactory", "ControlRigComponentSpace", "RigUnit_DebugBase", "RigModuleSettings"],
+      "properties": {
+        "plugin": "ControlRig"
+      }
+    },
+    {
+      "id": "animation_related_classes",
+      "label": "Animation Related Classes",
+      "nodes": ["AnimNode_LiveLinkPose", "MotionExtractor_MathOperation"],
+      "properties": {
+        "domain": "Animation"
+      }
+    },
+    {
+      "id": "camera_systems",
+      "label": "Camera Systems",
+      "nodes": ["Rotator3dCameraVariable"],
+      "properties": {
+        "domain": "Camera"
+      }
+    },
+    {
+      "id": "network_multiplayer",
+      "label": "Network/Multiplayer Systems",
+      "nodes": ["QuitMatchCallbackProxy"],
+      "properties": {
+        "domain": "Networking"
+      }
+    },
+    {
+      "id": "material_and_rendering",
+      "label": "Material and Rendering",
+      "nodes": ["DMMaterialValueFloat3RPY", "PCGProceduralISMComponent", "PaperTerrainComponent"],
+      "properties": {
+        "domain": "Rendering"
+      }
+    },
+    {
+      "id": "gameplay_abilities",
+      "label": "Gameplay Abilities System",
+      "nodes": ["GameplayEffectCustomExecutionOutput"],
+      "properties": {
+        "domain": "Gameplay"
+      }
+    },
+    {
+      "id": "vfx_and_particles",
+      "label": "VFX and Particle Systems",
+      "nodes": ["NiagaraStackItem"],
+      "properties": {
+        "domain": "VFX"
+      }
+    },
+    {
+      "id": "weather_and_environment",
+      "label": "Weather and Environment Systems",
+      "nodes": ["SkyCreatorWindSettings"],
+      "properties": {
+        "domain": "Environment"
+      }
+    },
+    {
+      "id": "editor_tools",
+      "label": "Editor Tools and Settings",
+      "nodes": ["EditorPerProjectUserSettings", "LevelSequenceBurnInInitSettings"],
+      "properties": {
+        "domain": "Editor"
+      }
+    },
+    {
+      "id": "spatial_gis",
+      "label": "Spatial/GIS Systems",
+      "nodes": ["TestSpatialUtilsActor", "RangeAPI"],
+      "properties": {
+        "domain": "Spatial Computing"
+      }
+    },
+    {
+      "id": "audio_haptics",
+      "label": "Audio/Haptic Feedback",
+      "nodes": ["ForceFeedbackAttenuationSettings"],
+      "properties": {
+        "domain": "Haptics"
+      }
+    },
+    {
+      "id": "pose_search_system",
+      "label": "Pose Search System",
+      "nodes": ["PoseSearchMirrorOption"],
+      "properties": {
+        "domain": "Animation Pose Search"
+      }
+    },
+    {
+      "id": "optimization_lod",
+      "label": "Optimization/LOD Systems",
+      "nodes": ["HLODProxyDesc"],
+      "properties": {
+        "domain": "Optimization"
+      }
+    }
+  ]
+}

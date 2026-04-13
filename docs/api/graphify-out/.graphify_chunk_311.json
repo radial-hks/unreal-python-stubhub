@@ -1,0 +1,419 @@
+{
+  "nodes": [
+    {
+      "id": "niagarabaselinecontroller_basic_niagarabaselinecontroller_basic",
+      "label": "NiagaraBaselineController_Basic",
+      "file_type": "code",
+      "source_file": "NiagaraBaselineController_Basic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeassetimportdata_interchangeassetimportdata",
+      "label": "InterchangeAssetImportData",
+      "file_type": "code",
+      "source_file": "InterchangeAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multipolygon2datom_multipolygon2datom",
+      "label": "MultiPolygon2DAtom",
+      "file_type": "code",
+      "source_file": "MultiPolygon2DAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceplayer_levelsequenceplayer",
+      "label": "LevelSequencePlayer",
+      "file_type": "code",
+      "source_file": "LevelSequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_linkedanimgraph_animgraphnode_linkedanimgraph",
+      "label": "AnimGraphNode_LinkedAnimGraph",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__LinkedAnimGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelrotatorlimitsettings_rigunit_hierarchyaddanimationchannelrotatorlimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelRotatorLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothingsimulationinteractor_clothingsimulationinteractor",
+      "label": "ClothingSimulationInteractor",
+      "file_type": "code",
+      "source_file": "ClothingSimulationInteractor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthsplinecurveprefab_earthsplinecurveprefab",
+      "label": "EarthSplineCurvePrefab",
+      "file_type": "code",
+      "source_file": "EarthSplineCurvePrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformmul_rigunit_mathtransformmul",
+      "label": "RigUnit_MathTransformMul",
+      "file_type": "code",
+      "source_file": "RigUnit_MathTransformMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncactionloadprimaryassetlist_asyncactionloadprimaryassetlist",
+      "label": "AsyncActionLoadPrimaryAssetList",
+      "file_type": "code",
+      "source_file": "AsyncActionLoadPrimaryAssetList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_startswith_rigunit_startswith",
+      "label": "RigUnit_StartsWith",
+      "file_type": "code",
+      "source_file": "RigUnit__StartsWith Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionrotatevector_rigvmfunction_mathquaternionrotatevector",
+      "label": "RigVMFunction_MathQuaternionRotateVector",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathQuaternionRotateVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oncamerunderwaterstatechanged_oncamerunderwaterstatechanged",
+      "label": "OnCameraUnderwaterStateChanged",
+      "file_type": "code",
+      "source_file": "OnCameraUnderwaterStateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "anchordata_anchordata",
+      "label": "AnchorData",
+      "file_type": "code",
+      "source_file": "AnchorData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgresetpointcentersettings_pcgresetpointcentersettings",
+      "label": "PCGResetPointCenterSettings",
+      "file_type": "code",
+      "source_file": "PCGResetPointCenterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptpruneboneweightsassignmenttype_geometryscriptpruneboneweightsassignmenttype",
+      "label": "GeometryScriptPruneBoneWeightsAssignmentType",
+      "file_type": "code",
+      "source_file": "GeometryScriptPruneBoneWeightsAssignmentType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonerprogressextension_ceclonerprogressextension",
+      "label": "CEClonerProgressExtension",
+      "file_type": "code",
+      "source_file": "CEClonerProgressExtension Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_layer_animgraphnode_layer",
+      "label": "AnimGraphNode_Layer",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_Layer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionloop_rigunit_collectionloop",
+      "label": "RigUnit_CollectionLoop",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexposedviewproperty_materialexposedviewproperty",
+      "label": "MaterialExposedViewProperty",
+      "file_type": "code",
+      "source_file": "MaterialExposedViewProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertylistwidget_earthpropertylistwidget",
+      "label": "EarthPropertyListWidget",
+      "file_type": "code",
+      "source_file": "EarthPropertyListWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublesqrt_rigunit_mathdoublesqrt",
+      "label": "RigUnit_MathDoubleSqrt",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleSqrt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "niagarabaselinecontroller_basic_niagarabaselinecontroller_basic",
+      "target": "rigunit_mathtransformmul_rigunit_mathtransformmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NiagaraBaselineController_Basic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceplayer_levelsequenceplayer",
+      "target": "oncamerunderwaterstatechanged_oncamerunderwaterstatechanged",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LevelSequencePlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformmul_rigunit_mathtransformmul",
+      "target": "rigunit_startswith_rigunit_startswith",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathTransformMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_startswith_rigunit_startswith",
+      "target": "rigunit_mathdoublesqrt_rigunit_mathdoublesqrt",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__StartsWith Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublesqrt_rigunit_mathdoublesqrt",
+      "target": "rigunit_mathtransformmul_rigunit_mathtransformmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathDoubleSqrt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionrotatevector_rigvmfunction_mathquaternionrotatevector",
+      "target": "rigunit_mathtransformmul_rigunit_mathtransformmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathQuaternionRotateVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelrotatorlimitsettings_rigunit_hierarchyaddanimationchannelrotatorlimitsettings",
+      "target": "rigunit_collectionloop_rigunit_collectionloop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelRotatorLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clothingsimulationinteractor_clothingsimulationinteractor",
+      "target": "geometryscriptpruneboneweightsassignmenttype_geometryscriptpruneboneweightsassignmenttype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ClothingSimulationInteractor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_linkedanimgraph_animgraphnode_linkedanimgraph",
+      "target": "animgraphnode_layer_animgraphnode_layer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode__LinkedAnimGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeassetimportdata_interchangeassetimportdata",
+      "target": "anchordata_anchordata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "InterchangeAssetImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthsplinecurveprefab_earthsplinecurveprefab",
+      "target": "earthpropertylistwidget_earthpropertylistwidget",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthSplineCurvePrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonerprogressextension_ceclonerprogressextension",
+      "target": "asyncactionloadprimaryassetlist_asyncactionloadprimaryassetlist",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CEClonerProgressExtension Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgresetpointcentersettings_pcgresetpointcentersettings",
+      "target": "materialexposedviewproperty_materialexposedviewproperty",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGResetPointCenterSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_classes",
+      "label": "Deprecated RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_mathtransformmul_rigunit_mathtransformmul",
+        "rigunit_startswith_rigunit_startswith",
+        "rigunit_mathdoublesqrt_rigunit_mathdoublesqrt"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathTransformMul Objects.md"
+    },
+    {
+      "id": "control_rig_units",
+      "label": "ControlRig Plugin Units",
+      "nodes": [
+        "rigunit_hierarchyaddanimationchannelrotatorlimitsettings_rigunit_hierarchyaddanimationchannelrotatorlimitsettings",
+        "rigunit_collectionloop_rigunit_collectionloop"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelRotatorLimitSettings Objects.md"
+    },
+    {
+      "id": "aes_world_plugin_classes",
+      "label": "AesWorld Plugin Classes",
+      "nodes": [
+        "earthsplinecurveprefab_earthsplinecurveprefab",
+        "earthpropertylistwidget_earthpropertylistwidget"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSplineCurvePrefab Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

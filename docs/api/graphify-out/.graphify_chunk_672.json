@@ -1,0 +1,1353 @@
+{
+  "nodes": [
+    {
+      "id": "AvaCloneModifierLineLayoutOptions",
+      "type": "class",
+      "label": "AvaCloneModifierLineLayoutOptions",
+      "deprecated": true,
+      "deprecated_message": "'AvaCloneModifierLineLayoutOptions' was renamed to 'AvaPatternModifierLineLayoutOptions'"
+    },
+    {
+      "id": "AvaPatternModifierLineLayoutOptions",
+      "type": "class",
+      "label": "AvaPatternModifierLineLayoutOptions"
+    },
+    {
+      "id": "AvaClonerGridConstraintTexture",
+      "type": "class",
+      "label": "AvaClonerGridConstraintTexture",
+      "deprecated": true,
+      "deprecated_message": "'AvaClonerGridConstraintTexture' was renamed to 'CEClonerGridConstraintTexture'"
+    },
+    {
+      "id": "CEClonerGridConstraintTexture",
+      "type": "class",
+      "label": "CEClonerGridConstraintTexture"
+    },
+    {
+      "id": "MediaPlayerEditorMediaContext",
+      "type": "class",
+      "label": "MediaPlayerEditorMediaContext",
+      "description": "Media Player Editor Media Context",
+      "plugin": "MediaPlayerEditor",
+      "module": "MediaPlayerEditor",
+      "file": "MediaPlayerEditorMediaContext.h"
+    },
+    {
+      "id": "ToolMenuContextBase",
+      "type": "class",
+      "label": "ToolMenuContextBase"
+    },
+    {
+      "id": "GeometryScriptBoneWeightProfile",
+      "type": "class",
+      "label": "GeometryScriptBoneWeightProfile",
+      "description": "Geometry Script Bone Weight Profile",
+      "plugin": "GeometryScripting",
+      "module": "GeometryScriptingCore",
+      "file": "MeshBoneWeightFunctions.h"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "RiverNodeInfo",
+      "type": "class",
+      "label": "RiverNodeInfo",
+      "description": "BP_RiverMesh",
+      "plugin": "AesRuntimeModeler",
+      "module": "AesRuntimeModeler",
+      "file": "AesRuntimeModelerMeshStruct.h"
+    },
+    {
+      "id": "WdpPlayerController_OnRotateKeyPressed",
+      "type": "class",
+      "label": "WdpPlayerController_OnRotateKeyPressed",
+      "description": "Rotate 按下，按下时的屏幕坐标",
+      "plugin": "WdpCamera",
+      "module": "WdpCamera",
+      "file": "WdpPlayerController.h"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "Vector2D",
+      "type": "type",
+      "label": "Vector2D"
+    },
+    {
+      "id": "ViewportSceneFileThreeParamArray",
+      "type": "class",
+      "label": "ViewportSceneFileThreeParamArray",
+      "description": "Viewport Scene File Three Param Array",
+      "plugin": "CustomProgram",
+      "module": "CustomProgram",
+      "file": "CustomProgramLibrary.h"
+    },
+    {
+      "id": "OptimusDeformerInstance",
+      "type": "class",
+      "label": "OptimusDeformerInstance",
+      "description": "Class representing an instance of an Optimus Mesh Deformer, used in a OptimusDeformerDynamicInstanceManager",
+      "plugin": "DeformerGraph",
+      "module": "OptimusCore",
+      "file": "OptimusDeformerInstance.h"
+    },
+    {
+      "id": "MeshDeformerInstance",
+      "type": "class",
+      "label": "MeshDeformerInstance"
+    },
+    {
+      "id": "RigVMFunction_VisualDebugTransformNoSpace",
+      "type": "class",
+      "label": "RigVMFunction_VisualDebugTransformNoSpace",
+      "description": "Debug draw parameters for an Axis given a transform",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_VisualDebug.h"
+    },
+    {
+      "id": "RigVMFunction_DebugBase",
+      "type": "class",
+      "label": "RigVMFunction_DebugBase"
+    },
+    {
+      "id": "ActorElementsExporterT3D",
+      "type": "class",
+      "label": "ActorElementsExporterT3D",
+      "description": "Actor Elements Exporter T3D",
+      "module": "UnrealEd",
+      "file": "ActorElementEditorCopyAndPaste.h"
+    },
+    {
+      "id": "Exporter",
+      "type": "class",
+      "label": "Exporter"
+    },
+    {
+      "id": "ControlRigComponentMappedComponent",
+      "type": "class",
+      "label": "ControlRigComponentMappedComponent",
+      "description": "Control Rig Component Mapped Component",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "ControlRigComponent.h"
+    },
+    {
+      "id": "WdpEndActionParams",
+      "type": "class",
+      "label": "WdpEndActionParams",
+      "description": "Wdp End Action Params",
+      "plugin": "WdpRuntimeAPI",
+      "module": "WdpInteractionAPI",
+      "file": "WdpActionManagerAPI.h"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "ProceduralFoliage",
+      "type": "class",
+      "label": "ProceduralFoliage",
+      "deprecated": true,
+      "deprecated_message": "'ProceduralFoliage' was renamed to 'ProceduralFoliageSpawner'"
+    },
+    {
+      "id": "ProceduralFoliageSpawner",
+      "type": "class",
+      "label": "ProceduralFoliageSpawner"
+    },
+    {
+      "id": "MaterialExpressionMultiply",
+      "type": "class",
+      "label": "MaterialExpressionMultiply",
+      "description": "Material Expression Multiply",
+      "module": "Engine",
+      "file": "MaterialExpressionMultiply.h"
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression"
+    },
+    {
+      "id": "ProceduralFoliageComponent",
+      "type": "class",
+      "label": "ProceduralFoliageComponent",
+      "description": "Procedural Foliage Component",
+      "module": "Foliage",
+      "file": "ProceduralFoliageComponent.h"
+    },
+    {
+      "id": "ActorComponent",
+      "type": "class",
+      "label": "ActorComponent"
+    },
+    {
+      "id": "MetasoundFrontendClassOutput",
+      "type": "class",
+      "label": "MetasoundFrontendClassOutput",
+      "description": "Contains info for output vertex of a Metasound class.",
+      "plugin": "Metasound",
+      "module": "MetasoundFrontend",
+      "file": "MetasoundFrontendDocument.h"
+    },
+    {
+      "id": "MetasoundFrontendClassVertex",
+      "type": "class",
+      "label": "MetasoundFrontendClassVertex"
+    },
+    {
+      "id": "SampledSequenceViewerStyle",
+      "type": "class",
+      "label": "SampledSequenceViewerStyle",
+      "description": "Represents the appearance of a Sampled Sequence Viewer",
+      "plugin": "AudioWidgets",
+      "module": "AudioWidgets",
+      "file": "AudioWidgetsSlateTypes.h"
+    },
+    {
+      "id": "SlateWidgetStyle",
+      "type": "class",
+      "label": "SlateWidgetStyle"
+    },
+    {
+      "id": "InterpCurvePointLinearColor",
+      "type": "class",
+      "label": "InterpCurvePointLinearColor",
+      "description": "Describes one specific point on an interpolation curve.",
+      "module": "CoreUObject",
+      "file": "NoExportTypes.h"
+    },
+    {
+      "id": "ControlRigGizmoLibrary",
+      "type": "class",
+      "label": "ControlRigGizmoLibrary",
+      "deprecated": true,
+      "deprecated_message": "'ControlRigGizmoLibrary' was renamed to 'ControlRigShapeLibrary'"
+    },
+    {
+      "id": "ControlRigShapeLibrary",
+      "type": "class",
+      "label": "ControlRigShapeLibrary"
+    },
+    {
+      "id": "MaterialExpressionBlackBody",
+      "type": "class",
+      "label": "MaterialExpressionBlackBody",
+      "description": "Material Expression Black Body",
+      "module": "Engine",
+      "file": "MaterialExpressionBlackBody.h"
+    },
+    {
+      "id": "LiveLinkRemapAsset",
+      "type": "class",
+      "label": "LiveLinkRemapAsset",
+      "description": "Remap asset for data coming from Live Link. Allows simple application of bone transforms into current pose based on name remapping only",
+      "module": "LiveLinkAnimationCore",
+      "file": "LiveLinkRemapAsset.h"
+    },
+    {
+      "id": "LiveLinkRetargetAsset",
+      "type": "class",
+      "label": "LiveLinkRetargetAsset"
+    },
+    {
+      "id": "RigVMFunction_MathFloatCeil",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatCeil",
+      "description": "Returns the closest higher full number (integer) of the value",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathFloat.h"
+    },
+    {
+      "id": "RigVMFunction_MathFloatBase",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatBase"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "Object",
+      "type": "type",
+      "label": "Object"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "Rotator",
+      "type": "type",
+      "label": "Rotator"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "SceneComponent",
+      "type": "type",
+      "label": "SceneComponent"
+    },
+    {
+      "id": "RigElementType",
+      "type": "type",
+      "label": "RigElementType"
+    },
+    {
+      "id": "ControlRigComponentMapDirection",
+      "type": "type",
+      "label": "ControlRigComponentMapDirection"
+    },
+    {
+      "id": "LinearColor",
+      "type": "type",
+      "label": "LinearColor"
+    },
+    {
+      "id": "InterpCurveMode",
+      "type": "type",
+      "label": "InterpCurveMode"
+    },
+    {
+      "id": "SlateColor",
+      "type": "type",
+      "label": "SlateColor"
+    },
+    {
+      "id": "SlateBrush",
+      "type": "type",
+      "label": "SlateBrush"
+    },
+    {
+      "id": "Texture",
+      "type": "type",
+      "label": "Texture"
+    },
+    {
+      "id": "CEClonerTextureSampleChannel",
+      "type": "type",
+      "label": "CEClonerTextureSampleChannel"
+    },
+    {
+      "id": "CEClonerPlane",
+      "type": "type",
+      "label": "CEClonerPlane"
+    },
+    {
+      "id": "CEClonerCompareMode",
+      "type": "type",
+      "label": "CEClonerCompareMode"
+    },
+    {
+      "id": "AvaPatternModifierAxis",
+      "type": "type",
+      "label": "AvaPatternModifierAxis"
+    },
+    {
+      "id": "bool",
+      "type": "primitive",
+      "label": "bool"
+    },
+    {
+      "id": "int",
+      "type": "primitive",
+      "label": "int"
+    },
+    {
+      "id": "float",
+      "type": "primitive",
+      "label": "float"
+    },
+    {
+      "id": "str",
+      "type": "primitive",
+      "label": "str"
+    },
+    {
+      "id": "Vector4",
+      "type": "type",
+      "label": "Vector4"
+    },
+    {
+      "id": "IntVector4",
+      "type": "type",
+      "label": "IntVector4"
+    },
+    {
+      "id": "IntVector",
+      "type": "type",
+      "label": "IntVector"
+    },
+    {
+      "id": "IntPoint",
+      "type": "type",
+      "label": "IntPoint"
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "label": "Quat"
+    },
+    {
+      "id": "Array",
+      "type": "generic",
+      "label": "Array"
+    },
+    {
+      "id": "Set",
+      "type": "generic",
+      "label": "Set"
+    },
+    {
+      "id": "Map",
+      "type": "generic",
+      "label": "Map"
+    },
+    {
+      "id": "ProceduralFoliageSpawner_type",
+      "type": "type",
+      "label": "ProceduralFoliageSpawner"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "AvaPatternModifierLineLayoutOptions",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AvaClonerGridConstraintTexture",
+      "target": "CEClonerGridConstraintTexture",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MediaPlayerEditorMediaContext",
+      "target": "ToolMenuContextBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "GeometryScriptBoneWeightProfile",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RiverNodeInfo",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "WdpPlayerController_OnRotateKeyPressed",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ViewportSceneFileThreeParamArray",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "MeshDeformerInstance",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigVMFunction_VisualDebugTransformNoSpace",
+      "target": "RigVMFunction_DebugBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ActorElementsExporterT3D",
+      "target": "Exporter",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ControlRigComponentMappedComponent",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "WdpEndActionParams",
+      "target": "ParamsBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ProceduralFoliage",
+      "target": "ProceduralFoliageSpawner",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionMultiply",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "ActorComponent",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MetasoundFrontendClassOutput",
+      "target": "MetasoundFrontendClassVertex",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "SlateWidgetStyle",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "InterpCurvePointLinearColor",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ControlRigGizmoLibrary",
+      "target": "ControlRigShapeLibrary",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionBlackBody",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "LiveLinkRemapAsset",
+      "target": "LiveLinkRetargetAsset",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigVMFunction_MathFloatCeil",
+      "target": "RigVMFunction_MathFloatBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MediaPlayerEditorMediaContext",
+      "target": "Object",
+      "type": "has_property",
+      "label": "selected_asset"
+    },
+    {
+      "source": "MediaPlayerEditorMediaContext",
+      "target": "Name",
+      "type": "has_property",
+      "label": "style_set_name"
+    },
+    {
+      "source": "GeometryScriptBoneWeightProfile",
+      "target": "Name",
+      "type": "has_property",
+      "label": "profile_name"
+    },
+    {
+      "source": "RiverNodeInfo",
+      "target": "Transform",
+      "type": "has_property",
+      "label": "local_to_parent_transform"
+    },
+    {
+      "source": "RiverNodeInfo",
+      "target": "float",
+      "type": "has_property",
+      "label": "corner_radius"
+    },
+    {
+      "source": "RiverNodeInfo",
+      "target": "int",
+      "type": "has_property",
+      "label": "corner_split_seg_num"
+    },
+    {
+      "source": "RiverNodeInfo",
+      "target": "float",
+      "type": "has_property",
+      "label": "river_width"
+    },
+    {
+      "source": "RigVMFunction_VisualDebugTransformNoSpace",
+      "target": "Transform",
+      "type": "has_property",
+      "label": "value"
+    },
+    {
+      "source": "RigVMFunction_VisualDebugTransformNoSpace",
+      "target": "bool",
+      "type": "has_property",
+      "label": "enabled"
+    },
+    {
+      "source": "RigVMFunction_VisualDebugTransformNoSpace",
+      "target": "float",
+      "type": "has_property",
+      "label": "thickness"
+    },
+    {
+      "source": "RigVMFunction_VisualDebugTransformNoSpace",
+      "target": "float",
+      "type": "has_property",
+      "label": "scale"
+    },
+    {
+      "source": "ControlRigComponentMappedComponent",
+      "target": "SceneComponent",
+      "type": "has_property",
+      "label": "component"
+    },
+    {
+      "source": "ControlRigComponentMappedComponent",
+      "target": "Name",
+      "type": "has_property",
+      "label": "element_name"
+    },
+    {
+      "source": "ControlRigComponentMappedComponent",
+      "target": "RigElementType",
+      "type": "has_property",
+      "label": "element_type"
+    },
+    {
+      "source": "ControlRigComponentMappedComponent",
+      "target": "ControlRigComponentMapDirection",
+      "type": "has_property",
+      "label": "direction"
+    },
+    {
+      "source": "WdpEndActionParams",
+      "target": "str",
+      "type": "has_property",
+      "label": "guid"
+    },
+    {
+      "source": "WdpEndActionParams",
+      "target": "Set_Name",
+      "type": "has_property",
+      "label": "hit_keys"
+    },
+    {
+      "source": "WdpEndActionParams",
+      "target": "bool",
+      "type": "has_property",
+      "label": "is_cancel"
+    },
+    {
+      "source": "MaterialExpressionMultiply",
+      "target": "float",
+      "type": "has_property",
+      "label": "const_a"
+    },
+    {
+      "source": "MaterialExpressionMultiply",
+      "target": "float",
+      "type": "has_property",
+      "label": "const_b"
+    },
+    {
+      "source": "MaterialExpressionMultiply",
+      "target": "str",
+      "type": "has_property",
+      "label": "desc"
+    },
+    {
+      "source": "MaterialExpressionMultiply",
+      "target": "int",
+      "type": "has_property",
+      "label": "material_expression_editor_x"
+    },
+    {
+      "source": "MaterialExpressionMultiply",
+      "target": "int",
+      "type": "has_property",
+      "label": "material_expression_editor_y"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "ProceduralFoliageSpawner_type",
+      "type": "has_property",
+      "label": "foliage_spawner"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "float",
+      "type": "has_property",
+      "label": "tile_overlap"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "bool",
+      "type": "has_property",
+      "label": "allow_landscape"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "bool",
+      "type": "has_property",
+      "label": "allow_bsp"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "bool",
+      "type": "has_property",
+      "label": "allow_static_mesh"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "bool",
+      "type": "has_property",
+      "label": "allow_translucent"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "bool",
+      "type": "has_property",
+      "label": "allow_foliage"
+    },
+    {
+      "source": "ProceduralFoliageComponent",
+      "target": "bool",
+      "type": "has_property",
+      "label": "show_debug_tiles"
+    },
+    {
+      "source": "MetasoundFrontendClassOutput",
+      "target": "Name",
+      "type": "has_property",
+      "label": "name"
+    },
+    {
+      "source": "MetasoundFrontendClassOutput",
+      "target": "Name",
+      "type": "has_property",
+      "label": "type_name"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "SlateColor",
+      "type": "has_property",
+      "label": "sequence_color"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "float",
+      "type": "has_property",
+      "label": "sequence_line_thickness"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "SlateColor",
+      "type": "has_property",
+      "label": "major_grid_line_color"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "SlateColor",
+      "type": "has_property",
+      "label": "minor_grid_line_color"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "SlateColor",
+      "type": "has_property",
+      "label": "zero_crossing_line_color"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "float",
+      "type": "has_property",
+      "label": "zero_crossing_line_thickness"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "float",
+      "type": "has_property",
+      "label": "sample_markers_size"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "SlateColor",
+      "type": "has_property",
+      "label": "sequence_background_color"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "SlateBrush",
+      "type": "has_property",
+      "label": "background_brush"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "float",
+      "type": "has_property",
+      "label": "desired_width"
+    },
+    {
+      "source": "SampledSequenceViewerStyle",
+      "target": "float",
+      "type": "has_property",
+      "label": "desired_height"
+    },
+    {
+      "source": "InterpCurvePointLinearColor",
+      "target": "float",
+      "type": "has_property",
+      "label": "val"
+    },
+    {
+      "source": "InterpCurvePointLinearColor",
+      "target": "LinearColor",
+      "type": "has_property",
+      "label": "out_val"
+    },
+    {
+      "source": "InterpCurvePointLinearColor",
+      "target": "LinearColor",
+      "type": "has_property",
+      "label": "arrive_tangent"
+    },
+    {
+      "source": "InterpCurvePointLinearColor",
+      "target": "LinearColor",
+      "type": "has_property",
+      "label": "leave_tangent"
+    },
+    {
+      "source": "InterpCurvePointLinearColor",
+      "target": "InterpCurveMode",
+      "type": "has_property",
+      "label": "interp_mode"
+    },
+    {
+      "source": "MaterialExpressionBlackBody",
+      "target": "str",
+      "type": "has_property",
+      "label": "desc"
+    },
+    {
+      "source": "MaterialExpressionBlackBody",
+      "target": "int",
+      "type": "has_property",
+      "label": "material_expression_editor_x"
+    },
+    {
+      "source": "MaterialExpressionBlackBody",
+      "target": "int",
+      "type": "has_property",
+      "label": "material_expression_editor_y"
+    },
+    {
+      "source": "RigVMFunction_MathFloatCeil",
+      "target": "float",
+      "type": "has_property",
+      "label": "value"
+    },
+    {
+      "source": "RigVMFunction_MathFloatCeil",
+      "target": "float",
+      "type": "has_property",
+      "label": "result"
+    },
+    {
+      "source": "RigVMFunction_MathFloatCeil",
+      "target": "int",
+      "type": "has_property",
+      "label": "int"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "set_vector_variable.variable_name"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "Vector",
+      "type": "method_parameter",
+      "label": "set_vector_variable.value"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "bool",
+      "type": "method_return",
+      "label": "set_vector_variable"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "set_transform_variable.variable_name"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "Transform",
+      "type": "method_parameter",
+      "label": "set_transform_variable.value"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "bool",
+      "type": "method_return",
+      "label": "set_transform_variable"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "set_float_variable.variable_name"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "float",
+      "type": "method_parameter",
+      "label": "set_float_variable.value"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "bool",
+      "type": "method_return",
+      "label": "set_float_variable"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "set_int_variable.variable_name"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "int",
+      "type": "method_parameter",
+      "label": "set_int_variable.value"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "bool",
+      "type": "method_return",
+      "label": "set_int_variable"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "set_bool_variable.variable_name"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "bool",
+      "type": "method_parameter",
+      "label": "set_bool_variable.value"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "bool",
+      "type": "method_return",
+      "label": "set_bool_variable"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "enqueue_trigger_graph.trigger_graph_name"
+    },
+    {
+      "source": "OptimusDeformerInstance",
+      "target": "bool",
+      "type": "method_return",
+      "label": "enqueue_trigger_graph"
+    },
+    {
+      "source": "LiveLinkRemapAsset",
+      "target": "Map_Name_float",
+      "type": "method_parameter",
+      "label": "remap_curve_elements.curve_items"
+    },
+    {
+      "source": "LiveLinkRemapAsset",
+      "target": "Map_Name_float",
+      "type": "method_return",
+      "label": "remap_curve_elements"
+    },
+    {
+      "source": "LiveLinkRemapAsset",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "get_remapped_curve_name.curve_name"
+    },
+    {
+      "source": "LiveLinkRemapAsset",
+      "target": "Name",
+      "type": "method_return",
+      "label": "get_remapped_curve_name"
+    },
+    {
+      "source": "LiveLinkRemapAsset",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "get_remapped_bone_name.bone_name"
+    },
+    {
+      "source": "LiveLinkRemapAsset",
+      "target": "Name",
+      "type": "method_return",
+      "label": "get_remapped_bone_name"
+    },
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "AvaPatternModifierAxis",
+      "type": "constructor_parameter",
+      "label": "axis"
+    },
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "bool",
+      "type": "constructor_parameter",
+      "label": "axis_inverted"
+    },
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "int",
+      "type": "constructor_parameter",
+      "label": "repeat_count"
+    },
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "float",
+      "type": "constructor_parameter",
+      "label": "spacing"
+    },
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "bool",
+      "type": "constructor_parameter",
+      "label": "centered"
+    },
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "bool",
+      "type": "constructor_parameter",
+      "label": "accumulate_transform"
+    },
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "Rotator",
+      "type": "constructor_parameter",
+      "label": "rotation"
+    },
+    {
+      "source": "AvaCloneModifierLineLayoutOptions",
+      "target": "Vector",
+      "type": "constructor_parameter",
+      "label": "scale"
+    },
+    {
+      "source": "AvaClonerGridConstraintTexture",
+      "target": "Texture",
+      "type": "constructor_parameter",
+      "label": "texture"
+    },
+    {
+      "source": "AvaClonerGridConstraintTexture",
+      "target": "CEClonerTextureSampleChannel",
+      "type": "constructor_parameter",
+      "label": "channel"
+    },
+    {
+      "source": "AvaClonerGridConstraintTexture",
+      "target": "CEClonerPlane",
+      "type": "constructor_parameter",
+      "label": "plane"
+    },
+    {
+      "source": "AvaClonerGridConstraintTexture",
+      "target": "CEClonerCompareMode",
+      "type": "constructor_parameter",
+      "label": "compare_mode"
+    },
+    {
+      "source": "AvaClonerGridConstraintTexture",
+      "target": "float",
+      "type": "constructor_parameter",
+      "label": "threshold"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_renames",
+      "type": "deprecation_group",
+      "nodes": [
+        "AvaCloneModifierLineLayoutOptions",
+        "AvaPatternModifierLineLayoutOptions",
+        "AvaClonerGridConstraintTexture",
+        "CEClonerGridConstraintTexture",
+        "ProceduralFoliage",
+        "ProceduralFoliageSpawner",
+        "ControlRigGizmoLibrary",
+        "ControlRigShapeLibrary"
+      ],
+      "description": "Classes that have been deprecated and renamed"
+    },
+    {
+      "id": "unreal_engine_module_coreuobject",
+      "type": "module_group",
+      "nodes": [
+        "InterpCurvePointLinearColor"
+      ],
+      "description": "Classes belonging to CoreUObject module"
+    },
+    {
+      "id": "unreal_engine_module_engine",
+      "type": "module_group",
+      "nodes": [
+        "MaterialExpressionMultiply",
+        "MaterialExpressionBlackBody"
+      ],
+      "description": "Classes belonging to Engine module"
+    },
+    {
+      "id": "unreal_engine_module_unrealed",
+      "type": "module_group",
+      "nodes": [
+        "ActorElementsExporterT3D"
+      ],
+      "description": "Classes belonging to UnrealEd module"
+    },
+    {
+      "id": "unreal_engine_module_foliage",
+      "type": "module_group",
+      "nodes": [
+        "ProceduralFoliageComponent"
+      ],
+      "description": "Classes belonging to Foliage module"
+    },
+    {
+      "id": "unreal_engine_module_livelinkanimationcore",
+      "type": "module_group",
+      "nodes": [
+        "LiveLinkRemapAsset"
+      ],
+      "description": "Classes belonging to LiveLinkAnimationCore module"
+    },
+    {
+      "id": "unreal_engine_plugin_mediaplayereditor",
+      "type": "plugin_group",
+      "nodes": [
+        "MediaPlayerEditorMediaContext"
+      ],
+      "description": "Classes belonging to MediaPlayerEditor plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_geometryscripting",
+      "type": "plugin_group",
+      "nodes": [
+        "GeometryScriptBoneWeightProfile"
+      ],
+      "description": "Classes belonging to GeometryScripting plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_aesruntimemodeler",
+      "type": "plugin_group",
+      "nodes": [
+        "RiverNodeInfo"
+      ],
+      "description": "Classes belonging to AesRuntimeModeler plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_wdpcamera",
+      "type": "plugin_group",
+      "nodes": [
+        "WdpPlayerController_OnRotateKeyPressed"
+      ],
+      "description": "Classes belonging to WdpCamera plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_customprogram",
+      "type": "plugin_group",
+      "nodes": [
+        "ViewportSceneFileThreeParamArray"
+      ],
+      "description": "Classes belonging to CustomProgram plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_deformergraph",
+      "type": "plugin_group",
+      "nodes": [
+        "OptimusDeformerInstance"
+      ],
+      "description": "Classes belonging to DeformerGraph plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_rigvm",
+      "type": "plugin_group",
+      "nodes": [
+        "RigVMFunction_VisualDebugTransformNoSpace",
+        "RigVMFunction_MathFloatCeil"
+      ],
+      "description": "Classes belonging to RigVM plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_controlrig",
+      "type": "plugin_group",
+      "nodes": [
+        "ControlRigComponentMappedComponent"
+      ],
+      "description": "Classes belonging to ControlRig plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_wdpruntimeapi",
+      "type": "plugin_group",
+      "nodes": [
+        "WdpEndActionParams"
+      ],
+      "description": "Classes belonging to WdpRuntimeAPI plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_metasound",
+      "type": "plugin_group",
+      "nodes": [
+        "MetasoundFrontendClassOutput"
+      ],
+      "description": "Classes belonging to Metasound plugin"
+    },
+    {
+      "id": "unreal_engine_plugin_audiowidgets",
+      "type": "plugin_group",
+      "nodes": [
+        "SampledSequenceViewerStyle"
+      ],
+      "description": "Classes belonging to AudioWidgets plugin"
+    },
+    {
+      "id": "struct_hierarchy",
+      "type": "inheritance_group",
+      "nodes": [
+        "GeometryScriptBoneWeightProfile",
+        "RiverNodeInfo",
+        "ViewportSceneFileThreeParamArray",
+        "ControlRigComponentMappedComponent",
+        "InterpCurvePointLinearColor",
+        "StructBase"
+      ],
+      "description": "Classes that inherit from StructBase"
+    },
+    {
+      "id": "material_expression_hierarchy",
+      "type": "inheritance_group",
+      "nodes": [
+        "MaterialExpressionMultiply",
+        "MaterialExpressionBlackBody",
+        "MaterialExpression"
+      ],
+      "description": "Classes that inherit from MaterialExpression"
+    },
+    {
+      "id": "rigvm_function_hierarchy",
+      "type": "inheritance_group",
+      "nodes": [
+        "RigVMFunction_VisualDebugTransformNoSpace",
+        "RigVMFunction_MathFloatCeil",
+        "RigVMFunction_DebugBase",
+        "RigVMFunction_MathFloatBase"
+      ],
+      "description": "Classes that are part of RigVM function hierarchy"
+    },
+    {
+      "id": "variable_setter_methods",
+      "type": "method_group",
+      "nodes": [
+        "OptimusDeformerInstance"
+      ],
+      "description": "Class with multiple variable setter methods for different types"
+    },
+    {
+      "id": "ui_styling_classes",
+      "type": "domain_group",
+      "nodes": [
+        "SampledSequenceViewerStyle"
+      ],
+      "description": "Classes related to UI styling and appearance"
+    },
+    {
+      "id": "animation_rigging_classes",
+      "type": "domain_group",
+      "nodes": [
+        "ControlRigComponentMappedComponent",
+        "LiveLinkRemapAsset",
+        "RigVMFunction_VisualDebugTransformNoSpace",
+        "RigVMFunction_MathFloatCeil"
+      ],
+      "description": "Classes related to animation and rigging functionality"
+    },
+    {
+      "id": "procedural_generation_classes",
+      "type": "domain_group",
+      "nodes": [
+        "ProceduralFoliage",
+        "ProceduralFoliageComponent",
+        "ProceduralFoliageSpawner"
+      ],
+      "description": "Classes related to procedural content generation"
+    },
+    {
+      "id": "material_system_classes",
+      "type": "domain_group",
+      "nodes": [
+        "MaterialExpressionMultiply",
+        "MaterialExpressionBlackBody"
+      ],
+      "description": "Classes related to material system"
+    },
+    {
+      "id": "audio_system_classes",
+      "type": "domain_group",
+      "nodes": [
+        "MetasoundFrontendClassOutput",
+        "SampledSequenceViewerStyle"
+      ],
+      "description": "Classes related to audio system"
+    },
+    {
+      "id": "geometry_processing_classes",
+      "type": "domain_group",
+      "nodes": [
+        "GeometryScriptBoneWeightProfile",
+        "OptimusDeformerInstance"
+      ],
+      "description": "Classes related to geometry processing"
+    }
+  ]
+}

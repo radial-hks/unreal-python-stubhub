@@ -1,0 +1,918 @@
+{
+  "nodes": [
+    {
+      "id": "cameraexposuresettings_struct",
+      "label": "CameraExposureSettings",
+      "file_type": "document",
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublemin_class",
+      "label": "RigVMFunction_MathDoubleMin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_team_class",
+      "label": "AISense_Team",
+      "file_type": "document",
+      "source_file": "AISense_Team Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectmixereditoruwidget_class",
+      "label": "ObjectMixerEditorUWidget",
+      "file_type": "document",
+      "source_file": "ObjectMixerEditorUWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neuralprofilefactory_class",
+      "label": "NeuralProfileFactory",
+      "file_type": "document",
+      "source_file": "NeuralProfileFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eventargsbase_struct",
+      "label": "EventArgsBase",
+      "file_type": "document",
+      "source_file": "EventArgsBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturecolorspace_enum",
+      "label": "TextureColorSpace",
+      "file_type": "document",
+      "source_file": "TextureColorSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangelightunits_enum",
+      "label": "InterchangeLightUnits",
+      "file_type": "document",
+      "source_file": "InterchangeLightUnits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourcegeometrypartid_struct",
+      "label": "SourceGeometryPartID",
+      "file_type": "document",
+      "source_file": "SourceGeometryPartID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperterrainmaterial_class",
+      "label": "PaperTerrainMaterial",
+      "file_type": "document",
+      "source_file": "PaperTerrainMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onuserclickedbanner_delegate",
+      "label": "OnUserClickedBanner",
+      "file_type": "document",
+      "source_file": "OnUserClickedBanner Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationblendmode_enum",
+      "label": "AnimationBlendMode",
+      "file_type": "document",
+      "source_file": "AnimationBlendMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcombineattributesmode_enum",
+      "label": "GeometryScriptCombineAttributesMode",
+      "file_type": "document",
+      "source_file": "GeometryScriptCombineAttributesMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompropertycontroldata_struct",
+      "label": "CustomPropertyControlData",
+      "file_type": "document",
+      "source_file": "CustomPropertyControlData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsamplephysicsscalarfield_class",
+      "label": "MaterialExpressionSamplePhysicsScalarField",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSamplePhysicsScalarField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatializationpluginsourcesettingsbase_class",
+      "label": "SpatializationPluginSourceSettingsBase",
+      "file_type": "document",
+      "source_file": "SpatializationPluginSourceSettingsBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "placewindowactionparams_struct",
+      "label": "PlaceWindowActionParams",
+      "file_type": "document",
+      "source_file": "PlaceWindowActionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitylibrary_class",
+      "label": "EditorUtilityLibrary",
+      "file_type": "document",
+      "source_file": "EditorUtilityLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadnetprefabactor_class",
+      "label": "EarthRoadNetPrefabActor",
+      "file_type": "document",
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthatomchangedproperty_struct",
+      "label": "EarthAtomChangedProperty",
+      "file_type": "document",
+      "source_file": "EarthAtomChangedProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_timedniagaracffectadvanced_class",
+      "label": "AnimNotifyState_TimedNiagaraEffectAdvanced",
+      "file_type": "document",
+      "source_file": "AnimNotifyState__TimedNiagaraEffectAdvanced Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "autoexposuremethod_enum",
+      "label": "AutoExposureMethod",
+      "file_type": "document",
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvefloat_class",
+      "label": "CurveFloat",
+      "file_type": "document",
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_class",
+      "label": "Texture",
+      "file_type": "document",
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebinaryaggregateop_class",
+      "label": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_class",
+      "label": "AISense",
+      "file_type": "document",
+      "source_file": "AISense_Team Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_class",
+      "label": "Widget",
+      "file_type": "document",
+      "source_file": "ObjectMixerEditorUWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectmixerwidgetuserconfig_class",
+      "label": "ObjectMixerWidgetUserConfig",
+      "file_type": "document",
+      "source_file": "ObjectMixerEditorUWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_class",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "NeuralProfileFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_class",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "EventArgsBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "elementid_class",
+      "label": "ElementID",
+      "file_type": "document",
+      "source_file": "SourceGeometryPartID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papersprite_class",
+      "label": "PaperSprite",
+      "file_type": "document",
+      "source_file": "PaperTerrainMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataasset_class",
+      "label": "DataAsset",
+      "file_type": "document",
+      "source_file": "PaperTerrainMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase_class",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "OnUserClickedBanner Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoredata_class",
+      "label": "PropertyAnimatorCoreData",
+      "file_type": "document",
+      "source_file": "CustomPropertyControlData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_class",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSamplePhysicsScalarField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldscalartype_enum",
+      "label": "FieldScalarType",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSamplePhysicsScalarField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actionparamsbase_struct",
+      "label": "ActionParamsBase",
+      "file_type": "document",
+      "source_file": "PlaceWindowActionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpsnapgroundmode_enum",
+      "label": "WdpSnapGroundMode",
+      "file_type": "document",
+      "source_file": "PlaceWindowActionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfuntionlibrary_class",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "EditorUtilityLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabactor_class",
+      "label": "EarthPrefabActor",
+      "file_type": "document",
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthinputcollection_class",
+      "label": "EarthInputCollection",
+      "file_type": "document",
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthoutputcollection_class",
+      "label": "EarthOutputCollection",
+      "file_type": "document",
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabasset_class",
+      "label": "EarthPrefabAsset",
+      "file_type": "document",
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_timedniagaracffect_class",
+      "label": "AnimNotifyState_TimedNiagaraEffect",
+      "file_type": "document",
+      "source_file": "AnimNotifyState__TimedNiagaraEffectAdvanced Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystem_class",
+      "label": "NiagaraSystem",
+      "file_type": "document",
+      "source_file": "AnimNotifyState__TimedNiagaraEffectAdvanced Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_exposure_concept",
+      "label": "Camera Exposure",
+      "file_type": "document",
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editor_utility_workflow_concept",
+      "label": "Editor Utility Workflow",
+      "file_type": "document",
+      "source_file": "EditorUtilityLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "prefab_system_concept",
+      "label": "Prefab System",
+      "file_type": "document",
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "cameraexposuresettings_struct",
+      "target": "structbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameraexposuresettings_struct",
+      "target": "autoexposuremethod_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameraexposuresettings_struct",
+      "target": "curvefloat_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameraexposuresettings_struct",
+      "target": "texture_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameraexposuresettings_struct",
+      "target": "camera_exposure_concept",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "CameraExposureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublemin_class",
+      "target": "rigvmfunction_mathdoublebinaryaggregateop_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleMin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisense_team_class",
+      "target": "aisense_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISense_Team Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "objectmixereditoruwidget_class",
+      "target": "widget_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ObjectMixerEditorUWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "objectmixereditoruwidget_class",
+      "target": "objectmixerwidgetuserconfig_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ObjectMixerEditorUWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuralprofilefactory_class",
+      "target": "factory_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NeuralProfileFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eventargsbase_struct",
+      "target": "structbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EventArgsBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourcegeometrypartid_struct",
+      "target": "elementid_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceGeometryPartID Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperterrainmaterial_class",
+      "target": "dataasset_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperTerrainMaterial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperterrainmaterial_class",
+      "target": "papersprite_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperTerrainMaterial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onuserclickedbanner_delegate",
+      "target": "delegatebase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnUserClickedBanner Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custompropertycontroldata_struct",
+      "target": "propertyanimatorcoredata_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CustomPropertyControlData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsamplephysicsscalarfield_class",
+      "target": "materialexpression_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSamplePhysicsScalarField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsamplephysicsscalarfield_class",
+      "target": "fieldscalartype_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSamplePhysicsScalarField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "placewindowactionparams_struct",
+      "target": "actionparamsbase_struct",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaceWindowActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "placewindowactionparams_struct",
+      "target": "wdpsnapgroundmode_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaceWindowActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilitylibrary_class",
+      "target": "blueprintfuntionlibrary_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilitylibrary_class",
+      "target": "editor_utility_workflow_concept",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "EditorUtilityLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadnetprefabactor_class",
+      "target": "earthprefabactor_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadnetprefabactor_class",
+      "target": "earthinputcollection_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadnetprefabactor_class",
+      "target": "earthoutputcollection_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadnetprefabactor_class",
+      "target": "earthprefabasset_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadnetprefabactor_class",
+      "target": "prefab_system_concept",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthatomchangedproperty_struct",
+      "target": "structbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthAtomChangedProperty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_timedniagaracffectadvanced_class",
+      "target": "animnotifystate_timedniagaracffect_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState__TimedNiagaraEffectAdvanced Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_timedniagaracffectadvanced_class",
+      "target": "niagarasystem_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState__TimedNiagaraEffectAdvanced Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadnetprefabactor_class",
+      "target": "earthatomchangedproperty_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthRoadNetPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "objectmixereditoruwidget_class",
+      "target": "editor_utility_workflow_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ObjectMixerEditorUWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "neuralprofilefactory_class",
+      "target": "editor_utility_workflow_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NeuralProfileFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "prefab_data_flow",
+      "label": "Prefab Data Flow Pattern",
+      "nodes": [
+        "earthinputcollection_class",
+        "earthroadnetprefabactor_class",
+        "earthoutputcollection_class",
+        "earthprefabasset_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthRoadNetPrefabActor Objects.md"
+    },
+    {
+      "id": "editor_only_widgets",
+      "label": "Editor-Only Widget Pattern",
+      "nodes": [
+        "objectmixereditoruwidget_class",
+        "widget_class",
+        "objectmixerwidgetuserconfig_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ObjectMixerEditorUWidget Objects.md"
+    },
+    {
+      "id": "color_space_standards",
+      "label": "Color Space Standards Group",
+      "nodes": [
+        "texturecolorspace_enum",
+        "camera_exposure_concept"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "TextureColorSpace Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1696 @@
+{
+  "nodes": [
+    {
+      "id": "EarthLayerType",
+      "type": "enum",
+      "label": "EarthLayerType",
+      "properties": {
+        "module": "AesInterfaces",
+        "plugin": "AesWorld",
+        "file": "IAesLodSystem.h"
+      }
+    },
+    {
+      "id": "EarthLayerType.NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "value": 0
+    },
+    {
+      "id": "EarthLayerType.TERRAIN",
+      "type": "enum_value",
+      "label": "TERRAIN",
+      "value": 1
+    },
+    {
+      "id": "EarthLayerType.VEGETATION",
+      "type": "enum_value",
+      "label": "VEGETATION",
+      "value": 2
+    },
+    {
+      "id": "EarthLayerType.WATER",
+      "type": "enum_value",
+      "label": "WATER",
+      "value": 3
+    },
+    {
+      "id": "EarthLayerType.ROAD",
+      "type": "enum_value",
+      "label": "ROAD",
+      "value": 4
+    },
+    {
+      "id": "EarthLayerType.BUILDING",
+      "type": "enum_value",
+      "label": "BUILDING",
+      "value": 5
+    },
+    {
+      "id": "EarthLayerType.MAX",
+      "type": "enum_value",
+      "label": "MAX",
+      "value": 6
+    },
+    {
+      "id": "PinBoneType",
+      "type": "enum",
+      "label": "PinBoneType",
+      "properties": {
+        "module": "IKRig",
+        "plugin": "IKRig",
+        "file": "PinBoneOp.h"
+      }
+    },
+    {
+      "id": "PinBoneType.FULL_TRANSFORM",
+      "type": "enum_value",
+      "label": "FULL_TRANSFORM",
+      "value": 0
+    },
+    {
+      "id": "PinBoneType.TRANSLATE_ONLY",
+      "type": "enum_value",
+      "label": "TRANSLATE_ONLY",
+      "value": 1
+    },
+    {
+      "id": "PinBoneType.ROTATE_ONLY",
+      "type": "enum_value",
+      "label": "ROTATE_ONLY",
+      "value": 2
+    },
+    {
+      "id": "PinBoneType.SCALE_ONLY",
+      "type": "enum_value",
+      "label": "SCALE_ONLY",
+      "value": 3
+    },
+    {
+      "id": "ParticleSystem",
+      "type": "class",
+      "label": "ParticleSystem",
+      "properties": {
+        "module": "Engine",
+        "file": "ParticleSystem.h",
+        "description": "A ParticleSystem is a complete particle effect that contains any number of ParticleEmitters"
+      }
+    },
+    {
+      "id": "FXSystemAsset",
+      "type": "class",
+      "label": "FXSystemAsset"
+    },
+    {
+      "id": "AnimNotify_PlayMontageNotifyWindow",
+      "type": "class",
+      "label": "AnimNotify_PlayMontageNotifyWindow",
+      "properties": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNotify_PlayMontageNotify.h"
+      }
+    },
+    {
+      "id": "AnimNotifyState",
+      "type": "class",
+      "label": "AnimNotifyState"
+    },
+    {
+      "id": "VisibiltyOptionsEnum",
+      "type": "enum",
+      "label": "VisibiltyOptionsEnum",
+      "properties": {
+        "module": "GeometryCollectionNodes",
+        "plugin": "GeometryCollectionPlugin",
+        "file": "GeometryCollectionEditNodes.h"
+      }
+    },
+    {
+      "id": "VisibiltyOptionsEnum.VISIBLE",
+      "type": "enum_value",
+      "label": "DATAFLOW_VISIBILITY_OPTIONS_VISIBLE",
+      "value": 0
+    },
+    {
+      "id": "VisibiltyOptionsEnum.INVISIBLE",
+      "type": "enum_value",
+      "label": "DATAFLOW_VISIBILITY_OPTIONS_INVISIBLE",
+      "value": 1
+    },
+    {
+      "id": "LightmassDirectionalLightSettings",
+      "type": "class",
+      "label": "LightmassDirectionalLightSettings",
+      "properties": {
+        "module": "Engine",
+        "file": "EngineTypes.h",
+        "description": "Directional light settings for Lightmass"
+      }
+    },
+    {
+      "id": "LightmassLightSettings",
+      "type": "class",
+      "label": "LightmassLightSettings"
+    },
+    {
+      "id": "RigUnit_SetVector2DAnimationChannel",
+      "type": "class",
+      "label": "RigUnit_SetVector2DAnimationChannel",
+      "properties": {
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_ControlChannel.h",
+        "description": "Set Vector2D Channel is used to set a control's animation channel value"
+      }
+    },
+    {
+      "id": "RigUnit_SetAnimationChannelBase",
+      "type": "class",
+      "label": "RigUnit_SetAnimationChannelBase"
+    },
+    {
+      "id": "EarthVegetationSettings",
+      "type": "class",
+      "label": "EarthVegetationSettings",
+      "properties": {
+        "module": "EarthMisc",
+        "plugin": "AesWorld",
+        "file": "EarthVegetationSettings.h",
+        "description": "地球植被设置"
+      }
+    },
+    {
+      "id": "EarthLayerSettingsBase",
+      "type": "class",
+      "label": "EarthLayerSettingsBase"
+    },
+    {
+      "id": "RigVMFunction_MathMatrixBinaryAggregateOp",
+      "type": "class",
+      "label": "RigVMFunction_MathMatrixBinaryAggregateOp",
+      "properties": {
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_MathMatrix.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathMatrixBase",
+      "type": "class",
+      "label": "RigVMFunction_MathMatrixBase"
+    },
+    {
+      "id": "RigUnit_SetSplinePoints",
+      "type": "class",
+      "label": "RigUnit_SetSplinePoints",
+      "properties": {
+        "module": "ControlRigSpline",
+        "plugin": "ControlRigSpline",
+        "file": "ControlRigSplineUnits.h",
+        "description": "Set the points of a spline, given a spline and an array of positions"
+      }
+    },
+    {
+      "id": "RigUnitMutable",
+      "type": "class",
+      "label": "RigUnitMutable"
+    },
+    {
+      "id": "InterpToMovementComponent_OnInterpToWaitEndDelegate",
+      "type": "class",
+      "label": "InterpToMovementComponent_OnInterpToWaitEndDelegate",
+      "properties": {
+        "module": "Engine",
+        "file": "InterpToMovementComponent.h"
+      }
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "CesiumMetadataValueBlueprintLibrary",
+      "type": "class",
+      "label": "CesiumMetadataValueBlueprintLibrary",
+      "properties": {
+        "module": "CesiumRuntime",
+        "plugin": "CesiumForUnreal",
+        "file": "CesiumMetadataValue.h"
+      }
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "UrbanSceneNode_StaticMesh",
+      "type": "class",
+      "label": "UrbanSceneNode_StaticMesh",
+      "properties": {
+        "module": "UrbanScene",
+        "plugin": "AesRuntime",
+        "file": "UrbanSceneNode_StaticMesh.h",
+        "description": "For final mesh resource or preview static mesh"
+      }
+    },
+    {
+      "id": "UrbanSceneNode_Base",
+      "type": "class",
+      "label": "UrbanSceneNode_Base"
+    },
+    {
+      "id": "DisplayClusterSceneComponentSync",
+      "type": "class",
+      "label": "DisplayClusterSceneComponentSync",
+      "properties": {
+        "module": "DisplayCluster",
+        "plugin": "nDisplay",
+        "file": "DisplayClusterSceneComponentSync.h",
+        "description": "Abstract synchronization component"
+      }
+    },
+    {
+      "id": "SceneComponent",
+      "type": "class",
+      "label": "SceneComponent"
+    },
+    {
+      "id": "RigUnit_HierarchyGetParents",
+      "type": "class",
+      "label": "RigUnit_HierarchyGetParents",
+      "properties": {
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_Hierarchy.h",
+        "description": "Returns the item's parents"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyBase",
+      "type": "class",
+      "label": "RigUnit_HierarchyBase"
+    },
+    {
+      "id": "XRHandTrackingState",
+      "type": "class",
+      "label": "XRHandTrackingState",
+      "properties": {
+        "module": "HeadMountedDisplay",
+        "file": "HeadMountedDisplayTypes.h"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "AvaFontConfig",
+      "type": "class",
+      "label": "AvaFontConfig",
+      "properties": {
+        "module": "AvalancheTextEditor",
+        "plugin": "Avalanche",
+        "file": "AvaFontManagerSubsystem.h"
+      }
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "AvaSplineSweepSampleMode",
+      "type": "enum",
+      "label": "AvaSplineSweepSampleMode",
+      "properties": {
+        "module": "AvalancheModifiers",
+        "plugin": "Avalanche",
+        "file": "AvaSplineSweepModifier.h"
+      }
+    },
+    {
+      "id": "AvaSplineSweepSampleMode.FULL_DISTANCE",
+      "type": "enum_value",
+      "label": "FULL_DISTANCE",
+      "value": 0,
+      "description": "Samples the full spline distance : steps on the full distance"
+    },
+    {
+      "id": "AvaSplineSweepSampleMode.CUSTOM_DISTANCE",
+      "type": "enum_value",
+      "label": "CUSTOM_DISTANCE",
+      "value": 1,
+      "description": "Samples a custom distance : steps per custom distance"
+    },
+    {
+      "id": "RigUnit_Control",
+      "type": "class",
+      "label": "RigUnit_Control",
+      "properties": {
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_Control.h",
+        "description": "A control unit used to drive a transform from an external source"
+      }
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit"
+    },
+    {
+      "id": "RigUnit_MathDoubleRemap",
+      "type": "class",
+      "label": "RigUnit_MathDoubleRemap",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "RigVMFunction_MathDoubleRemap"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleRemap",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleRemap"
+    },
+    {
+      "id": "ViewportSceneFileParams",
+      "type": "class",
+      "label": "ViewportSceneFileParams",
+      "properties": {
+        "module": "CustomProgram",
+        "plugin": "CustomProgram",
+        "file": "CustomProgramLibrary.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorAngle",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorAngle",
+      "properties": {
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_MathVector.h",
+        "description": "Returns the angle between two vectors in radians"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorBase",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorBase"
+    },
+    {
+      "id": "Color",
+      "type": "type",
+      "label": "Color"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "bool",
+      "type": "type",
+      "label": "bool"
+    },
+    {
+      "id": "Vector2D",
+      "type": "type",
+      "label": "Vector2D"
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "type",
+      "label": "ControlRigExecuteContext"
+    },
+    {
+      "id": "SoftObjectPath",
+      "type": "type",
+      "label": "SoftObjectPath"
+    },
+    {
+      "id": "IntPoint",
+      "type": "type",
+      "label": "IntPoint"
+    },
+    {
+      "id": "int32",
+      "type": "type",
+      "label": "int32"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "float",
+      "type": "type",
+      "label": "float"
+    },
+    {
+      "id": "Array",
+      "type": "type",
+      "label": "Array"
+    },
+    {
+      "id": "Map",
+      "type": "type",
+      "label": "Map"
+    },
+    {
+      "id": "Matrix",
+      "type": "type",
+      "label": "Matrix"
+    },
+    {
+      "id": "ControlRigSpline",
+      "type": "type",
+      "label": "ControlRigSpline"
+    },
+    {
+      "id": "HitResult",
+      "type": "type",
+      "label": "HitResult"
+    },
+    {
+      "id": "CesiumMetadataValue",
+      "type": "type",
+      "label": "CesiumMetadataValue"
+    },
+    {
+      "id": "Vector4",
+      "type": "type",
+      "label": "Vector4"
+    },
+    {
+      "id": "Vector3f",
+      "type": "type",
+      "label": "Vector3f"
+    },
+    {
+      "id": "CesiumMetadataValueType",
+      "type": "type",
+      "label": "CesiumMetadataValueType"
+    },
+    {
+      "id": "str",
+      "type": "type",
+      "label": "str"
+    },
+    {
+      "id": "IntVector",
+      "type": "type",
+      "label": "IntVector"
+    },
+    {
+      "id": "int64",
+      "type": "type",
+      "label": "int64"
+    },
+    {
+      "id": "int",
+      "type": "type",
+      "label": "int"
+    },
+    {
+      "id": "double",
+      "type": "type",
+      "label": "double"
+    },
+    {
+      "id": "uint8",
+      "type": "type",
+      "label": "uint8"
+    },
+    {
+      "id": "CesiumMetadataBlueprintType",
+      "type": "type",
+      "label": "CesiumMetadataBlueprintType"
+    },
+    {
+      "id": "CesiumPropertyArray",
+      "type": "type",
+      "label": "CesiumPropertyArray"
+    },
+    {
+      "id": "StaticMesh",
+      "type": "type",
+      "label": "StaticMesh"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "SoftClassPath",
+      "type": "type",
+      "label": "SoftClassPath"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "type",
+      "label": "RigElementKey"
+    },
+    {
+      "id": "RigElementKeyCollection",
+      "type": "type",
+      "label": "RigElementKeyCollection"
+    },
+    {
+      "id": "Guid",
+      "type": "type",
+      "label": "Guid"
+    },
+    {
+      "id": "XRSpaceType",
+      "type": "type",
+      "label": "XRSpaceType"
+    },
+    {
+      "id": "ControllerHand",
+      "type": "type",
+      "label": "ControllerHand"
+    },
+    {
+      "id": "TrackingStatus",
+      "type": "type",
+      "label": "TrackingStatus"
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "label": "Quat"
+    },
+    {
+      "id": "EulerTransform",
+      "type": "type",
+      "label": "EulerTransform"
+    },
+    {
+      "id": "TransformFilter",
+      "type": "type",
+      "label": "TransformFilter"
+    },
+    {
+      "id": "CustomModelInfo",
+      "type": "type",
+      "label": "CustomModelInfo"
+    },
+    {
+      "id": "EarthVegetationLevelConfig",
+      "type": "type",
+      "label": "EarthVegetationLevelConfig"
+    },
+    {
+      "id": "EarthLodFIDArray",
+      "type": "type",
+      "label": "UrbanLodFIDArray"
+    },
+    {
+      "id": "Actor",
+      "type": "type",
+      "label": "Actor"
+    },
+    {
+      "id": "StaticMeshComponent",
+      "type": "type",
+      "label": "StaticMeshComponent"
+    },
+    {
+      "id": "ParticleSystemLODMethod",
+      "type": "type",
+      "label": "ParticleSystemLODMethod"
+    },
+    {
+      "id": "ParticleSystemOcclusionBoundsMethod",
+      "type": "type",
+      "label": "ParticleSystemOcclusionBoundsMethod"
+    },
+    {
+      "id": "ParticleSystemInsignificanceReaction",
+      "type": "type",
+      "label": "ParticleSystemInsignificanceReaction"
+    },
+    {
+      "id": "ParticleSignificanceLevel",
+      "type": "type",
+      "label": "ParticleSignificanceLevel"
+    },
+    {
+      "id": "ParticleSystemUpdateMode",
+      "type": "type",
+      "label": "ParticleSystemUpdateMode"
+    },
+    {
+      "id": "NamedEmitterMaterial",
+      "type": "type",
+      "label": "NamedEmitterMaterial"
+    },
+    {
+      "id": "ParticleSystemLOD",
+      "type": "type",
+      "label": "ParticleSystemLOD"
+    },
+    {
+      "id": "Box",
+      "type": "type",
+      "label": "Box"
+    },
+    {
+      "id": "Class",
+      "type": "type",
+      "label": "Class"
+    }
+  ],
+  "edges": [
+    {
+      "source": "ParticleSystem",
+      "target": "FXSystemAsset",
+      "type": "inherits"
+    },
+    {
+      "source": "AnimNotify_PlayMontageNotifyWindow",
+      "target": "AnimNotifyState",
+      "type": "inherits"
+    },
+    {
+      "source": "LightmassDirectionalLightSettings",
+      "target": "LightmassLightSettings",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_SetVector2DAnimationChannel",
+      "target": "RigUnit_SetAnimationChannelBase",
+      "type": "inherits"
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "EarthLayerSettingsBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigVMFunction_MathMatrixBinaryAggregateOp",
+      "target": "RigVMFunction_MathMatrixBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_SetSplinePoints",
+      "target": "RigUnitMutable",
+      "type": "inherits"
+    },
+    {
+      "source": "InterpToMovementComponent_OnInterpToWaitEndDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits"
+    },
+    {
+      "source": "UrbanSceneNode_StaticMesh",
+      "target": "UrbanSceneNode_Base",
+      "type": "inherits"
+    },
+    {
+      "source": "DisplayClusterSceneComponentSync",
+      "target": "SceneComponent",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_HierarchyGetParents",
+      "target": "RigUnit_HierarchyBase",
+      "type": "inherits"
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "AvaFontConfig",
+      "target": "Object",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_Control",
+      "target": "RigUnit",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_MathDoubleRemap",
+      "target": "RigVMFunction_MathDoubleRemap",
+      "type": "renamed_to"
+    },
+    {
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "RigVMFunction_MathVectorBase",
+      "type": "inherits"
+    },
+    {
+      "source": "ViewportSceneFileParams",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "EarthLayerType.NONE",
+      "target": "EarthLayerType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "EarthLayerType.TERRAIN",
+      "target": "EarthLayerType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "EarthLayerType.VEGETATION",
+      "target": "EarthLayerType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "EarthLayerType.WATER",
+      "target": "EarthLayerType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "EarthLayerType.ROAD",
+      "target": "EarthLayerType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "EarthLayerType.BUILDING",
+      "target": "EarthLayerType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "EarthLayerType.MAX",
+      "target": "EarthLayerType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "PinBoneType.FULL_TRANSFORM",
+      "target": "PinBoneType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "PinBoneType.TRANSLATE_ONLY",
+      "target": "PinBoneType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "PinBoneType.ROTATE_ONLY",
+      "target": "PinBoneType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "PinBoneType.SCALE_ONLY",
+      "target": "PinBoneType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "VisibiltyOptionsEnum.VISIBLE",
+      "target": "VisibiltyOptionsEnum",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "VisibiltyOptionsEnum.INVISIBLE",
+      "target": "VisibiltyOptionsEnum",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "AvaSplineSweepSampleMode.FULL_DISTANCE",
+      "target": "AvaSplineSweepSampleMode",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "AvaSplineSweepSampleMode.CUSTOM_DISTANCE",
+      "target": "AvaSplineSweepSampleMode",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "AnimNotify_PlayMontageNotifyWindow",
+      "target": "Color",
+      "type": "has_property",
+      "properties": {
+        "property_name": "notify_color"
+      }
+    },
+    {
+      "source": "AnimNotify_PlayMontageNotifyWindow",
+      "target": "Name",
+      "type": "has_property",
+      "properties": {
+        "property_name": "notify_name"
+      }
+    },
+    {
+      "source": "AnimNotify_PlayMontageNotifyWindow",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "should_fire_in_editor"
+      }
+    },
+    {
+      "source": "ParticleSystem",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "allow_managed_ticking"
+      }
+    },
+    {
+      "source": "ParticleSystem",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "delay"
+      }
+    },
+    {
+      "source": "ParticleSystem",
+      "target": "Box",
+      "type": "has_property",
+      "properties": {
+        "property_name": "custom_occlusion_bounds"
+      }
+    },
+    {
+      "source": "ParticleSystem",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "lod_distances"
+      }
+    },
+    {
+      "source": "ParticleSystem",
+      "target": "ParticleSystemLODMethod",
+      "type": "has_property",
+      "properties": {
+        "property_name": "lod_method"
+      }
+    },
+    {
+      "source": "ParticleSystem",
+      "target": "Vector",
+      "type": "has_property",
+      "properties": {
+        "property_name": "macro_uv_position"
+      }
+    },
+    {
+      "source": "LightmassDirectionalLightSettings",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "indirect_lighting_saturation"
+      }
+    },
+    {
+      "source": "LightmassDirectionalLightSettings",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "light_source_angle"
+      }
+    },
+    {
+      "source": "LightmassDirectionalLightSettings",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "shadow_exponent"
+      }
+    },
+    {
+      "source": "LightmassDirectionalLightSettings",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "use_area_shadows_for_stationary_light"
+      }
+    },
+    {
+      "source": "RigUnit_SetVector2DAnimationChannel",
+      "target": "Name",
+      "type": "has_property",
+      "properties": {
+        "property_name": "channel"
+      }
+    },
+    {
+      "source": "RigUnit_SetVector2DAnimationChannel",
+      "target": "Name",
+      "type": "has_property",
+      "properties": {
+        "property_name": "control"
+      }
+    },
+    {
+      "source": "RigUnit_SetVector2DAnimationChannel",
+      "target": "ControlRigExecuteContext",
+      "type": "has_property",
+      "properties": {
+        "property_name": "execute_context"
+      }
+    },
+    {
+      "source": "RigUnit_SetVector2DAnimationChannel",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "initial"
+      }
+    },
+    {
+      "source": "RigUnit_SetVector2DAnimationChannel",
+      "target": "Vector2D",
+      "type": "has_property",
+      "properties": {
+        "property_name": "value"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "cache_levels"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "cast_shadow"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "SoftObjectPath",
+      "type": "has_property",
+      "properties": {
+        "property_name": "city_vegetation_biome_rule_data_table"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "int32",
+      "type": "has_property",
+      "properties": {
+        "property_name": "default_eco_id"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "SoftObjectPath",
+      "type": "has_property",
+      "properties": {
+        "property_name": "default_vegetation_biome_rule_data_table"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "IntPoint",
+      "type": "has_property",
+      "properties": {
+        "property_name": "degree_range"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "global_density_scale"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "Vector",
+      "type": "has_property",
+      "properties": {
+        "property_name": "random_offset"
+      }
+    },
+    {
+      "source": "EarthVegetationSettings",
+      "target": "Map",
+      "type": "has_property",
+      "properties": {
+        "property_name": "level_config"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathMatrixBinaryAggregateOp",
+      "target": "Matrix",
+      "type": "has_property",
+      "properties": {
+        "property_name": "a"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathMatrixBinaryAggregateOp",
+      "target": "Matrix",
+      "type": "has_property",
+      "properties": {
+        "property_name": "b"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathMatrixBinaryAggregateOp",
+      "target": "Matrix",
+      "type": "has_property",
+      "properties": {
+        "property_name": "result"
+      }
+    },
+    {
+      "source": "RigUnit_SetSplinePoints",
+      "target": "ControlRigExecuteContext",
+      "type": "has_property",
+      "properties": {
+        "property_name": "execute_context"
+      }
+    },
+    {
+      "source": "RigUnit_SetSplinePoints",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "points"
+      }
+    },
+    {
+      "source": "RigUnit_SetSplinePoints",
+      "target": "ControlRigSpline",
+      "type": "has_property",
+      "properties": {
+        "property_name": "spline"
+      }
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "CesiumMetadataValue",
+      "type": "has_parameter"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "bool",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "Vector4",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "Vector3f",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "Vector2D",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "Vector",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "CesiumMetadataValueType",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "Map",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "str",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "Matrix",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "IntVector",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "IntPoint",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "int64",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "int",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "double",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "float",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "uint8",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "CesiumMetadataBlueprintType",
+      "type": "returns"
+    },
+    {
+      "source": "CesiumMetadataValueBlueprintLibrary",
+      "target": "CesiumPropertyArray",
+      "type": "returns"
+    },
+    {
+      "source": "UrbanSceneNode_StaticMesh",
+      "target": "StaticMesh",
+      "type": "has_property",
+      "properties": {
+        "property_name": "static_mesh"
+      }
+    },
+    {
+      "source": "UrbanSceneNode_StaticMesh",
+      "target": "Transform",
+      "type": "has_property",
+      "properties": {
+        "property_name": "local_to_parent_transform"
+      }
+    },
+    {
+      "source": "UrbanSceneNode_StaticMesh",
+      "target": "SoftClassPath",
+      "type": "has_property",
+      "properties": {
+        "property_name": "resource_class"
+      }
+    },
+    {
+      "source": "UrbanSceneNode_StaticMesh",
+      "target": "Name",
+      "type": "has_property",
+      "properties": {
+        "property_name": "resource_key"
+      }
+    },
+    {
+      "source": "UrbanSceneNode_StaticMesh",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "fid_buffs"
+      }
+    },
+    {
+      "source": "UrbanSceneNode_StaticMesh",
+      "target": "Actor",
+      "type": "has_parameter"
+    },
+    {
+      "source": "UrbanSceneNode_StaticMesh",
+      "target": "Array",
+      "type": "returns"
+    },
+    {
+      "source": "RigUnit_HierarchyGetParents",
+      "target": "RigElementKey",
+      "type": "has_property",
+      "properties": {
+        "property_name": "child"
+      }
+    },
+    {
+      "source": "RigUnit_HierarchyGetParents",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "include_child"
+      }
+    },
+    {
+      "source": "RigUnit_HierarchyGetParents",
+      "target": "RigElementKeyCollection",
+      "type": "has_property",
+      "properties": {
+        "property_name": "parents"
+      }
+    },
+    {
+      "source": "RigUnit_HierarchyGetParents",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "reverse"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "valid"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "Name",
+      "type": "has_property",
+      "properties": {
+        "property_name": "device_name"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "Guid",
+      "type": "has_property",
+      "properties": {
+        "property_name": "application_instance_id"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "XRSpaceType",
+      "type": "has_property",
+      "properties": {
+        "property_name": "xr_space_type"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "ControllerHand",
+      "type": "has_property",
+      "properties": {
+        "property_name": "hand"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "TrackingStatus",
+      "type": "has_property",
+      "properties": {
+        "property_name": "tracking_status"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "hand_key_locations"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "hand_key_rotations"
+      }
+    },
+    {
+      "source": "XRHandTrackingState",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "hand_key_radii"
+      }
+    },
+    {
+      "source": "AvaFontConfig",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "favorite_fonts"
+      }
+    },
+    {
+      "source": "AvaFontConfig",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "show_only_bold"
+      }
+    },
+    {
+      "source": "AvaFontConfig",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "show_only_italic"
+      }
+    },
+    {
+      "source": "AvaFontConfig",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "show_only_monospaced"
+      }
+    },
+    {
+      "source": "RigUnit_Control",
+      "target": "EulerTransform",
+      "type": "has_property",
+      "properties": {
+        "property_name": "transform"
+      }
+    },
+    {
+      "source": "RigUnit_Control",
+      "target": "Transform",
+      "type": "has_property",
+      "properties": {
+        "property_name": "base"
+      }
+    },
+    {
+      "source": "RigUnit_Control",
+      "target": "Transform",
+      "type": "has_property",
+      "properties": {
+        "property_name": "init_transform"
+      }
+    },
+    {
+      "source": "RigUnit_Control",
+      "target": "Transform",
+      "type": "has_property",
+      "properties": {
+        "property_name": "result"
+      }
+    },
+    {
+      "source": "RigUnit_Control",
+      "target": "TransformFilter",
+      "type": "has_property",
+      "properties": {
+        "property_name": "filter"
+      }
+    },
+    {
+      "source": "RigUnit_MathDoubleRemap",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "value"
+      }
+    },
+    {
+      "source": "RigUnit_MathDoubleRemap",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "source_minimum"
+      }
+    },
+    {
+      "source": "RigUnit_MathDoubleRemap",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "source_maximum"
+      }
+    },
+    {
+      "source": "RigUnit_MathDoubleRemap",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "target_minimum"
+      }
+    },
+    {
+      "source": "RigUnit_MathDoubleRemap",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "target_maximum"
+      }
+    },
+    {
+      "source": "RigUnit_MathDoubleRemap",
+      "target": "bool",
+      "type": "has_property",
+      "properties": {
+        "property_name": "clamp"
+      }
+    },
+    {
+      "source": "RigUnit_MathDoubleRemap",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "result"
+      }
+    },
+    {
+      "source": "ViewportSceneFileParams",
+      "target": "str",
+      "type": "has_property",
+      "properties": {
+        "property_name": "scene_file_name"
+      }
+    },
+    {
+      "source": "ViewportSceneFileParams",
+      "target": "str",
+      "type": "has_property",
+      "properties": {
+        "property_name": "author"
+      }
+    },
+    {
+      "source": "ViewportSceneFileParams",
+      "target": "str",
+      "type": "has_property",
+      "properties": {
+        "property_name": "time"
+      }
+    },
+    {
+      "source": "ViewportSceneFileParams",
+      "target": "str",
+      "type": "has_property",
+      "properties": {
+        "property_name": "sence_id"
+      }
+    },
+    {
+      "source": "ViewportSceneFileParams",
+      "target": "Array",
+      "type": "has_property",
+      "properties": {
+        "property_name": "model_info"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "Vector",
+      "type": "has_property",
+      "properties": {
+        "property_name": "a"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "Vector",
+      "type": "has_property",
+      "properties": {
+        "property_name": "b"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "float",
+      "type": "has_property",
+      "properties": {
+        "property_name": "result"
+      }
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_earth_layer_types",
+      "label": "Earth Layer Type System",
+      "nodes": [
+        "EarthLayerType",
+        "EarthLayerType.NONE",
+        "EarthLayerType.TERRAIN",
+        "EarthLayerType.VEGETATION",
+        "EarthLayerType.WATER",
+        "EarthLayerType.ROAD",
+        "EarthLayerType.BUILDING",
+        "EarthLayerType.MAX",
+        "EarthVegetationSettings",
+        "EarthLayerSettingsBase"
+      ],
+      "description": "Earth layer classification system for terrain, vegetation, water, roads, and buildings"
+    },
+    {
+      "id": "he_pin_bone_types",
+      "label": "IK Rig Bone Pin Types",
+      "nodes": [
+        "PinBoneType",
+        "PinBoneType.FULL_TRANSFORM",
+        "PinBoneType.TRANSLATE_ONLY",
+        "PinBoneType.ROTATE_ONLY",
+        "PinBoneType.SCALE_ONLY"
+      ],
+      "description": "Bone transformation constraint types for IK rigging system"
+    },
+    {
+      "id": "he_control_rig_system",
+      "label": "Control Rig System",
+      "nodes": [
+        "RigUnit_SetVector2DAnimationChannel",
+        "RigUnit_SetAnimationChannelBase",
+        "RigUnit_Control",
+        "RigUnit_HierarchyGetParents",
+        "RigUnit_SetSplinePoints",
+        "RigUnit",
+        "RigUnitMutable",
+        "RigUnit_HierarchyBase",
+        "RigVMFunction_MathMatrixBinaryAggregateOp",
+        "RigVMFunction_MathMatrixBase",
+        "RigVMFunction_MathVectorAngle",
+        "RigVMFunction_MathVectorBase",
+        "RigVMFunction_MathDoubleRemap",
+        "RigUnit_MathDoubleRemap"
+      ],
+      "description": "Control rig system for animation and procedural rigging"
+    },
+    {
+      "id": "he_particle_system",
+      "label": "Particle System Framework",
+      "nodes": [
+        "ParticleSystem",
+        "FXSystemAsset"
+      ],
+      "description": "Particle system for visual effects"
+    },
+    {
+      "id": "he_anim_notify_system",
+      "label": "Animation Notification System",
+      "nodes": [
+        "AnimNotify_PlayMontageNotifyWindow",
+        "AnimNotifyState"
+      ],
+      "description": "Animation notification system for event triggers"
+    },
+    {
+      "id": "he_lightmass_settings",
+      "label": "Lightmass Lighting System",
+      "nodes": [
+        "LightmassDirectionalLightSettings",
+        "LightmassLightSettings"
+      ],
+      "description": "Lightmass settings for baked lighting"
+    },
+    {
+      "id": "he_cesium_metadata",
+      "label": "Cesium Metadata System",
+      "nodes": [
+        "CesiumMetadataValueBlueprintLibrary",
+        "BlueprintFunctionLibrary",
+        "CesiumMetadataValue",
+        "CesiumMetadataValueType",
+        "CesiumMetadataBlueprintType",
+        "CesiumPropertyArray"
+      ],
+      "description": "Cesium metadata value conversion and management system"
+    },
+    {
+      "id": "he_display_cluster",
+      "label": "nDisplay Synchronization System",
+      "nodes": [
+        "DisplayClusterSceneComponentSync",
+        "SceneComponent"
+      ],
+      "description": "nDisplay synchronization component for multi-display setups"
+    },
+    {
+      "id": "he_xr_hand_tracking",
+      "label": "XR Hand Tracking System",
+      "nodes": [
+        "XRHandTrackingState",
+        "StructBase",
+        "ControllerHand",
+        "TrackingStatus",
+        "XRSpaceType"
+      ],
+      "description": "XR hand tracking state and pose data"
+    },
+    {
+      "id": "he_avalanche_system",
+      "label": "Avalanche Plugin System",
+      "nodes": [
+        "AvaFontConfig",
+        "AvaSplineSweepSampleMode",
+        "AvaSplineSweepSampleMode.FULL_DISTANCE",
+        "AvaSplineSweepSampleMode.CUSTOM_DISTANCE",
+        "Object"
+      ],
+      "description": "Avalanche plugin components for font management and spline operations"
+    },
+    {
+      "id": "he_visibility_enum",
+      "label": "Geometry Collection Visibility",
+      "nodes": [
+        "VisibiltyOptionsEnum",
+        "VisibiltyOptionsEnum.VISIBLE",
+        "VisibiltyOptionsEnum.INVISIBLE"
+      ],
+      "description": "Visibility options for geometry collection nodes"
+    },
+    {
+      "id": "he_urban_scene",
+      "label": "Urban Scene System",
+      "nodes": [
+        "UrbanSceneNode_StaticMesh",
+        "UrbanSceneNode_Base"
+      ],
+      "description": "Urban scene static mesh node system"
+    },
+    {
+      "id": "he_viewport_scene",
+      "label": "Viewport Scene File System",
+      "nodes": [
+        "ViewportSceneFileParams",
+        "StructBase",
+        "CustomModelInfo"
+      ],
+      "description": "Viewport scene file parameter management"
+    }
+  ]
+}

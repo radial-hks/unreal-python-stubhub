@@ -1,0 +1,1107 @@
+{
+  "nodes": [
+    {
+      "id": "gltruntimeskeletonboneremapperhook_gltruntimeskeletonboneremapperhook",
+      "label": "glTFRuntimeSkeletonBoneRemapperHook",
+      "file_type": "code",
+      "source_file": "glTFRuntimeSkeletonBoneRemapperHook Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filterinterpolationtype_filterinterpolationtype",
+      "label": "FilterInterpolationType",
+      "file_type": "code",
+      "source_file": "FilterInterpolationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "edgraphnode_edgraphnode",
+      "label": "EdGraphNode",
+      "file_type": "code",
+      "source_file": "EdGraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphconditiongroupquery_componenttagname_moviegraphconditiongroupquery_componenttagname",
+      "label": "MovieGraphConditionGroupQuery_ComponentTagName",
+      "file_type": "code",
+      "source_file": "MovieGraphConditionGroupQuery_ComponentTagName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitypickatom_entitypickatom",
+      "label": "EntityPickAtom",
+      "file_type": "code",
+      "source_file": "EntityPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userdefinedstruct_userdefinedstruct",
+      "label": "UserDefinedStruct",
+      "file_type": "code",
+      "source_file": "UserDefinedStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnodebinding_animgraphnodebinding",
+      "label": "AnimGraphNodeBinding",
+      "file_type": "code",
+      "source_file": "AnimGraphNodeBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformconstraint_transformconstraint",
+      "label": "TransformConstraint",
+      "file_type": "code",
+      "source_file": "TransformConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrigpbiksolver_ikrigpbiksolver",
+      "label": "IKRigPBIKSolver",
+      "file_type": "code",
+      "source_file": "IKRigPBIKSolver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionfractal3d_materialexpressionfractal3d",
+      "label": "MaterialExpressionFractal3D",
+      "file_type": "code",
+      "source_file": "MaterialExpressionFractal3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scalebox_scalebox",
+      "label": "ScaleBox",
+      "file_type": "code",
+      "source_file": "ScaleBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbikendeffector_fbikendeffector",
+      "label": "FBIKEndEffector",
+      "file_type": "code",
+      "source_file": "FBIKEndEffector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanbuildnode_urbanbuildnode",
+      "label": "UrbanBuildNode",
+      "file_type": "code",
+      "source_file": "UrbanBuildNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aidynamicparam_aidynamicparam",
+      "label": "AIDynamicParam",
+      "file_type": "code",
+      "source_file": "AIDynamicParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatmul_rigunit_mathfloatmul",
+      "label": "RigUnit_MathFloatMul",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setshapetransform_rigunit_setshapetransform",
+      "label": "RigUnit_SetShapeTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_SetShapeTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptnonuniformpointsamplingoptions_geometryscriptnonuniformpointsamplingoptions",
+      "label": "GeometryScriptNonUniformPointSamplingOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptNonUniformPointSamplingOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatclamp_rigvmfunction_mathfloatclamp",
+      "label": "RigVMFunction_MathFloatClamp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorbase_rigunit_mathvectorbase",
+      "label": "RigUnit_MathVectorBase",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "label": "RigUnit_ChainHarmonicsPerItem",
+      "file_type": "code",
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "map_map",
+      "label": "Map",
+      "file_type": "code",
+      "source_file": "Map Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlineproxyinappcheckoutresult_onlineproxyinappcheckoutresult",
+      "label": "OnlineProxyInAppCheckoutResult",
+      "file_type": "code",
+      "source_file": "OnlineProxyInAppCheckoutResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "glTFRuntimeSkeletonBoneRemapperHook Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "glTFRuntimeSkeletonBoneRemapperHook Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltruntimeboneremapper_gltruntimeboneremapper",
+      "label": "glTFRuntimeBoneRemapper",
+      "file_type": "code",
+      "source_file": "glTFRuntimeSkeletonBoneRemapperHook Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphconditiongroupquerybase_moviegraphconditiongroupquerybase",
+      "label": "MovieGraphConditionGroupQueryBase",
+      "file_type": "code",
+      "source_file": "MovieGraphConditionGroupQuery_ComponentTagName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase_entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "code",
+      "source_file": "EntityPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scriptstruct_scriptstruct",
+      "label": "ScriptStruct",
+      "file_type": "code",
+      "source_file": "UserDefinedStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintdescription_constraintdescription",
+      "label": "ConstraintDescription",
+      "file_type": "code",
+      "source_file": "TransformConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrigfbiksolver_ikrigfbiksolver",
+      "label": "IKRigFBIKSolver",
+      "file_type": "code",
+      "source_file": "IKRigPBIKSolver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxfractal3d_materialexpressionmaterialxfractal3d",
+      "label": "MaterialExpressionMaterialXFractal3D",
+      "file_type": "code",
+      "source_file": "MaterialExpressionFractal3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentwidget_contentwidget",
+      "label": "ContentWidget",
+      "file_type": "code",
+      "source_file": "ScaleBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stretch_stretch",
+      "label": "Stretch",
+      "file_type": "code",
+      "source_file": "ScaleBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stretchdirection_stretchdirection",
+      "label": "StretchDirection",
+      "file_type": "code",
+      "source_file": "ScaleBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "FBIKEndEffector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aiparamtype_aiparamtype",
+      "label": "AIParamType",
+      "file_type": "code",
+      "source_file": "AIDynamicParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blackboardkeyselector_blackboardkeyselector",
+      "label": "BlackboardKeySelector",
+      "file_type": "code",
+      "source_file": "AIDynamicParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmul_rigvmfunction_mathfloatmul",
+      "label": "RigVMFunction_MathFloatMul",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_SetShapeTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit_SetShapeTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsamplingdistributionmode_geometryscriptsamplingdistributionmode",
+      "label": "GeometryScriptSamplingDistributionMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptNonUniformPointSamplingOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsamplingweightmode_geometryscriptsamplingweightmode",
+      "label": "GeometryScriptSamplingWeightMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptNonUniformPointSamplingOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction_MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction_MathVectorBase",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_chainharmonics_reach_rigunit_chainharmonics_reach",
+      "label": "RigUnit_ChainHarmonics_Reach",
+      "file_type": "code",
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_chainharmonics_wave_rigunit_chainharmonics_wave",
+      "label": "RigUnit_ChainHarmonics_Wave",
+      "file_type": "code",
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_chainharmonics_pendulum_rigunit_chainharmonics_pendulum",
+      "label": "RigUnit_ChainHarmonics_Pendulum",
+      "file_type": "code",
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimefloatcurve_runtimefloatcurve",
+      "label": "RuntimeFloatCurve",
+      "file_type": "code",
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "OnlineProxyInAppCheckoutResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inapppurchasestatus_inapppurchasestatus",
+      "label": "InAppPurchaseStatus",
+      "file_type": "code",
+      "source_file": "OnlineProxyInAppCheckoutResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inapppurchasereceiptinfo2_inapppurchasereceiptinfo2",
+      "label": "InAppPurchaseReceiptInfo2",
+      "file_type": "code",
+      "source_file": "OnlineProxyInAppCheckoutResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "gltruntimeskeletonboneremapperhook_gltruntimeskeletonboneremapperhook",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeSkeletonBoneRemapperHook Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltruntimeskeletonboneremapperhook_gltruntimeskeletonboneremapperhook",
+      "target": "object_object",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "glTFRuntimeSkeletonBoneRemapperHook Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltruntimeskeletonboneremapperhook_gltruntimeskeletonboneremapperhook",
+      "target": "gltruntimeboneremapper_gltruntimeboneremapper",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "glTFRuntimeSkeletonBoneRemapperHook Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "edgraphnode_edgraphnode",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EdGraphNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphconditiongroupquery_componenttagname_moviegraphconditiongroupquery_componenttagname",
+      "target": "moviegraphconditiongroupquerybase_moviegraphconditiongroupquerybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphConditionGroupQuery_ComponentTagName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entitypickatom_entitypickatom",
+      "target": "entityatombase_entityatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityPickAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "userdefinedstruct_userdefinedstruct",
+      "target": "scriptstruct_scriptstruct",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UserDefinedStruct Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnodebinding_animgraphnodebinding",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNodeBinding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformconstraint_transformconstraint",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransformConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformconstraint_transformconstraint",
+      "target": "constraintdescription_constraintdescription",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TransformConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrigpbiksolver_ikrigpbiksolver",
+      "target": "ikrigfbiksolver_ikrigfbiksolver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRigPBIKSolver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfractal3d_materialexpressionfractal3d",
+      "target": "materialexpressionmaterialxfractal3d_materialexpressionmaterialxfractal3d",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFractal3D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scalebox_scalebox",
+      "target": "contentwidget_contentwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScaleBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scalebox_scalebox",
+      "target": "stretch_stretch",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ScaleBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scalebox_scalebox",
+      "target": "stretchdirection_stretchdirection",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ScaleBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbikendeffector_fbikendeffector",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FBIKEndEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbikendeffector_fbikendeffector",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FBIKEndEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanbuildnode_urbanbuildnode",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanBuildNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aidynamicparam_aidynamicparam",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIDynamicParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aidynamicparam_aidynamicparam",
+      "target": "aiparamtype_aiparamtype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AIDynamicParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aidynamicparam_aidynamicparam",
+      "target": "blackboardkeyselector_blackboardkeyselector",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AIDynamicParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatmul_rigunit_mathfloatmul",
+      "target": "rigvmfunction_mathfloatmul_rigvmfunction_mathfloatmul",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setshapetransform_rigunit_setshapetransform",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetShapeTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setshapetransform_rigunit_setshapetransform",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetShapeTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptnonuniformpointsamplingoptions_geometryscriptnonuniformpointsamplingoptions",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptNonUniformPointSamplingOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptnonuniformpointsamplingoptions_geometryscriptnonuniformpointsamplingoptions",
+      "target": "geometryscriptsamplingdistributionmode_geometryscriptsamplingdistributionmode",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptNonUniformPointSamplingOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptnonuniformpointsamplingoptions_geometryscriptnonuniformpointsamplingoptions",
+      "target": "geometryscriptsamplingweightmode_geometryscriptsamplingweightmode",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptNonUniformPointSamplingOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatclamp_rigvmfunction_mathfloatclamp",
+      "target": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbase_rigunit_mathvectorbase",
+      "target": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "target": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "target": "rigunit_chainharmonics_reach_rigunit_chainharmonics_reach",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "target": "rigunit_chainharmonics_wave_rigunit_chainharmonics_wave",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "target": "rigunit_chainharmonics_pendulum_rigunit_chainharmonics_pendulum",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "target": "runtimefloatcurve_runtimefloatcurve",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlineproxyinappcheckoutresult_onlineproxyinappcheckoutresult",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnlineProxyInAppCheckoutResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlineproxyinappcheckoutresult_onlineproxyinappcheckoutresult",
+      "target": "inapppurchasestatus_inapppurchasestatus",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnlineProxyInAppCheckoutResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlineproxyinappcheckoutresult_onlineproxyinappcheckoutresult",
+      "target": "inapppurchasereceiptinfo2_inapppurchasereceiptinfo2",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnlineProxyInAppCheckoutResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbikendeffector_fbikendeffector",
+      "target": "ikrigfbiksolver_ikrigfbiksolver",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "FBIKEndEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbikendeffector_fbikendeffector",
+      "target": "ikrigpbiksolver_ikrigpbiksolver",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "FBIKEndEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatclamp_rigvmfunction_mathfloatclamp",
+      "target": "rigvmfunction_mathfloatmul_rigvmfunction_mathfloatmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathFloatClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatclamp_rigvmfunction_mathfloatclamp",
+      "target": "rigunit_mathfloatmul_rigunit_mathfloatmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathFloatClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "target": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathFloatClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrigpbiksolver_ikrigpbiksolver",
+      "target": "materialexpressionfractal3d_materialexpressionfractal3d",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "IKRigPBIKSolver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatmul_rigunit_mathfloatmul",
+      "target": "rigunit_mathvectorbase_rigunit_mathvectorbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_MathFloatMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+      "target": "rigunit_setshapetransform_rigunit_setshapetransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__ChainHarmonicsPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphconditiongroupquery_componenttagname_moviegraphconditiongroupquery_componenttagname",
+      "target": "transformconstraint_transformconstraint",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MovieGraphConditionGroupQuery_ComponentTagName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_api_classes",
+      "label": "Deprecated API Classes (Renamed)",
+      "nodes": [
+        "ikrigpbiksolver_ikrigpbiksolver",
+        "materialexpressionfractal3d_materialexpressionfractal3d",
+        "rigunit_mathfloatmul_rigunit_mathfloatmul",
+        "rigunit_mathvectorbase_rigunit_mathvectorbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRigPBIKSolver Objects.md"
+    },
+    {
+      "id": "rig_math_operations",
+      "label": "Rig Math Operation Classes",
+      "nodes": [
+        "rigvmfunction_mathfloatclamp_rigvmfunction_mathfloatclamp",
+        "rigvmfunction_mathfloatmul_rigvmfunction_mathfloatmul",
+        "rigunit_mathfloatmul_rigunit_mathfloatmul",
+        "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+        "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+        "rigunit_mathvectorbase_rigunit_mathvectorbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathFloatClamp Objects.md"
+    },
+    {
+      "id": "control_rig_units",
+      "label": "Control Rig Unit Classes",
+      "nodes": [
+        "rigunit_setshapetransform_rigunit_setshapetransform",
+        "rigunit_chainharmonicsperitem_rigunit_chainharmonicsperitem",
+        "rigunitmutable_rigunitmutable",
+        "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+        "fbikendeffector_fbikendeffector"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_SetShapeTransform Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

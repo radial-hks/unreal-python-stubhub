@@ -1,0 +1,548 @@
+{
+  "nodes": [
+    {
+      "id": "wdpupdatescreenposboundparams_wdpupdatescreenposboundparams",
+      "label": "WDPUpdateScreenPosBoundParams",
+      "file_type": "code",
+      "source_file": "WDPUpdateScreenPosBoundParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "superapihttpshp_superapihttpshp",
+      "label": "SuperAPIHttpShp",
+      "file_type": "code",
+      "source_file": "SuperAPIHttpShp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mutableset_mutableset",
+      "label": "MutableSet",
+      "file_type": "code",
+      "source_file": "MutableSet.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcomputegraphsettings_pcgcomputegraphsettings",
+      "label": "PCGComputeGraphSettings",
+      "file_type": "code",
+      "source_file": "PCGComputeGraphSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "selectionmode_selectionmode",
+      "label": "SelectionMode",
+      "file_type": "code",
+      "source_file": "SelectionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+      "label": "RigVMFunction_MathVectorNegate",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpathfindingsplinemode_pcgpathfindingsplinemode",
+      "label": "PCGPathfindingSplineMode",
+      "file_type": "code",
+      "source_file": "PCGPathfindingSplineMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_distributerotation_rotation_rigunit_distributerotation_rotation",
+      "label": "RigUnit_DistributeRotation_Rotation",
+      "file_type": "code",
+      "source_file": "RigUnit__DistributeRotation__Rotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_soundinfo_gameplaycuenotify_soundinfo",
+      "label": "GameplayCueNotify_SoundInfo",
+      "file_type": "code",
+      "source_file": "GameplayCueNotify__SoundInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositingtexturelookuptable_compositingtexturelookuptable",
+      "label": "CompositingTextureLookupTable",
+      "file_type": "code",
+      "source_file": "CompositingTextureLookupTable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "keyboardevent_keyboardevent",
+      "label": "KeyboardEvent",
+      "file_type": "code",
+      "source_file": "KeyboardEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleequals_rigunit_mathdoubleequals",
+      "label": "RigUnit_MathDoubleEquals",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapeactor_avashapeactor",
+      "label": "AvaShapeActor",
+      "file_type": "code",
+      "source_file": "AvaShapeActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleremap_rigvmfunction_mathdoubleremap",
+      "label": "RigVMFunction_MathDoubleRemap",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphversioningsettings_moviegraphversioningsettings",
+      "label": "MovieGraphVersioningSettings",
+      "file_type": "code",
+      "source_file": "MovieGraphVersioningSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectordistance_rigvmfunction_mathvectordistance",
+      "label": "RigVMFunction_MathVectorDistance",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorDistance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmschema_rigvmschema",
+      "label": "RigVMSchema",
+      "file_type": "code",
+      "source_file": "RigVMSchema Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_sequenceplayerbase_animnode_sequenceplayerbase",
+      "label": "AnimNode_SequencePlayerBase",
+      "file_type": "code",
+      "source_file": "AnimNode__SequencePlayerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimelightconfig_gltfruntimelightconfig",
+      "label": "glTFRuntimeLightConfig",
+      "file_type": "code",
+      "source_file": "glTFRuntimeLightConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvminjectioninfo_rigvminjectioninfo",
+      "label": "RigVMInjectionInfo",
+      "file_type": "code",
+      "source_file": "RigVMInjectionInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanresourcedatastructint_urbanresourcedatastructint",
+      "label": "UrbanResourceDataStructInt",
+      "file_type": "code",
+      "source_file": "UrbanResourceDataStructInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselectionqueries_geometryscript_meshselectionqueries",
+      "label": "GeometryScript_MeshSelectionQueries",
+      "file_type": "code",
+      "source_file": "GeometryScript__MeshSelectionQueries Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "label": "RigVMFunction_MathVectorUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebase_rigvmfunction_mathdoublebase",
+      "label": "RigVMFunction_MathDoubleBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction_MathVectorBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorDistance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleequals_rigvmfunction_mathdoubleequals",
+      "label": "RigVMFunction_MathDoubleEquals",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "wdpupdatescreenposboundparams_wdpupdatescreenposboundparams",
+      "target": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPUpdateScreenPosBoundParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "superapihttpshp_superapihttpshp",
+      "target": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SuperAPIHttpShp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgcomputegraphsettings_pcgcomputegraphsettings",
+      "target": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGComputeGraphSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "selectionmode_selectionmode",
+      "target": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SelectionMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+      "target": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpathfindingsplinemode_pcgpathfindingsplinemode",
+      "target": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPathfindingSplineMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "keyboardevent_keyboardevent",
+      "target": "rigvmfunction_mathvectorunaryop_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KeyboardEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleequals_rigunit_mathdoubleequals",
+      "target": "rigvmfunction_mathdoubleequals_rigvmfunction_mathdoubleequals",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleremap_rigvmfunction_mathdoubleremap",
+      "target": "rigvmfunction_mathdoublebase_rigvmfunction_mathdoublebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleRemap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectordistance_rigvmfunction_mathvectordistance",
+      "target": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorDistance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+      "target": "rigvmfunction_mathvectordistance_rigvmfunction_mathvectordistance",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathVectorNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleremap_rigvmfunction_mathdoubleremap",
+      "target": "rigvmfunction_mathdoubleequals_rigvmfunction_mathdoubleequals",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathDoubleRemap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselectionqueries_geometryscript_meshselectionqueries",
+      "target": "rigvminjectioninfo_rigvminjectioninfo",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "GeometryScript__MeshSelectionQueries Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashapeactor_avashapeactor",
+      "target": "geometryscript_meshselectionqueries_geometryscript_meshselectionqueries",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AvaShapeActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "compositingtexturelookuptable_compositingtexturelookuptable",
+      "target": "geometryscript_meshselectionqueries_geometryscript_meshselectionqueries",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CompositingTextureLookupTable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_soundinfo_gameplaycuenotify_soundinfo",
+      "target": "compositingtexturelookuptable_compositingtexturelookuptable",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "GameplayCueNotify__SoundInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgcomputegraphsettings_pcgcomputegraphsettings",
+      "target": "pcgpathfindingsplinemode_pcgpathfindingsplinemode",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGComputeGraphSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmschema_rigvmschema",
+      "target": "rigvminjectioninfo_rigvminjectioninfo",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMSchema Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_distributerotation_rotation_rigunit_distributerotation_rotation",
+      "target": "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__DistributeRotation__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphversioningsettings_moviegraphversioningsettings",
+      "target": "animnode_sequenceplayerbase_animnode_sequenceplayerbase",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "MovieGraphVersioningSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimelightconfig_gltfruntimelightconfig",
+      "target": "urbanresourcedatastructint_urbanresourcedatastructint",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "glTFRuntimeLightConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operation Classes",
+      "nodes": [
+        "rigvmfunction_mathvectornegate_rigvmfunction_mathvectornegate",
+        "rigvmfunction_mathdoubleremap_rigvmfunction_mathdoubleremap",
+        "rigvmfunction_mathvectordistance_rigvmfunction_mathvectordistance",
+        "rigvmfunction_mathdoubleequals_rigvmfunction_mathdoubleequals"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathVectorNegate Objects.md"
+    },
+    {
+      "id": "unreal_engine_data_structures",
+      "label": "Unreal Engine Data Structure Classes",
+      "nodes": [
+        "rigunit_distributerotation_rotation_rigunit_distributerotation_rotation",
+        "gameplaycuenotify_soundinfo_gameplaycuenotify_soundinfo",
+        "moviegraphversioningsettings_moviegraphversioningsettings",
+        "gltfruntimelightconfig_gltfruntimelightconfig",
+        "urbanresourcedatastructint_urbanresourcedatastructint"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__DistributeRotation__Rotation Objects.md"
+    },
+    {
+      "id": "selection_and_query_systems",
+      "label": "Selection and Query Systems",
+      "nodes": [
+        "selectionmode_selectionmode",
+        "geometryscript_meshselectionqueries_geometryscript_meshselectionqueries",
+        "compositingtexturelookuptable_compositingtexturelookuptable"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SelectionMode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

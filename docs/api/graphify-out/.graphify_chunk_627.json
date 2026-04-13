@@ -1,0 +1,1188 @@
+{
+  "nodes": [
+    {
+      "id": "PhysicsVolumeChanged",
+      "type": "class",
+      "metadata": {
+        "category": "delegate",
+        "module": "Engine",
+        "file": "SceneComponent.h",
+        "description": "Physics Volume Changed Delegate Signature"
+      }
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "PhysicsVolume",
+      "type": "class",
+      "metadata": {
+        "category": "type",
+        "description": "Physics Volume class"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorAdd",
+      "type": "class",
+      "metadata": {
+        "category": "function",
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_MathVector.h",
+        "description": "Returns the sum of the two values"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorBinaryAggregateOp",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "ZoneGraphAnnotationComponent",
+      "type": "class",
+      "metadata": {
+        "category": "component",
+        "module": "ZoneGraphAnnotations",
+        "plugin": "ZoneGraphAnnotations",
+        "file": "ZoneGraphAnnotationComponent.h",
+        "description": "Zone Graph Annotation Component"
+      }
+    },
+    {
+      "id": "DebugDrawComponent",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "AITestSpawnInfo",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "FunctionalTesting",
+        "file": "FunctionalAITest.h",
+        "description": "Generic AI Test Spawn Info used in FAITestSpawnSet within a generic AFunctionalAITest test"
+      }
+    },
+    {
+      "id": "AITestSpawnInfoBase",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "BehaviorTree",
+      "type": "class",
+      "metadata": {
+        "category": "asset"
+      }
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "metadata": {
+        "category": "actor"
+      }
+    },
+    {
+      "id": "Class",
+      "type": "type",
+      "metadata": {
+        "category": "reflection"
+      }
+    },
+    {
+      "id": "GenericTeamId",
+      "type": "type",
+      "metadata": {
+        "category": "struct"
+      }
+    },
+    {
+      "id": "InputModifierScaleByDeltaTime",
+      "type": "class",
+      "metadata": {
+        "category": "modifier",
+        "module": "EnhancedInput",
+        "plugin": "EnhancedInput",
+        "file": "InputModifiers.h",
+        "description": "Multiplies the input value by Delta Time this frame"
+      }
+    },
+    {
+      "id": "InputModifier",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "VisualOutlineParams",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "ApplicationAPI",
+        "plugin": "WdpRuntimeAPI",
+        "file": "WdpVisualAPI.h",
+        "description": "Visual Outline Params"
+      }
+    },
+    {
+      "id": "WdpVisualParamBase",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "PendingDelayedSpawn",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "FunctionalTesting",
+        "file": "FunctionalAITest.h",
+        "description": "Struct defining a pending spawn request within a AFunctionalAITestBase"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "ChaosCrumblingEvent",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "Engine",
+        "file": "ChaosEventType.h",
+        "description": "Chaos Crumbling Event"
+      }
+    },
+    {
+      "id": "PrimitiveComponent",
+      "type": "class",
+      "metadata": {
+        "category": "component"
+      }
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "Box",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "LowEntryRegexMatch",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "LowEntryExtendedStandardLibrary",
+        "plugin": "LowEntryExtStdLib",
+        "file": "FLowEntryRegexMatch.h",
+        "description": "Low Entry Regex Match"
+      }
+    },
+    {
+      "id": "LowEntryRegexCaptureGroup",
+      "type": "type",
+      "metadata": {
+        "category": "struct"
+      }
+    },
+    {
+      "id": "RigDispatchFactory",
+      "type": "class",
+      "metadata": {
+        "category": "factory",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigDispatchFactory.h",
+        "description": "Base class for all rig dispatch factories"
+      }
+    },
+    {
+      "id": "RigVMDispatchFactory",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "MaterialExpressionSceneColor",
+      "type": "class",
+      "metadata": {
+        "category": "expression",
+        "module": "Engine",
+        "file": "MaterialExpressionSceneColor.h",
+        "description": "Material Expression Scene Color"
+      }
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "Vector2D",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "MaterialSceneAttributeInputMode",
+      "type": "type",
+      "metadata": {
+        "category": "enum"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationViewport_EntireClusterColorGrading",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "DisplayClusterConfiguration",
+        "plugin": "nDisplay",
+        "file": "DisplayClusterConfigurationTypes_Postprocess.h",
+        "description": "Display Cluster Configuration Viewport Entire Cluster Color Grading"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationViewport_ColorGradingRenderingSettings",
+      "type": "type",
+      "metadata": {
+        "category": "struct"
+      }
+    },
+    {
+      "id": "EarthInstanceSplinePrefabAlgorithm",
+      "type": "class",
+      "metadata": {
+        "category": "algorithm",
+        "module": "EarthPrefab",
+        "plugin": "AesWorld",
+        "file": "EarthInstanceSplinePrefab.h",
+        "description": "定义实例化样条线生成算法的类"
+      }
+    },
+    {
+      "id": "EarthPrefabAlgorithm",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "ScriptStruct",
+      "type": "type",
+      "metadata": {
+        "category": "reflection"
+      }
+    },
+    {
+      "id": "MaterialExpressionGetMaterialAttributes",
+      "type": "class",
+      "metadata": {
+        "category": "expression",
+        "module": "Engine",
+        "file": "MaterialExpressionGetMaterialAttributes.h",
+        "description": "Material Expression Get Material Attributes"
+      }
+    },
+    {
+      "id": "Guid",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "BorderSlot",
+      "type": "class",
+      "metadata": {
+        "category": "slot",
+        "module": "UMG",
+        "file": "BorderSlot.h",
+        "description": "The Slot for the UBorderSlot, contains the widget displayed in a border's single slot"
+      }
+    },
+    {
+      "id": "PanelSlot",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "Margin",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "HorizontalAlignment",
+      "type": "type",
+      "metadata": {
+        "category": "enum"
+      }
+    },
+    {
+      "id": "VerticalAlignment",
+      "type": "type",
+      "metadata": {
+        "category": "enum"
+      }
+    },
+    {
+      "id": "add_controls_for_selected",
+      "type": "class",
+      "metadata": {
+        "category": "tool_menu_entry",
+        "description": "Custom Tool Menu Entry for RigControlElement creation"
+      }
+    },
+    {
+      "id": "ToolMenuEntryScript",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "RingModulatorTypeSourceEffect",
+      "type": "class",
+      "metadata": {
+        "category": "enum",
+        "module": "Synthesis",
+        "plugin": "Synthesis",
+        "file": "SourceEffectRingModulation.h",
+        "description": "ERing Modulator Type Source Effect"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "VolumetricCloudNoiseDetailResolution",
+      "type": "class",
+      "metadata": {
+        "category": "enum",
+        "module": "SkyCreatorPlugin",
+        "plugin": "SkyCreatorPlugin",
+        "file": "SkyCreatorActor.h",
+        "description": "EVolumetric Cloud Noise Detail Resolution"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleSqrt",
+      "type": "class",
+      "metadata": {
+        "category": "function",
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_MathDouble.h",
+        "description": "Returns the square root of the given value"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleUnaryOp",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "WayStruct",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "AesEntity",
+        "plugin": "AesWorld",
+        "file": "AesEntityAsset.h",
+        "description": "Way Struct"
+      }
+    },
+    {
+      "id": "AesObjectStruct",
+      "type": "class",
+      "metadata": {
+        "category": "base_class"
+      }
+    },
+    {
+      "id": "AesNodeStruct",
+      "type": "type",
+      "metadata": {
+        "category": "struct"
+      }
+    },
+    {
+      "id": "UserDefinedStruct",
+      "type": "type",
+      "metadata": {
+        "category": "struct"
+      }
+    },
+    {
+      "id": "AesVegetationInstancesData",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "AesRenderResource",
+        "plugin": "AesWorld",
+        "file": "AesVegetationTypes.h",
+        "description": "Aes Vegetation Instances Data"
+      }
+    },
+    {
+      "id": "BoxSphereBounds",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "Vector3f",
+      "type": "type",
+      "metadata": {
+        "category": "primitive"
+      }
+    },
+    {
+      "id": "ImageCenterInfo",
+      "type": "class",
+      "metadata": {
+        "category": "struct",
+        "module": "CameraCalibrationCore",
+        "plugin": "CameraCalibrationCore",
+        "file": "LensData.h",
+        "description": "Lens camera image center parameters"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "PhysicsVolumeChanged",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "PhysicsVolumeChanged",
+      "target": "PhysicsVolume",
+      "type": "has_parameter",
+      "metadata": {
+        "parameter_name": "new_volume"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathVectorAdd",
+      "target": "RigVMFunction_MathVectorBinaryAggregateOp",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathVectorAdd",
+      "target": "Vector",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "a",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathVectorAdd",
+      "target": "Vector",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "b",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathVectorAdd",
+      "target": "Vector",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "result",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "ZoneGraphAnnotationComponent",
+      "target": "DebugDrawComponent",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "AITestSpawnInfo",
+      "target": "AITestSpawnInfoBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "AITestSpawnInfo",
+      "target": "Actor",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "spawn_location",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "AITestSpawnInfo",
+      "target": "Class",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "pawn_class",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "AITestSpawnInfo",
+      "target": "Class",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "controller_class",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "AITestSpawnInfo",
+      "target": "GenericTeamId",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "team_id",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "AITestSpawnInfo",
+      "target": "BehaviorTree",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "behavior_tree",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "InputModifierScaleByDeltaTime",
+      "target": "InputModifier",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "VisualOutlineParams",
+      "target": "WdpVisualParamBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "PendingDelayedSpawn",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "ChaosCrumblingEvent",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "ChaosCrumblingEvent",
+      "target": "PrimitiveComponent",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "component",
+        "access": "read-only"
+      }
+    },
+    {
+      "source": "ChaosCrumblingEvent",
+      "target": "Vector",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "location",
+        "access": "read-only"
+      }
+    },
+    {
+      "source": "ChaosCrumblingEvent",
+      "target": "Vector",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "linear_velocity",
+        "access": "read-only"
+      }
+    },
+    {
+      "source": "ChaosCrumblingEvent",
+      "target": "Vector",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "angular_velocity",
+        "access": "read-only"
+      }
+    },
+    {
+      "source": "ChaosCrumblingEvent",
+      "target": "Quat",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "orientation",
+        "access": "read-only"
+      }
+    },
+    {
+      "source": "ChaosCrumblingEvent",
+      "target": "Box",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "local_bounds",
+        "access": "read-only"
+      }
+    },
+    {
+      "source": "LowEntryRegexMatch",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "LowEntryRegexMatch",
+      "target": "LowEntryRegexCaptureGroup",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "capture_groups",
+        "access": "read-write",
+        "container": "Array"
+      }
+    },
+    {
+      "source": "RigDispatchFactory",
+      "target": "RigVMDispatchFactory",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "MaterialExpressionSceneColor",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "MaterialExpressionSceneColor",
+      "target": "Vector2D",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "const_input",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "MaterialExpressionSceneColor",
+      "target": "MaterialSceneAttributeInputMode",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "input_mode",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "DisplayClusterConfigurationViewport_EntireClusterColorGrading",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "DisplayClusterConfigurationViewport_EntireClusterColorGrading",
+      "target": "DisplayClusterConfigurationViewport_ColorGradingRenderingSettings",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "color_grading_settings",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "EarthInstanceSplinePrefabAlgorithm",
+      "target": "EarthPrefabAlgorithm",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "EarthInstanceSplinePrefabAlgorithm",
+      "target": "ScriptStruct",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "required_fragments",
+        "access": "read-write",
+        "container": "Array"
+      }
+    },
+    {
+      "source": "MaterialExpressionGetMaterialAttributes",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "MaterialExpressionGetMaterialAttributes",
+      "target": "Guid",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "attribute_get_types",
+        "access": "read-write",
+        "container": "Array"
+      }
+    },
+    {
+      "source": "BorderSlot",
+      "target": "PanelSlot",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "BorderSlot",
+      "target": "Margin",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "padding",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "BorderSlot",
+      "target": "HorizontalAlignment",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "horizontal_alignment",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "BorderSlot",
+      "target": "VerticalAlignment",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "vertical_alignment",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "add_controls_for_selected",
+      "target": "ToolMenuEntryScript",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "RingModulatorTypeSourceEffect",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "VolumetricCloudNoiseDetailResolution",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathDoubleSqrt",
+      "target": "RigVMFunction_MathDoubleUnaryOp",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "WayStruct",
+      "target": "AesObjectStruct",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "WayStruct",
+      "target": "AesNodeStruct",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "node_struct",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "WayStruct",
+      "target": "UserDefinedStruct",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "struct",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "AesVegetationInstancesData",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "AesVegetationInstancesData",
+      "target": "BoxSphereBounds",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "bounds",
+        "access": "read-only"
+      }
+    },
+    {
+      "source": "AesVegetationInstancesData",
+      "target": "Transform",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "tile_transform",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "AesVegetationInstancesData",
+      "target": "Transform",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "transforms",
+        "access": "read-write",
+        "container": "Array"
+      }
+    },
+    {
+      "source": "AesVegetationInstancesData",
+      "target": "Vector3f",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "colors",
+        "access": "read-write",
+        "container": "Array"
+      }
+    },
+    {
+      "source": "AesVegetationInstancesData",
+      "target": "Box",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "tile_bounds",
+        "access": "read-write"
+      }
+    },
+    {
+      "source": "ImageCenterInfo",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {
+        "relationship": "IS-A"
+      }
+    },
+    {
+      "source": "ImageCenterInfo",
+      "target": "Vector2D",
+      "type": "has_property",
+      "metadata": {
+        "property_name": "principal_point",
+        "access": "read-write"
+      }
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "vector_addition_operation",
+      "nodes": ["RigVMFunction_MathVectorAdd", "Vector", "Vector", "Vector"],
+      "edges": [
+        {
+          "source": "RigVMFunction_MathVectorAdd",
+          "target": "Vector",
+          "role": "input_a"
+        },
+        {
+          "source": "RigVMFunction_MathVectorAdd",
+          "target": "Vector",
+          "role": "input_b"
+        },
+        {
+          "source": "RigVMFunction_MathVectorAdd",
+          "target": "Vector",
+          "role": "output_result"
+        }
+      ],
+      "metadata": {
+        "description": "Vector addition operation taking two vectors and producing a result vector"
+      }
+    },
+    {
+      "id": "ai_spawn_configuration",
+      "nodes": ["AITestSpawnInfo", "Actor", "Class", "BehaviorTree", "GenericTeamId"],
+      "edges": [
+        {
+          "source": "AITestSpawnInfo",
+          "target": "Actor",
+          "role": "spawn_location"
+        },
+        {
+          "source": "AITestSpawnInfo",
+          "target": "Class",
+          "role": "pawn_type"
+        },
+        {
+          "source": "AITestSpawnInfo",
+          "target": "BehaviorTree",
+          "role": "behavior_config"
+        },
+        {
+          "source": "AITestSpawnInfo",
+          "target": "GenericTeamId",
+          "role": "team_identity"
+        }
+      ],
+      "metadata": {
+        "description": "AI spawn configuration linking location, pawn type, behavior, and team"
+      }
+    },
+    {
+      "id": "chaos_physics_event",
+      "nodes": ["ChaosCrumblingEvent", "PrimitiveComponent", "Vector", "Quat", "Box"],
+      "edges": [
+        {
+          "source": "ChaosCrumblingEvent",
+          "target": "PrimitiveComponent",
+          "role": "affected_component"
+        },
+        {
+          "source": "ChaosCrumblingEvent",
+          "target": "Vector",
+          "role": "position_velocity"
+        },
+        {
+          "source": "ChaosCrumblingEvent",
+          "target": "Quat",
+          "role": "orientation"
+        },
+        {
+          "source": "ChaosCrumblingEvent",
+          "target": "Box",
+          "role": "bounds"
+        }
+      ],
+      "metadata": {
+        "description": "Chaos physics crumbling event capturing component, position, velocity, and bounds"
+      }
+    },
+    {
+      "id": "regex_match_structure",
+      "nodes": ["LowEntryRegexMatch", "LowEntryRegexCaptureGroup"],
+      "edges": [
+        {
+          "source": "LowEntryRegexMatch",
+          "target": "LowEntryRegexCaptureGroup",
+          "role": "contains_captures"
+        }
+      ],
+      "metadata": {
+        "description": "Regex match structure with capture groups"
+      }
+    },
+    {
+      "id": "material_color_grading_pipeline",
+      "nodes": [
+        "DisplayClusterConfigurationViewport_EntireClusterColorGrading",
+        "DisplayClusterConfigurationViewport_ColorGradingRenderingSettings"
+      ],
+      "edges": [
+        {
+          "source": "DisplayClusterConfigurationViewport_EntireClusterColorGrading",
+          "target": "DisplayClusterConfigurationViewport_ColorGradingRenderingSettings",
+          "role": "applies_settings"
+        }
+      ],
+      "metadata": {
+        "description": "nDisplay cluster color grading configuration pipeline"
+      }
+    },
+    {
+      "id": "ui_border_layout",
+      "nodes": ["BorderSlot", "Margin", "HorizontalAlignment", "VerticalAlignment"],
+      "edges": [
+        {
+          "source": "BorderSlot",
+          "target": "Margin",
+          "role": "spacing"
+        },
+        {
+          "source": "BorderSlot",
+          "target": "HorizontalAlignment",
+          "role": "h_align"
+        },
+        {
+          "source": "BorderSlot",
+          "target": "VerticalAlignment",
+          "role": "v_align"
+        }
+      ],
+      "metadata": {
+        "description": "UI border slot layout with padding and alignment"
+      }
+    },
+    {
+      "id": "vegetation_rendering_data",
+      "nodes": ["AesVegetationInstancesData", "Transform", "Vector3f", "BoxSphereBounds"],
+      "edges": [
+        {
+          "source": "AesVegetationInstancesData",
+          "target": "Transform",
+          "role": "instance_transforms"
+        },
+        {
+          "source": "AesVegetationInstancesData",
+          "target": "Vector3f",
+          "role": "instance_colors"
+        },
+        {
+          "source": "AesVegetationInstancesData",
+          "target": "BoxSphereBounds",
+          "role": "bounding_volume"
+        }
+      ],
+      "metadata": {
+        "description": "Vegetation instance rendering data with transforms, colors, and bounds"
+      }
+    },
+    {
+      "id": "camera_lens_calibration",
+      "nodes": ["ImageCenterInfo", "Vector2D"],
+      "edges": [
+        {
+          "source": "ImageCenterInfo",
+          "target": "Vector2D",
+          "role": "principal_point_offset"
+        }
+      ],
+      "metadata": {
+        "description": "Camera lens image center calibration parameters"
+      }
+    },
+    {
+      "id": "rig_math_hierarchy",
+      "nodes": [
+        "RigVMFunction_MathVectorAdd",
+        "RigVMFunction_MathDoubleSqrt",
+        "RigVMFunction_MathVectorBinaryAggregateOp",
+        "RigVMFunction_MathDoubleUnaryOp"
+      ],
+      "edges": [
+        {
+          "source": "RigVMFunction_MathVectorAdd",
+          "target": "RigVMFunction_MathVectorBinaryAggregateOp",
+          "role": "inherits"
+        },
+        {
+          "source": "RigVMFunction_MathDoubleSqrt",
+          "target": "RigVMFunction_MathDoubleUnaryOp",
+          "role": "inherits"
+        }
+      ],
+      "metadata": {
+        "description": "RigVM math function hierarchy showing binary and unary operations"
+      }
+    },
+    {
+      "id": "unreal_module_organization",
+      "nodes": [
+        "ZoneGraphAnnotationComponent",
+        "InputModifierScaleByDeltaTime",
+        "RigDispatchFactory",
+        "MaterialExpressionSceneColor",
+        "EarthInstanceSplinePrefabAlgorithm"
+      ],
+      "edges": [],
+      "metadata": {
+        "description": "Collection of classes organized by Unreal Engine modules and plugins"
+      }
+    }
+  ]
+}

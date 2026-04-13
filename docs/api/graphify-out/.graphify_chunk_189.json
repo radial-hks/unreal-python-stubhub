@@ -1,0 +1,922 @@
+{
+  "nodes": [
+    {
+      "id": "onlinebeaconunithostobject_onlinebeaconunithostobject",
+      "label": "OnlineBeaconUnitTestHostObject",
+      "file_type": "code",
+      "source_file": "OnlineBeaconUnitTestHostObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetanimationdynamicevent_widgetanimationdynamicevent",
+      "label": "WidgetAnimationDynamicEvent",
+      "file_type": "code",
+      "source_file": "WidgetAnimationDynamicEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimconstraint_advancedsettings_rigunit_aimconstraint_advancedsettings",
+      "label": "RigUnit_AimConstraint_AdvancedSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_AimConstraint_AdvancedSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigtransformdirtystate_rigtransformdirtystate",
+      "label": "RigTransformDirtyState",
+      "file_type": "code",
+      "source_file": "RigTransformDirtyState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaratickbehavior_niagaratickbehavior",
+      "label": "NiagaraTickBehavior",
+      "file_type": "code",
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaratickbehavior_use_prereqs",
+      "label": "USE_PREREQS",
+      "file_type": "code",
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaratickbehavior_use_component_tick_group",
+      "label": "USE_COMPONENT_TICK_GROUP",
+      "file_type": "code",
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaratickbehavior_force_tick_first",
+      "label": "FORCE_TICK_FIRST",
+      "file_type": "code",
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaratickbehavior_force_tick_last",
+      "label": "FORCE_TICK_LAST",
+      "file_type": "code",
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debuglinenospace_rigvmfunction_debuglinenospace",
+      "label": "RigVMFunction_DebugLineNoSpace",
+      "file_type": "code",
+      "source_file": "RigVMFunction__DebugLineNoSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenedoubletrack_moviescenedoubletrack",
+      "label": "MovieSceneDoubleTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneDoubleTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgfilterbytagsettings_pcgfilterbytagsettings",
+      "label": "PCGFilterByTagSettings",
+      "file_type": "code",
+      "source_file": "PCGFilterByTagSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmeasureapi_wdpmeasureapi",
+      "label": "WdpMeasureAPI",
+      "file_type": "code",
+      "source_file": "WdpMeasureAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spherecomponent_spherecomponent",
+      "label": "SphereComponent",
+      "file_type": "code",
+      "source_file": "SphereComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnaction_move_pawnaction_move",
+      "label": "PawnAction_Move",
+      "file_type": "code",
+      "source_file": "PawnAction_Move Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptopenpathoffsetoptions_geometryscriptopenpathoffsetoptions",
+      "label": "GeometryScriptOpenPathOffsetOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptOpenPathOffsetOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchygetparentweightsarray_rigunit_hierarchygetparentweightsarray",
+      "label": "RigUnit_HierarchyGetParentWeightsArray",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyGetParentWeightsArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onbonetransformsfinalized_onbonetransformsfinalized",
+      "label": "OnBoneTransformsFinalized",
+      "file_type": "code",
+      "source_file": "OnBoneTransformsFinalized Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinksubjectproperty_livelinksubjectproperty",
+      "label": "LiveLinkSubjectProperty",
+      "file_type": "code",
+      "source_file": "LiveLinkSubjectProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendlistbase_animgraphnode_blendlistbase",
+      "label": "AnimGraphNode_BlendListBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_BlendListBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilessubsystem_aestilessubsystem",
+      "label": "AesTilesSubsystem",
+      "file_type": "code",
+      "source_file": "AesTilesSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller__onpointerkeypressed_wdpplayercontroller__onpointerkeypressed",
+      "label": "WdpPlayerController_OnPointerKeyPressed",
+      "file_type": "code",
+      "source_file": "WdpPlayerController__OnPointerKeyPressed Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__verletintegratevector_rigunit__verletintegratevector",
+      "label": "RigUnit_VerletIntegrateVector",
+      "file_type": "code",
+      "source_file": "RigUnit__VerletIntegrateVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "montageblendsettings_montageblendsettings",
+      "label": "MontageBlendSettings",
+      "file_type": "code",
+      "source_file": "MontageBlendSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshterminationcriterion_skeletalmeshterminationcriterion",
+      "label": "SkeletalMeshTerminationCriterion",
+      "file_type": "code",
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshterminationcriterion_smtc_num_of_triangles",
+      "label": "SMTC_NUM_OF_TRIANGLES",
+      "file_type": "code",
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshterminationcriterion_smtc_num_of_verts",
+      "label": "SMTC_NUM_OF_VERTS",
+      "file_type": "code",
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshterminationcriterion_smtc_triangle_or_vert",
+      "label": "SMTC_TRIANGLE_OR_VERT",
+      "file_type": "code",
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshterminationcriterion_smtc_abs_num_of_triangles",
+      "label": "SMTC_ABS_NUM_OF_TRIANGLES",
+      "file_type": "code",
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshterminationcriterion_smtc_abs_num_of_verts",
+      "label": "SMTC_ABS_NUM_OF_VERTS",
+      "file_type": "code",
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshterminationcriterion_smtc_abs_triangle_or_vert",
+      "label": "SMTC_ABS_TRIANGLE_OR_VERT",
+      "file_type": "code",
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisualgroupvisibility_aestilesvisualgroupvisibility",
+      "label": "AesTilesVisualGroupVisibility",
+      "file_type": "code",
+      "source_file": "AesTilesVisualGroupVisibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "onlinebeaconunithostobject_onlinebeaconunithostobject",
+      "target": "onlinebeaconhostobject",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnlineBeaconUnitTestHostObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widgetanimationdynamicevent_widgetanimationdynamicevent",
+      "target": "delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetAnimationDynamicEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraint_advancedsettings_rigunit_aimconstraint_advancedsettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimConstraint_AdvancedSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraint_advancedsettings_rigunit_aimconstraint_advancedsettings",
+      "target": "rigunit_aimbone_debugsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimConstraint_AdvancedSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraint_advancedsettings_rigunit_aimconstraint_advancedsettings",
+      "target": "eulerrotationorder",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimConstraint_AdvancedSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigtransformdirtystate_rigtransformdirtystate",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigTransformDirtyState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaratickbehavior_use_prereqs",
+      "target": "niagaratickbehavior_niagaratickbehavior",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaratickbehavior_use_component_tick_group",
+      "target": "niagaratickbehavior_niagaratickbehavior",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaratickbehavior_force_tick_first",
+      "target": "niagaratickbehavior_niagaratickbehavior",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaratickbehavior_force_tick_last",
+      "target": "niagaratickbehavior_niagaratickbehavior",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaratickbehavior_niagaratickbehavior",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraTickBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debuglinenospace_rigvmfunction_debuglinenospace",
+      "target": "rigvmfunction_debugbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__DebugLineNoSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debuglinenospace_rigvmfunction_debuglinenospace",
+      "target": "vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__DebugLineNoSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debuglinenospace_rigvmfunction_debuglinenospace",
+      "target": "linearcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__DebugLineNoSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debuglinenospace_rigvmfunction_debuglinenospace",
+      "target": "transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__DebugLineNoSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debuglinenospace_rigvmfunction_debuglinenospace",
+      "target": "rigvmexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__DebugLineNoSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenedoubletrack_moviescenedoubletrack",
+      "target": "moviescenepropertytrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneDoubleTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgfilterbytagsettings_pcgfilterbytagsettings",
+      "target": "pcgfilterdatabasesettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGFilterByTagSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgfilterbytagsettings_pcgfilterbytagsettings",
+      "target": "pcgfilterbytagoperation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGFilterByTagSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgfilterbytagsettings_pcgfilterbytagsettings",
+      "target": "pcgstringmatchingoperator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGFilterByTagSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmeasureapi_wdpmeasureapi",
+      "target": "standardapiclassbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpMeasureAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spherecomponent_spherecomponent",
+      "target": "shapecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SphereComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_move_pawnaction_move",
+      "target": "pawnaction",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction_Move Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_move_pawnaction_move",
+      "target": "actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction_Move Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_move_pawnaction_move",
+      "target": "vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction_Move Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptopenpathoffsetoptions_geometryscriptopenpathoffsetoptions",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptOpenPathOffsetOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptopenpathoffsetoptions_geometryscriptopenpathoffsetoptions",
+      "target": "geometryscriptpolyoffsetjointype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptOpenPathOffsetOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptopenpathoffsetoptions_geometryscriptopenpathoffsetoptions",
+      "target": "geometryscriptpathoffsetendtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptOpenPathOffsetOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetparentweightsarray_rigunit_hierarchygetparentweightsarray",
+      "target": "rigunit_dynamichierarchybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetParentWeightsArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetparentweightsarray_rigunit_hierarchygetparentweightsarray",
+      "target": "rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetParentWeightsArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetparentweightsarray_rigunit_hierarchygetparentweightsarray",
+      "target": "rigelementweight",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetParentWeightsArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onbonetransformsfinalized_onbonetransformsfinalized",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnBoneTransformsFinalized Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinksubjectproperty_livelinksubjectproperty",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkSubjectProperty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendlistbase_animgraphnode_blendlistbase",
+      "target": "animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendListBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendlistbase_animgraphnode_blendlistbase",
+      "target": "animgraphnodebinding",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendListBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilessubsystem_aestilessubsystem",
+      "target": "worldsubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller__onpointerkeypressed_wdpplayercontroller__onpointerkeypressed",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController__OnPointerKeyPressed Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__verletintegratevector_rigunit__verletintegratevector",
+      "target": "rigvmfunction_verletintegratevector",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__VerletIntegrateVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "montageblendsettings_montageblendsettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MontageBlendSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "montageblendsettings_montageblendsettings",
+      "target": "blendprofile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MontageBlendSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "montageblendsettings_montageblendsettings",
+      "target": "alphablendargs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MontageBlendSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "montageblendsettings_montageblendsettings",
+      "target": "montageblendmode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MontageBlendSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_num_of_triangles",
+      "target": "skeletalmeshterminationcriterion_skeletalmeshterminationcriterion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_num_of_verts",
+      "target": "skeletalmeshterminationcriterion_skeletalmeshterminationcriterion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_triangle_or_vert",
+      "target": "skeletalmeshterminationcriterion_skeletalmeshterminationcriterion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_abs_num_of_triangles",
+      "target": "skeletalmeshterminationcriterion_skeletalmeshterminationcriterion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_abs_num_of_verts",
+      "target": "skeletalmeshterminationcriterion_skeletalmeshterminationcriterion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_abs_triangle_or_vert",
+      "target": "skeletalmeshterminationcriterion_skeletalmeshterminationcriterion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_skeletalmeshterminationcriterion",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesvisualgroupvisibility_aestilesvisualgroupvisibility",
+      "target": "aestilesvisualgroupparam",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesVisualGroupVisibility Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_num_of_triangles",
+      "target": "skeletalmeshterminationcriterion_smtc_abs_num_of_triangles",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_num_of_verts",
+      "target": "skeletalmeshterminationcriterion_smtc_abs_num_of_verts",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshterminationcriterion_smtc_triangle_or_vert",
+      "target": "skeletalmeshterminationcriterion_smtc_abs_triangle_or_vert",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "niagaratickbehavior_enum_values",
+      "label": "Niagara Tick Behavior Enum Values",
+      "nodes": [
+        "niagaratickbehavior_use_prereqs",
+        "niagaratickbehavior_use_component_tick_group",
+        "niagaratickbehavior_force_tick_first",
+        "niagaratickbehavior_force_tick_last"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraTickBehavior Objects.md"
+    },
+    {
+      "id": "skeletalmesh_termination_criteria",
+      "label": "Skeletal Mesh Simplification Termination Criteria",
+      "nodes": [
+        "skeletalmeshterminationcriterion_smtc_num_of_triangles",
+        "skeletalmeshterminationcriterion_smtc_num_of_verts",
+        "skeletalmeshterminationcriterion_smtc_triangle_or_vert",
+        "skeletalmeshterminationcriterion_smtc_abs_num_of_triangles",
+        "skeletalmeshterminationcriterion_smtc_abs_num_of_verts",
+        "skeletalmeshterminationcriterion_smtc_abs_triangle_or_vert"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshTerminationCriterion Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

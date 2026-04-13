@@ -1,0 +1,992 @@
+{
+  "nodes": [
+    {
+      "id": "aestileshighlightparam_aestileshighlightparam",
+      "label": "AesTilesHighlightParam",
+      "file_type": "document",
+      "source_file": "AesTilesHighlightParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisualapiparambase_baseclass",
+      "label": "AesTilesVisualApiParamBase",
+      "file_type": "document",
+      "source_file": "AesTilesHighlightParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oncontrollercaptureendeventsynth2d_oncontrollercaptureendeventsynth2d",
+      "label": "OnControllerCaptureEndEventSynth2D",
+      "file_type": "document",
+      "source_file": "OnControllerCaptureEndEventSynth2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_baseclass",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnControllerCaptureEndEventSynth2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "batchrangeentity_batchrangeentity",
+      "label": "BatchRangeEntity",
+      "file_type": "document",
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpactorentity_baseclass",
+      "label": "WdpActorEntity",
+      "file_type": "document",
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputactionkeymapping_inputactionkeymapping",
+      "label": "InputActionKeyMapping",
+      "file_type": "document",
+      "source_file": "InputActionKeyMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_baseclass",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "InputActionKeyMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationmediainputgroup_displayclusterconfigurationmediainputgroup",
+      "label": "DisplayClusterConfigurationMediaInputGroup",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaInputGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationmediainput_baseclass",
+      "label": "DisplayClusterConfigurationMediaInput",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaInputGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendgraphclass_metasoundfrontendgraphclass",
+      "label": "MetasoundFrontendGraphClass",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendGraphClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendclass_baseclass",
+      "label": "MetasoundFrontendClass",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendGraphClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinedeferredpass_lightingonly_moviepipelinedeferredpass_lightingonly",
+      "label": "MoviePipelineDeferredPass_LightingOnly",
+      "file_type": "document",
+      "source_file": "MoviePipelineDeferredPass_LightingOnly Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinedeferredpassbase_baseclass",
+      "label": "MoviePipelineDeferredPassBase",
+      "file_type": "document",
+      "source_file": "MoviePipelineDeferredPass_LightingOnly Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "highlightareaentityatom_highlightareaentityatom",
+      "label": "HighlightAreaEntityAtom",
+      "file_type": "document",
+      "source_file": "HighlightAreaEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase_baseclass",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "HighlightAreaEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waittargetdatadelegate_waittargetdatadelegate",
+      "label": "WaitTargetDataDelegate",
+      "file_type": "document",
+      "source_file": "WaitTargetDataDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamplayabilitytargetdatahandle_datatype",
+      "label": "GameplayAbilityTargetDataHandle",
+      "file_type": "document",
+      "source_file": "WaitTargetDataDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreetaskitem_statetreetaskitem",
+      "label": "StateTreeTaskItem",
+      "file_type": "document",
+      "source_file": "StateTreeTaskItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeeditornode_baseclass",
+      "label": "StateTreeEditorNode",
+      "file_type": "document",
+      "source_file": "StateTreeTaskItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterclustereventbinary_displayclusterclustereventbinary",
+      "label": "DisplayClusterClusterEventBinary",
+      "file_type": "document",
+      "source_file": "DisplayClusterClusterEventBinary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterclustereventbase_baseclass",
+      "label": "DisplayClusterClusterEventBase",
+      "file_type": "document",
+      "source_file": "DisplayClusterClusterEventBinary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playercameramanager_playercameramanager",
+      "label": "PlayerCameraManager",
+      "file_type": "document",
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_baseclass",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentityassetmanagerfactory_urbanentityassetmanagerfactory",
+      "label": "UrbanEntityAssetManagerFactory",
+      "file_type": "document",
+      "source_file": "UrbanEntityAssetManagerFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_baseclass",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "UrbanEntityAssetManagerFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "variantmanagertestenum_variantmanagertestenum",
+      "label": "VariantManagerTestEnum",
+      "file_type": "document",
+      "source_file": "VariantManagerTestEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_baseclass",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "VariantManagerTestEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+      "label": "RigUnit_HierarchyAddControl_ShapeSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControl__ShapeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "androidfilemediasourcefactory_androidfilemediasourcefactory",
+      "label": "AndroidFileMediaSourceFactory",
+      "file_type": "document",
+      "source_file": "AndroidFileMediaSourceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshplanecutoptions_geometryscriptmeshplanecutoptions",
+      "label": "GeometryScriptMeshPlaneCutOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptMeshPlaneCutOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "edgraph_edgraph",
+      "label": "EdGraph",
+      "file_type": "document",
+      "source_file": "EdGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_baseclass",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "EdGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonemodifieraxis_avaclonemodifieraxis",
+      "label": "AvaCloneModifierAxis",
+      "file_type": "document",
+      "source_file": "AvaCloneModifierAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avapatternmodifieraxis_renamedto",
+      "label": "AvaPatternModifierAxis",
+      "file_type": "document",
+      "source_file": "AvaCloneModifierAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabase_posesearchdatabase",
+      "label": "PoseSearchDatabase",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataasset_baseclass",
+      "label": "DataAsset",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchschema_referencetype",
+      "label": "PoseSearchSchema",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchnormalizationset_referencetype",
+      "label": "PoseSearchNormalizationSet",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdynamicmeshfragment_earthdynamicmeshfragment",
+      "label": "EarthDynamicMeshFragment",
+      "file_type": "document",
+      "source_file": "EarthDynamicMeshFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthoutputfragment_baseclass",
+      "label": "EarthOutputFragment",
+      "file_type": "document",
+      "source_file": "EarthDynamicMeshFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparamvector4_niagarapreviewaxis_interpparamvector4",
+      "label": "NiagaraPreviewAxis_InterpParamVector4",
+      "file_type": "document",
+      "source_file": "NiagaraPreviewAxis_InterpParamVector4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparambase_baseclass",
+      "label": "NiagaraPreviewAxis_InterpParamBase",
+      "file_type": "document",
+      "source_file": "NiagaraPreviewAxis_InterpParamVector4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proceduralmeshcomponent_componenttype",
+      "label": "ProceduralMeshComponent",
+      "file_type": "document",
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hierarchicalinstancedstaticmeshcomponent_componenttype",
+      "label": "HierarchicalInstancedStaticMeshComponent",
+      "file_type": "document",
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture2d_returntype",
+      "label": "Texture2D",
+      "file_type": "document",
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakebase_paramtype",
+      "label": "CameraShakeBase",
+      "file_type": "document",
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakesourcecomponent_paramtype",
+      "label": "CameraShakeSourceComponent",
+      "file_type": "document",
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameramodifier_paramtype",
+      "label": "CameraModifier",
+      "file_type": "document",
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playercontroller_returntype",
+      "label": "PlayerController",
+      "file_type": "document",
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediasource_referencetype",
+      "label": "MediaSource",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaInputGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "key_referencetype",
+      "label": "Key",
+      "file_type": "document",
+      "source_file": "InputActionKeyMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "aestileshighlightparam_aestileshighlightparam",
+      "target": "aestilesvisualapiparambase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesHighlightParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oncontrollercaptureendeventsynth2d_oncontrollercaptureendeventsynth2d",
+      "target": "multicastdelegatebase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnControllerCaptureEndEventSynth2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "batchrangeentity_batchrangeentity",
+      "target": "wdpactorentity_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "batchrangeentity_batchrangeentity",
+      "target": "proceduralmeshcomponent_componenttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "batchrangeentity_batchrangeentity",
+      "target": "hierarchicalinstancedstaticmeshcomponent_componenttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "batchrangeentity_batchrangeentity",
+      "target": "texture2d_returntype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BatchRangeEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputactionkeymapping_inputactionkeymapping",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputActionKeyMapping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputactionkeymapping_inputactionkeymapping",
+      "target": "key_referencetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputActionKeyMapping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationmediainputgroup_displayclusterconfigurationmediainputgroup",
+      "target": "displayclusterconfigurationmediainput_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationMediaInputGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationmediainputgroup_displayclusterconfigurationmediainputgroup",
+      "target": "mediasource_referencetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationMediaInputGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendgraphclass_metasoundfrontendgraphclass",
+      "target": "metasoundfrontendclass_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundFrontendGraphClass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinedeferredpass_lightingonly_moviepipelinedeferredpass_lightingonly",
+      "target": "moviepipelinedeferredpassbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineDeferredPass_LightingOnly Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "highlightareaentityatom_highlightareaentityatom",
+      "target": "entityatombase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HighlightAreaEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waittargetdatadelegate_waittargetdatadelegate",
+      "target": "multicastdelegatebase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaitTargetDataDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waittargetdatadelegate_waittargetdatadelegate",
+      "target": "gamplayabilitytargetdatahandle_datatype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaitTargetDataDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreetaskitem_statetreetaskitem",
+      "target": "statetreeeditornode_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeTaskItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterclustereventbinary_displayclusterclustereventbinary",
+      "target": "displayclusterclustereventbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterClusterEventBinary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playercameramanager_playercameramanager",
+      "target": "actor_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playercameramanager_playercameramanager",
+      "target": "camerashakebase_paramtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playercameramanager_playercameramanager",
+      "target": "camerashakesourcecomponent_paramtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playercameramanager_playercameramanager",
+      "target": "cameramodifier_paramtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playercameramanager_playercameramanager",
+      "target": "playercontroller_returntype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanentityassetmanagerfactory_urbanentityassetmanagerfactory",
+      "target": "factory_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanEntityAssetManagerFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "variantmanagertestenum_variantmanagertestenum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VariantManagerTestEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControl__ShapeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "androidfilemediasourcefactory_androidfilemediasourcefactory",
+      "target": "factory_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AndroidFileMediaSourceFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmeshplanecutoptions_geometryscriptmeshplanecutoptions",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptMeshPlaneCutOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "edgraph_edgraph",
+      "target": "object_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EdGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonemodifieraxis_avaclonemodifieraxis",
+      "target": "avapatternmodifieraxis_renamedto",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaCloneModifierAxis Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonemodifieraxis_avaclonemodifieraxis",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaCloneModifierAxis Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabase_posesearchdatabase",
+      "target": "dataasset_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchDatabase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabase_posesearchdatabase",
+      "target": "posesearchschema_referencetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchDatabase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabase_posesearchdatabase",
+      "target": "posesearchnormalizationset_referencetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchDatabase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdynamicmeshfragment_earthdynamicmeshfragment",
+      "target": "earthoutputfragment_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDynamicMeshFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamvector4_niagarapreviewaxis_interpparamvector4",
+      "target": "niagarapreviewaxis_interpparambase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPreviewAxis_InterpParamVector4 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreetaskitem_statetreetaskitem",
+      "target": "statetreeeditornode_baseclass",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "StateTreeTaskItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonemodifieraxis_avaclonemodifieraxis",
+      "target": "avapatternmodifieraxis_renamedto",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AvaCloneModifierAxis Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "factory_pattern_classes",
+      "label": "Factory Pattern Implementations",
+      "nodes": [
+        "urbanentityassetmanagerfactory_urbanentityassetmanagerfactory",
+        "androidfilemediasourcefactory_androidfilemediasourcefactory",
+        "factory_baseclass"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "multiple files"
+    },
+    {
+      "id": "struct_based_data_structures",
+      "label": "StructBase Data Structures",
+      "nodes": [
+        "inputactionkeymapping_inputactionkeymapping",
+        "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+        "geometryscriptmeshplanecutoptions_geometryscriptmeshplanecutoptions",
+        "structbase_baseclass"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "multiple files"
+    },
+    {
+      "id": "delegate_pattern_classes",
+      "label": "MulticastDelegate Pattern Implementations",
+      "nodes": [
+        "oncontrollercaptureendeventsynth2d_oncontrollercaptureendeventsynth2d",
+        "waittargetdatadelegate_waittargetdatadelegate",
+        "multicastdelegatebase_baseclass"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

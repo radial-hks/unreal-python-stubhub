@@ -1,0 +1,5176 @@
+{
+  "nodes": [
+    {
+      "id": "LiveLinkBaseFrameData",
+      "label": "LiveLinkBaseFrameData",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "StructBase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "LiveLinkBaseFrameData_module_LiveLinkInterface",
+      "label": "LiveLinkInterface Module",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "LiveLinkBaseFrameData_file_LiveLinkTypes_h",
+      "label": "LiveLinkTypes.h",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "LiveLinkBaseFrameData_prop_meta_data",
+      "label": "LiveLinkBaseFrameData.meta_data",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_LiveLinkMetaData",
+      "label": "LiveLinkMetaData",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "LiveLinkBaseFrameData_prop_property_values",
+      "label": "LiveLinkBaseFrameData.property_values",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Array[float]",
+      "label": "Array[float]",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "LiveLinkBaseFrameData_prop_world_time",
+      "label": "LiveLinkBaseFrameData.world_time",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_LiveLinkWorldTime",
+      "label": "LiveLinkWorldTime",
+      "file_type": "document",
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MathRBFInterpolateVectorVector_Target",
+      "label": "MathRBFInterpolateVectorVector_Target",
+      "file_type": "document",
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MathRBFInterpolateVectorVector_Target_module_RigVM",
+      "label": "RigVM Module",
+      "file_type": "document",
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MathRBFInterpolateVectorVector_Target_file_RigVMFunction_MathRBFInterpolate_h",
+      "label": "RigVMFunction_MathRBFInterpolate.h",
+      "file_type": "document",
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MathRBFInterpolateVectorVector_Target_prop_target",
+      "label": "MathRBFInterpolateVectorVector_Target.target",
+      "file_type": "document",
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MathRBFInterpolateVectorVector_Target_prop_value",
+      "label": "MathRBFInterpolateVectorVector_Target.value",
+      "file_type": "document",
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MathRBFInterpolateVectorVector_Target_method___init__",
+      "label": "MathRBFInterpolateVectorVector_Target.__init__()",
+      "file_type": "document",
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_Base",
+      "label": "AnimGraphNode_Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base_module_PoseSearchEditor",
+      "label": "PoseSearchEditor Module",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base_file_AnimGraphNode_PoseSearchHistoryCollector_h",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector.h",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_become_relevant_function",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector_Base.become_relevant_function",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_MemberReference",
+      "label": "MemberReference",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_binding",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector_Base.binding",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_AnimGraphNodeBinding",
+      "label": "AnimGraphNodeBinding",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_initial_update_function",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector_Base.initial_update_function",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_show_pin_for_properties",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector_Base.show_pin_for_properties",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Array[OptionalPinFromProperty]",
+      "label": "Array[OptionalPinFromProperty]",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_tag",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector_Base.tag",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Name",
+      "label": "Name",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_update_function",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector_Base.update_function",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor",
+      "label": "GameplayAbilityTargetActor",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "Actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_module_GameplayAbilities",
+      "label": "GameplayAbilities Module",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_file_GameplayAbilityTargetActor_h",
+      "label": "GameplayAbilityTargetActor.h",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_actor_guid",
+      "label": "GameplayAbilityTargetActor.actor_guid",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Guid",
+      "label": "Guid",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_actor_instance_guid",
+      "label": "GameplayAbilityTargetActor.actor_instance_guid",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_allow_tick_before_begin_play",
+      "label": "GameplayAbilityTargetActor.allow_tick_before_begin_play",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_bool",
+      "label": "bool",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_always_relevant",
+      "label": "GameplayAbilityTargetActor.always_relevant",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_async_physics_tick_enabled",
+      "label": "GameplayAbilityTargetActor.async_physics_tick_enabled",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_auto_destroy_when_finished",
+      "label": "GameplayAbilityTargetActor.auto_destroy_when_finished",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_auto_receive_input",
+      "label": "GameplayAbilityTargetActor.auto_receive_input",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_AutoReceiveInput",
+      "label": "AutoReceiveInput",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_block_input",
+      "label": "GameplayAbilityTargetActor.block_input",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_call_pre_replication",
+      "label": "GameplayAbilityTargetActor.call_pre_replication",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_call_pre_replication_for_replay",
+      "label": "GameplayAbilityTargetActor.call_pre_replication_for_replay",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_can_be_damaged",
+      "label": "GameplayAbilityTargetActor.can_be_damaged",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_can_be_in_cluster",
+      "label": "GameplayAbilityTargetActor.can_be_in_cluster",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_content_bundle_guid",
+      "label": "GameplayAbilityTargetActor.content_bundle_guid",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_custom_time_dilation",
+      "label": "GameplayAbilityTargetActor.custom_time_dilation",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_float",
+      "label": "float",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_data_layer_assets",
+      "label": "GameplayAbilityTargetActor.data_layer_assets",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Array[DataLayerAsset]",
+      "label": "Array[DataLayerAsset]",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_data_layers",
+      "label": "GameplayAbilityTargetActor.data_layers",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Array[ActorDataLayer]",
+      "label": "Array[ActorDataLayer]",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_debug",
+      "label": "GameplayAbilityTargetActor.debug",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_default_update_overlaps_method_during_level_streaming",
+      "label": "GameplayAbilityTargetActor.default_update_overlaps_method_during_level_streaming",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorUpdateOverlapsMethod",
+      "label": "ActorUpdateOverlapsMethod",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_destroy_on_confirmation",
+      "label": "GameplayAbilityTargetActor.destroy_on_confirmation",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_enable_auto_lod_generation",
+      "label": "GameplayAbilityTargetActor.enable_auto_lod_generation",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_external_data_layer_asset",
+      "label": "GameplayAbilityTargetActor.external_data_layer_asset",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ExternalDataLayerAsset",
+      "label": "ExternalDataLayerAsset",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_filter",
+      "label": "GameplayAbilityTargetActor.filter",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_GameplayTargetDataFilterHandle",
+      "label": "GameplayTargetDataFilterHandle",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_find_camera_component_when_view_target",
+      "label": "GameplayAbilityTargetActor.find_camera_component_when_view_target",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_generate_overlap_events_during_level_streaming",
+      "label": "GameplayAbilityTargetActor.generate_overlap_events_during_level_streaming",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_hidden",
+      "label": "GameplayAbilityTargetActor.hidden",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_hlod_layer",
+      "label": "GameplayAbilityTargetActor.hlod_layer",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_HLODLayer",
+      "label": "HLODLayer",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_ignores_origin_shifting",
+      "label": "GameplayAbilityTargetActor.ignores_origin_shifting",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_initial_life_span",
+      "label": "GameplayAbilityTargetActor.initial_life_span",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_input_priority",
+      "label": "GameplayAbilityTargetActor.input_priority",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_int32",
+      "label": "int32",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_instigator",
+      "label": "GameplayAbilityTargetActor.instigator",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Pawn",
+      "label": "Pawn",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_is_editor_only_actor",
+      "label": "GameplayAbilityTargetActor.is_editor_only_actor",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_is_main_world_only",
+      "label": "GameplayAbilityTargetActor.is_main_world_only",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_is_spatially_loaded",
+      "label": "GameplayAbilityTargetActor.is_spatially_loaded",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_layers",
+      "label": "GameplayAbilityTargetActor.layers",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Array[Name]",
+      "label": "Array[Name]",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_min_net_update_frequency",
+      "label": "GameplayAbilityTargetActor.min_net_update_frequency",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_net_cull_distance_squared",
+      "label": "GameplayAbilityTargetActor.net_cull_distance_squared",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_net_dormancy",
+      "label": "GameplayAbilityTargetActor.net_dormancy",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_NetDormancy",
+      "label": "NetDormancy",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_net_load_on_client",
+      "label": "GameplayAbilityTargetActor.net_load_on_client",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_net_priority",
+      "label": "GameplayAbilityTargetActor.net_priority",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_net_update_frequency",
+      "label": "GameplayAbilityTargetActor.net_update_frequency",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_net_use_owner_relevancy",
+      "label": "GameplayAbilityTargetActor.net_use_owner_relevancy",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_actor_begin_overlap",
+      "label": "GameplayAbilityTargetActor.on_actor_begin_overlap",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorBeginOverlapSignature",
+      "label": "ActorBeginOverlapSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_actor_end_overlap",
+      "label": "GameplayAbilityTargetActor.on_actor_end_overlap",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorEndOverlapSignature",
+      "label": "ActorEndOverlapSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_actor_hit",
+      "label": "GameplayAbilityTargetActor.on_actor_hit",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorHitSignature",
+      "label": "ActorHitSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_begin_cursor_over",
+      "label": "GameplayAbilityTargetActor.on_begin_cursor_over",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorBeginCursorOverSignature",
+      "label": "ActorBeginCursorOverSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_clicked",
+      "label": "GameplayAbilityTargetActor.on_clicked",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorOnClickedSignature",
+      "label": "ActorOnClickedSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_destroyed",
+      "label": "GameplayAbilityTargetActor.on_destroyed",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorDestroyedSignature",
+      "label": "ActorDestroyedSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_end_cursor_over",
+      "label": "GameplayAbilityTargetActor.on_end_cursor_over",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorEndCursorOverSignature",
+      "label": "ActorEndCursorOverSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_end_play",
+      "label": "GameplayAbilityTargetActor.on_end_play",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorEndPlaySignature",
+      "label": "ActorEndPlaySignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_input_touch_begin",
+      "label": "GameplayAbilityTargetActor.on_input_touch_begin",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorOnInputTouchBeginSignature",
+      "label": "ActorOnInputTouchBeginSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_input_touch_end",
+      "label": "GameplayAbilityTargetActor.on_input_touch_end",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorOnInputTouchEndSignature",
+      "label": "ActorOnInputTouchEndSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_input_touch_enter",
+      "label": "GameplayAbilityTargetActor.on_input_touch_enter",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorBeginTouchOverSignature",
+      "label": "ActorBeginTouchOverSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_input_touch_leave",
+      "label": "GameplayAbilityTargetActor.on_input_touch_leave",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorEndTouchOverSignature",
+      "label": "ActorEndTouchOverSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_released",
+      "label": "GameplayAbilityTargetActor.on_released",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorOnReleasedSignature",
+      "label": "ActorOnReleasedSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_take_any_damage",
+      "label": "GameplayAbilityTargetActor.on_take_any_damage",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_TakeAnyDamageSignature",
+      "label": "TakeAnyDamageSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_take_point_damage",
+      "label": "GameplayAbilityTargetActor.on_take_point_damage",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_TakePointDamageSignature",
+      "label": "TakePointDamageSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_on_take_radial_damage",
+      "label": "GameplayAbilityTargetActor.on_take_radial_damage",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_TakeRadialDamageSignature",
+      "label": "TakeRadialDamageSignature",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_only_relevant_to_owner",
+      "label": "GameplayAbilityTargetActor.only_relevant_to_owner",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_optimize_bp_component_data",
+      "label": "GameplayAbilityTargetActor.optimize_bp_component_data",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_physics_replication_mode",
+      "label": "GameplayAbilityTargetActor.physics_replication_mode",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_PhysicsReplicationMode",
+      "label": "PhysicsReplicationMode",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_pivot_offset",
+      "label": "GameplayAbilityTargetActor.pivot_offset",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_primary_actor_tick",
+      "label": "GameplayAbilityTargetActor.primary_actor_tick",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorTickFunction",
+      "label": "ActorTickFunction",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_primary_pc",
+      "label": "GameplayAbilityTargetActor.primary_pc",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_PlayerController",
+      "label": "PlayerController",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_relevant_for_level_bounds",
+      "label": "GameplayAbilityTargetActor.relevant_for_level_bounds",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_remote_role",
+      "label": "GameplayAbilityTargetActor.remote_role",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_NetRole",
+      "label": "NetRole",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_replay_rewindable",
+      "label": "GameplayAbilityTargetActor.replay_rewindable",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_replicate_movement",
+      "label": "GameplayAbilityTargetActor.replicate_movement",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_replicate_using_registered_sub_object_list",
+      "label": "GameplayAbilityTargetActor.replicate_using_registered_sub_object_list",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_replicated_movement",
+      "label": "GameplayAbilityTargetActor.replicated_movement",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_RepMovement",
+      "label": "RepMovement",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_replicates",
+      "label": "GameplayAbilityTargetActor.replicates",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_reticle_class",
+      "label": "GameplayAbilityTargetActor.reticle_class",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_type(Class",
+      "label": "type(Class",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_reticle_params",
+      "label": "GameplayAbilityTargetActor.reticle_params",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_WorldReticleParameters",
+      "label": "WorldReticleParameters",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_role",
+      "label": "GameplayAbilityTargetActor.role",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_root_component",
+      "label": "GameplayAbilityTargetActor.root_component",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_SceneComponent",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_runtime_grid",
+      "label": "GameplayAbilityTargetActor.runtime_grid",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_should_produce_target_data_on_server",
+      "label": "GameplayAbilityTargetActor.should_produce_target_data_on_server",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_source_actor",
+      "label": "GameplayAbilityTargetActor.source_actor",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_spawn_collision_handling_method",
+      "label": "GameplayAbilityTargetActor.spawn_collision_handling_method",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_SpawnActorCollisionHandlingMethod",
+      "label": "SpawnActorCollisionHandlingMethod",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_sprite_scale",
+      "label": "GameplayAbilityTargetActor.sprite_scale",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_start_location",
+      "label": "GameplayAbilityTargetActor.start_location",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_GameplayAbilityTargetingLocationInfo",
+      "label": "GameplayAbilityTargetingLocationInfo",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_tags",
+      "label": "GameplayAbilityTargetActor.tags",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GameplayAbilityTargetActor_prop_update_overlaps_method_during_level_streaming",
+      "label": "GameplayAbilityTargetActor.update_overlaps_method_during_level_streaming",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase",
+      "label": "AnimGraphNode_BlendSpaceGraphBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase_module_AnimGraph",
+      "label": "AnimGraph Module",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase_file_AnimGraphNode_BlendSpaceGraphBase_h",
+      "label": "AnimGraphNode_BlendSpaceGraphBase.h",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase_prop_become_relevant_function",
+      "label": "AnimGraphNode_BlendSpaceGraphBase.become_relevant_function",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase_prop_binding",
+      "label": "AnimGraphNode_BlendSpaceGraphBase.binding",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase_prop_initial_update_function",
+      "label": "AnimGraphNode_BlendSpaceGraphBase.initial_update_function",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase_prop_show_pin_for_properties",
+      "label": "AnimGraphNode_BlendSpaceGraphBase.show_pin_for_properties",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase_prop_tag",
+      "label": "AnimGraphNode_BlendSpaceGraphBase.tag",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "AnimGraphNode_BlendSpaceGraphBase_prop_update_function",
+      "label": "AnimGraphNode_BlendSpaceGraphBase.update_function",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay",
+      "label": "CesiumWebMapTileServiceRasterOverlay",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumRasterOverlay",
+      "label": "CesiumRasterOverlay",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_module_CesiumRuntime",
+      "label": "CesiumRuntime Module",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_file_CesiumWebMapTileServiceRasterOverlay_h",
+      "label": "CesiumWebMapTileServiceRasterOverlay.h",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_asset_user_data",
+      "label": "CesiumWebMapTileServiceRasterOverlay.asset_user_data",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Array[AssetUserData]",
+      "label": "Array[AssetUserData]",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_asset_user_data_editor_only",
+      "label": "CesiumWebMapTileServiceRasterOverlay.asset_user_data_editor_only",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_auto_activate",
+      "label": "CesiumWebMapTileServiceRasterOverlay.auto_activate",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_base_url",
+      "label": "CesiumWebMapTileServiceRasterOverlay.base_url",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_str",
+      "label": "str",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_can_ever_affect_navigation",
+      "label": "CesiumWebMapTileServiceRasterOverlay.can_ever_affect_navigation",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_component_tags",
+      "label": "CesiumWebMapTileServiceRasterOverlay.component_tags",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_editable_when_inherited",
+      "label": "CesiumWebMapTileServiceRasterOverlay.editable_when_inherited",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_format",
+      "label": "CesiumWebMapTileServiceRasterOverlay.format",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_is_editor_only",
+      "label": "CesiumWebMapTileServiceRasterOverlay.is_editor_only",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_layer",
+      "label": "CesiumWebMapTileServiceRasterOverlay.layer",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_material_layer_key",
+      "label": "CesiumWebMapTileServiceRasterOverlay.material_layer_key",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_level",
+      "label": "CesiumWebMapTileServiceRasterOverlay.maximum_level",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_screen_space_error",
+      "label": "CesiumWebMapTileServiceRasterOverlay.maximum_screen_space_error",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_double",
+      "label": "double",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_simultaneous_tile_loads",
+      "label": "CesiumWebMapTileServiceRasterOverlay.maximum_simultaneous_tile_loads",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_texture_size",
+      "label": "CesiumWebMapTileServiceRasterOverlay.maximum_texture_size",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_minimum_level",
+      "label": "CesiumWebMapTileServiceRasterOverlay.minimum_level",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_on_component_activated",
+      "label": "CesiumWebMapTileServiceRasterOverlay.on_component_activated",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorComponentActivatedSignature",
+      "label": "ActorComponentActivatedSignature",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_on_component_deactivated",
+      "label": "CesiumWebMapTileServiceRasterOverlay.on_component_deactivated",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorComponentDeactivateSignature",
+      "label": "ActorComponentDeactivateSignature",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_primary_component_tick",
+      "label": "CesiumWebMapTileServiceRasterOverlay.primary_component_tick",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_ActorComponentTickFunction",
+      "label": "ActorComponentTickFunction",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_projection",
+      "label": "CesiumWebMapTileServiceRasterOverlay.projection",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_CesiumWebMapTileServiceRasterOverlayProjection",
+      "label": "CesiumWebMapTileServiceRasterOverlayProjection",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_east",
+      "label": "CesiumWebMapTileServiceRasterOverlay.rectangle_east",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_north",
+      "label": "CesiumWebMapTileServiceRasterOverlay.rectangle_north",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_south",
+      "label": "CesiumWebMapTileServiceRasterOverlay.rectangle_south",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_west",
+      "label": "CesiumWebMapTileServiceRasterOverlay.rectangle_west",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_renderer_options",
+      "label": "CesiumWebMapTileServiceRasterOverlay.renderer_options",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_RasterOverlayRendererOptions",
+      "label": "RasterOverlayRendererOptions",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_replicate_using_registered_sub_object_list",
+      "label": "CesiumWebMapTileServiceRasterOverlay.replicate_using_registered_sub_object_list",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_replicates",
+      "label": "CesiumWebMapTileServiceRasterOverlay.replicates",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_root_tiles_x",
+      "label": "CesiumWebMapTileServiceRasterOverlay.root_tiles_x",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_root_tiles_y",
+      "label": "CesiumWebMapTileServiceRasterOverlay.root_tiles_y",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_show_credits_on_screen",
+      "label": "CesiumWebMapTileServiceRasterOverlay.show_credits_on_screen",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_specify_tile_matrix_set_labels",
+      "label": "CesiumWebMapTileServiceRasterOverlay.specify_tile_matrix_set_labels",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_specify_tiling_scheme",
+      "label": "CesiumWebMapTileServiceRasterOverlay.specify_tiling_scheme",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_specify_zoom_levels",
+      "label": "CesiumWebMapTileServiceRasterOverlay.specify_zoom_levels",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_style",
+      "label": "CesiumWebMapTileServiceRasterOverlay.style",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_sub_tile_cache_bytes",
+      "label": "CesiumWebMapTileServiceRasterOverlay.sub_tile_cache_bytes",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_int64",
+      "label": "int64",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_tile_height",
+      "label": "CesiumWebMapTileServiceRasterOverlay.tile_height",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_id",
+      "label": "CesiumWebMapTileServiceRasterOverlay.tile_matrix_set_id",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_label_prefix",
+      "label": "CesiumWebMapTileServiceRasterOverlay.tile_matrix_set_label_prefix",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_labels",
+      "label": "CesiumWebMapTileServiceRasterOverlay.tile_matrix_set_labels",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Array[str]",
+      "label": "Array[str]",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_tile_width",
+      "label": "CesiumWebMapTileServiceRasterOverlay.tile_width",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "CesiumWebMapTileServiceRasterOverlay_prop_use_web_mercator_projection",
+      "label": "CesiumWebMapTileServiceRasterOverlay.use_web_mercator_projection",
+      "file_type": "document",
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent",
+      "label": "MotionWarpingComponent",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "ActorComponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_module_MotionWarping",
+      "label": "MotionWarping Module",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_file_MotionWarpingComponent_h",
+      "label": "MotionWarpingComponent.h",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_asset_user_data",
+      "label": "MotionWarpingComponent.asset_user_data",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_asset_user_data_editor_only",
+      "label": "MotionWarpingComponent.asset_user_data_editor_only",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_auto_activate",
+      "label": "MotionWarpingComponent.auto_activate",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_can_ever_affect_navigation",
+      "label": "MotionWarpingComponent.can_ever_affect_navigation",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_component_tags",
+      "label": "MotionWarpingComponent.component_tags",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_editable_when_inherited",
+      "label": "MotionWarpingComponent.editable_when_inherited",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_is_editor_only",
+      "label": "MotionWarpingComponent.is_editor_only",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_on_component_activated",
+      "label": "MotionWarpingComponent.on_component_activated",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_on_component_deactivated",
+      "label": "MotionWarpingComponent.on_component_deactivated",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_on_pre_update",
+      "label": "MotionWarpingComponent.on_pre_update",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_MotionWarpingPreUpdate",
+      "label": "MotionWarpingPreUpdate",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_primary_component_tick",
+      "label": "MotionWarpingComponent.primary_component_tick",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_replicate_using_registered_sub_object_list",
+      "label": "MotionWarpingComponent.replicate_using_registered_sub_object_list",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_replicates",
+      "label": "MotionWarpingComponent.replicates",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_prop_search_for_windows_in_anims_within_montages",
+      "label": "MotionWarpingComponent.search_for_windows_in_anims_within_montages",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_remove_warp_targets",
+      "label": "MotionWarpingComponent.remove_warp_targets()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_remove_warp_target",
+      "label": "MotionWarpingComponent.remove_warp_target()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_remove_all_warp_targets",
+      "label": "MotionWarpingComponent.remove_all_warp_targets()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_disable_all_root_motion_modifiers",
+      "label": "MotionWarpingComponent.disable_all_root_motion_modifiers()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_add_or_update_warp_target_from_transform",
+      "label": "MotionWarpingComponent.add_or_update_warp_target_from_transform()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_add_or_update_warp_target_from_location_and_rotation",
+      "label": "MotionWarpingComponent.add_or_update_warp_target_from_location_and_rotation()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_add_or_update_warp_target_from_location",
+      "label": "MotionWarpingComponent.add_or_update_warp_target_from_location()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_add_or_update_warp_target_from_component",
+      "label": "MotionWarpingComponent.add_or_update_warp_target_from_component()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MotionWarpingComponent_method_add_or_update_warp_target",
+      "label": "MotionWarpingComponent.add_or_update_warp_target()",
+      "file_type": "document",
+      "source_file": "MotionWarpingComponent Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GenlockedFixedRateCustomTimeStep",
+      "label": "GenlockedFixedRateCustomTimeStep",
+      "file_type": "document",
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GenlockedCustomTimeStep",
+      "label": "GenlockedCustomTimeStep",
+      "file_type": "document",
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GenlockedFixedRateCustomTimeStep_module_TimeManagement",
+      "label": "TimeManagement Module",
+      "file_type": "document",
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GenlockedFixedRateCustomTimeStep_file_GenlockedFixedRateCustomTimeStep_h",
+      "label": "GenlockedFixedRateCustomTimeStep.h",
+      "file_type": "document",
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GenlockedFixedRateCustomTimeStep_prop_force_single_frame_delta_time",
+      "label": "GenlockedFixedRateCustomTimeStep.force_single_frame_delta_time",
+      "file_type": "document",
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GenlockedFixedRateCustomTimeStep_prop_frame_rate",
+      "label": "GenlockedFixedRateCustomTimeStep.frame_rate",
+      "file_type": "document",
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_FrameRate",
+      "label": "FrameRate",
+      "file_type": "document",
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "GenlockedFixedRateCustomTimeStep_prop_should_block",
+      "label": "GenlockedFixedRateCustomTimeStep.should_block",
+      "file_type": "document",
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "WidgetSwitcherSlot",
+      "label": "WidgetSwitcherSlot",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "PanelSlot",
+      "label": "PanelSlot",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "WidgetSwitcherSlot_module_UMG",
+      "label": "UMG Module",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "WidgetSwitcherSlot_file_WidgetSwitcherSlot_h",
+      "label": "WidgetSwitcherSlot.h",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "WidgetSwitcherSlot_prop_horizontal_alignment",
+      "label": "WidgetSwitcherSlot.horizontal_alignment",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_HorizontalAlignment",
+      "label": "HorizontalAlignment",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "WidgetSwitcherSlot_prop_padding",
+      "label": "WidgetSwitcherSlot.padding",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_Margin",
+      "label": "Margin",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "WidgetSwitcherSlot_prop_vertical_alignment",
+      "label": "WidgetSwitcherSlot.vertical_alignment",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "type_VerticalAlignment",
+      "label": "VerticalAlignment",
+      "file_type": "document",
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "ImageReceivedDelegate",
+      "label": "ImageReceivedDelegate",
+      "file_type": "document",
+      "source_file": "ImageReceivedDelegate Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "ImageReceivedDelegate Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "ImageReceivedDelegate_module_CoveringAPIEntity",
+      "label": "CoveringAPIEntity Module",
+      "file_type": "document",
+      "source_file": "ImageReceivedDelegate Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "ImageReceivedDelegate_file_SuperAPIHttpImage_h",
+      "label": "SuperAPIHttpImage.h",
+      "file_type": "document",
+      "source_file": "ImageReceivedDelegate Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "RigUnit_MathQuaternionSelectBool",
+      "label": "RigUnit_MathQuaternionSelectBool",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionSelectBool Objects.md",
+      "source_location": null
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionSelectBool",
+      "label": "RigVMFunction_MathQuaternionSelectBool",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionSelectBool Objects.md",
+      "source_location": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "LiveLinkBaseFrameData",
+      "target": "StructBase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkBaseFrameData",
+      "target": "LiveLinkBaseFrameData_module_LiveLinkInterface",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkBaseFrameData",
+      "target": "LiveLinkBaseFrameData_file_LiveLinkTypes_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkBaseFrameData",
+      "target": "LiveLinkBaseFrameData_prop_meta_data",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkBaseFrameData_prop_meta_data",
+      "target": "type_LiveLinkMetaData",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkBaseFrameData",
+      "target": "LiveLinkBaseFrameData_prop_property_values",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkBaseFrameData_prop_property_values",
+      "target": "type_Array[float]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkBaseFrameData",
+      "target": "LiveLinkBaseFrameData_prop_world_time",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkBaseFrameData_prop_world_time",
+      "target": "type_LiveLinkWorldTime",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkBaseFrameData Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MathRBFInterpolateVectorVector_Target",
+      "target": "StructBase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MathRBFInterpolateVectorVector_Target",
+      "target": "MathRBFInterpolateVectorVector_Target_module_RigVM",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MathRBFInterpolateVectorVector_Target",
+      "target": "MathRBFInterpolateVectorVector_Target_file_RigVMFunction_MathRBFInterpolate_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MathRBFInterpolateVectorVector_Target",
+      "target": "MathRBFInterpolateVectorVector_Target_prop_target",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MathRBFInterpolateVectorVector_Target_prop_target",
+      "target": "type_Vector",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MathRBFInterpolateVectorVector_Target",
+      "target": "MathRBFInterpolateVectorVector_Target_prop_value",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MathRBFInterpolateVectorVector_Target_prop_value",
+      "target": "type_Vector",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MathRBFInterpolateVectorVector_Target",
+      "target": "MathRBFInterpolateVectorVector_Target_method___init__",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateVectorVector_Target Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_Base",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_PoseSearchHistoryCollector_Base_module_PoseSearchEditor",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_PoseSearchHistoryCollector_Base_file_AnimGraphNode_PoseSearchHistoryCollector_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_become_relevant_function",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_become_relevant_function",
+      "target": "type_MemberReference",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_binding",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_binding",
+      "target": "type_AnimGraphNodeBinding",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_initial_update_function",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_initial_update_function",
+      "target": "type_MemberReference",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_show_pin_for_properties",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_show_pin_for_properties",
+      "target": "type_Array[OptionalPinFromProperty]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_tag",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_tag",
+      "target": "type_Name",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "target": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_update_function",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_PoseSearchHistoryCollector_Base_prop_update_function",
+      "target": "type_MemberReference",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector_Base Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "Actor",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_module_GameplayAbilities",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_file_GameplayAbilityTargetActor_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_actor_guid",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_actor_guid",
+      "target": "type_Guid",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_actor_instance_guid",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_actor_instance_guid",
+      "target": "type_Guid",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_allow_tick_before_begin_play",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_allow_tick_before_begin_play",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_always_relevant",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_always_relevant",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_async_physics_tick_enabled",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_async_physics_tick_enabled",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_auto_destroy_when_finished",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_auto_destroy_when_finished",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_auto_receive_input",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_auto_receive_input",
+      "target": "type_AutoReceiveInput",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_block_input",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_block_input",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_call_pre_replication",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_call_pre_replication",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_call_pre_replication_for_replay",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_call_pre_replication_for_replay",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_can_be_damaged",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_can_be_damaged",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_can_be_in_cluster",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_can_be_in_cluster",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_content_bundle_guid",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_content_bundle_guid",
+      "target": "type_Guid",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_custom_time_dilation",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_custom_time_dilation",
+      "target": "type_float",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_data_layer_assets",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_data_layer_assets",
+      "target": "type_Array[DataLayerAsset]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_data_layers",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_data_layers",
+      "target": "type_Array[ActorDataLayer]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_debug",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_debug",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_default_update_overlaps_method_during_level_streaming",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_default_update_overlaps_method_during_level_streaming",
+      "target": "type_ActorUpdateOverlapsMethod",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_destroy_on_confirmation",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_destroy_on_confirmation",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_enable_auto_lod_generation",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_enable_auto_lod_generation",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_external_data_layer_asset",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_external_data_layer_asset",
+      "target": "type_ExternalDataLayerAsset",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_filter",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_filter",
+      "target": "type_GameplayTargetDataFilterHandle",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_find_camera_component_when_view_target",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_find_camera_component_when_view_target",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_generate_overlap_events_during_level_streaming",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_generate_overlap_events_during_level_streaming",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_hidden",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_hidden",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_hlod_layer",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_hlod_layer",
+      "target": "type_HLODLayer",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_ignores_origin_shifting",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_ignores_origin_shifting",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_initial_life_span",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_initial_life_span",
+      "target": "type_float",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_input_priority",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_input_priority",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_instigator",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_instigator",
+      "target": "type_Pawn",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_is_editor_only_actor",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_is_editor_only_actor",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_is_main_world_only",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_is_main_world_only",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_is_spatially_loaded",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_is_spatially_loaded",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_layers",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_layers",
+      "target": "type_Array[Name]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_min_net_update_frequency",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_min_net_update_frequency",
+      "target": "type_float",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_net_cull_distance_squared",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_net_cull_distance_squared",
+      "target": "type_float",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_net_dormancy",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_net_dormancy",
+      "target": "type_NetDormancy",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_net_load_on_client",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_net_load_on_client",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_net_priority",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_net_priority",
+      "target": "type_float",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_net_update_frequency",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_net_update_frequency",
+      "target": "type_float",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_net_use_owner_relevancy",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_net_use_owner_relevancy",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_actor_begin_overlap",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_actor_begin_overlap",
+      "target": "type_ActorBeginOverlapSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_actor_end_overlap",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_actor_end_overlap",
+      "target": "type_ActorEndOverlapSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_actor_hit",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_actor_hit",
+      "target": "type_ActorHitSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_begin_cursor_over",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_begin_cursor_over",
+      "target": "type_ActorBeginCursorOverSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_clicked",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_clicked",
+      "target": "type_ActorOnClickedSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_destroyed",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_destroyed",
+      "target": "type_ActorDestroyedSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_end_cursor_over",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_end_cursor_over",
+      "target": "type_ActorEndCursorOverSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_end_play",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_end_play",
+      "target": "type_ActorEndPlaySignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_input_touch_begin",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_input_touch_begin",
+      "target": "type_ActorOnInputTouchBeginSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_input_touch_end",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_input_touch_end",
+      "target": "type_ActorOnInputTouchEndSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_input_touch_enter",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_input_touch_enter",
+      "target": "type_ActorBeginTouchOverSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_input_touch_leave",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_input_touch_leave",
+      "target": "type_ActorEndTouchOverSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_released",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_released",
+      "target": "type_ActorOnReleasedSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_take_any_damage",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_take_any_damage",
+      "target": "type_TakeAnyDamageSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_take_point_damage",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_take_point_damage",
+      "target": "type_TakePointDamageSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_on_take_radial_damage",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_on_take_radial_damage",
+      "target": "type_TakeRadialDamageSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_only_relevant_to_owner",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_only_relevant_to_owner",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_optimize_bp_component_data",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_optimize_bp_component_data",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_physics_replication_mode",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_physics_replication_mode",
+      "target": "type_PhysicsReplicationMode",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_pivot_offset",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_pivot_offset",
+      "target": "type_Vector",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_primary_actor_tick",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_primary_actor_tick",
+      "target": "type_ActorTickFunction",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_primary_pc",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_primary_pc",
+      "target": "type_PlayerController",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_relevant_for_level_bounds",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_relevant_for_level_bounds",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_remote_role",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_remote_role",
+      "target": "type_NetRole",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_replay_rewindable",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_replay_rewindable",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_replicate_movement",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_replicate_movement",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_replicate_using_registered_sub_object_list",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_replicate_using_registered_sub_object_list",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_replicated_movement",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_replicated_movement",
+      "target": "type_RepMovement",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_replicates",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_replicates",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_reticle_class",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_reticle_class",
+      "target": "type_type(Class",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_reticle_params",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_reticle_params",
+      "target": "type_WorldReticleParameters",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_role",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_role",
+      "target": "type_NetRole",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_root_component",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_root_component",
+      "target": "type_SceneComponent",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_runtime_grid",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_runtime_grid",
+      "target": "type_Name",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_should_produce_target_data_on_server",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_should_produce_target_data_on_server",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_source_actor",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_source_actor",
+      "target": "type_Actor",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_spawn_collision_handling_method",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_spawn_collision_handling_method",
+      "target": "type_SpawnActorCollisionHandlingMethod",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_sprite_scale",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_sprite_scale",
+      "target": "type_float",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_start_location",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_start_location",
+      "target": "type_GameplayAbilityTargetingLocationInfo",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_tags",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_tags",
+      "target": "type_Array[Name]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor",
+      "target": "GameplayAbilityTargetActor_prop_update_overlaps_method_during_level_streaming",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GameplayAbilityTargetActor_prop_update_overlaps_method_during_level_streaming",
+      "target": "type_ActorUpdateOverlapsMethod",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_Base",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_BlendSpaceGraphBase_module_AnimGraph",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_BlendSpaceGraphBase_file_AnimGraphNode_BlendSpaceGraphBase_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_BlendSpaceGraphBase_prop_become_relevant_function",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase_prop_become_relevant_function",
+      "target": "type_MemberReference",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_BlendSpaceGraphBase_prop_binding",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase_prop_binding",
+      "target": "type_AnimGraphNodeBinding",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_BlendSpaceGraphBase_prop_initial_update_function",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase_prop_initial_update_function",
+      "target": "type_MemberReference",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_BlendSpaceGraphBase_prop_show_pin_for_properties",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase_prop_show_pin_for_properties",
+      "target": "type_Array[OptionalPinFromProperty]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_BlendSpaceGraphBase_prop_tag",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase_prop_tag",
+      "target": "type_Name",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase",
+      "target": "AnimGraphNode_BlendSpaceGraphBase_prop_update_function",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "AnimGraphNode_BlendSpaceGraphBase_prop_update_function",
+      "target": "type_MemberReference",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendSpaceGraphBase Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumRasterOverlay",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_module_CesiumRuntime",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_file_CesiumWebMapTileServiceRasterOverlay_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_asset_user_data",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_asset_user_data",
+      "target": "type_Array[AssetUserData]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_asset_user_data_editor_only",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_asset_user_data_editor_only",
+      "target": "type_Array[AssetUserData]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_auto_activate",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_auto_activate",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_base_url",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_base_url",
+      "target": "type_str",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_can_ever_affect_navigation",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_can_ever_affect_navigation",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_component_tags",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_component_tags",
+      "target": "type_Array[Name]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_editable_when_inherited",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_editable_when_inherited",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_format",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_format",
+      "target": "type_str",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_is_editor_only",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_is_editor_only",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_layer",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_layer",
+      "target": "type_str",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_material_layer_key",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_material_layer_key",
+      "target": "type_str",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_level",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_level",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_screen_space_error",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_screen_space_error",
+      "target": "type_double",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_simultaneous_tile_loads",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_simultaneous_tile_loads",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_texture_size",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_maximum_texture_size",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_minimum_level",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_minimum_level",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_on_component_activated",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_on_component_activated",
+      "target": "type_ActorComponentActivatedSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_on_component_deactivated",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_on_component_deactivated",
+      "target": "type_ActorComponentDeactivateSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_primary_component_tick",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_primary_component_tick",
+      "target": "type_ActorComponentTickFunction",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_projection",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_projection",
+      "target": "type_CesiumWebMapTileServiceRasterOverlayProjection",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_east",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_east",
+      "target": "type_double",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_north",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_north",
+      "target": "type_double",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_south",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_south",
+      "target": "type_double",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_west",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_rectangle_west",
+      "target": "type_double",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_renderer_options",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_renderer_options",
+      "target": "type_RasterOverlayRendererOptions",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_replicate_using_registered_sub_object_list",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_replicate_using_registered_sub_object_list",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_replicates",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_replicates",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_root_tiles_x",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_root_tiles_x",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_root_tiles_y",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_root_tiles_y",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_show_credits_on_screen",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_show_credits_on_screen",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_specify_tile_matrix_set_labels",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_specify_tile_matrix_set_labels",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_specify_tiling_scheme",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_specify_tiling_scheme",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_specify_zoom_levels",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_specify_zoom_levels",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_style",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_style",
+      "target": "type_str",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_sub_tile_cache_bytes",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_sub_tile_cache_bytes",
+      "target": "type_int64",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_tile_height",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_tile_height",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_id",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_id",
+      "target": "type_str",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_label_prefix",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_label_prefix",
+      "target": "type_str",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_labels",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_tile_matrix_set_labels",
+      "target": "type_Array[str]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_tile_width",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_tile_width",
+      "target": "type_int32",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay",
+      "target": "CesiumWebMapTileServiceRasterOverlay_prop_use_web_mercator_projection",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "CesiumWebMapTileServiceRasterOverlay_prop_use_web_mercator_projection",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumWebMapTileServiceRasterOverlay Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "ActorComponent",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_module_MotionWarping",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_file_MotionWarpingComponent_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_asset_user_data",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_asset_user_data",
+      "target": "type_Array[AssetUserData]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_asset_user_data_editor_only",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_asset_user_data_editor_only",
+      "target": "type_Array[AssetUserData]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_auto_activate",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_auto_activate",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_can_ever_affect_navigation",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_can_ever_affect_navigation",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_component_tags",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_component_tags",
+      "target": "type_Array[Name]",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_editable_when_inherited",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_editable_when_inherited",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_is_editor_only",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_is_editor_only",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_on_component_activated",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_on_component_activated",
+      "target": "type_ActorComponentActivatedSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_on_component_deactivated",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_on_component_deactivated",
+      "target": "type_ActorComponentDeactivateSignature",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_on_pre_update",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_on_pre_update",
+      "target": "type_MotionWarpingPreUpdate",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_primary_component_tick",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_primary_component_tick",
+      "target": "type_ActorComponentTickFunction",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_replicate_using_registered_sub_object_list",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_replicate_using_registered_sub_object_list",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_replicates",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_replicates",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_prop_search_for_windows_in_anims_within_montages",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent_prop_search_for_windows_in_anims_within_montages",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_remove_warp_targets",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_remove_warp_target",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_remove_all_warp_targets",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_disable_all_root_motion_modifiers",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_add_or_update_warp_target_from_transform",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_add_or_update_warp_target_from_location_and_rotation",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_add_or_update_warp_target_from_location",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_add_or_update_warp_target_from_component",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingComponent",
+      "target": "MotionWarpingComponent_method_add_or_update_warp_target",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingComponent Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep",
+      "target": "GenlockedCustomTimeStep",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep",
+      "target": "GenlockedFixedRateCustomTimeStep_module_TimeManagement",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep",
+      "target": "GenlockedFixedRateCustomTimeStep_file_GenlockedFixedRateCustomTimeStep_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep",
+      "target": "GenlockedFixedRateCustomTimeStep_prop_force_single_frame_delta_time",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep_prop_force_single_frame_delta_time",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep",
+      "target": "GenlockedFixedRateCustomTimeStep_prop_frame_rate",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep_prop_frame_rate",
+      "target": "type_FrameRate",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep",
+      "target": "GenlockedFixedRateCustomTimeStep_prop_should_block",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "GenlockedFixedRateCustomTimeStep_prop_should_block",
+      "target": "type_bool",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenlockedFixedRateCustomTimeStep Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot",
+      "target": "PanelSlot",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot",
+      "target": "WidgetSwitcherSlot_module_UMG",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot",
+      "target": "WidgetSwitcherSlot_file_WidgetSwitcherSlot_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot",
+      "target": "WidgetSwitcherSlot_prop_horizontal_alignment",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot_prop_horizontal_alignment",
+      "target": "type_HorizontalAlignment",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot",
+      "target": "WidgetSwitcherSlot_prop_padding",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot_prop_padding",
+      "target": "type_Margin",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot",
+      "target": "WidgetSwitcherSlot_prop_vertical_alignment",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "WidgetSwitcherSlot_prop_vertical_alignment",
+      "target": "type_VerticalAlignment",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetSwitcherSlot Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "ImageReceivedDelegate",
+      "target": "MulticastDelegateBase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImageReceivedDelegate Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "ImageReceivedDelegate",
+      "target": "ImageReceivedDelegate_module_CoveringAPIEntity",
+      "relation": "defined_in_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImageReceivedDelegate Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "ImageReceivedDelegate",
+      "target": "ImageReceivedDelegate_file_SuperAPIHttpImage_h",
+      "relation": "defined_in_file",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImageReceivedDelegate Objects.md",
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_MathQuaternionSelectBool",
+      "target": "RigVMFunction_MathQuaternionSelectBool",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionSelectBool Objects.md",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,592 @@
+{
+  "nodes": [
+    {
+      "id": "victorybpfunctionlibrary_victorybpfunctionlibrary",
+      "label": "VictoryBPFunctionLibrary",
+      "file_type": "code",
+      "source_file": "VictoryBPFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_posegetitems_rigunit_posegetitems",
+      "label": "RigUnit_PoseGetItems",
+      "file_type": "code",
+      "source_file": "RigUnit_PoseGetItems Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sphericalpontoon_sphericalpontoon",
+      "label": "SphericalPontoon",
+      "file_type": "code",
+      "source_file": "SphericalPontoon Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerrotatorvariable_rigvmtrait_setdeformerrotatorvariable",
+      "label": "RigVMTrait_SetDeformerRotatorVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerRotatorVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fourplayersplitscreentype_fourplayersplitscreentype",
+      "label": "FourPlayerSplitScreenType",
+      "file_type": "code",
+      "source_file": "FourPlayerSplitScreenType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "directorypath_directorypath",
+      "label": "DirectoryPath",
+      "file_type": "code",
+      "source_file": "DirectoryPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcache_groomcache",
+      "label": "GroomCache",
+      "file_type": "code",
+      "source_file": "GroomCache Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjsonvaluewrapper_earthjsonvaluewrapper",
+      "label": "EarthJsonValueWrapper",
+      "file_type": "code",
+      "source_file": "EarthJsonValueWrapper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "customattributesetting_customattributesetting",
+      "label": "CustomAttributeSetting",
+      "file_type": "code",
+      "source_file": "CustomAttributeSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthinputprovider_twe_earthinputprovider_twe",
+      "label": "EarthInputProvider_TWE",
+      "file_type": "code",
+      "source_file": "EarthInputProvider__TWE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresult_hitresult",
+      "label": "HitResult",
+      "file_type": "code",
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformaccumulatearray_rigvmfunction_mathtransformaccumulatearray",
+      "label": "RigVMFunction_MathTransformAccumulateArray",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorscale_rigunit_mathvectorscale",
+      "label": "RigUnit_MathVectorScale",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uvoutput_uvoutput",
+      "label": "UVOutput",
+      "file_type": "code",
+      "source_file": "UVOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reimportcurvefactory_reimportcurvefactory",
+      "label": "ReimportCurveFactory",
+      "file_type": "code",
+      "source_file": "ReimportCurveFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentityprefab_urbanentityprefab",
+      "label": "UrbanEntityPrefab",
+      "file_type": "code",
+      "source_file": "UrbanEntityPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "downloadimagedelegate51_downloadimagedelegate51",
+      "label": "DownloadImageDelegate51",
+      "file_type": "code",
+      "source_file": "DownloadImageDelegate51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concertclientpresenceactor_concertclientpresenceactor",
+      "label": "ConcertClientPresenceActor",
+      "file_type": "code",
+      "source_file": "ConcertClientPresenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onoverallmeterresults_onoverallmeterresults",
+      "label": "OnOverallMeterResults",
+      "file_type": "code",
+      "source_file": "OnOverallMeterResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleround_rigunit_mathdoubleround",
+      "label": "RigUnit_MathDoubleRound",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleRound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionchangelistvalidator_worldpartitionchangelistvalidator",
+      "label": "WorldPartitionChangelistValidator",
+      "file_type": "code",
+      "source_file": "WorldPartitionChangelistValidator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycachetrack_transformanimation_geometrycachetrack_transformanimation",
+      "label": "GeometryCacheTrack_TransformAnimation",
+      "file_type": "code",
+      "source_file": "GeometryCacheTrack_TransformAnimation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sphericalpontoon_waterbodycomponent",
+      "label": "WaterBodyComponent",
+      "file_type": "code",
+      "source_file": "SphericalPontoon Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresult_vector",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresult_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresult_primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "code",
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresult_physicalmaterial",
+      "label": "PhysicalMaterial",
+      "file_type": "code",
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_posegetitems_rigpose",
+      "label": "RigPose",
+      "file_type": "code",
+      "source_file": "RigUnit_PoseGetItems Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_posegetitems_rigelementtype",
+      "label": "RigElementType",
+      "file_type": "code",
+      "source_file": "RigUnit_PoseGetItems Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_posegetitems_rigelementkeycollection",
+      "label": "RigElementKeyCollection",
+      "file_type": "code",
+      "source_file": "RigUnit_PoseGetItems Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthinputprovider_twe_layer_type",
+      "label": "LayerType",
+      "file_type": "code",
+      "source_file": "EarthInputProvider__TWE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthinputprovider_twe_earthgeoreferencingsystem",
+      "label": "EarthGeoReferencingSystem",
+      "file_type": "code",
+      "source_file": "EarthInputProvider__TWE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformaccumulatearray_rigvmexecutecontext",
+      "label": "RigVMExecuteContext",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformaccumulatearray_rigvmtransformspace",
+      "label": "RigVMTransformSpace",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformaccumulatearray_transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "victorybpfunctionlibrary_victorybpfunctionlibrary",
+      "target": "rigunit_posegetitems_rigpose",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "VictoryBPFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sphericalpontoon_sphericalpontoon",
+      "target": "sphericalpontoon_waterbodycomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SphericalPontoon Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hitresult_hitresult",
+      "target": "hitresult_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hitresult_hitresult",
+      "target": "hitresult_actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hitresult_hitresult",
+      "target": "hitresult_primitivecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hitresult_hitresult",
+      "target": "hitresult_physicalmaterial",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HitResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetitems_rigunit_posegetitems",
+      "target": "rigunit_posegetitems_rigpose",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetItems Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetitems_rigunit_posegetitems",
+      "target": "rigunit_posegetitems_rigelementtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetItems Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetitems_rigunit_posegetitems",
+      "target": "rigunit_posegetitems_rigelementkeycollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetItems Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthinputprovider_twe_earthinputprovider_twe",
+      "target": "earthinputprovider_twe_layer_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthInputProvider__TWE Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthinputprovider_twe_earthinputprovider_twe",
+      "target": "earthinputprovider_twe_earthgeoreferencingsystem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthInputProvider__TWE Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformaccumulatearray_rigvmfunction_mathtransformaccumulatearray",
+      "target": "rigvmfunction_mathtransformaccumulatearray_rigvmexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformaccumulatearray_rigvmfunction_mathtransformaccumulatearray",
+      "target": "rigvmfunction_mathtransformaccumulatearray_rigvmtransformspace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformaccumulatearray_rigvmfunction_mathtransformaccumulatearray",
+      "target": "rigvmfunction_mathtransformaccumulatearray_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformAccumulateArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorscale_rigunit_mathvectorscale",
+      "target": "rigvmfunction_mathtransformaccumulatearray_transform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathVectorScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorscale_rigunit_mathvectorscale",
+      "target": "rigunit_mathdoubleround_rigunit_mathdoubleround",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathVectorScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjsonvaluewrapper_earthjsonvaluewrapper",
+      "target": "earthinputprovider_twe_earthinputprovider_twe",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EarthJsonValueWrapper Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathtransformaccumulatearray_rigvmfunction_mathtransformaccumulatearray",
+        "rigunit_mathvectorscale_rigunit_mathvectorscale",
+        "rigunit_mathdoubleround_rigunit_mathdoubleround"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathTransformAccumulateArray Objects.md"
+    },
+    {
+      "id": "game_engine_data_structures",
+      "label": "Core Game Engine Data Structures",
+      "nodes": [
+        "hitresult_hitresult",
+        "sphericalpontoon_sphericalpontoon",
+        "directorypath_directorypath",
+        "customattributesetting_customattributesetting"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "HitResult Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

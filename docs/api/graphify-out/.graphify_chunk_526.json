@@ -1,0 +1,587 @@
+{
+  "nodes": [
+    {
+      "id": "posesearchmode_class",
+      "label": "PoseSearchMode",
+      "file_type": "document",
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchmode_bruteforce",
+      "label": "BRUTE_FORCE Search Mode",
+      "file_type": "document",
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchmode_pcakdtree",
+      "label": "PCAKD_TREE Search Mode",
+      "file_type": "document",
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchmode_vptree",
+      "label": "VP_TREE Search Mode",
+      "file_type": "document",
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationmediasplittype_class",
+      "label": "DisplayClusterConfigurationMediaSplitType",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaSplitType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavetablesettings_class",
+      "label": "WaveTableSettings",
+      "file_type": "document",
+      "source_file": "WaveTableSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdprectpickerresult_class",
+      "label": "WdpRectPickerResult",
+      "file_type": "document",
+      "source_file": "WdpRectPickerResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolinteger_class",
+      "label": "RigUnit_SetMultiControlInteger",
+      "file_type": "document",
+      "source_file": "RigUnit_SetMultiControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionunaryop_class",
+      "label": "RigVMFunction_MathQuaternionUnaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathQuaternionUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosphysicalmaterial_class",
+      "label": "ChaosPhysicalMaterial",
+      "file_type": "document",
+      "source_file": "ChaosPhysicalMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadsettings_class",
+      "label": "EarthRoadSettings",
+      "file_type": "document",
+      "source_file": "EarthRoadSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lensfileevaluationinputs_class",
+      "label": "LensFileEvaluationInputs",
+      "file_type": "document",
+      "source_file": "LensFileEvaluationInputs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompropertycontrolcomponent_class",
+      "label": "CustomPropertyControlComponent",
+      "file_type": "document",
+      "source_file": "CustomPropertyControlComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercoreremoveoperation_class",
+      "label": "ActorModifierCoreRemoveOperation",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreRemoveOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcontainmentoutcomepins_class",
+      "label": "GeometryScriptContainmentOutcomePins",
+      "file_type": "document",
+      "source_file": "GeometryScriptContainmentOutcomePins Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webtoimage_class",
+      "label": "WebToImage",
+      "file_type": "document",
+      "source_file": "WebToImage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesignedobject_class",
+      "label": "MovieSceneSignedObject",
+      "file_type": "document",
+      "source_file": "MovieSceneSignedObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimenode_class",
+      "label": "glTFRuntimeNode",
+      "file_type": "document",
+      "source_file": "glTFRuntimeNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "charactermovementcomponent_class",
+      "label": "CharacterMovementComponent",
+      "file_type": "document",
+      "source_file": "CharacterMovementComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorweatherpresetfactory_class",
+      "label": "SkyCreatorWeatherPresetFactory",
+      "file_type": "document",
+      "source_file": "SkyCreatorWeatherPresetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuentryscriptdataadvanced_class",
+      "label": "ToolMenuEntryScriptDataAdvanced",
+      "file_type": "document",
+      "source_file": "ToolMenuEntryScriptDataAdvanced Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptpointpriorityoptions_class",
+      "label": "GeometryScriptPointPriorityOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptPointPriorityOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressiontime_class",
+      "label": "DMMaterialStageExpressionTime",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmupdatetype_class",
+      "label": "DMUpdateType",
+      "file_type": "document",
+      "source_file": "DMUpdateType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadeditorcommand_lock_class",
+      "label": "AesRoadEditorCommand_Lock",
+      "file_type": "document",
+      "source_file": "AesRoadEditorCommand__Lock Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posessarch_optimization_concept",
+      "label": "Pose Search Optimization",
+      "file_type": "document",
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physical_material_properties_concept",
+      "label": "Physical Material Properties",
+      "file_type": "document",
+      "source_file": "ChaosPhysicalMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "road_generation_system_concept",
+      "label": "Road Generation System",
+      "file_type": "document",
+      "source_file": "EarthRoadSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_lens_system_concept",
+      "label": "Camera Lens System",
+      "file_type": "document",
+      "source_file": "LensFileEvaluationInputs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "character_movement_physics_concept",
+      "label": "Character Movement Physics",
+      "file_type": "document",
+      "source_file": "CharacterMovementComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "posesearchmode_bruteforce",
+      "target": "posesearchmode_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchmode_pcakdtree",
+      "target": "posesearchmode_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchmode_vptree",
+      "target": "posesearchmode_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchmode_pcakdtree",
+      "target": "posessarch_optimization_concept",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchmode_vptree",
+      "target": "posessarch_optimization_concept",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchmode_pcakdtree",
+      "target": "posesearchmode_bruteforce",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchmode_vptree",
+      "target": "posesearchmode_bruteforce",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "PoseSearchMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolinteger_class",
+      "target": "rigvmfunction_mathquaternionunaryop_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_SetMultiControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosphysicalmaterial_class",
+      "target": "physical_material_properties_concept",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ChaosPhysicalMaterial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadsettings_class",
+      "target": "road_generation_system_concept",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "EarthRoadSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadsettings_class",
+      "target": "aesroadeditorcommand_lock_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthRoadSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lensfileevaluationinputs_class",
+      "target": "camera_lens_system_concept",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "LensFileEvaluationInputs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "charactermovementcomponent_class",
+      "target": "character_movement_physics_concept",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.92,
+      "source_file": "CharacterMovementComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "charactermovementcomponent_class",
+      "target": "chaosphysicalmaterial_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CharacterMovementComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiontime_class",
+      "target": "dmupdatetype_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DMMaterialStageExpressionTime Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcontainmentoutcomepins_class",
+      "target": "geometryscriptpointpriorityoptions_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "GeometryScriptContainmentOutcomePins Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "webtoimage_class",
+      "target": "gltfruntimenode_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "WebToImage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custompropertycontrolcomponent_class",
+      "target": "actormodifiercoreremoveoperation_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CustomPropertyControlComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweatherpresetfactory_class",
+      "target": "lensfileevaluationinputs_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.62,
+      "source_file": "SkyCreatorWeatherPresetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavetablesettings_class",
+      "target": "lensfileevaluationinputs_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "WaveTableSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenesignedobject_class",
+      "target": "charactermovementcomponent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "MovieSceneSignedObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pose_search_algorithms_group",
+      "label": "Pose Search Algorithm Variants",
+      "nodes": [
+        "posesearchmode_bruteforce",
+        "posesearchmode_pcakdtree",
+        "posesearchmode_vptree"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchMode Objects.md"
+    },
+    {
+      "id": "road_generation_workflow",
+      "label": "Road Generation and Editing Workflow",
+      "nodes": [
+        "earthroadsettings_class",
+        "aesroadeditorcommand_lock_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthRoadSettings Objects.md"
+    },
+    {
+      "id": "geometry_script_operations",
+      "label": "Geometry Script Operations",
+      "nodes": [
+        "geometryscriptcontainmentoutcomepins_class",
+        "geometryscriptpointpriorityoptions_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptContainmentOutcomePins Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

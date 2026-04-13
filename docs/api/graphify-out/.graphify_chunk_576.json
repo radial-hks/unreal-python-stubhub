@@ -1,0 +1,761 @@
+{
+  "nodes": [
+    {
+      "id": "AbilitySystemDebugHUD",
+      "type": "class",
+      "label": "AbilitySystemDebugHUD",
+      "description": "Ability System Debug HUD",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "file": "AbilitySystemDebugHUD.h"
+    },
+    {
+      "id": "HUD",
+      "type": "class",
+      "label": "HUD"
+    },
+    {
+      "id": "PCGAttributePropertySelectorBlueprintHelpers",
+      "type": "class",
+      "label": "PCGAttributePropertySelectorBlueprintHelpers",
+      "description": "Helper class to allow the BP to call the custom setters and getters on FPCGAttributePropertySelector",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGAttributePropertySelector.h"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "RigVMFunction_MathIntMake",
+      "type": "class",
+      "label": "RigVMFunction_MathIntMake",
+      "description": "A integer constant",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathInt.h"
+    },
+    {
+      "id": "RigVMFunction_MathIntBase",
+      "type": "class",
+      "label": "RigVMFunction_MathIntBase"
+    },
+    {
+      "id": "SkeletalMeshOptimizationType",
+      "type": "enum",
+      "label": "SkeletalMeshOptimizationType",
+      "description": "Enum specifying the reduction type to use when simplifying skeletal meshes with Simmplygon",
+      "module": "Engine",
+      "file": "SkeletalMeshReductionSettings.h"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "SMOT_NUM_OF_TRIANGLES",
+      "type": "enum_value",
+      "label": "SMOT_NUM_OF_TRIANGLES",
+      "value": 0,
+      "description": "Triangle requirement will be used for simplification"
+    },
+    {
+      "id": "SMOT_MAX_DEVIATION",
+      "type": "enum_value",
+      "label": "SMOT_MAX_DEVIATION",
+      "value": 1,
+      "description": "Accuracy requirement will be used for simplification"
+    },
+    {
+      "id": "SMOT_TRIANGLE_OR_DEVIATION",
+      "type": "enum_value",
+      "label": "SMOT_TRIANGLE_OR_DEVIATION",
+      "value": 2,
+      "description": "Simplification will continue until either Triangle or Accuracy requirement is met"
+    },
+    {
+      "id": "ScrollBarStyle",
+      "type": "class",
+      "label": "ScrollBarStyle",
+      "description": "Represents the appearance of an SScrollBar",
+      "module": "SlateCore",
+      "file": "SlateTypes.h"
+    },
+    {
+      "id": "SlateWidgetStyle",
+      "type": "class",
+      "label": "SlateWidgetStyle"
+    },
+    {
+      "id": "AnimGraphNode_StateResult",
+      "type": "class",
+      "label": "AnimGraphNode_StateResult",
+      "description": "Anim Graph Node State Result",
+      "module": "AnimGraph",
+      "file": "AnimGraphNode_StateResult.h"
+    },
+    {
+      "id": "AnimGraphNode_Base",
+      "type": "class",
+      "label": "AnimGraphNode_Base"
+    },
+    {
+      "id": "OnSamplePlaybackProgress",
+      "type": "class",
+      "label": "OnSamplePlaybackProgress",
+      "description": "Called while a sample player is playing back. Indicates the playhead progress in percent and as absolute time value (within the file)",
+      "module": "Synthesis",
+      "plugin": "Synthesis",
+      "file": "SynthComponentWaveTable.h"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "EarthTabInfo",
+      "type": "class",
+      "label": "EarthTabInfo",
+      "description": "Earth Tab Info",
+      "module": "AesEditorUI",
+      "plugin": "AesWorld",
+      "file": "EarthTabList.h"
+    },
+    {
+      "id": "TableRowBase",
+      "type": "class",
+      "label": "TableRowBase"
+    },
+    {
+      "id": "LightmassPrimitiveSettings",
+      "type": "struct",
+      "label": "LightmassPrimitiveSettings",
+      "description": "Per-object settings for Lightmass",
+      "module": "Engine",
+      "file": "EngineTypes.h"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "DMMaterialValueColorAtlasDynamic",
+      "type": "class",
+      "label": "DMMaterialValueColorAtlasDynamic",
+      "description": "Link to a UDMMaterialValueColorAtlas for Material Designer Model Dynamics",
+      "module": "DynamicMaterial",
+      "plugin": "DynamicMaterial",
+      "file": "DMMaterialValueColorAtlasDynamic.h"
+    },
+    {
+      "id": "DMMaterialValueDynamic",
+      "type": "class",
+      "label": "DMMaterialValueDynamic"
+    },
+    {
+      "id": "ValueOrBBKey_Object",
+      "type": "class",
+      "label": "ValueOrBBKey_Object",
+      "description": "Value or BBKey Object",
+      "module": "AIModule",
+      "file": "ValueOrBBKey.h"
+    },
+    {
+      "id": "ValueOrBlackboardKeyBase",
+      "type": "class",
+      "label": "ValueOrBlackboardKeyBase"
+    },
+    {
+      "id": "UpdateMoveAlongPathParams_Batch",
+      "type": "class",
+      "label": "UpdateMoveAlongPathParams_Batch",
+      "description": "Update Move Along Path Params Batch",
+      "module": "CoveringAPIDefine",
+      "plugin": "CoveringAPI",
+      "file": "CoveringBoundAPI.h"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "NiagaraLensEffectBase",
+      "type": "class",
+      "label": "NiagaraLensEffectBase",
+      "description": "Niagara equivalent of AEmitterCameraLensEffectBase. This class is supported by APlayerCameraManager (via ICameraLensEffectInterface) as a camera lens effect",
+      "module": "Niagara",
+      "plugin": "Niagara",
+      "file": "NiagaraLensEffectBase.h"
+    },
+    {
+      "id": "NiagaraActor",
+      "type": "class",
+      "label": "NiagaraActor"
+    },
+    {
+      "id": "RigUnit_MathMatrixToTransform",
+      "type": "class",
+      "label": "RigUnit_MathMatrixToTransform",
+      "description": "deprecated: 'RigUnit_MathMatrixToTransform' was renamed to 'RigVMFunction_MathMatrixToTransform'",
+      "deprecated": true
+    },
+    {
+      "id": "RigVMFunction_MathMatrixToTransform",
+      "type": "class",
+      "label": "RigVMFunction_MathMatrixToTransform"
+    },
+    {
+      "id": "TakeRecorderSource",
+      "type": "class",
+      "label": "TakeRecorderSource",
+      "description": "Base class for all sources that can be recorded with the Take Recorder",
+      "module": "TakesCore",
+      "plugin": "Takes",
+      "file": "TakeRecorderSource.h"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "TeamAttitude",
+      "type": "enum",
+      "label": "TeamAttitude",
+      "description": "ETeam Attitude",
+      "module": "AIModule",
+      "file": "GenericTeamAgentInterface.h"
+    },
+    {
+      "id": "FRIENDLY",
+      "type": "enum_value",
+      "label": "FRIENDLY",
+      "value": 0
+    },
+    {
+      "id": "NEUTRAL",
+      "type": "enum_value",
+      "label": "NEUTRAL",
+      "value": 1
+    },
+    {
+      "id": "HOSTILE",
+      "type": "enum_value",
+      "label": "HOSTILE",
+      "value": 2
+    },
+    {
+      "id": "RetargetOpStack",
+      "type": "class",
+      "label": "RetargetOpStack",
+      "description": "wrapper around a TArray of Retarget Ops for display in details panel",
+      "module": "IKRig",
+      "plugin": "IKRig",
+      "file": "IKRetargetOps.h"
+    },
+    {
+      "id": "NavModifierVolume",
+      "type": "class",
+      "label": "NavModifierVolume",
+      "description": "Allows applying selected AreaClass to navmesh, using Volume's shape",
+      "module": "NavigationSystem",
+      "file": "NavModifierVolume.h"
+    },
+    {
+      "id": "Volume",
+      "type": "class",
+      "label": "Volume"
+    },
+    {
+      "id": "SplineMeshAxis",
+      "type": "enum",
+      "label": "SplineMeshAxis",
+      "description": "ESpline Mesh Axis",
+      "module": "Engine",
+      "file": "SplineMeshComponent.h"
+    },
+    {
+      "id": "X",
+      "type": "enum_value",
+      "label": "X",
+      "value": 0
+    },
+    {
+      "id": "Y",
+      "type": "enum_value",
+      "label": "Y",
+      "value": 1
+    },
+    {
+      "id": "Z",
+      "type": "enum_value",
+      "label": "Z",
+      "value": 2
+    },
+    {
+      "id": "RigVMFunction_MathMatrixFromVectors",
+      "type": "class",
+      "label": "RigVMFunction_MathMatrixFromVectors",
+      "description": "Makes a matrix from its vectors",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathMatrix.h"
+    },
+    {
+      "id": "RigVMFunction_MathMatrixBase",
+      "type": "class",
+      "label": "RigVMFunction_MathMatrixBase"
+    },
+    {
+      "id": "EditorValidatorBase",
+      "type": "class",
+      "label": "EditorValidatorBase",
+      "description": "The EditorValidatorBase is a class which verifies that an asset meets a specific ruleset",
+      "module": "DataValidation",
+      "plugin": "DataValidation",
+      "file": "EditorValidatorBase.h"
+    },
+    {
+      "id": "NavSystemConfigOverride",
+      "type": "class",
+      "label": "NavSystemConfigOverride",
+      "description": "Nav System Config Override",
+      "module": "NavigationSystem",
+      "file": "NavSystemConfigOverride.h"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor"
+    },
+    {
+      "id": "set_point_property",
+      "type": "function",
+      "label": "set_point_property",
+      "description": "Set Point Property"
+    },
+    {
+      "id": "set_extra_property",
+      "type": "function",
+      "label": "set_extra_property",
+      "description": "Set Extra Property"
+    },
+    {
+      "id": "set_attribute_name",
+      "type": "function",
+      "label": "set_attribute_name",
+      "description": "Set Attribute Name"
+    },
+    {
+      "id": "get_selection",
+      "type": "function",
+      "label": "get_selection",
+      "description": "Get Selection"
+    },
+    {
+      "id": "k2_validate_loaded_asset",
+      "type": "function",
+      "label": "k2_validate_loaded_asset",
+      "description": "Override this in blueprint to validate assets"
+    },
+    {
+      "id": "asset_fails",
+      "type": "function",
+      "label": "asset_fails",
+      "description": "Marks the validation as failed and adds an error message"
+    },
+    {
+      "id": "get_primary_particle_component",
+      "type": "function",
+      "label": "get_primary_particle_component",
+      "description": "Get Primary Particle Component"
+    },
+    {
+      "id": "set_area_class",
+      "type": "function",
+      "label": "set_area_class",
+      "description": "Set Area Class"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AbilitySystemDebugHUD",
+      "target": "HUD",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGAttributePropertySelectorBlueprintHelpers",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathIntMake",
+      "target": "RigVMFunction_MathIntBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SkeletalMeshOptimizationType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SkeletalMeshOptimizationType",
+      "target": "SMOT_NUM_OF_TRIANGLES",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "SkeletalMeshOptimizationType",
+      "target": "SMOT_MAX_DEVIATION",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "SkeletalMeshOptimizationType",
+      "target": "SMOT_TRIANGLE_OR_DEVIATION",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "ScrollBarStyle",
+      "target": "SlateWidgetStyle",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimGraphNode_StateResult",
+      "target": "AnimGraphNode_Base",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnSamplePlaybackProgress",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthTabInfo",
+      "target": "TableRowBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "LightmassPrimitiveSettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialValueColorAtlasDynamic",
+      "target": "DMMaterialValueDynamic",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ValueOrBBKey_Object",
+      "target": "ValueOrBlackboardKeyBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "UpdateMoveAlongPathParams_Batch",
+      "target": "ParamsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NiagaraLensEffectBase",
+      "target": "NiagaraActor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathMatrixToTransform",
+      "target": "RigVMFunction_MathMatrixToTransform",
+      "type": "renamed_to",
+      "deprecated": true
+    },
+    {
+      "source": "TakeRecorderSource",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TeamAttitude",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TeamAttitude",
+      "target": "FRIENDLY",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TeamAttitude",
+      "target": "NEUTRAL",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TeamAttitude",
+      "target": "HOSTILE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "RetargetOpStack",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NavModifierVolume",
+      "target": "Volume",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SplineMeshAxis",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SplineMeshAxis",
+      "target": "X",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "SplineMeshAxis",
+      "target": "Y",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "SplineMeshAxis",
+      "target": "Z",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "RigVMFunction_MathMatrixFromVectors",
+      "target": "RigVMFunction_MathMatrixBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EditorValidatorBase",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NavSystemConfigOverride",
+      "target": "Actor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGAttributePropertySelectorBlueprintHelpers",
+      "target": "set_point_property",
+      "type": "has_function"
+    },
+    {
+      "source": "PCGAttributePropertySelectorBlueprintHelpers",
+      "target": "set_extra_property",
+      "type": "has_function"
+    },
+    {
+      "source": "PCGAttributePropertySelectorBlueprintHelpers",
+      "target": "set_attribute_name",
+      "type": "has_function"
+    },
+    {
+      "source": "PCGAttributePropertySelectorBlueprintHelpers",
+      "target": "get_selection",
+      "type": "has_function"
+    },
+    {
+      "source": "EditorValidatorBase",
+      "target": "k2_validate_loaded_asset",
+      "type": "has_function"
+    },
+    {
+      "source": "EditorValidatorBase",
+      "target": "asset_fails",
+      "type": "has_function"
+    },
+    {
+      "source": "NiagaraLensEffectBase",
+      "target": "get_primary_particle_component",
+      "type": "has_function"
+    },
+    {
+      "source": "NavModifierVolume",
+      "target": "set_area_class",
+      "type": "has_function"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_1",
+      "nodes": [
+        "AbilitySystemDebugHUD",
+        "HUD",
+        "GameplayAbilities",
+        "GameplayAbilities"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "AbilitySystemDebugHUD inherits from HUD in GameplayAbilities plugin/module"
+    },
+    {
+      "id": "he_2",
+      "nodes": [
+        "SkeletalMeshOptimizationType",
+        "SMOT_NUM_OF_TRIANGLES",
+        "SMOT_MAX_DEVIATION",
+        "SMOT_TRIANGLE_OR_DEVIATION"
+      ],
+      "type": "enum_with_values",
+      "description": "SkeletalMeshOptimizationType enum has three optimization strategies for skeletal mesh simplification"
+    },
+    {
+      "id": "he_3",
+      "nodes": [
+        "TeamAttitude",
+        "FRIENDLY",
+        "NEUTRAL",
+        "HOSTILE"
+      ],
+      "type": "enum_with_values",
+      "description": "TeamAttitude enum defines three relationship states between teams"
+    },
+    {
+      "id": "he_4",
+      "nodes": [
+        "SplineMeshAxis",
+        "X",
+        "Y",
+        "Z"
+      ],
+      "type": "enum_with_values",
+      "description": "SplineMeshAxis enum defines three axis options for spline mesh orientation"
+    },
+    {
+      "id": "he_5",
+      "nodes": [
+        "PCGAttributePropertySelectorBlueprintHelpers",
+        "set_point_property",
+        "set_extra_property",
+        "set_attribute_name",
+        "get_selection"
+      ],
+      "type": "class_with_methods",
+      "description": "PCGAttributePropertySelectorBlueprintHelpers provides helper methods for accessing PCG attribute properties"
+    },
+    {
+      "id": "he_6",
+      "nodes": [
+        "RigVMFunction_MathIntMake",
+        "RigVMFunction_MathIntBase",
+        "RigVM",
+        "RigVM"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "RigVMFunction_MathIntMake is a math function in the RigVM plugin for integer operations"
+    },
+    {
+      "id": "he_7",
+      "nodes": [
+        "RigVMFunction_MathMatrixFromVectors",
+        "RigVMFunction_MathMatrixBase",
+        "RigVM",
+        "RigVM"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "RigVMFunction_MathMatrixFromVectors creates matrices from vector components in RigVM"
+    },
+    {
+      "id": "he_8",
+      "nodes": [
+        "EditorValidatorBase",
+        "k2_validate_loaded_asset",
+        "asset_fails",
+        "asset_passes",
+        "asset_warning"
+      ],
+      "type": "validation_system",
+      "description": "EditorValidatorBase provides a validation system for checking asset integrity in Unreal Editor"
+    },
+    {
+      "id": "he_9",
+      "nodes": [
+        "TakeRecorderSource",
+        "Object",
+        "TakesCore",
+        "Takes"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "TakeRecorderSource is the base class for recording sources in the Take Recorder system"
+    },
+    {
+      "id": "he_10",
+      "nodes": [
+        "NiagaraLensEffectBase",
+        "NiagaraActor",
+        "Niagara",
+        "Niagara"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "NiagaraLensEffectBase provides camera lens effects using the Niagara particle system"
+    },
+    {
+      "id": "he_11",
+      "nodes": [
+        "NavModifierVolume",
+        "Volume",
+        "NavigationSystem"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "NavModifierVolume applies navigation area modifications within its volume bounds"
+    },
+    {
+      "id": "he_12",
+      "nodes": [
+        "NavSystemConfigOverride",
+        "Actor",
+        "NavigationSystem"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "NavSystemConfigOverride allows level-specific navigation system configuration"
+    },
+    {
+      "id": "he_13",
+      "nodes": [
+        "DMMaterialValueColorAtlasDynamic",
+        "DMMaterialValueDynamic",
+        "DynamicMaterial",
+        "DynamicMaterial"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "DMMaterialValueColorAtlasDynamic provides dynamic material value for color atlas operations"
+    },
+    {
+      "id": "he_14",
+      "nodes": [
+        "EarthTabInfo",
+        "TableRowBase",
+        "AesEditorUI",
+        "AesWorld"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "EarthTabInfo defines tab configuration for Earth UI system in AesWorld plugin"
+    },
+    {
+      "id": "he_15",
+      "nodes": [
+        "ScrollBarStyle",
+        "SlateWidgetStyle",
+        "SlateCore"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "ScrollBarStyle defines visual appearance for scroll bar widgets in Slate UI"
+    },
+    {
+      "id": "he_16",
+      "nodes": [
+        "OnSamplePlaybackProgress",
+        "MulticastDelegateBase",
+        "Synthesis",
+        "Synthesis"
+      ],
+      "type": "class_hierarchy_with_context",
+      "description": "OnSamplePlaybackProgress is a delegate for tracking audio sample playback progress"
+    }
+  ]
+}

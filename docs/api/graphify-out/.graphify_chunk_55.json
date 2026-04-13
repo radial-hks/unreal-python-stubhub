@@ -1,0 +1,427 @@
+{
+  "nodes": [
+    {
+      "id": "computesourcefromtext_computesourcefromtext",
+      "label": "ComputeSourceFromText",
+      "file_type": "document",
+      "source_file": "ComputeSourceFromText Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computesourcefromtext_hlsl_parsing",
+      "label": "HLSL Text Parsing",
+      "file_type": "document",
+      "source_file": "ComputeSourceFromText Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_linkedanimlayer_linkedanimlayer",
+      "label": "AnimGraphNode_LinkedAnimLayer",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__LinkedAnimLayer Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applytransformmode_applytransformmode",
+      "label": "ApplyTransformMode",
+      "file_type": "document",
+      "source_file": "ApplyTransformMode Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applytransformmode_override",
+      "label": "Override Transform Mode",
+      "file_type": "document",
+      "source_file": "ApplyTransformMode Objects.md",
+      "source_location": "line 17-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applytransformmode_additive",
+      "label": "Additive Transform Mode",
+      "file_type": "document",
+      "source_file": "ApplyTransformMode Objects.md",
+      "source_location": "line 23-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatevectorcolor_rbfinterpolation",
+      "label": "RigUnit_MathRBFInterpolateVectorColor",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateVectorColor Objects.md",
+      "source_location": "line 4-6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletonfromstaticmeshfactory_skeletonfromstaticmesh",
+      "label": "SkeletonFromStaticMeshFactory",
+      "file_type": "document",
+      "source_file": "SkeletonFromStaticMeshFactory Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionarctangent2_arctangent2",
+      "label": "DMMaterialStageExpressionArctangent2",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionArctangent2 Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondecalderivative_decalderivative",
+      "label": "MaterialExpressionDecalDerivative",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDecalDerivative Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetchildmetadata_childassetmetadata",
+      "label": "AesAssetChildMetaData",
+      "file_type": "document",
+      "source_file": "AesAssetChildMetaData Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetchildmetadata_asset_transform",
+      "label": "Child Asset Transform System",
+      "file_type": "document",
+      "source_file": "AesAssetChildMetaData Objects.md",
+      "source_location": "line 17-29",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_ccdik_ccdik",
+      "label": "AnimGraphNode_CCDIK",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_CCDIK Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buttonwidgetstyle_buttonstyle",
+      "label": "ButtonWidgetStyle",
+      "file_type": "document",
+      "source_file": "ButtonWidgetStyle Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aescollisioncomponentbase_collisioncomponent",
+      "label": "AesCollisionComponentBase",
+      "file_type": "document",
+      "source_file": "AesCollisionComponentBase Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesflowmapeditorcommandparams_velocity_flowmapvelocity",
+      "label": "AesFlowMapEditorCommandParams_Velocity",
+      "file_type": "document",
+      "source_file": "AesFlowMapEditorCommandParams__Velocity Objects.md",
+      "source_location": "line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_animation_graph_nodes",
+      "label": "Animation Graph Nodes",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__LinkedAnimLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin_system",
+      "label": "AesWorld Plugin System",
+      "file_type": "document",
+      "source_file": "AesAssetChildMetaData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_expression_system",
+      "label": "Material Expression System",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionArctangent2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_transform_system",
+      "label": "ControlRig Transform System",
+      "file_type": "document",
+      "source_file": "ApplyTransformMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "computesourcefromtext_computesourcefromtext",
+      "target": "computesourcefromtext_hlsl_parsing",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComputeSourceFromText Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "applytransformmode_applytransformmode",
+      "target": "applytransformmode_override",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplyTransformMode Objects.md",
+      "source_location": "line 17-19",
+      "weight": 1.0
+    },
+    {
+      "source": "applytransformmode_applytransformmode",
+      "target": "applytransformmode_additive",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplyTransformMode Objects.md",
+      "source_location": "line 23-25",
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetchildmetadata_childassetmetadata",
+      "target": "aesassetchildmetadata_asset_transform",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesAssetChildMetaData Objects.md",
+      "source_location": "line 17-29",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_linkedanimlayer_linkedanimlayer",
+      "target": "animgraphnode_animation_graph_nodes",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimGraphNode__LinkedAnimLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_ccdik_ccdik",
+      "target": "animgraphnode_animation_graph_nodes",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimGraphNode_CCDIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetchildmetadata_childassetmetadata",
+      "target": "aesworld_plugin_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesAssetChildMetaData Objects.md",
+      "source_location": "line 11-12",
+      "weight": 1.0
+    },
+    {
+      "source": "aescollisioncomponentbase_collisioncomponent",
+      "target": "aesworld_plugin_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesCollisionComponentBase Objects.md",
+      "source_location": "line 11-12",
+      "weight": 1.0
+    },
+    {
+      "source": "aesflowmapeditorcommandparams_velocity_flowmapvelocity",
+      "target": "aesworld_plugin_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFlowMapEditorCommandParams__Velocity Objects.md",
+      "source_location": "line 11-12",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionarctangent2_arctangent2",
+      "target": "material_expression_system",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DMMaterialStageExpressionArctangent2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondecalderivative_decalderivative",
+      "target": "material_expression_system",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionDecalDerivative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "applytransformmode_applytransformmode",
+      "target": "controlrig_transform_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplyTransformMode Objects.md",
+      "source_location": "line 11-12",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorcolor_rbfinterpolation",
+      "target": "controlrig_transform_system",
+      "relation": "participates_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateVectorColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_ccdik_ccdik",
+      "target": "animgraphnode_linkedanimlayer_linkedanimlayer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode_CCDIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetchildmetadata_childassetmetadata",
+      "target": "aesflowmapeditorcommandparams_velocity_flowmapvelocity",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesAssetChildMetaData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetchildmetadata_childassetmetadata",
+      "target": "aescollisioncomponentbase_collisioncomponent",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesAssetChildMetaData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "aesworld_plugin_ecosystem",
+      "label": "AesWorld Plugin Ecosystem",
+      "nodes": [
+        "aesassetchildmetadata_childassetmetadata",
+        "aescollisioncomponentbase_collisioncomponent",
+        "aesflowmapeditorcommandparams_velocity_flowmapvelocity"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "AesAssetChildMetaData Objects.md"
+    },
+    {
+      "id": "unreal_animation_graph_system",
+      "label": "Unreal Animation Graph System",
+      "nodes": [
+        "animgraphnode_linkedanimlayer_linkedanimlayer",
+        "animgraphnode_ccdik_ccdik"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__LinkedAnimLayer Objects.md"
+    },
+    {
+      "id": "material_expression_framework",
+      "label": "Material Expression Framework",
+      "nodes": [
+        "dmmaterialstageexpressionarctangent2_arctangent2",
+        "materialexpressiondecalderivative_decalderivative"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DMMaterialStageExpressionArctangent2 Objects.md"
+    }
+  ],
+  "input_tokens": 8500,
+  "output_tokens": 2100
+}

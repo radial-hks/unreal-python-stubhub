@@ -1,0 +1,494 @@
+{
+  "nodes": [
+    {
+      "id": "moviegraphimagesequencenode_jpg_class",
+      "label": "MovieGraphImageSequenceOutputNode_JPG",
+      "file_type": "code",
+      "source_file": "MovieGraphImageSequenceOutputNode_JPG Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaramoduledependencytype_enum",
+      "label": "NiagaraModuleDependencyType",
+      "file_type": "code",
+      "source_file": "NiagaraModuleDependencyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxkey_class",
+      "label": "ComboBoxKey",
+      "file_type": "code",
+      "source_file": "ComboBoxKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodycomponent_class",
+      "label": "WaterBodyComponent",
+      "file_type": "code",
+      "source_file": "WaterBodyComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linkedanimgraphreference_class",
+      "label": "LinkedAnimGraphReference",
+      "file_type": "code",
+      "source_file": "LinkedAnimGraphReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenetextureid_enum",
+      "label": "SceneTextureId",
+      "file_type": "code",
+      "source_file": "SceneTextureId Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlpointmeshcomponent_class",
+      "label": "ControlPointMeshComponent",
+      "file_type": "code",
+      "source_file": "ControlPointMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolorbinaryop_class",
+      "label": "RigVMFunction_MathColorBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathColorBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkparentwidget_class",
+      "label": "UIFrameworkParentWidget",
+      "file_type": "code",
+      "source_file": "UIFrameworkParentWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionvertexcolor_class",
+      "label": "MaterialExpressionVertexColor",
+      "file_type": "code",
+      "source_file": "MaterialExpressionVertexColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorfloor_class",
+      "label": "RigVMFunction_MathVectorFloor",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorFloor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgeometrybplibrary_class",
+      "label": "WdpGeometryBPLibrary",
+      "file_type": "code",
+      "source_file": "WdpGeometryBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusskinweightsasvertexmaskdataprovider_class",
+      "label": "OptimusSkinWeightsAsVertexMaskDataProvider",
+      "file_type": "code",
+      "source_file": "OptimusSkinWeightsAsVertexMaskDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshmodeling_class",
+      "label": "GeometryScript_MeshModeling",
+      "file_type": "code",
+      "source_file": "GeometryScript__MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsamplephysicsvectorfield_class",
+      "label": "MaterialExpressionSamplePhysicsVectorField",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSamplePhysicsVectorField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resonanceaudioreverbpluginpresetfactory_class",
+      "label": "ResonanceAudioReverbPluginPresetFactory",
+      "file_type": "code",
+      "source_file": "ResonanceAudioReverbPluginPresetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptpolygonfillmode_enum",
+      "label": "GeometryScriptPolygonFillMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptPolygonFillMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestotherinterface_interface",
+      "label": "PyTestOtherInterface",
+      "file_type": "code",
+      "source_file": "PyTestOtherInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editabletext_oneditabletextchangedevent_class",
+      "label": "EditableText_OnEditableTextChangedEvent",
+      "file_type": "code",
+      "source_file": "EditableText_OnEditableTextChangedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_setanimattribute_class",
+      "label": "RigDispatch_SetAnimAttribute",
+      "file_type": "code",
+      "source_file": "RigDispatch__SetAnimAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onsliderfloatvaluechangedevent_class",
+      "label": "OnSliderFloatValueChangedEvent",
+      "file_type": "code",
+      "source_file": "OnSliderFloatValueChangedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_animattributedatainterface_class",
+      "label": "OptimusNode_AnimAttributeDataInterface",
+      "file_type": "code",
+      "source_file": "OptimusNode__AnimAttributeDataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jpg_image_output_concept",
+      "label": "JPG Image Sequence Output",
+      "file_type": "code",
+      "source_file": "MovieGraphImageSequenceOutputNode_JPG Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "water_rendering_concept",
+      "label": "Water Rendering System",
+      "file_type": "code",
+      "source_file": "WaterBodyComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometry_triangulation_concept",
+      "label": "Geometry Triangulation",
+      "file_type": "code",
+      "source_file": "WdpGeometryBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mesh_modeling_operations_concept",
+      "label": "Mesh Modeling Operations",
+      "file_type": "code",
+      "source_file": "GeometryScript__MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physics_field_sampling_concept",
+      "label": "Physics Field Sampling",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSamplePhysicsVectorField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_attribute_system_concept",
+      "label": "Animation Attribute System",
+      "file_type": "code",
+      "source_file": "RigDispatch__SetAnimAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviegraphimagesequencenode_jpg_class",
+      "target": "jpg_image_output_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphImageSequenceOutputNode_JPG Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodycomponent_class",
+      "target": "water_rendering_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgeometrybplibrary_class",
+      "target": "geometry_triangulation_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGeometryBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "mesh_modeling_operations_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsamplephysicsvectorfield_class",
+      "target": "physics_field_sampling_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSamplePhysicsVectorField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_setanimattribute_class",
+      "target": "animation_attribute_system_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigDispatch__SetAnimAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_animattributedatainterface_class",
+      "target": "animation_attribute_system_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode__AnimAttributeDataInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "geometry_triangulation_concept",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgeometrybplibrary_class",
+      "target": "geometryscript_meshmodeling_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WdpGeometryBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcolorbinaryop_class",
+      "target": "rigvmfunction_mathvectorfloor_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathColorBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "comboboxkey_class",
+      "target": "editabletext_oneditabletextchangedevent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ComboBoxKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionvertexcolor_class",
+      "target": "materialexpressionsamplephysicsvectorfield_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MaterialExpressionVertexColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodycomponent_class",
+      "target": "controlpointmeshcomponent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "WaterBodyComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusskinweightsasvertexmaskdataprovider_class",
+      "target": "animation_attribute_system_concept",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "OptimusSkinWeightsAsVertexMaskDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_vm_math_functions",
+      "label": "RigVM Mathematical Functions",
+      "nodes": [
+        "rigvmfunction_mathcolorbinaryop_class",
+        "rigvmfunction_mathvectorfloor_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathColorBinaryOp Objects.md"
+    },
+    {
+      "id": "unreal_material_expressions",
+      "label": "Unreal Material Expression System",
+      "nodes": [
+        "materialexpressionvertexcolor_class",
+        "materialexpressionsamplephysicsvectorfield_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionVertexColor Objects.md"
+    },
+    {
+      "id": "ui_event_handlers",
+      "label": "UI Event Handling System",
+      "nodes": [
+        "editabletext_oneditabletextchangedevent_class",
+        "onsliderfloatvaluechangedevent_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EditableText_OnEditableTextChangedEvent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

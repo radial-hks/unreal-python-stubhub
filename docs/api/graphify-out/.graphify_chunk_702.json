@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {"id": "enhancedinputactionhandlerdynamicsignature", "label": "EnhancedInputActionHandlerDynamicSignature", "file_type": "code", "source_file": "EnhancedInputActionHandlerDynamicSignature Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "inputactionvalue", "label": "InputActionValue", "file_type": "code", "source_file": "EnhancedInputActionHandlerDynamicSignature Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "inputaction", "label": "InputAction", "file_type": "code", "source_file": "EnhancedInputActionHandlerDynamicSignature Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "solverremovalfiltersettings", "label": "SolverRemovalFilterSettings", "file_type": "code", "source_file": "SolverRemovalFilterSettings Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "sequencermoduleoutlinerscriptingobject", "label": "SequencerModuleOutlinerScriptingObject", "file_type": "code", "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "sequenceroutlinerscriptingobject", "label": "SequencerOutlinerScriptingObject", "file_type": "code", "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "sequencerviewmodelscriptingstruct", "label": "SequencerViewModelScriptingStruct", "file_type": "code", "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "framenumber", "label": "FrameNumber", "file_type": "code", "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "moviescenetimeunit", "label": "MovieSceneTimeUnit", "file_type": "code", "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "avarundown", "label": "AvaRundown", "file_type": "code", "source_file": "AvaRundown Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "geolayerentityfinishedevent", "label": "GeoLayerEntityFinishedEvent", "file_type": "code", "source_file": "GeoLayerEntityFinishedEvent Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "levelsequenceburnin", "label": "LevelSequenceBurnIn", "file_type": "code", "source_file": "LevelSequenceBurnIn Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "levelsequenceplayersnapshot", "label": "LevelSequencePlayerSnapshot", "file_type": "code", "source_file": "LevelSequenceBurnIn Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "levelsequenceactor", "label": "LevelSequenceActor", "file_type": "code", "source_file": "LevelSequenceBurnIn Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "inputactionhandlerdynamicsignature", "label": "InputActionHandlerDynamicSignature", "file_type": "code", "source_file": "InputActionHandlerDynamicSignature Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "key", "label": "Key", "file_type": "code", "source_file": "InputActionHandlerDynamicSignature Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "animgraphnode_aimoffsetlookat", "label": "AnimGraphNode_AimOffsetLookAt", "file_type": "code", "source_file": "AnimGraphNode__AimOffsetLookAt Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "animgraphnode_blendspacebase", "label": "AnimGraphNode_BlendSpaceBase", "file_type": "code", "source_file": "AnimGraphNode__AimOffsetLookAt Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "animnode_aimoffsetlookat", "label": "AnimNode_AimOffsetLookAt", "file_type": "code", "source_file": "AnimGraphNode__AimOffsetLookAt Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "ceeffectorlibrary", "label": "CEEffectorLibrary", "file_type": "code", "source_file": "CEEffectorLibrary Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "blueprintfuntionlibrary", "label": "BlueprintFunctionLibrary", "file_type": "code", "source_file": "CEEffectorLibrary Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "blueprintsessionresult", "label": "BlueprintSessionResult", "file_type": "code", "source_file": "BlueprintSessionResult Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "pcgmetadatacompareoperation", "label": "PCGMetadataCompareOperation", "file_type": "code", "source_file": "PCGMetadataCompareOperation Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "gameplaycuenotify_inputdevicepropertyinfo", "label": "GameplayCueNotify_InputDevicePropertyInfo", "file_type": "code", "source_file": "GameplayCueNotify__InputDevicePropertyInfo Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null},
+    {"id": "datasmithreimportoptions", "label": "DatasmithReimportOptions", "file_type": "code", "source_file": "DatasmithReimportOptions Objects.md", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}
+  ],
+  "edges": [
+    {"source": "enhancedinputactionhandlerdynamicsignature", "target": "inputactionvalue", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "EnhancedInputActionHandlerDynamicSignature Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "enhancedinputactionhandlerdynamicsignature", "target": "inputaction", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "EnhancedInputActionHandlerDynamicSignature Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "sequencermoduleoutlinerscriptingobject", "target": "sequenceroutlinerscriptingobject", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "sequencermoduleoutlinerscriptingobject", "target": "sequencerviewmodelscriptingstruct", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "sequencermoduleoutlinerscriptingobject", "target": "framenumber", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "sequencermoduleoutlinerscriptingobject", "target": "moviescenetimeunit", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "SequencerModuleOutlinerScriptingObject Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "levelsequenceburnin", "target": "levelsequenceplayersnapshot", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "LevelSequenceBurnIn Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "levelsequenceburnin", "target": "levelsequenceactor", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "LevelSequenceBurnIn Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "inputactionhandlerdynamicsignature", "target": "key", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "InputActionHandlerDynamicSignature Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "animgraphnode_aimoffsetlookat", "target": "animgraphnode_blendspacebase", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AnimGraphNode__AimOffsetLookAt Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "animgraphnode_aimoffsetlookat", "target": "animnode_aimoffsetlookat", "relation": "references", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "AnimGraphNode__AimOffsetLookAt Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "ceeffectorlibrary", "target": "blueprintfuntionlibrary", "relation": "implements", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "CEEffectorLibrary Objects.md", "source_location": null, "weight": 1.0},
+    {"source": "enhancedinputactionhandlerdynamicsignature", "target": "inputactionhandlerdynamicsignature", "relation": "semantically_similar_to", "confidence": "INFERRED", "confidence_score": 0.85, "source_file": "EnhancedInputActionHandlerDynamicSignature Objects.md", "source_location": null, "weight": 1.0}
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_input_delegate_handlers",
+      "label": "Input Action Handler Delegate Signatures",
+      "nodes": ["enhancedinputactionhandlerdynamicsignature", "inputactionhandlerdynamicsignature"],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EnhancedInputActionHandlerDynamicSignature Objects.md"
+    },
+    {
+      "id": "sequencer_time_coordination",
+      "label": "Sequencer Time and Frame Coordination",
+      "nodes": ["sequencermoduleoutlinerscriptingobject", "framenumber", "moviescenetimeunit"],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SequencerModuleOutlinerScriptingObject Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

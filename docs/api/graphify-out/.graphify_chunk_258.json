@@ -1,0 +1,863 @@
+{
+  "nodes": [
+    {
+      "id": "worldpartitionreplay_worldpartitionreplay",
+      "label": "WorldPartitionReplay",
+      "file_type": "document",
+      "source_file": "WorldPartitionReplay Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionreplay_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "WorldPartitionReplay Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oncontrollercapturebeginevent_oncontrollercapturebeginevent",
+      "label": "OnControllerCaptureBeginEvent",
+      "file_type": "document",
+      "source_file": "OnControllerCaptureBeginEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oncontrollercapturebeginevent_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnControllerCaptureBeginEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gizmoarrowcomponent_gizmoarrowcomponent",
+      "label": "GizmoArrowComponent",
+      "file_type": "document",
+      "source_file": "GizmoArrowComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gizmoarrowcomponent_gizmobasecomponent",
+      "label": "GizmoBaseComponent",
+      "file_type": "document",
+      "source_file": "GizmoArrowComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvddatacontainerbaseactor_chaosvddatacontainerbaseactor",
+      "label": "ChaosVDDataContainerBaseActor",
+      "file_type": "document",
+      "source_file": "ChaosVDDataContainerBaseActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onrequestcontentfailed_onrequestcontentfailed",
+      "label": "OnRequestContentFailed",
+      "file_type": "document",
+      "source_file": "OnRequestContentFailed Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onrequestcontentfailed_delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "OnRequestContentFailed Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptbakenormalspace_geometryscriptbakenormalspace",
+      "label": "GeometryScriptBakeNormalSpace",
+      "file_type": "document",
+      "source_file": "GeometryScriptBakeNormalSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptbakenormalspace_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "GeometryScriptBakeNormalSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfmaterialbakesize_gltfmaterialbakesize",
+      "label": "GLTFMaterialBakeSize",
+      "file_type": "document",
+      "source_file": "GLTFMaterialBakeSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfmaterialbakesize_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "GLTFMaterialBakeSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "outputresourcename_outputresourcename",
+      "label": "OutputResourceName",
+      "file_type": "document",
+      "source_file": "OutputResourceName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "achievementlibrary_achievementlibrary",
+      "label": "AchievementLibrary",
+      "file_type": "document",
+      "source_file": "AchievementLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "achievementlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "AchievementLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatarrayaverage_rigvmfunction_mathfloatarrayaverage",
+      "label": "RigVMFunction_MathFloatArrayAverage",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatArrayAverage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatarrayaverage_rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction_MathFloatBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatArrayAverage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcompositefactory_animcompositefactory",
+      "label": "AnimCompositeFactory",
+      "file_type": "document",
+      "source_file": "AnimCompositeFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcompositefactory_factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "AnimCompositeFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterlandscapebrush_waterlandscapebrush",
+      "label": "WaterLandscapeBrush",
+      "file_type": "document",
+      "source_file": "WaterLandscapeBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterlandscapebrush_landscapeblueprintbrush",
+      "label": "LandscapeBlueprintBrush",
+      "file_type": "document",
+      "source_file": "WaterLandscapeBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vertexinstanceid_vertexinstanceid",
+      "label": "VertexInstanceID",
+      "file_type": "document",
+      "source_file": "VertexInstanceID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vertexinstanceid_elementid",
+      "label": "ElementID",
+      "file_type": "document",
+      "source_file": "VertexInstanceID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcomponentspaceposecontext_animcomponentspaceposecontext",
+      "label": "AnimComponentSpacePoseContext",
+      "file_type": "document",
+      "source_file": "AnimComponentSpacePoseContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcomponentspaceposecontext_animexecutioncontext",
+      "label": "AnimExecutionContext",
+      "file_type": "document",
+      "source_file": "AnimComponentSpacePoseContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitionbehavioractor_avatransitionbehavioractor",
+      "label": "AvaTransitionBehaviorActor",
+      "file_type": "document",
+      "source_file": "AvaTransitionBehaviorActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "expandableareastyle_expandableareastyle",
+      "label": "ExpandableAreaStyle",
+      "file_type": "document",
+      "source_file": "ExpandableAreaStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "expandableareastyle_slatewidgetstyle",
+      "label": "SlateWidgetStyle",
+      "file_type": "document",
+      "source_file": "ExpandableAreaStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesvegetationpresentation_aesvegetationpresentation",
+      "label": "AesVegetationPresentation",
+      "file_type": "document",
+      "source_file": "AesVegetationPresentation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcameraaroundparams_wdpcameraaroundparams",
+      "label": "WDPCameraAroundParams",
+      "file_type": "document",
+      "source_file": "WDPCameraAroundParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcameraaroundparams_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "WDPCameraAroundParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_orientationdriver_animnode_orientationdriver",
+      "label": "AnimNode_OrientationDriver",
+      "file_type": "document",
+      "source_file": "AnimNode_OrientationDriver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_orientationdriver_animnode_posedriver",
+      "label": "AnimNode_PoseDriver",
+      "file_type": "document",
+      "source_file": "AnimNode_OrientationDriver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectmixerhybridmode_objectmixerhybridmode",
+      "label": "ObjectMixerHybridMode",
+      "file_type": "document",
+      "source_file": "ObjectMixerHybridMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdatacollectionexporter_pcgdatacollectionexporter",
+      "label": "PCGDataCollectionExporter",
+      "file_type": "document",
+      "source_file": "PCGDataCollectionExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdatacollectionexporter_pcgassetexporter",
+      "label": "PCGAssetExporter",
+      "file_type": "document",
+      "source_file": "PCGDataCollectionExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionlevelstreamingdynamic_worldpartitionlevelstreamingdynamic",
+      "label": "WorldPartitionLevelStreamingDynamic",
+      "file_type": "document",
+      "source_file": "WorldPartitionLevelStreamingDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionlevelstreamingdynamic_levelstreamingdynamic",
+      "label": "LevelStreamingDynamic",
+      "file_type": "document",
+      "source_file": "WorldPartitionLevelStreamingDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionreplay_engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "WorldPartitionReplay Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvddatacontainerbaseactor_chaosvd_plugin",
+      "label": "ChaosVD Plugin",
+      "file_type": "document",
+      "source_file": "ChaosVDDataContainerBaseActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvddatacontainerbaseactor_frame_data",
+      "label": "Frame Data Container",
+      "file_type": "document",
+      "source_file": "ChaosVDDataContainerBaseActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterlandscapebrush_water_body",
+      "label": "WaterBody",
+      "file_type": "document",
+      "source_file": "WaterLandscapeBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterlandscapebrush_water_plugin",
+      "label": "Water Plugin",
+      "file_type": "document",
+      "source_file": "WaterLandscapeBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "achievementlibrary_achievement_progress",
+      "label": "Achievement Progress",
+      "file_type": "document",
+      "source_file": "AchievementLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "worldpartitionreplay_worldpartitionreplay",
+      "target": "worldpartitionreplay_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartitionReplay Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionreplay_worldpartitionreplay",
+      "target": "worldpartitionreplay_engine_module",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartitionReplay Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionreplay_worldpartitionreplay",
+      "target": "worldpartitionlevelstreamingdynamic_worldpartitionlevelstreamingdynamic",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WorldPartitionReplay Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oncontrollercapturebeginevent_oncontrollercapturebeginevent",
+      "target": "oncontrollercapturebeginevent_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnControllerCaptureBeginEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gizmoarrowcomponent_gizmoarrowcomponent",
+      "target": "gizmoarrowcomponent_gizmobasecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GizmoArrowComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvddatacontainerbaseactor_chaosvddatacontainerbaseactor",
+      "target": "worldpartitionreplay_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosVDDataContainerBaseActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvddatacontainerbaseactor_chaosvddatacontainerbaseactor",
+      "target": "chaosvddatacontainerbaseactor_chaosvd_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosVDDataContainerBaseActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvddatacontainerbaseactor_chaosvddatacontainerbaseactor",
+      "target": "chaosvddatacontainerbaseactor_frame_data",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ChaosVDDataContainerBaseActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onrequestcontentfailed_onrequestcontentfailed",
+      "target": "onrequestcontentfailed_delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnRequestContentFailed Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptbakenormalspace_geometryscriptbakenormalspace",
+      "target": "geometryscriptbakenormalspace_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptBakeNormalSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfmaterialbakesize_gltfmaterialbakesize",
+      "target": "gltfmaterialbakesize_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFMaterialBakeSize Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "outputresourcename_outputresourcename",
+      "target": "geometryscriptbakenormalspace_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OutputResourceName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "achievementlibrary_achievementlibrary",
+      "target": "achievementlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AchievementLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "achievementlibrary_achievementlibrary",
+      "target": "achievementlibrary_achievement_progress",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AchievementLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatarrayaverage_rigvmfunction_mathfloatarrayaverage",
+      "target": "rigvmfunction_mathfloatarrayaverage_rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatArrayAverage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animcompositefactory_animcompositefactory",
+      "target": "animcompositefactory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCompositeFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterlandscapebrush_waterlandscapebrush",
+      "target": "waterlandscapebrush_landscapeblueprintbrush",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterLandscapeBrush Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterlandscapebrush_waterlandscapebrush",
+      "target": "waterlandscapebrush_water_body",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WaterLandscapeBrush Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterlandscapebrush_waterlandscapebrush",
+      "target": "waterlandscapebrush_water_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterLandscapeBrush Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vertexinstanceid_vertexinstanceid",
+      "target": "vertexinstanceid_elementid",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VertexInstanceID Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animcomponentspaceposecontext_animcomponentspaceposecontext",
+      "target": "animcomponentspaceposecontext_animexecutioncontext",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimComponentSpacePoseContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitionbehavioractor_avatransitionbehavioractor",
+      "target": "worldpartitionreplay_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionBehaviorActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "expandableareastyle_expandableareastyle",
+      "target": "expandableareastyle_slatewidgetstyle",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ExpandableAreaStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesvegetationpresentation_aesvegetationpresentation",
+      "target": "gltfmaterialbakesize_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesVegetationPresentation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcameraaroundparams_wdpcameraaroundparams",
+      "target": "wdpcameraaroundparams_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPCameraAroundParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_orientationdriver_animnode_orientationdriver",
+      "target": "animnode_orientationdriver_animnode_posedriver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_OrientationDriver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "objectmixerhybridmode_objectmixerhybridmode",
+      "target": "geometryscriptbakenormalspace_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ObjectMixerHybridMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdatacollectionexporter_pcgdatacollectionexporter",
+      "target": "pcgdatacollectionexporter_pcgassetexporter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDataCollectionExporter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionlevelstreamingdynamic_worldpartitionlevelstreamingdynamic",
+      "target": "worldpartitionlevelstreamingdynamic_levelstreamingdynamic",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartitionLevelStreamingDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionlevelstreamingdynamic_worldpartitionlevelstreamingdynamic",
+      "target": "worldpartitionreplay_engine_module",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartitionLevelStreamingDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gizmoarrowcomponent_gizmoarrowcomponent",
+      "target": "animnode_orientationdriver_animnode_posedriver",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GizmoArrowComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitionbehavioractor_avatransitionbehavioractor",
+      "target": "chaosvddatacontainerbaseactor_chaosvddatacontainerbaseactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AvaTransitionBehaviorActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "actor_inheritance_chain",
+      "label": "Actor Base Class Inheritors",
+      "nodes": [
+        "worldpartitionreplay_worldpartitionreplay",
+        "chaosvddatacontainerbaseactor_chaosvddatacontainerbaseactor",
+        "avatransitionbehavioractor_avatransitionbehavioractor"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "unreal_engine_delegates",
+      "label": "Unreal Engine Delegate System",
+      "nodes": [
+        "oncontrollercapturebeginevent_oncontrollercapturebeginevent",
+        "onrequestcontentfailed_onrequestcontentfailed"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "world_partition_ecosystem",
+      "label": "World Partition System Components",
+      "nodes": [
+        "worldpartitionreplay_worldpartitionreplay",
+        "worldpartitionlevelstreamingdynamic_worldpartitionlevelstreamingdynamic",
+        "chaosvddatacontainerbaseactor_chaosvddatacontainerbaseactor"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 4520,
+  "output_tokens": 8500
+}

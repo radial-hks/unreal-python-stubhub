@@ -1,0 +1,985 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_MathRBFInterpolateQuatQuat",
+      "type": "class",
+      "label": "RigUnit_MathRBFInterpolateQuatQuat",
+      "deprecated": true,
+      "deprecation_note": "renamed to RigVMFunction_MathRBFInterpolateQuatQuat",
+      "properties": {
+        "input": "Quat",
+        "distance_function": "RBFQuatDistanceType",
+        "smoothing_function": "RBFKernelType",
+        "smoothing_angle": "float",
+        "normalize_output": "bool",
+        "twist_axis": "Vector",
+        "targets": "Array[MathRBFInterpolateQuatQuat_Target]",
+        "output": "Quat"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathRBFInterpolateQuatQuat",
+      "type": "class",
+      "label": "RigVMFunction_MathRBFInterpolateQuatQuat"
+    },
+    {
+      "id": "GLTFSkeletalMeshExporter",
+      "type": "class",
+      "label": "GLTFSkeletalMeshExporter",
+      "description": "GLTFSkeletal Mesh Exporter",
+      "plugin": "GLTFExporter",
+      "module": "GLTFExporter",
+      "properties": {
+        "export_task": "AssetExportTask",
+        "format_description": "Array[str]",
+        "format_extension": "Array[str]",
+        "supported_class": "type(Class)",
+        "text": "bool"
+      }
+    },
+    {
+      "id": "GLTFExporter",
+      "type": "class",
+      "label": "GLTFExporter"
+    },
+    {
+      "id": "ComponentMaterialType",
+      "type": "enum",
+      "label": "ComponentMaterialType",
+      "description": "EComponent Material Type",
+      "module": "MovieSceneTracks",
+      "values": ["EMPTY", "INDEXED_MATERIAL", "OVERLAY_MATERIAL", "DECAL_MATERIAL", "VOLUMETRIC_CLOUD_MATERIAL"]
+    },
+    {
+      "id": "RigUnit_MathRBFInterpolateQuatXform",
+      "type": "class",
+      "label": "RigUnit_MathRBFInterpolateQuatXform",
+      "deprecated": true,
+      "deprecation_note": "renamed to RigVMFunction_MathRBFInterpolateQuatXform",
+      "properties": {
+        "input": "Quat",
+        "distance_function": "RBFQuatDistanceType",
+        "smoothing_function": "RBFKernelType",
+        "smoothing_angle": "float",
+        "normalize_output": "bool",
+        "twist_axis": "Vector",
+        "targets": "Array[MathRBFInterpolateQuatXform_Target]",
+        "output": "Transform"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathRBFInterpolateQuatXform",
+      "type": "class",
+      "label": "RigVMFunction_MathRBFInterpolateQuatXform"
+    },
+    {
+      "id": "GeometryScript_Collision",
+      "type": "class",
+      "label": "GeometryScript_Collision",
+      "description": "Geometry Script Library Collision Functions",
+      "plugin": "GeometryScripting",
+      "module": "GeometryScriptingCore",
+      "methods": [
+        "transform_simple_collision_shapes",
+        "static_mesh_has_customized_collision",
+        "simplify_convex_hulls",
+        "set_static_mesh_custom_complex_collision",
+        "set_static_mesh_collision_from_mesh",
+        "set_static_mesh_collision_from_component",
+        "set_simple_collision_of_static_mesh",
+        "set_simple_collision_of_dynamic_mesh_component",
+        "set_dynamic_mesh_collision_from_mesh",
+        "reset_simple_collision",
+        "reset_dynamic_mesh_collision",
+        "merge_simple_collision_shapes",
+        "get_simple_collision_shape_count",
+        "get_simple_collision_from_static_mesh",
+        "get_simple_collision_from_component",
+        "generate_collision_from_mesh",
+        "conv_sphere_array_to_geometry_script_sphere_covering",
+        "conv_geometry_script_sphere_covering_to_sphere_array",
+        "compute_negative_space",
+        "compute_navigable_convex_decomposition",
+        "combine_simple_collision_array",
+        "combine_simple_collision",
+        "approximate_convex_hulls_with_simpler_collision_shapes"
+      ]
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "ActorModifierCoreSharedActor",
+      "type": "class",
+      "label": "ActorModifierCoreSharedActor",
+      "description": "Singleton actor used to keep all shared data across modifiers instances",
+      "plugin": "ActorModifierCore",
+      "module": "ActorModifierCore",
+      "properties_count": 67
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor"
+    },
+    {
+      "id": "TrackingStatus",
+      "type": "enum",
+      "label": "TrackingStatus",
+      "description": "ETracking Status",
+      "module": "HeadMountedDisplay",
+      "values": ["NOT_TRACKED", "INERTIAL_ONLY", "TRACKED"]
+    },
+    {
+      "id": "XRDeviceId",
+      "type": "struct",
+      "label": "XRDeviceId",
+      "description": "XRDevice Id",
+      "module": "HeadMountedDisplay",
+      "properties": {
+        "system_name": "Name",
+        "device_id": "int32"
+      }
+    },
+    {
+      "id": "PCGMakeConcreteSettings",
+      "type": "class",
+      "label": "PCGMakeConcreteSettings",
+      "description": "Makes data Concrete, collapsing to Point if necessary",
+      "plugin": "PCG",
+      "module": "PCG",
+      "properties": {
+        "break_debugger": "bool",
+        "category": "Text",
+        "debug": "bool",
+        "debug_buffer_size": "int32",
+        "debug_settings": "PCGDebugVisualizationSettings",
+        "description": "Text",
+        "determinism_settings": "PCGDeterminismSettings",
+        "dump_cooked_hlsl": "bool",
+        "dump_data_descriptions": "bool",
+        "enabled": "bool",
+        "execute_on_gpu": "bool",
+        "expose_to_library": "bool",
+        "print_shader_debug_values": "bool",
+        "seed": "int32",
+        "use_seed": "bool"
+      }
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "label": "PCGSettings"
+    },
+    {
+      "id": "GroomInterpolationWeight",
+      "type": "enum",
+      "label": "GroomInterpolationWeight",
+      "description": "EGroom Interpolation Weight",
+      "plugin": "HairStrands",
+      "module": "HairStrandsCore",
+      "values": ["PARAMETRIC", "ROOT", "INDEX"]
+    },
+    {
+      "id": "SkinnedAsset",
+      "type": "class",
+      "label": "SkinnedAsset",
+      "description": "Skinned Asset",
+      "module": "Engine",
+      "properties": {
+        "global_force_mip_levels_to_be_resident": "bool",
+        "never_stream": "bool",
+        "num_cinematic_mip_levels": "int32"
+      },
+      "methods": ["find_socket_info", "find_socket"]
+    },
+    {
+      "id": "StreamableRenderAsset",
+      "type": "class",
+      "label": "StreamableRenderAsset"
+    },
+    {
+      "id": "DatasmithImportInfo",
+      "type": "struct",
+      "label": "DatasmithImportInfo",
+      "description": "Structure for SourceUri asset import info",
+      "plugin": "DatasmithContent",
+      "module": "DatasmithContent"
+    },
+    {
+      "id": "RigUnit_GetControlInitialTransform",
+      "type": "class",
+      "label": "RigUnit_GetControlInitialTransform",
+      "description": "GetControlTransform is used to retrieve a single transform from a hierarchy",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "properties": {
+        "control": "Name",
+        "space": "RigVMTransformSpace",
+        "transform": "Transform"
+      }
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit"
+    },
+    {
+      "id": "PCGAttributeRemapSettings",
+      "type": "class",
+      "label": "PCGAttributeRemapSettings",
+      "description": "Remap attribute values from one range to another",
+      "plugin": "PCG",
+      "module": "PCG",
+      "properties": {
+        "allow_inverse_range": "bool",
+        "clamp_to_unit_range": "bool",
+        "ignore_values_outside_input_range": "bool",
+        "input_source": "PCGAttributePropertyInputSelector",
+        "out_range_max": "double",
+        "out_range_min": "double",
+        "output_data_from_pin": "Name",
+        "output_target": "PCGAttributePropertyOutputSelector",
+        "range_max": "double",
+        "range_min": "double"
+      }
+    },
+    {
+      "id": "PCGMetadataSettingsBase",
+      "type": "class",
+      "label": "PCGMetadataSettingsBase"
+    },
+    {
+      "id": "Ellipsoid",
+      "type": "struct",
+      "label": "Ellipsoid",
+      "plugin": "GeoReferencing",
+      "module": "GeoReferencing"
+    },
+    {
+      "id": "GroundTruthData",
+      "type": "class",
+      "label": "GroundTruthData",
+      "description": "Ground Truth Data",
+      "module": "FunctionalTesting",
+      "properties": {
+        "object_data": "Object",
+        "reset_ground_truth": "bool"
+      },
+      "methods": ["save_object", "reset_object", "load_object", "can_modify"]
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "AesGridLayoutAssetTagData",
+      "type": "struct",
+      "label": "AesGridLayoutAssetTagData",
+      "description": "Grid layout asset tag data",
+      "plugin": "AesWorld",
+      "module": "AesAsset",
+      "properties": {
+        "area_range": "Vector2f",
+        "grid_spacing": "float",
+        "grid_width": "float",
+        "layout_assets": "Array[AesAssetChildMetaData]"
+      }
+    },
+    {
+      "id": "AesTerrainEditorCommandParams_CreateHole",
+      "type": "class",
+      "label": "AesTerrainEditorCommandParams_CreateHole",
+      "plugin": "AesWorld",
+      "module": "AesEditorMode"
+    },
+    {
+      "id": "AesEditorSimpleCommandParams",
+      "type": "class",
+      "label": "AesEditorSimpleCommandParams"
+    },
+    {
+      "id": "StandardApiClassBase",
+      "type": "class",
+      "label": "StandardApiClassBase",
+      "description": "Standard Api Class Base",
+      "plugin": "WdpAPIFrame",
+      "module": "WdpAPIFramework"
+    },
+    {
+      "id": "ApiClassBase",
+      "type": "class",
+      "label": "ApiClassBase"
+    },
+    {
+      "id": "MaterialExpressionSparseVolumeTextureSample",
+      "type": "class",
+      "label": "MaterialExpressionSparseVolumeTextureSample",
+      "description": "Material expression for sampling from a runtime virtual texture",
+      "module": "Engine",
+      "properties": {
+        "const_mip_value": "int32",
+        "desc": "str",
+        "material_expression_editor_x": "int32",
+        "material_expression_editor_y": "int32",
+        "mip_value_mode": "TextureMipValueMode",
+        "sampler_source": "SamplerSourceMode",
+        "sparse_volume_texture": "SparseVolumeTexture"
+      }
+    },
+    {
+      "id": "MaterialExpressionSparseVolumeTextureBase",
+      "type": "class",
+      "label": "MaterialExpressionSparseVolumeTextureBase"
+    },
+    {
+      "id": "NiagaraScript",
+      "type": "class",
+      "label": "NiagaraScript",
+      "description": "Scripts are function graphs that define the runtime execution for a Niagara system",
+      "plugin": "Niagara",
+      "module": "Niagara",
+      "script_types": ["Module", "Dynamic input", "Function"],
+      "deprecated_properties": [
+        "category",
+        "collapsed_view_format",
+        "conversion_utility",
+        "deprecated",
+        "deprecation_message",
+        "deprecation_recommendation",
+        "description",
+        "experimental",
+        "experimental_message",
+        "expose_to_library",
+        "keywords",
+        "library_visibility",
+        "module_usage_bitmask",
+        "note_message",
+        "numeric_output_type_selection_mode",
+        "provided_dependencies",
+        "required_dependencies",
+        "script_meta_data",
+        "source"
+      ]
+    },
+    {
+      "id": "NiagaraScriptBase",
+      "type": "class",
+      "label": "NiagaraScriptBase"
+    },
+    {
+      "id": "ControlRigShapeDefinition",
+      "type": "struct",
+      "label": "ControlRigShapeDefinition",
+      "description": "Control Rig Shape Definition",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "properties": {
+        "shape_name": "Name",
+        "static_mesh": "StaticMesh",
+        "transform": "Transform"
+      },
+      "deprecated_aliases": {
+        "gizmo_name": "shape_name"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "RBFQuatDistanceType",
+      "type": "enum",
+      "label": "RBFQuatDistanceType"
+    },
+    {
+      "id": "RBFKernelType",
+      "type": "enum",
+      "label": "RBFKernelType"
+    },
+    {
+      "id": "Quat",
+      "type": "struct",
+      "label": "Quat"
+    },
+    {
+      "id": "Vector",
+      "type": "struct",
+      "label": "Vector"
+    },
+    {
+      "id": "Transform",
+      "type": "struct",
+      "label": "Transform"
+    },
+    {
+      "id": "StaticMesh",
+      "type": "class",
+      "label": "StaticMesh"
+    },
+    {
+      "id": "DynamicMesh",
+      "type": "class",
+      "label": "DynamicMesh"
+    },
+    {
+      "id": "DynamicMeshComponent",
+      "type": "class",
+      "label": "DynamicMeshComponent"
+    },
+    {
+      "id": "PrimitiveComponent",
+      "type": "class",
+      "label": "PrimitiveComponent"
+    },
+    {
+      "id": "GeometryScriptSimpleCollision",
+      "type": "struct",
+      "label": "GeometryScriptSimpleCollision"
+    },
+    {
+      "id": "SkeletalMeshSocket",
+      "type": "class",
+      "label": "SkeletalMeshSocket"
+    },
+    {
+      "id": "NiagaraScriptSourceBase",
+      "type": "class",
+      "label": "NiagaraScriptSourceBase"
+    },
+    {
+      "id": "NiagaraValidationRule",
+      "type": "class",
+      "label": "NiagaraValidationRule"
+    },
+    {
+      "id": "NiagaraModuleDependency",
+      "type": "struct",
+      "label": "NiagaraModuleDependency"
+    },
+    {
+      "id": "NiagaraScriptLibraryVisibility",
+      "type": "struct",
+      "label": "NiagaraScriptLibraryVisibility"
+    },
+    {
+      "id": "NiagaraNumericOutputTypeSelectionMode",
+      "type": "enum",
+      "label": "NiagaraNumericOutputTypeSelectionMode"
+    },
+    {
+      "id": "RigVMTransformSpace",
+      "type": "enum",
+      "label": "RigVMTransformSpace"
+    },
+    {
+      "id": "PCGDebugVisualizationSettings",
+      "type": "struct",
+      "label": "PCGDebugVisualizationSettings"
+    },
+    {
+      "id": "PCGDeterminismSettings",
+      "type": "struct",
+      "label": "PCGDeterminismSettings"
+    },
+    {
+      "id": "PCGAttributePropertyInputSelector",
+      "type": "struct",
+      "label": "PCGAttributePropertyInputSelector"
+    },
+    {
+      "id": "PCGAttributePropertyOutputSelector",
+      "type": "struct",
+      "label": "PCGAttributePropertyOutputSelector"
+    },
+    {
+      "id": "GeometryScriptDebug",
+      "type": "struct",
+      "label": "GeometryScriptDebug"
+    },
+    {
+      "id": "GeometryScriptTransformCollisionOptions",
+      "type": "struct",
+      "label": "GeometryScriptTransformCollisionOptions"
+    },
+    {
+      "id": "GeometryScriptConvexHullSimplificationOptions",
+      "type": "struct",
+      "label": "GeometryScriptConvexHullSimplificationOptions"
+    },
+    {
+      "id": "GeometryScriptCollisionFromMeshOptions",
+      "type": "struct",
+      "label": "GeometryScriptCollisionFromMeshOptions"
+    },
+    {
+      "id": "GeometryScriptSetStaticMeshCollisionOptions",
+      "type": "struct",
+      "label": "GeometryScriptSetStaticMeshCollisionOptions"
+    },
+    {
+      "id": "GeometryScriptSetSimpleCollisionOptions",
+      "type": "struct",
+      "label": "GeometryScriptSetSimpleCollisionOptions"
+    },
+    {
+      "id": "GeometryScriptMergeSimpleCollisionOptions",
+      "type": "struct",
+      "label": "GeometryScriptMergeSimpleCollisionOptions"
+    },
+    {
+      "id": "GeometryScriptConvexHullApproximationOptions",
+      "type": "struct",
+      "label": "GeometryScriptConvexHullApproximationOptions"
+    },
+    {
+      "id": "ComputeNegativeSpaceOptions",
+      "type": "struct",
+      "label": "ComputeNegativeSpaceOptions"
+    },
+    {
+      "id": "NavigableConvexDecompositionOptions",
+      "type": "struct",
+      "label": "NavigableConvexDecompositionOptions"
+    },
+    {
+      "id": "GeometryScriptDynamicMeshBVH",
+      "type": "struct",
+      "label": "GeometryScriptDynamicMeshBVH"
+    },
+    {
+      "id": "GeometryScriptSphereCovering",
+      "type": "struct",
+      "label": "GeometryScriptSphereCovering"
+    }
+  ],
+  "edges": [
+    {
+      "source": "RigUnit_MathRBFInterpolateQuatQuat",
+      "target": "RigVMFunction_MathRBFInterpolateQuatQuat",
+      "type": "inherits",
+      "deprecated": true
+    },
+    {
+      "source": "GLTFSkeletalMeshExporter",
+      "target": "GLTFExporter",
+      "type": "inherits"
+    },
+    {
+      "source": "ComponentMaterialType",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateQuatXform",
+      "target": "RigVMFunction_MathRBFInterpolateQuatXform",
+      "type": "inherits",
+      "deprecated": true
+    },
+    {
+      "source": "GeometryScript_Collision",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits"
+    },
+    {
+      "source": "ActorModifierCoreSharedActor",
+      "target": "Actor",
+      "type": "inherits"
+    },
+    {
+      "source": "TrackingStatus",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "XRDeviceId",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "PCGMakeConcreteSettings",
+      "target": "PCGSettings",
+      "type": "inherits"
+    },
+    {
+      "source": "GroomInterpolationWeight",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "SkinnedAsset",
+      "target": "StreamableRenderAsset",
+      "type": "inherits"
+    },
+    {
+      "source": "DatasmithImportInfo",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_GetControlInitialTransform",
+      "target": "RigUnit",
+      "type": "inherits"
+    },
+    {
+      "source": "PCGAttributeRemapSettings",
+      "target": "PCGMetadataSettingsBase",
+      "type": "inherits"
+    },
+    {
+      "source": "Ellipsoid",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "GroundTruthData",
+      "target": "Object",
+      "type": "inherits"
+    },
+    {
+      "source": "AesGridLayoutAssetTagData",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "AesTerrainEditorCommandParams_CreateHole",
+      "target": "AesEditorSimpleCommandParams",
+      "type": "inherits"
+    },
+    {
+      "source": "StandardApiClassBase",
+      "target": "ApiClassBase",
+      "type": "inherits"
+    },
+    {
+      "source": "MaterialExpressionSparseVolumeTextureSample",
+      "target": "MaterialExpressionSparseVolumeTextureBase",
+      "type": "inherits"
+    },
+    {
+      "source": "NiagaraScript",
+      "target": "NiagaraScriptBase",
+      "type": "inherits"
+    },
+    {
+      "source": "ControlRigShapeDefinition",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateQuatQuat",
+      "target": "Quat",
+      "type": "has_property",
+      "property_name": "input"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateQuatQuat",
+      "target": "RBFQuatDistanceType",
+      "type": "has_property",
+      "property_name": "distance_function"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateQuatQuat",
+      "target": "RBFKernelType",
+      "type": "has_property",
+      "property_name": "smoothing_function"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateQuatQuat",
+      "target": "Vector",
+      "type": "has_property",
+      "property_name": "twist_axis"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateQuatXform",
+      "target": "Quat",
+      "type": "has_property",
+      "property_name": "input"
+    },
+    {
+      "source": "RigUnit_MathRBFInterpolateQuatXform",
+      "target": "Transform",
+      "type": "has_property",
+      "property_name": "output"
+    },
+    {
+      "source": "XRDeviceId",
+      "target": "Name",
+      "type": "has_property",
+      "property_name": "system_name"
+    },
+    {
+      "source": "PCGMakeConcreteSettings",
+      "target": "PCGDebugVisualizationSettings",
+      "type": "has_property",
+      "property_name": "debug_settings"
+    },
+    {
+      "source": "PCGMakeConcreteSettings",
+      "target": "PCGDeterminismSettings",
+      "type": "has_property",
+      "property_name": "determinism_settings"
+    },
+    {
+      "source": "SkinnedAsset",
+      "target": "SkeletalMeshSocket",
+      "type": "uses",
+      "context": "find_socket methods"
+    },
+    {
+      "source": "RigUnit_GetControlInitialTransform",
+      "target": "Name",
+      "type": "has_property",
+      "property_name": "control"
+    },
+    {
+      "source": "RigUnit_GetControlInitialTransform",
+      "target": "RigVMTransformSpace",
+      "type": "has_property",
+      "property_name": "space"
+    },
+    {
+      "source": "RigUnit_GetControlInitialTransform",
+      "target": "Transform",
+      "type": "has_property",
+      "property_name": "transform"
+    },
+    {
+      "source": "PCGAttributeRemapSettings",
+      "target": "PCGAttributePropertyInputSelector",
+      "type": "has_property",
+      "property_name": "input_source"
+    },
+    {
+      "source": "PCGAttributeRemapSettings",
+      "target": "PCGAttributePropertyOutputSelector",
+      "type": "has_property",
+      "property_name": "output_target"
+    },
+    {
+      "source": "MaterialExpressionSparseVolumeTextureSample",
+      "target": "StaticMesh",
+      "type": "has_property",
+      "property_name": "sparse_volume_texture",
+      "note": "actually SparseVolumeTexture type"
+    },
+    {
+      "source": "NiagaraScript",
+      "target": "NiagaraScriptSourceBase",
+      "type": "has_property",
+      "property_name": "source",
+      "deprecated": true
+    },
+    {
+      "source": "NiagaraScript",
+      "target": "NiagaraScript",
+      "type": "has_property",
+      "property_name": "deprecation_recommendation",
+      "deprecated": true
+    },
+    {
+      "source": "ControlRigShapeDefinition",
+      "target": "Name",
+      "type": "has_property",
+      "property_name": "shape_name"
+    },
+    {
+      "source": "ControlRigShapeDefinition",
+      "target": "StaticMesh",
+      "type": "has_property",
+      "property_name": "static_mesh"
+    },
+    {
+      "source": "ControlRigShapeDefinition",
+      "target": "Transform",
+      "type": "has_property",
+      "property_name": "transform"
+    },
+    {
+      "source": "GeometryScript_Collision",
+      "target": "StaticMesh",
+      "type": "operates_on",
+      "context": "collision functions"
+    },
+    {
+      "source": "GeometryScript_Collision",
+      "target": "DynamicMesh",
+      "type": "operates_on",
+      "context": "collision functions"
+    },
+    {
+      "source": "GeometryScript_Collision",
+      "target": "DynamicMeshComponent",
+      "type": "operates_on",
+      "context": "collision functions"
+    },
+    {
+      "source": "GeometryScript_Collision",
+      "target": "PrimitiveComponent",
+      "type": "operates_on",
+      "context": "collision functions"
+    },
+    {
+      "source": "GeometryScript_Collision",
+      "target": "GeometryScriptSimpleCollision",
+      "type": "operates_on",
+      "context": "collision functions"
+    },
+    {
+      "source": "GeometryScript_Collision",
+      "target": "GeometryScriptDebug",
+      "type": "uses"
+    },
+    {
+      "source": "AesGridLayoutAssetTagData",
+      "target": "Vector2f",
+      "type": "has_property",
+      "property_name": "area_range"
+    },
+    {
+      "source": "GroundTruthData",
+      "target": "Object",
+      "type": "has_property",
+      "property_name": "object_data"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_collision_mesh_workflow",
+      "type": "workflow",
+      "label": "Collision Mesh Generation Workflow",
+      "nodes": ["GeometryScript_Collision", "DynamicMesh", "StaticMesh", "GeometryScriptSimpleCollision"],
+      "description": "Workflow for generating collision geometry from meshes"
+    },
+    {
+      "id": "he_control_rig_transform",
+      "type": "feature_group",
+      "label": "Control Rig Transform System",
+      "nodes": ["RigUnit_GetControlInitialTransform", "RigUnit", "Transform", "RigVMTransformSpace"],
+      "description": "System for retrieving control transforms in rig hierarchies"
+    },
+    {
+      "id": "he_rbf_interpolation",
+      "type": "feature_group",
+      "label": "RBF Interpolation System",
+      "nodes": ["RigUnit_MathRBFInterpolateQuatQuat", "RigUnit_MathRBFInterpolateQuatXform", "RBFQuatDistanceType", "RBFKernelType"],
+      "description": "RBF-based interpolation for quaternion transformations"
+    },
+    {
+      "id": "he_pcg_attribute_processing",
+      "type": "feature_group",
+      "label": "PCG Attribute Processing",
+      "nodes": ["PCGAttributeRemapSettings", "PCGMakeConcreteSettings", "PCGAttributePropertyInputSelector", "PCGAttributePropertyOutputSelector"],
+      "description": "PCG system for processing and remapping attributes"
+    },
+    {
+      "id": "he_niagara_script_deprecated",
+      "type": "deprecation_group",
+      "label": "Niagara Script Deprecated Properties",
+      "nodes": ["NiagaraScript", "NiagaraScriptSourceBase", "NiagaraScriptLibraryVisibility"],
+      "description": "Group of deprecated properties in NiagaraScript that should use GetScriptData() instead"
+    },
+    {
+      "id": "he_gltf_export_pipeline",
+      "type": "workflow",
+      "label": "GLTF Export Pipeline",
+      "nodes": ["GLTFSkeletalMeshExporter", "GLTFExporter", "AssetExportTask"],
+      "description": "Pipeline for exporting skeletal meshes to GLTF format"
+    },
+    {
+      "id": "he_xr_device_tracking",
+      "type": "feature_group",
+      "label": "XR Device Tracking",
+      "nodes": ["XRDeviceId", "TrackingStatus", "HeadMountedDisplay"],
+      "description": "XR device identification and tracking status system"
+    },
+    {
+      "id": "he_groom_interpolation",
+      "type": "feature_group",
+      "label": "Groom Interpolation Methods",
+      "nodes": ["GroomInterpolationWeight", "HairStrands"],
+      "description": "Methods for interpolating groom data based on parametric, root, or index distance"
+    },
+    {
+      "id": "he_skinned_asset_sockets",
+      "type": "feature_group",
+      "label": "Skinned Asset Socket System",
+      "nodes": ["SkinnedAsset", "SkeletalMeshSocket", "Transform", "Name"],
+      "description": "System for finding and managing sockets in skinned assets"
+    },
+    {
+      "id": "he_aes_grid_layout",
+      "type": "feature_group",
+      "label": "AES Grid Layout System",
+      "nodes": ["AesGridLayoutAssetTagData", "Vector2f", "AesAssetChildMetaData"],
+      "description": "Grid layout system for asset placement with area ranges and spacing"
+    },
+    {
+      "id": "he_material_sparse_volume",
+      "type": "feature_group",
+      "label": "Sparse Volume Texture Sampling",
+      "nodes": ["MaterialExpressionSparseVolumeTextureSample", "TextureMipValueMode", "SamplerSourceMode"],
+      "description": "Material expression system for sampling sparse volume textures"
+    },
+    {
+      "id": "he_control_rig_shapes",
+      "type": "feature_group",
+      "label": "Control Rig Shape Definitions",
+      "nodes": ["ControlRigShapeDefinition", "StaticMesh", "Transform", "Name"],
+      "description": "System for defining control rig shapes with meshes and transforms"
+    },
+    {
+      "id": "he_ground_truth_testing",
+      "type": "workflow",
+      "label": "Ground Truth Testing Workflow",
+      "nodes": ["GroundTruthData", "Object", "FunctionalTesting"],
+      "description": "Workflow for saving, loading, and resetting ground truth test objects"
+    },
+    {
+      "id": "he_material_type_tracking",
+      "type": "feature_group",
+      "label": "Component Material Types",
+      "nodes": ["ComponentMaterialType", "MovieSceneTracks"],
+      "description": "Enumeration of material types for movie scene tracks"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "RigUnit_MathRBFInterpolateQuatQuat Objects.md",
+      "GLTFSkeletalMeshExporter Objects.md",
+      "ComponentMaterialType Objects.md",
+      "RigUnit_MathRBFInterpolateQuatXform Objects.md",
+      "GeometryScript__Collision Objects.md",
+      "ActorModifierCoreSharedActor Objects.md",
+      "TrackingStatus Objects.md",
+      "XRDeviceId Objects.md",
+      "PCGMakeConcreteSettings Objects.md",
+      "GroomInterpolationWeight Objects.md",
+      "SkinnedAsset Objects.md",
+      "DatasmithImportInfo Objects.md",
+      "RigUnit_GetControlInitialTransform Objects.md",
+      "PCGAttributeRemapSettings Objects.md",
+      "Ellipsoid Objects.md",
+      "GroundTruthData Objects.md",
+      "AesGridLayoutAssetTagData Objects.md",
+      "AesTerrainEditorCommandParams__CreateHole Objects.md",
+      "StandardApiClassBase Objects.md",
+      "MaterialExpressionSparseVolumeTextureSample Objects.md",
+      "NiagaraScript Objects.md",
+      "ControlRigShapeDefinition Objects.md"
+    ],
+    "extraction_timestamp": "2026-04-12",
+    "total_nodes": 73,
+    "total_edges": 51,
+    "total_hyperedges": 14
+  }
+}

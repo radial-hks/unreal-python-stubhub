@@ -1,0 +1,2301 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_CollectionItemAtIndex",
+      "type": "class",
+      "label": "RigUnit_CollectionItemAtIndex",
+      "metadata": {
+        "description": "Returns a single item within a collection by index",
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_Collection.h"
+      }
+    },
+    {
+      "id": "RigUnit_CollectionBase",
+      "type": "class",
+      "label": "RigUnit_CollectionBase",
+      "metadata": {}
+    },
+    {
+      "id": "RigElementKeyCollection",
+      "type": "type",
+      "label": "RigElementKeyCollection"
+    },
+    {
+      "id": "int32",
+      "type": "type",
+      "label": "int32"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "type",
+      "label": "RigElementKey"
+    },
+    {
+      "id": "RigUnit_SetAnimationChannelBase",
+      "type": "class",
+      "label": "RigUnit_SetAnimationChannelBase",
+      "metadata": {
+        "description": "Set Animation Channel is used to change a control's animation channel value",
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_ControlChannel.h"
+      }
+    },
+    {
+      "id": "RigUnit_GetAnimationChannelBase",
+      "type": "class",
+      "label": "RigUnit_GetAnimationChannelBase"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "bool",
+      "type": "type",
+      "label": "bool"
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "type",
+      "label": "ControlRigExecuteContext"
+    },
+    {
+      "id": "HorizTextAligment",
+      "type": "enum",
+      "label": "HorizTextAligment",
+      "metadata": {
+        "description": "EHoriz Text Aligment",
+        "module": "Engine",
+        "file": "TextRenderComponent.h"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "EHTA_LEFT",
+      "type": "enum_value",
+      "label": "EHTA_LEFT",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "EHTA_CENTER",
+      "type": "enum_value",
+      "label": "EHTA_CENTER",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "EHTA_RIGHT",
+      "type": "enum_value",
+      "label": "EHTA_RIGHT",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "CesiumPropertyComponentType",
+      "type": "enum",
+      "label": "CesiumPropertyComponentType",
+      "metadata": {
+        "description": "deprecated: 'CesiumPropertyComponentType' was renamed to 'CesiumPropertyComponentType_DEPRECATED'"
+      }
+    },
+    {
+      "id": "UINT8_DEPRECATED",
+      "type": "enum_value",
+      "label": "UINT8_DEPRECATED",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "FLOAT_DEPRECATED",
+      "type": "enum_value",
+      "label": "FLOAT_DEPRECATED",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "AnimSharingAdditiveInstance",
+      "type": "class",
+      "label": "AnimSharingAdditiveInstance",
+      "metadata": {
+        "description": "Anim Sharing Additive Instance",
+        "plugin": "AnimationSharing",
+        "module": "AnimationSharing",
+        "file": "AnimationSharingInstances.h"
+      }
+    },
+    {
+      "id": "AnimInstance",
+      "type": "class",
+      "label": "AnimInstance"
+    },
+    {
+      "id": "AnimSequence",
+      "type": "type",
+      "label": "AnimSequence"
+    },
+    {
+      "id": "float",
+      "type": "type",
+      "label": "float"
+    },
+    {
+      "id": "SkeletalMeshComponent",
+      "type": "type",
+      "label": "SkeletalMeshComponent"
+    },
+    {
+      "id": "OnAllMontageInstancesEndedMCDelegate",
+      "type": "type",
+      "label": "OnAllMontageInstancesEndedMCDelegate"
+    },
+    {
+      "id": "OnMontageBlendedInEndedMCDelegate",
+      "type": "type",
+      "label": "OnMontageBlendedInEndedMCDelegate"
+    },
+    {
+      "id": "OnMontageBlendingOutStartedMCDelegate",
+      "type": "type",
+      "label": "OnMontageBlendingOutStartedMCDelegate"
+    },
+    {
+      "id": "OnMontageEndedMCDelegate",
+      "type": "type",
+      "label": "OnMontageEndedMCDelegate"
+    },
+    {
+      "id": "OnMontageStartedMCDelegate",
+      "type": "type",
+      "label": "OnMontageStartedMCDelegate"
+    },
+    {
+      "id": "RootMotionMode",
+      "type": "type",
+      "label": "RootMotionMode"
+    },
+    {
+      "id": "PackFactory",
+      "type": "class",
+      "label": "PackFactory",
+      "metadata": {
+        "description": "Factory for unpacking upack files",
+        "module": "UnrealEd",
+        "file": "PackFactory.h"
+      }
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "label": "Factory"
+    },
+    {
+      "id": "AssetImportTask",
+      "type": "type",
+      "label": "AssetImportTask"
+    },
+    {
+      "id": "AutomatedAssetImportData",
+      "type": "type",
+      "label": "AutomatedAssetImportData"
+    },
+    {
+      "id": "Class",
+      "type": "type",
+      "label": "Class"
+    },
+    {
+      "id": "Array_str",
+      "type": "type",
+      "label": "Array[str]"
+    },
+    {
+      "id": "CameraRotateMode",
+      "type": "enum",
+      "label": "CameraRotateMode",
+      "metadata": {
+        "description": "相机旋转模式 相机自身/屏幕中心/鼠标位置",
+        "plugin": "WdpCamera",
+        "module": "WdpCamera",
+        "file": "WdpDataSource.h"
+      }
+    },
+    {
+      "id": "CRM_CAMERA_CENTER",
+      "type": "enum_value",
+      "label": "CRM_CAMERA_CENTER",
+      "metadata": {
+        "value": 0,
+        "description": "以相机自身旋转"
+      }
+    },
+    {
+      "id": "CRM_MOUSE_LOCATION",
+      "type": "enum_value",
+      "label": "CRM_MOUSE_LOCATION",
+      "metadata": {
+        "value": 1,
+        "description": "以鼠标点击位置旋转"
+      }
+    },
+    {
+      "id": "CRM_SCREEN_CENTER",
+      "type": "enum_value",
+      "label": "CRM_SCREEN_CENTER",
+      "metadata": {
+        "value": 2,
+        "description": "以屏幕中心旋转"
+      }
+    },
+    {
+      "id": "CRM_CUSTOM_PIVOT",
+      "type": "enum_value",
+      "label": "CRM_CUSTOM_PIVOT",
+      "metadata": {
+        "value": 3,
+        "description": "以自定义中心点旋转"
+      }
+    },
+    {
+      "id": "ListView",
+      "type": "class",
+      "label": "ListView",
+      "metadata": {
+        "description": "A virtualized list that allows up to thousands of items to be displayed",
+        "module": "UMG",
+        "file": "ListView.h"
+      }
+    },
+    {
+      "id": "ListViewBase",
+      "type": "class",
+      "label": "ListViewBase"
+    },
+    {
+      "id": "TableViewStyle",
+      "type": "type",
+      "label": "TableViewStyle"
+    },
+    {
+      "id": "ScrollBarStyle",
+      "type": "type",
+      "label": "ScrollBarStyle"
+    },
+    {
+      "id": "Orientation",
+      "type": "type",
+      "label": "Orientation"
+    },
+    {
+      "id": "SelectionMode",
+      "type": "type",
+      "label": "SelectionMode"
+    },
+    {
+      "id": "ConsumeMouseWheel",
+      "type": "type",
+      "label": "ConsumeMouseWheel"
+    },
+    {
+      "id": "ScrollIntoViewAlignment",
+      "type": "type",
+      "label": "ScrollIntoViewAlignment"
+    },
+    {
+      "id": "Margin",
+      "type": "type",
+      "label": "Margin"
+    },
+    {
+      "id": "OnListEntryInitializedDynamic",
+      "type": "type",
+      "label": "OnListEntryInitializedDynamic"
+    },
+    {
+      "id": "SimpleListItemEventDynamic",
+      "type": "type",
+      "label": "SimpleListItemEventDynamic"
+    },
+    {
+      "id": "OnItemIsHoveredChangedDynamic",
+      "type": "type",
+      "label": "OnItemIsHoveredChangedDynamic"
+    },
+    {
+      "id": "OnListItemSelectionChangedDynamic",
+      "type": "type",
+      "label": "OnListItemSelectionChangedDynamic"
+    },
+    {
+      "id": "OnListItemScrolledIntoViewDynamic",
+      "type": "type",
+      "label": "OnListItemScrolledIntoViewDynamic"
+    },
+    {
+      "id": "OnListViewScrolledDynamic",
+      "type": "type",
+      "label": "OnListViewScrolledDynamic"
+    },
+    {
+      "id": "Object",
+      "type": "type",
+      "label": "Object"
+    },
+    {
+      "id": "DMMaterialStageBlendSoftLight",
+      "type": "class",
+      "label": "DMMaterialStageBlendSoftLight",
+      "metadata": {
+        "description": "DMMaterial Stage Blend Soft Light",
+        "plugin": "DynamicMaterial",
+        "module": "DynamicMaterialEditor",
+        "file": "DMMSBSoftLight.h"
+      }
+    },
+    {
+      "id": "DMMaterialStageBlendFunction",
+      "type": "class",
+      "label": "DMMaterialStageBlendFunction"
+    },
+    {
+      "id": "AvaColorChannel",
+      "type": "type",
+      "label": "AvaColorChannel"
+    },
+    {
+      "id": "DMComponentLifetimeState",
+      "type": "type",
+      "label": "DMComponentLifetimeState"
+    },
+    {
+      "id": "Array_Name",
+      "type": "type",
+      "label": "Array[Name]"
+    },
+    {
+      "id": "DMMaterialStageConnector",
+      "type": "type",
+      "label": "DMMaterialStageConnector"
+    },
+    {
+      "id": "Text",
+      "type": "type",
+      "label": "Text"
+    },
+    {
+      "id": "RigUnit_MathFloatLerp",
+      "type": "class",
+      "label": "RigUnit_MathFloatLerp",
+      "metadata": {
+        "description": "deprecated: 'RigUnit_MathFloatLerp' was renamed to 'RigVMFunction_MathFloatLerp'"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathFloatLerp",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatLerp"
+    },
+    {
+      "id": "GroupRemoveParams",
+      "type": "class",
+      "label": "GroupRemoveParams",
+      "metadata": {
+        "description": "Group Remove Params",
+        "plugin": "WdpRuntimeAPI",
+        "module": "ApplicationAPI",
+        "file": "WdpGroupAPI.h"
+      }
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "int64",
+      "type": "type",
+      "label": "int64"
+    },
+    {
+      "id": "str",
+      "type": "type",
+      "label": "str"
+    },
+    {
+      "id": "Set_Name",
+      "type": "type",
+      "label": "Set[Name]"
+    },
+    {
+      "id": "Array_int64",
+      "type": "type",
+      "label": "Array[int64]"
+    },
+    {
+      "id": "TraceQueryTestResults",
+      "type": "class",
+      "label": "TraceQueryTestResults",
+      "metadata": {
+        "description": "Trace Query Test Results",
+        "module": "FunctionalTesting",
+        "file": "TraceQueryTestResults.h"
+      }
+    },
+    {
+      "id": "TraceChannelTestBatchOptions",
+      "type": "type",
+      "label": "TraceChannelTestBatchOptions"
+    },
+    {
+      "id": "TraceQueryTestResultsInner",
+      "type": "type",
+      "label": "TraceQueryTestResultsInner"
+    },
+    {
+      "id": "RigUnit_MathTransformArrayToSRT",
+      "type": "class",
+      "label": "RigUnit_MathTransformArrayToSRT",
+      "metadata": {
+        "description": "deprecated: 'RigUnit_MathTransformArrayToSRT' was renamed to 'RigVMFunction_MathTransformArrayToSRT'"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathTransformArrayToSRT",
+      "type": "class",
+      "label": "RigVMFunction_MathTransformArrayToSRT"
+    },
+    {
+      "id": "Array_Transform",
+      "type": "type",
+      "label": "Array[Transform]"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "Array_Vector",
+      "type": "type",
+      "label": "Array[Vector]"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "Array_Quat",
+      "type": "type",
+      "label": "Array[Quat]"
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "label": "Quat"
+    },
+    {
+      "id": "FBXImportType",
+      "type": "enum",
+      "label": "FBXImportType",
+      "metadata": {
+        "description": "Import mesh type",
+        "module": "UnrealEd",
+        "file": "FbxImportUI.h"
+      }
+    },
+    {
+      "id": "FBXIT_STATIC_MESH",
+      "type": "enum_value",
+      "label": "FBXIT_STATIC_MESH",
+      "metadata": {
+        "value": 0,
+        "description": "Select Static Mesh if you'd like to import static mesh"
+      }
+    },
+    {
+      "id": "FBXIT_SKELETAL_MESH",
+      "type": "enum_value",
+      "label": "FBXIT_SKELETAL_MESH",
+      "metadata": {
+        "value": 1,
+        "description": "Select Skeletal Mesh if you'd like to import skeletal mesh"
+      }
+    },
+    {
+      "id": "FBXIT_ANIMATION",
+      "type": "enum_value",
+      "label": "FBXIT_ANIMATION",
+      "metadata": {
+        "value": 2,
+        "description": "Select Animation if you'd like to import only animation"
+      }
+    },
+    {
+      "id": "ValueOrBBKey_Int32",
+      "type": "class",
+      "label": "ValueOrBBKey_Int32",
+      "metadata": {
+        "description": "Value or BBKey Int 32",
+        "module": "AIModule",
+        "file": "ValueOrBBKey.h"
+      }
+    },
+    {
+      "id": "ValueOrBlackboardKeyBase",
+      "type": "class",
+      "label": "ValueOrBlackboardKeyBase"
+    },
+    {
+      "id": "MigarationPeripheralProvinceInfo",
+      "type": "class",
+      "label": "MigarationPeripheralProvinceInfo",
+      "metadata": {
+        "description": "Migaration Peripheral Province Info",
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIEntity",
+        "file": "ChinaMapTypes.h"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "RigVMFunction_MathFloatTan",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatTan",
+      "metadata": {
+        "description": "Returns the tangens value of the given value (in radians)",
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathFloat.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathFloatUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatUnaryOp"
+    },
+    {
+      "id": "SuperAPI_JSONToolsBPLibrary",
+      "type": "class",
+      "label": "SuperAPI_JSONToolsBPLibrary",
+      "metadata": {
+        "description": "Super API JSONTools BPLibrary",
+        "plugin": "SunFunctionLibrary",
+        "module": "SuperAPI_JSONTools",
+        "file": "SuperAPI_JSONToolsBPLibrary.h"
+      }
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "SuperAPI_JsonType",
+      "type": "type",
+      "label": "SuperAPI_JsonType"
+    },
+    {
+      "id": "CollisionProfileName",
+      "type": "class",
+      "label": "CollisionProfileName",
+      "metadata": {
+        "description": "Structure representing a collision profile name, this gets a special UI in the editor",
+        "module": "Engine",
+        "file": "CollisionProfile.h"
+      }
+    },
+    {
+      "id": "GenerateStaticMeshLODProcess_AutoUVMethod",
+      "type": "enum",
+      "label": "GenerateStaticMeshLODProcess_AutoUVMethod",
+      "metadata": {
+        "description": "EGenerate Static Mesh LODProcess Auto UVMethod",
+        "plugin": "MeshLODToolset",
+        "module": "MeshLODToolset",
+        "file": "GenerateStaticMeshLODProcess.h"
+      }
+    },
+    {
+      "id": "PATCH_BUILDER",
+      "type": "enum_value",
+      "label": "PATCH_BUILDER",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "UV_ATLAS",
+      "type": "enum_value",
+      "label": "UV_ATLAS",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "X_ATLAS",
+      "type": "enum_value",
+      "label": "X_ATLAS",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "SpeedTreeLODType",
+      "type": "enum",
+      "label": "SpeedTreeLODType",
+      "metadata": {
+        "description": "ESpeed Tree LODType",
+        "module": "Engine",
+        "file": "MaterialExpressionSpeedTree.h"
+      }
+    },
+    {
+      "id": "STLOD_POP",
+      "type": "enum_value",
+      "label": "STLOD_POP",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "STLOD_SMOOTH",
+      "type": "enum_value",
+      "label": "STLOD_SMOOTH",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "AesEditorPropertyFlags",
+      "type": "enum",
+      "label": "AesEditorPropertyFlags",
+      "metadata": {
+        "description": "EAes Editor Property Flags",
+        "plugin": "AesWorld",
+        "module": "AesEditorMode",
+        "file": "IAesEditorPropertyProvider.h"
+      }
+    },
+    {
+      "id": "NO_FLAGS",
+      "type": "enum_value",
+      "label": "NO_FLAGS",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "ADVANCED",
+      "type": "enum_value",
+      "label": "ADVANCED",
+      "metadata": {
+        "value": 1
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "RigUnit_CollectionItemAtIndex",
+      "target": "RigUnit_CollectionBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_2",
+      "source": "RigUnit_CollectionItemAtIndex",
+      "target": "RigElementKeyCollection",
+      "type": "has_property",
+      "label": "property: collection"
+    },
+    {
+      "id": "edge_3",
+      "source": "RigUnit_CollectionItemAtIndex",
+      "target": "int32",
+      "type": "has_property",
+      "label": "property: index"
+    },
+    {
+      "id": "edge_4",
+      "source": "RigUnit_CollectionItemAtIndex",
+      "target": "RigElementKey",
+      "type": "has_property",
+      "label": "property: item"
+    },
+    {
+      "id": "edge_5",
+      "source": "RigUnit_SetAnimationChannelBase",
+      "target": "RigUnit_GetAnimationChannelBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_6",
+      "source": "RigUnit_SetAnimationChannelBase",
+      "target": "Name",
+      "type": "has_property",
+      "label": "property: channel"
+    },
+    {
+      "id": "edge_7",
+      "source": "RigUnit_SetAnimationChannelBase",
+      "target": "Name",
+      "type": "has_property",
+      "label": "property: control"
+    },
+    {
+      "id": "edge_8",
+      "source": "RigUnit_SetAnimationChannelBase",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: initial"
+    },
+    {
+      "id": "edge_9",
+      "source": "RigUnit_SetAnimationChannelBase",
+      "target": "ControlRigExecuteContext",
+      "type": "has_property",
+      "label": "property: execute_context"
+    },
+    {
+      "id": "edge_10",
+      "source": "HorizTextAligment",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_11",
+      "source": "HorizTextAligment",
+      "target": "EHTA_LEFT",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_12",
+      "source": "HorizTextAligment",
+      "target": "EHTA_CENTER",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_13",
+      "source": "HorizTextAligment",
+      "target": "EHTA_RIGHT",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_14",
+      "source": "CesiumPropertyComponentType",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_15",
+      "source": "CesiumPropertyComponentType",
+      "target": "UINT8_DEPRECATED",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_16",
+      "source": "CesiumPropertyComponentType",
+      "target": "FLOAT_DEPRECATED",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_17",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "AnimInstance",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_18",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "AnimSequence",
+      "type": "has_property",
+      "label": "property: additive_animation"
+    },
+    {
+      "id": "edge_19",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: alpha"
+    },
+    {
+      "id": "edge_20",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "SkeletalMeshComponent",
+      "type": "has_property",
+      "label": "property: base_component"
+    },
+    {
+      "id": "edge_21",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: state_bool"
+    },
+    {
+      "id": "edge_22",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "OnAllMontageInstancesEndedMCDelegate",
+      "type": "has_property",
+      "label": "property: on_all_montage_instances_ended"
+    },
+    {
+      "id": "edge_23",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "OnMontageBlendedInEndedMCDelegate",
+      "type": "has_property",
+      "label": "property: on_montage_blended_in"
+    },
+    {
+      "id": "edge_24",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "OnMontageBlendingOutStartedMCDelegate",
+      "type": "has_property",
+      "label": "property: on_montage_blending_out"
+    },
+    {
+      "id": "edge_25",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "OnMontageEndedMCDelegate",
+      "type": "has_property",
+      "label": "property: on_montage_ended"
+    },
+    {
+      "id": "edge_26",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "OnMontageStartedMCDelegate",
+      "type": "has_property",
+      "label": "property: on_montage_started"
+    },
+    {
+      "id": "edge_27",
+      "source": "AnimSharingAdditiveInstance",
+      "target": "RootMotionMode",
+      "type": "has_property",
+      "label": "property: root_motion_mode"
+    },
+    {
+      "id": "edge_28",
+      "source": "PackFactory",
+      "target": "Factory",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_29",
+      "source": "PackFactory",
+      "target": "AssetImportTask",
+      "type": "has_property",
+      "label": "property: asset_import_task"
+    },
+    {
+      "id": "edge_30",
+      "source": "PackFactory",
+      "target": "AutomatedAssetImportData",
+      "type": "has_property",
+      "label": "property: automated_import_data"
+    },
+    {
+      "id": "edge_31",
+      "source": "PackFactory",
+      "target": "Class",
+      "type": "has_property",
+      "label": "property: context_class"
+    },
+    {
+      "id": "edge_32",
+      "source": "PackFactory",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: create_new"
+    },
+    {
+      "id": "edge_33",
+      "source": "PackFactory",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: edit_after_new"
+    },
+    {
+      "id": "edge_34",
+      "source": "PackFactory",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: editor_import"
+    },
+    {
+      "id": "edge_35",
+      "source": "PackFactory",
+      "target": "Array_str",
+      "type": "has_property",
+      "label": "property: formats"
+    },
+    {
+      "id": "edge_36",
+      "source": "PackFactory",
+      "target": "Class",
+      "type": "has_property",
+      "label": "property: supported_class"
+    },
+    {
+      "id": "edge_37",
+      "source": "PackFactory",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: text"
+    },
+    {
+      "id": "edge_38",
+      "source": "CameraRotateMode",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_39",
+      "source": "CameraRotateMode",
+      "target": "CRM_CAMERA_CENTER",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_40",
+      "source": "CameraRotateMode",
+      "target": "CRM_MOUSE_LOCATION",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_41",
+      "source": "CameraRotateMode",
+      "target": "CRM_SCREEN_CENTER",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_42",
+      "source": "CameraRotateMode",
+      "target": "CRM_CUSTOM_PIVOT",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_43",
+      "source": "ListView",
+      "target": "ListViewBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_44",
+      "source": "ListView",
+      "target": "TableViewStyle",
+      "type": "has_property",
+      "label": "property: widget_style"
+    },
+    {
+      "id": "edge_45",
+      "source": "ListView",
+      "target": "ScrollBarStyle",
+      "type": "has_property",
+      "label": "property: scroll_bar_style"
+    },
+    {
+      "id": "edge_46",
+      "source": "ListView",
+      "target": "Orientation",
+      "type": "has_property",
+      "label": "property: orientation"
+    },
+    {
+      "id": "edge_47",
+      "source": "ListView",
+      "target": "SelectionMode",
+      "type": "has_property",
+      "label": "property: selection_mode"
+    },
+    {
+      "id": "edge_48",
+      "source": "ListView",
+      "target": "ConsumeMouseWheel",
+      "type": "has_property",
+      "label": "property: consume_mouse_wheel"
+    },
+    {
+      "id": "edge_49",
+      "source": "ListView",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: clear_selection_on_click"
+    },
+    {
+      "id": "edge_50",
+      "source": "ListView",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: is_focusable"
+    },
+    {
+      "id": "edge_51",
+      "source": "ListView",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: return_focus_to_selection"
+    },
+    {
+      "id": "edge_52",
+      "source": "ListView",
+      "target": "ScrollIntoViewAlignment",
+      "type": "has_property",
+      "label": "property: scroll_into_view_alignment"
+    },
+    {
+      "id": "edge_53",
+      "source": "ListView",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: entry_spacing"
+    },
+    {
+      "id": "edge_54",
+      "source": "ListView",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: horizontal_entry_spacing"
+    },
+    {
+      "id": "edge_55",
+      "source": "ListView",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: vertical_entry_spacing"
+    },
+    {
+      "id": "edge_56",
+      "source": "ListView",
+      "target": "Margin",
+      "type": "has_property",
+      "label": "property: scroll_bar_padding"
+    },
+    {
+      "id": "edge_57",
+      "source": "ListView",
+      "target": "OnListEntryInitializedDynamic",
+      "type": "has_property",
+      "label": "property: bp_on_entry_initialized"
+    },
+    {
+      "id": "edge_58",
+      "source": "ListView",
+      "target": "SimpleListItemEventDynamic",
+      "type": "has_property",
+      "label": "property: bp_on_item_clicked"
+    },
+    {
+      "id": "edge_59",
+      "source": "ListView",
+      "target": "SimpleListItemEventDynamic",
+      "type": "has_property",
+      "label": "property: bp_on_item_double_clicked"
+    },
+    {
+      "id": "edge_60",
+      "source": "ListView",
+      "target": "OnItemIsHoveredChangedDynamic",
+      "type": "has_property",
+      "label": "property: bp_on_item_is_hovered_changed"
+    },
+    {
+      "id": "edge_61",
+      "source": "ListView",
+      "target": "OnListItemSelectionChangedDynamic",
+      "type": "has_property",
+      "label": "property: bp_on_item_selection_changed"
+    },
+    {
+      "id": "edge_62",
+      "source": "ListView",
+      "target": "OnListItemScrolledIntoViewDynamic",
+      "type": "has_property",
+      "label": "property: bp_on_item_scrolled_into_view"
+    },
+    {
+      "id": "edge_63",
+      "source": "ListView",
+      "target": "OnListViewScrolledDynamic",
+      "type": "has_property",
+      "label": "property: bp_on_list_view_scrolled"
+    },
+    {
+      "id": "edge_64",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: set_selection_mode"
+    },
+    {
+      "id": "edge_65",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: set_selected_index"
+    },
+    {
+      "id": "edge_66",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: set_scroll_into_view_alignment"
+    },
+    {
+      "id": "edge_67",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: scroll_index_into_view"
+    },
+    {
+      "id": "edge_68",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: remove_item"
+    },
+    {
+      "id": "edge_69",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: navigate_to_index"
+    },
+    {
+      "id": "edge_70",
+      "source": "ListView",
+      "target": "bool",
+      "type": "has_method",
+      "label": "method: is_refresh_pending"
+    },
+    {
+      "id": "edge_71",
+      "source": "ListView",
+      "target": "float",
+      "type": "has_method",
+      "label": "method: get_vertical_entry_spacing"
+    },
+    {
+      "id": "edge_72",
+      "source": "ListView",
+      "target": "int32",
+      "type": "has_method",
+      "label": "method: get_num_items"
+    },
+    {
+      "id": "edge_73",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: get_list_items"
+    },
+    {
+      "id": "edge_74",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: get_item_at"
+    },
+    {
+      "id": "edge_75",
+      "source": "ListView",
+      "target": "int32",
+      "type": "has_method",
+      "label": "method: get_index_for_item"
+    },
+    {
+      "id": "edge_76",
+      "source": "ListView",
+      "target": "float",
+      "type": "has_method",
+      "label": "method: get_horizontal_entry_spacing"
+    },
+    {
+      "id": "edge_77",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: clear_list_items"
+    },
+    {
+      "id": "edge_78",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: bp_set_selected_item"
+    },
+    {
+      "id": "edge_79",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: bp_set_list_items"
+    },
+    {
+      "id": "edge_80",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: bp_set_item_selection"
+    },
+    {
+      "id": "edge_81",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: bp_scroll_item_into_view"
+    },
+    {
+      "id": "edge_82",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: bp_navigate_to_item"
+    },
+    {
+      "id": "edge_83",
+      "source": "ListView",
+      "target": "bool",
+      "type": "has_method",
+      "label": "method: bp_is_item_visible"
+    },
+    {
+      "id": "edge_84",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: bp_get_selected_items"
+    },
+    {
+      "id": "edge_85",
+      "source": "ListView",
+      "target": "Object",
+      "type": "has_method",
+      "label": "method: bp_get_selected_item"
+    },
+    {
+      "id": "edge_86",
+      "source": "ListView",
+      "target": "int32",
+      "type": "has_method",
+      "label": "method: bp_get_num_items_selected"
+    },
+    {
+      "id": "edge_87",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: bp_clear_selection"
+    },
+    {
+      "id": "edge_88",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: bp_cancel_scroll_into_view"
+    },
+    {
+      "id": "edge_89",
+      "source": "ListView",
+      "target": "None",
+      "type": "has_method",
+      "label": "method: add_item"
+    },
+    {
+      "id": "edge_90",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "DMMaterialStageBlendFunction",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_91",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: allow_nested_inputs"
+    },
+    {
+      "id": "edge_92",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "AvaColorChannel",
+      "type": "has_property",
+      "label": "property: base_channel_override"
+    },
+    {
+      "id": "edge_93",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: component_dirty"
+    },
+    {
+      "id": "edge_94",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "DMComponentLifetimeState",
+      "type": "has_property",
+      "label": "property: component_state"
+    },
+    {
+      "id": "edge_95",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "Array_Name",
+      "type": "has_property",
+      "label": "property: editable_properties"
+    },
+    {
+      "id": "edge_96",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "DMMaterialStageConnector",
+      "type": "has_property",
+      "label": "property: input_connectors"
+    },
+    {
+      "id": "edge_97",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "bool",
+      "type": "has_property",
+      "label": "property: input_required"
+    },
+    {
+      "id": "edge_98",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "Text",
+      "type": "has_property",
+      "label": "property: name"
+    },
+    {
+      "id": "edge_99",
+      "source": "DMMaterialStageBlendSoftLight",
+      "target": "DMMaterialStageConnector",
+      "type": "has_property",
+      "label": "property: output_connectors"
+    },
+    {
+      "id": "edge_100",
+      "source": "RigUnit_MathFloatLerp",
+      "target": "RigVMFunction_MathFloatLerp",
+      "type": "renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "id": "edge_101",
+      "source": "RigUnit_MathFloatLerp",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: a"
+    },
+    {
+      "id": "edge_102",
+      "source": "RigUnit_MathFloatLerp",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: b"
+    },
+    {
+      "id": "edge_103",
+      "source": "RigUnit_MathFloatLerp",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: t"
+    },
+    {
+      "id": "edge_104",
+      "source": "RigUnit_MathFloatLerp",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: result"
+    },
+    {
+      "id": "edge_105",
+      "source": "GroupRemoveParams",
+      "target": "ParamsBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_106",
+      "source": "GroupRemoveParams",
+      "target": "int64",
+      "type": "has_property",
+      "label": "property: group_eid"
+    },
+    {
+      "id": "edge_107",
+      "source": "GroupRemoveParams",
+      "target": "str",
+      "type": "has_property",
+      "label": "property: guid"
+    },
+    {
+      "id": "edge_108",
+      "source": "GroupRemoveParams",
+      "target": "Set_Name",
+      "type": "has_property",
+      "label": "property: hit_keys"
+    },
+    {
+      "id": "edge_109",
+      "source": "GroupRemoveParams",
+      "target": "Array_int64",
+      "type": "has_property",
+      "label": "property: remove_eids"
+    },
+    {
+      "id": "edge_110",
+      "source": "TraceQueryTestResults",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_111",
+      "source": "TraceQueryTestResults",
+      "target": "TraceChannelTestBatchOptions",
+      "type": "has_property",
+      "label": "property: batch_options"
+    },
+    {
+      "id": "edge_112",
+      "source": "TraceQueryTestResults",
+      "target": "TraceQueryTestResultsInner",
+      "type": "has_property",
+      "label": "property: channel_results"
+    },
+    {
+      "id": "edge_113",
+      "source": "TraceQueryTestResults",
+      "target": "TraceQueryTestResultsInner",
+      "type": "has_property",
+      "label": "property: object_results"
+    },
+    {
+      "id": "edge_114",
+      "source": "TraceQueryTestResults",
+      "target": "TraceQueryTestResultsInner",
+      "type": "has_property",
+      "label": "property: profile_results"
+    },
+    {
+      "id": "edge_115",
+      "source": "TraceQueryTestResults",
+      "target": "str",
+      "type": "has_method",
+      "label": "method: to_string"
+    },
+    {
+      "id": "edge_116",
+      "source": "RigUnit_MathTransformArrayToSRT",
+      "target": "RigVMFunction_MathTransformArrayToSRT",
+      "type": "renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "id": "edge_117",
+      "source": "RigUnit_MathTransformArrayToSRT",
+      "target": "Array_Transform",
+      "type": "has_property",
+      "label": "property: transforms"
+    },
+    {
+      "id": "edge_118",
+      "source": "RigUnit_MathTransformArrayToSRT",
+      "target": "Array_Vector",
+      "type": "has_property",
+      "label": "property: translations"
+    },
+    {
+      "id": "edge_119",
+      "source": "RigUnit_MathTransformArrayToSRT",
+      "target": "Array_Quat",
+      "type": "has_property",
+      "label": "property: rotations"
+    },
+    {
+      "id": "edge_120",
+      "source": "RigUnit_MathTransformArrayToSRT",
+      "target": "Array_Vector",
+      "type": "has_property",
+      "label": "property: scales"
+    },
+    {
+      "id": "edge_121",
+      "source": "FBXImportType",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_122",
+      "source": "FBXImportType",
+      "target": "FBXIT_STATIC_MESH",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_123",
+      "source": "FBXImportType",
+      "target": "FBXIT_SKELETAL_MESH",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_124",
+      "source": "FBXImportType",
+      "target": "FBXIT_ANIMATION",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_125",
+      "source": "ValueOrBBKey_Int32",
+      "target": "ValueOrBlackboardKeyBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_126",
+      "source": "ValueOrBBKey_Int32",
+      "target": "int32",
+      "type": "has_property",
+      "label": "property: default_value"
+    },
+    {
+      "id": "edge_127",
+      "source": "ValueOrBBKey_Int32",
+      "target": "Name",
+      "type": "has_property",
+      "label": "property: key"
+    },
+    {
+      "id": "edge_128",
+      "source": "MigarationPeripheralProvinceInfo",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_129",
+      "source": "MigarationPeripheralProvinceInfo",
+      "target": "str",
+      "type": "has_property",
+      "label": "property: province_code"
+    },
+    {
+      "id": "edge_130",
+      "source": "MigarationPeripheralProvinceInfo",
+      "target": "int32",
+      "type": "has_property",
+      "label": "property: mark_size"
+    },
+    {
+      "id": "edge_131",
+      "source": "MigarationPeripheralProvinceInfo",
+      "target": "str",
+      "type": "has_property",
+      "label": "property: mark_color"
+    },
+    {
+      "id": "edge_132",
+      "source": "MigarationPeripheralProvinceInfo",
+      "target": "int32",
+      "type": "has_property",
+      "label": "property: line_width"
+    },
+    {
+      "id": "edge_133",
+      "source": "MigarationPeripheralProvinceInfo",
+      "target": "str",
+      "type": "has_property",
+      "label": "property: line_color"
+    },
+    {
+      "id": "edge_134",
+      "source": "MigarationPeripheralProvinceInfo",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: curvature"
+    },
+    {
+      "id": "edge_135",
+      "source": "RigVMFunction_MathFloatTan",
+      "target": "RigVMFunction_MathFloatUnaryOp",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_136",
+      "source": "RigVMFunction_MathFloatTan",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: value"
+    },
+    {
+      "id": "edge_137",
+      "source": "RigVMFunction_MathFloatTan",
+      "target": "float",
+      "type": "has_property",
+      "label": "property: result"
+    },
+    {
+      "id": "edge_138",
+      "source": "SuperAPI_JSONToolsBPLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_139",
+      "source": "SuperAPI_JSONToolsBPLibrary",
+      "target": "bool",
+      "type": "has_method",
+      "label": "method: matching_type"
+    },
+    {
+      "id": "edge_140",
+      "source": "SuperAPI_JSONToolsBPLibrary",
+      "target": "str",
+      "type": "has_method",
+      "label": "method: generation_separator"
+    },
+    {
+      "id": "edge_141",
+      "source": "SuperAPI_JSONToolsBPLibrary",
+      "target": "bool",
+      "type": "has_method",
+      "label": "method: delete_field"
+    },
+    {
+      "id": "edge_142",
+      "source": "SuperAPI_JSONToolsBPLibrary",
+      "target": "Array_str",
+      "type": "has_method",
+      "label": "method: analytical_separator"
+    },
+    {
+      "id": "edge_143",
+      "source": "CollisionProfileName",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_144",
+      "source": "CollisionProfileName",
+      "target": "Name",
+      "type": "has_property",
+      "label": "property: name"
+    },
+    {
+      "id": "edge_145",
+      "source": "GenerateStaticMeshLODProcess_AutoUVMethod",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_146",
+      "source": "GenerateStaticMeshLODProcess_AutoUVMethod",
+      "target": "PATCH_BUILDER",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_147",
+      "source": "GenerateStaticMeshLODProcess_AutoUVMethod",
+      "target": "UV_ATLAS",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_148",
+      "source": "GenerateStaticMeshLODProcess_AutoUVMethod",
+      "target": "X_ATLAS",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_149",
+      "source": "SpeedTreeLODType",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_150",
+      "source": "SpeedTreeLODType",
+      "target": "STLOD_POP",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_151",
+      "source": "SpeedTreeLODType",
+      "target": "STLOD_SMOOTH",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_152",
+      "source": "AesEditorPropertyFlags",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_153",
+      "source": "AesEditorPropertyFlags",
+      "target": "NO_FLAGS",
+      "type": "has_enum_value",
+      "label": "enum value"
+    },
+    {
+      "id": "edge_154",
+      "source": "AesEditorPropertyFlags",
+      "target": "ADVANCED",
+      "type": "has_enum_value",
+      "label": "enum value"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "set_selection_mode",
+        "SelectionMode",
+        "None"
+      ],
+      "metadata": {
+        "description": "Sets the new selection mode, preserving the current selection where possible"
+      }
+    },
+    {
+      "id": "hyperedge_2",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "set_selected_index",
+        "int32",
+        "None"
+      ],
+      "metadata": {
+        "description": "Sets the item at the given index as the sole selected item"
+      }
+    },
+    {
+      "id": "hyperedge_3",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "set_scroll_into_view_alignment",
+        "ScrollIntoViewAlignment",
+        "None"
+      ],
+      "metadata": {
+        "description": "Sets ScrollIntoViewAlignment which allows to stick the selected item to either side or center"
+      }
+    },
+    {
+      "id": "hyperedge_4",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "scroll_index_into_view",
+        "int32",
+        "None"
+      ],
+      "metadata": {
+        "description": "Requests that the item at the given index is scrolled into view"
+      }
+    },
+    {
+      "id": "hyperedge_5",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "remove_item",
+        "Object",
+        "None"
+      ],
+      "metadata": {
+        "description": "Removes an the item from the list"
+      }
+    },
+    {
+      "id": "hyperedge_6",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "navigate_to_index",
+        "int32",
+        "None"
+      ],
+      "metadata": {
+        "description": "Requests that the item at the given index navigated to, scrolling it into view if needed"
+      }
+    },
+    {
+      "id": "hyperedge_7",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "bp_set_selected_item",
+        "Object",
+        "None"
+      ],
+      "metadata": {
+        "description": "Sets the given item as the sole selected item"
+      }
+    },
+    {
+      "id": "hyperedge_8",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "bp_set_list_items",
+        "Array_str",
+        "None"
+      ],
+      "metadata": {
+        "description": "Sets the array of objects to display rows for in the list"
+      }
+    },
+    {
+      "id": "hyperedge_9",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "bp_set_item_selection",
+        "Object",
+        "bool",
+        "None"
+      ],
+      "metadata": {
+        "description": "Sets whether the given item is selected"
+      }
+    },
+    {
+      "id": "hyperedge_10",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "bp_scroll_item_into_view",
+        "Object",
+        "None"
+      ],
+      "metadata": {
+        "description": "Requests that the given item is scrolled into view"
+      }
+    },
+    {
+      "id": "hyperedge_11",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "bp_navigate_to_item",
+        "Object",
+        "None"
+      ],
+      "metadata": {
+        "description": "Requests that the given item is navigated to, scrolling it into view if needed"
+      }
+    },
+    {
+      "id": "hyperedge_12",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "bp_is_item_visible",
+        "Object",
+        "bool"
+      ],
+      "metadata": {
+        "description": "Gets whether the entry for the given object is currently visible in the list"
+      }
+    },
+    {
+      "id": "hyperedge_13",
+      "type": "method_signature",
+      "nodes": [
+        "ListView",
+        "add_item",
+        "Object",
+        "None"
+      ],
+      "metadata": {
+        "description": "Adds an the item to the list"
+      }
+    },
+    {
+      "id": "hyperedge_14",
+      "type": "method_signature",
+      "nodes": [
+        "SuperAPI_JSONToolsBPLibrary",
+        "matching_type",
+        "str",
+        "SuperAPI_JsonType",
+        "bool"
+      ],
+      "metadata": {
+        "description": "Matching Type"
+      }
+    },
+    {
+      "id": "hyperedge_15",
+      "type": "method_signature",
+      "nodes": [
+        "SuperAPI_JSONToolsBPLibrary",
+        "generation_separator",
+        "Array_str",
+        "str"
+      ],
+      "metadata": {
+        "description": "Generation Separator"
+      }
+    },
+    {
+      "id": "hyperedge_16",
+      "type": "method_signature",
+      "nodes": [
+        "SuperAPI_JSONToolsBPLibrary",
+        "delete_field",
+        "str",
+        "str",
+        "bool",
+        "str",
+        "str"
+      ],
+      "metadata": {
+        "description": "Delete Field"
+      }
+    },
+    {
+      "id": "hyperedge_17",
+      "type": "method_signature",
+      "nodes": [
+        "SuperAPI_JSONToolsBPLibrary",
+        "analytical_separator",
+        "str",
+        "Array_str"
+      ],
+      "metadata": {
+        "description": "Analytical Separator"
+      }
+    },
+    {
+      "id": "hyperedge_18",
+      "type": "deprecation",
+      "nodes": [
+        "RigUnit_MathFloatLerp",
+        "RigVMFunction_MathFloatLerp"
+      ],
+      "metadata": {
+        "reason": "renamed"
+      }
+    },
+    {
+      "id": "hyperedge_19",
+      "type": "deprecation",
+      "nodes": [
+        "RigUnit_MathTransformArrayToSRT",
+        "RigVMFunction_MathTransformArrayToSRT"
+      ],
+      "metadata": {
+        "reason": "renamed"
+      }
+    },
+    {
+      "id": "hyperedge_20",
+      "type": "deprecation",
+      "nodes": [
+        "CesiumPropertyComponentType"
+      ],
+      "metadata": {
+        "reason": "renamed to CesiumPropertyComponentType_DEPRECATED"
+      }
+    },
+    {
+      "id": "hyperedge_21",
+      "type": "class_hierarchy",
+      "nodes": [
+        "RigUnit_CollectionItemAtIndex",
+        "RigUnit_CollectionBase",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_22",
+      "type": "class_hierarchy",
+      "nodes": [
+        "RigUnit_SetAnimationChannelBase",
+        "RigUnit_GetAnimationChannelBase",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_23",
+      "type": "class_hierarchy",
+      "nodes": [
+        "AnimSharingAdditiveInstance",
+        "AnimInstance",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_24",
+      "type": "class_hierarchy",
+      "nodes": [
+        "PackFactory",
+        "Factory",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_25",
+      "type": "class_hierarchy",
+      "nodes": [
+        "ListView",
+        "ListViewBase",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_26",
+      "type": "class_hierarchy",
+      "nodes": [
+        "DMMaterialStageBlendSoftLight",
+        "DMMaterialStageBlendFunction",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_27",
+      "type": "class_hierarchy",
+      "nodes": [
+        "GroupRemoveParams",
+        "ParamsBase",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_28",
+      "type": "class_hierarchy",
+      "nodes": [
+        "TraceQueryTestResults",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_29",
+      "type": "class_hierarchy",
+      "nodes": [
+        "ValueOrBBKey_Int32",
+        "ValueOrBlackboardKeyBase",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_30",
+      "type": "class_hierarchy",
+      "nodes": [
+        "MigarationPeripheralProvinceInfo",
+        "StructBase"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_31",
+      "type": "class_hierarchy",
+      "nodes": [
+        "RigVMFunction_MathFloatTan",
+        "RigVMFunction_MathFloatUnaryOp",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_32",
+      "type": "class_hierarchy",
+      "nodes": [
+        "SuperAPI_JSONToolsBPLibrary",
+        "BlueprintFunctionLibrary",
+        "Object"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_33",
+      "type": "class_hierarchy",
+      "nodes": [
+        "CollisionProfileName",
+        "StructBase"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_34",
+      "type": "module_organization",
+      "nodes": [
+        "ControlRig",
+        "RigUnit_CollectionItemAtIndex",
+        "RigUnit_SetAnimationChannelBase"
+      ],
+      "metadata": {
+        "plugin": "ControlRig"
+      }
+    },
+    {
+      "id": "hyperedge_35",
+      "type": "module_organization",
+      "nodes": [
+        "AnimationSharing",
+        "AnimSharingAdditiveInstance"
+      ],
+      "metadata": {
+        "plugin": "AnimationSharing"
+      }
+    },
+    {
+      "id": "hyperedge_36",
+      "type": "module_organization",
+      "nodes": [
+        "WdpCamera",
+        "CameraRotateMode"
+      ],
+      "metadata": {
+        "plugin": "WdpCamera"
+      }
+    },
+    {
+      "id": "hyperedge_37",
+      "type": "module_organization",
+      "nodes": [
+        "UMG",
+        "ListView"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hyperedge_38",
+      "type": "module_organization",
+      "nodes": [
+        "DynamicMaterial",
+        "DMMaterialStageBlendSoftLight"
+      ],
+      "metadata": {
+        "plugin": "DynamicMaterial"
+      }
+    },
+    {
+      "id": "hyperedge_39",
+      "type": "module_organization",
+      "nodes": [
+        "WdpRuntimeAPI",
+        "GroupRemoveParams"
+      ],
+      "metadata": {
+        "plugin": "WdpRuntimeAPI"
+      }
+    },
+    {
+      "id": "hyperedge_40",
+      "type": "module_organization",
+      "nodes": [
+        "RigVM",
+        "RigVMFunction_MathFloatTan"
+      ],
+      "metadata": {
+        "plugin": "RigVM"
+      }
+    },
+    {
+      "id": "hyperedge_41",
+      "type": "module_organization",
+      "nodes": [
+        "SuperAPI_JSONTools",
+        "SuperAPI_JSONToolsBPLibrary"
+      ],
+      "metadata": {
+        "plugin": "SunFunctionLibrary"
+      }
+    },
+    {
+      "id": "hyperedge_42",
+      "type": "module_organization",
+      "nodes": [
+        "MeshLODToolset",
+        "GenerateStaticMeshLODProcess_AutoUVMethod"
+      ],
+      "metadata": {
+        "plugin": "MeshLODToolset"
+      }
+    },
+    {
+      "id": "hyperedge_43",
+      "type": "module_organization",
+      "nodes": [
+        "AesWorld",
+        "AesEditorPropertyFlags"
+      ],
+      "metadata": {
+        "plugin": "AesWorld"
+      }
+    },
+    {
+      "id": "hyperedge_44",
+      "type": "module_organization",
+      "nodes": [
+        "CoveringAPI",
+        "MigarationPeripheralProvinceInfo"
+      ],
+      "metadata": {
+        "plugin": "CoveringAPI"
+      }
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "nodes": [
+    {
+      "id": "navmeshboundsvolume_class",
+      "label": "NavMeshBoundsVolume",
+      "file_type": "document",
+      "source_file": "NavMeshBoundsVolume Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volume_class",
+      "label": "Volume",
+      "file_type": "document",
+      "source_file": "NavMeshBoundsVolume Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationsystem_module",
+      "label": "NavigationSystem Module",
+      "file_type": "document",
+      "source_file": "NavMeshBoundsVolume Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platformgameinstance_platformscreenorientationchangeddelegate_class",
+      "label": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate",
+      "file_type": "document",
+      "source_file": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_class",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcopymeshtoassetoptions_class",
+      "label": "GeometryScriptCopyMeshToAssetOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_class",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nanite_settings",
+      "label": "Nanite Settings",
+      "file_type": "document",
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinequeue_class",
+      "label": "MoviePipelineQueue",
+      "file_type": "document",
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_class",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movierenderpipeline_plugin",
+      "label": "MovieRenderPipeline Plugin",
+      "file_type": "document",
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineexecutorjob_class",
+      "label": "MoviePipelineExecutorJob",
+      "file_type": "document",
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "job_queue_management",
+      "label": "Job Queue Management",
+      "file_type": "document",
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_multifabrik_endeffector_class",
+      "label": "RigUnit_MultiFABRIK_EndEffector",
+      "file_type": "document",
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fabrik_solver",
+      "label": "FABRIK Solver",
+      "file_type": "document",
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bone",
+      "label": "Bone",
+      "file_type": "document",
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralookattrackingsettings_class",
+      "label": "CameraLookatTrackingSettings",
+      "file_type": "document",
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cinematiccamera_module",
+      "label": "CinematicCamera Module",
+      "file_type": "document",
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_tracking",
+      "label": "Camera Tracking",
+      "file_type": "document",
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_tracking",
+      "label": "Actor Tracking",
+      "file_type": "document",
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugrectangleitemspace_class",
+      "label": "RigUnit_DebugRectangleItemSpace",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugRectangleItemSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbasemutable_class",
+      "label": "RigUnit_DebugBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugRectangleItemSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debug_visualization",
+      "label": "Debug Visualization",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugRectangleItemSpace Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxplace2d_class",
+      "label": "MaterialExpressionMaterialXPlace2D",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXPlace2D Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_class",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXPlace2D Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_plugin",
+      "label": "Interchange Plugin",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXPlace2D Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uv_transform",
+      "label": "UV Transform",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXPlace2D Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformarraytosrt_class",
+      "label": "RigVMFunction_MathTransformArrayToSRT",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathTransformArrayToSRT Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbase_class",
+      "label": "RigVMFunction_MathTransformBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathTransformArrayToSRT Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathTransformArrayToSRT Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_decomposition",
+      "label": "Transform Decomposition",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathTransformArrayToSRT Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceeffectorunboundtype_class",
+      "label": "CEEffectorUnboundType",
+      "file_type": "document",
+      "source_file": "CEEffectorUnboundType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceeffectortypebase_class",
+      "label": "CEEffectorTypeBase",
+      "file_type": "document",
+      "source_file": "CEEffectorUnboundType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clonereffector_plugin",
+      "label": "ClonerEffector Plugin",
+      "file_type": "document",
+      "source_file": "CEEffectorUnboundType Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionmakerelative_class",
+      "label": "RigVMFunction_MathQuaternionMakeRelative",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionMakeRelative Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbase_class",
+      "label": "RigVMFunction_MathQuaternionBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionMakeRelative Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternion_relative_transform",
+      "label": "Quaternion Relative Transform",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionMakeRelative Objects.md",
+      "source_location": "line 8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_identitypose_class",
+      "label": "AnimGraphNode_IdentityPose",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_IdentityPose Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_refposebase_class",
+      "label": "AnimGraphNode_RefPoseBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_IdentityPose Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraph_module",
+      "label": "AnimGraph Module",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_IdentityPose Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_pose",
+      "label": "Animation Pose",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_IdentityPose Objects.md",
+      "source_location": "line 6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "navmeshboundsvolume_class",
+      "target": "volume_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavMeshBoundsVolume Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "navmeshboundsvolume_class",
+      "target": "navigationsystem_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavMeshBoundsVolume Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "platformgameinstance_platformscreenorientationchangeddelegate_class",
+      "target": "multicastdelegatebase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "platformgameinstance_platformscreenorientationchangeddelegate_class",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformGameInstance_PlatformScreenOrientationChangedDelegate Objects.md",
+      "source_location": "line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcopymeshtoassetoptions_class",
+      "target": "structbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcopymeshtoassetoptions_class",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcopymeshtoassetoptions_class",
+      "target": "nanite_settings",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "nanite_settings",
+      "target": "geometryscriptcopymeshtoassetoptions_class",
+      "relation": "configuration_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinequeue_class",
+      "target": "object_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinequeue_class",
+      "target": "movierenderpipeline_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinequeue_class",
+      "target": "moviepipelineexecutorjob_class",
+      "relation": "manages",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 35",
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinequeue_class",
+      "target": "job_queue_management",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineexecutorjob_class",
+      "target": "moviepipelinequeue_class",
+      "relation": "belongs_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MoviePipelineQueue Objects.md",
+      "source_location": "line 35",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multifabrik_endeffector_class",
+      "target": "structbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multifabrik_endeffector_class",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multifabrik_endeffector_class",
+      "target": "fabrik_solver",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multifabrik_endeffector_class",
+      "target": "bone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "fabrik_solver",
+      "target": "bone",
+      "relation": "operates_on",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralookattrackingsettings_class",
+      "target": "structbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralookattrackingsettings_class",
+      "target": "cinematiccamera_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralookattrackingsettings_class",
+      "target": "camera_tracking",
+      "relation": "configures",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "cameralookattrackingsettings_class",
+      "target": "actor_tracking",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "camera_tracking",
+      "target": "actor_tracking",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugrectangleitemspace_class",
+      "target": "rigunit_debugbasemutable_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugRectangleItemSpace Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugrectangleitemspace_class",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugRectangleItemSpace Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugrectangleitemspace_class",
+      "target": "debug_visualization",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_DebugRectangleItemSpace Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxplace2d_class",
+      "target": "materialexpression_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXPlace2D Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxplace2d_class",
+      "target": "interchange_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXPlace2D Objects.md",
+      "source_location": "line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxplace2d_class",
+      "target": "uv_transform",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MaterialExpressionMaterialXPlace2D Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformarraytosrt_class",
+      "target": "rigvmfunction_mathtransformbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformArrayToSRT Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformarraytosrt_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformArrayToSRT Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformarraytosrt_class",
+      "target": "transform_decomposition",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction_MathTransformArrayToSRT Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "ceeffectorunboundtype_class",
+      "target": "ceeffectortypebase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEEffectorUnboundType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "ceeffectorunboundtype_class",
+      "target": "clonereffector_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEEffectorUnboundType Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionmakerelative_class",
+      "target": "rigvmfunction_mathquaternionbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionMakeRelative Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionmakerelative_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionMakeRelative Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionmakerelative_class",
+      "target": "quaternion_relative_transform",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction_MathQuaternionMakeRelative Objects.md",
+      "source_location": "line 8",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_identitypose_class",
+      "target": "animgraphnode_refposebase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_IdentityPose Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_identitypose_class",
+      "target": "animgraph_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_IdentityPose Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_identitypose_class",
+      "target": "animation_pose",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AnimGraphNode_IdentityPose Objects.md",
+      "source_location": "line 6",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrig_plugin",
+      "target": "rigvm_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camera_tracking",
+      "target": "debug_visualization",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CameraLookatTrackingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transform_decomposition",
+      "target": "quaternion_relative_transform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathTransformArrayToSRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multifabrik_endeffector_class",
+      "target": "rigunit_debugrectangleitemspace_class",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_api_classes",
+      "label": "Unreal Engine API Classes",
+      "nodes": [
+        "navmeshboundsvolume_class",
+        "platformgameinstance_platformscreenorientationchangeddelegate_class",
+        "geometryscriptcopymeshtoassetoptions_class",
+        "moviepipelinequeue_class",
+        "rigunit_multifabrik_endeffector_class",
+        "cameralookattrackingsettings_class",
+        "rigunit_debugrectangleitemspace_class",
+        "materialexpressionmaterialxplace2d_class",
+        "rigvmfunction_mathtransformarraytosrt_class",
+        "ceeffectorunboundtype_class",
+        "rigvmfunction_mathquaternionmakerelative_class",
+        "animgraphnode_identitypose_class"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavMeshBoundsVolume Objects.md"
+    },
+    {
+      "id": "structbased_classes",
+      "label": "StructBase Inheritors",
+      "nodes": [
+        "geometryscriptcopymeshtoassetoptions_class",
+        "rigunit_multifabrik_endeffector_class",
+        "cameralookattrackingsettings_class"
+      ],
+      "relation": "inherit_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCopyMeshToAssetOptions Objects.md"
+    },
+    {
+      "id": "rig_related_classes",
+      "label": "Rig-Related System Classes",
+      "nodes": [
+        "rigunit_multifabrik_endeffector_class",
+        "rigunit_debugrectangleitemspace_class",
+        "rigvmfunction_mathtransformarraytosrt_class",
+        "rigvmfunction_mathquaternionmakerelative_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MultiFABRIK_EndEffector Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

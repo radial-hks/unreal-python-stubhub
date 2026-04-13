@@ -1,0 +1,717 @@
+{
+  "nodes": [
+    {
+      "id": "rigdispatch_getanimattribute",
+      "label": "RigDispatch GetAnimAttribute",
+      "file_type": "code",
+      "source_file": "RigDispatch__GetAnimAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_animattributebase",
+      "label": "RigDispatch AnimAttributeBase",
+      "file_type": "code",
+      "source_file": "RigDispatch__GetAnimAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumwebmaptileservicerasteroverlayprojection",
+      "label": "CesiumWebMapTileServiceRasterOverlayProjection",
+      "file_type": "code",
+      "source_file": "CesiumWebMapTileServiceRasterOverlayProjection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorabs",
+      "label": "RigUnit MathVectorAbs",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorabs",
+      "label": "RigVMFunction MathVectorAbs",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask",
+      "label": "AbilityTask",
+      "file_type": "code",
+      "source_file": "AbilityTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytask",
+      "label": "GameplayTask",
+      "file_type": "code",
+      "source_file": "AbilityTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecordermicrophoneaudiosourcesettings",
+      "label": "TakeRecorderMicrophoneAudioSourceSettings",
+      "file_type": "code",
+      "source_file": "TakeRecorderMicrophoneAudioSourceSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecordersource",
+      "label": "TakeRecorderSource",
+      "file_type": "code",
+      "source_file": "TakeRecorderMicrophoneAudioSourceSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanbuildtemplatetexturecomponent",
+      "label": "UrbanBuildTemplateTextureComponent",
+      "file_type": "code",
+      "source_file": "UrbanBuildTemplateTextureComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioanalyzernrtsettings",
+      "label": "AudioAnalyzerNRTSettings",
+      "file_type": "code",
+      "source_file": "AudioAnalyzerNRTSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioanalyzerassetbase",
+      "label": "AudioAnalyzerAssetBase",
+      "file_type": "code",
+      "source_file": "AudioAnalyzerNRTSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphscriptbase",
+      "label": "MovieGraphScriptBase",
+      "file_type": "code",
+      "source_file": "MovieGraphScriptBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendspaceevaluator",
+      "label": "AnimGraphNode BlendSpaceEvaluator",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__BlendSpaceEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendspacebase",
+      "label": "AnimGraphNode BlendSpaceBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__BlendSpaceEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundeffectpresetwidgetinterface",
+      "label": "SoundEffectPresetWidgetInterface",
+      "file_type": "code",
+      "source_file": "SoundEffectPresetWidgetInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiopanelwidgetinterface",
+      "label": "AudioPanelWidgetInterface",
+      "file_type": "code",
+      "source_file": "SoundEffectPresetWidgetInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_bonedrivencontroller",
+      "label": "AnimNode BoneDrivenController",
+      "file_type": "code",
+      "source_file": "AnimNode_BoneDrivenController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_skeletalcontrolbase",
+      "label": "AnimNode SkeletalControlBase",
+      "file_type": "code",
+      "source_file": "AnimNode_BoneDrivenController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionmake",
+      "label": "RigUnit MathQuaternionMake",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionmake",
+      "label": "RigVMFunction MathQuaternionMake",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorbinaryop",
+      "label": "RigUnit MathVectorBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbinaryop",
+      "label": "RigVMFunction MathVectorBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluecoloratlas",
+      "label": "DMMaterialValueColorAtlas",
+      "file_type": "code",
+      "source_file": "DMMaterialValueColorAtlas Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvalue",
+      "label": "DMMaterialValue",
+      "file_type": "code",
+      "source_file": "DMMaterialValueColorAtlas Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "operatorfield",
+      "label": "OperatorField",
+      "file_type": "code",
+      "source_file": "OperatorField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodebase",
+      "label": "FieldNodeBase",
+      "file_type": "code",
+      "source_file": "OperatorField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthplacedirection",
+      "label": "EarthPlaceDirection",
+      "file_type": "code",
+      "source_file": "EarthPlaceDirection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementweight",
+      "label": "RigElementWeight",
+      "file_type": "code",
+      "source_file": "RigElementWeight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getinitialbonetransform",
+      "label": "RigUnit GetInitialBoneTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_GetInitialBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit_GetInitialBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rootmotionmodifierstate",
+      "label": "RootMotionModifierState",
+      "file_type": "code",
+      "source_file": "RootMotionModifierState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aessplinesizecontroltype",
+      "label": "AesSplineSizeControlType",
+      "file_type": "code",
+      "source_file": "AesSplineSizeControlType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamestatebase",
+      "label": "GameStateBase",
+      "file_type": "code",
+      "source_file": "GameStateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "info",
+      "label": "Info",
+      "file_type": "code",
+      "source_file": "GameStateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmateriallibrary",
+      "label": "WdpMaterialLibrary",
+      "file_type": "code",
+      "source_file": "WdpMaterialLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldsubsystem",
+      "label": "WorldSubsystem",
+      "file_type": "code",
+      "source_file": "WdpMaterialLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigdispatch_getanimattribute",
+      "target": "rigdispatch_animattributebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigDispatch__GetAnimAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorabs",
+      "target": "rigvmfunction_mathvectorabs",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask",
+      "target": "gameplaytask",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecordermicrophoneaudiosourcesettings",
+      "target": "takerecordersource",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderMicrophoneAudioSourceSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioanalyzernrtsettings",
+      "target": "audioanalyzerassetbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioAnalyzerNRTSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendspaceevaluator",
+      "target": "animgraphnode_blendspacebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__BlendSpaceEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundeffectpresetwidgetinterface",
+      "target": "audiopanelwidgetinterface",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundEffectPresetWidgetInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_bonedrivencontroller",
+      "target": "animnode_skeletalcontrolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_BoneDrivenController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionmake",
+      "target": "rigvmfunction_mathquaternionmake",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbinaryop",
+      "target": "rigvmfunction_mathvectorbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluecoloratlas",
+      "target": "dmmaterialvalue",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialValueColorAtlas Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "operatorfield",
+      "target": "fieldnodebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OperatorField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getinitialbonetransform",
+      "target": "rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetInitialBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gamestatebase",
+      "target": "info",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameStateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmateriallibrary",
+      "target": "worldsubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpMaterialLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorabs",
+      "target": "rigvmfunction_mathvectorabs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionmake",
+      "target": "rigvmfunction_mathquaternionmake",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbinaryop",
+      "target": "rigvmfunction_mathvectorbinaryop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorabs",
+      "target": "rigunit_mathvectorbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathVectorAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionmake",
+      "target": "rigunit_mathvectorabs",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathQuaternionMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendspaceevaluator",
+      "target": "animnode_bonedrivencontroller",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode__BlendSpaceEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_getanimattribute",
+      "target": "rigunit_getinitialbonetransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigDispatch__GetAnimAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioanalyzernrtsettings",
+      "target": "soundeffectpresetwidgetinterface",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AudioAnalyzerNRTSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluecoloratlas",
+      "target": "urbanbuildtemplatetexturecomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DMMaterialValueColorAtlas Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gamestatebase",
+      "target": "abilitytask",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GameStateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "operatorfield",
+      "target": "rigelementweight",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OperatorField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_math_operations",
+      "label": "Deprecated RigUnit Math Operations",
+      "nodes": [
+        "rigunit_mathvectorabs",
+        "rigunit_mathquaternionmake",
+        "rigunit_mathvectorbinaryop"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorAbs Objects.md"
+    },
+    {
+      "id": "animation_control_system",
+      "label": "Animation Control System",
+      "nodes": [
+        "rigdispatch_getanimattribute",
+        "animnode_bonedrivencontroller",
+        "rigunit_getinitialbonetransform",
+        "animgraphnode_blendspaceevaluator"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigDispatch__GetAnimAttribute Objects.md"
+    },
+    {
+      "id": "material_texture_system",
+      "label": "Material and Texture System",
+      "nodes": [
+        "dmmaterialvaluecoloratlas",
+        "urbanbuildtemplatetexturecomponent",
+        "wdpmateriallibrary"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DMMaterialValueColorAtlas Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

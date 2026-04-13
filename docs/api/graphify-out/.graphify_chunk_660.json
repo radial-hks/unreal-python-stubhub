@@ -1,0 +1,865 @@
+{
+  "nodes": [
+    {
+      "id": "aestilesvisualatom_aestilesvisualatom",
+      "label": "AesTilesVisualAtom",
+      "file_type": "document",
+      "source_file": "AesTilesVisualAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisualatombase_baseclass",
+      "label": "AesTilesVisualAtomBase",
+      "file_type": "document",
+      "source_file": "AesTilesVisualAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_sequenceaggregate_rigunit",
+      "label": "RigUnit_SequenceAggregate",
+      "file_type": "document",
+      "source_file": "RigUnit__SequenceAggregate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_sequence_rigvmfunction",
+      "label": "RigVMFunction_Sequence",
+      "file_type": "document",
+      "source_file": "RigUnit__SequenceAggregate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displaycoordinateparams_params",
+      "label": "DisplayCoordinateParams",
+      "file_type": "document",
+      "source_file": "DisplayCoordinateParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase_baseclass",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "DisplayCoordinateParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vegetationentity_actor",
+      "label": "VegetationEntity",
+      "file_type": "document",
+      "source_file": "VegetationEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstandardactorentity_baseclass",
+      "label": "WdpStandardActorEntity",
+      "file_type": "document",
+      "source_file": "VegetationEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "egltfruntimenormalsgenerationstrategy_enum",
+      "label": "EglTFRuntimeNormalsGenerationStrategy",
+      "file_type": "document",
+      "source_file": "EglTFRuntimeNormalsGenerationStrategy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectlanelocation_struct",
+      "label": "SmartObjectLaneLocation",
+      "file_type": "document",
+      "source_file": "SmartObjectLaneLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmassbooleanparametervalue_param",
+      "label": "LightmassBooleanParameterValue",
+      "file_type": "document",
+      "source_file": "LightmassBooleanParameterValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmassparametervalue_baseclass",
+      "label": "LightmassParameterValue",
+      "file_type": "document",
+      "source_file": "LightmassBooleanParameterValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveremappair_struct",
+      "label": "CurveRemapPair",
+      "file_type": "document",
+      "source_file": "CurveRemapPair Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshinstancevisualizationdesc_struct",
+      "label": "StaticMeshInstanceVisualizationDesc",
+      "file_type": "document",
+      "source_file": "StaticMeshInstanceVisualizationDesc Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionderivedrivenormalz_expr",
+      "label": "MaterialExpressionDeriveNormalZ",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDeriveNormalZ Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_baseclass",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDeriveNormalZ Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorperceptionblueprintinfo_struct",
+      "label": "ActorPerceptionBlueprintInfo",
+      "file_type": "document",
+      "source_file": "ActorPerceptionBlueprintInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusduplicateverticesdataprovider_provider",
+      "label": "OptimusDuplicateVerticesDataProvider",
+      "file_type": "document",
+      "source_file": "OptimusDuplicateVerticesDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computedataprovider_baseclass",
+      "label": "ComputeDataProvider",
+      "file_type": "document",
+      "source_file": "OptimusDuplicateVerticesDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanhoudiniassetfactory_factory",
+      "label": "UrbanHoudiniAssetFactory",
+      "file_type": "document",
+      "source_file": "UrbanHoudiniAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_baseclass",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "UrbanHoudiniAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsplinedata_data",
+      "label": "PCGSplineData",
+      "file_type": "document",
+      "source_file": "PCGSplineData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpolylinedata_baseclass",
+      "label": "PCGPolyLineData",
+      "file_type": "document",
+      "source_file": "PCGSplineData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjsonobjectwrapper_struct",
+      "label": "EarthJsonObjectWrapper",
+      "file_type": "document",
+      "source_file": "EarthJsonObjectWrapper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphmember_member",
+      "label": "MovieGraphMember",
+      "file_type": "document",
+      "source_file": "MovieGraphMember Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphvaluecontainer_baseclass",
+      "label": "MovieGraphValueContainer",
+      "file_type": "document",
+      "source_file": "MovieGraphMember Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintbinaryop_rigunit",
+      "label": "RigUnit_MathIntBinaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbinaryop_baseclass",
+      "label": "RigVMFunction_MathIntBinaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "folliclemaskchannel_enum",
+      "label": "FollicleMaskChannel",
+      "file_type": "document",
+      "source_file": "FollicleMaskChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugtransform_rigunit",
+      "label": "RigUnit_DebugTransform",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbase_baseclass",
+      "label": "RigUnit_DebugBase",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstratatransmittancetomfp_expr",
+      "label": "MaterialExpressionStrataTransmittanceToMFP",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStrataTransmittanceToMFP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratetransmittancetomfp_baseclass",
+      "label": "MaterialExpressionSubstrateTransmittanceToMFP",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStrataTransmittanceToMFP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeeditornode_struct",
+      "label": "StateTreeEditorNode",
+      "file_type": "document",
+      "source_file": "StateTreeEditorNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fctweenblueprintlibrary_library",
+      "label": "FCTweenBlueprintLibrary",
+      "file_type": "document",
+      "source_file": "FCTweenBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_baseclass",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "FCTweenBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_type",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "ActorPerceptionBlueprintInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_type",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skinnedmeshcomponent_type",
+      "label": "SkinnedMeshComponent",
+      "file_type": "document",
+      "source_file": "OptimusDuplicateVerticesDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_plugin",
+      "label": "IKRig Plugin",
+      "file_type": "document",
+      "source_file": "CurveRemapPair Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGSplineData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairstrands_plugin",
+      "label": "HairStrands Plugin",
+      "file_type": "document",
+      "source_file": "FollicleMaskChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformergraph_plugin",
+      "label": "DeformerGraph Plugin",
+      "file_type": "document",
+      "source_file": "OptimusDuplicateVerticesDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetree_plugin",
+      "label": "StateTree Plugin",
+      "file_type": "document",
+      "source_file": "StateTreeEditorNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "aestilesvisualatom_aestilesvisualatom",
+      "target": "aestilesvisualatombase_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesVisualAtom Objects.md",
+      "source_location": "class AesTilesVisualAtom(AesTilesVisualAtomBase)",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_sequenceaggregate_rigunit",
+      "target": "rigvmfunction_sequence_rigvmfunction",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SequenceAggregate Objects.md",
+      "source_location": "class RigUnit_SequenceAggregate(RigVMFunction_Sequence)",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_sequenceaggregate_rigunit",
+      "target": "rigvmfunction_sequence_rigvmfunction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SequenceAggregate Objects.md",
+      "source_location": "deprecated: 'RigUnit_SequenceAggregate' was renamed to 'RigVMFunction_Sequence'",
+      "weight": 1.0
+    },
+    {
+      "source": "displaycoordinateparams_params",
+      "target": "paramsbase_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayCoordinateParams Objects.md",
+      "source_location": "class DisplayCoordinateParams(ParamsBase)",
+      "weight": 1.0
+    },
+    {
+      "source": "vegetationentity_actor",
+      "target": "wdpstandardactorentity_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VegetationEntity Objects.md",
+      "source_location": "class VegetationEntity(WdpStandardActorEntity)",
+      "weight": 1.0
+    },
+    {
+      "source": "egltfruntimenormalsgenerationstrategy_enum",
+      "target": "aestilesvisualatom_aestilesvisualatom",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EglTFRuntimeNormalsGenerationStrategy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightmassbooleanparametervalue_param",
+      "target": "lightmassparametervalue_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightmassBooleanParameterValue Objects.md",
+      "source_location": "class LightmassBooleanParameterValue(LightmassParameterValue)",
+      "weight": 1.0
+    },
+    {
+      "source": "curveremappair_struct",
+      "target": "ikrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveRemapPair Objects.md",
+      "source_location": "Plugin: IKRig",
+      "weight": 1.0
+    },
+    {
+      "source": "staticmeshinstancevisualizationdesc_struct",
+      "target": "vegetationentity_actor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "StaticMeshInstanceVisualizationDesc Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionderivedrivenormalz_expr",
+      "target": "materialexpression_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDeriveNormalZ Objects.md",
+      "source_location": "class MaterialExpressionDeriveNormalZ(MaterialExpression)",
+      "weight": 1.0
+    },
+    {
+      "source": "actorperceptionblueprintinfo_struct",
+      "target": "actor_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorPerceptionBlueprintInfo Objects.md",
+      "source_location": "target (Actor)",
+      "weight": 1.0
+    },
+    {
+      "source": "optimusduplicateverticesdataprovider_provider",
+      "target": "computedataprovider_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusDuplicateVerticesDataProvider Objects.md",
+      "source_location": "class OptimusDuplicateVerticesDataProvider(ComputeDataProvider)",
+      "weight": 1.0
+    },
+    {
+      "source": "optimusduplicateverticesdataprovider_provider",
+      "target": "skinnedmeshcomponent_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusDuplicateVerticesDataProvider Objects.md",
+      "source_location": "skinned_mesh (SkinnedMeshComponent)",
+      "weight": 1.0
+    },
+    {
+      "source": "optimusduplicateverticesdataprovider_provider",
+      "target": "deformergraph_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusDuplicateVerticesDataProvider Objects.md",
+      "source_location": "Plugin: DeformerGraph",
+      "weight": 1.0
+    },
+    {
+      "source": "urbanhoudiniassetfactory_factory",
+      "target": "factory_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanHoudiniAssetFactory Objects.md",
+      "source_location": "class UrbanHoudiniAssetFactory(Factory)",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsplinedata_data",
+      "target": "pcgpolylinedata_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSplineData Objects.md",
+      "source_location": "class PCGSplineData(PCGPolyLineData)",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsplinedata_data",
+      "target": "pcg_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSplineData Objects.md",
+      "source_location": "Plugin: PCG",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphmember_member",
+      "target": "moviegraphvaluecontainer_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphMember Objects.md",
+      "source_location": "class MovieGraphMember(MovieGraphValueContainer)",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintbinaryop_rigunit",
+      "target": "rigvmfunction_mathintbinaryop_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntBinaryOp Objects.md",
+      "source_location": "class RigUnit_MathIntBinaryOp(RigVMFunction_MathIntBinaryOp)",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintbinaryop_rigunit",
+      "target": "rigvmfunction_mathintbinaryop_baseclass",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntBinaryOp Objects.md",
+      "source_location": "deprecated: 'RigUnit_MathIntBinaryOp' was renamed to 'RigVMFunction_MathIntBinaryOp'",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintbinaryop_rigunit",
+      "target": "rigunit_sequenceaggregate_rigunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "folliclemaskchannel_enum",
+      "target": "hairstrands_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FollicleMaskChannel Objects.md",
+      "source_location": "Plugin: HairStrands",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransform_rigunit",
+      "target": "rigunit_debugbase_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransform Objects.md",
+      "source_location": "class RigUnit_DebugTransform(RigUnit_DebugBase)",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransform_rigunit",
+      "target": "transform_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransform Objects.md",
+      "source_location": "transform (Transform)",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransform_rigunit",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransform Objects.md",
+      "source_location": "Plugin: ControlRig",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransform_rigunit",
+      "target": "rigunit_mathintbinaryop_rigunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__DebugTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstratatransmittancetomfp_expr",
+      "target": "materialexpressionsubstratetransmittancetomfp_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStrataTransmittanceToMFP Objects.md",
+      "source_location": "class MaterialExpressionStrataTransmittanceToMFP(MaterialExpressionSubstrateTransmittanceToMFP)",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstratatransmittancetomfp_expr",
+      "target": "materialexpressionsubstratetransmittancetomfp_baseclass",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStrataTransmittanceToMFP Objects.md",
+      "source_location": "deprecated: 'MaterialExpressionStrataTransmittanceToMFP' was renamed to 'MaterialExpressionSubstrateTransmittanceToMFP'",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstratatransmittancetomfp_expr",
+      "target": "materialexpressionderivedrivenormalz_expr",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionStrataTransmittanceToMFP Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreeeditornode_struct",
+      "target": "statetree_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeEditorNode Objects.md",
+      "source_location": "Plugin: StateTree",
+      "weight": 1.0
+    },
+    {
+      "source": "fctweenblueprintlibrary_library",
+      "target": "blueprintfunctionlibrary_baseclass",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FCTweenBlueprintLibrary Objects.md",
+      "source_location": "class FCTweenBlueprintLibrary(BlueprintFunctionLibrary)",
+      "weight": 1.0
+    },
+    {
+      "source": "curveremappair_struct",
+      "target": "staticmeshinstancevisualizationdesc_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CurveRemapPair Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_classes_pattern",
+      "label": "Deprecated Classes Renamed Pattern",
+      "nodes": [
+        "rigunit_sequenceaggregate_rigunit",
+        "rigunit_mathintbinaryop_rigunit",
+        "materialexpressionstratatransmittancetomfp_expr"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "rig_unit_hierarchy",
+      "label": "ControlRig Unit System",
+      "nodes": [
+        "rigunit_sequenceaggregate_rigunit",
+        "rigunit_mathintbinaryop_rigunit",
+        "rigunit_debugtransform_rigunit",
+        "controlrig_plugin"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple RigUnit files"
+    },
+    {
+      "id": "material_expression_hierarchy",
+      "label": "Material Expression System",
+      "nodes": [
+        "materialexpressionderivedrivenormalz_expr",
+        "materialexpressionstratatransmittancetomfp_expr",
+        "materialexpression_baseclass"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Multiple MaterialExpression files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

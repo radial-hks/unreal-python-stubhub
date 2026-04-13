@@ -1,0 +1,432 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_SetRelativeTranslationForItem",
+      "type": "class",
+      "label": "RigUnit_SetRelativeTranslationForItem",
+      "description": "SetRelativeTranslation is used to set a single translation from a hierarchy in the space of another item",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_SetRelativeTransform.h"
+      },
+      "properties": {
+        "parent_class": "RigUnitMutable"
+      }
+    },
+    {
+      "id": "ChaosNotifyHandlerInterface",
+      "type": "interface",
+      "label": "ChaosNotifyHandlerInterface",
+      "description": "Chaos Notify Handler Interface",
+      "source": {
+        "module": "ChaosSolverEngine",
+        "file": "ChaosNotifyHandlerInterface.h"
+      },
+      "properties": {
+        "parent_class": "Interface"
+      }
+    },
+    {
+      "id": "FieldVectorType",
+      "type": "enum",
+      "label": "FieldVectorType",
+      "description": "TODO : Refactor these 3 enums to be in sync with the GetFieldTargetTypes",
+      "source": {
+        "module": "Chaos",
+        "file": "FieldSystemTypes.h"
+      },
+      "properties": {
+        "parent_class": "EnumBase"
+      },
+      "enum_values": [
+        {"name": "VECTOR_LINEAR_FORCE", "value": 0, "description": "Add a vector field to the particles linear force."},
+        {"name": "VECTOR_LINEAR_VELOCITY", "value": 1, "description": "Add a vector field to the particles linear velocity."},
+        {"name": "VECTOR_ANGULAR_VELOCITY", "value": 2, "description": "Add a vector field to the particles angular velocity."},
+        {"name": "VECTOR_ANGULAR_TORQUE", "value": 3, "description": "Add a vector field to the particles angular torque."}
+      ]
+    },
+    {
+      "id": "DeviceTriggerTriggerResistanceData",
+      "type": "struct",
+      "label": "DeviceTriggerTriggerResistanceData",
+      "description": "UInputDeviceTriggerResistanceProperty",
+      "source": {
+        "module": "Engine",
+        "file": "InputDeviceProperties.h"
+      },
+      "properties": {
+        "parent_class": "StructBase"
+      }
+    },
+    {
+      "id": "DMMaterialStageExpressionArctangent2Fast",
+      "type": "class",
+      "label": "DMMaterialStageExpressionArctangent2Fast",
+      "description": "DMMaterial Stage Expression Arctangent 2Fast",
+      "source": {
+        "plugin": "DynamicMaterial",
+        "module": "DynamicMaterialEditor",
+        "file": "DMMSEArctangent2Fast.h"
+      },
+      "properties": {
+        "parent_class": "DMMaterialStageExpressionMathBase"
+      }
+    },
+    {
+      "id": "AesFacadeAssetActor",
+      "type": "class",
+      "label": "AesFacadeAssetActor",
+      "description": "立面资产创作工具",
+      "source": {
+        "plugin": "AesWorld",
+        "module": "AesAsset",
+        "file": "AesFacadeAssetActor.h"
+      },
+      "properties": {
+        "parent_class": "AesAssetActorBase"
+      }
+    },
+    {
+      "id": "PCGVolumeData",
+      "type": "class",
+      "label": "PCGVolumeData",
+      "description": "PCGVolume Data",
+      "source": {
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGVolumeData.h"
+      },
+      "properties": {
+        "parent_class": "PCGSpatialDataWithPointCache"
+      }
+    },
+    {
+      "id": "CEClonerSplineLayout",
+      "type": "class",
+      "label": "CEClonerSplineLayout",
+      "description": "CECloner Spline Layout",
+      "source": {
+        "plugin": "ClonerEffector",
+        "module": "ClonerEffector",
+        "file": "CEClonerSplineLayout.h"
+      },
+      "properties": {
+        "parent_class": "CEClonerLayoutBase"
+      }
+    },
+    {
+      "id": "LaunchExternalExeLib",
+      "type": "class",
+      "label": "LaunchExternalExeLib",
+      "description": "Launch External Exe Lib",
+      "source": {
+        "plugin": "VFVideoPlayer",
+        "module": "VFVideoPlayer",
+        "file": "LaunchExternalExeLib.h"
+      },
+      "properties": {
+        "parent_class": "BlueprintFunctionLibrary"
+      }
+    },
+    {
+      "id": "InterchangeAnimationTrackBaseNode",
+      "type": "class",
+      "label": "InterchangeAnimationTrackBaseNode",
+      "description": "Abstract class providing the minimal services required for an animation track node.",
+      "source": {
+        "plugin": "Interchange",
+        "module": "InterchangeNodes",
+        "file": "InterchangeAnimationTrackSetNode.h"
+      },
+      "properties": {
+        "parent_class": "InterchangeBaseNode"
+      }
+    },
+    {
+      "id": "RBFQuatDistanceType",
+      "type": "enum",
+      "label": "RBFQuatDistanceType",
+      "description": "Function to use for computing distance between the input and target quaternions.",
+      "source": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathRBFInterpolate.h"
+      },
+      "properties": {
+        "parent_class": "EnumBase"
+      },
+      "enum_values": [
+        {"name": "EUCLIDEAN", "value": 0},
+        {"name": "ARC_LENGTH", "value": 1},
+        {"name": "SWING_ANGLE", "value": 2},
+        {"name": "TWIST_ANGLE", "value": 3}
+      ]
+    },
+    {
+      "id": "BranchingPointNotifyPayload",
+      "type": "struct",
+      "label": "BranchingPointNotifyPayload",
+      "description": "Branching Point Notify Payload",
+      "source": {
+        "module": "Engine",
+        "file": "AnimNotify.h"
+      },
+      "properties": {
+        "parent_class": "StructBase"
+      }
+    },
+    {
+      "id": "CesiumMetadataPickingBlueprintLibrary",
+      "type": "class",
+      "label": "CesiumMetadataPickingBlueprintLibrary",
+      "description": "Cesium Metadata Picking Blueprint Library",
+      "source": {
+        "plugin": "CesiumForUnreal",
+        "module": "CesiumRuntime",
+        "file": "CesiumMetadataPickingBlueprintLibrary.h"
+      },
+      "properties": {
+        "parent_class": "BlueprintFunctionLibrary"
+      }
+    },
+    {
+      "id": "FSmartObjectSlotEntrySelectionMethod",
+      "type": "enum",
+      "label": "FSmartObjectSlotEntrySelectionMethod",
+      "description": "Defines method for selecting slot entry from multiple candidates.",
+      "source": {
+        "plugin": "SmartObjects",
+        "module": "SmartObjectsModule",
+        "file": "SmartObjectSubsystem.h"
+      },
+      "properties": {
+        "parent_class": "EnumBase"
+      },
+      "enum_values": [
+        {"name": "FIRST", "value": 0, "description": "Return first entry location (in order defined in the slot definition)."},
+        {"name": "NEAREST_TO_SEARCH_LOCATION", "value": 1, "description": "Return nearest entry to specified search location."}
+      ]
+    },
+    {
+      "id": "LensDistortionModelHandlerBase",
+      "type": "class",
+      "label": "LensDistortionModelHandlerBase",
+      "description": "Asset user data that can be used on Camera Actors to manage lens distortion state and utilities",
+      "source": {
+        "plugin": "CameraCalibrationCore",
+        "module": "CameraCalibrationCore",
+        "file": "LensDistortionModelHandlerBase.h"
+      },
+      "properties": {
+        "parent_class": "Object"
+      }
+    },
+    {
+      "id": "LODActor",
+      "type": "class",
+      "label": "LODActor",
+      "description": "LODActor is an instance of an autogenerated StaticMesh Actors by Hierarchical LOD System",
+      "source": {
+        "module": "Engine",
+        "file": "LODActor.h"
+      },
+      "properties": {
+        "parent_class": "Actor"
+      }
+    },
+    {
+      "id": "SlateRHIRendererSettings",
+      "type": "class",
+      "label": "SlateRHIRendererSettings",
+      "description": "Settings used to control slate rendering",
+      "source": {
+        "module": "SlateRHIRenderer",
+        "file": "SlateRHIRendererSettings.h"
+      },
+      "properties": {
+        "parent_class": "DeveloperSettings"
+      }
+    },
+    {
+      "id": "NavFilter_AIControllerDefault",
+      "type": "class",
+      "label": "NavFilter_AIControllerDefault",
+      "description": "Nav Filter AIController Default",
+      "source": {
+        "module": "AIModule",
+        "file": "NavFilter_AIControllerDefault.h"
+      },
+      "properties": {
+        "parent_class": "NavigationQueryFilter"
+      }
+    },
+    {
+      "id": "MovieGraphDebugSettingNode",
+      "type": "class",
+      "label": "MovieGraphDebugSettingNode",
+      "description": "A node which configures various debug settings that may be useful when debugging an issue.",
+      "source": {
+        "plugin": "MovieRenderPipeline",
+        "module": "MovieRenderPipelineCore",
+        "file": "MovieGraphDebugNode.h"
+      },
+      "properties": {
+        "parent_class": "MovieGraphSettingNode"
+      }
+    },
+    {
+      "id": "AITask_LockLogic",
+      "type": "class",
+      "label": "AITask_LockLogic",
+      "description": "Locks AI logic until removed by external trigger",
+      "source": {
+        "module": "AIModule",
+        "file": "AITask_LockLogic.h"
+      },
+      "properties": {
+        "parent_class": "AITask"
+      }
+    },
+    {
+      "id": "VectorFieldVolume",
+      "type": "class",
+      "label": "VectorFieldVolume",
+      "description": "Vector Field Volume",
+      "source": {
+        "module": "Engine",
+        "file": "VectorFieldVolume.h"
+      },
+      "properties": {
+        "parent_class": "Actor"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionMakeAbsolute",
+      "type": "class",
+      "label": "RigVMFunction_MathQuaternionMakeAbsolute",
+      "description": "Returns the absolute global transform within a parent's transform",
+      "source": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathQuaternion.h"
+      },
+      "properties": {
+        "parent_class": "RigVMFunction_MathQuaternionBase"
+      }
+    }
+  ],
+  "edges": [
+    {"source": "RigUnit_SetRelativeTranslationForItem", "target": "RigUnitMutable", "type": "inherits", "label": "inherits from"},
+    {"source": "ChaosNotifyHandlerInterface", "target": "Interface", "type": "inherits", "label": "inherits from"},
+    {"source": "FieldVectorType", "target": "EnumBase", "type": "inherits", "label": "inherits from"},
+    {"source": "DeviceTriggerTriggerResistanceData", "target": "StructBase", "type": "inherits", "label": "inherits from"},
+    {"source": "DMMaterialStageExpressionArctangent2Fast", "target": "DMMaterialStageExpressionMathBase", "type": "inherits", "label": "inherits from"},
+    {"source": "AesFacadeAssetActor", "target": "AesAssetActorBase", "type": "inherits", "label": "inherits from"},
+    {"source": "PCGVolumeData", "target": "PCGSpatialDataWithPointCache", "type": "inherits", "label": "inherits from"},
+    {"source": "CEClonerSplineLayout", "target": "CEClonerLayoutBase", "type": "inherits", "label": "inherits from"},
+    {"source": "LaunchExternalExeLib", "target": "BlueprintFunctionLibrary", "type": "inherits", "label": "inherits from"},
+    {"source": "InterchangeAnimationTrackBaseNode", "target": "InterchangeBaseNode", "type": "inherits", "label": "inherits from"},
+    {"source": "RBFQuatDistanceType", "target": "EnumBase", "type": "inherits", "label": "inherits from"},
+    {"source": "BranchingPointNotifyPayload", "target": "StructBase", "type": "inherits", "label": "inherits from"},
+    {"source": "CesiumMetadataPickingBlueprintLibrary", "target": "BlueprintFunctionLibrary", "type": "inherits", "label": "inherits from"},
+    {"source": "FSmartObjectSlotEntrySelectionMethod", "target": "EnumBase", "type": "inherits", "label": "inherits from"},
+    {"source": "LensDistortionModelHandlerBase", "target": "Object", "type": "inherits", "label": "inherits from"},
+    {"source": "LODActor", "target": "Actor", "type": "inherits", "label": "inherits from"},
+    {"source": "SlateRHIRendererSettings", "target": "DeveloperSettings", "type": "inherits", "label": "inherits from"},
+    {"source": "NavFilter_AIControllerDefault", "target": "NavigationQueryFilter", "type": "inherits", "label": "inherits from"},
+    {"source": "MovieGraphDebugSettingNode", "target": "MovieGraphSettingNode", "type": "inherits", "label": "inherits from"},
+    {"source": "AITask_LockLogic", "target": "AITask", "type": "inherits", "label": "inherits from"},
+    {"source": "VectorFieldVolume", "target": "Actor", "type": "inherits", "label": "inherits from"},
+    {"source": "RigVMFunction_MathQuaternionMakeAbsolute", "target": "RigVMFunction_MathQuaternionBase", "type": "inherits", "label": "inherits from"},
+    {"source": "RigUnit_SetRelativeTranslationForItem", "target": "ControlRig", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "DMMaterialStageExpressionArctangent2Fast", "target": "DynamicMaterial", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "AesFacadeAssetActor", "target": "AesWorld", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "PCGVolumeData", "target": "PCG", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "CEClonerSplineLayout", "target": "ClonerEffector", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "LaunchExternalExeLib", "target": "VFVideoPlayer", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "InterchangeAnimationTrackBaseNode", "target": "Interchange", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "RBFQuatDistanceType", "target": "RigVM", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "CesiumMetadataPickingBlueprintLibrary", "target": "CesiumForUnreal", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "FSmartObjectSlotEntrySelectionMethod", "target": "SmartObjects", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "LensDistortionModelHandlerBase", "target": "CameraCalibrationCore", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "MovieGraphDebugSettingNode", "target": "MovieRenderPipeline", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "RigVMFunction_MathQuaternionMakeAbsolute", "target": "RigVM", "type": "plugin", "label": "belongs to plugin"},
+    {"source": "RigUnit_SetRelativeTranslationForItem", "target": "RigElementKey", "type": "property_type", "label": "has property of type"},
+    {"source": "RigUnit_SetRelativeTranslationForItem", "target": "Vector", "type": "property_type", "label": "has property of type"},
+    {"source": "RigUnit_SetRelativeTranslationForItem", "target": "ControlRigExecuteContext", "type": "property_type", "label": "has property of type"},
+    {"source": "PCGVolumeData", "target": "Vector", "type": "property_type", "label": "has property of type"},
+    {"source": "PCGVolumeData", "target": "Volume", "type": "property_type", "label": "has property of type"},
+    {"source": "CEClonerSplineLayout", "target": "Actor", "type": "property_type", "label": "has property of type"},
+    {"source": "LaunchExternalExeLib", "target": "bool", "type": "return_type", "label": "returns"},
+    {"source": "CesiumMetadataPickingBlueprintLibrary", "target": "Map", "type": "return_type", "label": "returns"},
+    {"source": "CesiumMetadataPickingBlueprintLibrary", "target": "Vector2D", "type": "return_type", "label": "returns"},
+    {"source": "LensDistortionModelHandlerBase", "target": "TextureRenderTarget2D", "type": "return_type", "label": "returns"},
+    {"source": "LensDistortionModelHandlerBase", "target": "LensDistortionState", "type": "property_type", "label": "has property of type"},
+    {"source": "LODActor", "target": "HLODProxy", "type": "property_type", "label": "has property of type"},
+    {"source": "VectorFieldVolume", "target": "VectorFieldComponent", "type": "property_type", "label": "has property of type"},
+    {"source": "RigVMFunction_MathQuaternionMakeAbsolute", "target": "Quat", "type": "property_type", "label": "has property of type"}
+  ],
+  "hyperedges": [
+    {
+      "id": "he_actors",
+      "label": "Actor Classes",
+      "description": "Classes that inherit from Actor",
+      "nodes": ["LODActor", "VectorFieldVolume", "AesFacadeAssetActor"]
+    },
+    {
+      "id": "he_enums",
+      "label": "Enum Types",
+      "description": "Enumeration types inheriting from EnumBase",
+      "nodes": ["FieldVectorType", "RBFQuatDistanceType", "FSmartObjectSlotEntrySelectionMethod"]
+    },
+    {
+      "id": "he_structs",
+      "label": "Struct Types",
+      "description": "Struct types inheriting from StructBase",
+      "nodes": ["DeviceTriggerTriggerResistanceData", "BranchingPointNotifyPayload"]
+    },
+    {
+      "id": "he_blueprint_libraries",
+      "label": "Blueprint Function Libraries",
+      "description": "Classes inheriting from BlueprintFunctionLibrary",
+      "nodes": ["LaunchExternalExeLib", "CesiumMetadataPickingBlueprintLibrary"]
+    },
+    {
+      "id": "he_rigvm",
+      "label": "RigVM Classes",
+      "description": "Classes from the RigVM plugin",
+      "nodes": ["RBFQuatDistanceType", "RigVMFunction_MathQuaternionMakeAbsolute"]
+    },
+    {
+      "id": "he_controlrig",
+      "label": "ControlRig Classes",
+      "description": "Classes from the ControlRig plugin",
+      "nodes": ["RigUnit_SetRelativeTranslationForItem"]
+    },
+    {
+      "id": "he_engine_module",
+      "label": "Engine Module Classes",
+      "description": "Classes from the Engine module",
+      "nodes": ["DeviceTriggerTriggerResistanceData", "BranchingPointNotifyPayload", "LODActor", "VectorFieldVolume"]
+    },
+    {
+      "id": "he_ai_module",
+      "label": "AIModule Classes",
+      "description": "Classes from the AIModule",
+      "nodes": ["NavFilter_AIControllerDefault", "AITask_LockLogic"]
+    },
+    {
+      "id": "he_vector_properties",
+      "label": "Classes with Vector Properties",
+      "description": "Classes that have Vector type properties",
+      "nodes": ["RigUnit_SetRelativeTranslationForItem", "PCGVolumeData"]
+    },
+    {
+      "id": "he_quaternion_classes",
+      "label": "Quaternion-related Classes",
+      "description": "Classes dealing with quaternion mathematics",
+      "nodes": ["RBFQuatDistanceType", "RigVMFunction_MathQuaternionMakeAbsolute"]
+    }
+  ]
+}

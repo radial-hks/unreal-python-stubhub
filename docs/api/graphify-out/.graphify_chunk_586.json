@@ -1,0 +1,1610 @@
+{
+  "nodes": [
+    {
+      "id": "WebBrowser51_OnClicked",
+      "type": "class",
+      "label": "WebBrowser51_OnClicked",
+      "description": "On Clicked Delegate Signature"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "WebBrowser51_module",
+      "type": "module",
+      "label": "WebBrowser51"
+    },
+    {
+      "id": "WebUI51World_plugin",
+      "type": "plugin",
+      "label": "WebUI51World"
+    },
+    {
+      "id": "AsyncActionHandleSaveGame",
+      "type": "class",
+      "label": "AsyncActionHandleSaveGame",
+      "description": "Async action to handle async load/save of a USaveGame"
+    },
+    {
+      "id": "BlueprintAsyncActionBase",
+      "type": "class",
+      "label": "BlueprintAsyncActionBase"
+    },
+    {
+      "id": "Engine_module",
+      "type": "module",
+      "label": "Engine"
+    },
+    {
+      "id": "OnAsyncHandleSaveGame",
+      "type": "type",
+      "label": "OnAsyncHandleSaveGame"
+    },
+    {
+      "id": "completed_property",
+      "type": "property",
+      "label": "completed"
+    },
+    {
+      "id": "RigUnit_FindItemsWithMetadataTag",
+      "type": "class",
+      "label": "RigUnit_FindItemsWithMetadataTag",
+      "description": "Returns all items with a specific tag"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit"
+    },
+    {
+      "id": "ControlRig_module",
+      "type": "module",
+      "label": "ControlRig"
+    },
+    {
+      "id": "ControlRig_plugin",
+      "type": "plugin",
+      "label": "ControlRig"
+    },
+    {
+      "id": "items_property",
+      "type": "property",
+      "label": "items"
+    },
+    {
+      "id": "name_space_property",
+      "type": "property",
+      "label": "name_space"
+    },
+    {
+      "id": "tag_property",
+      "type": "property",
+      "label": "tag"
+    },
+    {
+      "id": "Array_RigElementKey",
+      "type": "type",
+      "label": "Array[RigElementKey]"
+    },
+    {
+      "id": "RigMetaDataNameSpace",
+      "type": "type",
+      "label": "RigMetaDataNameSpace"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "UrbanWorldMergedPreviewComponent",
+      "type": "class",
+      "label": "UrbanWorldMergedPreviewComponent",
+      "description": "Urban World Merged Preview Component"
+    },
+    {
+      "id": "UrbanWorldPreviewComponent",
+      "type": "class",
+      "label": "UrbanWorldPreviewComponent"
+    },
+    {
+      "id": "UrbanWorldBuilder_module",
+      "type": "module",
+      "label": "UrbanWorldBuilder"
+    },
+    {
+      "id": "AesBuilderCommon_plugin",
+      "type": "plugin",
+      "label": "AesBuilderCommon"
+    },
+    {
+      "id": "RigUnit_AccumulateVectorLerp",
+      "type": "class",
+      "label": "RigUnit_AccumulateVectorLerp",
+      "deprecated": true
+    },
+    {
+      "id": "RigVMFunction_AccumulateVectorLerp",
+      "type": "class",
+      "label": "RigVMFunction_AccumulateVectorLerp"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleIsNearlyZero",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleIsNearlyZero",
+      "description": "Returns true if the value is nearly zero"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleBase",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleBase"
+    },
+    {
+      "id": "RigVM_module",
+      "type": "module",
+      "label": "RigVM"
+    },
+    {
+      "id": "RigVM_plugin",
+      "type": "plugin",
+      "label": "RigVM"
+    },
+    {
+      "id": "result_property_bool",
+      "type": "property",
+      "label": "result"
+    },
+    {
+      "id": "tolerance_property",
+      "type": "property",
+      "label": "tolerance"
+    },
+    {
+      "id": "value_property_double",
+      "type": "property",
+      "label": "value"
+    },
+    {
+      "id": "double",
+      "type": "type",
+      "label": "double"
+    },
+    {
+      "id": "bool",
+      "type": "type",
+      "label": "bool"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleSub",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleSub",
+      "description": "Returns the difference of the two values"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleBinaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleBinaryOp"
+    },
+    {
+      "id": "a_property",
+      "type": "property",
+      "label": "a"
+    },
+    {
+      "id": "b_property",
+      "type": "property",
+      "label": "b"
+    },
+    {
+      "id": "result_property_double",
+      "type": "property",
+      "label": "result"
+    },
+    {
+      "id": "CameraShakeStopParams",
+      "type": "class",
+      "label": "CameraShakeStopParams",
+      "deprecated": true
+    },
+    {
+      "id": "CameraShakePatternStopParams",
+      "type": "class",
+      "label": "CameraShakePatternStopParams"
+    },
+    {
+      "id": "TimeSectionDefine",
+      "type": "struct",
+      "label": "TimeSectionDefine",
+      "description": "时间段对应起止时间定义"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "WdpEnvironment_module",
+      "type": "module",
+      "label": "WdpEnvironment"
+    },
+    {
+      "id": "WdpEnvironment_plugin",
+      "type": "plugin",
+      "label": "WdpEnvironment"
+    },
+    {
+      "id": "start_time_property",
+      "type": "property",
+      "label": "start_time"
+    },
+    {
+      "id": "end_time_property",
+      "type": "property",
+      "label": "end_time"
+    },
+    {
+      "id": "actual_used_time_property",
+      "type": "property",
+      "label": "actual_used_time"
+    },
+    {
+      "id": "DateTime",
+      "type": "type",
+      "label": "DateTime"
+    },
+    {
+      "id": "HierarchicalSimplification",
+      "type": "struct",
+      "label": "HierarchicalSimplification",
+      "description": "Hierarchical Simplification"
+    },
+    {
+      "id": "PropertyAnimatorOscillateFunction",
+      "type": "enum",
+      "label": "PropertyAnimatorOscillateFunction",
+      "description": "EProperty Animator Oscillate Function"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "PropertyAnimator_module",
+      "type": "module",
+      "label": "PropertyAnimator"
+    },
+    {
+      "id": "PropertyAnimator_plugin",
+      "type": "plugin",
+      "label": "PropertyAnimator"
+    },
+    {
+      "id": "SINE",
+      "type": "enum_value",
+      "label": "SINE",
+      "value": 0
+    },
+    {
+      "id": "COSINE",
+      "type": "enum_value",
+      "label": "COSINE",
+      "value": 1
+    },
+    {
+      "id": "SQUARE",
+      "type": "enum_value",
+      "label": "SQUARE",
+      "value": 2
+    },
+    {
+      "id": "INVERTED_SQUARE",
+      "type": "enum_value",
+      "label": "INVERTED_SQUARE",
+      "value": 3
+    },
+    {
+      "id": "SAWTOOTH",
+      "type": "enum_value",
+      "label": "SAWTOOTH",
+      "value": 4
+    },
+    {
+      "id": "TRIANGLE",
+      "type": "enum_value",
+      "label": "TRIANGLE",
+      "value": 5
+    },
+    {
+      "id": "InputTriggerReleased",
+      "type": "class",
+      "label": "InputTriggerReleased",
+      "description": "Trigger returns Ongoing whilst input exceeds the actuation threshold. Trigger fires once only when input drops back below actuation threshold."
+    },
+    {
+      "id": "InputTrigger",
+      "type": "class",
+      "label": "InputTrigger"
+    },
+    {
+      "id": "EnhancedInput_module",
+      "type": "module",
+      "label": "EnhancedInput"
+    },
+    {
+      "id": "EnhancedInput_plugin",
+      "type": "plugin",
+      "label": "EnhancedInput"
+    },
+    {
+      "id": "actuation_threshold_property",
+      "type": "property",
+      "label": "actuation_threshold"
+    },
+    {
+      "id": "last_value_property",
+      "type": "property",
+      "label": "last_value"
+    },
+    {
+      "id": "should_always_tick_property",
+      "type": "property",
+      "label": "should_always_tick"
+    },
+    {
+      "id": "float",
+      "type": "type",
+      "label": "float"
+    },
+    {
+      "id": "InputActionValue",
+      "type": "type",
+      "label": "InputActionValue"
+    },
+    {
+      "id": "CreatePoisParams",
+      "type": "struct",
+      "label": "CreatePoisParams",
+      "description": "Create Pois Params"
+    },
+    {
+      "id": "CoveringAPIDefine_module",
+      "type": "module",
+      "label": "CoveringAPIDefine"
+    },
+    {
+      "id": "CoveringAPI_plugin",
+      "type": "plugin",
+      "label": "CoveringAPI"
+    },
+    {
+      "id": "point_entity_eid_property",
+      "type": "property",
+      "label": "point_entity_eid"
+    },
+    {
+      "id": "poi_style_property",
+      "type": "property",
+      "label": "poi_style"
+    },
+    {
+      "id": "coord_z_ref_property",
+      "type": "property",
+      "label": "coord_z_ref"
+    },
+    {
+      "id": "str",
+      "type": "type",
+      "label": "str"
+    },
+    {
+      "id": "poiStyle",
+      "type": "type",
+      "label": "poiStyle"
+    },
+    {
+      "id": "int32",
+      "type": "type",
+      "label": "int32"
+    },
+    {
+      "id": "SequencerBoundObjects",
+      "type": "struct",
+      "label": "SequencerBoundObjects",
+      "description": "Sequencer Bound Objects"
+    },
+    {
+      "id": "SequencerScriptingEditor_module",
+      "type": "module",
+      "label": "SequencerScriptingEditor"
+    },
+    {
+      "id": "SequencerScripting_plugin",
+      "type": "plugin",
+      "label": "SequencerScripting"
+    },
+    {
+      "id": "binding_proxy_property",
+      "type": "property",
+      "label": "binding_proxy"
+    },
+    {
+      "id": "bound_objects_property",
+      "type": "property",
+      "label": "bound_objects"
+    },
+    {
+      "id": "MovieSceneBindingProxy",
+      "type": "type",
+      "label": "MovieSceneBindingProxy"
+    },
+    {
+      "id": "Array_Object",
+      "type": "type",
+      "label": "Array[Object]"
+    },
+    {
+      "id": "RigUnit_MathIntUnaryOp",
+      "type": "class",
+      "label": "RigUnit_MathIntUnaryOp",
+      "deprecated": true
+    },
+    {
+      "id": "RigVMFunction_MathIntUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathIntUnaryOp"
+    },
+    {
+      "id": "RigUnit_SphereTraceByTraceChannel",
+      "type": "class",
+      "label": "RigUnit_SphereTraceByTraceChannel",
+      "description": "Sweeps a sphere against the world and return the first blocking hit using a specific channel"
+    },
+    {
+      "id": "start_property_vector",
+      "type": "property",
+      "label": "start"
+    },
+    {
+      "id": "end_property_vector",
+      "type": "property",
+      "label": "end"
+    },
+    {
+      "id": "trace_channel_property",
+      "type": "property",
+      "label": "trace_channel"
+    },
+    {
+      "id": "radius_property",
+      "type": "property",
+      "label": "radius"
+    },
+    {
+      "id": "hit_property",
+      "type": "property",
+      "label": "hit"
+    },
+    {
+      "id": "hit_location_property",
+      "type": "property",
+      "label": "hit_location"
+    },
+    {
+      "id": "hit_normal_property",
+      "type": "property",
+      "label": "hit_normal"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "TraceTypeQuery",
+      "type": "type",
+      "label": "TraceTypeQuery"
+    },
+    {
+      "id": "AnimGraphNode_CustomProperty",
+      "type": "class",
+      "label": "AnimGraphNode_CustomProperty",
+      "description": "Anim Graph Node Custom Property"
+    },
+    {
+      "id": "AnimGraphNode_Base",
+      "type": "class",
+      "label": "AnimGraphNode_Base"
+    },
+    {
+      "id": "AnimGraph_module",
+      "type": "module",
+      "label": "AnimGraph"
+    },
+    {
+      "id": "become_relevant_function_property",
+      "type": "property",
+      "label": "become_relevant_function"
+    },
+    {
+      "id": "binding_property",
+      "type": "property",
+      "label": "binding"
+    },
+    {
+      "id": "initial_update_function_property",
+      "type": "property",
+      "label": "initial_update_function"
+    },
+    {
+      "id": "show_pin_for_properties_property",
+      "type": "property",
+      "label": "show_pin_for_properties"
+    },
+    {
+      "id": "tag_property_name",
+      "type": "property",
+      "label": "tag"
+    },
+    {
+      "id": "update_function_property",
+      "type": "property",
+      "label": "update_function"
+    },
+    {
+      "id": "MemberReference",
+      "type": "type",
+      "label": "MemberReference"
+    },
+    {
+      "id": "AnimGraphNodeBinding",
+      "type": "type",
+      "label": "AnimGraphNodeBinding"
+    },
+    {
+      "id": "Array_OptionalPinFromProperty",
+      "type": "type",
+      "label": "Array[OptionalPinFromProperty]"
+    },
+    {
+      "id": "RigUnit_TimeOffsetVector",
+      "type": "class",
+      "label": "RigUnit_TimeOffsetVector",
+      "deprecated": true
+    },
+    {
+      "id": "RigVMFunction_TimeOffsetVector",
+      "type": "class",
+      "label": "RigVMFunction_TimeOffsetVector"
+    },
+    {
+      "id": "AbilityTask_WaitConfirm",
+      "type": "class",
+      "label": "AbilityTask_WaitConfirm",
+      "description": "Ability Task Wait Confirm"
+    },
+    {
+      "id": "AbilityTask",
+      "type": "class",
+      "label": "AbilityTask"
+    },
+    {
+      "id": "GameplayAbilities_module",
+      "type": "module",
+      "label": "GameplayAbilities"
+    },
+    {
+      "id": "GameplayAbilities_plugin",
+      "type": "plugin",
+      "label": "GameplayAbilities"
+    },
+    {
+      "id": "on_confirm_property",
+      "type": "property",
+      "label": "on_confirm"
+    },
+    {
+      "id": "GenericGameplayTaskDelegate",
+      "type": "type",
+      "label": "GenericGameplayTaskDelegate"
+    },
+    {
+      "id": "WDPSetCameraPoseParams",
+      "type": "class",
+      "label": "WDPSetCameraPoseParams",
+      "description": "WDPSet Camera Pose Params"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "ApplicationAPI_module",
+      "type": "module",
+      "label": "ApplicationAPI"
+    },
+    {
+      "id": "WdpRuntimeAPI_plugin",
+      "type": "plugin",
+      "label": "WdpRuntimeAPI"
+    },
+    {
+      "id": "location_property",
+      "type": "property",
+      "label": "location"
+    },
+    {
+      "id": "rotation_property",
+      "type": "property",
+      "label": "rotation"
+    },
+    {
+      "id": "fly_time_property",
+      "type": "property",
+      "label": "fly_time"
+    },
+    {
+      "id": "CameraPresetRotator",
+      "type": "type",
+      "label": "CameraPresetRotator"
+    },
+    {
+      "id": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "type": "enum",
+      "label": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "description": "ENDICollision Query Async Gpu Trace Provider"
+    },
+    {
+      "id": "Niagara_module",
+      "type": "module",
+      "label": "Niagara"
+    },
+    {
+      "id": "Niagara_plugin",
+      "type": "plugin",
+      "label": "Niagara"
+    },
+    {
+      "id": "DEFAULT",
+      "type": "enum_value",
+      "label": "DEFAULT",
+      "value": 0
+    },
+    {
+      "id": "HWRT",
+      "type": "enum_value",
+      "label": "HWRT",
+      "value": 1
+    },
+    {
+      "id": "GSDF",
+      "type": "enum_value",
+      "label": "GSDF",
+      "value": 2
+    },
+    {
+      "id": "NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "value": 3
+    },
+    {
+      "id": "VectorRK4SpringInterpolator",
+      "type": "struct",
+      "label": "VectorRK4SpringInterpolator",
+      "description": "Vector RK4Spring Interpolator"
+    },
+    {
+      "id": "dampening_ratio_property",
+      "type": "property",
+      "label": "dampening_ratio"
+    },
+    {
+      "id": "stiffness_constant_property",
+      "type": "property",
+      "label": "stiffness_constant"
+    }
+  ],
+  "edges": [
+    {
+      "source": "WebBrowser51_OnClicked",
+      "target": "MulticastDelegateBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "WebBrowser51_OnClicked",
+      "target": "WebBrowser51_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "WebBrowser51_OnClicked",
+      "target": "WebUI51World_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "AsyncActionHandleSaveGame",
+      "target": "BlueprintAsyncActionBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AsyncActionHandleSaveGame",
+      "target": "Engine_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "AsyncActionHandleSaveGame",
+      "target": "completed_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "completed_property",
+      "target": "OnAsyncHandleSaveGame",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "RigUnit_FindItemsWithMetadataTag",
+      "target": "RigUnit",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "RigUnit_FindItemsWithMetadataTag",
+      "target": "ControlRig_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "RigUnit_FindItemsWithMetadataTag",
+      "target": "ControlRig_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "RigUnit_FindItemsWithMetadataTag",
+      "target": "items_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_FindItemsWithMetadataTag",
+      "target": "name_space_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_FindItemsWithMetadataTag",
+      "target": "tag_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "items_property",
+      "target": "Array_RigElementKey",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "name_space_property",
+      "target": "RigMetaDataNameSpace",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "tag_property",
+      "target": "Name",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "UrbanWorldMergedPreviewComponent",
+      "target": "UrbanWorldPreviewComponent",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "UrbanWorldMergedPreviewComponent",
+      "target": "UrbanWorldBuilder_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "UrbanWorldMergedPreviewComponent",
+      "target": "AesBuilderCommon_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "RigUnit_AccumulateVectorLerp",
+      "target": "RigVMFunction_AccumulateVectorLerp",
+      "type": "RENAMED_TO"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleIsNearlyZero",
+      "target": "RigVMFunction_MathDoubleBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleIsNearlyZero",
+      "target": "RigVM_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleIsNearlyZero",
+      "target": "RigVM_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleIsNearlyZero",
+      "target": "result_property_bool",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleIsNearlyZero",
+      "target": "tolerance_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleIsNearlyZero",
+      "target": "value_property_double",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "result_property_bool",
+      "target": "bool",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "tolerance_property",
+      "target": "double",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "value_property_double",
+      "target": "double",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleSub",
+      "target": "RigVMFunction_MathDoubleBinaryOp",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleSub",
+      "target": "RigVM_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleSub",
+      "target": "RigVM_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleSub",
+      "target": "a_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleSub",
+      "target": "b_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleSub",
+      "target": "result_property_double",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "a_property",
+      "target": "double",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "b_property",
+      "target": "double",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "result_property_double",
+      "target": "double",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "CameraShakeStopParams",
+      "target": "CameraShakePatternStopParams",
+      "type": "RENAMED_TO"
+    },
+    {
+      "source": "TimeSectionDefine",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "TimeSectionDefine",
+      "target": "WdpEnvironment_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "TimeSectionDefine",
+      "target": "WdpEnvironment_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "TimeSectionDefine",
+      "target": "start_time_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "TimeSectionDefine",
+      "target": "end_time_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "TimeSectionDefine",
+      "target": "actual_used_time_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "start_time_property",
+      "target": "DateTime",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "end_time_property",
+      "target": "DateTime",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "actual_used_time_property",
+      "target": "DateTime",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "HierarchicalSimplification",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "HierarchicalSimplification",
+      "target": "Engine_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "PropertyAnimator_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "PropertyAnimator_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "SINE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "COSINE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "SQUARE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "INVERTED_SQUARE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "SAWTOOTH",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "PropertyAnimatorOscillateFunction",
+      "target": "TRIANGLE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "InputTriggerReleased",
+      "target": "InputTrigger",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "InputTriggerReleased",
+      "target": "EnhancedInput_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "InputTriggerReleased",
+      "target": "EnhancedInput_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "InputTriggerReleased",
+      "target": "actuation_threshold_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "InputTriggerReleased",
+      "target": "last_value_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "InputTriggerReleased",
+      "target": "should_always_tick_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "actuation_threshold_property",
+      "target": "float",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "last_value_property",
+      "target": "InputActionValue",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "should_always_tick_property",
+      "target": "bool",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "CreatePoisParams",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "CreatePoisParams",
+      "target": "CoveringAPIDefine_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "CreatePoisParams",
+      "target": "CoveringAPI_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "CreatePoisParams",
+      "target": "point_entity_eid_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "CreatePoisParams",
+      "target": "poi_style_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "CreatePoisParams",
+      "target": "coord_z_ref_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "point_entity_eid_property",
+      "target": "str",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "poi_style_property",
+      "target": "poiStyle",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "coord_z_ref_property",
+      "target": "int32",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "SequencerBoundObjects",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "SequencerBoundObjects",
+      "target": "SequencerScriptingEditor_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "SequencerBoundObjects",
+      "target": "SequencerScripting_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "SequencerBoundObjects",
+      "target": "binding_proxy_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "SequencerBoundObjects",
+      "target": "bound_objects_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "binding_proxy_property",
+      "target": "MovieSceneBindingProxy",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "bound_objects_property",
+      "target": "Array_Object",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "RigUnit_MathIntUnaryOp",
+      "target": "RigVMFunction_MathIntUnaryOp",
+      "type": "RENAMED_TO"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "RigUnit",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "ControlRig_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "ControlRig_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "start_property_vector",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "end_property_vector",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "trace_channel_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "radius_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "hit_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "hit_location_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "RigUnit_SphereTraceByTraceChannel",
+      "target": "hit_normal_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "start_property_vector",
+      "target": "Vector",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "end_property_vector",
+      "target": "Vector",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "trace_channel_property",
+      "target": "TraceTypeQuery",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "radius_property",
+      "target": "float",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "hit_property",
+      "target": "bool",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "hit_location_property",
+      "target": "Vector",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "hit_normal_property",
+      "target": "Vector",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "AnimGraphNode_CustomProperty",
+      "target": "AnimGraphNode_Base",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AnimGraphNode_CustomProperty",
+      "target": "AnimGraph_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "AnimGraphNode_CustomProperty",
+      "target": "become_relevant_function_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AnimGraphNode_CustomProperty",
+      "target": "binding_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AnimGraphNode_CustomProperty",
+      "target": "initial_update_function_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AnimGraphNode_CustomProperty",
+      "target": "show_pin_for_properties_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AnimGraphNode_CustomProperty",
+      "target": "tag_property_name",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "AnimGraphNode_CustomProperty",
+      "target": "update_function_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "become_relevant_function_property",
+      "target": "MemberReference",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "binding_property",
+      "target": "AnimGraphNodeBinding",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "initial_update_function_property",
+      "target": "MemberReference",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "show_pin_for_properties_property",
+      "target": "Array_OptionalPinFromProperty",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "tag_property_name",
+      "target": "Name",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "update_function_property",
+      "target": "MemberReference",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "RigUnit_TimeOffsetVector",
+      "target": "RigVMFunction_TimeOffsetVector",
+      "type": "RENAMED_TO"
+    },
+    {
+      "source": "AbilityTask_WaitConfirm",
+      "target": "AbilityTask",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AbilityTask_WaitConfirm",
+      "target": "GameplayAbilities_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "AbilityTask_WaitConfirm",
+      "target": "GameplayAbilities_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "AbilityTask_WaitConfirm",
+      "target": "on_confirm_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "on_confirm_property",
+      "target": "GenericGameplayTaskDelegate",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "WDPSetCameraPoseParams",
+      "target": "ParamsBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "WDPSetCameraPoseParams",
+      "target": "ApplicationAPI_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "WDPSetCameraPoseParams",
+      "target": "WdpRuntimeAPI_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "WDPSetCameraPoseParams",
+      "target": "location_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "WDPSetCameraPoseParams",
+      "target": "rotation_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "WDPSetCameraPoseParams",
+      "target": "fly_time_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "location_property",
+      "target": "Vector",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "rotation_property",
+      "target": "CameraPresetRotator",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "fly_time_property",
+      "target": "float",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "target": "Niagara_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "target": "Niagara_plugin",
+      "type": "FROM_PLUGIN"
+    },
+    {
+      "source": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "target": "DEFAULT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "target": "HWRT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "target": "GSDF",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "target": "NONE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "VectorRK4SpringInterpolator",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "VectorRK4SpringInterpolator",
+      "target": "Engine_module",
+      "type": "DEFINED_IN_MODULE"
+    },
+    {
+      "source": "VectorRK4SpringInterpolator",
+      "target": "dampening_ratio_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "VectorRK4SpringInterpolator",
+      "target": "stiffness_constant_property",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "dampening_ratio_property",
+      "target": "float",
+      "type": "PROPERTY_TYPE"
+    },
+    {
+      "source": "stiffness_constant_property",
+      "target": "float",
+      "type": "PROPERTY_TYPE"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_deprecation_pattern",
+      "nodes": [
+        "RigUnit_AccumulateVectorLerp",
+        "RigVMFunction_AccumulateVectorLerp",
+        "RigUnit_MathIntUnaryOp",
+        "RigVMFunction_MathIntUnaryOp",
+        "RigUnit_TimeOffsetVector",
+        "RigVMFunction_TimeOffsetVector"
+      ],
+      "description": "Pattern of RigUnit classes being deprecated and renamed to RigVMFunction equivalents"
+    },
+    {
+      "id": "control_rig_ecosystem",
+      "nodes": [
+        "RigUnit_FindItemsWithMetadataTag",
+        "RigUnit_SphereTraceByTraceChannel",
+        "ControlRig_module",
+        "ControlRig_plugin",
+        "RigUnit"
+      ],
+      "description": "ControlRig plugin classes and their common base class"
+    },
+    {
+      "id": "rigvm_math_functions",
+      "nodes": [
+        "RigVMFunction_MathDoubleIsNearlyZero",
+        "RigVMFunction_MathDoubleSub",
+        "RigVMFunction_MathDoubleBase",
+        "RigVMFunction_MathDoubleBinaryOp",
+        "RigVM_module",
+        "RigVM_plugin"
+      ],
+      "description": "RigVM mathematical function hierarchy and modules"
+    },
+    {
+      "id": "gameplay_abilities_system",
+      "nodes": [
+        "AbilityTask_WaitConfirm",
+        "AbilityTask",
+        "GameplayAbilities_module",
+        "GameplayAbilities_plugin"
+      ],
+      "description": "Gameplay abilities plugin task system"
+    },
+    {
+      "id": "camera_systems",
+      "nodes": [
+        "CameraShakeStopParams",
+        "CameraShakePatternStopParams",
+        "WDPSetCameraPoseParams",
+        "CameraPresetRotator",
+        "Vector"
+      ],
+      "description": "Camera-related classes and parameters"
+    },
+    {
+      "id": "unreal_base_types",
+      "nodes": [
+        "StructBase",
+        "EnumBase",
+        "MulticastDelegateBase",
+        "BlueprintAsyncActionBase",
+        "ParamsBase"
+      ],
+      "description": "Core Unreal Engine base classes for structs, enums, delegates, and actions"
+    },
+    {
+      "id": "time_section_system",
+      "nodes": [
+        "TimeSectionDefine",
+        "start_time_property",
+        "end_time_property",
+        "actual_used_time_property",
+        "DateTime",
+        "WdpEnvironment_module"
+      ],
+      "description": "Time section definition system with start/end times"
+    },
+    {
+      "id": "input_system",
+      "nodes": [
+        "InputTriggerReleased",
+        "InputTrigger",
+        "EnhancedInput_module",
+        "EnhancedInput_plugin",
+        "InputActionValue"
+      ],
+      "description": "Enhanced input system for trigger handling"
+    },
+    {
+      "id": "property_animation",
+      "nodes": [
+        "PropertyAnimatorOscillateFunction",
+        "PropertyAnimator_module",
+        "PropertyAnimator_plugin",
+        "SINE",
+        "COSINE",
+        "SQUARE",
+        "INVERTED_SQUARE",
+        "SAWTOOTH",
+        "TRIANGLE"
+      ],
+      "description": "Property animator oscillation functions and their wave types"
+    },
+    {
+      "id": "gpu_trace_providers",
+      "nodes": [
+        "NDICollisionQuery_AsyncGpuTraceProvider",
+        "Niagara_module",
+        "Niagara_plugin",
+        "DEFAULT",
+        "HWRT",
+        "GSDF",
+        "NONE"
+      ],
+      "description": "Niagara GPU trace provider options"
+    },
+    {
+      "id": "poi_system",
+      "nodes": [
+        "CreatePoisParams",
+        "point_entity_eid_property",
+        "poi_style_property",
+        "coord_z_ref_property",
+        "poiStyle",
+        "CoveringAPI_plugin"
+      ],
+      "description": "Point of Interest (POI) creation parameters"
+    },
+    {
+      "id": "sequencer_binding",
+      "nodes": [
+        "SequencerBoundObjects",
+        "binding_proxy_property",
+        "bound_objects_property",
+        "MovieSceneBindingProxy",
+        "SequencerScripting_plugin"
+      ],
+      "description": "Sequencer object binding system"
+    },
+    {
+      "id": "spring_interpolation",
+      "nodes": [
+        "VectorRK4SpringInterpolator",
+        "dampening_ratio_property",
+        "stiffness_constant_property",
+        "float",
+        "Engine_module"
+      ],
+      "description": "RK4 spring interpolation for vector smoothing"
+    },
+    {
+      "id": "anim_graph_customization",
+      "nodes": [
+        "AnimGraphNode_CustomProperty",
+        "AnimGraphNode_Base",
+        "AnimGraph_module",
+        "become_relevant_function_property",
+        "initial_update_function_property",
+        "update_function_property",
+        "MemberReference"
+      ],
+      "description": "Custom property nodes in animation graphs"
+    },
+    {
+      "id": "world_preview_system",
+      "nodes": [
+        "UrbanWorldMergedPreviewComponent",
+        "UrbanWorldPreviewComponent",
+        "UrbanWorldBuilder_module",
+        "AesBuilderCommon_plugin"
+      ],
+      "description": "Urban world preview component hierarchy"
+    }
+  ]
+}

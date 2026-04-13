@@ -1,0 +1,381 @@
+{
+  "nodes": [
+    {
+      "id": "audiobasedvibrationdata_audiobasedvibrationdata",
+      "label": "AudioBasedVibrationData",
+      "file_type": "document",
+      "source_file": "AudioBasedVibrationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatefontinfo_slatefontinfo",
+      "label": "SlateFontInfo",
+      "file_type": "document",
+      "source_file": "SlateFontInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoistyle_marker_custompoistyle_marker",
+      "label": "custompoiStyle_marker",
+      "file_type": "document",
+      "source_file": "custompoiStyle__marker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_sync_animnode_sync",
+      "label": "AnimNode_Sync",
+      "file_type": "document",
+      "source_file": "AnimNode_Sync Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpvisualcolorstyleresult_wdpvisualcolorstyleresult",
+      "label": "WdpVisualColorStyleResult",
+      "file_type": "document",
+      "source_file": "WdpVisualColorStyleResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatesound_slatesound",
+      "label": "SlateSound",
+      "file_type": "document",
+      "source_file": "SlateSound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinecameracutinfo_moviepipelinecameracutinfo",
+      "label": "MoviePipelineCameraCutInfo",
+      "file_type": "document",
+      "source_file": "MoviePipelineCameraCutInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectilemovementcomponent_projectilemovementcomponent",
+      "label": "ProjectileMovementComponent",
+      "file_type": "document",
+      "source_file": "ProjectileMovementComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelvisibility_levelvisibility",
+      "label": "LevelVisibility",
+      "file_type": "document",
+      "source_file": "LevelVisibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedactionkeymapping_enhancedactionkeymapping",
+      "label": "EnhancedActionKeyMapping",
+      "file_type": "document",
+      "source_file": "EnhancedActionKeyMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getintanimationchannel_rigunit_getintanimationchannel",
+      "label": "RigUnit_GetIntAnimationChannel",
+      "file_type": "document",
+      "source_file": "RigUnit_GetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorsign_rigunit_mathvectorsign",
+      "label": "RigUnit_MathVectorSign",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamemodebase_gamemodebase",
+      "label": "GameModeBase",
+      "file_type": "document",
+      "source_file": "GameModeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgpathpolygon_svgpathpolygon",
+      "label": "SVGPathPolygon",
+      "file_type": "document",
+      "source_file": "SVGPathPolygon Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendlistbase_animnode_blendlistbase",
+      "label": "AnimNode_BlendListBase",
+      "file_type": "document",
+      "source_file": "AnimNode__BlendListBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugtransformarraymutablenospace_rigvmfunction_debugtransformarraymutablenospace",
+      "label": "RigVMFunction_DebugTransformArrayMutableNoSpace",
+      "file_type": "document",
+      "source_file": "RigVMFunction__DebugTransformArrayMutableNoSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectormin_rigunit_mathvectormin",
+      "label": "RigUnit_MathVectorMin",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectormul_rigunit_mathvectormul",
+      "label": "RigUnit_MathVectorMul",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "markercacheinfo_markercacheinfo",
+      "label": "MarkerCacheInfo",
+      "file_type": "document",
+      "source_file": "MarkerCacheInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwavecloudstreamingplatformenabletype_soundwavecloudstreamingplatformenabletype",
+      "label": "SoundWaveCloudStreamingPlatformEnableType",
+      "file_type": "document",
+      "source_file": "SoundWaveCloudStreamingPlatformEnableType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "determinismtestresult_determinismtestresult",
+      "label": "DeterminismTestResult",
+      "file_type": "document",
+      "source_file": "DeterminismTestResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdevicestate_inputdevicestate",
+      "label": "InputDeviceState",
+      "file_type": "document",
+      "source_file": "InputDeviceState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "slatefontinfo_slatefontinfo",
+      "target": "slatesound_slatesound",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SlateFontInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiobasedvibrationdata_audiobasedvibrationdata",
+      "target": "slatesound_slatesound",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AudioBasedVibrationData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedactionkeymapping_enhancedactionkeymapping",
+      "target": "inputdevicestate_inputdevicestate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EnhancedActionKeyMapping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiobasedvibrationdata_audiobasedvibrationdata",
+      "target": "inputdevicestate_inputdevicestate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AudioBasedVibrationData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "projectilemovementcomponent_projectilemovementcomponent",
+      "target": "gamemodebase_gamemodebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ProjectileMovementComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_sync_animnode_sync",
+      "target": "animnode_blendlistbase_animnode_blendlistbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode_Sync Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorsign_rigunit_mathvectorsign",
+      "target": "rigunit_mathvectormin_rigunit_mathvectormin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathVectorSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormin_rigunit_mathvectormin",
+      "target": "rigunit_mathvectormul_rigunit_mathvectormul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathVectorMin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorsign_rigunit_mathvectorsign",
+      "target": "rigunit_mathvectormul_rigunit_mathvectormul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathVectorSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_math_vector_operations",
+      "label": "RigVM Math Vector Operations",
+      "nodes": [
+        "rigunit_mathvectorsign_rigunit_mathvectorsign",
+        "rigunit_mathvectormin_rigunit_mathvectormin",
+        "rigunit_mathvectormul_rigunit_mathvectormul"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_MathVectorSign Objects.md"
+    },
+    {
+      "id": "input_system_components",
+      "label": "Input System Components",
+      "nodes": [
+        "enhancedactionkeymapping_enhancedactionkeymapping",
+        "inputdevicestate_inputdevicestate",
+        "audiobasedvibrationdata_audiobasedvibrationdata"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EnhancedActionKeyMapping Objects.md"
+    },
+    {
+      "id": "animation_nodes_group",
+      "label": "Animation Node Infrastructure",
+      "nodes": [
+        "animnode_sync_animnode_sync",
+        "animnode_blendlistbase_animnode_blendlistbase",
+        "rigunit_getintanimationchannel_rigunit_getintanimationchannel"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_Sync Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

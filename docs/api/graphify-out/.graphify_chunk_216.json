@@ -1,0 +1,338 @@
+{
+  "nodes": [
+    {
+      "id": "universalobjectlocatorscriptingextensions_universalobjectlocatorscriptingextensions",
+      "label": "UniversalObjectLocatorScriptingExtensions",
+      "file_type": "code",
+      "source_file": "UniversalObjectLocatorScriptingExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ainoiseevent_ainoiseevent",
+      "label": "AINoiseEvent",
+      "file_type": "code",
+      "source_file": "AINoiseEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splineboneaxis_splineboneaxis",
+      "label": "SplineBoneAxis",
+      "file_type": "code",
+      "source_file": "SplineBoneAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnodeenveloper_soundnodeenveloper",
+      "label": "SoundNodeEnveloper",
+      "file_type": "code",
+      "source_file": "SoundNodeEnveloper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onclusterunionremovedcomponent_onclusterunionremovedcomponent",
+      "label": "OnClusterUnionRemovedComponent",
+      "file_type": "code",
+      "source_file": "OnClusterUnionRemovedComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoilabelstyle_custompoilabelstyle",
+      "label": "CustomPoiLabelStyle",
+      "file_type": "code",
+      "source_file": "CustomPoiLabelStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionequals_rigvmfunction_mathquaternionequals",
+      "label": "RigVMFunction_MathQuaternionEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "headingaxis_headingaxis",
+      "label": "HeadingAxis",
+      "file_type": "code",
+      "source_file": "HeadingAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameraroamingframeeventargs_cameraroamingframeeventargs",
+      "label": "CameraRoamingFrameEventArgs",
+      "file_type": "code",
+      "source_file": "CameraRoamingFrameEventArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "specularprofilefactory_specularprofilefactory",
+      "label": "SpecularProfileFactory",
+      "file_type": "code",
+      "source_file": "SpecularProfileFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundbuilderbase_metasoundbuilderbase",
+      "label": "MetaSoundBuilderBase",
+      "file_type": "code",
+      "source_file": "MetaSoundBuilderBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatextactor_avatextactor",
+      "label": "AvaTextActor",
+      "file_type": "code",
+      "source_file": "AvaTextActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcopypointsinheritancemode_pcgcopypointsinheritancemode",
+      "label": "PCGCopyPointsInheritanceMode",
+      "file_type": "code",
+      "source_file": "PCGCopyPointsInheritanceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconsthalfpi_rigvmfunction_mathfloatconsthalfpi",
+      "label": "RigVMFunction_MathFloatConstHalfPi",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatConstHalfPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesflowmapmanager_aesflowmapmanager",
+      "label": "AesFlowMapManager",
+      "file_type": "code",
+      "source_file": "AesFlowMapManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetingselectiontask_sourceactor_targetingselectiontask_sourceactor",
+      "label": "TargetingSelectionTask_SourceActor",
+      "file_type": "code",
+      "source_file": "TargetingSelectionTask__SourceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatednavlinksproxy_generatednavlinksproxy",
+      "label": "GeneratedNavLinksProxy",
+      "file_type": "code",
+      "source_file": "GeneratedNavLinksProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitioninstancingmode_avatransitioninstancingmode",
+      "label": "AvaTransitionInstancingMode",
+      "file_type": "code",
+      "source_file": "AvaTransitionInstancingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "text3dcharactertransform_text3dcharactertransform",
+      "label": "Text3DCharacterTransform",
+      "file_type": "code",
+      "source_file": "Text3DCharacterTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aitask_moveto_aitask_moveto",
+      "label": "AITask_MoveTo",
+      "file_type": "code",
+      "source_file": "AITask_MoveTo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify_playsound_animnotify_playsound",
+      "label": "AnimNotify_PlaySound",
+      "file_type": "code",
+      "source_file": "AnimNotify__PlaySound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetdata_actorarray_gameplayabilitytargetdata_actorarray",
+      "label": "GameplayAbilityTargetData_ActorArray",
+      "file_type": "code",
+      "source_file": "GameplayAbilityTargetData__ActorArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "avatextactor_avatextactor",
+      "target": "text3dcharactertransform_text3dcharactertransform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTextActor Objects.md",
+      "source_location": "131-133",
+      "weight": 1.0
+    },
+    {
+      "source": "ainoiseevent_ainoiseevent",
+      "target": "aitask_moveto_aitask_moveto",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AINoiseEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aitask_moveto_aitask_moveto",
+      "target": "generatednavlinksproxy_generatednavlinksproxy",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AITask_MoveTo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playsound_animnotify_playsound",
+      "target": "soundnodeenveloper_soundnodeenveloper",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNotify__PlaySound Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splineboneaxis_splineboneaxis",
+      "target": "headingaxis_headingaxis",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SplineBoneAxis Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodeenveloper_soundnodeenveloper",
+      "target": "metasoundbuilderbase_metasoundbuilderbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "SoundNodeEnveloper Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "ai_perception_and_navigation_system",
+      "label": "AI Perception and Navigation System",
+      "nodes": [
+        "ainoiseevent_ainoiseevent",
+        "aitask_moveto_aitask_moveto",
+        "generatednavlinksproxy_generatednavlinksproxy"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AINoiseEvent Objects.md"
+    },
+    {
+      "id": "sound_manipulation_and_playback",
+      "label": "Sound Manipulation and Playback System",
+      "nodes": [
+        "soundnodeenveloper_soundnodeenveloper",
+        "animnotify_playsound_animnotify_playsound",
+        "metasoundbuilderbase_metasoundbuilderbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SoundNodeEnveloper Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

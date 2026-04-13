@@ -1,0 +1,1772 @@
+{
+  "nodes": [
+    {
+      "id": "unreal.CapturableProperty",
+      "type": "class",
+      "name": "CapturableProperty",
+      "full_name": "unreal.CapturableProperty",
+      "base_type": "StructBase",
+      "module": "VariantManager",
+      "plugin": "VariantManager",
+      "file": "CapturableProperty.h",
+      "description": "Describes a property path that can be captured. It just exposes a display name but uses internal data in order to be able to capture exception properties, like materials"
+    },
+    {
+      "id": "unreal.glTFRuntimeAnimationCurveRemapper",
+      "type": "class",
+      "name": "glTFRuntimeAnimationCurveRemapper",
+      "full_name": "unreal.glTFRuntimeAnimationCurveRemapper",
+      "base_type": "DelegateBase",
+      "module": "glTFRuntime",
+      "plugin": "AesWorld",
+      "file": "glTFRuntimeParser.h",
+      "description": "Gl TFRuntime Animation Curve Remapper Delegate Signature"
+    },
+    {
+      "id": "unreal.SoundSurroundExporterWAV",
+      "type": "class",
+      "name": "SoundSurroundExporterWAV",
+      "full_name": "unreal.SoundSurroundExporterWAV",
+      "base_type": "Exporter",
+      "module": "UnrealEd",
+      "file": "SoundSurroundExporterWAV.h",
+      "description": "Sound Surround Exporter WAV"
+    },
+    {
+      "id": "unreal.LightmassParameterValue",
+      "type": "class",
+      "name": "LightmassParameterValue",
+      "full_name": "unreal.LightmassParameterValue",
+      "base_type": "StructBase",
+      "module": "UnrealEd",
+      "file": "UnrealEdTypes.h",
+      "description": "Base LightmassParameterValue class"
+    },
+    {
+      "id": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "type": "class",
+      "name": "RigUnit_HierarchyAddPhysicsSolver",
+      "full_name": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "base_type": "RigUnit_DynamicHierarchyBaseMutable",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_Physics.h",
+      "description": "Adds a new physics solver to the hierarchy. Note: This node only runs as part of the construction event."
+    },
+    {
+      "id": "unreal.AnimGraphNode_CustomTransitionResult",
+      "type": "class",
+      "name": "AnimGraphNode_CustomTransitionResult",
+      "full_name": "unreal.AnimGraphNode_CustomTransitionResult",
+      "base_type": "AnimGraphNode_StateResult",
+      "module": "AnimGraph",
+      "file": "AnimGraphNode_CustomTransitionResult.h",
+      "description": "Anim Graph Node Custom Transition Result"
+    },
+    {
+      "id": "unreal.DisplayClusterConfiguration_PostRenderBlur",
+      "type": "enum",
+      "name": "DisplayClusterConfiguration_PostRenderBlur",
+      "full_name": "unreal.DisplayClusterConfiguration_PostRenderBlur",
+      "base_type": "EnumBase",
+      "module": "DisplayClusterConfiguration",
+      "plugin": "nDisplay",
+      "file": "DisplayClusterConfigurationTypes_Enums.h",
+      "description": "EDisplay Cluster Configuration Post Render Blur"
+    },
+    {
+      "id": "unreal.QuaternionSpringState",
+      "type": "class",
+      "name": "QuaternionSpringState",
+      "full_name": "unreal.QuaternionSpringState",
+      "base_type": "StructBase",
+      "module": "Engine",
+      "file": "KismetMathLibrary.h",
+      "description": "Quaternion Spring State"
+    },
+    {
+      "id": "unreal.AnimNode_PreviewRetargetPose",
+      "type": "class",
+      "name": "AnimNode_PreviewRetargetPose",
+      "full_name": "unreal.AnimNode_PreviewRetargetPose",
+      "base_type": "AnimNode_Base",
+      "module": "IKRigEditor",
+      "plugin": "IKRig",
+      "file": "IKRetargetAnimInstance.h",
+      "description": "a node just to preview a retarget pose"
+    },
+    {
+      "id": "unreal.DMMaterialStageExpressionObjectRadius",
+      "type": "class",
+      "name": "DMMaterialStageExpressionObjectRadius",
+      "full_name": "unreal.DMMaterialStageExpressionObjectRadius",
+      "base_type": "DMMaterialStageExpression",
+      "module": "DynamicMaterialEditor",
+      "plugin": "DynamicMaterial",
+      "file": "DMMSEObjectRadius.h",
+      "description": "DMMaterial Stage Expression Object Radius"
+    },
+    {
+      "id": "unreal.CameraRigProxyAsset",
+      "type": "class",
+      "name": "CameraRigProxyAsset",
+      "full_name": "unreal.CameraRigProxyAsset",
+      "base_type": "Object",
+      "module": "GameplayCameras",
+      "plugin": "GameplayCameras",
+      "file": "CameraRigProxyAsset.h",
+      "description": "A proxy for a camera rig asset. This is useful for indicating that a camera rig should be activated in a camera director, but without hard-referencing a particular camera rig. This way, that camera director can be used by multiple cameras with their own camera rigs."
+    },
+    {
+      "id": "unreal.PawnNoiseEmitterComponent",
+      "type": "class",
+      "name": "PawnNoiseEmitterComponent",
+      "full_name": "unreal.PawnNoiseEmitterComponent",
+      "base_type": "ActorComponent",
+      "module": "Engine",
+      "file": "PawnNoiseEmitterComponent.h",
+      "description": "PawnNoiseEmitterComponent tracks noise event data used by SensingComponents to hear a Pawn. This component is intended to exist on either a Pawn or its Controller. It does nothing on network clients."
+    },
+    {
+      "id": "unreal.RigUnit_TwistBones",
+      "type": "class",
+      "name": "RigUnit_TwistBones",
+      "full_name": "unreal.RigUnit_TwistBones",
+      "base_type": "RigUnit_HighlevelBaseMutable",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_TwistBones.h",
+      "description": "Creates a gradient of twist rotation along a chain."
+    },
+    {
+      "id": "unreal.PythonLogOutputEntry",
+      "type": "class",
+      "name": "PythonLogOutputEntry",
+      "full_name": "unreal.PythonLogOutputEntry",
+      "base_type": "StructBase",
+      "module": "PythonScriptPlugin",
+      "plugin": "PythonScriptPlugin",
+      "file": "PythonScriptTypes.h",
+      "description": "Log output entry captured from Python."
+    },
+    {
+      "id": "unreal.RigVMFunction_StringToLowercase",
+      "type": "class",
+      "name": "RigVMFunction_StringToLowercase",
+      "full_name": "unreal.RigVMFunction_StringToLowercase",
+      "base_type": "RigVMFunction_StringBase",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_String.h",
+      "description": "Converts the string to lower case"
+    },
+    {
+      "id": "unreal._WrapperBase",
+      "type": "class",
+      "name": "_WrapperBase",
+      "full_name": "unreal._WrapperBase",
+      "base_type": "object",
+      "description": "Base type for all Unreal exposed types"
+    },
+    {
+      "id": "unreal.PCGDynamicMeshManagedComponent",
+      "type": "class",
+      "name": "PCGDynamicMeshManagedComponent",
+      "full_name": "unreal.PCGDynamicMeshManagedComponent",
+      "base_type": "PCGManagedComponent",
+      "module": "PCGGeometryScriptInterop",
+      "plugin": "PCGGeometryScriptInterop",
+      "file": "PCGDynamicMeshManagedComponent.h",
+      "description": "PCGDynamic Mesh Managed Component"
+    },
+    {
+      "id": "unreal.DCPSwitchAPIRegister",
+      "type": "class",
+      "name": "DCPSwitchAPIRegister",
+      "full_name": "unreal.DCPSwitchAPIRegister",
+      "base_type": "ApiClassBase",
+      "module": "DcpAPI",
+      "plugin": "WdpAssetAPI",
+      "file": "DCPSwitchAPIRegister.h",
+      "description": "DCPSwitch APIRegister"
+    },
+    {
+      "id": "unreal.GaussianSumBloomSettings",
+      "type": "class",
+      "name": "GaussianSumBloomSettings",
+      "full_name": "unreal.GaussianSumBloomSettings",
+      "base_type": "StructBase",
+      "module": "Engine",
+      "file": "Scene.h",
+      "description": "Gaussian Sum Bloom Settings"
+    },
+    {
+      "id": "unreal.SequencerViewModelStructExtensions",
+      "type": "class",
+      "name": "SequencerViewModelStructExtensions",
+      "full_name": "unreal.SequencerViewModelStructExtensions",
+      "base_type": "BlueprintFunctionLibrary",
+      "module": "SequencerCore",
+      "file": "ViewModelScriptingStruct.h",
+      "description": "Function library containing methods that should be hoisted onto FSequencerScriptingRanges"
+    },
+    {
+      "id": "unreal.DMMaterialStageExpressionTransform",
+      "type": "class",
+      "name": "DMMaterialStageExpressionTransform",
+      "full_name": "unreal.DMMaterialStageExpressionTransform",
+      "base_type": "DMMaterialStageExpression",
+      "module": "DynamicMaterialEditor",
+      "plugin": "DynamicMaterial",
+      "file": "DMMSETransform.h",
+      "description": "DMMaterial Stage Expression Transform"
+    },
+    {
+      "id": "unreal.AlembicImportType",
+      "type": "enum",
+      "name": "AlembicImportType",
+      "full_name": "unreal.AlembicImportType",
+      "base_type": "EnumBase",
+      "module": "AlembicLibrary",
+      "plugin": "AlembicImporter",
+      "file": "AbcImportSettings.h",
+      "description": "Enum that describes type of asset to import"
+    },
+    {
+      "id": "property.CapturableProperty.display_name",
+      "type": "property",
+      "name": "display_name",
+      "data_type": "str",
+      "access": "read-only"
+    },
+    {
+      "id": "property.SoundSurroundExporterWAV.export_task",
+      "type": "property",
+      "name": "export_task",
+      "data_type": "AssetExportTask",
+      "access": "read-write"
+    },
+    {
+      "id": "property.SoundSurroundExporterWAV.format_description",
+      "type": "property",
+      "name": "format_description",
+      "data_type": "Array[str]",
+      "access": "read-write"
+    },
+    {
+      "id": "property.SoundSurroundExporterWAV.format_extension",
+      "type": "property",
+      "name": "format_extension",
+      "data_type": "Array[str]",
+      "access": "read-write"
+    },
+    {
+      "id": "property.SoundSurroundExporterWAV.supported_class",
+      "type": "property",
+      "name": "supported_class",
+      "data_type": "type(Class)",
+      "access": "read-write"
+    },
+    {
+      "id": "property.SoundSurroundExporterWAV.text",
+      "type": "property",
+      "name": "text",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "property.LightmassParameterValue.override",
+      "type": "property",
+      "name": "override",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "property.RigUnit_HierarchyAddPhysicsSolver.execute_context",
+      "type": "property",
+      "name": "execute_context",
+      "data_type": "ControlRigExecuteContext",
+      "access": "read-write"
+    },
+    {
+      "id": "property.RigUnit_HierarchyAddPhysicsSolver.name",
+      "type": "property",
+      "name": "name",
+      "data_type": "Name",
+      "access": "read-write"
+    },
+    {
+      "id": "property.RigUnit_HierarchyAddPhysicsSolver.solver",
+      "type": "property",
+      "name": "solver",
+      "data_type": "RigPhysicsSolverID",
+      "access": "read-only"
+    },
+    {
+      "id": "property.AnimGraphNode_CustomTransitionResult.become_relevant_function",
+      "type": "property",
+      "name": "become_relevant_function",
+      "data_type": "MemberReference",
+      "access": "read-write"
+    },
+    {
+      "id": "property.AnimGraphNode_CustomTransitionResult.binding",
+      "type": "property",
+      "name": "binding",
+      "data_type": "AnimGraphNodeBinding",
+      "access": "read-write"
+    },
+    {
+      "id": "property.AnimGraphNode_CustomTransitionResult.initial_update_function",
+      "type": "property",
+      "name": "initial_update_function",
+      "data_type": "MemberReference",
+      "access": "read-write"
+    },
+    {
+      "id": "property.AnimGraphNode_CustomTransitionResult.node",
+      "type": "property",
+      "name": "node",
+      "data_type": "AnimNode_StateResult",
+      "access": "read-write"
+    },
+    {
+      "id": "property.AnimGraphNode_CustomTransitionResult.show_pin_for_properties",
+      "type": "property",
+      "name": "show_pin_for_properties",
+      "data_type": "Array[OptionalPinFromProperty]",
+      "access": "read-write"
+    },
+    {
+      "id": "property.PawnNoiseEmitterComponent.noise_lifetime",
+      "type": "property",
+      "name": "noise_lifetime",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.RigUnit_TwistBones.start_bone",
+      "type": "property",
+      "name": "start_bone",
+      "data_type": "Name",
+      "access": "read-write"
+    },
+    {
+      "id": "property.RigUnit_TwistBones.end_bone",
+      "type": "property",
+      "name": "end_bone",
+      "data_type": "Name",
+      "access": "read-write"
+    },
+    {
+      "id": "property.RigUnit_TwistBones.twist_axis",
+      "type": "property",
+      "name": "twist_axis",
+      "data_type": "Vector",
+      "access": "read-only"
+    },
+    {
+      "id": "property.RigUnit_TwistBones.pole_axis",
+      "type": "property",
+      "name": "pole_axis",
+      "data_type": "Vector",
+      "access": "read-only"
+    },
+    {
+      "id": "property.RigUnit_TwistBones.twist_ease_type",
+      "type": "property",
+      "name": "twist_ease_type",
+      "data_type": "RigVMAnimEasingType",
+      "access": "read-only"
+    },
+    {
+      "id": "property.RigUnit_TwistBones.weight",
+      "type": "property",
+      "name": "weight",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.RigUnit_TwistBones.propagate_to_children",
+      "type": "property",
+      "name": "propagate_to_children",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "property.PythonLogOutputEntry.type",
+      "type": "property",
+      "name": "type",
+      "data_type": "PythonLogOutputType",
+      "access": "read-only"
+    },
+    {
+      "id": "property.PythonLogOutputEntry.output",
+      "type": "property",
+      "name": "output",
+      "data_type": "str",
+      "access": "read-only"
+    },
+    {
+      "id": "property.RigVMFunction_StringToLowercase.value",
+      "type": "property",
+      "name": "value",
+      "data_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "property.RigVMFunction_StringToLowercase.result",
+      "type": "property",
+      "name": "result",
+      "data_type": "str",
+      "access": "read-only"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.intensity",
+      "type": "property",
+      "name": "intensity",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.threshold",
+      "type": "property",
+      "name": "threshold",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.size_scale",
+      "type": "property",
+      "name": "size_scale",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter1_size",
+      "type": "property",
+      "name": "filter1_size",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter2_size",
+      "type": "property",
+      "name": "filter2_size",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter3_size",
+      "type": "property",
+      "name": "filter3_size",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter4_size",
+      "type": "property",
+      "name": "filter4_size",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter5_size",
+      "type": "property",
+      "name": "filter5_size",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter6_size",
+      "type": "property",
+      "name": "filter6_size",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter1_tint",
+      "type": "property",
+      "name": "filter1_tint",
+      "data_type": "LinearColor",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter2_tint",
+      "type": "property",
+      "name": "filter2_tint",
+      "data_type": "LinearColor",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter3_tint",
+      "type": "property",
+      "name": "filter3_tint",
+      "data_type": "LinearColor",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter4_tint",
+      "type": "property",
+      "name": "filter4_tint",
+      "data_type": "LinearColor",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter5_tint",
+      "type": "property",
+      "name": "filter5_tint",
+      "data_type": "LinearColor",
+      "access": "read-write"
+    },
+    {
+      "id": "property.GaussianSumBloomSettings.filter6_tint",
+      "type": "property",
+      "name": "filter6_tint",
+      "data_type": "LinearColor",
+      "access": "read-write"
+    },
+    {
+      "id": "property.DMMaterialStageExpressionTransform.transform_source_type",
+      "type": "property",
+      "name": "transform_source_type",
+      "data_type": "MaterialVectorCoordTransformSource",
+      "access": "read-only"
+    },
+    {
+      "id": "property.DMMaterialStageExpressionTransform.transform_type",
+      "type": "property",
+      "name": "transform_type",
+      "data_type": "MaterialVectorCoordTransform",
+      "access": "read-only"
+    },
+    {
+      "id": "method.CapturableProperty.__init__",
+      "type": "method",
+      "name": "__init__",
+      "parameters": [
+        {
+          "name": "display_name",
+          "type": "str",
+          "default": "\"\""
+        }
+      ],
+      "return_type": "None"
+    },
+    {
+      "id": "method.RigUnit_HierarchyAddPhysicsSolver.__init__",
+      "type": "method",
+      "name": "__init__",
+      "parameters": [
+        {
+          "name": "execute_context",
+          "type": "ControlRigExecuteContext",
+          "default": "[]"
+        },
+        {
+          "name": "name",
+          "type": "Name",
+          "default": "\"None\""
+        },
+        {
+          "name": "solver",
+          "type": "RigPhysicsSolverID",
+          "default": "[[]]"
+        }
+      ],
+      "return_type": "None"
+    },
+    {
+      "id": "method.PawnNoiseEmitterComponent.make_noise",
+      "type": "method",
+      "name": "make_noise",
+      "parameters": [
+        {
+          "name": "noise_maker",
+          "type": "Actor"
+        },
+        {
+          "name": "loudness",
+          "type": "float"
+        },
+        {
+          "name": "noise_location",
+          "type": "Vector"
+        }
+      ],
+      "return_type": "None",
+      "description": "Cache noises instigated by the owning pawn for AI sensing"
+    },
+    {
+      "id": "method.RigUnit_TwistBones.__init__",
+      "type": "method",
+      "name": "__init__",
+      "parameters": [
+        {
+          "name": "execute_context",
+          "type": "ControlRigExecuteContext",
+          "default": "[]"
+        },
+        {
+          "name": "start_bone",
+          "type": "Name",
+          "default": "\"None\""
+        },
+        {
+          "name": "end_bone",
+          "type": "Name",
+          "default": "\"None\""
+        },
+        {
+          "name": "twist_axis",
+          "type": "Vector",
+          "default": "[0.000000, 0.000000, 0.000000]"
+        },
+        {
+          "name": "pole_axis",
+          "type": "Vector",
+          "default": "[0.000000, 0.000000, 0.000000]"
+        },
+        {
+          "name": "twist_ease_type",
+          "type": "RigVMAnimEasingType",
+          "default": "RigVMAnimEasingType.LINEAR"
+        },
+        {
+          "name": "weight",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "propagate_to_children",
+          "type": "bool",
+          "default": "False"
+        }
+      ],
+      "return_type": "None"
+    },
+    {
+      "id": "method.PythonLogOutputEntry.__init__",
+      "type": "method",
+      "name": "__init__",
+      "parameters": [
+        {
+          "name": "type",
+          "type": "PythonLogOutputType",
+          "default": "PythonLogOutputType.INFO"
+        },
+        {
+          "name": "output",
+          "type": "str",
+          "default": "\"\""
+        }
+      ],
+      "return_type": "None"
+    },
+    {
+      "id": "method.RigVMFunction_StringToLowercase.__init__",
+      "type": "method",
+      "name": "__init__",
+      "parameters": [
+        {
+          "name": "value",
+          "type": "str",
+          "default": "\"\""
+        },
+        {
+          "name": "result",
+          "type": "str",
+          "default": "\"\""
+        }
+      ],
+      "return_type": "None"
+    },
+    {
+      "id": "method._WrapperBase.__init__",
+      "type": "method",
+      "name": "__init__",
+      "parameters": [
+        {
+          "name": "args",
+          "type": "Any"
+        },
+        {
+          "name": "kwargs",
+          "type": "Any"
+        }
+      ],
+      "return_type": "None"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_set_node_response",
+      "type": "method",
+      "name": "dcp_set_node_response",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "DCPSwitchNodeResponseParam"
+        }
+      ],
+      "return_type": "Optional[ResultBase]",
+      "description": "APIs"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_set_hover_response",
+      "type": "method",
+      "name": "dcp_set_hover_response",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "DCPSwitchNodeResponseParam"
+        }
+      ],
+      "return_type": "Optional[ResultBase]",
+      "description": "Dcp Set Hover Response"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_get_node_response",
+      "type": "method",
+      "name": "dcp_get_node_response",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "ParamsBase"
+        }
+      ],
+      "return_type": "Optional[DCPSwitchBaseResult]",
+      "description": "Dcp Get Node Response"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_get_hover_response",
+      "type": "method",
+      "name": "dcp_get_hover_response",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "ParamsBase"
+        }
+      ],
+      "return_type": "Optional[DCPSwitchBaseResult]",
+      "description": "Dcp Get Hover Response"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_click_point",
+      "type": "method",
+      "name": "dcp_click_point",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "DCPSwitchBaseParam"
+        }
+      ],
+      "return_type": "Optional[ResultBase]",
+      "description": "Dcp Click Point"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_click_material",
+      "type": "method",
+      "name": "dcp_click_material",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "DCPSwitchBaseParam"
+        }
+      ],
+      "return_type": "Optional[ResultBase]",
+      "description": "Dcp Click Material"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_click_high_light",
+      "type": "method",
+      "name": "dcp_click_high_light",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "DCPSwitchBaseParam"
+        }
+      ],
+      "return_type": "Optional[ResultBase]",
+      "description": "Dcp Click High Light"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_click_hidded",
+      "type": "method",
+      "name": "dcp_click_hidded",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "DCPSwitchBaseParam"
+        }
+      ],
+      "return_type": "Optional[ResultBase]",
+      "description": "Dcp Click Hidded"
+    },
+    {
+      "id": "method.DCPSwitchAPIRegister.dcp_click_building_layer",
+      "type": "method",
+      "name": "dcp_click_building_layer",
+      "parameters": [
+        {
+          "name": "in_params",
+          "type": "DCPSwitchBaseParam"
+        }
+      ],
+      "return_type": "Optional[ResultBase]",
+      "description": "Dcp Click Building Layer"
+    },
+    {
+      "id": "method.SequencerViewModelStructExtensions.get_path",
+      "type": "method",
+      "name": "get_path",
+      "parameters": [
+        {
+          "name": "view_model",
+          "type": "SequencerViewModelScriptingStruct"
+        }
+      ],
+      "return_type": "str",
+      "is_classmethod": true,
+      "description": "Get Path"
+    },
+    {
+      "id": "method.SequencerViewModelStructExtensions.get_label",
+      "type": "method",
+      "name": "get_label",
+      "parameters": [
+        {
+          "name": "view_model",
+          "type": "SequencerViewModelScriptingStruct"
+        }
+      ],
+      "return_type": "str",
+      "is_classmethod": true,
+      "description": "Get Label"
+    },
+    {
+      "id": "method.GaussianSumBloomSettings.__init__",
+      "type": "method",
+      "name": "__init__",
+      "parameters": [
+        {
+          "name": "intensity",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "threshold",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "size_scale",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "filter1_size",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "filter2_size",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "filter3_size",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "filter4_size",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "filter5_size",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "filter6_size",
+          "type": "float",
+          "default": "0.000000"
+        },
+        {
+          "name": "filter1_tint",
+          "type": "LinearColor",
+          "default": "[0.000000, 0.000000, 0.000000, 0.000000]"
+        },
+        {
+          "name": "filter2_tint",
+          "type": "LinearColor",
+          "default": "[0.000000, 0.000000, 0.000000, 0.000000]"
+        },
+        {
+          "name": "filter3_tint",
+          "type": "LinearColor",
+          "default": "[0.000000, 0.000000, 0.000000, 0.000000]"
+        },
+        {
+          "name": "filter4_tint",
+          "type": "LinearColor",
+          "default": "[0.000000, 0.000000, 0.000000, 0.000000]"
+        },
+        {
+          "name": "filter5_tint",
+          "type": "LinearColor",
+          "default": "[0.000000, 0.000000, 0.000000, 0.000000]"
+        },
+        {
+          "name": "filter6_tint",
+          "type": "LinearColor",
+          "default": "[0.000000, 0.000000, 0.000000, 0.000000]"
+        }
+      ],
+      "return_type": "None"
+    },
+    {
+      "id": "enum_value.DisplayClusterConfiguration_PostRenderBlur.NONE",
+      "type": "enum_value",
+      "name": "NONE",
+      "value": 0,
+      "description": "Not use blur postprocess"
+    },
+    {
+      "id": "enum_value.DisplayClusterConfiguration_PostRenderBlur.GAUSSIAN",
+      "type": "enum_value",
+      "name": "GAUSSIAN",
+      "value": 1,
+      "description": "Blur viewport using Gaussian method"
+    },
+    {
+      "id": "enum_value.DisplayClusterConfiguration_PostRenderBlur.DILATE",
+      "type": "enum_value",
+      "name": "DILATE",
+      "value": 2,
+      "description": "Blur viewport using Dilate method"
+    },
+    {
+      "id": "enum_value.AlembicImportType.STATIC_MESH",
+      "type": "enum_value",
+      "name": "STATIC_MESH",
+      "value": 0,
+      "description": "Imports only the first frame as one or multiple static meshes"
+    },
+    {
+      "id": "enum_value.AlembicImportType.GEOMETRY_CACHE",
+      "type": "enum_value",
+      "name": "GEOMETRY_CACHE",
+      "value": 1,
+      "description": "Imports the Alembic file as flipbook and matrix animated objects"
+    },
+    {
+      "id": "enum_value.AlembicImportType.SKELETAL",
+      "type": "enum_value",
+      "name": "SKELETAL",
+      "value": 2,
+      "description": "Imports the Alembic file as a skeletal mesh containing base poses as morph targets and blending between them to achieve the correct animation frame"
+    },
+    {
+      "id": "module.VariantManager",
+      "type": "module",
+      "name": "VariantManager"
+    },
+    {
+      "id": "module.glTFRuntime",
+      "type": "module",
+      "name": "glTFRuntime"
+    },
+    {
+      "id": "module.UnrealEd",
+      "type": "module",
+      "name": "UnrealEd"
+    },
+    {
+      "id": "module.ControlRig",
+      "type": "module",
+      "name": "ControlRig"
+    },
+    {
+      "id": "module.AnimGraph",
+      "type": "module",
+      "name": "AnimGraph"
+    },
+    {
+      "id": "module.DisplayClusterConfiguration",
+      "type": "module",
+      "name": "DisplayClusterConfiguration"
+    },
+    {
+      "id": "module.Engine",
+      "type": "module",
+      "name": "Engine"
+    },
+    {
+      "id": "module.IKRigEditor",
+      "type": "module",
+      "name": "IKRigEditor"
+    },
+    {
+      "id": "module.DynamicMaterialEditor",
+      "type": "module",
+      "name": "DynamicMaterialEditor"
+    },
+    {
+      "id": "module.GameplayCameras",
+      "type": "module",
+      "name": "GameplayCameras"
+    },
+    {
+      "id": "module.PythonScriptPlugin",
+      "type": "module",
+      "name": "PythonScriptPlugin"
+    },
+    {
+      "id": "module.RigVM",
+      "type": "module",
+      "name": "RigVM"
+    },
+    {
+      "id": "module.PCGGeometryScriptInterop",
+      "type": "module",
+      "name": "PCGGeometryScriptInterop"
+    },
+    {
+      "id": "module.DcpAPI",
+      "type": "module",
+      "name": "DcpAPI"
+    },
+    {
+      "id": "module.SequencerCore",
+      "type": "module",
+      "name": "SequencerCore"
+    },
+    {
+      "id": "module.AlembicLibrary",
+      "type": "module",
+      "name": "AlembicLibrary"
+    },
+    {
+      "id": "plugin.VariantManager",
+      "type": "plugin",
+      "name": "VariantManager"
+    },
+    {
+      "id": "plugin.AesWorld",
+      "type": "plugin",
+      "name": "AesWorld"
+    },
+    {
+      "id": "plugin.ControlRig",
+      "type": "plugin",
+      "name": "ControlRig"
+    },
+    {
+      "id": "plugin.nDisplay",
+      "type": "plugin",
+      "name": "nDisplay"
+    },
+    {
+      "id": "plugin.IKRig",
+      "type": "plugin",
+      "name": "IKRig"
+    },
+    {
+      "id": "plugin.DynamicMaterial",
+      "type": "plugin",
+      "name": "DynamicMaterial"
+    },
+    {
+      "id": "plugin.GameplayCameras",
+      "type": "plugin",
+      "name": "GameplayCameras"
+    },
+    {
+      "id": "plugin.PythonScriptPlugin",
+      "type": "plugin",
+      "name": "PythonScriptPlugin"
+    },
+    {
+      "id": "plugin.RigVM",
+      "type": "plugin",
+      "name": "RigVM"
+    },
+    {
+      "id": "plugin.PCGGeometryScriptInterop",
+      "type": "plugin",
+      "name": "PCGGeometryScriptInterop"
+    },
+    {
+      "id": "plugin.WdpAssetAPI",
+      "type": "plugin",
+      "name": "WdpAssetAPI"
+    },
+    {
+      "id": "plugin.AlembicImporter",
+      "type": "plugin",
+      "name": "AlembicImporter"
+    }
+  ],
+  "edges": [
+    {
+      "source": "unreal.CapturableProperty",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.CapturableProperty",
+      "target": "module.VariantManager",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.CapturableProperty",
+      "target": "plugin.VariantManager",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.CapturableProperty",
+      "target": "property.CapturableProperty.display_name",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.CapturableProperty",
+      "target": "method.CapturableProperty.__init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.glTFRuntimeAnimationCurveRemapper",
+      "target": "DelegateBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.glTFRuntimeAnimationCurveRemapper",
+      "target": "module.glTFRuntime",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.glTFRuntimeAnimationCurveRemapper",
+      "target": "plugin.AesWorld",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.SoundSurroundExporterWAV",
+      "target": "Exporter",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.SoundSurroundExporterWAV",
+      "target": "module.UnrealEd",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.SoundSurroundExporterWAV",
+      "target": "property.SoundSurroundExporterWAV.export_task",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.SoundSurroundExporterWAV",
+      "target": "property.SoundSurroundExporterWAV.format_description",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.SoundSurroundExporterWAV",
+      "target": "property.SoundSurroundExporterWAV.format_extension",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.SoundSurroundExporterWAV",
+      "target": "property.SoundSurroundExporterWAV.supported_class",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.SoundSurroundExporterWAV",
+      "target": "property.SoundSurroundExporterWAV.text",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.LightmassParameterValue",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.LightmassParameterValue",
+      "target": "module.UnrealEd",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.LightmassParameterValue",
+      "target": "property.LightmassParameterValue.override",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "target": "RigUnit_DynamicHierarchyBaseMutable",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "target": "module.ControlRig",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "target": "plugin.ControlRig",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "target": "property.RigUnit_HierarchyAddPhysicsSolver.execute_context",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "target": "property.RigUnit_HierarchyAddPhysicsSolver.name",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "target": "property.RigUnit_HierarchyAddPhysicsSolver.solver",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_HierarchyAddPhysicsSolver",
+      "target": "method.RigUnit_HierarchyAddPhysicsSolver.__init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.AnimGraphNode_CustomTransitionResult",
+      "target": "AnimGraphNode_StateResult",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.AnimGraphNode_CustomTransitionResult",
+      "target": "module.AnimGraph",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.AnimGraphNode_CustomTransitionResult",
+      "target": "property.AnimGraphNode_CustomTransitionResult.become_relevant_function",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.AnimGraphNode_CustomTransitionResult",
+      "target": "property.AnimGraphNode_CustomTransitionResult.binding",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.AnimGraphNode_CustomTransitionResult",
+      "target": "property.AnimGraphNode_CustomTransitionResult.initial_update_function",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.AnimGraphNode_CustomTransitionResult",
+      "target": "property.AnimGraphNode_CustomTransitionResult.node",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.AnimGraphNode_CustomTransitionResult",
+      "target": "property.AnimGraphNode_CustomTransitionResult.show_pin_for_properties",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.DisplayClusterConfiguration_PostRenderBlur",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.DisplayClusterConfiguration_PostRenderBlur",
+      "target": "module.DisplayClusterConfiguration",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.DisplayClusterConfiguration_PostRenderBlur",
+      "target": "plugin.nDisplay",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.DisplayClusterConfiguration_PostRenderBlur",
+      "target": "enum_value.DisplayClusterConfiguration_PostRenderBlur.NONE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "unreal.DisplayClusterConfiguration_PostRenderBlur",
+      "target": "enum_value.DisplayClusterConfiguration_PostRenderBlur.GAUSSIAN",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "unreal.DisplayClusterConfiguration_PostRenderBlur",
+      "target": "enum_value.DisplayClusterConfiguration_PostRenderBlur.DILATE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "unreal.QuaternionSpringState",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.QuaternionSpringState",
+      "target": "module.Engine",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.AnimNode_PreviewRetargetPose",
+      "target": "AnimNode_Base",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.AnimNode_PreviewRetargetPose",
+      "target": "module.IKRigEditor",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.AnimNode_PreviewRetargetPose",
+      "target": "plugin.IKRig",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.DMMaterialStageExpressionObjectRadius",
+      "target": "DMMaterialStageExpression",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.DMMaterialStageExpressionObjectRadius",
+      "target": "module.DynamicMaterialEditor",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.DMMaterialStageExpressionObjectRadius",
+      "target": "plugin.DynamicMaterial",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.CameraRigProxyAsset",
+      "target": "Object",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.CameraRigProxyAsset",
+      "target": "module.GameplayCameras",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.CameraRigProxyAsset",
+      "target": "plugin.GameplayCameras",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.PawnNoiseEmitterComponent",
+      "target": "ActorComponent",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.PawnNoiseEmitterComponent",
+      "target": "module.Engine",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.PawnNoiseEmitterComponent",
+      "target": "property.PawnNoiseEmitterComponent.noise_lifetime",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.PawnNoiseEmitterComponent",
+      "target": "method.PawnNoiseEmitterComponent.make_noise",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "RigUnit_HighlevelBaseMutable",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "module.ControlRig",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "plugin.ControlRig",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "property.RigUnit_TwistBones.start_bone",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "property.RigUnit_TwistBones.end_bone",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "property.RigUnit_TwistBones.twist_axis",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "property.RigUnit_TwistBones.pole_axis",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "property.RigUnit_TwistBones.twist_ease_type",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "property.RigUnit_TwistBones.weight",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "property.RigUnit_TwistBones.propagate_to_children",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigUnit_TwistBones",
+      "target": "method.RigUnit_TwistBones.__init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.PythonLogOutputEntry",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.PythonLogOutputEntry",
+      "target": "module.PythonScriptPlugin",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.PythonLogOutputEntry",
+      "target": "plugin.PythonScriptPlugin",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.PythonLogOutputEntry",
+      "target": "property.PythonLogOutputEntry.type",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.PythonLogOutputEntry",
+      "target": "property.PythonLogOutputEntry.output",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.PythonLogOutputEntry",
+      "target": "method.PythonLogOutputEntry.__init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.RigVMFunction_StringToLowercase",
+      "target": "RigVMFunction_StringBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.RigVMFunction_StringToLowercase",
+      "target": "module.RigVM",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.RigVMFunction_StringToLowercase",
+      "target": "plugin.RigVM",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.RigVMFunction_StringToLowercase",
+      "target": "property.RigVMFunction_StringToLowercase.value",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigVMFunction_StringToLowercase",
+      "target": "property.RigVMFunction_StringToLowercase.result",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.RigVMFunction_StringToLowercase",
+      "target": "method.RigVMFunction_StringToLowercase.__init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal._WrapperBase",
+      "target": "object",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal._WrapperBase",
+      "target": "method._WrapperBase.__init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.PCGDynamicMeshManagedComponent",
+      "target": "PCGManagedComponent",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.PCGDynamicMeshManagedComponent",
+      "target": "module.PCGGeometryScriptInterop",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.PCGDynamicMeshManagedComponent",
+      "target": "plugin.PCGGeometryScriptInterop",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "ApiClassBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "module.DcpAPI",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "plugin.WdpAssetAPI",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_set_node_response",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_set_hover_response",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_get_node_response",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_get_hover_response",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_click_point",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_click_material",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_click_high_light",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_click_hidded",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DCPSwitchAPIRegister",
+      "target": "method.DCPSwitchAPIRegister.dcp_click_building_layer",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "module.Engine",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.intensity",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.threshold",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.size_scale",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter1_size",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter2_size",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter3_size",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter4_size",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter5_size",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter6_size",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter1_tint",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter2_tint",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter3_tint",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter4_tint",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter5_tint",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "property.GaussianSumBloomSettings.filter6_tint",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.GaussianSumBloomSettings",
+      "target": "method.GaussianSumBloomSettings.__init__",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.SequencerViewModelStructExtensions",
+      "target": "BlueprintFunctionLibrary",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.SequencerViewModelStructExtensions",
+      "target": "module.SequencerCore",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.SequencerViewModelStructExtensions",
+      "target": "method.SequencerViewModelStructExtensions.get_path",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.SequencerViewModelStructExtensions",
+      "target": "method.SequencerViewModelStructExtensions.get_label",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "unreal.DMMaterialStageExpressionTransform",
+      "target": "DMMaterialStageExpression",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.DMMaterialStageExpressionTransform",
+      "target": "module.DynamicMaterialEditor",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.DMMaterialStageExpressionTransform",
+      "target": "plugin.DynamicMaterial",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.DMMaterialStageExpressionTransform",
+      "target": "property.DMMaterialStageExpressionTransform.transform_source_type",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.DMMaterialStageExpressionTransform",
+      "target": "property.DMMaterialStageExpressionTransform.transform_type",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "unreal.AlembicImportType",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "unreal.AlembicImportType",
+      "target": "module.AlembicLibrary",
+      "type": "BELONGS_TO_MODULE"
+    },
+    {
+      "source": "unreal.AlembicImportType",
+      "target": "plugin.AlembicImporter",
+      "type": "BELONGS_TO_PLUGIN"
+    },
+    {
+      "source": "unreal.AlembicImportType",
+      "target": "enum_value.AlembicImportType.STATIC_MESH",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "unreal.AlembicImportType",
+      "target": "enum_value.AlembicImportType.GEOMETRY_CACHE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "unreal.AlembicImportType",
+      "target": "enum_value.AlembicImportType.SKELETAL",
+      "type": "HAS_ENUM_VALUE"
+    }
+  ],
+  "metadata": {
+    "chunk_id": 38,
+    "total_chunks": 702,
+    "source_files": [
+      "CapturableProperty Objects.md",
+      "glTFRuntimeAnimationCurveRemapper Objects.md",
+      "SoundSurroundExporterWAV Objects.md",
+      "LightmassParameterValue Objects.md",
+      "RigUnit__HierarchyAddPhysicsSolver Objects.md",
+      "AnimGraphNode__CustomTransitionResult Objects.md",
+      "DisplayClusterConfiguration_PostRenderBlur Objects.md",
+      "QuaternionSpringState Objects.md",
+      "AnimNode__PreviewRetargetPose Objects.md",
+      "DMMaterialStageExpressionObjectRadius Objects.md",
+      "CameraRigProxyAsset Objects.md",
+      "PawnNoiseEmitterComponent Objects.md",
+      "RigUnit_TwistBones Objects.md",
+      "PythonLogOutputEntry Objects.md",
+      "RigVMFunction__StringToLowercase Objects.md",
+      "__WrapperBase Objects.md",
+      "PCGDynamicMeshManagedComponent Objects.md",
+      "DCPSwitchAPIRegister Objects.md",
+      "GaussianSumBloomSettings Objects.md",
+      "SequencerViewModelStructExtensions Objects.md",
+      "DMMaterialStageExpressionTransform Objects.md",
+      "AlembicImportType Objects.md"
+    ],
+    "extraction_timestamp": "2026-04-12T00:00:00Z"
+  }
+}

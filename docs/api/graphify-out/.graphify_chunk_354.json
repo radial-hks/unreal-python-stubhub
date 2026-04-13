@@ -1,0 +1,919 @@
+{
+  "nodes": [
+    {
+      "id": "niagaradatachannel_niagaradatachannel",
+      "label": "Niagara Data Channel",
+      "file_type": "code",
+      "source_file": "NiagaraDataChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannel_niagaravariable",
+      "label": "Niagara Variable",
+      "file_type": "code",
+      "source_file": "NiagaraDataChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foreachassetiteratorsignature_foreachassetiteratorsignature",
+      "label": "For Each Asset Iterator Signature",
+      "file_type": "code",
+      "source_file": "ForEachAssetIteratorSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stereolayershapecylinder_stereolayershapecylinder",
+      "label": "Stereo Layer Shape Cylinder",
+      "file_type": "code",
+      "source_file": "StereoLayerShapeCylinder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stereolayershapecylinder_stereolayershape",
+      "label": "Stereo Layer Shape",
+      "file_type": "code",
+      "source_file": "StereoLayerShapeCylinder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsassetsolvertype_physicsassetsolvertype",
+      "label": "Physics Asset Solver Type",
+      "file_type": "code",
+      "source_file": "PhysicsAssetSolverType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animrichcurve_rigvmfunction_animrichcurve",
+      "label": "Rig VMFunction Anim Rich Curve",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AnimRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animrichcurve_rigvmfunction_animbase",
+      "label": "Rig VMFunction Anim Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AnimRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animrichcurve_runtimefloatcurve",
+      "label": "Runtime Float Curve",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AnimRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activatedevicepropertyparams_activatedevicepropertyparams",
+      "label": "Activate Device Property Params",
+      "file_type": "code",
+      "source_file": "ActivateDevicePropertyParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activatedevicepropertyparams_platformuserid",
+      "label": "Platform User Id",
+      "file_type": "code",
+      "source_file": "ActivateDevicePropertyParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activatedevicepropertyparams_inputdeviceid",
+      "label": "Input Device Id",
+      "file_type": "code",
+      "source_file": "ActivateDevicePropertyParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activatedevicepropertyparams_inputdevicesubsystem",
+      "label": "Input Device Subsystem",
+      "file_type": "code",
+      "source_file": "ActivateDevicePropertyParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiopanellayouttype_audiopanellayouttype",
+      "label": "Audio Panel Layout Type",
+      "file_type": "code",
+      "source_file": "AudioPanelLayoutType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryaggregateop_rigvmfunction_mathfloatbinaryaggregateop",
+      "label": "Rig VMFunction Math Float Binary Aggregate Op",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryaggregateop_rigvmfunction_mathfloatbase",
+      "label": "Rig VMFunction Math Float Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectiongetall_rigunit_collectiongetall",
+      "label": "Rig Unit Collection Get All",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionGetAll Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectiongetall_rigunit_collectionbase",
+      "label": "Rig Unit Collection Base",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionGetAll Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectiongetall_rigelementtype",
+      "label": "Rig Element Type",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionGetAll Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectiongetall_rigelementkey",
+      "label": "Rig Element Key",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionGetAll Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_subinput_animgraphnode_subinput",
+      "label": "Anim Graph Node Sub Input",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_SubInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_subinput_animgraphnode_linkedinputpose",
+      "label": "Anim Graph Node Linked Input Pose",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_SubInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxroundedcornersettings_avatoolboxroundedcornersettings",
+      "label": "Ava Toolbox Rounded Corner Settings",
+      "file_type": "code",
+      "source_file": "AvaToolboxRoundedCornerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxroundedcornersettings_avashaperoundedcornersettings",
+      "label": "Ava Shape Rounded Corner Settings",
+      "file_type": "code",
+      "source_file": "AvaToolboxRoundedCornerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oneditnewactorsplaced_oneditnewactorsplaced",
+      "label": "On Edit New Actors Placed",
+      "file_type": "code",
+      "source_file": "OnEditNewActorsPlaced Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blutilityactor_blutilityactor",
+      "label": "Blutility Actor",
+      "file_type": "code",
+      "source_file": "BlutilityActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blutilityactor_placededitorutilitybase",
+      "label": "Placed Editor Utility Base",
+      "file_type": "code",
+      "source_file": "BlutilityActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapelayerinfoobject_landscapelayerinfoobject",
+      "label": "Landscape Layer Info Object",
+      "file_type": "code",
+      "source_file": "LandscapeLayerInfoObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapelayerinfoobject_physicalmaterial",
+      "label": "Physical Material",
+      "file_type": "code",
+      "source_file": "LandscapeLayerInfoObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapelayerinfoobject_texture2d",
+      "label": "Texture 2D",
+      "file_type": "code",
+      "source_file": "LandscapeLayerInfoObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_startswith_rigunit_startswith",
+      "label": "Rig Unit Starts With",
+      "file_type": "code",
+      "source_file": "RigUnit_StartsWith Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_startswith_rigvmfunction_startswith",
+      "label": "Rig VMFunction Starts With",
+      "file_type": "code",
+      "source_file": "RigUnit_StartsWith Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixfromtransform_rigvmfunction_mathmatrixfromtransform",
+      "label": "Rig VMFunction Math Matrix From Transform",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixfromtransform_rigvmfunction_mathmatrixbase",
+      "label": "Rig VMFunction Math Matrix Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixfromtransform_transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixfromtransform_matrix",
+      "label": "Matrix",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bandwidthtestactor_bandwidthtestactor",
+      "label": "Bandwidth Test Actor",
+      "file_type": "code",
+      "source_file": "BandwidthTestActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bandwidthtestactor_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "BandwidthTestActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bandwidthtestactor_propertyreplication",
+      "label": "Property Replication",
+      "file_type": "code",
+      "source_file": "BandwidthTestActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bandwidthtestactor_netdeltaserializer",
+      "label": "Net Delta Serializer",
+      "file_type": "code",
+      "source_file": "BandwidthTestActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationdataresolution_navigationdataresolution",
+      "label": "Navigation Data Resolution",
+      "file_type": "code",
+      "source_file": "NavigationDataResolution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxsceneoptionscreatehierarchytype_fbxsceneoptionscreatehierarchytype",
+      "label": "FBXScene Options Create Hierarchy Type",
+      "file_type": "code",
+      "source_file": "FBXSceneOptionsCreateHierarchyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxsceneoptionscreatehierarchytype_fbxhierarchy",
+      "label": "FBX Hierarchy",
+      "file_type": "code",
+      "source_file": "FBXSceneOptionsCreateHierarchyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxsceneoptionscreatehierarchytype_blueprint",
+      "label": "Blueprint",
+      "file_type": "code",
+      "source_file": "FBXSceneOptionsCreateHierarchyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "specularprofilestruct_specularprofilestruct",
+      "label": "Specular Profile Struct",
+      "file_type": "code",
+      "source_file": "SpecularProfileStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "specularprofilestruct_specularprofileformat",
+      "label": "Specular Profile Format",
+      "file_type": "code",
+      "source_file": "SpecularProfileStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "specularprofilestruct_runtimecurvelinearcolor",
+      "label": "Runtime Curve Linear Color",
+      "file_type": "code",
+      "source_file": "SpecularProfileStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomassetimportdata_groomassetimportdata",
+      "label": "Groom Asset Import Data",
+      "file_type": "code",
+      "source_file": "GroomAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomassetimportdata_assetimportdata",
+      "label": "Asset Import Data",
+      "file_type": "code",
+      "source_file": "GroomAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatcos_rigunit_mathfloatcos",
+      "label": "Rig Unit Math Float Cos",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatCos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatcos_rigvmfunction_mathfloatcos",
+      "label": "Rig VMFunction Math Float Cos",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatCos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "niagaradatachannel_niagaradatachannel",
+      "target": "niagaradatachannel_niagaravariable",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stereolayershapecylinder_stereolayershapecylinder",
+      "target": "stereolayershapecylinder_stereolayershape",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StereoLayerShapeCylinder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_animrichcurve_rigvmfunction_animrichcurve",
+      "target": "rigvmfunction_animrichcurve_rigvmfunction_animbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_AnimRichCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_animrichcurve_rigvmfunction_animrichcurve",
+      "target": "rigvmfunction_animrichcurve_runtimefloatcurve",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_AnimRichCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activatedevicepropertyparams_activatedevicepropertyparams",
+      "target": "activatedevicepropertyparams_platformuserid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActivateDevicePropertyParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activatedevicepropertyparams_activatedevicepropertyparams",
+      "target": "activatedevicepropertyparams_inputdeviceid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActivateDevicePropertyParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "activatedevicepropertyparams_activatedevicepropertyparams",
+      "target": "activatedevicepropertyparams_inputdevicesubsystem",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ActivateDevicePropertyParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatbinaryaggregateop_rigvmfunction_mathfloatbinaryaggregateop",
+      "target": "rigvmfunction_mathfloatbinaryaggregateop_rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectiongetall_rigunit_collectiongetall",
+      "target": "rigunit_collectiongetall_rigunit_collectionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionGetAll Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectiongetall_rigunit_collectiongetall",
+      "target": "rigunit_collectiongetall_rigelementtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionGetAll Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectiongetall_rigunit_collectiongetall",
+      "target": "rigunit_collectiongetall_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionGetAll Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_subinput_animgraphnode_subinput",
+      "target": "animgraphnode_subinput_animgraphnode_linkedinputpose",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_SubInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatoolboxroundedcornersettings_avatoolboxroundedcornersettings",
+      "target": "avatoolboxroundedcornersettings_avashaperoundedcornersettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaToolboxRoundedCornerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blutilityactor_blutilityactor",
+      "target": "blutilityactor_placededitorutilitybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlutilityActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapelayerinfoobject_landscapelayerinfoobject",
+      "target": "landscapelayerinfoobject_physicalmaterial",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandscapeLayerInfoObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapelayerinfoobject_landscapelayerinfoobject",
+      "target": "landscapelayerinfoobject_texture2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandscapeLayerInfoObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_startswith_rigunit_startswith",
+      "target": "rigunit_startswith_rigvmfunction_startswith",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StartsWith Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixfromtransform_rigvmfunction_mathmatrixfromtransform",
+      "target": "rigvmfunction_mathmatrixfromtransform_rigvmfunction_mathmatrixbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixfromtransform_rigvmfunction_mathmatrixfromtransform",
+      "target": "rigvmfunction_mathmatrixfromtransform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixfromtransform_rigvmfunction_mathmatrixfromtransform",
+      "target": "rigvmfunction_mathmatrixfromtransform_matrix",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bandwidthtestactor_bandwidthtestactor",
+      "target": "bandwidthtestactor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BandwidthTestActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bandwidthtestactor_bandwidthtestactor",
+      "target": "bandwidthtestactor_propertyreplication",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "BandwidthTestActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bandwidthtestactor_bandwidthtestactor",
+      "target": "bandwidthtestactor_netdeltaserializer",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "BandwidthTestActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbxsceneoptionscreatehierarchytype_fbxsceneoptionscreatehierarchytype",
+      "target": "fbxsceneoptionscreatehierarchytype_fbxhierarchy",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FBXSceneOptionsCreateHierarchyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbxsceneoptionscreatehierarchytype_fbxsceneoptionscreatehierarchytype",
+      "target": "fbxsceneoptionscreatehierarchytype_blueprint",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FBXSceneOptionsCreateHierarchyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "specularprofilestruct_specularprofilestruct",
+      "target": "specularprofilestruct_specularprofileformat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpecularProfileStruct Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "specularprofilestruct_specularprofilestruct",
+      "target": "specularprofilestruct_runtimecurvelinearcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpecularProfileStruct Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "specularprofilestruct_specularprofilestruct",
+      "target": "landscapelayerinfoobject_texture2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpecularProfileStruct Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomassetimportdata_groomassetimportdata",
+      "target": "groomassetimportdata_assetimportdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomAssetImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatcos_rigunit_mathfloatcos",
+      "target": "rigunit_mathfloatcos_rigvmfunction_mathfloatcos",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatCos Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatbinaryaggregateop_rigvmfunction_mathfloatbinaryaggregateop",
+      "target": "rigvmfunction_animrichcurve_rigvmfunction_animbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathFloatBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixfromtransform_rigvmfunction_mathmatrixfromtransform",
+      "target": "rigvmfunction_animrichcurve_rigvmfunction_animbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_function_hierarchy",
+      "label": "RigVM Math Function Hierarchy",
+      "nodes": [
+        "rigvmfunction_mathfloatbinaryaggregateop_rigvmfunction_mathfloatbase",
+        "rigvmfunction_animrichcurve_rigvmfunction_animbase",
+        "rigvmfunction_mathmatrixfromtransform_rigvmfunction_mathmatrixbase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Renamed Classes",
+      "nodes": [
+        "animgraphnode_subinput_animgraphnode_subinput",
+        "avatoolboxroundedcornersettings_avatoolboxroundedcornersettings",
+        "blutilityactor_blutilityactor",
+        "rigunit_startswith_rigunit_startswith",
+        "rigunit_mathfloatcos_rigunit_mathfloatcos"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

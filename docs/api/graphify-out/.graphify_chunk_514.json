@@ -1,0 +1,739 @@
+{
+  "nodes": [
+    {
+      "id": "timeofdaysequencedirector_timeofdaysequencedirector",
+      "label": "TimeOfDaySequenceDirector",
+      "file_type": "code",
+      "source_file": "TimeOfDaySequenceDirector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencedirector_daysequencedirector",
+      "label": "DaySequenceDirector",
+      "file_type": "code",
+      "source_file": "TimeOfDaySequenceDirector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setintanimationchannel_rigunit_setintanimationchannel",
+      "label": "RigUnit_SetIntAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit_SetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setanimationchannelbase_rigunit_setanimationchannelbase",
+      "label": "RigUnit_SetAnimationChannelBase",
+      "file_type": "code",
+      "source_file": "RigUnit_SetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtablistwidget_earthtablistwidget",
+      "label": "EarthTabListWidget",
+      "file_type": "code",
+      "source_file": "EarthTabListWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userwidget_userwidget",
+      "label": "UserWidget",
+      "file_type": "code",
+      "source_file": "EarthTabListWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialxtexturesampleblurfilter_materialxtexturesampleblurfilter",
+      "label": "MaterialXTextureSampleBlurFilter",
+      "file_type": "code",
+      "source_file": "MaterialXTextureSampleBlurFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "world_world",
+      "label": "World",
+      "file_type": "code",
+      "source_file": "World Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "World Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesentitytype_aesentitytype",
+      "label": "AesEntityType",
+      "file_type": "code",
+      "source_file": "AesEntityType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "menuplacement_menuplacement",
+      "label": "MenuPlacement",
+      "file_type": "code",
+      "source_file": "MenuPlacement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisualgroupparam_aestilesvisualgroupparam",
+      "label": "AesTilesVisualGroupParam",
+      "file_type": "code",
+      "source_file": "AesTilesVisualGroupParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisualapiparambase_aestilesvisualapiparambase",
+      "label": "AesTilesVisualApiParamBase",
+      "file_type": "code",
+      "source_file": "AesTilesVisualGroupParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "remotecontroltrackercomponent_remotecontroltrackercomponent",
+      "label": "RemoteControlTrackerComponent",
+      "file_type": "code",
+      "source_file": "RemoteControlTrackerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent_actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "code",
+      "source_file": "RemoteControlTrackerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setfloatainmationchannel_rigunit_setfloatainmationchannel",
+      "label": "RigUnit_SetFloatAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit__SetFloatAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarascalabilityoverrides_niagarascalabilityoverrides",
+      "label": "NiagaraScalabilityOverrides",
+      "file_type": "code",
+      "source_file": "NiagaraScalabilityOverrides Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystemscalabilityoverride_niagarasystemscalabilityoverride",
+      "label": "NiagaraSystemScalabilityOverride",
+      "file_type": "code",
+      "source_file": "NiagaraScalabilityOverrides Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "int32range_int32range",
+      "label": "Int32Range",
+      "file_type": "code",
+      "source_file": "Int32Range Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "Int32Range Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitydefineflags_entitydefineflags",
+      "label": "EntityDefineFlags",
+      "file_type": "code",
+      "source_file": "EntityDefineFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd",
+      "label": "RigVMFunction_MathColorAdd",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathColorAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolorbinaryaggregateop_rigvmfunction_mathcolorbinaryaggregateop",
+      "label": "RigVMFunction_MathColorBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathColorAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixbinaryop_rigvmfunction_mathmatrixbinaryop",
+      "label": "RigVMFunction_MathMatrixBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixbase_rigvmfunction_mathmatrixbase",
+      "label": "RigVMFunction_MathMatrixBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avabroadcastrendertargetmediaoutput_avabroadcastrendertargetmediaoutput",
+      "label": "AvaBroadcastRenderTargetMediaOutput",
+      "file_type": "code",
+      "source_file": "AvaBroadcastRenderTargetMediaOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaoutput_mediaoutput",
+      "label": "MediaOutput",
+      "file_type": "code",
+      "source_file": "AvaBroadcastRenderTargetMediaOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_simbase_rigunit_simbase",
+      "label": "RigUnit_SimBase",
+      "file_type": "code",
+      "source_file": "RigUnit__SimBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_simbase_rigvmfunction_simbase",
+      "label": "RigVMFunction_SimBase",
+      "file_type": "code",
+      "source_file": "RigUnit__SimBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthoverlayersamplertype_earthoverlayersamplertype",
+      "label": "EarthOverlayerSamplerType",
+      "file_type": "code",
+      "source_file": "EarthOverlayerSamplerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector4d_vector4d",
+      "label": "Vector4d",
+      "file_type": "code",
+      "source_file": "Vector4d Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "autoselfrotationsettings_autoselfrotationsettings",
+      "label": "AutoSelfRotationSettings",
+      "file_type": "code",
+      "source_file": "AutoSelfRotationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesruntimeresourcemountinforesult_aesruntimeresourcemountinforesult",
+      "label": "AesRuntimeResourceMountInfoResult",
+      "file_type": "code",
+      "source_file": "AesRuntimeResourceMountInfoResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "speedtreeimportdata_speedtreeimportdata",
+      "label": "SpeedTreeImportData",
+      "file_type": "code",
+      "source_file": "SpeedTreeImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetimportdata_assetimportdata",
+      "label": "AssetImportData",
+      "file_type": "code",
+      "source_file": "SpeedTreeImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtabbuttonwidget_earthtabbuttonwidget",
+      "label": "EarthTabButtonWidget",
+      "file_type": "code",
+      "source_file": "EarthTabListWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtabcontentwidget_earthtabcontentwidget",
+      "label": "EarthTabContentWidget",
+      "file_type": "code",
+      "source_file": "EarthTabListWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldsettings_worldsettings",
+      "label": "WorldSettings",
+      "file_type": "code",
+      "source_file": "World Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datalayermanager_datalayermanager",
+      "label": "DataLayerManager",
+      "file_type": "code",
+      "source_file": "World Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "timeofdaysequencedirector_timeofdaysequencedirector",
+      "target": "daysequencedirector_daysequencedirector",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeOfDaySequenceDirector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setintanimationchannel_rigunit_setintanimationchannel",
+      "target": "rigunit_setanimationchannelbase_rigunit_setanimationchannelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtablistwidget_earthtablistwidget",
+      "target": "userwidget_userwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTabListWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtablistwidget_earthtablistwidget",
+      "target": "earthtabbuttonwidget_earthtabbuttonwidget",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTabListWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtablistwidget_earthtablistwidget",
+      "target": "earthtabcontentwidget_earthtabcontentwidget",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTabListWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "world_world",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "World Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "world_world",
+      "target": "worldsettings_worldsettings",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "World Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "world_world",
+      "target": "datalayermanager_datalayermanager",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "World Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesvisualgroupparam_aestilesvisualgroupparam",
+      "target": "aestilesvisualapiparambase_aestilesvisualapiparambase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesVisualGroupParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "remotecontroltrackercomponent_remotecontroltrackercomponent",
+      "target": "actorcomponent_actorcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RemoteControlTrackerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setfloatainmationchannel_rigunit_setfloatainmationchannel",
+      "target": "rigunit_setanimationchannelbase_rigunit_setanimationchannelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetFloatAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarascalabilityoverrides_niagarascalabilityoverrides",
+      "target": "niagarasystemscalabilityoverride_niagarasystemscalabilityoverride",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraScalabilityOverrides Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "int32range_int32range",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Int32Range Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd",
+      "target": "rigvmfunction_mathcolorbinaryaggregateop_rigvmfunction_mathcolorbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathColorAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixbinaryop_rigvmfunction_mathmatrixbinaryop",
+      "target": "rigvmfunction_mathmatrixbase_rigvmfunction_mathmatrixbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avabroadcastrendertargetmediaoutput_avabroadcastrendertargetmediaoutput",
+      "target": "mediaoutput_mediaoutput",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaBroadcastRenderTargetMediaOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_simbase_rigunit_simbase",
+      "target": "rigvmfunction_simbase_rigvmfunction_simbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SimBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vector4d_vector4d",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Vector4d Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "autoselfrotationsettings_autoselfrotationsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AutoSelfRotationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesruntimeresourcemountinforesult_aesruntimeresourcemountinforesult",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesRuntimeResourceMountInfoResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "speedtreeimportdata_speedtreeimportdata",
+      "target": "assetimportdata_assetimportdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpeedTreeImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setintanimationchannel_rigunit_setintanimationchannel",
+      "target": "rigunit_setfloatainmationchannel_rigunit_setfloatainmationchannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit_SetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timeofdaysequencedirector_timeofdaysequencedirector",
+      "target": "daysequencedirector_daysequencedirector",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeOfDaySequenceDirector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarascalabilityoverrides_niagarascalabilityoverrides",
+      "target": "niagarasystemscalabilityoverride_niagarasystemscalabilityoverride",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraScalabilityOverrides Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_simbase_rigunit_simbase",
+      "target": "rigvmfunction_simbase_rigvmfunction_simbase",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SimBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd",
+      "target": "rigvmfunction_mathmatrixbinaryop_rigvmfunction_mathmatrixbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathColorAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Renamed Classes",
+      "nodes": [
+        "timeofdaysequencedirector_timeofdaysequencedirector",
+        "niagarascalabilityoverrides_niagarascalabilityoverrides",
+        "rigunit_simbase_rigunit_simbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "TimeOfDaySequenceDirector Objects.md"
+    },
+    {
+      "id": "animation_channel_setters",
+      "label": "Animation Channel Setters",
+      "nodes": [
+        "rigunit_setintanimationchannel_rigunit_setintanimationchannel",
+        "rigunit_setfloatainmationchannel_rigunit_setfloatainmationchannel",
+        "rigunit_setanimationchannelbase_rigunit_setanimationchannelbase"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetIntAnimationChannel Objects.md"
+    },
+    {
+      "id": "rig_math_binary_operations",
+      "label": "Rig Math Binary Operations",
+      "nodes": [
+        "rigvmfunction_mathcoloradd_rigvmfunction_mathcoloradd",
+        "rigvmfunction_mathmatrixbinaryop_rigvmfunction_mathmatrixbinaryop",
+        "rigvmfunction_mathcolorbinaryaggregateop_rigvmfunction_mathcolorbinaryaggregateop",
+        "rigvmfunction_mathmatrixbase_rigvmfunction_mathmatrixbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathColorAdd Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

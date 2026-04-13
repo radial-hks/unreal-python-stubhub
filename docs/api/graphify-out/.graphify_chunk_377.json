@@ -1,0 +1,747 @@
+{
+  "nodes": [
+    {
+      "id": "stereochannelmode_stereochannelmode",
+      "label": "Stereo Channel Mode",
+      "file_type": "document",
+      "source_file": "StereoChannelMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjunctionsurfaceprefab_earthjunctionsurfaceprefab",
+      "label": "Earth Junction Surface Prefab",
+      "file_type": "document",
+      "source_file": "EarthJunctionSurfacePrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leaderboardlibrary_leaderboardlibrary",
+      "label": "Leaderboard Library",
+      "file_type": "document",
+      "source_file": "LeaderboardLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "haircardsguidetype_haircardsguidetype",
+      "label": "Hair Cards Guide Type",
+      "file_type": "document",
+      "source_file": "HairCardsGuideType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringcontains_rigunit_stringcontains",
+      "label": "RigUnit StringContains",
+      "file_type": "document",
+      "source_file": "RigUnit__StringContains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatebrushassetfactory_slatebrushassetfactory",
+      "label": "Slate Brush Asset Factory",
+      "file_type": "document",
+      "source_file": "SlateBrushAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationqueryresult_navigationqueryresult",
+      "label": "Navigation Query Result",
+      "file_type": "document",
+      "source_file": "NavigationQueryResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simplecamerashakepattern_simplecamerashakepattern",
+      "label": "Simple Camera Shake Pattern",
+      "file_type": "document",
+      "source_file": "SimpleCameraShakePattern Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceeffectorplanetype_ceeffectorplanetype",
+      "label": "CE Effector Plane Type",
+      "file_type": "document",
+      "source_file": "CEEffectorPlaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_multifabrik_rigunit_multifabrik",
+      "label": "RigUnit MultiFABRIK",
+      "file_type": "document",
+      "source_file": "RigUnit__MultiFABRIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthknobsize_synthknobsize",
+      "label": "Synth Knob Size",
+      "file_type": "document",
+      "source_file": "SynthKnobSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_curve_posesearchfeaturechannel_curve",
+      "label": "Pose Search Feature Channel Curve",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Curve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetimecodesource_moviescenetimecodesource",
+      "label": "Movie Scene Timecode Source",
+      "file_type": "document",
+      "source_file": "MovieSceneTimecodeSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionsquareroot_dmmaterialstageexpressionsquareroot",
+      "label": "DM Material Stage Expression Square Root",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionSquareRoot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmutablebase_rigvmfunction_mathmutablebase",
+      "label": "RigVMFunction Math Mutable Base",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathMutableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenebooltrack_moviescenebooltrack",
+      "label": "Movie Scene Bool Track",
+      "file_type": "document",
+      "source_file": "MovieSceneBoolTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avareferencecontainer_avareferencecontainer",
+      "label": "Ava Reference Container",
+      "file_type": "document",
+      "source_file": "AvaReferenceContainer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "speedtreeimportfactory_speedtreeimportfactory",
+      "label": "SpeedTree Import Factory",
+      "file_type": "document",
+      "source_file": "SpeedTreeImportFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_geometryscript_meshselection",
+      "label": "Geometry Script Mesh Selection",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetexporttask_assetexporttask",
+      "label": "Asset Export Task",
+      "file_type": "document",
+      "source_file": "AssetExportTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorinitstatechangedbpdelegate_actorinitstatechangedbpdelegate",
+      "label": "Actor Init State Changed BP Delegate",
+      "file_type": "document",
+      "source_file": "ActorInitStateChangedBPDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgizmocoordaxisaction_earthgizmocoordaxisaction",
+      "label": "Earth Gizmo Coord Axis Action",
+      "file_type": "document",
+      "source_file": "EarthGizmoCoordAxisAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_multifabrik_fabrik_algorithm",
+      "label": "FABRIK Algorithm",
+      "file_type": "document",
+      "source_file": "RigUnit__MultiFABRIK Objects.md",
+      "source_location": "lines 7-9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leaderboardlibrary_write_leaderboard_integer",
+      "label": "write_leaderboard_integer Function",
+      "file_type": "document",
+      "source_file": "LeaderboardLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceeffectorplanetype_set_plane_spacing",
+      "label": "set_plane_spacing Function",
+      "file_type": "document",
+      "source_file": "CEEffectorPlaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceeffectorplanetype_get_plane_spacing",
+      "label": "get_plane_spacing Function",
+      "file_type": "document",
+      "source_file": "CEEffectorPlaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_curve_bp_get_curve_value",
+      "label": "bp_get_curve_value Function",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Curve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_selection_boundary_edges",
+      "label": "select_selection_boundary_edges Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_sharp_edges",
+      "label": "select_mesh_sharp_edges Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_elements_with_plane",
+      "label": "select_mesh_elements_with_plane Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_elements_in_sphere",
+      "label": "select_mesh_elements_in_sphere Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_elements_inside_mesh",
+      "label": "select_mesh_elements_inside_mesh Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_elements_in_box",
+      "label": "select_mesh_elements_in_box Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_elements_by_polygroup",
+      "label": "select_mesh_elements_by_polygroup Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_elements_by_normal_angle",
+      "label": "select_mesh_elements_by_normal_angle Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_elements_by_material_id",
+      "label": "select_mesh_elements_by_material_id Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_select_mesh_boundary_edges",
+      "label": "select_mesh_boundary_edges Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_invert_mesh_selection",
+      "label": "invert_mesh_selection Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_convert_mesh_selection",
+      "label": "convert_mesh_selection Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshselection_combine_mesh_selections",
+      "label": "combine_mesh_selections Function",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetexporttask_exporter_property",
+      "label": "Asset Export Task Exporter Property",
+      "file_type": "document",
+      "source_file": "AssetExportTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_stringcontains_rigunit_stringcontains",
+      "target": "rigvmfunction_mathmutablebase_rigvmfunction_mathmutablebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigUnit__StringContains Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "slatebrushassetfactory_slatebrushassetfactory",
+      "target": "speedtreeimportfactory_speedtreeimportfactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SlateBrushAssetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "leaderboardlibrary_write_leaderboard_integer",
+      "target": "leaderboardlibrary_leaderboardlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LeaderboardLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceeffectorplanetype_set_plane_spacing",
+      "target": "ceeffectorplanetype_ceeffectorplanetype",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEEffectorPlaneType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceeffectorplanetype_get_plane_spacing",
+      "target": "ceeffectorplanetype_ceeffectorplanetype",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEEffectorPlaneType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multifabrik_rigunit_multifabrik",
+      "target": "rigunit_multifabrik_fabrik_algorithm",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MultiFABRIK Objects.md",
+      "source_location": "lines 7-9",
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_curve_bp_get_curve_value",
+      "target": "posesearchfeaturechannel_curve_posesearchfeaturechannel_curve",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_Curve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_selection_boundary_edges",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_sharp_edges",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_elements_with_plane",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_elements_in_sphere",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_elements_inside_mesh",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_elements_in_box",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_elements_by_polygroup",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_elements_by_normal_angle",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_elements_by_material_id",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_boundary_edges",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_invert_mesh_selection",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_convert_mesh_selection",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_combine_mesh_selections",
+      "target": "geometryscript_meshselection_geometryscript_meshselection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetexporttask_exporter_property",
+      "target": "assetexporttask_assetexporttask",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetExportTask Objects.md",
+      "source_location": "lines 18-19",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_sharp_edges",
+      "target": "geometryscript_meshselection_select_mesh_elements_by_normal_angle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_mesh_elements_in_box",
+      "target": "geometryscript_meshselection_select_mesh_elements_in_sphere",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshselection_select_selection_boundary_edges",
+      "target": "geometryscript_meshselection_select_mesh_boundary_edges",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScript_MeshSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenebooltrack_moviescenebooltrack",
+      "target": "moviescenetimecodesource_moviescenetimecodesource",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneBoolTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stereochannelmode_stereochannelmode",
+      "target": "synthknobsize_synthknobsize",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "StereoChannelMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "mesh_selection_spatial_queries",
+      "label": "Mesh Selection Spatial Query Functions",
+      "nodes": [
+        "geometryscript_meshselection_select_mesh_elements_with_plane",
+        "geometryscript_meshselection_select_mesh_elements_in_sphere",
+        "geometryscript_meshselection_select_mesh_elements_in_box",
+        "geometryscript_meshselection_select_mesh_elements_inside_mesh"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_MeshSelection Objects.md"
+    },
+    {
+      "id": "unreal_factory_pattern",
+      "label": "Unreal Engine Factory Pattern Implementations",
+      "nodes": [
+        "slatebrushassetfactory_slatebrushassetfactory",
+        "speedtreeimportfactory_speedtreeimportfactory"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SlateBrushAssetFactory Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

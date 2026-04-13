@@ -1,0 +1,522 @@
+{
+  "nodes": [
+    {
+      "id": "customattributeblendtype_customattributeblendtype",
+      "label": "Custom Attribute Blend Type",
+      "file_type": "document",
+      "source_file": "CustomAttributeBlendType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takeanydamagesignature_takeanydamagesignature",
+      "label": "Take Any Damage Signature",
+      "file_type": "document",
+      "source_file": "TakeAnyDamageSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectionismpoolactor_geometrycollectionismpoolactor",
+      "label": "Geometry Collection ISM Pool Actor",
+      "file_type": "document",
+      "source_file": "GeometryCollectionISMPoolActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify_playsound_c_animnotify_playsound_c",
+      "label": "AnimNotify PlaySound C",
+      "file_type": "document",
+      "source_file": "AnimNotify_PlaySound_C Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodelerlanepath_earthroadmodelerlanepath",
+      "label": "Earth Road Modeler Lane Path",
+      "file_type": "document",
+      "source_file": "EarthRoadModelerLanePath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mergestaticmeshactorsoptions_mergestaticmeshactorsoptions",
+      "label": "Merge Static Mesh Actors Options",
+      "file_type": "document",
+      "source_file": "MergeStaticMeshActorsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgvolume_pcgvolume",
+      "label": "PCG Volume",
+      "file_type": "document",
+      "source_file": "PCGVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecateddatalayerinstance_deprecateddatalayerinstance",
+      "label": "Deprecated Data Layer Instance",
+      "file_type": "document",
+      "source_file": "DeprecatedDataLayerInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "presetuniqueentitydata_presetuniqueentitydata",
+      "label": "Preset Unique Entity Data",
+      "file_type": "document",
+      "source_file": "PresetUniqueEntityData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneevaluationtype_moviesceneevaluationtype",
+      "label": "Movie Scene Evaluation Type",
+      "file_type": "document",
+      "source_file": "MovieSceneEvaluationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelcomponent_modelcomponent",
+      "label": "Model Component",
+      "file_type": "document",
+      "source_file": "ModelComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+      "label": "RigUnit Hierarchy Add Animation Channel Scale Float",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avamaterialparametermap_avamaterialparametermap",
+      "label": "Ava Material Parameter Map",
+      "file_type": "document",
+      "source_file": "AvaMaterialParameterMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitiontreeschema_avatransitiontreeschema",
+      "label": "Ava Transition Tree Schema",
+      "file_type": "document",
+      "source_file": "AvaTransitionTreeSchema Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constantqsettings_constantqsettings",
+      "label": "Constant Q Settings",
+      "file_type": "document",
+      "source_file": "ConstantQSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitysystemcomponent_abilitysystemcomponent",
+      "label": "Ability System Component",
+      "file_type": "document",
+      "source_file": "AbilitySystemComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigpose_rigpose",
+      "label": "Rig Pose",
+      "file_type": "document",
+      "source_file": "RigPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline",
+      "label": "RigUnit Position From Control Rig Spline",
+      "file_type": "document",
+      "source_file": "RigUnit_PositionFromControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_resource_optimusnode_resource",
+      "label": "Optimus Node Resource",
+      "file_type": "document",
+      "source_file": "OptimusNode_Resource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+      "label": "RigUnit Math Color Lerp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathColorLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcameranodeevaluator_blueprintcameranodeevaluator",
+      "label": "Blueprint Camera Node Evaluator",
+      "file_type": "document",
+      "source_file": "BlueprintCameraNodeEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_aimoffsetlookat_animnode_aimoffsetlookat",
+      "label": "AnimNode AimOffset LookAt",
+      "file_type": "document",
+      "source_file": "AnimNode__AimOffsetLookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometrycollectionismpoolactor_geometrycollectionismpoolactor",
+      "target": "takeanydamagesignature_takeanydamagesignature",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryCollectionISMPoolActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgvolume_pcgvolume",
+      "target": "takeanydamagesignature_takeanydamagesignature",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playsound_c_animnotify_playsound_c",
+      "target": "animnotify_playsound_c_animnotify_playsound_c",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify_PlaySound_C Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mergestaticmeshactorsoptions_mergestaticmeshactorsoptions",
+      "target": "mergestaticmeshactorsoptions_mergestaticmeshactorsoptions",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MergeStaticMeshActorsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deprecateddatalayerinstance_deprecateddatalayerinstance",
+      "target": "deprecateddatalayerinstance_deprecateddatalayerinstance",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DeprecatedDataLayerInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modelcomponent_modelcomponent",
+      "target": "modelcomponent_modelcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+      "target": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitiontreeschema_avatransitiontreeschema",
+      "target": "avatransitiontreeschema_avatransitiontreeschema",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionTreeSchema Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constantqsettings_constantqsettings",
+      "target": "constantqsettings_constantqsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConstantQSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitysystemcomponent_abilitysystemcomponent",
+      "target": "abilitysystemcomponent_abilitysystemcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilitySystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline",
+      "target": "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PositionFromControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_resource_optimusnode_resource",
+      "target": "optimusnode_resource_optimusnode_resource",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode_Resource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+      "target": "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathColorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_aimoffsetlookat_animnode_aimoffsetlookat",
+      "target": "animnode_aimoffsetlookat_animnode_aimoffsetlookat",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__AimOffsetLookAt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+      "target": "rigpose_rigpose",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelScaleFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline",
+      "target": "rigpose_rigpose",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_PositionFromControlRigSpline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitysystemcomponent_abilitysystemcomponent",
+      "target": "takeanydamagesignature_takeanydamagesignature",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AbilitySystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modelcomponent_modelcomponent",
+      "target": "geometrycollectionismpoolactor_geometrycollectionismpoolactor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ModelComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playsound_c_animnotify_playsound_c",
+      "target": "animnode_aimoffsetlookat_animnode_aimoffsetlookat",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimNotify_PlaySound_C Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameranodeevaluator_blueprintcameranodeevaluator",
+      "target": "animnode_aimoffsetlookat_animnode_aimoffsetlookat",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "BlueprintCameraNodeEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constantqsettings_constantqsettings",
+      "target": "moviesceneevaluationtype_moviesceneevaluationtype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ConstantQSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "customattributeblendtype_customattributeblendtype",
+      "target": "animnode_aimoffsetlookat_animnode_aimoffsetlookat",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CustomAttributeBlendType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avamaterialparametermap_avamaterialparametermap",
+      "target": "constantqsettings_constantqsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AvaMaterialParameterMap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_animation_hierarchy_system",
+      "label": "Rig Animation Hierarchy System",
+      "nodes": [
+        "rigunit_hierarchyaddanimationchannelscalefloat_rigunit_hierarchyaddanimationchannelscalefloat",
+        "rigpose_rigpose",
+        "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelScaleFloat Objects.md"
+    },
+    {
+      "id": "actor_damage_event_system",
+      "label": "Actor Damage Event System",
+      "nodes": [
+        "takeanydamagesignature_takeanydamagesignature",
+        "geometrycollectionismpoolactor_geometrycollectionismpoolactor",
+        "pcgvolume_pcgvolume",
+        "abilitysystemcomponent_abilitysystemcomponent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "TakeAnyDamageSignature Objects.md"
+    },
+    {
+      "id": "animation_blend_system",
+      "label": "Animation Blend System",
+      "nodes": [
+        "customattributeblendtype_customattributeblendtype",
+        "animnode_aimoffsetlookat_animnode_aimoffsetlookat",
+        "animnotify_playsound_c_animnotify_playsound_c"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CustomAttributeBlendType Objects.md"
+    }
+  ],
+  "input_tokens": 23933,
+  "output_tokens": 0
+}

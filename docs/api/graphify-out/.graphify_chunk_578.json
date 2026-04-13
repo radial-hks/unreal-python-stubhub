@@ -1,0 +1,948 @@
+{
+  "nodes": [
+    {
+      "id": "MovieGraphDefaultRenderer",
+      "type": "class",
+      "label": "MovieGraphDefaultRenderer",
+      "properties": {
+        "description": "Default implementation for the Movie Graph Pipeline renderer. Responsible for taking all of the render passes and rendering them, and then moving their rendered data back to the main UMoviePipeline OutputMerger once finished.",
+        "module": "MovieRenderPipelineCore",
+        "plugin": "MovieRenderPipeline",
+        "file": "MovieGraphDefaultRenderer.h"
+      }
+    },
+    {
+      "id": "InterchangeCameraActorFactory",
+      "type": "class",
+      "label": "InterchangeCameraActorFactory",
+      "properties": {
+        "description": "Interchange Camera Actor Factory",
+        "module": "InterchangeImport",
+        "plugin": "Interchange",
+        "file": "InterchangeCameraActorFactory.h"
+      }
+    },
+    {
+      "id": "DCPNodeRotationParam",
+      "type": "class",
+      "label": "DCPNodeRotationParam",
+      "properties": {
+        "description": "DCPNode Rotation Param",
+        "module": "DcpAPI",
+        "plugin": "WdpAssetAPI",
+        "file": "DCPNodeAPIParams.h"
+      }
+    },
+    {
+      "id": "SkyCreatorLightningParameters",
+      "type": "class",
+      "label": "SkyCreatorLightningParameters",
+      "properties": {
+        "description": "Sky Creator Lightning Parameters",
+        "module": "SkyCreatorPlugin",
+        "plugin": "SkyCreatorPlugin",
+        "file": "SkyCreatorActor.h"
+      }
+    },
+    {
+      "id": "CreateParticleParams",
+      "type": "class",
+      "label": "CreateParticleParams",
+      "properties": {
+        "description": "Create Particle Params",
+        "module": "CoveringAPIDefine",
+        "plugin": "CoveringAPI",
+        "file": "ParticlesAPI.h"
+      }
+    },
+    {
+      "id": "InterchangeLevelSequenceFactoryNode",
+      "type": "class",
+      "label": "InterchangeLevelSequenceFactoryNode",
+      "properties": {
+        "description": "Interchange Level Sequence Factory Node",
+        "module": "InterchangeFactoryNodes",
+        "plugin": "Interchange",
+        "file": "InterchangeLevelSequenceFactoryNode.h"
+      }
+    },
+    {
+      "id": "PhysicalMaterialInput",
+      "type": "class",
+      "label": "PhysicalMaterialInput",
+      "properties": {
+        "description": "Structure linking a material expression input with a physical material. For use by UMaterialExpressionLandscapePhysicalMaterialOutput.",
+        "module": "Landscape",
+        "file": "MaterialExpressionLandscapePhysicalMaterialOutput.h"
+      }
+    },
+    {
+      "id": "DisplayClusterTestPatternsActor",
+      "type": "class",
+      "label": "DisplayClusterTestPatternsActor",
+      "properties": {
+        "description": "Test patterns actor",
+        "module": "DisplayCluster",
+        "plugin": "nDisplay",
+        "file": "DisplayClusterTestPatternsActor.h"
+      }
+    },
+    {
+      "id": "CineCameraSettings",
+      "type": "class",
+      "label": "CineCameraSettings",
+      "properties": {
+        "description": "Cine Camera Settings",
+        "module": "CinematicCamera",
+        "file": "CineCameraSettings.h"
+      }
+    },
+    {
+      "id": "LineBatchComponent",
+      "type": "class",
+      "label": "LineBatchComponent",
+      "properties": {
+        "description": "The line batch component buffers and draws lines (and some other line-based shapes) in a scene. This can be useful for debug drawing, but is not very performant for runtime use.",
+        "module": "Engine",
+        "file": "LineBatchComponent.h"
+      }
+    },
+    {
+      "id": "StyleDefines",
+      "type": "class",
+      "label": "StyleDefines",
+      "properties": {
+        "description": "Style Defines",
+        "module": "MagicGISCore",
+        "plugin": "GISDataAPI",
+        "file": "MagicGISStyleTypeDef.h"
+      }
+    },
+    {
+      "id": "AssetEditorContextInterface",
+      "type": "class",
+      "label": "AssetEditorContextInterface",
+      "properties": {
+        "description": "Asset Editor Context Interface",
+        "module": "EditorFramework",
+        "file": "AssetEditorContextInterface.h"
+      }
+    },
+    {
+      "id": "PCGTaggedData",
+      "type": "class",
+      "label": "PCGTaggedData",
+      "properties": {
+        "description": "PCGTagged Data",
+        "module": "PCG",
+        "plugin": "PCG",
+        "file": "PCGData.h"
+      }
+    },
+    {
+      "id": "MassMovableVisualizationTrait",
+      "type": "class",
+      "label": "MassMovableVisualizationTrait",
+      "properties": {
+        "description": "Mass Movable Visualization Trait",
+        "module": "MassRepresentation",
+        "plugin": "MassGameplay",
+        "file": "MassMovableVisualizationTrait.h"
+      }
+    },
+    {
+      "id": "Level",
+      "type": "class",
+      "label": "Level",
+      "properties": {
+        "description": "A Level is a collection of Actors (lights, volumes, mesh instances etc.). Multiple Levels can be loaded and unloaded into the World to create a streaming experience.",
+        "module": "Engine",
+        "file": "Level.h"
+      }
+    },
+    {
+      "id": "UsdInterpolationType",
+      "type": "enum",
+      "label": "UsdInterpolationType",
+      "properties": {
+        "description": "EUsd Interpolation Type",
+        "module": "UnrealUSDWrapper",
+        "plugin": "USDCore",
+        "file": "UnrealUSDWrapper.h"
+      }
+    },
+    {
+      "id": "ClothDataProvider",
+      "type": "class",
+      "label": "ClothDataProvider",
+      "properties": {
+        "description": "Deprecated - renamed to OptimusClothDataProvider",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "GeometryScriptWeldEdgesOptions",
+      "type": "class",
+      "label": "GeometryScriptWeldEdgesOptions",
+      "properties": {
+        "description": "Geometry Script Weld Edges Options",
+        "module": "GeometryScriptingCore",
+        "plugin": "GeometryScripting",
+        "file": "MeshRepairFunctions.h"
+      }
+    },
+    {
+      "id": "MovieSceneNiagaraColorParameterTrack",
+      "type": "class",
+      "label": "MovieSceneNiagaraColorParameterTrack",
+      "properties": {
+        "description": "A track for animating color niagara parameters.",
+        "module": "Niagara",
+        "plugin": "Niagara",
+        "file": "MovieSceneNiagaraColorParameterTrack.h"
+      }
+    },
+    {
+      "id": "CreateText3DParams",
+      "type": "class",
+      "label": "CreateText3DParams",
+      "properties": {
+        "description": "Create Text 3DParams",
+        "module": "CoveringAPIDefine",
+        "plugin": "CoveringAPI",
+        "file": "Text3DAPIParams.h"
+      }
+    },
+    {
+      "id": "CustomPoiEntity",
+      "type": "class",
+      "label": "CustomPoiEntity",
+      "properties": {
+        "description": "Custom Poi Entity",
+        "module": "CoveringAPIEntity",
+        "plugin": "CoveringAPI",
+        "file": "CustomPoiEntity.h"
+      }
+    },
+    {
+      "id": "WebToImage_OnScreenShotCompleted",
+      "type": "delegate",
+      "label": "WebToImage_OnScreenShotCompleted",
+      "properties": {
+        "description": "On Screen Shot Completed Delegate Signature",
+        "module": "CoveringAPIEntity",
+        "plugin": "CoveringAPI",
+        "file": "WebToImage.h"
+      }
+    },
+    {
+      "id": "MovieGraphRendererBase",
+      "type": "class",
+      "label": "MovieGraphRendererBase"
+    },
+    {
+      "id": "InterchangeActorFactory",
+      "type": "class",
+      "label": "InterchangeActorFactory"
+    },
+    {
+      "id": "DCPNodeBaseParam",
+      "type": "class",
+      "label": "DCPNodeBaseParam"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "InterchangeFactoryBaseNode",
+      "type": "class",
+      "label": "InterchangeFactoryBaseNode"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor"
+    },
+    {
+      "id": "DeveloperSettings",
+      "type": "class",
+      "label": "DeveloperSettings"
+    },
+    {
+      "id": "PrimitiveComponent",
+      "type": "class",
+      "label": "PrimitiveComponent"
+    },
+    {
+      "id": "Interface",
+      "type": "class",
+      "label": "Interface"
+    },
+    {
+      "id": "MassVisualizationTrait",
+      "type": "class",
+      "label": "MassVisualizationTrait"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "OptimusClothDataProvider",
+      "type": "class",
+      "label": "OptimusClothDataProvider"
+    },
+    {
+      "id": "MovieSceneNiagaraParameterTrack",
+      "type": "class",
+      "label": "MovieSceneNiagaraParameterTrack"
+    },
+    {
+      "id": "WdpActorEntity",
+      "type": "class",
+      "label": "WdpActorEntity"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "Rotator",
+      "type": "type",
+      "label": "Rotator"
+    },
+    {
+      "id": "LinearColor",
+      "type": "type",
+      "label": "LinearColor"
+    },
+    {
+      "id": "PhysicalMaterial",
+      "type": "type",
+      "label": "PhysicalMaterial"
+    },
+    {
+      "id": "PostProcessComponent",
+      "type": "type",
+      "label": "PostProcessComponent"
+    },
+    {
+      "id": "Material",
+      "type": "type",
+      "label": "Material"
+    },
+    {
+      "id": "NamedLensPreset",
+      "type": "type",
+      "label": "NamedLensPreset"
+    },
+    {
+      "id": "NamedFilmbackPreset",
+      "type": "type",
+      "label": "NamedFilmbackPreset"
+    },
+    {
+      "id": "NamedPlateCropPreset",
+      "type": "type",
+      "label": "NamedPlateCropPreset"
+    },
+    {
+      "id": "CameraLensSettings",
+      "type": "type",
+      "label": "CameraLensSettings"
+    },
+    {
+      "id": "CameraFilmbackSettings",
+      "type": "type",
+      "label": "CameraFilmbackSettings"
+    },
+    {
+      "id": "PlateCropSettings",
+      "type": "type",
+      "label": "PlateCropSettings"
+    },
+    {
+      "id": "PCGData",
+      "type": "type",
+      "label": "PCGData"
+    },
+    {
+      "id": "MassVisualizationLODParameters",
+      "type": "type",
+      "label": "MassVisualizationLODParameters"
+    },
+    {
+      "id": "MassRepresentationParameters",
+      "type": "type",
+      "label": "MassRepresentationParameters"
+    },
+    {
+      "id": "StaticMeshInstanceVisualizationDesc",
+      "type": "type",
+      "label": "StaticMeshInstanceVisualizationDesc"
+    },
+    {
+      "id": "AssetUserData",
+      "type": "type",
+      "label": "AssetUserData"
+    },
+    {
+      "id": "Text3DStyle",
+      "type": "type",
+      "label": "Text3DStyle"
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "type",
+      "label": "EntityAtomBase"
+    },
+    {
+      "id": "CoveringWidgetComponent",
+      "type": "type",
+      "label": "CoveringWidgetComponent"
+    },
+    {
+      "id": "WidgetComponent",
+      "type": "type",
+      "label": "WidgetComponent"
+    },
+    {
+      "id": "Texture2DDynamic",
+      "type": "type",
+      "label": "Texture2DDynamic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "MovieGraphDefaultRenderer",
+      "target": "MovieGraphRendererBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "InterchangeCameraActorFactory",
+      "target": "InterchangeActorFactory",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "DCPNodeRotationParam",
+      "target": "DCPNodeBaseParam",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "SkyCreatorLightningParameters",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "CreateParticleParams",
+      "target": "ParamsBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "InterchangeLevelSequenceFactoryNode",
+      "target": "InterchangeFactoryBaseNode",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "PhysicalMaterialInput",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "DisplayClusterTestPatternsActor",
+      "target": "Actor",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "CineCameraSettings",
+      "target": "DeveloperSettings",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "LineBatchComponent",
+      "target": "PrimitiveComponent",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "StyleDefines",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "AssetEditorContextInterface",
+      "target": "Interface",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "PCGTaggedData",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "MassMovableVisualizationTrait",
+      "target": "MassVisualizationTrait",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "Level",
+      "target": "Object",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "UsdInterpolationType",
+      "target": "EnumBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "ClothDataProvider",
+      "target": "OptimusClothDataProvider",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "GeometryScriptWeldEdgesOptions",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieSceneNiagaraColorParameterTrack",
+      "target": "MovieSceneNiagaraParameterTrack",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "CreateText3DParams",
+      "target": "ParamsBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "CustomPoiEntity",
+      "target": "WdpActorEntity",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "WebToImage_OnScreenShotCompleted",
+      "target": "MulticastDelegateBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "source": "DCPNodeRotationParam",
+      "target": "Rotator",
+      "type": "has_property",
+      "label": "rotation"
+    },
+    {
+      "source": "SkyCreatorLightningParameters",
+      "target": "LinearColor",
+      "type": "has_property",
+      "label": "position"
+    },
+    {
+      "source": "SkyCreatorLightningParameters",
+      "target": "LinearColor",
+      "type": "has_property",
+      "label": "color"
+    },
+    {
+      "source": "PhysicalMaterialInput",
+      "target": "PhysicalMaterial",
+      "type": "has_property",
+      "label": "physical_material"
+    },
+    {
+      "source": "DisplayClusterTestPatternsActor",
+      "target": "PostProcessComponent",
+      "type": "has_property",
+      "label": "post_process_component"
+    },
+    {
+      "source": "DisplayClusterTestPatternsActor",
+      "target": "Material",
+      "type": "has_property",
+      "label": "calibration_patterns"
+    },
+    {
+      "source": "CineCameraSettings",
+      "target": "NamedLensPreset",
+      "type": "has_property",
+      "label": "lens_presets"
+    },
+    {
+      "source": "CineCameraSettings",
+      "target": "NamedFilmbackPreset",
+      "type": "has_property",
+      "label": "filmback_presets"
+    },
+    {
+      "source": "CineCameraSettings",
+      "target": "NamedPlateCropPreset",
+      "type": "has_property",
+      "label": "crop_presets"
+    },
+    {
+      "source": "CineCameraSettings",
+      "target": "CameraLensSettings",
+      "type": "returns",
+      "label": "get_lens_preset_by_name"
+    },
+    {
+      "source": "CineCameraSettings",
+      "target": "CameraFilmbackSettings",
+      "type": "returns",
+      "label": "get_filmback_preset_by_name"
+    },
+    {
+      "source": "CineCameraSettings",
+      "target": "PlateCropSettings",
+      "type": "returns",
+      "label": "get_crop_preset_by_name"
+    },
+    {
+      "source": "PCGTaggedData",
+      "target": "PCGData",
+      "type": "has_property",
+      "label": "data"
+    },
+    {
+      "source": "MassMovableVisualizationTrait",
+      "target": "MassVisualizationLODParameters",
+      "type": "has_property",
+      "label": "lod_params"
+    },
+    {
+      "source": "MassMovableVisualizationTrait",
+      "target": "MassRepresentationParameters",
+      "type": "has_property",
+      "label": "params"
+    },
+    {
+      "source": "MassMovableVisualizationTrait",
+      "target": "StaticMeshInstanceVisualizationDesc",
+      "type": "has_property",
+      "label": "static_mesh_instance_desc"
+    },
+    {
+      "source": "Level",
+      "target": "AssetUserData",
+      "type": "returns",
+      "label": "get_asset_user_data_of_class"
+    },
+    {
+      "source": "CreateText3DParams",
+      "target": "Text3DStyle",
+      "type": "has_property",
+      "label": "text3d_style"
+    },
+    {
+      "source": "CustomPoiEntity",
+      "target": "EntityAtomBase",
+      "type": "has_property",
+      "label": "entity_atoms"
+    },
+    {
+      "source": "CustomPoiEntity",
+      "target": "CoveringWidgetComponent",
+      "type": "has_property",
+      "label": "widget_component"
+    },
+    {
+      "source": "CustomPoiEntity",
+      "target": "WidgetComponent",
+      "type": "has_property",
+      "label": "widget_url_icon_component"
+    },
+    {
+      "source": "WebToImage_OnScreenShotCompleted",
+      "target": "Texture2DDynamic",
+      "type": "has_parameter",
+      "label": "texture"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he1",
+      "nodes": [
+        "MovieGraphDefaultRenderer",
+        "MovieGraphRendererBase",
+        "MovieRenderPipelineCore"
+      ],
+      "type": "module_organization",
+      "label": "MovieGraphDefaultRenderer is part of MovieRenderPipelineCore module"
+    },
+    {
+      "id": "he2",
+      "nodes": [
+        "InterchangeCameraActorFactory",
+        "InterchangeActorFactory",
+        "InterchangeImport"
+      ],
+      "type": "module_organization",
+      "label": "InterchangeCameraActorFactory is part of InterchangeImport module"
+    },
+    {
+      "id": "he3",
+      "nodes": [
+        "DCPNodeRotationParam",
+        "DCPNodeBaseParam",
+        "DcpAPI"
+      ],
+      "type": "module_organization",
+      "label": "DCPNodeRotationParam is part of DcpAPI module"
+    },
+    {
+      "id": "he4",
+      "nodes": [
+        "SkyCreatorLightningParameters",
+        "StructBase",
+        "SkyCreatorPlugin"
+      ],
+      "type": "module_organization",
+      "label": "SkyCreatorLightningParameters is part of SkyCreatorPlugin module"
+    },
+    {
+      "id": "he5",
+      "nodes": [
+        "CreateParticleParams",
+        "ParamsBase",
+        "CoveringAPIDefine"
+      ],
+      "type": "module_organization",
+      "label": "CreateParticleParams is part of CoveringAPIDefine module"
+    },
+    {
+      "id": "he6",
+      "nodes": [
+        "InterchangeLevelSequenceFactoryNode",
+        "InterchangeFactoryBaseNode",
+        "InterchangeFactoryNodes"
+      ],
+      "type": "module_organization",
+      "label": "InterchangeLevelSequenceFactoryNode is part of InterchangeFactoryNodes module"
+    },
+    {
+      "id": "he7",
+      "nodes": [
+        "PhysicalMaterialInput",
+        "StructBase",
+        "Landscape"
+      ],
+      "type": "module_organization",
+      "label": "PhysicalMaterialInput is part of Landscape module"
+    },
+    {
+      "id": "he8",
+      "nodes": [
+        "DisplayClusterTestPatternsActor",
+        "Actor",
+        "DisplayCluster"
+      ],
+      "type": "module_organization",
+      "label": "DisplayClusterTestPatternsActor is part of DisplayCluster module"
+    },
+    {
+      "id": "he9",
+      "nodes": [
+        "CineCameraSettings",
+        "DeveloperSettings",
+        "CinematicCamera"
+      ],
+      "type": "module_organization",
+      "label": "CineCameraSettings is part of CinematicCamera module"
+    },
+    {
+      "id": "he10",
+      "nodes": [
+        "LineBatchComponent",
+        "PrimitiveComponent",
+        "Engine"
+      ],
+      "type": "module_organization",
+      "label": "LineBatchComponent is part of Engine module"
+    },
+    {
+      "id": "he11",
+      "nodes": [
+        "StyleDefines",
+        "StructBase",
+        "MagicGISCore"
+      ],
+      "type": "module_organization",
+      "label": "StyleDefines is part of MagicGISCore module"
+    },
+    {
+      "id": "he12",
+      "nodes": [
+        "AssetEditorContextInterface",
+        "Interface",
+        "EditorFramework"
+      ],
+      "type": "module_organization",
+      "label": "AssetEditorContextInterface is part of EditorFramework module"
+    },
+    {
+      "id": "he13",
+      "nodes": [
+        "PCGTaggedData",
+        "StructBase",
+        "PCG"
+      ],
+      "type": "module_organization",
+      "label": "PCGTaggedData is part of PCG module"
+    },
+    {
+      "id": "he14",
+      "nodes": [
+        "MassMovableVisualizationTrait",
+        "MassVisualizationTrait",
+        "MassRepresentation"
+      ],
+      "type": "module_organization",
+      "label": "MassMovableVisualizationTrait is part of MassRepresentation module"
+    },
+    {
+      "id": "he15",
+      "nodes": [
+        "Level",
+        "Object",
+        "Engine"
+      ],
+      "type": "module_organization",
+      "label": "Level is part of Engine module"
+    },
+    {
+      "id": "he16",
+      "nodes": [
+        "UsdInterpolationType",
+        "EnumBase",
+        "UnrealUSDWrapper"
+      ],
+      "type": "module_organization",
+      "label": "UsdInterpolationType is part of UnrealUSDWrapper module"
+    },
+    {
+      "id": "he17",
+      "nodes": [
+        "ClothDataProvider",
+        "OptimusClothDataProvider"
+      ],
+      "type": "deprecation",
+      "label": "ClothDataProvider deprecated - renamed to OptimusClothDataProvider"
+    },
+    {
+      "id": "he18",
+      "nodes": [
+        "GeometryScriptWeldEdgesOptions",
+        "StructBase",
+        "GeometryScriptingCore"
+      ],
+      "type": "module_organization",
+      "label": "GeometryScriptWeldEdgesOptions is part of GeometryScriptingCore module"
+    },
+    {
+      "id": "he19",
+      "nodes": [
+        "MovieSceneNiagaraColorParameterTrack",
+        "MovieSceneNiagaraParameterTrack",
+        "Niagara"
+      ],
+      "type": "module_organization",
+      "label": "MovieSceneNiagaraColorParameterTrack is part of Niagara module"
+    },
+    {
+      "id": "he20",
+      "nodes": [
+        "CreateText3DParams",
+        "ParamsBase",
+        "CoveringAPIDefine"
+      ],
+      "type": "module_organization",
+      "label": "CreateText3DParams is part of CoveringAPIDefine module"
+    },
+    {
+      "id": "he21",
+      "nodes": [
+        "CustomPoiEntity",
+        "WdpActorEntity",
+        "CoveringAPIEntity"
+      ],
+      "type": "module_organization",
+      "label": "CustomPoiEntity is part of CoveringAPIEntity module"
+    },
+    {
+      "id": "he22",
+      "nodes": [
+        "WebToImage_OnScreenShotCompleted",
+        "MulticastDelegateBase",
+        "CoveringAPIEntity"
+      ],
+      "type": "module_organization",
+      "label": "WebToImage_OnScreenShotCompleted is part of CoveringAPIEntity module"
+    },
+    {
+      "id": "he23",
+      "nodes": [
+        "SkyCreatorLightningParameters",
+        "LinearColor",
+        "position",
+        "color"
+      ],
+      "type": "data_structure",
+      "label": "SkyCreatorLightningParameters uses LinearColor for position and color properties"
+    },
+    {
+      "id": "he24",
+      "nodes": [
+        "CineCameraSettings",
+        "NamedLensPreset",
+        "NamedFilmbackPreset",
+        "NamedPlateCropPreset"
+      ],
+      "type": "configuration_system",
+      "label": "CineCameraSettings manages presets for lens, filmback, and crop configurations"
+    },
+    {
+      "id": "he25",
+      "nodes": [
+        "CreateParticleParams",
+        "CreateText3DParams",
+        "ParamsBase"
+      ],
+      "type": "shared_base_class",
+      "label": "CreateParticleParams and CreateText3DParams both inherit from ParamsBase"
+    }
+  ]
+}

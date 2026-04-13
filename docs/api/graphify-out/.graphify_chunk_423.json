@@ -1,0 +1,487 @@
+{
+  "nodes": [
+    {
+      "id": "aessplatmapmanager_aessplatmapmanager",
+      "label": "AesSplatMapManager",
+      "file_type": "code",
+      "source_file": "AesSplatMapManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararenderermaterialvectorparameter_niagararenderermaterialvectorparameter",
+      "label": "NiagaraRendererMaterialVectorParameter",
+      "file_type": "code",
+      "source_file": "NiagaraRendererMaterialVectorParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetreadydelegate_targetreadydelegate",
+      "label": "TargetReadyDelegate",
+      "file_type": "code",
+      "source_file": "TargetReadyDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentitynestedvariabledescription_urbanentitynestedvariabledescription",
+      "label": "UrbanEntityNestedVariableDescription",
+      "file_type": "code",
+      "source_file": "UrbanEntityNestedVariableDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintosplinecurveitemarray_rigunit_fitchaintosplinecurveitemarray",
+      "label": "RigUnit_FitChainToSplineCurveItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit__FitChainToSplineCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gridpanel_gridpanel",
+      "label": "GridPanel",
+      "file_type": "code",
+      "source_file": "GridPanel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inapppurchasecallbackproxy2_inapppurchasecallbackproxy2",
+      "label": "InAppPurchaseCallbackProxy2",
+      "file_type": "code",
+      "source_file": "InAppPurchaseCallbackProxy2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintviewconversionfunction_mvvmblueprintviewconversionfunction",
+      "label": "MVVMBlueprintViewConversionFunction",
+      "file_type": "code",
+      "source_file": "MVVMBlueprintViewConversionFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixelstreamer51cloudinputcomponent_onlargedata_bp_pixelstreamer51cloudinputcomponent_onlargedata_bp",
+      "label": "PixelStreamer51CloudInputComponent_OnLargeData_BP",
+      "file_type": "code",
+      "source_file": "PixelStreamer51CloudInputComponent__OnLargeData__BP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflowactor_dataflowactor",
+      "label": "DataflowActor",
+      "file_type": "code",
+      "source_file": "DataflowActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetcollisiontype_aesassetcollisiontype",
+      "label": "AesAssetCollisionType",
+      "file_type": "code",
+      "source_file": "AesAssetCollisionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reimportdatatablefactory_reimportdatatablefactory",
+      "label": "ReimportDataTableFactory",
+      "file_type": "code",
+      "source_file": "ReimportDataTableFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_startswith_rigvmfunction_startswith",
+      "label": "RigVMFunction_StartsWith",
+      "file_type": "code",
+      "source_file": "RigVMFunction_StartsWith Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaplaytype_avaplaytype",
+      "label": "AvaPlayType",
+      "file_type": "code",
+      "source_file": "AvaPlayType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_legik_animnode_legik",
+      "label": "AnimNode_LegIK",
+      "file_type": "code",
+      "source_file": "AnimNode_LegIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textureexporterbmp_textureexporterbmp",
+      "label": "TextureExporterBMP",
+      "file_type": "code",
+      "source_file": "TextureExporterBMP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "menuanchor_getuserwidget_menuanchor_getuserwidget",
+      "label": "MenuAnchor_GetUserWidget",
+      "file_type": "code",
+      "source_file": "MenuAnchor_GetUserWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeslandmarkeditorcommandparams_select_aeslandmarkeditorcommandparams_select",
+      "label": "AesLandmarkEditorCommandParams_Select",
+      "file_type": "code",
+      "source_file": "AesLandmarkEditorCommandParams__Select Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimconstraint_worldup_rigunit_aimconstraint_worldup",
+      "label": "RigUnit_AimConstraint_WorldUp",
+      "file_type": "code",
+      "source_file": "RigUnit_AimConstraint_WorldUp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_randomplayer_animgraphnode_randomplayer",
+      "label": "AnimGraphNode_RandomPlayer",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternionanimationattribute_quaternionanimationattribute",
+      "label": "QuaternionAnimationAttribute",
+      "file_type": "code",
+      "source_file": "QuaternionAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_interactionexecution_rigunit_interactionexecution",
+      "label": "RigUnit_InteractionExecution",
+      "file_type": "code",
+      "source_file": "RigUnit__InteractionExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworldplugin_aesworldplugin",
+      "label": "AesWorld Plugin",
+      "file_type": "code",
+      "source_file": "AesSplatMapManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraplugin_niagaraplugin",
+      "label": "Niagara Plugin",
+      "file_type": "code",
+      "source_file": "NiagaraRendererMaterialVectorParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetingsystemplugin_targetingsystemplugin",
+      "label": "TargetingSystem Plugin",
+      "file_type": "code",
+      "source_file": "TargetReadyDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigsplineplugin_controlrigsplineplugin",
+      "label": "ControlRigSpline Plugin",
+      "file_type": "code",
+      "source_file": "RigUnit__FitChainToSplineCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigplugin_controlrigplugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "RigUnit_AimConstraint_WorldUp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmplugin_rigvmplugin",
+      "label": "RigVM Plugin",
+      "file_type": "code",
+      "source_file": "RigVMFunction_StartsWith Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "aessplatmapmanager_aessplatmapmanager",
+      "target": "aesworldplugin_aesworldplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesSplatMapManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararenderermaterialvectorparameter_niagararenderermaterialvectorparameter",
+      "target": "niagaraplugin_niagaraplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererMaterialVectorParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetreadydelegate_targetreadydelegate",
+      "target": "targetingsystemplugin_targetingsystemplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetReadyDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintosplinecurveitemarray_rigunit_fitchaintosplinecurveitemarray",
+      "target": "controlrigsplineplugin_controlrigsplineplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToSplineCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraint_worldup_rigunit_aimconstraint_worldup",
+      "target": "controlrigplugin_controlrigplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimConstraint_WorldUp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_interactionexecution_rigunit_interactionexecution",
+      "target": "controlrigplugin_controlrigplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__InteractionExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_startswith_rigvmfunction_startswith",
+      "target": "rigvmplugin_rigvmplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StartsWith Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inapppurchasecallbackproxy2_inapppurchasecallbackproxy2",
+      "target": "inapppurchasecallbackproxy2_inapppurchasecallbackproxy2",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InAppPurchaseCallbackProxy2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetcollisiontype_aesassetcollisiontype",
+      "target": "aesworldplugin_aesworldplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesAssetCollisionType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeslandmarkeditorcommandparams_select_aeslandmarkeditorcommandparams_select",
+      "target": "aesworldplugin_aesworldplugin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesLandmarkEditorCommandParams__Select Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_legik_animnode_legik",
+      "target": "animgraphnode_randomplayer_animgraphnode_randomplayer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode_LegIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraint_worldup_rigunit_aimconstraint_worldup",
+      "target": "rigunit_fitchaintosplinecurveitemarray_rigunit_fitchaintosplinecurveitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_AimConstraint_WorldUp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_startswith_rigvmfunction_startswith",
+      "target": "rigunit_aimconstraint_worldup_rigunit_aimconstraint_worldup",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction_StartsWith Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_spline_system",
+      "label": "ControlRig Spline Constraint System",
+      "nodes": [
+        "rigunit_fitchaintosplinecurveitemarray_rigunit_fitchaintosplinecurveitemarray",
+        "rigunit_aimconstraint_worldup_rigunit_aimconstraint_worldup",
+        "rigunit_interactionexecution_rigunit_interactionexecution"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__FitChainToSplineCurveItemArray Objects.md"
+    },
+    {
+      "id": "aes_world_system",
+      "label": "AesWorld Ecosystem Components",
+      "nodes": [
+        "aessplatmapmanager_aessplatmapmanager",
+        "aesassetcollisiontype_aesassetcollisiontype",
+        "aeslandmarkeditorcommandparams_select_aeslandmarkeditorcommandparams_select"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesSplatMapManager Objects.md"
+    },
+    {
+      "id": "animation_system",
+      "label": "Animation System Components",
+      "nodes": [
+        "animnode_legik_animnode_legik",
+        "animgraphnode_randomplayer_animgraphnode_randomplayer",
+        "quaternionanimationattribute_quaternionanimationattribute"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode_LegIK Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,659 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit__convertquaterniontovector_rigunit",
+      "label": "RigUnit ConvertQuaternionToVector",
+      "file_type": "code",
+      "source_file": "RigUnit__ConvertQuaternionToVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_normals_blueprintfunctionlibrary",
+      "label": "GeometryScript Normals",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polygonentity_wdpstandardentity",
+      "label": "Polygon Entity",
+      "file_type": "code",
+      "source_file": "PolygonEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanresourcedatastructstring_structbase",
+      "label": "Urban Resource Data Struct String",
+      "file_type": "code",
+      "source_file": "UrbanResourceDataStructString Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectiondebugdrawactorhidegeometry_enumbase",
+      "label": "Geometry Collection Debug Draw Actor Hide Geometry",
+      "file_type": "code",
+      "source_file": "GeometryCollectionDebugDrawActorHideGeometry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggetpropertyfromobjectpathsettings_pcgsettings",
+      "label": "PCG Get Property From Object Path Settings",
+      "file_type": "code",
+      "source_file": "PCGGetPropertyFromObjectPathSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navmeshresolutionparam_structbase",
+      "label": "Nav Mesh Resolution Param",
+      "file_type": "code",
+      "source_file": "NavMeshResolutionParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionbindlessswitch_materialexpression",
+      "label": "Material Expression Bindless Switch",
+      "file_type": "code",
+      "source_file": "MaterialExpressionBindlessSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase_rigvmfunction_mathbase",
+      "label": "RigVMFunction Math Vector Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorweatherfxsettings_51_structbase",
+      "label": "Sky Creator Weather FX Settings 51",
+      "file_type": "code",
+      "source_file": "SkyCreatorWeatherFXSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatclamp_rigvmfunction_mathfloatclamp",
+      "label": "RigUnit Math Float Clamp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondeleteactorsbegin_multicastdelegatebase",
+      "label": "On Delete Actors Begin",
+      "file_type": "code",
+      "source_file": "OnDeleteActorsBegin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpointsamplersettings_pcgselectpointssettings",
+      "label": "PCG Point Sampler Settings",
+      "file_type": "code",
+      "source_file": "PCGPointSamplerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__endswith_rigvmfunction_endswith",
+      "label": "RigUnit EndsWith",
+      "file_type": "code",
+      "source_file": "RigUnit__EndsWith Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stackboxslot_panelslot",
+      "label": "Stack Box Slot",
+      "file_type": "code",
+      "source_file": "StackBoxSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturelossycompressionamount_enumbase",
+      "label": "Texture Lossy Compression Amount",
+      "file_type": "code",
+      "source_file": "TextureLossyCompressionAmount Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "add_prefix_dialog_object",
+      "label": "Add Prefix Dialog",
+      "file_type": "code",
+      "source_file": "add_prefix_dialog Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__twoboneiksimplevectors_rigunit_highlevelbase",
+      "label": "RigUnit Two Bone IK Simple Vectors",
+      "file_type": "code",
+      "source_file": "RigUnit__TwoBoneIKSimpleVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionpixelnormalws_dmmaterialstageexpression",
+      "label": "DM Material Stage Expression Pixel Normal WS",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionPixelNormalWS Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpflypoint_structbase",
+      "label": "WDP Fly Point",
+      "file_type": "code",
+      "source_file": "WDPFlyPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "postevaluateanimevent_delegatebase",
+      "label": "Post Evaluate Anim Event",
+      "file_type": "code",
+      "source_file": "PostEvaluateAnimEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spectatorbeaconhost_onlinebeaconhostobject",
+      "label": "Spectator Beacon Host",
+      "file_type": "code",
+      "source_file": "SpectatorBeaconHost Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh_type",
+      "label": "DynamicMesh",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshselection_type",
+      "label": "GeometryScriptMeshSelection",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptvectorlist_type",
+      "label": "GeometryScriptVectorList",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripttriangle_type",
+      "label": "GeometryScriptTriangle",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcalculatenormalsoptions_type",
+      "label": "GeometryScriptCalculateNormalsOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripttangentsoptions_type",
+      "label": "GeometryScriptTangentsOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsplitnormalsoptions_type",
+      "label": "GeometryScriptSplitNormalsOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptdebug_type",
+      "label": "GeometryScriptDebug",
+      "file_type": "code",
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppolygon_type",
+      "label": "WdpPolygon",
+      "file_type": "code",
+      "source_file": "PolygonEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyinputselector_type",
+      "label": "PCGAttributePropertyInputSelector",
+      "file_type": "code",
+      "source_file": "PCGGetPropertyFromObjectPathSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvefloat_type",
+      "label": "CurveFloat",
+      "file_type": "code",
+      "source_file": "SkyCreatorWeatherFXSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvelinearcolor_type",
+      "label": "CurveLinearColor",
+      "file_type": "code",
+      "source_file": "SkyCreatorWeatherFXSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvevector_type",
+      "label": "CurveVector",
+      "file_type": "code",
+      "source_file": "SkyCreatorWeatherFXSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "margin_type",
+      "label": "Margin",
+      "file_type": "code",
+      "source_file": "StackBoxSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatechildsize_type",
+      "label": "SlateChildSize",
+      "file_type": "code",
+      "source_file": "StackBoxSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_type",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "RigUnit__TwoBoneIKSimpleVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit__convertquaterniontovector_rigunit",
+      "target": "geometryscript_normals_blueprintfunctionlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__ConvertQuaternionToVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals_blueprintfunctionlibrary",
+      "target": "dynamicmesh_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals_blueprintfunctionlibrary",
+      "target": "geometryscriptmeshselection_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals_blueprintfunctionlibrary",
+      "target": "geometryscriptvectorlist_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals_blueprintfunctionlibrary",
+      "target": "geometryscripttriangle_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals_blueprintfunctionlibrary",
+      "target": "geometryscriptcalculatenormalsoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals_blueprintfunctionlibrary",
+      "target": "geometryscripttangentsoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals_blueprintfunctionlibrary",
+      "target": "geometryscriptsplitnormalsoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals_blueprintfunctionlibrary",
+      "target": "geometryscriptdebug_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "polygonentity_wdpstandardentity",
+      "target": "wdppolygon_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PolygonEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggetpropertyfromobjectpathsettings_pcgsettings",
+      "target": "pcgattributepropertyinputselector_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGGetPropertyFromObjectPathSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweatherfxsettings_51_structbase",
+      "target": "curvefloat_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorWeatherFXSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweatherfxsettings_51_structbase",
+      "target": "curvelinearcolor_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorWeatherFXSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweatherfxsettings_51_structbase",
+      "target": "curvevector_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorWeatherFXSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stackboxslot_panelslot",
+      "target": "margin_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StackBoxSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stackboxslot_panelslot",
+      "target": "slatechildsize_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StackBoxSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__twoboneiksimplevectors_rigunit_highlevelbase",
+      "target": "vector_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TwoBoneIKSimpleVectors Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorbase_rigvmfunction_mathbase",
+      "target": "rigunit__convertquaterniontovector_rigunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathVectorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorbase_rigvmfunction_mathbase",
+      "target": "rigunit_mathfloatclamp_rigvmfunction_mathfloatclamp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathVectorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_system_math_functions",
+      "label": "Rig System Math Functions",
+      "nodes": [
+        "rigunit__convertquaterniontovector_rigunit",
+        "rigvmfunction_mathvectorbase_rigvmfunction_mathbase",
+        "rigunit_mathfloatclamp_rigvmfunction_mathfloatclamp",
+        "rigunit__twoboneiksimplevectors_rigunit_highlevelbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorBase Objects.md"
+    },
+    {
+      "id": "struct_based_data_structures",
+      "label": "Struct-Based Data Structures",
+      "nodes": [
+        "urbanresourcedatastructstring_structbase",
+        "navmeshresolutionparam_structbase",
+        "skycreatorweatherfxsettings_51_structbase",
+        "wdpflypoint_structbase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "UrbanResourceDataStructString Objects.md"
+    },
+    {
+      "id": "geometry_processing_workflow",
+      "label": "Geometry Processing Workflow",
+      "nodes": [
+        "geometryscript_normals_blueprintfunctionlibrary",
+        "geometrycollectiondebugdrawactorhidegeometry_enumbase",
+        "polygonentity_wdpstandardentity"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScript_Normals Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

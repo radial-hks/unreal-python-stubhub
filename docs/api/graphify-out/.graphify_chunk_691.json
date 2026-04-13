@@ -1,0 +1,442 @@
+{
+  "nodes": [
+    {
+      "id": "statetreestatehandle_state_handle",
+      "label": "StateTree State Handle",
+      "file_type": "code",
+      "source_file": "StateTreeStateHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialfactory_material_factory",
+      "label": "Interchange Material Factory",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbikconstraintoption_ik_constraint",
+      "label": "FBIK Constraint Option",
+      "file_type": "code",
+      "source_file": "FBIKConstraintOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontroltransform_settings",
+      "label": "RigUnit Hierarchy Add Control Transform Settings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlTransform__Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_isinteracting_interaction_detector",
+      "label": "RigUnit Is Interacting",
+      "file_type": "code",
+      "source_file": "RigUnit__IsInteracting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_posesnapshot_pose_snapshot",
+      "label": "AnimNode Pose Snapshot",
+      "file_type": "code",
+      "source_file": "AnimNode__PoseSnapshot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercoremetadata_modifier_metadata",
+      "label": "Actor Modifier Core Metadata",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineconsolevariableentry_cvar_override",
+      "label": "Movie Pipeline Console Variable Entry",
+      "file_type": "code",
+      "source_file": "MoviePipelineConsoleVariableEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "watersplinecurvedefaults_water_defaults",
+      "label": "Water Spline Curve Defaults",
+      "file_type": "code",
+      "source_file": "WaterSplineCurveDefaults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mybuttonclickeddelegate_button_delegate",
+      "label": "My Button Clicked Delegate",
+      "file_type": "code",
+      "source_file": "MyButtonClickedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatevectorfloat_deprecated_rbf",
+      "label": "RigUnit Math RBF Interpolate Vector Float (Deprecated)",
+      "file_type": "code",
+      "source_file": "RigUnit_MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdebugfragment_debug_fragment",
+      "label": "Earth Debug Fragment",
+      "file_type": "code",
+      "source_file": "EarthDebugFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_linkedanimlayer_linked_layer",
+      "label": "AnimNode Linked Anim Layer",
+      "file_type": "code",
+      "source_file": "AnimNode_LinkedAnimLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "musicalnotename_note_enum",
+      "label": "Musical Note Name",
+      "file_type": "code",
+      "source_file": "MusicalNoteName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinksourcehandle_source_handle",
+      "label": "LiveLink Source Handle",
+      "file_type": "code",
+      "source_file": "LiveLinkSourceHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringsplit_string_splitter",
+      "label": "RigVMFunction String Split",
+      "file_type": "code",
+      "source_file": "RigVMFunction_StringSplit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaralightrendererproperties_light_renderer",
+      "label": "Niagara Light Renderer Properties",
+      "file_type": "code",
+      "source_file": "NiagaraLightRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionfromtwovectors_quat_from_vectors",
+      "label": "RigVMFunction Math Quaternion From Two Vectors",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathQuaternionFromTwoVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "savegame_persistence_base",
+      "label": "SaveGame",
+      "file_type": "code",
+      "source_file": "SaveGame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendstackinputanimnodereference_blend_stack_ref",
+      "label": "Blend Stack Input Anim Node Reference",
+      "file_type": "code",
+      "source_file": "BlendStackInputAnimNodeReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchygetshapesettings_shape_retriever",
+      "label": "RigUnit Hierarchy Get Shape Settings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyGetShapeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringlength_string_length",
+      "label": "RigVMFunction String Length",
+      "file_type": "code",
+      "source_file": "RigVMFunction_StringLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rig_element_identifier",
+      "label": "Rig Element Key (Type)",
+      "file_type": "code",
+      "source_file": "FBIKConstraintOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_shapesettings_shape_config",
+      "label": "RigUnit Hierarchy Add Control ShapeSettings (Type)",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlTransform__Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_hierarchyaddcontroltransform_settings",
+      "target": "rigunit_hierarchyaddcontrol_shapesettings_shape_config",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlTransform__Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbikconstraintoption_ik_constraint",
+      "target": "rigelementkey_rig_element_identifier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FBIKConstraintOption Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_isinteracting_interaction_detector",
+      "target": "rigelementkey_rig_element_identifier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__IsInteracting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetshapesettings_shape_retriever",
+      "target": "rigelementkey_rig_element_identifier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetShapeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetshapesettings_shape_retriever",
+      "target": "rigunit_hierarchyaddcontrol_shapesettings_shape_config",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetShapeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringsplit_string_splitter",
+      "target": "rigvmfunction_stringlength_string_length",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_StringSplit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontroltransform_settings",
+      "target": "rigunit_hierarchygetshapesettings_shape_retriever",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__HierarchyAddControlTransform__Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posesnapshot_pose_snapshot",
+      "target": "animnode_linkedanimlayer_linked_layer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode__PoseSnapshot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorfloat_deprecated_rbf",
+      "target": "rigvmfunction_mathquaternionfromtwovectors_quat_from_vectors",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdebugfragment_debug_fragment",
+      "target": "actormodifiercoremetadata_modifier_metadata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "EarthDebugFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreestatehandle_state_handle",
+      "target": "livelinksourcehandle_source_handle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "StateTreeStateHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaralightrendererproperties_light_renderer",
+      "target": "musicalnotename_note_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraLightRendererProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "savegame_persistence_base",
+      "target": "moviepipelineconsolevariableentry_cvar_override",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "SaveGame Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_rig_element_key_users",
+      "label": "Control Rig RigElementKey Users",
+      "nodes": [
+        "fbikconstraintoption_ik_constraint",
+        "rigunit_isinteracting_interaction_detector",
+        "rigunit_hierarchygetshapesettings_shape_retriever"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FBIKConstraintOption Objects.md"
+    },
+    {
+      "id": "rigvm_string_operations_group",
+      "label": "RigVM String Operations",
+      "nodes": [
+        "rigvmfunction_stringsplit_string_splitter",
+        "rigvmfunction_stringlength_string_length"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_StringSplit Objects.md"
+    },
+    {
+      "id": "unreal_handles_and_references_group",
+      "label": "Unreal Handle and Reference Types",
+      "nodes": [
+        "statetreestatehandle_state_handle",
+        "livelinksourcehandle_source_handle",
+        "blendstackinputanimnodereference_blend_stack_ref"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "StateTreeStateHandle Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,601 @@
+{
+  "entities": [
+    {
+      "id": "PropertyViewBase",
+      "type": "class",
+      "name": "PropertyViewBase",
+      "properties": {
+        "module": "ScriptableEditorWidgets",
+        "file": "PropertyViewBase.h",
+        "description": "Base of property view allows you to display the value of an object properties",
+        "parent_class": "Widget"
+      }
+    },
+    {
+      "id": "EditorFilterLibrary",
+      "type": "class",
+      "name": "EditorFilterLibrary",
+      "properties": {
+        "plugin": "EditorScriptingUtilities",
+        "module": "EditorScriptingUtilities",
+        "file": "EditorFilterLibrary.h",
+        "description": "Utility class to filter a list of objects",
+        "parent_class": "BlueprintFunctionLibrary"
+      }
+    },
+    {
+      "id": "HeatMapEntity",
+      "type": "class",
+      "name": "HeatMapEntity",
+      "properties": {
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIEntity",
+        "file": "HeatMapEntity.h",
+        "description": "Heat Map Entity",
+        "parent_class": "WdpActorEntity"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathFloatRemap",
+      "type": "class",
+      "name": "RigVMFunction_MathFloatRemap",
+      "properties": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathFloat.h",
+        "description": "Remaps the given value from a source range to a target range",
+        "parent_class": "RigVMFunction_MathFloatBase"
+      }
+    },
+    {
+      "id": "AnimNode_PoseSearchHistoryCollector",
+      "type": "class",
+      "name": "AnimNode_PoseSearchHistoryCollector",
+      "properties": {
+        "plugin": "PoseSearch",
+        "module": "PoseSearch",
+        "file": "AnimNode_PoseSearchHistoryCollector.h",
+        "description": "Anim Node Pose Search History Collector",
+        "parent_class": "AnimNode_PoseSearchHistoryCollector_Base"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationInputSyncPolicy",
+      "type": "class",
+      "name": "DisplayClusterConfigurationInputSyncPolicy",
+      "properties": {
+        "plugin": "nDisplay",
+        "module": "DisplayClusterConfiguration",
+        "file": "DisplayClusterConfigurationTypes.h",
+        "description": "Display Cluster Configuration Input Sync Policy",
+        "parent_class": "DisplayClusterConfigurationPolymorphicEntity"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddControlTransform_LimitSettings",
+      "type": "class",
+      "name": "RigUnit_HierarchyAddControlTransform_LimitSettings",
+      "properties": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_DynamicHierarchy.h",
+        "description": "Rig Unit Hierarchy Add Control Transform Limit Settings",
+        "parent_class": "StructBase"
+      }
+    },
+    {
+      "id": "MovieSceneScriptingByteKey",
+      "type": "class",
+      "name": "MovieSceneScriptingByteKey",
+      "properties": {
+        "plugin": "SequencerScripting",
+        "module": "SequencerScripting",
+        "file": "MovieSceneScriptingByte.h",
+        "description": "Exposes a Sequencer byte/enum type key to Python/Blueprints",
+        "parent_class": "MovieSceneScriptingKey"
+      }
+    },
+    {
+      "id": "CesiumOriginShiftComponent",
+      "type": "class",
+      "name": "CesiumOriginShiftComponent",
+      "properties": {
+        "plugin": "CesiumForUnreal",
+        "module": "CesiumRuntime",
+        "file": "CesiumOriginShiftComponent.h",
+        "description": "Automatically shifts the origin of the Unreal world coordinate system",
+        "parent_class": "CesiumGlobeAnchoredActorComponent"
+      }
+    },
+    {
+      "id": "RigUnit_MathFloatTan",
+      "type": "class",
+      "name": "RigUnit_MathFloatTan",
+      "properties": {
+        "deprecated": true,
+        "deprecation_message": "'RigUnit_MathFloatTan' was renamed to 'RigVMFunction_MathFloatTan'",
+        "parent_class": "RigVMFunction_MathFloatTan"
+      }
+    },
+    {
+      "id": "RigUnit_MathBoolToInteger",
+      "type": "class",
+      "name": "RigUnit_MathBoolToInteger",
+      "properties": {
+        "deprecated": true,
+        "deprecation_message": "'RigUnit_MathBoolToInteger' was renamed to 'RigVMFunction_MathBoolToInteger'",
+        "parent_class": "RigVMFunction_MathBoolToInteger"
+      }
+    },
+    {
+      "id": "DisplayClusterXformComponent",
+      "type": "class",
+      "name": "DisplayClusterXformComponent",
+      "properties": {
+        "plugin": "nDisplay",
+        "module": "DisplayCluster",
+        "file": "DisplayClusterXformComponent.h",
+        "description": "nDisplay Transform component",
+        "parent_class": "SceneComponent"
+      }
+    },
+    {
+      "id": "WaterBrushEffects",
+      "type": "class",
+      "name": "WaterBrushEffects",
+      "properties": {
+        "plugin": "Water",
+        "module": "Water",
+        "file": "WaterBrushEffects.h",
+        "description": "Water Brush Effects",
+        "parent_class": "StructBase"
+      }
+    },
+    {
+      "id": "PartyBeaconHost",
+      "type": "class",
+      "name": "PartyBeaconHost",
+      "properties": {
+        "plugin": "OnlineSubsystemUtils",
+        "module": "OnlineSubsystemUtils",
+        "file": "PartyBeaconHost.h",
+        "description": "A beacon host used for taking reservations for an existing game session",
+        "parent_class": "OnlineBeaconHostObject"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ModifyBone",
+      "type": "class",
+      "name": "AnimGraphNode_ModifyBone",
+      "properties": {
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_ModifyBone.h",
+        "description": "Anim Graph Node Modify Bone",
+        "parent_class": "AnimGraphNode_SkeletalControlBase"
+      }
+    },
+    {
+      "id": "GameplayStatics",
+      "type": "class",
+      "name": "GameplayStatics",
+      "properties": {
+        "module": "Engine",
+        "file": "GameplayStatics.h",
+        "description": "Static class with useful gameplay utility functions",
+        "parent_class": "BlueprintFunctionLibrary"
+      }
+    },
+    {
+      "id": "ParameterChannelNames",
+      "type": "class",
+      "name": "ParameterChannelNames",
+      "properties": {
+        "module": "Engine",
+        "file": "MaterialTypes.h",
+        "description": "Parameter Channel Names",
+        "parent_class": "StructBase"
+      }
+    },
+    {
+      "id": "ResultBase",
+      "type": "class",
+      "name": "ResultBase",
+      "properties": {
+        "plugin": "WdpAPIFrame",
+        "module": "WdpAPIFramework",
+        "file": "ApiResultBase.h",
+        "description": "Result Base",
+        "parent_class": "StructBase"
+      }
+    },
+    {
+      "id": "OnPrimaryAssetListLoaded",
+      "type": "class",
+      "name": "OnPrimaryAssetListLoaded",
+      "properties": {
+        "module": "Engine",
+        "file": "AsyncActionLoadPrimaryAsset.h",
+        "description": "On Primary Asset List Loaded Delegate Signature",
+        "parent_class": "MulticastDelegateBase"
+      }
+    },
+    {
+      "id": "E2DEntityMouseEventType",
+      "type": "class",
+      "name": "E2DEntityMouseEventType",
+      "properties": {
+        "plugin": "AesRuntimeCore",
+        "module": "WdpDataModel",
+        "file": "WdpEntityInterface.h",
+        "description": "E2DEntity Mouse Event Type",
+        "parent_class": "EnumBase"
+      }
+    },
+    {
+      "id": "RigUnit_AimBoneMath",
+      "type": "class",
+      "name": "RigUnit_AimBoneMath",
+      "properties": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_AimBone.h",
+        "description": "Outputs an aligned transform of a primary and secondary axis",
+        "parent_class": "RigUnit_HighlevelBase"
+      }
+    },
+    {
+      "id": "RigVMFunctionReturnNode",
+      "type": "class",
+      "name": "RigVMFunctionReturnNode",
+      "properties": {
+        "plugin": "RigVM",
+        "module": "RigVMDeveloper",
+        "file": "RigVMFunctionReturnNode.h",
+        "description": "The Function Return node is used to provide access to the output pins",
+        "parent_class": "RigVMFunctionInterfaceNode"
+      }
+    },
+    {
+      "id": "set_object",
+      "type": "method",
+      "name": "set_object",
+      "properties": {
+        "class": "PropertyViewBase",
+        "description": "Set Object",
+        "parameters": ["new_object: Object"],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "get_object",
+      "type": "method",
+      "name": "get_object",
+      "properties": {
+        "class": "PropertyViewBase",
+        "description": "Get Object",
+        "return_type": "Object"
+      }
+    },
+    {
+      "id": "by_selection",
+      "type": "method",
+      "name": "by_selection",
+      "properties": {
+        "class": "EditorFilterLibrary",
+        "description": "Filter the array based on Object's selection",
+        "parameters": ["target_array: Array[Actor]", "filter_type: EditorScriptingFilterType"],
+        "return_type": "Array[Actor]"
+      }
+    },
+    {
+      "id": "by_level_name",
+      "type": "method",
+      "name": "by_level_name",
+      "properties": {
+        "class": "EditorFilterLibrary",
+        "description": "Filter the array by Level the Actor belongs to",
+        "parameters": ["target_array: Array[Actor]", "level_name: Name", "filter_type: EditorScriptingFilterType"],
+        "return_type": "Array[Actor]"
+      }
+    },
+    {
+      "id": "by_layer",
+      "type": "method",
+      "name": "by_layer",
+      "properties": {
+        "class": "EditorFilterLibrary",
+        "description": "Filter the array by Layer the Actor belongs to",
+        "parameters": ["target_array: Array[Actor]", "layer_name: Name", "filter_type: EditorScriptingFilterType"],
+        "return_type": "Array[Actor]"
+      }
+    },
+    {
+      "id": "by_id_name",
+      "type": "method",
+      "name": "by_id_name",
+      "properties": {
+        "class": "EditorFilterLibrary",
+        "description": "Filter the array based on the Object's ID name",
+        "parameters": ["target_array: Array[Object]", "name_sub_string: str", "string_match: EditorScriptingStringMatchType", "filter_type: EditorScriptingFilterType"],
+        "return_type": "Array[Object]"
+      }
+    },
+    {
+      "id": "by_class",
+      "type": "method",
+      "name": "by_class",
+      "properties": {
+        "class": "EditorFilterLibrary",
+        "description": "Filter the array based on the Object's class",
+        "parameters": ["target_array: Array[Object]", "object_class: Class", "filter_type: EditorScriptingFilterType"],
+        "return_type": "Array[Object]"
+      }
+    },
+    {
+      "id": "by_actor_tag",
+      "type": "method",
+      "name": "by_actor_tag",
+      "properties": {
+        "class": "EditorFilterLibrary",
+        "description": "Filter the array by Tag the Actor contains",
+        "parameters": ["target_array: Array[Actor]", "tag: Name", "filter_type: EditorScriptingFilterType"],
+        "return_type": "Array[Actor]"
+      }
+    },
+    {
+      "id": "by_actor_label",
+      "type": "method",
+      "name": "by_actor_label",
+      "properties": {
+        "class": "EditorFilterLibrary",
+        "description": "Filter the array based on the Actor's label",
+        "parameters": ["target_array: Array[Actor]", "name_sub_string: str", "string_match: EditorScriptingStringMatchType", "filter_type: EditorScriptingFilterType", "ignore_case: bool"],
+        "return_type": "Array[Actor]"
+      }
+    },
+    {
+      "id": "set_value_byte_key",
+      "type": "method",
+      "name": "set_value",
+      "properties": {
+        "class": "MovieSceneScriptingByteKey",
+        "description": "Sets the value for this key",
+        "parameters": ["new_value: int"],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "get_value_byte_key",
+      "type": "method",
+      "name": "get_value",
+      "properties": {
+        "class": "MovieSceneScriptingByteKey",
+        "description": "Gets the value for this key",
+        "return_type": "int"
+      }
+    },
+    {
+      "id": "CLICK",
+      "type": "enum_value",
+      "name": "CLICK",
+      "properties": {
+        "enum": "E2DEntityMouseEventType",
+        "value": 0
+      }
+    },
+    {
+      "id": "MOUSE_IN",
+      "type": "enum_value",
+      "name": "MOUSE_IN",
+      "properties": {
+        "enum": "E2DEntityMouseEventType",
+        "value": 1
+      }
+    },
+    {
+      "id": "MOUSE_LEAVE",
+      "type": "enum_value",
+      "name": "MOUSE_LEAVE",
+      "properties": {
+        "enum": "E2DEntityMouseEventType",
+        "value": 2
+      }
+    },
+    {
+      "id": "DOUBLE_CLICK",
+      "type": "enum_value",
+      "name": "DOUBLE_CLICK",
+      "properties": {
+        "enum": "E2DEntityMouseEventType",
+        "value": 3
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "PropertyViewBase",
+      "target": "Widget",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EditorFilterLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "HeatMapEntity",
+      "target": "WdpActorEntity",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathFloatRemap",
+      "target": "RigVMFunction_MathFloatBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_PoseSearchHistoryCollector",
+      "target": "AnimNode_PoseSearchHistoryCollector_Base",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterConfigurationInputSyncPolicy",
+      "target": "DisplayClusterConfigurationPolymorphicEntity",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_HierarchyAddControlTransform_LimitSettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieSceneScriptingByteKey",
+      "target": "MovieSceneScriptingKey",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CesiumOriginShiftComponent",
+      "target": "CesiumGlobeAnchoredActorComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathFloatTan",
+      "target": "RigVMFunction_MathFloatTan",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathBoolToInteger",
+      "target": "RigVMFunction_MathBoolToInteger",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterXformComponent",
+      "target": "SceneComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WaterBrushEffects",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PartyBeaconHost",
+      "target": "OnlineBeaconHostObject",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimGraphNode_ModifyBone",
+      "target": "AnimGraphNode_SkeletalControlBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GameplayStatics",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ParameterChannelNames",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ResultBase",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnPrimaryAssetListLoaded",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "E2DEntityMouseEventType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_AimBoneMath",
+      "target": "RigUnit_HighlevelBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunctionReturnNode",
+      "target": "RigVMFunctionInterfaceNode",
+      "type": "inherits_from"
+    },
+    {
+      "source": "set_object",
+      "target": "PropertyViewBase",
+      "type": "method_of"
+    },
+    {
+      "source": "get_object",
+      "target": "PropertyViewBase",
+      "type": "method_of"
+    },
+    {
+      "source": "by_selection",
+      "target": "EditorFilterLibrary",
+      "type": "method_of"
+    },
+    {
+      "source": "by_level_name",
+      "target": "EditorFilterLibrary",
+      "type": "method_of"
+    },
+    {
+      "source": "by_layer",
+      "target": "EditorFilterLibrary",
+      "type": "method_of"
+    },
+    {
+      "source": "by_id_name",
+      "target": "EditorFilterLibrary",
+      "type": "method_of"
+    },
+    {
+      "source": "by_class",
+      "target": "EditorFilterLibrary",
+      "type": "method_of"
+    },
+    {
+      "source": "by_actor_tag",
+      "target": "EditorFilterLibrary",
+      "type": "method_of"
+    },
+    {
+      "source": "by_actor_label",
+      "target": "EditorFilterLibrary",
+      "type": "method_of"
+    },
+    {
+      "source": "set_value_byte_key",
+      "target": "MovieSceneScriptingByteKey",
+      "type": "method_of"
+    },
+    {
+      "source": "get_value_byte_key",
+      "target": "MovieSceneScriptingByteKey",
+      "type": "method_of"
+    },
+    {
+      "source": "CLICK",
+      "target": "E2DEntityMouseEventType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "MOUSE_IN",
+      "target": "E2DEntityMouseEventType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "MOUSE_LEAVE",
+      "target": "E2DEntityMouseEventType",
+      "type": "enum_value_of"
+    },
+    {
+      "source": "DOUBLE_CLICK",
+      "target": "E2DEntityMouseEventType",
+      "type": "enum_value_of"
+    }
+  ]
+}

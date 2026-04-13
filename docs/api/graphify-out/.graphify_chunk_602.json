@@ -1,0 +1,1254 @@
+{
+  "nodes": [
+    {
+      "id": "CompositingTonemapPass",
+      "type": "class",
+      "label": "CompositingTonemapPass",
+      "description": "Compositing Tonemap Pass",
+      "module": "Composure",
+      "plugin": "Composure",
+      "file": "CompositingElementTransforms.h"
+    },
+    {
+      "id": "CompositingElementTransform",
+      "type": "class",
+      "label": "CompositingElementTransform"
+    },
+    {
+      "id": "ColorGradingSettings",
+      "type": "struct",
+      "label": "ColorGradingSettings"
+    },
+    {
+      "id": "FilmStockSettings",
+      "type": "struct",
+      "label": "FilmStockSettings"
+    },
+    {
+      "id": "glTFRuntimeTextureCubeAsync",
+      "type": "delegate",
+      "label": "glTFRuntimeTextureCubeAsync",
+      "description": "Gl TFRuntime Texture Cube Async Delegate Signature",
+      "module": "glTFRuntime",
+      "plugin": "AesWorld",
+      "file": "glTFRuntimeParser.h"
+    },
+    {
+      "id": "DelegateBase",
+      "type": "class",
+      "label": "DelegateBase"
+    },
+    {
+      "id": "TextureCube",
+      "type": "class",
+      "label": "TextureCube"
+    },
+    {
+      "id": "RigUnit_MathDoubleNegate",
+      "type": "class",
+      "label": "RigUnit_MathDoubleNegate",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathDoubleNegate' was renamed to 'RigVMFunction_MathDoubleNegate'"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleNegate",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleNegate"
+    },
+    {
+      "id": "PropertyPathTestObject",
+      "type": "class",
+      "label": "PropertyPathTestObject",
+      "description": "Property Path Test Object",
+      "module": "PropertyPath",
+      "file": "PropertyPathHelpersTest.h"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "PropertyPathTestEnum",
+      "type": "enum",
+      "label": "PropertyPathTestEnum"
+    },
+    {
+      "id": "PropertyPathTestStruct",
+      "type": "struct",
+      "label": "PropertyPathTestStruct"
+    },
+    {
+      "id": "GetHighlightAreaParams",
+      "type": "class",
+      "label": "GetHighlightAreaParams",
+      "description": "Get Highlight Area Params",
+      "module": "CoveringAPIDefine",
+      "plugin": "CoveringAPI",
+      "file": "HighlightAreaAPIParams.h"
+    },
+    {
+      "id": "ResultBase",
+      "type": "class",
+      "label": "ResultBase"
+    },
+    {
+      "id": "HighlightAreaStyle",
+      "type": "struct",
+      "label": "HighlightAreaStyle"
+    },
+    {
+      "id": "WdpSceneChangeInfo",
+      "type": "struct",
+      "label": "WdpSceneChangeInfo"
+    },
+    {
+      "id": "RigVMTrait_SetDeformerLinearColorArrayVariable",
+      "type": "class",
+      "label": "RigVMTrait_SetDeformerLinearColorArrayVariable",
+      "description": "Rig VMTrait Set Deformer Linear Color Array Variable",
+      "module": "OptimusCore",
+      "plugin": "DeformerGraph",
+      "file": "RigUnit_Optimus.h"
+    },
+    {
+      "id": "RigVMTrait_OptimusVariableBase",
+      "type": "class",
+      "label": "RigVMTrait_OptimusVariableBase"
+    },
+    {
+      "id": "LinearColor",
+      "type": "struct",
+      "label": "LinearColor"
+    },
+    {
+      "id": "GeometryScript_MeshGeodesic",
+      "type": "class",
+      "label": "GeometryScript_MeshGeodesic",
+      "description": "Geometry Script Library Mesh Geodesic Functions",
+      "module": "GeometryScriptingCore",
+      "plugin": "GeometryScripting",
+      "file": "MeshGeodesicFunctions.h"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "DynamicMesh",
+      "type": "class",
+      "label": "DynamicMesh"
+    },
+    {
+      "id": "GeometryScriptDebug",
+      "type": "struct",
+      "label": "GeometryScriptDebug"
+    },
+    {
+      "id": "GeometryScriptIndexList",
+      "type": "struct",
+      "label": "GeometryScriptIndexList"
+    },
+    {
+      "id": "Vector",
+      "type": "struct",
+      "label": "Vector"
+    },
+    {
+      "id": "GeometryScriptPolyPath",
+      "type": "struct",
+      "label": "GeometryScriptPolyPath"
+    },
+    {
+      "id": "RigBoneElement",
+      "type": "class",
+      "label": "RigBoneElement",
+      "description": "Rig Bone Element",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigHierarchyElements.h"
+    },
+    {
+      "id": "RigSingleParentElement",
+      "type": "class",
+      "label": "RigSingleParentElement"
+    },
+    {
+      "id": "RigBoneType",
+      "type": "enum",
+      "label": "RigBoneType"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "struct",
+      "label": "RigElementKey"
+    },
+    {
+      "id": "RigElementType",
+      "type": "enum",
+      "label": "RigElementType"
+    },
+    {
+      "id": "MakeBoxDataTypeEnum",
+      "type": "enum",
+      "label": "MakeBoxDataTypeEnum",
+      "description": "EMake Box Data Type Enum",
+      "module": "GeometryCollectionNodes",
+      "plugin": "GeometryCollectionPlugin",
+      "file": "GeometryCollectionMakeNodes.h",
+      "values": [
+        {"name": "DATAFLOW_MAKE_BOX_DATA_TYPE_MIN_MAX", "value": 0},
+        {"name": "DATAFLOW_MAKE_BOX_DATA_TYPE_CENTER_SIZE", "value": 1}
+      ]
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "EarthCustomPropertiesFragment",
+      "type": "class",
+      "label": "EarthCustomPropertiesFragment",
+      "description": "定义自定义属性数据片段的结构体",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld",
+      "file": "EarthCommonFragments.h"
+    },
+    {
+      "id": "EarthPropertyFragment",
+      "type": "class",
+      "label": "EarthPropertyFragment"
+    },
+    {
+      "id": "InstancedPropertyBag",
+      "type": "struct",
+      "label": "InstancedPropertyBag"
+    },
+    {
+      "id": "PerceptionUpdatedDelegate",
+      "type": "delegate",
+      "label": "PerceptionUpdatedDelegate",
+      "description": "Perception Updated Delegate Delegate Signature",
+      "module": "AIModule",
+      "file": "AIPerceptionComponent.h"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor"
+    },
+    {
+      "id": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrierBase",
+      "type": "class",
+      "label": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrierBase",
+      "description": "Base class for Ethernet barrier based media synchronization policies. It encapsulates network barriers related settings.",
+      "module": "DisplayClusterMedia",
+      "plugin": "nDisplay",
+      "file": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrierBase.h"
+    },
+    {
+      "id": "DisplayClusterMediaOutputSynchronizationPolicy",
+      "type": "class",
+      "label": "DisplayClusterMediaOutputSynchronizationPolicy"
+    },
+    {
+      "id": "glTFRuntimePhysicsBody",
+      "type": "struct",
+      "label": "glTFRuntimePhysicsBody",
+      "description": "Gl TFRuntime Physics Body",
+      "module": "glTFRuntime",
+      "plugin": "AesWorld",
+      "file": "glTFRuntimeParser.h"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "CollisionTraceFlag",
+      "type": "enum",
+      "label": "CollisionTraceFlag"
+    },
+    {
+      "id": "PhysicsType",
+      "type": "enum",
+      "label": "PhysicsType"
+    },
+    {
+      "id": "glTFRuntimeCapsule",
+      "type": "struct",
+      "label": "glTFRuntimeCapsule"
+    },
+    {
+      "id": "glTFRuntimeSphere",
+      "type": "struct",
+      "label": "glTFRuntimeSphere"
+    },
+    {
+      "id": "Box",
+      "type": "struct",
+      "label": "Box"
+    },
+    {
+      "id": "WdpPickerOutResult",
+      "type": "class",
+      "label": "WdpPickerOutResult",
+      "description": "Wdp Picker Out Result",
+      "module": "WdpInteractionAPI",
+      "plugin": "WdpRuntimeAPI",
+      "file": "WdpPickerAPIParams.h"
+    },
+    {
+      "id": "EidResult",
+      "type": "class",
+      "label": "EidResult"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleLawOfCosine",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleLawOfCosine",
+      "description": "Computes the angles alpha, beta and gamma (in radians) between the three sides A, B and C",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathDouble.h"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleBase",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleBase"
+    },
+    {
+      "id": "AvaJustifyHorizontal",
+      "type": "enum",
+      "label": "AvaJustifyHorizontal",
+      "description": "EAva Justify Horizontal",
+      "module": "AvalancheModifiers",
+      "plugin": "Avalanche",
+      "file": "AvaJustifyModifier.h",
+      "values": [
+        {"name": "NONE", "value": 0},
+        {"name": "LEFT", "value": 1},
+        {"name": "CENTER", "value": 2},
+        {"name": "RIGHT", "value": 3}
+      ]
+    },
+    {
+      "id": "MaterialExpressionStrataVerticalLayering",
+      "type": "class",
+      "label": "MaterialExpressionStrataVerticalLayering",
+      "deprecated": true,
+      "deprecated_message": "'MaterialExpressionStrataVerticalLayering' was renamed to 'MaterialExpressionSubstrateVerticalLayering'"
+    },
+    {
+      "id": "MaterialExpressionSubstrateVerticalLayering",
+      "type": "class",
+      "label": "MaterialExpressionSubstrateVerticalLayering"
+    },
+    {
+      "id": "AesAssetSizeData",
+      "type": "struct",
+      "label": "AesAssetSizeData",
+      "description": "资产尺寸数据基类",
+      "module": "AesAsset",
+      "plugin": "AesWorld",
+      "file": "AesAssetCommon.h"
+    },
+    {
+      "id": "Transform3f",
+      "type": "struct",
+      "label": "Transform3f"
+    },
+    {
+      "id": "Box3f",
+      "type": "struct",
+      "label": "Box3f"
+    },
+    {
+      "id": "DeviceColorCurveData",
+      "type": "struct",
+      "label": "DeviceColorCurveData",
+      "description": "Data required for setting the Input Device Color",
+      "module": "Engine",
+      "file": "InputDeviceProperties.h"
+    },
+    {
+      "id": "CurveLinearColor",
+      "type": "class",
+      "label": "CurveLinearColor"
+    },
+    {
+      "id": "NormalizeInputSmoothingType",
+      "type": "enum",
+      "label": "NormalizeInputSmoothingType",
+      "description": "Behavior options for how the value is calculated in UInputModifierSmoothDelta",
+      "module": "EnhancedInput",
+      "plugin": "EnhancedInput",
+      "file": "InputModifiers.h",
+      "values": [
+        {"name": "LERP", "value": 1},
+        {"name": "INTERP_TO", "value": 2},
+        {"name": "INTERP_CONSTANT_TO", "value": 3},
+        {"name": "INTERP_CIRCULAR_IN", "value": 4},
+        {"name": "INTERP_CIRCULAR_OUT", "value": 5},
+        {"name": "INTERP_CIRCULAR_IN_OUT", "value": 6},
+        {"name": "INTERP_EASE_IN", "value": 7},
+        {"name": "INTERP_EASE_OUT", "value": 8},
+        {"name": "INTERP_EASE_IN_OUT", "value": 9},
+        {"name": "INTERP_EXPO_IN", "value": 10},
+        {"name": "INTERP_EXPO_OUT", "value": 11},
+        {"name": "INTERP_EXPO_IN_OUT", "value": 12},
+        {"name": "INTERP_SIN_IN", "value": 13},
+        {"name": "INTERP_SIN_OUT", "value": 14},
+        {"name": "INTERP_SIN_IN_OUT", "value": 15}
+      ]
+    },
+    {
+      "id": "FieldNodeInt",
+      "type": "class",
+      "label": "FieldNodeInt",
+      "description": "FieldNodeInt",
+      "module": "FieldSystemEngine",
+      "file": "FieldSystemObjects.h"
+    },
+    {
+      "id": "FieldNodeBase",
+      "type": "class",
+      "label": "FieldNodeBase"
+    },
+    {
+      "id": "AssetUserData",
+      "type": "class",
+      "label": "AssetUserData"
+    },
+    {
+      "id": "ActorComponentActivatedSignature",
+      "type": "delegate",
+      "label": "ActorComponentActivatedSignature"
+    },
+    {
+      "id": "ActorComponentDeactivateSignature",
+      "type": "delegate",
+      "label": "ActorComponentDeactivateSignature"
+    },
+    {
+      "id": "ActorComponentTickFunction",
+      "type": "struct",
+      "label": "ActorComponentTickFunction"
+    },
+    {
+      "id": "Name",
+      "type": "struct",
+      "label": "Name"
+    },
+    {
+      "id": "CesiumMetadataModel",
+      "type": "class",
+      "label": "CesiumMetadataModel",
+      "deprecated": true,
+      "deprecated_message": "'CesiumMetadataModel' was renamed to 'CesiumModelMetadata'"
+    },
+    {
+      "id": "CesiumModelMetadata",
+      "type": "class",
+      "label": "CesiumModelMetadata"
+    }
+  ],
+  "edges": [
+    {
+      "source": "CompositingTonemapPass",
+      "target": "CompositingElementTransform",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CompositingTonemapPass",
+      "target": "ColorGradingSettings",
+      "type": "has_property",
+      "property_name": "color_grading_settings",
+      "access": "read-write"
+    },
+    {
+      "source": "CompositingTonemapPass",
+      "target": "FilmStockSettings",
+      "type": "has_property",
+      "property_name": "film_stock_settings",
+      "access": "read-write"
+    },
+    {
+      "source": "CompositingTonemapPass",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "chromatic_aberration",
+      "access": "read-write"
+    },
+    {
+      "source": "CompositingTonemapPass",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "enabled",
+      "access": "read-write"
+    },
+    {
+      "source": "CompositingTonemapPass",
+      "target": "Name",
+      "type": "has_property",
+      "property_name": "pass_name",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimeTextureCubeAsync",
+      "target": "DelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "glTFRuntimeTextureCubeAsync",
+      "target": "TextureCube",
+      "type": "has_parameter",
+      "parameter_name": "texture_cube"
+    },
+    {
+      "source": "RigUnit_MathDoubleNegate",
+      "target": "RigVMFunction_MathDoubleNegate",
+      "type": "renamed_to"
+    },
+    {
+      "source": "RigUnit_MathDoubleNegate",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "value",
+      "access": "read-write"
+    },
+    {
+      "source": "RigUnit_MathDoubleNegate",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "result",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "bool",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "PropertyPathTestEnum",
+      "type": "has_property",
+      "property_name": "enum_four",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "PropertyPathTestEnum",
+      "type": "has_property",
+      "property_name": "enum_one",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "PropertyPathTestEnum",
+      "type": "has_property",
+      "property_name": "enum_three",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "PropertyPathTestEnum",
+      "type": "has_property",
+      "property_name": "enum_two",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "float",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "PropertyPathTestObject",
+      "type": "has_property",
+      "property_name": "inner_object",
+      "access": "read-only"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "int",
+      "type": "has_property",
+      "property_name": "integer",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "str",
+      "type": "has_property",
+      "property_name": "string",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "PropertyPathTestStruct",
+      "type": "has_property",
+      "property_name": "struct",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "PropertyPathTestStruct",
+      "type": "has_property",
+      "property_name": "struct_ref",
+      "access": "read-write"
+    },
+    {
+      "source": "PropertyPathTestObject",
+      "target": "PropertyPathTestStruct",
+      "type": "has_property",
+      "property_name": "struct_const_ref",
+      "access": "read-write"
+    },
+    {
+      "source": "GetHighlightAreaParams",
+      "target": "ResultBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GetHighlightAreaParams",
+      "target": "HighlightAreaStyle",
+      "type": "has_property",
+      "property_name": "highlight_area_style",
+      "access": "read-write"
+    },
+    {
+      "source": "GetHighlightAreaParams",
+      "target": "str",
+      "type": "has_property",
+      "property_name": "message",
+      "access": "read-write"
+    },
+    {
+      "source": "GetHighlightAreaParams",
+      "target": "str",
+      "type": "has_property",
+      "property_name": "polygon_entity_eid",
+      "access": "read-write"
+    },
+    {
+      "source": "GetHighlightAreaParams",
+      "target": "WdpSceneChangeInfo",
+      "type": "has_property",
+      "property_name": "scene_change_info",
+      "access": "read-write"
+    },
+    {
+      "source": "GetHighlightAreaParams",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "success",
+      "access": "read-write"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerLinearColorArrayVariable",
+      "target": "RigVMTrait_OptimusVariableBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerLinearColorArrayVariable",
+      "target": "LinearColor",
+      "type": "has_property",
+      "property_name": "value",
+      "access": "read-write",
+      "is_array": true
+    },
+    {
+      "source": "GeometryScript_MeshGeodesic",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryScript_MeshGeodesic",
+      "target": "DynamicMesh",
+      "type": "has_method",
+      "method_name": "get_shortest_vertex_path",
+      "parameters": ["DynamicMesh", "int", "int", "GeometryScriptDebug"],
+      "returns": ["DynamicMesh", "GeometryScriptIndexList", "bool"]
+    },
+    {
+      "source": "GeometryScript_MeshGeodesic",
+      "target": "DynamicMesh",
+      "type": "has_method",
+      "method_name": "get_shortest_surface_path",
+      "parameters": ["DynamicMesh", "int", "Vector", "int", "Vector", "GeometryScriptDebug"],
+      "returns": ["DynamicMesh", "GeometryScriptPolyPath", "bool"]
+    },
+    {
+      "source": "GeometryScript_MeshGeodesic",
+      "target": "DynamicMesh",
+      "type": "has_method",
+      "method_name": "create_surface_path",
+      "parameters": ["DynamicMesh", "Vector", "int", "Vector", "float", "GeometryScriptDebug"],
+      "returns": ["DynamicMesh", "GeometryScriptPolyPath", "bool"]
+    },
+    {
+      "source": "RigBoneElement",
+      "target": "RigSingleParentElement",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigBoneElement",
+      "target": "RigBoneType",
+      "type": "has_property",
+      "property_name": "bone_type",
+      "access": "read-only"
+    },
+    {
+      "source": "RigBoneElement",
+      "target": "int",
+      "type": "has_property",
+      "property_name": "created_at_instruction_index",
+      "access": "read-write"
+    },
+    {
+      "source": "RigBoneElement",
+      "target": "int",
+      "type": "has_property",
+      "property_name": "index",
+      "access": "read-only"
+    },
+    {
+      "source": "RigBoneElement",
+      "target": "RigElementKey",
+      "type": "has_property",
+      "property_name": "key",
+      "access": "read-only"
+    },
+    {
+      "source": "RigBoneElement",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "selected",
+      "access": "read-write"
+    },
+    {
+      "source": "RigBoneElement",
+      "target": "int",
+      "type": "has_property",
+      "property_name": "sub_index",
+      "access": "read-only"
+    },
+    {
+      "source": "RigElementKey",
+      "target": "RigElementType",
+      "type": "contains"
+    },
+    {
+      "source": "MakeBoxDataTypeEnum",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthCustomPropertiesFragment",
+      "target": "EarthPropertyFragment",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthCustomPropertiesFragment",
+      "target": "InstancedPropertyBag",
+      "type": "has_property",
+      "property_name": "custom_properties",
+      "access": "read-write"
+    },
+    {
+      "source": "EarthCustomPropertiesFragment",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "valid",
+      "access": "read-write"
+    },
+    {
+      "source": "EarthCustomPropertiesFragment",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "validated",
+      "access": "read-write"
+    },
+    {
+      "source": "PerceptionUpdatedDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PerceptionUpdatedDelegate",
+      "target": "Actor",
+      "type": "has_parameter",
+      "parameter_name": "updated_actors",
+      "is_array": true
+    },
+    {
+      "source": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrierBase",
+      "target": "DisplayClusterMediaOutputSynchronizationPolicy",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrierBase",
+      "target": "int",
+      "type": "has_property",
+      "property_name": "barrier_timeout_ms",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "box_auto_collision",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "Box",
+      "type": "has_property",
+      "property_name": "box_collisions",
+      "access": "read-write",
+      "is_array": true
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "capsule_auto_collision",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "glTFRuntimeCapsule",
+      "type": "has_property",
+      "property_name": "capsule_collisions",
+      "access": "read-write",
+      "is_array": true
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "collision_scale",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "CollisionTraceFlag",
+      "type": "has_property",
+      "property_name": "collision_trace_flag",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "consider_for_bounds",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "disable_collision",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "PhysicsType",
+      "type": "has_property",
+      "property_name": "physics_type",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "sphere_auto_collision",
+      "access": "read-write"
+    },
+    {
+      "source": "glTFRuntimePhysicsBody",
+      "target": "glTFRuntimeSphere",
+      "type": "has_property",
+      "property_name": "sphere_collisions",
+      "access": "read-write",
+      "is_array": true
+    },
+    {
+      "source": "WdpPickerOutResult",
+      "target": "EidResult",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WdpPickerOutResult",
+      "target": "str",
+      "type": "has_property",
+      "property_name": "message",
+      "access": "read-write"
+    },
+    {
+      "source": "WdpPickerOutResult",
+      "target": "Vector",
+      "type": "has_property",
+      "property_name": "point",
+      "access": "read-write"
+    },
+    {
+      "source": "WdpPickerOutResult",
+      "target": "WdpSceneChangeInfo",
+      "type": "has_property",
+      "property_name": "scene_change_info",
+      "access": "read-write"
+    },
+    {
+      "source": "WdpPickerOutResult",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "success",
+      "access": "read-write"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "RigVMFunction_MathDoubleBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "a",
+      "access": "read-write"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "alpha_angle",
+      "access": "read-only"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "b",
+      "access": "read-write"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "beta_angle",
+      "access": "read-only"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "c",
+      "access": "read-write"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "float",
+      "type": "has_property",
+      "property_name": "gamma_angle",
+      "access": "read-only"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "valid",
+      "access": "read-only"
+    },
+    {
+      "source": "AvaJustifyHorizontal",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionStrataVerticalLayering",
+      "target": "MaterialExpressionSubstrateVerticalLayering",
+      "type": "renamed_to"
+    },
+    {
+      "source": "AesAssetSizeData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesAssetSizeData",
+      "target": "Box3f",
+      "type": "has_property",
+      "property_name": "bounds",
+      "access": "read-write"
+    },
+    {
+      "source": "AesAssetSizeData",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "custom_bounds",
+      "access": "read-write"
+    },
+    {
+      "source": "AesAssetSizeData",
+      "target": "Transform3f",
+      "type": "has_property",
+      "property_name": "transform",
+      "access": "read-write"
+    },
+    {
+      "source": "DeviceColorCurveData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DeviceColorCurveData",
+      "target": "CurveLinearColor",
+      "type": "has_property",
+      "property_name": "device_color_curve",
+      "access": "read-write"
+    },
+    {
+      "source": "DeviceColorCurveData",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "enable",
+      "access": "read-write"
+    },
+    {
+      "source": "DeviceColorCurveData",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "reset_after_completion",
+      "access": "read-write"
+    },
+    {
+      "source": "NormalizeInputSmoothingType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "FieldNodeBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "AssetUserData",
+      "type": "has_property",
+      "property_name": "asset_user_data",
+      "access": "read-write",
+      "is_array": true
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "AssetUserData",
+      "type": "has_property",
+      "property_name": "asset_user_data_editor_only",
+      "access": "read-write",
+      "is_array": true
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "auto_activate",
+      "access": "read-write"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "can_ever_affect_navigation",
+      "access": "read-write"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "Name",
+      "type": "has_property",
+      "property_name": "component_tags",
+      "access": "read-write",
+      "is_array": true
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "editable_when_inherited",
+      "access": "read-write"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "is_editor_only",
+      "access": "read-write"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "ActorComponentActivatedSignature",
+      "type": "has_property",
+      "property_name": "on_component_activated",
+      "access": "read-write"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "ActorComponentDeactivateSignature",
+      "type": "has_property",
+      "property_name": "on_component_deactivated",
+      "access": "read-write"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "ActorComponentTickFunction",
+      "type": "has_property",
+      "property_name": "primary_component_tick",
+      "access": "read-write"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "replicate_using_registered_sub_object_list",
+      "access": "read-write"
+    },
+    {
+      "source": "FieldNodeInt",
+      "target": "bool",
+      "type": "has_property",
+      "property_name": "replicates",
+      "access": "read-write"
+    },
+    {
+      "source": "CesiumMetadataModel",
+      "target": "CesiumModelMetadata",
+      "type": "renamed_to"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "plugin_composure",
+      "nodes": ["CompositingTonemapPass"],
+      "type": "belongs_to_plugin",
+      "plugin": "Composure"
+    },
+    {
+      "id": "plugin_aesworld",
+      "nodes": ["glTFRuntimeTextureCubeAsync", "EarthCustomPropertiesFragment", "glTFRuntimePhysicsBody", "AesAssetSizeData"],
+      "type": "belongs_to_plugin",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "plugin_coveringapi",
+      "nodes": ["GetHighlightAreaParams"],
+      "type": "belongs_to_plugin",
+      "plugin": "CoveringAPI"
+    },
+    {
+      "id": "plugin_deformergraph",
+      "nodes": ["RigVMTrait_SetDeformerLinearColorArrayVariable"],
+      "type": "belongs_to_plugin",
+      "plugin": "DeformerGraph"
+    },
+    {
+      "id": "plugin_geometryscripting",
+      "nodes": ["GeometryScript_MeshGeodesic"],
+      "type": "belongs_to_plugin",
+      "plugin": "GeometryScripting"
+    },
+    {
+      "id": "plugin_controlrig",
+      "nodes": ["RigBoneElement"],
+      "type": "belongs_to_plugin",
+      "plugin": "ControlRig"
+    },
+    {
+      "id": "plugin_geometrycollectionplugin",
+      "nodes": ["MakeBoxDataTypeEnum"],
+      "type": "belongs_to_plugin",
+      "plugin": "GeometryCollectionPlugin"
+    },
+    {
+      "id": "plugin_ndisplay",
+      "nodes": ["DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrierBase"],
+      "type": "belongs_to_plugin",
+      "plugin": "nDisplay"
+    },
+    {
+      "id": "plugin_wdruntimeapi",
+      "nodes": ["WdpPickerOutResult"],
+      "type": "belongs_to_plugin",
+      "plugin": "WdpRuntimeAPI"
+    },
+    {
+      "id": "plugin_rigvm",
+      "nodes": ["RigVMFunction_MathDoubleLawOfCosine"],
+      "type": "belongs_to_plugin",
+      "plugin": "RigVM"
+    },
+    {
+      "id": "plugin_avalanche",
+      "nodes": ["AvaJustifyHorizontal"],
+      "type": "belongs_to_plugin",
+      "plugin": "Avalanche"
+    },
+    {
+      "id": "plugin_enhancedinput",
+      "nodes": ["NormalizeInputSmoothingType"],
+      "type": "belongs_to_plugin",
+      "plugin": "EnhancedInput"
+    },
+    {
+      "id": "deprecated_classes",
+      "nodes": ["RigUnit_MathDoubleNegate", "MaterialExpressionStrataVerticalLayering", "CesiumMetadataModel"],
+      "type": "deprecated",
+      "reason": "renamed_to_new_class"
+    },
+    {
+      "id": "wdp_scene_change_info_usage",
+      "nodes": ["GetHighlightAreaParams", "WdpPickerOutResult", "WdpSceneChangeInfo"],
+      "type": "shared_dependency",
+      "description": "Multiple result classes use WdpSceneChangeInfo"
+    },
+    {
+      "id": "rigvm_math_functions",
+      "nodes": ["RigUnit_MathDoubleNegate", "RigVMFunction_MathDoubleNegate", "RigVMFunction_MathDoubleLawOfCosine"],
+      "type": "module_group",
+      "module": "RigVM"
+    },
+    {
+      "id": "gltfruntime_types",
+      "nodes": ["glTFRuntimeTextureCubeAsync", "glTFRuntimePhysicsBody", "glTFRuntimeCapsule", "glTFRuntimeSphere"],
+      "type": "module_group",
+      "module": "glTFRuntime"
+    },
+    {
+      "id": "physics_collision_types",
+      "nodes": ["glTFRuntimePhysicsBody", "Box", "glTFRuntimeCapsule", "glTFRuntimeSphere", "CollisionTraceFlag", "PhysicsType"],
+      "type": "domain_group",
+      "domain": "physics_collision"
+    }
+  ]
+}

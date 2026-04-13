@@ -1,0 +1,646 @@
+{
+  "nodes": [
+    {
+      "id": "RigVMFunction_MathBoolUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolUnaryOp",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathBool.h"
+    },
+    {
+      "id": "RigVMFunction_MathBoolBase",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolBase"
+    },
+    {
+      "id": "ConstraintInstanceBlueprintLibrary",
+      "type": "class",
+      "label": "ConstraintInstanceBlueprintLibrary",
+      "module": "Engine",
+      "file": "ConstraintInstanceBlueprintLibrary.h"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "PythonEnumLib",
+      "type": "class",
+      "label": "PythonEnumLib",
+      "module": "TAPython",
+      "plugin": "TAPython",
+      "file": "PythonEnumLib.h"
+    },
+    {
+      "id": "FunctionInputType",
+      "type": "enum",
+      "label": "FunctionInputType",
+      "module": "Engine",
+      "file": "MaterialExpressionFunctionInput.h"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "CesiumOriginShiftMode",
+      "type": "enum",
+      "label": "CesiumOriginShiftMode",
+      "module": "CesiumRuntime",
+      "plugin": "CesiumForUnreal",
+      "file": "CesiumOriginShiftComponent.h"
+    },
+    {
+      "id": "EidArrayResult",
+      "type": "class",
+      "label": "EidArrayResult",
+      "module": "WdpAPIFramework",
+      "plugin": "WdpAPIFrame",
+      "file": "ApiResultBase.h"
+    },
+    {
+      "id": "ResultBase",
+      "type": "class",
+      "label": "ResultBase"
+    },
+    {
+      "id": "MovieSceneStringSection",
+      "type": "class",
+      "label": "MovieSceneStringSection",
+      "module": "MovieSceneTracks",
+      "file": "MovieSceneStringSection.h"
+    },
+    {
+      "id": "MovieSceneSection",
+      "type": "class",
+      "label": "MovieSceneSection"
+    },
+    {
+      "id": "CreateEntityParams",
+      "type": "class",
+      "label": "CreateEntityParams",
+      "module": "DataModelAPI",
+      "plugin": "WdpRuntimeAPI",
+      "file": "WdpSceneAPI.h"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "RigVMFunction_MathFloatIsNearlyZero",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatIsNearlyZero",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathFloat.h"
+    },
+    {
+      "id": "RigVMFunction_MathFloatBase",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatBase"
+    },
+    {
+      "id": "VREditorDockableWindow",
+      "type": "class",
+      "label": "VREditorDockableWindow",
+      "module": "VREditor",
+      "file": "VREditorDockableWindow.h"
+    },
+    {
+      "id": "VREditorFloatingUI",
+      "type": "class",
+      "label": "VREditorFloatingUI"
+    },
+    {
+      "id": "RigUnit_GetTransform",
+      "type": "class",
+      "label": "RigUnit_GetTransform",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_GetTransform.h"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit"
+    },
+    {
+      "id": "ChaosVDParticleActor",
+      "type": "class",
+      "label": "ChaosVDParticleActor",
+      "module": "ChaosVD",
+      "plugin": "ChaosVD",
+      "file": "ChaosVDParticleActor.h"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor"
+    },
+    {
+      "id": "CurveFloatFactory",
+      "type": "class",
+      "label": "CurveFloatFactory",
+      "module": "UnrealEd",
+      "file": "CurveFactory.h"
+    },
+    {
+      "id": "CurveFactory",
+      "type": "class",
+      "label": "CurveFactory"
+    },
+    {
+      "id": "WaitGameplayEventDelegate",
+      "type": "class",
+      "label": "WaitGameplayEventDelegate",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "file": "AbilityTask_WaitGameplayEvent.h"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "SkyCreatorSunLightSettings",
+      "type": "class",
+      "label": "SkyCreatorSunLightSettings",
+      "module": "SkyCreatorPlugin",
+      "plugin": "SkyCreatorPlugin",
+      "file": "SkyCreatorWeatherSettings.h"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "Font",
+      "type": "class",
+      "label": "Font",
+      "module": "Engine",
+      "file": "Font.h"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "WDPCameraInfo",
+      "type": "class",
+      "label": "WDPCameraInfo",
+      "module": "WdpCamera",
+      "plugin": "WdpCamera",
+      "file": "CameraControlManager.h"
+    },
+    {
+      "id": "UrbanHoudiniOperatorLibraryFactory",
+      "type": "class",
+      "label": "UrbanHoudiniOperatorLibraryFactory",
+      "module": "UrbanHoudiniEngineEditor",
+      "plugin": "AesEditor",
+      "file": "UrbanHoudiniOperatorLibraryFactory.h"
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "label": "Factory"
+    },
+    {
+      "id": "CameraAnimationSequenceFactoryNew",
+      "type": "class",
+      "label": "CameraAnimationSequenceFactoryNew",
+      "module": "TemplateSequenceEditor",
+      "plugin": "TemplateSequence",
+      "file": "CameraAnimationSequenceFactoryNew.h"
+    },
+    {
+      "id": "RigVMFunction_NameConcat",
+      "type": "class",
+      "label": "RigVMFunction_NameConcat",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_Name.h"
+    },
+    {
+      "id": "RigVMFunction_NameBase",
+      "type": "class",
+      "label": "RigVMFunction_NameBase"
+    },
+    {
+      "id": "GeometryScript_Transform",
+      "type": "class",
+      "label": "GeometryScript_Transform",
+      "module": "GeometryScriptingCore",
+      "plugin": "GeometryScripting",
+      "file": "ShapeFunctions.h"
+    },
+    {
+      "id": "RigVMFunction_MathVectorCeil",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorCeil",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathVector.h"
+    },
+    {
+      "id": "RigVMFunction_MathVectorUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorUnaryOp"
+    },
+    {
+      "id": "set_projection_params",
+      "type": "method",
+      "label": "set_projection_params",
+      "class": "ConstraintInstanceBlueprintLibrary"
+    },
+    {
+      "id": "set_parent_dominates",
+      "type": "method",
+      "label": "set_parent_dominates",
+      "class": "ConstraintInstanceBlueprintLibrary"
+    },
+    {
+      "id": "set_enum_items",
+      "type": "method",
+      "label": "set_enum_items",
+      "class": "PythonEnumLib"
+    },
+    {
+      "id": "get_display_name_by_index",
+      "type": "method",
+      "label": "get_display_name_by_index",
+      "class": "PythonEnumLib"
+    },
+    {
+      "id": "make_transform_from_z_axis",
+      "type": "method",
+      "label": "make_transform_from_z_axis",
+      "class": "GeometryScript_Transform"
+    },
+    {
+      "id": "get_transform_axis_vector",
+      "type": "method",
+      "label": "get_transform_axis_vector",
+      "class": "GeometryScript_Transform"
+    },
+    {
+      "id": "FUNCTION_INPUT_SCALAR",
+      "type": "enum_value",
+      "label": "FUNCTION_INPUT_SCALAR",
+      "value": 0,
+      "enum": "FunctionInputType"
+    },
+    {
+      "id": "FUNCTION_INPUT_VECTOR2",
+      "type": "enum_value",
+      "label": "FUNCTION_INPUT_VECTOR2",
+      "value": 1,
+      "enum": "FunctionInputType"
+    },
+    {
+      "id": "FUNCTION_INPUT_VECTOR3",
+      "type": "enum_value",
+      "label": "FUNCTION_INPUT_VECTOR3",
+      "value": 2,
+      "enum": "FunctionInputType"
+    },
+    {
+      "id": "FUNCTION_INPUT_VECTOR4",
+      "type": "enum_value",
+      "label": "FUNCTION_INPUT_VECTOR4",
+      "value": 3,
+      "enum": "FunctionInputType"
+    },
+    {
+      "id": "DISABLED",
+      "type": "enum_value",
+      "label": "DISABLED",
+      "value": 0,
+      "enum": "CesiumOriginShiftMode"
+    },
+    {
+      "id": "SWITCH_SUB_LEVELS_ONLY",
+      "type": "enum_value",
+      "label": "SWITCH_SUB_LEVELS_ONLY",
+      "value": 1,
+      "enum": "CesiumOriginShiftMode"
+    },
+    {
+      "id": "CHANGE_CESIUM_GEOREFERENCE",
+      "type": "enum_value",
+      "label": "CHANGE_CESIUM_GEOREFERENCE",
+      "value": 2,
+      "enum": "CesiumOriginShiftMode"
+    },
+    {
+      "id": "value_property",
+      "type": "property",
+      "label": "value",
+      "datatype": "bool",
+      "class": "RigVMFunction_MathBoolUnaryOp"
+    },
+    {
+      "id": "result_property",
+      "type": "property",
+      "label": "result",
+      "datatype": "bool",
+      "class": "RigVMFunction_MathBoolUnaryOp"
+    },
+    {
+      "id": "intensity_property",
+      "type": "property",
+      "label": "intensity",
+      "datatype": "float",
+      "class": "SkyCreatorSunLightSettings"
+    },
+    {
+      "id": "light_color_property",
+      "type": "property",
+      "label": "light_color",
+      "datatype": "LinearColor",
+      "class": "SkyCreatorSunLightSettings"
+    },
+    {
+      "id": "temperature_property",
+      "type": "property",
+      "label": "temperature",
+      "datatype": "float",
+      "class": "SkyCreatorSunLightSettings"
+    },
+    {
+      "id": "cloud_shadow_strength_property",
+      "type": "property",
+      "label": "cloud_shadow_strength",
+      "datatype": "float",
+      "class": "SkyCreatorSunLightSettings"
+    }
+  ],
+  "edges": [
+    {
+      "source": "RigVMFunction_MathBoolUnaryOp",
+      "target": "RigVMFunction_MathBoolBase",
+      "type": "inherits"
+    },
+    {
+      "source": "ConstraintInstanceBlueprintLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits"
+    },
+    {
+      "source": "PythonEnumLib",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits"
+    },
+    {
+      "source": "FunctionInputType",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "CesiumOriginShiftMode",
+      "target": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "EidArrayResult",
+      "target": "ResultBase",
+      "type": "inherits"
+    },
+    {
+      "source": "MovieSceneStringSection",
+      "target": "MovieSceneSection",
+      "type": "inherits"
+    },
+    {
+      "source": "CreateEntityParams",
+      "target": "ParamsBase",
+      "type": "inherits"
+    },
+    {
+      "source": "RigVMFunction_MathFloatIsNearlyZero",
+      "target": "RigVMFunction_MathFloatBase",
+      "type": "inherits"
+    },
+    {
+      "source": "VREditorDockableWindow",
+      "target": "VREditorFloatingUI",
+      "type": "inherits"
+    },
+    {
+      "source": "RigUnit_GetTransform",
+      "target": "RigUnit",
+      "type": "inherits"
+    },
+    {
+      "source": "ChaosVDParticleActor",
+      "target": "Actor",
+      "type": "inherits"
+    },
+    {
+      "source": "CurveFloatFactory",
+      "target": "CurveFactory",
+      "type": "inherits"
+    },
+    {
+      "source": "WaitGameplayEventDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits"
+    },
+    {
+      "source": "SkyCreatorSunLightSettings",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "Font",
+      "target": "Object",
+      "type": "inherits"
+    },
+    {
+      "source": "WDPCameraInfo",
+      "target": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "UrbanHoudiniOperatorLibraryFactory",
+      "target": "Factory",
+      "type": "inherits"
+    },
+    {
+      "source": "CameraAnimationSequenceFactoryNew",
+      "target": "Factory",
+      "type": "inherits"
+    },
+    {
+      "source": "RigVMFunction_NameConcat",
+      "target": "RigVMFunction_NameBase",
+      "type": "inherits"
+    },
+    {
+      "source": "GeometryScript_Transform",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits"
+    },
+    {
+      "source": "RigVMFunction_MathVectorCeil",
+      "target": "RigVMFunction_MathVectorUnaryOp",
+      "type": "inherits"
+    },
+    {
+      "source": "ConstraintInstanceBlueprintLibrary",
+      "target": "set_projection_params",
+      "type": "has_method"
+    },
+    {
+      "source": "ConstraintInstanceBlueprintLibrary",
+      "target": "set_parent_dominates",
+      "type": "has_method"
+    },
+    {
+      "source": "PythonEnumLib",
+      "target": "set_enum_items",
+      "type": "has_method"
+    },
+    {
+      "source": "PythonEnumLib",
+      "target": "get_display_name_by_index",
+      "type": "has_method"
+    },
+    {
+      "source": "GeometryScript_Transform",
+      "target": "make_transform_from_z_axis",
+      "type": "has_method"
+    },
+    {
+      "source": "GeometryScript_Transform",
+      "target": "get_transform_axis_vector",
+      "type": "has_method"
+    },
+    {
+      "source": "FunctionInputType",
+      "target": "FUNCTION_INPUT_SCALAR",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "FunctionInputType",
+      "target": "FUNCTION_INPUT_VECTOR2",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "FunctionInputType",
+      "target": "FUNCTION_INPUT_VECTOR3",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "FunctionInputType",
+      "target": "FUNCTION_INPUT_VECTOR4",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "CesiumOriginShiftMode",
+      "target": "DISABLED",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "CesiumOriginShiftMode",
+      "target": "SWITCH_SUB_LEVELS_ONLY",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "CesiumOriginShiftMode",
+      "target": "CHANGE_CESIUM_GEOREFERENCE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "RigVMFunction_MathBoolUnaryOp",
+      "target": "value_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathBoolUnaryOp",
+      "target": "result_property",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorSunLightSettings",
+      "target": "intensity_property",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorSunLightSettings",
+      "target": "light_color_property",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorSunLightSettings",
+      "target": "temperature_property",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorSunLightSettings",
+      "target": "cloud_shadow_strength_property",
+      "type": "has_property"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Math Functions",
+      "nodes": [
+        "RigVMFunction_MathBoolUnaryOp",
+        "RigVMFunction_MathFloatIsNearlyZero",
+        "RigVMFunction_MathVectorCeil",
+        "RigVMFunction_NameConcat"
+      ],
+      "description": "Mathematical operation functions in the RigVM plugin"
+    },
+    {
+      "id": "unreal_enums",
+      "label": "Unreal Engine Enums",
+      "nodes": [
+        "FunctionInputType",
+        "CesiumOriginShiftMode"
+      ],
+      "description": "Enumeration types in Unreal Engine"
+    },
+    {
+      "id": "factory_classes",
+      "label": "Factory Classes",
+      "nodes": [
+        "CurveFloatFactory",
+        "UrbanHoudiniOperatorLibraryFactory",
+        "CameraAnimationSequenceFactoryNew"
+      ],
+      "description": "Factory classes for creating Unreal assets"
+    },
+    {
+      "id": "constraint_library",
+      "label": "Constraint Instance Library",
+      "nodes": [
+        "ConstraintInstanceBlueprintLibrary",
+        "set_projection_params",
+        "set_parent_dominates"
+      ],
+      "description": "Library for constraint instance operations"
+    },
+    {
+      "id": "plugin_classes",
+      "label": "Plugin-specific Classes",
+      "nodes": [
+        "PythonEnumLib",
+        "CesiumOriginShiftMode",
+        "ChaosVDParticleActor",
+        "SkyCreatorSunLightSettings"
+      ],
+      "description": "Classes from various Unreal Engine plugins"
+    }
+  ]
+}

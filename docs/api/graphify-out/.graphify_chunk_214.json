@@ -1,0 +1,568 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_convertrotationtovector_rigunit",
+      "label": "RigUnit ConvertRotationToVector",
+      "file_type": "document",
+      "source_file": "RigUnit_ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetimportdata_object",
+      "label": "AssetImportData",
+      "file_type": "document",
+      "source_file": "AssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tviewtarget_structbase",
+      "label": "TViewTarget",
+      "file_type": "document",
+      "source_file": "TViewTarget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_ccdik_animnodeskeletalcontrolbase",
+      "label": "AnimNode CCDIK",
+      "file_type": "document",
+      "source_file": "AnimNode__CCDIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialpropertymetallic_dmmaterialproperty",
+      "label": "DMMaterialPropertyMetallic",
+      "file_type": "document",
+      "source_file": "DMMaterialPropertyMetallic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgactorpropertyoverride_structbase",
+      "label": "PCGActorPropertyOverride",
+      "file_type": "document",
+      "source_file": "PCGActorPropertyOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectmixertreeviewmode_enumbase",
+      "label": "ObjectMixerTreeViewMode",
+      "file_type": "document",
+      "source_file": "ObjectMixerTreeViewMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionmatchinginteractionanimnodelibrary_blueprintfunctionlibrary",
+      "label": "MotionMatchingInteractionAnimNodeLibrary",
+      "file_type": "document",
+      "source_file": "MotionMatchingInteractionAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectrequest_structbase",
+      "label": "SmartObjectRequest",
+      "file_type": "document",
+      "source_file": "SmartObjectRequest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthouterfragment_earthexternalfragment",
+      "label": "EarthOuterFragment",
+      "file_type": "document",
+      "source_file": "EarthOuterFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setboolanimationchannel_rigunit_setanimationchannelbase",
+      "label": "RigUnit SetBoolAnimationChannel",
+      "file_type": "document",
+      "source_file": "RigUnit__SetBoolAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphoutputnode_moviegraphnode",
+      "label": "MovieGraphOutputNode",
+      "file_type": "document",
+      "source_file": "MovieGraphOutputNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionhlod_actor",
+      "label": "WorldPartitionHLOD",
+      "file_type": "document",
+      "source_file": "WorldPartitionHLOD Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmbytestatistics_structbase",
+      "label": "RigVMByteCodeStatistics",
+      "file_type": "document",
+      "source_file": "RigVMByteCodeStatistics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coord_z_ref_enumbase",
+      "label": "Coord Z Ref",
+      "file_type": "document",
+      "source_file": "Coord__Z__Ref Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "selectivetessellatepatterntype_enumbase",
+      "label": "SelectiveTessellatePatternType",
+      "file_type": "document",
+      "source_file": "SelectiveTessellatePatternType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "universalobjectlocator_structbase",
+      "label": "UniversalObjectLocator",
+      "file_type": "document",
+      "source_file": "UniversalObjectLocator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpresourcemountinforesult_structbase",
+      "label": "WdpResourceMountInfoResult",
+      "file_type": "document",
+      "source_file": "WdpResourceMountInfoResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosremovaleventrequestsettings_structbase",
+      "label": "ChaosRemovalEventRequestSettings",
+      "file_type": "document",
+      "source_file": "ChaosRemovalEventRequestSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthknob_widget",
+      "label": "SynthKnob",
+      "file_type": "document",
+      "source_file": "SynthKnob Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthlodfragment_earthexternalfragment",
+      "label": "EarthLODFragment",
+      "file_type": "document",
+      "source_file": "EarthLODFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gridslot_panelslot",
+      "label": "GridSlot",
+      "file_type": "document",
+      "source_file": "GridSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ccdik_algorithm",
+      "label": "CCDIK IK Approximation Algorithm",
+      "file_type": "document",
+      "source_file": "AnimNode__CCDIK Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_view_target_system",
+      "label": "Camera View Target System",
+      "file_type": "document",
+      "source_file": "TViewTarget Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asset_import_tracking",
+      "label": "Asset Import Tracking",
+      "file_type": "document",
+      "source_file": "AssetImportData Objects.md",
+      "source_location": "line 7-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_addressing_system",
+      "label": "Object Addressing via Locator Chains",
+      "file_type": "document",
+      "source_file": "UniversalObjectLocator Objects.md",
+      "source_location": "line 7-15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_property_override_system",
+      "label": "PCG Property Override System",
+      "file_type": "document",
+      "source_file": "PCGActorPropertyOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motion_matching_interaction",
+      "label": "Motion Matching Interaction System",
+      "file_type": "document",
+      "source_file": "MotionMatchingInteractionAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_control_animation_channel",
+      "label": "Rig Control Animation Channel System",
+      "file_type": "document",
+      "source_file": "RigUnit__SetBoolAnimationChannel Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "world_partition_hlod_management",
+      "label": "World Partition HLOD Management",
+      "file_type": "document",
+      "source_file": "WorldPartitionHLOD Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smart_object_filtering",
+      "label": "Smart Object Filtering and Search",
+      "file_type": "document",
+      "source_file": "SmartObjectRequest Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth_prefab_fragment_system",
+      "label": "Earth Prefab Fragment System",
+      "file_type": "document",
+      "source_file": "EarthOuterFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animnode_ccdik_animnodeskeletalcontrolbase",
+      "target": "ccdik_algorithm",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__CCDIK Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "tviewtarget_structbase",
+      "target": "camera_view_target_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "TViewTarget Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "assetimportdata_object",
+      "target": "asset_import_tracking",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AssetImportData Objects.md",
+      "source_location": "line 7-8",
+      "weight": 1.0
+    },
+    {
+      "source": "universalobjectlocator_structbase",
+      "target": "object_addressing_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "UniversalObjectLocator Objects.md",
+      "source_location": "line 7-15",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgactorpropertyoverride_structbase",
+      "target": "pcg_property_override_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGActorPropertyOverride Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionmatchinginteractionanimnodelibrary_blueprintfunctionlibrary",
+      "target": "motion_matching_interaction",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MotionMatchingInteractionAnimNodeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setboolanimationchannel_rigunit_setanimationchannelbase",
+      "target": "rig_control_animation_channel",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetBoolAnimationChannel Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionhlod_actor",
+      "target": "world_partition_hlod_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WorldPartitionHLOD Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectrequest_structbase",
+      "target": "smart_object_filtering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SmartObjectRequest Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "earthouterfragment_earthexternalfragment",
+      "target": "earthlodfragment_earthexternalfragment",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthOuterFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthouterfragment_earthexternalfragment",
+      "target": "earth_prefab_fragment_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthOuterFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthlodfragment_earthexternalfragment",
+      "target": "earth_prefab_fragment_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthLODFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_convertrotationtovector_rigunit",
+      "target": "rigunit_setboolanimationchannel_rigunit_setanimationchannelbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_ConvertRotationToVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmbytestatistics_structbase",
+      "target": "rigunit_convertrotationtovector_rigunit",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMByteCodeStatistics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmbytestatistics_structbase",
+      "target": "rigunit_setboolanimationchannel_rigunit_setanimationchannelbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMByteCodeStatistics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthknob_widget",
+      "target": "gridslot_panelslot",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SynthKnob Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialpropertymetallic_dmmaterialproperty",
+      "target": "assetimportdata_object",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DMMaterialPropertyMetallic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphoutputnode_moviegraphnode",
+      "target": "worldpartitionhlod_actor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MovieGraphOutputNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_animation_workflow",
+      "label": "Control Rig Animation Workflow",
+      "nodes": [
+        "rigunit_convertrotationtovector_rigunit",
+        "rigunit_setboolanimationchannel_rigunit_setanimationchannelbase",
+        "rigvmbytestatistics_structbase",
+        "animnode_ccdik_animnodeskeletalcontrolbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_ConvertRotationToVector Objects.md"
+    },
+    {
+      "id": "earth_prefab_ecs_architecture",
+      "label": "Earth Prefab Entity Component System",
+      "nodes": [
+        "earthouterfragment_earthexternalfragment",
+        "earthlodfragment_earthexternalfragment"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthOuterFragment Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

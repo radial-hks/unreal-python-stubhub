@@ -1,0 +1,1148 @@
+{
+  "nodes": [
+    {
+      "id": "PCGContext",
+      "label": "PCGContext",
+      "file_type": "code",
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionMaterialXLuminance",
+      "label": "MaterialExpressionMaterialXLuminance",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXLuminance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RoadJunctionType",
+      "label": "RoadJunctionType",
+      "file_type": "code",
+      "source_file": "RoadJunctionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MoviePipelineExecutorShot",
+      "label": "MoviePipelineExecutorShot",
+      "file_type": "code",
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DaySequenceProvider",
+      "label": "DaySequenceProvider",
+      "file_type": "code",
+      "source_file": "DaySequenceProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WDPResetCameraPoseParams",
+      "label": "WDPResetCameraPoseParams",
+      "file_type": "code",
+      "source_file": "WDPResetCameraPoseParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ChaosClothingSimulationInteractor",
+      "label": "ChaosClothingSimulationInteractor",
+      "file_type": "code",
+      "source_file": "ChaosClothingSimulationInteractor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "StaticMeshEntity",
+      "label": "StaticMeshEntity",
+      "file_type": "code",
+      "source_file": "StaticMeshEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_HierarchyAddAnimationChannelBool",
+      "label": "RigUnit_HierarchyAddAnimationChannelBool",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathBoolBinaryAggregateOp",
+      "label": "RigVMFunction_MathBoolBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoolBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DisplayClusterConfigurationICVFX_ChromakeyType",
+      "label": "DisplayClusterConfigurationICVFX_ChromakeyType",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_MathFloatConstPi",
+      "label": "RigUnit_MathFloatConstPi",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatConstPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PlateCropSettings",
+      "label": "PlateCropSettings",
+      "file_type": "code",
+      "source_file": "PlateCropSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InterchangeStaticMeshLodDataNode",
+      "label": "InterchangeStaticMeshLodDataNode",
+      "file_type": "code",
+      "source_file": "InterchangeStaticMeshLodDataNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AvalancheEditorSettings",
+      "label": "AvalancheEditorSettings",
+      "file_type": "code",
+      "source_file": "AvalancheEditorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "OptimusNode_DataInterface",
+      "label": "OptimusNode_DataInterface",
+      "file_type": "code",
+      "source_file": "OptimusNode_DataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ClusterUnionComponent",
+      "label": "ClusterUnionComponent",
+      "file_type": "code",
+      "source_file": "ClusterUnionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieGraphCollection",
+      "label": "MovieGraphCollection",
+      "file_type": "code",
+      "source_file": "MovieGraphCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Widget_GetSlateColor",
+      "label": "Widget_GetSlateColor",
+      "file_type": "code",
+      "source_file": "Widget__GetSlateColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionArcsine",
+      "label": "MaterialExpressionArcsine",
+      "file_type": "code",
+      "source_file": "MaterialExpressionArcsine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CaptureCardMediaSource",
+      "label": "CaptureCardMediaSource",
+      "file_type": "code",
+      "source_file": "CaptureCardMediaSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SubdivisionLOD",
+      "label": "SubdivisionLOD",
+      "file_type": "code",
+      "source_file": "SubdivisionLOD Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGSpatialData",
+      "label": "PCGSpatialData",
+      "file_type": "code",
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGSettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGComponent",
+      "label": "PCGComponent",
+      "file_type": "code",
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGData",
+      "label": "PCGData",
+      "file_type": "code",
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXLuminance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "DaySequenceProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DaySequence",
+      "label": "DaySequence",
+      "file_type": "code",
+      "source_file": "DaySequenceProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MoviePipelineShotConfig",
+      "label": "MoviePipelineShotConfig",
+      "file_type": "code",
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieGraphConfig",
+      "label": "MovieGraphConfig",
+      "file_type": "code",
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MoviePipelineSidecarCamera",
+      "label": "MoviePipelineSidecarCamera",
+      "file_type": "code",
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MoviePipelineConsoleVariableEntry",
+      "label": "MoviePipelineConsoleVariableEntry",
+      "file_type": "code",
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieJobVariableAssignmentContainer",
+      "label": "MovieJobVariableAssignmentContainer",
+      "file_type": "code",
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ParamsBase",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": "WDPResetCameraPoseParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WdpResetCameraPoseState",
+      "label": "WdpResetCameraPoseState",
+      "file_type": "code",
+      "source_file": "WDPResetCameraPoseParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ClothingSimulationInteractor",
+      "label": "ClothingSimulationInteractor",
+      "file_type": "code",
+      "source_file": "ChaosClothingSimulationInteractor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WdpStandardActorEntity",
+      "label": "WdpStandardActorEntity",
+      "file_type": "code",
+      "source_file": "StaticMeshEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_HierarchyAddElement",
+      "label": "RigUnit_HierarchyAddElement",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathBoolBase",
+      "label": "RigVMFunction_MathBoolBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoolBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathFloatConstPi",
+      "label": "RigVMFunction_MathFloatConstPi",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatConstPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "StructBase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InterchangeFactoryBaseNode",
+      "label": "InterchangeFactoryBaseNode",
+      "file_type": "code",
+      "source_file": "InterchangeStaticMeshLodDataNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AvaEditorSettings",
+      "label": "AvaEditorSettings",
+      "file_type": "code",
+      "source_file": "AvalancheEditorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "OptimusNode",
+      "label": "OptimusNode",
+      "file_type": "code",
+      "source_file": "OptimusNode_DataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PrimitiveComponent",
+      "label": "PrimitiveComponent",
+      "file_type": "code",
+      "source_file": "ClusterUnionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieGraphConditionGroup",
+      "label": "MovieGraphConditionGroup",
+      "file_type": "code",
+      "source_file": "MovieGraphCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DelegateBase",
+      "label": "DelegateBase",
+      "file_type": "code",
+      "source_file": "Widget__GetSlateColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "TimeSynchronizableMediaSource",
+      "label": "TimeSynchronizableMediaSource",
+      "file_type": "code",
+      "source_file": "CaptureCardMediaSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "OpenColorIOColorConversionSettings",
+      "label": "OpenColorIOColorConversionSettings",
+      "file_type": "code",
+      "source_file": "CaptureCardMediaSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EnumBase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "RoadJunctionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "World",
+      "label": "World",
+      "file_type": "code",
+      "source_file": "MovieGraphCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigElementKey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "OptimusComputeDataInterface",
+      "label": "OptimusComputeDataInterface",
+      "file_type": "code",
+      "source_file": "OptimusNode_DataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "PCGContext",
+      "target": "StructBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGContext",
+      "target": "PCGSpatialData",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGContext",
+      "target": "PCGSettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGContext",
+      "target": "PCGComponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGContext",
+      "target": "PCGData",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGContext",
+      "target": "Actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionMaterialXLuminance",
+      "target": "MaterialExpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXLuminance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RoadJunctionType",
+      "target": "EnumBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadJunctionType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExecutorShot",
+      "target": "Object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExecutorShot",
+      "target": "MoviePipelineShotConfig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExecutorShot",
+      "target": "MovieGraphConfig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExecutorShot",
+      "target": "MoviePipelineSidecarCamera",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExecutorShot",
+      "target": "MoviePipelineConsoleVariableEntry",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExecutorShot",
+      "target": "MovieJobVariableAssignmentContainer",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DaySequenceProvider",
+      "target": "Actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DaySequenceProvider",
+      "target": "DaySequence",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "WDPResetCameraPoseParams",
+      "target": "ParamsBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPResetCameraPoseParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "WDPResetCameraPoseParams",
+      "target": "WdpResetCameraPoseState",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPResetCameraPoseParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ChaosClothingSimulationInteractor",
+      "target": "ClothingSimulationInteractor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosClothingSimulationInteractor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "StaticMeshEntity",
+      "target": "WdpStandardActorEntity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StaticMeshEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_HierarchyAddAnimationChannelBool",
+      "target": "RigUnit_HierarchyAddElement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_HierarchyAddAnimationChannelBool",
+      "target": "RigElementKey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_HierarchyAddAnimationChannelBool",
+      "target": "ControlRigExecuteContext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_HierarchyAddAnimationChannelBool",
+      "target": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathBoolBinaryAggregateOp",
+      "target": "RigVMFunction_MathBoolBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoolBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DisplayClusterConfigurationICVFX_ChromakeyType",
+      "target": "EnumBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_MathFloatConstPi",
+      "target": "RigVMFunction_MathFloatConstPi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatConstPi Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PlateCropSettings",
+      "target": "StructBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlateCropSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "InterchangeStaticMeshLodDataNode",
+      "target": "InterchangeFactoryBaseNode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeStaticMeshLodDataNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AvalancheEditorSettings",
+      "target": "AvaEditorSettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvalancheEditorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "OptimusNode_DataInterface",
+      "target": "OptimusNode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode_DataInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "OptimusNode_DataInterface",
+      "target": "OptimusComputeDataInterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode_DataInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ClusterUnionComponent",
+      "target": "PrimitiveComponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ClusterUnionComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieGraphCollection",
+      "target": "Object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieGraphCollection",
+      "target": "MovieGraphConditionGroup",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieGraphCollection",
+      "target": "World",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieGraphCollection",
+      "target": "Actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "Widget_GetSlateColor",
+      "target": "DelegateBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Widget__GetSlateColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionArcsine",
+      "target": "MaterialExpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArcsine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "CaptureCardMediaSource",
+      "target": "TimeSynchronizableMediaSource",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CaptureCardMediaSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "CaptureCardMediaSource",
+      "target": "OpenColorIOColorConversionSettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CaptureCardMediaSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "SubdivisionLOD",
+      "target": "EnumBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubdivisionLOD Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DisplayClusterConfigurationICVFX_ChromakeyType",
+      "target": "PlateCropSettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionMaterialXLuminance",
+      "target": "MaterialExpressionArcsine",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionMaterialXLuminance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_HierarchyAddAnimationChannelBool",
+      "target": "RigVMFunction_MathBoolBinaryAggregateOp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MoviePipelineExecutorShot",
+      "target": "MovieGraphCollection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MoviePipelineExecutorShot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGContext",
+      "target": "StaticMeshEntity",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "PCGContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_material_expressions",
+      "label": "Material Expression System",
+      "nodes": [
+        "MaterialExpressionMaterialXLuminance",
+        "MaterialExpressionArcsine",
+        "MaterialExpression"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionMaterialXLuminance Objects.md"
+    },
+    {
+      "id": "unreal_engine_enums",
+      "label": "Enumeration Types System",
+      "nodes": [
+        "RoadJunctionType",
+        "DisplayClusterConfigurationICVFX_ChromakeyType",
+        "SubdivisionLOD",
+        "EnumBase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RoadJunctionType Objects.md"
+    },
+    {
+      "id": "movie_render_pipeline_system",
+      "label": "Movie Render Pipeline System",
+      "nodes": [
+        "MoviePipelineExecutorShot",
+        "MovieGraphCollection",
+        "MovieGraphConfig",
+        "MoviePipelineShotConfig"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MoviePipelineExecutorShot Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

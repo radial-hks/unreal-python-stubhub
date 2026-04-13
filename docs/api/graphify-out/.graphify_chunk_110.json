@@ -1,0 +1,950 @@
+{
+  "nodes": [
+    {
+      "id": "waterbodystaticmeshsettings_waterbodystaticmeshsettings",
+      "label": "WaterBodyStaticMeshSettings",
+      "file_type": "document",
+      "source_file": "WaterBodyStaticMeshSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodystaticmeshsettings_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "WaterBodyStaticMeshSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodystaticmeshsettings_enable_water_body_static_mesh",
+      "label": "enable_water_body_static_mesh",
+      "file_type": "document",
+      "source_file": "WaterBodyStaticMeshSettings Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadynamicmeshconvertermodifiertype_avadynamicmeshconvertermodifiertype",
+      "label": "AvaDynamicMeshConverterModifierType",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadynamicmeshconvertermodifiertype_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadynamicmeshconvertermodifiertype_static_mesh_component",
+      "label": "STATIC_MESH_COMPONENT",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadynamicmeshconvertermodifiertype_dynamic_mesh_component",
+      "label": "DYNAMIC_MESH_COMPONENT",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadynamicmeshconvertermodifiertype_skeletal_mesh_component",
+      "label": "SKELETAL_MESH_COMPONENT",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadynamicmeshconvertermodifiertype_brush_component",
+      "label": "BRUSH_COMPONENT",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 34",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadynamicmeshconvertermodifiertype_procedural_mesh_component",
+      "label": "PROCEDURAL_MESH_COMPONENT",
+      "file_type": "document",
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 40",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimuscomputedatainterface_optimuscomputedatainterface",
+      "label": "OptimusComputeDataInterface",
+      "file_type": "document",
+      "source_file": "OptimusComputeDataInterface Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimuscomputedatainterface_computedatainterface",
+      "label": "ComputeDataInterface",
+      "file_type": "document",
+      "source_file": "OptimusComputeDataInterface Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmcommentnode_rigvmcommentnode",
+      "label": "RigVMCommentNode",
+      "file_type": "document",
+      "source_file": "RigVMCommentNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmcommentnode_rigvmnode",
+      "label": "RigVMNode",
+      "file_type": "document",
+      "source_file": "RigVMCommentNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmcommentnode_get_comment_text",
+      "label": "get_comment_text",
+      "file_type": "document",
+      "source_file": "RigVMCommentNode Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmcommentnode_get_comment_font_size",
+      "label": "get_comment_font_size",
+      "file_type": "document",
+      "source_file": "RigVMCommentNode Objects.md",
+      "source_location": "line 37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapentityatom_heatmapentityatom",
+      "label": "HeatMapEntityAtom",
+      "file_type": "document",
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapentityatom_entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapentityatom_type",
+      "label": "type property",
+      "file_type": "document",
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapentityatom_brush_diameter",
+      "label": "brush_diameter property",
+      "file_type": "document",
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 62",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapentityatom_mapping_height_range",
+      "label": "mapping_height_range property",
+      "file_type": "document",
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 82",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapentityatom_mapping_value_range",
+      "label": "mapping_value_range property",
+      "file_type": "document",
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 102",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapentityatom_gradient_setting",
+      "label": "gradient_setting property",
+      "file_type": "document",
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 122",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "virtualtexturebuilderexporterhdr_virtualtexturebuilderexporterhdr",
+      "label": "VirtualTextureBuilderExporterHDR",
+      "file_type": "document",
+      "source_file": "VirtualTextureBuilderExporterHDR Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "virtualtexturebuilderexporterhdr_textureexporterhdr",
+      "label": "TextureExporterHDR",
+      "file_type": "document",
+      "source_file": "VirtualTextureBuilderExporterHDR Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorinputdevicecurveproperty_colorinputdevicecurveproperty",
+      "label": "ColorInputDeviceCurveProperty",
+      "file_type": "document",
+      "source_file": "ColorInputDeviceCurveProperty Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorinputdevicecurveproperty_inputdeviceproperty",
+      "label": "InputDeviceProperty",
+      "file_type": "document",
+      "source_file": "ColorInputDeviceCurveProperty Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorinputdevicecurveproperty_color_data",
+      "label": "color_data property",
+      "file_type": "document",
+      "source_file": "ColorInputDeviceCurveProperty Objects.md",
+      "source_location": "line 33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorinputdevicecurveproperty_device_override_data",
+      "label": "device_override_data property",
+      "file_type": "document",
+      "source_file": "ColorInputDeviceCurveProperty Objects.md",
+      "source_location": "line 53",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createwindowparams_batch_createwindowparams_batch",
+      "label": "CreateWindowParams_Batch",
+      "file_type": "document",
+      "source_file": "CreateWindowParams__Batch Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createwindowparams_batch_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "CreateWindowParams__Batch Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createwindowparams_batch_default_param",
+      "label": "default_param property",
+      "file_type": "document",
+      "source_file": "CreateWindowParams__Batch Objects.md",
+      "source_location": "line 39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createwindowparams_batch_batch_params",
+      "label": "batch_params property",
+      "file_type": "document",
+      "source_file": "CreateWindowParams__Batch Objects.md",
+      "source_location": "line 59",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nodaloffsetpointinfo_nodaloffsetpointinfo",
+      "label": "NodalOffsetPointInfo",
+      "file_type": "document",
+      "source_file": "NodalOffsetPointInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nodaloffsetpointinfo_datatablepointinfobase",
+      "label": "DataTablePointInfoBase",
+      "file_type": "document",
+      "source_file": "NodalOffsetPointInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nodaloffsetpointinfo_nodal_point_offset",
+      "label": "nodal_point_offset property",
+      "file_type": "document",
+      "source_file": "NodalOffsetPointInfo Objects.md",
+      "source_location": "line 43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "consumemousewheel_consumemousewheel",
+      "label": "ConsumeMouseWheel",
+      "file_type": "document",
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "consumemousewheel_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "consumemousewheel_when_scrolling_possible",
+      "label": "WHEN_SCROLLING_POSSIBLE",
+      "file_type": "document",
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "consumemousewheel_always",
+      "label": "ALWAYS",
+      "file_type": "document",
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "consumemousewheel_never",
+      "label": "NEVER",
+      "file_type": "document",
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playerinput_playerinput",
+      "label": "PlayerInput",
+      "file_type": "document",
+      "source_file": "PlayerInput Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playerinput_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "PlayerInput Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playerinput_get_outer_a_player_controller",
+      "label": "get_outer_a_player_controller",
+      "file_type": "document",
+      "source_file": "PlayerInput Objects.md",
+      "source_location": "line 26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playerinput_playercontroller",
+      "label": "PlayerController",
+      "file_type": "document",
+      "source_file": "PlayerInput Objects.md",
+      "source_location": "line 26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicblockingvolume_dynamicblockingvolume",
+      "label": "DynamicBlockingVolume",
+      "file_type": "document",
+      "source_file": "DynamicBlockingVolume Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicblockingvolume_blockingvolume",
+      "label": "BlockingVolume",
+      "file_type": "document",
+      "source_file": "DynamicBlockingVolume Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "waterbodystaticmeshsettings_waterbodystaticmeshsettings",
+      "target": "waterbodystaticmeshsettings_structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyStaticMeshSettings Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodystaticmeshsettings_waterbodystaticmeshsettings",
+      "target": "waterbodystaticmeshsettings_enable_water_body_static_mesh",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyStaticMeshSettings Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_avadynamicmeshconvertermodifiertype",
+      "target": "avadynamicmeshconvertermodifiertype_enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_avadynamicmeshconvertermodifiertype",
+      "target": "avadynamicmeshconvertermodifiertype_static_mesh_component",
+      "relation": "has_enum_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_avadynamicmeshconvertermodifiertype",
+      "target": "avadynamicmeshconvertermodifiertype_dynamic_mesh_component",
+      "relation": "has_enum_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_avadynamicmeshconvertermodifiertype",
+      "target": "avadynamicmeshconvertermodifiertype_skeletal_mesh_component",
+      "relation": "has_enum_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 28",
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_avadynamicmeshconvertermodifiertype",
+      "target": "avadynamicmeshconvertermodifiertype_brush_component",
+      "relation": "has_enum_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 34",
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_avadynamicmeshconvertermodifiertype",
+      "target": "avadynamicmeshconvertermodifiertype_procedural_mesh_component",
+      "relation": "has_enum_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": "line 40",
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_static_mesh_component",
+      "target": "avadynamicmeshconvertermodifiertype_dynamic_mesh_component",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_dynamic_mesh_component",
+      "target": "avadynamicmeshconvertermodifiertype_skeletal_mesh_component",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimuscomputedatainterface_optimuscomputedatainterface",
+      "target": "optimuscomputedatainterface_computedatainterface",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusComputeDataInterface Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcommentnode_rigvmcommentnode",
+      "target": "rigvmcommentnode_rigvmnode",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMCommentNode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcommentnode_rigvmcommentnode",
+      "target": "rigvmcommentnode_get_comment_text",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMCommentNode Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcommentnode_rigvmcommentnode",
+      "target": "rigvmcommentnode_get_comment_font_size",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMCommentNode Objects.md",
+      "source_location": "line 37",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapentityatom_heatmapentityatom",
+      "target": "heatmapentityatom_entityatombase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapentityatom_heatmapentityatom",
+      "target": "heatmapentityatom_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 39",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapentityatom_heatmapentityatom",
+      "target": "heatmapentityatom_brush_diameter",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 62",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapentityatom_heatmapentityatom",
+      "target": "heatmapentityatom_mapping_height_range",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 82",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapentityatom_heatmapentityatom",
+      "target": "heatmapentityatom_mapping_value_range",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 102",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapentityatom_heatmapentityatom",
+      "target": "heatmapentityatom_gradient_setting",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapEntityAtom Objects.md",
+      "source_location": "line 122",
+      "weight": 1.0
+    },
+    {
+      "source": "virtualtexturebuilderexporterhdr_virtualtexturebuilderexporterhdr",
+      "target": "virtualtexturebuilderexporterhdr_textureexporterhdr",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VirtualTextureBuilderExporterHDR Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "colorinputdevicecurveproperty_colorinputdevicecurveproperty",
+      "target": "colorinputdevicecurveproperty_inputdeviceproperty",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorInputDeviceCurveProperty Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "colorinputdevicecurveproperty_colorinputdevicecurveproperty",
+      "target": "colorinputdevicecurveproperty_color_data",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorInputDeviceCurveProperty Objects.md",
+      "source_location": "line 33",
+      "weight": 1.0
+    },
+    {
+      "source": "colorinputdevicecurveproperty_colorinputdevicecurveproperty",
+      "target": "colorinputdevicecurveproperty_device_override_data",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorInputDeviceCurveProperty Objects.md",
+      "source_location": "line 53",
+      "weight": 1.0
+    },
+    {
+      "source": "createwindowparams_batch_createwindowparams_batch",
+      "target": "createwindowparams_batch_paramsbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateWindowParams__Batch Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "createwindowparams_batch_createwindowparams_batch",
+      "target": "createwindowparams_batch_default_param",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateWindowParams__Batch Objects.md",
+      "source_location": "line 39",
+      "weight": 1.0
+    },
+    {
+      "source": "createwindowparams_batch_createwindowparams_batch",
+      "target": "createwindowparams_batch_batch_params",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateWindowParams__Batch Objects.md",
+      "source_location": "line 59",
+      "weight": 1.0
+    },
+    {
+      "source": "nodaloffsetpointinfo_nodaloffsetpointinfo",
+      "target": "nodaloffsetpointinfo_datatablepointinfobase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NodalOffsetPointInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "nodaloffsetpointinfo_nodaloffsetpointinfo",
+      "target": "nodaloffsetpointinfo_nodal_point_offset",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NodalOffsetPointInfo Objects.md",
+      "source_location": "line 43",
+      "weight": 1.0
+    },
+    {
+      "source": "consumemousewheel_consumemousewheel",
+      "target": "consumemousewheel_enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "consumemousewheel_consumemousewheel",
+      "target": "consumemousewheel_when_scrolling_possible",
+      "relation": "has_enum_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "consumemousewheel_consumemousewheel",
+      "target": "consumemousewheel_always",
+      "relation": "has_enum_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "consumemousewheel_consumemousewheel",
+      "target": "consumemousewheel_never",
+      "relation": "has_enum_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConsumeMouseWheel Objects.md",
+      "source_location": "line 28",
+      "weight": 1.0
+    },
+    {
+      "source": "playerinput_playerinput",
+      "target": "playerinput_object",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerInput Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "playerinput_playerinput",
+      "target": "playerinput_get_outer_a_player_controller",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerInput Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "playerinput_get_outer_a_player_controller",
+      "target": "playerinput_playercontroller",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerInput Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicblockingvolume_dynamicblockingvolume",
+      "target": "dynamicblockingvolume_blockingvolume",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicBlockingVolume Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "avadynamicmeshconvertermodifiertype_enumbase",
+      "target": "consumemousewheel_enumbase",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_component_types_group",
+      "label": "Component Types for Dynamic Mesh Conversion",
+      "nodes": [
+        "avadynamicmeshconvertermodifiertype_static_mesh_component",
+        "avadynamicmeshconvertermodifiertype_dynamic_mesh_component",
+        "avadynamicmeshconvertermodifiertype_skeletal_mesh_component",
+        "avadynamicmeshconvertermodifiertype_brush_component",
+        "avadynamicmeshconvertermodifiertype_procedural_mesh_component"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDynamicMeshConverterModifierType Objects.md"
+    },
+    {
+      "id": "mouse_wheel_consumption_behavior_group",
+      "label": "Mouse Wheel Consumption Behaviors",
+      "nodes": [
+        "consumemousewheel_when_scrolling_possible",
+        "consumemousewheel_always",
+        "consumemousewheel_never"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConsumeMouseWheel Objects.md"
+    },
+    {
+      "id": "heatmap_visualization_properties_group",
+      "label": "Heat Map Visualization Properties",
+      "nodes": [
+        "heatmapentityatom_type",
+        "heatmapentityatom_brush_diameter",
+        "heatmapentityatom_mapping_height_range",
+        "heatmapentityatom_mapping_value_range",
+        "heatmapentityatom_gradient_setting"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "HeatMapEntityAtom Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

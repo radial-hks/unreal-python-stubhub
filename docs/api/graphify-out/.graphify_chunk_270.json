@@ -1,0 +1,250 @@
+{
+  "nodes": [
+    {
+      "id": "superapihttpgeojson_geojson_received_delegate",
+      "label": "GeoJSONReceivedDelegate",
+      "file_type": "code",
+      "source_file": "SuperAPIHttpGeoJSON Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmassworldinfosettings_volume_lighting_method",
+      "label": "VolumeLightingMethod",
+      "file_type": "code",
+      "source_file": "LightmassWorldInfoSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassfalloffsettings_brush_falloff_mode",
+      "label": "BrushFalloffMode",
+      "file_type": "code",
+      "source_file": "LandmassFalloffSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_constraint_animnode_constraint",
+      "label": "AnimNode_Constraint",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_Constraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitscaleconstraintlocalspaceoffset_rig_element_key",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit_ScaleConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitscaleconstraintlocalspaceoffset_filter_option_per_axis",
+      "label": "FilterOptionPerAxis",
+      "file_type": "code",
+      "source_file": "RigUnit_ScaleConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitscaleconstraintlocalspaceoffset_constraint_parent",
+      "label": "ConstraintParent",
+      "file_type": "code",
+      "source_file": "RigUnit_ScaleConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_resourceaccessorbase_optimus_buffer_write_type",
+      "label": "OptimusBufferWriteType",
+      "file_type": "code",
+      "source_file": "OptimusNode__ResourceAccessorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat2_vector2d",
+      "label": "Vector2D",
+      "file_type": "code",
+      "source_file": "DMMaterialValueFloat2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat2_float_interval",
+      "label": "FloatInterval",
+      "file_type": "code",
+      "source_file": "DMMaterialValueFloat2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescriptingbytechannel_moviescenetimescriptingbytekey",
+      "label": "MovieSceneScriptingByteKey",
+      "file_type": "code",
+      "source_file": "MovieSceneScriptingByteChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublelawofcosine_rigvmfunction_mathdoublelawofcosine",
+      "label": "RigVMFunction_MathDoubleLawOfCosine",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleLawOfCosine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatconste_rigvmfunction_mathfloatconste",
+      "label": "RigVMFunction_MathFloatConstE",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatConstE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonegraphfleebehaviorbplibrary_zonegraphdisturbanceannotationbplibrary",
+      "label": "ZoneGraphDisturbanceAnnotationBPLibrary",
+      "file_type": "code",
+      "source_file": "ZoneGraphFleeBehaviorBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "superapihttpgeojson_geojson_received_delegate",
+      "target": "waitoverlapdelegate_gameplayabilitytargetdatahandle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "SuperAPIHttpGeoJSON Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescriptingbytechannel_moviescenetimescriptingbytekey",
+      "target": "rigunitscaleconstraintlocalspaceoffset_rig_element_key",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "MovieSceneScriptingByteChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublelawofcosine_rigvmfunction_mathdoublelawofcosine",
+      "target": "rigunit_mathfloatconste_rigvmfunction_mathfloatconste",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathDoubleLawOfCosine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_resourceaccessorbase_optimus_buffer_write_type",
+      "target": "landmassfalloffsettings_brush_falloff_mode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OptimusNode__ResourceAccessorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluefloat2_vector2d",
+      "target": "dmmaterialvaluefloat2_float_interval",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DMMaterialValueFloat2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "lightmass_lighting_settings_group",
+      "label": "Lightmass Lighting Configuration",
+      "nodes": [
+        "lightmassworldinfosettings_volume_lighting_method"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LightmassWorldInfoSettings Objects.md"
+    },
+    {
+      "id": "rig_math_functions_group",
+      "label": "Rig Math Function Migration Pattern",
+      "nodes": [
+        "rigunit_mathdoublelawofcosine_rigvmfunction_mathdoublelawofcosine",
+        "rigunit_mathfloatconste_rigvmfunction_mathfloatconste"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathDoubleLawOfCosine Objects.md"
+    },
+    {
+      "id": "constraint_system_group",
+      "label": "Constraint System Components",
+      "nodes": [
+        "rigunitscaleconstraintlocalspaceoffset_rig_element_key",
+        "rigunitscaleconstraintlocalspaceoffset_filter_option_per_axis",
+        "rigunitscaleconstraintlocalspaceoffset_constraint_parent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "RigUnit_ScaleConstraintLocalSpaceOffset Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

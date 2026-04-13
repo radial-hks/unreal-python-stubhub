@@ -1,0 +1,370 @@
+{
+  "nodes": [
+    {
+      "id": "orientation_orientation",
+      "label": "Orientation",
+      "file_type": "code",
+      "source_file": "Orientation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "safezone_safezone",
+      "label": "SafeZone",
+      "file_type": "code",
+      "source_file": "SafeZone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleclamp_rigunit_mathdoubleclamp",
+      "label": "RigUnit_MathDoubleClamp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialx_splittopbottom_materialexpression_materialx_splittopbottom",
+      "label": "MaterialExpressionMaterialXSplitTopBottom",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXSplitTopBottom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatetransformlerp_rigunit_accumulatetransformlerp",
+      "label": "RigUnit_AccumulateTransformLerp",
+      "file_type": "code",
+      "source_file": "RigUnit_AccumulateTransformLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintplasticitytype_constraintplasticitytype",
+      "label": "ConstraintPlasticityType",
+      "file_type": "code",
+      "source_file": "ConstraintPlasticityType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "align_translation_all_align_translation_all",
+      "label": "align_translation_all",
+      "file_type": "code",
+      "source_file": "align_translation_all Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materiallayersfunctionsruntimedata_materiallayersfunctionsruntimedata",
+      "label": "MaterialLayersFunctionsRuntimeData",
+      "file_type": "code",
+      "source_file": "MaterialLayersFunctionsRuntimeData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsplinesamplerparams_pcgsplinesamplerparams",
+      "label": "PCGSplineSamplerParams",
+      "file_type": "code",
+      "source_file": "PCGSplineSamplerParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tkmathfunctionlibrary_tkmathfunctionlibrary",
+      "label": "TKMathFunctionLibrary",
+      "file_type": "code",
+      "source_file": "TKMathFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "folliclemaskoptions_folliclemaskoptions",
+      "label": "FollicleMaskOptions",
+      "file_type": "code",
+      "source_file": "FollicleMaskOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumwebmapservicerasteroverlay_cesiumwebmapservicerasteroverlay",
+      "label": "CesiumWebMapServiceRasterOverlay",
+      "file_type": "code",
+      "source_file": "CesiumWebMapServiceRasterOverlay Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "videocaptureprotocol_videocaptureprotocol",
+      "label": "VideoCaptureProtocol",
+      "file_type": "code",
+      "source_file": "VideoCaptureProtocol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcreateattributesettings_pcgcreateattributesettings",
+      "label": "PCGCreateAttributeSettings",
+      "file_type": "code",
+      "source_file": "PCGCreateAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesmodelerlibrary_aesmodelerlibrary",
+      "label": "AesModelerLibrary",
+      "file_type": "code",
+      "source_file": "AesModelerLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigcomponentdelegate_controlrigcomponentdelegate",
+      "label": "ControlRigComponentDelegate",
+      "file_type": "code",
+      "source_file": "ControlRigComponentDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorselectbool_rigunit_mathvectorselectbool",
+      "label": "RigUnit_MathVectorSelectBool",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorSelectBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_prebeginexecution_rigunit_prebeginexecution",
+      "label": "RigUnit_PreBeginExecution",
+      "file_type": "code",
+      "source_file": "RigUnit_PreBeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navcostdisplay_navcostdisplay",
+      "label": "NavCostDisplay",
+      "file_type": "code",
+      "source_file": "NavCostDisplay Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawncontrollerchangedsignature_pawncontrollerchangedsignature",
+      "label": "PawnControllerChangedSignature",
+      "file_type": "code",
+      "source_file": "PawnControllerChangedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialproxyreplace_materialexpression_materialproxyreplace",
+      "label": "MaterialExpressionMaterialProxyReplace",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialProxyReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_texturebase_materialexpression_texturebase",
+      "label": "MaterialExpressionTextureBase",
+      "file_type": "code",
+      "source_file": "MaterialExpressionTextureBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathdoubleclamp_rigunit_mathdoubleclamp",
+      "target": "rigunit_mathdoubleclamp_rigunit_mathdoubleclamp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatetransformlerp_rigunit_accumulatetransformlerp",
+      "target": "rigunit_accumulatetransformlerp_rigunit_accumulatetransformlerp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AccumulateTransformLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgcreateattributesettings_pcgcreateattributesettings",
+      "target": "pcgcreateattributesettings_pcgcreateattributesettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGCreateAttributeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorselectbool_rigunit_mathvectorselectbool",
+      "target": "rigunit_mathvectorselectbool_rigunit_mathvectorselectbool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorSelectBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tkmathfunctionlibrary_tkmathfunctionlibrary",
+      "target": "aesmodelerlibrary_aesmodelerlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TKMathFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumwebmapservicerasteroverlay_cesiumwebmapservicerasteroverlay",
+      "target": "materialexpression_materialx_splittopbottom_materialexpression_materialx_splittopbottom",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CesiumWebMapServiceRasterOverlay Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigcomponentdelegate_controlrigcomponentdelegate",
+      "target": "rigunit_prebeginexecution_rigunit_prebeginexecution",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ControlRigComponentDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpression_texturebase_materialexpression_texturebase",
+      "target": "materialexpression_materialproxyreplace_materialexpression_materialproxyreplace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "MaterialExpressionTextureBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_deprecated_classes",
+      "label": "Deprecated RigUnit Classes",
+      "nodes": [
+        "rigunit_mathdoubleclamp_rigunit_mathdoubleclamp",
+        "rigunit_accumulatetransformlerp_rigunit_accumulatetransformlerp",
+        "rigunit_mathvectorselectbool_rigunit_mathvectorselectbool"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.90,
+      "source_file": "RigUnit__MathDoubleClamp Objects.md"
+    },
+    {
+      "id": "material_expression_classes",
+      "label": "Material Expression Classes",
+      "nodes": [
+        "materialexpression_materialx_splittopbottom_materialexpression_materialx_splittopbottom",
+        "materialexpression_materialproxyreplace_materialexpression_materialproxyreplace",
+        "materialexpression_texturebase_materialexpression_texturebase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionMaterialXSplitTopBottom Objects.md"
+    },
+    {
+      "id": "widget_ui_classes",
+      "label": "Widget UI Components",
+      "nodes": [
+        "orientation_orientation",
+        "safezone_safezone"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "Orientation Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

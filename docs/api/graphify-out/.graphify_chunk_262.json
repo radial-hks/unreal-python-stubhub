@@ -1,0 +1,1173 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathboxexpand_rigvmfunction_mathboxexpand",
+      "label": "RigVMFunction_MathBoxExpand",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoxExpand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxexpand_box",
+      "label": "Box",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoxExpand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxexpand_amount",
+      "label": "Amount Vector",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoxExpand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxexpand_result",
+      "label": "Result Box",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoxExpand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlocalgridmanager_navlocalgridmanager",
+      "label": "NavLocalGridManager",
+      "file_type": "document",
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlocalgridmanager_find_local_navigation_grid_path",
+      "label": "find_local_navigation_grid_path",
+      "file_type": "document",
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlocalgridmanager_add_local_navigation_grid_for_points",
+      "label": "add_local_navigation_grid_for_points",
+      "file_type": "document",
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlocalgridmanager_add_local_navigation_grid_for_capsule",
+      "label": "add_local_navigation_grid_for_capsule",
+      "file_type": "document",
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlocalgridmanager_add_local_navigation_grid_for_box",
+      "label": "add_local_navigation_grid_for_box",
+      "file_type": "document",
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputreleasedelegate_inputreleasedelegate",
+      "label": "InputReleaseDelegate",
+      "file_type": "document",
+      "source_file": "InputReleaseDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterlabelwidget_displayclusterlabelwidget",
+      "label": "DisplayClusterLabelWidget",
+      "file_type": "document",
+      "source_file": "DisplayClusterLabelWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterlabelwidget_set_label_text",
+      "label": "set_label_text",
+      "file_type": "document",
+      "source_file": "DisplayClusterLabelWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetdata_singletargethit_gameplayabilitytargetdata_singletargethit",
+      "label": "GameplayAbilityTargetData_SingleTargetHit",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetData__SingleTargetHit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setscale_rigunit_setscale",
+      "label": "RigUnit_SetScale",
+      "file_type": "document",
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setscale_scale",
+      "label": "Scale Property",
+      "file_type": "document",
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setscale_weight",
+      "label": "Weight Property",
+      "file_type": "document",
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setscale_propagate_to_children",
+      "label": "Propagate to Children",
+      "file_type": "document",
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxexportcompatibility_fbxexportcompatibility",
+      "label": "FbxExportCompatibility",
+      "file_type": "document",
+      "source_file": "FbxExportCompatibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxexportcompatibility_fbx_2011",
+      "label": "FBX_2011",
+      "file_type": "document",
+      "source_file": "FbxExportCompatibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxexportcompatibility_fbx_2020",
+      "label": "FBX_2020",
+      "file_type": "document",
+      "source_file": "FbxExportCompatibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayerweightproxy_animlayerweightproxy",
+      "label": "AnimLayerWeightProxy",
+      "file_type": "document",
+      "source_file": "AnimLayerWeightProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayerweightproxy_weight",
+      "label": "Weight Property",
+      "file_type": "document",
+      "source_file": "AnimLayerWeightProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputquerypose_inputquerypose",
+      "label": "InputQueryPose",
+      "file_type": "document",
+      "source_file": "InputQueryPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputquerypose_use_character_pose",
+      "label": "USE_CHARACTER_POSE",
+      "file_type": "document",
+      "source_file": "InputQueryPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputquerypose_use_continuing_pose",
+      "label": "USE_CONTINUING_POSE",
+      "file_type": "document",
+      "source_file": "InputQueryPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectordiv_rigunit_mathvectordiv",
+      "label": "RigUnit_MathVectorDiv",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorDiv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_visualizetargeting_abilitytask_visualizetargeting",
+      "label": "AbilityTask_VisualizeTargeting",
+      "file_type": "document",
+      "source_file": "AbilityTask__VisualizeTargeting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_visualizetargeting_time_elapsed",
+      "label": "Time Elapsed Delegate",
+      "file_type": "document",
+      "source_file": "AbilityTask__VisualizeTargeting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkrole_livelinkrole",
+      "label": "LiveLinkRole",
+      "file_type": "document",
+      "source_file": "LiveLinkRole Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshheatmapdata_meshheatmapdata",
+      "label": "MeshHeatMapData",
+      "file_type": "document",
+      "source_file": "MeshHeatMapData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshheatmapdata_points",
+      "label": "Points Array",
+      "file_type": "document",
+      "source_file": "MeshHeatMapData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshheatmapdata_colors",
+      "label": "Colors Array",
+      "file_type": "document",
+      "source_file": "MeshHeatMapData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshheatmapdata_triangles",
+      "label": "Triangles Array",
+      "file_type": "document",
+      "source_file": "MeshHeatMapData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createcustompoisparams_createcustompoisparams",
+      "label": "CreateCustomPoisParams",
+      "file_type": "document",
+      "source_file": "CreateCustomPoisParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createcustompoisparams_poi_style",
+      "label": "POI Style",
+      "file_type": "document",
+      "source_file": "CreateCustomPoisParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "label": "RigVMFunction_MathRBFInterpolateQuatQuat",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatquat_input",
+      "label": "Input Quaternion",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatquat_output",
+      "label": "Output Quaternion",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatquat_distance_function",
+      "label": "Distance Function",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatquat_smoothing_function",
+      "label": "Smoothing Function",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigrotationorder_controlrigrotationorder",
+      "label": "ControlRigRotationOrder",
+      "file_type": "document",
+      "source_file": "ControlRigRotationOrder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigrotationorder_xyz",
+      "label": "XYZ Rotation Order",
+      "file_type": "document",
+      "source_file": "ControlRigRotationOrder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testresult_testresult",
+      "label": "TestResult",
+      "file_type": "document",
+      "source_file": "TestResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testresult_test_name",
+      "label": "Test Name",
+      "file_type": "document",
+      "source_file": "TestResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testresult_duration_ms",
+      "label": "Duration in Milliseconds",
+      "file_type": "document",
+      "source_file": "TestResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testresult_status",
+      "label": "Test Status",
+      "file_type": "document",
+      "source_file": "TestResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zoneshapelaneconnectionrestrictions_zoneshapelaneconnectionrestrictions",
+      "label": "ZoneShapeLaneConnectionRestrictions",
+      "file_type": "document",
+      "source_file": "ZoneShapeLaneConnectionRestrictions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zoneshapelaneconnectionrestrictions_no_left_turn",
+      "label": "NO_LEFT_TURN",
+      "file_type": "document",
+      "source_file": "ZoneShapeLaneConnectionRestrictions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zoneshapelaneconnectionrestrictions_no_right_turn",
+      "label": "NO_RIGHT_TURN",
+      "file_type": "document",
+      "source_file": "ZoneShapeLaneConnectionRestrictions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapeblueprintcustombrush_landscapeblueprintcustombrush",
+      "label": "LandscapeBlueprintCustomBrush",
+      "file_type": "document",
+      "source_file": "LandscapeBlueprintCustomBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpbuildinglayerdata_dcpbuildinglayerdata",
+      "label": "DCPBuildingLayerData",
+      "file_type": "document",
+      "source_file": "DCPBuildingLayerData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpbuildinglayerdata_relative_location",
+      "label": "Relative Location",
+      "file_type": "document",
+      "source_file": "DCPBuildingLayerData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpbuildinglayerdata_layer_info",
+      "label": "Layer Info",
+      "file_type": "document",
+      "source_file": "DCPBuildingLayerData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcommoninput_onrotatekeyreleased_wdpcommoninput_onrotatekeyreleased",
+      "label": "WdpCommonInput_OnRotateKeyReleased",
+      "file_type": "document",
+      "source_file": "WdpCommonInput__OnRotateKeyReleased Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcommoninput_onrotatekeyreleased_position",
+      "label": "Position Vector2D",
+      "file_type": "document",
+      "source_file": "WdpCommonInput__OnRotateKeyReleased Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_navigation_pathfinding",
+      "label": "Navigation and Pathfinding",
+      "file_type": "document",
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_rig_transform_manipulation",
+      "label": "Rig Transform Manipulation",
+      "file_type": "document",
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_gameplay_ability_targeting",
+      "label": "Gameplay Ability Targeting",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetData__SingleTargetHit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ui_widget_display",
+      "label": "UI Widget Display",
+      "file_type": "document",
+      "source_file": "DisplayClusterLabelWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathboxexpand_rigvmfunction_mathboxexpand",
+      "target": "rigvmfunction_mathboxexpand_box",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoxExpand Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxexpand_rigvmfunction_mathboxexpand",
+      "target": "rigvmfunction_mathboxexpand_amount",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoxExpand Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxexpand_rigvmfunction_mathboxexpand",
+      "target": "rigvmfunction_mathboxexpand_result",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoxExpand Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlocalgridmanager_navlocalgridmanager",
+      "target": "navlocalgridmanager_find_local_navigation_grid_path",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlocalgridmanager_navlocalgridmanager",
+      "target": "navlocalgridmanager_add_local_navigation_grid_for_points",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlocalgridmanager_navlocalgridmanager",
+      "target": "navlocalgridmanager_add_local_navigation_grid_for_capsule",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlocalgridmanager_navlocalgridmanager",
+      "target": "navlocalgridmanager_add_local_navigation_grid_for_box",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlocalgridmanager_navlocalgridmanager",
+      "target": "concept_navigation_pathfinding",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterlabelwidget_displayclusterlabelwidget",
+      "target": "displayclusterlabelwidget_set_label_text",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterLabelWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterlabelwidget_displayclusterlabelwidget",
+      "target": "concept_ui_widget_display",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DisplayClusterLabelWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setscale_rigunit_setscale",
+      "target": "rigunit_setscale_scale",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setscale_rigunit_setscale",
+      "target": "rigunit_setscale_weight",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setscale_rigunit_setscale",
+      "target": "rigunit_setscale_propagate_to_children",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setscale_rigunit_setscale",
+      "target": "concept_rig_transform_manipulation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animlayerweightproxy_animlayerweightproxy",
+      "target": "animlayerweightproxy_weight",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimLayerWeightProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setscale_weight",
+      "target": "animlayerweightproxy_weight",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputquerypose_inputquerypose",
+      "target": "inputquerypose_use_character_pose",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputQueryPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputquerypose_inputquerypose",
+      "target": "inputquerypose_use_continuing_pose",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputQueryPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_visualizetargeting_abilitytask_visualizetargeting",
+      "target": "abilitytask_visualizetargeting_time_elapsed",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__VisualizeTargeting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_visualizetargeting_abilitytask_visualizetargeting",
+      "target": "concept_gameplay_ability_targeting",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AbilityTask__VisualizeTargeting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilitytargetdata_singletargethit_gameplayabilitytargetdata_singletargethit",
+      "target": "concept_gameplay_ability_targeting",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GameplayAbilityTargetData__SingleTargetHit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshheatmapdata_meshheatmapdata",
+      "target": "meshheatmapdata_points",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshHeatMapData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshheatmapdata_meshheatmapdata",
+      "target": "meshheatmapdata_colors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshHeatMapData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshheatmapdata_meshheatmapdata",
+      "target": "meshheatmapdata_triangles",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshHeatMapData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createcustompoisparams_createcustompoisparams",
+      "target": "createcustompoisparams_poi_style",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateCustomPoisParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "target": "rigvmfunction_mathrbfinterpolatequatquat_input",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "target": "rigvmfunction_mathrbfinterpolatequatquat_output",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "target": "rigvmfunction_mathrbfinterpolatequatquat_distance_function",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "target": "rigvmfunction_mathrbfinterpolatequatquat_smoothing_function",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "target": "concept_rig_transform_manipulation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigrotationorder_controlrigrotationorder",
+      "target": "controlrigrotationorder_xyz",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigRotationOrder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "testresult_testresult",
+      "target": "testresult_test_name",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TestResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "testresult_testresult",
+      "target": "testresult_duration_ms",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TestResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "testresult_testresult",
+      "target": "testresult_status",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TestResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zoneshapelaneconnectionrestrictions_zoneshapelaneconnectionrestrictions",
+      "target": "zoneshapelaneconnectionrestrictions_no_left_turn",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ZoneShapeLaneConnectionRestrictions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zoneshapelaneconnectionrestrictions_zoneshapelaneconnectionrestrictions",
+      "target": "zoneshapelaneconnectionrestrictions_no_right_turn",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ZoneShapeLaneConnectionRestrictions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zoneshapelaneconnectionrestrictions_zoneshapelaneconnectionrestrictions",
+      "target": "concept_navigation_pathfinding",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ZoneShapeLaneConnectionRestrictions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpbuildinglayerdata_dcpbuildinglayerdata",
+      "target": "dcpbuildinglayerdata_relative_location",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPBuildingLayerData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpbuildinglayerdata_dcpbuildinglayerdata",
+      "target": "dcpbuildinglayerdata_layer_info",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPBuildingLayerData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcommoninput_onrotatekeyreleased_wdpcommoninput_onrotatekeyreleased",
+      "target": "wdpcommoninput_onrotatekeyreleased_position",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpCommonInput__OnRotateKeyReleased Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxexpand_rigvmfunction_mathboxexpand",
+      "target": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathBoxExpand Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setscale_rigunit_setscale",
+      "target": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setscale_rigunit_setscale",
+      "target": "rigvmfunction_mathboxexpand_rigvmfunction_mathboxexpand",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_SetScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlocalgridmanager_add_local_navigation_grid_for_points",
+      "target": "navlocalgridmanager_add_local_navigation_grid_for_capsule",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlocalgridmanager_add_local_navigation_grid_for_capsule",
+      "target": "navlocalgridmanager_add_local_navigation_grid_for_box",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NavLocalGridManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputreleasedelegate_inputreleasedelegate",
+      "target": "wdpcommoninput_onrotatekeyreleased_wdpcommoninput_onrotatekeyreleased",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InputReleaseDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigrotationorder_controlrigrotationorder",
+      "target": "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ControlRigRotationOrder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_transform_manipulation_ecosystem",
+      "label": "Rig Transform Manipulation Ecosystem",
+      "nodes": [
+        "rigvmfunction_mathboxexpand_rigvmfunction_mathboxexpand",
+        "rigunit_setscale_rigunit_setscale",
+        "rigvmfunction_mathrbfinterpolatequatquat_rigvmfunction_mathrbfinterpolatequatquat",
+        "rigunit_mathvectordiv_rigunit_mathvectordiv",
+        "controlrigrotationorder_controlrigrotationorder"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetScale Objects.md"
+    },
+    {
+      "id": "navigation_grid_system",
+      "label": "Navigation Grid System",
+      "nodes": [
+        "navlocalgridmanager_navlocalgridmanager",
+        "navlocalgridmanager_find_local_navigation_grid_path",
+        "navlocalgridmanager_add_local_navigation_grid_for_points",
+        "navlocalgridmanager_add_local_navigation_grid_for_capsule",
+        "navlocalgridmanager_add_local_navigation_grid_for_box",
+        "zoneshapelaneconnectionrestrictions_zoneshapelaneconnectionrestrictions"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "NavLocalGridManager Objects.md"
+    },
+    {
+      "id": "gameplay_ability_targeting_system",
+      "label": "Gameplay Ability Targeting System",
+      "nodes": [
+        "gameplayabilitytargetdata_singletargethit_gameplayabilitytargetdata_singletargethit",
+        "abilitytask_visualizetargeting_abilitytask_visualizetargeting",
+        "inputreleasedelegate_inputreleasedelegate"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayAbilityTargetData__SingleTargetHit Objects.md"
+    }
+  ],
+  "input_tokens": 8500,
+  "output_tokens": 8500
+}

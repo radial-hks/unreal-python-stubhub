@@ -1,0 +1,182 @@
+{
+  "nodes": [
+    {"id": "ExponentialHeightFog", "type": "Class", "module": "Engine", "file": "ExponentialHeightFog.h", "description": "Implements an Actor for exponential height fog"},
+    {"id": "Info", "type": "Class", "description": "Base class for Info actors"},
+    {"id": "ExponentialHeightFogComponent", "type": "Class", "module": "Engine", "description": "Component for exponential height fog"},
+    {"id": "GeometryScriptUVLayoutType", "type": "Enum", "plugin": "GeometryScripting", "module": "GeometryScriptingCore", "file": "MeshUVFunctions.h", "description": "Enum for UV layout types in geometry scripting"},
+    {"id": "EnumBase", "type": "Class", "description": "Base class for enums"},
+    {"id": "InputEventType", "type": "Enum", "module": "Engine", "file": "EngineBaseTypes.h", "description": "Enum for input event types"},
+    {"id": "NavLinkComponent", "type": "Class", "module": "NavigationSystem", "file": "NavLinkComponent.h", "description": "Navigation link component"},
+    {"id": "PrimitiveComponent", "type": "Class", "description": "Base class for primitive components"},
+    {"id": "NavigationLink", "type": "Struct", "description": "Struct for navigation links"},
+    {"id": "CreateMeshObjectParams", "type": "Struct", "plugin": "MeshModelingToolset", "module": "ModelingComponents", "file": "ModelingObjectsCreationAPI.h", "description": "Parameters for creating mesh objects"},
+    {"id": "StructBase", "type": "Class", "description": "Base class for structs"},
+    {"id": "AnimNode_LinkedAnimGraph", "type": "Class", "module": "Engine", "file": "AnimNode_LinkedAnimGraph.h", "description": "Animation node for linked anim graphs"},
+    {"id": "AnimNode_CustomProperty", "type": "Class", "description": "Base class for custom property animation nodes"},
+    {"id": "WdpBasePawn", "type": "Class", "plugin": "WdpCamera", "module": "WdpCamera", "file": "WdpBasePawn.h", "description": "Base pawn for WdpCamera system with camera controls"},
+    {"id": "Pawn", "type": "Class", "description": "Base class for pawns"},
+    {"id": "StateTreeNodeBlueprintBase", "type": "Class", "plugin": "StateTree", "module": "StateTreeModule", "file": "StateTreeNodeBlueprintBase.h", "description": "Base class for state tree node blueprints"},
+    {"id": "Object", "type": "Class", "description": "Base UObject class"},
+    {"id": "AsyncPhysicsData", "type": "Class", "module": "Engine", "file": "AsyncPhysicsData.h", "description": "Base class for async physics data"},
+    {"id": "RigUnit_MathIntToFloat", "type": "Class", "deprecated": true, "description": "Deprecated RigUnit for int to float conversion"},
+    {"id": "RigVMFunction_MathIntToFloat", "type": "Class", "description": "RigVM function for int to float conversion"},
+    {"id": "AudioOscilloscopeTriggerMode", "type": "Enum", "plugin": "AudioWidgets", "module": "AudioWidgets", "file": "AudioOscilloscopeEnums.h", "description": "Enum for audio oscilloscope trigger modes"},
+    {"id": "VisualizeTargetingDelegate", "type": "Delegate", "plugin": "GameplayAbilities", "module": "GameplayAbilities", "file": "AbilityTask_VisualizeTargeting.h", "description": "Delegate for visualizing targeting"},
+    {"id": "MulticastDelegateBase", "type": "Class", "description": "Base class for multicast delegates"},
+    {"id": "UrbanBuildSystemFactoryNew", "type": "Class", "plugin": "AesEditor", "module": "UrbanBuilderEditor", "file": "UrbanBuildSystemFactoryNew.h", "description": "Factory for urban build system"},
+    {"id": "Factory", "type": "Class", "description": "Base factory class"},
+    {"id": "AvaMask2DReadModifier", "type": "Class", "plugin": "Avalanche", "module": "AvalancheMask", "file": "AvaMask2DReadModifier.h", "description": "Uses scene actors to create a mask texture and applies it to attached actors"},
+    {"id": "AvaMask2DBaseModifier", "type": "Class", "description": "Base class for 2D mask modifiers"},
+    {"id": "RigUnit_DebugHierarchy", "type": "Class", "plugin": "ControlRig", "module": "ControlRig", "file": "RigUnit_DebugHierarchy.h", "description": "Draws vectors on each bone in the viewport across the entire hierarchy"},
+    {"id": "RigVMFunction_DebugBase", "type": "Class", "description": "Base class for debug RigVM functions"},
+    {"id": "InterchangeSkeletalMeshLodDataNode", "type": "Class", "plugin": "Interchange", "module": "InterchangeFactoryNodes", "file": "InterchangeSkeletalMeshLodDataNode.h", "description": "Node for skeletal mesh LOD data in interchange"},
+    {"id": "InterchangeFactoryBaseNode", "type": "Class", "description": "Base class for interchange factory nodes"},
+    {"id": "PCGReplaceTagsSettings", "type": "Class", "plugin": "PCG", "module": "PCG", "file": "PCGReplaceTags.h", "description": "Replaces the tags on the input data"},
+    {"id": "PCGSettings", "type": "Class", "description": "Base class for PCG settings"},
+    {"id": "DisplayClusterConfigurationViewport_ICVFX", "type": "Struct", "plugin": "nDisplay", "module": "DisplayClusterConfiguration", "file": "DisplayClusterConfigurationTypes_Viewport.h", "description": "Configuration for ICVFX viewport settings"},
+    {"id": "DatasmithStaticMeshImportData", "type": "Class", "plugin": "DatasmithContent", "module": "DatasmithContent", "file": "DatasmithAssetImportData.h", "description": "Datasmith static mesh import data"},
+    {"id": "DatasmithAssetImportData", "type": "Class", "description": "Base class for Datasmith asset import data"},
+    {"id": "FCTweenBPActionRotator", "type": "Class", "plugin": "FCTween", "module": "FCTween", "file": "FCTweenBPActionRotator.h", "description": "Tween action for rotator values"},
+    {"id": "FCTweenBPAction", "type": "Class", "description": "Base class for tween actions"},
+    {"id": "MovieSceneScriptingFloatChannel", "type": "Class", "plugin": "SequencerScripting", "module": "SequencerScripting", "file": "MovieSceneScriptingFloat.h", "description": "Scripting channel for float values in movie scenes"},
+    {"id": "MovieSceneScriptingChannel", "type": "Class", "description": "Base class for movie scene scripting channels"},
+    {"id": "MaterialExpressionCurveAtlasRowParameter", "type": "Class", "module": "Engine", "file": "MaterialExpressionCurveAtlasRowParameter.h", "description": "Material expression for curve atlas row parameter"},
+    {"id": "MaterialExpressionScalarParameter", "type": "Class", "description": "Base class for scalar parameter material expressions"}
+  ],
+  "edges": [
+    {"source": "ExponentialHeightFog", "target": "Info", "relation": "extends"},
+    {"source": "ExponentialHeightFog", "target": "ExponentialHeightFogComponent", "relation": "has_component", "property": "component"},
+    {"source": "GeometryScriptUVLayoutType", "target": "EnumBase", "relation": "extends"},
+    {"source": "InputEventType", "target": "EnumBase", "relation": "extends"},
+    {"source": "NavLinkComponent", "target": "PrimitiveComponent", "relation": "extends"},
+    {"source": "NavLinkComponent", "target": "NavigationLink", "relation": "has_property", "property": "links"},
+    {"source": "CreateMeshObjectParams", "target": "StructBase", "relation": "extends"},
+    {"source": "AnimNode_LinkedAnimGraph", "target": "AnimNode_CustomProperty", "relation": "extends"},
+    {"source": "WdpBasePawn", "target": "Pawn", "relation": "extends"},
+    {"source": "StateTreeNodeBlueprintBase", "target": "Object", "relation": "extends"},
+    {"source": "AsyncPhysicsData", "target": "Object", "relation": "extends"},
+    {"source": "RigUnit_MathIntToFloat", "target": "RigVMFunction_MathIntToFloat", "relation": "extends"},
+    {"source": "AudioOscilloscopeTriggerMode", "target": "EnumBase", "relation": "extends"},
+    {"source": "VisualizeTargetingDelegate", "target": "MulticastDelegateBase", "relation": "extends"},
+    {"source": "UrbanBuildSystemFactoryNew", "target": "Factory", "relation": "extends"},
+    {"source": "AvaMask2DReadModifier", "target": "AvaMask2DBaseModifier", "relation": "extends"},
+    {"source": "RigUnit_DebugHierarchy", "target": "RigVMFunction_DebugBase", "relation": "extends"},
+    {"source": "InterchangeSkeletalMeshLodDataNode", "target": "InterchangeFactoryBaseNode", "relation": "extends"},
+    {"source": "PCGReplaceTagsSettings", "target": "PCGSettings", "relation": "extends"},
+    {"source": "DisplayClusterConfigurationViewport_ICVFX", "target": "StructBase", "relation": "extends"},
+    {"source": "DatasmithStaticMeshImportData", "target": "DatasmithAssetImportData", "relation": "extends"},
+    {"source": "FCTweenBPActionRotator", "target": "FCTweenBPAction", "relation": "extends"},
+    {"source": "MovieSceneScriptingFloatChannel", "target": "MovieSceneScriptingChannel", "relation": "extends"},
+    {"source": "MaterialExpressionCurveAtlasRowParameter", "target": "MaterialExpressionScalarParameter", "relation": "extends"}
+  ],
+  "hyperedges": [
+    {
+      "id": "camera_system",
+      "nodes": ["WdpBasePawn", "ExponentialHeightFog"],
+      "description": "Camera-related actors and components",
+      "category": "Camera"
+    },
+    {
+      "id": "animation_system",
+      "nodes": ["AnimNode_LinkedAnimGraph", "StateTreeNodeBlueprintBase"],
+      "description": "Animation and state tree systems",
+      "category": "Animation"
+    },
+    {
+      "id": "rigging_system",
+      "nodes": ["RigUnit_MathIntToFloat", "RigUnit_DebugHierarchy"],
+      "description": "Control rig and rigging utilities",
+      "category": "Rigging"
+    },
+    {
+      "id": "navigation_system",
+      "nodes": ["NavLinkComponent"],
+      "description": "Navigation and pathfinding components",
+      "category": "Navigation"
+    },
+    {
+      "id": "mesh_creation",
+      "nodes": ["CreateMeshObjectParams", "InterchangeSkeletalMeshLodDataNode"],
+      "description": "Mesh creation and import systems",
+      "category": "Mesh"
+    },
+    {
+      "id": "pcg_system",
+      "nodes": ["PCGReplaceTagsSettings"],
+      "description": "Procedural content generation",
+      "category": "PCG"
+    },
+    {
+      "id": "sequencer_system",
+      "nodes": ["MovieSceneScriptingFloatChannel"],
+      "description": "Sequencer and timeline scripting",
+      "category": "Sequencer"
+    },
+    {
+      "id": "material_system",
+      "nodes": ["MaterialExpressionCurveAtlasRowParameter"],
+      "description": "Material expression nodes",
+      "category": "Materials"
+    },
+    {
+      "id": "audio_system",
+      "nodes": ["AudioOscilloscopeTriggerMode"],
+      "description": "Audio widgets and utilities",
+      "category": "Audio"
+    },
+    {
+      "id": "physics_system",
+      "nodes": ["AsyncPhysicsData"],
+      "description": "Async physics data handling",
+      "category": "Physics"
+    },
+    {
+      "id": "input_system",
+      "nodes": ["InputEventType"],
+      "description": "Input event types and handling",
+      "category": "Input"
+    },
+    {
+      "id": "tween_system",
+      "nodes": ["FCTweenBPActionRotator"],
+      "description": "Tweening and animation interpolation",
+      "category": "Animation"
+    },
+    {
+      "id": "masking_system",
+      "nodes": ["AvaMask2DReadModifier"],
+      "description": "Avalanche mask modifiers for visual effects",
+      "category": "VFX"
+    },
+    {
+      "id": "gameplay_abilities",
+      "nodes": ["VisualizeTargetingDelegate"],
+      "description": "Gameplay abilities system",
+      "category": "Gameplay"
+    },
+    {
+      "id": "geometry_scripting",
+      "nodes": ["GeometryScriptUVLayoutType"],
+      "description": "Geometry scripting utilities",
+      "category": "Geometry"
+    },
+    {
+      "id": "datasmith_import",
+      "nodes": ["DatasmithStaticMeshImportData"],
+      "description": "Datasmith import and conversion",
+      "category": "Import"
+    },
+    {
+      "id": "display_cluster",
+      "nodes": ["DisplayClusterConfigurationViewport_ICVFX"],
+      "description": "nDisplay cluster configuration",
+      "category": "Rendering"
+    },
+    {
+      "id": "urban_building",
+      "nodes": ["UrbanBuildSystemFactoryNew"],
+      "description": "Urban build system factories",
+      "category": "Editor"
+    }
+  ]
+}

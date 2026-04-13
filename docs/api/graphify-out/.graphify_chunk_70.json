@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "id": "materialatom",
+      "label": "MaterialAtom",
+      "file_type": "document",
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialatom_entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialatom_changedmaterialinfo",
+      "label": "ChangedMaterialInfo",
+      "file_type": "document",
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialatom_primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "document",
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 47",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialatom_apply_material_to_component",
+      "label": "apply_material_to_component",
+      "file_type": "document",
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 44-51",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialatom_apply_material_from_data",
+      "label": "apply_material_from_data",
+      "file_type": "document",
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 64-71",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialatom_changed_material_info_prop",
+      "label": "changed_material_info property",
+      "file_type": "document",
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 20-29",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialatom_receives_decals",
+      "label": "receives_decals property",
+      "file_type": "document",
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 33-40",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionobjectorientation",
+      "label": "MaterialExpressionObjectOrientation",
+      "file_type": "document",
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionobjectorientation_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionobjectorientation_desc",
+      "label": "desc property",
+      "file_type": "document",
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionobjectorientation_editor_x",
+      "label": "material_expression_editor_x property",
+      "file_type": "document",
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionobjectorientation_editor_y",
+      "label": "material_expression_editor_y property",
+      "file_type": "document",
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialatom",
+      "target": "materialatom_entityatombase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionobjectorientation",
+      "target": "materialexpressionobjectorientation_materialexpression",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialatom",
+      "target": "materialatom_changed_material_info_prop",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "materialatom",
+      "target": "materialatom_receives_decals",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "materialatom",
+      "target": "materialatom_apply_material_to_component",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 44",
+      "weight": 1.0
+    },
+    {
+      "source": "materialatom",
+      "target": "materialatom_apply_material_from_data",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 64",
+      "weight": 1.0
+    },
+    {
+      "source": "materialatom_changed_material_info_prop",
+      "target": "materialatom_changedmaterialinfo",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "materialatom_apply_material_to_component",
+      "target": "materialatom_primitivecomponent",
+      "relation": "takes_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": "line 47",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionobjectorientation",
+      "target": "materialexpressionobjectorientation_desc",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionobjectorientation",
+      "target": "materialexpressionobjectorientation_editor_x",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionobjectorientation",
+      "target": "materialexpressionobjectorientation_editor_y",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionObjectOrientation Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "materialatom",
+      "target": "materialexpressionobjectorientation_materialexpression",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

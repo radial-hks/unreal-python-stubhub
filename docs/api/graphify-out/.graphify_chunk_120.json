@@ -1,0 +1,679 @@
+{
+  "nodes": [
+    {
+      "id": "geometryscriptcreatenewstaticmeshassetoptions",
+      "label": "GeometryScriptCreateNewStaticMeshAssetOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshnanitesettings",
+      "label": "MeshNaniteSettings",
+      "file_type": "document",
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collisiontraceflag",
+      "label": "CollisionTraceFlag",
+      "file_type": "document",
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbase",
+      "label": "RigUnit_DebugBase",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jsonobjectgraphfunctionlibrary",
+      "label": "JsonObjectGraphFunctionLibrary",
+      "file_type": "document",
+      "source_file": "JsonObjectGraphFunctionLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfuntionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "JsonObjectGraphFunctionLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jsonstringifyoptions",
+      "label": "JsonStringifyOptions",
+      "file_type": "document",
+      "source_file": "JsonObjectGraphFunctionLibrary Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_rigidbody",
+      "label": "AnimNode_RigidBody",
+      "file_type": "document",
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_skeletalcontrolbase",
+      "label": "AnimNode_SkeletalControlBase",
+      "file_type": "document",
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simspacesettings",
+      "label": "SimSpaceSettings",
+      "file_type": "document",
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "line 50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsasset",
+      "label": "PhysicsAsset",
+      "file_type": "document",
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "line 47",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabassetfunctionlibrary",
+      "label": "EarthPrefabAssetFunctionLibrary",
+      "file_type": "document",
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture2d",
+      "label": "Texture2D",
+      "file_type": "document",
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "line 40",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabasset",
+      "label": "EarthPrefabAsset",
+      "file_type": "document",
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "line 101",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendscreen",
+      "label": "DMMaterialStageBlendScreen",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendScreen Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendfunction",
+      "label": "DMMaterialStageBlendFunction",
+      "file_type": "document",
+      "source_file": "DMMaterialStageBlendScreen Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quat4f",
+      "label": "Quat4f",
+      "file_type": "document",
+      "source_file": "Quat4f Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "streamablerenderasset",
+      "label": "StreamableRenderAsset",
+      "file_type": "document",
+      "source_file": "StreamableRenderAsset Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "branchfilter",
+      "label": "BranchFilter",
+      "file_type": "document",
+      "source_file": "BranchFilter Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "importsubsystem_onassetreimport_dyn",
+      "label": "ImportSubsystem_OnAssetReimport_Dyn",
+      "file_type": "document",
+      "source_file": "ImportSubsystem__OnAssetReimport__Dyn Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "ImportSubsystem__OnAssetReimport__Dyn Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtagdisplaymode",
+      "label": "RigVMTagDisplayMode",
+      "file_type": "document",
+      "source_file": "RigVMTagDisplayMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathinttoname",
+      "label": "RigVMFunction_MathIntToName",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntToName Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntToName Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thumbnail_generation",
+      "label": "Thumbnail Generation",
+      "file_type": "document",
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "lines 16-157",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physics_simulation",
+      "label": "Physics Simulation",
+      "file_type": "document",
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "lines 7-64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "json_serialization",
+      "label": "JSON Serialization",
+      "file_type": "document",
+      "source_file": "JsonObjectGraphFunctionLibrary Objects.md",
+      "source_location": "lines 7-98",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "static_mesh_creation",
+      "label": "Static Mesh Creation",
+      "file_type": "document",
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "lines 7-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nanite_system",
+      "label": "Nanite System",
+      "file_type": "document",
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "lines 19-23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometryscriptcreatenewstaticmeshassetoptions",
+      "target": "meshnanitesettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcreatenewstaticmeshassetoptions",
+      "target": "collisiontraceflag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcreatenewstaticmeshassetoptions",
+      "target": "static_mesh_creation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "lines 7-25",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcreatenewstaticmeshassetoptions",
+      "target": "nanite_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "lines 19-23",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbase",
+      "target": "rigunit",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "jsonobjectgraphfunctionlibrary",
+      "target": "blueprintfuntionlibrary",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JsonObjectGraphFunctionLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "jsonobjectgraphfunctionlibrary",
+      "target": "jsonstringifyoptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JsonObjectGraphFunctionLibrary Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "jsonobjectgraphfunctionlibrary",
+      "target": "json_serialization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JsonObjectGraphFunctionLibrary Objects.md",
+      "source_location": "lines 7-98",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rigidbody",
+      "target": "animnode_skeletalcontrolbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rigidbody",
+      "target": "simspacesettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "line 50",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rigidbody",
+      "target": "physicsasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "line 47",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rigidbody",
+      "target": "physics_simulation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "lines 7-64",
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabassetfunctionlibrary",
+      "target": "blueprintfuntionlibrary",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabassetfunctionlibrary",
+      "target": "texture2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "line 40",
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabassetfunctionlibrary",
+      "target": "earthprefabasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "line 101",
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabassetfunctionlibrary",
+      "target": "thumbnail_generation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "lines 16-157",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendscreen",
+      "target": "dmmaterialstageblendfunction",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageBlendScreen Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "importsubsystem_onassetreimport_dyn",
+      "target": "multicastdelegatebase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImportSubsystem__OnAssetReimport__Dyn Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttoname",
+      "target": "rigvmfunction_mathintbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntToName Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "meshnanitesettings",
+      "target": "nanite_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "texture2d",
+      "target": "thumbnail_generation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "lines 40-157",
+      "weight": 1.0
+    },
+    {
+      "source": "physicsasset",
+      "target": "physics_simulation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "lines 47-64",
+      "weight": 1.0
+    },
+    {
+      "source": "nanite_system",
+      "target": "static_mesh_creation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptCreateNewStaticMeshAssetOptions Objects.md",
+      "source_location": "lines 19-23",
+      "weight": 1.0
+    },
+    {
+      "source": "simspacesettings",
+      "target": "physics_simulation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode__RigidBody Objects.md",
+      "source_location": "lines 50-57",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbase",
+      "target": "rigvmfunction_mathinttoname",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigUnit__DebugBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quat4f",
+      "target": "animnode_rigidbody",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Quat4f Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "streamablerenderasset",
+      "target": "texture2d",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "StreamableRenderAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "branchfilter",
+      "target": "animnode_rigidbody",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "BranchFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabasset",
+      "target": "thumbnail_generation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthPrefabAssetFunctionLibrary Objects.md",
+      "source_location": "lines 101-113",
+      "weight": 1.0
+    },
+    {
+      "source": "jsonstringifyoptions",
+      "target": "json_serialization",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "JsonObjectGraphFunctionLibrary Objects.md",
+      "source_location": "lines 21-98",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_asset_workflow",
+      "label": "Unreal Asset Workflow",
+      "nodes": [
+        "geometryscriptcreatenewstaticmeshassetoptions",
+        "earthprefabassetfunctionlibrary",
+        "importsubsystem_onassetreimport_dyn"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "animation_systems",
+      "label": "Animation Systems",
+      "nodes": [
+        "animnode_rigidbody",
+        "branchfilter",
+        "quat4f"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "rigvm_framework",
+      "label": "RigVM Framework",
+      "nodes": [
+        "rigunit_debugbase",
+        "rigvmfunction_mathinttoname",
+        "rigvmtagdisplaymode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 8462,
+  "output_tokens": 3247
+}

@@ -1,0 +1,1571 @@
+{
+  "nodes": [
+    {
+      "id": "MovieGraphSequenceDataSource",
+      "type": "class",
+      "label": "MovieGraphSequenceDataSource",
+      "description": "The UMovieGraphSequenceDataSource allows using a ULevelSequence as the external datasource for the Movie Graph"
+    },
+    {
+      "id": "MovieGraphDataSourceBase",
+      "type": "class",
+      "label": "MovieGraphDataSourceBase"
+    },
+    {
+      "id": "MovieRenderPipeline",
+      "type": "plugin",
+      "label": "MovieRenderPipeline"
+    },
+    {
+      "id": "MovieRenderPipelineCore",
+      "type": "module",
+      "label": "MovieRenderPipelineCore"
+    },
+    {
+      "id": "ValueOrBBKey_Rotator",
+      "type": "class",
+      "label": "ValueOrBBKey_Rotator",
+      "description": "Value or BBKey Rotator"
+    },
+    {
+      "id": "ValueOrBlackboardKeyBase",
+      "type": "class",
+      "label": "ValueOrBlackboardKeyBase"
+    },
+    {
+      "id": "AIModule",
+      "type": "module",
+      "label": "AIModule"
+    },
+    {
+      "id": "default_value",
+      "type": "property",
+      "label": "default_value"
+    },
+    {
+      "id": "Rotator",
+      "type": "type",
+      "label": "Rotator"
+    },
+    {
+      "id": "key",
+      "type": "property",
+      "label": "key"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "GameMapsSettings",
+      "type": "class",
+      "label": "GameMapsSettings",
+      "description": "Game Maps Settings"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "EngineSettings",
+      "type": "module",
+      "label": "EngineSettings"
+    },
+    {
+      "id": "editor_startup_map",
+      "type": "property",
+      "label": "editor_startup_map"
+    },
+    {
+      "id": "SoftObjectPath",
+      "type": "type",
+      "label": "SoftObjectPath"
+    },
+    {
+      "id": "game_default_map",
+      "type": "property",
+      "label": "game_default_map"
+    },
+    {
+      "id": "game_instance_class",
+      "type": "property",
+      "label": "game_instance_class"
+    },
+    {
+      "id": "SoftClassPath",
+      "type": "type",
+      "label": "SoftClassPath"
+    },
+    {
+      "id": "get_game_maps_settings",
+      "type": "method",
+      "label": "get_game_maps_settings"
+    },
+    {
+      "id": "set_skip_assigning_gamepad_to_player1",
+      "type": "method",
+      "label": "set_skip_assigning_gamepad_to_player1"
+    },
+    {
+      "id": "NiagaraPosition",
+      "type": "class",
+      "label": "NiagaraPosition",
+      "description": "Niagara Position"
+    },
+    {
+      "id": "Vector3f",
+      "type": "type",
+      "label": "Vector3f"
+    },
+    {
+      "id": "Niagara",
+      "type": "plugin",
+      "label": "Niagara"
+    },
+    {
+      "id": "x",
+      "type": "property",
+      "label": "x"
+    },
+    {
+      "id": "float",
+      "type": "type",
+      "label": "float"
+    },
+    {
+      "id": "y",
+      "type": "property",
+      "label": "y"
+    },
+    {
+      "id": "z",
+      "type": "property",
+      "label": "z"
+    },
+    {
+      "id": "EarthWaterSettings",
+      "type": "class",
+      "label": "EarthWaterSettings",
+      "description": "地球全局控制参数"
+    },
+    {
+      "id": "EarthLayerSettingsBase",
+      "type": "class",
+      "label": "EarthLayerSettingsBase"
+    },
+    {
+      "id": "AesWorld",
+      "type": "plugin",
+      "label": "AesWorld"
+    },
+    {
+      "id": "EarthMisc",
+      "type": "module",
+      "label": "EarthMisc"
+    },
+    {
+      "id": "affect_terrain",
+      "type": "property",
+      "label": "affect_terrain"
+    },
+    {
+      "id": "bool",
+      "type": "type",
+      "label": "bool"
+    },
+    {
+      "id": "build_collision",
+      "type": "property",
+      "label": "build_collision"
+    },
+    {
+      "id": "is_visible",
+      "type": "property",
+      "label": "is_visible"
+    },
+    {
+      "id": "GroomComponent",
+      "type": "class",
+      "label": "GroomComponent",
+      "description": "Groom Component"
+    },
+    {
+      "id": "MeshComponent",
+      "type": "class",
+      "label": "MeshComponent"
+    },
+    {
+      "id": "HairStrands",
+      "type": "plugin",
+      "label": "HairStrands"
+    },
+    {
+      "id": "HairStrandsCore",
+      "type": "module",
+      "label": "HairStrandsCore"
+    },
+    {
+      "id": "groom_asset",
+      "type": "property",
+      "label": "groom_asset"
+    },
+    {
+      "id": "GroomAsset",
+      "type": "type",
+      "label": "GroomAsset"
+    },
+    {
+      "id": "binding_asset",
+      "type": "property",
+      "label": "binding_asset"
+    },
+    {
+      "id": "GroomBindingAsset",
+      "type": "type",
+      "label": "GroomBindingAsset"
+    },
+    {
+      "id": "set_groom_asset",
+      "type": "method",
+      "label": "set_groom_asset"
+    },
+    {
+      "id": "set_binding_asset",
+      "type": "method",
+      "label": "set_binding_asset"
+    },
+    {
+      "id": "reset_simulation",
+      "type": "method",
+      "label": "reset_simulation"
+    },
+    {
+      "id": "PersistentBufferDataProvider",
+      "type": "class",
+      "label": "PersistentBufferDataProvider",
+      "description": "deprecated: 'PersistentBufferDataProvider' was renamed to 'OptimusPersistentBufferDataProvider'"
+    },
+    {
+      "id": "OptimusPersistentBufferDataProvider",
+      "type": "class",
+      "label": "OptimusPersistentBufferDataProvider"
+    },
+    {
+      "id": "RigUnit_MathIntSub",
+      "type": "class",
+      "label": "RigUnit_MathIntSub",
+      "description": "deprecated: 'RigUnit_MathIntSub' was renamed to 'RigVMFunction_MathIntSub'"
+    },
+    {
+      "id": "RigVMFunction_MathIntSub",
+      "type": "class",
+      "label": "RigVMFunction_MathIntSub"
+    },
+    {
+      "id": "RigVM",
+      "type": "plugin",
+      "label": "RigVM"
+    },
+    {
+      "id": "a",
+      "type": "property",
+      "label": "a"
+    },
+    {
+      "id": "int",
+      "type": "type",
+      "label": "int"
+    },
+    {
+      "id": "b",
+      "type": "property",
+      "label": "b"
+    },
+    {
+      "id": "result",
+      "type": "property",
+      "label": "result"
+    },
+    {
+      "id": "ReimportFbxSceneFactory",
+      "type": "class",
+      "label": "ReimportFbxSceneFactory",
+      "description": "Reimport Fbx Scene Factory"
+    },
+    {
+      "id": "FbxSceneImportFactory",
+      "type": "class",
+      "label": "FbxSceneImportFactory"
+    },
+    {
+      "id": "UnrealEd",
+      "type": "module",
+      "label": "UnrealEd"
+    },
+    {
+      "id": "script_reimport_helper",
+      "type": "method",
+      "label": "script_reimport_helper"
+    },
+    {
+      "id": "ParticleSystemInsignificanceReaction",
+      "type": "class",
+      "label": "ParticleSystemInsignificanceReaction",
+      "description": "Determines what a particle system will do when all of it's emitters become insignificant"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "Engine",
+      "type": "module",
+      "label": "Engine"
+    },
+    {
+      "id": "AUTO",
+      "type": "enum_value",
+      "label": "AUTO",
+      "description": "Looping systems will DisableTick. Non-looping systems will Complete"
+    },
+    {
+      "id": "COMPLETE",
+      "type": "enum_value",
+      "label": "COMPLETE",
+      "description": "The system will be considered complete and will auto destroy if desired etc"
+    },
+    {
+      "id": "DISABLE_TICK",
+      "type": "enum_value",
+      "label": "DISABLE_TICK",
+      "description": "The system will simply stop ticking"
+    },
+    {
+      "id": "RoadHeatMapData",
+      "type": "class",
+      "label": "RoadHeatMapData",
+      "description": "Road Heat Map Data"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "CoveringAPI",
+      "type": "plugin",
+      "label": "CoveringAPI"
+    },
+    {
+      "id": "CoveringAPIDefine",
+      "type": "module",
+      "label": "CoveringAPIDefine"
+    },
+    {
+      "id": "point_entity_eid",
+      "type": "property",
+      "label": "point_entity_eid"
+    },
+    {
+      "id": "str",
+      "type": "type",
+      "label": "str"
+    },
+    {
+      "id": "value",
+      "type": "property",
+      "label": "value"
+    },
+    {
+      "id": "EarthPointPrefab",
+      "type": "class",
+      "label": "EarthPointPrefab",
+      "description": "点预制体"
+    },
+    {
+      "id": "EarthSpatialPrefab",
+      "type": "class",
+      "label": "EarthSpatialPrefab"
+    },
+    {
+      "id": "EarthPrefab",
+      "type": "module",
+      "label": "EarthPrefab"
+    },
+    {
+      "id": "fragments",
+      "type": "property",
+      "label": "fragments"
+    },
+    {
+      "id": "Array",
+      "type": "type",
+      "label": "Array"
+    },
+    {
+      "id": "InstancedStruct",
+      "type": "type",
+      "label": "InstancedStruct"
+    },
+    {
+      "id": "RigVMFunction_MathFloatAbs",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatAbs",
+      "description": "Returns the absolute (positive) value"
+    },
+    {
+      "id": "RigVMFunction_MathFloatUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatUnaryOp"
+    },
+    {
+      "id": "RigVMTrait_SetDeformerVector2ArrayVariable",
+      "type": "class",
+      "label": "RigVMTrait_SetDeformerVector2ArrayVariable"
+    },
+    {
+      "id": "RigVMTrait_OptimusVariableBase",
+      "type": "class",
+      "label": "RigVMTrait_OptimusVariableBase"
+    },
+    {
+      "id": "DeformerGraph",
+      "type": "plugin",
+      "label": "DeformerGraph"
+    },
+    {
+      "id": "OptimusCore",
+      "type": "module",
+      "label": "OptimusCore"
+    },
+    {
+      "id": "Vector2D",
+      "type": "type",
+      "label": "Vector2D"
+    },
+    {
+      "id": "SharedImageConstRefBlueprint",
+      "type": "class",
+      "label": "SharedImageConstRefBlueprint",
+      "description": "Exposes a FSharedImage to blueprint in an unalterable way"
+    },
+    {
+      "id": "ImageCore",
+      "type": "module",
+      "label": "ImageCore"
+    },
+    {
+      "id": "RigVMFunction_MathBoolNot",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolNot",
+      "description": "Returns true if the condition is false"
+    },
+    {
+      "id": "RigVMFunction_MathBoolUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolUnaryOp"
+    },
+    {
+      "id": "RigControlCopy",
+      "type": "class",
+      "label": "RigControlCopy",
+      "description": "The Data Stored For Each Control in A Pose"
+    },
+    {
+      "id": "ControlRig",
+      "type": "plugin",
+      "label": "ControlRig"
+    },
+    {
+      "id": "name",
+      "type": "property",
+      "label": "name"
+    },
+    {
+      "id": "control_type",
+      "type": "property",
+      "label": "control_type"
+    },
+    {
+      "id": "RigControlType",
+      "type": "type",
+      "label": "RigControlType"
+    },
+    {
+      "id": "parent_key",
+      "type": "property",
+      "label": "parent_key"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "type",
+      "label": "RigElementKey"
+    },
+    {
+      "id": "global_transform",
+      "type": "property",
+      "label": "global_transform"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "local_transform",
+      "type": "property",
+      "label": "local_transform"
+    },
+    {
+      "id": "RigVMFunction_MathTransformBinaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathTransformBinaryOp"
+    },
+    {
+      "id": "RigVMFunction_MathTransformBase",
+      "type": "class",
+      "label": "RigVMFunction_MathTransformBase"
+    },
+    {
+      "id": "EnvQueryGenerator_BlueprintBase",
+      "type": "class",
+      "label": "EnvQueryGenerator_BlueprintBase",
+      "description": "Env Query Generator Blueprint Base"
+    },
+    {
+      "id": "EnvQueryGenerator",
+      "type": "class",
+      "label": "EnvQueryGenerator"
+    },
+    {
+      "id": "get_querier",
+      "type": "method",
+      "label": "get_querier"
+    },
+    {
+      "id": "do_item_generation_from_actors",
+      "type": "method",
+      "label": "do_item_generation_from_actors"
+    },
+    {
+      "id": "add_generated_vector",
+      "type": "method",
+      "label": "add_generated_vector"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "add_generated_actor",
+      "type": "method",
+      "label": "add_generated_actor"
+    },
+    {
+      "id": "Actor",
+      "type": "type",
+      "label": "Actor"
+    },
+    {
+      "id": "NiagaraParameterCollectionInstanceFactoryNew",
+      "type": "class",
+      "label": "NiagaraParameterCollectionInstanceFactoryNew"
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "label": "Factory"
+    },
+    {
+      "id": "NiagaraEditor",
+      "type": "module",
+      "label": "NiagaraEditor"
+    },
+    {
+      "id": "PCGSpatialNoiseSettings",
+      "type": "class",
+      "label": "PCGSpatialNoiseSettings",
+      "description": "Various fractal noises that can be used to filter points"
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "label": "PCGSettings"
+    },
+    {
+      "id": "PCG",
+      "type": "plugin",
+      "label": "PCG"
+    },
+    {
+      "id": "mode",
+      "type": "property",
+      "label": "mode"
+    },
+    {
+      "id": "PCGSpatialNoiseMode",
+      "type": "type",
+      "label": "PCGSpatialNoiseMode"
+    },
+    {
+      "id": "iterations",
+      "type": "property",
+      "label": "iterations"
+    },
+    {
+      "id": "tiling",
+      "type": "property",
+      "label": "tiling"
+    },
+    {
+      "id": "brightness",
+      "type": "property",
+      "label": "brightness"
+    },
+    {
+      "id": "contrast",
+      "type": "property",
+      "label": "contrast"
+    },
+    {
+      "id": "random_offset",
+      "type": "property",
+      "label": "random_offset"
+    },
+    {
+      "id": "transform",
+      "type": "property",
+      "label": "transform"
+    },
+    {
+      "id": "TextureRenderTargetCubeFactoryNew",
+      "type": "class",
+      "label": "TextureRenderTargetCubeFactoryNew"
+    }
+  ],
+  "edges": [
+    {
+      "source": "MovieGraphSequenceDataSource",
+      "target": "MovieGraphDataSourceBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieGraphSequenceDataSource",
+      "target": "MovieRenderPipeline",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "MovieGraphSequenceDataSource",
+      "target": "MovieRenderPipelineCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "ValueOrBBKey_Rotator",
+      "target": "ValueOrBlackboardKeyBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ValueOrBBKey_Rotator",
+      "target": "AIModule",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "ValueOrBBKey_Rotator",
+      "target": "default_value",
+      "type": "has_property"
+    },
+    {
+      "source": "default_value",
+      "target": "Rotator",
+      "type": "has_type"
+    },
+    {
+      "source": "ValueOrBBKey_Rotator",
+      "target": "key",
+      "type": "has_property"
+    },
+    {
+      "source": "key",
+      "target": "Name",
+      "type": "has_type"
+    },
+    {
+      "source": "GameMapsSettings",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GameMapsSettings",
+      "target": "EngineSettings",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GameMapsSettings",
+      "target": "editor_startup_map",
+      "type": "has_property"
+    },
+    {
+      "source": "editor_startup_map",
+      "target": "SoftObjectPath",
+      "type": "has_type"
+    },
+    {
+      "source": "GameMapsSettings",
+      "target": "game_default_map",
+      "type": "has_property"
+    },
+    {
+      "source": "game_default_map",
+      "target": "SoftObjectPath",
+      "type": "has_type"
+    },
+    {
+      "source": "GameMapsSettings",
+      "target": "game_instance_class",
+      "type": "has_property"
+    },
+    {
+      "source": "game_instance_class",
+      "target": "SoftClassPath",
+      "type": "has_type"
+    },
+    {
+      "source": "GameMapsSettings",
+      "target": "get_game_maps_settings",
+      "type": "has_method"
+    },
+    {
+      "source": "GameMapsSettings",
+      "target": "set_skip_assigning_gamepad_to_player1",
+      "type": "has_method"
+    },
+    {
+      "source": "NiagaraPosition",
+      "target": "Vector3f",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NiagaraPosition",
+      "target": "Niagara",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "NiagaraPosition",
+      "target": "Niagara",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "NiagaraPosition",
+      "target": "x",
+      "type": "has_property"
+    },
+    {
+      "source": "x",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "NiagaraPosition",
+      "target": "y",
+      "type": "has_property"
+    },
+    {
+      "source": "y",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "NiagaraPosition",
+      "target": "z",
+      "type": "has_property"
+    },
+    {
+      "source": "z",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "EarthWaterSettings",
+      "target": "EarthLayerSettingsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthWaterSettings",
+      "target": "AesWorld",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "EarthWaterSettings",
+      "target": "EarthMisc",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EarthWaterSettings",
+      "target": "affect_terrain",
+      "type": "has_property"
+    },
+    {
+      "source": "affect_terrain",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "EarthWaterSettings",
+      "target": "build_collision",
+      "type": "has_property"
+    },
+    {
+      "source": "build_collision",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "EarthWaterSettings",
+      "target": "is_visible",
+      "type": "has_property"
+    },
+    {
+      "source": "is_visible",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "GroomComponent",
+      "target": "MeshComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GroomComponent",
+      "target": "HairStrands",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "GroomComponent",
+      "target": "HairStrandsCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GroomComponent",
+      "target": "groom_asset",
+      "type": "has_property"
+    },
+    {
+      "source": "groom_asset",
+      "target": "GroomAsset",
+      "type": "has_type"
+    },
+    {
+      "source": "GroomComponent",
+      "target": "binding_asset",
+      "type": "has_property"
+    },
+    {
+      "source": "binding_asset",
+      "target": "GroomBindingAsset",
+      "type": "has_type"
+    },
+    {
+      "source": "GroomComponent",
+      "target": "set_groom_asset",
+      "type": "has_method"
+    },
+    {
+      "source": "GroomComponent",
+      "target": "set_binding_asset",
+      "type": "has_method"
+    },
+    {
+      "source": "GroomComponent",
+      "target": "reset_simulation",
+      "type": "has_method"
+    },
+    {
+      "source": "PersistentBufferDataProvider",
+      "target": "OptimusPersistentBufferDataProvider",
+      "type": "deprecated_in_favor_of"
+    },
+    {
+      "source": "RigUnit_MathIntSub",
+      "target": "RigVMFunction_MathIntSub",
+      "type": "deprecated_in_favor_of"
+    },
+    {
+      "source": "RigUnit_MathIntSub",
+      "target": "RigVMFunction_MathIntSub",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathIntSub",
+      "target": "RigVM",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathIntSub",
+      "target": "RigVM",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathIntSub",
+      "target": "a",
+      "type": "has_property"
+    },
+    {
+      "source": "a",
+      "target": "int",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathIntSub",
+      "target": "b",
+      "type": "has_property"
+    },
+    {
+      "source": "b",
+      "target": "int",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathIntSub",
+      "target": "result",
+      "type": "has_property"
+    },
+    {
+      "source": "result",
+      "target": "int",
+      "type": "has_type"
+    },
+    {
+      "source": "ReimportFbxSceneFactory",
+      "target": "FbxSceneImportFactory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ReimportFbxSceneFactory",
+      "target": "UnrealEd",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "ReimportFbxSceneFactory",
+      "target": "script_reimport_helper",
+      "type": "has_method"
+    },
+    {
+      "source": "ParticleSystemInsignificanceReaction",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ParticleSystemInsignificanceReaction",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "ParticleSystemInsignificanceReaction",
+      "target": "AUTO",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "ParticleSystemInsignificanceReaction",
+      "target": "COMPLETE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "ParticleSystemInsignificanceReaction",
+      "target": "DISABLE_TICK",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "RoadHeatMapData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RoadHeatMapData",
+      "target": "CoveringAPI",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RoadHeatMapData",
+      "target": "CoveringAPIDefine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RoadHeatMapData",
+      "target": "point_entity_eid",
+      "type": "has_property"
+    },
+    {
+      "source": "point_entity_eid",
+      "target": "str",
+      "type": "has_type"
+    },
+    {
+      "source": "RoadHeatMapData",
+      "target": "value",
+      "type": "has_property"
+    },
+    {
+      "source": "value",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "EarthPointPrefab",
+      "target": "EarthSpatialPrefab",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthPointPrefab",
+      "target": "AesWorld",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "EarthPointPrefab",
+      "target": "EarthPrefab",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EarthPointPrefab",
+      "target": "fragments",
+      "type": "has_property"
+    },
+    {
+      "source": "fragments",
+      "target": "Array",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathFloatAbs",
+      "target": "RigVMFunction_MathFloatUnaryOp",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathFloatAbs",
+      "target": "RigVM",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathFloatAbs",
+      "target": "RigVM",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathFloatAbs",
+      "target": "value",
+      "type": "has_property"
+    },
+    {
+      "source": "value",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathFloatAbs",
+      "target": "result",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerVector2ArrayVariable",
+      "target": "RigVMTrait_OptimusVariableBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerVector2ArrayVariable",
+      "target": "DeformerGraph",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerVector2ArrayVariable",
+      "target": "OptimusCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerVector2ArrayVariable",
+      "target": "value",
+      "type": "has_property"
+    },
+    {
+      "source": "SharedImageConstRefBlueprint",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SharedImageConstRefBlueprint",
+      "target": "ImageCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathBoolNot",
+      "target": "RigVMFunction_MathBoolUnaryOp",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathBoolNot",
+      "target": "RigVM",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathBoolNot",
+      "target": "RigVM",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathBoolNot",
+      "target": "value",
+      "type": "has_property"
+    },
+    {
+      "source": "value",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathBoolNot",
+      "target": "result",
+      "type": "has_property"
+    },
+    {
+      "source": "RigControlCopy",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigControlCopy",
+      "target": "ControlRig",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigControlCopy",
+      "target": "ControlRig",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigControlCopy",
+      "target": "name",
+      "type": "has_property"
+    },
+    {
+      "source": "name",
+      "target": "Name",
+      "type": "has_type"
+    },
+    {
+      "source": "RigControlCopy",
+      "target": "control_type",
+      "type": "has_property"
+    },
+    {
+      "source": "control_type",
+      "target": "RigControlType",
+      "type": "has_type"
+    },
+    {
+      "source": "RigControlCopy",
+      "target": "parent_key",
+      "type": "has_property"
+    },
+    {
+      "source": "parent_key",
+      "target": "RigElementKey",
+      "type": "has_type"
+    },
+    {
+      "source": "RigControlCopy",
+      "target": "global_transform",
+      "type": "has_property"
+    },
+    {
+      "source": "global_transform",
+      "target": "Transform",
+      "type": "has_type"
+    },
+    {
+      "source": "RigControlCopy",
+      "target": "local_transform",
+      "type": "has_property"
+    },
+    {
+      "source": "local_transform",
+      "target": "Transform",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathTransformBinaryOp",
+      "target": "RigVMFunction_MathTransformBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathTransformBinaryOp",
+      "target": "RigVM",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathTransformBinaryOp",
+      "target": "RigVM",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathTransformBinaryOp",
+      "target": "a",
+      "type": "has_property"
+    },
+    {
+      "source": "a",
+      "target": "Transform",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathTransformBinaryOp",
+      "target": "b",
+      "type": "has_property"
+    },
+    {
+      "source": "b",
+      "target": "Transform",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathTransformBinaryOp",
+      "target": "result",
+      "type": "has_property"
+    },
+    {
+      "source": "result",
+      "target": "Transform",
+      "type": "has_type"
+    },
+    {
+      "source": "EnvQueryGenerator_BlueprintBase",
+      "target": "EnvQueryGenerator",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EnvQueryGenerator_BlueprintBase",
+      "target": "AIModule",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EnvQueryGenerator_BlueprintBase",
+      "target": "get_querier",
+      "type": "has_method"
+    },
+    {
+      "source": "EnvQueryGenerator_BlueprintBase",
+      "target": "do_item_generation_from_actors",
+      "type": "has_method"
+    },
+    {
+      "source": "EnvQueryGenerator_BlueprintBase",
+      "target": "add_generated_vector",
+      "type": "has_method"
+    },
+    {
+      "source": "add_generated_vector",
+      "target": "Vector",
+      "type": "has_parameter_type"
+    },
+    {
+      "source": "EnvQueryGenerator_BlueprintBase",
+      "target": "add_generated_actor",
+      "type": "has_method"
+    },
+    {
+      "source": "add_generated_actor",
+      "target": "Actor",
+      "type": "has_parameter_type"
+    },
+    {
+      "source": "NiagaraParameterCollectionInstanceFactoryNew",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NiagaraParameterCollectionInstanceFactoryNew",
+      "target": "Niagara",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "NiagaraParameterCollectionInstanceFactoryNew",
+      "target": "NiagaraEditor",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "PCGSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "PCG",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "PCG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "mode",
+      "type": "has_property"
+    },
+    {
+      "source": "mode",
+      "target": "PCGSpatialNoiseMode",
+      "type": "has_type"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "iterations",
+      "type": "has_property"
+    },
+    {
+      "source": "iterations",
+      "target": "int",
+      "type": "has_type"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "tiling",
+      "type": "has_property"
+    },
+    {
+      "source": "tiling",
+      "target": "bool",
+      "type": "has_type"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "brightness",
+      "type": "has_property"
+    },
+    {
+      "source": "brightness",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "contrast",
+      "type": "has_property"
+    },
+    {
+      "source": "contrast",
+      "target": "float",
+      "type": "has_type"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "random_offset",
+      "type": "has_property"
+    },
+    {
+      "source": "random_offset",
+      "target": "Vector",
+      "type": "has_type"
+    },
+    {
+      "source": "PCGSpatialNoiseSettings",
+      "target": "transform",
+      "type": "has_property"
+    },
+    {
+      "source": "transform",
+      "target": "Transform",
+      "type": "has_type"
+    },
+    {
+      "source": "TextureRenderTargetCubeFactoryNew",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TextureRenderTargetCubeFactoryNew",
+      "target": "UnrealEd",
+      "type": "defined_in_module"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_init_1",
+      "type": "initialization_pattern",
+      "nodes": [
+        "ValueOrBBKey_Rotator",
+        "default_value",
+        "key"
+      ],
+      "description": "ValueOrBBKey_Rotator initializes with default_value and key properties"
+    },
+    {
+      "id": "he_init_2",
+      "type": "initialization_pattern",
+      "nodes": [
+        "NiagaraPosition",
+        "x",
+        "y",
+        "z"
+      ],
+      "description": "NiagaraPosition inherits Vector3f with x, y, z coordinates"
+    },
+    {
+      "id": "he_math_op_1",
+      "type": "mathematical_operation",
+      "nodes": [
+        "RigVMFunction_MathIntSub",
+        "a",
+        "b",
+        "result"
+      ],
+      "description": "Mathematical subtraction operation: a - b = result"
+    },
+    {
+      "id": "he_math_op_2",
+      "type": "mathematical_operation",
+      "nodes": [
+        "RigVMFunction_MathFloatAbs",
+        "value",
+        "result"
+      ],
+      "description": "Absolute value operation: |value| = result"
+    },
+    {
+      "id": "he_math_op_3",
+      "type": "mathematical_operation",
+      "nodes": [
+        "RigVMFunction_MathBoolNot",
+        "value",
+        "result"
+      ],
+      "description": "Boolean NOT operation: !value = result"
+    },
+    {
+      "id": "he_math_op_4",
+      "type": "mathematical_operation",
+      "nodes": [
+        "RigVMFunction_MathTransformBinaryOp",
+        "a",
+        "b",
+        "result"
+      ],
+      "description": "Binary transform operation combining transforms a and b"
+    },
+    {
+      "id": "he_control_rig_1",
+      "type": "rig_control_structure",
+      "nodes": [
+        "RigControlCopy",
+        "name",
+        "control_type",
+        "parent_key",
+        "local_transform",
+        "global_transform"
+      ],
+      "description": "Complete control pose structure with name, type, hierarchy and transforms"
+    },
+    {
+      "id": "he_groom_setup_1",
+      "type": "component_configuration",
+      "nodes": [
+        "GroomComponent",
+        "groom_asset",
+        "binding_asset",
+        "set_groom_asset",
+        "set_binding_asset"
+      ],
+      "description": "Groom component configuration with asset binding workflow"
+    },
+    {
+      "id": "he_sim_1",
+      "type": "simulation_workflow",
+      "nodes": [
+        "GroomComponent",
+        "reset_simulation",
+        "physics_asset"
+      ],
+      "description": "Groom simulation workflow with physics"
+    },
+    {
+      "id": "he_pcg_noise_1",
+      "type": "noise_generation",
+      "nodes": [
+        "PCGSpatialNoiseSettings",
+        "mode",
+        "iterations",
+        "brightness",
+        "contrast",
+        "random_offset"
+      ],
+      "description": "PCG spatial noise generation with multiple parameters"
+    },
+    {
+      "id": "he_eqs_gen_1",
+      "type": "query_generation",
+      "nodes": [
+        "EnvQueryGenerator_BlueprintBase",
+        "get_querier",
+        "do_item_generation_from_actors",
+        "add_generated_vector",
+        "add_generated_actor"
+      ],
+      "description": "Environment query generation workflow with multiple output types"
+    },
+    {
+      "id": "he_water_settings_1",
+      "type": "water_configuration",
+      "nodes": [
+        "EarthWaterSettings",
+        "affect_terrain",
+        "build_collision",
+        "is_visible"
+      ],
+      "description": "Earth water settings controlling terrain, collision, and visibility"
+    },
+    {
+      "id": "he_game_maps_1",
+      "type": "game_configuration",
+      "nodes": [
+        "GameMapsSettings",
+        "editor_startup_map",
+        "game_default_map",
+        "game_instance_class",
+        "get_game_maps_settings"
+      ],
+      "description": "Game maps configuration with startup and default map settings"
+    },
+    {
+      "id": "he_road_heatmap_1",
+      "type": "data_structure",
+      "nodes": [
+        "RoadHeatMapData",
+        "point_entity_eid",
+        "value"
+      ],
+      "description": "Road heatmap data structure with entity ID and value"
+    },
+    {
+      "id": "he_prefab_1",
+      "type": "prefab_structure",
+      "nodes": [
+        "EarthPointPrefab",
+        "EarthSpatialPrefab",
+        "fragments"
+      ],
+      "description": "Earth point prefab inheriting from spatial prefab with fragments"
+    },
+    {
+      "id": "he_particle_enum_1",
+      "type": "enum_values",
+      "nodes": [
+        "ParticleSystemInsignificanceReaction",
+        "AUTO",
+        "COMPLETE",
+        "DISABLE_TICK"
+      ],
+      "description": "Particle system insignificance reaction enum values"
+    }
+  ]
+}

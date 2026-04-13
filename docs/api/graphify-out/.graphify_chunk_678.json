@@ -1,0 +1,2450 @@
+{
+  "nodes": [
+    {
+      "id": "LockedAxis",
+      "type": "enum",
+      "name": "LockedAxis",
+      "deprecated": true,
+      "renamed_to": "DOFMode",
+      "description": "deprecated: 'LockedAxis' was renamed to 'DOFMode'."
+    },
+    {
+      "id": "LockedAxis.DEFAULT",
+      "type": "enum_value",
+      "name": "DEFAULT",
+      "value": 0,
+      "description": "Inherits the degrees of freedom from the project settings."
+    },
+    {
+      "id": "LockedAxis.SIX_DOF",
+      "type": "enum_value",
+      "name": "SIX_DOF",
+      "value": 1,
+      "description": "Specifies which axis to freeze rotation and movement along."
+    },
+    {
+      "id": "LockedAxis.YZ_PLANE",
+      "type": "enum_value",
+      "name": "YZ_PLANE",
+      "value": 2,
+      "description": "Allows 2D movement along the Y-Z plane."
+    },
+    {
+      "id": "LockedAxis.XZ_PLANE",
+      "type": "enum_value",
+      "name": "XZ_PLANE",
+      "value": 3,
+      "description": "Allows 2D movement along the X-Z plane."
+    },
+    {
+      "id": "LockedAxis.XY_PLANE",
+      "type": "enum_value",
+      "name": "XY_PLANE",
+      "value": 4,
+      "description": "Allows 2D movement along the X-Y plane."
+    },
+    {
+      "id": "LockedAxis.CUSTOM_PLANE",
+      "type": "enum_value",
+      "name": "CUSTOM_PLANE",
+      "value": 5,
+      "description": "Allows 2D movement along the plane of a given normal"
+    },
+    {
+      "id": "LockedAxis.NONE",
+      "type": "enum_value",
+      "name": "NONE",
+      "value": 6,
+      "description": "No constraints."
+    },
+    {
+      "id": "RigUnit_GetBoolAnimationChannelFromItem",
+      "type": "class",
+      "name": "RigUnit_GetBoolAnimationChannelFromItem",
+      "description": "Get Bool Channel is used to retrieve a control's animation channel value"
+    },
+    {
+      "id": "RigUnit_GetAnimationChannelFromItemBase",
+      "type": "class",
+      "name": "RigUnit_GetAnimationChannelFromItemBase"
+    },
+    {
+      "id": "ControlRig",
+      "type": "plugin",
+      "name": "ControlRig"
+    },
+    {
+      "id": "item_property",
+      "type": "property",
+      "name": "item",
+      "data_type": "RigElementKey",
+      "access": "Read-Write",
+      "description": "The item representing the channel"
+    },
+    {
+      "id": "initial_property",
+      "type": "property",
+      "name": "initial",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "If set to true the initial value will be returned"
+    },
+    {
+      "id": "value_property",
+      "type": "property",
+      "name": "value",
+      "data_type": "bool",
+      "access": "Read-Only",
+      "description": "The current value of the animation channel"
+    },
+    {
+      "id": "StretchDirection",
+      "type": "enum",
+      "name": "StretchDirection",
+      "description": "EStretch Direction"
+    },
+    {
+      "id": "Slate",
+      "type": "module",
+      "name": "Slate"
+    },
+    {
+      "id": "StretchDirection.BOTH",
+      "type": "enum_value",
+      "name": "BOTH",
+      "value": 0,
+      "description": "Will scale the content up or down."
+    },
+    {
+      "id": "StretchDirection.DOWN_ONLY",
+      "type": "enum_value",
+      "name": "DOWN_ONLY",
+      "value": 1,
+      "description": "Will only make the content smaller, will never scale it larger than the content's desired size."
+    },
+    {
+      "id": "StretchDirection.UP_ONLY",
+      "type": "enum_value",
+      "name": "UP_ONLY",
+      "value": 2,
+      "description": "Will only make the content larger, will never scale it smaller than the content's desired size."
+    },
+    {
+      "id": "NavRelevantComponent",
+      "type": "class",
+      "name": "NavRelevantComponent",
+      "description": "Nav Relevant Component"
+    },
+    {
+      "id": "ActorComponent",
+      "type": "class",
+      "name": "ActorComponent"
+    },
+    {
+      "id": "NavigationSystem",
+      "type": "module",
+      "name": "NavigationSystem"
+    },
+    {
+      "id": "set_navigation_relevancy_method",
+      "type": "method",
+      "name": "set_navigation_relevancy",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "relevant",
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": "SkyCreatorStarMapSettings",
+      "type": "class",
+      "name": "SkyCreatorStarMapSettings",
+      "description": "Sky Creator Star Map Settings"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "name": "StructBase"
+    },
+    {
+      "id": "SkyCreatorPlugin",
+      "type": "plugin",
+      "name": "SkyCreatorPlugin"
+    },
+    {
+      "id": "star_map_intensity",
+      "type": "property",
+      "name": "star_map_intensity",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "Overall brightness of the Star Map."
+    },
+    {
+      "id": "star_map_color_tint",
+      "type": "property",
+      "name": "star_map_color_tint",
+      "data_type": "LinearColor",
+      "access": "Read-Write",
+      "description": "Overall color tint of the Star Map."
+    },
+    {
+      "id": "star_map_twinkle_intensity",
+      "type": "property",
+      "name": "star_map_twinkle_intensity",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "Intensity of twinkling stars."
+    },
+    {
+      "id": "star_map_twinkle_saturation",
+      "type": "property",
+      "name": "star_map_twinkle_saturation",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "Saturation of twinkling stars."
+    },
+    {
+      "id": "star_map_twinkle_speed",
+      "type": "property",
+      "name": "star_map_twinkle_speed",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "Twinkle speed of stars."
+    },
+    {
+      "id": "star_map_horizon_threshold",
+      "type": "property",
+      "name": "star_map_horizon_threshold",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "Indicates how strong the star map can be faded into horizon. Lower values cause more stars appear at horizon."
+    },
+    {
+      "id": "star_map_atmosphere_threshold",
+      "type": "property",
+      "name": "star_map_atmosphere_threshold",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "Indicates how strong the star map can be faded into atmosphere. Lower values cause more stars appear at brighter points in atmosphere, e.g. at daytime."
+    },
+    {
+      "id": "night_horizon_color",
+      "type": "property",
+      "name": "night_horizon_color",
+      "data_type": "LinearColor",
+      "access": "Read-Write",
+      "description": "Color tint of the horizon."
+    },
+    {
+      "id": "night_zenith_color",
+      "type": "property",
+      "name": "night_zenith_color",
+      "data_type": "LinearColor",
+      "access": "Read-Write",
+      "description": "Color tint of the zenith."
+    },
+    {
+      "id": "MaterialParameterAssociation",
+      "type": "enum",
+      "name": "MaterialParameterAssociation",
+      "description": "EMaterial Parameter Association"
+    },
+    {
+      "id": "Engine",
+      "type": "module",
+      "name": "Engine"
+    },
+    {
+      "id": "MaterialParameterAssociation.LAYER_PARAMETER",
+      "type": "enum_value",
+      "name": "LAYER_PARAMETER",
+      "value": 0
+    },
+    {
+      "id": "MaterialParameterAssociation.BLEND_PARAMETER",
+      "type": "enum_value",
+      "name": "BLEND_PARAMETER",
+      "value": 1
+    },
+    {
+      "id": "MaterialParameterAssociation.GLOBAL_PARAMETER",
+      "type": "enum_value",
+      "name": "GLOBAL_PARAMETER",
+      "value": 2
+    },
+    {
+      "id": "AnimNode_TwoWayBlend",
+      "type": "class",
+      "name": "AnimNode_TwoWayBlend",
+      "description": "This represents a baked transition"
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "name": "AnimNode_Base"
+    },
+    {
+      "id": "AnimGraphRuntime",
+      "type": "module",
+      "name": "AnimGraphRuntime"
+    },
+    {
+      "id": "a_property",
+      "type": "property",
+      "name": "a",
+      "data_type": "PoseLink",
+      "access": "Read-Write"
+    },
+    {
+      "id": "b_property",
+      "type": "property",
+      "name": "b",
+      "data_type": "PoseLink",
+      "access": "Read-Write"
+    },
+    {
+      "id": "alpha_property",
+      "type": "property",
+      "name": "alpha",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "The float value that controls the alpha blending when the alpha input type is set to 'Float'"
+    },
+    {
+      "id": "alpha_input_type_property",
+      "type": "property",
+      "name": "alpha_input_type",
+      "data_type": "AnimAlphaInputType",
+      "access": "Read-Write",
+      "description": "The data type used to control the alpha blending between the A and B poses. Note: Changing this value will disconnect alpha input pins."
+    },
+    {
+      "id": "alpha_bool_enabled_property",
+      "type": "property",
+      "name": "alpha_bool_enabled",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "The boolean value that controls the alpha blending when the alpha input type is set to 'Bool'"
+    },
+    {
+      "id": "AesAssetActorBase",
+      "type": "class",
+      "name": "AesAssetActorBase",
+      "description": "资产创作工具基类"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "name": "Actor"
+    },
+    {
+      "id": "AesWorld",
+      "type": "plugin",
+      "name": "AesWorld"
+    },
+    {
+      "id": "AesAsset",
+      "type": "module",
+      "name": "AesAsset"
+    },
+    {
+      "id": "spline_component",
+      "type": "property",
+      "name": "spline_component",
+      "data_type": "SplineComponent",
+      "access": "Read-Write"
+    },
+    {
+      "id": "random_seed",
+      "type": "property",
+      "name": "random_seed",
+      "data_type": "int32",
+      "access": "Read-Write",
+      "description": "随机种子"
+    },
+    {
+      "id": "meta_data",
+      "type": "property",
+      "name": "meta_data",
+      "data_type": "AesAssetMetaData",
+      "access": "Read-Write",
+      "description": "资产元数据"
+    },
+    {
+      "id": "size_data",
+      "type": "property",
+      "name": "size_data",
+      "data_type": "AesAssetSizeData",
+      "access": "Read-Write",
+      "description": "资产尺寸数据"
+    },
+    {
+      "id": "collision_data",
+      "type": "property",
+      "name": "collision_data",
+      "data_type": "AesAssetCollisionData",
+      "access": "Read-Write",
+      "description": "资产碰撞数据"
+    },
+    {
+      "id": "child_assets",
+      "type": "property",
+      "name": "child_assets",
+      "data_type": "Array[AesAssetChildMetaData]",
+      "access": "Read-Write",
+      "description": "自定义子资产引用列表"
+    },
+    {
+      "id": "all_child_assets",
+      "type": "property",
+      "name": "all_child_assets",
+      "data_type": "Array[AesAssetChildMetaData]",
+      "access": "Read-Write",
+      "description": "所有子资产引用列表"
+    },
+    {
+      "id": "auto_preview",
+      "type": "property",
+      "name": "auto_preview",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "是否自动预览生成结果"
+    },
+    {
+      "id": "preview_lod",
+      "type": "property",
+      "name": "preview_lod",
+      "data_type": "int32",
+      "access": "Read-Write",
+      "description": "资产当前LOD级别"
+    },
+    {
+      "id": "preview_lod_max",
+      "type": "property",
+      "name": "preview_lod_max",
+      "data_type": "int32",
+      "access": "Read-Write",
+      "description": "资产最大LOD级别"
+    },
+    {
+      "id": "sync_asset_data_method",
+      "type": "method",
+      "name": "sync_asset_data",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "reverse",
+          "type": "bool",
+          "default": false
+        }
+      ],
+      "description": "更新资产参数"
+    },
+    {
+      "id": "set_spline_curves_method",
+      "type": "method",
+      "name": "set_spline_curves",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "spline_curves",
+          "type": "AesSplineCurves"
+        }
+      ],
+      "description": "设置样条线"
+    },
+    {
+      "id": "save_to_library_method",
+      "type": "method",
+      "name": "save_to_library",
+      "return_type": "None",
+      "description": "保存资产数据到库中"
+    },
+    {
+      "id": "register_asset_method",
+      "type": "method",
+      "name": "register_asset",
+      "return_type": "None",
+      "description": "注册资产生成物"
+    },
+    {
+      "id": "load_from_library_method",
+      "type": "method",
+      "name": "load_from_library",
+      "return_type": "None",
+      "description": "加载库中的资产数据"
+    },
+    {
+      "id": "get_spline_curves_method",
+      "type": "method",
+      "name": "get_spline_curves",
+      "return_type": "AesSplineCurves",
+      "description": "获取样条线"
+    },
+    {
+      "id": "destroy_asset_method",
+      "type": "method",
+      "name": "destroy_asset",
+      "return_type": "None",
+      "description": "销毁资产生成物"
+    },
+    {
+      "id": "debug_asset_method",
+      "type": "method",
+      "name": "debug_asset",
+      "return_type": "None",
+      "description": "生成资产调试数据"
+    },
+    {
+      "id": "create_asset_method",
+      "type": "method",
+      "name": "create_asset",
+      "return_type": "None",
+      "description": "执行创建资产"
+    },
+    {
+      "id": "build_asset_method",
+      "type": "method",
+      "name": "build_asset",
+      "return_type": "None",
+      "description": "创建资产生成物"
+    },
+    {
+      "id": "WindowVisibility",
+      "type": "enum",
+      "name": "WindowVisibility",
+      "description": "EWindow Visibility"
+    },
+    {
+      "id": "UMG",
+      "type": "module",
+      "name": "UMG"
+    },
+    {
+      "id": "WindowVisibility.VISIBLE",
+      "type": "enum_value",
+      "name": "VISIBLE",
+      "value": 0,
+      "description": "The window visibility is Visible"
+    },
+    {
+      "id": "WindowVisibility.SELF_HIT_TEST_INVISIBLE",
+      "type": "enum_value",
+      "name": "SELF_HIT_TEST_INVISIBLE",
+      "value": 1,
+      "description": "The window visibility is SelfHitTestInvisible"
+    },
+    {
+      "id": "AnimGraphNode_TwistCorrectiveNode",
+      "type": "class",
+      "name": "AnimGraphNode_TwistCorrectiveNode",
+      "description": "This is the 'source version' of a bone driven controller, which maps part of the state from one bone to another (e.g., 2 * source.x -> target.z)"
+    },
+    {
+      "id": "AnimGraphNode_SkeletalControlBase",
+      "type": "class",
+      "name": "AnimGraphNode_SkeletalControlBase"
+    },
+    {
+      "id": "AnimGraph",
+      "type": "module",
+      "name": "AnimGraph"
+    },
+    {
+      "id": "GeometryScriptSolidifyOptions",
+      "type": "class",
+      "name": "GeometryScriptSolidifyOptions",
+      "description": "Geometry Script Solidify Options"
+    },
+    {
+      "id": "GeometryScripting",
+      "type": "plugin",
+      "name": "GeometryScripting"
+    },
+    {
+      "id": "GeometryScriptingCore",
+      "type": "module",
+      "name": "GeometryScriptingCore"
+    },
+    {
+      "id": "grid_parameters",
+      "type": "property",
+      "name": "grid_parameters",
+      "data_type": "GeometryScript3DGridParameters",
+      "access": "Read-Write"
+    },
+    {
+      "id": "winding_threshold",
+      "type": "property",
+      "name": "winding_threshold",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "solid_at_boundaries",
+      "type": "property",
+      "name": "solid_at_boundaries",
+      "data_type": "bool",
+      "access": "Read-Write"
+    },
+    {
+      "id": "extend_bounds",
+      "type": "property",
+      "name": "extend_bounds",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "surface_search_steps",
+      "type": "property",
+      "name": "surface_search_steps",
+      "data_type": "int32",
+      "access": "Read-Write"
+    },
+    {
+      "id": "thicken_shells",
+      "type": "property",
+      "name": "thicken_shells",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "When enabled, regions of the input mesh that have open boundaries (ie \"shells\") are thickened by extruding them into closed solids. This may be expensive on large meshes."
+    },
+    {
+      "id": "shell_thickness",
+      "type": "property",
+      "name": "shell_thickness",
+      "data_type": "double",
+      "access": "Read-Write",
+      "description": "Open Shells are Thickened by offsetting vertices along their averaged vertex normals by this amount. Dimension is but clamped to twice the grid cell size."
+    },
+    {
+      "id": "RigVMFunction_DebugArc",
+      "type": "class",
+      "name": "RigVMFunction_DebugArc",
+      "description": "Rig VMFunction Debug Arc"
+    },
+    {
+      "id": "RigVMFunction_DebugBaseMutable",
+      "type": "class",
+      "name": "RigVMFunction_DebugBaseMutable"
+    },
+    {
+      "id": "RigVM",
+      "type": "plugin",
+      "name": "RigVM"
+    },
+    {
+      "id": "transform_property",
+      "type": "property",
+      "name": "transform",
+      "data_type": "Transform",
+      "access": "Read-Write"
+    },
+    {
+      "id": "color_property",
+      "type": "property",
+      "name": "color",
+      "data_type": "LinearColor",
+      "access": "Read-Write"
+    },
+    {
+      "id": "radius_property",
+      "type": "property",
+      "name": "radius",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "minimum_degrees",
+      "type": "property",
+      "name": "minimum_degrees",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "maximum_degrees",
+      "type": "property",
+      "name": "maximum_degrees",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "thickness_property",
+      "type": "property",
+      "name": "thickness",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "detail_property",
+      "type": "property",
+      "name": "detail",
+      "data_type": "int32",
+      "access": "Read-Write"
+    },
+    {
+      "id": "space_property",
+      "type": "property",
+      "name": "space",
+      "data_type": "Name",
+      "access": "Read-Write"
+    },
+    {
+      "id": "world_offset",
+      "type": "property",
+      "name": "world_offset",
+      "data_type": "Transform",
+      "access": "Read-Write"
+    },
+    {
+      "id": "enabled_property",
+      "type": "property",
+      "name": "enabled",
+      "data_type": "bool",
+      "access": "Read-Only"
+    },
+    {
+      "id": "ControlRigClampSpatialMode",
+      "type": "enum",
+      "name": "ControlRigClampSpatialMode",
+      "deprecated": true,
+      "renamed_to": "RigVMClampSpatialMode",
+      "description": "deprecated: 'ControlRigClampSpatialMode' was renamed to 'RigVMClampSpatialMode'."
+    },
+    {
+      "id": "ControlRigClampSpatialMode.PLANE",
+      "type": "enum_value",
+      "name": "PLANE",
+      "value": 0
+    },
+    {
+      "id": "ControlRigClampSpatialMode.CYLINDER",
+      "type": "enum_value",
+      "name": "CYLINDER",
+      "value": 1
+    },
+    {
+      "id": "ControlRigClampSpatialMode.SPHERE",
+      "type": "enum_value",
+      "name": "SPHERE",
+      "value": 2
+    },
+    {
+      "id": "ControlRigClampSpatialMode.CAPSULE",
+      "type": "enum_value",
+      "name": "CAPSULE",
+      "value": 3
+    },
+    {
+      "id": "GeoLayerVisibleAtom",
+      "type": "class",
+      "name": "GeoLayerVisibleAtom",
+      "description": "Geo Layer Visible Atom"
+    },
+    {
+      "id": "VisibleAtom",
+      "type": "class",
+      "name": "VisibleAtom"
+    },
+    {
+      "id": "GISDataAPI",
+      "type": "plugin",
+      "name": "GISDataAPI"
+    },
+    {
+      "id": "MagicGISAPI",
+      "type": "module",
+      "name": "MagicGISAPI"
+    },
+    {
+      "id": "visible_property",
+      "type": "property",
+      "name": "visible",
+      "data_type": "bool",
+      "access": "Read-Write"
+    },
+    {
+      "id": "OnAsyncCaptureSceneComplete",
+      "type": "class",
+      "name": "OnAsyncCaptureSceneComplete",
+      "description": "On Async Capture Scene Complete  Delegate Signature"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "name": "MulticastDelegateBase"
+    },
+    {
+      "id": "Blutility",
+      "type": "module",
+      "name": "Blutility"
+    },
+    {
+      "id": "AesEntitySettings",
+      "type": "class",
+      "name": "AesEntitySettings",
+      "description": "Aes Entity Settings"
+    },
+    {
+      "id": "DeveloperSettings",
+      "type": "class",
+      "name": "DeveloperSettings"
+    },
+    {
+      "id": "AesEntity",
+      "type": "module",
+      "name": "AesEntity"
+    },
+    {
+      "id": "entity_library",
+      "type": "property",
+      "name": "entity_library",
+      "data_type": "SoftObjectPath",
+      "access": "Read-Write"
+    },
+    {
+      "id": "AesFacadeLevelData",
+      "type": "class",
+      "name": "AesFacadeLevelData",
+      "description": "立面层数据"
+    },
+    {
+      "id": "module_grammar",
+      "type": "property",
+      "name": "module_grammar",
+      "data_type": "str",
+      "access": "Read-Write"
+    },
+    {
+      "id": "height_property",
+      "type": "property",
+      "name": "height",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "weight_property",
+      "type": "property",
+      "name": "weight",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "variations",
+      "type": "property",
+      "name": "variations",
+      "data_type": "Map[Name, float]",
+      "access": "Read-Write"
+    },
+    {
+      "id": "CEEffectorComponent",
+      "type": "class",
+      "name": "CEEffectorComponent",
+      "description": "Class used to define an effector"
+    },
+    {
+      "id": "SceneComponent",
+      "type": "class",
+      "name": "SceneComponent"
+    },
+    {
+      "id": "ClonerEffector",
+      "type": "plugin",
+      "name": "ClonerEffector"
+    },
+    {
+      "id": "set_visualizer_sprite_visible_method",
+      "type": "method",
+      "name": "set_visualizer_sprite_visible",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "visible",
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": "set_visualizer_component_visible_method",
+      "type": "method",
+      "name": "set_visualizer_component_visible",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "visible",
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": "set_type_name_method",
+      "type": "method",
+      "name": "set_type_name",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "type_name",
+          "type": "Name"
+        }
+      ]
+    },
+    {
+      "id": "set_type_class_method",
+      "type": "method",
+      "name": "set_type_class",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "type_class",
+          "type": "Class"
+        }
+      ]
+    },
+    {
+      "id": "set_mode_name_method",
+      "type": "method",
+      "name": "set_mode_name",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "mode_name",
+          "type": "Name"
+        }
+      ]
+    },
+    {
+      "id": "set_mode_class_method",
+      "type": "method",
+      "name": "set_mode_class",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "mode_class",
+          "type": "Class"
+        }
+      ]
+    },
+    {
+      "id": "set_magnitude_method",
+      "type": "method",
+      "name": "set_magnitude",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "magnitude",
+          "type": "float"
+        }
+      ]
+    },
+    {
+      "id": "set_enabled_method",
+      "type": "method",
+      "name": "set_enabled",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "enable",
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": "set_color_method",
+      "type": "method",
+      "name": "set_color",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "color",
+          "type": "LinearColor"
+        }
+      ]
+    },
+    {
+      "id": "get_visualizer_sprite_visible_method",
+      "type": "method",
+      "name": "get_visualizer_sprite_visible",
+      "return_type": "bool"
+    },
+    {
+      "id": "get_visualizer_component_visible_method",
+      "type": "method",
+      "name": "get_visualizer_component_visible",
+      "return_type": "bool"
+    },
+    {
+      "id": "get_type_name_method",
+      "type": "method",
+      "name": "get_type_name",
+      "return_type": "Name"
+    },
+    {
+      "id": "get_type_class_method",
+      "type": "method",
+      "name": "get_type_class",
+      "return_type": "Class"
+    },
+    {
+      "id": "get_mode_name_method",
+      "type": "method",
+      "name": "get_mode_name",
+      "return_type": "Name"
+    },
+    {
+      "id": "get_mode_class_method",
+      "type": "method",
+      "name": "get_mode_class",
+      "return_type": "Class"
+    },
+    {
+      "id": "get_magnitude_method",
+      "type": "method",
+      "name": "get_magnitude",
+      "return_type": "float"
+    },
+    {
+      "id": "get_extension_method",
+      "type": "method",
+      "name": "get_extension",
+      "return_type": "CEEffectorExtensionBase",
+      "parameters": [
+        {
+          "name": "extension_class",
+          "type": "Class"
+        }
+      ]
+    },
+    {
+      "id": "get_enabled_method",
+      "type": "method",
+      "name": "get_enabled",
+      "return_type": "bool"
+    },
+    {
+      "id": "get_color_method",
+      "type": "method",
+      "name": "get_color",
+      "return_type": "LinearColor"
+    },
+    {
+      "id": "get_channel_identifier_method",
+      "type": "method",
+      "name": "get_channel_identifier",
+      "return_type": "int32",
+      "description": "Get the effector channel identifier"
+    },
+    {
+      "id": "get_active_type_method",
+      "type": "method",
+      "name": "get_active_type",
+      "return_type": "CEEffectorTypeBase"
+    },
+    {
+      "id": "get_active_mode_method",
+      "type": "method",
+      "name": "get_active_mode",
+      "return_type": "CEEffectorModeBase"
+    },
+    {
+      "id": "get_active_extensions_method",
+      "type": "method",
+      "name": "get_active_extensions",
+      "return_type": "Array[CEEffectorExtensionBase]"
+    },
+    {
+      "id": "StreamableSparseVolumeTexture",
+      "type": "class",
+      "name": "StreamableSparseVolumeTexture",
+      "description": "Represents a streamable SparseVolumeTexture asset and serves as base class for UStaticSparseVolumeTexture and UAnimatedSparseVolumeTexture. It has an array of USparseVolumeTextureFrame."
+    },
+    {
+      "id": "SparseVolumeTexture",
+      "type": "class",
+      "name": "SparseVolumeTexture"
+    },
+    {
+      "id": "address_x",
+      "type": "property",
+      "name": "address_x",
+      "data_type": "TextureAddress",
+      "access": "Read-Write",
+      "description": "The addressing mode to use for the X axis."
+    },
+    {
+      "id": "address_y",
+      "type": "property",
+      "name": "address_y",
+      "data_type": "TextureAddress",
+      "access": "Read-Write",
+      "description": "The addressing mode to use for the Y axis."
+    },
+    {
+      "id": "address_z",
+      "type": "property",
+      "name": "address_z",
+      "data_type": "TextureAddress",
+      "access": "Read-Write",
+      "description": "The addressing mode to use for the Z axis."
+    },
+    {
+      "id": "local_ddc_only",
+      "type": "property",
+      "name": "local_ddc_only",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "If enabled, the SparseVolumeTexture is only going to use the local DDC. For certain assets it might be reasonable to also use the remote DDC, but for larger assets this will mean long up- and download times."
+    },
+    {
+      "id": "has_asset_user_data_of_class_method",
+      "type": "method",
+      "name": "has_asset_user_data_of_class",
+      "return_type": "bool",
+      "parameters": [
+        {
+          "name": "user_data_class",
+          "type": "Class"
+        }
+      ],
+      "description": "Checks whether or not an instance of the provided AssetUserData class is contained."
+    },
+    {
+      "id": "get_asset_user_data_of_class_method",
+      "type": "method",
+      "name": "get_asset_user_data_of_class",
+      "return_type": "AssetUserData",
+      "parameters": [
+        {
+          "name": "user_data_class",
+          "type": "Class"
+        }
+      ],
+      "description": "Returns an instance of the provided AssetUserData class if it's contained in the target asset."
+    },
+    {
+      "id": "add_asset_user_data_of_class_method",
+      "type": "method",
+      "name": "add_asset_user_data_of_class",
+      "return_type": "bool",
+      "parameters": [
+        {
+          "name": "user_data_class",
+          "type": "Class"
+        }
+      ],
+      "description": "Creates and adds an instance of the provided AssetUserData class to the target asset."
+    },
+    {
+      "id": "AvaViewportSettings",
+      "type": "class",
+      "name": "AvaViewportSettings",
+      "description": "Ava Viewport Settings"
+    },
+    {
+      "id": "Avalanche",
+      "type": "plugin",
+      "name": "Avalanche"
+    },
+    {
+      "id": "AvalancheViewport",
+      "type": "module",
+      "name": "AvalancheViewport"
+    },
+    {
+      "id": "enable_viewport_overlay",
+      "type": "property",
+      "name": "enable_viewport_overlay",
+      "data_type": "bool",
+      "access": "Read-Write"
+    },
+    {
+      "id": "enable_bounding_boxes",
+      "type": "property",
+      "name": "enable_bounding_boxes",
+      "data_type": "bool",
+      "access": "Read-Write"
+    },
+    {
+      "id": "viewport_background_material",
+      "type": "property",
+      "name": "viewport_background_material",
+      "data_type": "Material",
+      "access": "Read-Write"
+    },
+    {
+      "id": "grid_enabled",
+      "type": "property",
+      "name": "grid_enabled",
+      "data_type": "bool",
+      "access": "Read-Write"
+    },
+    {
+      "id": "grid_size",
+      "type": "property",
+      "name": "grid_size",
+      "data_type": "int32",
+      "access": "Read-Write"
+    },
+    {
+      "id": "grid_color",
+      "type": "property",
+      "name": "grid_color",
+      "data_type": "LinearColor",
+      "access": "Read-Write"
+    },
+    {
+      "id": "grid_thickness",
+      "type": "property",
+      "name": "grid_thickness",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "guides_enabled",
+      "type": "property",
+      "name": "guides_enabled",
+      "data_type": "bool",
+      "access": "Read-Write"
+    },
+    {
+      "id": "safe_frames_enabled",
+      "type": "property",
+      "name": "safe_frames_enabled",
+      "data_type": "bool",
+      "access": "Read-Write"
+    },
+    {
+      "id": "set_snap_state_method",
+      "type": "method",
+      "name": "set_snap_state",
+      "return_type": "None",
+      "parameters": [
+        {
+          "name": "snap_state",
+          "type": "AvaViewportSnapState"
+        }
+      ]
+    },
+    {
+      "id": "has_snap_state_method",
+      "type": "method",
+      "name": "has_snap_state",
+      "return_type": "bool",
+      "parameters": [
+        {
+          "name": "snap_state",
+          "type": "AvaViewportSnapState"
+        }
+      ]
+    },
+    {
+      "id": "get_snap_state_method",
+      "type": "method",
+      "name": "get_snap_state",
+      "return_type": "AvaViewportSnapState"
+    },
+    {
+      "id": "CreateRangeActionParams",
+      "type": "class",
+      "name": "CreateRangeActionParams",
+      "description": "Create Range Action Params"
+    },
+    {
+      "id": "ActionParamsBase",
+      "type": "class",
+      "name": "ActionParamsBase"
+    },
+    {
+      "id": "CoveringAPI",
+      "type": "plugin",
+      "name": "CoveringAPI"
+    },
+    {
+      "id": "CoveringAPIDefine",
+      "type": "module",
+      "name": "CoveringAPIDefine"
+    },
+    {
+      "id": "name_property",
+      "type": "property",
+      "name": "name",
+      "data_type": "str",
+      "access": "Read-Write"
+    },
+    {
+      "id": "snap_mode",
+      "type": "property",
+      "name": "snap_mode",
+      "data_type": "WdpSnapGroundMode",
+      "access": "Read-Write"
+    },
+    {
+      "id": "type_property",
+      "type": "property",
+      "name": "type",
+      "data_type": "str",
+      "access": "Read-Write"
+    },
+    {
+      "id": "fill_area_type",
+      "type": "property",
+      "name": "fill_area_type",
+      "data_type": "str",
+      "access": "Read-Write"
+    },
+    {
+      "id": "height_property2",
+      "type": "property",
+      "name": "height",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "stroke_weight",
+      "type": "property",
+      "name": "stroke_weight",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "color_property2",
+      "type": "property",
+      "name": "color",
+      "data_type": "str",
+      "access": "Read-Write"
+    },
+    {
+      "id": "DisplayClusterWarpGeometryOBJ",
+      "type": "class",
+      "name": "DisplayClusterWarpGeometryOBJ",
+      "description": "3D geometry that can be used for warping, in an OBJ-like format"
+    },
+    {
+      "id": "nDisplay",
+      "type": "plugin",
+      "name": "nDisplay"
+    },
+    {
+      "id": "DisplayClusterWarp",
+      "type": "module",
+      "name": "DisplayClusterWarp"
+    },
+    {
+      "id": "vertices",
+      "type": "property",
+      "name": "vertices",
+      "data_type": "Array[Vector]",
+      "access": "Read-Write",
+      "description": "Vertices of the mesh."
+    },
+    {
+      "id": "normal",
+      "type": "property",
+      "name": "normal",
+      "data_type": "Array[Vector]",
+      "access": "Read-Write",
+      "description": "Normal of the vertices of the mesh."
+    },
+    {
+      "id": "uv",
+      "type": "property",
+      "name": "uv",
+      "data_type": "Array[Vector2D]",
+      "access": "Read-Write",
+      "description": "UV of the vertices of the mesh."
+    },
+    {
+      "id": "triangles",
+      "type": "property",
+      "name": "triangles",
+      "data_type": "Array[int32]",
+      "access": "Read-Write",
+      "description": "Triangles with mesh vertex indices."
+    }
+  ],
+  "edges": [
+    {
+      "source": "LockedAxis",
+      "target": "LockedAxis.DEFAULT",
+      "type": "has_value"
+    },
+    {
+      "source": "LockedAxis",
+      "target": "LockedAxis.SIX_DOF",
+      "type": "has_value"
+    },
+    {
+      "source": "LockedAxis",
+      "target": "LockedAxis.YZ_PLANE",
+      "type": "has_value"
+    },
+    {
+      "source": "LockedAxis",
+      "target": "LockedAxis.XZ_PLANE",
+      "type": "has_value"
+    },
+    {
+      "source": "LockedAxis",
+      "target": "LockedAxis.XY_PLANE",
+      "type": "has_value"
+    },
+    {
+      "source": "LockedAxis",
+      "target": "LockedAxis.CUSTOM_PLANE",
+      "type": "has_value"
+    },
+    {
+      "source": "LockedAxis",
+      "target": "LockedAxis.NONE",
+      "type": "has_value"
+    },
+    {
+      "source": "RigUnit_GetBoolAnimationChannelFromItem",
+      "target": "RigUnit_GetAnimationChannelFromItemBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_GetBoolAnimationChannelFromItem",
+      "target": "ControlRig",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigUnit_GetBoolAnimationChannelFromItem",
+      "target": "ControlRig",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigUnit_GetBoolAnimationChannelFromItem",
+      "target": "item_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_GetBoolAnimationChannelFromItem",
+      "target": "initial_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_GetBoolAnimationChannelFromItem",
+      "target": "value_property",
+      "type": "has_property"
+    },
+    {
+      "source": "StretchDirection",
+      "target": "Slate",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "StretchDirection",
+      "target": "StretchDirection.BOTH",
+      "type": "has_value"
+    },
+    {
+      "source": "StretchDirection",
+      "target": "StretchDirection.DOWN_ONLY",
+      "type": "has_value"
+    },
+    {
+      "source": "StretchDirection",
+      "target": "StretchDirection.UP_ONLY",
+      "type": "has_value"
+    },
+    {
+      "source": "NavRelevantComponent",
+      "target": "ActorComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NavRelevantComponent",
+      "target": "NavigationSystem",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "NavRelevantComponent",
+      "target": "set_navigation_relevancy_method",
+      "type": "has_method"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "SkyCreatorPlugin",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "SkyCreatorPlugin",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "star_map_intensity",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "star_map_color_tint",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "star_map_twinkle_intensity",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "star_map_twinkle_saturation",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "star_map_twinkle_speed",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "star_map_horizon_threshold",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "star_map_atmosphere_threshold",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "night_horizon_color",
+      "type": "has_property"
+    },
+    {
+      "source": "SkyCreatorStarMapSettings",
+      "target": "night_zenith_color",
+      "type": "has_property"
+    },
+    {
+      "source": "MaterialParameterAssociation",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "MaterialParameterAssociation",
+      "target": "MaterialParameterAssociation.LAYER_PARAMETER",
+      "type": "has_value"
+    },
+    {
+      "source": "MaterialParameterAssociation",
+      "target": "MaterialParameterAssociation.BLEND_PARAMETER",
+      "type": "has_value"
+    },
+    {
+      "source": "MaterialParameterAssociation",
+      "target": "MaterialParameterAssociation.GLOBAL_PARAMETER",
+      "type": "has_value"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "AnimNode_Base",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "AnimGraphRuntime",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "a_property",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "b_property",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "alpha_property",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "alpha_input_type_property",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_TwoWayBlend",
+      "target": "alpha_bool_enabled_property",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "Actor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "AesWorld",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "AesAsset",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "spline_component",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "random_seed",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "meta_data",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "size_data",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "collision_data",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "child_assets",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "all_child_assets",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "auto_preview",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "preview_lod",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "preview_lod_max",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "sync_asset_data_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "set_spline_curves_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "save_to_library_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "register_asset_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "load_from_library_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "get_spline_curves_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "destroy_asset_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "debug_asset_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "create_asset_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AesAssetActorBase",
+      "target": "build_asset_method",
+      "type": "has_method"
+    },
+    {
+      "source": "WindowVisibility",
+      "target": "UMG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "WindowVisibility",
+      "target": "WindowVisibility.VISIBLE",
+      "type": "has_value"
+    },
+    {
+      "source": "WindowVisibility",
+      "target": "WindowVisibility.SELF_HIT_TEST_INVISIBLE",
+      "type": "has_value"
+    },
+    {
+      "source": "AnimGraphNode_TwistCorrectiveNode",
+      "target": "AnimGraphNode_SkeletalControlBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimGraphNode_TwistCorrectiveNode",
+      "target": "AnimGraph",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "GeometryScripting",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "GeometryScriptingCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "grid_parameters",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "winding_threshold",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "solid_at_boundaries",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "extend_bounds",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "surface_search_steps",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "thicken_shells",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptSolidifyOptions",
+      "target": "shell_thickness",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "RigVMFunction_DebugBaseMutable",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "RigVM",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "RigVM",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "transform_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "color_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "radius_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "minimum_degrees",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "maximum_degrees",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "thickness_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "detail_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "space_property",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "world_offset",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_DebugArc",
+      "target": "enabled_property",
+      "type": "has_property"
+    },
+    {
+      "source": "ControlRigClampSpatialMode",
+      "target": "ControlRigClampSpatialMode.PLANE",
+      "type": "has_value"
+    },
+    {
+      "source": "ControlRigClampSpatialMode",
+      "target": "ControlRigClampSpatialMode.CYLINDER",
+      "type": "has_value"
+    },
+    {
+      "source": "ControlRigClampSpatialMode",
+      "target": "ControlRigClampSpatialMode.SPHERE",
+      "type": "has_value"
+    },
+    {
+      "source": "ControlRigClampSpatialMode",
+      "target": "ControlRigClampSpatialMode.CAPSULE",
+      "type": "has_value"
+    },
+    {
+      "source": "GeoLayerVisibleAtom",
+      "target": "VisibleAtom",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeoLayerVisibleAtom",
+      "target": "GISDataAPI",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "GeoLayerVisibleAtom",
+      "target": "MagicGISAPI",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GeoLayerVisibleAtom",
+      "target": "visible_property",
+      "type": "has_property"
+    },
+    {
+      "source": "OnAsyncCaptureSceneComplete",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnAsyncCaptureSceneComplete",
+      "target": "Blutility",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AesEntitySettings",
+      "target": "DeveloperSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesEntitySettings",
+      "target": "AesWorld",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "AesEntitySettings",
+      "target": "AesEntity",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AesEntitySettings",
+      "target": "entity_library",
+      "type": "has_property"
+    },
+    {
+      "source": "AesFacadeLevelData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesFacadeLevelData",
+      "target": "AesWorld",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "AesFacadeLevelData",
+      "target": "AesAsset",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AesFacadeLevelData",
+      "target": "module_grammar",
+      "type": "has_property"
+    },
+    {
+      "source": "AesFacadeLevelData",
+      "target": "height_property",
+      "type": "has_property"
+    },
+    {
+      "source": "AesFacadeLevelData",
+      "target": "weight_property",
+      "type": "has_property"
+    },
+    {
+      "source": "AesFacadeLevelData",
+      "target": "variations",
+      "type": "has_property"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "SceneComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "ClonerEffector",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "ClonerEffector",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_visualizer_sprite_visible_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_visualizer_component_visible_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_type_name_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_type_class_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_mode_name_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_mode_class_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_magnitude_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_enabled_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "set_color_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_visualizer_sprite_visible_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_visualizer_component_visible_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_type_name_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_type_class_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_mode_name_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_mode_class_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_magnitude_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_extension_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_enabled_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_color_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_channel_identifier_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_active_type_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_active_mode_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CEEffectorComponent",
+      "target": "get_active_extensions_method",
+      "type": "has_method"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "SparseVolumeTexture",
+      "type": "inherits_from"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "address_x",
+      "type": "has_property"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "address_y",
+      "type": "has_property"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "address_z",
+      "type": "has_property"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "local_ddc_only",
+      "type": "has_property"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "has_asset_user_data_of_class_method",
+      "type": "has_method"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "get_asset_user_data_of_class_method",
+      "type": "has_method"
+    },
+    {
+      "source": "StreamableSparseVolumeTexture",
+      "target": "add_asset_user_data_of_class_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "DeveloperSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "Avalanche",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "AvalancheViewport",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "enable_viewport_overlay",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "enable_bounding_boxes",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "viewport_background_material",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "grid_enabled",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "grid_size",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "grid_color",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "grid_thickness",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "guides_enabled",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "safe_frames_enabled",
+      "type": "has_property"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "set_snap_state_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "has_snap_state_method",
+      "type": "has_method"
+    },
+    {
+      "source": "AvaViewportSettings",
+      "target": "get_snap_state_method",
+      "type": "has_method"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "ActionParamsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "CoveringAPI",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "CoveringAPIDefine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "name_property",
+      "type": "has_property"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "snap_mode",
+      "type": "has_property"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "type_property",
+      "type": "has_property"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "fill_area_type",
+      "type": "has_property"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "height_property2",
+      "type": "has_property"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "stroke_weight",
+      "type": "has_property"
+    },
+    {
+      "source": "CreateRangeActionParams",
+      "target": "color_property2",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterWarpGeometryOBJ",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterWarpGeometryOBJ",
+      "target": "nDisplay",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "DisplayClusterWarpGeometryOBJ",
+      "target": "DisplayClusterWarp",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "DisplayClusterWarpGeometryOBJ",
+      "target": "vertices",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterWarpGeometryOBJ",
+      "target": "normal",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterWarpGeometryOBJ",
+      "target": "uv",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterWarpGeometryOBJ",
+      "target": "triangles",
+      "type": "has_property"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_enums",
+      "nodes": [
+        "LockedAxis",
+        "ControlRigClampSpatialMode"
+      ],
+      "description": "Enums that have been deprecated and renamed"
+    },
+    {
+      "id": "struct_classes",
+      "nodes": [
+        "SkyCreatorStarMapSettings",
+        "GeometryScriptSolidifyOptions",
+        "AesFacadeLevelData",
+        "DisplayClusterWarpGeometryOBJ"
+      ],
+      "description": "Classes that inherit from StructBase for data structures"
+    },
+    {
+      "id": "unreal_modules",
+      "nodes": [
+        "Slate",
+        "NavigationSystem",
+        "Engine",
+        "AnimGraphRuntime",
+        "UMG",
+        "AnimGraph",
+        "GeometryScriptingCore",
+        "Blutility"
+      ],
+      "description": "Core Unreal Engine modules"
+    },
+    {
+      "id": "plugin_modules",
+      "nodes": [
+        "ControlRig",
+        "SkyCreatorPlugin",
+        "AesAsset",
+        "AesEntity",
+        "RigVM",
+        "MagicGISAPI",
+        "ClonerEffector",
+        "AvalancheViewport",
+        "CoveringAPIDefine",
+        "DisplayClusterWarp"
+      ],
+      "description": "Plugin-specific modules"
+    },
+    {
+      "id": "color_properties",
+      "nodes": [
+        "star_map_color_tint",
+        "night_horizon_color",
+        "night_zenith_color",
+        "color_property",
+        "color_property2"
+      ],
+      "description": "Properties representing colors"
+    },
+    {
+      "id": "float_properties",
+      "nodes": [
+        "star_map_intensity",
+        "star_map_twinkle_intensity",
+        "star_map_twinkle_saturation",
+        "star_map_twinkle_speed",
+        "star_map_horizon_threshold",
+        "star_map_atmosphere_threshold",
+        "alpha_property",
+        "height_property",
+        "weight_property",
+        "radius_property",
+        "minimum_degrees",
+        "maximum_degrees",
+        "thickness_property",
+        "grid_thickness",
+        "height_property2",
+        "stroke_weight"
+      ],
+      "description": "Properties with float data type"
+    },
+    {
+      "id": "bool_properties",
+      "nodes": [
+        "initial_property",
+        "value_property",
+        "alpha_bool_enabled_property",
+        "auto_preview",
+        "solid_at_boundaries",
+        "thicken_shells",
+        "enabled_property",
+        "visible_property",
+        "local_ddc_only",
+        "enable_viewport_overlay",
+        "enable_bounding_boxes",
+        "grid_enabled",
+        "guides_enabled",
+        "safe_frames_enabled"
+      ],
+      "description": "Properties with boolean data type"
+    },
+    {
+      "id": "actor_components",
+      "nodes": [
+        "NavRelevantComponent",
+        "CEEffectorComponent"
+      ],
+      "description": "Components that inherit from ActorComponent or SceneComponent"
+    },
+    {
+      "id": "animation_classes",
+      "nodes": [
+        "AnimNode_TwoWayBlend",
+        "AnimGraphNode_TwistCorrectiveNode"
+      ],
+      "description": "Classes related to animation systems"
+    },
+    {
+      "id": "developer_settings_classes",
+      "nodes": [
+        "AesEntitySettings",
+        "AvaViewportSettings"
+      ],
+      "description": "Settings classes that inherit from DeveloperSettings"
+    },
+    {
+      "id": "getter_methods",
+      "nodes": [
+        "get_spline_curves_method",
+        "get_visualizer_sprite_visible_method",
+        "get_visualizer_component_visible_method",
+        "get_type_name_method",
+        "get_type_class_method",
+        "get_mode_name_method",
+        "get_mode_class_method",
+        "get_magnitude_method",
+        "get_extension_method",
+        "get_enabled_method",
+        "get_color_method",
+        "get_channel_identifier_method",
+        "get_active_type_method",
+        "get_active_mode_method",
+        "get_active_extensions_method",
+        "has_asset_user_data_of_class_method",
+        "get_asset_user_data_of_class_method",
+        "has_snap_state_method",
+        "get_snap_state_method"
+      ],
+      "description": "Methods that retrieve or check data"
+    },
+    {
+      "id": "setter_methods",
+      "nodes": [
+        "set_navigation_relevancy_method",
+        "sync_asset_data_method",
+        "set_spline_curves_method",
+        "set_visualizer_sprite_visible_method",
+        "set_visualizer_component_visible_method",
+        "set_type_name_method",
+        "set_type_class_method",
+        "set_mode_name_method",
+        "set_mode_class_method",
+        "set_magnitude_method",
+        "set_enabled_method",
+        "set_color_method",
+        "add_asset_user_data_of_class_method",
+        "set_snap_state_method"
+      ],
+      "description": "Methods that modify or set data"
+    }
+  ]
+}

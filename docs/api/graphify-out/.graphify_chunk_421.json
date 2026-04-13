@@ -1,0 +1,808 @@
+{
+  "nodes": [
+    {
+      "id": "rigdispatch_getmetadata",
+      "label": "RigDispatch GetMetadata",
+      "file_type": "code",
+      "source_file": "RigDispatch_GetMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_metadatabase",
+      "label": "RigDispatch MetadataBase",
+      "file_type": "code",
+      "source_file": "RigDispatch_GetMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternioninverse",
+      "label": "RigVMFunction MathQuaternionInverse",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionInverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionunaryop",
+      "label": "RigVMFunction MathQuaternionUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionInverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionbase",
+      "label": "RigUnit MathQuaternionBase",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbase",
+      "label": "RigVMFunction MathQuaternionBase",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perskeletonanimationsharingsetup",
+      "label": "PerSkeletonAnimationSharingSetup",
+      "file_type": "code",
+      "source_file": "PerSkeletonAnimationSharingSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationstatesentry",
+      "label": "AnimationStateEntry",
+      "file_type": "code",
+      "source_file": "PerSkeletonAnimationSharingSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesrenderresourceactor",
+      "label": "AesRenderResourceActor",
+      "file_type": "code",
+      "source_file": "AesRenderResourceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathrbfinterpolatevectorxform_target",
+      "label": "MathRBFInterpolateVectorXform Target",
+      "file_type": "code",
+      "source_file": "MathRBFInterpolateVectorXform__Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncactionloadprimaryasset",
+      "label": "AsyncActionLoadPrimaryAsset",
+      "file_type": "code",
+      "source_file": "AsyncActionLoadPrimaryAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncactionloadprimaryassetbase",
+      "label": "AsyncActionLoadPrimaryAssetBase",
+      "file_type": "code",
+      "source_file": "AsyncActionLoadPrimaryAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onprimaryassetloaded",
+      "label": "OnPrimaryAssetLoaded",
+      "file_type": "code",
+      "source_file": "AsyncActionLoadPrimaryAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialeditorinstanceconstant",
+      "label": "MaterialEditorInstanceConstant",
+      "file_type": "code",
+      "source_file": "MaterialEditorInstanceConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialeditorparameters",
+      "label": "MaterialEditorParameters",
+      "file_type": "code",
+      "source_file": "MaterialEditorInstanceConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsurfaceprofile",
+      "label": "SubsurfaceProfile",
+      "file_type": "code",
+      "source_file": "MaterialEditorInstanceConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphedge",
+      "label": "MovieGraphEdge",
+      "file_type": "code",
+      "source_file": "MovieGraphEdge Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaiooutputtype",
+      "label": "MediaIOOutputType",
+      "file_type": "code",
+      "source_file": "MediaIOOutputType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "trailwidthmode",
+      "label": "TrailWidthMode",
+      "file_type": "code",
+      "source_file": "TrailWidthMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agentdebugvisualization",
+      "label": "AgentDebugVisualization",
+      "file_type": "code",
+      "source_file": "AgentDebugVisualization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massentitydebugshape",
+      "label": "MassEntityDebugShape",
+      "file_type": "code",
+      "source_file": "AgentDebugVisualization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptremeshsmoothingtype",
+      "label": "GeometryScriptRemeshSmoothingType",
+      "file_type": "code",
+      "source_file": "GeometryScriptRemeshSmoothingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "text3dcomponent_textgenerated",
+      "label": "Text3DComponent TextGenerated",
+      "file_type": "code",
+      "source_file": "Text3DComponent_TextGenerated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondistancefieldapproxao",
+      "label": "MaterialExpressionDistanceFieldApproxAO",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDistanceFieldApproxAO Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDistanceFieldApproxAO Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformfromsrt",
+      "label": "RigUnit MathTransformFromSRT",
+      "file_type": "code",
+      "source_file": "RigUnit_MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformfromsrt",
+      "label": "RigVMFunction MathTransformFromSRT",
+      "file_type": "code",
+      "source_file": "RigUnit_MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timeddatainputevaluationdata",
+      "label": "TimedDataInputEvaluationData",
+      "file_type": "code",
+      "source_file": "TimedDataInputEvaluationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatamathsoperation",
+      "label": "PCGMetadataMathsOperation",
+      "file_type": "code",
+      "source_file": "PCGMetadataMathsOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributefilteringsettings",
+      "label": "PCGAttributeFilteringSettings",
+      "file_type": "code",
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributefilteroperator",
+      "label": "PCGAttributeFilterOperator",
+      "file_type": "code",
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyinputselector",
+      "label": "PCGAttributePropertyInputSelector",
+      "file_type": "code",
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatatypesconstantstruct",
+      "label": "PCGMetadataTypesConstantStruct",
+      "file_type": "code",
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "predictprojectilepathparams",
+      "label": "PredictProjectilePathParams",
+      "file_type": "code",
+      "source_file": "PredictProjectilePathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collisionchannel",
+      "label": "CollisionChannel",
+      "file_type": "code",
+      "source_file": "PredictProjectilePathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objecttypequery",
+      "label": "ObjectTypeQuery",
+      "file_type": "code",
+      "source_file": "PredictProjectilePathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "drawdebugtrace",
+      "label": "DrawDebugTrace",
+      "file_type": "code",
+      "source_file": "PredictProjectilePathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setdefaultmatch",
+      "label": "RigUnit SetDefaultMatch",
+      "file_type": "code",
+      "source_file": "RigUnit__SetDefaultMatch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SetDefaultMatch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit__SetDefaultMatch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__SetDefaultMatch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonerspherelayout",
+      "label": "AvaClonerSphereLayout",
+      "file_type": "code",
+      "source_file": "AvaClonerSphereLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonersphereuniformlayout",
+      "label": "CEClonerSphereUniformLayout",
+      "file_type": "code",
+      "source_file": "AvaClonerSphereLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigdispatch_getmetadata",
+      "target": "rigdispatch_metadatabase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigDispatch_GetMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternioninverse",
+      "target": "rigvmfunction_mathquaternionunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionInverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionunaryop",
+      "target": "rigvmfunction_mathquaternionbase",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathQuaternionInverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionbase",
+      "target": "rigvmfunction_mathquaternionbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformfromsrt",
+      "target": "rigvmfunction_mathtransformfromsrt",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncactionloadprimaryasset",
+      "target": "asyncactionloadprimaryassetbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AsyncActionLoadPrimaryAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncactionloadprimaryasset",
+      "target": "onprimaryassetloaded",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AsyncActionLoadPrimaryAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialeditorinstanceconstant",
+      "target": "materialeditorparameters",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialEditorInstanceConstant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialeditorinstanceconstant",
+      "target": "subsurfaceprofile",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialEditorInstanceConstant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondistancefieldapproxao",
+      "target": "materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDistanceFieldApproxAO Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "agentdebugvisualization",
+      "target": "massentitydebugshape",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AgentDebugVisualization Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributefilteringsettings",
+      "target": "pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributefilteringsettings",
+      "target": "pcgattributefilteroperator",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributefilteringsettings",
+      "target": "pcgattributepropertyinputselector",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributefilteringsettings",
+      "target": "pcgmetadatatypesconstantstruct",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributefilteringsettings",
+      "target": "pcgmetadatamathsoperation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGAttributeFilteringSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "predictprojectilepathparams",
+      "target": "collisionchannel",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PredictProjectilePathParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "predictprojectilepathparams",
+      "target": "objecttypequery",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PredictProjectilePathParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "predictprojectilepathparams",
+      "target": "drawdebugtrace",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PredictProjectilePathParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setdefaultmatch",
+      "target": "rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetDefaultMatch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setdefaultmatch",
+      "target": "rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetDefaultMatch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setdefaultmatch",
+      "target": "controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetDefaultMatch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonerspherelayout",
+      "target": "ceclonersphereuniformlayout",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerSphereLayout Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perskeletonanimationsharingsetup",
+      "target": "animationstatesentry",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PerSkeletonAnimationSharingSetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mathrbfinterpolatevectorxform_target",
+      "target": "rigvmfunction_mathquaternioninverse",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MathRBFInterpolateVectorXform__Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptremeshsmoothingtype",
+      "target": "trailwidthmode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryScriptRemeshSmoothingType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediaiooutputtype",
+      "target": "trailwidthmode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MediaIOOutputType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_deprecated_units",
+      "label": "Deprecated RigVM Units Renamed to RigVMFunctions",
+      "nodes": [
+        "rigunit_mathquaternionbase",
+        "rigunit_mathtransformfromsrt",
+        "rigvmfunction_mathquaternionbase",
+        "rigvmfunction_mathtransformfromsrt"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionBase Objects.md"
+    },
+    {
+      "id": "pcg_metadata_system",
+      "label": "PCG Metadata System Components",
+      "nodes": [
+        "pcgattributefilteringsettings",
+        "pcgmetadatamathsoperation",
+        "pcgattributefilteroperator",
+        "pcgattributepropertyinputselector",
+        "pcgmetadatatypesconstantstruct"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGAttributeFilteringSettings Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operation Classes",
+      "nodes": [
+        "rigvmfunction_mathquaternioninverse",
+        "rigvmfunction_mathquaternionbase",
+        "rigvmfunction_mathquaternionunaryop",
+        "rigvmfunction_mathtransformfromsrt",
+        "mathrbfinterpolatevectorxform_target"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathQuaternionInverse Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

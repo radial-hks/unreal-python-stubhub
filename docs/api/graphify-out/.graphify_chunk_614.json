@@ -1,0 +1,1912 @@
+{
+  "nodes": [
+    {
+      "id": "EarthGroupIDFragment",
+      "type": "class",
+      "label": "EarthGroupIDFragment",
+      "description": "定义群组识别码片段",
+      "properties": {
+        "parent_class": "EarthExternalFragment",
+        "plugin": "AesWorld",
+        "module": "EarthPrefab",
+        "file": "EarthCommonFragments.h"
+      }
+    },
+    {
+      "id": "EarthExternalFragment",
+      "type": "class",
+      "label": "EarthExternalFragment",
+      "description": "Parent class of EarthGroupIDFragment"
+    },
+    {
+      "id": "group_id",
+      "type": "property",
+      "label": "group_id",
+      "properties": {
+        "data_type": "int32",
+        "access": "Read-Write",
+        "description": "群组识别码"
+      }
+    },
+    {
+      "id": "valid",
+      "type": "property",
+      "label": "valid",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "数据片段是否有效"
+      }
+    },
+    {
+      "id": "validated",
+      "type": "property",
+      "label": "validated",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "是否已执行数据有效性验证"
+      }
+    },
+    {
+      "id": "SlateBrushImageType",
+      "type": "enum",
+      "label": "SlateBrushImageType",
+      "description": "Enumerates brush image types.",
+      "properties": {
+        "parent_class": "EnumBase",
+        "module": "SlateCore",
+        "file": "SlateBrush.h"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase",
+      "description": "Base class for enums"
+    },
+    {
+      "id": "NO_IMAGE",
+      "type": "enum_value",
+      "label": "NO_IMAGE",
+      "properties": {
+        "value": 0,
+        "description": "No image is loaded. Color only brushes, transparent brushes etc."
+      }
+    },
+    {
+      "id": "FULL_COLOR",
+      "type": "enum_value",
+      "label": "FULL_COLOR",
+      "properties": {
+        "value": 1,
+        "description": "The image to be loaded is in full color."
+      }
+    },
+    {
+      "id": "LINEAR",
+      "type": "enum_value",
+      "label": "LINEAR",
+      "properties": {
+        "value": 2,
+        "description": "The image is a special texture in linear space (usually a rendering resource such as a lookup table)."
+      }
+    },
+    {
+      "id": "VECTOR",
+      "type": "enum_value",
+      "label": "VECTOR",
+      "properties": {
+        "value": 3,
+        "description": "The image is vector graphics and will be rendered and cached in full color using size/scale requested by slate"
+      }
+    },
+    {
+      "id": "LensFilePicker",
+      "type": "class",
+      "label": "LensFilePicker",
+      "description": "Wrapper to facilitate default LensFile vs picker",
+      "properties": {
+        "parent_class": "StructBase",
+        "plugin": "CameraCalibrationCore",
+        "module": "CameraCalibrationCore",
+        "file": "LensFile.h"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase",
+      "description": "Base class for structs"
+    },
+    {
+      "id": "use_default_lens_file",
+      "type": "property",
+      "label": "use_default_lens_file",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "If true, default LensFile will be used, if one is set"
+      }
+    },
+    {
+      "id": "lens_file",
+      "type": "property",
+      "label": "lens_file",
+      "properties": {
+        "data_type": "LensFile",
+        "access": "Read-Write",
+        "description": "LensFile asset to use if DefaultLensFile is not desired"
+      }
+    },
+    {
+      "id": "LensFile",
+      "type": "class",
+      "label": "LensFile",
+      "description": "LensFile asset type"
+    },
+    {
+      "id": "WdpCommonInput_OnPointerKeyReleased",
+      "type": "delegate",
+      "label": "WdpCommonInput_OnPointerKeyReleased",
+      "description": "Pointer 抬起，抬起时最后的屏幕坐标",
+      "properties": {
+        "parent_class": "MulticastDelegateBase",
+        "plugin": "WdpCamera",
+        "module": "WdpCamera",
+        "file": "WdpCommonInput.h"
+      }
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "position",
+      "type": "parameter",
+      "label": "position",
+      "properties": {
+        "data_type": "Vector2D",
+        "description": "Pointer position parameter"
+      }
+    },
+    {
+      "id": "AnimNode_Sync",
+      "type": "class",
+      "label": "AnimNode_Sync",
+      "description": "Anim Node Sync",
+      "properties": {
+        "parent_class": "AnimNode_Base",
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_Sync.h"
+      }
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "label": "AnimNode_Base",
+      "description": "Base class for animation nodes"
+    },
+    {
+      "id": "group_name",
+      "type": "property",
+      "label": "group_name",
+      "properties": {
+        "data_type": "Name",
+        "access": "Read-Write",
+        "description": "The group name that we synchronize with (NAME_None if it is not part of any group)."
+      }
+    },
+    {
+      "id": "group_role",
+      "type": "property",
+      "label": "group_role",
+      "properties": {
+        "data_type": "AnimGroupRole",
+        "access": "Read-Write",
+        "description": "The role this animation can assume within the group (ignored if GroupName is not set)"
+      }
+    },
+    {
+      "id": "source",
+      "type": "property",
+      "label": "source",
+      "properties": {
+        "data_type": "PoseLink",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RigUnit_MathQuaternionMakeRelative",
+      "type": "class",
+      "label": "RigUnit_MathQuaternionMakeRelative",
+      "description": "deprecated: 'RigUnit_MathQuaternionMakeRelative' was renamed to 'RigVMFunction_MathQuaternionMakeRelative'.",
+      "properties": {
+        "parent_class": "RigVMFunction_MathQuaternionMakeRelative",
+        "deprecated": true,
+        "renamed_to": "RigVMFunction_MathQuaternionMakeRelative"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionMakeRelative",
+      "type": "class",
+      "label": "RigVMFunction_MathQuaternionMakeRelative",
+      "description": "Function for making quaternion relative"
+    },
+    {
+      "id": "global_",
+      "type": "parameter",
+      "label": "global_",
+      "properties": {
+        "data_type": "Quat",
+        "default_value": "[0.000000, 0.000000, 0.000000, 1.000000]"
+      }
+    },
+    {
+      "id": "parent",
+      "type": "parameter",
+      "label": "parent",
+      "properties": {
+        "data_type": "Quat",
+        "default_value": "[0.000000, 0.000000, 0.000000, 1.000000]"
+      }
+    },
+    {
+      "id": "local",
+      "type": "parameter",
+      "label": "local",
+      "properties": {
+        "data_type": "Quat",
+        "default_value": "[0.000000, 0.000000, 0.000000, 1.000000]"
+      }
+    },
+    {
+      "id": "ScrollBar",
+      "type": "class",
+      "label": "ScrollBar",
+      "description": "Scroll Bar",
+      "properties": {
+        "parent_class": "Widget",
+        "module": "UMG",
+        "file": "ScrollBar.h"
+      }
+    },
+    {
+      "id": "Widget",
+      "type": "class",
+      "label": "Widget",
+      "description": "Base class for UI widgets"
+    },
+    {
+      "id": "widget_style",
+      "type": "property",
+      "label": "widget_style",
+      "properties": {
+        "data_type": "ScrollBarStyle",
+        "access": "Read-Write",
+        "description": "Style of the scrollbar"
+      }
+    },
+    {
+      "id": "always_show_scrollbar",
+      "type": "property",
+      "label": "always_show_scrollbar",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "always_show_scrollbar_track",
+      "type": "property",
+      "label": "always_show_scrollbar_track",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "orientation",
+      "type": "property",
+      "label": "orientation",
+      "properties": {
+        "data_type": "Orientation",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "thickness",
+      "type": "property",
+      "label": "thickness",
+      "properties": {
+        "data_type": "Vector2D",
+        "access": "Read-Write",
+        "description": "The thickness of the scrollbar thumb"
+      }
+    },
+    {
+      "id": "padding",
+      "type": "property",
+      "label": "padding",
+      "properties": {
+        "data_type": "Margin",
+        "access": "Read-Write",
+        "description": "The margin around the scrollbar"
+      }
+    },
+    {
+      "id": "set_state",
+      "type": "method",
+      "label": "set_state",
+      "description": "Set the offset and size of the track's thumb.",
+      "properties": {
+        "parameters": ["offset_fraction", "thumb_size_fraction"]
+      }
+    },
+    {
+      "id": "RigVMFunction_TimeLoop",
+      "type": "class",
+      "label": "RigVMFunction_TimeLoop",
+      "description": "Simulates a time value - and outputs loop information",
+      "properties": {
+        "parent_class": "RigVMFunction_SimBase",
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_Timeline.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_SimBase",
+      "type": "class",
+      "label": "RigVMFunction_SimBase",
+      "description": "Base class for RigVM simulation functions"
+    },
+    {
+      "id": "speed",
+      "type": "property",
+      "label": "speed",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "duration",
+      "type": "property",
+      "label": "duration",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "the duration of a single loop in seconds"
+      }
+    },
+    {
+      "id": "normalize",
+      "type": "property",
+      "label": "normalize",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "if set to true the output relative and flipflop will be normalized over the duration."
+      }
+    },
+    {
+      "id": "absolute",
+      "type": "property",
+      "label": "absolute",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Only",
+        "description": "the overall time in seconds"
+      }
+    },
+    {
+      "id": "relative",
+      "type": "property",
+      "label": "relative",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Only",
+        "description": "the relative time in seconds (within the loop)"
+      }
+    },
+    {
+      "id": "flip_flop",
+      "type": "property",
+      "label": "flip_flop",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Only",
+        "description": "the relative time in seconds (within the loop), going from 0 to duration and then back from duration to 0, or 0 to 1 and 1 to 0 if Normalize is turned on"
+      }
+    },
+    {
+      "id": "even",
+      "type": "property",
+      "label": "even",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Only",
+        "description": "true if the iteration of the loop is even"
+      }
+    },
+    {
+      "id": "ForEachActorIteratorSignature",
+      "type": "delegate",
+      "label": "ForEachActorIteratorSignature",
+      "description": "For Each Actor Iterator Signature Delegate Signature",
+      "properties": {
+        "parent_class": "MulticastDelegateBase",
+        "module": "Blutility",
+        "file": "GlobalEditorUtilityBase.h"
+      }
+    },
+    {
+      "id": "actor",
+      "type": "parameter",
+      "label": "actor",
+      "properties": {
+        "data_type": "Actor"
+      }
+    },
+    {
+      "id": "index",
+      "type": "parameter",
+      "label": "index",
+      "properties": {
+        "data_type": "int32"
+      }
+    },
+    {
+      "id": "PCGGetPrimitiveSettings",
+      "type": "class",
+      "label": "PCGGetPrimitiveSettings",
+      "description": "Builds a collection of primitive data from primitive components on the selected actors.",
+      "properties": {
+        "parent_class": "PCGDataFromActorSettings",
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGTypedGetter.h"
+      }
+    },
+    {
+      "id": "PCGDataFromActorSettings",
+      "type": "class",
+      "label": "PCGDataFromActorSettings",
+      "description": "Base class for PCG data from actor settings"
+    },
+    {
+      "id": "RigUnit_MathFloatConstHalfPi",
+      "type": "class",
+      "label": "RigUnit_MathFloatConstHalfPi",
+      "description": "deprecated: 'RigUnit_MathFloatConstHalfPi' was renamed to 'RigVMFunction_MathFloatConstHalfPi'.",
+      "properties": {
+        "parent_class": "RigVMFunction_MathFloatConstHalfPi",
+        "deprecated": true,
+        "renamed_to": "RigVMFunction_MathFloatConstHalfPi"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathFloatConstHalfPi",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatConstHalfPi",
+      "description": "Function for half pi constant"
+    },
+    {
+      "id": "SourceEffectMotionFilterModDestination",
+      "type": "enum",
+      "label": "SourceEffectMotionFilterModDestination",
+      "description": "ESource Effect Motion Filter Mod Destination",
+      "properties": {
+        "parent_class": "EnumBase",
+        "plugin": "Synthesis",
+        "module": "Synthesis",
+        "file": "SourceEffectMotionFilter.h"
+      }
+    },
+    {
+      "id": "FILTER_A_CUTOFF_FREQUENCY",
+      "type": "enum_value",
+      "label": "FILTER_A_CUTOFF_FREQUENCY",
+      "properties": {
+        "value": 0,
+        "description": "Filter input frequencies range between 20.0f and 15000.0f."
+      }
+    },
+    {
+      "id": "FILTER_A_RESONANCE",
+      "type": "enum_value",
+      "label": "FILTER_A_RESONANCE",
+      "properties": {
+        "value": 1,
+        "description": "Filter input resonances range between 0.5f and 10.0f."
+      }
+    },
+    {
+      "id": "FILTER_A_OUTPUT_VOLUME_DB",
+      "type": "enum_value",
+      "label": "FILTER_A_OUTPUT_VOLUME_DB",
+      "properties": {
+        "value": 2,
+        "description": "Filter output dB range between 10.0f and -96.0f. Final Filter output is clamped to +6 dB, use positive values with caution."
+      }
+    },
+    {
+      "id": "FILTER_B_CUTOFF_FREQUENCY",
+      "type": "enum_value",
+      "label": "FILTER_B_CUTOFF_FREQUENCY",
+      "properties": {
+        "value": 3,
+        "description": "Filter input frequencies range between 20.0f and 15000.0f."
+      }
+    },
+    {
+      "id": "FILTER_B_RESONANCE",
+      "type": "enum_value",
+      "label": "FILTER_B_RESONANCE",
+      "properties": {
+        "value": 4,
+        "description": "Filter input resonances range between 0.5f and 10.0f."
+      }
+    },
+    {
+      "id": "FILTER_B_OUTPUT_VOLUME_DB",
+      "type": "enum_value",
+      "label": "FILTER_B_OUTPUT_VOLUME_DB",
+      "properties": {
+        "value": 5,
+        "description": "Filter output dB range between 10.0f and -96.0f. Final Filter output is clamped to +6 dB, use positive values with caution."
+      }
+    },
+    {
+      "id": "FILTER_MIX",
+      "type": "enum_value",
+      "label": "FILTER_MIX",
+      "properties": {
+        "value": 6,
+        "description": "Filter Mix values range from -1.0f (Filter A) and 1.0f (Filter B)."
+      }
+    },
+    {
+      "id": "DistanceFieldUnits",
+      "type": "enum",
+      "label": "DistanceFieldUnits",
+      "description": "EDistance Field Units",
+      "properties": {
+        "parent_class": "EnumBase",
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingCore",
+        "file": "VolumeTextureBakeFunctions.h"
+      }
+    },
+    {
+      "id": "NUMBER_OF_VOXELS",
+      "type": "enum_value",
+      "label": "NUMBER_OF_VOXELS",
+      "properties": {
+        "value": 0,
+        "description": "Express distance as a number of voxels"
+      }
+    },
+    {
+      "id": "DISTANCE",
+      "type": "enum_value",
+      "label": "DISTANCE",
+      "properties": {
+        "value": 1,
+        "description": "Directly specify distances"
+      }
+    },
+    {
+      "id": "MovieSceneActorPredictionFailure",
+      "type": "delegate",
+      "label": "MovieSceneActorPredictionFailure",
+      "description": "Movie Scene Actor Prediction Failure Delegate Signature",
+      "properties": {
+        "parent_class": "MulticastDelegateBase",
+        "module": "MovieSceneTracks",
+        "file": "MovieScenePredictionSystem.h"
+      }
+    },
+    {
+      "id": "RigUnit_MathColorMake",
+      "type": "class",
+      "label": "RigUnit_MathColorMake",
+      "description": "deprecated: 'RigUnit_MathColorMake' was renamed to 'RigVMFunction_MathColorMake'.",
+      "properties": {
+        "parent_class": "RigVMFunction_MathColorMake",
+        "deprecated": true,
+        "renamed_to": "RigVMFunction_MathColorMake"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathColorMake",
+      "type": "class",
+      "label": "RigVMFunction_MathColorMake",
+      "description": "Function for making color"
+    },
+    {
+      "id": "r",
+      "type": "parameter",
+      "label": "r",
+      "properties": {
+        "data_type": "float",
+        "default_value": "0.000000"
+      }
+    },
+    {
+      "id": "g",
+      "type": "parameter",
+      "label": "g",
+      "properties": {
+        "data_type": "float",
+        "default_value": "0.000000"
+      }
+    },
+    {
+      "id": "b",
+      "type": "parameter",
+      "label": "b",
+      "properties": {
+        "data_type": "float",
+        "default_value": "0.000000"
+      }
+    },
+    {
+      "id": "a",
+      "type": "parameter",
+      "label": "a",
+      "properties": {
+        "data_type": "float",
+        "default_value": "0.000000"
+      }
+    },
+    {
+      "id": "result",
+      "type": "parameter",
+      "label": "result",
+      "properties": {
+        "data_type": "LinearColor",
+        "default_value": "[0.000000, 0.000000, 0.000000, 0.000000]"
+      }
+    },
+    {
+      "id": "SourceEffectMotionFilterSettings",
+      "type": "class",
+      "label": "SourceEffectMotionFilterSettings",
+      "description": "FSourceEffectMotionFilterSettings This is the source effect's setting struct.",
+      "properties": {
+        "parent_class": "StructBase",
+        "plugin": "Synthesis",
+        "module": "Synthesis",
+        "file": "SourceEffectMotionFilter.h"
+      }
+    },
+    {
+      "id": "motion_filter_topology",
+      "type": "property",
+      "label": "motion_filter_topology",
+      "properties": {
+        "data_type": "SourceEffectMotionFilterTopology",
+        "access": "Read-Write",
+        "description": "In Serial Mode, Filter A will process then Filter B will process; in Parallel mode, Filter A and Filter B will process the dry input seprately, then be mixed together afterward."
+      }
+    },
+    {
+      "id": "motion_filter_mix",
+      "type": "property",
+      "label": "motion_filter_mix",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "Filter Mix controls the amount of each filter in the signal where -1.0f outputs Only Filter A, 0.0f is an equal balance between Filter A and B, and 1.0f outputs only Filter B. How this blend works depends on the Topology."
+      }
+    },
+    {
+      "id": "filter_a_settings",
+      "type": "property",
+      "label": "filter_a_settings",
+      "properties": {
+        "data_type": "SourceEffectIndividualFilterSettings",
+        "access": "Read-Write",
+        "description": "Initial settings for Filter A"
+      }
+    },
+    {
+      "id": "filter_b_settings",
+      "type": "property",
+      "label": "filter_b_settings",
+      "properties": {
+        "data_type": "SourceEffectIndividualFilterSettings",
+        "access": "Read-Write",
+        "description": "Initial settings for Filter B"
+      }
+    },
+    {
+      "id": "modulation_mappings",
+      "type": "property",
+      "label": "modulation_mappings",
+      "properties": {
+        "data_type": "Map[SourceEffectMotionFilterModDestination, SourceEffectMotionFilterModulationSettings]",
+        "access": "Read-Write",
+        "description": "Modulation Mappings"
+      }
+    },
+    {
+      "id": "dry_volume_db",
+      "type": "property",
+      "label": "dry_volume_db",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "Dry volume pass-through in dB."
+      }
+    },
+    {
+      "id": "RigUnit_GetItemNameSpace",
+      "type": "class",
+      "label": "RigUnit_GetItemNameSpace",
+      "description": "Returns the namespace of a given item. This may be an empty string if the item doesn't have a namespace.",
+      "properties": {
+        "parent_class": "RigUnit_RigModulesBase",
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_RigModules.h"
+      }
+    },
+    {
+      "id": "RigUnit_RigModulesBase",
+      "type": "class",
+      "label": "RigUnit_RigModulesBase",
+      "description": "Base class for RigUnit modules"
+    },
+    {
+      "id": "item",
+      "type": "property",
+      "label": "item",
+      "properties": {
+        "data_type": "RigElementKey",
+        "access": "Read-Write",
+        "description": "The key of the item to return the namespace for"
+      }
+    },
+    {
+      "id": "has_name_space",
+      "type": "property",
+      "label": "has_name_space",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Only",
+        "description": "True if the item has a valid namespace"
+      }
+    },
+    {
+      "id": "name_space",
+      "type": "property",
+      "label": "name_space",
+      "properties": {
+        "data_type": "str",
+        "access": "Read-Only",
+        "description": "The namespace of the item"
+      }
+    },
+    {
+      "id": "FloatSpringState",
+      "type": "class",
+      "label": "FloatSpringState",
+      "description": "Float Spring State",
+      "properties": {
+        "parent_class": "StructBase",
+        "module": "Engine",
+        "file": "KismetMathLibrary.h"
+      }
+    },
+    {
+      "id": "FieldPositionType",
+      "type": "enum",
+      "label": "FieldPositionType",
+      "description": "EField Position Type",
+      "properties": {
+        "parent_class": "EnumBase",
+        "module": "Chaos",
+        "file": "FieldSystemTypes.h"
+      }
+    },
+    {
+      "id": "FIELD_POSITION_CENTER_OF_MASS",
+      "type": "enum_value",
+      "label": "FIELD_POSITION_CENTER_OF_MASS",
+      "properties": {
+        "value": 0,
+        "description": "Apply the field to the particles center of mass position"
+      }
+    },
+    {
+      "id": "FIELD_POSITION_PIVOT_POINT",
+      "type": "enum_value",
+      "label": "FIELD_POSITION_PIVOT_POINT",
+      "properties": {
+        "value": 1,
+        "description": "Apply the field to the particles pivot point position"
+      }
+    },
+    {
+      "id": "PointCloudData",
+      "type": "class",
+      "label": "PointCloudData",
+      "description": "Point Cloud Data",
+      "properties": {
+        "parent_class": "StructBase",
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIEntity",
+        "file": "PointCloudBpActor.h"
+      }
+    },
+    {
+      "id": "x",
+      "type": "property",
+      "label": "x",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "y",
+      "type": "property",
+      "label": "y",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "z",
+      "type": "property",
+      "label": "z",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "strength",
+      "type": "property",
+      "label": "strength",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MovementComp_Rotating",
+      "type": "class",
+      "label": "MovementComp_Rotating",
+      "description": "deprecated: 'MovementComp_Rotating' was renamed to 'RotatingMovementComponent'.",
+      "properties": {
+        "parent_class": "RotatingMovementComponent",
+        "deprecated": true,
+        "renamed_to": "RotatingMovementComponent"
+      }
+    },
+    {
+      "id": "RotatingMovementComponent",
+      "type": "class",
+      "label": "RotatingMovementComponent",
+      "description": "Component for rotating movement"
+    },
+    {
+      "id": "AnimNode_ControlRig",
+      "type": "class",
+      "label": "AnimNode_ControlRig",
+      "description": "Animation node that allows animation ControlRig output to be used in an animation graph",
+      "properties": {
+        "parent_class": "AnimNode_ControlRigBase",
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "AnimNode_ControlRig.h"
+      }
+    },
+    {
+      "id": "AnimNode_ControlRigBase",
+      "type": "class",
+      "label": "AnimNode_ControlRigBase",
+      "description": "Base class for ControlRig animation nodes"
+    },
+    {
+      "id": "alpha",
+      "type": "property",
+      "label": "alpha",
+      "properties": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "alpha value handler"
+      }
+    },
+    {
+      "id": "alpha_bool_blend",
+      "type": "property",
+      "label": "alpha_bool_blend",
+      "properties": {
+        "data_type": "InputAlphaBoolBlend",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "alpha_bool_enabled",
+      "type": "property",
+      "label": "alpha_bool_enabled",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "alpha_curve_name",
+      "type": "property",
+      "label": "alpha_curve_name",
+      "properties": {
+        "data_type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "alpha_input_type",
+      "type": "property",
+      "label": "alpha_input_type",
+      "properties": {
+        "data_type": "AnimAlphaInputType",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "control_rig_class",
+      "type": "property",
+      "label": "control_rig_class",
+      "properties": {
+        "data_type": "type(Class)",
+        "access": "Read-Write",
+        "description": "The class to use for the rig."
+      }
+    },
+    {
+      "id": "event_queue",
+      "type": "property",
+      "label": "event_queue",
+      "properties": {
+        "data_type": "Array[ControlRigAnimNodeEventName]",
+        "access": "Read-Write",
+        "description": "The customized event queue to run"
+      }
+    },
+    {
+      "id": "lod_threshold",
+      "type": "property",
+      "label": "lod_threshold",
+      "properties": {
+        "data_type": "int32",
+        "access": "Read-Write",
+        "description": "Max LOD that this node is allowed to run"
+      }
+    },
+    {
+      "id": "reset_input_pose_to_initial",
+      "type": "property",
+      "label": "reset_input_pose_to_initial",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "If this is checked the rig's pose needs to be reset to its initial prior to evaluating the rig."
+      }
+    },
+    {
+      "id": "set_ref_pose_from_skeleton",
+      "type": "property",
+      "label": "set_ref_pose_from_skeleton",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "Override the initial transforms with those taken from the mesh component"
+      }
+    },
+    {
+      "id": "transfer_input_curves",
+      "type": "property",
+      "label": "transfer_input_curves",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "If this is checked the curves coming from the AnimBP will be transferred into the Control Rig."
+      }
+    },
+    {
+      "id": "transfer_input_pose",
+      "type": "property",
+      "label": "transfer_input_pose",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "If this is checked the bone pose coming from the AnimBP will be transferred into the Control Rig."
+      }
+    },
+    {
+      "id": "transfer_pose_in_global_space",
+      "type": "property",
+      "label": "transfer_pose_in_global_space",
+      "properties": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "Transferring the pose in global space guarantees a global pose match, while transferring in local space ensures a match of the local transforms."
+      }
+    },
+    {
+      "id": "AesWorld",
+      "type": "plugin",
+      "label": "AesWorld"
+    },
+    {
+      "id": "CameraCalibrationCore",
+      "type": "plugin",
+      "label": "CameraCalibrationCore"
+    },
+    {
+      "id": "WdpCamera",
+      "type": "plugin",
+      "label": "WdpCamera"
+    },
+    {
+      "id": "RigVM",
+      "type": "plugin",
+      "label": "RigVM"
+    },
+    {
+      "id": "PCG",
+      "type": "plugin",
+      "label": "PCG"
+    },
+    {
+      "id": "Synthesis",
+      "type": "plugin",
+      "label": "Synthesis"
+    },
+    {
+      "id": "GeometryScripting",
+      "type": "plugin",
+      "label": "GeometryScripting"
+    },
+    {
+      "id": "ControlRig",
+      "type": "plugin",
+      "label": "ControlRig"
+    },
+    {
+      "id": "CoveringAPI",
+      "type": "plugin",
+      "label": "CoveringAPI"
+    },
+    {
+      "id": "EarthPrefab",
+      "type": "module",
+      "label": "EarthPrefab"
+    },
+    {
+      "id": "SlateCore",
+      "type": "module",
+      "label": "SlateCore"
+    },
+    {
+      "id": "UMG",
+      "type": "module",
+      "label": "UMG"
+    },
+    {
+      "id": "AnimGraphRuntime",
+      "type": "module",
+      "label": "AnimGraphRuntime"
+    },
+    {
+      "id": "Blutility",
+      "type": "module",
+      "label": "Blutility"
+    },
+    {
+      "id": "GeometryScriptingCore",
+      "type": "module",
+      "label": "GeometryScriptingCore"
+    },
+    {
+      "id": "MovieSceneTracks",
+      "type": "module",
+      "label": "MovieSceneTracks"
+    },
+    {
+      "id": "Engine",
+      "type": "module",
+      "label": "Engine"
+    },
+    {
+      "id": "Chaos",
+      "type": "module",
+      "label": "Chaos"
+    },
+    {
+      "id": "CoveringAPIEntity",
+      "type": "module",
+      "label": "CoveringAPIEntity"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "EarthGroupIDFragment",
+      "target": "EarthExternalFragment",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_2",
+      "source": "EarthGroupIDFragment",
+      "target": "group_id",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_3",
+      "source": "EarthGroupIDFragment",
+      "target": "valid",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_4",
+      "source": "EarthGroupIDFragment",
+      "target": "validated",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_5",
+      "source": "EarthGroupIDFragment",
+      "target": "AesWorld",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_6",
+      "source": "EarthGroupIDFragment",
+      "target": "EarthPrefab",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_7",
+      "source": "SlateBrushImageType",
+      "target": "EnumBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_8",
+      "source": "SlateBrushImageType",
+      "target": "NO_IMAGE",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_9",
+      "source": "SlateBrushImageType",
+      "target": "FULL_COLOR",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_10",
+      "source": "SlateBrushImageType",
+      "target": "LINEAR",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_11",
+      "source": "SlateBrushImageType",
+      "target": "VECTOR",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_12",
+      "source": "SlateBrushImageType",
+      "target": "SlateCore",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_13",
+      "source": "LensFilePicker",
+      "target": "StructBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_14",
+      "source": "LensFilePicker",
+      "target": "use_default_lens_file",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_15",
+      "source": "LensFilePicker",
+      "target": "lens_file",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_16",
+      "source": "LensFilePicker",
+      "target": "CameraCalibrationCore",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_17",
+      "source": "LensFilePicker",
+      "target": "CameraCalibrationCore",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_18",
+      "source": "lens_file",
+      "target": "LensFile",
+      "label": "HAS_TYPE"
+    },
+    {
+      "id": "edge_19",
+      "source": "WdpCommonInput_OnPointerKeyReleased",
+      "target": "MulticastDelegateBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_20",
+      "source": "WdpCommonInput_OnPointerKeyReleased",
+      "target": "position",
+      "label": "HAS_PARAMETER"
+    },
+    {
+      "id": "edge_21",
+      "source": "WdpCommonInput_OnPointerKeyReleased",
+      "target": "WdpCamera",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_22",
+      "source": "WdpCommonInput_OnPointerKeyReleased",
+      "target": "WdpCamera",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_23",
+      "source": "AnimNode_Sync",
+      "target": "AnimNode_Base",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_24",
+      "source": "AnimNode_Sync",
+      "target": "group_name",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_25",
+      "source": "AnimNode_Sync",
+      "target": "group_role",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_26",
+      "source": "AnimNode_Sync",
+      "target": "source",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_27",
+      "source": "AnimNode_Sync",
+      "target": "AnimGraphRuntime",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_28",
+      "source": "RigUnit_MathQuaternionMakeRelative",
+      "target": "RigVMFunction_MathQuaternionMakeRelative",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_29",
+      "source": "RigUnit_MathQuaternionMakeRelative",
+      "target": "RigVMFunction_MathQuaternionMakeRelative",
+      "label": "RENAMED_TO"
+    },
+    {
+      "id": "edge_30",
+      "source": "ScrollBar",
+      "target": "Widget",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_31",
+      "source": "ScrollBar",
+      "target": "widget_style",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_32",
+      "source": "ScrollBar",
+      "target": "always_show_scrollbar",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_33",
+      "source": "ScrollBar",
+      "target": "always_show_scrollbar_track",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_34",
+      "source": "ScrollBar",
+      "target": "orientation",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_35",
+      "source": "ScrollBar",
+      "target": "thickness",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_36",
+      "source": "ScrollBar",
+      "target": "padding",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_37",
+      "source": "ScrollBar",
+      "target": "set_state",
+      "label": "HAS_METHOD"
+    },
+    {
+      "id": "edge_38",
+      "source": "ScrollBar",
+      "target": "UMG",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_39",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "RigVMFunction_SimBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_40",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "speed",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_41",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "duration",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_42",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "normalize",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_43",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "absolute",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_44",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "relative",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_45",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "flip_flop",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_46",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "even",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_47",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "RigVM",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_48",
+      "source": "RigVMFunction_TimeLoop",
+      "target": "RigVM",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_49",
+      "source": "ForEachActorIteratorSignature",
+      "target": "MulticastDelegateBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_50",
+      "source": "ForEachActorIteratorSignature",
+      "target": "actor",
+      "label": "HAS_PARAMETER"
+    },
+    {
+      "id": "edge_51",
+      "source": "ForEachActorIteratorSignature",
+      "target": "index",
+      "label": "HAS_PARAMETER"
+    },
+    {
+      "id": "edge_52",
+      "source": "ForEachActorIteratorSignature",
+      "target": "Blutility",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_53",
+      "source": "PCGGetPrimitiveSettings",
+      "target": "PCGDataFromActorSettings",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_54",
+      "source": "PCGGetPrimitiveSettings",
+      "target": "PCG",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_55",
+      "source": "PCGGetPrimitiveSettings",
+      "target": "PCG",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_56",
+      "source": "RigUnit_MathFloatConstHalfPi",
+      "target": "RigVMFunction_MathFloatConstHalfPi",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_57",
+      "source": "RigUnit_MathFloatConstHalfPi",
+      "target": "RigVMFunction_MathFloatConstHalfPi",
+      "label": "RENAMED_TO"
+    },
+    {
+      "id": "edge_58",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "EnumBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_59",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "FILTER_A_CUTOFF_FREQUENCY",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_60",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "FILTER_A_RESONANCE",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_61",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "FILTER_A_OUTPUT_VOLUME_DB",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_62",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "FILTER_B_CUTOFF_FREQUENCY",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_63",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "FILTER_B_RESONANCE",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_64",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "FILTER_B_OUTPUT_VOLUME_DB",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_65",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "FILTER_MIX",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_66",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "Synthesis",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_67",
+      "source": "SourceEffectMotionFilterModDestination",
+      "target": "Synthesis",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_68",
+      "source": "DistanceFieldUnits",
+      "target": "EnumBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_69",
+      "source": "DistanceFieldUnits",
+      "target": "NUMBER_OF_VOXELS",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_70",
+      "source": "DistanceFieldUnits",
+      "target": "DISTANCE",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_71",
+      "source": "DistanceFieldUnits",
+      "target": "GeometryScripting",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_72",
+      "source": "DistanceFieldUnits",
+      "target": "GeometryScriptingCore",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_73",
+      "source": "MovieSceneActorPredictionFailure",
+      "target": "MulticastDelegateBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_74",
+      "source": "MovieSceneActorPredictionFailure",
+      "target": "MovieSceneTracks",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_75",
+      "source": "RigUnit_MathColorMake",
+      "target": "RigVMFunction_MathColorMake",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_76",
+      "source": "RigUnit_MathColorMake",
+      "target": "RigVMFunction_MathColorMake",
+      "label": "RENAMED_TO"
+    },
+    {
+      "id": "edge_77",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "StructBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_78",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "motion_filter_topology",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_79",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "motion_filter_mix",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_80",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "filter_a_settings",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_81",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "filter_b_settings",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_82",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "modulation_mappings",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_83",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "dry_volume_db",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_84",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "Synthesis",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_85",
+      "source": "SourceEffectMotionFilterSettings",
+      "target": "Synthesis",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_86",
+      "source": "RigUnit_GetItemNameSpace",
+      "target": "RigUnit_RigModulesBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_87",
+      "source": "RigUnit_GetItemNameSpace",
+      "target": "item",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_88",
+      "source": "RigUnit_GetItemNameSpace",
+      "target": "has_name_space",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_89",
+      "source": "RigUnit_GetItemNameSpace",
+      "target": "name_space",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_90",
+      "source": "RigUnit_GetItemNameSpace",
+      "target": "ControlRig",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_91",
+      "source": "RigUnit_GetItemNameSpace",
+      "target": "ControlRig",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_92",
+      "source": "FloatSpringState",
+      "target": "StructBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_93",
+      "source": "FloatSpringState",
+      "target": "Engine",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_94",
+      "source": "FieldPositionType",
+      "target": "EnumBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_95",
+      "source": "FieldPositionType",
+      "target": "FIELD_POSITION_CENTER_OF_MASS",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_96",
+      "source": "FieldPositionType",
+      "target": "FIELD_POSITION_PIVOT_POINT",
+      "label": "HAS_ENUM_VALUE"
+    },
+    {
+      "id": "edge_97",
+      "source": "FieldPositionType",
+      "target": "Chaos",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_98",
+      "source": "PointCloudData",
+      "target": "StructBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_99",
+      "source": "PointCloudData",
+      "target": "x",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_100",
+      "source": "PointCloudData",
+      "target": "y",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_101",
+      "source": "PointCloudData",
+      "target": "z",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_102",
+      "source": "PointCloudData",
+      "target": "r",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_103",
+      "source": "PointCloudData",
+      "target": "strength",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_104",
+      "source": "PointCloudData",
+      "target": "CoveringAPI",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_105",
+      "source": "PointCloudData",
+      "target": "CoveringAPIEntity",
+      "label": "DEFINED_IN_MODULE"
+    },
+    {
+      "id": "edge_106",
+      "source": "MovementComp_Rotating",
+      "target": "RotatingMovementComponent",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_107",
+      "source": "MovementComp_Rotating",
+      "target": "RotatingMovementComponent",
+      "label": "RENAMED_TO"
+    },
+    {
+      "id": "edge_108",
+      "source": "AnimNode_ControlRig",
+      "target": "AnimNode_ControlRigBase",
+      "label": "INHERITS_FROM"
+    },
+    {
+      "id": "edge_109",
+      "source": "AnimNode_ControlRig",
+      "target": "alpha",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_110",
+      "source": "AnimNode_ControlRig",
+      "target": "alpha_bool_blend",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_111",
+      "source": "AnimNode_ControlRig",
+      "target": "alpha_bool_enabled",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_112",
+      "source": "AnimNode_ControlRig",
+      "target": "alpha_curve_name",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_113",
+      "source": "AnimNode_ControlRig",
+      "target": "alpha_input_type",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_114",
+      "source": "AnimNode_ControlRig",
+      "target": "control_rig_class",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_115",
+      "source": "AnimNode_ControlRig",
+      "target": "event_queue",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_116",
+      "source": "AnimNode_ControlRig",
+      "target": "lod_threshold",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_117",
+      "source": "AnimNode_ControlRig",
+      "target": "reset_input_pose_to_initial",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_118",
+      "source": "AnimNode_ControlRig",
+      "target": "set_ref_pose_from_skeleton",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_119",
+      "source": "AnimNode_ControlRig",
+      "target": "transfer_input_curves",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_120",
+      "source": "AnimNode_ControlRig",
+      "target": "transfer_input_pose",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_121",
+      "source": "AnimNode_ControlRig",
+      "target": "transfer_pose_in_global_space",
+      "label": "HAS_PROPERTY"
+    },
+    {
+      "id": "edge_122",
+      "source": "AnimNode_ControlRig",
+      "target": "ControlRig",
+      "label": "DEFINED_IN_PLUGIN"
+    },
+    {
+      "id": "edge_123",
+      "source": "AnimNode_ControlRig",
+      "target": "ControlRig",
+      "label": "DEFINED_IN_MODULE"
+    }
+  ],
+  "hyperedges": [],
+  "metadata": {
+    "source_files": [
+      "EarthGroupIDFragment Objects.md",
+      "SlateBrushImageType Objects.md",
+      "LensFilePicker Objects.md",
+      "WdpCommonInput__OnPointerKeyReleased Objects.md",
+      "AnimNode__Sync Objects.md",
+      "RigUnit__MathQuaternionMakeRelative Objects.md",
+      "ScrollBar Objects.md",
+      "RigVMFunction__TimeLoop Objects.md",
+      "ForEachActorIteratorSignature Objects.md",
+      "PCGGetPrimitiveSettings Objects.md",
+      "RigUnit__MathFloatConstHalfPi Objects.md",
+      "SourceEffectMotionFilterModDestination Objects.md",
+      "DistanceFieldUnits Objects.md",
+      "MovieSceneActorPredictionFailure Objects.md",
+      "RigUnit__MathColorMake Objects.md",
+      "SourceEffectMotionFilterSettings Objects.md",
+      "RigUnit__GetItemNameSpace Objects.md",
+      "FloatSpringState Objects.md",
+      "FieldPositionType Objects.md",
+      "PointCloudData Objects.md",
+      "MovementComp__Rotating Objects.md",
+      "AnimNode_ControlRig Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_nodes": 172,
+    "total_edges": 123,
+    "total_hyperedges": 0,
+    "chunk_id": 614
+  }
+}

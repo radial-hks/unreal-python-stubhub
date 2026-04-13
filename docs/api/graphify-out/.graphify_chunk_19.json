@@ -1,0 +1,719 @@
+{
+  "nodes": [
+    {
+      "id": "dataflowtype_enum",
+      "label": "DataflowType",
+      "file_type": "document",
+      "source_file": "DataflowType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorroaddirectionactor_actor",
+      "label": "AesEditorRoadDirectionActor",
+      "file_type": "document",
+      "source_file": "AesEditorRoadDirectionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphprojectsettings_settings",
+      "label": "MovieGraphProjectSettings",
+      "file_type": "document",
+      "source_file": "MovieGraphProjectSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldconditionquerydefinition_struct",
+      "label": "WorldConditionQueryDefinition",
+      "file_type": "document",
+      "source_file": "WorldConditionQueryDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onwaterinfotexturecreated_delegate",
+      "label": "OnWaterInfoTextureCreated",
+      "file_type": "document",
+      "source_file": "OnWaterInfoTextureCreated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationmediaviewport_struct",
+      "label": "DisplayClusterConfigurationMediaViewport",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaViewport Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsasset_object",
+      "label": "PhysicsAsset",
+      "file_type": "document",
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnodegraphtype_enum",
+      "label": "OptimusNodeGraphType",
+      "file_type": "document",
+      "source_file": "OptimusNodeGraphType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abcmaterialsettings_struct",
+      "label": "AbcMaterialSettings",
+      "file_type": "document",
+      "source_file": "AbcMaterialSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify_resetdynamics_notify",
+      "label": "AnimNotify_ResetDynamics",
+      "file_type": "document",
+      "source_file": "AnimNotify__ResetDynamics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cinecameracomponent_component",
+      "label": "CineCameraComponent",
+      "file_type": "document",
+      "source_file": "CineCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundclassadjuster_struct",
+      "label": "SoundClassAdjuster",
+      "file_type": "document",
+      "source_file": "SoundClassAdjuster Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinealignmenttype_enum",
+      "label": "SplineAlignmentType",
+      "file_type": "document",
+      "source_file": "SplineAlignmentType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdsolverjointconstraintdatacomponent_component",
+      "label": "ChaosVDSolverJointConstraintDataComponent",
+      "file_type": "document",
+      "source_file": "ChaosVDSolverJointConstraintDataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystemcomponent_component",
+      "label": "ParticleSystemComponent",
+      "file_type": "document",
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modifycurveapplymode_enum",
+      "label": "ModifyCurveApplyMode",
+      "file_type": "document",
+      "source_file": "ModifyCurveApplyMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffectcurvefactory_factory",
+      "label": "HapticFeedbackEffectCurveFactory",
+      "file_type": "document",
+      "source_file": "HapticFeedbackEffectCurveFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptpolyoffsetjointype_enum",
+      "label": "GeometryScriptPolyOffsetJoinType",
+      "file_type": "document",
+      "source_file": "GeometryScriptPolyOffsetJoinType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "box2f_struct",
+      "label": "Box2f",
+      "file_type": "document",
+      "source_file": "Box2f Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "instancedpropertybag_struct",
+      "label": "InstancedPropertyBag",
+      "file_type": "document",
+      "source_file": "InstancedPropertyBag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subjectframehandle_struct",
+      "label": "SubjectFrameHandle",
+      "file_type": "document",
+      "source_file": "SubjectFrameHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudfactory_factory",
+      "label": "LidarPointCloudFactory",
+      "file_type": "document",
+      "source_file": "LidarPointCloudFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmesh_concept",
+      "label": "SkeletalMesh",
+      "file_type": "document",
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintinstance_concept",
+      "label": "ConstraintInstance",
+      "file_type": "document",
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ragdoll_physics_concept",
+      "label": "Ragdoll Physics System",
+      "file_type": "document",
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerafilmbacksettings_struct",
+      "label": "CameraFilmbackSettings",
+      "file_type": "document",
+      "source_file": "CineCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameralenssettings_struct",
+      "label": "CameraLensSettings",
+      "file_type": "document",
+      "source_file": "CineCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerafocussettings_struct",
+      "label": "CameraFocusSettings",
+      "file_type": "document",
+      "source_file": "CineCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystem_concept",
+      "label": "ParticleSystem",
+      "file_type": "document",
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "beam_emitter_system_concept",
+      "label": "Beam Emitter System",
+      "file_type": "document",
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "trail_emitter_system_concept",
+      "label": "Trail Emitter System",
+      "file_type": "document",
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstance_concept",
+      "label": "MaterialInstance",
+      "file_type": "document",
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldconditioneditable_concept",
+      "label": "WorldConditionEditable",
+      "file_type": "document",
+      "source_file": "WorldConditionQueryDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldconditionquerystate_concept",
+      "label": "WorldConditionQueryState",
+      "file_type": "document",
+      "source_file": "WorldConditionQueryDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "media_concept",
+      "label": "Media System",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaViewport Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "alembic_import_system_concept",
+      "label": "Alembic Import System",
+      "file_type": "document",
+      "source_file": "AbcMaterialSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "faceset_material_mapping_concept",
+      "label": "FaceSet Material Mapping",
+      "file_type": "document",
+      "source_file": "AbcMaterialSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "alembic_faceset_concept",
+      "label": "Alembic FaceSet",
+      "file_type": "document",
+      "source_file": "AbcMaterialSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "physicsasset_object",
+      "target": "skeletalmesh_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicsasset_object",
+      "target": "ragdoll_physics_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicsasset_object",
+      "target": "constraintinstance_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmesh_concept",
+      "target": "ragdoll_physics_concept",
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintinstance_concept",
+      "target": "ragdoll_physics_concept",
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PhysicsAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cinecameracomponent_component",
+      "target": "camerafilmbacksettings_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CineCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cinecameracomponent_component",
+      "target": "cameralenssettings_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CineCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cinecameracomponent_component",
+      "target": "camerafocussettings_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CineCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemcomponent_component",
+      "target": "particlesystem_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemcomponent_component",
+      "target": "beam_emitter_system_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemcomponent_component",
+      "target": "trail_emitter_system_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemcomponent_component",
+      "target": "materialinstance_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldconditionquerydefinition_struct",
+      "target": "worldconditioneditable_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldConditionQueryDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldconditionquerydefinition_struct",
+      "target": "worldconditionquerystate_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldConditionQueryDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationmediaviewport_struct",
+      "target": "media_concept",
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DisplayClusterConfigurationMediaViewport Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abcmaterialsettings_struct",
+      "target": "alembic_import_system_concept",
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AbcMaterialSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abcmaterialsettings_struct",
+      "target": "faceset_material_mapping_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbcMaterialSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "faceset_material_mapping_concept",
+      "target": "alembic_faceset_concept",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AbcMaterialSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "alembic_faceset_concept",
+      "target": "alembic_import_system_concept",
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AbcMaterialSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackeffectcurvefactory_factory",
+      "target": "lidarpointcloudfactory_factory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "HapticFeedbackEffectCurveFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataflowtype_enum",
+      "target": "optimusnodegraphtype_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DataflowType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splinealignmenttype_enum",
+      "target": "geometryscriptpolyoffsetjointype_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "SplineAlignmentType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "beam_emitter_system_concept",
+      "target": "particlesystem_concept",
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "trail_emitter_system_concept",
+      "target": "particlesystem_concept",
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ParticleSystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_resetdynamics_notify",
+      "target": "ragdoll_physics_concept",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNotify__ResetDynamics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "physics_asset_constraint_system",
+      "label": "Physics Asset Constraint System",
+      "nodes": [
+        "physicsasset_object",
+        "constraintinstance_concept",
+        "ragdoll_physics_concept",
+        "skeletalmesh_concept"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PhysicsAsset Objects.md"
+    },
+    {
+      "id": "cinematic_camera_components",
+      "label": "Cinematic Camera Component System",
+      "nodes": [
+        "cinecameracomponent_component",
+        "camerafilmbacksettings_struct",
+        "cameralenssettings_struct",
+        "camerafocussettings_struct"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "CineCameraComponent Objects.md"
+    },
+    {
+      "id": "particle_system_emitter_types",
+      "label": "Particle System Emitter Types",
+      "nodes": [
+        "particlesystemcomponent_component",
+        "beam_emitter_system_concept",
+        "trail_emitter_system_concept"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

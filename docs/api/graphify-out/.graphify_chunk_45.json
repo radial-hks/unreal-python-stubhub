@@ -1,0 +1,912 @@
+{
+  "nodes": [
+    {
+      "id": "posesearchfutureproperties",
+      "label": "PoseSearchFutureProperties",
+      "file_type": "document",
+      "source_file": "PoseSearchFutureProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "medialibrary",
+      "label": "MediaLibrary",
+      "file_type": "document",
+      "source_file": "MediaLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_projecttransformtonewparent",
+      "label": "RigUnit_ProjectTransformToNewParent",
+      "file_type": "document",
+      "source_file": "RigUnit__ProjectTransformToNewParent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_applyrootmotionmovetoforce",
+      "label": "AbilityTask_ApplyRootMotionMoveToForce",
+      "file_type": "document",
+      "source_file": "AbilityTask__ApplyRootMotionMoveToForce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotentrancelocationrequest",
+      "label": "SmartObjectSlotEntranceLocationRequest",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotEntranceLocationRequest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionpixeldepth",
+      "label": "DMMaterialStageExpressionPixelDepth",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionPixelDepth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "previewablewidgetvariant",
+      "label": "PreviewableWidgetVariant",
+      "file_type": "document",
+      "source_file": "PreviewableWidgetVariant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexposedtextureproperty",
+      "label": "MaterialExposedTextureProperty",
+      "file_type": "document",
+      "source_file": "MaterialExposedTextureProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distortionpointinfo",
+      "label": "DistortionPointInfo",
+      "file_type": "document",
+      "source_file": "DistortionPointInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceanimsequencelinkitem",
+      "label": "LevelSequenceAnimSequenceLinkItem",
+      "file_type": "document",
+      "source_file": "LevelSequenceAnimSequenceLinkItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameraanimationeasingtype",
+      "label": "CameraAnimationEasingType",
+      "file_type": "document",
+      "source_file": "CameraAnimationEasingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onrequestcontentsucceeded",
+      "label": "OnRequestContentSucceeded",
+      "file_type": "document",
+      "source_file": "OnRequestContentSucceeded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spaceheatmapentity",
+      "label": "SpaceHeatMapEntity",
+      "file_type": "document",
+      "source_file": "SpaceHeatMapEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posedrivertarget",
+      "label": "PoseDriverTarget",
+      "file_type": "document",
+      "source_file": "PoseDriverTarget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animpose",
+      "label": "AnimPose",
+      "file_type": "document",
+      "source_file": "AnimPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitymouseentereventargs",
+      "label": "EntityMouseEnterEventArgs",
+      "file_type": "document",
+      "source_file": "EntityMouseEnterEventArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintsub",
+      "label": "RigUnit_MathIntSub",
+      "file_type": "document",
+      "source_file": "RigUnit_MathIntSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayerinterfacefactory",
+      "label": "AnimLayerInterfaceFactory",
+      "file_type": "document",
+      "source_file": "AnimLayerInterfaceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphvariablenode",
+      "label": "MovieGraphVariableNode",
+      "file_type": "document",
+      "source_file": "MovieGraphVariableNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugtransformarraymutablenospace",
+      "label": "RigVMFunction_DebugTransformArrayMutableNoSpace",
+      "file_type": "document",
+      "source_file": "RigVMFunction_DebugTransformArrayMutableNoSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_posesearchhistorycollector",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmdefaultmaterialpropertyslotvaluetype",
+      "label": "DMDefaultMaterialPropertySlotValueType",
+      "file_type": "document",
+      "source_file": "DMDefaultMaterialPropertySlotValueType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "PoseSearchFutureProperties Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfuntionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "MediaLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit__ProjectTransformToNewParent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_applyrootmotion_base",
+      "label": "AbilityTask_ApplyRootMotion_Base",
+      "file_type": "document",
+      "source_file": "AbilityTask__ApplyRootMotionMoveToForce Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpression",
+      "label": "DMMaterialStageExpression",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionPixelDepth Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "MaterialExposedTextureProperty Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datatablepointinfobase",
+      "label": "DataTablePointInfoBase",
+      "file_type": "document",
+      "source_file": "DistortionPointInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "OnRequestContentSucceeded Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpactorentity",
+      "label": "WdpActorEntity",
+      "file_type": "document",
+      "source_file": "SpaceHeatMapEntity Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintsub",
+      "label": "RigVMFunction_MathIntSub",
+      "file_type": "document",
+      "source_file": "RigUnit_MathIntSub Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animblueprintfactory",
+      "label": "AnimBlueprintFactory",
+      "file_type": "document",
+      "source_file": "AnimLayerInterfaceFactory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphnode",
+      "label": "MovieGraphNode",
+      "file_type": "document",
+      "source_file": "MovieGraphVariableNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugbasemutable",
+      "label": "RigVMFunction_DebugBaseMutable",
+      "file_type": "document",
+      "source_file": "RigVMFunction_DebugTransformArrayMutableNoSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_posesearchhistorycollector_base",
+      "label": "AnimGraphNode_PoseSearchHistoryCollector_Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit__ProjectTransformToNewParent Objects.md",
+      "source_location": "line 17-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "RigUnit__ProjectTransformToNewParent Objects.md",
+      "source_location": "line 25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applyrootmotionmovetoforcedelegate",
+      "label": "ApplyRootMotionMoveToForceDelegate",
+      "file_type": "document",
+      "source_file": "AbilityTask__ApplyRootMotionMoveToForce Objects.md",
+      "source_location": "line 17, 24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediacapturedevice",
+      "label": "MediaCaptureDevice",
+      "file_type": "document",
+      "source_file": "MediaLibrary Objects.md",
+      "source_location": "line 22, 47, 72",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotEntranceLocationRequest Objects.md",
+      "source_location": "line 37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationdata",
+      "label": "NavigationData",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotEntranceLocationRequest Objects.md",
+      "source_location": "line 31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animpose",
+      "label": "AnimPose",
+      "file_type": "document",
+      "source_file": "AnimPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletal_mesh",
+      "label": "SkeletalMesh",
+      "file_type": "document",
+      "source_file": "AnimPose Objects.md",
+      "source_location": "line 247, 255",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animblueprint",
+      "label": "AnimBlueprint",
+      "file_type": "document",
+      "source_file": "AnimPose Objects.md",
+      "source_location": "line 248, 256",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "posesearchfutureproperties",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFutureProperties Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "medialibrary",
+      "target": "blueprintfuntionlibrary",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_projecttransformtonewparent",
+      "target": "rigunit",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ProjectTransformToNewParent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_applyrootmotionmovetoforce",
+      "target": "abilitytask_applyrootmotion_base",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__ApplyRootMotionMoveToForce Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotentrancelocationrequest",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotEntranceLocationRequest Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionpixeldepth",
+      "target": "dmmaterialstageexpression",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionPixelDepth Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "previewablewidgetvariant",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PreviewableWidgetVariant Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexposedtextureproperty",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExposedTextureProperty Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "distortionpointinfo",
+      "target": "datatablepointinfobase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DistortionPointInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceanimsequencelinkitem",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceAnimSequenceLinkItem Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cameraanimationeasingtype",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraAnimationEasingType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "onrequestcontentsucceeded",
+      "target": "delegatebase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnRequestContentSucceeded Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "spaceheatmapentity",
+      "target": "wdpactorentity",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpaceHeatMapEntity Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "posedrivertarget",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseDriverTarget Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animpose",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPose Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "entitymouseentereventargs",
+      "target": "eventargsbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityMouseEnterEventArgs Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintsub",
+      "target": "rigvmfunction_mathintsub",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntSub Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animlayerinterfacefactory",
+      "target": "animblueprintfactory",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimLayerInterfaceFactory Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphvariablenode",
+      "target": "moviegraphnode",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphVariableNode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debugtransformarraymutablenospace",
+      "target": "rigvmfunction_debugbasemutable",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_DebugTransformArrayMutableNoSpace Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_posesearchhistorycollector",
+      "target": "animgraphnode_posesearchhistorycollector_base",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dmdefaultmaterialpropertyslotvaluetype",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMDefaultMaterialPropertySlotValueType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_projecttransformtonewparent",
+      "target": "rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ProjectTransformToNewParent Objects.md",
+      "source_location": "line 17-24",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_projecttransformtonewparent",
+      "target": "transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ProjectTransformToNewParent Objects.md",
+      "source_location": "line 25",
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_applyrootmotionmovetoforce",
+      "target": "applyrootmotionmovetoforcedelegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__ApplyRootMotionMoveToForce Objects.md",
+      "source_location": "line 17, 24",
+      "weight": 1.0
+    },
+    {
+      "source": "medialibrary",
+      "target": "mediacapturedevice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaLibrary Objects.md",
+      "source_location": "line 22, 47, 72",
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotentrancelocationrequest",
+      "target": "actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotEntranceLocationRequest Objects.md",
+      "source_location": "line 37",
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotentrancelocationrequest",
+      "target": "navigationdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotEntranceLocationRequest Objects.md",
+      "source_location": "line 31",
+      "weight": 1.0
+    },
+    {
+      "source": "animpose",
+      "target": "skeletal_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPose Objects.md",
+      "source_location": "line 247, 255",
+      "weight": 1.0
+    },
+    {
+      "source": "animpose",
+      "target": "animblueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPose Objects.md",
+      "source_location": "line 248, 256",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintsub",
+      "target": "rigvmfunction_mathintsub",
+      "relation": "deprecated_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntSub Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "animlayerinterfacefactory",
+      "target": "skeletal_mesh",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimLayerInterfaceFactory Objects.md",
+      "source_location": "line 25",
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfutureproperties",
+      "target": "animpose",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PoseSearchFutureProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posedrivertarget",
+      "target": "animpose",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PoseDriverTarget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_posesearchhistorycollector",
+      "target": "posesearchfutureproperties",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode_PoseSearchHistoryCollector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionpixeldepth",
+      "target": "dmdefaultmaterialpropertyslotvaluetype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DMMaterialStageExpressionPixelDepth Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debugtransformarraymutablenospace",
+      "target": "transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_DebugTransformArrayMutableNoSpace Objects.md",
+      "source_location": "line 35",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debugtransformarraymutablenospace",
+      "target": "rigunit_projecttransformtonewparent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction_DebugTransformArrayMutableNoSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_system",
+      "label": "Animation and Pose System",
+      "nodes": ["animpose", "posedrivertarget", "posesearchfutureproperties", "animgraphnode_posesearchhistorycollector", "levelsequenceanimsequencelinkitem"],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimPose Objects.md"
+    },
+    {
+      "id": "rig_system",
+      "label": "Rig and Control System",
+      "nodes": ["rigunit_projecttransformtonewparent", "rigvmfunction_debugtransformarraymutablenospace", "rigunit_mathintsub"],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ProjectTransformToNewParent Objects.md"
+    },
+    {
+      "id": "material_system",
+      "label": "Material and Rendering System",
+      "nodes": ["dmmaterialstageexpressionpixeldepth", "dmdefaultmaterialpropertyslotvaluetype", "materialexposedtextureproperty"],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DMMaterialStageExpressionPixelDepth Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

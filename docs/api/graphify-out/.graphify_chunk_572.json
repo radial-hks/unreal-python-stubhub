@@ -1,0 +1,1314 @@
+{
+  "nodes": [
+    {
+      "id": "OnHoveredWidgetChanged",
+      "type": "class",
+      "label": "OnHoveredWidgetChanged",
+      "description": "TODO Come up with a better way to let people forward a lot of keyboard input without a bunch of glue"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "UMG",
+      "type": "module",
+      "label": "UMG"
+    },
+    {
+      "id": "WidgetInteractionComponent.h",
+      "type": "file",
+      "label": "WidgetInteractionComponent.h"
+    },
+    {
+      "id": "EarthActionManager",
+      "type": "class",
+      "label": "EarthActionManager",
+      "description": "Earth Action Manager"
+    },
+    {
+      "id": "WorldSubsystem",
+      "type": "class",
+      "label": "WorldSubsystem"
+    },
+    {
+      "id": "AesWorld",
+      "type": "plugin",
+      "label": "AesWorld"
+    },
+    {
+      "id": "EarthInteraction",
+      "type": "module",
+      "label": "EarthInteraction"
+    },
+    {
+      "id": "EarthActionManager.h",
+      "type": "file",
+      "label": "EarthActionManager.h"
+    },
+    {
+      "id": "EarthActionManager.get",
+      "type": "method",
+      "label": "get",
+      "description": "Get"
+    },
+    {
+      "id": "RigUnit_MathDoubleAsin",
+      "type": "class",
+      "label": "RigUnit_MathDoubleAsin",
+      "deprecated": true,
+      "deprecation_message": "'RigUnit_MathDoubleAsin' was renamed to 'RigVMFunction_MathDoubleAsin'"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleAsin",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleAsin"
+    },
+    {
+      "id": "MultiLineEditableTextBox_OnMultiLineEditableTextBoxChangedEvent",
+      "type": "class",
+      "label": "MultiLineEditableTextBox_OnMultiLineEditableTextBoxChangedEvent",
+      "description": "On Multi Line Editable Text Box Changed Event Delegate Signature"
+    },
+    {
+      "id": "MultiLineEditableTextBox.h",
+      "type": "file",
+      "label": "MultiLineEditableTextBox.h"
+    },
+    {
+      "id": "SoundNodeSwitch",
+      "type": "class",
+      "label": "SoundNodeSwitch",
+      "description": "Selects a child node based on the value of a integer parameter"
+    },
+    {
+      "id": "SoundNode",
+      "type": "class",
+      "label": "SoundNode"
+    },
+    {
+      "id": "Engine",
+      "type": "module",
+      "label": "Engine"
+    },
+    {
+      "id": "SoundNodeSwitch.h",
+      "type": "file",
+      "label": "SoundNodeSwitch.h"
+    },
+    {
+      "id": "SoundNodeSwitch.child_nodes",
+      "type": "property",
+      "label": "child_nodes",
+      "data_type": "Array[SoundNode]"
+    },
+    {
+      "id": "SoundNodeSwitch.int_parameter_name",
+      "type": "property",
+      "label": "int_parameter_name",
+      "data_type": "Name",
+      "description": "The name of the integer parameter to use to determine which branch we should take"
+    },
+    {
+      "id": "RasterAPI",
+      "type": "class",
+      "label": "RasterAPI",
+      "description": "Raster API"
+    },
+    {
+      "id": "ApiClassBase",
+      "type": "class",
+      "label": "ApiClassBase"
+    },
+    {
+      "id": "CoveringAPI",
+      "type": "plugin",
+      "label": "CoveringAPI"
+    },
+    {
+      "id": "CoveringAPIDefine",
+      "type": "module",
+      "label": "CoveringAPIDefine"
+    },
+    {
+      "id": "RasterAPI.h",
+      "type": "file",
+      "label": "RasterAPI.h"
+    },
+    {
+      "id": "AvaTestStaticMeshActor",
+      "type": "class",
+      "label": "AvaTestStaticMeshActor",
+      "description": "Ava Test Static Mesh Actor"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor"
+    },
+    {
+      "id": "Avalanche",
+      "type": "plugin",
+      "label": "Avalanche"
+    },
+    {
+      "id": "AvaTestStaticMeshActor.h",
+      "type": "file",
+      "label": "AvaTestStaticMeshActor.h"
+    },
+    {
+      "id": "AvaTestStaticMeshActor.static_mesh_component",
+      "type": "property",
+      "label": "static_mesh_component",
+      "data_type": "StaticMeshComponent"
+    },
+    {
+      "id": "PropertyEditorTestUnderscores",
+      "type": "enum",
+      "label": "PropertyEditorTestUnderscores",
+      "description": "EProperty Editor Test Underscores"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "UnrealEd",
+      "type": "module",
+      "label": "UnrealEd"
+    },
+    {
+      "id": "PropertyEditorTestObject.h",
+      "type": "file",
+      "label": "PropertyEditorTestObject.h"
+    },
+    {
+      "id": "PropertyEditorTestUnderscores.ONE",
+      "type": "enum_value",
+      "label": "ONE",
+      "value": 0
+    },
+    {
+      "id": "PropertyEditorTestUnderscores.TWO",
+      "type": "enum_value",
+      "label": "TWO",
+      "value": 1
+    },
+    {
+      "id": "PropertyEditorTestUnderscores.THREE",
+      "type": "enum_value",
+      "label": "THREE",
+      "value": 2
+    },
+    {
+      "id": "PropertyEditorTestUnderscores.NOT_UNDERSCORE",
+      "type": "enum_value",
+      "label": "NOT_UNDERSCORE",
+      "value": 3
+    },
+    {
+      "id": "OptimusNode_SetResource",
+      "type": "class",
+      "label": "OptimusNode_SetResource",
+      "description": "Optimus Node Set Resource"
+    },
+    {
+      "id": "OptimusNode_ResourceAccessorBase",
+      "type": "class",
+      "label": "OptimusNode_ResourceAccessorBase"
+    },
+    {
+      "id": "DeformerGraph",
+      "type": "plugin",
+      "label": "DeformerGraph"
+    },
+    {
+      "id": "OptimusCore",
+      "type": "module",
+      "label": "OptimusCore"
+    },
+    {
+      "id": "OptimusNode_SetResource.h",
+      "type": "file",
+      "label": "OptimusNode_SetResource.h"
+    },
+    {
+      "id": "OptimusNode_SetResource.write_type",
+      "type": "property",
+      "label": "write_type",
+      "data_type": "OptimusBufferWriteType",
+      "description": "Logical operation when writing to the resource",
+      "deprecated": true
+    },
+    {
+      "id": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "type": "enum",
+      "label": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "description": "EDisplay Cluster Configuration Viewport Lightcard OCIOMode"
+    },
+    {
+      "id": "nDisplay",
+      "type": "plugin",
+      "label": "nDisplay"
+    },
+    {
+      "id": "DisplayClusterConfiguration",
+      "type": "module",
+      "label": "DisplayClusterConfiguration"
+    },
+    {
+      "id": "DisplayClusterConfigurationTypes_Enums.h",
+      "type": "file",
+      "label": "DisplayClusterConfigurationTypes_Enums.h"
+    },
+    {
+      "id": "DisplayClusterConfigurationViewportLightcardOCIOMode.N_DISPLAY",
+      "type": "enum_value",
+      "label": "N_DISPLAY",
+      "value": 0,
+      "description": "Use nDisplay Viewport OCIO"
+    },
+    {
+      "id": "DisplayClusterConfigurationViewportLightcardOCIOMode.CUSTOM",
+      "type": "enum_value",
+      "label": "CUSTOM",
+      "value": 1,
+      "description": "Use Custom Light Cards OCIO"
+    },
+    {
+      "id": "DisplayClusterConfigurationViewportLightcardOCIOMode.NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "value": 2,
+      "description": "None"
+    },
+    {
+      "id": "RigUnit_EndsWith",
+      "type": "class",
+      "label": "RigUnit_EndsWith",
+      "deprecated": true,
+      "deprecation_message": "'RigUnit_EndsWith' was renamed to 'RigVMFunction_EndsWith'"
+    },
+    {
+      "id": "RigVMFunction_EndsWith",
+      "type": "class",
+      "label": "RigVMFunction_EndsWith"
+    },
+    {
+      "id": "LevelSequenceDirectorGeneratedClass",
+      "type": "class",
+      "label": "LevelSequenceDirectorGeneratedClass",
+      "deprecated": true,
+      "deprecation_message": "'LevelSequenceDirectorGeneratedClass' was renamed to 'BlueprintGeneratedClass'"
+    },
+    {
+      "id": "BlueprintGeneratedClass",
+      "type": "class",
+      "label": "BlueprintGeneratedClass"
+    },
+    {
+      "id": "RigUnit__MathBoolAnd",
+      "type": "class",
+      "label": "RigUnit_MathBoolAnd",
+      "deprecated": true,
+      "deprecation_message": "'RigUnit_MathBoolAnd' was renamed to 'RigVMFunction_MathBoolAnd'"
+    },
+    {
+      "id": "RigVMFunction_MathBoolAnd",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolAnd"
+    },
+    {
+      "id": "BlendSpacePlayerReference",
+      "type": "class",
+      "label": "BlendSpacePlayerReference",
+      "description": "Blend Space Player Reference"
+    },
+    {
+      "id": "AnimNodeReference",
+      "type": "class",
+      "label": "AnimNodeReference"
+    },
+    {
+      "id": "AnimGraphRuntime",
+      "type": "module",
+      "label": "AnimGraphRuntime"
+    },
+    {
+      "id": "BlendSpacePlayerLibrary.h",
+      "type": "file",
+      "label": "BlendSpacePlayerLibrary.h"
+    },
+    {
+      "id": "align_translation_all",
+      "type": "class",
+      "label": "align_translation_all",
+      "description": "Custom Tool Menu Entry for RigControlElement Translation alignment"
+    },
+    {
+      "id": "ToolMenuEntryScript",
+      "type": "class",
+      "label": "ToolMenuEntryScript"
+    },
+    {
+      "id": "CesiumSunSky__C",
+      "type": "class",
+      "label": "CesiumSunSky_C",
+      "deprecated": true,
+      "deprecation_message": "'CesiumSunSky_C' was renamed to 'CesiumSunSky'"
+    },
+    {
+      "id": "CesiumSunSky",
+      "type": "class",
+      "label": "CesiumSunSky"
+    },
+    {
+      "id": "DisplayClusterConfigurationMasterNodePorts",
+      "type": "class",
+      "label": "DisplayClusterConfigurationMasterNodePorts",
+      "deprecated": true,
+      "deprecation_message": "'DisplayClusterConfigurationMasterNodePorts' was renamed to 'DisplayClusterConfigurationPrimaryNodePorts'"
+    },
+    {
+      "id": "DisplayClusterConfigurationPrimaryNodePorts",
+      "type": "class",
+      "label": "DisplayClusterConfigurationPrimaryNodePorts"
+    },
+    {
+      "id": "PCGAttributeFilteringRangeSettings",
+      "type": "class",
+      "label": "PCGAttributeFilteringRangeSettings",
+      "description": "Attribute filter on range that allows to do 'A op B' type filtering"
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "label": "PCGSettings"
+    },
+    {
+      "id": "PCG",
+      "type": "plugin",
+      "label": "PCG"
+    },
+    {
+      "id": "PCGAttributeFilter.h",
+      "type": "file",
+      "label": "PCGAttributeFilter.h"
+    },
+    {
+      "id": "PCGAttributeFilteringRangeSettings.target_attribute",
+      "type": "property",
+      "label": "target_attribute",
+      "data_type": "PCGAttributePropertyInputSelector",
+      "description": "Target property/attribute related properties"
+    },
+    {
+      "id": "PCGAttributeFilteringRangeSettings.min_threshold",
+      "type": "property",
+      "label": "min_threshold",
+      "data_type": "PCGAttributeFilterThresholdSettings",
+      "description": "Threshold property/attribute/constant related properties"
+    },
+    {
+      "id": "PCGAttributeFilteringRangeSettings.max_threshold",
+      "type": "property",
+      "label": "max_threshold",
+      "data_type": "PCGAttributeFilterThresholdSettings"
+    },
+    {
+      "id": "PCGAttributeFilteringRangeSettings.warn_on_data_missing_attribute",
+      "type": "property",
+      "label": "warn_on_data_missing_attribute",
+      "data_type": "bool",
+      "description": "Controls whether the node will emit a warning when the input data or the filter data doesn't have the attribute to filter on"
+    },
+    {
+      "id": "EarthZoneShapes",
+      "type": "struct",
+      "label": "EarthZoneShapes",
+      "description": "EarthZoneShapes数据"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "EarthPrefab",
+      "type": "module",
+      "label": "EarthPrefab"
+    },
+    {
+      "id": "EarthZoneShapes.h",
+      "type": "file",
+      "label": "EarthZoneShapes.h"
+    },
+    {
+      "id": "EarthZoneShapes.lane_profile",
+      "type": "property",
+      "label": "lane_profile",
+      "data_type": "ZoneLaneProfileRef",
+      "description": "Common lane template for whole shape"
+    },
+    {
+      "id": "EarthZoneShapes.reverse_lane_profile",
+      "type": "property",
+      "label": "reverse_lane_profile",
+      "data_type": "bool",
+      "description": "True if lane profile should be reversed"
+    },
+    {
+      "id": "EarthZoneShapes.points",
+      "type": "property",
+      "label": "points",
+      "data_type": "Array[ZoneShapePoint]",
+      "description": "Shape points"
+    },
+    {
+      "id": "EarthZoneShapes.shape_type",
+      "type": "property",
+      "label": "shape_type",
+      "data_type": "FZoneShapeType",
+      "description": "Shape type, spline or polygon"
+    },
+    {
+      "id": "EarthZoneShapes.polygon_routing_type",
+      "type": "property",
+      "label": "polygon_routing_type",
+      "data_type": "ZoneShapePolygonRoutingType",
+      "description": "Polygon shape routing type"
+    },
+    {
+      "id": "EarthZoneShapes.tags",
+      "type": "property",
+      "label": "tags",
+      "data_type": "ZoneGraphTagMask",
+      "description": "Zone tags, the lanes inherit zone tags"
+    },
+    {
+      "id": "TemplateMapInfoOverride",
+      "type": "struct",
+      "label": "TemplateMapInfoOverride",
+      "description": "Used by new level dialog"
+    },
+    {
+      "id": "EngineSettings",
+      "type": "module",
+      "label": "EngineSettings"
+    },
+    {
+      "id": "GameMapsSettings.h",
+      "type": "file",
+      "label": "GameMapsSettings.h"
+    },
+    {
+      "id": "TemplateMapInfoOverride.display_name",
+      "type": "property",
+      "label": "display_name",
+      "data_type": "Text",
+      "description": "The display name of the map template in the level dialog. If this is empty the thumbnail name will be used"
+    },
+    {
+      "id": "TemplateMapInfoOverride.map",
+      "type": "property",
+      "label": "map",
+      "data_type": "SoftObjectPath",
+      "description": "The path to the template map"
+    },
+    {
+      "id": "TemplateMapInfoOverride.thumbnail",
+      "type": "property",
+      "label": "thumbnail",
+      "data_type": "SoftObjectPath",
+      "description": "The thumbnail to display in the new level dialog"
+    },
+    {
+      "id": "StartMiniMapParams",
+      "type": "class",
+      "label": "StartMiniMapParams",
+      "description": "Start Mini Map Params"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "MiniMapAPIParams.h",
+      "type": "file",
+      "label": "MiniMapAPIParams.h"
+    },
+    {
+      "id": "StartMiniMapParams.type",
+      "type": "property",
+      "label": "type",
+      "data_type": "str"
+    },
+    {
+      "id": "StartMiniMapParams.source",
+      "type": "property",
+      "label": "source",
+      "data_type": "MiniMapSource"
+    },
+    {
+      "id": "StartMiniMapParams.mapping_anchors",
+      "type": "property",
+      "label": "mapping_anchors",
+      "data_type": "Array[Vector2D]"
+    },
+    {
+      "id": "StartMiniMapParams.display",
+      "type": "property",
+      "label": "display",
+      "data_type": "MiniMapDisplay"
+    },
+    {
+      "id": "OnMoveAlongPathProcessEventArgs",
+      "type": "class",
+      "label": "OnMoveAlongPathProcessEventArgs",
+      "description": "On Move Along Path Process Event Args"
+    },
+    {
+      "id": "EventArgsBase",
+      "type": "class",
+      "label": "EventArgsBase"
+    },
+    {
+      "id": "CoveringBoundAPI.h",
+      "type": "file",
+      "label": "CoveringBoundAPI.h"
+    },
+    {
+      "id": "OnMoveAlongPathProcessEventArgs.move_along_eid",
+      "type": "property",
+      "label": "move_along_eid",
+      "data_type": "str"
+    },
+    {
+      "id": "OnMoveAlongPathProcessEventArgs.path_eid",
+      "type": "property",
+      "label": "path_eid",
+      "data_type": "str"
+    },
+    {
+      "id": "OnMoveAlongPathProcessEventArgs.move_entity_eid",
+      "type": "property",
+      "label": "move_entity_eid",
+      "data_type": "str"
+    },
+    {
+      "id": "OnMoveAlongPathProcessEventArgs.passed_point",
+      "type": "property",
+      "label": "passed_point",
+      "data_type": "Vector"
+    },
+    {
+      "id": "OnMoveAlongPathProcessEventArgs.passed_original_point",
+      "type": "property",
+      "label": "passed_original_point",
+      "data_type": "Vector"
+    },
+    {
+      "id": "OnMoveAlongPathProcessEventArgs.passed_point_index",
+      "type": "property",
+      "label": "passed_point_index",
+      "data_type": "int32"
+    }
+  ],
+  "edges": [
+    {
+      "source": "OnHoveredWidgetChanged",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnHoveredWidgetChanged",
+      "target": "UMG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "OnHoveredWidgetChanged",
+      "target": "WidgetInteractionComponent.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "EarthActionManager",
+      "target": "WorldSubsystem",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthActionManager",
+      "target": "AesWorld",
+      "type": "from_plugin"
+    },
+    {
+      "source": "EarthActionManager",
+      "target": "EarthInteraction",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EarthActionManager",
+      "target": "EarthActionManager.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "EarthActionManager",
+      "target": "EarthActionManager.get",
+      "type": "has_method"
+    },
+    {
+      "source": "RigUnit_MathDoubleAsin",
+      "target": "RigVMFunction_MathDoubleAsin",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MultiLineEditableTextBox_OnMultiLineEditableTextBoxChangedEvent",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MultiLineEditableTextBox_OnMultiLineEditableTextBoxChangedEvent",
+      "target": "UMG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "MultiLineEditableTextBox_OnMultiLineEditableTextBoxChangedEvent",
+      "target": "MultiLineEditableTextBox.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "SoundNodeSwitch",
+      "target": "SoundNode",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SoundNodeSwitch",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "SoundNodeSwitch",
+      "target": "SoundNodeSwitch.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "SoundNodeSwitch",
+      "target": "SoundNodeSwitch.child_nodes",
+      "type": "has_property"
+    },
+    {
+      "source": "SoundNodeSwitch",
+      "target": "SoundNodeSwitch.int_parameter_name",
+      "type": "has_property"
+    },
+    {
+      "source": "RasterAPI",
+      "target": "ApiClassBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RasterAPI",
+      "target": "CoveringAPI",
+      "type": "from_plugin"
+    },
+    {
+      "source": "RasterAPI",
+      "target": "CoveringAPIDefine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RasterAPI",
+      "target": "RasterAPI.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "AvaTestStaticMeshActor",
+      "target": "Actor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaTestStaticMeshActor",
+      "target": "Avalanche",
+      "type": "from_plugin"
+    },
+    {
+      "source": "AvaTestStaticMeshActor",
+      "target": "Avalanche",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AvaTestStaticMeshActor",
+      "target": "AvaTestStaticMeshActor.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "AvaTestStaticMeshActor",
+      "target": "AvaTestStaticMeshActor.static_mesh_component",
+      "type": "has_property"
+    },
+    {
+      "source": "PropertyEditorTestUnderscores",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PropertyEditorTestUnderscores",
+      "target": "UnrealEd",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PropertyEditorTestUnderscores",
+      "target": "PropertyEditorTestObject.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "PropertyEditorTestUnderscores",
+      "target": "PropertyEditorTestUnderscores.ONE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "PropertyEditorTestUnderscores",
+      "target": "PropertyEditorTestUnderscores.TWO",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "PropertyEditorTestUnderscores",
+      "target": "PropertyEditorTestUnderscores.THREE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "PropertyEditorTestUnderscores",
+      "target": "PropertyEditorTestUnderscores.NOT_UNDERSCORE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "OptimusNode_SetResource",
+      "target": "OptimusNode_ResourceAccessorBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OptimusNode_SetResource",
+      "target": "DeformerGraph",
+      "type": "from_plugin"
+    },
+    {
+      "source": "OptimusNode_SetResource",
+      "target": "OptimusCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "OptimusNode_SetResource",
+      "target": "OptimusNode_SetResource.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "OptimusNode_SetResource",
+      "target": "OptimusNode_SetResource.write_type",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "target": "nDisplay",
+      "type": "from_plugin"
+    },
+    {
+      "source": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "target": "DisplayClusterConfiguration",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "target": "DisplayClusterConfigurationTypes_Enums.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "target": "DisplayClusterConfigurationViewportLightcardOCIOMode.N_DISPLAY",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "target": "DisplayClusterConfigurationViewportLightcardOCIOMode.CUSTOM",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "target": "DisplayClusterConfigurationViewportLightcardOCIOMode.NONE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "RigUnit_EndsWith",
+      "target": "RigVMFunction_EndsWith",
+      "type": "inherits_from"
+    },
+    {
+      "source": "LevelSequenceDirectorGeneratedClass",
+      "target": "BlueprintGeneratedClass",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit__MathBoolAnd",
+      "target": "RigVMFunction_MathBoolAnd",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BlendSpacePlayerReference",
+      "target": "AnimNodeReference",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BlendSpacePlayerReference",
+      "target": "AnimGraphRuntime",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "BlendSpacePlayerReference",
+      "target": "BlendSpacePlayerLibrary.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "align_translation_all",
+      "target": "ToolMenuEntryScript",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CesiumSunSky__C",
+      "target": "CesiumSunSky",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterConfigurationMasterNodePorts",
+      "target": "DisplayClusterConfigurationPrimaryNodePorts",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGAttributeFilteringRangeSettings",
+      "target": "PCGSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGAttributeFilteringRangeSettings",
+      "target": "PCG",
+      "type": "from_plugin"
+    },
+    {
+      "source": "PCGAttributeFilteringRangeSettings",
+      "target": "PCG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PCGAttributeFilteringRangeSettings",
+      "target": "PCGAttributeFilter.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "PCGAttributeFilteringRangeSettings",
+      "target": "PCGAttributeFilteringRangeSettings.target_attribute",
+      "type": "has_property"
+    },
+    {
+      "source": "PCGAttributeFilteringRangeSettings",
+      "target": "PCGAttributeFilteringRangeSettings.min_threshold",
+      "type": "has_property"
+    },
+    {
+      "source": "PCGAttributeFilteringRangeSettings",
+      "target": "PCGAttributeFilteringRangeSettings.max_threshold",
+      "type": "has_property"
+    },
+    {
+      "source": "PCGAttributeFilteringRangeSettings",
+      "target": "PCGAttributeFilteringRangeSettings.warn_on_data_missing_attribute",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "AesWorld",
+      "type": "from_plugin"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "EarthPrefab",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "EarthZoneShapes.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "EarthZoneShapes.lane_profile",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "EarthZoneShapes.reverse_lane_profile",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "EarthZoneShapes.points",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "EarthZoneShapes.shape_type",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "EarthZoneShapes.polygon_routing_type",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthZoneShapes",
+      "target": "EarthZoneShapes.tags",
+      "type": "has_property"
+    },
+    {
+      "source": "TemplateMapInfoOverride",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TemplateMapInfoOverride",
+      "target": "EngineSettings",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "TemplateMapInfoOverride",
+      "target": "GameMapsSettings.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "TemplateMapInfoOverride",
+      "target": "TemplateMapInfoOverride.display_name",
+      "type": "has_property"
+    },
+    {
+      "source": "TemplateMapInfoOverride",
+      "target": "TemplateMapInfoOverride.map",
+      "type": "has_property"
+    },
+    {
+      "source": "TemplateMapInfoOverride",
+      "target": "TemplateMapInfoOverride.thumbnail",
+      "type": "has_property"
+    },
+    {
+      "source": "StartMiniMapParams",
+      "target": "ParamsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "StartMiniMapParams",
+      "target": "CoveringAPI",
+      "type": "from_plugin"
+    },
+    {
+      "source": "StartMiniMapParams",
+      "target": "CoveringAPIDefine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "StartMiniMapParams",
+      "target": "MiniMapAPIParams.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "StartMiniMapParams",
+      "target": "StartMiniMapParams.type",
+      "type": "has_property"
+    },
+    {
+      "source": "StartMiniMapParams",
+      "target": "StartMiniMapParams.source",
+      "type": "has_property"
+    },
+    {
+      "source": "StartMiniMapParams",
+      "target": "StartMiniMapParams.mapping_anchors",
+      "type": "has_property"
+    },
+    {
+      "source": "StartMiniMapParams",
+      "target": "StartMiniMapParams.display",
+      "type": "has_property"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "EventArgsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "CoveringAPI",
+      "type": "from_plugin"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "CoveringAPIDefine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "CoveringBoundAPI.h",
+      "type": "defined_in_file"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "OnMoveAlongPathProcessEventArgs.move_along_eid",
+      "type": "has_property"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "OnMoveAlongPathProcessEventArgs.path_eid",
+      "type": "has_property"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "OnMoveAlongPathProcessEventArgs.move_entity_eid",
+      "type": "has_property"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "OnMoveAlongPathProcessEventArgs.passed_point",
+      "type": "has_property"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "OnMoveAlongPathProcessEventArgs.passed_original_point",
+      "type": "has_property"
+    },
+    {
+      "source": "OnMoveAlongPathProcessEventArgs",
+      "target": "OnMoveAlongPathProcessEventArgs.passed_point_index",
+      "type": "has_property"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecation_RigUnit_MathDoubleAsin",
+      "type": "deprecation",
+      "nodes": [
+        "RigUnit_MathDoubleAsin",
+        "RigVMFunction_MathDoubleAsin"
+      ],
+      "description": "RigUnit_MathDoubleAsin was renamed to RigVMFunction_MathDoubleAsin"
+    },
+    {
+      "id": "deprecation_RigUnit_EndsWith",
+      "type": "deprecation",
+      "nodes": [
+        "RigUnit_EndsWith",
+        "RigVMFunction_EndsWith"
+      ],
+      "description": "RigUnit_EndsWith was renamed to RigVMFunction_EndsWith"
+    },
+    {
+      "id": "deprecation_LevelSequenceDirectorGeneratedClass",
+      "type": "deprecation",
+      "nodes": [
+        "LevelSequenceDirectorGeneratedClass",
+        "BlueprintGeneratedClass"
+      ],
+      "description": "LevelSequenceDirectorGeneratedClass was renamed to BlueprintGeneratedClass"
+    },
+    {
+      "id": "deprecation_RigUnit_MathBoolAnd",
+      "type": "deprecation",
+      "nodes": [
+        "RigUnit__MathBoolAnd",
+        "RigVMFunction_MathBoolAnd"
+      ],
+      "description": "RigUnit_MathBoolAnd was renamed to RigVMFunction_MathBoolAnd"
+    },
+    {
+      "id": "deprecation_CesiumSunSky_C",
+      "type": "deprecation",
+      "nodes": [
+        "CesiumSunSky__C",
+        "CesiumSunSky"
+      ],
+      "description": "CesiumSunSky_C was renamed to CesiumSunSky"
+    },
+    {
+      "id": "deprecation_DisplayClusterConfigurationMasterNodePorts",
+      "type": "deprecation",
+      "nodes": [
+        "DisplayClusterConfigurationMasterNodePorts",
+        "DisplayClusterConfigurationPrimaryNodePorts"
+      ],
+      "description": "DisplayClusterConfigurationMasterNodePorts was renamed to DisplayClusterConfigurationPrimaryNodePorts"
+    },
+    {
+      "id": "plugin_module_file_RasterAPI",
+      "type": "code_organization",
+      "nodes": [
+        "CoveringAPI",
+        "CoveringAPIDefine",
+        "RasterAPI.h",
+        "RasterAPI"
+      ],
+      "description": "RasterAPI is defined in CoveringAPI plugin, CoveringAPIDefine module, RasterAPI.h file"
+    },
+    {
+      "id": "plugin_module_file_EarthActionManager",
+      "type": "code_organization",
+      "nodes": [
+        "AesWorld",
+        "EarthInteraction",
+        "EarthActionManager.h",
+        "EarthActionManager"
+      ],
+      "description": "EarthActionManager is defined in AesWorld plugin, EarthInteraction module, EarthActionManager.h file"
+    },
+    {
+      "id": "plugin_module_file_AvaTestStaticMeshActor",
+      "type": "code_organization",
+      "nodes": [
+        "Avalanche",
+        "Avalanche",
+        "AvaTestStaticMeshActor.h",
+        "AvaTestStaticMeshActor"
+      ],
+      "description": "AvaTestStaticMeshActor is defined in Avalanche plugin, Avalanche module, AvaTestStaticMeshActor.h file"
+    },
+    {
+      "id": "plugin_module_file_OptimusNode_SetResource",
+      "type": "code_organization",
+      "nodes": [
+        "DeformerGraph",
+        "OptimusCore",
+        "OptimusNode_SetResource.h",
+        "OptimusNode_SetResource"
+      ],
+      "description": "OptimusNode_SetResource is defined in DeformerGraph plugin, OptimusCore module, OptimusNode_SetResource.h file"
+    },
+    {
+      "id": "plugin_module_file_DisplayClusterConfigurationViewportLightcardOCIOMode",
+      "type": "code_organization",
+      "nodes": [
+        "nDisplay",
+        "DisplayClusterConfiguration",
+        "DisplayClusterConfigurationTypes_Enums.h",
+        "DisplayClusterConfigurationViewportLightcardOCIOMode"
+      ],
+      "description": "DisplayClusterConfigurationViewportLightcardOCIOMode is defined in nDisplay plugin, DisplayClusterConfiguration module, DisplayClusterConfigurationTypes_Enums.h file"
+    },
+    {
+      "id": "plugin_module_file_PCGAttributeFilteringRangeSettings",
+      "type": "code_organization",
+      "nodes": [
+        "PCG",
+        "PCG",
+        "PCGAttributeFilter.h",
+        "PCGAttributeFilteringRangeSettings"
+      ],
+      "description": "PCGAttributeFilteringRangeSettings is defined in PCG plugin, PCG module, PCGAttributeFilter.h file"
+    },
+    {
+      "id": "plugin_module_file_EarthZoneShapes",
+      "type": "code_organization",
+      "nodes": [
+        "AesWorld",
+        "EarthPrefab",
+        "EarthZoneShapes.h",
+        "EarthZoneShapes"
+      ],
+      "description": "EarthZoneShapes is defined in AesWorld plugin, EarthPrefab module, EarthZoneShapes.h file"
+    },
+    {
+      "id": "plugin_module_file_StartMiniMapParams",
+      "type": "code_organization",
+      "nodes": [
+        "CoveringAPI",
+        "CoveringAPIDefine",
+        "MiniMapAPIParams.h",
+        "StartMiniMapParams"
+      ],
+      "description": "StartMiniMapParams is defined in CoveringAPI plugin, CoveringAPIDefine module, MiniMapAPIParams.h file"
+    },
+    {
+      "id": "plugin_module_file_OnMoveAlongPathProcessEventArgs",
+      "type": "code_organization",
+      "nodes": [
+        "CoveringAPI",
+        "CoveringAPIDefine",
+        "CoveringBoundAPI.h",
+        "OnMoveAlongPathProcessEventArgs"
+      ],
+      "description": "OnMoveAlongPathProcessEventArgs is defined in CoveringAPI plugin, CoveringAPIDefine module, CoveringBoundAPI.h file"
+    }
+  ],
+  "metadata": {
+    "chunk_id": 572,
+    "source_files": [
+      "OnHoveredWidgetChanged Objects.md",
+      "EarthActionManager Objects.md",
+      "RigUnit_MathDoubleAsin Objects.md",
+      "MultiLineEditableTextBox_OnMultiLineEditableTextBoxChangedEvent Objects.md",
+      "SoundNodeSwitch Objects.md",
+      "RasterAPI Objects.md",
+      "AvaTestStaticMeshActor Objects.md",
+      "PropertyEditorTestUnderscores Objects.md",
+      "OptimusNode_SetResource Objects.md",
+      "DisplayClusterConfigurationViewportLightcardOCIOMode Objects.md",
+      "RigUnit_EndsWith Objects.md",
+      "LevelSequenceDirectorGeneratedClass Objects.md",
+      "RigUnit__MathBoolAnd Objects.md",
+      "BlendSpacePlayerReference Objects.md",
+      "align__translation__all Objects.md",
+      "CesiumSunSky__C Objects.md",
+      "DisplayClusterConfigurationMasterNodePorts Objects.md",
+      "PCGAttributeFilteringRangeSettings Objects.md",
+      "EarthZoneShapes Objects.md",
+      "TemplateMapInfoOverride Objects.md",
+      "StartMiniMapParams Objects.md",
+      "OnMoveAlongPathProcessEventArgs Objects.md"
+    ],
+    "generated_at": "2026-04-13T00:00:00Z",
+    "stats": {
+      "total_nodes": 112,
+      "total_edges": 98,
+      "total_hyperedges": 15,
+      "node_types": {
+        "class": 22,
+        "enum": 2,
+        "enum_value": 7,
+        "file": 22,
+        "method": 1,
+        "module": 13,
+        "plugin": 9,
+        "property": 30,
+        "struct": 2
+      },
+      "edge_types": {
+        "defined_in_file": 22,
+        "defined_in_module": 22,
+        "from_plugin": 9,
+        "has_enum_value": 7,
+        "has_method": 1,
+        "has_property": 30,
+        "inherits_from": 22
+      },
+      "hyperedge_types": {
+        "code_organization": 8,
+        "deprecation": 6
+      }
+    }
+  }
+}

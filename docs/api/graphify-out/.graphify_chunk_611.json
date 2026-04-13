@@ -1,0 +1,2518 @@
+{
+  "nodes": [
+    {
+      "id": "Text3DBevelType",
+      "type": "class",
+      "label": "Text3DBevelType",
+      "properties": {
+        "kind": "enum",
+        "description": "EText 3DBevel Type",
+        "plugin": "Text3D",
+        "module": "Text3D",
+        "file": "BevelType.h",
+        "base_class": "EnumBase"
+      }
+    },
+    {
+      "id": "Text3DBevelType.LINEAR",
+      "type": "enum_value",
+      "label": "LINEAR",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "Text3DBevelType.HALF_CIRCLE",
+      "type": "enum_value",
+      "label": "HALF_CIRCLE",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "Text3DBevelType.CONVEX",
+      "type": "enum_value",
+      "label": "CONVEX",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "Text3DBevelType.CONCAVE",
+      "type": "enum_value",
+      "label": "CONCAVE",
+      "properties": {
+        "value": 3
+      }
+    },
+    {
+      "id": "Text3DBevelType.ONE_STEP",
+      "type": "enum_value",
+      "label": "ONE_STEP",
+      "properties": {
+        "value": 4
+      }
+    },
+    {
+      "id": "Text3DBevelType.TWO_STEPS",
+      "type": "enum_value",
+      "label": "TWO_STEPS",
+      "properties": {
+        "value": 5
+      }
+    },
+    {
+      "id": "Text3DBevelType.ENGRAVED",
+      "type": "enum_value",
+      "label": "ENGRAVED",
+      "properties": {
+        "value": 6
+      }
+    },
+    {
+      "id": "LidarPointCloudAsyncMode",
+      "type": "class",
+      "label": "LidarPointCloudAsyncMode",
+      "properties": {
+        "kind": "enum",
+        "description": "Used in blueprint latent function execution",
+        "plugin": "LidarPointCloud",
+        "module": "LidarPointCloudRuntime",
+        "file": "LidarPointCloudShared.h",
+        "base_class": "EnumBase"
+      }
+    },
+    {
+      "id": "LidarPointCloudAsyncMode.SUCCESS",
+      "type": "enum_value",
+      "label": "SUCCESS",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "LidarPointCloudAsyncMode.FAILURE",
+      "type": "enum_value",
+      "label": "FAILURE",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "LidarPointCloudAsyncMode.PROGRESS",
+      "type": "enum_value",
+      "label": "PROGRESS",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader",
+      "type": "class",
+      "label": "NiagaraDataChannelReader",
+      "properties": {
+        "kind": "class",
+        "description": "Initial simple API for reading and writing data in a data channel from game code / BP",
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraDataChannelAccessor.h",
+        "base_class": "Object"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_vector4",
+      "type": "method",
+      "label": "read_vector4",
+      "properties": {
+        "return_type": "Tuple[Vector4, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Vector 4"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_vector2d",
+      "type": "method",
+      "label": "read_vector2d",
+      "properties": {
+        "return_type": "Tuple[Vector2D, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Vector 2D"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_vector",
+      "type": "method",
+      "label": "read_vector",
+      "properties": {
+        "return_type": "Tuple[Vector, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Vector"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_spawn_info",
+      "type": "method",
+      "label": "read_spawn_info",
+      "properties": {
+        "return_type": "Tuple[NiagaraSpawnInfo, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Spawn Info"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_quat",
+      "type": "method",
+      "label": "read_quat",
+      "properties": {
+        "return_type": "Tuple[Quat, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Quat"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_position",
+      "type": "method",
+      "label": "read_position",
+      "properties": {
+        "return_type": "Tuple[Vector, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Position"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_linear_color",
+      "type": "method",
+      "label": "read_linear_color",
+      "properties": {
+        "return_type": "Tuple[LinearColor, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Linear Color"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_int",
+      "type": "method",
+      "label": "read_int",
+      "properties": {
+        "return_type": "Tuple[int, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Int"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_id",
+      "type": "method",
+      "label": "read_id",
+      "properties": {
+        "return_type": "Tuple[NiagaraID, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read ID"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_float",
+      "type": "method",
+      "label": "read_float",
+      "properties": {
+        "return_type": "Tuple[float, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Float"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_enum",
+      "type": "method",
+      "label": "read_enum",
+      "properties": {
+        "return_type": "Tuple[int, bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Enum"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.read_bool",
+      "type": "method",
+      "label": "read_bool",
+      "properties": {
+        "return_type": "Optional[bool]",
+        "parameters": ["var_name: Name", "index: int"],
+        "description": "Read Bool"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.num",
+      "type": "method",
+      "label": "num",
+      "properties": {
+        "return_type": "int",
+        "parameters": [],
+        "description": "Num"
+      }
+    },
+    {
+      "id": "NiagaraDataChannelReader.init_access",
+      "type": "method",
+      "label": "init_access",
+      "properties": {
+        "return_type": "bool",
+        "parameters": ["search_params: NiagaraDataChannelSearchParameters", "read_prev_frame_data: bool"],
+        "description": "Call before each access to the data channel to grab the correct data to read"
+      }
+    },
+    {
+      "id": "FollowActorInterface",
+      "type": "class",
+      "label": "FollowActorInterface",
+      "properties": {
+        "kind": "interface",
+        "description": "Follow Actor Interface",
+        "plugin": "WdpCamera",
+        "module": "WdpCamera",
+        "file": "FollowActorInterface.h",
+        "base_class": "Interface"
+      }
+    },
+    {
+      "id": "FollowActorInterface.bpi_on_following_start",
+      "type": "method",
+      "label": "bpi_on_following_start",
+      "properties": {
+        "return_type": "None",
+        "parameters": [],
+        "description": "跟踪开始事件"
+      }
+    },
+    {
+      "id": "FollowActorInterface.bpi_on_following_end",
+      "type": "method",
+      "label": "bpi_on_following_end",
+      "properties": {
+        "return_type": "None",
+        "parameters": [],
+        "description": "跟踪结束事件"
+      }
+    },
+    {
+      "id": "FollowActorInterface.bpi_get_follow_camera_settings",
+      "type": "method",
+      "label": "bpi_get_follow_camera_settings",
+      "properties": {
+        "return_type": "Optional[FollowCameraSettings]",
+        "parameters": [],
+        "description": "获取跟踪数据"
+      }
+    },
+    {
+      "id": "DistributionVector",
+      "type": "class",
+      "label": "DistributionVector",
+      "properties": {
+        "kind": "class",
+        "description": "Distribution Vector",
+        "module": "Engine",
+        "file": "DistributionVector.h",
+        "base_class": "Distribution"
+      }
+    },
+    {
+      "id": "DistributionVector.can_be_baked",
+      "type": "property",
+      "label": "can_be_baked",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Can this variable be baked out to a FRawDistribution? Should be true 99% of the time"
+      }
+    },
+    {
+      "id": "AtmosphericFog",
+      "type": "class",
+      "label": "AtmosphericFog",
+      "properties": {
+        "kind": "class",
+        "description": "A placeable fog actor that simulates atmospheric light scattering",
+        "module": "Engine",
+        "file": "AtmosphericFog.h",
+        "base_class": "Info"
+      }
+    },
+    {
+      "id": "AtmosphericFog.atmospheric_fog_component",
+      "type": "property",
+      "label": "atmospheric_fog_component",
+      "properties": {
+        "type": "AtmosphericFogComponent",
+        "access": "Read-Only",
+        "description": "Main fog component"
+      }
+    },
+    {
+      "id": "UIFrameworkOverlaySlot",
+      "type": "class",
+      "label": "UIFrameworkOverlaySlot",
+      "properties": {
+        "kind": "class",
+        "description": "UIFramework Overlay Slot",
+        "plugin": "UIFramework",
+        "module": "UIFramework",
+        "file": "UIFOverlay.h",
+        "base_class": "UIFrameworkSlotBase"
+      }
+    },
+    {
+      "id": "UIFrameworkOverlaySlot.horizontal_alignment",
+      "type": "property",
+      "label": "horizontal_alignment",
+      "properties": {
+        "type": "HorizontalAlignment",
+        "access": "Read-Write",
+        "description": "Horizontal alignment of the widget inside the slot"
+      }
+    },
+    {
+      "id": "UIFrameworkOverlaySlot.padding",
+      "type": "property",
+      "label": "padding",
+      "properties": {
+        "type": "Margin",
+        "access": "Read-Write",
+        "description": "Distance between that surrounds the widget inside the slot"
+      }
+    },
+    {
+      "id": "UIFrameworkOverlaySlot.vertical_alignment",
+      "type": "property",
+      "label": "vertical_alignment",
+      "properties": {
+        "type": "VerticalAlignment",
+        "access": "Read-Write",
+        "description": "Vertical alignment of the widget inside the slot"
+      }
+    },
+    {
+      "id": "UIFrameworkOverlaySlot.widget",
+      "type": "property",
+      "label": "widget",
+      "properties": {
+        "type": "UIFrameworkWidget",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MathRBFInterpolateVectorQuat_Target",
+      "type": "class",
+      "label": "MathRBFInterpolateVectorQuat_Target",
+      "properties": {
+        "kind": "struct",
+        "description": "Math RBFInterpolate Vector Quat Target",
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathRBFInterpolate.h",
+        "base_class": "StructBase"
+      }
+    },
+    {
+      "id": "MathRBFInterpolateVectorQuat_Target.target",
+      "type": "property",
+      "label": "target",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MathRBFInterpolateVectorQuat_Target.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "Quat",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "StartClusterParams",
+      "type": "class",
+      "label": "StartClusterParams",
+      "properties": {
+        "kind": "class",
+        "description": "Start Cluster Params",
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIDefine",
+        "file": "ClusterAPIParams.h",
+        "base_class": "ParamsBase"
+      }
+    },
+    {
+      "id": "StartClusterParams.aggregation_limit",
+      "type": "property",
+      "label": "aggregation_limit",
+      "properties": {
+        "type": "int32",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "StartClusterParams.algorithm",
+      "type": "property",
+      "label": "algorithm",
+      "properties": {
+        "type": "WdpJsonObjectWrapper",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "StartClusterParams.filters",
+      "type": "property",
+      "label": "filters",
+      "properties": {
+        "type": "WdpJsonObjectWrapper",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "StartClusterParams.guid",
+      "type": "property",
+      "label": "guid",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "StartClusterParams.hit_keys",
+      "type": "property",
+      "label": "hit_keys",
+      "properties": {
+        "type": "Set[Name]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "StartClusterParams.mode",
+      "type": "property",
+      "label": "mode",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "StartClusterParams.open_on_click",
+      "type": "property",
+      "label": "open_on_click",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "StartClusterParams.url",
+      "type": "property",
+      "label": "url",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationRenderSyncPolicy",
+      "type": "class",
+      "label": "DisplayClusterConfigurationRenderSyncPolicy",
+      "properties": {
+        "kind": "class",
+        "description": "Display Cluster Configuration Render Sync Policy",
+        "plugin": "nDisplay",
+        "module": "DisplayClusterConfiguration",
+        "file": "DisplayClusterConfigurationTypes.h",
+        "base_class": "DisplayClusterConfigurationPolymorphicEntity"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationRenderSyncPolicy.is_custom",
+      "type": "property",
+      "label": "is_custom",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "When a custom policy is selected from the details panel"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationRenderSyncPolicy.parameters",
+      "type": "property",
+      "label": "parameters",
+      "properties": {
+        "type": "Map[str, str]",
+        "access": "Read-Write",
+        "description": "Generic parameters map"
+      }
+    },
+    {
+      "id": "DisplayClusterConfigurationRenderSyncPolicy.type",
+      "type": "property",
+      "label": "type",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write",
+        "description": "Polymorphic entity type"
+      }
+    },
+    {
+      "id": "AbilityTask_WaitAttributeChange",
+      "type": "class",
+      "label": "AbilityTask_WaitAttributeChange",
+      "properties": {
+        "kind": "class",
+        "description": "Waits for the actor to activate another ability",
+        "plugin": "GameplayAbilities",
+        "module": "GameplayAbilities",
+        "file": "AbilityTask_WaitAttributeChange.h",
+        "base_class": "AbilityTask"
+      }
+    },
+    {
+      "id": "AbilityTask_WaitAttributeChange.on_change",
+      "type": "property",
+      "label": "on_change",
+      "properties": {
+        "type": "WaitAttributeChangeDelegate",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "API_HeatPointData",
+      "type": "class",
+      "label": "API_HeatPointData",
+      "properties": {
+        "kind": "struct",
+        "description": "API Heat Point Data",
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIEntity",
+        "file": "ColumnarHeatMapEntity.h",
+        "base_class": "TableRowBase"
+      }
+    },
+    {
+      "id": "API_HeatPointData.location",
+      "type": "property",
+      "label": "location",
+      "properties": {
+        "type": "Vector2D",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "API_HeatPointData.strength",
+      "type": "property",
+      "label": "strength",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MathRBFInterpolateQuatVector_Target",
+      "type": "class",
+      "label": "MathRBFInterpolateQuatVector_Target",
+      "properties": {
+        "kind": "struct",
+        "description": "Math RBFInterpolate Quat Vector Target",
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathRBFInterpolate.h",
+        "base_class": "StructBase"
+      }
+    },
+    {
+      "id": "MathRBFInterpolateQuatVector_Target.target",
+      "type": "property",
+      "label": "target",
+      "properties": {
+        "type": "Quat",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MathRBFInterpolateQuatVector_Target.value",
+      "type": "property",
+      "label": "value",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "WdpSelectionMode",
+      "type": "class",
+      "label": "WdpSelectionMode",
+      "properties": {
+        "kind": "enum",
+        "description": "EWdp Selection Mode",
+        "plugin": "AesRuntimeCore",
+        "module": "WdpDataModel",
+        "file": "EntityPickAtom.h",
+        "base_class": "EnumBase"
+      }
+    },
+    {
+      "id": "WdpSelectionMode.NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "WdpSelectionMode.NEW",
+      "type": "enum_value",
+      "label": "NEW",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "WdpSelectionMode.ADD",
+      "type": "enum_value",
+      "label": "ADD",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "WdpSelectionMode.SUBTRACT",
+      "type": "enum_value",
+      "label": "SUBTRACT",
+      "properties": {
+        "value": 3
+      }
+    },
+    {
+      "id": "WdpSelectionMode.REVERSE",
+      "type": "enum_value",
+      "label": "REVERSE",
+      "properties": {
+        "value": 4
+      }
+    },
+    {
+      "id": "NiagaraValidationRule",
+      "type": "class",
+      "label": "NiagaraValidationRule",
+      "properties": {
+        "kind": "class",
+        "description": "Base class for system validation logic. These allow Niagara systems to be inspected for content validation either at save time or from a commandlet",
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraValidationRule.h",
+        "base_class": "Object"
+      }
+    },
+    {
+      "id": "DCPBuildingLayerAtom",
+      "type": "class",
+      "label": "DCPBuildingLayerAtom",
+      "properties": {
+        "kind": "class",
+        "description": "DCPBuilding Layer Atom",
+        "plugin": "WdpAssetLoader",
+        "module": "BimAssetLoader",
+        "file": "DCPBuildingLayerAtom.h",
+        "base_class": "EntityAtomBase"
+      }
+    },
+    {
+      "id": "DCPBuildingLayerAtom.building_layers",
+      "type": "property",
+      "label": "building_layers",
+      "properties": {
+        "type": "DCPBuildingLayers",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "SimulationOverlap",
+      "type": "class",
+      "label": "SimulationOverlap",
+      "properties": {
+        "kind": "enum",
+        "description": "ESimulation Overlap",
+        "module": "Foliage",
+        "file": "ProceduralFoliageInstance.h",
+        "base_class": "EnumBase"
+      }
+    },
+    {
+      "id": "SimulationOverlap.COLLISION_OVERLAP",
+      "type": "enum_value",
+      "label": "COLLISION_OVERLAP",
+      "properties": {
+        "value": 0,
+        "description": "Instances overlap with collision"
+      }
+    },
+    {
+      "id": "SimulationOverlap.SHADE_OVERLAP",
+      "type": "enum_value",
+      "label": "SHADE_OVERLAP",
+      "properties": {
+        "value": 1,
+        "description": "Instances overlap with shade"
+      }
+    },
+    {
+      "id": "SimulationOverlap.NONE",
+      "type": "enum_value",
+      "label": "NONE",
+      "properties": {
+        "value": 2,
+        "description": "No overlap"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ApplyAdditive",
+      "type": "class",
+      "label": "AnimGraphNode_ApplyAdditive",
+      "properties": {
+        "kind": "class",
+        "description": "Anim Graph Node Apply Additive",
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_ApplyAdditive.h",
+        "base_class": "AnimGraphNode_Base"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ApplyAdditive.become_relevant_function",
+      "type": "property",
+      "label": "become_relevant_function",
+      "properties": {
+        "type": "MemberReference",
+        "access": "Read-Write",
+        "description": "Function called when the node becomes relevant, meaning it goes from having no weight to any weight"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ApplyAdditive.binding",
+      "type": "property",
+      "label": "binding",
+      "properties": {
+        "type": "AnimGraphNodeBinding",
+        "access": "Read-Write",
+        "description": "Bindings for pins that this node exposes"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ApplyAdditive.initial_update_function",
+      "type": "property",
+      "label": "initial_update_function",
+      "properties": {
+        "type": "MemberReference",
+        "access": "Read-Write",
+        "description": "Function called before the node is updated for the first time"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ApplyAdditive.node",
+      "type": "property",
+      "label": "node",
+      "properties": {
+        "type": "AnimNode_ApplyAdditive",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ApplyAdditive.show_pin_for_properties",
+      "type": "property",
+      "label": "show_pin_for_properties",
+      "properties": {
+        "type": "Array[OptionalPinFromProperty]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ApplyAdditive.tag",
+      "type": "property",
+      "label": "tag",
+      "properties": {
+        "type": "Name",
+        "access": "Read-Write",
+        "description": "Optional reference tag name. If this is set then this node can be referenced from elsewhere in this animation blueprint using an anim node reference"
+      }
+    },
+    {
+      "id": "AnimGraphNode_ApplyAdditive.update_function",
+      "type": "property",
+      "label": "update_function",
+      "properties": {
+        "type": "MemberReference",
+        "access": "Read-Write",
+        "description": "Function called when the node is updated"
+      }
+    },
+    {
+      "id": "InputSettings",
+      "type": "class",
+      "label": "InputSettings",
+      "properties": {
+        "kind": "class",
+        "description": "Project wide settings for input handling",
+        "module": "Engine",
+        "file": "InputSettings.h",
+        "base_class": "Object"
+      }
+    },
+    {
+      "id": "InputSettings.action_mappings",
+      "type": "property",
+      "label": "action_mappings",
+      "properties": {
+        "type": "Array[InputActionKeyMapping]",
+        "access": "Read-Write",
+        "description": "List of Action Mappings"
+      }
+    },
+    {
+      "id": "InputSettings.alt_enter_toggles_fullscreen",
+      "type": "property",
+      "label": "alt_enter_toggles_fullscreen",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "InputSettings.always_show_touch_interface",
+      "type": "property",
+      "label": "always_show_touch_interface",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Should the touch input interface be shown always, or only when the platform has a touch screen?"
+      }
+    },
+    {
+      "id": "InputSettings.axis_config",
+      "type": "property",
+      "label": "axis_config",
+      "properties": {
+        "type": "Array[InputAxisConfigEntry]",
+        "access": "Read-Write",
+        "description": "List of Axis Properties"
+      }
+    },
+    {
+      "id": "InputSettings.axis_mappings",
+      "type": "property",
+      "label": "axis_mappings",
+      "properties": {
+        "type": "Array[InputAxisKeyMapping]",
+        "access": "Read-Write",
+        "description": "List of Axis Mappings"
+      }
+    },
+    {
+      "id": "InputSettings.capture_mouse_on_launch",
+      "type": "property",
+      "label": "capture_mouse_on_launch",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Controls if the viewport will capture the mouse on Launch of the application"
+      }
+    },
+    {
+      "id": "InputSettings.console_keys",
+      "type": "property",
+      "label": "console_keys",
+      "properties": {
+        "type": "Array[Key]",
+        "access": "Read-Write",
+        "description": "The keys which open the console"
+      }
+    },
+    {
+      "id": "InputSettings.default_input_component_class",
+      "type": "property",
+      "label": "default_input_component_class",
+      "properties": {
+        "type": "Class",
+        "access": "Read-Write",
+        "description": "Default class type for pawn input components"
+      }
+    },
+    {
+      "id": "InputSettings.default_player_input_class",
+      "type": "property",
+      "label": "default_player_input_class",
+      "properties": {
+        "type": "Class",
+        "access": "Read-Write",
+        "description": "Default class type for player input object. May be overridden by player controller"
+      }
+    },
+    {
+      "id": "InputSettings.default_touch_interface",
+      "type": "property",
+      "label": "default_touch_interface",
+      "properties": {
+        "type": "SoftObjectPath",
+        "access": "Read-Write",
+        "description": "The default on-screen touch input interface for the game (can be null to disable the onscreen interface)"
+      }
+    },
+    {
+      "id": "InputSettings.default_viewport_mouse_capture_mode",
+      "type": "property",
+      "label": "default_viewport_mouse_capture_mode",
+      "properties": {
+        "type": "MouseCaptureMode",
+        "access": "Read-Write",
+        "description": "The default mouse capture mode for the game viewport"
+      }
+    },
+    {
+      "id": "InputSettings.default_viewport_mouse_lock_mode",
+      "type": "property",
+      "label": "default_viewport_mouse_lock_mode",
+      "properties": {
+        "type": "MouseLockMode",
+        "access": "Read-Write",
+        "description": "The default mouse lock state behavior when the viewport acquires capture"
+      }
+    },
+    {
+      "id": "InputSettings.double_click_time",
+      "type": "property",
+      "label": "double_click_time",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write",
+        "description": "If a key is pressed twice in this amount of time it is considered a \"double click\""
+      }
+    },
+    {
+      "id": "InputSettings.enable_dynamic_component_input_binding",
+      "type": "property",
+      "label": "enable_dynamic_component_input_binding",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Should components that are dynamically added via the 'AddComponent' function at runtime have input delegates bound to them?"
+      }
+    },
+    {
+      "id": "InputSettings.enable_fov_scaling",
+      "type": "property",
+      "label": "enable_fov_scaling",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Scale the mouse based on the player camera manager's field of view"
+      }
+    },
+    {
+      "id": "InputSettings.enable_gesture_recognizer",
+      "type": "property",
+      "label": "enable_gesture_recognizer",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Whether or not to use the gesture recognition system to convert touches in to gestures that can be bound and queried"
+      }
+    },
+    {
+      "id": "InputSettings.enable_input_device_subsystem",
+      "type": "property",
+      "label": "enable_input_device_subsystem",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "deprecated": true,
+        "description": "bEnableInputDeviceSubsystem is deprecated, ths input device subsystem will now always be created"
+      }
+    },
+    {
+      "id": "InputSettings.enable_legacy_input_scales",
+      "type": "property",
+      "label": "enable_legacy_input_scales",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Enable the use of legacy input scales on the player controller (InputYawScale, InputPitchScale, and InputRollScale)"
+      }
+    },
+    {
+      "id": "InputSettings.enable_motion_controls",
+      "type": "property",
+      "label": "enable_motion_controls",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "If set to false, then the player controller's InputMotion function will never be called. This will effectively disable any motion input (tilt, rotation, acceleration, etc) on the GameViewportClient"
+      }
+    },
+    {
+      "id": "InputSettings.enable_mouse_smoothing",
+      "type": "property",
+      "label": "enable_mouse_smoothing",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Mouse smoothing control"
+      }
+    },
+    {
+      "id": "InputSettings.excluded_autocorrect_cultures",
+      "type": "property",
+      "label": "excluded_autocorrect_cultures",
+      "properties": {
+        "type": "Array[str]",
+        "access": "Read-Write",
+        "description": "Disables autocorrect for these cultures, even if autocorrect is turned on. These should be ISO-compliant language and country codes, such as \"en\" or \"en-US\""
+      }
+    },
+    {
+      "id": "InputSettings.excluded_autocorrect_device_models",
+      "type": "property",
+      "label": "excluded_autocorrect_device_models",
+      "properties": {
+        "type": "Array[str]",
+        "access": "Read-Write",
+        "description": "Disables autocorrect for these device models, even if autocorrect is turned in"
+      }
+    },
+    {
+      "id": "InputSettings.excluded_autocorrect_os",
+      "type": "property",
+      "label": "excluded_autocorrect_os",
+      "properties": {
+        "type": "Array[str]",
+        "access": "Read-Write",
+        "description": "Disables autocorrect for these operating systems, even if autocorrect is enabled"
+      }
+    },
+    {
+      "id": "InputSettings.f11_toggles_fullscreen",
+      "type": "property",
+      "label": "f11_toggles_fullscreen",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "InputSettings.filter_input_by_platform_user",
+      "type": "property",
+      "label": "filter_input_by_platform_user",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "If true, then the PlayerController::InputKey function will only process an input event if it came from an input device that is owned by the PlayerController's Platform User"
+      }
+    },
+    {
+      "id": "InputSettings.fov_scale",
+      "type": "property",
+      "label": "fov_scale",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write",
+        "description": "The scaling value to multiply the field of view by"
+      }
+    },
+    {
+      "id": "InputSettings.platform_settings",
+      "type": "property",
+      "label": "platform_settings",
+      "properties": {
+        "type": "PerPlatformSettings",
+        "access": "Read-Write",
+        "description": "Platform specific settings for Input"
+      }
+    },
+    {
+      "id": "InputSettings.should_flush_pressed_keys_on_viewport_focus_lost",
+      "type": "property",
+      "label": "should_flush_pressed_keys_on_viewport_focus_lost",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "If true, then the Player Controller will have it's Pressed Keys flushed when the input mode is changed to Game and UI mode or the game viewport loses focus"
+      }
+    },
+    {
+      "id": "InputSettings.show_console_on_four_finger_tap",
+      "type": "property",
+      "label": "show_console_on_four_finger_tap",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Whether or not to show the console on 4 finger tap, on mobile platforms"
+      }
+    },
+    {
+      "id": "InputSettings.speech_mappings",
+      "type": "property",
+      "label": "speech_mappings",
+      "properties": {
+        "type": "Array[InputActionSpeechMapping]",
+        "access": "Read-Write",
+        "description": "List of Speech Mappings"
+      }
+    },
+    {
+      "id": "InputSettings.use_autocorrect",
+      "type": "property",
+      "label": "use_autocorrect",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "If enabled, virtual keyboards will have autocorrect enabled. Currently only supported on mobile devices"
+      }
+    },
+    {
+      "id": "InputSettings.use_mouse_for_touch",
+      "type": "property",
+      "label": "use_mouse_for_touch",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Allow mouse to be used for touch"
+      }
+    },
+    {
+      "id": "InputSettings.save_key_mappings",
+      "type": "method",
+      "label": "save_key_mappings",
+      "properties": {
+        "return_type": "None",
+        "parameters": [],
+        "description": "Flush the current mapping values to the config file"
+      }
+    },
+    {
+      "id": "InputSettings.remove_axis_mapping",
+      "type": "method",
+      "label": "remove_axis_mapping",
+      "properties": {
+        "return_type": "None",
+        "parameters": ["key_mapping: InputAxisKeyMapping", "force_rebuild_keymaps: bool = True"],
+        "description": "Programmatically remove an axis mapping to the project defaults"
+      }
+    },
+    {
+      "id": "InputSettings.remove_action_mapping",
+      "type": "method",
+      "label": "remove_action_mapping",
+      "properties": {
+        "return_type": "None",
+        "parameters": ["key_mapping: InputActionKeyMapping", "force_rebuild_keymaps: bool = True"],
+        "description": "Programmatically remove an action mapping to the project defaults"
+      }
+    },
+    {
+      "id": "InputSettings.get_input_settings",
+      "type": "method",
+      "label": "get_input_settings",
+      "properties": {
+        "return_type": "InputSettings",
+        "parameters": [],
+        "static": true,
+        "description": "Returns the game local input settings (action mappings, axis mappings, etc...)"
+      }
+    },
+    {
+      "id": "InputSettings.get_axis_names",
+      "type": "method",
+      "label": "get_axis_names",
+      "properties": {
+        "return_type": "Array[Name]",
+        "parameters": [],
+        "description": "Populate a list of all defined axis names"
+      }
+    },
+    {
+      "id": "InputSettings.get_axis_mapping_by_name",
+      "type": "method",
+      "label": "get_axis_mapping_by_name",
+      "properties": {
+        "return_type": "Array[InputAxisKeyMapping]",
+        "parameters": ["axis_name: Name"],
+        "description": "Retrieve all axis mappings by a certain name"
+      }
+    },
+    {
+      "id": "InputSettings.get_action_names",
+      "type": "method",
+      "label": "get_action_names",
+      "properties": {
+        "return_type": "Array[Name]",
+        "parameters": [],
+        "description": "Populate a list of all defined action names"
+      }
+    },
+    {
+      "id": "InputSettings.get_action_mapping_by_name",
+      "type": "method",
+      "label": "get_action_mapping_by_name",
+      "properties": {
+        "return_type": "Array[InputActionKeyMapping]",
+        "parameters": ["action_name: Name"],
+        "description": "Get Action Mapping by Name"
+      }
+    },
+    {
+      "id": "InputSettings.force_rebuild_keymaps",
+      "type": "method",
+      "label": "force_rebuild_keymaps",
+      "properties": {
+        "return_type": "None",
+        "parameters": [],
+        "description": "When changes are made to the default mappings, push those changes out to PlayerInput key maps"
+      }
+    },
+    {
+      "id": "InputSettings.add_axis_mapping",
+      "type": "method",
+      "label": "add_axis_mapping",
+      "properties": {
+        "return_type": "None",
+        "parameters": ["key_mapping: InputAxisKeyMapping", "force_rebuild_keymaps: bool = True"],
+        "description": "Programmatically add an axis mapping to the project defaults"
+      }
+    },
+    {
+      "id": "InputSettings.add_action_mapping",
+      "type": "method",
+      "label": "add_action_mapping",
+      "properties": {
+        "return_type": "None",
+        "parameters": ["key_mapping: InputActionKeyMapping", "force_rebuild_keymaps: bool = True"],
+        "description": "Programmatically add an action mapping to the project defaults"
+      }
+    },
+    {
+      "id": "DCPFocusCameraParams",
+      "type": "class",
+      "label": "DCPFocusCameraParams",
+      "properties": {
+        "kind": "struct",
+        "description": "DCPFocus Camera Params",
+        "plugin": "WdpAssetAPI",
+        "module": "DcpAPI",
+        "file": "DCPNodeAPIParams.h",
+        "base_class": "StructBase"
+      }
+    },
+    {
+      "id": "DCPFocusCameraParams.distance_factor",
+      "type": "property",
+      "label": "distance_factor",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "DCPFocusCameraParams.fly_time",
+      "type": "property",
+      "label": "fly_time",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "DCPFocusCameraParams.rotation",
+      "type": "property",
+      "label": "rotation",
+      "properties": {
+        "type": "CameraPresetRotator",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "RawCurveTrackTypes",
+      "type": "class",
+      "label": "RawCurveTrackTypes",
+      "properties": {
+        "kind": "enum",
+        "description": "ERaw Curve Track Types",
+        "module": "Engine",
+        "file": "AnimCurveTypes.h",
+        "base_class": "EnumBase"
+      }
+    },
+    {
+      "id": "RawCurveTrackTypes.RCT_FLOAT",
+      "type": "enum_value",
+      "label": "RCT_FLOAT",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "RawCurveTrackTypes.RCT_TRANSFORM",
+      "type": "enum_value",
+      "label": "RCT_TRANSFORM",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom",
+      "type": "class",
+      "label": "MeshHeatMapAtom",
+      "properties": {
+        "kind": "class",
+        "description": "Mesh Heat Map Atom",
+        "plugin": "WdpRuntimeAPI",
+        "module": "WdpDataV",
+        "file": "MeshHeatMapAtom.h",
+        "base_class": "EntityAtomBase"
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom.gradient_setting",
+      "type": "property",
+      "label": "gradient_setting",
+      "properties": {
+        "type": "Array[str]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom.mapping_height_range",
+      "type": "property",
+      "label": "mapping_height_range",
+      "properties": {
+        "type": "Vector2D",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom.mapping_value_range",
+      "type": "property",
+      "label": "mapping_value_range",
+      "properties": {
+        "type": "Vector2D",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom.mesh_boundary",
+      "type": "property",
+      "label": "mesh_boundary",
+      "properties": {
+        "type": "Array[Vector2D]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom.mesh_grid_space",
+      "type": "property",
+      "label": "mesh_grid_space",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom.opacity",
+      "type": "property",
+      "label": "opacity",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom.point_coord_z",
+      "type": "property",
+      "label": "point_coord_z",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "MeshHeatMapAtom.point_data",
+      "type": "property",
+      "label": "point_data",
+      "properties": {
+        "type": "Array[MeshHeatMapPointData]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "Vector2D",
+      "type": "type",
+      "label": "Vector2D"
+    },
+    {
+      "id": "Vector4",
+      "type": "type",
+      "label": "Vector4"
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "label": "Quat"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    },
+    {
+      "id": "Object",
+      "type": "type",
+      "label": "Object"
+    },
+    {
+      "id": "Interface",
+      "type": "type",
+      "label": "Interface"
+    },
+    {
+      "id": "Distribution",
+      "type": "type",
+      "label": "Distribution"
+    },
+    {
+      "id": "EnumBase",
+      "type": "type",
+      "label": "EnumBase"
+    },
+    {
+      "id": "StructBase",
+      "type": "type",
+      "label": "StructBase"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "type",
+      "label": "ParamsBase"
+    },
+    {
+      "id": "TableRowBase",
+      "type": "type",
+      "label": "TableRowBase"
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "type",
+      "label": "EntityAtomBase"
+    },
+    {
+      "id": "Info",
+      "type": "type",
+      "label": "Info"
+    },
+    {
+      "id": "UIFrameworkSlotBase",
+      "type": "type",
+      "label": "UIFrameworkSlotBase"
+    },
+    {
+      "id": "AbilityTask",
+      "type": "type",
+      "label": "AbilityTask"
+    },
+    {
+      "id": "AnimGraphNode_Base",
+      "type": "type",
+      "label": "AnimGraphNode_Base"
+    },
+    {
+      "id": "NiagaraSpawnInfo",
+      "type": "type",
+      "label": "NiagaraSpawnInfo"
+    },
+    {
+      "id": "NiagaraID",
+      "type": "type",
+      "label": "NiagaraID"
+    },
+    {
+      "id": "NiagaraDataChannelSearchParameters",
+      "type": "type",
+      "label": "NiagaraDataChannelSearchParameters"
+    },
+    {
+      "id": "LinearColor",
+      "type": "type",
+      "label": "LinearColor"
+    },
+    {
+      "id": "AtmosphericFogComponent",
+      "type": "type",
+      "label": "AtmosphericFogComponent"
+    },
+    {
+      "id": "UIFrameworkWidget",
+      "type": "type",
+      "label": "UIFrameworkWidget"
+    },
+    {
+      "id": "Margin",
+      "type": "type",
+      "label": "Margin"
+    },
+    {
+      "id": "HorizontalAlignment",
+      "type": "type",
+      "label": "HorizontalAlignment"
+    },
+    {
+      "id": "VerticalAlignment",
+      "type": "type",
+      "label": "VerticalAlignment"
+    },
+    {
+      "id": "WdpJsonObjectWrapper",
+      "type": "type",
+      "label": "WdpJsonObjectWrapper"
+    },
+    {
+      "id": "DisplayClusterConfigurationPolymorphicEntity",
+      "type": "type",
+      "label": "DisplayClusterConfigurationPolymorphicEntity"
+    },
+    {
+      "id": "WaitAttributeChangeDelegate",
+      "type": "type",
+      "label": "WaitAttributeChangeDelegate"
+    },
+    {
+      "id": "FollowCameraSettings",
+      "type": "type",
+      "label": "FollowCameraSettings"
+    },
+    {
+      "id": "MemberReference",
+      "type": "type",
+      "label": "MemberReference"
+    },
+    {
+      "id": "AnimGraphNodeBinding",
+      "type": "type",
+      "label": "AnimGraphNodeBinding"
+    },
+    {
+      "id": "AnimNode_ApplyAdditive",
+      "type": "type",
+      "label": "AnimNode_ApplyAdditive"
+    },
+    {
+      "id": "OptionalPinFromProperty",
+      "type": "type",
+      "label": "OptionalPinFromProperty"
+    },
+    {
+      "id": "InputActionKeyMapping",
+      "type": "type",
+      "label": "InputActionKeyMapping"
+    },
+    {
+      "id": "InputAxisKeyMapping",
+      "type": "type",
+      "label": "InputAxisKeyMapping"
+    },
+    {
+      "id": "InputAxisConfigEntry",
+      "type": "type",
+      "label": "InputAxisConfigEntry"
+    },
+    {
+      "id": "InputActionSpeechMapping",
+      "type": "type",
+      "label": "InputActionSpeechMapping"
+    },
+    {
+      "id": "Key",
+      "type": "type",
+      "label": "Key"
+    },
+    {
+      "id": "MouseCaptureMode",
+      "type": "type",
+      "label": "MouseCaptureMode"
+    },
+    {
+      "id": "MouseLockMode",
+      "type": "type",
+      "label": "MouseLockMode"
+    },
+    {
+      "id": "SoftObjectPath",
+      "type": "type",
+      "label": "SoftObjectPath"
+    },
+    {
+      "id": "PerPlatformSettings",
+      "type": "type",
+      "label": "PerPlatformSettings"
+    },
+    {
+      "id": "CameraPresetRotator",
+      "type": "type",
+      "label": "CameraPresetRotator"
+    },
+    {
+      "id": "DCPBuildingLayers",
+      "type": "type",
+      "label": "DCPBuildingLayers"
+    },
+    {
+      "id": "MeshHeatMapPointData",
+      "type": "type",
+      "label": "MeshHeatMapPointData"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Text3DBevelType.LINEAR",
+      "target": "Text3DBevelType",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "Text3DBevelType.HALF_CIRCLE",
+      "target": "Text3DBevelType",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "Text3DBevelType.CONVEX",
+      "target": "Text3DBevelType",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "Text3DBevelType.CONCAVE",
+      "target": "Text3DBevelType",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "Text3DBevelType.ONE_STEP",
+      "target": "Text3DBevelType",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "Text3DBevelType.TWO_STEPS",
+      "target": "Text3DBevelType",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "Text3DBevelType.ENGRAVED",
+      "target": "Text3DBevelType",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "Text3DBevelType",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "LidarPointCloudAsyncMode.SUCCESS",
+      "target": "LidarPointCloudAsyncMode",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "LidarPointCloudAsyncMode.FAILURE",
+      "target": "LidarPointCloudAsyncMode",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "LidarPointCloudAsyncMode.PROGRESS",
+      "target": "LidarPointCloudAsyncMode",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "LidarPointCloudAsyncMode",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_vector4",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_vector2d",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_vector",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_spawn_info",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_quat",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_position",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_linear_color",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_int",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_id",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_float",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_enum",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.read_bool",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.num",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader.init_access",
+      "target": "NiagaraDataChannelReader",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "NiagaraDataChannelReader",
+      "target": "Object",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "FollowActorInterface.bpi_on_following_start",
+      "target": "FollowActorInterface",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "FollowActorInterface.bpi_on_following_end",
+      "target": "FollowActorInterface",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "FollowActorInterface.bpi_get_follow_camera_settings",
+      "target": "FollowActorInterface",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "FollowActorInterface",
+      "target": "Interface",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "DistributionVector.can_be_baked",
+      "target": "DistributionVector",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "DistributionVector",
+      "target": "Distribution",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AtmosphericFog.atmospheric_fog_component",
+      "target": "AtmosphericFog",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AtmosphericFog",
+      "target": "Info",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "UIFrameworkOverlaySlot.horizontal_alignment",
+      "target": "UIFrameworkOverlaySlot",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "UIFrameworkOverlaySlot.padding",
+      "target": "UIFrameworkOverlaySlot",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "UIFrameworkOverlaySlot.vertical_alignment",
+      "target": "UIFrameworkOverlaySlot",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "UIFrameworkOverlaySlot.widget",
+      "target": "UIFrameworkOverlaySlot",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "UIFrameworkOverlaySlot",
+      "target": "UIFrameworkSlotBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "MathRBFInterpolateVectorQuat_Target.target",
+      "target": "MathRBFInterpolateVectorQuat_Target",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MathRBFInterpolateVectorQuat_Target.value",
+      "target": "MathRBFInterpolateVectorQuat_Target",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MathRBFInterpolateVectorQuat_Target",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "StartClusterParams.aggregation_limit",
+      "target": "StartClusterParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "StartClusterParams.algorithm",
+      "target": "StartClusterParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "StartClusterParams.filters",
+      "target": "StartClusterParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "StartClusterParams.guid",
+      "target": "StartClusterParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "StartClusterParams.hit_keys",
+      "target": "StartClusterParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "StartClusterParams.mode",
+      "target": "StartClusterParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "StartClusterParams.open_on_click",
+      "target": "StartClusterParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "StartClusterParams.url",
+      "target": "StartClusterParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "StartClusterParams",
+      "target": "ParamsBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "DisplayClusterConfigurationRenderSyncPolicy.is_custom",
+      "target": "DisplayClusterConfigurationRenderSyncPolicy",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "DisplayClusterConfigurationRenderSyncPolicy.parameters",
+      "target": "DisplayClusterConfigurationRenderSyncPolicy",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "DisplayClusterConfigurationRenderSyncPolicy.type",
+      "target": "DisplayClusterConfigurationRenderSyncPolicy",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "DisplayClusterConfigurationRenderSyncPolicy",
+      "target": "DisplayClusterConfigurationPolymorphicEntity",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AbilityTask_WaitAttributeChange.on_change",
+      "target": "AbilityTask_WaitAttributeChange",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AbilityTask_WaitAttributeChange",
+      "target": "AbilityTask",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "API_HeatPointData.location",
+      "target": "API_HeatPointData",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "API_HeatPointData.strength",
+      "target": "API_HeatPointData",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "API_HeatPointData",
+      "target": "TableRowBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "MathRBFInterpolateQuatVector_Target.target",
+      "target": "MathRBFInterpolateQuatVector_Target",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MathRBFInterpolateQuatVector_Target.value",
+      "target": "MathRBFInterpolateQuatVector_Target",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MathRBFInterpolateQuatVector_Target",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "WdpSelectionMode.NONE",
+      "target": "WdpSelectionMode",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "WdpSelectionMode.NEW",
+      "target": "WdpSelectionMode",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "WdpSelectionMode.ADD",
+      "target": "WdpSelectionMode",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "WdpSelectionMode.SUBTRACT",
+      "target": "WdpSelectionMode",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "WdpSelectionMode.REVERSE",
+      "target": "WdpSelectionMode",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "WdpSelectionMode",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "NiagaraValidationRule",
+      "target": "Object",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "DCPBuildingLayerAtom.building_layers",
+      "target": "DCPBuildingLayerAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "DCPBuildingLayerAtom",
+      "target": "EntityAtomBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "SimulationOverlap.COLLISION_OVERLAP",
+      "target": "SimulationOverlap",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "SimulationOverlap.SHADE_OVERLAP",
+      "target": "SimulationOverlap",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "SimulationOverlap.NONE",
+      "target": "SimulationOverlap",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "SimulationOverlap",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "AnimGraphNode_ApplyAdditive.become_relevant_function",
+      "target": "AnimGraphNode_ApplyAdditive",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AnimGraphNode_ApplyAdditive.binding",
+      "target": "AnimGraphNode_ApplyAdditive",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AnimGraphNode_ApplyAdditive.initial_update_function",
+      "target": "AnimGraphNode_ApplyAdditive",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AnimGraphNode_ApplyAdditive.node",
+      "target": "AnimGraphNode_ApplyAdditive",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AnimGraphNode_ApplyAdditive.show_pin_for_properties",
+      "target": "AnimGraphNode_ApplyAdditive",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AnimGraphNode_ApplyAdditive.tag",
+      "target": "AnimGraphNode_ApplyAdditive",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AnimGraphNode_ApplyAdditive.update_function",
+      "target": "AnimGraphNode_ApplyAdditive",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "AnimGraphNode_ApplyAdditive",
+      "target": "AnimGraphNode_Base",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "InputSettings.action_mappings",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.alt_enter_toggles_fullscreen",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.always_show_touch_interface",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.axis_config",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.axis_mappings",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.capture_mouse_on_launch",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.console_keys",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.default_input_component_class",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.default_player_input_class",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.default_touch_interface",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.default_viewport_mouse_capture_mode",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.default_viewport_mouse_lock_mode",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.double_click_time",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.enable_dynamic_component_input_binding",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.enable_fov_scaling",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.enable_gesture_recognizer",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.enable_input_device_subsystem",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.enable_legacy_input_scales",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.enable_motion_controls",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.enable_mouse_smoothing",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.excluded_autocorrect_cultures",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.excluded_autocorrect_device_models",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.excluded_autocorrect_os",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.f11_toggles_fullscreen",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.filter_input_by_platform_user",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.fov_scale",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.platform_settings",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.should_flush_pressed_keys_on_viewport_focus_lost",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.show_console_on_four_finger_tap",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.speech_mappings",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.use_autocorrect",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.use_mouse_for_touch",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.save_key_mappings",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.remove_axis_mapping",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.remove_action_mapping",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.get_input_settings",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.get_axis_names",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.get_axis_mapping_by_name",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.get_action_names",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.get_action_mapping_by_name",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.force_rebuild_keymaps",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.add_axis_mapping",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings.add_action_mapping",
+      "target": "InputSettings",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "InputSettings",
+      "target": "Object",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "DCPFocusCameraParams.distance_factor",
+      "target": "DCPFocusCameraParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "DCPFocusCameraParams.fly_time",
+      "target": "DCPFocusCameraParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "DCPFocusCameraParams.rotation",
+      "target": "DCPFocusCameraParams",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "DCPFocusCameraParams",
+      "target": "StructBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "RawCurveTrackTypes.RCT_FLOAT",
+      "target": "RawCurveTrackTypes",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "RawCurveTrackTypes.RCT_TRANSFORM",
+      "target": "RawCurveTrackTypes",
+      "type": "INSTANCE_OF"
+    },
+    {
+      "source": "RawCurveTrackTypes",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM"
+    },
+    {
+      "source": "MeshHeatMapAtom.gradient_setting",
+      "target": "MeshHeatMapAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MeshHeatMapAtom.mapping_height_range",
+      "target": "MeshHeatMapAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MeshHeatMapAtom.mapping_value_range",
+      "target": "MeshHeatMapAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MeshHeatMapAtom.mesh_boundary",
+      "target": "MeshHeatMapAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MeshHeatMapAtom.mesh_grid_space",
+      "target": "MeshHeatMapAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MeshHeatMapAtom.opacity",
+      "target": "MeshHeatMapAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MeshHeatMapAtom.point_coord_z",
+      "target": "MeshHeatMapAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MeshHeatMapAtom.point_data",
+      "target": "MeshHeatMapAtom",
+      "type": "MEMBER_OF"
+    },
+    {
+      "source": "MeshHeatMapAtom",
+      "target": "EntityAtomBase",
+      "type": "INHERITS_FROM"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "niagara_data_types",
+      "nodes": [
+        "NiagaraDataChannelReader",
+        "Vector4",
+        "Vector2D",
+        "Vector",
+        "Quat",
+        "LinearColor",
+        "NiagaraSpawnInfo",
+        "NiagaraID"
+      ],
+      "label": "Niagara Data Type Reading Methods",
+      "description": "NiagaraDataChannelReader provides methods to read various data types from Niagara data channels"
+    },
+    {
+      "id": "input_mapping_system",
+      "nodes": [
+        "InputSettings",
+        "InputActionKeyMapping",
+        "InputAxisKeyMapping",
+        "InputActionSpeechMapping",
+        "Key"
+      ],
+      "label": "Input Mapping System",
+      "description": "InputSettings manages action and axis mappings for input handling"
+    },
+    {
+      "id": "unreal_vector_types",
+      "nodes": [
+        "Vector",
+        "Vector2D",
+        "Vector4"
+      ],
+      "label": "Unreal Vector Types",
+      "description": "Common vector types used throughout Unreal Engine"
+    },
+    {
+      "id": "rbf_interpolation",
+      "nodes": [
+        "MathRBFInterpolateVectorQuat_Target",
+        "MathRBFInterpolateQuatVector_Target",
+        "Vector",
+        "Quat"
+      ],
+      "label": "RBF Interpolation Targets",
+      "description": "RBF interpolation target structures for vector-quaternion and quaternion-vector mappings"
+    },
+    {
+      "id": "camera_system",
+      "nodes": [
+        "DCPFocusCameraParams",
+        "CameraPresetRotator",
+        "FollowActorInterface",
+        "FollowCameraSettings"
+      ],
+      "label": "Camera Control System",
+      "description": "Camera-related classes for focus and follow behaviors"
+    },
+    {
+      "id": "cluster_api",
+      "nodes": [
+        "StartClusterParams",
+        "WdpJsonObjectWrapper",
+        "API_HeatPointData"
+      ],
+      "label": "Cluster API Parameters",
+      "description": "Parameters and data structures for cluster API operations"
+    },
+    {
+      "id": "ui_layout",
+      "nodes": [
+        "UIFrameworkOverlaySlot",
+        "UIFrameworkWidget",
+        "Margin",
+        "HorizontalAlignment",
+        "VerticalAlignment"
+      ],
+      "label": "UI Layout System",
+      "description": "UI framework classes for widget layout and alignment"
+    },
+    {
+      "id": "display_cluster_sync",
+      "nodes": [
+        "DisplayClusterConfigurationRenderSyncPolicy",
+        "DisplayClusterConfigurationPolymorphicEntity"
+      ],
+      "label": "Display Cluster Synchronization",
+      "description": "nDisplay configuration for render synchronization across multiple displays"
+    },
+    {
+      "id": "heat_map_visualization",
+      "nodes": [
+        "MeshHeatMapAtom",
+        "MeshHeatMapPointData",
+        "Vector2D"
+      ],
+      "label": "Heat Map Visualization System",
+      "description": "Mesh heat map component with point data and visualization settings"
+    },
+    {
+      "id": "animation_nodes",
+      "nodes": [
+        "AnimGraphNode_ApplyAdditive",
+        "AnimNode_ApplyAdditive",
+        "AnimGraphNodeBinding",
+        "OptionalPinFromProperty",
+        "MemberReference"
+      ],
+      "label": "Animation Graph Node System",
+      "description": "Animation graph nodes with bindings and function references"
+    }
+  ]
+}

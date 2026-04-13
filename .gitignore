@@ -11,3 +11,4 @@ unrealPythonapi/*/*.py
 
 # Virtual environments
 .venv
+docs/api/graphify-out/cache/*

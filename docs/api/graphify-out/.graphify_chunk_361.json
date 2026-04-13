@@ -1,0 +1,1001 @@
+{
+  "nodes": [
+    {
+      "id": "moviescenespawnabledirectorblueprintbinding_moviescenespawnabledirectorblueprintbinding",
+      "label": "MovieSceneSpawnableDirectorBlueprintBinding",
+      "file_type": "code",
+      "source_file": "MovieSceneSpawnableDirectorBlueprintBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenespawnablebindingbase_moviescenespawnablebindingbase",
+      "label": "MovieSceneSpawnableBindingBase",
+      "file_type": "code",
+      "source_file": "MovieSceneSpawnableDirectorBlueprintBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platformeventscomponent_platformeventdelegate_platformeventscomponent_platformeventdelegate",
+      "label": "PlatformEventsComponent_PlatformEventDelegate",
+      "file_type": "code",
+      "source_file": "PlatformEventsComponent_PlatformEventDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "PlatformEventsComponent_PlatformEventDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprobeactor_earthprobeactor",
+      "label": "EarthProbeActor",
+      "file_type": "code",
+      "source_file": "EarthProbeActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "EarthProbeActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_posehandler_animnode_posehandler",
+      "label": "AnimNode_PoseHandler",
+      "file_type": "code",
+      "source_file": "AnimNode__PoseHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_assetplayerbase_animnode_assetplayerbase",
+      "label": "AnimNode_AssetPlayerBase",
+      "file_type": "code",
+      "source_file": "AnimNode__PoseHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairstrandsparameters_hairstrandsparameters",
+      "label": "HairStrandsParameters",
+      "file_type": "code",
+      "source_file": "HairStrandsParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "HairStrandsParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_finditemswithmetadatatagarray_rigunit_finditemswithmetadatatagarray",
+      "label": "RigUnit_FindItemsWithMetadataTagArray",
+      "file_type": "code",
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "label": "RigUnit_SetMultiControlBool",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMultiControlBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMultiControlBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetinforesult_assetinforesult",
+      "label": "AssetInfoResult",
+      "file_type": "code",
+      "source_file": "AssetInfoResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_resultbase",
+      "label": "ResultBase",
+      "file_type": "code",
+      "source_file": "AssetInfoResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "localexposuremethod_localexposuremethod",
+      "label": "LocalExposureMethod",
+      "file_type": "code",
+      "source_file": "LocalExposureMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "LocalExposureMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdomoverlayer_earthdomoverlayer",
+      "label": "EarthDomOverlayer",
+      "file_type": "code",
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtextureoverlayer_earthtextureoverlayer",
+      "label": "EarthTextureOverlayer",
+      "file_type": "code",
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actionmanager_actionmanager",
+      "label": "ActionManager",
+      "file_type": "code",
+      "source_file": "ActionManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldsubsystem_worldsubsystem",
+      "label": "WorldSubsystem",
+      "file_type": "code",
+      "source_file": "ActionManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionpathtracingqualityswitch_materialexpressionpathtracingqualityswitch",
+      "label": "MaterialExpressionPathTracingQualitySwitch",
+      "file_type": "code",
+      "source_file": "MaterialExpressionPathTracingQualitySwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionPathTracingQualitySwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+      "label": "RigUnit_SetVectorAnimationChannelFromItem",
+      "file_type": "code",
+      "source_file": "RigUnit__SetVectorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setanimationchannelbasefromitem_rigunit_setanimationchannelbasefromitem",
+      "label": "RigUnit_SetAnimationChannelBaseFromItem",
+      "file_type": "code",
+      "source_file": "RigUnit__SetVectorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithimportedsequencesactor_datasmithimportedsequencesactor",
+      "label": "DatasmithImportedSequencesActor",
+      "file_type": "code",
+      "source_file": "DatasmithImportedSequencesActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolvaluestorage_rigcontrolvaluestorage",
+      "label": "RigControlValueStorage",
+      "file_type": "code",
+      "source_file": "RigControlValueStorage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionfrac_materialexpressionfrac",
+      "label": "MaterialExpressionFrac",
+      "file_type": "code",
+      "source_file": "MaterialExpressionFrac Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshreconstructorbase_meshreconstructorbase",
+      "label": "MeshReconstructorBase",
+      "file_type": "code",
+      "source_file": "MeshReconstructorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "MeshReconstructorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionnotequals_rigvmfunction_mathquaternionnotequals",
+      "label": "RigVMFunction_MathQuaternionNotEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbase_rigvmfunction_mathquaternionbase",
+      "label": "RigVMFunction_MathQuaternionBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "prefabassets_prefabassets",
+      "label": "PrefabAssets",
+      "file_type": "code",
+      "source_file": "PrefabAssets Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_timeoffsetvector_rigunit_timeoffsetvector",
+      "label": "RigUnit_TimeOffsetVector",
+      "file_type": "code",
+      "source_file": "RigUnit__TimeOffsetVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector",
+      "label": "RigVMFunction_TimeOffsetVector",
+      "file_type": "code",
+      "source_file": "RigUnit__TimeOffsetVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapesplinescomponent_landscapesplinescomponent",
+      "label": "LandscapeSplinesComponent",
+      "file_type": "code",
+      "source_file": "LandscapeSplinesComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent_primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "code",
+      "source_file": "LandscapeSplinesComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createtext3dsparams_createtext3dsparams",
+      "label": "CreateText3DsParams",
+      "file_type": "code",
+      "source_file": "CreateText3DsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poseasset_poseasset",
+      "label": "PoseAsset",
+      "file_type": "code",
+      "source_file": "AnimNode__PoseHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectmode_projectmode",
+      "label": "ProjectMode",
+      "file_type": "code",
+      "source_file": "EarthProbeActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMultiControlBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigmetadatanamespace_rigmetadatanamespace",
+      "label": "RigMetaDataNameSpace",
+      "file_type": "code",
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabasset_earthprefabasset",
+      "label": "EarthPrefabAsset",
+      "file_type": "code",
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthinputcollection_earthinputcollection",
+      "label": "EarthInputCollection",
+      "file_type": "code",
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthoutputcollection_earthoutputcollection",
+      "label": "EarthOutputCollection",
+      "file_type": "code",
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequence_levelsequence",
+      "label": "LevelSequence",
+      "file_type": "code",
+      "source_file": "DatasmithImportedSequencesActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviescenespawnabledirectorblueprintbinding_moviescenespawnabledirectorblueprintbinding",
+      "target": "moviescenespawnablebindingbase_moviescenespawnablebindingbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSpawnableDirectorBlueprintBinding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "platformeventscomponent_platformeventdelegate_platformeventscomponent_platformeventdelegate",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformEventsComponent_PlatformEventDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprobeactor_earthprobeactor",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthProbeActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprobeactor_earthprobeactor",
+      "target": "projectmode_projectmode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthProbeActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posehandler_animnode_posehandler",
+      "target": "animnode_assetplayerbase_animnode_assetplayerbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__PoseHandler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posehandler_animnode_posehandler",
+      "target": "poseasset_poseasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__PoseHandler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairstrandsparameters_hairstrandsparameters",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairStrandsParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_finditemswithmetadatatagarray_rigunit_finditemswithmetadatatagarray",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_finditemswithmetadatatagarray_rigunit_finditemswithmetadatatagarray",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_finditemswithmetadatatagarray_rigunit_finditemswithmetadatatagarray",
+      "target": "rigmetadatanamespace_rigmetadatanamespace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetMultiControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetMultiControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetinforesult_assetinforesult",
+      "target": "resultbase_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetInfoResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "localexposuremethod_localexposuremethod",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LocalExposureMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdomoverlayer_earthdomoverlayer",
+      "target": "earthtextureoverlayer_earthtextureoverlayer",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdomoverlayer_earthdomoverlayer",
+      "target": "earthprefabasset_earthprefabasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdomoverlayer_earthdomoverlayer",
+      "target": "earthinputcollection_earthinputcollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdomoverlayer_earthdomoverlayer",
+      "target": "earthoutputcollection_earthoutputcollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDomOverlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actionmanager_actionmanager",
+      "target": "worldsubsystem_worldsubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActionManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionpathtracingqualityswitch_materialexpressionpathtracingqualityswitch",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionPathTracingQualitySwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+      "target": "rigunit_setanimationchannelbasefromitem_rigunit_setanimationchannelbasefromitem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetVectorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetVectorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithimportedsequencesactor_datasmithimportedsequencesactor",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithImportedSequencesActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithimportedsequencesactor_datasmithimportedsequencesactor",
+      "target": "levelsequence_levelsequence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithImportedSequencesActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolvaluestorage_rigcontrolvaluestorage",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlValueStorage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfrac_materialexpressionfrac",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFrac Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshreconstructorbase_meshreconstructorbase",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshReconstructorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionnotequals_rigvmfunction_mathquaternionnotequals",
+      "target": "rigvmfunction_mathquaternionbase_rigvmfunction_mathquaternionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "prefabassets_prefabassets",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PrefabAssets Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "prefabassets_prefabassets",
+      "target": "earthprefabasset_earthprefabasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PrefabAssets Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_timeoffsetvector_rigunit_timeoffsetvector",
+      "target": "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TimeOffsetVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapesplinescomponent_landscapesplinescomponent",
+      "target": "primitivecomponent_primitivecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandscapeSplinesComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createtext3dsparams_createtext3dsparams",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateText3DsParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairstrandsparameters_hairstrandsparameters",
+      "target": "rigcontrolvaluestorage_rigcontrolvaluestorage",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "HairStrandsParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_finditemswithmetadatatagarray_rigunit_finditemswithmetadatatagarray",
+      "target": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_finditemswithmetadatatagarray_rigunit_finditemswithmetadatatagarray",
+      "target": "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+      "target": "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__SetMultiControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprobeactor_earthprobeactor",
+      "target": "earthdomoverlayer_earthdomoverlayer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EarthProbeActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetinforesult_assetinforesult",
+      "target": "prefabassets_prefabassets",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AssetInfoResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetinforesult_assetinforesult",
+      "target": "createtext3dsparams_createtext3dsparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AssetInfoResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "prefabassets_prefabassets",
+      "target": "createtext3dsparams_createtext3dsparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PrefabAssets Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionpathtracingqualityswitch_materialexpressionpathtracingqualityswitch",
+      "target": "materialexpressionfrac_materialexpressionfrac",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionPathTracingQualitySwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "aesworld_plugin_earth_systems",
+      "label": "AesWorld Plugin Earth Systems",
+      "nodes": [
+        "earthprobeactor_earthprobeactor",
+        "earthdomoverlayer_earthdomoverlayer",
+        "earthprefabasset_earthprefabasset",
+        "prefabassets_prefabassets"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthProbeActor Objects.md"
+    },
+    {
+      "id": "controlrig_units",
+      "label": "ControlRig Unit Classes",
+      "nodes": [
+        "rigunit_finditemswithmetadatatagarray_rigunit_finditemswithmetadatatagarray",
+        "rigunit_setmulticontrolbool_rigunit_setmulticontrolbool",
+        "rigunit_setvectoranimationchannelfromitem_rigunit_setvectoranimationchannelfromitem",
+        "rigunit_timeoffsetvector_rigunit_timeoffsetvector"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_FindItemsWithMetadataTagArray Objects.md"
+    },
+    {
+      "id": "data_container_structs",
+      "label": "Data Container Structures",
+      "nodes": [
+        "hairstrandsparameters_hairstrandsparameters",
+        "rigcontrolvaluestorage_rigcontrolvaluestorage",
+        "assetinforesult_assetinforesult",
+        "prefabassets_prefabassets",
+        "createtext3dsparams_createtext3dsparams"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "HairStrandsParameters Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

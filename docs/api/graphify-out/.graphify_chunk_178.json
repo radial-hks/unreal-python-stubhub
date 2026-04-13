@@ -1,0 +1,566 @@
+{
+  "nodes": [
+    {
+      "id": "livelinklightframedata_livelinklightframedata",
+      "label": "LiveLinkLightFrameData",
+      "file_type": "code",
+      "source_file": "LiveLinkLightFrameData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinklightframedata_livelinktransformframedata",
+      "label": "LiveLinkTransformFrameData",
+      "file_type": "code",
+      "source_file": "LiveLinkLightFrameData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanworldresource_urbanworldresource",
+      "label": "UrbanWorldResource",
+      "file_type": "code",
+      "source_file": "UrbanWorldResource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spritegeometryshape_spritegeometryshape",
+      "label": "SpriteGeometryShape",
+      "file_type": "code",
+      "source_file": "SpriteGeometryShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonereasing_avaclonereasing",
+      "label": "AvaClonerEasing",
+      "file_type": "code",
+      "source_file": "AvaClonerEasing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonereasing_ceclonereasing",
+      "label": "CEClonerEasing",
+      "file_type": "code",
+      "source_file": "AvaClonerEasing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelsourcetype_modelsourcetype",
+      "label": "ModelSourceType",
+      "file_type": "code",
+      "source_file": "ModelSourceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuinserttype_toolmenuinserttype",
+      "label": "ToolMenuInsertType",
+      "file_type": "code",
+      "source_file": "ToolMenuInsertType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstagethroughput_dmmaterialstagethroughput",
+      "label": "DMMaterialStageThroughput",
+      "file_type": "code",
+      "source_file": "DMMaterialStageThroughput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstagethroughput_dmmaterialstagesource",
+      "label": "DMMaterialStageSource",
+      "file_type": "code",
+      "source_file": "DMMaterialStageThroughput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datafloweditorcollectioncomponent_datafloweditorcollectioncomponent",
+      "label": "DataflowEditorCollectionComponent",
+      "file_type": "code",
+      "source_file": "DataflowEditorCollectionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datafloweditorcollectioncomponent_dynamicmeshcomponent",
+      "label": "DynamicMeshComponent",
+      "file_type": "code",
+      "source_file": "DataflowEditorCollectionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgunittestdummyactor_pcgunittestdummyactor",
+      "label": "PCGUnitTestDummyActor",
+      "file_type": "code",
+      "source_file": "PCGUnitTestDummyActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggetloopindexsettings_pcggetloopindexsettings",
+      "label": "PCGGetLoopIndexSettings",
+      "file_type": "code",
+      "source_file": "PCGGetLoopIndexSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggetloopindexsettings_pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGGetLoopIndexSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshentity_skeletalmeshentity",
+      "label": "SkeletalMeshEntity",
+      "file_type": "code",
+      "source_file": "SkeletalMeshEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshentity_wdpstandardactorentity",
+      "label": "WdpStandardActorEntity",
+      "file_type": "code",
+      "source_file": "SkeletalMeshEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusdatatyperef_optimusdatatyperef",
+      "label": "OptimusDataTypeRef",
+      "file_type": "code",
+      "source_file": "OptimusDataTypeRef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenekeyinterpolation_moviescenekeyinterpolation",
+      "label": "MovieSceneKeyInterpolation",
+      "file_type": "code",
+      "source_file": "MovieSceneKeyInterpolation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_converttransform_rigunit_converttransform",
+      "label": "RigUnit_ConvertTransform",
+      "file_type": "code",
+      "source_file": "RigUnit__ConvertTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_converttransform_rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit__ConvertTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_contains_rigunit_contains",
+      "label": "RigUnit_Contains",
+      "file_type": "code",
+      "source_file": "RigUnit_Contains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_contains_rigvmfunction_contains",
+      "label": "RigVMFunction_Contains",
+      "file_type": "code",
+      "source_file": "RigUnit_Contains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vreditorteleporter_vreditorteleporter",
+      "label": "VREditorTeleporter",
+      "file_type": "code",
+      "source_file": "VREditorTeleporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simulationquery_simulationquery",
+      "label": "SimulationQuery",
+      "file_type": "code",
+      "source_file": "SimulationQuery Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpbuildinglayerparam_dcpbuildinglayerparam",
+      "label": "DCPBuildingLayerParam",
+      "file_type": "code",
+      "source_file": "DCPBuildingLayerParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "analoginputevent_analoginputevent",
+      "label": "AnalogInputEvent",
+      "file_type": "code",
+      "source_file": "AnalogInputEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "analoginputevent_keyevent",
+      "label": "KeyEvent",
+      "file_type": "code",
+      "source_file": "AnalogInputEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exrfilecompositingoutput_exrfilecompositingoutput",
+      "label": "EXRFileCompositingOutput",
+      "file_type": "code",
+      "source_file": "EXRFileCompositingOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exrfilecompositingoutput_compositingelementoutput",
+      "label": "CompositingElementOutput",
+      "file_type": "code",
+      "source_file": "EXRFileCompositingOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "archvischaracter_archvischaracter",
+      "label": "ArchVisCharacter",
+      "file_type": "code",
+      "source_file": "ArchVisCharacter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "archvischaracter_character",
+      "label": "Character",
+      "file_type": "code",
+      "source_file": "ArchVisCharacter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpdebugtoolmainwindow_wdpdebugtoolmainwindow",
+      "label": "WdpDebugToolMainWindow",
+      "file_type": "code",
+      "source_file": "WdpDebugToolMainWindow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "livelinklightframedata_livelinklightframedata",
+      "target": "livelinklightframedata_livelinktransformframedata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkLightFrameData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonereasing_avaclonereasing",
+      "target": "avaclonereasing_ceclonereasing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerEasing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstagethroughput_dmmaterialstagethroughput",
+      "target": "dmmaterialstagethroughput_dmmaterialstagesource",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageThroughput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datafloweditorcollectioncomponent_datafloweditorcollectioncomponent",
+      "target": "datafloweditorcollectioncomponent_dynamicmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataflowEditorCollectionComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggetloopindexsettings_pcggetloopindexsettings",
+      "target": "pcggetloopindexsettings_pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGGetLoopIndexSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshentity_skeletalmeshentity",
+      "target": "skeletalmeshentity_wdpstandardactorentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_converttransform_rigunit_converttransform",
+      "target": "rigunit_converttransform_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ConvertTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_contains_rigunit_contains",
+      "target": "rigunit_contains_rigvmfunction_contains",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_Contains Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "analoginputevent_analoginputevent",
+      "target": "analoginputevent_keyevent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnalogInputEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "exrfilecompositingoutput_exrfilecompositingoutput",
+      "target": "exrfilecompositingoutput_compositingelementoutput",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EXRFileCompositingOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "archvischaracter_archvischaracter",
+      "target": "archvischaracter_character",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ArchVisCharacter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinklightframedata_livelinklightframedata",
+      "target": "pcgunittestdummyactor_pcgunittestdummyactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "LiveLinkLightFrameData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonereasing_avaclonereasing",
+      "target": "modelsourcetype_modelsourcetype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AvaClonerEasing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstagethroughput_dmmaterialstagethroughput",
+      "target": "datafloweditorcollectioncomponent_datafloweditorcollectioncomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "DMMaterialStageThroughput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vreditorteleporter_vreditorteleporter",
+      "target": "archvischaracter_archvischaracter",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "VREditorTeleporter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "actor_hierarchy_pattern",
+      "label": "Actor Inheritance Pattern",
+      "nodes": [
+        "pcgunittestdummyactor_pcgunittestdummyactor",
+        "vreditorteleporter_vreditorteleporter",
+        "archvischaracter_archvischaracter",
+        "wdpdebugtoolmainwindow_wdpdebugtoolmainwindow"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGUnitTestDummyActor Objects.md"
+    },
+    {
+      "id": "enum_base_pattern",
+      "label": "EnumBase Inheritance Pattern",
+      "nodes": [
+        "avaclonereasing_avaclonereasing",
+        "modelsourcetype_modelsourcetype",
+        "toolmenuinserttype_toolmenuinserttype",
+        "moviescenekeyinterpolation_moviescenekeyinterpolation",
+        "simulationquery_simulationquery"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AvaClonerEasing Objects.md"
+    },
+    {
+      "id": "struct_base_pattern",
+      "label": "StructBase Inheritance Pattern",
+      "nodes": [
+        "urbanworldresource_urbanworldresource",
+        "spritegeometryshape_spritegeometryshape",
+        "optimusdatatyperef_optimusdatatyperef",
+        "dcpbuildinglayerparam_dcpbuildinglayerparam"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "UrbanWorldResource Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1142 @@
+{
+  "nodes": [
+    {
+      "id": "AnimNode_BlendSpaceSampleResult",
+      "type": "class",
+      "label": "AnimNode_BlendSpaceSampleResult",
+      "description": "Root node of a blend space sample (sink node). We dont use AnimNode_Root to let us distinguish these nodes in the property list at link time.",
+      "module": "AnimGraphRuntime",
+      "file": "AnimNode_BlendSpaceSampleResult.h"
+    },
+    {
+      "id": "RigUnit_DebugBaseMutable",
+      "type": "class",
+      "label": "RigUnit_DebugBaseMutable",
+      "description": "Rig Unit Debug Base Mutable",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_DebugBase.h"
+    },
+    {
+      "id": "RigUnit_MathTransformFromEulerTransform",
+      "type": "class",
+      "label": "RigUnit_MathTransformFromEulerTransform",
+      "description": "deprecated: 'RigUnit_MathTransformFromEulerTransform' was renamed to 'RigVMFunction_MathTransformFromEulerTransform'.",
+      "deprecated": true
+    },
+    {
+      "id": "RuntimeVirtualTextureMaterialQuality",
+      "type": "enum",
+      "label": "RuntimeVirtualTextureMaterialQuality",
+      "description": "Enumeration of material quality. Similar to EMaterialQualityLevel, but as a UENUM for appearance in UI.",
+      "module": "Engine",
+      "file": "RuntimeVirtualTextureComponent.h"
+    },
+    {
+      "id": "CesiumEncodedMetadataConversion",
+      "type": "enum",
+      "label": "CesiumEncodedMetadataConversion",
+      "description": "Indicates how a property value from EXT_structural_metadata should be converted to a GPU-accessible type, if possible.",
+      "plugin": "CesiumForUnreal",
+      "module": "CesiumRuntime",
+      "file": "CesiumMetadataEncodingDetails.h"
+    },
+    {
+      "id": "MassMovementStyleSpeedParameters",
+      "type": "struct",
+      "label": "MassMovementStyleSpeedParameters",
+      "description": "Movement style consists of multiple speeds which are assigned to agents based on agents unique ID. Same speed is assigned consistently for the same ID.",
+      "plugin": "MassGameplay",
+      "module": "MassMovement",
+      "file": "MassMovementTypes.h"
+    },
+    {
+      "id": "AssetBakeOptions",
+      "type": "class",
+      "label": "AssetBakeOptions",
+      "description": "Asset bake options object",
+      "module": "MaterialBaking",
+      "file": "MaterialOptions.h"
+    },
+    {
+      "id": "RigVMEdGraphDisplaySettings",
+      "type": "struct",
+      "label": "RigVMEdGraphDisplaySettings",
+      "description": "Rig VMEd Graph Display Settings",
+      "plugin": "RigVM",
+      "module": "RigVMDeveloper",
+      "file": "RigVMBlueprint.h"
+    },
+    {
+      "id": "OnLatestPerChannelMeterResults",
+      "type": "delegate",
+      "label": "OnLatestPerChannelMeterResults",
+      "description": "Delegate to receive only the most recent overall meter result per channel.",
+      "plugin": "AudioSynesthesia",
+      "module": "AudioSynesthesia",
+      "file": "Meter.h"
+    },
+    {
+      "id": "UsdModelCardFace",
+      "type": "enum",
+      "label": "UsdModelCardFace",
+      "description": "EUsd Model Card Face",
+      "plugin": "USDCore",
+      "module": "USDClasses",
+      "file": "USDDrawModeComponent.h"
+    },
+    {
+      "id": "PlatformGameInstance_PlatformDelegate",
+      "type": "delegate",
+      "label": "PlatformGameInstance_PlatformDelegate",
+      "description": "Platform Delegate Delegate Signature",
+      "module": "Engine",
+      "file": "BlueprintPlatformLibrary.h"
+    },
+    {
+      "id": "AnimGraphNode_OrientationDriver",
+      "type": "class",
+      "label": "AnimGraphNode_OrientationDriver",
+      "description": "deprecated: 'AnimGraphNode_OrientationDriver' was renamed to 'AnimGraphNode_PoseDriver'.",
+      "deprecated": true
+    },
+    {
+      "id": "RigUnit_FilterItemsByMetadataTags",
+      "type": "class",
+      "label": "RigUnit_FilterItemsByMetadataTags",
+      "description": "Filters an item array by a list of tags",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_Metadata.h"
+    },
+    {
+      "id": "ExtendMPCSettings_51",
+      "type": "struct",
+      "label": "ExtendMPCSettings_51",
+      "description": "额外的材质参数集设置",
+      "plugin": "SkyCreatorPlugin",
+      "module": "SkyCreatorPlugin",
+      "file": "SkyCreatorWeatherSettings_51.h"
+    },
+    {
+      "id": "NiagaraVariantMode",
+      "type": "enum",
+      "label": "NiagaraVariantMode",
+      "description": "ENiagara Variant Mode",
+      "plugin": "Niagara",
+      "module": "Niagara",
+      "file": "NiagaraVariant.h"
+    },
+    {
+      "id": "NiagaraPreviewAxis_InterpParamVector4",
+      "type": "class",
+      "label": "NiagaraPreviewAxis_InterpParamVector4",
+      "description": "Niagara Preview Axis Interp Param Vector 4",
+      "plugin": "Niagara",
+      "module": "Niagara",
+      "file": "NiagaraPreviewGrid.h"
+    },
+    {
+      "id": "HighlightAreaEntity",
+      "type": "class",
+      "label": "HighlightAreaEntity",
+      "description": "Highlight Area Entity",
+      "plugin": "CoveringAPI",
+      "module": "CoveringAPIEntity",
+      "file": "HighlightAreaEntity.h"
+    },
+    {
+      "id": "RigVMMirrorSettings",
+      "type": "struct",
+      "label": "RigVMMirrorSettings",
+      "description": "Rig VMMirror Settings",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMMathLibrary.h"
+    },
+    {
+      "id": "CesiumMetadataProperty",
+      "type": "class",
+      "label": "CesiumMetadataProperty",
+      "description": "deprecated: 'CesiumMetadataProperty' was renamed to 'CesiumPropertyTableProperty'.",
+      "deprecated": true
+    },
+    {
+      "id": "ImportanceWeight",
+      "type": "enum",
+      "label": "ImportanceWeight",
+      "description": "Provides different weighting functions for texture importance sampling",
+      "module": "Engine",
+      "file": "ImportanceSamplingLibrary.h"
+    },
+    {
+      "id": "ChinaMapEntity",
+      "type": "class",
+      "label": "ChinaMapEntity",
+      "description": "China Map Entity",
+      "plugin": "CoveringAPI",
+      "module": "CoveringAPIEntity",
+      "file": "ChinaMapEntity.h"
+    },
+    {
+      "id": "BasicTriangleSetComponentBase",
+      "type": "class",
+      "label": "BasicTriangleSetComponentBase",
+      "description": "Base class for component specific functionality independent of the type of line stored in the component.",
+      "plugin": "UVEditor",
+      "module": "UVEditorTools",
+      "file": "BasicTriangleSetComponent.h"
+    },
+    {
+      "id": "AnimNode_Root",
+      "type": "class",
+      "label": "AnimNode_Root"
+    },
+    {
+      "id": "RigUnitMutable",
+      "type": "class",
+      "label": "RigUnitMutable"
+    },
+    {
+      "id": "RigVMFunction_MathTransformFromEulerTransform",
+      "type": "class",
+      "label": "RigVMFunction_MathTransformFromEulerTransform"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase"
+    },
+    {
+      "id": "AnimGraphNode_PoseDriver",
+      "type": "class",
+      "label": "AnimGraphNode_PoseDriver"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit"
+    },
+    {
+      "id": "NiagaraPreviewAxis_InterpParamBase",
+      "type": "class",
+      "label": "NiagaraPreviewAxis_InterpParamBase"
+    },
+    {
+      "id": "UniqueEntityBase",
+      "type": "class",
+      "label": "UniqueEntityBase"
+    },
+    {
+      "id": "CesiumPropertyTableProperty",
+      "type": "class",
+      "label": "CesiumPropertyTableProperty"
+    },
+    {
+      "id": "WdpActorEntity",
+      "type": "class",
+      "label": "WdpActorEntity"
+    },
+    {
+      "id": "MeshComponent",
+      "type": "class",
+      "label": "MeshComponent"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AnimNode_BlendSpaceSampleResult",
+      "target": "AnimNode_Root",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_DebugBaseMutable",
+      "target": "RigUnitMutable",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_MathTransformFromEulerTransform",
+      "target": "RigVMFunction_MathTransformFromEulerTransform",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RuntimeVirtualTextureMaterialQuality",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "CesiumEncodedMetadataConversion",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MassMovementStyleSpeedParameters",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AssetBakeOptions",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigVMEdGraphDisplaySettings",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "OnLatestPerChannelMeterResults",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "UsdModelCardFace",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "PlatformGameInstance_PlatformDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimGraphNode_OrientationDriver",
+      "target": "AnimGraphNode_PoseDriver",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_FilterItemsByMetadataTags",
+      "target": "RigUnit",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ExtendMPCSettings_51",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "NiagaraVariantMode",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "NiagaraPreviewAxis_InterpParamVector4",
+      "target": "NiagaraPreviewAxis_InterpParamBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "UniqueEntityBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigVMMirrorSettings",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "CesiumMetadataProperty",
+      "target": "CesiumPropertyTableProperty",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ImportanceWeight",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "WdpActorEntity",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "BasicTriangleSetComponentBase",
+      "target": "MeshComponent",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_MathTransformFromEulerTransform",
+      "target": "RigVMFunction_MathTransformFromEulerTransform",
+      "type": "renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "source": "AnimGraphNode_OrientationDriver",
+      "target": "AnimGraphNode_PoseDriver",
+      "type": "renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "source": "CesiumMetadataProperty",
+      "target": "CesiumPropertyTableProperty",
+      "type": "renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "source": "AnimNode_BlendSpaceSampleResult",
+      "target": "AnimGraphRuntime",
+      "type": "defined_in_module",
+      "label": "defined in module"
+    },
+    {
+      "source": "RigUnit_DebugBaseMutable",
+      "target": "ControlRig",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "RuntimeVirtualTextureMaterialQuality",
+      "target": "Engine",
+      "type": "defined_in_module",
+      "label": "defined in module"
+    },
+    {
+      "source": "CesiumEncodedMetadataConversion",
+      "target": "CesiumForUnreal",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "MassMovementStyleSpeedParameters",
+      "target": "MassGameplay",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "AssetBakeOptions",
+      "target": "MaterialBaking",
+      "type": "defined_in_module",
+      "label": "defined in module"
+    },
+    {
+      "source": "RigVMEdGraphDisplaySettings",
+      "target": "RigVM",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "OnLatestPerChannelMeterResults",
+      "target": "AudioSynesthesia",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "UsdModelCardFace",
+      "target": "USDCore",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "PlatformGameInstance_PlatformDelegate",
+      "target": "Engine",
+      "type": "defined_in_module",
+      "label": "defined in module"
+    },
+    {
+      "source": "RigUnit_FilterItemsByMetadataTags",
+      "target": "ControlRig",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "ExtendMPCSettings_51",
+      "target": "SkyCreatorPlugin",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "NiagaraVariantMode",
+      "target": "Niagara",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "NiagaraPreviewAxis_InterpParamVector4",
+      "target": "Niagara",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "CoveringAPI",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "RigVMMirrorSettings",
+      "target": "RigVM",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "ImportanceWeight",
+      "target": "Engine",
+      "type": "defined_in_module",
+      "label": "defined in module"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "CoveringAPI",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "BasicTriangleSetComponentBase",
+      "target": "UVEditor",
+      "type": "defined_in_plugin",
+      "label": "defined in plugin"
+    },
+    {
+      "source": "AnimNode_BlendSpaceSampleResult",
+      "target": "result",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_DebugBaseMutable",
+      "target": "execute_context",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MassMovementStyleSpeedParameters",
+      "target": "probability",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MassMovementStyleSpeedParameters",
+      "target": "speed",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MassMovementStyleSpeedParameters",
+      "target": "variance",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMEdGraphDisplaySettings",
+      "target": "auto_determine_range",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMEdGraphDisplaySettings",
+      "target": "average_frames",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_FilterItemsByMetadataTags",
+      "target": "items",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_FilterItemsByMetadataTags",
+      "target": "tags",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_FilterItemsByMetadataTags",
+      "target": "name_space",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_FilterItemsByMetadataTags",
+      "target": "inclusive",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_FilterItemsByMetadataTags",
+      "target": "result",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "ExtendMPCSettings_51",
+      "target": "spring",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "ExtendMPCSettings_51",
+      "target": "summer",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "ExtendMPCSettings_51",
+      "target": "autumn",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "ExtendMPCSettings_51",
+      "target": "winter",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "NiagaraPreviewAxis_InterpParamVector4",
+      "target": "count",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "NiagaraPreviewAxis_InterpParamVector4",
+      "target": "max",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "NiagaraPreviewAxis_InterpParamVector4",
+      "target": "min",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "NiagaraPreviewAxis_InterpParamVector4",
+      "target": "param",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMMirrorSettings",
+      "target": "mirror_axis",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMMirrorSettings",
+      "target": "axis_to_flip",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMMirrorSettings",
+      "target": "search_string",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMMirrorSettings",
+      "target": "replace_string",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "set_polygon",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "set_coord_z",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "set_interior_color",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "set_exterior_saturation",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "set_exterior_outline_color",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "set_exterior_contrast",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "set_exterior_color",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "set_exterior_brightness",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "HighlightAreaEntity",
+      "target": "do_create_highlight_area",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "update_migration",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "switch_mode",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "set_province_name_visibility",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "remove_migration",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "query_migration",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "highlight_province",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ChinaMapEntity",
+      "target": "create_migration",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "RuntimeVirtualTextureMaterialQuality",
+      "target": "LOW",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 0
+    },
+    {
+      "source": "RuntimeVirtualTextureMaterialQuality",
+      "target": "MEDIUM",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 1
+    },
+    {
+      "source": "RuntimeVirtualTextureMaterialQuality",
+      "target": "HIGH",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 2
+    },
+    {
+      "source": "RuntimeVirtualTextureMaterialQuality",
+      "target": "EPIC",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 3
+    },
+    {
+      "source": "CesiumEncodedMetadataConversion",
+      "target": "NONE",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 0
+    },
+    {
+      "source": "CesiumEncodedMetadataConversion",
+      "target": "COERCE",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 1
+    },
+    {
+      "source": "CesiumEncodedMetadataConversion",
+      "target": "PARSE_COLOR_FROM_STRING",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 2
+    },
+    {
+      "source": "UsdModelCardFace",
+      "target": "X_POS",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 1
+    },
+    {
+      "source": "UsdModelCardFace",
+      "target": "Y_POS",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 2
+    },
+    {
+      "source": "UsdModelCardFace",
+      "target": "Z_POS",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 4
+    },
+    {
+      "source": "UsdModelCardFace",
+      "target": "X_NEG",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 8
+    },
+    {
+      "source": "UsdModelCardFace",
+      "target": "Y_NEG",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 16
+    },
+    {
+      "source": "UsdModelCardFace",
+      "target": "Z_NEG",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 32
+    },
+    {
+      "source": "NiagaraVariantMode",
+      "target": "NONE",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 0
+    },
+    {
+      "source": "NiagaraVariantMode",
+      "target": "OBJECT",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 1
+    },
+    {
+      "source": "NiagaraVariantMode",
+      "target": "DATA_INTERFACE",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 2
+    },
+    {
+      "source": "NiagaraVariantMode",
+      "target": "BYTES",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 3
+    },
+    {
+      "source": "ImportanceWeight",
+      "target": "LUMINANCE",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 0
+    },
+    {
+      "source": "ImportanceWeight",
+      "target": "RED",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 1
+    },
+    {
+      "source": "ImportanceWeight",
+      "target": "GREEN",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 2
+    },
+    {
+      "source": "ImportanceWeight",
+      "target": "BLUE",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 3
+    },
+    {
+      "source": "ImportanceWeight",
+      "target": "ALPHA",
+      "type": "has_enum_value",
+      "label": "has enum value",
+      "value": 4
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he1",
+      "type": "deprecated_renamed",
+      "nodes": [
+        "RigUnit_MathTransformFromEulerTransform",
+        "RigVMFunction_MathTransformFromEulerTransform"
+      ],
+      "description": "RigUnit_MathTransformFromEulerTransform was renamed to RigVMFunction_MathTransformFromEulerTransform"
+    },
+    {
+      "id": "he2",
+      "type": "deprecated_renamed",
+      "nodes": [
+        "AnimGraphNode_OrientationDriver",
+        "AnimGraphNode_PoseDriver"
+      ],
+      "description": "AnimGraphNode_OrientationDriver was renamed to AnimGraphNode_PoseDriver"
+    },
+    {
+      "id": "he3",
+      "type": "deprecated_renamed",
+      "nodes": [
+        "CesiumMetadataProperty",
+        "CesiumPropertyTableProperty"
+      ],
+      "description": "CesiumMetadataProperty was renamed to CesiumPropertyTableProperty"
+    },
+    {
+      "id": "he4",
+      "type": "module_group",
+      "nodes": [
+        "RuntimeVirtualTextureMaterialQuality",
+        "PlatformGameInstance_PlatformDelegate",
+        "ImportanceWeight"
+      ],
+      "description": "Classes defined in the Engine module"
+    },
+    {
+      "id": "he5",
+      "type": "plugin_group",
+      "nodes": [
+        "RigUnit_DebugBaseMutable",
+        "RigUnit_FilterItemsByMetadataTags"
+      ],
+      "description": "Classes defined in the ControlRig plugin"
+    },
+    {
+      "id": "he6",
+      "type": "plugin_group",
+      "nodes": [
+        "CesiumEncodedMetadataConversion"
+      ],
+      "description": "Classes defined in the CesiumForUnreal plugin"
+    },
+    {
+      "id": "he7",
+      "type": "plugin_group",
+      "nodes": [
+        "MassMovementStyleSpeedParameters"
+      ],
+      "description": "Classes defined in the MassGameplay plugin"
+    },
+    {
+      "id": "he8",
+      "type": "plugin_group",
+      "nodes": [
+        "RigVMEdGraphDisplaySettings",
+        "RigVMMirrorSettings"
+      ],
+      "description": "Classes defined in the RigVM plugin"
+    },
+    {
+      "id": "he9",
+      "type": "plugin_group",
+      "nodes": [
+        "OnLatestPerChannelMeterResults"
+      ],
+      "description": "Classes defined in the AudioSynesthesia plugin"
+    },
+    {
+      "id": "he10",
+      "type": "plugin_group",
+      "nodes": [
+        "UsdModelCardFace"
+      ],
+      "description": "Classes defined in the USDCore plugin"
+    },
+    {
+      "id": "he11",
+      "type": "plugin_group",
+      "nodes": [
+        "ExtendMPCSettings_51"
+      ],
+      "description": "Classes defined in the SkyCreatorPlugin plugin"
+    },
+    {
+      "id": "he12",
+      "type": "plugin_group",
+      "nodes": [
+        "NiagaraVariantMode",
+        "NiagaraPreviewAxis_InterpParamVector4"
+      ],
+      "description": "Classes defined in the Niagara plugin"
+    },
+    {
+      "id": "he13",
+      "type": "plugin_group",
+      "nodes": [
+        "HighlightAreaEntity",
+        "ChinaMapEntity"
+      ],
+      "description": "Classes defined in the CoveringAPI plugin"
+    },
+    {
+      "id": "he14",
+      "type": "plugin_group",
+      "nodes": [
+        "BasicTriangleSetComponentBase"
+      ],
+      "description": "Classes defined in the UVEditor plugin"
+    },
+    {
+      "id": "he15",
+      "type": "inheritance_chain",
+      "nodes": [
+        "AnimNode_BlendSpaceSampleResult",
+        "AnimNode_Root"
+      ],
+      "description": "Inheritance chain: AnimNode_BlendSpaceSampleResult inherits from AnimNode_Root"
+    },
+    {
+      "id": "he16",
+      "type": "inheritance_chain",
+      "nodes": [
+        "RigUnit_DebugBaseMutable",
+        "RigUnitMutable"
+      ],
+      "description": "Inheritance chain: RigUnit_DebugBaseMutable inherits from RigUnitMutable"
+    },
+    {
+      "id": "he17",
+      "type": "inheritance_chain",
+      "nodes": [
+        "RigUnit_FilterItemsByMetadataTags",
+        "RigUnit"
+      ],
+      "description": "Inheritance chain: RigUnit_FilterItemsByMetadataTags inherits from RigUnit"
+    },
+    {
+      "id": "he18",
+      "type": "inheritance_chain",
+      "nodes": [
+        "NiagaraPreviewAxis_InterpParamVector4",
+        "NiagaraPreviewAxis_InterpParamBase"
+      ],
+      "description": "Inheritance chain: NiagaraPreviewAxis_InterpParamVector4 inherits from NiagaraPreviewAxis_InterpParamBase"
+    },
+    {
+      "id": "he19",
+      "type": "inheritance_chain",
+      "nodes": [
+        "HighlightAreaEntity",
+        "UniqueEntityBase"
+      ],
+      "description": "Inheritance chain: HighlightAreaEntity inherits from UniqueEntityBase"
+    },
+    {
+      "id": "he20",
+      "type": "inheritance_chain",
+      "nodes": [
+        "ChinaMapEntity",
+        "WdpActorEntity"
+      ],
+      "description": "Inheritance chain: ChinaMapEntity inherits from WdpActorEntity"
+    },
+    {
+      "id": "he21",
+      "type": "inheritance_chain",
+      "nodes": [
+        "BasicTriangleSetComponentBase",
+        "MeshComponent"
+      ],
+      "description": "Inheritance chain: BasicTriangleSetComponentBase inherits from MeshComponent"
+    },
+    {
+      "id": "he22",
+      "type": "enum_base_inheritance",
+      "nodes": [
+        "RuntimeVirtualTextureMaterialQuality",
+        "CesiumEncodedMetadataConversion",
+        "UsdModelCardFace",
+        "NiagaraVariantMode",
+        "ImportanceWeight",
+        "EnumBase"
+      ],
+      "description": "Multiple enums inherit from EnumBase"
+    },
+    {
+      "id": "he23",
+      "type": "struct_base_inheritance",
+      "nodes": [
+        "MassMovementStyleSpeedParameters",
+        "RigVMEdGraphDisplaySettings",
+        "ExtendMPCSettings_51",
+        "RigVMMirrorSettings",
+        "StructBase"
+      ],
+      "description": "Multiple structs inherit from StructBase"
+    },
+    {
+      "id": "he24",
+      "type": "delegate_base_inheritance",
+      "nodes": [
+        "OnLatestPerChannelMeterResults",
+        "PlatformGameInstance_PlatformDelegate",
+        "MulticastDelegateBase"
+      ],
+      "description": "Multiple delegates inherit from MulticastDelegateBase"
+    }
+  ]
+}

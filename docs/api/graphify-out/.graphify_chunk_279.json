@@ -1,0 +1,672 @@
+{
+  "nodes": [
+    {
+      "id": "componentelementsexportert3d_componentelementsexportert3d",
+      "label": "ComponentElementsExporterT3D",
+      "file_type": "code",
+      "source_file": "ComponentElementsExporterT3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlocalplayersavegameloaded_onlocalplayersavegameloaded",
+      "label": "OnLocalPlayerSaveGameLoaded",
+      "file_type": "code",
+      "source_file": "OnLocalPlayerSaveGameLoaded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "integeranimationattribute_integeranimationattribute",
+      "label": "IntegerAnimationAttribute",
+      "file_type": "code",
+      "source_file": "IntegerAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintsmanager_onconstraintremoved_constraintsmanager_onconstraintremoved",
+      "label": "ConstraintsManager_OnConstraintRemoved",
+      "file_type": "code",
+      "source_file": "ConstraintsManager_OnConstraintRemoved Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modularrigresolveresult_modularrigresolveresult",
+      "label": "ModularRigResolveResult",
+      "file_type": "code",
+      "source_file": "ModularRigResolveResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequenceconditionset_daysequenceconditionset",
+      "label": "DaySequenceConditionSet",
+      "file_type": "code",
+      "source_file": "DaySequenceConditionSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencemodifierblendmode_daysequencemodifierblendmode",
+      "label": "DaySequenceModifierBlendMode",
+      "file_type": "code",
+      "source_file": "DaySequenceModifierBlendMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onpcggraphcancelledexternal_onpcggraphcancelledexternal",
+      "label": "OnPCGGraphCancelledExternal",
+      "file_type": "code",
+      "source_file": "OnPCGGraphCancelledExternal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneprimitivematerialtrack_moviesceneprimitivematerialtrack",
+      "label": "MovieScenePrimitiveMaterialTrack",
+      "file_type": "code",
+      "source_file": "MovieScenePrimitiveMaterialTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_sight_aisense_sight",
+      "label": "AISense_Sight",
+      "file_type": "code",
+      "source_file": "AISense__Sight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skinnedmeshwritedataprovider_skinnedmeshwritedataprovider",
+      "label": "SkinnedMeshWriteDataProvider",
+      "file_type": "code",
+      "source_file": "SkinnedMeshWriteDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_orientationdriver_animgraphnode_orientationdriver",
+      "label": "AnimGraphNode_OrientationDriver",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_OrientationDriver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldscalartype_fieldscalartype",
+      "label": "FieldScalarType",
+      "file_type": "code",
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nnedenoiserinputmappingdata_nnedenoiserinputmappingdata",
+      "label": "NNEDenoiserInputMappingData",
+      "file_type": "code",
+      "source_file": "NNEDenoiserInputMappingData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontface_fontface",
+      "label": "FontFace",
+      "file_type": "code",
+      "source_file": "FontFace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_lightcardocio_displayclusterconfigurationicvfx_lightcardocio",
+      "label": "DisplayClusterConfigurationICVFX_LightcardOCIO",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_LightcardOCIO Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ismentityatom_ismentityatom",
+      "label": "IsmEntityAtom",
+      "file_type": "code",
+      "source_file": "IsmEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapythonmodule_niagarapythonmodule",
+      "label": "NiagaraPythonModule",
+      "file_type": "code",
+      "source_file": "NiagaraPythonModule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "validateassetsdetails_validateassetsdetails",
+      "label": "ValidateAssetsDetails",
+      "file_type": "code",
+      "source_file": "ValidateAssetsDetails Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediavideocapturedevicefilter_mediavideocapturedevicefilter",
+      "label": "MediaVideoCaptureDeviceFilter",
+      "file_type": "code",
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitychanges_entitychanges",
+      "label": "EntityChanges",
+      "file_type": "code",
+      "source_file": "EntityChanges Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "loudnessanalyzer_loudnessanalyzer",
+      "label": "LoudnessAnalyzer",
+      "file_type": "code",
+      "source_file": "LoudnessAnalyzer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldscalartype_scalar_kill",
+      "label": "SCALAR_KILL",
+      "file_type": "code",
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldscalartype_scalar_sleeping_threshold",
+      "label": "SCALAR_SLEEPING_THRESHOLD",
+      "file_type": "code",
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldscalartype_scalar_disable_threshold",
+      "label": "SCALAR_DISABLE_THRESHOLD",
+      "file_type": "code",
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldscalartype_scalar_external_cluster_strain",
+      "label": "SCALAR_EXTERNAL_CLUSTER_STRAIN",
+      "file_type": "code",
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldscalartype_scalar_internal_cluster_strain",
+      "label": "SCALAR_INTERNAL_CLUSTER_STRAIN",
+      "file_type": "code",
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencemodifierblendmode_global",
+      "label": "GLOBAL",
+      "file_type": "code",
+      "source_file": "DaySequenceModifierBlendMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencemodifierblendmode_volume",
+      "label": "VOLUME",
+      "file_type": "code",
+      "source_file": "DaySequenceModifierBlendMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediavideocapturedevicefilter_card",
+      "label": "CARD",
+      "file_type": "code",
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediavideocapturedevicefilter_software",
+      "label": "SOFTWARE",
+      "file_type": "code",
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediavideocapturedevicefilter_unknown",
+      "label": "UNKNOWN",
+      "file_type": "code",
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediavideocapturedevicefilter_webcam",
+      "label": "WEBCAM",
+      "file_type": "code",
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "fieldscalartype_scalar_kill",
+      "target": "fieldscalartype_fieldscalartype",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldscalartype_scalar_sleeping_threshold",
+      "target": "fieldscalartype_fieldscalartype",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldscalartype_scalar_disable_threshold",
+      "target": "fieldscalartype_fieldscalartype",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldscalartype_scalar_external_cluster_strain",
+      "target": "fieldscalartype_fieldscalartype",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldscalartype_scalar_internal_cluster_strain",
+      "target": "fieldscalartype_fieldscalartype",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldscalartype_scalar_kill",
+      "target": "fieldscalartype_scalar_sleeping_threshold",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldscalartype_scalar_kill",
+      "target": "fieldscalartype_scalar_disable_threshold",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldscalartype_scalar_sleeping_threshold",
+      "target": "fieldscalartype_scalar_disable_threshold",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldscalartype_scalar_external_cluster_strain",
+      "target": "fieldscalartype_scalar_internal_cluster_strain",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FieldScalarType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequencemodifierblendmode_global",
+      "target": "daysequencemodifierblendmode_daysequencemodifierblendmode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceModifierBlendMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequencemodifierblendmode_volume",
+      "target": "daysequencemodifierblendmode_daysequencemodifierblendmode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceModifierBlendMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediavideocapturedevicefilter_card",
+      "target": "mediavideocapturedevicefilter_mediavideocapturedevicefilter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediavideocapturedevicefilter_software",
+      "target": "mediavideocapturedevicefilter_mediavideocapturedevicefilter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediavideocapturedevicefilter_unknown",
+      "target": "mediavideocapturedevicefilter_mediavideocapturedevicefilter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediavideocapturedevicefilter_webcam",
+      "target": "mediavideocapturedevicefilter_mediavideocapturedevicefilter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaVideoCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneprimitivematerialtrack_moviesceneprimitivematerialtrack",
+      "target": "nnedenoiserinputmappingdata_nnedenoiserinputmappingdata",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieScenePrimitiveMaterialTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "loudnessanalyzer_loudnessanalyzer",
+      "target": "onlocalplayersavegameloaded_onlocalplayersavegameloaded",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LoudnessAnalyzer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "loudnessanalyzer_loudnessanalyzer",
+      "target": "onpcggraphcancelledexternal_onpcggraphcancelledexternal",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LoudnessAnalyzer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "loudnessanalyzer_loudnessanalyzer",
+      "target": "constraintsmanager_onconstraintremoved_constraintsmanager_onconstraintremoved",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LoudnessAnalyzer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintsmanager_onconstraintremoved_constraintsmanager_onconstraintremoved",
+      "target": "onlocalplayersavegameloaded_onlocalplayersavegameloaded",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ConstraintsManager_OnConstraintRemoved Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintsmanager_onconstraintremoved_constraintsmanager_onconstraintremoved",
+      "target": "onpcggraphcancelledexternal_onpcggraphcancelledexternal",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ConstraintsManager_OnConstraintRemoved Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlocalplayersavegameloaded_onlocalplayersavegameloaded",
+      "target": "onpcggraphcancelledexternal_onpcggraphcancelledexternal",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OnLocalPlayerSaveGameLoaded Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skinnedmeshwritedataprovider_skinnedmeshwritedataprovider",
+      "target": "animgraphnode_orientationdriver_animgraphnode_orientationdriver",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SkinnedMeshWriteDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequencemodifierblendmode_daysequencemodifierblendmode",
+      "target": "daysequenceconditionset_daysequenceconditionset",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DaySequenceModifierBlendMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entitychanges_entitychanges",
+      "target": "ismentityatom_ismentityatom",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EntityChanges Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapythonmodule_niagarapythonmodule",
+      "target": "entitychanges_entitychanges",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NiagaraPythonModule Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "event_delegate_system",
+      "label": "Event/Delegate System Pattern",
+      "nodes": [
+        "onlocalplayersavegameloaded_onlocalplayersavegameloaded",
+        "constraintsmanager_onconstraintremoved_constraintsmanager_onconstraintremoved",
+        "onpcggraphcancelledexternal_onpcggraphcancelledexternal",
+        "loudnessanalyzer_loudnessanalyzer"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LoudnessAnalyzer Objects.md"
+    },
+    {
+      "id": "physics_particle_state_management",
+      "label": "Physics Particle State Management",
+      "nodes": [
+        "fieldscalartype_scalar_kill",
+        "fieldscalartype_scalar_sleeping_threshold",
+        "fieldscalartype_scalar_disable_threshold"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FieldScalarType Objects.md"
+    },
+    {
+      "id": "cluster_strain_management",
+      "label": "Cluster Strain Management",
+      "nodes": [
+        "fieldscalartype_scalar_external_cluster_strain",
+        "fieldscalartype_scalar_internal_cluster_strain"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FieldScalarType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

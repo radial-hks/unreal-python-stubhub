@@ -1,0 +1,919 @@
+{
+  "nodes": [
+    {
+      "id": "performancetesttool",
+      "label": "PerformanceTestTool",
+      "file_type": "document",
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "performancetesttool_actor",
+      "label": "PerformanceTestTool Actor Base Class",
+      "file_type": "document",
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshdeformerinstance",
+      "label": "MeshDeformerInstance",
+      "file_type": "document",
+      "source_file": "MeshDeformerInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkblueprintlibrary",
+      "label": "LiveLinkBlueprintLibrary",
+      "file_type": "document",
+      "source_file": "LiveLinkBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelink_subject_handling",
+      "label": "LiveLink Subject Handling",
+      "file_type": "document",
+      "source_file": "LiveLinkBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelink_transform_operations",
+      "label": "LiveLink Transform Operations",
+      "file_type": "document",
+      "source_file": "LiveLinkBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionnoise",
+      "label": "MaterialExpressionNoise",
+      "file_type": "document",
+      "source_file": "MaterialExpressionNoise Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "noise_function",
+      "label": "Noise Function",
+      "file_type": "document",
+      "source_file": "MaterialExpressionNoise Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontimportoptionsdata",
+      "label": "FontImportOptionsData",
+      "file_type": "document",
+      "source_file": "FontImportOptionsData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "font_import_configuration",
+      "label": "Font Import Configuration",
+      "file_type": "document",
+      "source_file": "FontImportOptionsData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigsnapsettings",
+      "label": "ControlRigSnapSettings",
+      "file_type": "document",
+      "source_file": "ControlRigSnapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_animation_baking",
+      "label": "Rig Animation Baking",
+      "file_type": "document",
+      "source_file": "ControlRigSnapSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_polesolver",
+      "label": "IKRig_PoleSolver",
+      "file_type": "document",
+      "source_file": "IKRig__PoleSolver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ik_rig_solver",
+      "label": "IK Rig Solver",
+      "file_type": "document",
+      "source_file": "IKRig__PoleSolver Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenereplaceableactorbinding_bpbase",
+      "label": "MovieSceneReplaceableActorBinding_BPBase",
+      "file_type": "document",
+      "source_file": "MovieSceneReplaceableActorBinding__BPBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencer_binding_system",
+      "label": "Sequencer Binding System",
+      "file_type": "document",
+      "source_file": "MovieSceneReplaceableActorBinding__BPBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_rotationmultiplier",
+      "label": "AnimNode_RotationMultiplier",
+      "file_type": "document",
+      "source_file": "AnimNode__RotationMultiplier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bone_rotation_control",
+      "label": "Bone Rotation Control",
+      "file_type": "document",
+      "source_file": "AnimNode__RotationMultiplier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphysimspace",
+      "label": "AnimPhysSimSpace",
+      "file_type": "document",
+      "source_file": "AnimPhysSimSpaceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simulation_space_types",
+      "label": "Simulation Space Types",
+      "file_type": "document",
+      "source_file": "AnimPhysSimSpaceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_pointsimulation_debugsettings",
+      "label": "RigUnit_PointSimulation_DebugSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__PointSimulation__DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debug_visualization",
+      "label": "Debug Visualization",
+      "file_type": "document",
+      "source_file": "RigUnit__PointSimulation__DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ml_material_channel_control",
+      "label": "ML_Material_Channel_Control",
+      "file_type": "document",
+      "source_file": "ML__Material__Channel__Control Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_channel_properties",
+      "label": "Material Channel Properties",
+      "file_type": "document",
+      "source_file": "ML__Material__Channel__Control Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadlaneassettagdata",
+      "label": "AesRoadLaneAssetTagData",
+      "file_type": "document",
+      "source_file": "AesRoadLaneAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "road_lane_builder",
+      "label": "Road Lane Builder",
+      "file_type": "document",
+      "source_file": "AesRoadLaneAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leaderboardquerycallbackproxy",
+      "label": "LeaderboardQueryCallbackProxy",
+      "file_type": "document",
+      "source_file": "LeaderboardQueryCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "online_subsystem",
+      "label": "Online Subsystem",
+      "file_type": "document",
+      "source_file": "LeaderboardQueryCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dnaasset",
+      "label": "DNAAsset",
+      "file_type": "document",
+      "source_file": "DNAAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riglogic_character_system",
+      "label": "RigLogic Character System",
+      "file_type": "document",
+      "source_file": "DNAAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatlerp",
+      "label": "RigUnit_MathFloatLerp (deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Math Functions",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimetexturesampler",
+      "label": "glTFRuntimeTextureSampler",
+      "file_type": "document",
+      "source_file": "glTFRuntimeTextureSampler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltf_texture_import",
+      "label": "glTF Texture Import",
+      "file_type": "document",
+      "source_file": "glTFRuntimeTextureSampler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublegreater",
+      "label": "RigUnit_MathDoubleGreater (deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleGreater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distancefieldcomputemode",
+      "label": "DistanceFieldComputeMode",
+      "file_type": "document",
+      "source_file": "DistanceFieldComputeMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometry_scripting",
+      "label": "Geometry Scripting",
+      "file_type": "document",
+      "source_file": "DistanceFieldComputeMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecamerashakesectiondata",
+      "label": "MovieSceneCameraShakeSectionData",
+      "file_type": "document",
+      "source_file": "MovieSceneCameraShakeSectionData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_shake_sequencer",
+      "label": "Camera Shake in Sequencer",
+      "file_type": "document",
+      "source_file": "MovieSceneCameraShakeSectionData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_itemarray",
+      "label": "RigUnit_ItemArray",
+      "file_type": "document",
+      "source_file": "RigUnit__ItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_data_sharing",
+      "label": "ControlRig Data Sharing",
+      "file_type": "document",
+      "source_file": "RigUnit__ItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshactor",
+      "label": "StaticMeshActor",
+      "file_type": "document",
+      "source_file": "StaticMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "static_mesh_rendering",
+      "label": "Static Mesh Rendering",
+      "file_type": "document",
+      "source_file": "StaticMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_network_replication",
+      "label": "Actor Network Replication",
+      "file_type": "document",
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "lines 75-78",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_tick_system",
+      "label": "Actor Tick System",
+      "file_type": "document",
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "lines 105-108",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal_engine_module",
+      "label": "Unreal Engine Module",
+      "file_type": "document",
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "lines 11-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "performancetesttool",
+      "target": "performancetesttool_actor",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "performancetesttool",
+      "target": "actor_network_replication",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "lines 75-78",
+      "weight": 1.0
+    },
+    {
+      "source": "performancetesttool",
+      "target": "actor_tick_system",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "lines 105-108",
+      "weight": 1.0
+    },
+    {
+      "source": "performancetesttool",
+      "target": "unreal_engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "lines 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkblueprintlibrary",
+      "target": "livelink_subject_handling",
+      "relation": "provides",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "LiveLinkBlueprintLibrary Objects.md",
+      "source_location": "lines 68-83",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkblueprintlibrary",
+      "target": "livelink_transform_operations",
+      "relation": "provides",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "LiveLinkBlueprintLibrary Objects.md",
+      "source_location": "lines 120-142",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionnoise",
+      "target": "noise_function",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionNoise Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "fontimportoptionsdata",
+      "target": "font_import_configuration",
+      "relation": "defines",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FontImportOptionsData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigsnapsettings",
+      "target": "rig_animation_baking",
+      "relation": "configures",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ControlRigSnapSettings Objects.md",
+      "source_location": "lines 17-24",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_polesolver",
+      "target": "ik_rig_solver",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig__PoleSolver Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenereplaceableactorbinding_bpbase",
+      "target": "sequencer_binding_system",
+      "relation": "participates_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieSceneReplaceableActorBinding__BPBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rotationmultiplier",
+      "target": "bone_rotation_control",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode__RotationMultiplier Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "animphysimspace",
+      "target": "simulation_space_types",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPhysSimSpaceType Objects.md",
+      "source_location": "lines 14-42",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_pointsimulation_debugsettings",
+      "target": "debug_visualization",
+      "relation": "provides",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__PointSimulation__DebugSettings Objects.md",
+      "source_location": "lines 17-22",
+      "weight": 1.0
+    },
+    {
+      "source": "ml_material_channel_control",
+      "target": "material_channel_properties",
+      "relation": "aggregates",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ML__Material__Channel__Control Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadlaneassettagdata",
+      "target": "road_lane_builder",
+      "relation": "supports",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AesRoadLaneAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "leaderboardquerycallbackproxy",
+      "target": "online_subsystem",
+      "relation": "integrates_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LeaderboardQueryCallbackProxy Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "dnaasset",
+      "target": "riglogic_character_system",
+      "relation": "supports",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DNAAsset Objects.md",
+      "source_location": "lines 7-10",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatlerp",
+      "target": "rigvm_math_functions",
+      "relation": "deprecated_in_favor_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatLerp Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimetexturesampler",
+      "target": "gltf_texture_import",
+      "relation": "supports",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "glTFRuntimeTextureSampler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublegreater",
+      "target": "rigvm_math_functions",
+      "relation": "deprecated_in_favor_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleGreater Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "distancefieldcomputemode",
+      "target": "geometry_scripting",
+      "relation": "used_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DistanceFieldComputeMode Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecamerashakesectiondata",
+      "target": "camera_shake_sequencer",
+      "relation": "configures",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneCameraShakeSectionData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itemarray",
+      "target": "controlrig_data_sharing",
+      "relation": "enables",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ItemArray Objects.md",
+      "source_location": "lines 7-8",
+      "weight": 1.0
+    },
+    {
+      "source": "staticmeshactor",
+      "target": "static_mesh_rendering",
+      "relation": "optimized_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "StaticMeshActor Objects.md",
+      "source_location": "lines 7-8",
+      "weight": 1.0
+    },
+    {
+      "source": "staticmeshactor",
+      "target": "actor_network_replication",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "StaticMeshActor Objects.md",
+      "source_location": "lines 75-82",
+      "weight": 1.0
+    },
+    {
+      "source": "performancetesttool",
+      "target": "staticmeshactor",
+      "relation": "shares_base_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PerformanceTestTool Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkblueprintlibrary",
+      "target": "ikrig_polesolver",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "LiveLinkBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigsnapsettings",
+      "target": "ikrig_polesolver",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ControlRigSnapSettings Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_rotationmultiplier",
+      "target": "controlrigsnapsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode__RotationMultiplier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_pointsimulation_debugsettings",
+      "target": "rigunit_itemarray",
+      "relation": "shares_module_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__PointSimulation__DebugSettings Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionnoise",
+      "target": "ml_material_channel_control",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MaterialExpressionNoise Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenereplaceableactorbinding_bpbase",
+      "target": "moviescenecamerashakesectiondata",
+      "relation": "shares_module_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieSceneReplaceableActorBinding__BPBase Objects.md",
+      "source_location": "lines 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadlaneassettagdata",
+      "target": "gltfruntimetexturesampler",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesRoadLaneAssetTagData Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatlerp",
+      "target": "rigunit_mathdoublegreater",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathFloatLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dnaasset",
+      "target": "ikrig_polesolver",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DNAAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_ecosystem",
+      "label": "ControlRig Plugin Ecosystem",
+      "nodes": [
+        "controlrigsnapsettings",
+        "ikrig_polesolver",
+        "rigunit_pointsimulation_debugsettings",
+        "rigunit_itemarray",
+        "rigunit_mathfloatlerp",
+        "rigunit_mathdoublegreater"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ControlRigSnapSettings Objects.md"
+    },
+    {
+      "id": "unreal_animation_system",
+      "label": "Unreal Animation System",
+      "nodes": [
+        "animnode_rotationmultiplier",
+        "animphysimspace",
+        "controlrigsnapsettings",
+        "dnaasset",
+        "ikrig_polesolver"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode__RotationMultiplier Objects.md"
+    },
+    {
+      "id": "moviescene_sequencer_system",
+      "label": "MovieScene/Sequencer System",
+      "nodes": [
+        "moviescenereplaceableactorbinding_bpbase",
+        "moviescenecamerashakesectiondata"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieSceneReplaceableActorBinding__BPBase Objects.md"
+    }
+  ],
+  "input_tokens": 45632,
+  "output_tokens": 0
+}

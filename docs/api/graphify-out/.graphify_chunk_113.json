@@ -1,0 +1,722 @@
+{
+  "nodes": [
+    {
+      "id": "interactivetoolspresetcollectionasset_interactivetoolspresetcollectionasset",
+      "label": "InteractiveToolsPresetCollectionAsset",
+      "file_type": "document",
+      "source_file": "InteractiveToolsPresetCollectionAsset Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interactivetoolspresetcollectionasset_editorconfigbase",
+      "label": "EditorConfigBase",
+      "file_type": "document",
+      "source_file": "InteractiveToolsPresetCollectionAsset Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interactivetoolspresetcollectionasset_interactivetoolpresetstore",
+      "label": "InteractiveToolPresetStore",
+      "file_type": "document",
+      "source_file": "InteractiveToolsPresetCollectionAsset Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slider_slider",
+      "label": "Slider",
+      "file_type": "document",
+      "source_file": "Slider Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slider_widget",
+      "label": "Widget",
+      "file_type": "document",
+      "source_file": "Slider Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slider_linearcolor",
+      "label": "LinearColor",
+      "file_type": "document",
+      "source_file": "Slider Objects.md",
+      "source_location": "lines 60-61, 176, 196",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slider_sliderstyle",
+      "label": "SliderStyle",
+      "file_type": "document",
+      "source_file": "Slider Objects.md",
+      "source_location": "line 68",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slider_orientation",
+      "label": "Orientation",
+      "file_type": "document",
+      "source_file": "Slider Objects.md",
+      "source_location": "line 51",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slider_onfloatvaluechangedevent",
+      "label": "OnFloatValueChangedEvent",
+      "file_type": "document",
+      "source_file": "Slider Objects.md",
+      "source_location": "line 50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleconsttwopi_rigunit_mathdoubleconsttwopi",
+      "label": "RigUnit_MathDoubleConstTwoPi",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleConstTwoPi Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleconsttwopi_rigvmfunction_mathdoubleconsttwopi",
+      "label": "RigVMFunction_MathDoubleConstTwoPi",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleConstTwoPi Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendspacelibrary_blendspacelibrary",
+      "label": "BlendSpaceLibrary",
+      "file_type": "document",
+      "source_file": "BlendSpaceLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendspacelibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "BlendSpaceLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendspacelibrary_blendspacereference",
+      "label": "BlendSpaceReference",
+      "file_type": "document",
+      "source_file": "BlendSpaceLibrary Objects.md",
+      "source_location": "lines 20, 37, 55, 73, 97",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendspacelibrary_animnodereference",
+      "label": "AnimNodeReference",
+      "file_type": "document",
+      "source_file": "BlendSpaceLibrary Objects.md",
+      "source_location": "lines 73, 97",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpshapeupdatepointinfo_wdpshapeupdatepointinfo",
+      "label": "WdpShapeUpdatePointInfo",
+      "file_type": "document",
+      "source_file": "WdpShapeUpdatePointInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpshapeupdatepointinfo_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "WdpShapeUpdatePointInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_getlinearcolor_widget_getlinearcolor",
+      "label": "Widget_GetLinearColor",
+      "file_type": "document",
+      "source_file": "Widget__GetLinearColor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_getlinearcolor_delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "Widget__GetLinearColor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_getlinearcolor_linearcolor",
+      "label": "LinearColor",
+      "file_type": "document",
+      "source_file": "Widget__GetLinearColor Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "globaleditorutilitybase_globaleditorutilitybase",
+      "label": "GlobalEditorUtilityBase",
+      "file_type": "document",
+      "source_file": "GlobalEditorUtilityBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "globaleditorutilitybase_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "GlobalEditorUtilityBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "globaleditorutilitybase_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "GlobalEditorUtilityBase Objects.md",
+      "source_location": "lines 97, 149, 211",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "globaleditorutilitybase_editorperprojectusersettings",
+      "label": "EditorPerProjectUserSettings",
+      "file_type": "document",
+      "source_file": "GlobalEditorUtilityBase Objects.md",
+      "source_location": "line 198",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxmaterialbakemode_fbxmaterialbakemode",
+      "label": "FbxMaterialBakeMode",
+      "file_type": "document",
+      "source_file": "FbxMaterialBakeMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxmaterialbakemode_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "FbxMaterialBakeMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitgameplaytagcountdelegate_waitgameplaytagcountdelegate",
+      "label": "WaitGameplayTagCountDelegate",
+      "file_type": "document",
+      "source_file": "WaitGameplayTagCountDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitgameplaytagcountdelegate_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "WaitGameplayTagCountDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorentityaddmessage_aeseditorentityaddmessage",
+      "label": "AesEditorEntityAddMessage",
+      "file_type": "document",
+      "source_file": "AesEditorEntityAddMessage Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorentityaddmessage_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "AesEditorEntityAddMessage Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applicationlifecyclecomponent_ontemperaturechangedelegate_applicationlifecyclecomponent_ontemperaturechangedelegate",
+      "label": "ApplicationLifecycleComponent_OnTemperatureChangeDelegate",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent_OnTemperatureChangeDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applicationlifecyclecomponent_ontemperaturechangedelegate_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent_OnTemperatureChangeDelegate Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakepatternupdateparams_camerashakepatternupdateparams",
+      "label": "CameraShakePatternUpdateParams",
+      "file_type": "document",
+      "source_file": "CameraShakePatternUpdateParams Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakepatternupdateparams_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "CameraShakePatternUpdateParams Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakepatternupdateparams_minimalviewinfo",
+      "label": "MinimalViewInfo",
+      "file_type": "document",
+      "source_file": "CameraShakePatternUpdateParams Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "interactivetoolspresetcollectionasset_interactivetoolspresetcollectionasset",
+      "target": "interactivetoolspresetcollectionasset_editorconfigbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InteractiveToolsPresetCollectionAsset Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "interactivetoolspresetcollectionasset_interactivetoolspresetcollectionasset",
+      "target": "interactivetoolspresetcollectionasset_interactivetoolpresetstore",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InteractiveToolsPresetCollectionAsset Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "slider_slider",
+      "target": "slider_widget",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Slider Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "slider_slider",
+      "target": "slider_linearcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Slider Objects.md",
+      "source_location": "lines 60-61",
+      "weight": 1.0
+    },
+    {
+      "source": "slider_slider",
+      "target": "slider_sliderstyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Slider Objects.md",
+      "source_location": "line 68",
+      "weight": 1.0
+    },
+    {
+      "source": "slider_slider",
+      "target": "slider_orientation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Slider Objects.md",
+      "source_location": "line 51",
+      "weight": 1.0
+    },
+    {
+      "source": "slider_slider",
+      "target": "slider_onfloatvaluechangedevent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Slider Objects.md",
+      "source_location": "line 50",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleconsttwopi_rigunit_mathdoubleconsttwopi",
+      "target": "rigunit_mathdoubleconsttwopi_rigvmfunction_mathdoubleconsttwopi",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleConstTwoPi Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "blendspacelibrary_blendspacelibrary",
+      "target": "blendspacelibrary_blueprintfunctionlibrary",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlendSpaceLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "blendspacelibrary_blendspacelibrary",
+      "target": "blendspacelibrary_blendspacereference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlendSpaceLibrary Objects.md",
+      "source_location": "lines 20, 37, 55, 73, 97",
+      "weight": 1.0
+    },
+    {
+      "source": "blendspacelibrary_blendspacelibrary",
+      "target": "blendspacelibrary_animnodereference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlendSpaceLibrary Objects.md",
+      "source_location": "lines 73, 97",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpshapeupdatepointinfo_wdpshapeupdatepointinfo",
+      "target": "wdpshapeupdatepointinfo_structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpShapeUpdatePointInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "widget_getlinearcolor_widget_getlinearcolor",
+      "target": "widget_getlinearcolor_delegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Widget__GetLinearColor Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "widget_getlinearcolor_widget_getlinearcolor",
+      "target": "widget_getlinearcolor_linearcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Widget__GetLinearColor Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "globaleditorutilitybase_globaleditorutilitybase",
+      "target": "globaleditorutilitybase_object",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GlobalEditorUtilityBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "globaleditorutilitybase_globaleditorutilitybase",
+      "target": "globaleditorutilitybase_actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GlobalEditorUtilityBase Objects.md",
+      "source_location": "lines 97, 149, 211",
+      "weight": 1.0
+    },
+    {
+      "source": "globaleditorutilitybase_globaleditorutilitybase",
+      "target": "globaleditorutilitybase_editorperprojectusersettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GlobalEditorUtilityBase Objects.md",
+      "source_location": "line 198",
+      "weight": 1.0
+    },
+    {
+      "source": "fbxmaterialbakemode_fbxmaterialbakemode",
+      "target": "fbxmaterialbakemode_enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FbxMaterialBakeMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "waitgameplaytagcountdelegate_waitgameplaytagcountdelegate",
+      "target": "waitgameplaytagcountdelegate_multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaitGameplayTagCountDelegate Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorentityaddmessage_aeseditorentityaddmessage",
+      "target": "aeseditorentityaddmessage_structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorEntityAddMessage Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "applicationlifecyclecomponent_ontemperaturechangedelegate_applicationlifecyclecomponent_ontemperaturechangedelegate",
+      "target": "applicationlifecyclecomponent_ontemperaturechangedelegate_multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent_OnTemperatureChangeDelegate Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "camerashakepatternupdateparams_camerashakepatternupdateparams",
+      "target": "camerashakepatternupdateparams_structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraShakePatternUpdateParams Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "camerashakepatternupdateparams_camerashakepatternupdateparams",
+      "target": "camerashakepatternupdateparams_minimalviewinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraShakePatternUpdateParams Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "slider_linearcolor",
+      "target": "widget_getlinearcolor_linearcolor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Slider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpshapeupdatepointinfo_structbase",
+      "target": "aeseditorentityaddmessage_structbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "WdpShapeUpdatePointInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpshapeupdatepointinfo_structbase",
+      "target": "camerashakepatternupdateparams_structbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "WdpShapeUpdatePointInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorentityaddmessage_structbase",
+      "target": "camerashakepatternupdateparams_structbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "AesEditorEntityAddMessage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waitgameplaytagcountdelegate_multicastdelegatebase",
+      "target": "applicationlifecyclecomponent_ontemperaturechangedelegate_multicastdelegatebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "WaitGameplayTagCountDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blendspacelibrary_blendspacereference",
+      "target": "blendspacelibrary_animnodereference",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BlendSpaceLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_struct_hierarchy",
+      "label": "StructBase-derived data structures",
+      "nodes": [
+        "wdpshapeupdatepointinfo_wdpshapeupdatepointinfo",
+        "aeseditorentityaddmessage_aeseditorentityaddmessage",
+        "camerashakepatternupdateparams_camerashakepatternupdateparams"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpShapeUpdatePointInfo Objects.md"
+    },
+    {
+      "id": "unreal_delegate_hierarchy",
+      "label": "MulticastDelegateBase-derived delegates",
+      "nodes": [
+        "waitgameplaytagcountdelegate_waitgameplaytagcountdelegate",
+        "applicationlifecyclecomponent_ontemperaturechangedelegate_applicationlifecyclecomponent_ontemperaturechangedelegate"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WaitGameplayTagCountDelegate Objects.md"
+    },
+    {
+      "id": "unreal_ui_color_system",
+      "label": "LinearColor usage in UI widgets",
+      "nodes": [
+        "slider_slider",
+        "widget_getlinearcolor_widget_getlinearcolor"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "Slider Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1000 @@
+{
+  "nodes": [
+    {
+      "id": "pawnaction_move_pawnaction_move",
+      "label": "PawnAction_Move",
+      "file_type": "code",
+      "source_file": "PawnAction__Move Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnaction_move_pawnaction",
+      "label": "PawnAction",
+      "file_type": "code",
+      "source_file": "PawnAction__Move Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnaction_move_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "PawnAction__Move Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnaction_move_vector",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "PawnAction__Move Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent_synthcomponent",
+      "label": "SynthComponent",
+      "file_type": "code",
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent_scenecomponent",
+      "label": "SceneComponent",
+      "file_type": "code",
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent_soundattenuation",
+      "label": "SoundAttenuation",
+      "file_type": "code",
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent_soundattenuationsettings",
+      "label": "SoundAttenuationSettings",
+      "file_type": "code",
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent_soundconcurrency",
+      "label": "SoundConcurrency",
+      "file_type": "code",
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent_soundsubmixbase",
+      "label": "SoundSubmixBase",
+      "file_type": "code",
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent_audiobus",
+      "label": "AudioBus",
+      "file_type": "code",
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatacos_rigunit_mathfloatacos",
+      "label": "RigUnit_MathFloatAcos",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatAcos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatacos_rigvmfunction_mathfloatacos",
+      "label": "RigVMFunction_MathFloatAcos",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatAcos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massagentmovementsynctrait_massagentmovementsynctrait",
+      "label": "MassAgentMovementSyncTrait",
+      "file_type": "code",
+      "source_file": "MassAgentMovementSyncTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massagentmovementsynctrait_massagentsynctrait",
+      "label": "MassAgentSyncTrait",
+      "file_type": "code",
+      "source_file": "MassAgentMovementSyncTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaviewportcameraactor_avaviewportcameraactor",
+      "label": "AvaViewportCameraActor",
+      "file_type": "code",
+      "source_file": "AvaViewportCameraActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaviewportcameraactor_cameraactor",
+      "label": "CameraActor",
+      "file_type": "code",
+      "source_file": "AvaViewportCameraActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderblueprintlibrary_takerecorderblueprintlibrary",
+      "label": "TakeRecorderBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderblueprintlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderblueprintlibrary_takerecorder",
+      "label": "TakeRecorder",
+      "file_type": "code",
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderblueprintlibrary_levelsequence",
+      "label": "LevelSequence",
+      "file_type": "code",
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderblueprintlibrary_takerecordersources",
+      "label": "TakeRecorderSources",
+      "file_type": "code",
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderblueprintlibrary_takemetadata",
+      "label": "TakeMetaData",
+      "file_type": "code",
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderblueprintlibrary_takerecorderparameters",
+      "label": "TakeRecorderParameters",
+      "file_type": "code",
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioparameter_audioparameter",
+      "label": "AudioParameter",
+      "file_type": "code",
+      "source_file": "AudioParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioparameter_audioparametertype",
+      "label": "AudioParameterType",
+      "file_type": "code",
+      "source_file": "AudioParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashaperoundedcornersettings_avashaperoundedcornersettings",
+      "label": "AvaShapeRoundedCornerSettings",
+      "file_type": "code",
+      "source_file": "AvaShapeRoundedCornerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolaxis_rigcontrolaxis",
+      "label": "RigControlAxis",
+      "file_type": "code",
+      "source_file": "RigControlAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageconnectorchannel_dmmaterialstageconnectorchannel",
+      "label": "DMMaterialStageConnectorChannel",
+      "file_type": "code",
+      "source_file": "DMMaterialStageConnectorChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageconnectorchannel_dmmaterialpropertytype",
+      "label": "DMMaterialPropertyType",
+      "file_type": "code",
+      "source_file": "DMMaterialStageConnectorChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraclipboardfunction_onpastedfunctioncallnode_niagaraclipboardfunction_onpastedfunctioncallnode",
+      "label": "NiagaraClipboardFunction_OnPastedFunctionCallNode",
+      "file_type": "code",
+      "source_file": "NiagaraClipboardFunction_OnPastedFunctionCallNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraclipboardfunction_onpastedfunctioncallnode_niagaranodefunctioncall",
+      "label": "NiagaraNodeFunctionCall",
+      "file_type": "code",
+      "source_file": "NiagaraClipboardFunction_OnPastedFunctionCallNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxramp4_materialexpressionmaterialxramp4",
+      "label": "MaterialExpressionMaterialXRamp4",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXRamp4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxramp4_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionMaterialXRamp4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetingtracetype_targetingtracetype",
+      "label": "TargetingTraceType",
+      "file_type": "code",
+      "source_file": "TargetingTraceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fcontrolrigchannelenum_fcontrolrigchannelenum",
+      "label": "FControlRigChannelEnum",
+      "file_type": "code",
+      "source_file": "FControlRigChannelEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassblueprintfunctionlibrary_landmassblueprintfunctionlibrary",
+      "label": "LandmassBlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "LandmassBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassblueprintfunctionlibrary_texture",
+      "label": "Texture",
+      "file_type": "code",
+      "source_file": "LandmassBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassblueprintfunctionlibrary_landmasslandscapeinfo",
+      "label": "LandmassLandscapeInfo",
+      "file_type": "code",
+      "source_file": "LandmassBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnamedrerouteusagesettings_pcgnamedrerouteusagesettings",
+      "label": "PCGNamedRerouteUsageSettings",
+      "file_type": "code",
+      "source_file": "PCGNamedRerouteUsageSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnamedrerouteusagesettings_pcgnamedreroutebasesettings",
+      "label": "PCGNamedRerouteBaseSettings",
+      "file_type": "code",
+      "source_file": "PCGNamedRerouteUsageSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnamedrerouteusagesettings_pcgnamedreroutedeclarationsettings",
+      "label": "PCGNamedRerouteDeclarationSettings",
+      "file_type": "code",
+      "source_file": "PCGNamedRerouteUsageSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathrbfinterpolatevectorvector_target_mathrbfinterpolatevectorvector_target",
+      "label": "MathRBFInterpolateVectorVector_Target",
+      "file_type": "code",
+      "source_file": "MathRBFInterpolateVectorVector__Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorgradingmixerobjectfilter_colorgradingmixerobjectfilter",
+      "label": "ColorGradingMixerObjectFilter",
+      "file_type": "code",
+      "source_file": "ColorGradingMixerObjectFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorgradingmixerobjectfilter_objectmixerobjectfilter",
+      "label": "ObjectMixerObjectFilter",
+      "file_type": "code",
+      "source_file": "ColorGradingMixerObjectFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_rotationmultiplier_animgraphnode_rotationmultiplier",
+      "label": "AnimGraphNode_RotationMultiplier",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_RotationMultiplier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_rotationmultiplier_animgraphnode_skeletalcontrolbase",
+      "label": "AnimGraphNode_SkeletalControlBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_RotationMultiplier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_rotationmultiplier_animnode_rotationmultiplier",
+      "label": "AnimNode_RotationMultiplier",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_RotationMultiplier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphglobalvariable_sequencename_moviegraphglobalvariable_sequencename",
+      "label": "MovieGraphGlobalVariable_SequenceName",
+      "file_type": "code",
+      "source_file": "MovieGraphGlobalVariable_SequenceName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphglobalvariable_sequencename_moviegraphglobalvariable",
+      "label": "MovieGraphGlobalVariable",
+      "file_type": "code",
+      "source_file": "MovieGraphGlobalVariable_SequenceName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionlocalposition_materialexpressionlocalposition",
+      "label": "MaterialExpressionLocalPosition",
+      "file_type": "code",
+      "source_file": "MaterialExpressionLocalPosition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimecelltransformerinstance_runtimecelltransformerinstance",
+      "label": "RuntimeCellTransformerInstance",
+      "file_type": "code",
+      "source_file": "RuntimeCellTransformerInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimecelltransformerinstance_worldpartitionruntimecelltransformer",
+      "label": "WorldPartitionRuntimeCellTransformer",
+      "file_type": "code",
+      "source_file": "RuntimeCellTransformerInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pawnaction_move_pawnaction_move",
+      "target": "pawnaction_move_pawnaction",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction__Move Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_move_pawnaction_move",
+      "target": "pawnaction_move_actor",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction__Move Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnaction_move_pawnaction_move",
+      "target": "pawnaction_move_vector",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnAction__Move Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponent_synthcomponent",
+      "target": "synthcomponent_scenecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponent_synthcomponent",
+      "target": "synthcomponent_soundattenuation",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponent_synthcomponent",
+      "target": "synthcomponent_soundattenuationsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponent_synthcomponent",
+      "target": "synthcomponent_soundconcurrency",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponent_synthcomponent",
+      "target": "synthcomponent_soundsubmixbase",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponent_synthcomponent",
+      "target": "synthcomponent_audiobus",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatacos_rigunit_mathfloatacos",
+      "target": "rigunit_mathfloatacos_rigvmfunction_mathfloatacos",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatAcos Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massagentmovementsynctrait_massagentmovementsynctrait",
+      "target": "massagentmovementsynctrait_massagentsynctrait",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassAgentMovementSyncTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaviewportcameraactor_avaviewportcameraactor",
+      "target": "avaviewportcameraactor_cameraactor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaViewportCameraActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderblueprintlibrary_takerecorderblueprintlibrary",
+      "target": "takerecorderblueprintlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderblueprintlibrary_takerecorderblueprintlibrary",
+      "target": "takerecorderblueprintlibrary_takerecorder",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderblueprintlibrary_takerecorderblueprintlibrary",
+      "target": "takerecorderblueprintlibrary_levelsequence",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderblueprintlibrary_takerecorderblueprintlibrary",
+      "target": "takerecorderblueprintlibrary_takerecordersources",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderblueprintlibrary_takerecorderblueprintlibrary",
+      "target": "takerecorderblueprintlibrary_takemetadata",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderblueprintlibrary_takerecorderblueprintlibrary",
+      "target": "takerecorderblueprintlibrary_takerecorderparameters",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioparameter_audioparameter",
+      "target": "audioparameter_audioparametertype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageconnectorchannel_dmmaterialstageconnectorchannel",
+      "target": "dmmaterialstageconnectorchannel_dmmaterialpropertytype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageConnectorChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraclipboardfunction_onpastedfunctioncallnode_niagaraclipboardfunction_onpastedfunctioncallnode",
+      "target": "niagaraclipboardfunction_onpastedfunctioncallnode_niagaranodefunctioncall",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraClipboardFunction_OnPastedFunctionCallNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxramp4_materialexpressionmaterialxramp4",
+      "target": "materialexpressionmaterialxramp4_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXRamp4 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassblueprintfunctionlibrary_landmassblueprintfunctionlibrary",
+      "target": "landmassblueprintfunctionlibrary_texture",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassblueprintfunctionlibrary_landmassblueprintfunctionlibrary",
+      "target": "landmassblueprintfunctionlibrary_landmasslandscapeinfo",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnamedrerouteusagesettings_pcgnamedrerouteusagesettings",
+      "target": "pcgnamedrerouteusagesettings_pcgnamedreroutebasesettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNamedRerouteUsageSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnamedrerouteusagesettings_pcgnamedrerouteusagesettings",
+      "target": "pcgnamedrerouteusagesettings_pcgnamedreroutedeclarationsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNamedRerouteUsageSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "colorgradingmixerobjectfilter_colorgradingmixerobjectfilter",
+      "target": "colorgradingmixerobjectfilter_objectmixerobjectfilter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorGradingMixerObjectFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_rotationmultiplier_animgraphnode_rotationmultiplier",
+      "target": "animgraphnode_rotationmultiplier_animgraphnode_skeletalcontrolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_RotationMultiplier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_rotationmultiplier_animgraphnode_rotationmultiplier",
+      "target": "animgraphnode_rotationmultiplier_animnode_rotationmultiplier",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_RotationMultiplier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphglobalvariable_sequencename_moviegraphglobalvariable_sequencename",
+      "target": "moviegraphglobalvariable_sequencename_moviegraphglobalvariable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalVariable_SequenceName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionlocalposition_materialexpressionlocalposition",
+      "target": "materialexpressionmaterialxramp4_materialexpression",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionLocalPosition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "runtimecelltransformerinstance_runtimecelltransformerinstance",
+      "target": "runtimecelltransformerinstance_worldpartitionruntimecelltransformer",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RuntimeCellTransformerInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassblueprintfunctionlibrary_landmassblueprintfunctionlibrary",
+      "target": "takerecorderblueprintlibrary_takerecorderblueprintlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LandmassBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponent_synthcomponent",
+      "target": "audioparameter_audioparameter",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SynthComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxramp4_materialexpressionmaterialxramp4",
+      "target": "materialexpressionlocalposition_materialexpressionlocalposition",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionMaterialXRamp4 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatacos_rigunit_mathfloatacos",
+      "target": "rigcontrolaxis_rigcontrolaxis",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_MathFloatAcos Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatacos_rigunit_mathfloatacos",
+      "target": "fcontrolrigchannelenum_fcontrolrigchannelenum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_MathFloatAcos Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_rotationmultiplier_animgraphnode_rotationmultiplier",
+      "target": "fcontrolrigchannelenum_fcontrolrigchannelenum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode_RotationMultiplier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "audio_system_components",
+      "label": "Audio System Components",
+      "nodes": [
+        "synthcomponent_synthcomponent",
+        "audioparameter_audioparameter",
+        "synthcomponent_soundattenuation",
+        "synthcomponent_audiobus"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SynthComponent Objects.md"
+    },
+    {
+      "id": "rig_control_system",
+      "label": "Rig Control System",
+      "nodes": [
+        "rigunit_mathfloatacos_rigunit_mathfloatacos",
+        "rigcontrolaxis_rigcontrolaxis",
+        "fcontrolrigchannelenum_fcontrolrigchannelenum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathFloatAcos Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,410 @@
+{
+  "nodes": [
+    {
+      "id": "wdpcommoninput_onrotatekeypressed_wdpcommoninput_onrotatekeypressed",
+      "label": "WdpCommonInput OnRotateKeyPressed",
+      "file_type": "code",
+      "source_file": "WdpCommonInput__OnRotateKeyPressed Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatatransformsettings_pcgmetadatatransformsettings",
+      "label": "PCGMetadata TransformSettings",
+      "file_type": "code",
+      "source_file": "PCGMetadataTransformSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpointneighborhooddensitymode_pcgpointneighborhooddensitymode",
+      "label": "PCGPoint Neighborhood Density Mode",
+      "file_type": "code",
+      "source_file": "PCGPointNeighborhoodDensityMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionscenedepth_dmmaterialstageexpressionscenedepth",
+      "label": "DMMaterialStageExpression SceneDepth",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionSceneDepth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppicker_wdppicker",
+      "label": "WdpPicker",
+      "file_type": "code",
+      "source_file": "WdpPicker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpositionincludedoffsets_worldpositionincludedoffsets",
+      "label": "WorldPosition Included Offsets",
+      "file_type": "code",
+      "source_file": "WorldPositionIncludedOffsets Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolorlerp_rigvmfunction_mathcolorlerp",
+      "label": "RigVMFunction MathColorLerp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathColorLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionextractor_axis_motionextractor_axis",
+      "label": "MotionExtractor Axis",
+      "file_type": "code",
+      "source_file": "MotionExtractor_Axis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_posehandler_animnode_posehandler",
+      "label": "AnimNode PoseHandler",
+      "file_type": "code",
+      "source_file": "AnimNode_PoseHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialfalloff_radialfalloff",
+      "label": "RadialFalloff",
+      "file_type": "code",
+      "source_file": "RadialFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectormirrortransform_rigunit_mathvectormirrortransform",
+      "label": "RigUnit MathVectorMirrorTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublesub_rigunit_mathdoublesub",
+      "label": "RigUnit MathDoubleSub",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorsubsystem_editorsubsystem",
+      "label": "EditorSubsystem",
+      "file_type": "code",
+      "source_file": "EditorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyeditortesteditcondition_propertyeditortesteditcondition",
+      "label": "PropertyEditorTestEditCondition",
+      "file_type": "code",
+      "source_file": "PropertyEditorTestEditCondition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldsystemcomponent_fieldsystemcomponent",
+      "label": "FieldSystemComponent",
+      "file_type": "code",
+      "source_file": "FieldSystemComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetlistresult_assetlistresult",
+      "label": "AssetListResult",
+      "file_type": "code",
+      "source_file": "AssetListResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonercirclelayout_avaclonercirclelayout",
+      "label": "AvaClonerCircleLayout",
+      "file_type": "code",
+      "source_file": "AvaClonerCircleLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaramipmapgenerationtype_niagaramipmapgenerationtype",
+      "label": "NiagaraMipMapGenerationType",
+      "file_type": "code",
+      "source_file": "NiagaraMipMapGenerationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerquatvariable_rigvmtrait_setdeformerquatvariable",
+      "label": "RigVMTrait SetDeformerQuatVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerQuatVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputtouchhandlerdynamicsignature_inputtouchhandlerdynamicsignature",
+      "label": "InputTouchHandlerDynamicSignature",
+      "file_type": "code",
+      "source_file": "InputTouchHandlerDynamicSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearray_niagaradatainterfacearray",
+      "label": "NiagaraDataInterfaceArray",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatebase_rigvmfunction_accumulatebase",
+      "label": "RigVMFunction AccumulateBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AccumulateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "wdppicker_wdppicker",
+      "target": "fieldsystemcomponent_fieldsystemcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WdpPicker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdppicker_wdppicker",
+      "target": "radialfalloff_radialfalloff",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "WdpPicker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatatransformsettings_pcgmetadatatransformsettings",
+      "target": "pcgpointneighborhooddensitymode_pcgpointneighborhooddensitymode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGMetadataTransformSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "radialfalloff_radialfalloff",
+      "target": "fieldsystemcomponent_fieldsystemcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RadialFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcolorlerp_rigvmfunction_mathcolorlerp",
+      "target": "rigvmfunction_accumulatebase_rigvmfunction_accumulatebase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathColorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormirrortransform_rigunit_mathvectormirrortransform",
+      "target": "rigvmfunction_mathcolorlerp_rigvmfunction_mathcolorlerp",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathVectorMirrorTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublesub_rigunit_mathdoublesub",
+      "target": "rigvmfunction_mathcolorlerp_rigvmfunction_mathcolorlerp",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathDoubleSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublesub_rigunit_mathdoublesub",
+      "target": "rigunit_mathvectormirrortransform_rigunit_mathvectormirrortransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathDoubleSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerquatvariable_rigvmtrait_setdeformerquatvariable",
+      "target": "rigvmfunction_mathcolorlerp_rigvmfunction_mathcolorlerp",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMTrait__SetDeformerQuatVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearray_niagaradatainterfacearray",
+      "target": "niagaramipmapgenerationtype_niagaramipmapgenerationtype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NiagaraDataInterfaceArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posehandler_animnode_posehandler",
+      "target": "motionextractor_axis_motionextractor_axis",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode_PoseHandler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpositionincludedoffsets_worldpositionincludedoffsets",
+      "target": "dmmaterialstageexpressionscenedepth_dmmaterialstageexpressionscenedepth",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WorldPositionIncludedOffsets Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathcolorlerp_rigvmfunction_mathcolorlerp",
+        "rigunit_mathvectormirrortransform_rigunit_mathvectormirrortransform",
+        "rigunit_mathdoublesub_rigunit_mathdoublesub",
+        "rigvmfunction_accumulatebase_rigvmfunction_accumulatebase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathColorLerp Objects.md"
+    },
+    {
+      "id": "physics_field_systems",
+      "label": "Physics Field System Components",
+      "nodes": [
+        "radialfalloff_radialfalloff",
+        "fieldsystemcomponent_fieldsystemcomponent"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RadialFalloff Objects.md"
+    },
+    {
+      "id": "niagara_data_processing",
+      "label": "Niagara Data Processing Types",
+      "nodes": [
+        "niagaradatainterfacearray_niagaradatainterfacearray",
+        "niagaramipmapgenerationtype_niagaramipmapgenerationtype"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NiagaraDataInterfaceArray Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

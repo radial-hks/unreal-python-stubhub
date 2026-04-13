@@ -1,0 +1,616 @@
+{
+  "entities": [
+    {
+      "id": "EarthFragmentLibrary",
+      "type": "class",
+      "name": "EarthFragmentLibrary",
+      "base_class": "BlueprintFunctionLibrary",
+      "description": "Function library for all lightweight data fragment base classes",
+      "plugin": "AesWorld",
+      "module": "EarthPrefab",
+      "file": "EarthFragmentLibrary.h"
+    },
+    {
+      "id": "GameplayModifierEvaluatedData",
+      "type": "class",
+      "name": "GameplayModifierEvaluatedData",
+      "base_class": "StructBase",
+      "description": "Data that describes what happened in an attribute modification, passed to ability set callbacks",
+      "plugin": "GameplayAbilities",
+      "module": "GameplayAbilities",
+      "file": "GameplayEffectTypes.h"
+    },
+    {
+      "id": "RigUnit_AddBoneTransform",
+      "type": "class",
+      "name": "RigUnit_AddBoneTransform",
+      "base_class": "RigUnitMutable",
+      "description": "Offset Transform used to perform a change in hierarchy by setting a single bone's transform",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_AddBoneTransform.h",
+      "properties": [
+        {"name": "bone", "type": "Name", "description": "The name of the Bone to set the transform for"},
+        {"name": "transform", "type": "Transform", "description": "The transform value to set for the given Bone"},
+        {"name": "weight", "type": "float", "description": "The weight of the change - how much the change should be applied"},
+        {"name": "post_multiply", "type": "bool", "description": "If set to true the transform will be post multiplied, otherwise pre multiplied"},
+        {"name": "propagate_to_children", "type": "bool", "description": "If set to true all of the global transforms of the children of this bone will be recalculated"}
+      ]
+    },
+    {
+      "id": "HapticFeedbackEffect_Base",
+      "type": "class",
+      "name": "HapticFeedbackEffect_Base",
+      "base_class": "Object",
+      "description": "Haptic Feedback Effect Base",
+      "plugin": null,
+      "module": "Engine",
+      "file": "HapticFeedbackEffect_Base.h"
+    },
+    {
+      "id": "ComputeKernelFromText",
+      "type": "class",
+      "name": "ComputeKernelFromText",
+      "base_class": "ComputeKernelSource",
+      "description": "Class responsible for loading HLSL text and parsing the options available",
+      "plugin": "ComputeFramework",
+      "module": "ComputeFramework",
+      "file": "ComputeKernelFromText.h",
+      "properties": [
+        {"name": "additional_sources", "type": "Array[ComputeSource]", "description": "An array of additional independent source assets that the kernel source depends on"},
+        {"name": "definitions_set", "type": "ComputeKernelDefinitionSet", "description": "Base environment defines for kernel compilation"},
+        {"name": "entry_point", "type": "str", "description": "Kernel entry point"},
+        {"name": "external_inputs", "type": "Array[ShaderFunctionDefinition]", "description": "Named external inputs for the kernel"},
+        {"name": "external_outputs", "type": "Array[ShaderFunctionDefinition]", "description": "Named external outputs for the kernel"},
+        {"name": "group_size", "type": "IntVector", "description": "Kernel group size"},
+        {"name": "permutation_set", "type": "ComputeKernelPermutationSet", "description": "Base permutations exposed by the kernel"},
+        {"name": "source_file", "type": "FilePath", "description": "Filepath to the source file containing the kernel entry points"}
+      ]
+    },
+    {
+      "id": "MotionExtractorModifier",
+      "type": "class",
+      "name": "MotionExtractorModifier",
+      "base_class": "AnimationModifier",
+      "description": "Extracts motion from a bone in the animation and bakes it into a curve",
+      "plugin": "AnimationModifierLibrary",
+      "module": "AnimationModifierLibrary",
+      "file": "MotionExtractorModifier.h",
+      "properties": [
+        {"name": "absolute_value", "type": "bool", "description": "Whether to convert the final value to absolute (positive)"},
+        {"name": "axis", "type": "MotionExtractor_Axis", "description": "Axis to get the value from"},
+        {"name": "bone_name", "type": "Name", "description": "Bone we are going to generate the curve from"},
+        {"name": "custom_curve_name", "type": "Name", "description": "Custom name for the curve we are going to generate"},
+        {"name": "math_operation", "type": "MotionExtractor_MathOperation", "description": "Optional math operation to apply on the extracted value"},
+        {"name": "modifier", "type": "float", "description": "Right operand for the math operation selected"},
+        {"name": "motion_type", "type": "MotionExtractor_MotionType", "description": "Type of motion to extract"},
+        {"name": "normalize", "type": "bool", "description": "Whether we want a normalized value (0 - 1)"},
+        {"name": "relative_to_bone_name", "type": "Name", "description": "Bone which we'll use as the reference frame to generate this curve from"},
+        {"name": "relative_to_first_frame", "type": "bool", "description": "Whether to extract the bone transforms relative to the first frame in the animation"},
+        {"name": "remove_curve_on_revert", "type": "bool", "description": "Whether we want to remove the curve when we revert or re-apply modifier"},
+        {"name": "sample_rate", "type": "int32", "description": "Rate used to sample the animation"},
+        {"name": "space", "type": "MotionExtractor_Space", "description": "Reference frame/space to use when extracting the bone pose"},
+        {"name": "use_custom_curve_name", "type": "bool", "description": "Whether we want to specify a custom name for the curve"}
+      ]
+    },
+    {
+      "id": "InputKeySelector",
+      "type": "class",
+      "name": "InputKeySelector",
+      "base_class": "Widget",
+      "description": "A widget for selecting a single key or a single key with a modifier",
+      "plugin": null,
+      "module": "UMG",
+      "file": "InputKeySelector.h",
+      "properties": [
+        {"name": "allow_gamepad_keys", "type": "bool", "description": "When true gamepad keys are allowed in the input chord"},
+        {"name": "allow_modifier_keys", "type": "bool", "description": "When true modifier keys are allowed in the input chord"},
+        {"name": "escape_keys", "type": "Array[Key]", "description": "Escape keys"},
+        {"name": "key_selection_text", "type": "Text", "description": "Sets the text which is displayed while selecting keys"},
+        {"name": "margin", "type": "Margin", "description": "The amount of blank space around the text"},
+        {"name": "no_key_specified_text", "type": "Text", "description": "Sets the text to display when no key text is available"},
+        {"name": "on_is_selecting_key_changed", "type": "OnIsSelectingKeyChanged", "description": "Called whenever the key selection mode starts or stops"},
+        {"name": "on_key_selected", "type": "OnKeySelected", "description": "Called whenever a new key is selected by the user"},
+        {"name": "selected_key", "type": "InputChord", "description": "The currently selected key chord"},
+        {"name": "text_style", "type": "TextBlockStyle", "description": "The button style used at runtime"},
+        {"name": "widget_style", "type": "ButtonStyle", "description": "The button style used at runtime"}
+      ],
+      "methods": [
+        {"name": "set_text_block_visibility", "return_type": "None", "description": "Sets the visibility of the text block"},
+        {"name": "set_selected_key", "return_type": "None", "description": "Sets the currently selected key"},
+        {"name": "set_no_key_specified_text", "return_type": "None", "description": "Sets the text to display when no key text is available"},
+        {"name": "set_key_selection_text", "return_type": "None", "description": "Sets the text which is displayed while selecting keys"},
+        {"name": "set_escape_keys", "return_type": "None", "description": "Sets escape keys"},
+        {"name": "set_allow_modifier_keys", "return_type": "None", "description": "Sets whether or not modifier keys are allowed"},
+        {"name": "set_allow_gamepad_keys", "return_type": "None", "description": "Sets whether or not gamepad keys are allowed"},
+        {"name": "get_is_selecting_key", "return_type": "bool", "description": "Returns true if the widget is currently selecting a key"}
+      ]
+    },
+    {
+      "id": "BasicOverlaysFactoryNew",
+      "type": "class",
+      "name": "BasicOverlaysFactoryNew",
+      "base_class": "Factory",
+      "description": "Implements a factory for new UBasicOverlays objects",
+      "plugin": null,
+      "module": "OverlayEditor",
+      "file": "BasicOverlaysFactoryNew.h",
+      "properties": [
+        {"name": "asset_import_task", "type": "AssetImportTask", "description": "Task for importing file via script interfaces"},
+        {"name": "automated_import_data", "type": "AutomatedAssetImportData", "description": "Data for how to import files via the automated command line importing interface"},
+        {"name": "context_class", "type": "type(Class)", "description": "Class of the context object used to help create the object"},
+        {"name": "create_new", "type": "bool", "description": "The default value to return from CanCreateNew()"},
+        {"name": "edit_after_new", "type": "bool", "description": "true if the associated editor should be opened after creating a new object"},
+        {"name": "editor_import", "type": "bool", "description": "true if the factory imports objects from files"},
+        {"name": "formats", "type": "Array[str]", "description": "List of formats supported by the factory"},
+        {"name": "supported_class", "type": "type(Class)", "description": "The class manufactured by this factory"},
+        {"name": "text", "type": "bool", "description": "true if the factory imports objects from text"}
+      ]
+    },
+    {
+      "id": "MaterialExpressionSingleLayerWaterMaterialOutput",
+      "type": "class",
+      "name": "MaterialExpressionSingleLayerWaterMaterialOutput",
+      "base_class": "MaterialExpressionCustomOutput",
+      "description": "Material output expression for writing single layer water volume material properties",
+      "plugin": null,
+      "module": "Engine",
+      "file": "MaterialExpressionSingleLayerWaterMaterialOutput.h",
+      "properties": [
+        {"name": "desc", "type": "str", "description": "A description that level designers can add"},
+        {"name": "material_expression_editor_x", "type": "int32", "description": "Editor X position"},
+        {"name": "material_expression_editor_y", "type": "int32", "description": "Editor Y position"}
+      ]
+    },
+    {
+      "id": "AesTilesVisibilityGroupAddParam",
+      "type": "class",
+      "name": "AesTilesVisibilityGroupAddParam",
+      "base_class": "AesTilesVisualApiParamBase",
+      "description": "Aes Tiles Visibility Group Add Param",
+      "plugin": "WdpRuntimeAPI",
+      "module": "AesTilesAPI",
+      "file": "AesTilesVisualAPIParams.h",
+      "properties": [
+        {"name": "aes_tiles_eid", "type": "int64", "description": "Aes Tiles EID"},
+        {"name": "group_name", "type": "Name", "description": "Group name"},
+        {"name": "guid", "type": "str", "description": "GUID"},
+        {"name": "hit_keys", "type": "Set[Name]", "description": "Hit keys"},
+        {"name": "node_ids", "type": "Array[int32]", "description": "Node IDs"},
+        {"name": "visible", "type": "bool", "description": "Visible"}
+      ]
+    },
+    {
+      "id": "MovieSceneGameplayCueKey",
+      "type": "class",
+      "name": "MovieSceneGameplayCueKey",
+      "base_class": "StructBase",
+      "description": "Movie Scene Gameplay Cue Key",
+      "plugin": "GameplayAbilities",
+      "module": "GameplayAbilities",
+      "file": "MovieSceneGameplayCueSections.h",
+      "properties": [
+        {"name": "ability_level", "type": "int32", "description": "If originating from an ability, this will be the level of that ability"},
+        {"name": "attach_socket_name", "type": "Name", "description": "When attached to a skeletal mesh component, specifies a socket to trigger the cue at"},
+        {"name": "attach_to_binding", "type": "bool", "description": "Attach the gameplay cue to the track's bound object in sequencer"},
+        {"name": "cue", "type": "GameplayCueTag", "description": "Gameplay cue tag"},
+        {"name": "effect_causer", "type": "MovieSceneObjectBindingID", "description": "The physical actor that actually did the damage"},
+        {"name": "gameplay_effect_level", "type": "int32", "description": "The level of that GameplayEffect"},
+        {"name": "instigator", "type": "MovieSceneObjectBindingID", "description": "Instigator actor, the actor that owns the ability system component"},
+        {"name": "location", "type": "Vector", "description": "Location cue took place at"},
+        {"name": "normal", "type": "Vector", "description": "Normal of impact that caused cue"},
+        {"name": "normalized_magnitude", "type": "float", "description": "Magnitude of source gameplay effect, normalized from 0-1"},
+        {"name": "physical_material", "type": "PhysicalMaterial", "description": "PhysMat of the hit, if there was a hit"}
+      ]
+    },
+    {
+      "id": "AimTarget",
+      "type": "class",
+      "name": "AimTarget",
+      "base_class": "StructBase",
+      "description": "Aim Target",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_AimConstraint.h",
+      "properties": [
+        {"name": "align_vector", "type": "Vector", "description": "Vector in the space of Target Transform to which the Aim Vector will be aligned"},
+        {"name": "transform", "type": "Transform", "description": "Aim at/Align to this Transform"},
+        {"name": "weight", "type": "float", "description": "Target Weight"}
+      ]
+    },
+    {
+      "id": "NonBlendableFloatAnimationAttribute",
+      "type": "class",
+      "name": "NonBlendableFloatAnimationAttribute",
+      "base_class": "FloatAnimationAttribute",
+      "description": "Non Blendable Float Animation Attribute",
+      "plugin": null,
+      "module": "Engine",
+      "file": "BuiltInAttributeTypes.h",
+      "properties": [
+        {"name": "value", "type": "float", "description": "Value"}
+      ]
+    },
+    {
+      "id": "RigVMFunction_MathRBFInterpolateVectorXform",
+      "type": "class",
+      "name": "RigVMFunction_MathRBFInterpolateVectorXform",
+      "base_class": "RigVMFunction_MathRBFInterpolateVectorBase",
+      "description": "Rig VMFunction Math RBFInterpolate Vector Xform",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathRBFInterpolate.h",
+      "properties": [
+        {"name": "distance_function", "type": "RBFVectorDistanceType", "description": "Distance function"},
+        {"name": "input", "type": "Vector", "description": "Input vector"},
+        {"name": "normalize_output", "type": "bool", "description": "Normalize output"},
+        {"name": "output", "type": "Transform", "description": "Output transform"},
+        {"name": "smoothing_function", "type": "RBFKernelType", "description": "Smoothing function"},
+        {"name": "smoothing_radius", "type": "float", "description": "Smoothing radius"},
+        {"name": "targets", "type": "Array[MathRBFInterpolateVectorXform_Target]", "description": "Targets"}
+      ]
+    },
+    {
+      "id": "AudioImpulseResponseFactory",
+      "type": "class",
+      "name": "AudioImpulseResponseFactory",
+      "base_class": "Factory",
+      "description": "Audio Impulse Response Factory",
+      "plugin": "Synthesis",
+      "module": "SynthesisEditor",
+      "file": "AudioImpulseResponseAsset.h",
+      "properties": [
+        {"name": "asset_import_task", "type": "AssetImportTask", "description": "Task for importing file via script interfaces"},
+        {"name": "automated_import_data", "type": "AutomatedAssetImportData", "description": "Data for how to import files via the automated command line importing interface"},
+        {"name": "context_class", "type": "type(Class)", "description": "Class of the context object used to help create the object"},
+        {"name": "create_new", "type": "bool", "description": "The default value to return from CanCreateNew()"},
+        {"name": "edit_after_new", "type": "bool", "description": "true if the associated editor should be opened after creating a new object"},
+        {"name": "editor_import", "type": "bool", "description": "true if the factory imports objects from files"},
+        {"name": "formats", "type": "Array[str]", "description": "List of formats supported by the factory"},
+        {"name": "supported_class", "type": "type(Class)", "description": "The class manufactured by this factory"},
+        {"name": "text", "type": "bool", "description": "true if the factory imports objects from text"}
+      ]
+    },
+    {
+      "id": "RigVMFunction_MathDoubleSign",
+      "type": "class",
+      "name": "RigVMFunction_MathDoubleSign",
+      "base_class": "RigVMFunction_MathDoubleUnaryOp",
+      "description": "Returns the sign of the value (+1 for >= 0.0, -1 for < 0.0)",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathDouble.h",
+      "properties": [
+        {"name": "result", "type": "double", "description": "Result"},
+        {"name": "value", "type": "double", "description": "Value"}
+      ]
+    },
+    {
+      "id": "RigUnit_SetMetadataTagArray",
+      "type": "class",
+      "name": "RigUnit_SetMetadataTagArray",
+      "base_class": "RigUnitMutable",
+      "description": "Sets multiple tags on an item",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_Metadata.h",
+      "properties": [
+        {"name": "execute_context", "type": "ControlRigExecuteContext", "description": "This property is used to chain multiple mutable units together"},
+        {"name": "item", "type": "RigElementKey", "description": "The item to set the metadata for"},
+        {"name": "name_space", "type": "RigMetaDataNameSpace", "description": "Defines in which namespace the metadata will be looked up"},
+        {"name": "tags", "type": "Array[Name]", "description": "The tags to set for the item"}
+      ]
+    },
+    {
+      "id": "NiagaraEditorDataBase",
+      "type": "class",
+      "name": "NiagaraEditorDataBase",
+      "base_class": "Object",
+      "description": "A base class for editor only data which supports post loading from the runtime owner object",
+      "plugin": "Niagara",
+      "module": "Niagara",
+      "file": "NiagaraEditorDataBase.h"
+    },
+    {
+      "id": "RigVMFunction_MathTransformClampSpatially",
+      "type": "class",
+      "name": "RigVMFunction_MathTransformClampSpatially",
+      "base_class": "RigVMFunction_MathTransformBase",
+      "description": "Clamps a position using a plane collision, cylindric collision or spherical collision",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathTransform.h",
+      "properties": [
+        {"name": "axis", "type": "AxisType", "description": "Axis"},
+        {"name": "debug_color", "type": "LinearColor", "description": "Debug color"},
+        {"name": "debug_thickness", "type": "float", "description": "Debug thickness"},
+        {"name": "draw_debug", "type": "bool", "description": "Draw debug"},
+        {"name": "maximum", "type": "float", "description": "This maximum allowed distance"},
+        {"name": "minimum", "type": "float", "description": "The minimum allowed distance at which a collision occurs"},
+        {"name": "result", "type": "Transform", "description": "Result"},
+        {"name": "space", "type": "Transform", "description": "The space this spatial clamp happens within"},
+        {"name": "type", "type": "RigVMClampSpatialMode", "description": "Type"},
+        {"name": "value", "type": "Transform", "description": "Value"}
+      ]
+    },
+    {
+      "id": "OnListEntryInitializedDynamic",
+      "type": "class",
+      "name": "OnListEntryInitializedDynamic",
+      "base_class": "MulticastDelegateBase",
+      "description": "On List Entry Initialized Dynamic Delegate Signature",
+      "plugin": null,
+      "module": "UMG",
+      "file": "ListView.h"
+    },
+    {
+      "id": "DMMaterialStageBlendNormal",
+      "type": "class",
+      "name": "DMMaterialStageBlendNormal",
+      "base_class": "DMMaterialStageBlendFunction",
+      "description": "DMMaterial Stage Blend Normal",
+      "plugin": "DynamicMaterial",
+      "module": "DynamicMaterialEditor",
+      "file": "DMMSBNormal.h",
+      "properties": [
+        {"name": "allow_nested_inputs", "type": "bool", "description": "Allow nested inputs"},
+        {"name": "base_channel_override", "type": "AvaColorChannel", "description": "Changes the output channel of the base input"},
+        {"name": "component_dirty", "type": "bool", "description": "Component dirty"},
+        {"name": "component_state", "type": "DMComponentLifetimeState", "description": "Component state"},
+        {"name": "editable_properties", "type": "Array[Name]", "description": "Editable properties"},
+        {"name": "input_connectors", "type": "Array[DMMaterialStageConnector]", "description": "Input connectors"},
+        {"name": "input_required", "type": "bool", "description": "Input required"},
+        {"name": "name", "type": "Text", "description": "Name"},
+        {"name": "output_connectors", "type": "Array[DMMaterialStageConnector]", "description": "Output connectors"}
+      ]
+    },
+    {
+      "id": "InterchangePhysicsAssetFactoryNode",
+      "type": "class",
+      "name": "InterchangePhysicsAssetFactoryNode",
+      "base_class": "InterchangeFactoryBaseNode",
+      "description": "Interchange Physics Asset Factory Node",
+      "plugin": "Interchange",
+      "module": "InterchangeFactoryNodes",
+      "file": "InterchangePhysicsAssetFactoryNode.h",
+      "methods": [
+        {"name": "set_custom_skeletal_mesh_uid", "return_type": "bool", "description": "Set the Skeletal Mesh asset UID used to create the data in the post-pipeline step"},
+        {"name": "initialize_physics_asset_node", "return_type": "None", "description": "Initialize node data"},
+        {"name": "get_object_class", "return_type": "Class", "description": "Get the class this node creates"},
+        {"name": "get_custom_skeletal_mesh_uid", "return_type": "Optional[str]", "description": "Get the Skeletal Mesh asset UID used to create the data in the post-pipeline step"}
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "EarthFragmentLibrary",
+      "to": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "from": "GameplayModifierEvaluatedData",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigUnit_AddBoneTransform",
+      "to": "RigUnitMutable",
+      "type": "inherits_from"
+    },
+    {
+      "from": "HapticFeedbackEffect_Base",
+      "to": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "from": "ComputeKernelFromText",
+      "to": "ComputeKernelSource",
+      "type": "inherits_from"
+    },
+    {
+      "from": "MotionExtractorModifier",
+      "to": "AnimationModifier",
+      "type": "inherits_from"
+    },
+    {
+      "from": "InputKeySelector",
+      "to": "Widget",
+      "type": "inherits_from"
+    },
+    {
+      "from": "BasicOverlaysFactoryNew",
+      "to": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "from": "MaterialExpressionSingleLayerWaterMaterialOutput",
+      "to": "MaterialExpressionCustomOutput",
+      "type": "inherits_from"
+    },
+    {
+      "from": "AesTilesVisibilityGroupAddParam",
+      "to": "AesTilesVisualApiParamBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "MovieSceneGameplayCueKey",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "AimTarget",
+      "to": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "NonBlendableFloatAnimationAttribute",
+      "to": "FloatAnimationAttribute",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigVMFunction_MathRBFInterpolateVectorXform",
+      "to": "RigVMFunction_MathRBFInterpolateVectorBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "AudioImpulseResponseFactory",
+      "to": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigVMFunction_MathDoubleSign",
+      "to": "RigVMFunction_MathDoubleUnaryOp",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigUnit_SetMetadataTagArray",
+      "to": "RigUnitMutable",
+      "type": "inherits_from"
+    },
+    {
+      "from": "NiagaraEditorDataBase",
+      "to": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigVMFunction_MathTransformClampSpatially",
+      "to": "RigVMFunction_MathTransformBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "OnListEntryInitializedDynamic",
+      "to": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "from": "DMMaterialStageBlendNormal",
+      "to": "DMMaterialStageBlendFunction",
+      "type": "inherits_from"
+    },
+    {
+      "from": "InterchangePhysicsAssetFactoryNode",
+      "to": "InterchangeFactoryBaseNode",
+      "type": "inherits_from"
+    },
+    {
+      "from": "RigUnit_AddBoneTransform",
+      "to": "ControlRig",
+      "type": "belongs_to_module"
+    },
+    {
+      "from": "AimTarget",
+      "to": "ControlRig",
+      "type": "belongs_to_module"
+    },
+    {
+      "from": "RigUnit_SetMetadataTagArray",
+      "to": "ControlRig",
+      "type": "belongs_to_module"
+    },
+    {
+      "from": "HapticFeedbackEffect_Base",
+      "to": "Engine",
+      "type": "belongs_to_module"
+    },
+    {
+      "from": "MaterialExpressionSingleLayerWaterMaterialOutput",
+      "to": "Engine",
+      "type": "belongs_to_module"
+    },
+    {
+      "from": "NonBlendableFloatAnimationAttribute",
+      "to": "Engine",
+      "type": "belongs_to_module"
+    },
+    {
+      "from": "InputKeySelector",
+      "to": "UMG",
+      "type": "belongs_to_module"
+    },
+    {
+      "from": "OnListEntryInitializedDynamic",
+      "to": "UMG",
+      "type": "belongs_to_module"
+    },
+    {
+      "from": "EarthFragmentLibrary",
+      "to": "AesWorld",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "GameplayModifierEvaluatedData",
+      "to": "GameplayAbilities",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "MovieSceneGameplayCueKey",
+      "to": "GameplayAbilities",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "RigUnit_AddBoneTransform",
+      "to": "ControlRig",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "AimTarget",
+      "to": "ControlRig",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "RigUnit_SetMetadataTagArray",
+      "to": "ControlRig",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "ComputeKernelFromText",
+      "to": "ComputeFramework",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "MotionExtractorModifier",
+      "to": "AnimationModifierLibrary",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "AesTilesVisibilityGroupAddParam",
+      "to": "WdpRuntimeAPI",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "RigVMFunction_MathRBFInterpolateVectorXform",
+      "to": "RigVM",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "AudioImpulseResponseFactory",
+      "to": "Synthesis",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "RigVMFunction_MathDoubleSign",
+      "to": "RigVM",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "NiagaraEditorDataBase",
+      "to": "Niagara",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "RigVMFunction_MathTransformClampSpatially",
+      "to": "RigVM",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "DMMaterialStageBlendNormal",
+      "to": "DynamicMaterial",
+      "type": "belongs_to_plugin"
+    },
+    {
+      "from": "InterchangePhysicsAssetFactoryNode",
+      "to": "Interchange",
+      "type": "belongs_to_plugin"
+    }
+  ]
+}

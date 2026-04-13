@@ -1,0 +1,590 @@
+{
+  "nodes": [
+    {
+      "id": "projectentityatom_projectentityatom",
+      "label": "ProjectEntityAtom",
+      "file_type": "document",
+      "source_file": "ProjectEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixtovectors_rigunit_mathmatrixtovectors",
+      "label": "RigUnit_MathMatrixToVectors",
+      "file_type": "document",
+      "source_file": "RigUnit_MathMatrixToVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondepthoffieldfunction_materialexpressiondepthoffieldfunction",
+      "label": "MaterialExpressionDepthOfFieldFunction",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDepthOfFieldFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimbone_debugsettings_rigunit_aimbone_debugsettings",
+      "label": "RigUnit_AimBone_DebugSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_AimBone_DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modifycurveanimlibrary_modifycurveanimlibrary",
+      "label": "ModifyCurveAnimLibrary",
+      "file_type": "document",
+      "source_file": "ModifyCurveAnimLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fullbodyik_rigunit_fullbodyik",
+      "label": "RigUnit_FullbodyIK",
+      "file_type": "document",
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncactionchangeprimaryassetbundles_asyncactionchangeprimaryassetbundles",
+      "label": "AsyncActionChangePrimaryAssetBundles",
+      "file_type": "document",
+      "source_file": "AsyncActionChangePrimaryAssetBundles Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skinweightprofileinfo_skinweightprofileinfo",
+      "label": "SkinWeightProfileInfo",
+      "file_type": "document",
+      "source_file": "SkinWeightProfileInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithscene_datasmithscene",
+      "label": "DatasmithScene",
+      "file_type": "document",
+      "source_file": "DatasmithScene Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interpcurvevector2d_interpcurvevector2d",
+      "label": "InterpCurveVector2D",
+      "file_type": "document",
+      "source_file": "InterpCurveVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "getdcpnodetransformparam_getdcpnodetransformparam",
+      "label": "GetDCPNodeTransformParam",
+      "file_type": "document",
+      "source_file": "GetDCPNodeTransformParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "function_function",
+      "label": "Function",
+      "file_type": "document",
+      "source_file": "Function Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groombindingasset_groombindingasset",
+      "label": "GroomBindingAsset",
+      "file_type": "document",
+      "source_file": "GroomBindingAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumgltfprimitivecomponent_cesiumgltfprimitivecomponent",
+      "label": "CesiumGltfPrimitiveComponent",
+      "file_type": "document",
+      "source_file": "CesiumGltfPrimitiveComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_applylimits_animgraphnode_applylimits",
+      "label": "AnimGraphNode_ApplyLimits",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_ApplyLimits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairgroupinfo_hairgroupinfo",
+      "label": "HairGroupInfo",
+      "file_type": "document",
+      "source_file": "HairGroupInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthlogutils_earthlogutils",
+      "label": "EarthLogUtils",
+      "file_type": "document",
+      "source_file": "EarthLogUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tilemaplibrary_tilemaplibrary",
+      "label": "TileMapLibrary",
+      "file_type": "document",
+      "source_file": "TileMapLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigblueprintlibrary_controlrigblueprintlibrary",
+      "label": "ControlRigBlueprintLibrary",
+      "file_type": "document",
+      "source_file": "ControlRigBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fixedsamplesequencerulerstyle_fixedsamplesequencerulerstyle",
+      "label": "FixedSampleSequenceRulerStyle",
+      "file_type": "document",
+      "source_file": "FixedSampleSequenceRulerStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorisnearlyzero_rigvmfunction_mathvectorisnearlyzero",
+      "label": "RigVMFunction_MathVectorIsNearlyZero",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorIsNearlyZero Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_posegettransformarray_rigunit_posegettransformarray",
+      "label": "RigUnit_PoseGetTransformArray",
+      "file_type": "document",
+      "source_file": "RigUnit_PoseGetTransformArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fullbodyik_fibikconstraintoption",
+      "label": "FBIKConstraintOption",
+      "file_type": "document",
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": "constraints property",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fullbodyik_fibikdebugoption",
+      "label": "FBIKDebugOption",
+      "file_type": "document",
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": "debug_option property",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fullbodyik_fibikendeffector",
+      "label": "FBIKEndEffector",
+      "file_type": "document",
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": "effectors property",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fullbodyik_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": "root property",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groombindingasset_groomasset",
+      "label": "GroomAsset",
+      "file_type": "document",
+      "source_file": "GroomBindingAsset Objects.md",
+      "source_location": "groom property",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groombindingasset_skeletalMesh",
+      "label": "SkeletalMesh",
+      "file_type": "document",
+      "source_file": "GroomBindingAsset Objects.md",
+      "source_location": "source_skeletal_mesh and target_skeletal_mesh properties",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigblueprintlibrary_controlrigblueprint",
+      "label": "ControlRigBlueprint",
+      "file_type": "document",
+      "source_file": "ControlRigBlueprintLibrary Objects.md",
+      "source_location": "multiple functions",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorisnearlyzero_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorIsNearlyZero Objects.md",
+      "source_location": "value property",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "projectentityatom_projectentityatom",
+      "target": "rigunit_fullbodyik_rigelementkey",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ProjectEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixtovectors_rigunit_mathmatrixtovectors",
+      "target": "rigvmfunction_mathvectorisnearlyzero_vector",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathMatrixToVectors Objects.md",
+      "source_location": "x, y, z parameters",
+      "weight": 1.0
+    },
+    {
+      "source": "modifycurveanimlibrary_modifycurveanimlibrary",
+      "target": "rigunit_fullbodyik_rigelementkey",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ModifyCurveAnimLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fullbodyik_rigunit_fullbodyik",
+      "target": "rigunit_fullbodyik_fibikconstraintoption",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": "constraints property",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fullbodyik_rigunit_fullbodyik",
+      "target": "rigunit_fullbodyik_fibikdebugoption",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": "debug_option property",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fullbodyik_rigunit_fullbodyik",
+      "target": "rigunit_fullbodyik_fibikendeffector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": "effectors property",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fullbodyik_rigunit_fullbodyik",
+      "target": "rigunit_fullbodyik_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": "root property",
+      "weight": 1.0
+    },
+    {
+      "source": "groombindingasset_groombindingasset",
+      "target": "groombindingasset_groomasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomBindingAsset Objects.md",
+      "source_location": "groom property",
+      "weight": 1.0
+    },
+    {
+      "source": "groombindingasset_groombindingasset",
+      "target": "groombindingasset_skeletalMesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomBindingAsset Objects.md",
+      "source_location": "source_skeletal_mesh and target_skeletal_mesh properties",
+      "weight": 1.0
+    },
+    {
+      "source": "hairgroupinfo_hairgroupinfo",
+      "target": "groombindingasset_groomasset",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "HairGroupInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigblueprintlibrary_controlrigblueprintlibrary",
+      "target": "controlrigblueprintlibrary_controlrigblueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigBlueprintLibrary Objects.md",
+      "source_location": "multiple functions",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigblueprintlibrary_controlrigblueprintlibrary",
+      "target": "groombindingasset_skeletalMesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigBlueprintLibrary Objects.md",
+      "source_location": "set_preview_mesh and get_preview_mesh functions",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegettransformarray_rigunit_posegettransformarray",
+      "target": "rigvmfunction_mathvectorisnearlyzero_vector",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_PoseGetTransformArray Objects.md",
+      "source_location": "transforms property",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorisnearlyzero_rigvmfunction_mathvectorisnearlyzero",
+      "target": "rigvmfunction_mathvectorisnearlyzero_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorIsNearlyZero Objects.md",
+      "source_location": "value property",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fullbodyik_rigunit_fullbodyik",
+      "target": "controlrigblueprintlibrary_controlrigblueprintlibrary",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fullbodyik_rigunit_fullbodyik",
+      "target": "rigunit_posegettransformarray_rigunit_posegettransformarray",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_FullbodyIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modifycurveanimlibrary_modifycurveanimlibrary",
+      "target": "animgraphnode_applylimits_animgraphnode_applylimits",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ModifyCurveAnimLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumgltfprimitivecomponent_cesiumgltfprimitivecomponent",
+      "target": "groombindingasset_skeletalMesh",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CesiumGltfPrimitiveComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skinweightprofileinfo_skinweightprofileinfo",
+      "target": "groombindingasset_skeletalMesh",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkinWeightProfileInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimbone_debugsettings_rigunit_aimbone_debugsettings",
+      "target": "rigunit_fullbodyik_rigunit_fullbodyik",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_AimBone_DebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tilemaplibrary_tilemaplibrary",
+      "target": "projectentityatom_projectentityatom",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "TileMapLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_system",
+      "label": "Control Rig System",
+      "nodes": [
+        "rigunit_fullbodyik_rigunit_fullbodyik",
+        "controlrigblueprintlibrary_controlrigblueprintlibrary",
+        "rigunit_posegettransformarray_rigunit_posegettransformarray",
+        "rigunit_aimbone_debugsettings_rigunit_aimbone_debugsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "animation_graph_system",
+      "label": "Animation Graph System",
+      "nodes": [
+        "modifycurveanimlibrary_modifycurveanimlibrary",
+        "animgraphnode_applylimits_animgraphnode_applylimits",
+        "rigunit_fullbodyik_rigunit_fullbodyik"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "groom_hair_system",
+      "label": "Groom and Hair System",
+      "nodes": [
+        "groombindingasset_groombindingasset",
+        "hairgroupinfo_hairgroupinfo",
+        "groombindingasset_groomasset"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

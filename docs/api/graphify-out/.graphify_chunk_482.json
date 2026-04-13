@@ -1,0 +1,572 @@
+{
+  "nodes": [
+    {
+      "id": "actormodifiercorestackposition_enum",
+      "label": "ActorModifierCoreStackPosition",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreStackPosition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsequencerinstance_class",
+      "label": "AnimSequencerInstance",
+      "file_type": "code",
+      "source_file": "AnimSequencerInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcollisioncomponentbase_class",
+      "label": "EarthCollisionComponentBase",
+      "file_type": "code",
+      "source_file": "EarthCollisionComponentBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltflevelexporter_class",
+      "label": "GLTFLevelExporter",
+      "file_type": "code",
+      "source_file": "GLTFLevelExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptprimitiveoriginmode_enum",
+      "label": "GeometryScriptPrimitiveOriginMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptPrimitiveOriginMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptpolygonoffsetoptions_class",
+      "label": "GeometryScriptPolygonOffsetOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptPolygonOffsetOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatevectorquat_class",
+      "label": "RigUnit_MathRBFInterpolateVectorQuat",
+      "file_type": "code",
+      "source_file": "RigUnit__MathRBFInterpolateVectorQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetreference_class",
+      "label": "TargetReference",
+      "file_type": "code",
+      "source_file": "TargetReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperflipbookkeyframe_class",
+      "label": "PaperFlipbookKeyFrame",
+      "file_type": "code",
+      "source_file": "PaperFlipbookKeyFrame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dirtyfileschangelistvalidator_class",
+      "label": "DirtyFilesChangelistValidator",
+      "file_type": "code",
+      "source_file": "DirtyFilesChangelistValidator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthextensionfragment_class",
+      "label": "EarthExtensionFragment",
+      "file_type": "code",
+      "source_file": "EarthExtensionFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_sequenceevaluator_class",
+      "label": "AnimNode_SequenceEvaluator",
+      "file_type": "code",
+      "source_file": "AnimNode__SequenceEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktestframedatainternal_class",
+      "label": "LiveLinkTestFrameDataInternal",
+      "file_type": "code",
+      "source_file": "LiveLinkTestFrameDataInternal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthscenechanges_class",
+      "label": "EarthSceneChanges",
+      "file_type": "code",
+      "source_file": "EarthSceneChanges Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmatchandsetweighted_class",
+      "label": "PCGMatchAndSetWeighted",
+      "file_type": "code",
+      "source_file": "PCGMatchAndSetWeighted Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpentity_class",
+      "label": "WdpEntity",
+      "file_type": "code",
+      "source_file": "WdpEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleequals_class",
+      "label": "RigVMFunction_MathDoubleEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_twobonliksimpleperitem_class",
+      "label": "RigUnit_TwoBoneIKSimplePerItem",
+      "file_type": "code",
+      "source_file": "RigUnit__TwoBoneIKSimplePerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformlerp_class",
+      "label": "RigUnit_MathTransformLerp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathTransformLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneactorpredictionresult_class",
+      "label": "MovieSceneActorPredictionResult",
+      "file_type": "code",
+      "source_file": "MovieSceneActorPredictionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptgeneralpolygonlist_class",
+      "label": "GeometryScriptGeneralPolygonList",
+      "file_type": "code",
+      "source_file": "GeometryScriptGeneralPolygonList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfaceemitterbinding_class",
+      "label": "NiagaraDataInterfaceEmitterBinding",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceEmitterBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animsequencerinstance_class",
+      "target": "animinstance_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcollisioncomponentbase_class",
+      "target": "primitivecomponent_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthCollisionComponentBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltflevelexporter_class",
+      "target": "gltfexporter_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFLevelExporter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptpolygonoffsetoptions_class",
+      "target": "geometryscriptpolyoffsetjointype_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptPolygonOffsetOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorquat_class",
+      "target": "rigvmfunction_mathrbfinterpolatevectorquat_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateVectorQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetreference_class",
+      "target": "bonesockettarget_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperflipbookkeyframe_class",
+      "target": "papersprite_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperFlipbookKeyFrame Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dirtyfileschangelistvalidator_class",
+      "target": "editorvalidatorbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DirtyFilesChangelistValidator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthextensionfragment_class",
+      "target": "earthfragment_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthExtensionFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_sequenceevaluator_class",
+      "target": "animnode_sequenceevaluatorbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__SequenceEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_sequenceevaluator_class",
+      "target": "animsequencebase_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__SequenceEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktestframedatainternal_class",
+      "target": "livelinkbaseframedata_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkTestFrameDataInternal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinktestframedatainternal_class",
+      "target": "livelinkinnertestinternal_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkTestFrameDataInternal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthscenechanges_class",
+      "target": "earthentitychanges_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSceneChanges Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmatchandsetweighted_class",
+      "target": "pcgmatchandsetbase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMatchAndSetWeighted Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmatchandsetweighted_class",
+      "target": "pcgmatchandsetweightedentry_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMatchAndSetWeighted Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpentity_class",
+      "target": "entityatombase_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleequals_class",
+      "target": "rigvmfunction_mathdoublebase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twobonliksimpleperitem_class",
+      "target": "rigunithighlevelbasemutable_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TwoBoneIKSimplePerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformlerp_class",
+      "target": "rigvmfunction_mathtransformlerp_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathTransformLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneactorpredictionresult_class",
+      "target": "multicastdelegatebase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneActorPredictionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptgeneralpolygonlist_class",
+      "target": "geometryscriptpolygonoffsetoptions_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptGeneralPolygonList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptgeneralpolygonlist_class",
+      "target": "geometryscriptsimplepolygon_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptGeneralPolygonList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfaceemitterbinding_class",
+      "target": "niagaradatainterfaceemitterbindingmode_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceEmitterBinding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcollisioncomponentbase_class",
+      "target": "earthextensionfragment_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EarthCollisionComponentBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthscenechanges_class",
+      "target": "wdpentity_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthSceneChanges Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleequals_class",
+      "target": "rigunit_mathtransformlerp_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigVMFunction_MathDoubleEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencerinstance_class",
+      "target": "animnode_sequenceevaluator_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimSequencerInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "geometry_scripting_polygon_system",
+      "label": "Geometry Scripting Polygon System",
+      "nodes": [
+        "geometryscriptpolygonoffsetoptions_class",
+        "geometryscriptgeneralpolygonlist_class",
+        "geometryscriptprimitiveoriginmode_enum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptPolygonOffsetOptions Objects.md"
+    },
+    {
+      "id": "earth_world_entity_system",
+      "label": "Earth World Entity System",
+      "nodes": [
+        "earthcollisioncomponentbase_class",
+        "earthextensionfragment_class",
+        "earthscenechanges_class",
+        "wdpentity_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthCollisionComponentBase Objects.md"
+    },
+    {
+      "id": "rig_math_functions",
+      "label": "Rig Math Functions",
+      "nodes": [
+        "rigvmfunction_mathdoubleequals_class",
+        "rigunit_mathtransformlerp_class",
+        "rigunit_mathrbfinterpolatevectorquat_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathDoubleEquals Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,851 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_kalmanfloat",
+      "label": "RigVMFunction_KalmanFloat",
+      "file_type": "document",
+      "source_file": "RigVMFunction_KalmanFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kalman_filter",
+      "label": "Kalman Filter",
+      "file_type": "document",
+      "source_file": "RigVMFunction_KalmanFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptrendercapturecamera",
+      "label": "GeometryScriptRenderCaptureCamera",
+      "file_type": "document",
+      "source_file": "GeometryScriptRenderCaptureCamera Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaplaybackgraphfactory",
+      "label": "AvaPlaybackGraphFactory",
+      "file_type": "document",
+      "source_file": "AvaPlaybackGraphFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolonce",
+      "label": "RigUnit_MathBoolOnce",
+      "file_type": "document",
+      "source_file": "RigUnit_MathBoolOnce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basiclinesetcomponentbase",
+      "label": "BasicLineSetComponentBase",
+      "file_type": "document",
+      "source_file": "BasicLineSetComponentBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeeditorpipelinebase",
+      "label": "InterchangeEditorPipelineBase",
+      "file_type": "document",
+      "source_file": "InterchangeEditorPipelineBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "virtualizationmode",
+      "label": "VirtualizationMode",
+      "file_type": "document",
+      "source_file": "VirtualizationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resonanceaudiosoundfieldsettings",
+      "label": "ResonanceAudioSoundfieldSettings",
+      "file_type": "document",
+      "source_file": "ResonanceAudioSoundfieldSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeconsiderationblueprintbase",
+      "label": "StateTreeConsiderationBlueprintBase",
+      "file_type": "document",
+      "source_file": "StateTreeConsiderationBlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectororthogonal",
+      "label": "RigUnit_MathVectorOrthogonal",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorOrthogonal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecameracutsection",
+      "label": "MovieSceneCameraCutSection",
+      "file_type": "document",
+      "source_file": "MovieSceneCameraCutSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthhierarchicalinstancedstaticmeshcomponent",
+      "label": "EarthHierarchicalInstancedStaticMeshComponent",
+      "file_type": "document",
+      "source_file": "EarthHierarchicalInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationsegmentlink",
+      "label": "NavigationSegmentLink",
+      "file_type": "document",
+      "source_file": "NavigationSegmentLink Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectindividualfiltersettings",
+      "label": "SourceEffectIndividualFilterSettings",
+      "file_type": "document",
+      "source_file": "SourceEffectIndividualFilterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublemul",
+      "label": "RigVMFunction_MathDoubleMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathDoubleMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpnodepickresult",
+      "label": "DCPNodePickResult",
+      "file_type": "document",
+      "source_file": "DCPNodePickResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationpath",
+      "label": "NavigationPath",
+      "file_type": "document",
+      "source_file": "NavigationPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndiscenecapture2doffsetmode",
+      "label": "NDISceneCapture2DOffsetMode",
+      "file_type": "document",
+      "source_file": "NDISceneCapture2DOffsetMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayersymbol",
+      "label": "GeoLayerSymbol",
+      "file_type": "document",
+      "source_file": "GeoLayerSymbol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_uvsettings_patchbuilder",
+      "label": "GenerateStaticMeshLODProcess_UVSettings_PatchBuilder",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_UVSettings_PatchBuilder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairgrouplodinfo",
+      "label": "HairGroupLODInfo",
+      "file_type": "document",
+      "source_file": "HairGroupLODInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimcachefunctionlibrary",
+      "label": "NiagaraSimCacheFunctionLibrary",
+      "file_type": "document",
+      "source_file": "NiagaraSimCacheFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "render_capture",
+      "label": "Render Capture",
+      "file_type": "document",
+      "source_file": "GeometryScriptRenderCaptureCamera Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_binding",
+      "label": "Camera Binding",
+      "file_type": "document",
+      "source_file": "MovieSceneCameraCutSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigation_system",
+      "label": "Navigation System",
+      "file_type": "document",
+      "source_file": "NavigationPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sound_virtualization",
+      "label": "Sound Virtualization",
+      "file_type": "document",
+      "source_file": "VirtualizationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_filtering",
+      "label": "Audio Filtering",
+      "file_type": "document",
+      "source_file": "SourceEffectIndividualFilterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_KalmanFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometry_scripting_plugin",
+      "label": "Geometry Scripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptRenderCaptureCamera Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin",
+      "label": "Avalanche Plugin",
+      "file_type": "document",
+      "source_file": "AvaPlaybackGraphFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uveditor_plugin",
+      "label": "UVEditor Plugin",
+      "file_type": "document",
+      "source_file": "BasicLineSetComponentBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeeditor_plugin",
+      "label": "InterchangeEditor Plugin",
+      "file_type": "document",
+      "source_file": "InterchangeEditorPipelineBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resonanceaudio_plugin",
+      "label": "ResonanceAudio Plugin",
+      "file_type": "document",
+      "source_file": "ResonanceAudioSoundfieldSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetree_plugin",
+      "label": "StateTree Plugin",
+      "file_type": "document",
+      "source_file": "StateTreeConsiderationBlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthHierarchicalInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthesis_plugin",
+      "label": "Synthesis Plugin",
+      "file_type": "document",
+      "source_file": "SourceEffectIndividualFilterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpassetapi_plugin",
+      "label": "WdpAssetAPI Plugin",
+      "file_type": "document",
+      "source_file": "DCPNodePickResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NiagaraSimCacheFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gisdataapi_plugin",
+      "label": "GISDataAPI Plugin",
+      "file_type": "document",
+      "source_file": "GeoLayerSymbol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshlodtoolset_plugin",
+      "label": "MeshLODToolset Plugin",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess_UVSettings_PatchBuilder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairstrands_plugin",
+      "label": "HairStrands Plugin",
+      "file_type": "document",
+      "source_file": "HairGroupLODInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_kalmanfloat",
+      "target": "kalman_filter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_KalmanFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_kalmanfloat",
+      "target": "rigvm_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_KalmanFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrendercapturecamera",
+      "target": "render_capture",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRenderCaptureCamera Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrendercapturecamera",
+      "target": "geometry_scripting_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRenderCaptureCamera Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaplaybackgraphfactory",
+      "target": "avalanche_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaPlaybackGraphFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolonce",
+      "target": "rigvm_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathBoolOnce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "basiclinesetcomponentbase",
+      "target": "uveditor_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BasicLineSetComponentBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeeditorpipelinebase",
+      "target": "interchangeeditor_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeEditorPipelineBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "virtualizationmode",
+      "target": "sound_virtualization",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VirtualizationMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "resonanceaudiosoundfieldsettings",
+      "target": "resonanceaudio_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ResonanceAudioSoundfieldSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreeconsiderationblueprintbase",
+      "target": "statetree_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeConsiderationBlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectororthogonal",
+      "target": "rigvm_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorOrthogonal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecameracutsection",
+      "target": "camera_binding",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCameraCutSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthhierarchicalinstancedstaticmeshcomponent",
+      "target": "aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthHierarchicalInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navigationsegmentlink",
+      "target": "navigation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavigationSegmentLink Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectindividualfiltersettings",
+      "target": "audio_filtering",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectIndividualFilterSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectindividualfiltersettings",
+      "target": "synthesis_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectIndividualFilterSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublemul",
+      "target": "rigvm_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpnodepickresult",
+      "target": "wdpassetapi_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPNodePickResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navigationpath",
+      "target": "navigation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavigationPath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ndiscenecapture2doffsetmode",
+      "target": "niagara_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NDISceneCapture2DOffsetMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayersymbol",
+      "target": "gisdataapi_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoLayerSymbol Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocess_uvsettings_patchbuilder",
+      "target": "meshlodtoolset_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenerateStaticMeshLODProcess_UVSettings_PatchBuilder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairgrouplodinfo",
+      "target": "hairstrands_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairGroupLODInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcachefunctionlibrary",
+      "target": "niagara_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSimCacheFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_kalmanfloat",
+      "target": "rigvmfunction_mathdoublemul",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_KalmanFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_kalmanfloat",
+      "target": "rigunit_mathboolonce",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_KalmanFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_kalmanfloat",
+      "target": "rigunit_mathvectororthogonal",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_KalmanFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navigationsegmentlink",
+      "target": "navigationpath",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NavigationSegmentLink Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "resonanceaudiosoundfieldsettings",
+      "target": "virtualizationmode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ResonanceAudioSoundfieldSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "resonanceaudiosoundfieldsettings",
+      "target": "sourceeffectindividualfiltersettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ResonanceAudioSoundfieldSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrendercapturecamera",
+      "target": "moviescenecameracutsection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptRenderCaptureCamera Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthhierarchicalinstancedstaticmeshcomponent",
+      "target": "generatestaticmeshlodprocess_uvsettings_patchbuilder",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthHierarchicalInstancedStaticMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcachefunctionlibrary",
+      "target": "ndiscenecapture2doffsetmode",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraSimCacheFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_kalmanfloat",
+        "rigvmfunction_mathdoublemul",
+        "rigunit_mathboolonce",
+        "rigunit_mathvectororthogonal"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_KalmanFloat Objects.md"
+    },
+    {
+      "id": "audio_processing_systems",
+      "label": "Audio Processing Systems",
+      "nodes": [
+        "resonanceaudiosoundfieldsettings",
+        "sourceeffectindividualfiltersettings",
+        "virtualizationmode"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ResonanceAudioSoundfieldSettings Objects.md"
+    },
+    {
+      "id": "navigation_components",
+      "label": "Navigation Components",
+      "nodes": [
+        "navigationpath",
+        "navigationsegmentlink"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "NavigationPath Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

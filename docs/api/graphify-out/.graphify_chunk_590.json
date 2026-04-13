@@ -1,0 +1,1994 @@
+{
+  "nodes": [
+    {
+      "id": "TransformNoScale",
+      "type": "struct",
+      "name": "TransformNoScale",
+      "module": "AnimationCore",
+      "file": "TransformNoScale.h",
+      "description": "Transform No Scale"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "name": "StructBase"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "name": "Vector"
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "name": "Quat"
+    },
+    {
+      "id": "PCGSplineProjectionData",
+      "type": "class",
+      "name": "PCGSplineProjectionData",
+      "module": "PCG",
+      "file": "PCGSplineData.h",
+      "plugin": "PCG",
+      "description": "The projection of a spline onto a surface."
+    },
+    {
+      "id": "PCGProjectionData",
+      "type": "class",
+      "name": "PCGProjectionData"
+    },
+    {
+      "id": "InterpCurveVector2D",
+      "type": "type",
+      "name": "InterpCurveVector2D"
+    },
+    {
+      "id": "PCGMetadata",
+      "type": "type",
+      "name": "PCGMetadata"
+    },
+    {
+      "id": "PCGProjectionParams",
+      "type": "type",
+      "name": "PCGProjectionParams"
+    },
+    {
+      "id": "PCGSpatialData",
+      "type": "type",
+      "name": "PCGSpatialData"
+    },
+    {
+      "id": "Actor",
+      "type": "type",
+      "name": "Actor"
+    },
+    {
+      "id": "MaterialExpressionAbs",
+      "type": "class",
+      "name": "MaterialExpressionAbs",
+      "module": "Engine",
+      "file": "MaterialExpressionAbs.h",
+      "description": "Material Expression Abs"
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "name": "MaterialExpression"
+    },
+    {
+      "id": "PropertyEditorTestInstancedStruct",
+      "type": "struct",
+      "name": "PropertyEditorTestInstancedStruct",
+      "module": "UnrealEd",
+      "file": "PropertyEditorTestObject.h",
+      "description": "Property Editor Test Instanced Struct"
+    },
+    {
+      "id": "PropertyEditorTestInstancedObject",
+      "type": "type",
+      "name": "PropertyEditorTestInstancedObject"
+    },
+    {
+      "id": "RigVMFunction_MathTransformFromEulerTransform",
+      "type": "class",
+      "name": "RigVMFunction_MathTransformFromEulerTransform",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathTransform.h",
+      "plugin": "RigVM",
+      "description": "Makes a quaternion based transform from a euler based transform"
+    },
+    {
+      "id": "RigVMFunction_MathTransformBase",
+      "type": "class",
+      "name": "RigVMFunction_MathTransformBase"
+    },
+    {
+      "id": "EulerTransform",
+      "type": "type",
+      "name": "EulerTransform"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "name": "Transform"
+    },
+    {
+      "id": "MoviePipelineRenderPassOutputData",
+      "type": "struct",
+      "name": "MoviePipelineRenderPassOutputData",
+      "module": "MovieRenderPipelineCore",
+      "file": "MovieRenderPipelineDataTypes.h",
+      "plugin": "MovieRenderPipeline",
+      "description": "Movie Pipeline Render Pass Output Data"
+    },
+    {
+      "id": "Array_str_",
+      "type": "type",
+      "name": "Array[str]"
+    },
+    {
+      "id": "PlanarReflection",
+      "type": "class",
+      "name": "PlanarReflection",
+      "module": "Engine",
+      "file": "PlanarReflection.h",
+      "description": "Planar Reflection"
+    },
+    {
+      "id": "SceneCapture",
+      "type": "class",
+      "name": "SceneCapture"
+    },
+    {
+      "id": "Guid",
+      "type": "type",
+      "name": "Guid"
+    },
+    {
+      "id": "AutoReceiveInput",
+      "type": "type",
+      "name": "AutoReceiveInput"
+    },
+    {
+      "id": "ActorUpdateOverlapsMethod",
+      "type": "type",
+      "name": "ActorUpdateOverlapsMethod"
+    },
+    {
+      "id": "DataLayerAsset",
+      "type": "type",
+      "name": "DataLayerAsset"
+    },
+    {
+      "id": "ActorDataLayer",
+      "type": "type",
+      "name": "ActorDataLayer"
+    },
+    {
+      "id": "HLODLayer",
+      "type": "type",
+      "name": "HLODLayer"
+    },
+    {
+      "id": "Pawn",
+      "type": "type",
+      "name": "Pawn"
+    },
+    {
+      "id": "NetDormancy",
+      "type": "type",
+      "name": "NetDormancy"
+    },
+    {
+      "id": "NetRole",
+      "type": "type",
+      "name": "NetRole"
+    },
+    {
+      "id": "ActorBeginOverlapSignature",
+      "type": "type",
+      "name": "ActorBeginOverlapSignature"
+    },
+    {
+      "id": "ActorEndOverlapSignature",
+      "type": "type",
+      "name": "ActorEndOverlapSignature"
+    },
+    {
+      "id": "ActorHitSignature",
+      "type": "type",
+      "name": "ActorHitSignature"
+    },
+    {
+      "id": "ActorBeginCursorOverSignature",
+      "type": "type",
+      "name": "ActorBeginCursorOverSignature"
+    },
+    {
+      "id": "ActorOnClickedSignature",
+      "type": "type",
+      "name": "ActorOnClickedSignature"
+    },
+    {
+      "id": "ActorDestroyedSignature",
+      "type": "type",
+      "name": "ActorDestroyedSignature"
+    },
+    {
+      "id": "ActorEndCursorOverSignature",
+      "type": "type",
+      "name": "ActorEndCursorOverSignature"
+    },
+    {
+      "id": "ActorEndPlaySignature",
+      "type": "type",
+      "name": "ActorEndPlaySignature"
+    },
+    {
+      "id": "ActorOnInputTouchBeginSignature",
+      "type": "type",
+      "name": "ActorOnInputTouchBeginSignature"
+    },
+    {
+      "id": "ActorOnInputTouchEndSignature",
+      "type": "type",
+      "name": "ActorOnInputTouchEndSignature"
+    },
+    {
+      "id": "ActorBeginTouchOverSignature",
+      "type": "type",
+      "name": "ActorBeginTouchOverSignature"
+    },
+    {
+      "id": "ActorEndTouchOverSignature",
+      "type": "type",
+      "name": "ActorEndTouchOverSignature"
+    },
+    {
+      "id": "ActorOnReleasedSignature",
+      "type": "type",
+      "name": "ActorOnReleasedSignature"
+    },
+    {
+      "id": "TakeAnyDamageSignature",
+      "type": "type",
+      "name": "TakeAnyDamageSignature"
+    },
+    {
+      "id": "TakePointDamageSignature",
+      "type": "type",
+      "name": "TakePointDamageSignature"
+    },
+    {
+      "id": "TakeRadialDamageSignature",
+      "type": "type",
+      "name": "TakeRadialDamageSignature"
+    },
+    {
+      "id": "PhysicsReplicationMode",
+      "type": "type",
+      "name": "PhysicsReplicationMode"
+    },
+    {
+      "id": "PlanarReflectionComponent",
+      "type": "type",
+      "name": "PlanarReflectionComponent"
+    },
+    {
+      "id": "ActorTickFunction",
+      "type": "type",
+      "name": "ActorTickFunction"
+    },
+    {
+      "id": "RepMovement",
+      "type": "type",
+      "name": "RepMovement"
+    },
+    {
+      "id": "SceneComponent",
+      "type": "type",
+      "name": "SceneComponent"
+    },
+    {
+      "id": "SpawnActorCollisionHandlingMethod",
+      "type": "type",
+      "name": "SpawnActorCollisionHandlingMethod"
+    },
+    {
+      "id": "PCGSplineSamplingFill",
+      "type": "enum",
+      "name": "PCGSplineSamplingFill",
+      "module": "PCG",
+      "file": "PCGSplineSampler.h",
+      "plugin": "PCG",
+      "description": "EPCGSpline Sampling Fill"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "name": "EnumBase"
+    },
+    {
+      "id": "EarthPrefabAsset",
+      "type": "class",
+      "name": "EarthPrefabAsset",
+      "module": "EarthPrefab",
+      "file": "EarthPrefabAsset.h",
+      "plugin": "AesWorld",
+      "description": "地球预制体资产,用于定义可复用的地球数字资产"
+    },
+    {
+      "id": "DataAsset",
+      "type": "class",
+      "name": "DataAsset"
+    },
+    {
+      "id": "InstancedStruct",
+      "type": "type",
+      "name": "InstancedStruct"
+    },
+    {
+      "id": "Class",
+      "type": "type",
+      "name": "Class"
+    },
+    {
+      "id": "EarthInputCollection",
+      "type": "type",
+      "name": "EarthInputCollection"
+    },
+    {
+      "id": "EarthOutputCollection",
+      "type": "type",
+      "name": "EarthOutputCollection"
+    },
+    {
+      "id": "ScriptStruct",
+      "type": "type",
+      "name": "ScriptStruct"
+    },
+    {
+      "id": "Texture2D",
+      "type": "type",
+      "name": "Texture2D"
+    },
+    {
+      "id": "Array_InstancedStruct_",
+      "type": "type",
+      "name": "Array[InstancedStruct]"
+    },
+    {
+      "id": "Object",
+      "type": "type",
+      "name": "Object"
+    },
+    {
+      "id": "EarthPrefabBase",
+      "type": "type",
+      "name": "EarthPrefabBase"
+    },
+    {
+      "id": "Box",
+      "type": "type",
+      "name": "Box"
+    },
+    {
+      "id": "AvalanchePlaylist",
+      "type": "class",
+      "name": "AvalanchePlaylist",
+      "description": "deprecated: 'AvalanchePlaylist' was renamed to 'AvaRundown'."
+    },
+    {
+      "id": "AvaRundown",
+      "type": "class",
+      "name": "AvaRundown"
+    },
+    {
+      "id": "DCPCommonAPIRegister",
+      "type": "class",
+      "name": "DCPCommonAPIRegister",
+      "module": "DcpAPI",
+      "file": "DCPCommonAPIRegister.h",
+      "plugin": "WdpAssetAPI",
+      "description": "DCPCommon APIRegister"
+    },
+    {
+      "id": "ApiClassBase",
+      "type": "class",
+      "name": "ApiClassBase"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "type",
+      "name": "ParamsBase"
+    },
+    {
+      "id": "ResultBase",
+      "type": "type",
+      "name": "ResultBase"
+    },
+    {
+      "id": "DCPMutiPickResult",
+      "type": "type",
+      "name": "DCPMutiPickResult"
+    },
+    {
+      "id": "MeshReductionSettings",
+      "type": "struct",
+      "name": "MeshReductionSettings",
+      "module": "Engine",
+      "file": "MeshReductionSettings.h",
+      "description": "Settings used to reduce a mesh."
+    },
+    {
+      "id": "MeshFeatureImportance",
+      "type": "type",
+      "name": "MeshFeatureImportance"
+    },
+    {
+      "id": "StaticMeshReductionTerimationCriterion",
+      "type": "type",
+      "name": "StaticMeshReductionTerimationCriterion"
+    },
+    {
+      "id": "AnimNode_HandIKRetargeting",
+      "type": "class",
+      "name": "AnimNode_HandIKRetargeting",
+      "module": "AnimGraphRuntime",
+      "file": "AnimNode_HandIKRetargeting.h",
+      "description": "Node to handle re-targeting of Hand IK bone chain."
+    },
+    {
+      "id": "AnimNode_SkeletalControlBase",
+      "type": "class",
+      "name": "AnimNode_SkeletalControlBase"
+    },
+    {
+      "id": "ComponentSpacePoseLink",
+      "type": "type",
+      "name": "ComponentSpacePoseLink"
+    },
+    {
+      "id": "AnimAlphaInputType",
+      "type": "type",
+      "name": "AnimAlphaInputType"
+    },
+    {
+      "id": "InputScaleBias",
+      "type": "type",
+      "name": "InputScaleBias"
+    },
+    {
+      "id": "InputAlphaBoolBlend",
+      "type": "type",
+      "name": "InputAlphaBoolBlend"
+    },
+    {
+      "id": "AlphaBlendOption",
+      "type": "type",
+      "name": "AlphaBlendOption"
+    },
+    {
+      "id": "InputScaleBiasClamp",
+      "type": "type",
+      "name": "InputScaleBiasClamp"
+    },
+    {
+      "id": "BoneReference",
+      "type": "type",
+      "name": "BoneReference"
+    },
+    {
+      "id": "Array_BoneReference_",
+      "type": "type",
+      "name": "Array[BoneReference]"
+    },
+    {
+      "id": "MaterialExpressionPixelNormalWS",
+      "type": "class",
+      "name": "MaterialExpressionPixelNormalWS",
+      "module": "Engine",
+      "file": "MaterialExpressionPixelNormalWS.h",
+      "description": "Material Expression Pixel Normal WS"
+    },
+    {
+      "id": "MergeSceneParams",
+      "type": "class",
+      "name": "MergeSceneParams",
+      "module": "DataModelAPI",
+      "file": "WdpSceneAPI.h",
+      "plugin": "WdpRuntimeAPI",
+      "description": "Merge Scene Params"
+    },
+    {
+      "id": "Set_Name_",
+      "type": "type",
+      "name": "Set[Name]"
+    },
+    {
+      "id": "AvaTransitionRCLibrary",
+      "type": "class",
+      "name": "AvaTransitionRCLibrary",
+      "module": "Avalanche",
+      "file": "AvaTransitionRCLibrary.h",
+      "plugin": "Avalanche",
+      "description": "Ava Transition RCLibrary"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "name": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "RCVirtualPropertyBase",
+      "type": "type",
+      "name": "RCVirtualPropertyBase"
+    },
+    {
+      "id": "Array_RCVirtualPropertyBase_",
+      "type": "type",
+      "name": "Array[RCVirtualPropertyBase]"
+    },
+    {
+      "id": "AvaRCControllerId",
+      "type": "type",
+      "name": "AvaRCControllerId"
+    },
+    {
+      "id": "AvaTransitionComparisonResult",
+      "type": "type",
+      "name": "AvaTransitionComparisonResult"
+    },
+    {
+      "id": "RigVMFunction_MathTransformTransformVector",
+      "type": "class",
+      "name": "RigVMFunction_MathTransformTransformVector",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathTransform.h",
+      "plugin": "RigVM",
+      "description": "Multiplies a given vector (location) by the transform"
+    },
+    {
+      "id": "MegaLightsShadowMethod",
+      "type": "enum",
+      "name": "MegaLightsShadowMethod",
+      "module": "Engine",
+      "file": "EngineTypes.h",
+      "description": "MegaLights Shadow type for a light component."
+    },
+    {
+      "id": "LiveLinkCameraRole",
+      "type": "class",
+      "name": "LiveLinkCameraRole",
+      "module": "LiveLinkInterface",
+      "file": "LiveLinkCameraRole.h",
+      "description": "Role associated for Camera data."
+    },
+    {
+      "id": "LiveLinkTransformRole",
+      "type": "class",
+      "name": "LiveLinkTransformRole"
+    },
+    {
+      "id": "TickableParentConstraint",
+      "type": "class",
+      "name": "TickableParentConstraint",
+      "module": "Constraints",
+      "file": "TransformConstraint.h",
+      "description": "UTickableParentConstraint"
+    },
+    {
+      "id": "TickableTransformConstraint",
+      "type": "class",
+      "name": "TickableTransformConstraint"
+    },
+    {
+      "id": "TransformableHandle",
+      "type": "type",
+      "name": "TransformableHandle"
+    },
+    {
+      "id": "TransformFilter",
+      "type": "type",
+      "name": "TransformFilter"
+    },
+    {
+      "id": "OnGameUserSettingsUINeedsUpdate",
+      "type": "class",
+      "name": "OnGameUserSettingsUINeedsUpdate",
+      "module": "Engine",
+      "file": "GameUserSettings.h",
+      "description": "On Game User Settings UINeeds Update  Delegate Signature"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "name": "MulticastDelegateBase"
+    },
+    {
+      "id": "RigUnit_HierarchyImportFromSkeleton",
+      "type": "class",
+      "name": "RigUnit_HierarchyImportFromSkeleton",
+      "module": "ControlRig",
+      "file": "RigUnit_DynamicHierarchy.h",
+      "plugin": "ControlRig",
+      "description": "Imports all bones (and curves) from the currently assigned skeleton."
+    },
+    {
+      "id": "RigUnit_DynamicHierarchyBaseMutable",
+      "type": "class",
+      "name": "RigUnit_DynamicHierarchyBaseMutable"
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "type",
+      "name": "ControlRigExecuteContext"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "type",
+      "name": "RigElementKey"
+    },
+    {
+      "id": "Array_RigElementKey_",
+      "type": "type",
+      "name": "Array[RigElementKey]"
+    }
+  ],
+  "edges": [
+    {
+      "from": "TransformNoScale",
+      "to": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "from": "TransformNoScale",
+      "to": "Vector",
+      "type": "has_property",
+      "label": "location"
+    },
+    {
+      "from": "TransformNoScale",
+      "to": "Quat",
+      "type": "has_property",
+      "label": "rotation"
+    },
+    {
+      "from": "PCGSplineProjectionData",
+      "to": "PCGProjectionData",
+      "type": "inherits"
+    },
+    {
+      "from": "PCGSplineProjectionData",
+      "to": "bool",
+      "type": "has_property",
+      "label": "keep_zero_density_points"
+    },
+    {
+      "from": "PCGSplineProjectionData",
+      "to": "PCGMetadata",
+      "type": "has_property",
+      "label": "metadata"
+    },
+    {
+      "from": "PCGSplineProjectionData",
+      "to": "InterpCurveVector2D",
+      "type": "has_property",
+      "label": "projected_position"
+    },
+    {
+      "from": "PCGSplineProjectionData",
+      "to": "PCGProjectionParams",
+      "type": "has_property",
+      "label": "projection_params"
+    },
+    {
+      "from": "PCGSplineProjectionData",
+      "to": "PCGSpatialData",
+      "type": "has_property",
+      "label": "source"
+    },
+    {
+      "from": "PCGSplineProjectionData",
+      "to": "PCGSpatialData",
+      "type": "has_property",
+      "label": "target"
+    },
+    {
+      "from": "PCGSplineProjectionData",
+      "to": "Actor",
+      "type": "has_property",
+      "label": "target_actor"
+    },
+    {
+      "from": "MaterialExpressionAbs",
+      "to": "MaterialExpression",
+      "type": "inherits"
+    },
+    {
+      "from": "MaterialExpressionAbs",
+      "to": "str",
+      "type": "has_property",
+      "label": "desc"
+    },
+    {
+      "from": "MaterialExpressionAbs",
+      "to": "int32",
+      "type": "has_property",
+      "label": "material_expression_editor_x"
+    },
+    {
+      "from": "MaterialExpressionAbs",
+      "to": "int32",
+      "type": "has_property",
+      "label": "material_expression_editor_y"
+    },
+    {
+      "from": "PropertyEditorTestInstancedStruct",
+      "to": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "from": "PropertyEditorTestInstancedStruct",
+      "to": "PropertyEditorTestInstancedObject",
+      "type": "has_property",
+      "label": "object"
+    },
+    {
+      "from": "RigVMFunction_MathTransformFromEulerTransform",
+      "to": "RigVMFunction_MathTransformBase",
+      "type": "inherits"
+    },
+    {
+      "from": "RigVMFunction_MathTransformFromEulerTransform",
+      "to": "EulerTransform",
+      "type": "has_property",
+      "label": "euler_transform"
+    },
+    {
+      "from": "RigVMFunction_MathTransformFromEulerTransform",
+      "to": "Transform",
+      "type": "has_property",
+      "label": "result"
+    },
+    {
+      "from": "MoviePipelineRenderPassOutputData",
+      "to": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "from": "MoviePipelineRenderPassOutputData",
+      "to": "Array_str_",
+      "type": "has_property",
+      "label": "file_paths"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "SceneCapture",
+      "type": "inherits"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Guid",
+      "type": "has_property",
+      "label": "actor_guid"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Guid",
+      "type": "has_property",
+      "label": "actor_instance_guid"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "allow_tick_before_begin_play"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "always_relevant"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "async_physics_tick_enabled"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "auto_destroy_when_finished"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "AutoReceiveInput",
+      "type": "has_property",
+      "label": "auto_receive_input"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "block_input"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "call_pre_replication"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "call_pre_replication_for_replay"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "can_be_damaged"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "can_be_in_cluster"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Guid",
+      "type": "has_property",
+      "label": "content_bundle_guid"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "float",
+      "type": "has_property",
+      "label": "custom_time_dilation"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Array_DataLayerAsset_",
+      "type": "has_property",
+      "label": "data_layer_assets"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Array_ActorDataLayer_",
+      "type": "has_property",
+      "label": "data_layers"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorUpdateOverlapsMethod",
+      "type": "has_property",
+      "label": "default_update_overlaps_method_during_level_streaming"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "enable_auto_lod_generation"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ExternalDataLayerAsset",
+      "type": "has_property",
+      "label": "external_data_layer_asset"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "find_camera_component_when_view_target"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "generate_overlap_events_during_level_streaming"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "hidden"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "HLODLayer",
+      "type": "has_property",
+      "label": "hlod_layer"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "ignores_origin_shifting"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "float",
+      "type": "has_property",
+      "label": "initial_life_span"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "int32",
+      "type": "has_property",
+      "label": "input_priority"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Pawn",
+      "type": "has_property",
+      "label": "instigator"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "is_editor_only_actor"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "is_main_world_only"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "is_spatially_loaded"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Array_Name_",
+      "type": "has_property",
+      "label": "layers"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "float",
+      "type": "has_property",
+      "label": "min_net_update_frequency"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "float",
+      "type": "has_property",
+      "label": "net_cull_distance_squared"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "NetDormancy",
+      "type": "has_property",
+      "label": "net_dormancy"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "net_load_on_client"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "float",
+      "type": "has_property",
+      "label": "net_priority"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "float",
+      "type": "has_property",
+      "label": "net_update_frequency"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "net_use_owner_relevancy"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorBeginOverlapSignature",
+      "type": "has_property",
+      "label": "on_actor_begin_overlap"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorEndOverlapSignature",
+      "type": "has_property",
+      "label": "on_actor_end_overlap"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorHitSignature",
+      "type": "has_property",
+      "label": "on_actor_hit"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorBeginCursorOverSignature",
+      "type": "has_property",
+      "label": "on_begin_cursor_over"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorOnClickedSignature",
+      "type": "has_property",
+      "label": "on_clicked"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorDestroyedSignature",
+      "type": "has_property",
+      "label": "on_destroyed"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorEndCursorOverSignature",
+      "type": "has_property",
+      "label": "on_end_cursor_over"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorEndPlaySignature",
+      "type": "has_property",
+      "label": "on_end_play"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorOnInputTouchBeginSignature",
+      "type": "has_property",
+      "label": "on_input_touch_begin"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorOnInputTouchEndSignature",
+      "type": "has_property",
+      "label": "on_input_touch_end"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorBeginTouchOverSignature",
+      "type": "has_property",
+      "label": "on_input_touch_enter"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorEndTouchOverSignature",
+      "type": "has_property",
+      "label": "on_input_touch_leave"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorOnReleasedSignature",
+      "type": "has_property",
+      "label": "on_released"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "TakeAnyDamageSignature",
+      "type": "has_property",
+      "label": "on_take_any_damage"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "TakePointDamageSignature",
+      "type": "has_property",
+      "label": "on_take_point_damage"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "TakeRadialDamageSignature",
+      "type": "has_property",
+      "label": "on_take_radial_damage"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "only_relevant_to_owner"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "optimize_bp_component_data"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "PhysicsReplicationMode",
+      "type": "has_property",
+      "label": "physics_replication_mode"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Vector",
+      "type": "has_property",
+      "label": "pivot_offset"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "PlanarReflectionComponent",
+      "type": "has_property",
+      "label": "planar_reflection_component"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorTickFunction",
+      "type": "has_property",
+      "label": "primary_actor_tick"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "relevant_for_level_bounds"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "NetRole",
+      "type": "has_property",
+      "label": "remote_role"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "replay_rewindable"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "replicate_movement"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "replicate_using_registered_sub_object_list"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "RepMovement",
+      "type": "has_property",
+      "label": "replicated_movement"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_property",
+      "label": "replicates"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "NetRole",
+      "type": "has_property",
+      "label": "role"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "SceneComponent",
+      "type": "has_property",
+      "label": "root_component"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Name",
+      "type": "has_property",
+      "label": "runtime_grid"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "SceneComponent",
+      "type": "has_property",
+      "label": "scene_component"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "SpawnActorCollisionHandlingMethod",
+      "type": "has_property",
+      "label": "spawn_collision_handling_method"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "float",
+      "type": "has_property",
+      "label": "sprite_scale"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "Array_Name_",
+      "type": "has_property",
+      "label": "tags"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "ActorUpdateOverlapsMethod",
+      "type": "has_property",
+      "label": "update_overlaps_method_during_level_streaming"
+    },
+    {
+      "from": "PlanarReflection",
+      "to": "bool",
+      "type": "has_method",
+      "label": "on_interp_toggle"
+    },
+    {
+      "from": "PCGSplineSamplingFill",
+      "to": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "DataAsset",
+      "type": "inherits"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "Array_InstancedStruct_",
+      "type": "has_property",
+      "label": "additional_fragments"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "Class",
+      "type": "has_property",
+      "label": "algorithm"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "str",
+      "type": "has_property",
+      "label": "asset_id"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "uint32",
+      "type": "has_property",
+      "label": "asset_version"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "EarthInputCollection",
+      "type": "has_property",
+      "label": "input_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "EarthOutputCollection",
+      "type": "has_property",
+      "label": "output_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "InstancedStruct",
+      "type": "has_property",
+      "label": "prefab"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "ScriptStruct",
+      "type": "has_property",
+      "label": "prefab_struct"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "EarthPrefabAsset",
+      "type": "has_property",
+      "label": "template_asset"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "Texture2D",
+      "type": "has_property",
+      "label": "thumbnail"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "bool",
+      "type": "has_property",
+      "label": "valid_algorithm"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "bool",
+      "type": "has_property",
+      "label": "valid_input_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "bool",
+      "type": "has_property",
+      "label": "valid_output_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "bool",
+      "type": "has_property",
+      "label": "valid_prefab"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "validate_asset"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "update_referencing_prefab_assets"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "update_prefab_on_property_change"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "update_algorithm_on_property_change"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "set_thumbnail"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "set_prefab"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "set_output_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "set_input_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "set_algorithm"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "on_property_change"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "load_thumbnail"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "load_data_from_fragment"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "Texture2D",
+      "type": "has_method",
+      "label": "get_thumbnail"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "Tuple",
+      "type": "has_method",
+      "label": "get_prefab_recursive"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "InstancedStruct",
+      "type": "has_method",
+      "label": "get_prefab_internal"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "EarthPrefabBase",
+      "type": "has_method",
+      "label": "get_prefab_data"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "InstancedStruct",
+      "type": "has_method",
+      "label": "get_prefab"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "EarthOutputCollection",
+      "type": "has_method",
+      "label": "get_output_collection_mutable"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "EarthOutputCollection",
+      "type": "has_method",
+      "label": "get_output_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "EarthInputCollection",
+      "type": "has_method",
+      "label": "get_input_collection_mutable"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "EarthInputCollection",
+      "type": "has_method",
+      "label": "get_input_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "Box",
+      "type": "has_method",
+      "label": "get_bounds"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "Class",
+      "type": "has_method",
+      "label": "get_algorithm"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "execute_algorithm"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "clear_output_collection"
+    },
+    {
+      "from": "EarthPrefabAsset",
+      "to": "void",
+      "type": "has_method",
+      "label": "clear_input_collection"
+    },
+    {
+      "from": "AvalanchePlaylist",
+      "to": "AvaRundown",
+      "type": "inherits"
+    },
+    {
+      "from": "DCPCommonAPIRegister",
+      "to": "ApiClassBase",
+      "type": "inherits"
+    },
+    {
+      "from": "DCPCommonAPIRegister",
+      "to": "ResultBase",
+      "type": "has_method",
+      "label": "dcp_muti_pick_start"
+    },
+    {
+      "from": "DCPCommonAPIRegister",
+      "to": "DCPMutiPickResult",
+      "type": "has_method",
+      "label": "dcp_muti_pick_end"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "StructBase",
+      "type": "inherits"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "int32",
+      "type": "has_property",
+      "label": "base_lod_model"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "bool",
+      "type": "has_property",
+      "label": "cull_occluded"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "bool",
+      "type": "has_property",
+      "label": "generate_unique_lightmap_u_vs"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "float",
+      "type": "has_property",
+      "label": "hard_angle_threshold"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "bool",
+      "type": "has_property",
+      "label": "keep_symmetry"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "float",
+      "type": "has_property",
+      "label": "max_deviation"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "uint32",
+      "type": "has_property",
+      "label": "max_num_of_triangles"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "uint32",
+      "type": "has_property",
+      "label": "max_num_of_verts"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "float",
+      "type": "has_property",
+      "label": "percent_triangles"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "float",
+      "type": "has_property",
+      "label": "percent_vertices"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "float",
+      "type": "has_property",
+      "label": "pixel_error"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "bool",
+      "type": "has_property",
+      "label": "recalculate_normals"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "MeshFeatureImportance",
+      "type": "has_property",
+      "label": "shading_importance"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "MeshFeatureImportance",
+      "type": "has_property",
+      "label": "silhouette_importance"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "StaticMeshReductionTerimationCriterion",
+      "type": "has_property",
+      "label": "termination_criterion"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "MeshFeatureImportance",
+      "type": "has_property",
+      "label": "texture_importance"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "MeshFeatureImportance",
+      "type": "has_property",
+      "label": "vertex_color_importance"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "MeshFeatureImportance",
+      "type": "has_property",
+      "label": "visibility_aggressiveness"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "bool",
+      "type": "has_property",
+      "label": "visibility_aided"
+    },
+    {
+      "from": "MeshReductionSettings",
+      "to": "float",
+      "type": "has_property",
+      "label": "welding_threshold"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "AnimNode_SkeletalControlBase",
+      "type": "inherits"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "float",
+      "type": "has_property",
+      "label": "alpha"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "InputAlphaBoolBlend",
+      "type": "has_property",
+      "label": "alpha_bool_blend"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "bool",
+      "type": "has_property",
+      "label": "alpha_bool_enabled"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "Name",
+      "type": "has_property",
+      "label": "alpha_curve_name"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "AnimAlphaInputType",
+      "type": "has_property",
+      "label": "alpha_input_type"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "InputScaleBias",
+      "type": "has_property",
+      "label": "alpha_scale_bias"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "InputScaleBiasClamp",
+      "type": "has_property",
+      "label": "alpha_scale_bias_clamp"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "ComponentSpacePoseLink",
+      "type": "has_property",
+      "label": "component_pose"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "float",
+      "type": "has_property",
+      "label": "hand_fk_weight"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "Array_BoneReference_",
+      "type": "has_property",
+      "label": "ik_bones_to_move"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "BoneReference",
+      "type": "has_property",
+      "label": "left_hand_fk"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "BoneReference",
+      "type": "has_property",
+      "label": "left_hand_ik"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "int32",
+      "type": "has_property",
+      "label": "lod_threshold"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "Vector",
+      "type": "has_property",
+      "label": "per_axis_alpha"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "BoneReference",
+      "type": "has_property",
+      "label": "right_hand_fk"
+    },
+    {
+      "from": "AnimNode_HandIKRetargeting",
+      "to": "BoneReference",
+      "type": "has_property",
+      "label": "right_hand_ik"
+    },
+    {
+      "from": "MaterialExpressionPixelNormalWS",
+      "to": "MaterialExpression",
+      "type": "inherits"
+    },
+    {
+      "from": "MaterialExpressionPixelNormalWS",
+      "to": "str",
+      "type": "has_property",
+      "label": "desc"
+    },
+    {
+      "from": "MaterialExpressionPixelNormalWS",
+      "to": "int32",
+      "type": "has_property",
+      "label": "material_expression_editor_x"
+    },
+    {
+      "from": "MaterialExpressionPixelNormalWS",
+      "to": "int32",
+      "type": "has_property",
+      "label": "material_expression_editor_y"
+    },
+    {
+      "from": "MergeSceneParams",
+      "to": "ParamsBase",
+      "type": "inherits"
+    },
+    {
+      "from": "MergeSceneParams",
+      "to": "str",
+      "type": "has_property",
+      "label": "another_container_id"
+    },
+    {
+      "from": "MergeSceneParams",
+      "to": "str",
+      "type": "has_property",
+      "label": "container_id"
+    },
+    {
+      "from": "MergeSceneParams",
+      "to": "Set_Name_",
+      "type": "has_property",
+      "label": "entity_types_to_ignore"
+    },
+    {
+      "from": "MergeSceneParams",
+      "to": "str",
+      "type": "has_property",
+      "label": "guid"
+    },
+    {
+      "from": "MergeSceneParams",
+      "to": "Set_Name_",
+      "type": "has_property",
+      "label": "hit_keys"
+    },
+    {
+      "from": "AvaTransitionRCLibrary",
+      "to": "BlueprintFunctionLibrary",
+      "type": "inherits"
+    },
+    {
+      "from": "AvaTransitionRCLibrary",
+      "to": "Array_RCVirtualPropertyBase_",
+      "type": "has_method",
+      "label": "get_changed_rc_controllers"
+    },
+    {
+      "from": "AvaTransitionRCLibrary",
+      "to": "bool",
+      "type": "has_method",
+      "label": "compare_rc_controller_values"
+    },
+    {
+      "from": "RigVMFunction_MathTransformTransformVector",
+      "to": "RigVMFunction_MathTransformBase",
+      "type": "inherits"
+    },
+    {
+      "from": "RigVMFunction_MathTransformTransformVector",
+      "to": "Vector",
+      "type": "has_property",
+      "label": "location"
+    },
+    {
+      "from": "RigVMFunction_MathTransformTransformVector",
+      "to": "Vector",
+      "type": "has_property",
+      "label": "result"
+    },
+    {
+      "from": "RigVMFunction_MathTransformTransformVector",
+      "to": "Transform",
+      "type": "has_property",
+      "label": "transform"
+    },
+    {
+      "from": "MegaLightsShadowMethod",
+      "to": "EnumBase",
+      "type": "inherits"
+    },
+    {
+      "from": "LiveLinkCameraRole",
+      "to": "LiveLinkTransformRole",
+      "type": "inherits"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "TickableTransformConstraint",
+      "type": "inherits"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "bool",
+      "type": "has_property",
+      "label": "active"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "TransformableHandle",
+      "type": "has_property",
+      "label": "child_trs_handle"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "bool",
+      "type": "has_property",
+      "label": "dynamic_offset"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "bool",
+      "type": "has_property",
+      "label": "maintain_offset"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "Transform",
+      "type": "has_property",
+      "label": "offset_transform"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "TransformableHandle",
+      "type": "has_property",
+      "label": "parent_trs_handle"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "bool",
+      "type": "has_property",
+      "label": "scaling"
+    },
+    {
+      "from": "TickableParentConstraint",
+      "to": "TransformFilter",
+      "type": "has_property",
+      "label": "transform_filter"
+    },
+    {
+      "from": "OnGameUserSettingsUINeedsUpdate",
+      "to": "MulticastDelegateBase",
+      "type": "inherits"
+    },
+    {
+      "from": "RigUnit_HierarchyImportFromSkeleton",
+      "to": "RigUnit_DynamicHierarchyBaseMutable",
+      "type": "inherits"
+    },
+    {
+      "from": "RigUnit_HierarchyImportFromSkeleton",
+      "to": "ControlRigExecuteContext",
+      "type": "has_property",
+      "label": "execute_context"
+    },
+    {
+      "from": "RigUnit_HierarchyImportFromSkeleton",
+      "to": "bool",
+      "type": "has_property",
+      "label": "include_curves"
+    },
+    {
+      "from": "RigUnit_HierarchyImportFromSkeleton",
+      "to": "Array_RigElementKey_",
+      "type": "has_property",
+      "label": "items"
+    },
+    {
+      "from": "RigUnit_HierarchyImportFromSkeleton",
+      "to": "Name",
+      "type": "has_property",
+      "label": "name_space"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "nodes": ["TransformNoScale", "Vector", "Quat"],
+      "type": "struct_composition",
+      "description": "TransformNoScale is composed of location (Vector) and rotation (Quat)"
+    },
+    {
+      "id": "hyperedge_2",
+      "nodes": ["RigVMFunction_MathTransformFromEulerTransform", "EulerTransform", "Transform"],
+      "type": "function_signature",
+      "description": "Converts EulerTransform input to Transform output"
+    },
+    {
+      "id": "hyperedge_3",
+      "nodes": ["RigVMFunction_MathTransformTransformVector", "Transform", "Vector"],
+      "type": "function_signature",
+      "description": "Multiplies a vector by a transform to produce a result vector"
+    },
+    {
+      "id": "hyperedge_4",
+      "nodes": ["AnimNode_HandIKRetargeting", "BoneReference", "Vector"],
+      "type": "animation_node",
+      "description": "Hand IK retargeting node with FK/IK bone references and per-axis alpha"
+    },
+    {
+      "id": "hyperedge_5",
+      "nodes": ["MeshReductionSettings", "MeshFeatureImportance", "float", "bool"],
+      "type": "struct_composition",
+      "description": "MeshReductionSettings contains multiple importance settings and reduction parameters"
+    },
+    {
+      "id": "hyperedge_6",
+      "nodes": ["EarthPrefabAsset", "InstancedStruct", "EarthInputCollection", "EarthOutputCollection", "Texture2D"],
+      "type": "asset_composition",
+      "description": "EarthPrefabAsset is composed of prefab data, input/output collections, and visual thumbnail"
+    },
+    {
+      "id": "hyperedge_7",
+      "nodes": ["PCGSplineProjectionData", "InterpCurveVector2D", "PCGMetadata", "PCGProjectionParams", "PCGSpatialData"],
+      "type": "data_composition",
+      "description": "PCG spline projection data includes projected position curve, metadata, and projection parameters"
+    },
+    {
+      "id": "hyperedge_8",
+      "nodes": ["PlanarReflection", "PlanarReflectionComponent", "SceneComponent", "Guid"],
+      "type": "actor_composition",
+      "description": "PlanarReflection actor with reflection component and GUIDs for identification"
+    },
+    {
+      "id": "hyperedge_9",
+      "nodes": ["AvaTransitionRCLibrary", "RCVirtualPropertyBase", "AvaRCControllerId", "AvaTransitionComparisonResult"],
+      "type": "function_library",
+      "description": "AvaTransitionRCLibrary provides methods to get and compare RC controller values"
+    },
+    {
+      "id": "hyperedge_10",
+      "nodes": ["TickableParentConstraint", "TransformableHandle", "Transform", "TransformFilter"],
+      "type": "constraint_composition",
+      "description": "TickableParentConstraint handles parent-child transform relationships with offset and filtering"
+    },
+    {
+      "id": "hyperedge_11",
+      "nodes": ["RigUnit_HierarchyImportFromSkeleton", "ControlRigExecuteContext", "RigElementKey"],
+      "type": "rig_unit",
+      "description": "RigUnit imports skeleton bones and curves as RigElementKeys in a namespace"
+    },
+    {
+      "id": "hyperedge_12",
+      "nodes": ["DCPCommonAPIRegister", "ParamsBase", "ResultBase", "DCPMutiPickResult"],
+      "type": "api_register",
+      "description": "DCPCommonAPIRegister provides API methods with parameter and result types"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "nodes": [
+    {
+      "id": "contentbrowserdatamenucontext_foldermenu_contentbrowserdatamenucontext_foldermenu",
+      "label": "ContentBrowserDataMenuContext FolderMenu",
+      "file_type": "code",
+      "source_file": "ContentBrowserDataMenuContext_FolderMenu Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncniagaracapturesimcache_asyncniagaracapturesimcache",
+      "label": "Async Niagara Capture Sim Cache",
+      "file_type": "code",
+      "source_file": "AsyncNiagaraCaptureSimCache Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublepow_rigunit_mathdoublepow",
+      "label": "RigUnit MathDoublePow",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoublePow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tickmode_tickmode",
+      "label": "TickMode",
+      "file_type": "code",
+      "source_file": "TickMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdanimsequenceassetuserdata_usdanimsequenceassetuserdata",
+      "label": "Usd Anim Sequence Asset User Data",
+      "file_type": "code",
+      "source_file": "UsdAnimSequenceAssetUserData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonelaneprofileref_zonelaneprofileref",
+      "label": "Zone Lane Profile Ref",
+      "file_type": "code",
+      "source_file": "ZoneLaneProfileRef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform3f_transform3f",
+      "label": "Transform3f",
+      "file_type": "code",
+      "source_file": "Transform3f Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datalayerinstancewithasset_datalayerinstancewithasset",
+      "label": "Data Layer Instance with Asset",
+      "file_type": "code",
+      "source_file": "DataLayerInstanceWithAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorsetlength_rigvmfunction_mathvectorsetlength",
+      "label": "RigVMFunction MathVectorSetLength",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorSetLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldphysicstype_fieldphysicstype",
+      "label": "FieldPhysicsType",
+      "file_type": "code",
+      "source_file": "FieldPhysicsType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpsnapgroundmode_wdpsnapgroundmode",
+      "label": "WdpSnapGroundMode",
+      "file_type": "code",
+      "source_file": "WdpSnapGroundMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "capturelostevent_capturelostevent",
+      "label": "Capture Lost Event",
+      "file_type": "code",
+      "source_file": "CaptureLostEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingcreateproxymeshactoroptions_deprecated_editorscriptingcreateproxymeshactoroptions_deprecated",
+      "label": "Editor Scripting Create Proxy Mesh Actor Options Deprecated",
+      "file_type": "code",
+      "source_file": "EditorScriptingCreateProxyMeshActorOptions__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "traceutillibrary_traceutillibrary",
+      "label": "Trace Util Library",
+      "file_type": "code",
+      "source_file": "TraceUtilLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublegreater_rigvmfunction_mathdoublegreater",
+      "label": "RigVMFunction MathDoubleGreater",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleGreater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tickinggroup_tickinggroup",
+      "label": "TickingGroup",
+      "file_type": "code",
+      "source_file": "TickingGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataregistrysubsystem_dataregistrysubsystem",
+      "label": "Data Registry Subsystem",
+      "file_type": "code",
+      "source_file": "DataRegistrySubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytageventtype_gameplaytageventtype",
+      "label": "GameplayTagEventType",
+      "file_type": "code",
+      "source_file": "GameplayTagEventType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionabsorptionmediummaterialoutput_materialexpressionabsorptionmediummaterialoutput",
+      "label": "Material Expression Absorption Medium Material Output",
+      "file_type": "code",
+      "source_file": "MaterialExpressionAbsorptionMediumMaterialOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "overlay_overlay",
+      "label": "Overlay",
+      "file_type": "code",
+      "source_file": "Overlay Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avavisibilitymodifier_avavisibilitymodifier",
+      "label": "Ava Visibility Modifier",
+      "file_type": "code",
+      "source_file": "AvaVisibilityModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filemediasource_filemediasource",
+      "label": "File Media Source",
+      "file_type": "code",
+      "source_file": "FileMediaSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathdoublepow_rigunit_mathdoublepow",
+      "target": "rigvmfunction_mathdoublegreater_rigvmfunction_mathdoublegreater",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoublePow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorsetlength_rigvmfunction_mathvectorsetlength",
+      "target": "rigvmfunction_mathdoublegreater_rigvmfunction_mathdoublegreater",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathVectorSetLength Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transform3f_transform3f",
+      "target": "rigvmfunction_mathvectorsetlength_rigvmfunction_mathvectorsetlength",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Transform3f Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tickinggroup_tickinggroup",
+      "target": "tickmode_tickmode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "TickingGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataregistrysubsystem_dataregistrysubsystem",
+      "target": "traceutillibrary_traceutillibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DataRegistrySubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "overlay_overlay",
+      "target": "avavisibilitymodifier_avavisibilitymodifier",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Overlay Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "overlay_overlay",
+      "target": "tickmode_tickmode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Overlay Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathvectorsetlength_rigvmfunction_mathvectorsetlength",
+        "rigvmfunction_mathdoublegreater_rigvmfunction_mathdoublegreater",
+        "rigunit_mathdoublepow_rigunit_mathdoublepow"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorSetLength Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

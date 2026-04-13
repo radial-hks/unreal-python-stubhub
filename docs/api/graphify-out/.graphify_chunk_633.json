@@ -1,0 +1,384 @@
+{
+  "nodes": [
+    {"id": "AITask_MoveTo", "type": "class", "label": "AITask_MoveTo", "description": "AITask Move To"},
+    {"id": "AITask", "type": "class", "label": "AITask", "description": "Parent class of AITask_MoveTo"},
+    {"id": "AIModule", "type": "module", "label": "AIModule"},
+    {"id": "GenericGameplayTaskDelegate", "type": "delegate", "label": "GenericGameplayTaskDelegate"},
+    {"id": "MoveTaskCompletedSignature", "type": "delegate", "label": "MoveTaskCompletedSignature"},
+    {"id": "AIController", "type": "class", "label": "AIController"},
+
+    {"id": "InstancedStaticMeshComponent", "type": "class", "label": "InstancedStaticMeshComponent", "description": "A component that efficiently renders multiple instances of the same StaticMesh"},
+    {"id": "StaticMeshComponent", "type": "class", "label": "StaticMeshComponent"},
+    {"id": "Engine", "type": "module", "label": "Engine"},
+    {"id": "Transform", "type": "type", "label": "Transform"},
+    {"id": "Vector", "type": "type", "label": "Vector"},
+    {"id": "Box", "type": "type", "label": "Box"},
+    {"id": "Array_int", "type": "type", "label": "Array[int]"},
+    {"id": "Array_Transform", "type": "type", "label": "Array[Transform]"},
+    {"id": "StaticMesh", "type": "class", "label": "StaticMesh"},
+
+    {"id": "GameplayEffectModifierMagnitude", "type": "struct", "label": "GameplayEffectModifierMagnitude", "description": "Struct representing the magnitude of a gameplay effect modifier"},
+    {"id": "StructBase", "type": "class", "label": "StructBase"},
+    {"id": "GameplayAbilities", "type": "plugin", "label": "GameplayAbilities"},
+    {"id": "GameplayAbilities_Module", "type": "module", "label": "GameplayAbilities"},
+    {"id": "AttributeBasedFloat", "type": "type", "label": "AttributeBasedFloat"},
+    {"id": "CustomCalculationBasedFloat", "type": "type", "label": "CustomCalculationBasedFloat"},
+    {"id": "ScalableFloat", "type": "type", "label": "ScalableFloat"},
+    {"id": "SetByCallerFloat", "type": "type", "label": "SetByCallerFloat"},
+
+    {"id": "BlueprintFunctionLibraryAPI", "type": "class", "label": "BlueprintFunctionLibraryAPI", "description": "Blueprint Function Library API"},
+    {"id": "BlueprintFunctionLibrary", "type": "class", "label": "BlueprintFunctionLibrary"},
+    {"id": "CoveringAPI", "type": "plugin", "label": "CoveringAPI"},
+    {"id": "CoveringAPIEntity", "type": "module", "label": "CoveringAPIEntity"},
+    {"id": "LinearColor", "type": "type", "label": "LinearColor"},
+    {"id": "Vector2D", "type": "type", "label": "Vector2D"},
+    {"id": "WdpActorEntity", "type": "class", "label": "WdpActorEntity"},
+    {"id": "WdpPickFilter", "type": "class", "label": "WdpPickFilter"},
+    {"id": "Object", "type": "type", "label": "Object"},
+    {"id": "TextureRenderTarget2D", "type": "class", "label": "TextureRenderTarget2D"},
+    {"id": "MaterialInterface", "type": "class", "label": "MaterialInterface"},
+
+    {"id": "RigMirrorSettings", "type": "class", "label": "RigMirrorSettings", "description": "deprecated: 'RigMirrorSettings' was renamed to 'RigVMMirrorSettings'"},
+    {"id": "RigVMMirrorSettings", "type": "class", "label": "RigVMMirrorSettings"},
+    {"id": "AxisType", "type": "enum", "label": "AxisType"},
+
+    {"id": "MaterialExpressionObjectRadius", "type": "class", "label": "MaterialExpressionObjectRadius", "description": "Material Expression Object Radius"},
+    {"id": "MaterialExpression", "type": "class", "label": "MaterialExpression"},
+
+    {"id": "MaterialExpressionActorPositionWS", "type": "class", "label": "MaterialExpressionActorPositionWS", "description": "Material Expression Actor Position WS"},
+    {"id": "PositionOrigin", "type": "enum", "label": "PositionOrigin"},
+
+    {"id": "MVVMSlateBrushConversionLibrary", "type": "class", "label": "MVVMSlateBrushConversionLibrary", "description": "Conversion library that contains methods for FSlateBrush"},
+    {"id": "ModelViewViewModel", "type": "plugin", "label": "ModelViewViewModel"},
+    {"id": "SlateBrush", "type": "type", "label": "SlateBrush"},
+    {"id": "Name", "type": "type", "label": "Name"},
+    {"id": "Texture", "type": "class", "label": "Texture"},
+
+    {"id": "glTFRuntimeBoneBoundsFilterHook", "type": "struct", "label": "glTFRuntimeBoneBoundsFilterHook", "description": "Gl TFRuntime Bone Bounds Filter Hook"},
+    {"id": "AesWorld", "type": "plugin", "label": "AesWorld"},
+    {"id": "glTFRuntime", "type": "module", "label": "glTFRuntime"},
+    {"id": "glTFRuntimeBoneBoundsFilter", "type": "type", "label": "glTFRuntimeBoneBoundsFilter"},
+
+    {"id": "UniformGridPanel", "type": "class", "label": "UniformGridPanel", "description": "A panel that evenly divides up available space between all of its children"},
+    {"id": "PanelWidget", "type": "class", "label": "PanelWidget"},
+    {"id": "UMG", "type": "module", "label": "UMG"},
+    {"id": "Margin", "type": "type", "label": "Margin"},
+    {"id": "Widget", "type": "class", "label": "Widget"},
+    {"id": "UniformGridSlot", "type": "class", "label": "UniformGridSlot"},
+
+    {"id": "EarthTextureIndexFragment", "type": "struct", "label": "EarthTextureIndexFragment", "description": "定义贴图索引值片段的结构体"},
+    {"id": "EarthPropertyFragment", "type": "struct", "label": "EarthPropertyFragment"},
+    {"id": "EarthPrefab", "type": "module", "label": "EarthPrefab"},
+
+    {"id": "Synth2DSlider", "type": "class", "label": "Synth2DSlider", "description": "A simple widget that shows a sliding bar with a handle"},
+    {"id": "Synthesis", "type": "plugin", "label": "Synthesis"},
+    {"id": "Synth2DSliderStyle", "type": "type", "label": "Synth2DSliderStyle"},
+    {"id": "OnMouseCaptureBeginEventSynth2D", "type": "delegate", "label": "OnMouseCaptureBeginEventSynth2D"},
+    {"id": "OnMouseCaptureEndEventSynth2D", "type": "delegate", "label": "OnMouseCaptureEndEventSynth2D"},
+    {"id": "OnControllerCaptureBeginEventSynth2D", "type": "delegate", "label": "OnControllerCaptureBeginEventSynth2D"},
+    {"id": "OnControllerCaptureEndEventSynth2D", "type": "delegate", "label": "OnControllerCaptureEndEventSynth2D"},
+    {"id": "OnFloatValueChangedEventSynth2D", "type": "delegate", "label": "OnFloatValueChangedEventSynth2D"},
+
+    {"id": "RigUnit_StringReverse", "type": "class", "label": "RigUnit_StringReverse", "description": "deprecated: 'RigUnit_StringReverse' was renamed to 'RigVMFunction_StringReverse'"},
+    {"id": "RigVMFunction_StringReverse", "type": "class", "label": "RigVMFunction_StringReverse"},
+    {"id": "ControlRig", "type": "plugin", "label": "ControlRig"},
+
+    {"id": "MovieSceneConditionScope", "type": "enum", "label": "MovieSceneConditionScope", "description": "Defines the scope of a particular condition type"},
+    {"id": "EnumBase", "type": "class", "label": "EnumBase"},
+    {"id": "MovieScene", "type": "module", "label": "MovieScene"},
+    {"id": "GLOBAL", "type": "enum_value", "label": "GLOBAL", "value": 0},
+    {"id": "BINDING", "type": "enum_value", "label": "BINDING", "value": 1},
+    {"id": "OWNER_OBJECT", "type": "enum_value", "label": "OWNER_OBJECT", "value": 2},
+
+    {"id": "TakeRecorderMarkedFrameAdded", "type": "delegate", "label": "TakeRecorderMarkedFrameAdded", "description": "Take Recorder Marked Frame Added Delegate Signature"},
+    {"id": "MulticastDelegateBase", "type": "class", "label": "MulticastDelegateBase"},
+    {"id": "Takes", "type": "plugin", "label": "Takes"},
+    {"id": "TakeRecorder", "type": "module", "label": "TakeRecorder"},
+    {"id": "MovieSceneMarkedFrame", "type": "type", "label": "MovieSceneMarkedFrame"},
+
+    {"id": "AesFlowMapEditorCommandParams_Erase", "type": "class", "label": "AesFlowMapEditorCommandParams_Erase"},
+    {"id": "AesEditorSimpleCommandParams", "type": "class", "label": "AesEditorSimpleCommandParams"},
+    {"id": "AesEditorMode", "type": "module", "label": "AesEditorMode"},
+
+    {"id": "SkyCreatorEditorWeatherType", "type": "enum", "label": "SkyCreatorEditorWeatherType", "description": "ESky Creator Editor Weather Type"},
+    {"id": "SkyCreatorPlugin", "type": "plugin", "label": "SkyCreatorPlugin"},
+    {"id": "SkyCreatorPlugin_Module", "type": "module", "label": "SkyCreatorPlugin"},
+    {"id": "EDITOR_WEATHER_WEATHER_PRESET", "type": "enum_value", "label": "EDITOR_WEATHER_WEATHER_PRESET", "value": 0},
+    {"id": "EDITOR_WEATHER_WEATHER_SETTINGS", "type": "enum_value", "label": "EDITOR_WEATHER_WEATHER_SETTINGS", "value": 1},
+
+    {"id": "RigVMTrait_SetDeformerIntArrayVariable", "type": "class", "label": "RigVMTrait_SetDeformerIntArrayVariable"},
+    {"id": "RigVMTrait_OptimusVariableBase", "type": "class", "label": "RigVMTrait_OptimusVariableBase"},
+    {"id": "DeformerGraph", "type": "plugin", "label": "DeformerGraph"},
+    {"id": "OptimusCore", "type": "module", "label": "OptimusCore"},
+    {"id": "Array_int32", "type": "type", "label": "Array[int32]"},
+
+    {"id": "RigUnit_BlendTransform", "type": "class", "label": "RigUnit_BlendTransform"},
+    {"id": "RigUnit", "type": "class", "label": "RigUnit"},
+    {"id": "Array_BlendTarget", "type": "type", "label": "Array[BlendTarget]"},
+    {"id": "BlendTarget", "type": "type", "label": "BlendTarget"},
+
+    {"id": "CompositingMaterial", "type": "class", "label": "CompositingMaterial"},
+    {"id": "CompositingParamPayload", "type": "class", "label": "CompositingParamPayload"},
+    {"id": "Composure", "type": "plugin", "label": "Composure"},
+    {"id": "Composure_Module", "type": "module", "label": "Composure"},
+    {"id": "Map_Name_Name", "type": "type", "label": "Map[Name, Name]"},
+    {"id": "Map_Name_NamedCompMaterialParam", "type": "type", "label": "Map[Name, NamedCompMaterialParam]"},
+    {"id": "Map_Name_LinearColor", "type": "type", "label": "Map[Name, LinearColor]"},
+    {"id": "Array_Name", "type": "type", "label": "Array[Name]"},
+
+    {"id": "RigUnit_Distance_VectorVector", "type": "class", "label": "RigUnit_Distance_VectorVector"},
+    {"id": "float", "type": "primitive", "label": "float"},
+    {"id": "bool", "type": "primitive", "label": "bool"},
+    {"id": "int", "type": "primitive", "label": "int"},
+    {"id": "str", "type": "primitive", "label": "str"}
+  ],
+  "edges": [
+    {"source": "AITask_MoveTo", "target": "AITask", "type": "inherits_from"},
+    {"source": "AITask_MoveTo", "target": "AIModule", "type": "defined_in_module"},
+    {"source": "AITask_MoveTo", "target": "GenericGameplayTaskDelegate", "type": "has_property", "label": "on_request_failed"},
+    {"source": "AITask_MoveTo", "target": "MoveTaskCompletedSignature", "type": "has_property", "label": "on_move_finished"},
+    {"source": "AITask_MoveTo", "target": "AIController", "type": "has_property", "label": "owner_controller"},
+
+    {"source": "InstancedStaticMeshComponent", "target": "StaticMeshComponent", "type": "inherits_from"},
+    {"source": "InstancedStaticMeshComponent", "target": "Engine", "type": "defined_in_module"},
+    {"source": "InstancedStaticMeshComponent", "target": "StaticMesh", "type": "has_property", "label": "static_mesh"},
+    {"source": "InstancedStaticMeshComponent", "target": "int", "type": "has_property", "label": "instancing_random_seed"},
+    {"source": "InstancedStaticMeshComponent", "target": "float", "type": "has_property", "label": "instance_lod_distance_scale"},
+    {"source": "InstancedStaticMeshComponent", "target": "Transform", "type": "method_parameter", "label": "update_instance_transform"},
+    {"source": "InstancedStaticMeshComponent", "target": "Vector", "type": "method_parameter", "label": "get_instances_overlapping_sphere"},
+    {"source": "InstancedStaticMeshComponent", "target": "Box", "type": "method_parameter", "label": "get_instances_overlapping_box"},
+    {"source": "InstancedStaticMeshComponent", "target": "Array_int", "type": "method_returns", "label": "get_instances_overlapping_sphere"},
+    {"source": "InstancedStaticMeshComponent", "target": "Array_Transform", "type": "method_parameter", "label": "add_instances"},
+    {"source": "InstancedStaticMeshComponent", "target": "bool", "type": "method_returns", "label": "update_instance_transform"},
+
+    {"source": "GameplayEffectModifierMagnitude", "target": "StructBase", "type": "inherits_from"},
+    {"source": "GameplayEffectModifierMagnitude", "target": "GameplayAbilities", "type": "defined_in_plugin"},
+    {"source": "GameplayEffectModifierMagnitude", "target": "GameplayAbilities_Module", "type": "defined_in_module"},
+    {"source": "GameplayEffectModifierMagnitude", "target": "AttributeBasedFloat", "type": "has_property", "label": "attribute_based_magnitude"},
+    {"source": "GameplayEffectModifierMagnitude", "target": "CustomCalculationBasedFloat", "type": "has_property", "label": "custom_magnitude"},
+    {"source": "GameplayEffectModifierMagnitude", "target": "ScalableFloat", "type": "has_property", "label": "scalable_float_magnitude"},
+    {"source": "GameplayEffectModifierMagnitude", "target": "SetByCallerFloat", "type": "has_property", "label": "set_by_caller_magnitude"},
+
+    {"source": "BlueprintFunctionLibraryAPI", "target": "BlueprintFunctionLibrary", "type": "inherits_from"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "CoveringAPI", "type": "defined_in_plugin"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "CoveringAPIEntity", "type": "defined_in_module"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "LinearColor", "type": "method_returns", "label": "string_hex_color2_linear_color_original"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "Vector", "type": "method_parameter", "label": "get_center_point"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "Vector2D", "type": "method_returns", "label": "get_left_up_right_down_points"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "WdpActorEntity", "type": "method_parameter", "label": "set_cast_shadow"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "WdpPickFilter", "type": "method_returns", "label": "get_wdp_pick_filter"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "Object", "type": "method_parameter", "label": "notify_web_js_event"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "TextureRenderTarget2D", "type": "method_returns", "label": "create_texture_render_target2d"},
+    {"source": "BlueprintFunctionLibraryAPI", "target": "Box", "type": "method_returns", "label": "calculate_bounding_box"},
+
+    {"source": "RigMirrorSettings", "target": "RigVMMirrorSettings", "type": "deprecated_renamed_to"},
+    {"source": "RigMirrorSettings", "target": "AxisType", "type": "has_property", "label": "mirror_axis"},
+    {"source": "RigMirrorSettings", "target": "AxisType", "type": "has_property", "label": "axis_to_flip"},
+    {"source": "RigMirrorSettings", "target": "str", "type": "has_property", "label": "search_string"},
+    {"source": "RigMirrorSettings", "target": "str", "type": "has_property", "label": "replace_string"},
+
+    {"source": "MaterialExpressionObjectRadius", "target": "MaterialExpression", "type": "inherits_from"},
+    {"source": "MaterialExpressionObjectRadius", "target": "Engine", "type": "defined_in_module"},
+    {"source": "MaterialExpressionObjectRadius", "target": "str", "type": "has_property", "label": "desc"},
+    {"source": "MaterialExpressionObjectRadius", "target": "int", "type": "has_property", "label": "material_expression_editor_x"},
+
+    {"source": "MaterialExpressionActorPositionWS", "target": "MaterialExpression", "type": "inherits_from"},
+    {"source": "MaterialExpressionActorPositionWS", "target": "Engine", "type": "defined_in_module"},
+    {"source": "MaterialExpressionActorPositionWS", "target": "PositionOrigin", "type": "has_property", "label": "origin_type"},
+
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "BlueprintFunctionLibrary", "type": "inherits_from"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "ModelViewViewModel", "type": "defined_in_plugin"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "ModelViewViewModel", "type": "defined_in_module"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "SlateBrush", "type": "method_parameter", "label": "conv_set_vector_parameter"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "LinearColor", "type": "method_parameter", "label": "conv_set_vector_parameter"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "Name", "type": "method_parameter", "label": "conv_set_vector_parameter"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "MaterialInterface", "type": "method_parameter", "label": "conv_set_vector_parameter_mid"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "Texture", "type": "method_parameter", "label": "conv_set_texture_parameter"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "SlateBrush", "type": "method_returns", "label": "conv_set_vector_parameter"},
+    {"source": "MVVMSlateBrushConversionLibrary", "target": "float", "type": "method_parameter", "label": "conv_set_scalar_parameter"},
+
+    {"source": "glTFRuntimeBoneBoundsFilterHook", "target": "StructBase", "type": "inherits_from"},
+    {"source": "glTFRuntimeBoneBoundsFilterHook", "target": "AesWorld", "type": "defined_in_plugin"},
+    {"source": "glTFRuntimeBoneBoundsFilterHook", "target": "glTFRuntime", "type": "defined_in_module"},
+    {"source": "glTFRuntimeBoneBoundsFilterHook", "target": "glTFRuntimeBoneBoundsFilter", "type": "has_property", "label": "filter"},
+    {"source": "glTFRuntimeBoneBoundsFilterHook", "target": "Object", "type": "has_property", "label": "context"},
+
+    {"source": "UniformGridPanel", "target": "PanelWidget", "type": "inherits_from"},
+    {"source": "UniformGridPanel", "target": "UMG", "type": "defined_in_module"},
+    {"source": "UniformGridPanel", "target": "Margin", "type": "has_property", "label": "slot_padding"},
+    {"source": "UniformGridPanel", "target": "float", "type": "has_property", "label": "min_desired_slot_width"},
+    {"source": "UniformGridPanel", "target": "float", "type": "has_property", "label": "min_desired_slot_height"},
+    {"source": "UniformGridPanel", "target": "Widget", "type": "method_parameter", "label": "add_child_to_uniform_grid"},
+    {"source": "UniformGridPanel", "target": "UniformGridSlot", "type": "method_returns", "label": "add_child_to_uniform_grid"},
+
+    {"source": "EarthTextureIndexFragment", "target": "EarthPropertyFragment", "type": "inherits_from"},
+    {"source": "EarthTextureIndexFragment", "target": "AesWorld", "type": "defined_in_plugin"},
+    {"source": "EarthTextureIndexFragment", "target": "EarthPrefab", "type": "defined_in_module"},
+    {"source": "EarthTextureIndexFragment", "target": "bool", "type": "has_property", "label": "valid"},
+    {"source": "EarthTextureIndexFragment", "target": "bool", "type": "has_property", "label": "validated"},
+    {"source": "EarthTextureIndexFragment", "target": "int", "type": "has_property", "label": "texture_index"},
+
+    {"source": "Synth2DSlider", "target": "Widget", "type": "inherits_from"},
+    {"source": "Synth2DSlider", "target": "Synthesis", "type": "defined_in_plugin"},
+    {"source": "Synth2DSlider", "target": "Synthesis", "type": "defined_in_module"},
+    {"source": "Synth2DSlider", "target": "Synth2DSliderStyle", "type": "has_property", "label": "widget_style"},
+    {"source": "Synth2DSlider", "target": "LinearColor", "type": "has_property", "label": "slider_handle_color"},
+    {"source": "Synth2DSlider", "target": "bool", "type": "has_property", "label": "locked"},
+    {"source": "Synth2DSlider", "target": "float", "type": "has_property", "label": "step_size"},
+    {"source": "Synth2DSlider", "target": "float", "type": "has_property", "label": "value_x"},
+    {"source": "Synth2DSlider", "target": "float", "type": "has_property", "label": "value_y"},
+    {"source": "Synth2DSlider", "target": "OnMouseCaptureBeginEventSynth2D", "type": "has_property", "label": "on_mouse_capture_begin"},
+    {"source": "Synth2DSlider", "target": "OnMouseCaptureEndEventSynth2D", "type": "has_property", "label": "on_mouse_capture_end"},
+    {"source": "Synth2DSlider", "target": "OnControllerCaptureBeginEventSynth2D", "type": "has_property", "label": "on_controller_capture_begin"},
+    {"source": "Synth2DSlider", "target": "OnControllerCaptureEndEventSynth2D", "type": "has_property", "label": "on_controller_capture_end"},
+    {"source": "Synth2DSlider", "target": "OnFloatValueChangedEventSynth2D", "type": "has_property", "label": "on_value_changed_x"},
+    {"source": "Synth2DSlider", "target": "OnFloatValueChangedEventSynth2D", "type": "has_property", "label": "on_value_changed_y"},
+    {"source": "Synth2DSlider", "target": "Vector2D", "type": "method_parameter", "label": "set_value"},
+    {"source": "Synth2DSlider", "target": "Vector2D", "type": "method_returns", "label": "get_value"},
+
+    {"source": "RigUnit_StringReverse", "target": "RigVMFunction_StringReverse", "type": "deprecated_renamed_to"},
+    {"source": "RigUnit_StringReverse", "target": "str", "type": "has_property", "label": "value"},
+    {"source": "RigUnit_StringReverse", "target": "str", "type": "has_property", "label": "reverse"},
+
+    {"source": "MovieSceneConditionScope", "target": "EnumBase", "type": "inherits_from"},
+    {"source": "MovieSceneConditionScope", "target": "MovieScene", "type": "defined_in_module"},
+    {"source": "MovieSceneConditionScope", "target": "GLOBAL", "type": "has_enum_value"},
+    {"source": "MovieSceneConditionScope", "target": "BINDING", "type": "has_enum_value"},
+    {"source": "MovieSceneConditionScope", "target": "OWNER_OBJECT", "type": "has_enum_value"},
+
+    {"source": "TakeRecorderMarkedFrameAdded", "target": "MulticastDelegateBase", "type": "inherits_from"},
+    {"source": "TakeRecorderMarkedFrameAdded", "target": "Takes", "type": "defined_in_plugin"},
+    {"source": "TakeRecorderMarkedFrameAdded", "target": "TakeRecorder", "type": "defined_in_module"},
+    {"source": "TakeRecorderMarkedFrameAdded", "target": "MovieSceneMarkedFrame", "type": "delegate_parameter"},
+
+    {"source": "AesFlowMapEditorCommandParams_Erase", "target": "AesEditorSimpleCommandParams", "type": "inherits_from"},
+    {"source": "AesFlowMapEditorCommandParams_Erase", "target": "AesWorld", "type": "defined_in_plugin"},
+    {"source": "AesFlowMapEditorCommandParams_Erase", "target": "AesEditorMode", "type": "defined_in_module"},
+
+    {"source": "SkyCreatorEditorWeatherType", "target": "EnumBase", "type": "inherits_from"},
+    {"source": "SkyCreatorEditorWeatherType", "target": "SkyCreatorPlugin", "type": "defined_in_plugin"},
+    {"source": "SkyCreatorEditorWeatherType", "target": "SkyCreatorPlugin_Module", "type": "defined_in_module"},
+    {"source": "SkyCreatorEditorWeatherType", "target": "EDITOR_WEATHER_WEATHER_PRESET", "type": "has_enum_value"},
+    {"source": "SkyCreatorEditorWeatherType", "target": "EDITOR_WEATHER_WEATHER_SETTINGS", "type": "has_enum_value"},
+
+    {"source": "RigVMTrait_SetDeformerIntArrayVariable", "target": "RigVMTrait_OptimusVariableBase", "type": "inherits_from"},
+    {"source": "RigVMTrait_SetDeformerIntArrayVariable", "target": "DeformerGraph", "type": "defined_in_plugin"},
+    {"source": "RigVMTrait_SetDeformerIntArrayVariable", "target": "OptimusCore", "type": "defined_in_module"},
+    {"source": "RigVMTrait_SetDeformerIntArrayVariable", "target": "Array_int32", "type": "has_property", "label": "value"},
+
+    {"source": "RigUnit_BlendTransform", "target": "RigUnit", "type": "inherits_from"},
+    {"source": "RigUnit_BlendTransform", "target": "ControlRig", "type": "defined_in_plugin"},
+    {"source": "RigUnit_BlendTransform", "target": "ControlRig", "type": "defined_in_module"},
+    {"source": "RigUnit_BlendTransform", "target": "Transform", "type": "has_property", "label": "source"},
+    {"source": "RigUnit_BlendTransform", "target": "Array_BlendTarget", "type": "has_property", "label": "targets"},
+    {"source": "RigUnit_BlendTransform", "target": "Transform", "type": "has_property", "label": "result"},
+
+    {"source": "CompositingMaterial", "target": "CompositingParamPayload", "type": "inherits_from"},
+    {"source": "CompositingMaterial", "target": "Composure", "type": "defined_in_plugin"},
+    {"source": "CompositingMaterial", "target": "Composure_Module", "type": "defined_in_module"},
+    {"source": "CompositingMaterial", "target": "MaterialInterface", "type": "has_property", "label": "material"},
+    {"source": "CompositingMaterial", "target": "Map_Name_Name", "type": "has_property", "label": "param_pass_mappings"},
+    {"source": "CompositingMaterial", "target": "Map_Name_NamedCompMaterialParam", "type": "has_property", "label": "required_material_params"},
+    {"source": "CompositingMaterial", "target": "Map_Name_LinearColor", "type": "has_property", "label": "vector_override_proxies"},
+    {"source": "CompositingMaterial", "target": "Array_Name", "type": "has_property", "label": "editor_hidden_params"},
+
+    {"source": "RigUnit_Distance_VectorVector", "target": "RigUnit", "type": "inherits_from"},
+    {"source": "RigUnit_Distance_VectorVector", "target": "ControlRig", "type": "defined_in_plugin"},
+    {"source": "RigUnit_Distance_VectorVector", "target": "ControlRig", "type": "defined_in_module"},
+    {"source": "RigUnit_Distance_VectorVector", "target": "Vector", "type": "has_property", "label": "argument0"},
+    {"source": "RigUnit_Distance_VectorVector", "target": "Vector", "type": "has_property", "label": "argument1"},
+    {"source": "RigUnit_Distance_VectorVector", "target": "float", "type": "has_property", "label": "result"}
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_unit_classes",
+      "label": "ControlRig Unit Classes",
+      "description": "All RigUnit classes from ControlRig plugin",
+      "nodes": ["RigUnit_BlendTransform", "RigUnit_Distance_VectorVector", "RigUnit_StringReverse"]
+    },
+    {
+      "id": "material_expression_classes",
+      "label": "Material Expression Classes",
+      "description": "All material expression classes",
+      "nodes": ["MaterialExpressionObjectRadius", "MaterialExpressionActorPositionWS"]
+    },
+    {
+      "id": "widget_classes",
+      "label": "UMG Widget Classes",
+      "description": "All UMG widget classes",
+      "nodes": ["UniformGridPanel", "Synth2DSlider"]
+    },
+    {
+      "id": "gameplay_ability_system",
+      "label": "Gameplay Ability System",
+      "description": "Classes from GameplayAbilities plugin",
+      "nodes": ["GameplayEffectModifierMagnitude"]
+    },
+    {
+      "id": "aes_world_plugin",
+      "label": "AesWorld Plugin Classes",
+      "description": "All classes from AesWorld plugin",
+      "nodes": ["glTFRuntimeBoneBoundsFilterHook", "EarthTextureIndexFragment", "AesFlowMapEditorCommandParams_Erase"]
+    },
+    {
+      "id": "function_libraries",
+      "label": "Blueprint Function Libraries",
+      "description": "All blueprint function library classes",
+      "nodes": ["BlueprintFunctionLibraryAPI", "MVVMSlateBrushConversionLibrary"]
+    },
+    {
+      "id": "deprecated_classes",
+      "label": "Deprecated Classes",
+      "description": "Classes that have been renamed/deprecated",
+      "nodes": ["RigMirrorSettings", "RigUnit_StringReverse"]
+    },
+    {
+      "id": "enum_types",
+      "label": "Enumeration Types",
+      "description": "All enum classes",
+      "nodes": ["MovieSceneConditionScope", "SkyCreatorEditorWeatherType"]
+    },
+    {
+      "id": "delegate_types",
+      "label": "Delegate Types",
+      "description": "All delegate classes",
+      "nodes": ["TakeRecorderMarkedFrameAdded"]
+    },
+    {
+      "id": "struct_types",
+      "label": "Structure Types",
+      "description": "All struct classes",
+      "nodes": ["GameplayEffectModifierMagnitude", "glTFRuntimeBoneBoundsFilterHook", "EarthTextureIndexFragment", "CompositingMaterial"]
+    },
+    {
+      "id": "vector_related",
+      "label": "Vector-Related Operations",
+      "description": "Classes and methods that work with Vector types",
+      "nodes": ["RigUnit_Distance_VectorVector", "BlueprintFunctionLibraryAPI", "InstancedStaticMeshComponent"]
+    },
+    {
+      "id": "transform_operations",
+      "label": "Transform Operations",
+      "description": "Classes working with Transform type",
+      "nodes": ["RigUnit_BlendTransform", "InstancedStaticMeshComponent"]
+    },
+    {
+      "id": "material_related",
+      "label": "Material-Related Classes",
+      "description": "Classes dealing with materials",
+      "nodes": ["MaterialExpressionObjectRadius", "MaterialExpressionActorPositionWS", "MVVMSlateBrushConversionLibrary", "CompositingMaterial"]
+    },
+    {
+      "id": "primitive_types",
+      "label": "Primitive Types",
+      "description": "Basic primitive types used throughout",
+      "nodes": ["float", "bool", "int", "str"]
+    },
+    {
+      "id": "unreal_engine_core",
+      "label": "Unreal Engine Core Module",
+      "description": "Classes from the core Engine module",
+      "nodes": ["InstancedStaticMeshComponent", "MaterialExpressionObjectRadius", "MaterialExpressionActorPositionWS"]
+    }
+  ]
+}

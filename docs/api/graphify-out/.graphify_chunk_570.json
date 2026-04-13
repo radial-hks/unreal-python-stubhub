@@ -1,0 +1,542 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_ScaleConstraint",
+      "type": "class",
+      "name": "RigUnit_ScaleConstraint",
+      "description": "Constrains an item's scale to multiple items' scales",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "source_file": "RigUnit_TransformConstraint.h",
+      "properties": ["child", "execute_context", "filter", "maintain_offset", "parents", "weight"],
+      "methods": ["__init__"]
+    },
+    {
+      "id": "MotionMatchingBlueprintBlendSettings",
+      "type": "struct",
+      "name": "MotionMatchingBlueprintBlendSettings",
+      "description": "Motion Matching Blueprint Blend Settings",
+      "module": "PoseSearch",
+      "plugin": "PoseSearch",
+      "source_file": "MotionMatchingAnimNodeLibrary.h",
+      "properties": ["blend_time", "blend_profile", "blend_option", "use_inertial_blend"],
+      "methods": ["__init__"]
+    },
+    {
+      "id": "VirtualTextureBuilderExporterDDS",
+      "type": "class",
+      "name": "VirtualTextureBuilderExporterDDS",
+      "description": "Virtual Texture Builder Exporter DDS",
+      "module": "UnrealEd",
+      "source_file": "TextureExporterDDS.h",
+      "properties": ["export_task", "format_description", "format_extension", "supported_class", "text"],
+      "methods": []
+    },
+    {
+      "id": "CameraShakePatternUpdateResult",
+      "type": "struct",
+      "name": "CameraShakePatternUpdateResult",
+      "description": "The result of a camera shake pattern update",
+      "module": "Engine",
+      "source_file": "CameraShakeBase.h",
+      "properties": [],
+      "methods": ["__init__"]
+    },
+    {
+      "id": "Character",
+      "type": "class",
+      "name": "Character",
+      "description": "Characters are Pawns that have a mesh, collision, and built-in movement logic",
+      "module": "Engine",
+      "source_file": "Character.h",
+      "properties": [
+        "mesh", "character_movement", "capsule_component", "crouched_eye_height", "is_crouched",
+        "pressed_jump", "was_jumping", "jump_key_hold_time", "jump_force_time_remaining",
+        "jump_max_hold_time", "jump_max_count", "jump_current_count", "jump_current_count_pre_jump",
+        "on_reached_jump_apex", "landed_delegate", "movement_mode_changed_delegate",
+        "on_character_movement_updated", "base_eye_height", "ai_controller_class", "auto_possess_ai"
+      ],
+      "methods": [
+        "un_crouch", "stop_jumping", "stop_anim_montage", "play_anim_montage", "on_walking_off_ledge",
+        "on_launched", "on_landed", "on_jumped", "launch_character", "update_custom_movement",
+        "on_start_crouch", "on_movement_mode_changed", "on_end_crouch", "jump", "is_playing_root_motion",
+        "is_playing_networked_root_motion_montage", "is_jump_providing_force", "has_any_root_motion",
+        "get_current_montage", "get_base_translation_offset", "get_base_rotation_offset",
+        "get_anim_root_motion_translation_scale", "crouch", "can_jump_internal", "can_jump",
+        "can_crouch", "cache_initial_mesh_offset"
+      ]
+    },
+    {
+      "id": "MetaSoundPatch",
+      "type": "class",
+      "name": "MetaSoundPatch",
+      "description": "This asset type is used for Metasound assets that can only be used as nodes in other Metasound graphs",
+      "module": "MetasoundEngine",
+      "plugin": "Metasound",
+      "source_file": "Metasound.h",
+      "properties": ["graph", "root_meta_sound_document"],
+      "methods": []
+    },
+    {
+      "id": "GameplayTaskRunResult",
+      "type": "enum",
+      "name": "GameplayTaskRunResult",
+      "description": "EGameplay Task Run Result",
+      "module": "GameplayTasks",
+      "source_file": "GameplayTasksComponent.h",
+      "values": ["ERROR", "FAILED", "SUCCESS_PAUSED", "SUCCESS_ACTIVE", "SUCCESS_FINISHED"]
+    },
+    {
+      "id": "AvaSequencePlayMode",
+      "type": "enum",
+      "name": "AvaSequencePlayMode",
+      "description": "EAva Sequence Play Mode",
+      "module": "AvalancheSequence",
+      "plugin": "Avalanche",
+      "source_file": "AvaSequenceShared.h",
+      "values": ["FORWARD", "REVERSE"]
+    },
+    {
+      "id": "AnimNode_LayeredBoneBlend",
+      "type": "class",
+      "name": "AnimNode_LayeredBoneBlend",
+      "description": "Layered blend (per bone); has dynamic number of blendposes that can blend per different bone sets",
+      "module": "AnimGraphRuntime",
+      "source_file": "AnimNode_LayeredBoneBlend.h",
+      "properties": [
+        "base_pose", "blend_masks", "blend_mode", "blend_poses", "blend_weights",
+        "blend_root_motion_based_on_root_bone", "curve_blend_option", "layer_setup",
+        "lod_threshold", "mesh_space_rotation_blend", "mesh_space_scale_blend"
+      ],
+      "methods": ["__init__"]
+    },
+    {
+      "id": "PaperGroupedSpriteComponent",
+      "type": "class",
+      "name": "PaperGroupedSpriteComponent",
+      "description": "A component that handles rendering and collision for many instances of one or more UPaperSprite assets",
+      "module": "Paper2D",
+      "plugin": "Paper2D",
+      "source_file": "PaperGroupedSpriteComponent.h",
+      "properties": ["per_instance_sprite_data"],
+      "methods": [
+        "update_instance_transform", "update_instance_color", "sort_instances_along_axis",
+        "remove_instance", "get_instance_transform", "get_instance_count", "clear_instances",
+        "add_instance"
+      ]
+    },
+    {
+      "id": "MovieGraphValueContainer",
+      "type": "class",
+      "name": "MovieGraphValueContainer",
+      "description": "Holds a generic value, with an API for getting/setting the value, as well as getting/setting its type and container",
+      "module": "MovieRenderPipelineCore",
+      "plugin": "MovieRenderPipeline",
+      "source_file": "MovieGraphValueContainer.h",
+      "properties": ["value"],
+      "methods": [
+        "set_value_type_object", "set_value_type", "set_value_text", "set_value_string",
+        "set_value_serialized_string", "set_value_object", "set_value_name", "set_value_int64",
+        "set_value_int32", "set_value_float", "set_value_enum", "set_value_double",
+        "set_value_container_type", "set_value_class", "set_value_byte", "set_value_bool",
+        "get_value_type_object", "get_value_type", "get_value_text", "get_value_string",
+        "get_value_serialized_string", "get_value_object", "get_value_name", "get_value_int64",
+        "get_value_int32", "get_value_float", "get_value_enum", "get_value_double",
+        "get_value_container_type", "get_value_class", "get_value_byte", "get_value_bool"
+      ]
+    },
+    {
+      "id": "DetachmentRule",
+      "type": "enum",
+      "name": "DetachmentRule",
+      "description": "Rules for detaching components - needs to be kept synced to EAttachmentRule",
+      "module": "Engine",
+      "source_file": "EngineTypes.h",
+      "values": ["KEEP_RELATIVE", "KEEP_WORLD"]
+    },
+    {
+      "id": "GameplayModOp",
+      "type": "enum",
+      "name": "GameplayModOp",
+      "description": "Defines the ways that mods will modify attributes",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "source_file": "GameplayEffectTypes.h",
+      "values": ["ADD_BASE", "MULTIPLY_ADDITIVE", "DIVIDE_ADDITIVE", "MULTIPLY_COMPOUND", "ADD_FINAL", "OVERRIDE"]
+    },
+    {
+      "id": "UrbanUnitModel",
+      "type": "enum",
+      "name": "UrbanUnitModel",
+      "description": "EUrban Unit Model",
+      "module": "UrbanDataboard",
+      "plugin": "AesBuilderCommon",
+      "source_file": "UrbanTileModel.h",
+      "values": ["KM", "M", "CM"]
+    },
+    {
+      "id": "OptimusNode_CustomComputeKernel",
+      "type": "class",
+      "name": "OptimusNode_CustomComputeKernel",
+      "description": "Optimus Node Custom Compute Kernel",
+      "module": "OptimusCore",
+      "plugin": "DeformerGraph",
+      "source_file": "OptimusNode_CustomComputeKernel.h",
+      "properties": [
+        "additional_sources", "category", "execution_domain", "group_size", "input_binding_array",
+        "input_bindings", "kernel_name", "output_binding_array", "output_bindings", "parameters",
+        "secondary_input_binding_groups", "shader_source"
+      ],
+      "methods": []
+    },
+    {
+      "id": "MoviePipelineImagePassBase",
+      "type": "class",
+      "name": "MoviePipelineImagePassBase",
+      "description": "Movie Pipeline Image Pass Base",
+      "module": "MovieRenderPipelineRenderPasses",
+      "plugin": "MovieRenderPipeline",
+      "source_file": "MoviePipelineImagePassBase.h",
+      "properties": [],
+      "methods": []
+    },
+    {
+      "id": "RigVMFunction_MathIntMod",
+      "type": "class",
+      "name": "RigVMFunction_MathIntMod",
+      "description": "Returns the modulo of the two values",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "source_file": "RigVMFunction_MathInt.h",
+      "properties": ["a", "b", "result"],
+      "methods": ["__init__"]
+    },
+    {
+      "id": "ClassIterator",
+      "type": "class",
+      "name": "ClassIterator",
+      "description": "Type for iterating Unreal class types",
+      "properties": [],
+      "methods": ["__init__", "__iter__"]
+    },
+    {
+      "id": "CreateHeatMapParams_Batch",
+      "type": "struct",
+      "name": "CreateHeatMapParams_Batch",
+      "description": "Create Heat Map Params Batch",
+      "module": "CoveringAPIDefine",
+      "plugin": "CoveringAPI",
+      "source_file": "HeatMapAPIParams.h",
+      "properties": ["batch_params", "default_param", "guid", "hit_keys"],
+      "methods": ["__init__"]
+    },
+    {
+      "id": "RigUnit__MathIntPow",
+      "type": "class",
+      "name": "RigUnit_MathIntPow",
+      "description": "deprecated: 'RigUnit_MathIntPow' was renamed to 'RigVMFunction_MathIntPow'",
+      "properties": ["a", "b", "result"],
+      "methods": ["__init__"]
+    },
+    {
+      "id": "SelectionEventType",
+      "type": "enum",
+      "name": "SelectionEventType",
+      "description": "ESelection Event Type",
+      "module": "WdpSelection",
+      "plugin": "WdpApplication",
+      "source_file": "WdpSelectionEventType.h",
+      "values": ["ADD", "REMOVE", "CLEAR"]
+    },
+    {
+      "id": "RigVMTrait_SetDeformerQuatVariable",
+      "type": "class",
+      "name": "RigVMTrait_SetDeformerQuatVariable",
+      "description": "Rig VMTrait Set Deformer Quat Variable",
+      "module": "OptimusCore",
+      "plugin": "DeformerGraph",
+      "source_file": "RigUnit_Optimus.h",
+      "properties": ["value"],
+      "methods": ["__init__"]
+    },
+    {
+      "id": "RigUnit_HighlevelBaseMutable",
+      "type": "class",
+      "name": "RigUnit_HighlevelBaseMutable",
+      "description": "Parent class for RigUnit_ScaleConstraint"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "name": "StructBase",
+      "description": "Parent class for struct types"
+    },
+    {
+      "id": "TextureExporterDDS",
+      "type": "class",
+      "name": "TextureExporterDDS",
+      "description": "Parent class for VirtualTextureBuilderExporterDDS"
+    },
+    {
+      "id": "Pawn",
+      "type": "class",
+      "name": "Pawn",
+      "description": "Parent class for Character"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "name": "Object",
+      "description": "Base object class in Unreal"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "name": "EnumBase",
+      "description": "Parent class for enum types"
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "name": "AnimNode_Base",
+      "description": "Parent class for AnimNode_LayeredBoneBlend"
+    },
+    {
+      "id": "MeshComponent",
+      "type": "class",
+      "name": "MeshComponent",
+      "description": "Parent class for PaperGroupedSpriteComponent"
+    },
+    {
+      "id": "MoviePipelineRenderPass",
+      "type": "class",
+      "name": "MoviePipelineRenderPass",
+      "description": "Parent class for MoviePipelineImagePassBase"
+    },
+    {
+      "id": "RigVMFunction_MathIntBinaryOp",
+      "type": "class",
+      "name": "RigVMFunction_MathIntBinaryOp",
+      "description": "Parent class for RigVMFunction_MathIntMod"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "name": "ParamsBase",
+      "description": "Parent class for CreateHeatMapParams_Batch"
+    },
+    {
+      "id": "RigVMTrait_OptimusVariableBase",
+      "type": "class",
+      "name": "RigVMTrait_OptimusVariableBase",
+      "description": "Parent class for RigVMTrait_SetDeformerQuatVariable"
+    },
+    {
+      "id": "OptimusNode_ComputeKernelBase",
+      "type": "class",
+      "name": "OptimusNode_ComputeKernelBase",
+      "description": "Parent class for OptimusNode_CustomComputeKernel"
+    }
+  ],
+  "edges": [
+    {
+      "source": "RigUnit_ScaleConstraint",
+      "target": "RigUnit_HighlevelBaseMutable",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "MotionMatchingBlueprintBlendSettings",
+      "target": "StructBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "VirtualTextureBuilderExporterDDS",
+      "target": "TextureExporterDDS",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "CameraShakePatternUpdateResult",
+      "target": "StructBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "Character",
+      "target": "Pawn",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "MetaSoundPatch",
+      "target": "Object",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "GameplayTaskRunResult",
+      "target": "EnumBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "AvaSequencePlayMode",
+      "target": "EnumBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "AnimNode_LayeredBoneBlend",
+      "target": "AnimNode_Base",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "PaperGroupedSpriteComponent",
+      "target": "MeshComponent",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "MovieGraphValueContainer",
+      "target": "Object",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "DetachmentRule",
+      "target": "EnumBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "GameplayModOp",
+      "target": "EnumBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "UrbanUnitModel",
+      "target": "EnumBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "OptimusNode_CustomComputeKernel",
+      "target": "OptimusNode_ComputeKernelBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "MoviePipelineImagePassBase",
+      "target": "MoviePipelineRenderPass",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "RigVMFunction_MathIntMod",
+      "target": "RigVMFunction_MathIntBinaryOp",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "CreateHeatMapParams_Batch",
+      "target": "ParamsBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "RigUnit__MathIntPow",
+      "target": "RigVMFunction_MathIntPow",
+      "relation": "deprecated_renamed_to",
+      "type": "deprecation"
+    },
+    {
+      "source": "SelectionEventType",
+      "target": "EnumBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerQuatVariable",
+      "target": "RigVMTrait_OptimusVariableBase",
+      "relation": "inherits_from",
+      "type": "inheritance"
+    },
+    {
+      "source": "Character",
+      "target": "SkeletalMeshComponent",
+      "relation": "has_component",
+      "type": "composition",
+      "property": "mesh"
+    },
+    {
+      "source": "Character",
+      "target": "CharacterMovementComponent",
+      "relation": "has_component",
+      "type": "composition",
+      "property": "character_movement"
+    },
+    {
+      "source": "Character",
+      "target": "CapsuleComponent",
+      "relation": "has_component",
+      "type": "composition",
+      "property": "capsule_component"
+    },
+    {
+      "source": "PaperGroupedSpriteComponent",
+      "target": "PaperSprite",
+      "relation": "manages_instances_of",
+      "type": "association"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_module",
+      "nodes": ["RigUnit_ScaleConstraint", "RigVMFunction_MathIntMod", "RigUnit__MathIntPow", "RigVMTrait_SetDeformerQuatVariable"],
+      "description": "Classes and functions related to Control Rig and RigVM"
+    },
+    {
+      "id": "animation_module",
+      "nodes": ["AnimNode_LayeredBoneBlend", "MotionMatchingBlueprintBlendSettings"],
+      "description": "Classes related to animation blending and motion matching"
+    },
+    {
+      "id": "gameplay_module",
+      "nodes": ["Character", "GameplayTaskRunResult", "GameplayModOp"],
+      "description": "Classes related to gameplay mechanics, character control, and ability systems"
+    },
+    {
+      "id": "movie_render_module",
+      "nodes": ["MovieGraphValueContainer", "MoviePipelineImagePassBase"],
+      "description": "Classes related to movie rendering pipeline"
+    },
+    {
+      "id": "engine_core_types",
+      "nodes": ["DetachmentRule", "ClassIterator"],
+      "description": "Core engine types and utilities"
+    },
+    {
+      "id": "plugin_extensions",
+      "nodes": [
+        {"node": "MetaSoundPatch", "plugin": "Metasound"},
+        {"node": "PaperGroupedSpriteComponent", "plugin": "Paper2D"},
+        {"node": "OptimusNode_CustomComputeKernel", "plugin": "DeformerGraph"},
+        {"node": "UrbanUnitModel", "plugin": "AesBuilderCommon"},
+        {"node": "CreateHeatMapParams_Batch", "plugin": "CoveringAPI"},
+        {"node": "SelectionEventType", "plugin": "WdpApplication"},
+        {"node": "AvaSequencePlayMode", "plugin": "Avalanche"}
+      ],
+      "description": "Classes provided by Unreal Engine plugins"
+    }
+  ],
+  "metadata": {
+    "chunk_number": 570,
+    "total_files": 22,
+    "extraction_timestamp": "2026-04-12",
+    "source_directory": "/Users/radial/github/unreal-python-stubhub/docs/api"
+  }
+}

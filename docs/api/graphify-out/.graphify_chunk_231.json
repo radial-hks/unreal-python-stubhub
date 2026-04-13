@@ -1,0 +1,507 @@
+{
+  "nodes": [
+    {
+      "id": "createroadheatemparams_createroadheatemparams",
+      "label": "CreateRoadHeatMapParams",
+      "file_type": "document",
+      "source_file": "CreateRoadHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createroadheatemparams_roadheatemstyle",
+      "label": "RoadHeatMapStyle",
+      "file_type": "document",
+      "source_file": "CreateRoadHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createroadheatemparams_roadheatemdata",
+      "label": "RoadHeatMapData",
+      "file_type": "document",
+      "source_file": "CreateRoadHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetrootsettings_targetrootsettings",
+      "label": "TargetRootSettings",
+      "file_type": "document",
+      "source_file": "TargetRootSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetrootsettings_ikretargeting",
+      "label": "IK Retargeting",
+      "file_type": "document",
+      "source_file": "TargetRootSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkblueprintvirtualsubjectfactory_livelinkblueprintvirtualsubjectfactory",
+      "label": "LiveLinkBlueprintVirtualSubjectFactory",
+      "file_type": "document",
+      "source_file": "LiveLinkBlueprintVirtualSubjectFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsurfaceprofilefactory_subsurfaceprofilefactory",
+      "label": "SubsurfaceProfileFactory",
+      "file_type": "document",
+      "source_file": "SubsurfaceProfileFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormirror_rigvmfunction_mathvectormirror",
+      "label": "RigVMFunction_MathVectorMirror",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorMirror Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat3xyz_dmmaterialvaluefloat3xyz",
+      "label": "DMMaterialValueFloat3XYZ",
+      "file_type": "document",
+      "source_file": "DMMaterialValueFloat3XYZ Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlemodulelight_particlemodulelight",
+      "label": "ParticleModuleLight",
+      "file_type": "document",
+      "source_file": "ParticleModuleLight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlemodulelight_lightquality",
+      "label": "Light Quality Configuration",
+      "file_type": "document",
+      "source_file": "ParticleModuleLight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skelmeshmergesectionmapping_skelmeshmergesectionmapping",
+      "label": "SkelMeshMergeSectionMapping",
+      "file_type": "document",
+      "source_file": "SkelMeshMergeSectionMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updateviewshedparams_updateviewshedparams",
+      "label": "UpdateViewshedParams",
+      "file_type": "document",
+      "source_file": "UpdateViewshedParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updateviewshedparams_viewshedstyle",
+      "label": "ViewshedStyle",
+      "file_type": "document",
+      "source_file": "UpdateViewshedParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmeshcomponentcoloroverridemode_dynamicmeshcomponentcoloroverridemode",
+      "label": "DynamicMeshComponentColorOverrideMode",
+      "file_type": "document",
+      "source_file": "DynamicMeshComponentColorOverrideMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_heading_posesearchfeaturechannel_heading",
+      "label": "PoseSearchFeatureChannel_Heading",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Heading Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialpositiontransformsource_materialpositiontransformsource",
+      "label": "MaterialPositionTransformSource",
+      "file_type": "document",
+      "source_file": "MaterialPositionTransformSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarrclibrary_avarrclibrary",
+      "label": "AvaRCLibrary",
+      "file_type": "document",
+      "source_file": "AvaRCLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorembankmentcreatetoolmode_aeseditorembankmentcreatetoolmode",
+      "label": "AesEditorEmbankmentCreateToolMode",
+      "file_type": "document",
+      "source_file": "AesEditorEmbankmentCreateToolMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjecttagfilteringpolicy_smartobjecttagfilteringpolicy",
+      "label": "SmartObjectTagFilteringPolicy",
+      "file_type": "document",
+      "source_file": "SmartObjectTagFilteringPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigeventcontext_rigeventcontext",
+      "label": "RigEventContext",
+      "file_type": "document",
+      "source_file": "RigEventContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animbonecompressionsettings_animbonecompressionsettings",
+      "label": "AnimBoneCompressionSettings",
+      "file_type": "document",
+      "source_file": "AnimBoneCompressionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_motionmatching_animgraphnode_motionmatching",
+      "label": "AnimGraphNode_MotionMatching",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_MotionMatching Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "airesource_logic_airesource_logic",
+      "label": "AIResource_Logic",
+      "file_type": "document",
+      "source_file": "AIResource_Logic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getlengthatparamcontrolrigspline_rigunit_getlengthatparamcontrolrigspline",
+      "label": "RigUnit_GetLengthAtParamControlRigSpline",
+      "file_type": "document",
+      "source_file": "RigUnit_GetLengthAtParamControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_netquantize_vector_netquantize",
+      "label": "Vector_NetQuantize",
+      "file_type": "document",
+      "source_file": "Vector_NetQuantize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthbuildingprefabactor_earthbuildingprefabactor",
+      "label": "EarthBuildingPrefabActor",
+      "file_type": "document",
+      "source_file": "EarthBuildingPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthbuildingprefabactor_prefabgeneration",
+      "label": "Prefab Generation System",
+      "file_type": "document",
+      "source_file": "EarthBuildingPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "CreateRoadHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_plugin",
+      "label": "IKRig Plugin",
+      "file_type": "document",
+      "source_file": "TargetRootSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearch_plugin",
+      "label": "PoseSearch Plugin",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Heading Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "createroadheatemparams_createroadheatemparams",
+      "target": "createroadheatemparams_roadheatemstyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateRoadHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createroadheatemparams_createroadheatemparams",
+      "target": "createroadheatemparams_roadheatemdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateRoadHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createroadheatemparams_createroadheatemparams",
+      "target": "coveringapi_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateRoadHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetrootsettings_targetrootsettings",
+      "target": "targetrootsettings_ikretargeting",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TargetRootSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetrootsettings_targetrootsettings",
+      "target": "ikrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetRootSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlemodulelight_particlemodulelight",
+      "target": "particlemodulelight_lightquality",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ParticleModuleLight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "updateviewshedparams_updateviewshedparams",
+      "target": "updateviewshedparams_viewshedstyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateViewshedParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "updateviewshedparams_updateviewshedparams",
+      "target": "coveringapi_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateViewshedParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_heading_posesearchfeaturechannel_heading",
+      "target": "posesearch_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_Heading Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_motionmatching_animgraphnode_motionmatching",
+      "target": "posesearch_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_MotionMatching Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_motionmatching_animgraphnode_motionmatching",
+      "target": "posesearchfeaturechannel_heading_posesearchfeaturechannel_heading",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode_MotionMatching Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthbuildingprefabactor_earthbuildingprefabactor",
+      "target": "earthbuildingprefabactor_prefabgeneration",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthBuildingPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createroadheatemparams_createroadheatemparams",
+      "target": "updateviewshedparams_updateviewshedparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "CreateRoadHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "posesearch_motion_matching_system",
+      "label": "Pose Search Motion Matching System",
+      "nodes": [
+        "posesearchfeaturechannel_heading_posesearchfeaturechannel_heading",
+        "animgraphnode_motionmatching_animgraphnode_motionmatching",
+        "posesearch_plugin"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PoseSearchFeatureChannel_Heading Objects.md"
+    },
+    {
+      "id": "coveringapi_parameter_system",
+      "label": "CoveringAPI Parameter System",
+      "nodes": [
+        "createroadheatemparams_createroadheatemparams",
+        "updateviewshedparams_updateviewshedparams",
+        "coveringapi_plugin"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "CreateRoadHeatMapParams Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

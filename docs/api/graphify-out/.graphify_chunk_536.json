@@ -1,0 +1,360 @@
+{
+  "nodes": [
+    {
+      "id": "aesbuildingeditorcommand__propertypen_aesbuildingeditorcommand__propertypen",
+      "label": "Aes Building Editor Command Property Pen",
+      "file_type": "code",
+      "source_file": "AesBuildingEditorCommand__PropertyPen Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectpannerpreset_sourceeffectpannerpreset",
+      "label": "Source Effect Panner Preset",
+      "file_type": "code",
+      "source_file": "SourceEffectPannerPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "attributecurve_attributecurve",
+      "label": "Attribute Curve",
+      "file_type": "code",
+      "source_file": "AttributeCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tryspawnactorifdehydrated_tryspawnactorifdehydrated",
+      "label": "Try Spawn Actor If Dehydrated",
+      "file_type": "code",
+      "source_file": "TrySpawnActorIfDehydrated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenedynamicbindingresolveparams_moviescenedynamicbindingresolveparams",
+      "label": "Movie Scene Dynamic Binding Resolve Params",
+      "file_type": "code",
+      "source_file": "MovieSceneDynamicBindingResolveParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgwritetoniagaradatachannelsettings_pcgwritetoniagaradatachannelsettings",
+      "label": "PCG Write To Niagara Data Channel Settings",
+      "file_type": "code",
+      "source_file": "PCGWriteToNiagaraDataChannelSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visible2dentity_visible2dentity",
+      "label": "Visible 2DEntity",
+      "file_type": "code",
+      "source_file": "Visible2DEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "selectionfilter_selectionfilter",
+      "label": "Selection Filter",
+      "file_type": "code",
+      "source_file": "SelectionFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcreatepointsgridsettings_pcgcreatepointsgridsettings",
+      "label": "PCG Create Points Grid Settings",
+      "file_type": "code",
+      "source_file": "PCGCreatePointsGridSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatvector_rigvmfunction_mathrbfinterpolatequatvector",
+      "label": "Rig VMFunction Math RBFInterpolate Quat Vector",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathRBFInterpolateQuatVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navareadefinition_navareadefinition",
+      "label": "Nav Area Definition",
+      "file_type": "code",
+      "source_file": "NavAreaDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingmeshreductionoptions__deprecated_editorscriptingmeshreductionoptions__deprecated",
+      "label": "Editor Scripting Mesh Reduction Options Deprecated",
+      "file_type": "code",
+      "source_file": "EditorScriptingMeshReductionOptions_Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontimportoptions_fontimportoptions",
+      "label": "Font Import Options",
+      "file_type": "code",
+      "source_file": "FontImportOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterblueprintlib_displayclusterblueprintlib",
+      "label": "Display Cluster Blueprint Lib",
+      "file_type": "code",
+      "source_file": "DisplayClusterBlueprintLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyvaluevisibility_propertyvaluevisibility",
+      "label": "Property Value Visibility",
+      "file_type": "code",
+      "source_file": "PropertyValueVisibility Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unit_unit",
+      "label": "Unit",
+      "file_type": "code",
+      "source_file": "Unit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "focusevent_focusevent",
+      "label": "Focus Event",
+      "file_type": "code",
+      "source_file": "FocusEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathcolorfromdouble_rigunit__mathcolorfromdouble",
+      "label": "RigUnit Math Color From Double",
+      "file_type": "code",
+      "source_file": "RigUnit__MathColorFromDouble Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityupdatedeventargs_entityupdatedeventargs",
+      "label": "Entity Updated Event Args",
+      "file_type": "code",
+      "source_file": "EntityUpdatedEventArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gizmohandlemeshcomponent_gizmohandlemeshcomponent",
+      "label": "Gizmo Handle Mesh Component",
+      "file_type": "code",
+      "source_file": "GizmoHandleMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activegameplaycue_activegameplaycue",
+      "label": "Active Gameplay Cue",
+      "file_type": "code",
+      "source_file": "ActiveGameplayCue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "navareadefinition_navareadefinition",
+      "target": "navareadefinition_navareadefinition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavAreaDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathcolorfromdouble_rigunit__mathcolorfromdouble",
+      "target": "rigvmfunction_mathrbfinterpolatequatvector_rigvmfunction_mathrbfinterpolatequatvector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathColorFromDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorscriptingmeshreductionoptions__deprecated_editorscriptingmeshreductionoptions__deprecated",
+      "target": "editorscriptingmeshreductionoptions__deprecated_editorscriptingmeshreductionoptions__deprecated",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorScriptingMeshReductionOptions_Deprecated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyvaluevisibility_propertyvaluevisibility",
+      "target": "propertyvaluevisibility_propertyvaluevisibility",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyValueVisibility Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterblueprintlib_displayclusterblueprintlib",
+      "target": "displayclusterblueprintlib_displayclusterblueprintlib",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterBlueprintLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterblueprintlib_displayclusterblueprintlib",
+      "target": "displayclusterblueprintlib_displayclusterblueprintlib",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterBlueprintLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterblueprintlib_displayclusterblueprintlib",
+      "target": "displayclusterblueprintlib_displayclusterblueprintlib",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterBlueprintLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgwritetoniagaradatachannelsettings_pcgwritetoniagaradatachannelsettings",
+      "target": "pcgwritetoniagaradatachannelsettings_pcgwritetoniagaradatachannelsettings",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGWriteToNiagaraDataChannelSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visible2dentity_visible2dentity",
+      "target": "gizmohandlemeshcomponent_gizmohandlemeshcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Visible2DEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tryspawnactorifdehydrated_tryspawnactorifdehydrated",
+      "target": "gizmohandlemeshcomponent_gizmohandlemeshcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "TrySpawnActorIfDehydrated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navareadefinition_navareadefinition",
+      "target": "gizmohandlemeshcomponent_gizmohandlemeshcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NavAreaDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "attributecurve_attributecurve",
+      "target": "rigvmfunction_mathrbfinterpolatequatvector_rigvmfunction_mathrbfinterpolatequatvector",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AttributeCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

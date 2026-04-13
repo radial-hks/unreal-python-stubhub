@@ -1,0 +1,837 @@
+{
+  "nodes": [
+    {
+      "id": "MovieSceneSubTrack",
+      "type": "class",
+      "label": "MovieSceneSubTrack",
+      "description": "A track that holds sub-sequences within a larger sequence",
+      "module": "MovieScene",
+      "file": "MovieSceneSubTrack.h",
+      "properties": ["condition_container", "display_name", "display_options", "eval_options", "track_row_display_names", "track_tint"]
+    },
+    {
+      "id": "MovieSceneNameableTrack",
+      "type": "class",
+      "label": "MovieSceneNameableTrack",
+      "description": "Parent class of MovieSceneSubTrack"
+    },
+    {
+      "id": "NotifyTriggerMode",
+      "type": "enum",
+      "label": "NotifyTriggerMode",
+      "description": "ENotify Trigger Mode",
+      "module": "Engine",
+      "file": "BlendSpace.h",
+      "values": [
+        {"name": "ALL_ANIMATIONS", "value": 0},
+        {"name": "HIGHEST_WEIGHTED_ANIMATION", "value": 1},
+        {"name": "NONE", "value": 2}
+      ]
+    },
+    {
+      "id": "DisplayClusterConfigurationProjection",
+      "type": "class",
+      "label": "DisplayClusterConfigurationProjection",
+      "description": "Display Cluster Configuration Projection",
+      "plugin": "nDisplay",
+      "module": "DisplayClusterConfiguration",
+      "file": "DisplayClusterConfigurationTypes_Base.h",
+      "properties": ["is_custom", "parameters", "type"]
+    },
+    {
+      "id": "DisplayClusterConfigurationPolymorphicEntity",
+      "type": "class",
+      "label": "DisplayClusterConfigurationPolymorphicEntity",
+      "description": "Parent class of DisplayClusterConfigurationProjection"
+    },
+    {
+      "id": "RigUnit_ToWorldSpace_Transform",
+      "type": "class",
+      "label": "RigUnit_ToWorldSpace_Transform",
+      "description": "Converts a transform from rig (global) space to world space",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_WorldSpace.h",
+      "properties": ["value", "world"]
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit",
+      "description": "Parent class of RigUnit_ToWorldSpace_Transform"
+    },
+    {
+      "id": "Transform",
+      "type": "struct",
+      "label": "Transform",
+      "description": "Transform data structure"
+    },
+    {
+      "id": "MoviePipelineFCPXMLExporter",
+      "type": "class",
+      "label": "MoviePipelineFCPXMLExporter",
+      "description": "Movie Pipeline FCPXMLExporter",
+      "plugin": "MovieRenderPipeline",
+      "module": "MovieRenderPipelineCore",
+      "file": "MoviePipelineFCPXMLExporterSetting.h",
+      "properties": ["data_source", "file_name_format_override"]
+    },
+    {
+      "id": "MoviePipelineOutputBase",
+      "type": "class",
+      "label": "MoviePipelineOutputBase",
+      "description": "Parent class of MoviePipelineFCPXMLExporter"
+    },
+    {
+      "id": "FCPXMLExportDataSource",
+      "type": "enum",
+      "label": "FCPXMLExportDataSource",
+      "description": "Data source type for FCPXML export"
+    },
+    {
+      "id": "MovieGraphModifierNode",
+      "type": "class",
+      "label": "MovieGraphModifierNode",
+      "description": "A collection node specifies an interface for doing dynamic scene queries for actors in the world",
+      "plugin": "MovieRenderPipeline",
+      "module": "MovieRenderPipelineCore",
+      "file": "MovieGraphModifierNode.h",
+      "properties": ["dynamic_properties", "modifier_name", "script_tags"],
+      "methods": ["set_collection_enabled", "remove_modifier", "remove_collection", "is_collection_enabled", "get_modifiers", "get_modifier", "get_collections", "add_modifier", "add_collection"]
+    },
+    {
+      "id": "MovieGraphSettingNode",
+      "type": "class",
+      "label": "MovieGraphSettingNode",
+      "description": "Parent class of MovieGraphModifierNode"
+    },
+    {
+      "id": "MovieGraphCollectionModifier",
+      "type": "class",
+      "label": "MovieGraphCollectionModifier",
+      "description": "Modifier for collections in movie graph"
+    },
+    {
+      "id": "InstancedPropertyBag",
+      "type": "class",
+      "label": "InstancedPropertyBag",
+      "description": "Dynamic properties container"
+    },
+    {
+      "id": "AnimGraphNode_Mirror",
+      "type": "class",
+      "label": "AnimGraphNode_Mirror",
+      "description": "Anim Graph Node Mirror",
+      "module": "AnimGraph",
+      "file": "AnimGraphNode_Mirror.h",
+      "properties": ["become_relevant_function", "binding", "initial_update_function", "node", "show_pin_for_properties", "tag", "update_function"]
+    },
+    {
+      "id": "AnimGraphNode_Base",
+      "type": "class",
+      "label": "AnimGraphNode_Base",
+      "description": "Parent class of AnimGraphNode_Mirror"
+    },
+    {
+      "id": "AnimNode_Mirror",
+      "type": "class",
+      "label": "AnimNode_Mirror",
+      "description": "Animation node for mirroring"
+    },
+    {
+      "id": "GenerateStaticMeshLODProjectedHullAxisMode",
+      "type": "enum",
+      "label": "GenerateStaticMeshLODProjectedHullAxisMode",
+      "description": "EGenerate Static Mesh LODProjected Hull Axis Mode",
+      "plugin": "MeshLODToolset",
+      "module": "MeshLODToolset",
+      "file": "GenerateStaticMeshLODProcess.h",
+      "values": [
+        {"name": "X", "value": 0},
+        {"name": "Y", "value": 1},
+        {"name": "Z", "value": 2},
+        {"name": "SMALLEST_BOX_DIMENSION", "value": 3},
+        {"name": "SMALLEST_VOLUME", "value": 4}
+      ]
+    },
+    {
+      "id": "ZoneLaneDirection",
+      "type": "enum",
+      "label": "ZoneLaneDirection",
+      "description": "EZone Lane Direction",
+      "plugin": "ZoneGraph",
+      "module": "ZoneGraph",
+      "file": "ZoneGraphTypes.h",
+      "values": [
+        {"name": "NONE", "value": 0, "description": "No movement, this lane is treated as spacer or median"},
+        {"name": "FORWARD", "value": 1, "description": "Move forward relative to the markup"},
+        {"name": "BACKWARD", "value": 2, "description": "Move backward relative to the markup"}
+      ]
+    },
+    {
+      "id": "IntervalCountdown",
+      "type": "class",
+      "label": "IntervalCountdown",
+      "description": "Interval Countdown",
+      "module": "AIModule",
+      "file": "AITypes.h",
+      "properties": ["interval"]
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase",
+      "description": "Parent class of IntervalCountdown"
+    },
+    {
+      "id": "WdpCameraSettingsAtom",
+      "type": "class",
+      "label": "WdpCameraSettingsAtom",
+      "description": "Wdp Camera Settings Atom",
+      "plugin": "WdpApplication",
+      "module": "WdpGlobalSettings",
+      "file": "WdpGlobalSettingsEntityAtom.h",
+      "properties": ["enable_dynamic_speed", "key_movement_base_speed", "rotation_pitch_speed_scale", "rotation_yaw_speed_scale", "view_distance_limit", "zoom_speed_scale"]
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "class",
+      "label": "EntityAtomBase",
+      "description": "Parent class of WdpCameraSettingsAtom"
+    },
+    {
+      "id": "Vector2D",
+      "type": "struct",
+      "label": "Vector2D",
+      "description": "2D vector"
+    },
+    {
+      "id": "EarthStandardEntity",
+      "type": "class",
+      "label": "EarthStandardEntity",
+      "description": "Earth Standard Entity",
+      "plugin": "AesWorld",
+      "module": "EarthCore",
+      "file": "EarthStandardEntity.h",
+      "properties": ["entity_atoms", "entity_id"]
+    },
+    {
+      "id": "EarthEntity",
+      "type": "class",
+      "label": "EarthEntity",
+      "description": "Parent class of EarthStandardEntity"
+    },
+    {
+      "id": "EarthEntityAtomBase",
+      "type": "class",
+      "label": "EarthEntityAtomBase",
+      "description": "Base class for Earth entity atoms"
+    },
+    {
+      "id": "FileMediaOutputFactory",
+      "type": "class",
+      "label": "FileMediaOutputFactory",
+      "description": "Implements a factory for UFileMediaOutput objects",
+      "plugin": "MediaIOFramework",
+      "module": "MediaIOEditor",
+      "file": "FileMediaOutputFactory.h",
+      "properties": ["asset_import_task", "automated_import_data", "context_class", "create_new", "edit_after_new", "editor_import", "formats", "supported_class", "text"]
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "label": "Factory",
+      "description": "Parent class of FileMediaOutputFactory"
+    },
+    {
+      "id": "SpawnActorCollisionHandlingMethod",
+      "type": "enum",
+      "label": "SpawnActorCollisionHandlingMethod",
+      "description": "Defines available strategies for handling the case where an actor is spawned in such a way that it penetrates blocking collision",
+      "module": "Engine",
+      "file": "EngineTypes.h",
+      "values": [
+        {"name": "UNDEFINED", "value": 0, "description": "Fall back to default settings"},
+        {"name": "ALWAYS_SPAWN", "value": 1, "description": "Actor will spawn in desired location, regardless of collisions"},
+        {"name": "ADJUST_IF_POSSIBLE_BUT_ALWAYS_SPAWN", "value": 2, "description": "Actor will try to find a nearby non-colliding location, but will always spawn even if one cannot be found"},
+        {"name": "ADJUST_IF_POSSIBLE_BUT_DONT_SPAWN_IF_COLLIDING", "value": 3, "description": "Actor will try to find a nearby non-colliding location, but will NOT spawn unless one is found"},
+        {"name": "DONT_SPAWN_IF_COLLIDING", "value": 4, "description": "Actor will fail to spawn"}
+      ]
+    },
+    {
+      "id": "BakeMultiTexture2DProperties",
+      "type": "class",
+      "label": "BakeMultiTexture2DProperties",
+      "description": "Bake Multi Texture 2DProperties",
+      "plugin": "MeshModelingToolsetExp",
+      "module": "MeshModelingToolsExp",
+      "file": "BakeMeshAttributeToolCommon.h",
+      "properties": ["all_source_textures", "material_id_source_textures", "uv_layer"]
+    },
+    {
+      "id": "InteractiveToolPropertySet",
+      "type": "class",
+      "label": "InteractiveToolPropertySet",
+      "description": "Parent class of BakeMultiTexture2DProperties"
+    },
+    {
+      "id": "Texture2D",
+      "type": "class",
+      "label": "Texture2D",
+      "description": "2D texture class"
+    },
+    {
+      "id": "MaterialExpressionBounds",
+      "type": "class",
+      "label": "MaterialExpressionBounds",
+      "description": "Material Expression Bounds",
+      "module": "Engine",
+      "file": "MaterialExpressionBounds.h",
+      "properties": ["desc", "material_expression_editor_x", "material_expression_editor_y", "type"]
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression",
+      "description": "Parent class of MaterialExpressionBounds"
+    },
+    {
+      "id": "MaterialExpressionBoundsType",
+      "type": "enum",
+      "label": "MaterialExpressionBoundsType",
+      "description": "The type of bounds to output"
+    },
+    {
+      "id": "RigVMFunction_RandomVector",
+      "type": "class",
+      "label": "RigVMFunction_RandomVector",
+      "description": "Generates a random vector between a min and a max",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_Random.h",
+      "properties": ["duration", "maximum", "minimum", "result", "seed"]
+    },
+    {
+      "id": "RigVMFunction_MathBase",
+      "type": "class",
+      "label": "RigVMFunction_MathBase",
+      "description": "Parent class of RigVMFunction_RandomVector"
+    },
+    {
+      "id": "Vector",
+      "type": "struct",
+      "label": "Vector",
+      "description": "3D vector"
+    },
+    {
+      "id": "glTFRuntimeFunctionLibrary",
+      "type": "class",
+      "label": "glTFRuntimeFunctionLibrary",
+      "description": "Gl TFRuntime Function Library",
+      "plugin": "AesWorld",
+      "module": "glTFRuntime",
+      "file": "glTFRuntimeFunctionLibrary.h",
+      "methods": ["gl_tf_runtime_path_item_array_from_json_path", "gl_tf_merge_runtime_lo_ds", "gl_tf_load_asset_from_url_with_progress", "gl_tf_load_asset_from_url", "gl_tf_load_asset_from_string_async", "gl_tf_load_asset_from_string", "gl_tf_load_asset_from_filename_async", "gl_tf_load_asset_from_filename", "gl_tf_load_asset_from_file_map_async", "gl_tf_load_asset_from_file_map", "gl_tf_load_asset_from_data", "gl_tf_load_asset_from_command", "gl_tf_load_asset_from_clipboard", "gl_tf_load_asset_from_base64_async", "gl_tf_load_asset_from_base64", "get_positions_as_bytes_fromgl_tf_runtime_lod_primitive", "get_normals_as_bytes_fromgl_tf_runtime_lod_primitive", "get_indices_as_bytes_fromgl_tf_runtime_lod_primitive"]
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary",
+      "description": "Parent class of glTFRuntimeFunctionLibrary"
+    },
+    {
+      "id": "glTFRuntimeAsset",
+      "type": "class",
+      "label": "glTFRuntimeAsset",
+      "description": "glTF runtime asset"
+    },
+    {
+      "id": "glTFRuntimeConfig",
+      "type": "class",
+      "label": "glTFRuntimeConfig",
+      "description": "Configuration for glTF loading"
+    },
+    {
+      "id": "glTFRuntimePathItem",
+      "type": "class",
+      "label": "glTFRuntimePathItem",
+      "description": "glTF path item"
+    },
+    {
+      "id": "glTFRuntimeMeshLOD",
+      "type": "class",
+      "label": "glTFRuntimeMeshLOD",
+      "description": "glTF runtime mesh LOD"
+    },
+    {
+      "id": "glTFRuntimeHttpResponse",
+      "type": "delegate",
+      "label": "glTFRuntimeHttpResponse",
+      "description": "HTTP response callback"
+    },
+    {
+      "id": "glTFRuntimeHttpProgress",
+      "type": "delegate",
+      "label": "glTFRuntimeHttpProgress",
+      "description": "HTTP progress callback"
+    },
+    {
+      "id": "glTFRuntimeCommandResponse",
+      "type": "delegate",
+      "label": "glTFRuntimeCommandResponse",
+      "description": "Command response callback"
+    },
+    {
+      "id": "MetaSoundNodeHandle",
+      "type": "class",
+      "label": "MetaSoundNodeHandle",
+      "description": "Meta Sound Node Handle",
+      "plugin": "Metasound",
+      "module": "MetasoundEngine",
+      "file": "MetasoundBuilderBase.h"
+    },
+    {
+      "id": "DataLayerSubsystem",
+      "type": "class",
+      "label": "DataLayerSubsystem",
+      "description": "This class is deprecated, it has been replaced by DataLayerManager",
+      "module": "Engine",
+      "file": "DataLayerSubsystem.h",
+      "properties": ["on_data_layer_runtime_state_changed"],
+      "methods": ["set_data_layer_state_by_label", "set_data_layer_state", "set_data_layer_runtime_state_by_label", "set_data_layer_runtime_state", "set_data_layer_instance_runtime_state", "get_loaded_data_layer_names", "get_data_layer_state_by_label", "get_data_layer_state", "get_data_layer_runtime_state_by_label", "get_data_layer_runtime_state", "get_data_layer_instance_runtime_state", "get_data_layer_instance_from_asset", "get_data_layer_instance_effective_runtime_state", "get_data_layer_from_name", "get_data_layer_from_label", "get_data_layer_effective_runtime_state_by_label", "get_data_layer_effective_runtime_state", "get_data_layer", "get_active_data_layer_names"]
+    },
+    {
+      "id": "WorldSubsystem",
+      "type": "class",
+      "label": "WorldSubsystem",
+      "description": "Parent class of DataLayerSubsystem"
+    },
+    {
+      "id": "OnDataLayerRuntimeStateChanged",
+      "type": "delegate",
+      "label": "OnDataLayerRuntimeStateChanged",
+      "description": "Delegate for data layer runtime state changes"
+    },
+    {
+      "id": "DataLayerStateType",
+      "type": "enum",
+      "label": "DataLayerStateType",
+      "description": "Data layer state type"
+    },
+    {
+      "id": "DataLayerRuntimeState",
+      "type": "enum",
+      "label": "DataLayerRuntimeState",
+      "description": "Data layer runtime state"
+    },
+    {
+      "id": "ActorDataLayer",
+      "type": "class",
+      "label": "ActorDataLayer",
+      "description": "Actor data layer"
+    },
+    {
+      "id": "DataLayerAsset",
+      "type": "class",
+      "label": "DataLayerAsset",
+      "description": "Data layer asset"
+    },
+    {
+      "id": "DataLayerInstance",
+      "type": "class",
+      "label": "DataLayerInstance",
+      "description": "Data layer instance"
+    },
+    {
+      "id": "AvaBevelModifier",
+      "type": "class",
+      "label": "AvaBevelModifier",
+      "description": "Ava Bevel Modifier",
+      "plugin": "Avalanche",
+      "module": "AvalancheModifiers",
+      "file": "AvaBevelModifier.h",
+      "properties": ["inset", "iterations", "modifier_enabled", "roundness"],
+      "methods": ["set_roundness", "set_iterations", "set_inset", "get_roundness", "get_iterations", "get_inset"]
+    },
+    {
+      "id": "AvaGeometryBaseModifier",
+      "type": "class",
+      "label": "AvaGeometryBaseModifier",
+      "description": "Parent class of AvaBevelModifier"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "MovieSceneSubTrack",
+      "target": "MovieSceneNameableTrack",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_2",
+      "source": "DisplayClusterConfigurationProjection",
+      "target": "DisplayClusterConfigurationPolymorphicEntity",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_3",
+      "source": "RigUnit_ToWorldSpace_Transform",
+      "target": "RigUnit",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_4",
+      "source": "RigUnit_ToWorldSpace_Transform",
+      "target": "Transform",
+      "type": "property",
+      "label": "has property value"
+    },
+    {
+      "id": "edge_5",
+      "source": "RigUnit_ToWorldSpace_Transform",
+      "target": "Transform",
+      "type": "property",
+      "label": "has property world"
+    },
+    {
+      "id": "edge_6",
+      "source": "MoviePipelineFCPXMLExporter",
+      "target": "MoviePipelineOutputBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_7",
+      "source": "MoviePipelineFCPXMLExporter",
+      "target": "FCPXMLExportDataSource",
+      "type": "property",
+      "label": "has property data_source"
+    },
+    {
+      "id": "edge_8",
+      "source": "MovieGraphModifierNode",
+      "target": "MovieGraphSettingNode",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_9",
+      "source": "MovieGraphModifierNode",
+      "target": "InstancedPropertyBag",
+      "type": "property",
+      "label": "has property dynamic_properties"
+    },
+    {
+      "id": "edge_10",
+      "source": "MovieGraphModifierNode",
+      "target": "MovieGraphCollectionModifier",
+      "type": "method_return",
+      "label": "returns"
+    },
+    {
+      "id": "edge_11",
+      "source": "AnimGraphNode_Mirror",
+      "target": "AnimGraphNode_Base",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_12",
+      "source": "AnimGraphNode_Mirror",
+      "target": "AnimNode_Mirror",
+      "type": "property",
+      "label": "has property node"
+    },
+    {
+      "id": "edge_13",
+      "source": "IntervalCountdown",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_14",
+      "source": "WdpCameraSettingsAtom",
+      "target": "EntityAtomBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_15",
+      "source": "WdpCameraSettingsAtom",
+      "target": "Vector2D",
+      "type": "property",
+      "label": "has property view_distance_limit"
+    },
+    {
+      "id": "edge_16",
+      "source": "EarthStandardEntity",
+      "target": "EarthEntity",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_17",
+      "source": "EarthStandardEntity",
+      "target": "EarthEntityAtomBase",
+      "type": "property",
+      "label": "has property entity_atoms"
+    },
+    {
+      "id": "edge_18",
+      "source": "FileMediaOutputFactory",
+      "target": "Factory",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_19",
+      "source": "BakeMultiTexture2DProperties",
+      "target": "InteractiveToolPropertySet",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_20",
+      "source": "BakeMultiTexture2DProperties",
+      "target": "Texture2D",
+      "type": "property",
+      "label": "has property all_source_textures"
+    },
+    {
+      "id": "edge_21",
+      "source": "MaterialExpressionBounds",
+      "target": "MaterialExpression",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_22",
+      "source": "MaterialExpressionBounds",
+      "target": "MaterialExpressionBoundsType",
+      "type": "property",
+      "label": "has property type"
+    },
+    {
+      "id": "edge_23",
+      "source": "RigVMFunction_RandomVector",
+      "target": "RigVMFunction_MathBase",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_24",
+      "source": "RigVMFunction_RandomVector",
+      "target": "Vector",
+      "type": "property",
+      "label": "has property result"
+    },
+    {
+      "id": "edge_25",
+      "source": "glTFRuntimeFunctionLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_26",
+      "source": "glTFRuntimeFunctionLibrary",
+      "target": "glTFRuntimeAsset",
+      "type": "method_return",
+      "label": "returns"
+    },
+    {
+      "id": "edge_27",
+      "source": "glTFRuntimeFunctionLibrary",
+      "target": "glTFRuntimeConfig",
+      "type": "method_param",
+      "label": "takes parameter"
+    },
+    {
+      "id": "edge_28",
+      "source": "glTFRuntimeFunctionLibrary",
+      "target": "glTFRuntimePathItem",
+      "type": "method_return",
+      "label": "returns Array"
+    },
+    {
+      "id": "edge_29",
+      "source": "glTFRuntimeFunctionLibrary",
+      "target": "glTFRuntimeMeshLOD",
+      "type": "method_param",
+      "label": "takes parameter"
+    },
+    {
+      "id": "edge_30",
+      "source": "glTFRuntimeFunctionLibrary",
+      "target": "glTFRuntimeHttpResponse",
+      "type": "method_param",
+      "label": "takes callback"
+    },
+    {
+      "id": "edge_31",
+      "source": "glTFRuntimeFunctionLibrary",
+      "target": "glTFRuntimeHttpProgress",
+      "type": "method_param",
+      "label": "takes callback"
+    },
+    {
+      "id": "edge_32",
+      "source": "glTFRuntimeFunctionLibrary",
+      "target": "glTFRuntimeCommandResponse",
+      "type": "method_param",
+      "label": "takes callback"
+    },
+    {
+      "id": "edge_33",
+      "source": "DataLayerSubsystem",
+      "target": "WorldSubsystem",
+      "type": "inherits",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_34",
+      "source": "DataLayerSubsystem",
+      "target": "OnDataLayerRuntimeStateChanged",
+      "type": "property",
+      "label": "has property on_data_layer_runtime_state_changed"
+    },
+    {
+      "id": "edge_35",
+      "source": "DataLayerSubsystem",
+      "target": "DataLayerStateType",
+      "type": "method_param",
+      "label": "uses"
+    },
+    {
+      "id": "edge_36",
+      "source": "DataLayerSubsystem",
+      "target": "DataLayerRuntimeState",
+      "type": "method_param",
+      "label": "uses"
+    },
+    {
+      "id": "edge_37",
+      "source": "DataLayerSubsystem",
+      "target": "ActorDataLayer",
+      "type": "method_param",
+      "label": "uses"
+    },
+    {
+      "id": "edge_38",
+      "source": "DataLayerSubsystem",
+      "target": "DataLayerAsset",
+      "type": "method_param",
+      "label": "uses"
+    },
+    {
+      "id": "edge_39",
+      "source": "DataLayerSubsystem",
+      "target": "DataLayerInstance",
+      "type": "method_return",
+      "label": "returns"
+    },
+    {
+      "id": "edge_40",
+      "source": "AvaBevelModifier",
+      "target": "AvaGeometryBaseModifier",
+      "type": "inherits",
+      "label": "inherits from"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "nodes": ["MovieGraphModifierNode", "MovieGraphCollectionModifier", "Name"],
+      "type": "collection_management",
+      "description": "MovieGraphModifierNode manages collections identified by Name and applies MovieGraphCollectionModifier to them"
+    },
+    {
+      "id": "hyperedge_2",
+      "nodes": ["RigUnit_ToWorldSpace_Transform", "Transform", "RigUnit"],
+      "type": "space_conversion",
+      "description": "RigUnit_ToWorldSpace_Transform converts Transform from rig/global space to world space"
+    },
+    {
+      "id": "hyperedge_3",
+      "nodes": ["MoviePipelineFCPXMLExporter", "FCPXMLExportDataSource", "str"],
+      "type": "export_configuration",
+      "description": "MoviePipelineFCPXMLExporter exports FCPXML data based on FCPXMLExportDataSource type with optional file name format override"
+    },
+    {
+      "id": "hyperedge_4",
+      "nodes": ["glTFRuntimeFunctionLibrary", "glTFRuntimeAsset", "glTFRuntimeConfig"],
+      "type": "asset_loading",
+      "description": "glTFRuntimeFunctionLibrary loads glTFRuntimeAsset from various sources (URL, file, string, data) using glTFRuntimeConfig"
+    },
+    {
+      "id": "hyperedge_5",
+      "nodes": ["glTFRuntimeFunctionLibrary", "glTFRuntimeMeshLOD", "Array"],
+      "type": "mesh_processing",
+      "description": "glTFRuntimeFunctionLibrary processes glTFRuntimeMeshLOD data including positions, normals, and indices as byte arrays"
+    },
+    {
+      "id": "hyperedge_6",
+      "nodes": ["DataLayerSubsystem", "DataLayerInstance", "DataLayerRuntimeState", "DataLayerAsset"],
+      "type": "data_layer_management",
+      "description": "DataLayerSubsystem manages DataLayerInstance objects from DataLayerAsset and controls their DataLayerRuntimeState"
+    },
+    {
+      "id": "hyperedge_7",
+      "nodes": ["DataLayerSubsystem", "ActorDataLayer", "DataLayerRuntimeState"],
+      "type": "actor_data_layer_control",
+      "description": "DataLayerSubsystem controls runtime state of ActorDataLayer objects"
+    },
+    {
+      "id": "hyperedge_8",
+      "nodes": ["AvaBevelModifier", "float", "int32"],
+      "type": "geometry_modification",
+      "description": "AvaBevelModifier modifies geometry with float inset distance, int32 iterations for subdivisions, and float roundness"
+    },
+    {
+      "id": "hyperedge_9",
+      "nodes": ["WdpCameraSettingsAtom", "float", "Vector2D", "bool"],
+      "type": "camera_settings",
+      "description": "WdpCameraSettingsAtom configures camera with movement speed (float), rotation speed scales (float), zoom speed (float), view distance limits (Vector2D), and dynamic speed toggle (bool)"
+    },
+    {
+      "id": "hyperedge_10",
+      "nodes": ["EarthStandardEntity", "EarthEntityAtomBase", "int64"],
+      "type": "entity_composition",
+      "description": "EarthStandardEntity is composed of Array of EarthEntityAtomBase objects and has int64 entity_id"
+    },
+    {
+      "id": "hyperedge_11",
+      "nodes": ["RigVMFunction_RandomVector", "Vector", "float", "int32"],
+      "type": "random_generation",
+      "description": "RigVMFunction_RandomVector generates Vector result using float min/max bounds, int32 seed, and float duration"
+    },
+    {
+      "id": "hyperedge_12",
+      "nodes": ["BakeMultiTexture2DProperties", "Texture2D", "str"],
+      "type": "texture_baking",
+      "description": "BakeMultiTexture2DProperties manages Texture2D arrays for source textures and uses str for UV layer specification"
+    },
+    {
+      "id": "hyperedge_13",
+      "nodes": ["SpawnActorCollisionHandlingMethod", "Actor"],
+      "type": "collision_handling_strategy",
+      "description": "SpawnActorCollisionHandlingMethod defines strategies for spawning Actors when collision is detected"
+    },
+    {
+      "id": "hyperedge_14",
+      "nodes": ["AnimGraphNode_Mirror", "AnimNode_Mirror", "MemberReference"],
+      "type": "animation_node_binding",
+      "description": "AnimGraphNode_Mirror contains AnimNode_Mirror and MemberReference functions for lifecycle events"
+    },
+    {
+      "id": "hyperedge_15",
+      "nodes": ["ZoneLaneDirection", "ZoneGraph"],
+      "type": "lane_direction_system",
+      "description": "ZoneLaneDirection enum defines movement directions (NONE, FORWARD, BACKWARD) for ZoneGraph lane system"
+    }
+  ]
+}

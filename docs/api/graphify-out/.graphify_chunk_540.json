@@ -1,0 +1,398 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertypathteststruct_propertypathteststruct",
+      "label": "PropertyPathTestStruct",
+      "file_type": "code",
+      "source_file": "PropertyPathTestStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublegreaterequal_rigvmfunction_mathdoublegreaterequal",
+      "label": "RigVMFunction MathDoubleGreaterEqual",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathDoubleGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptremovehiddentrianglesmethod_geometryscriptremovehiddentrianglesmethod",
+      "label": "GeometryScriptRemoveHiddenTrianglesMethod",
+      "file_type": "code",
+      "source_file": "GeometryScriptRemoveHiddenTrianglesMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorskylightsettings_skycreatorskylightsettings",
+      "label": "SkyCreatorSkyLightSettings",
+      "file_type": "code",
+      "source_file": "SkyCreatorSkyLightSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setvectoranimationchannel_rigunit_setvectoranimationchannel",
+      "label": "RigUnit SetVectorAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit_SetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapelayerblendtype_landscapelayerblendtype",
+      "label": "LandscapeLayerBlendType",
+      "file_type": "code",
+      "source_file": "LandscapeLayerBlendType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendprofile_blendprofile",
+      "label": "BlendProfile",
+      "file_type": "code",
+      "source_file": "BlendProfile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nodemappingcontainer_nodemappingcontainer",
+      "label": "NodeMappingContainer",
+      "file_type": "code",
+      "source_file": "NodeMappingContainer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangephysicalcamerafactorynode_interchangephysicalcamerafactorynode",
+      "label": "InterchangePhysicalCameraFactoryNode",
+      "file_type": "code",
+      "source_file": "InterchangePhysicalCameraFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nonuniformsamplingweightmode_nonuniformsamplingweightmode",
+      "label": "NonUniformSamplingWeightMode",
+      "file_type": "code",
+      "source_file": "NonUniformSamplingWeightMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatsin_rigunit_mathfloatsin",
+      "label": "RigUnit MathFloatSin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatSin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getvectoranimationchannel_rigunit_getvectoranimationchannel",
+      "label": "RigUnit GetVectorAnimationChannel",
+      "file_type": "code",
+      "source_file": "RigUnit__GetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatconstant",
+      "label": "RigVMFunction MathFloatConstant",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgexclusivedatatype_pcgexclusivedatatype",
+      "label": "PCGExclusiveDataType",
+      "file_type": "code",
+      "source_file": "PCGExclusiveDataType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcollapsemode_pcgcollapsemode",
+      "label": "PCGCollapseMode",
+      "file_type": "code",
+      "source_file": "PCGCollapseMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaterniontoeuler_rigvmfunction_mathquaterniontoeuler",
+      "label": "RigVMFunction MathQuaternionToEuler",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathQuaternionToEuler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "remotecontrolteststruct_remotecontrolteststruct",
+      "label": "RemoteControlTestStruct",
+      "file_type": "code",
+      "source_file": "RemoteControlTestStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createrastersparams_createrastersparams",
+      "label": "CreateRastersParams",
+      "file_type": "code",
+      "source_file": "CreateRastersParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "postprocesssettings_postprocesssettings",
+      "label": "PostProcessSettings",
+      "file_type": "code",
+      "source_file": "PostProcessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionround_dmmaterialstageexpressionround",
+      "label": "DMMaterialStageExpressionRound",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionRound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_volumebake_geometryscript_volumebake",
+      "label": "GeometryScript VolumeBake",
+      "file_type": "code",
+      "source_file": "GeometryScript_VolumeBake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "target": "rigvmfunction_mathfloatconstant_rigvmfunction_mathfloatconstant",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatConstant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatsin_rigunit_mathfloatsin",
+      "target": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatSin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setvectoranimationchannel_rigunit_setvectoranimationchannel",
+      "target": "rigunit_getvectoranimationchannel_rigunit_getvectoranimationchannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetVectorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_volumebake_geometryscript_volumebake",
+      "target": "geometryscriptremovehiddentrianglesmethod_geometryscriptremovehiddentrianglesmethod",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScript_VolumeBake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorskylightsettings_skycreatorskylightsettings",
+      "target": "postprocesssettings_postprocesssettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SkyCreatorSkyLightSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangephysicalcamerafactorynode_interchangephysicalcamerafactorynode",
+      "target": "postprocesssettings_postprocesssettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InterchangePhysicalCameraFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaterniontoeuler_rigvmfunction_mathquaterniontoeuler",
+      "target": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathQuaternionToEuler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nodemappingcontainer_nodemappingcontainer",
+      "target": "blendprofile_blendprofile",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NodeMappingContainer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgexclusivedatatype_pcgexclusivedatatype",
+      "target": "pcgcollapsemode_pcgcollapsemode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGExclusiveDataType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapelayerblendtype_landscapelayerblendtype",
+      "target": "blendprofile_blendprofile",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LandscapeLayerBlendType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionround_dmmaterialstageexpressionround",
+      "target": "postprocesssettings_postprocesssettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "DMMaterialStageExpressionRound Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_animation_channel_operations",
+      "label": "Rig Animation Channel Operations",
+      "nodes": [
+        "rigunit_setvectoranimationchannel_rigunit_setvectoranimationchannel",
+        "rigunit_getvectoranimationchannel_rigunit_getvectoranimationchannel"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetVectorAnimationChannel Objects.md"
+    },
+    {
+      "id": "geometry_scripting_mesh_operations",
+      "label": "Geometry Scripting Mesh Operations",
+      "nodes": [
+        "geometryscript_volumebake_geometryscript_volumebake",
+        "geometryscriptremovehiddentrianglesmethod_geometryscriptremovehiddentrianglesmethod"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScript_VolumeBake Objects.md"
+    },
+    {
+      "id": "pcg_data_processing",
+      "label": "PCG Data Processing",
+      "nodes": [
+        "pcgexclusivedatatype_pcgexclusivedatatype",
+        "pcgcollapsemode_pcgcollapsemode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGExclusiveDataType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

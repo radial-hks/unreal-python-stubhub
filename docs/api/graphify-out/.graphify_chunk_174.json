@@ -1,0 +1,443 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_inverseexecution_rigunit_inverseexecution",
+      "label": "RigUnit_InverseExecution",
+      "file_type": "document",
+      "source_file": "RigUnit_InverseExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_harmonics_targetitem_rigunit_harmonics_targetitem",
+      "label": "RigUnit_Harmonics_TargetItem",
+      "file_type": "document",
+      "source_file": "RigUnit__Harmonics__TargetItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumflightcompleted_cesiumflightcompleted",
+      "label": "CesiumFlightCompleted",
+      "file_type": "document",
+      "source_file": "CesiumFlightCompleted Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdebugdrawcomponent_pcgdebugdrawcomponent",
+      "label": "PCGDebugDrawComponent",
+      "file_type": "document",
+      "source_file": "PCGDebugDrawComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "outputtargetmeshbones_outputtargetmeshbones",
+      "label": "OutputTargetMeshBones",
+      "file_type": "document",
+      "source_file": "OutputTargetMeshBones Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolnand_rigunit_mathboolnand",
+      "label": "RigUnit_MathBoolNand",
+      "file_type": "document",
+      "source_file": "RigUnit__MathBoolNand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "getrealtimevideoparams_getrealtimevideoparams",
+      "label": "GetRealTimeVideoParams",
+      "file_type": "document",
+      "source_file": "GetRealTimeVideoParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcachetype_groomcachetype",
+      "label": "GroomCacheType",
+      "file_type": "document",
+      "source_file": "GroomCacheType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingstringmatchtype_editorscriptingstringmatchtype",
+      "label": "EditorScriptingStringMatchType",
+      "file_type": "document",
+      "source_file": "EditorScriptingStringMatchType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendspacesampleresult_animgraphnode_blendspacesampleresult",
+      "label": "AnimGraphNode_BlendSpaceSampleResult",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendSpaceSampleResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonerconstraintextension_ceclonerconstraintextension",
+      "label": "CEClonerConstraintExtension",
+      "file_type": "document",
+      "source_file": "CEClonerConstraintExtension Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controllertype_controllertype",
+      "label": "ControllerType",
+      "file_type": "document",
+      "source_file": "ControllerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetpoint_targetpoint",
+      "label": "TargetPoint",
+      "file_type": "document",
+      "source_file": "TargetPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticswitchparameter_staticswitchparameter",
+      "label": "StaticSwitchParameter",
+      "file_type": "document",
+      "source_file": "StaticSwitchParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaoscachecollection_chaoscachecollection",
+      "label": "ChaosCacheCollection",
+      "file_type": "document",
+      "source_file": "ChaosCacheCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pgcopypointstaginheritancemode_pgcopypointstaginheritancemode",
+      "label": "PCGCopyPointsTagInheritanceMode",
+      "file_type": "document",
+      "source_file": "PCGCopyPointsTagInheritanceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerregionswitchparams_wdpmodelerregionswitchparams",
+      "label": "WdpModelerRegionSwitchParams",
+      "file_type": "document",
+      "source_file": "WdpModelerRegionSwitchParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "permutationtimetype_permutationtimetype",
+      "label": "PermutationTimeType",
+      "file_type": "document",
+      "source_file": "PermutationTimeType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller_onzoomkeyreleased_wdpplayercontroller_onzoomkeyreleased",
+      "label": "WdpPlayerController_OnZoomKeyReleased",
+      "file_type": "document",
+      "source_file": "WdpPlayerController__OnZoomKeyReleased Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scriptingcollisionshapetype_deprecated_scriptingcollisionshapetype_deprecated",
+      "label": "ScriptingCollisionShapeType_Deprecated",
+      "file_type": "document",
+      "source_file": "ScriptingCollisionShapeType__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatevectormul_rigvmfunction_accumulatevectormul",
+      "label": "RigVMFunction_AccumulateVectorMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction_AccumulateVectorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceeditorsubsystem_levelsequenceeditorsubsystem",
+      "label": "LevelSequenceEditorSubsystem",
+      "file_type": "document",
+      "source_file": "LevelSequenceEditorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_inverseexecution_rigunit_inverseexecution",
+      "target": "rigunit_harmonics_targetitem_rigunit_harmonics_targetitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_InverseExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdebugdrawcomponent_pcgdebugdrawcomponent",
+      "target": "chaoscachecollection_chaoscachecollection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGDebugDrawComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatevectormul_rigvmfunction_accumulatevectormul",
+      "target": "rigunit_inverseexecution_rigunit_inverseexecution",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_AccumulateVectorMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceeditorsubsystem_levelsequenceeditorsubsystem",
+      "target": "animgraphnode_blendspacesampleresult_animgraphnode_blendspacesampleresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LevelSequenceEditorSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorscriptingstringmatchtype_editorscriptingstringmatchtype",
+      "target": "scriptingcollisionshapetype_deprecated_scriptingcollisionshapetype_deprecated",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EditorScriptingStringMatchType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcachetype_groomcachetype",
+      "target": "chaoscachecollection_chaoscachecollection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GroomCacheType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "permutationtimetype_permutationtimetype",
+      "target": "animgraphnode_blendspacesampleresult_animgraphnode_blendspacesampleresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PermutationTimeType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonerconstraintextension_ceclonerconstraintextension",
+      "target": "targetpoint_targetpoint",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CEClonerConstraintExtension Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolnand_rigunit_mathboolnand",
+      "target": "rigvmfunction_accumulatevectormul_rigvmfunction_accumulatevectormul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathBoolNand Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller_onzoomkeyreleased_wdpplayercontroller_onzoomkeyreleased",
+      "target": "controllertype_controllertype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpPlayerController__OnZoomKeyReleased Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "outputtargetmeshbones_outputtargetmeshbones",
+      "target": "groomcachetype_groomcachetype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "OutputTargetMeshBones Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticswitchparameter_staticswitchparameter",
+      "target": "levelsequenceeditorsubsystem_levelsequenceeditorsubsystem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "StaticSwitchParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumflightcompleted_cesiumflightcompleted",
+      "target": "wdpplayercontroller_onzoomkeyreleased_wdpplayercontroller_onzoomkeyreleased",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CesiumFlightCompleted Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pgcopypointstaginheritancemode_pgcopypointstaginheritancemode",
+      "target": "pcgdebugdrawcomponent_pcgdebugdrawcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "PCGCopyPointsTagInheritanceMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmodelerregionswitchparams_wdpmodelerregionswitchparams",
+      "target": "getrealtimevideoparams_getrealtimevideoparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WdpModelerRegionSwitchParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_framework_components",
+      "label": "RigVM Framework Components",
+      "nodes": [
+        "rigunit_inverseexecution_rigunit_inverseexecution",
+        "rigunit_harmonics_targetitem_rigunit_harmonics_targetitem",
+        "rigvmfunction_accumulatevectormul_rigvmfunction_accumulatevectormul",
+        "rigunit_mathboolnand_rigunit_mathboolnand"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_InverseExecution Objects.md"
+    },
+    {
+      "id": "animation_and_sequence_editing_tools",
+      "label": "Animation and Sequence Editing Tools",
+      "nodes": [
+        "levelsequenceeditorsubsystem_levelsequenceeditorsubsystem",
+        "animgraphnode_blendspacesampleresult_animgraphnode_blendspacesampleresult",
+        "permutationtimetype_permutationtimetype"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LevelSequenceEditorSubsystem Objects.md"
+    },
+    {
+      "id": "cache_and_data_storage_systems",
+      "label": "Cache and Data Storage Systems",
+      "nodes": [
+        "chaoscachecollection_chaoscachecollection",
+        "groomcachetype_groomcachetype",
+        "pcgdebugdrawcomponent_pcgdebugdrawcomponent",
+        "pgcopypointstaginheritancemode_pgcopypointstaginheritancemode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ChaosCacheCollection Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

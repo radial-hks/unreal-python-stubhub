@@ -1,0 +1,1985 @@
+{
+  "nodes": [
+    {
+      "id": "class:PoseSearchInterruptMode",
+      "type": "class",
+      "name": "PoseSearchInterruptMode",
+      "metadata": {
+        "base_class": "EnumBase",
+        "description": "EPose Search Interrupt Mode",
+        "file": "PoseSearchLibrary.h"
+      }
+    },
+    {
+      "id": "class:EarthTerrainSettings",
+      "type": "class",
+      "name": "EarthTerrainSettings",
+      "metadata": {
+        "base_class": "EarthLayerSettingsBase",
+        "description": "地球地形设置",
+        "file": "EarthTerrainSettings.h"
+      }
+    },
+    {
+      "id": "class:MaterialExpressionBumpOffset",
+      "type": "class",
+      "name": "MaterialExpressionBumpOffset",
+      "metadata": {
+        "base_class": "MaterialExpression",
+        "description": "Material Expression Bump Offset",
+        "file": "MaterialExpressionBumpOffset.h"
+      }
+    },
+    {
+      "id": "class:WidgetEventField",
+      "type": "class",
+      "name": "WidgetEventField",
+      "metadata": {
+        "base_class": "StructBase",
+        "description": "Generic structure to notify when an event occurs",
+        "file": "WidgetEventField.h"
+      }
+    },
+    {
+      "id": "class:CesiumPropertyTexture",
+      "type": "class",
+      "name": "CesiumPropertyTexture",
+      "metadata": {
+        "base_class": "StructBase",
+        "description": "A blueprint-accessible wrapper of a property texture from a glTF",
+        "file": "CesiumPropertyTexture.h"
+      }
+    },
+    {
+      "id": "class:AnimGraphNode_RetargetPoseFromMesh",
+      "type": "class",
+      "name": "AnimGraphNode_RetargetPoseFromMesh",
+      "metadata": {
+        "base_class": "AnimGraphNode_Base",
+        "description": "Editor node for IKRig",
+        "file": "AnimGraphNode_RetargetPoseFromMesh.h"
+      }
+    },
+    {
+      "id": "class:SmartObjectTestRenderingComponent",
+      "type": "class",
+      "name": "SmartObjectTestRenderingComponent",
+      "metadata": {
+        "base_class": "SmartObjectDebugRenderingComponent",
+        "description": "Debug rendering component for SmartObject tests",
+        "file": "SmartObjectTestingActor.h"
+      }
+    },
+    {
+      "id": "class:RigDispatch_GetMetadata",
+      "type": "class",
+      "name": "RigDispatch_GetMetadata",
+      "metadata": {
+        "base_class": "RigDispatch_MetadataBase",
+        "description": "Sets some metadata for the provided item",
+        "file": "RigUnit_Metadata.h"
+      }
+    },
+    {
+      "id": "class:UrbanFloatRampCurve",
+      "type": "class",
+      "name": "UrbanFloatRampCurve",
+      "metadata": {
+        "base_class": "CurveFloat",
+        "description": "Float ramp curve for SUrbanFloatRampCurveEditor",
+        "file": "UrbanFloatRampCurve.h"
+      }
+    },
+    {
+      "id": "class:GeometryScriptSearchOutcomePins",
+      "type": "class",
+      "name": "GeometryScriptSearchOutcomePins",
+      "metadata": {
+        "base_class": "EnumBase",
+        "description": "EGeometry Script Search Outcome Pins",
+        "file": "GeometryScriptTypes.h"
+      }
+    },
+    {
+      "id": "class:LiveLinkSubjectSettings",
+      "type": "class",
+      "name": "LiveLinkSubjectSettings",
+      "metadata": {
+        "base_class": "Object",
+        "description": "Base class for live link subject settings",
+        "file": "LiveLinkSubjectSettings.h"
+      }
+    },
+    {
+      "id": "class:VimInstance",
+      "type": "class",
+      "name": "VimInstance",
+      "metadata": {
+        "base_class": "AnimInstance",
+        "description": "deprecated: 'VimInstance' was renamed to 'AnimInstance'",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "class:RigControlElementCustomization",
+      "type": "class",
+      "name": "RigControlElementCustomization",
+      "metadata": {
+        "base_class": "StructBase",
+        "description": "Rig Control Element Customization",
+        "file": "RigHierarchyElements.h"
+      }
+    },
+    {
+      "id": "class:DoubleCameraVariable",
+      "type": "class",
+      "name": "DoubleCameraVariable",
+      "metadata": {
+        "base_class": "CameraVariableAsset",
+        "description": "Double camera variable",
+        "file": "CameraVariableAssets.h"
+      }
+    },
+    {
+      "id": "class:OnDownloadCompleted",
+      "type": "class",
+      "name": "OnDownloadCompleted",
+      "metadata": {
+        "base_class": "DelegateBase",
+        "description": "On Download Completed Delegate Signature",
+        "file": "WdpFileDownloader.h"
+      }
+    },
+    {
+      "id": "class:MovieGraphConfig",
+      "type": "class",
+      "name": "MovieGraphConfig",
+      "metadata": {
+        "base_class": "Object",
+        "description": "Runtime representation of the UMoviePipelineEdGraph",
+        "file": "MovieGraphConfig.h"
+      }
+    },
+    {
+      "id": "class:AnimNode_ResetRoot",
+      "type": "class",
+      "name": "AnimNode_ResetRoot",
+      "metadata": {
+        "base_class": "AnimNode_SkeletalControlBase",
+        "description": "Anim Node Reset Root",
+        "file": "AnimNode_ResetRoot.h"
+      }
+    },
+    {
+      "id": "class:MaterialExpressionGetLocal",
+      "type": "class",
+      "name": "MaterialExpressionGetLocal",
+      "metadata": {
+        "base_class": "MaterialExpression",
+        "description": "Material Expression Get Local",
+        "file": "MaterialExpressionGetLocal.h"
+      }
+    },
+    {
+      "id": "class:SpritePivotMode",
+      "type": "class",
+      "name": "SpritePivotMode",
+      "metadata": {
+        "base_class": "EnumBase",
+        "description": "ESprite Pivot Mode",
+        "file": "SpriteEditorOnlyTypes.h"
+      }
+    },
+    {
+      "id": "class:PredictProjectilePathPointData",
+      "type": "class",
+      "name": "PredictProjectilePathPointData",
+      "metadata": {
+        "base_class": "StructBase",
+        "description": "Data about a single point in a projectile path trace",
+        "file": "GameplayStaticsTypes.h"
+      }
+    },
+    {
+      "id": "class:poiStyle_label",
+      "type": "class",
+      "name": "poiStyle_label",
+      "metadata": {
+        "base_class": "StructBase",
+        "description": "Poi Style Label",
+        "file": "PoiAPIParams.h"
+      }
+    },
+    {
+      "id": "class:RigVMFunction_MathVectorMakeBezierFourPoint",
+      "type": "class",
+      "name": "RigVMFunction_MathVectorMakeBezierFourPoint",
+      "metadata": {
+        "base_class": "RigVMFunction_MathVectorBase",
+        "description": "Creates a bezier four point",
+        "file": "RigVMFunction_MathVector.h"
+      }
+    },
+    {
+      "id": "module:PoseSearch",
+      "type": "module",
+      "name": "PoseSearch"
+    },
+    {
+      "id": "module:EarthMisc",
+      "type": "module",
+      "name": "EarthMisc"
+    },
+    {
+      "id": "module:Engine",
+      "type": "module",
+      "name": "Engine"
+    },
+    {
+      "id": "module:UMG",
+      "type": "module",
+      "name": "UMG"
+    },
+    {
+      "id": "module:CesiumRuntime",
+      "type": "module",
+      "name": "CesiumRuntime"
+    },
+    {
+      "id": "module:IKRigDeveloper",
+      "type": "module",
+      "name": "IKRigDeveloper"
+    },
+    {
+      "id": "module:SmartObjectsModule",
+      "type": "module",
+      "name": "SmartObjectsModule"
+    },
+    {
+      "id": "module:ControlRig",
+      "type": "module",
+      "name": "ControlRig"
+    },
+    {
+      "id": "module:UrbanEd",
+      "type": "module",
+      "name": "UrbanEd"
+    },
+    {
+      "id": "module:GeometryScriptingCore",
+      "type": "module",
+      "name": "GeometryScriptingCore"
+    },
+    {
+      "id": "module:LiveLinkInterface",
+      "type": "module",
+      "name": "LiveLinkInterface"
+    },
+    {
+      "id": "module:WdpFileDownloader",
+      "type": "module",
+      "name": "WdpFileDownloader"
+    },
+    {
+      "id": "module:MovieRenderPipelineCore",
+      "type": "module",
+      "name": "MovieRenderPipelineCore"
+    },
+    {
+      "id": "module:AnimGraphRuntime",
+      "type": "module",
+      "name": "AnimGraphRuntime"
+    },
+    {
+      "id": "module:GameplayCameras",
+      "type": "module",
+      "name": "GameplayCameras"
+    },
+    {
+      "id": "module:CoveringAPIDefine",
+      "type": "module",
+      "name": "CoveringAPIDefine"
+    },
+    {
+      "id": "module:RigVM",
+      "type": "module",
+      "name": "RigVM"
+    },
+    {
+      "id": "plugin:PoseSearch",
+      "type": "plugin",
+      "name": "PoseSearch"
+    },
+    {
+      "id": "plugin:AesWorld",
+      "type": "plugin",
+      "name": "AesWorld"
+    },
+    {
+      "id": "plugin:CesiumForUnreal",
+      "type": "plugin",
+      "name": "CesiumForUnreal"
+    },
+    {
+      "id": "plugin:IKRig",
+      "type": "plugin",
+      "name": "IKRig"
+    },
+    {
+      "id": "plugin:SmartObjects",
+      "type": "plugin",
+      "name": "SmartObjects"
+    },
+    {
+      "id": "plugin:GeometryScripting",
+      "type": "plugin",
+      "name": "GeometryScripting"
+    },
+    {
+      "id": "plugin:AesEditor",
+      "type": "plugin",
+      "name": "AesEditor"
+    },
+    {
+      "id": "plugin:WdpCommon",
+      "type": "plugin",
+      "name": "WdpCommon"
+    },
+    {
+      "id": "plugin:MovieRenderPipeline",
+      "type": "plugin",
+      "name": "MovieRenderPipeline"
+    },
+    {
+      "id": "plugin:Paper2D",
+      "type": "plugin",
+      "name": "Paper2D"
+    },
+    {
+      "id": "plugin:GameplayCameras",
+      "type": "plugin",
+      "name": "GameplayCameras"
+    },
+    {
+      "id": "plugin:CoveringAPI",
+      "type": "plugin",
+      "name": "CoveringAPI"
+    },
+    {
+      "id": "plugin:RigVM",
+      "type": "plugin",
+      "name": "RigVM"
+    },
+    {
+      "id": "property:build_collision",
+      "type": "property",
+      "name": "build_collision",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "是否生成地形碰撞"
+      }
+    },
+    {
+      "id": "property:collision_color",
+      "type": "property",
+      "name": "collision_color",
+      "metadata": {
+        "type": "Color",
+        "access": "Read-Write",
+        "description": "碰撞颜色"
+      }
+    },
+    {
+      "id": "property:collision_vertex_num",
+      "type": "property",
+      "name": "collision_vertex_num",
+      "metadata": {
+        "type": "int32",
+        "access": "Read-Write",
+        "description": "地形碰撞的顶点数"
+      }
+    },
+    {
+      "id": "property:desired_delta_level_bias",
+      "type": "property",
+      "name": "desired_delta_level_bias",
+      "metadata": {
+        "type": "int32",
+        "access": "Read-Write",
+        "description": "与ScreenSizeFactor叠加"
+      }
+    },
+    {
+      "id": "property:dom_process_settings",
+      "type": "property",
+      "name": "dom_process_settings",
+      "metadata": {
+        "type": "EarthDomProcessSettings",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:dom_use_full_mip",
+      "type": "property",
+      "name": "dom_use_full_mip",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Dom是否生成全量的Mipmap，默认是1"
+      }
+    },
+    {
+      "id": "property:enable_max_update_speed",
+      "type": "property",
+      "name": "enable_max_update_speed",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:flow_map_level_config",
+      "type": "property",
+      "name": "flow_map_level_config",
+      "metadata": {
+        "type": "Array[uint8]",
+        "access": "Read-Write",
+        "description": "FlowMap所在级别"
+      }
+    },
+    {
+      "id": "property:is_visible",
+      "type": "property",
+      "name": "is_visible",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "是否显示要素"
+      }
+    },
+    {
+      "id": "property:max_concurrent_requests",
+      "type": "property",
+      "name": "max_concurrent_requests",
+      "metadata": {
+        "type": "int32",
+        "access": "Read-Write",
+        "description": "最多有多少个带图层的地块在并行生成，可根据机器性能微调"
+      }
+    },
+    {
+      "id": "property:max_level",
+      "type": "property",
+      "name": "max_level",
+      "metadata": {
+        "type": "int32",
+        "access": "Read-Write",
+        "description": "控制地形图层生成的最大等级"
+      }
+    },
+    {
+      "id": "property:max_update_speed",
+      "type": "property",
+      "name": "max_update_speed",
+      "metadata": {
+        "type": "float",
+        "access": "Read-Write",
+        "description": "仅在相机移动速度小于该值时，LOD系统才会进行实时更新，单位为m/s"
+      }
+    },
+    {
+      "id": "property:mesh_batch_element_size",
+      "type": "property",
+      "name": "mesh_batch_element_size",
+      "metadata": {
+        "type": "int32",
+        "access": "Read-Write",
+        "description": "当需要频繁修改地形材质时，建议将值尽量调小，而不需要修改材质时，将值改为1000"
+      }
+    },
+    {
+      "id": "property:need_register",
+      "type": "property",
+      "name": "need_register",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "是否开启图层生成"
+      }
+    },
+    {
+      "id": "property:receives_decals",
+      "type": "property",
+      "name": "receives_decals",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "是否接收贴花"
+      }
+    },
+    {
+      "id": "property:const_coordinate",
+      "type": "property",
+      "name": "const_coordinate",
+      "metadata": {
+        "type": "uint32",
+        "access": "Read-Write",
+        "description": "only used if Coordinate is not hooked up"
+      }
+    },
+    {
+      "id": "property:desc",
+      "type": "property",
+      "name": "desc",
+      "metadata": {
+        "type": "str",
+        "access": "Read-Write",
+        "description": "A description that level designers can add (shows in the material editor UI)"
+      }
+    },
+    {
+      "id": "property:height_ratio",
+      "type": "property",
+      "name": "height_ratio",
+      "metadata": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:reference_plane",
+      "type": "property",
+      "name": "reference_plane",
+      "metadata": {
+        "type": "float",
+        "access": "Read-Write",
+        "description": "Perceived height as a fraction of width"
+      }
+    },
+    {
+      "id": "property:material_expression_editor_x",
+      "type": "property",
+      "name": "material_expression_editor_x",
+      "metadata": {
+        "type": "int32",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:material_expression_editor_y",
+      "type": "property",
+      "name": "material_expression_editor_y",
+      "metadata": {
+        "type": "int32",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:frame_rate",
+      "type": "property",
+      "name": "frame_rate",
+      "metadata": {
+        "type": "FrameRate",
+        "access": "Read-Only",
+        "description": "Last FrameRate estimated by the subject"
+      }
+    },
+    {
+      "id": "property:interpolation_processor",
+      "type": "property",
+      "name": "interpolation_processor",
+      "metadata": {
+        "type": "LiveLinkFrameInterpolationProcessor",
+        "access": "Read-Write",
+        "description": "The interpolation processor the subject will use"
+      }
+    },
+    {
+      "id": "property:pre_processors",
+      "type": "property",
+      "name": "pre_processors",
+      "metadata": {
+        "type": "Array[LiveLinkFramePreProcessor]",
+        "access": "Read-Write",
+        "description": "List of available preprocessor the subject will use"
+      }
+    },
+    {
+      "id": "property:rebroadcast_subject",
+      "type": "property",
+      "name": "rebroadcast_subject",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "If enabled, rebroadcast this subject"
+      }
+    },
+    {
+      "id": "property:remapper",
+      "type": "property",
+      "name": "remapper",
+      "metadata": {
+        "type": "LiveLinkSubjectRemapper",
+        "access": "Read-Write",
+        "description": "Remapper used to modify incoming static and frame data for a subject"
+      }
+    },
+    {
+      "id": "property:translators",
+      "type": "property",
+      "name": "translators",
+      "metadata": {
+        "type": "Array[LiveLinkFrameTranslator]",
+        "access": "Read-Write",
+        "description": "List of available translator the subject can use"
+      }
+    },
+    {
+      "id": "property:available_spaces",
+      "type": "property",
+      "name": "available_spaces",
+      "metadata": {
+        "type": "Array[RigElementKey]",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "property:removed_spaces",
+      "type": "property",
+      "name": "removed_spaces",
+      "metadata": {
+        "type": "Array[RigElementKey]",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "property:auto_reset",
+      "type": "property",
+      "name": "auto_reset",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write",
+        "description": "Whether this variable auto-resets to its default value every frame"
+      }
+    },
+    {
+      "id": "property:default_value",
+      "type": "property",
+      "name": "default_value",
+      "metadata": {
+        "type": "double",
+        "access": "Read-Write",
+        "description": "The default value of this variable"
+      }
+    },
+    {
+      "id": "property:alpha",
+      "type": "property",
+      "name": "alpha",
+      "metadata": {
+        "type": "float",
+        "access": "Read-Write",
+        "description": "Current strength of the skeletal control"
+      }
+    },
+    {
+      "id": "property:alpha_bool_blend",
+      "type": "property",
+      "name": "alpha_bool_blend",
+      "metadata": {
+        "type": "InputAlphaBoolBlend",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:alpha_bool_enabled",
+      "type": "property",
+      "name": "alpha_bool_enabled",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:alpha_curve_name",
+      "type": "property",
+      "name": "alpha_curve_name",
+      "metadata": {
+        "type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:alpha_input_type",
+      "type": "property",
+      "name": "alpha_input_type",
+      "metadata": {
+        "type": "AnimAlphaInputType",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:alpha_scale_bias",
+      "type": "property",
+      "name": "alpha_scale_bias",
+      "metadata": {
+        "type": "InputScaleBias",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:alpha_scale_bias_clamp",
+      "type": "property",
+      "name": "alpha_scale_bias_clamp",
+      "metadata": {
+        "type": "InputScaleBiasClamp",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:component_pose",
+      "type": "property",
+      "name": "component_pose",
+      "metadata": {
+        "type": "ComponentSpacePoseLink",
+        "access": "Read-Write",
+        "description": "Input link"
+      }
+    },
+    {
+      "id": "property:lod_threshold",
+      "type": "property",
+      "name": "lod_threshold",
+      "metadata": {
+        "type": "int32",
+        "access": "Read-Write",
+        "description": "Max LOD that this node is allowed to run"
+      }
+    },
+    {
+      "id": "property:local_name",
+      "type": "property",
+      "name": "local_name",
+      "metadata": {
+        "type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:location",
+      "type": "property",
+      "name": "location",
+      "metadata": {
+        "type": "Vector",
+        "access": "Read-Only",
+        "description": "Location of this point"
+      }
+    },
+    {
+      "id": "property:time",
+      "type": "property",
+      "name": "time",
+      "metadata": {
+        "type": "float",
+        "access": "Read-Only",
+        "description": "Elapsed time at this point from the start of the trace"
+      }
+    },
+    {
+      "id": "property:velocity",
+      "type": "property",
+      "name": "velocity",
+      "metadata": {
+        "type": "Vector",
+        "access": "Read-Only",
+        "description": "Velocity at this point"
+      }
+    },
+    {
+      "id": "property:bg_image_url",
+      "type": "property",
+      "name": "bg_image_url",
+      "metadata": {
+        "type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:bg_offset",
+      "type": "property",
+      "name": "bg_offset",
+      "metadata": {
+        "type": "Vector2D",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:bg_size",
+      "type": "property",
+      "name": "bg_size",
+      "metadata": {
+        "type": "Vector2D",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:content",
+      "type": "property",
+      "name": "content",
+      "metadata": {
+        "type": "poiStyle_label_content",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "property:bezier",
+      "type": "property",
+      "name": "bezier",
+      "metadata": {
+        "type": "RigVMFourPointBezier",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "method:update_global_variable_values",
+      "type": "method",
+      "name": "update_global_variable_values",
+      "metadata": {
+        "description": "Updates the values of all global variables",
+        "parameters": ["pipeline:MovieGraphPipeline"]
+      }
+    },
+    {
+      "id": "method:remove_outbound_edges",
+      "type": "method",
+      "name": "remove_outbound_edges",
+      "metadata": {
+        "description": "Removes all Outbound edges connected to the given outbound pin by name",
+        "parameters": ["node:MovieGraphNode", "pin_name:Name"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:remove_nodes",
+      "type": "method",
+      "name": "remove_nodes",
+      "metadata": {
+        "description": "Like RemoveNode but takes an entire array at once",
+        "parameters": ["nodes:Array[MovieGraphNode]"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:remove_node",
+      "type": "method",
+      "name": "remove_node",
+      "metadata": {
+        "description": "Removes the specified node from the graph",
+        "parameters": ["node:MovieGraphNode"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:remove_labeled_edge",
+      "type": "method",
+      "name": "remove_labeled_edge",
+      "metadata": {
+        "description": "Removes the given connection between Node A and Node B",
+        "parameters": ["from_node:MovieGraphNode", "from_pin_name:Name", "to_node:MovieGraphNode", "to_pin_name:Name"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:remove_inbound_edges",
+      "type": "method",
+      "name": "remove_inbound_edges",
+      "metadata": {
+        "description": "Removes all Inbound edges connected to the given inbound pin by name",
+        "parameters": ["node:MovieGraphNode", "pin_name:Name"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:remove_all_outbound_edges",
+      "type": "method",
+      "name": "remove_all_outbound_edges",
+      "metadata": {
+        "description": "Removes all Outbound edges for the given node",
+        "parameters": ["node:MovieGraphNode"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:remove_all_inbound_edges",
+      "type": "method",
+      "name": "remove_all_inbound_edges",
+      "metadata": {
+        "description": "Removes all Inbound edges for the given node",
+        "parameters": ["node:MovieGraphNode"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:get_variables",
+      "type": "method",
+      "name": "get_variables",
+      "metadata": {
+        "description": "Gets all variables that are available to be used in the graph",
+        "parameters": ["include_global:bool"],
+        "return_type": "Array[MovieGraphVariable]"
+      }
+    },
+    {
+      "id": "method:get_outputs",
+      "type": "method",
+      "name": "get_outputs",
+      "metadata": {
+        "description": "Gets all outputs that have been defined on the graph",
+        "return_type": "Array[MovieGraphOutput]"
+      }
+    },
+    {
+      "id": "method:get_output_node",
+      "type": "method",
+      "name": "get_output_node",
+      "metadata": {
+        "description": "Gets the automatically generated Outputs node in the Graph",
+        "return_type": "MovieGraphNode"
+      }
+    },
+    {
+      "id": "method:get_inputs",
+      "type": "method",
+      "name": "get_inputs",
+      "metadata": {
+        "description": "Gets all inputs that have been defined on the graph",
+        "return_type": "Array[MovieGraphInput]"
+      }
+    },
+    {
+      "id": "method:get_input_node",
+      "type": "method",
+      "name": "get_input_node",
+      "metadata": {
+        "description": "Gets the automatically generated Inputs node in the Graph",
+        "return_type": "MovieGraphNode"
+      }
+    },
+    {
+      "id": "method:delete_member",
+      "type": "method",
+      "name": "delete_member",
+      "metadata": {
+        "description": "Remove the specified member from the graph",
+        "parameters": ["member_to_delete:MovieGraphMember"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:create_node_by_class",
+      "type": "method",
+      "name": "create_node_by_class",
+      "metadata": {
+        "description": "Creates the given node type in this graph",
+        "parameters": ["class_:Class"],
+        "return_type": "MovieGraphNode"
+      }
+    },
+    {
+      "id": "method:create_flattened_graph",
+      "type": "method",
+      "name": "create_flattened_graph",
+      "metadata": {
+        "description": "Evaluate the graph and build a flattened list of settings",
+        "parameters": ["context:MovieGraphTraversalContext"],
+        "return_type": "Tuple[MovieGraphEvaluatedConfig, str]"
+      }
+    },
+    {
+      "id": "method:add_variable",
+      "type": "method",
+      "name": "add_variable",
+      "metadata": {
+        "description": "Adds a new variable member with default values to the graph",
+        "parameters": ["custom_base_name:Name"],
+        "return_type": "MovieGraphVariable"
+      }
+    },
+    {
+      "id": "method:add_output",
+      "type": "method",
+      "name": "add_output",
+      "metadata": {
+        "description": "Adds a new output member to the graph",
+        "parameters": ["base_name:Text"],
+        "return_type": "MovieGraphOutput"
+      }
+    },
+    {
+      "id": "method:add_labeled_edge",
+      "type": "method",
+      "name": "add_labeled_edge",
+      "metadata": {
+        "description": "Add a connection in the graph between the given nodes and pin names",
+        "parameters": ["from_node:MovieGraphNode", "from_pin_label:Name", "to_node:MovieGraphNode", "to_pin_label:Name"],
+        "return_type": "bool"
+      }
+    },
+    {
+      "id": "method:add_input",
+      "type": "method",
+      "name": "add_input",
+      "metadata": {
+        "description": "Adds a new input member to the graph",
+        "parameters": ["base_name:Text"],
+        "return_type": "MovieGraphInput"
+      }
+    },
+    {
+      "id": "enum_value:DO_NOT_INTERRUPT",
+      "type": "enum_value",
+      "name": "DO_NOT_INTERRUPT",
+      "metadata": {
+        "value": 0,
+        "description": "continuing pose search will be performed if valid"
+      }
+    },
+    {
+      "id": "enum_value:INTERRUPT_ON_DATABASE_CHANGE",
+      "type": "enum_value",
+      "name": "INTERRUPT_ON_DATABASE_CHANGE",
+      "metadata": {
+        "value": 1,
+        "description": "continuing pose search will be interrupted if its database is not listed in the searchable databases"
+      }
+    },
+    {
+      "id": "enum_value:INTERRUPT_ON_DATABASE_CHANGE_AND_INVALIDATE_CONTINUING_POSE",
+      "type": "enum_value",
+      "name": "INTERRUPT_ON_DATABASE_CHANGE_AND_INVALIDATE_CONTINUING_POSE",
+      "metadata": {
+        "value": 2,
+        "description": "continuing pose search will be interrupted if its database is not listed in the searchable databases, and continuing pose will be invalidated"
+      }
+    },
+    {
+      "id": "enum_value:FORCE_INTERRUPT",
+      "type": "enum_value",
+      "name": "FORCE_INTERRUPT",
+      "metadata": {
+        "value": 3,
+        "description": "continuing pose search will always be interrupted"
+      }
+    },
+    {
+      "id": "enum_value:FORCE_INTERRUPT_AND_INVALIDATE_CONTINUING_POSE",
+      "type": "enum_value",
+      "name": "FORCE_INTERRUPT_AND_INVALIDATE_CONTINUING_POSE",
+      "metadata": {
+        "value": 4,
+        "description": "continuing pose search will always be interrupted and continuing pose will be invalidated"
+      }
+    },
+    {
+      "id": "enum_value:FOUND",
+      "type": "enum_value",
+      "name": "FOUND",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "enum_value:NOT_FOUND",
+      "type": "enum_value",
+      "name": "NOT_FOUND",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "enum_value:TOP_LEFT",
+      "type": "enum_value",
+      "name": "TOP_LEFT",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "enum_value:TOP_CENTER",
+      "type": "enum_value",
+      "name": "TOP_CENTER",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "enum_value:TOP_RIGHT",
+      "type": "enum_value",
+      "name": "TOP_RIGHT",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "enum_value:CENTER_LEFT",
+      "type": "enum_value",
+      "name": "CENTER_LEFT",
+      "metadata": {
+        "value": 3
+      }
+    },
+    {
+      "id": "enum_value:CENTER_CENTER",
+      "type": "enum_value",
+      "name": "CENTER_CENTER",
+      "metadata": {
+        "value": 4
+      }
+    },
+    {
+      "id": "enum_value:CENTER_RIGHT",
+      "type": "enum_value",
+      "name": "CENTER_RIGHT",
+      "metadata": {
+        "value": 5
+      }
+    },
+    {
+      "id": "enum_value:BOTTOM_LEFT",
+      "type": "enum_value",
+      "name": "BOTTOM_LEFT",
+      "metadata": {
+        "value": 6
+      }
+    },
+    {
+      "id": "enum_value:BOTTOM_CENTER",
+      "type": "enum_value",
+      "name": "BOTTOM_CENTER",
+      "metadata": {
+        "value": 7
+      }
+    },
+    {
+      "id": "enum_value:BOTTOM_RIGHT",
+      "type": "enum_value",
+      "name": "BOTTOM_RIGHT",
+      "metadata": {
+        "value": 8
+      }
+    },
+    {
+      "id": "enum_value:CUSTOM",
+      "type": "enum_value",
+      "name": "CUSTOM",
+      "metadata": {
+        "value": 9
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "class:PoseSearchInterruptMode",
+      "target": "module:PoseSearch",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:PoseSearchInterruptMode",
+      "target": "plugin:PoseSearch",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "module:EarthMisc",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "plugin:AesWorld",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:MaterialExpressionBumpOffset",
+      "target": "module:Engine",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:WidgetEventField",
+      "target": "module:UMG",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:CesiumPropertyTexture",
+      "target": "module:CesiumRuntime",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:CesiumPropertyTexture",
+      "target": "plugin:CesiumForUnreal",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:AnimGraphNode_RetargetPoseFromMesh",
+      "target": "module:IKRigDeveloper",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:AnimGraphNode_RetargetPoseFromMesh",
+      "target": "plugin:IKRig",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:SmartObjectTestRenderingComponent",
+      "target": "module:SmartObjectsModule",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:SmartObjectTestRenderingComponent",
+      "target": "plugin:SmartObjects",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:RigDispatch_GetMetadata",
+      "target": "module:ControlRig",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:RigDispatch_GetMetadata",
+      "target": "plugin:ControlRig",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:UrbanFloatRampCurve",
+      "target": "module:UrbanEd",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:UrbanFloatRampCurve",
+      "target": "plugin:AesEditor",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:GeometryScriptSearchOutcomePins",
+      "target": "module:GeometryScriptingCore",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:GeometryScriptSearchOutcomePins",
+      "target": "plugin:GeometryScripting",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:LiveLinkSubjectSettings",
+      "target": "module:LiveLinkInterface",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:RigControlElementCustomization",
+      "target": "module:ControlRig",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:RigControlElementCustomization",
+      "target": "plugin:ControlRig",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:DoubleCameraVariable",
+      "target": "module:GameplayCameras",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:DoubleCameraVariable",
+      "target": "plugin:GameplayCameras",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:OnDownloadCompleted",
+      "target": "module:WdpFileDownloader",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:OnDownloadCompleted",
+      "target": "plugin:WdpCommon",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "module:MovieRenderPipelineCore",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "plugin:MovieRenderPipeline",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "module:AnimGraphRuntime",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:MaterialExpressionGetLocal",
+      "target": "module:Engine",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "module:Paper2D",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "plugin:Paper2D",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:PredictProjectilePathPointData",
+      "target": "module:Engine",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:poiStyle_label",
+      "target": "module:CoveringAPIDefine",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:poiStyle_label",
+      "target": "plugin:CoveringAPI",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:RigVMFunction_MathVectorMakeBezierFourPoint",
+      "target": "module:RigVM",
+      "type": "MEMBER_OF_MODULE"
+    },
+    {
+      "source": "class:RigVMFunction_MathVectorMakeBezierFourPoint",
+      "target": "plugin:RigVM",
+      "type": "MEMBER_OF_PLUGIN"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:build_collision",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:collision_color",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:collision_vertex_num",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:desired_delta_level_bias",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:dom_process_settings",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:dom_use_full_mip",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:enable_max_update_speed",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:flow_map_level_config",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:is_visible",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:max_concurrent_requests",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:max_level",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:max_update_speed",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:mesh_batch_element_size",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:need_register",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:EarthTerrainSettings",
+      "target": "property:receives_decals",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionBumpOffset",
+      "target": "property:const_coordinate",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionBumpOffset",
+      "target": "property:desc",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionBumpOffset",
+      "target": "property:height_ratio",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionBumpOffset",
+      "target": "property:reference_plane",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionBumpOffset",
+      "target": "property:material_expression_editor_x",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionBumpOffset",
+      "target": "property:material_expression_editor_y",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:LiveLinkSubjectSettings",
+      "target": "property:frame_rate",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:LiveLinkSubjectSettings",
+      "target": "property:interpolation_processor",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:LiveLinkSubjectSettings",
+      "target": "property:pre_processors",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:LiveLinkSubjectSettings",
+      "target": "property:rebroadcast_subject",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:LiveLinkSubjectSettings",
+      "target": "property:remapper",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:LiveLinkSubjectSettings",
+      "target": "property:translators",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:RigControlElementCustomization",
+      "target": "property:available_spaces",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:RigControlElementCustomization",
+      "target": "property:removed_spaces",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:DoubleCameraVariable",
+      "target": "property:auto_reset",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:DoubleCameraVariable",
+      "target": "property:default_value",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:alpha",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:alpha_bool_blend",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:alpha_bool_enabled",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:alpha_curve_name",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:alpha_input_type",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:alpha_scale_bias",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:alpha_scale_bias_clamp",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:component_pose",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:AnimNode_ResetRoot",
+      "target": "property:lod_threshold",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionGetLocal",
+      "target": "property:desc",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionGetLocal",
+      "target": "property:local_name",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionGetLocal",
+      "target": "property:material_expression_editor_x",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MaterialExpressionGetLocal",
+      "target": "property:material_expression_editor_y",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:PredictProjectilePathPointData",
+      "target": "property:location",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:PredictProjectilePathPointData",
+      "target": "property:time",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:PredictProjectilePathPointData",
+      "target": "property:velocity",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:poiStyle_label",
+      "target": "property:bg_image_url",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:poiStyle_label",
+      "target": "property:bg_offset",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:poiStyle_label",
+      "target": "property:bg_size",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:poiStyle_label",
+      "target": "property:content",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:RigVMFunction_MathVectorMakeBezierFourPoint",
+      "target": "property:bezier",
+      "type": "HAS_PROPERTY"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:update_global_variable_values",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:remove_outbound_edges",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:remove_nodes",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:remove_node",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:remove_labeled_edge",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:remove_inbound_edges",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:remove_all_outbound_edges",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:remove_all_inbound_edges",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:get_variables",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:get_outputs",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:get_output_node",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:get_inputs",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:get_input_node",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:delete_member",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:create_node_by_class",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:create_flattened_graph",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:add_variable",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:add_output",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:add_labeled_edge",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:MovieGraphConfig",
+      "target": "method:add_input",
+      "type": "HAS_METHOD"
+    },
+    {
+      "source": "class:PoseSearchInterruptMode",
+      "target": "enum_value:DO_NOT_INTERRUPT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:PoseSearchInterruptMode",
+      "target": "enum_value:INTERRUPT_ON_DATABASE_CHANGE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:PoseSearchInterruptMode",
+      "target": "enum_value:INTERRUPT_ON_DATABASE_CHANGE_AND_INVALIDATE_CONTINUING_POSE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:PoseSearchInterruptMode",
+      "target": "enum_value:FORCE_INTERRUPT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:PoseSearchInterruptMode",
+      "target": "enum_value:FORCE_INTERRUPT_AND_INVALIDATE_CONTINUING_POSE",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:GeometryScriptSearchOutcomePins",
+      "target": "enum_value:FOUND",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:GeometryScriptSearchOutcomePins",
+      "target": "enum_value:NOT_FOUND",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:TOP_LEFT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:TOP_CENTER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:TOP_RIGHT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:CENTER_LEFT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:CENTER_CENTER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:CENTER_RIGHT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:BOTTOM_LEFT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:BOTTOM_CENTER",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:BOTTOM_RIGHT",
+      "type": "HAS_ENUM_VALUE"
+    },
+    {
+      "source": "class:SpritePivotMode",
+      "target": "enum_value:CUSTOM",
+      "type": "HAS_ENUM_VALUE"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he:module_plugin_class_1",
+      "nodes": ["plugin:PoseSearch", "module:PoseSearch", "class:PoseSearchInterruptMode"],
+      "metadata": {
+        "description": "PoseSearch plugin contains PoseSearch module which defines PoseSearchInterruptMode enum"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_2",
+      "nodes": ["plugin:AesWorld", "module:EarthMisc", "class:EarthTerrainSettings"],
+      "metadata": {
+        "description": "AesWorld plugin contains EarthMisc module which defines EarthTerrainSettings class"
+      }
+    },
+    {
+      "id": "he:module_class_1",
+      "nodes": ["module:Engine", "class:MaterialExpressionBumpOffset", "class:MaterialExpressionGetLocal", "class:PredictProjectilePathPointData"],
+      "metadata": {
+        "description": "Engine module defines multiple classes including material expressions and gameplay utilities"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_3",
+      "nodes": ["plugin:ControlRig", "module:ControlRig", "class:RigDispatch_GetMetadata", "class:RigControlElementCustomization"],
+      "metadata": {
+        "description": "ControlRig plugin contains ControlRig module which defines rig dispatch and control elements"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_4",
+      "nodes": ["plugin:IKRig", "module:IKRigDeveloper", "class:AnimGraphNode_RetargetPoseFromMesh"],
+      "metadata": {
+        "description": "IKRig plugin contains IKRigDeveloper module which defines animation graph nodes"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_5",
+      "nodes": ["plugin:SmartObjects", "module:SmartObjectsModule", "class:SmartObjectTestRenderingComponent"],
+      "metadata": {
+        "description": "SmartObjects plugin contains SmartObjectsModule which defines smart object components"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_6",
+      "nodes": ["plugin:AesEditor", "module:UrbanEd", "class:UrbanFloatRampCurve"],
+      "metadata": {
+        "description": "AesEditor plugin contains UrbanEd module which defines urban editor utilities"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_7",
+      "nodes": ["plugin:GeometryScripting", "module:GeometryScriptingCore", "class:GeometryScriptSearchOutcomePins"],
+      "metadata": {
+        "description": "GeometryScripting plugin contains GeometryScriptingCore module which defines geometry scripting types"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_8",
+      "nodes": ["plugin:CesiumForUnreal", "module:CesiumRuntime", "class:CesiumPropertyTexture"],
+      "metadata": {
+        "description": "CesiumForUnreal plugin contains CesiumRuntime module which defines Cesium property wrappers"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_9",
+      "nodes": ["plugin:MovieRenderPipeline", "module:MovieRenderPipelineCore", "class:MovieGraphConfig"],
+      "metadata": {
+        "description": "MovieRenderPipeline plugin contains MovieRenderPipelineCore module which defines movie graph configuration"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_10",
+      "nodes": ["plugin:Paper2D", "module:Paper2D", "class:SpritePivotMode"],
+      "metadata": {
+        "description": "Paper2D plugin contains Paper2D module which defines sprite-related enums"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_11",
+      "nodes": ["plugin:GameplayCameras", "module:GameplayCameras", "class:DoubleCameraVariable"],
+      "metadata": {
+        "description": "GameplayCameras plugin contains GameplayCameras module which defines camera variables"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_12",
+      "nodes": ["plugin:CoveringAPI", "module:CoveringAPIDefine", "class:poiStyle_label"],
+      "metadata": {
+        "description": "CoveringAPI plugin contains CoveringAPIDefine module which defines POI style structures"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_13",
+      "nodes": ["plugin:RigVM", "module:RigVM", "class:RigVMFunction_MathVectorMakeBezierFourPoint"],
+      "metadata": {
+        "description": "RigVM plugin contains RigVM module which defines rig VM math functions"
+      }
+    },
+    {
+      "id": "he:module_plugin_class_14",
+      "nodes": ["plugin:WdpCommon", "module:WdpFileDownloader", "class:OnDownloadCompleted"],
+      "metadata": {
+        "description": "WdpCommon plugin contains WdpFileDownloader module which defines download delegates"
+      }
+    },
+    {
+      "id": "he:class_properties_earth",
+      "nodes": ["class:EarthTerrainSettings", "property:build_collision", "property:collision_color", "property:collision_vertex_num", "property:max_level", "property:is_visible"],
+      "metadata": {
+        "description": "EarthTerrainSettings contains properties for terrain collision, visibility, and LOD control"
+      }
+    },
+    {
+      "id": "he:class_properties_material",
+      "nodes": ["class:MaterialExpressionBumpOffset", "property:height_ratio", "property:reference_plane", "property:const_coordinate"],
+      "metadata": {
+        "description": "MaterialExpressionBumpOffset contains properties for bump offset material effects"
+      }
+    },
+    {
+      "id": "he:class_methods_moviegraph",
+      "nodes": ["class:MovieGraphConfig", "method:add_variable", "method:add_input", "method:add_output", "method:create_node_by_class", "method:get_variables", "method:get_inputs", "method:get_outputs"],
+      "metadata": {
+        "description": "MovieGraphConfig provides methods for managing graph variables, inputs, outputs, and nodes"
+      }
+    },
+    {
+      "id": "he:class_methods_edges",
+      "nodes": ["class:MovieGraphConfig", "method:add_labeled_edge", "method:remove_labeled_edge", "method:remove_inbound_edges", "method:remove_outbound_edges"],
+      "metadata": {
+        "description": "MovieGraphConfig provides methods for managing graph edge connections"
+      }
+    },
+    {
+      "id": "he:enum_values_interrupt",
+      "nodes": ["class:PoseSearchInterruptMode", "enum_value:DO_NOT_INTERRUPT", "enum_value:INTERRUPT_ON_DATABASE_CHANGE", "enum_value:FORCE_INTERRUPT"],
+      "metadata": {
+        "description": "PoseSearchInterruptMode defines interrupt behavior for pose search databases"
+      }
+    },
+    {
+      "id": "he:enum_values_pivot",
+      "nodes": ["class:SpritePivotMode", "enum_value:TOP_LEFT", "enum_value:TOP_CENTER", "enum_value:CENTER_CENTER", "enum_value:BOTTOM_RIGHT", "enum_value:CUSTOM"],
+      "metadata": {
+        "description": "SpritePivotMode defines pivot point positions for 2D sprites"
+      }
+    },
+    {
+      "id": "he:class_properties_projectile",
+      "nodes": ["class:PredictProjectilePathPointData", "property:location", "property:velocity", "property:time"],
+      "metadata": {
+        "description": "PredictProjectilePathPointData tracks projectile trajectory with location, velocity, and time"
+      }
+    },
+    {
+      "id": "he:class_properties_anim",
+      "nodes": ["class:AnimNode_ResetRoot", "property:alpha", "property:alpha_input_type", "property:component_pose", "property:lod_threshold"],
+      "metadata": {
+        "description": "AnimNode_ResetRoot contains properties for skeletal control and LOD management"
+      }
+    },
+    {
+      "id": "he:class_properties_livelink",
+      "nodes": ["class:LiveLinkSubjectSettings", "property:frame_rate", "property:interpolation_processor", "property:pre_processors", "property:translators"],
+      "metadata": {
+        "description": "LiveLinkSubjectSettings contains properties for frame processing and data translation"
+      }
+    },
+    {
+      "id": "he:deprecated_class",
+      "nodes": ["class:VimInstance"],
+      "metadata": {
+        "description": "VimInstance is deprecated and was renamed to AnimInstance"
+      }
+    }
+  ]
+}

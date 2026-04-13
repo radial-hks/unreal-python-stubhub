@@ -1,0 +1,1661 @@
+{
+  "nodes": [
+    {
+      "id": "class_StringTableLibrary",
+      "type": "class",
+      "label": "StringTableLibrary",
+      "description": "Kismet String Table Library",
+      "parent_class": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "class_PropertyEditorTestSubStruct",
+      "type": "class",
+      "label": "PropertyEditorTestSubStruct",
+      "description": "Property Editor Test Sub Struct",
+      "parent_class": "StructBase"
+    },
+    {
+      "id": "class_RigUnit_Subtract_VectorVector",
+      "type": "class",
+      "label": "RigUnit_Subtract_VectorVector",
+      "description": "Rig Unit Subtract Vector Vector",
+      "parent_class": "RigUnit_BinaryVectorOp"
+    },
+    {
+      "id": "class_AnimGraphNode_BlendSpaceEvaluator",
+      "type": "class",
+      "label": "AnimGraphNode_BlendSpaceEvaluator",
+      "description": "Anim Graph Node Blend Space Evaluator",
+      "parent_class": "AnimGraphNode_BlendSpaceBase"
+    },
+    {
+      "id": "class_StateTreeRunStatusChanged",
+      "type": "class",
+      "label": "StateTreeRunStatusChanged",
+      "description": "State Tree Run Status Changed Delegate Signature",
+      "parent_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "class_MovieSceneBoolSection",
+      "type": "class",
+      "label": "MovieSceneBoolSection",
+      "description": "A single bool section",
+      "parent_class": "MovieSceneSection"
+    },
+    {
+      "id": "class_PCGWorldRayHitSettings",
+      "type": "class",
+      "label": "PCGWorldRayHitSettings",
+      "description": "PCGWorld Ray Hit Settings",
+      "parent_class": "PCGSettings"
+    },
+    {
+      "id": "class_DescendantScrollDestination",
+      "type": "enum",
+      "label": "DescendantScrollDestination",
+      "description": "Where to scroll the descendant to",
+      "parent_class": "EnumBase"
+    },
+    {
+      "id": "class_InterchangeMaterialXBSDF",
+      "type": "enum",
+      "label": "InterchangeMaterialXBSDF",
+      "description": "Data type representing a Bidirectional Scattering Distribution Function",
+      "parent_class": "EnumBase"
+    },
+    {
+      "id": "class_RigVMFunction_MathBoolMake",
+      "type": "class",
+      "label": "RigVMFunction_MathBoolMake",
+      "description": "A boolean constant",
+      "parent_class": "RigVMFunction_MathBoolBase"
+    },
+    {
+      "id": "class_GroomCacheImportOptions",
+      "type": "class",
+      "label": "GroomCacheImportOptions",
+      "description": "Groom Cache Import Options",
+      "parent_class": "Object"
+    },
+    {
+      "id": "class_InterchangeSceneImportAssetFactoryNode",
+      "type": "class",
+      "label": "InterchangeSceneImportAssetFactoryNode",
+      "description": "Interchange Scene Import Asset Factory Node",
+      "parent_class": "InterchangeFactoryBaseNode"
+    },
+    {
+      "id": "class_GeometryScript_MeshSampling",
+      "type": "class",
+      "label": "GeometryScript_MeshSampling",
+      "description": "Geometry Script Library Mesh Sampling Functions",
+      "parent_class": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "class_MVVMViewModelContext",
+      "type": "class",
+      "label": "MVVMViewModelContext",
+      "description": "MVVMView Model Context",
+      "parent_class": "StructBase"
+    },
+    {
+      "id": "class_WdpLogAPI",
+      "type": "class",
+      "label": "WdpLogAPI",
+      "description": "Wdp Log API",
+      "parent_class": "StandardApiClassBase"
+    },
+    {
+      "id": "class_MoviePipelineInProcessExecutor",
+      "type": "class",
+      "label": "MoviePipelineInProcessExecutor",
+      "description": "This executor implementation can process an array of movie pipelines and run them inside the currently running process",
+      "parent_class": "MoviePipelineLinearExecutorBase"
+    },
+    {
+      "id": "class_RigVMFunction_MathFloatToInt",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatToInt",
+      "description": "Returns the float cast to an int (this uses floor)",
+      "parent_class": "RigVMFunction_MathFloatBase"
+    },
+    {
+      "id": "class_MassReplicationParameters",
+      "type": "class",
+      "label": "MassReplicationParameters",
+      "description": "Mass Replication Parameters",
+      "parent_class": "MassConstSharedFragment"
+    },
+    {
+      "id": "class_CheatManagerExtension",
+      "type": "class",
+      "label": "CheatManagerExtension",
+      "description": "A cheat manager extension can extend the main cheat manager in a modular way",
+      "parent_class": "Object"
+    },
+    {
+      "id": "class_TakeRecorderMode",
+      "type": "enum",
+      "label": "TakeRecorderMode",
+      "description": "ETake Recorder Mode",
+      "parent_class": "EnumBase"
+    },
+    {
+      "id": "class_TilesetSource",
+      "type": "enum",
+      "label": "TilesetSource",
+      "description": "ETileset Source",
+      "parent_class": "EnumBase"
+    },
+    {
+      "id": "class_DecalBlendMode",
+      "type": "enum",
+      "label": "DecalBlendMode",
+      "description": "Defines how the GBuffer channels are getting manipulated by a decal material pass",
+      "parent_class": "EnumBase"
+    },
+    {
+      "id": "method_is_registered_table_id",
+      "type": "method",
+      "label": "is_registered_table_id",
+      "description": "Returns true if the given table ID corresponds to a registered string table"
+    },
+    {
+      "id": "method_is_registered_table_entry",
+      "type": "method",
+      "label": "is_registered_table_entry",
+      "description": "Returns true if the given table ID corresponds to a registered string table, and that table has"
+    },
+    {
+      "id": "method_get_table_namespace",
+      "type": "method",
+      "label": "get_table_namespace",
+      "description": "Returns the namespace of the given string table"
+    },
+    {
+      "id": "method_get_table_entry_source_string",
+      "type": "method",
+      "label": "get_table_entry_source_string",
+      "description": "Returns the source string of the given string table entry (or an empty string)"
+    },
+    {
+      "id": "method_get_table_entry_meta_data",
+      "type": "method",
+      "label": "get_table_entry_meta_data",
+      "description": "Returns the specified meta-data of the given string table entry (or an empty string)"
+    },
+    {
+      "id": "method_get_registered_string_tables",
+      "type": "method",
+      "label": "get_registered_string_tables",
+      "description": "Returns an array of all registered string table IDs"
+    },
+    {
+      "id": "method_get_meta_data_ids_from_string_table_entry",
+      "type": "method",
+      "label": "get_meta_data_ids_from_string_table_entry",
+      "description": "Returns an array of all meta-data IDs within the given string table entry"
+    },
+    {
+      "id": "method_get_keys_from_string_table",
+      "type": "method",
+      "label": "get_keys_from_string_table",
+      "description": "Returns an array of all keys within the given string table"
+    },
+    {
+      "id": "method_compute_vertex_weighted_point_sampling",
+      "type": "method",
+      "label": "compute_vertex_weighted_point_sampling",
+      "description": "Compute a set of sample points lying on the surface of TargetMesh based on the provided sampling Options and NonUniformOptions"
+    },
+    {
+      "id": "method_compute_render_capture_point_sampling",
+      "type": "method",
+      "label": "compute_render_capture_point_sampling",
+      "description": "Compute oriented sample points on the visible surfaces of the given Actors"
+    },
+    {
+      "id": "method_compute_render_capture_cameras_for_box",
+      "type": "method",
+      "label": "compute_render_capture_cameras_for_box",
+      "description": "Compute a set of Render Capture Cameras to capture a scene within the given Box"
+    },
+    {
+      "id": "method_compute_point_sampling",
+      "type": "method",
+      "label": "compute_point_sampling",
+      "description": "Compute a set of sample points lying on the surface of TargetMesh based on the provided sampling Options"
+    },
+    {
+      "id": "method_compute_non_uniform_point_sampling",
+      "type": "method",
+      "label": "compute_non_uniform_point_sampling",
+      "description": "Compute a set of sample points lying on the surface of TargetMesh based on the provided sampling Options and NonUniformOptions"
+    },
+    {
+      "id": "method_get_debug_logs",
+      "type": "method",
+      "label": "get_debug_logs",
+      "description": "Get Debug Logs"
+    },
+    {
+      "id": "method_removed_from_cheat_manager",
+      "type": "method",
+      "label": "removed_from_cheat_manager",
+      "description": "Removed from Cheat Manager"
+    },
+    {
+      "id": "method_get_player_controller",
+      "type": "method",
+      "label": "get_player_controller",
+      "description": "Get Player Controller"
+    },
+    {
+      "id": "method_added_to_cheat_manager",
+      "type": "method",
+      "label": "added_to_cheat_manager",
+      "description": "Added to Cheat Manager"
+    },
+    {
+      "id": "enum_value_INTO_VIEW",
+      "type": "enum_value",
+      "label": "INTO_VIEW",
+      "value": 0,
+      "description": "Scroll the widget into view using the least amount of energy possible"
+    },
+    {
+      "id": "enum_value_TOP_OR_LEFT",
+      "type": "enum_value",
+      "label": "TOP_OR_LEFT",
+      "value": 1,
+      "description": "Always scroll the widget so it appears at the top/Left of the scrollable area"
+    },
+    {
+      "id": "enum_value_CENTER",
+      "type": "enum_value",
+      "label": "CENTER",
+      "value": 2,
+      "description": "Always scroll the widget so it appears at the center of the scrollable area, if possible"
+    },
+    {
+      "id": "enum_value_BOTTOM_OR_RIGHT",
+      "type": "enum_value",
+      "label": "BOTTOM_OR_RIGHT",
+      "value": 3,
+      "description": "Always scroll the widget so it appears at the bottom/Right of the scrollable area"
+    },
+    {
+      "id": "enum_value_OREN_NAYAR_DIFFUSE",
+      "type": "enum_value",
+      "label": "OREN_NAYAR_DIFFUSE",
+      "value": 0,
+      "description": "A BSDF node for diffuse reflections"
+    },
+    {
+      "id": "enum_value_BURLEY_DIFFUSE",
+      "type": "enum_value",
+      "label": "BURLEY_DIFFUSE",
+      "value": 1,
+      "description": "A BSDF node for Burley diffuse reflections"
+    },
+    {
+      "id": "enum_value_TRANSLUCENT",
+      "type": "enum_value",
+      "label": "TRANSLUCENT",
+      "value": 2,
+      "description": "A BSDF node for pure diffuse transmission"
+    },
+    {
+      "id": "enum_value_DIELECTRIC",
+      "type": "enum_value",
+      "label": "DIELECTRIC",
+      "value": 3,
+      "description": "A reflection/transmission BSDF node based on a microfacet model and a Fresnel curve for dielectrics"
+    },
+    {
+      "id": "enum_value_CONDUCTOR",
+      "type": "enum_value",
+      "label": "CONDUCTOR",
+      "value": 4,
+      "description": "A reflection BSDF node based on a microfacet model and a Fresnel curve for conductors/metals"
+    },
+    {
+      "id": "enum_value_GENERALIZED_SCHLICK",
+      "type": "enum_value",
+      "label": "GENERALIZED_SCHLICK",
+      "value": 5,
+      "description": "A reflection/transmission BSDF node based on a microfacet model and a generalized Schlick Fresnel curve"
+    },
+    {
+      "id": "enum_value_SUBSURFACE",
+      "type": "enum_value",
+      "label": "SUBSURFACE",
+      "value": 6,
+      "description": "A subsurface scattering BSDF for true subsurface scattering"
+    },
+    {
+      "id": "enum_value_SHEEN",
+      "type": "enum_value",
+      "label": "SHEEN",
+      "value": 7,
+      "description": "A microfacet BSDF for the back-scattering properties of cloth-like materials"
+    },
+    {
+      "id": "enum_value_THIN_FILM",
+      "type": "enum_value",
+      "label": "THIN_FILM",
+      "value": 8,
+      "description": "Adds an iridescent thin film layer over a microfacet base BSDF"
+    },
+    {
+      "id": "enum_value_RECORD_NEW_SEQUENCE",
+      "type": "enum_value",
+      "label": "RECORD_NEW_SEQUENCE",
+      "value": 0,
+      "description": "Record into a new sequence"
+    },
+    {
+      "id": "enum_value_RECORD_INTO_SEQUENCE",
+      "type": "enum_value",
+      "label": "RECORD_INTO_SEQUENCE",
+      "value": 1,
+      "description": "Record into an existing sequence"
+    },
+    {
+      "id": "enum_value_FROM_CESIUM_ION",
+      "type": "enum_value",
+      "label": "FROM_CESIUM_ION",
+      "value": 0,
+      "description": "The tileset will be loaded from Cesium Ion using the provided IonAssetID and IonAccessToken"
+    },
+    {
+      "id": "enum_value_FROM_URL",
+      "type": "enum_value",
+      "label": "FROM_URL",
+      "value": 1,
+      "description": "The tileset will be loaded from the specified Url"
+    },
+    {
+      "id": "enum_value_FROM_ELLIPSOID",
+      "type": "enum_value",
+      "label": "FROM_ELLIPSOID",
+      "value": 2,
+      "description": "The tileset will be loaded from the georeference ellipsoid"
+    },
+    {
+      "id": "enum_value_DBM_TRANSLUCENT",
+      "type": "enum_value",
+      "label": "DBM_TRANSLUCENT",
+      "value": 0,
+      "description": "Blend full material, updating the GBuffer, does not work for baked lighting"
+    },
+    {
+      "id": "enum_value_DBM_STAIN",
+      "type": "enum_value",
+      "label": "DBM_STAIN",
+      "value": 1,
+      "description": "Modulate BaseColor, blend rest, updating the GBuffer, does not work for baked lighting"
+    },
+    {
+      "id": "enum_value_DBM_NORMAL",
+      "type": "enum_value",
+      "label": "DBM_NORMAL",
+      "value": 2,
+      "description": "Only blend normal, updating the GBuffer, does not work for baked lighting"
+    },
+    {
+      "id": "enum_value_DBM_EMISSIVE",
+      "type": "enum_value",
+      "label": "DBM_EMISSIVE",
+      "value": 3,
+      "description": "Additive emissive only"
+    },
+    {
+      "id": "enum_value_DBM_D_BUFFER_COLOR_NORMAL_ROUGHNESS",
+      "type": "enum_value",
+      "label": "DBM_D_BUFFER_COLOR_NORMAL_ROUGHNESS",
+      "value": 4,
+      "description": "Put into DBuffer to work for baked lighting as well"
+    },
+    {
+      "id": "enum_value_DBM_D_BUFFER_COLOR",
+      "type": "enum_value",
+      "label": "DBM_D_BUFFER_COLOR",
+      "value": 5,
+      "description": "Put into DBuffer to work for baked lighting as well"
+    },
+    {
+      "id": "enum_value_DBM_D_BUFFER_COLOR_NORMAL",
+      "type": "enum_value",
+      "label": "DBM_D_BUFFER_COLOR_NORMAL",
+      "value": 6,
+      "description": "Put into DBuffer to work for baked lighting as well"
+    },
+    {
+      "id": "enum_value_DBM_D_BUFFER_COLOR_ROUGHNESS",
+      "type": "enum_value",
+      "label": "DBM_D_BUFFER_COLOR_ROUGHNESS",
+      "value": 7,
+      "description": "Put into DBuffer to work for baked lighting as well"
+    },
+    {
+      "id": "enum_value_DBM_D_BUFFER_NORMAL",
+      "type": "enum_value",
+      "label": "DBM_D_BUFFER_NORMAL",
+      "value": 8,
+      "description": "Put into DBuffer to work for baked lighting as well"
+    },
+    {
+      "id": "enum_value_DBM_D_BUFFER_NORMAL_ROUGHNESS",
+      "type": "enum_value",
+      "label": "DBM_D_BUFFER_NORMAL_ROUGHNESS",
+      "value": 9,
+      "description": "Put into DBuffer to work for baked lighting as well"
+    },
+    {
+      "id": "enum_value_DBM_D_BUFFER_ROUGHNESS",
+      "type": "enum_value",
+      "label": "DBM_D_BUFFER_ROUGHNESS",
+      "value": 10,
+      "description": "Put into DBuffer to work for baked lighting as well"
+    },
+    {
+      "id": "enum_value_DBM_VOLUMETRIC_DISTANCE_FUNCTION",
+      "type": "enum_value",
+      "label": "DBM_VOLUMETRIC_DISTANCE_FUNCTION",
+      "value": 14,
+      "description": "Output signed distance in Opacity depending on LightVector"
+    },
+    {
+      "id": "enum_value_DBM_ALPHA_COMPOSITE",
+      "type": "enum_value",
+      "label": "DBM_ALPHA_COMPOSITE",
+      "value": 15,
+      "description": "Blend with existing scene color. Decal color is already pre-multiplied by alpha"
+    },
+    {
+      "id": "enum_value_DBM_AMBIENT_OCCLUSION",
+      "type": "enum_value",
+      "label": "DBM_AMBIENT_OCCLUSION",
+      "value": 16,
+      "description": "Ambient occlusion"
+    },
+    {
+      "id": "module_Engine",
+      "type": "module",
+      "label": "Engine"
+    },
+    {
+      "id": "module_UnrealEd",
+      "type": "module",
+      "label": "UnrealEd"
+    },
+    {
+      "id": "module_AnimGraph",
+      "type": "module",
+      "label": "AnimGraph"
+    },
+    {
+      "id": "module_MovieScene",
+      "type": "module",
+      "label": "MovieScene"
+    },
+    {
+      "id": "module_Slate",
+      "type": "module",
+      "label": "Slate"
+    },
+    {
+      "id": "module_RigVM",
+      "type": "module",
+      "label": "RigVM"
+    },
+    {
+      "id": "module_ControlRig",
+      "type": "module",
+      "label": "ControlRig"
+    },
+    {
+      "id": "module_HairStrandsCore",
+      "type": "module",
+      "label": "HairStrandsCore"
+    },
+    {
+      "id": "module_GeometryScriptingCore",
+      "type": "module",
+      "label": "GeometryScriptingCore"
+    },
+    {
+      "id": "module_ModelViewViewModel",
+      "type": "module",
+      "label": "ModelViewViewModel"
+    },
+    {
+      "id": "module_ApplicationAPI",
+      "type": "module",
+      "label": "ApplicationAPI"
+    },
+    {
+      "id": "module_MovieRenderPipelineCore",
+      "type": "module",
+      "label": "MovieRenderPipelineCore"
+    },
+    {
+      "id": "module_MassReplication",
+      "type": "module",
+      "label": "MassReplication"
+    },
+    {
+      "id": "module_TakeRecorder",
+      "type": "module",
+      "label": "TakeRecorder"
+    },
+    {
+      "id": "module_CesiumRuntime",
+      "type": "module",
+      "label": "CesiumRuntime"
+    },
+    {
+      "id": "plugin_GameplayStateTree",
+      "type": "plugin",
+      "label": "GameplayStateTree"
+    },
+    {
+      "id": "plugin_PCG",
+      "type": "plugin",
+      "label": "PCG"
+    },
+    {
+      "id": "plugin_Interchange",
+      "type": "plugin",
+      "label": "Interchange"
+    },
+    {
+      "id": "plugin_RigVM",
+      "type": "plugin",
+      "label": "RigVM"
+    },
+    {
+      "id": "plugin_ControlRig",
+      "type": "plugin",
+      "label": "ControlRig"
+    },
+    {
+      "id": "plugin_HairStrands",
+      "type": "plugin",
+      "label": "HairStrands"
+    },
+    {
+      "id": "plugin_GeometryScripting",
+      "type": "plugin",
+      "label": "GeometryScripting"
+    },
+    {
+      "id": "plugin_ModelViewViewModel",
+      "type": "plugin",
+      "label": "ModelViewViewModel"
+    },
+    {
+      "id": "plugin_WdpRuntimeAPI",
+      "type": "plugin",
+      "label": "WdpRuntimeAPI"
+    },
+    {
+      "id": "plugin_MovieRenderPipeline",
+      "type": "plugin",
+      "label": "MovieRenderPipeline"
+    },
+    {
+      "id": "plugin_MassGameplay",
+      "type": "plugin",
+      "label": "MassGameplay"
+    },
+    {
+      "id": "plugin_Takes",
+      "type": "plugin",
+      "label": "Takes"
+    },
+    {
+      "id": "plugin_CesiumForUnreal",
+      "type": "plugin",
+      "label": "CesiumForUnreal"
+    },
+    {
+      "id": "property_customized_struct_inside_uncustomized_struct",
+      "type": "property",
+      "label": "customized_struct_inside_uncustomized_struct",
+      "property_type": "LinearColor"
+    },
+    {
+      "id": "property_first_property",
+      "type": "property",
+      "label": "first_property",
+      "property_type": "int32"
+    },
+    {
+      "id": "property_second_property",
+      "type": "property",
+      "label": "second_property",
+      "property_type": "int32"
+    },
+    {
+      "id": "property_argument0",
+      "type": "property",
+      "label": "argument0",
+      "property_type": "Vector"
+    },
+    {
+      "id": "property_argument1",
+      "type": "property",
+      "label": "argument1",
+      "property_type": "Vector"
+    },
+    {
+      "id": "property_result",
+      "type": "property",
+      "label": "result",
+      "property_type": "Vector"
+    },
+    {
+      "id": "property_become_relevant_function",
+      "type": "property",
+      "label": "become_relevant_function",
+      "property_type": "MemberReference"
+    },
+    {
+      "id": "property_binding",
+      "type": "property",
+      "label": "binding",
+      "property_type": "AnimGraphNodeBinding"
+    },
+    {
+      "id": "property_node",
+      "type": "property",
+      "label": "node",
+      "property_type": "AnimNode_BlendSpaceEvaluator"
+    },
+    {
+      "id": "property_tag",
+      "type": "property",
+      "label": "tag",
+      "property_type": "Name"
+    },
+    {
+      "id": "property_color_tint",
+      "type": "property",
+      "label": "color_tint",
+      "property_type": "Color"
+    },
+    {
+      "id": "property_condition_container",
+      "type": "property",
+      "label": "condition_container",
+      "property_type": "MovieSceneConditionContainer"
+    },
+    {
+      "id": "property_easing",
+      "type": "property",
+      "label": "easing",
+      "property_type": "MovieSceneEasingSettings"
+    },
+    {
+      "id": "property_eval_options",
+      "type": "property",
+      "label": "eval_options",
+      "property_type": "MovieSceneSectionEvalOptions"
+    },
+    {
+      "id": "property_is_active",
+      "type": "property",
+      "label": "is_active",
+      "property_type": "bool"
+    },
+    {
+      "id": "property_is_locked",
+      "type": "property",
+      "label": "is_locked",
+      "property_type": "bool"
+    },
+    {
+      "id": "property_query_params",
+      "type": "property",
+      "label": "query_params",
+      "property_type": "PCGWorldRayHitQueryParams"
+    },
+    {
+      "id": "property_break_debugger",
+      "type": "property",
+      "label": "break_debugger",
+      "property_type": "bool"
+    },
+    {
+      "id": "property_debug",
+      "type": "property",
+      "label": "debug",
+      "property_type": "bool"
+    },
+    {
+      "id": "property_enabled",
+      "type": "property",
+      "label": "enabled",
+      "property_type": "bool"
+    },
+    {
+      "id": "property_execute_on_gpu",
+      "type": "property",
+      "label": "execute_on_gpu",
+      "property_type": "bool"
+    },
+    {
+      "id": "property_value_bool",
+      "type": "property",
+      "label": "value",
+      "property_type": "bool"
+    },
+    {
+      "id": "property_import_settings",
+      "type": "property",
+      "label": "import_settings",
+      "property_type": "GroomCacheImportSettings"
+    },
+    {
+      "id": "property_context_class",
+      "type": "property",
+      "label": "context_class",
+      "property_type": "type(Class)"
+    },
+    {
+      "id": "property_context_name",
+      "type": "property",
+      "label": "context_name",
+      "property_type": "Name"
+    },
+    {
+      "id": "property_debug_widget_class",
+      "type": "property",
+      "label": "debug_widget_class",
+      "property_type": "type(Class)"
+    },
+    {
+      "id": "property_target_pipeline_class",
+      "type": "property",
+      "label": "target_pipeline_class",
+      "property_type": "type(Class)"
+    },
+    {
+      "id": "property_use_current_level",
+      "type": "property",
+      "label": "use_current_level",
+      "property_type": "bool"
+    },
+    {
+      "id": "property_user_data",
+      "type": "property",
+      "label": "user_data",
+      "property_type": "str"
+    },
+    {
+      "id": "property_bubble_info_class",
+      "type": "property",
+      "label": "bubble_info_class",
+      "property_type": "type(Class)"
+    },
+    {
+      "id": "property_lod_distance",
+      "type": "property",
+      "label": "lod_distance",
+      "property_type": "float"
+    },
+    {
+      "id": "property_lod_max_count",
+      "type": "property",
+      "label": "lod_max_count",
+      "property_type": "int32"
+    },
+    {
+      "id": "property_replicator_class",
+      "type": "property",
+      "label": "replicator_class",
+      "property_type": "type(Class)"
+    },
+    {
+      "id": "property_update_interval",
+      "type": "property",
+      "label": "update_interval",
+      "property_type": "float"
+    },
+    {
+      "id": "property_value_float",
+      "type": "property",
+      "label": "value",
+      "property_type": "float"
+    },
+    {
+      "id": "property_result_int",
+      "type": "property",
+      "label": "result",
+      "property_type": "int32"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_StringTableLibrary_contains_method_is_registered_table_id",
+      "source": "class_StringTableLibrary",
+      "target": "method_is_registered_table_id",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_StringTableLibrary_contains_method_is_registered_table_entry",
+      "source": "class_StringTableLibrary",
+      "target": "method_is_registered_table_entry",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_StringTableLibrary_contains_method_get_table_namespace",
+      "source": "class_StringTableLibrary",
+      "target": "method_get_table_namespace",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_StringTableLibrary_contains_method_get_table_entry_source_string",
+      "source": "class_StringTableLibrary",
+      "target": "method_get_table_entry_source_string",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_StringTableLibrary_contains_method_get_table_entry_meta_data",
+      "source": "class_StringTableLibrary",
+      "target": "method_get_table_entry_meta_data",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_StringTableLibrary_contains_method_get_registered_string_tables",
+      "source": "class_StringTableLibrary",
+      "target": "method_get_registered_string_tables",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_StringTableLibrary_contains_method_get_meta_data_ids_from_string_table_entry",
+      "source": "class_StringTableLibrary",
+      "target": "method_get_meta_data_ids_from_string_table_entry",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_StringTableLibrary_contains_method_get_keys_from_string_table",
+      "source": "class_StringTableLibrary",
+      "target": "method_get_keys_from_string_table",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_StringTableLibrary_defined_in_module_Engine",
+      "source": "class_StringTableLibrary",
+      "target": "module_Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "id": "edge_PropertyEditorTestSubStruct_defined_in_module_UnrealEd",
+      "source": "class_PropertyEditorTestSubStruct",
+      "target": "module_UnrealEd",
+      "relation": "defined_in_module"
+    },
+    {
+      "id": "edge_PropertyEditorTestSubStruct_contains_property_customized_struct_inside_uncustomized_struct",
+      "source": "class_PropertyEditorTestSubStruct",
+      "target": "property_customized_struct_inside_uncustomized_struct",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_PropertyEditorTestSubStruct_contains_property_first_property",
+      "source": "class_PropertyEditorTestSubStruct",
+      "target": "property_first_property",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_PropertyEditorTestSubStruct_contains_property_second_property",
+      "source": "class_PropertyEditorTestSubStruct",
+      "target": "property_second_property",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_RigUnit_Subtract_VectorVector_defined_in_module_ControlRig",
+      "source": "class_RigUnit_Subtract_VectorVector",
+      "target": "module_ControlRig",
+      "relation": "defined_in_module"
+    },
+    {
+      "id": "edge_RigUnit_Subtract_VectorVector_defined_in_plugin_ControlRig",
+      "source": "class_RigUnit_Subtract_VectorVector",
+      "target": "plugin_ControlRig",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_RigUnit_Subtract_VectorVector_contains_property_argument0",
+      "source": "class_RigUnit_Subtract_VectorVector",
+      "target": "property_argument0",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_RigUnit_Subtract_VectorVector_contains_property_argument1",
+      "source": "class_RigUnit_Subtract_VectorVector",
+      "target": "property_argument1",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_RigUnit_Subtract_VectorVector_contains_property_result",
+      "source": "class_RigUnit_Subtract_VectorVector",
+      "target": "property_result",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_AnimGraphNode_BlendSpaceEvaluator_defined_in_module_AnimGraph",
+      "source": "class_AnimGraphNode_BlendSpaceEvaluator",
+      "target": "module_AnimGraph",
+      "relation": "defined_in_module"
+    },
+    {
+      "id": "edge_AnimGraphNode_BlendSpaceEvaluator_contains_property_become_relevant_function",
+      "source": "class_AnimGraphNode_BlendSpaceEvaluator",
+      "target": "property_become_relevant_function",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_AnimGraphNode_BlendSpaceEvaluator_contains_property_binding",
+      "source": "class_AnimGraphNode_BlendSpaceEvaluator",
+      "target": "property_binding",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_AnimGraphNode_BlendSpaceEvaluator_contains_property_node",
+      "source": "class_AnimGraphNode_BlendSpaceEvaluator",
+      "target": "property_node",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_AnimGraphNode_BlendSpaceEvaluator_contains_property_tag",
+      "source": "class_AnimGraphNode_BlendSpaceEvaluator",
+      "target": "property_tag",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_StateTreeRunStatusChanged_defined_in_plugin_GameplayStateTree",
+      "source": "class_StateTreeRunStatusChanged",
+      "target": "plugin_GameplayStateTree",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_MovieSceneBoolSection_defined_in_module_MovieScene",
+      "source": "class_MovieSceneBoolSection",
+      "target": "module_MovieScene",
+      "relation": "defined_in_module"
+    },
+    {
+      "id": "edge_MovieSceneBoolSection_contains_property_color_tint",
+      "source": "class_MovieSceneBoolSection",
+      "target": "property_color_tint",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MovieSceneBoolSection_contains_property_condition_container",
+      "source": "class_MovieSceneBoolSection",
+      "target": "property_condition_container",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MovieSceneBoolSection_contains_property_easing",
+      "source": "class_MovieSceneBoolSection",
+      "target": "property_easing",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MovieSceneBoolSection_contains_property_eval_options",
+      "source": "class_MovieSceneBoolSection",
+      "target": "property_eval_options",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MovieSceneBoolSection_contains_property_is_active",
+      "source": "class_MovieSceneBoolSection",
+      "target": "property_is_active",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MovieSceneBoolSection_contains_property_is_locked",
+      "source": "class_MovieSceneBoolSection",
+      "target": "property_is_locked",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_PCGWorldRayHitSettings_defined_in_plugin_PCG",
+      "source": "class_PCGWorldRayHitSettings",
+      "target": "plugin_PCG",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_PCGWorldRayHitSettings_contains_property_query_params",
+      "source": "class_PCGWorldRayHitSettings",
+      "target": "property_query_params",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_PCGWorldRayHitSettings_contains_property_break_debugger",
+      "source": "class_PCGWorldRayHitSettings",
+      "target": "property_break_debugger",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_PCGWorldRayHitSettings_contains_property_debug",
+      "source": "class_PCGWorldRayHitSettings",
+      "target": "property_debug",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_PCGWorldRayHitSettings_contains_property_enabled",
+      "source": "class_PCGWorldRayHitSettings",
+      "target": "property_enabled",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_PCGWorldRayHitSettings_contains_property_execute_on_gpu",
+      "source": "class_PCGWorldRayHitSettings",
+      "target": "property_execute_on_gpu",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_DescendantScrollDestination_defined_in_module_Slate",
+      "source": "class_DescendantScrollDestination",
+      "target": "module_Slate",
+      "relation": "defined_in_module"
+    },
+    {
+      "id": "edge_DescendantScrollDestination_has_enum_value_INTO_VIEW",
+      "source": "class_DescendantScrollDestination",
+      "target": "enum_value_INTO_VIEW",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DescendantScrollDestination_has_enum_value_TOP_OR_LEFT",
+      "source": "class_DescendantScrollDestination",
+      "target": "enum_value_TOP_OR_LEFT",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DescendantScrollDestination_has_enum_value_CENTER",
+      "source": "class_DescendantScrollDestination",
+      "target": "enum_value_CENTER",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DescendantScrollDestination_has_enum_value_BOTTOM_OR_RIGHT",
+      "source": "class_DescendantScrollDestination",
+      "target": "enum_value_BOTTOM_OR_RIGHT",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_defined_in_plugin_Interchange",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "plugin_Interchange",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_OREN_NAYAR_DIFFUSE",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_OREN_NAYAR_DIFFUSE",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_BURLEY_DIFFUSE",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_BURLEY_DIFFUSE",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_TRANSLUCENT",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_TRANSLUCENT",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_DIELECTRIC",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_DIELECTRIC",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_CONDUCTOR",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_CONDUCTOR",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_GENERALIZED_SCHLICK",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_GENERALIZED_SCHLICK",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_SUBSURFACE",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_SUBSURFACE",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_SHEEN",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_SHEEN",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_InterchangeMaterialXBSDF_has_enum_value_THIN_FILM",
+      "source": "class_InterchangeMaterialXBSDF",
+      "target": "enum_value_THIN_FILM",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_RigVMFunction_MathBoolMake_defined_in_plugin_RigVM",
+      "source": "class_RigVMFunction_MathBoolMake",
+      "target": "plugin_RigVM",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_RigVMFunction_MathBoolMake_contains_property_value_bool",
+      "source": "class_RigVMFunction_MathBoolMake",
+      "target": "property_value_bool",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_GroomCacheImportOptions_defined_in_plugin_HairStrands",
+      "source": "class_GroomCacheImportOptions",
+      "target": "plugin_HairStrands",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_GroomCacheImportOptions_contains_property_import_settings",
+      "source": "class_GroomCacheImportOptions",
+      "target": "property_import_settings",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_InterchangeSceneImportAssetFactoryNode_defined_in_plugin_Interchange",
+      "source": "class_InterchangeSceneImportAssetFactoryNode",
+      "target": "plugin_Interchange",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_GeometryScript_MeshSampling_defined_in_plugin_GeometryScripting",
+      "source": "class_GeometryScript_MeshSampling",
+      "target": "plugin_GeometryScripting",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_GeometryScript_MeshSampling_contains_method_compute_vertex_weighted_point_sampling",
+      "source": "class_GeometryScript_MeshSampling",
+      "target": "method_compute_vertex_weighted_point_sampling",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_GeometryScript_MeshSampling_contains_method_compute_render_capture_point_sampling",
+      "source": "class_GeometryScript_MeshSampling",
+      "target": "method_compute_render_capture_point_sampling",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_GeometryScript_MeshSampling_contains_method_compute_render_capture_cameras_for_box",
+      "source": "class_GeometryScript_MeshSampling",
+      "target": "method_compute_render_capture_cameras_for_box",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_GeometryScript_MeshSampling_contains_method_compute_point_sampling",
+      "source": "class_GeometryScript_MeshSampling",
+      "target": "method_compute_point_sampling",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_GeometryScript_MeshSampling_contains_method_compute_non_uniform_point_sampling",
+      "source": "class_GeometryScript_MeshSampling",
+      "target": "method_compute_non_uniform_point_sampling",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_MVVMViewModelContext_defined_in_plugin_ModelViewViewModel",
+      "source": "class_MVVMViewModelContext",
+      "target": "plugin_ModelViewViewModel",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_MVVMViewModelContext_contains_property_context_class",
+      "source": "class_MVVMViewModelContext",
+      "target": "property_context_class",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MVVMViewModelContext_contains_property_context_name",
+      "source": "class_MVVMViewModelContext",
+      "target": "property_context_name",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_WdpLogAPI_defined_in_plugin_WdpRuntimeAPI",
+      "source": "class_WdpLogAPI",
+      "target": "plugin_WdpRuntimeAPI",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_WdpLogAPI_contains_method_get_debug_logs",
+      "source": "class_WdpLogAPI",
+      "target": "method_get_debug_logs",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_MoviePipelineInProcessExecutor_defined_in_plugin_MovieRenderPipeline",
+      "source": "class_MoviePipelineInProcessExecutor",
+      "target": "plugin_MovieRenderPipeline",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_MoviePipelineInProcessExecutor_contains_property_debug_widget_class",
+      "source": "class_MoviePipelineInProcessExecutor",
+      "target": "property_debug_widget_class",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MoviePipelineInProcessExecutor_contains_property_target_pipeline_class",
+      "source": "class_MoviePipelineInProcessExecutor",
+      "target": "property_target_pipeline_class",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MoviePipelineInProcessExecutor_contains_property_use_current_level",
+      "source": "class_MoviePipelineInProcessExecutor",
+      "target": "property_use_current_level",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MoviePipelineInProcessExecutor_contains_property_user_data",
+      "source": "class_MoviePipelineInProcessExecutor",
+      "target": "property_user_data",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_RigVMFunction_MathFloatToInt_defined_in_plugin_RigVM",
+      "source": "class_RigVMFunction_MathFloatToInt",
+      "target": "plugin_RigVM",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_RigVMFunction_MathFloatToInt_contains_property_value_float",
+      "source": "class_RigVMFunction_MathFloatToInt",
+      "target": "property_value_float",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_RigVMFunction_MathFloatToInt_contains_property_result_int",
+      "source": "class_RigVMFunction_MathFloatToInt",
+      "target": "property_result_int",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MassReplicationParameters_defined_in_plugin_MassGameplay",
+      "source": "class_MassReplicationParameters",
+      "target": "plugin_MassGameplay",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_MassReplicationParameters_contains_property_bubble_info_class",
+      "source": "class_MassReplicationParameters",
+      "target": "property_bubble_info_class",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MassReplicationParameters_contains_property_lod_distance",
+      "source": "class_MassReplicationParameters",
+      "target": "property_lod_distance",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MassReplicationParameters_contains_property_lod_max_count",
+      "source": "class_MassReplicationParameters",
+      "target": "property_lod_max_count",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MassReplicationParameters_contains_property_replicator_class",
+      "source": "class_MassReplicationParameters",
+      "target": "property_replicator_class",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_MassReplicationParameters_contains_property_update_interval",
+      "source": "class_MassReplicationParameters",
+      "target": "property_update_interval",
+      "relation": "contains_property"
+    },
+    {
+      "id": "edge_CheatManagerExtension_defined_in_module_Engine",
+      "source": "class_CheatManagerExtension",
+      "target": "module_Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "id": "edge_CheatManagerExtension_contains_method_removed_from_cheat_manager",
+      "source": "class_CheatManagerExtension",
+      "target": "method_removed_from_cheat_manager",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_CheatManagerExtension_contains_method_get_player_controller",
+      "source": "class_CheatManagerExtension",
+      "target": "method_get_player_controller",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_CheatManagerExtension_contains_method_added_to_cheat_manager",
+      "source": "class_CheatManagerExtension",
+      "target": "method_added_to_cheat_manager",
+      "relation": "contains_method"
+    },
+    {
+      "id": "edge_TakeRecorderMode_defined_in_plugin_Takes",
+      "source": "class_TakeRecorderMode",
+      "target": "plugin_Takes",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_TakeRecorderMode_has_enum_value_RECORD_NEW_SEQUENCE",
+      "source": "class_TakeRecorderMode",
+      "target": "enum_value_RECORD_NEW_SEQUENCE",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_TakeRecorderMode_has_enum_value_RECORD_INTO_SEQUENCE",
+      "source": "class_TakeRecorderMode",
+      "target": "enum_value_RECORD_INTO_SEQUENCE",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_TilesetSource_defined_in_plugin_CesiumForUnreal",
+      "source": "class_TilesetSource",
+      "target": "plugin_CesiumForUnreal",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "id": "edge_TilesetSource_has_enum_value_FROM_CESIUM_ION",
+      "source": "class_TilesetSource",
+      "target": "enum_value_FROM_CESIUM_ION",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_TilesetSource_has_enum_value_FROM_URL",
+      "source": "class_TilesetSource",
+      "target": "enum_value_FROM_URL",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_TilesetSource_has_enum_value_FROM_ELLIPSOID",
+      "source": "class_TilesetSource",
+      "target": "enum_value_FROM_ELLIPSOID",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_defined_in_module_Engine",
+      "source": "class_DecalBlendMode",
+      "target": "module_Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_TRANSLUCENT",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_TRANSLUCENT",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_STAIN",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_STAIN",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_NORMAL",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_NORMAL",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_EMISSIVE",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_EMISSIVE",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_D_BUFFER_COLOR_NORMAL_ROUGHNESS",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_D_BUFFER_COLOR_NORMAL_ROUGHNESS",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_D_BUFFER_COLOR",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_D_BUFFER_COLOR",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_D_BUFFER_COLOR_NORMAL",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_D_BUFFER_COLOR_NORMAL",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_D_BUFFER_COLOR_ROUGHNESS",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_D_BUFFER_COLOR_ROUGHNESS",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_D_BUFFER_NORMAL",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_D_BUFFER_NORMAL",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_D_BUFFER_NORMAL_ROUGHNESS",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_D_BUFFER_NORMAL_ROUGHNESS",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_D_BUFFER_ROUGHNESS",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_D_BUFFER_ROUGHNESS",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_VOLUMETRIC_DISTANCE_FUNCTION",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_VOLUMETRIC_DISTANCE_FUNCTION",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_ALPHA_COMPOSITE",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_ALPHA_COMPOSITE",
+      "relation": "has_enum_value"
+    },
+    {
+      "id": "edge_DecalBlendMode_has_enum_value_DBM_AMBIENT_OCCLUSION",
+      "source": "class_DecalBlendMode",
+      "target": "enum_value_DBM_AMBIENT_OCCLUSION",
+      "relation": "has_enum_value"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_method_signature_is_registered_table_id",
+      "nodes": ["method_is_registered_table_id", "param_table_id", "type_Name", "type_bool"],
+      "relation": "method_signature",
+      "description": "is_registered_table_id(table_id: Name) -> bool"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_StringTableLibrary",
+      "nodes": ["class_StringTableLibrary", "class_BlueprintFunctionLibrary"],
+      "relation": "inheritance",
+      "description": "StringTableLibrary inherits from BlueprintFunctionLibrary"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_PropertyEditorTestSubStruct",
+      "nodes": ["class_PropertyEditorTestSubStruct", "class_StructBase"],
+      "relation": "inheritance",
+      "description": "PropertyEditorTestSubStruct inherits from StructBase"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_RigUnit_Subtract_VectorVector",
+      "nodes": ["class_RigUnit_Subtract_VectorVector", "class_RigUnit_BinaryVectorOp"],
+      "relation": "inheritance",
+      "description": "RigUnit_Subtract_VectorVector inherits from RigUnit_BinaryVectorOp"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_AnimGraphNode_BlendSpaceEvaluator",
+      "nodes": ["class_AnimGraphNode_BlendSpaceEvaluator", "class_AnimGraphNode_BlendSpaceBase"],
+      "relation": "inheritance",
+      "description": "AnimGraphNode_BlendSpaceEvaluator inherits from AnimGraphNode_BlendSpaceBase"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_StateTreeRunStatusChanged",
+      "nodes": ["class_StateTreeRunStatusChanged", "class_MulticastDelegateBase"],
+      "relation": "inheritance",
+      "description": "StateTreeRunStatusChanged inherits from MulticastDelegateBase"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_MovieSceneBoolSection",
+      "nodes": ["class_MovieSceneBoolSection", "class_MovieSceneSection"],
+      "relation": "inheritance",
+      "description": "MovieSceneBoolSection inherits from MovieSceneSection"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_PCGWorldRayHitSettings",
+      "nodes": ["class_PCGWorldRayHitSettings", "class_PCGSettings"],
+      "relation": "inheritance",
+      "description": "PCGWorldRayHitSettings inherits from PCGSettings"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_RigVMFunction_MathBoolMake",
+      "nodes": ["class_RigVMFunction_MathBoolMake", "class_RigVMFunction_MathBoolBase"],
+      "relation": "inheritance",
+      "description": "RigVMFunction_MathBoolMake inherits from RigVMFunction_MathBoolBase"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_GroomCacheImportOptions",
+      "nodes": ["class_GroomCacheImportOptions", "class_Object"],
+      "relation": "inheritance",
+      "description": "GroomCacheImportOptions inherits from Object"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_InterchangeSceneImportAssetFactoryNode",
+      "nodes": ["class_InterchangeSceneImportAssetFactoryNode", "class_InterchangeFactoryBaseNode"],
+      "relation": "inheritance",
+      "description": "InterchangeSceneImportAssetFactoryNode inherits from InterchangeFactoryBaseNode"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_GeometryScript_MeshSampling",
+      "nodes": ["class_GeometryScript_MeshSampling", "class_BlueprintFunctionLibrary"],
+      "relation": "inheritance",
+      "description": "GeometryScript_MeshSampling inherits from BlueprintFunctionLibrary"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_MVVMViewModelContext",
+      "nodes": ["class_MVVMViewModelContext", "class_StructBase"],
+      "relation": "inheritance",
+      "description": "MVVMViewModelContext inherits from StructBase"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_WdpLogAPI",
+      "nodes": ["class_WdpLogAPI", "class_StandardApiClassBase"],
+      "relation": "inheritance",
+      "description": "WdpLogAPI inherits from StandardApiClassBase"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_MoviePipelineInProcessExecutor",
+      "nodes": ["class_MoviePipelineInProcessExecutor", "class_MoviePipelineLinearExecutorBase"],
+      "relation": "inheritance",
+      "description": "MoviePipelineInProcessExecutor inherits from MoviePipelineLinearExecutorBase"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_RigVMFunction_MathFloatToInt",
+      "nodes": ["class_RigVMFunction_MathFloatToInt", "class_RigVMFunction_MathFloatBase"],
+      "relation": "inheritance",
+      "description": "RigVMFunction_MathFloatToInt inherits from RigVMFunction_MathFloatBase"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_MassReplicationParameters",
+      "nodes": ["class_MassReplicationParameters", "class_MassConstSharedFragment"],
+      "relation": "inheritance",
+      "description": "MassReplicationParameters inherits from MassConstSharedFragment"
+    },
+    {
+      "id": "hyperedge_class_hierarchy_CheatManagerExtension",
+      "nodes": ["class_CheatManagerExtension", "class_Object"],
+      "relation": "inheritance",
+      "description": "CheatManagerExtension inherits from Object"
+    },
+    {
+      "id": "hyperedge_enum_values_DescendantScrollDestination",
+      "nodes": ["class_DescendantScrollDestination", "enum_value_INTO_VIEW", "enum_value_TOP_OR_LEFT", "enum_value_CENTER", "enum_value_BOTTOM_OR_RIGHT"],
+      "relation": "enum_definition",
+      "description": "DescendantScrollDestination enum with 4 values"
+    },
+    {
+      "id": "hyperedge_enum_values_InterchangeMaterialXBSDF",
+      "nodes": ["class_InterchangeMaterialXBSDF", "enum_value_OREN_NAYAR_DIFFUSE", "enum_value_BURLEY_DIFFUSE", "enum_value_TRANSLUCENT", "enum_value_DIELECTRIC", "enum_value_CONDUCTOR", "enum_value_GENERALIZED_SCHLICK", "enum_value_SUBSURFACE", "enum_value_SHEEN", "enum_value_THIN_FILM"],
+      "relation": "enum_definition",
+      "description": "InterchangeMaterialXBSDF enum with 9 values for bidirectional scattering distribution functions"
+    },
+    {
+      "id": "hyperedge_enum_values_TakeRecorderMode",
+      "nodes": ["class_TakeRecorderMode", "enum_value_RECORD_NEW_SEQUENCE", "enum_value_RECORD_INTO_SEQUENCE"],
+      "relation": "enum_definition",
+      "description": "TakeRecorderMode enum with 2 values for recording modes"
+    },
+    {
+      "id": "hyperedge_enum_values_TilesetSource",
+      "nodes": ["class_TilesetSource", "enum_value_FROM_CESIUM_ION", "enum_value_FROM_URL", "enum_value_FROM_ELLIPSOID"],
+      "relation": "enum_definition",
+      "description": "TilesetSource enum with 3 values for tileset loading sources"
+    },
+    {
+      "id": "hyperedge_enum_values_DecalBlendMode",
+      "nodes": ["class_DecalBlendMode", "enum_value_DBM_TRANSLUCENT", "enum_value_DBM_STAIN", "enum_value_DBM_NORMAL", "enum_value_DBM_EMISSIVE", "enum_value_DBM_D_BUFFER_COLOR_NORMAL_ROUGHNESS", "enum_value_DBM_D_BUFFER_COLOR", "enum_value_DBM_D_BUFFER_COLOR_NORMAL", "enum_value_DBM_D_BUFFER_COLOR_ROUGHNESS", "enum_value_DBM_D_BUFFER_NORMAL", "enum_value_DBM_D_BUFFER_NORMAL_ROUGHNESS", "enum_value_DBM_D_BUFFER_ROUGHNESS", "enum_value_DBM_VOLUMETRIC_DISTANCE_FUNCTION", "enum_value_DBM_ALPHA_COMPOSITE", "enum_value_DBM_AMBIENT_OCCLUSION"],
+      "relation": "enum_definition",
+      "description": "DecalBlendMode enum with 14 values for GBuffer channel manipulation"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "StringTableLibrary Objects.md",
+      "PropertyEditorTestSubStruct Objects.md",
+      "RigUnit__Subtract__VectorVector Objects.md",
+      "AnimGraphNode_BlendSpaceEvaluator Objects.md",
+      "StateTreeRunStatusChanged Objects.md",
+      "MovieSceneBoolSection Objects.md",
+      "PCGWorldRayHitSettings Objects.md",
+      "DescendantScrollDestination Objects.md",
+      "InterchangeMaterialXBSDF Objects.md",
+      "RigVMFunction__MathBoolMake Objects.md",
+      "GroomCacheImportOptions Objects.md",
+      "InterchangeSceneImportAssetFactoryNode Objects.md",
+      "GeometryScript_MeshSampling Objects.md",
+      "MVVMViewModelContext Objects.md",
+      "WdpLogAPI Objects.md",
+      "MoviePipelineInProcessExecutor Objects.md",
+      "RigVMFunction__MathFloatToInt Objects.md",
+      "MassReplicationParameters Objects.md",
+      "CheatManagerExtension Objects.md",
+      "TakeRecorderMode Objects.md",
+      "TilesetSource Objects.md",
+      "DecalBlendMode Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_nodes": 142,
+    "total_edges": 116,
+    "total_hyperedges": 22,
+    "api_type": "Unreal Engine Python API"
+  }
+}

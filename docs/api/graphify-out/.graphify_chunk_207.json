@@ -1,0 +1,614 @@
+{
+  "nodes": [
+    {
+      "id": "slatebrushdrawtype_slatebrushdrawtype",
+      "label": "SlateBrushDrawType",
+      "file_type": "code",
+      "source_file": "SlateBrushDrawType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "crsimsoftcollision_crsimsoftcollision",
+      "label": "CRSimSoftCollision",
+      "file_type": "code",
+      "source_file": "CRSimSoftCollision Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_controller",
+      "label": "Controller",
+      "file_type": "code",
+      "source_file": "Controller Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avagizmocomponent_avagizmocomponent",
+      "label": "AvaGizmoComponent",
+      "file_type": "code",
+      "source_file": "AvaGizmoComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eidparams_eidparams",
+      "label": "EidParams",
+      "file_type": "code",
+      "source_file": "EidParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timemanagementlibrary_timemanagementlibrary",
+      "label": "TimeManagementLibrary",
+      "file_type": "code",
+      "source_file": "TimeManagementLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_pbik_rigunit_pbik",
+      "label": "RigUnit_PBIK",
+      "file_type": "code",
+      "source_file": "RigUnit__PBIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendlistbyenum_animnode_blendlistbyenum",
+      "label": "AnimNode_BlendListByEnum",
+      "file_type": "code",
+      "source_file": "AnimNode__BlendListByEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesfacadeassettagdata_aesfacadeassettagdata",
+      "label": "AesFacadeAssetTagData",
+      "file_type": "code",
+      "source_file": "AesFacadeAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+      "label": "RigUnit_MathQuaternionNotEquals",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rootprepullsettings_rootprepullsettings",
+      "label": "RootPrePullSettings",
+      "file_type": "code",
+      "source_file": "RootPrePullSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestslatetickdelegate_pytestslatetickdelegate",
+      "label": "PyTestSlateTickDelegate",
+      "file_type": "code",
+      "source_file": "PyTestSlateTickDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediacapturephase_mediacapturephase",
+      "label": "MediaCapturePhase",
+      "file_type": "code",
+      "source_file": "MediaCapturePhase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "masssimulationlodparameters_masssimulationlodparameters",
+      "label": "MassSimulationLODParameters",
+      "file_type": "code",
+      "source_file": "MassSimulationLODParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilityasync_waitgameplaytagquery_abilityasync_waitgameplaytagquery",
+      "label": "AbilityAsync_WaitGameplayTagQuery",
+      "file_type": "code",
+      "source_file": "AbilityAsync__WaitGameplayTagQuery Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifier_inputmodifier",
+      "label": "InputModifier",
+      "file_type": "code",
+      "source_file": "InputModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collectionattributekey_collectionattributekey",
+      "label": "CollectionAttributeKey",
+      "file_type": "code",
+      "source_file": "CollectionAttributeKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpfocustoallentitiesparams_wdpfocustoallentitiesparams",
+      "label": "WdpFocusToAllEntitiesParams",
+      "file_type": "code",
+      "source_file": "WdpFocusToAllEntitiesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolvector2d_entry_rigunit_setmulticontrolvector2d_entry",
+      "label": "RigUnit_SetMultiControlVector2D_Entry",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMultiControlVector2D__Entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "BlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarundownpagelistreference_avarundownpagelistreference",
+      "label": "AvaRundownPageListReference",
+      "file_type": "code",
+      "source_file": "AvaRundownPageListReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbiksolversettings_pbiksolversettings",
+      "label": "PBIKSolverSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__PBIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_possess",
+      "label": "Controller.possess",
+      "file_type": "code",
+      "source_file": "Controller Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_un_possess",
+      "label": "Controller.un_possess",
+      "file_type": "code",
+      "source_file": "Controller Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valuesview_log",
+      "label": "log (ValuesView)",
+      "file_type": "code",
+      "source_file": "ValuesView.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valuesview_new_object",
+      "label": "new_object (ValuesView)",
+      "file_type": "code",
+      "source_file": "ValuesView.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valuesview_load_asset",
+      "label": "load_asset (ValuesView)",
+      "file_type": "code",
+      "source_file": "ValuesView.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifier_modify_raw",
+      "label": "InputModifier.modify_raw",
+      "file_type": "code",
+      "source_file": "InputModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timemanagementlibrary_transform_time",
+      "label": "TimeManagementLibrary.transform_time",
+      "file_type": "code",
+      "source_file": "TimeManagementLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "frametime_frametime",
+      "label": "FrameTime",
+      "file_type": "code",
+      "source_file": "TimeManagementLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framerate_framerate",
+      "label": "FrameRate",
+      "file_type": "code",
+      "source_file": "TimeManagementLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": "EidParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunithighlevelbasemutable_rigunithighlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__PBIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendlistbase_animnode_blendlistbase",
+      "label": "AnimNode_BlendListBase",
+      "file_type": "code",
+      "source_file": "AnimNode__BlendListByEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionnotequals_rigvmfunction_mathquaternionnotequals",
+      "label": "RigVMFunction_MathQuaternionNotEquals",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "controller_controller",
+      "target": "controller_possess",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Controller Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_controller",
+      "target": "controller_un_possess",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Controller Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timemanagementlibrary_timemanagementlibrary",
+      "target": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeManagementLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timemanagementlibrary_timemanagementlibrary",
+      "target": "timemanagementlibrary_transform_time",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeManagementLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timemanagementlibrary_transform_time",
+      "target": "frametime_frametime",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeManagementLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timemanagementlibrary_transform_time",
+      "target": "framerate_framerate",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeManagementLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_pbik_rigunit_pbik",
+      "target": "rigunithighlevelbasemutable_rigunithighlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PBIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_pbik_rigunit_pbik",
+      "target": "pbiksolversettings_pbiksolversettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__PBIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_pbik_rigunit_pbik",
+      "target": "rootprepullsettings_rootprepullsettings",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__PBIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendlistbyenum_animnode_blendlistbyenum",
+      "target": "animnode_blendlistbase_animnode_blendlistbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__BlendListByEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+      "target": "rigvmfunction_mathquaternionnotequals_rigvmfunction_mathquaternionnotequals",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eidparams_eidparams",
+      "target": "paramsbase_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EidParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpfocustoallentitiesparams_wdpfocustoallentitiesparams",
+      "target": "paramsbase_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpFocusToAllEntitiesParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eidparams_eidparams",
+      "target": "wdpfocustoallentitiesparams_wdpfocustoallentitiesparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EidParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputmodifier_inputmodifier",
+      "target": "inputmodifier_modify_raw",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "valuesview_log",
+      "target": "valuesview_new_object",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ValuesView.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "valuesview_new_object",
+      "target": "valuesview_load_asset",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ValuesView.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rootprepullsettings_rootprepullsettings",
+      "target": "pbiksolversettings_pbiksolversettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RootPrePullSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pbik_solver_ecosystem",
+      "label": "PBIK Solver Ecosystem",
+      "nodes": [
+        "rigunit_pbik_rigunit_pbik",
+        "rootprepullsettings_rootprepullsettings",
+        "pbiksolversettings_pbiksolversettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__PBIK Objects.md"
+    },
+    {
+      "id": "unreal_python_utilities",
+      "label": "Unreal Python Utility Functions",
+      "nodes": [
+        "valuesview_log",
+        "valuesview_new_object",
+        "valuesview_load_asset"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ValuesView.md"
+    },
+    {
+      "id": "params_hierarchy",
+      "label": "ParamsBase Inheritance Hierarchy",
+      "nodes": [
+        "paramsbase_paramsbase",
+        "eidparams_eidparams",
+        "wdpfocustoallentitiesparams_wdpfocustoallentitiesparams"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "EidParams Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

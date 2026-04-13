@@ -1,0 +1,454 @@
+{
+  "nodes": [
+    {
+      "id": "gameplaycamerasfunctionlibrary_gameplaycamerasfunctionlibrary",
+      "label": "GameplayCamerasFunctionLibrary",
+      "file_type": "code",
+      "source_file": "GameplayCamerasFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisualgroupmovenodes_aestilesvisualgroupmovenodes",
+      "label": "AesTilesVisualGroupMoveNodes",
+      "file_type": "code",
+      "source_file": "AesTilesVisualGroupMoveNodes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintmake_rigunit_mathintmake",
+      "label": "RigUnit_MathIntMake",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadepthalignment_avadepthalignment",
+      "label": "AvaDepthAlignment",
+      "file_type": "code",
+      "source_file": "AvaDepthAlignment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakeplayspace_camerashakeplayspace",
+      "label": "CameraShakePlaySpace",
+      "file_type": "code",
+      "source_file": "CameraShakePlaySpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewport_viewport",
+      "label": "Viewport",
+      "file_type": "code",
+      "source_file": "Viewport Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnormaltodensitysettings_pcgnormaltodensitysettings",
+      "label": "PCGNormalToDensitySettings",
+      "file_type": "code",
+      "source_file": "PCGNormalToDensitySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectilemovementcomponent_onprojectilestopdelegate_projectilemovementcomponent_onprojectilestopdelegate",
+      "label": "ProjectileMovementComponent_OnProjectileStopDelegate",
+      "file_type": "code",
+      "source_file": "ProjectileMovementComponent__OnProjectileStopDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_livelinkpose_animgraphnode_livelinkpose",
+      "label": "AnimGraphNode_LiveLinkPose",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_LiveLinkPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionfromrotatorv2_rigvmfunction_mathquaternionfromrotatorv2",
+      "label": "RigVMFunction_MathQuaternionFromRotatorV2",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathQuaternionFromRotatorV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadstylewidget_roadstylewidget",
+      "label": "RoadStyleWidget",
+      "file_type": "code",
+      "source_file": "RoadStyleWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rendertargetcubeexporterhdr_rendertargetcubeexporterhdr",
+      "label": "RenderTargetCubeExporterHDR",
+      "file_type": "code",
+      "source_file": "RenderTargetCubeExporterHDR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatefloatmul_rigvmfunction_accumulatefloatmul",
+      "label": "RigVMFunction_AccumulateFloatMul",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AccumulateFloatMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublenegate_rigunit_mathdoublenegate",
+      "label": "RigUnit_MathDoubleNegate",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmaterialobject_wdpmaterialobject",
+      "label": "WdpMaterialObject",
+      "file_type": "code",
+      "source_file": "WdpMaterialObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraid_niagaraid",
+      "label": "NiagaraID",
+      "file_type": "code",
+      "source_file": "NiagaraID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponentactivatedsignature_actorcomponentactivatedsignature",
+      "label": "ActorComponentActivatedSignature",
+      "file_type": "code",
+      "source_file": "ActorComponentActivatedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlriganimeasingtype_controlriganimeasingtype",
+      "label": "ControlRigAnimEasingType",
+      "file_type": "code",
+      "source_file": "ControlRigAnimEasingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjecttestsubsystem_smartobjecttestsubsystem",
+      "label": "SmartObjectTestSubsystem",
+      "file_type": "code",
+      "source_file": "SmartObjectTestSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "treeview_treeview",
+      "label": "TreeView",
+      "file_type": "code",
+      "source_file": "TreeView Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworldbuilderbatchtype_aesworldbuilderbatchtype",
+      "label": "AesWorldBuilderBatchType",
+      "file_type": "code",
+      "source_file": "AesWorldBuilderBatchType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorequals_rigvmfunction_mathvectorequals",
+      "label": "RigVMFunction_MathVectorEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "gameplaycamerasfunctionlibrary_gameplaycamerasfunctionlibrary",
+      "target": "aestilesvisualgroupmovenodes_aestilesvisualgroupmovenodes",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayCamerasFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintmake_rigunit_mathintmake",
+      "target": "rigvmfunction_mathintmake_rigvmfunction_mathintmake",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "viewport_viewport",
+      "target": "roadstylewidget_roadstylewidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Viewport Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionfromrotatorv2_rigvmfunction_mathquaternionfromrotatorv2",
+      "target": "rigvmfunction_accumulatefloatmul_rigvmfunction_accumulatefloatmul",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionFromRotatorV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublenegate_rigunit_mathdoublenegate",
+      "target": "rigvmfunction_mathdoublenegate_rigvmfunction_mathdoublenegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmaterialobject_wdpmaterialobject",
+      "target": "niagaraid_niagaraid",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpMaterialObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlriganimeasingtype_controlriganimeasingtype",
+      "target": "rigvmanimeasingtype_rigvmanimeasingtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigAnimEasingType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "treeview_treeview",
+      "target": "viewport_viewport",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TreeView Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorequals_rigvmfunction_mathvectorequals",
+      "target": "rigvmfunction_mathquaternionfromrotatorv2_rigvmfunction_mathquaternionfromrotatorv2",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraid_niagaraid",
+      "target": "wdpmaterialobject_wdpmaterialobject",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "NiagaraID Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "treeview_treeview",
+      "target": "roadstylewidget_roadstylewidget",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.81,
+      "source_file": "TreeView Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionfromrotatorv2_rigvmfunction_mathquaternionfromrotatorv2",
+      "target": "rigvmfunction_accumulatefloatmul_rigvmfunction_accumulatefloatmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.87,
+      "source_file": "RigVMFunction_MathQuaternionFromRotatorV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionfromrotatorv2_rigvmfunction_mathquaternionfromrotatorv2",
+      "target": "rigvmfunction_mathvectorequals_rigvmfunction_mathvectorequals",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "RigVMFunction_MathQuaternionFromRotatorV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatefloatmul_rigvmfunction_accumulatefloatmul",
+      "target": "rigvmfunction_mathvectorequals_rigvmfunction_mathvectorequals",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__AccumulateFloatMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avadepthalignment_avadepthalignment",
+      "target": "camerashakeplayspace_camerashakeplayspace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "AvaDepthAlignment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "projectilemovementcomponent_onprojectilestopdelegate_projectilemovementcomponent_onprojectilestopdelegate",
+      "target": "actorcomponentactivatedsignature_actorcomponentactivatedsignature",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.83,
+      "source_file": "ProjectileMovementComponent__OnProjectileStopDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Functions",
+      "nodes": [
+        "rigvmfunction_mathquaternionfromrotatorv2_rigvmfunction_mathquaternionfromrotatorv2",
+        "rigvmfunction_accumulatefloatmul_rigvmfunction_accumulatefloatmul",
+        "rigvmfunction_mathvectorequals_rigvmfunction_mathvectorequals",
+        "rigunit_mathintmake_rigunit_mathintmake",
+        "rigunit_mathdoublenegate_rigunit_mathdoublenegate"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.92,
+      "source_file": "RigVMFunction_MathQuaternionFromRotatorV2 Objects.md"
+    },
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Renamed API Classes",
+      "nodes": [
+        "gameplaycamerasfunctionlibrary_gameplaycamerasfunctionlibrary",
+        "rigunit_mathintmake_rigunit_mathintmake",
+        "rigunit_mathdoublenegate_rigunit_mathdoublenegate",
+        "controlriganimeasingtype_controlriganimeasingtype"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "GameplayCamerasFunctionLibrary Objects.md"
+    },
+    {
+      "id": "umg_widget_system",
+      "label": "UMG Widget System",
+      "nodes": [
+        "treeview_treeview",
+        "viewport_viewport",
+        "roadstylewidget_roadstylewidget"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.89,
+      "source_file": "TreeView Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

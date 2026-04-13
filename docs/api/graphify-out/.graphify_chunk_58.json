@@ -1,0 +1,600 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp",
+      "label": "RigUnit_BinaryVectorOp",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "external_RigUnit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "external",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_ControlRig",
+      "label": "ControlRig",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "module_ControlRig",
+      "label": "ControlRig",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp_prop_argument0",
+      "label": "argument0: Vector",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp_prop_argument1",
+      "label": "argument1: Vector",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp_prop_result",
+      "label": "result: Vector",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp_method___init__",
+      "label": "__init__()",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneChaosCacheTrackRecorder_Objects_MovieSceneChaosCacheTrackRecorder",
+      "label": "MovieSceneChaosCacheTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieSceneChaosCacheTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "external_MovieSceneTrackRecorder",
+      "label": "MovieSceneTrackRecorder",
+      "file_type": "document",
+      "source_file": "external",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_ChaosCaching",
+      "label": "ChaosCaching",
+      "file_type": "document",
+      "source_file": "MovieSceneChaosCacheTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "module_ChaosCachingEditor",
+      "label": "ChaosCachingEditor",
+      "file_type": "document",
+      "source_file": "MovieSceneChaosCacheTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "TouchInputComponent__OnTwoFingersMove_Objects_TouchInputComponent_OnTwoFingersMove",
+      "label": "TouchInputComponent_OnTwoFingersMove",
+      "file_type": "document",
+      "source_file": "TouchInputComponent__OnTwoFingersMove Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "external_MulticastDelegateBase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "external",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_WdpCamera",
+      "label": "WdpCamera",
+      "file_type": "document",
+      "source_file": "TouchInputComponent__OnTwoFingersMove Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "module_WdpCamera",
+      "label": "WdpCamera",
+      "file_type": "document",
+      "source_file": "TouchInputComponent__OnTwoFingersMove Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ColorConverterOutputPass_Objects_ColorConverterOutputPass",
+      "label": "ColorConverterOutputPass",
+      "file_type": "document",
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "external_CompositingElementOutput",
+      "label": "CompositingElementOutput",
+      "file_type": "document",
+      "source_file": "external",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_Composure",
+      "label": "Composure",
+      "file_type": "document",
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "module_Composure",
+      "label": "Composure",
+      "file_type": "document",
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ColorConverterOutputPass_Objects_ColorConverterOutputPass_prop_color_converter",
+      "label": "color_converter: CompositingElementTransform",
+      "file_type": "document",
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ColorConverterOutputPass_Objects_ColorConverterOutputPass_prop_enabled",
+      "label": "enabled: bool",
+      "file_type": "document",
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ColorConverterOutputPass_Objects_ColorConverterOutputPass_prop_pass_name",
+      "label": "pass_name: Name",
+      "file_type": "document",
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AudioSynesthesiaNRTSettings_Objects_AudioSynesthesiaNRTSettings",
+      "label": "AudioSynesthesiaNRTSettings",
+      "file_type": "document",
+      "source_file": "AudioSynesthesiaNRTSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "external_AudioAnalyzerNRTSettings",
+      "label": "AudioAnalyzerNRTSettings",
+      "file_type": "document",
+      "source_file": "external",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_AudioSynesthesia",
+      "label": "AudioSynesthesia",
+      "file_type": "document",
+      "source_file": "AudioSynesthesiaNRTSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "module_AudioSynesthesia",
+      "label": "AudioSynesthesia",
+      "file_type": "document",
+      "source_file": "AudioSynesthesiaNRTSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EngineCameraAnimationFunctionLibrary_Objects_EngineCameraAnimationFunctionLibrary",
+      "label": "EngineCameraAnimationFunctionLibrary",
+      "file_type": "document",
+      "source_file": "EngineCameraAnimationFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "external_BlueprintFunctionLibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "external",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_EngineCameras",
+      "label": "EngineCameras",
+      "file_type": "document",
+      "source_file": "EngineCameraAnimationFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "module_EngineCameras",
+      "label": "EngineCameras",
+      "file_type": "document",
+      "source_file": "EngineCameraAnimationFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp",
+      "target": "external_RigUnit",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp",
+      "target": "plugin_ControlRig",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp",
+      "target": "module_ControlRig",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp",
+      "target": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp_prop_argument0",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp",
+      "target": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp_prop_argument1",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp",
+      "target": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp_prop_result",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp",
+      "target": "RigUnit_BinaryVectorOp_Objects_RigUnit_BinaryVectorOp_method___init__",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryVectorOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneChaosCacheTrackRecorder_Objects_MovieSceneChaosCacheTrackRecorder",
+      "target": "external_MovieSceneTrackRecorder",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneChaosCacheTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneChaosCacheTrackRecorder_Objects_MovieSceneChaosCacheTrackRecorder",
+      "target": "plugin_ChaosCaching",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneChaosCacheTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneChaosCacheTrackRecorder_Objects_MovieSceneChaosCacheTrackRecorder",
+      "target": "module_ChaosCachingEditor",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneChaosCacheTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "TouchInputComponent__OnTwoFingersMove_Objects_TouchInputComponent_OnTwoFingersMove",
+      "target": "external_MulticastDelegateBase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TouchInputComponent__OnTwoFingersMove Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "TouchInputComponent__OnTwoFingersMove_Objects_TouchInputComponent_OnTwoFingersMove",
+      "target": "plugin_WdpCamera",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TouchInputComponent__OnTwoFingersMove Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "TouchInputComponent__OnTwoFingersMove_Objects_TouchInputComponent_OnTwoFingersMove",
+      "target": "module_WdpCamera",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TouchInputComponent__OnTwoFingersMove Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ColorConverterOutputPass_Objects_ColorConverterOutputPass",
+      "target": "external_CompositingElementOutput",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ColorConverterOutputPass_Objects_ColorConverterOutputPass",
+      "target": "plugin_Composure",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ColorConverterOutputPass_Objects_ColorConverterOutputPass",
+      "target": "module_Composure",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ColorConverterOutputPass_Objects_ColorConverterOutputPass",
+      "target": "ColorConverterOutputPass_Objects_ColorConverterOutputPass_prop_color_converter",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ColorConverterOutputPass_Objects_ColorConverterOutputPass",
+      "target": "ColorConverterOutputPass_Objects_ColorConverterOutputPass_prop_enabled",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ColorConverterOutputPass_Objects_ColorConverterOutputPass",
+      "target": "ColorConverterOutputPass_Objects_ColorConverterOutputPass_prop_pass_name",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorConverterOutputPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AudioSynesthesiaNRTSettings_Objects_AudioSynesthesiaNRTSettings",
+      "target": "external_AudioAnalyzerNRTSettings",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSynesthesiaNRTSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AudioSynesthesiaNRTSettings_Objects_AudioSynesthesiaNRTSettings",
+      "target": "plugin_AudioSynesthesia",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSynesthesiaNRTSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AudioSynesthesiaNRTSettings_Objects_AudioSynesthesiaNRTSettings",
+      "target": "module_AudioSynesthesia",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSynesthesiaNRTSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EngineCameraAnimationFunctionLibrary_Objects_EngineCameraAnimationFunctionLibrary",
+      "target": "external_BlueprintFunctionLibrary",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EngineCameraAnimationFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EngineCameraAnimationFunctionLibrary_Objects_EngineCameraAnimationFunctionLibrary",
+      "target": "plugin_EngineCameras",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EngineCameraAnimationFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EngineCameraAnimationFunctionLibrary_Objects_EngineCameraAnimationFunctionLibrary",
+      "target": "module_EngineCameras",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EngineCameraAnimationFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,983 @@
+{
+  "nodes": [
+    {
+      "id": "noisefield",
+      "label": "NoiseField",
+      "file_type": "document",
+      "source_file": "NoiseField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "noisefield_fieldnodefloat",
+      "label": "FieldNodeFloat",
+      "file_type": "document",
+      "source_file": "NoiseField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "noisefield_perlin_noise",
+      "label": "Perlin Noise Generation",
+      "file_type": "document",
+      "source_file": "NoiseField Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintclamp",
+      "label": "RigVMFunction_MathIntClamp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_clamping",
+      "label": "Integer Clamping Operation",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "snapshotsourcemode",
+      "label": "SnapshotSourceMode",
+      "file_type": "document",
+      "source_file": "SnapshotSourceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "snapshotsourcemode_named_snapshot",
+      "label": "Named Snapshot Access",
+      "file_type": "document",
+      "source_file": "SnapshotSourceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "snapshotsourcemode_snapshot_pin",
+      "label": "Snapshot Pin Access",
+      "file_type": "document",
+      "source_file": "SnapshotSourceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdistanceshape",
+      "label": "PCGDistanceShape",
+      "file_type": "document",
+      "source_file": "PCGDistanceShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_distance_calculation",
+      "label": "PCG Distance Calculation",
+      "file_type": "document",
+      "source_file": "PCGDistanceShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjunctionsurfacefragment",
+      "label": "EarthJunctionSurfaceFragment",
+      "file_type": "document",
+      "source_file": "EarthJunctionSurfaceFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment",
+      "label": "EarthPropertyFragment",
+      "file_type": "document",
+      "source_file": "EarthJunctionSurfaceFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjunction_road_surface",
+      "label": "Road Junction Surface Material",
+      "file_type": "document",
+      "source_file": "EarthJunctionSurfaceFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliagetype_instancedstaticmesh",
+      "label": "FoliageType_InstancedStaticMesh",
+      "file_type": "document",
+      "source_file": "FoliageType__InstancedStaticMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliagetype",
+      "label": "FoliageType",
+      "file_type": "document",
+      "source_file": "FoliageType__InstancedStaticMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliage_instance_placement",
+      "label": "Foliage Instance Placement System",
+      "file_type": "document",
+      "source_file": "FoliageType__InstancedStaticMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliage_collision_system",
+      "label": "Foliage Collision System",
+      "file_type": "document",
+      "source_file": "FoliageType__InstancedStaticMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthoutlinefragment",
+      "label": "EarthOutlineFragment",
+      "file_type": "document",
+      "source_file": "EarthOutlineFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprimitivefragment",
+      "label": "EarthPrimitiveFragment",
+      "file_type": "document",
+      "source_file": "EarthOutlineFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth_outline_data",
+      "label": "Outline Geometry Data",
+      "file_type": "document",
+      "source_file": "EarthOutlineFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composurelensbloompass",
+      "label": "ComposureLensBloomPass",
+      "file_type": "document",
+      "source_file": "ComposureLensBloomPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composurepostprocesspass",
+      "label": "ComposurePostProcessPass",
+      "file_type": "document",
+      "source_file": "ComposureLensBloomPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bloom_rendering",
+      "label": "Bloom Post-Processing Effect",
+      "file_type": "document",
+      "source_file": "ComposureLensBloomPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdata",
+      "label": "PCGData",
+      "file_type": "document",
+      "source_file": "PCGData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_framework_data",
+      "label": "PCG Framework Data Base",
+      "file_type": "document",
+      "source_file": "PCGData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoreanimatorpreset",
+      "label": "PropertyAnimatorCoreAnimatorPreset",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreAnimatorPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcorepresetbase",
+      "label": "PropertyAnimatorCorePresetBase",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreAnimatorPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animator_import_export",
+      "label": "Animator Preset Import/Export",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreAnimatorPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitionpreviewmanager",
+      "label": "AvaTransitionPreviewManager",
+      "file_type": "document",
+      "source_file": "AvaTransitionPreviewManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "level_instance_loading",
+      "label": "Level Instance Loading System",
+      "file_type": "document",
+      "source_file": "AvaTransitionPreviewManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairsimulationsetup",
+      "label": "HairSimulationSetup",
+      "file_type": "document",
+      "source_file": "HairSimulationSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hair_strands_simulation",
+      "label": "Hair Strands Physics Simulation",
+      "file_type": "document",
+      "source_file": "HairSimulationSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnotificationlibrary",
+      "label": "FieldNotificationLibrary",
+      "file_type": "document",
+      "source_file": "FieldNotificationLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "property_change_notification",
+      "label": "Property Value Change Notification System",
+      "file_type": "document",
+      "source_file": "FieldNotificationLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiooscilloscopepanelstyle",
+      "label": "AudioOscilloscopePanelStyle",
+      "file_type": "document",
+      "source_file": "AudioOscilloscopePanelStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_waveform_visualization",
+      "label": "Audio Waveform Visualization",
+      "file_type": "document",
+      "source_file": "AudioOscilloscopePanelStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaplayableremotecontrolvalues",
+      "label": "AvaPlayableRemoteControlValues",
+      "file_type": "document",
+      "source_file": "AvaPlayableRemoteControlValues Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "remote_control_values",
+      "label": "Remote Control Parameter System",
+      "file_type": "document",
+      "source_file": "AvaPlayableRemoteControlValues Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpglobalsetcoordztypeparams",
+      "label": "WdpGlobalSetCoordZTypeParams",
+      "file_type": "document",
+      "source_file": "WdpGlobalSetCoordZTypeParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spaceheatmapentityatom",
+      "label": "SpaceHeatMapEntityAtom",
+      "file_type": "document",
+      "source_file": "SpaceHeatMapEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatial_heatmap_data",
+      "label": "Spatial Heat Map Data Point",
+      "file_type": "document",
+      "source_file": "SpaceHeatMapEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsamplingweightmode",
+      "label": "GeometryScriptSamplingWeightMode",
+      "file_type": "document",
+      "source_file": "GeometryScriptSamplingWeightMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometry_sampling_weights",
+      "label": "Geometry Sampling Weight System",
+      "file_type": "document",
+      "source_file": "GeometryScriptSamplingWeightMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createspaceheatmapparams_batch",
+      "label": "CreateSpaceHeatMapParams_Batch",
+      "file_type": "document",
+      "source_file": "CreateSpaceHeatMapParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "batch_heatmap_creation",
+      "label": "Batch Heat Map Generation",
+      "file_type": "document",
+      "source_file": "CreateSpaceHeatMapParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterwavesbase",
+      "label": "WaterWavesBase",
+      "file_type": "document",
+      "source_file": "WaterWavesBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "water_wave_system",
+      "label": "Water Wave Simulation System",
+      "file_type": "document",
+      "source_file": "WaterWavesBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionless",
+      "label": "MaterialExpressionLess",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionbinaryop",
+      "label": "MaterialExpressionBinaryOp",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_comparison_node",
+      "label": "Material Comparison Node",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "appletexturetype",
+      "label": "AppleTextureType",
+      "file_type": "document",
+      "source_file": "AppleTextureType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "apple_platform_textures",
+      "label": "Apple Platform Texture Types",
+      "file_type": "document",
+      "source_file": "AppleTextureType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "noisefield",
+      "target": "noisefield_fieldnodefloat",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NoiseField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "noisefield",
+      "target": "noisefield_perlin_noise",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NoiseField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintclamp",
+      "target": "rigvmfunction_mathintbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintclamp",
+      "target": "rigvm_clamping",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "snapshotsourcemode_named_snapshot",
+      "target": "snapshotsourcemode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SnapshotSourceMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "snapshotsourcemode_snapshot_pin",
+      "target": "snapshotsourcemode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SnapshotSourceMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdistanceshape",
+      "target": "pcg_distance_calculation",
+      "relation": "defines",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGDistanceShape Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjunctionsurfacefragment",
+      "target": "earthpropertyfragment",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthJunctionSurfaceFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjunctionsurfacefragment",
+      "target": "earthjunction_road_surface",
+      "relation": "manages",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthJunctionSurfaceFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foliagetype_instancedstaticmesh",
+      "target": "foliagetype",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FoliageType__InstancedStaticMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foliagetype_instancedstaticmesh",
+      "target": "foliage_instance_placement",
+      "relation": "controls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FoliageType__InstancedStaticMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "foliagetype_instancedstaticmesh",
+      "target": "foliage_collision_system",
+      "relation": "configures",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "FoliageType__InstancedStaticMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthoutlinefragment",
+      "target": "earthprimitivefragment",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthOutlineFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthoutlinefragment",
+      "target": "earth_outline_data",
+      "relation": "stores",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthOutlineFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composurelensbloompass",
+      "target": "composurepostprocesspass",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposureLensBloomPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composurelensbloompass",
+      "target": "bloom_rendering",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComposureLensBloomPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdata",
+      "target": "pcg_framework_data",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcoreanimatorpreset",
+      "target": "propertyanimatorcorepresetbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreAnimatorPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcoreanimatorpreset",
+      "target": "animator_import_export",
+      "relation": "enables",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PropertyAnimatorCoreAnimatorPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitionpreviewmanager",
+      "target": "level_instance_loading",
+      "relation": "manages",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaTransitionPreviewManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairsimulationsetup",
+      "target": "hair_strands_simulation",
+      "relation": "configures",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "HairSimulationSetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldnotificationlibrary",
+      "target": "property_change_notification",
+      "relation": "provides",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FieldNotificationLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiooscilloscopepanelstyle",
+      "target": "audio_waveform_visualization",
+      "relation": "styles",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AudioOscilloscopePanelStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaplayableremotecontrolvalues",
+      "target": "remote_control_values",
+      "relation": "encapsulates",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AvaPlayableRemoteControlValues Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spaceheatmapentityatom",
+      "target": "spatial_heatmap_data",
+      "relation": "represents",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SpaceHeatMapEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptsamplingweightmode",
+      "target": "geometry_sampling_weights",
+      "relation": "defines",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptSamplingWeightMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createspaceheatmapparams_batch",
+      "target": "batch_heatmap_creation",
+      "relation": "parameterizes",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CreateSpaceHeatMapParams__Batch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterwavesbase",
+      "target": "water_wave_system",
+      "relation": "defines",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WaterWavesBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionless",
+      "target": "materialexpressionbinaryop",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionLess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionless",
+      "target": "material_comparison_node",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionLess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "appletexturetype",
+      "target": "apple_platform_textures",
+      "relation": "categorizes",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AppleTextureType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjunctionsurfacefragment",
+      "target": "earthoutlinefragment",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthJunctionSurfaceFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spaceheatmapentityatom",
+      "target": "createspaceheatmapparams_batch",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SpaceHeatMapEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "noisefield_perlin_noise",
+      "target": "water_wave_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NoiseField Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hair_strands_simulation",
+      "target": "geometry_sampling_weights",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "HairSimulationSetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "procedural_content_generation_ecosystem",
+      "label": "Procedural Content Generation Ecosystem",
+      "nodes": [
+        "pcgdistanceshape",
+        "pcgdata",
+        "geometryscriptsamplingweightmode"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGDistanceShape Objects.md"
+    },
+    {
+      "id": "earth_spatial_fragments",
+      "label": "Earth Spatial Data Fragments",
+      "nodes": [
+        "earthjunctionsurfacefragment",
+        "earthoutlinefragment",
+        "earthpropertyfragment",
+        "earthprimitivefragment"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthJunctionSurfaceFragment Objects.md"
+    },
+    {
+      "id": "visual_effects_rendering_pipeline",
+      "label": "Visual Effects Rendering Pipeline",
+      "nodes": [
+        "composurelensbloompass",
+        "materialexpressionless",
+        "bloom_rendering"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ComposureLensBloomPass Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,419 @@
+{
+  "entities": [
+    {
+      "id": "ControlRigShapeLibraryFactory",
+      "type": "class",
+      "name": "ControlRigShapeLibraryFactory",
+      "description": "Control Rig Shape Library Factory",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRigEditor",
+        "file": "ControlRigGizmoLibraryFactory.h"
+      },
+      "inherits_from": ["Factory"],
+      "properties": [
+        {"name": "asset_import_task", "type": "AssetImportTask", "access": "read-write", "description": "Task for importing file via script interfaces"},
+        {"name": "automated_import_data", "type": "AutomatedAssetImportData", "access": "read-write", "description": "Data for how to import files via the automated command line importing interface"},
+        {"name": "context_class", "type": "type(Class)", "access": "read-write", "description": "Class of the context object used to help create the object"},
+        {"name": "create_new", "type": "bool", "access": "read-write", "description": "The default value to return from CanCreateNew()"},
+        {"name": "edit_after_new", "type": "bool", "access": "read-write", "description": "true if the associated editor should be opened after creating a new object"},
+        {"name": "editor_import", "type": "bool", "access": "read-write", "description": "true if the factory imports objects from files"},
+        {"name": "formats", "type": "Array[str]", "access": "read-write", "description": "List of formats supported by the factory"},
+        {"name": "supported_class", "type": "type(Class)", "access": "read-write", "description": "The class manufactured by this factory"},
+        {"name": "text", "type": "bool", "access": "read-write", "description": "true if the factory imports objects from text"}
+      ]
+    },
+    {
+      "id": "ButtonClickMethod",
+      "type": "enum",
+      "name": "ButtonClickMethod",
+      "description": "Enumerates different methods that a button click can be triggered",
+      "source": {
+        "module": "SlateCore",
+        "file": "SlateEnums.h"
+      },
+      "inherits_from": ["EnumBase"],
+      "values": [
+        {"name": "DOWN_AND_UP", "value": 0, "description": "User must press the button, then release while over the button to trigger the click"},
+        {"name": "MOUSE_DOWN", "value": 1, "description": "Click will be triggered immediately on mouse down, and mouse will not be captured"},
+        {"name": "MOUSE_UP", "value": 2, "description": "Click will always be triggered when mouse button is released over the button"},
+        {"name": "PRECISE_CLICK", "value": 3, "description": "Inside a list, buttons can only be clicked with precise tap"}
+      ]
+    },
+    {
+      "id": "ProcMeshVertex",
+      "type": "struct",
+      "name": "ProcMeshVertex",
+      "description": "One vertex for the procedural mesh, used for storing data internally",
+      "source": {
+        "plugin": "ProceduralMeshComponent",
+        "module": "ProceduralMeshComponent",
+        "file": "ProceduralMeshComponent.h"
+      },
+      "inherits_from": ["StructBase"],
+      "properties": [
+        {"name": "position", "type": "Vector", "access": "read-write", "description": "Vertex position"},
+        {"name": "normal", "type": "Vector", "access": "read-write", "description": "Vertex normal"},
+        {"name": "tangent", "type": "ProcMeshTangent", "access": "read-write", "description": "Vertex tangent"},
+        {"name": "color", "type": "Color", "access": "read-write", "description": "Vertex color"},
+        {"name": "uv0", "type": "Vector2D", "access": "read-write", "description": "Vertex texture co-ordinate"},
+        {"name": "uv1", "type": "Vector2D", "access": "read-write", "description": "Vertex texture co-ordinate"},
+        {"name": "uv2", "type": "Vector2D", "access": "read-write", "description": "Vertex texture co-ordinate"},
+        {"name": "uv3", "type": "Vector2D", "access": "read-write", "description": "Vertex texture co-ordinate"}
+      ]
+    },
+    {
+      "id": "RigUnit_SpringInterp",
+      "type": "class",
+      "name": "RigUnit_SpringInterp",
+      "description": "Uses a simple spring model to interpolate a float from Current to Target",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_SpringInterp.h"
+      },
+      "inherits_from": ["RigVMFunction_SimBase"],
+      "properties": [
+        {"name": "current", "type": "float", "access": "read-write"},
+        {"name": "target", "type": "float", "access": "read-write"},
+        {"name": "stiffness", "type": "float", "access": "read-write"},
+        {"name": "critical_damping", "type": "float", "access": "read-write"},
+        {"name": "mass", "type": "float", "access": "read-write"},
+        {"name": "result", "type": "float", "access": "read-only"}
+      ]
+    },
+    {
+      "id": "WdpEllipse2D",
+      "type": "class",
+      "name": "WdpEllipse2D",
+      "description": "Wdp Ellipse 2D",
+      "source": {
+        "plugin": "WdpCommon",
+        "module": "WdpGeometry",
+        "file": "WdpEllipse2D.h"
+      },
+      "inherits_from": ["WdpCurve2D"],
+      "properties": [
+        {"name": "origin", "type": "Vector2D", "access": "read-write"},
+        {"name": "radius1", "type": "double", "access": "read-write"},
+        {"name": "radius2", "type": "double", "access": "read-write"},
+        {"name": "start_angle", "type": "double", "access": "read-write"},
+        {"name": "end_angle", "type": "double", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "NavMovementInterface",
+      "type": "interface",
+      "name": "NavMovementInterface",
+      "description": "Nav Movement Interface",
+      "source": {
+        "module": "Engine",
+        "file": "NavMovementInterface.h"
+      },
+      "inherits_from": ["Interface"],
+      "methods": [
+        {"name": "stop_movement_keep_pathing", "return_type": "None", "description": "Stops movement immediately (reset velocity) but keeps following current path"},
+        {"name": "stop_active_movement", "return_type": "None", "description": "Stops applying further movement (usually zeros acceleration)"},
+        {"name": "request_path_move", "return_type": "None", "parameters": [{"name": "move_input", "type": "Vector"}], "description": "path following: request movement through a new move input"},
+        {"name": "request_direct_move", "return_type": "None", "parameters": [{"name": "move_velocity", "type": "Vector"}, {"name": "force_max_speed", "type": "bool"}], "description": "path following: request movement through a velocity directly"},
+        {"name": "is_swimming", "return_type": "bool", "description": "Returns true if currently swimming"},
+        {"name": "is_moving_on_ground", "return_type": "bool", "description": "Returns true if currently moving on the ground"},
+        {"name": "is_flying", "return_type": "bool", "description": "Returns true if currently flying"},
+        {"name": "is_falling", "return_type": "bool", "description": "Returns true if currently falling"},
+        {"name": "is_crouching", "return_type": "bool", "description": "Returns true if currently crouching"},
+        {"name": "get_velocity_for_nav_movement", "return_type": "Vector", "description": "Get the current velocity of the agent for nav movement"},
+        {"name": "get_max_speed_for_nav_movement", "return_type": "float", "description": "Get maximum movement speed of the agent"}
+      ]
+    },
+    {
+      "id": "MoveLinearDatas",
+      "type": "class",
+      "name": "MoveLinearDatas",
+      "description": "Move Linear Datas",
+      "source": {
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIDefine",
+        "file": "MoveLinearAPI.h"
+      },
+      "inherits_from": ["ParamsBase"],
+      "properties": [
+        {"name": "data", "type": "Array[MoveLinearData]", "access": "read-write"},
+        {"name": "guid", "type": "str", "access": "read-write"},
+        {"name": "hit_keys", "type": "Set[Name]", "access": "read-write"},
+        {"name": "operations", "type": "WdpJsonObjectWrapper", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "GameplayTask_WaitDelay",
+      "type": "class",
+      "name": "GameplayTask_WaitDelay",
+      "description": "Gameplay Task Wait Delay",
+      "source": {
+        "module": "GameplayTasks",
+        "file": "GameplayTask_WaitDelay.h"
+      },
+      "inherits_from": ["GameplayTask"],
+      "properties": [
+        {"name": "on_finish", "type": "TaskDelayDelegate", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "OptimusGraphDataProvider",
+      "type": "class",
+      "name": "OptimusGraphDataProvider",
+      "description": "Compute Framework Data Provider for marshaling compute graph parameters and variables",
+      "source": {
+        "plugin": "DeformerGraph",
+        "module": "OptimusCore",
+        "file": "OptimusDataInterfaceGraph.h"
+      },
+      "inherits_from": ["ComputeDataProvider"],
+      "properties": [
+        {"name": "mesh_component", "type": "MeshComponent", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "SetSceneStyleEntity",
+      "type": "class",
+      "name": "SetSceneStyleEntity",
+      "description": "Set Scene Style Entity",
+      "source": {
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIEntity",
+        "file": "SetSceneStyleEntity.h"
+      },
+      "inherits_from": ["WdpActorEntity"],
+      "properties": [
+        {"name": "entity_atoms", "type": "Array[EntityAtomBase]", "access": "read-only"},
+        {"name": "entity_id", "type": "int64", "access": "read-only"},
+        {"name": "m_stylization_mat_inst", "type": "Array[MaterialInstance]", "access": "read-only"},
+        {"name": "post_process_component", "type": "PostProcessComponent", "access": "read-only"}
+      ]
+    },
+    {
+      "id": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrier",
+      "type": "class",
+      "name": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrier",
+      "description": "EthernetBarrier media synchronization policy implementation",
+      "source": {
+        "plugin": "nDisplay",
+        "module": "DisplayClusterMedia",
+        "file": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrier.h"
+      },
+      "inherits_from": ["DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrierBase"],
+      "properties": [
+        {"name": "barrier_timeout_ms", "type": "int32", "access": "read-write", "description": "Barrier timeout (ms)"}
+      ]
+    },
+    {
+      "id": "InterchangeTextureWriter",
+      "type": "class",
+      "name": "InterchangeTextureWriter",
+      "description": "Interchange Texture Writer",
+      "source": {
+        "plugin": "Interchange",
+        "module": "InterchangeExport",
+        "file": "InterchangeTextureWriter.h"
+      },
+      "inherits_from": ["InterchangeWriterBase"]
+    },
+    {
+      "id": "RigUnit_HierarchyAddControlRotator",
+      "type": "class",
+      "name": "RigUnit_HierarchyAddControlRotator",
+      "description": "Adds a new control to the hierarchy. Note: This node only runs as part of the construction event.",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_DynamicHierarchy.h"
+      },
+      "inherits_from": ["RigUnit_HierarchyAddControlElement"],
+      "properties": [
+        {"name": "execute_context", "type": "ControlRigExecuteContext", "access": "read-write", "description": "This property is used to chain multiple mutable units together"},
+        {"name": "initial_value", "type": "Rotator", "access": "read-write", "description": "The initial value of the new control"},
+        {"name": "item", "type": "RigElementKey", "access": "read-write", "description": "The resulting item"},
+        {"name": "name", "type": "Name", "access": "read-write", "description": "The name of the new element to add"},
+        {"name": "offset_space", "type": "RigVMTransformSpace", "access": "read-write", "description": "The space the offset is in"},
+        {"name": "offset_transform", "type": "Transform", "access": "read-write", "description": "The offset transform of the new control"},
+        {"name": "parent", "type": "RigElementKey", "access": "read-write", "description": "The parent of the new element to add"},
+        {"name": "settings", "type": "RigUnit_HierarchyAddControlRotator_Settings", "access": "read-write", "description": "The settings for the control"}
+      ]
+    },
+    {
+      "id": "TestBTDecorator_Blueprint",
+      "type": "class",
+      "name": "TestBTDecorator_Blueprint",
+      "description": "Test BTDecorator Blueprint",
+      "source": {
+        "module": "AITestSuite",
+        "file": "TestBTDecorator_Blueprint.h"
+      },
+      "inherits_from": ["BTDecorator_BlueprintBase"],
+      "properties": [
+        {"name": "check_condition_only_black_board_changes", "type": "bool", "access": "read-write"},
+        {"name": "custom_description", "type": "str", "access": "read-write"},
+        {"name": "flow_abort_mode", "type": "BTFlowAbortMode", "access": "read-write"},
+        {"name": "inverse_condition", "type": "bool", "access": "read-write"},
+        {"name": "node_name", "type": "str", "access": "read-write"},
+        {"name": "show_property_details", "type": "bool", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "glTFRuntimeCommandResponse",
+      "type": "delegate",
+      "name": "glTFRuntimeCommandResponse",
+      "description": "Gl TFRuntime Command Response Delegate Signature",
+      "source": {
+        "plugin": "AesWorld",
+        "module": "glTFRuntime",
+        "file": "glTFRuntimeFunctionLibrary.h"
+      },
+      "inherits_from": ["DelegateBase"],
+      "parameters": [
+        {"name": "asset", "type": "glTFRuntimeAsset"},
+        {"name": "exit_code", "type": "int32"},
+        {"name": "std_err", "type": "str"}
+      ]
+    },
+    {
+      "id": "DatasmithStaticMeshCADImportData",
+      "type": "class",
+      "name": "DatasmithStaticMeshCADImportData",
+      "description": "Datasmith Static Mesh CADImport Data",
+      "source": {
+        "plugin": "DatasmithContent",
+        "module": "DatasmithContent",
+        "file": "DatasmithAssetImportData.h"
+      },
+      "inherits_from": ["DatasmithStaticMeshImportData"],
+      "properties": [
+        {"name": "additional_data", "type": "Array[DatasmithAdditionalData]", "access": "read-write"},
+        {"name": "asset_import_options", "type": "DatasmithAssetImportOptions", "access": "read-write"},
+        {"name": "auxiliary_filenames", "type": "Array[str]", "access": "read-only"},
+        {"name": "datasmith_import_info", "type": "DatasmithImportInfo", "access": "read-write"},
+        {"name": "import_options", "type": "DatasmithStaticMeshImportOptions", "access": "read-write"},
+        {"name": "model_tolerance", "type": "double", "access": "read-only"},
+        {"name": "model_unit", "type": "double", "access": "read-only"},
+        {"name": "resource_filename", "type": "str", "access": "read-only"},
+        {"name": "resource_path", "type": "str", "access": "read-only"},
+        {"name": "source_data", "type": "AssetImportInfo", "access": "read-only"},
+        {"name": "tessellation_options", "type": "DatasmithTessellationOptions", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "RigUnit_ControlRigSplineFromPoints",
+      "type": "class",
+      "name": "RigUnit_ControlRigSplineFromPoints",
+      "description": "Creates a Spline curve from an array of positions",
+      "source": {
+        "plugin": "ControlRigSpline",
+        "module": "ControlRigSpline",
+        "file": "ControlRigSplineUnits.h"
+      },
+      "inherits_from": ["RigUnit_ControlRigSplineBase"],
+      "properties": [
+        {"name": "closed", "type": "bool", "access": "read-write"},
+        {"name": "compression", "type": "float", "access": "read-write"},
+        {"name": "points", "type": "Array[Vector]", "access": "read-write"},
+        {"name": "samples_per_segment", "type": "int32", "access": "read-write"},
+        {"name": "spline", "type": "ControlRigSpline", "access": "read-only"},
+        {"name": "spline_mode", "type": "SplineType", "access": "read-write"},
+        {"name": "stretch", "type": "float", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "RigUnit_MathQuaternionUnit",
+      "type": "class",
+      "name": "RigUnit_MathQuaternionUnit",
+      "description": "deprecated: 'RigUnit_MathQuaternionUnit' was renamed to 'RigVMFunction_MathQuaternionUnit'",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_MathQuaternionUnit.h"
+      },
+      "inherits_from": ["RigVMFunction_MathQuaternionUnit"],
+      "deprecated": true
+    },
+    {
+      "id": "FixTinyGeoNeighborSelectionMethod",
+      "type": "enum",
+      "name": "FixTinyGeoNeighborSelectionMethod",
+      "description": "EFix Tiny Geo Neighbor Selection Method",
+      "source": {
+        "plugin": "Fracture",
+        "module": "FractureEngine",
+        "file": "FractureEngineUtility.h"
+      },
+      "inherits_from": ["EnumBase"],
+      "values": [
+        {"name": "LARGEST_NEIGHBOR", "value": 0, "description": "Merge to the neighbor with the largest volume"},
+        {"name": "NEAREST_CENTER", "value": 1, "description": "Merge to the neighbor with the closest center"}
+      ]
+    },
+    {
+      "id": "RigVMFunction_StringToLowercase",
+      "type": "class",
+      "name": "RigVMFunction_StringToLowercase",
+      "description": "Converts the string to lower case",
+      "source": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_String.h"
+      },
+      "inherits_from": ["RigVMFunction_StringBase"],
+      "properties": [
+        {"name": "result", "type": "str", "access": "read-only"},
+        {"name": "value", "type": "str", "access": "read-write"}
+      ]
+    },
+    {
+      "id": "OnSampleLoaded",
+      "type": "delegate",
+      "name": "OnSampleLoaded",
+      "description": "Called when a sample has finished loading into the sample player",
+      "source": {
+        "plugin": "Synthesis",
+        "module": "Synthesis",
+        "file": "SynthComponentWaveTable.h"
+      },
+      "inherits_from": ["MulticastDelegateBase"]
+    },
+    {
+      "id": "ModuleReferenceData",
+      "type": "struct",
+      "name": "ModuleReferenceData",
+      "description": "Module Reference Data",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRigDeveloper",
+        "file": "ControlRigBlueprint.h"
+      },
+      "inherits_from": ["StructBase"]
+    }
+  ],
+  "relationships": [
+    {"from": "ControlRigShapeLibraryFactory", "to": "Factory", "type": "inherits_from"},
+    {"from": "ButtonClickMethod", "to": "EnumBase", "type": "inherits_from"},
+    {"from": "ProcMeshVertex", "to": "StructBase", "type": "inherits_from"},
+    {"from": "RigUnit_SpringInterp", "to": "RigVMFunction_SimBase", "type": "inherits_from"},
+    {"from": "WdpEllipse2D", "to": "WdpCurve2D", "type": "inherits_from"},
+    {"from": "NavMovementInterface", "to": "Interface", "type": "inherits_from"},
+    {"from": "MoveLinearDatas", "to": "ParamsBase", "type": "inherits_from"},
+    {"from": "GameplayTask_WaitDelay", "to": "GameplayTask", "type": "inherits_from"},
+    {"from": "OptimusGraphDataProvider", "to": "ComputeDataProvider", "type": "inherits_from"},
+    {"from": "SetSceneStyleEntity", "to": "WdpActorEntity", "type": "inherits_from"},
+    {"from": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrier", "to": "DisplayClusterMediaOutputSynchronizationPolicyEthernetBarrierBase", "type": "inherits_from"},
+    {"from": "InterchangeTextureWriter", "to": "InterchangeWriterBase", "type": "inherits_from"},
+    {"from": "RigUnit_HierarchyAddControlRotator", "to": "RigUnit_HierarchyAddControlElement", "type": "inherits_from"},
+    {"from": "TestBTDecorator_Blueprint", "to": "BTDecorator_BlueprintBase", "type": "inherits_from"},
+    {"from": "glTFRuntimeCommandResponse", "to": "DelegateBase", "type": "inherits_from"},
+    {"from": "DatasmithStaticMeshCADImportData", "to": "DatasmithStaticMeshImportData", "type": "inherits_from"},
+    {"from": "RigUnit_ControlRigSplineFromPoints", "to": "RigUnit_ControlRigSplineBase", "type": "inherits_from"},
+    {"from": "RigUnit_MathQuaternionUnit", "to": "RigVMFunction_MathQuaternionUnit", "type": "inherits_from"},
+    {"from": "FixTinyGeoNeighborSelectionMethod", "to": "EnumBase", "type": "inherits_from"},
+    {"from": "RigVMFunction_StringToLowercase", "to": "RigVMFunction_StringBase", "type": "inherits_from"},
+    {"from": "OnSampleLoaded", "to": "MulticastDelegateBase", "type": "inherits_from"},
+    {"from": "ModuleReferenceData", "to": "StructBase", "type": "inherits_from"},
+    {"from": "RigUnit_MathQuaternionUnit", "to": "RigVMFunction_MathQuaternionUnit", "type": "renamed_to"}
+  ]
+}

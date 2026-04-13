@@ -1,0 +1,991 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathrbfinterpolatevectorfloat",
+      "label": "RigUnit_MathRBFInterpolateVectorFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorfloat",
+      "label": "RigVMFunction_MathRBFInterpolateVectorFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "templatesequencefactorynew",
+      "label": "TemplateSequenceFactoryNew",
+      "file_type": "code",
+      "source_file": "TemplateSequenceFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "TemplateSequenceFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorbbkey_name",
+      "label": "ValueOrBBKey_Name",
+      "file_type": "code",
+      "source_file": "ValueOrBBKey_Name Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorblackboardkeybase",
+      "label": "ValueOrBlackboardKeyBase",
+      "file_type": "code",
+      "source_file": "ValueOrBBKey_Name Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinemeshcomponent",
+      "label": "SplineMeshComponent",
+      "file_type": "code",
+      "source_file": "SplineMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshcomponent",
+      "label": "StaticMeshComponent",
+      "file_type": "code",
+      "source_file": "SplineMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spline_deformation",
+      "label": "Spline Deformation",
+      "file_type": "code",
+      "source_file": "SplineMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonereasing",
+      "label": "CEClonerEasing",
+      "file_type": "code",
+      "source_file": "CEClonerEasing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "CEClonerEasing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "easing_functions",
+      "label": "Easing Functions",
+      "file_type": "code",
+      "source_file": "CEClonerEasing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptbakebitdepth",
+      "label": "GeometryScriptBakeBitDepth",
+      "file_type": "code",
+      "source_file": "GeometryScriptBakeBitDepth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "iterable",
+      "label": "Iterable",
+      "file_type": "code",
+      "source_file": "Iterable.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "iterator",
+      "label": "Iterator",
+      "file_type": "code",
+      "source_file": "Iterable.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "forcefeedbackeffectoverridenchanneldetails",
+      "label": "ForceFeedbackEffectOverridenChannelDetails",
+      "file_type": "code",
+      "source_file": "ForceFeedbackEffectOverridenChannelDetails Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "ForceFeedbackEffectOverridenChannelDetails Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityslotparamsarr",
+      "label": "EntitySlotParamsArr",
+      "file_type": "code",
+      "source_file": "EntitySlotParamsArr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": "EntitySlotParamsArr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_torigspace_location",
+      "label": "RigUnit_ToRigSpace_Location",
+      "file_type": "code",
+      "source_file": "RigUnit_ToRigSpace_Location Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit_ToRigSpace_Location Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "world_to_rig_space_conversion",
+      "label": "World to Rig Space Conversion",
+      "file_type": "code",
+      "source_file": "RigUnit_ToRigSpace_Location Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesplanetscope",
+      "label": "AesPlanetScope",
+      "file_type": "code",
+      "source_file": "AesPlanetScope Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolvector_settings",
+      "label": "RigUnit_HierarchyAddControlVector_Settings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlVector_Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_settings",
+      "label": "RigUnit_HierarchyAddControl_Settings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlVector_Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getrotatoranimationchannelfromitem",
+      "label": "RigUnit_GetRotatorAnimationChannelFromItem",
+      "file_type": "code",
+      "source_file": "RigUnit_GetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelfromitembase",
+      "label": "RigUnit_GetAnimationChannelFromItemBase",
+      "file_type": "code",
+      "source_file": "RigUnit_GetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_channel_retrieval",
+      "label": "Animation Channel Retrieval",
+      "file_type": "code",
+      "source_file": "RigUnit_GetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthjunctionconnectionfragment",
+      "label": "EarthJunctionConnectionFragment",
+      "file_type": "code",
+      "source_file": "EarthJunctionConnectionFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment",
+      "label": "EarthPropertyFragment",
+      "file_type": "code",
+      "source_file": "EarthJunctionConnectionFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "road_network_connections",
+      "label": "Road Network Connections",
+      "file_type": "code",
+      "source_file": "EarthJunctionConnectionFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timecode",
+      "label": "Timecode",
+      "file_type": "code",
+      "source_file": "Timecode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "drop_frame_format",
+      "label": "Drop Frame Format",
+      "file_type": "code",
+      "source_file": "Timecode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphstartendconsolecommands",
+      "label": "MovieGraphStartEndConsoleCommands",
+      "file_type": "code",
+      "source_file": "MovieGraphStartEndConsoleCommands Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "MovieGraphStartEndConsoleCommands Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rendering_lifecycle_commands",
+      "label": "Rendering Lifecycle Commands",
+      "file_type": "code",
+      "source_file": "MovieGraphStartEndConsoleCommands Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "verticalbox",
+      "label": "VerticalBox",
+      "file_type": "code",
+      "source_file": "VerticalBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "panelwidget",
+      "label": "PanelWidget",
+      "file_type": "code",
+      "source_file": "VerticalBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vertical_layout",
+      "label": "Vertical Layout",
+      "file_type": "code",
+      "source_file": "VerticalBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormirrortransform",
+      "label": "RigVMFunction_MathVectorMirrorTransform",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction_MathVectorBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_mirroring",
+      "label": "Vector Mirroring",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkretargetasset",
+      "label": "LiveLinkRetargetAsset",
+      "file_type": "code",
+      "source_file": "LiveLinkRetargetAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacerwbase",
+      "label": "NiagaraDataInterfaceRWBase",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceRWBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterface",
+      "label": "NiagaraDataInterface",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceRWBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdensityfiltersettings",
+      "label": "PCGDensityFilterSettings",
+      "file_type": "code",
+      "source_file": "PCGDensityFilterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGDensityFilterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "density_filtering",
+      "label": "Density Filtering",
+      "file_type": "code",
+      "source_file": "PCGDensityFilterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reimportsoundfactory",
+      "label": "ReimportSoundFactory",
+      "file_type": "code",
+      "source_file": "ReimportSoundFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundfactory",
+      "label": "SoundFactory",
+      "file_type": "code",
+      "source_file": "ReimportSoundFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig_hierarchy",
+      "label": "Control Rig Hierarchy",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlVector_Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sound_cue_creation",
+      "label": "Sound Cue Creation",
+      "file_type": "code",
+      "source_file": "ReimportSoundFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathrbfinterpolatevectorfloat",
+      "target": "rigvmfunction_mathrbfinterpolatevectorfloat",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "templatesequencefactorynew",
+      "target": "factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TemplateSequenceFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "valueorbbkey_name",
+      "target": "valueorblackboardkeybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ValueOrBBKey_Name Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splinemeshcomponent",
+      "target": "staticmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplineMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splinemeshcomponent",
+      "target": "spline_deformation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplineMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonereasing",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerEasing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonereasing",
+      "target": "easing_functions",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerEasing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptbakebitdepth",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScriptBakeBitDepth Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "iterable",
+      "target": "iterator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Iterable.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "forcefeedbackeffectoverridenchanneldetails",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ForceFeedbackEffectOverridenChannelDetails Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityslotparamsarr",
+      "target": "paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntitySlotParamsArr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_torigspace_location",
+      "target": "rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToRigSpace_Location Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_torigspace_location",
+      "target": "world_to_rig_space_conversion",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ToRigSpace_Location Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesplanetscope",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AesPlanetScope Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolvector_settings",
+      "target": "rigunit_hierarchyaddcontrol_settings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControlVector_Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolvector_settings",
+      "target": "control_rig_hierarchy",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_HierarchyAddControlVector_Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrotatoranimationchannelfromitem",
+      "target": "rigunit_getanimationchannelfromitembase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrotatoranimationchannelfromitem",
+      "target": "animation_channel_retrieval",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjunctionconnectionfragment",
+      "target": "earthpropertyfragment",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthJunctionConnectionFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthjunctionconnectionfragment",
+      "target": "road_network_connections",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthJunctionConnectionFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timecode",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Timecode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timecode",
+      "target": "drop_frame_format",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Timecode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphstartendconsolecommands",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphStartEndConsoleCommands Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphstartendconsolecommands",
+      "target": "rendering_lifecycle_commands",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieGraphStartEndConsoleCommands Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "verticalbox",
+      "target": "panelwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VerticalBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "verticalbox",
+      "target": "vertical_layout",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VerticalBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormirrortransform",
+      "target": "rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorMirrorTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormirrortransform",
+      "target": "vector_mirroring",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorMirrorTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkretargetasset",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkRetargetAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacerwbase",
+      "target": "niagaradatainterface",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceRWBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdensityfiltersettings",
+      "target": "pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDensityFilterSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdensityfiltersettings",
+      "target": "density_filtering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGDensityFilterSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reimportsoundfactory",
+      "target": "soundfactory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ReimportSoundFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reimportsoundfactory",
+      "target": "sound_cue_creation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ReimportSoundFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_torigspace_location",
+      "target": "rigvmfunction_mathvectormirrortransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_ToRigSpace_Location Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrotatoranimationchannelfromitem",
+      "target": "rigunit_hierarchyaddcontrolvector_settings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_GetRotatorAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splinemeshcomponent",
+      "target": "pcgdensityfiltersettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "SplineMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_control_system",
+      "label": "Rig Control System",
+      "nodes": [
+        "rigunit_torigspace_location",
+        "rigunit_hierarchyaddcontrolvector_settings",
+        "rigunit_getrotatoranimationchannelfromitem",
+        "rigvmfunction_mathvectormirrortransform"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_ToRigSpace_Location Objects.md"
+    },
+    {
+      "id": "factory_pattern_classes",
+      "label": "Factory Pattern Classes",
+      "nodes": [
+        "templatesequencefactorynew",
+        "reimportsoundfactory"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "TemplateSequenceFactoryNew Objects.md"
+    },
+    {
+      "id": "enum_based_types",
+      "label": "Enum-Based Types",
+      "nodes": [
+        "ceclonereasing",
+        "geometryscriptbakebitdepth",
+        "aesplanetscope"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CEClonerEasing Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1582 @@
+{
+  "entities": [
+    {
+      "id": "EarthDemOverlayerSettings",
+      "type": "class",
+      "name": "EarthDemOverlayerSettings",
+      "description": "Earth Dem Overlayer Settings",
+      "inherits_from": "EarthTextureOverlayerSettings",
+      "module": "EarthMisc",
+      "plugin": "AesWorld",
+      "source_file": "EarthTerrainSettings.h"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.alpha_strength",
+      "type": "property",
+      "name": "alpha_strength",
+      "data_type": "float",
+      "access": "read-write",
+      "description": "透明度控制强度"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.alpha_texture",
+      "type": "property",
+      "name": "alpha_texture",
+      "data_type": "Texture",
+      "access": "read-write",
+      "description": "透明度控制贴图资产引用，当不使用Alpha通道时，该贴图将作为透明度控制"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.bottom_left",
+      "type": "property",
+      "name": "bottom_left",
+      "data_type": "Vector2D",
+      "access": "read-write",
+      "description": "贴图包围盒的左下角经纬度"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.feature_id",
+      "type": "property",
+      "name": "feature_id",
+      "data_type": "int64",
+      "access": "read-write",
+      "description": "要素识别码"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.remap_height_range",
+      "type": "property",
+      "name": "remap_height_range",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.rotation",
+      "type": "property",
+      "name": "rotation",
+      "data_type": "float",
+      "access": "read-write",
+      "description": "贴图的平面旋转角度"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.sort_order",
+      "type": "property",
+      "name": "sort_order",
+      "data_type": "int32",
+      "access": "read-write",
+      "description": "叠加贴图的渲染顺序。数值越高，越显示在上层。多张贴图渲染顺序相同时，FeatureID越大，则越显示在上层"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.source_height_range",
+      "type": "property",
+      "name": "source_height_range",
+      "data_type": "Vector2D",
+      "access": "read-write"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.target_height_range",
+      "type": "property",
+      "name": "target_height_range",
+      "data_type": "Vector2D",
+      "access": "read-write"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.texture",
+      "type": "property",
+      "name": "texture",
+      "data_type": "Texture",
+      "access": "read-write",
+      "description": "叠加贴图资产引用"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.tiles",
+      "type": "property",
+      "name": "tiles",
+      "data_type": "Array[str]",
+      "access": "read-write",
+      "description": "贴图所在的最高级别地块ID"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.top_level",
+      "type": "property",
+      "name": "top_level",
+      "data_type": "int32",
+      "access": "read-write",
+      "description": "叠加贴图应用的最上层地块级别"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.top_right",
+      "type": "property",
+      "name": "top_right",
+      "data_type": "Vector2D",
+      "access": "read-write",
+      "description": "贴图包围盒的右上角经纬度"
+    },
+    {
+      "id": "EarthDemOverlayerSettings.use_alpha_channel",
+      "type": "property",
+      "name": "use_alpha_channel",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "是否使用叠加贴图的Alpha通道作为叠加的透明度控制"
+    },
+    {
+      "id": "PythonControlRigLib",
+      "type": "class",
+      "name": "PythonControlRigLib",
+      "description": "Python Control Rig Lib",
+      "inherits_from": "BlueprintFunctionLibrary",
+      "module": "TAPython",
+      "plugin": "TAPython",
+      "source_file": "PythonControlRigLib.h"
+    },
+    {
+      "id": "PythonControlRigLib.get_control_shape_transform",
+      "type": "method",
+      "name": "get_control_shape_transform",
+      "return_type": "Transform",
+      "is_classmethod": true,
+      "description": "Get Control Shape Transform"
+    },
+    {
+      "id": "WidgetSpace",
+      "type": "enum",
+      "name": "WidgetSpace",
+      "description": "EWidget Space",
+      "module": "UMG",
+      "source_file": "WidgetComponent.h"
+    },
+    {
+      "id": "WidgetSpace.WORLD",
+      "type": "enum_value",
+      "name": "WORLD",
+      "value": 0,
+      "description": "The widget is rendered in the world as mesh, it can be occluded like any other mesh in the world."
+    },
+    {
+      "id": "WidgetSpace.SCREEN",
+      "type": "enum_value",
+      "name": "SCREEN",
+      "value": 1,
+      "description": "The widget is rendered in the screen, completely outside of the world, never occluded."
+    },
+    {
+      "id": "SourceEffectWaveShaperSettings",
+      "type": "class",
+      "name": "SourceEffectWaveShaperSettings",
+      "description": "Source Effect Wave Shaper Settings",
+      "inherits_from": "StructBase",
+      "module": "Synthesis",
+      "plugin": "Synthesis",
+      "source_file": "SourceEffectWaveShaper.h"
+    },
+    {
+      "id": "SourceEffectWaveShaperSettings.amount",
+      "type": "property",
+      "name": "amount",
+      "data_type": "float",
+      "access": "read-write",
+      "description": "The amount of wave shaping. 0.0 = no wave shaping."
+    },
+    {
+      "id": "SourceEffectWaveShaperSettings.output_gain_db",
+      "type": "property",
+      "name": "output_gain_db",
+      "data_type": "float",
+      "access": "read-write",
+      "description": "The amount of wave shaping. 0.0 = no wave shaping."
+    },
+    {
+      "id": "InterchangeAnimationPayLoadKey",
+      "type": "class",
+      "name": "InterchangeAnimationPayLoadKey",
+      "description": "Interchange Animation Pay Load Key",
+      "inherits_from": "StructBase",
+      "module": "InterchangeNodes",
+      "plugin": "Interchange",
+      "source_file": "InterchangeAnimationTrackSetNode.h"
+    },
+    {
+      "id": "InterchangeAnimationPayLoadKey.type",
+      "type": "property",
+      "name": "type",
+      "data_type": "InterchangeAnimationPayLoadType",
+      "access": "read-write"
+    },
+    {
+      "id": "InterchangeAnimationPayLoadKey.unique_id",
+      "type": "property",
+      "name": "unique_id",
+      "data_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "NiagaraGpuBufferFormat",
+      "type": "enum",
+      "name": "NiagaraGpuBufferFormat",
+      "description": "Niagara supported buffer formats on the GPU.",
+      "module": "Niagara",
+      "plugin": "Niagara",
+      "source_file": "NiagaraCommon.h"
+    },
+    {
+      "id": "NiagaraGpuBufferFormat.FLOAT",
+      "type": "enum_value",
+      "name": "FLOAT",
+      "value": 0,
+      "description": "32-bit per channel floating point, range [-3.402823 x 10^38, 3.402823 x 10^38]"
+    },
+    {
+      "id": "NiagaraGpuBufferFormat.HALF_FLOAT",
+      "type": "enum_value",
+      "name": "HALF_FLOAT",
+      "value": 1,
+      "description": "16-bit per channel floating point, range [-65504, 65504]"
+    },
+    {
+      "id": "NiagaraGpuBufferFormat.UNSIGNED_NORMALIZED_BYTE",
+      "type": "enum_value",
+      "name": "UNSIGNED_NORMALIZED_BYTE",
+      "value": 2,
+      "description": "8-bit per channel fixed point, range [0, 1]."
+    },
+    {
+      "id": "EarthPayloadState",
+      "type": "enum",
+      "name": "EarthPayloadState",
+      "description": "EEarth Payload State",
+      "module": "EarthStats",
+      "plugin": "AesWorld",
+      "source_file": "EarthStatsCommon.h"
+    },
+    {
+      "id": "EarthPayloadState.BEGIN",
+      "type": "enum_value",
+      "name": "BEGIN",
+      "value": 0
+    },
+    {
+      "id": "EarthPayloadState.PROCESS",
+      "type": "enum_value",
+      "name": "PROCESS",
+      "value": 1
+    },
+    {
+      "id": "EarthPayloadState.READY",
+      "type": "enum_value",
+      "name": "READY",
+      "value": 2
+    },
+    {
+      "id": "EarthPayloadState.FINISH",
+      "type": "enum_value",
+      "name": "FINISH",
+      "value": 3
+    },
+    {
+      "id": "EarthPayloadState.FINISH_EMPTY",
+      "type": "enum_value",
+      "name": "FINISH_EMPTY",
+      "value": 4
+    },
+    {
+      "id": "EarthPayloadState.CANCEL",
+      "type": "enum_value",
+      "name": "CANCEL",
+      "value": 5
+    },
+    {
+      "id": "EarthPayloadState.UNLOAD",
+      "type": "enum_value",
+      "name": "UNLOAD",
+      "value": 6
+    },
+    {
+      "id": "AbilityTask_PlayMontageAndWait",
+      "type": "class",
+      "name": "AbilityTask_PlayMontageAndWait",
+      "description": "Ability task to simply play a montage. Many games will want to make a modified version of this task that looks for game-specific events",
+      "inherits_from": "AbilityTask",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "source_file": "AbilityTask_PlayMontageAndWait.h"
+    },
+    {
+      "id": "AbilityTask_PlayMontageAndWait.on_blend_out",
+      "type": "property",
+      "name": "on_blend_out",
+      "data_type": "MontageWaitSimpleDelegate",
+      "access": "read-write"
+    },
+    {
+      "id": "AbilityTask_PlayMontageAndWait.on_blended_in",
+      "type": "property",
+      "name": "on_blended_in",
+      "data_type": "MontageWaitSimpleDelegate",
+      "access": "read-write"
+    },
+    {
+      "id": "AbilityTask_PlayMontageAndWait.on_cancelled",
+      "type": "property",
+      "name": "on_cancelled",
+      "data_type": "MontageWaitSimpleDelegate",
+      "access": "read-write"
+    },
+    {
+      "id": "AbilityTask_PlayMontageAndWait.on_completed",
+      "type": "property",
+      "name": "on_completed",
+      "data_type": "MontageWaitSimpleDelegate",
+      "access": "read-write"
+    },
+    {
+      "id": "AbilityTask_PlayMontageAndWait.on_interrupted",
+      "type": "property",
+      "name": "on_interrupted",
+      "data_type": "MontageWaitSimpleDelegate",
+      "access": "read-write"
+    },
+    {
+      "id": "HairStrandsFactory",
+      "type": "class",
+      "name": "HairStrandsFactory",
+      "description": "Implements a factory for UHairStrands objects.",
+      "inherits_from": "Factory",
+      "module": "HairStrandsEditor",
+      "plugin": "HairStrands",
+      "source_file": "HairStrandsFactory.h"
+    },
+    {
+      "id": "HairStrandsFactory.asset_import_task",
+      "type": "property",
+      "name": "asset_import_task",
+      "data_type": "AssetImportTask",
+      "access": "read-write",
+      "description": "Task for importing file via script interfaces"
+    },
+    {
+      "id": "HairStrandsFactory.automated_import_data",
+      "type": "property",
+      "name": "automated_import_data",
+      "data_type": "AutomatedAssetImportData",
+      "access": "read-write",
+      "description": "Data for how to import files via the automated command line importing interface"
+    },
+    {
+      "id": "HairStrandsFactory.context_class",
+      "type": "property",
+      "name": "context_class",
+      "data_type": "type(Class)",
+      "access": "read-write",
+      "description": "Class of the context object used to help create the object."
+    },
+    {
+      "id": "HairStrandsFactory.create_new",
+      "type": "property",
+      "name": "create_new",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "The default value to return from CanCreateNew()"
+    },
+    {
+      "id": "HairStrandsFactory.edit_after_new",
+      "type": "property",
+      "name": "edit_after_new",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "true if the associated editor should be opened after creating a new object."
+    },
+    {
+      "id": "HairStrandsFactory.editor_import",
+      "type": "property",
+      "name": "editor_import",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "true if the factory imports objects from files."
+    },
+    {
+      "id": "HairStrandsFactory.formats",
+      "type": "property",
+      "name": "formats",
+      "data_type": "Array[str]",
+      "access": "read-write",
+      "description": "List of formats supported by the factory. Each entry is of the form \"ext;Description\" where ext is the file extension."
+    },
+    {
+      "id": "HairStrandsFactory.supported_class",
+      "type": "property",
+      "name": "supported_class",
+      "data_type": "type(Class)",
+      "access": "read-write",
+      "description": "The class manufactured by this factory."
+    },
+    {
+      "id": "HairStrandsFactory.text",
+      "type": "property",
+      "name": "text",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "true if the factory imports objects from text."
+    },
+    {
+      "id": "RigUnit_MathFloatConstant",
+      "type": "class",
+      "name": "RigUnit_MathFloatConstant",
+      "description": "deprecated: 'RigUnit_MathFloatConstant' was renamed to 'RigVMFunction_MathFloatConstant'.",
+      "inherits_from": "RigVMFunction_MathFloatConstant",
+      "is_deprecated": true
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup",
+      "type": "enum",
+      "name": "MovieSceneScalabilityConditionGroup",
+      "description": "The below is a bit hardcoded to try and match how scalability settings are set up in Scalability.h. This is because unfortunately scalability settings at their core are not very extensible or data-driven and so it's difficult to do this in a data driven way.",
+      "module": "MovieSceneTracks",
+      "source_file": "MovieSceneScalabilityCondition.h"
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.VIEW_DISTANCE",
+      "type": "enum_value",
+      "name": "VIEW_DISTANCE",
+      "value": 0
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.ANTI_ALIASING",
+      "type": "enum_value",
+      "name": "ANTI_ALIASING",
+      "value": 1
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.SHADOW",
+      "type": "enum_value",
+      "name": "SHADOW",
+      "value": 2
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.GLOBAL_ILLUMINATION",
+      "type": "enum_value",
+      "name": "GLOBAL_ILLUMINATION",
+      "value": 3
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.REFLECTION",
+      "type": "enum_value",
+      "name": "REFLECTION",
+      "value": 4
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.POST_PROCESS",
+      "type": "enum_value",
+      "name": "POST_PROCESS",
+      "value": 5
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.TEXTURE",
+      "type": "enum_value",
+      "name": "TEXTURE",
+      "value": 6
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.EFFECTS",
+      "type": "enum_value",
+      "name": "EFFECTS",
+      "value": 7
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.FOLIAGE",
+      "type": "enum_value",
+      "name": "FOLIAGE",
+      "value": 8
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.SHADING",
+      "type": "enum_value",
+      "name": "SHADING",
+      "value": 9
+    },
+    {
+      "id": "MovieSceneScalabilityConditionGroup.LANDSCAPE",
+      "type": "enum_value",
+      "name": "LANDSCAPE",
+      "value": 10
+    },
+    {
+      "id": "FloatRangeBound",
+      "type": "class",
+      "name": "FloatRangeBound",
+      "description": "Defines a single bound for a range of values. note: This is a mirror of TRangeBound<float>, defined in RangeBound.h",
+      "inherits_from": "StructBase",
+      "module": "CoreUObject",
+      "source_file": "NoExportTypes.h"
+    },
+    {
+      "id": "FloatRangeBound.type",
+      "type": "property",
+      "name": "type",
+      "data_type": "RangeBoundTypes",
+      "access": "read-write",
+      "description": "Holds the type of the bound."
+    },
+    {
+      "id": "FloatRangeBound.value",
+      "type": "property",
+      "name": "value",
+      "data_type": "float",
+      "access": "read-write",
+      "description": "Holds the bound's value."
+    },
+    {
+      "id": "AesAssetMetaData",
+      "type": "class",
+      "name": "AesAssetMetaData",
+      "description": "资产元数据基类",
+      "inherits_from": "StructBase",
+      "module": "AesAsset",
+      "plugin": "AesWorld",
+      "source_file": "AesAssetCommon.h"
+    },
+    {
+      "id": "AesAssetMetaData.id",
+      "type": "property",
+      "name": "id",
+      "data_type": "int64",
+      "access": "read-only",
+      "description": "资产Id"
+    },
+    {
+      "id": "AesAssetMetaData.lod_config",
+      "type": "property",
+      "name": "lod_config",
+      "data_type": "Map[int32, int32]",
+      "access": "read-write",
+      "description": "资产LOD设置，针对不同的资产最大LOD级别X，需设置资产在LOD级别Y使用，若为空，则资产在每一个LOD级别都使用"
+    },
+    {
+      "id": "AesAssetMetaData.name",
+      "type": "property",
+      "name": "name",
+      "data_type": "Name",
+      "access": "read-write",
+      "description": "资产名称"
+    },
+    {
+      "id": "AesAssetMetaData.source",
+      "type": "property",
+      "name": "source",
+      "data_type": "Name",
+      "access": "read-only",
+      "description": "资产库来源"
+    },
+    {
+      "id": "AesAssetMetaData.static_asset",
+      "type": "property",
+      "name": "static_asset",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "是否为静态资产"
+    },
+    {
+      "id": "AesAssetMetaData.thumbnail",
+      "type": "property",
+      "name": "thumbnail",
+      "data_type": "SoftObjectPath",
+      "access": "read-write",
+      "description": "资产缩略图"
+    },
+    {
+      "id": "AesAssetMetaData.tips",
+      "type": "property",
+      "name": "tips",
+      "data_type": "str",
+      "access": "read-write",
+      "description": "资产说明"
+    },
+    {
+      "id": "AesAssetMetaData.type",
+      "type": "property",
+      "name": "type",
+      "data_type": "AesAssetType",
+      "access": "read-only",
+      "description": "资产类型"
+    },
+    {
+      "id": "AddNewSubobjectParams",
+      "type": "class",
+      "name": "AddNewSubobjectParams",
+      "description": "Options when adding a new subobject",
+      "inherits_from": "StructBase",
+      "module": "SubobjectDataInterface",
+      "source_file": "SubobjectDataSubsystem.h"
+    },
+    {
+      "id": "AddNewSubobjectParams.blueprint_context",
+      "type": "property",
+      "name": "blueprint_context",
+      "data_type": "Blueprint",
+      "access": "read-write",
+      "description": "Pointer to the blueprint context that this subobject is in. If this is null, it is assumed that this subobject is being added to an instance."
+    },
+    {
+      "id": "AddNewSubobjectParams.conform_transform_to_parent",
+      "type": "property",
+      "name": "conform_transform_to_parent",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "Whether the newly created component should keep its transform, or conform it to its parent"
+    },
+    {
+      "id": "AddNewSubobjectParams.new_class",
+      "type": "property",
+      "name": "new_class",
+      "data_type": "type(Class)",
+      "access": "read-write",
+      "description": "The class of the new subobject that will be added"
+    },
+    {
+      "id": "AddNewSubobjectParams.parent_handle",
+      "type": "property",
+      "name": "parent_handle",
+      "data_type": "SubobjectDataHandle",
+      "access": "read-write"
+    },
+    {
+      "id": "AddNewSubobjectParams.skip_mark_blueprint_modified",
+      "type": "property",
+      "name": "skip_mark_blueprint_modified",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "Optionally skip marking this blueprint as modified (e.g. if we're handling that externally"
+    },
+    {
+      "id": "NiagaraPerfBaselineActor",
+      "type": "class",
+      "name": "NiagaraPerfBaselineActor",
+      "description": "Actor that controls how the baseline system behaves and also controls stats gathering for.",
+      "inherits_from": "Actor",
+      "module": "Niagara",
+      "plugin": "Niagara",
+      "source_file": "NiagaraPerfBaseline.h"
+    },
+    {
+      "id": "NiagaraPerfBaselineActor.controller",
+      "type": "property",
+      "name": "controller",
+      "data_type": "NiagaraBaselineController",
+      "access": "read-write"
+    },
+    {
+      "id": "NiagaraPerfBaselineActor.label",
+      "type": "property",
+      "name": "label",
+      "data_type": "TextRenderComponent",
+      "access": "read-write"
+    },
+    {
+      "id": "PixelStreaming51CloudDelegates_AllConnectionsClosed",
+      "type": "class",
+      "name": "PixelStreaming51CloudDelegates_AllConnectionsClosed",
+      "description": "All connections have closed and nobody is viewing or interacting with the app. This is an opportunity to reset the app.",
+      "inherits_from": "MulticastDelegateBase",
+      "module": "PixelStreaming51Cloud",
+      "plugin": "PixelStreaming51Cloud",
+      "source_file": "PixelStreaming51CloudDelegates.h"
+    },
+    {
+      "id": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "type": "class",
+      "name": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "description": "Editor Scripting Merge Static Mesh Actors Options Deprecated",
+      "inherits_from": "EditorScriptingJoinStaticMeshActorsOptions_Deprecated",
+      "module": "EditorScriptingUtilities",
+      "plugin": "EditorScriptingUtilities",
+      "source_file": "EditorLevelLibrary.h",
+      "is_deprecated": true
+    },
+    {
+      "id": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.base_package_name",
+      "type": "property",
+      "name": "base_package_name",
+      "data_type": "str",
+      "access": "read-write",
+      "description": "The package path you want to save to. ie: /Game/MyFolder"
+    },
+    {
+      "id": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.destroy_source_actors",
+      "type": "property",
+      "name": "destroy_source_actors",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "Destroy the provided Actors after the operation."
+    },
+    {
+      "id": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.mesh_merging_settings",
+      "type": "property",
+      "name": "mesh_merging_settings",
+      "data_type": "MeshMergingSettings",
+      "access": "read-write"
+    },
+    {
+      "id": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.new_actor_label",
+      "type": "property",
+      "name": "new_actor_label",
+      "data_type": "str",
+      "access": "read-write",
+      "description": "Name of the new spawned Actor to replace the provided Actors."
+    },
+    {
+      "id": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.rename_components_from_source",
+      "type": "property",
+      "name": "rename_components_from_source",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "Rename StaticMeshComponents based on source Actor's name."
+    },
+    {
+      "id": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.spawn_merged_actor",
+      "type": "property",
+      "name": "spawn_merged_actor",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "Spawn the new merged actors"
+    },
+    {
+      "id": "TakeRecorderActorRecordType",
+      "type": "enum",
+      "name": "TakeRecorderActorRecordType",
+      "description": "ETake Recorder Actor Record Type",
+      "module": "TakeRecorderSources",
+      "plugin": "Takes",
+      "source_file": "TakeRecorderActorSource.h"
+    },
+    {
+      "id": "TakeRecorderActorRecordType.POSSESSABLE",
+      "type": "enum_value",
+      "name": "POSSESSABLE",
+      "value": 0
+    },
+    {
+      "id": "TakeRecorderActorRecordType.SPAWNABLE",
+      "type": "enum_value",
+      "name": "SPAWNABLE",
+      "value": 1
+    },
+    {
+      "id": "TakeRecorderActorRecordType.PROJECT_DEFAULT",
+      "type": "enum_value",
+      "name": "PROJECT_DEFAULT",
+      "value": 2
+    },
+    {
+      "id": "SoundfieldSubmixFactory",
+      "type": "class",
+      "name": "SoundfieldSubmixFactory",
+      "description": "Soundfield Submix Factory",
+      "inherits_from": "Factory",
+      "module": "AudioEditor",
+      "source_file": "SoundSubmixFactory.h"
+    },
+    {
+      "id": "BasicOverlays",
+      "type": "class",
+      "name": "BasicOverlays",
+      "description": "Implements an asset that contains a set of overlay data (which includes timing, text, and position) to be displayed for any given source (including, but not limited to, audio, dialog, and movies)",
+      "inherits_from": "Overlays",
+      "module": "Overlay",
+      "source_file": "BasicOverlays.h"
+    },
+    {
+      "id": "BasicOverlays.asset_import_data",
+      "type": "property",
+      "name": "asset_import_data",
+      "data_type": "AssetImportData",
+      "access": "read-only",
+      "description": "The import data used to make this overlays asset"
+    },
+    {
+      "id": "BasicOverlays.overlays",
+      "type": "property",
+      "name": "overlays",
+      "data_type": "Array[OverlayItem]",
+      "access": "read-write",
+      "description": "The overlay data held by this asset. Contains info on timing, position, and the subtitle to display"
+    },
+    {
+      "id": "WdpGlobalSettingsScreenPercentageParams",
+      "type": "class",
+      "name": "WdpGlobalSettingsScreenPercentageParams",
+      "description": "Wdp Global Settings Screen Percentage Params",
+      "inherits_from": "ParamsBase",
+      "module": "ApplicationAPI",
+      "plugin": "WdpRuntimeAPI",
+      "source_file": "ApplicationAPIParamsDefine.h"
+    },
+    {
+      "id": "WdpGlobalSettingsScreenPercentageParams.guid",
+      "type": "property",
+      "name": "guid",
+      "data_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "WdpGlobalSettingsScreenPercentageParams.hit_keys",
+      "type": "property",
+      "name": "hit_keys",
+      "data_type": "Set[Name]",
+      "access": "read-write"
+    },
+    {
+      "id": "WdpGlobalSettingsScreenPercentageParams.screen_percentage",
+      "type": "property",
+      "name": "screen_percentage",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "RigVMFunction_MathBoolOr",
+      "type": "class",
+      "name": "RigVMFunction_MathBoolOr",
+      "description": "Returns true if one of the conditions is true",
+      "inherits_from": "RigVMFunction_MathBoolBinaryAggregateOp",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "source_file": "RigVMFunction_MathBool.h"
+    },
+    {
+      "id": "RigVMFunction_MathBoolOr.a",
+      "type": "property",
+      "name": "a",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "RigVMFunction_MathBoolOr.b",
+      "type": "property",
+      "name": "b",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "RigVMFunction_MathBoolOr.result",
+      "type": "property",
+      "name": "result",
+      "data_type": "bool",
+      "access": "read-write"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthTextureOverlayerSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.alpha_strength",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.alpha_texture",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.bottom_left",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.feature_id",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.remap_height_range",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.rotation",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.sort_order",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.source_height_range",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.target_height_range",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.texture",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.tiles",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.top_level",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.top_right",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthDemOverlayerSettings.use_alpha_channel",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "EarthMisc",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EarthDemOverlayerSettings",
+      "target": "AesWorld",
+      "type": "from_plugin"
+    },
+    {
+      "source": "PythonControlRigLib",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PythonControlRigLib",
+      "target": "PythonControlRigLib.get_control_shape_transform",
+      "type": "has_method"
+    },
+    {
+      "source": "PythonControlRigLib",
+      "target": "TAPython",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PythonControlRigLib",
+      "target": "TAPython",
+      "type": "from_plugin"
+    },
+    {
+      "source": "WidgetSpace",
+      "target": "WidgetSpace.WORLD",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "WidgetSpace",
+      "target": "WidgetSpace.SCREEN",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "WidgetSpace",
+      "target": "UMG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "SourceEffectWaveShaperSettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SourceEffectWaveShaperSettings",
+      "target": "SourceEffectWaveShaperSettings.amount",
+      "type": "has_property"
+    },
+    {
+      "source": "SourceEffectWaveShaperSettings",
+      "target": "SourceEffectWaveShaperSettings.output_gain_db",
+      "type": "has_property"
+    },
+    {
+      "source": "SourceEffectWaveShaperSettings",
+      "target": "Synthesis",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "SourceEffectWaveShaperSettings",
+      "target": "Synthesis",
+      "type": "from_plugin"
+    },
+    {
+      "source": "InterchangeAnimationPayLoadKey",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "InterchangeAnimationPayLoadKey",
+      "target": "InterchangeAnimationPayLoadKey.type",
+      "type": "has_property"
+    },
+    {
+      "source": "InterchangeAnimationPayLoadKey",
+      "target": "InterchangeAnimationPayLoadKey.unique_id",
+      "type": "has_property"
+    },
+    {
+      "source": "InterchangeAnimationPayLoadKey",
+      "target": "InterchangeNodes",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "InterchangeAnimationPayLoadKey",
+      "target": "Interchange",
+      "type": "from_plugin"
+    },
+    {
+      "source": "NiagaraGpuBufferFormat",
+      "target": "NiagaraGpuBufferFormat.FLOAT",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "NiagaraGpuBufferFormat",
+      "target": "NiagaraGpuBufferFormat.HALF_FLOAT",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "NiagaraGpuBufferFormat",
+      "target": "NiagaraGpuBufferFormat.UNSIGNED_NORMALIZED_BYTE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "NiagaraGpuBufferFormat",
+      "target": "Niagara",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "NiagaraGpuBufferFormat",
+      "target": "Niagara",
+      "type": "from_plugin"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "EarthPayloadState.BEGIN",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "EarthPayloadState.PROCESS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "EarthPayloadState.READY",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "EarthPayloadState.FINISH",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "EarthPayloadState.FINISH_EMPTY",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "EarthPayloadState.CANCEL",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "EarthPayloadState.UNLOAD",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "EarthStats",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EarthPayloadState",
+      "target": "AesWorld",
+      "type": "from_plugin"
+    },
+    {
+      "source": "AbilityTask_PlayMontageAndWait",
+      "target": "AbilityTask",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AbilityTask_PlayMontageAndWait",
+      "target": "AbilityTask_PlayMontageAndWait.on_blend_out",
+      "type": "has_property"
+    },
+    {
+      "source": "AbilityTask_PlayMontageAndWait",
+      "target": "AbilityTask_PlayMontageAndWait.on_blended_in",
+      "type": "has_property"
+    },
+    {
+      "source": "AbilityTask_PlayMontageAndWait",
+      "target": "AbilityTask_PlayMontageAndWait.on_cancelled",
+      "type": "has_property"
+    },
+    {
+      "source": "AbilityTask_PlayMontageAndWait",
+      "target": "AbilityTask_PlayMontageAndWait.on_completed",
+      "type": "has_property"
+    },
+    {
+      "source": "AbilityTask_PlayMontageAndWait",
+      "target": "AbilityTask_PlayMontageAndWait.on_interrupted",
+      "type": "has_property"
+    },
+    {
+      "source": "AbilityTask_PlayMontageAndWait",
+      "target": "GameplayAbilities",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AbilityTask_PlayMontageAndWait",
+      "target": "GameplayAbilities",
+      "type": "from_plugin"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.asset_import_task",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.automated_import_data",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.context_class",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.create_new",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.edit_after_new",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.editor_import",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.formats",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.supported_class",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsFactory.text",
+      "type": "has_property"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrandsEditor",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "HairStrandsFactory",
+      "target": "HairStrands",
+      "type": "from_plugin"
+    },
+    {
+      "source": "RigUnit_MathFloatConstant",
+      "target": "RigVMFunction_MathFloatConstant",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.VIEW_DISTANCE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.ANTI_ALIASING",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.SHADOW",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.GLOBAL_ILLUMINATION",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.REFLECTION",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.POST_PROCESS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.TEXTURE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.EFFECTS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.FOLIAGE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.SHADING",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneScalabilityConditionGroup.LANDSCAPE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneScalabilityConditionGroup",
+      "target": "MovieSceneTracks",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "FloatRangeBound",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FloatRangeBound",
+      "target": "FloatRangeBound.type",
+      "type": "has_property"
+    },
+    {
+      "source": "FloatRangeBound",
+      "target": "FloatRangeBound.value",
+      "type": "has_property"
+    },
+    {
+      "source": "FloatRangeBound",
+      "target": "CoreUObject",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAssetMetaData.id",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAssetMetaData.lod_config",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAssetMetaData.name",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAssetMetaData.source",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAssetMetaData.static_asset",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAssetMetaData.thumbnail",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAssetMetaData.tips",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAssetMetaData.type",
+      "type": "has_property"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesAsset",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AesAssetMetaData",
+      "target": "AesWorld",
+      "type": "from_plugin"
+    },
+    {
+      "source": "AddNewSubobjectParams",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AddNewSubobjectParams",
+      "target": "AddNewSubobjectParams.blueprint_context",
+      "type": "has_property"
+    },
+    {
+      "source": "AddNewSubobjectParams",
+      "target": "AddNewSubobjectParams.conform_transform_to_parent",
+      "type": "has_property"
+    },
+    {
+      "source": "AddNewSubobjectParams",
+      "target": "AddNewSubobjectParams.new_class",
+      "type": "has_property"
+    },
+    {
+      "source": "AddNewSubobjectParams",
+      "target": "AddNewSubobjectParams.parent_handle",
+      "type": "has_property"
+    },
+    {
+      "source": "AddNewSubobjectParams",
+      "target": "AddNewSubobjectParams.skip_mark_blueprint_modified",
+      "type": "has_property"
+    },
+    {
+      "source": "AddNewSubobjectParams",
+      "target": "SubobjectDataInterface",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "NiagaraPerfBaselineActor",
+      "target": "Actor",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NiagaraPerfBaselineActor",
+      "target": "NiagaraPerfBaselineActor.controller",
+      "type": "has_property"
+    },
+    {
+      "source": "NiagaraPerfBaselineActor",
+      "target": "NiagaraPerfBaselineActor.label",
+      "type": "has_property"
+    },
+    {
+      "source": "NiagaraPerfBaselineActor",
+      "target": "Niagara",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "NiagaraPerfBaselineActor",
+      "target": "Niagara",
+      "type": "from_plugin"
+    },
+    {
+      "source": "PixelStreaming51CloudDelegates_AllConnectionsClosed",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PixelStreaming51CloudDelegates_AllConnectionsClosed",
+      "target": "PixelStreaming51Cloud",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PixelStreaming51CloudDelegates_AllConnectionsClosed",
+      "target": "PixelStreaming51Cloud",
+      "type": "from_plugin"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingJoinStaticMeshActorsOptions_Deprecated",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.base_package_name",
+      "type": "has_property"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.destroy_source_actors",
+      "type": "has_property"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.mesh_merging_settings",
+      "type": "has_property"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.new_actor_label",
+      "type": "has_property"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.rename_components_from_source",
+      "type": "has_property"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated.spawn_merged_actor",
+      "type": "has_property"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingUtilities",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EditorScriptingMergeStaticMeshActorsOptions_Deprecated",
+      "target": "EditorScriptingUtilities",
+      "type": "from_plugin"
+    },
+    {
+      "source": "TakeRecorderActorRecordType",
+      "target": "TakeRecorderActorRecordType.POSSESSABLE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TakeRecorderActorRecordType",
+      "target": "TakeRecorderActorRecordType.SPAWNABLE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TakeRecorderActorRecordType",
+      "target": "TakeRecorderActorRecordType.PROJECT_DEFAULT",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TakeRecorderActorRecordType",
+      "target": "TakeRecorderSources",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "TakeRecorderActorRecordType",
+      "target": "Takes",
+      "type": "from_plugin"
+    },
+    {
+      "source": "SoundfieldSubmixFactory",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SoundfieldSubmixFactory",
+      "target": "AudioEditor",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "BasicOverlays",
+      "target": "Overlays",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BasicOverlays",
+      "target": "BasicOverlays.asset_import_data",
+      "type": "has_property"
+    },
+    {
+      "source": "BasicOverlays",
+      "target": "BasicOverlays.overlays",
+      "type": "has_property"
+    },
+    {
+      "source": "BasicOverlays",
+      "target": "Overlay",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "WdpGlobalSettingsScreenPercentageParams",
+      "target": "ParamsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WdpGlobalSettingsScreenPercentageParams",
+      "target": "WdpGlobalSettingsScreenPercentageParams.guid",
+      "type": "has_property"
+    },
+    {
+      "source": "WdpGlobalSettingsScreenPercentageParams",
+      "target": "WdpGlobalSettingsScreenPercentageParams.hit_keys",
+      "type": "has_property"
+    },
+    {
+      "source": "WdpGlobalSettingsScreenPercentageParams",
+      "target": "WdpGlobalSettingsScreenPercentageParams.screen_percentage",
+      "type": "has_property"
+    },
+    {
+      "source": "WdpGlobalSettingsScreenPercentageParams",
+      "target": "ApplicationAPI",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "WdpGlobalSettingsScreenPercentageParams",
+      "target": "WdpRuntimeAPI",
+      "type": "from_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathBoolOr",
+      "target": "RigVMFunction_MathBoolBinaryAggregateOp",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathBoolOr",
+      "target": "RigVMFunction_MathBoolOr.a",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathBoolOr",
+      "target": "RigVMFunction_MathBoolOr.b",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathBoolOr",
+      "target": "RigVMFunction_MathBoolOr.result",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathBoolOr",
+      "target": "RigVM",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathBoolOr",
+      "target": "RigVM",
+      "type": "from_plugin"
+    }
+  ]
+}

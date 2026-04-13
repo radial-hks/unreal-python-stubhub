@@ -1,0 +1,855 @@
+{
+  "nodes": [
+    {
+      "id": "rcbehaviourconditionalnode_class",
+      "label": "RCBehaviourConditionalNode",
+      "file_type": "document",
+      "source_file": "RCBehaviourConditionalNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rcbehaviournode_baseclass",
+      "label": "RCBehaviourNode",
+      "file_type": "document",
+      "source_file": "RCBehaviourConditionalNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rcbehaviour_parameter",
+      "label": "RCBehaviour",
+      "file_type": "document",
+      "source_file": "RCBehaviourConditionalNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationmedianodebackbuffer_class",
+      "label": "DisplayClusterConfigurationMediaNodeBackbuffer",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaNodeBackbuffer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationmediaoutput_type",
+      "label": "DisplayClusterConfigurationMediaOutput",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationMediaNodeBackbuffer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggraphfactory_class",
+      "label": "PCGGraphFactory",
+      "file_type": "document",
+      "source_file": "PCGGraphFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxgetvolume_class",
+      "label": "RigVMFunction_MathBoxGetVolume",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoxGetVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxbase_baseclass",
+      "label": "RigVMFunction_MathBoxBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoxGetVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "box_type",
+      "label": "Box",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoxGetVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_randomplayer_class",
+      "label": "AnimNode_RandomPlayer",
+      "file_type": "document",
+      "source_file": "AnimNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_assetplayerrelevancybase_baseclass",
+      "label": "AnimNode_AssetPlayerRelevancyBase",
+      "file_type": "document",
+      "source_file": "AnimNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "randomplayersequenceentry_type",
+      "label": "RandomPlayerSequenceEntry",
+      "file_type": "document",
+      "source_file": "AnimNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shuffle_mode_feature",
+      "label": "Shuffle Mode Feature",
+      "file_type": "document",
+      "source_file": "AnimNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionskyatmosphereviewluminance_class",
+      "label": "MaterialExpressionSkyAtmosphereViewLuminance",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSkyAtmosphereViewLuminance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_baseclass",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSkyAtmosphereViewLuminance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitywidgetblueprint_class",
+      "label": "EditorUtilityWidgetBlueprint",
+      "file_type": "document",
+      "source_file": "EditorUtilityWidgetBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetblueprint_baseclass",
+      "label": "WidgetBlueprint",
+      "file_type": "document",
+      "source_file": "EditorUtilityWidgetBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createcolumnarheatmapparams_batch_class",
+      "label": "CreateColumnarHeatMapParams_Batch",
+      "file_type": "document",
+      "source_file": "CreateColumnarHeatMapParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createcolumnarheatmaparams_type",
+      "label": "CreateColumnarHeatMapsParams",
+      "file_type": "document",
+      "source_file": "CreateColumnarHeatMapParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdploop2d_class",
+      "label": "WdpLoop2D",
+      "file_type": "document",
+      "source_file": "WdpLoop2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppolyline2d_baseclass",
+      "label": "WdpPolyline2D",
+      "file_type": "document",
+      "source_file": "WdpLoop2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundsubmixwidgetinterface_class",
+      "label": "SoundSubmixWidgetInterface",
+      "file_type": "document",
+      "source_file": "SoundSubmixWidgetInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundsubmixbase_type",
+      "label": "SoundSubmixBase",
+      "file_type": "document",
+      "source_file": "SoundSubmixWidgetInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytargetdatafilter_class",
+      "label": "GameplayTargetDataFilter",
+      "file_type": "document",
+      "source_file": "GameplayTargetDataFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetdatafilterself_enum",
+      "label": "TargetDataFilterSelf",
+      "file_type": "document",
+      "source_file": "GameplayTargetDataFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayersectionitem_class",
+      "label": "AnimLayerSectionItem",
+      "file_type": "document",
+      "source_file": "AnimLayerSectionItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayerselectionset_type",
+      "label": "AnimLayerSelectionSet",
+      "file_type": "document",
+      "source_file": "AnimLayerSectionItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesection_type",
+      "label": "MovieSceneSection",
+      "file_type": "document",
+      "source_file": "AnimLayerSectionItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptpolygroupsimplifyoptions_class",
+      "label": "GeometryScriptPolygroupSimplifyOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptPolygroupSimplifyOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "auto_compact_design",
+      "label": "Auto Compact Design Decision",
+      "file_type": "document",
+      "source_file": "GeometryScriptPolygroupSimplifyOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fractureeffect_class",
+      "label": "FractureEffect",
+      "file_type": "document",
+      "source_file": "FractureEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystem_type",
+      "label": "ParticleSystem",
+      "file_type": "document",
+      "source_file": "FractureEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundbase_type",
+      "label": "SoundBase",
+      "file_type": "document",
+      "source_file": "FractureEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clusterunionreplicatedproxycomponent_class",
+      "label": "ClusterUnionReplicatedProxyComponent",
+      "file_type": "document",
+      "source_file": "ClusterUnionReplicatedProxyComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clusterunion_design_rationale",
+      "label": "Cluster Union Design Rationale",
+      "file_type": "document",
+      "source_file": "ClusterUnionReplicatedProxyComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonermeshasset_class",
+      "label": "CEClonerMeshAsset",
+      "file_type": "document",
+      "source_file": "CEClonerMeshAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmvariant_class",
+      "label": "RigVMVariant",
+      "file_type": "document",
+      "source_file": "RigVMVariant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "guid_type",
+      "label": "Guid",
+      "file_type": "document",
+      "source_file": "RigVMVariant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtag_type",
+      "label": "RigVMTag",
+      "file_type": "document",
+      "source_file": "RigVMVariant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptflaretype_class",
+      "label": "GeometryScriptFlareType",
+      "file_type": "document",
+      "source_file": "GeometryScriptFlareType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sin_mode_flare",
+      "label": "SIN_MODE Flare Pattern",
+      "file_type": "document",
+      "source_file": "GeometryScriptFlareType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sin_squared_mode_flare",
+      "label": "SIN_SQUARED_MODE Flare Pattern",
+      "file_type": "document",
+      "source_file": "GeometryScriptFlareType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "autortfmtestactor_class",
+      "label": "AutoRTFMTestActor",
+      "file_type": "document",
+      "source_file": "AutoRTFMTestActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitattributechangedelegate_class",
+      "label": "WaitAttributeChangeDelegate",
+      "file_type": "document",
+      "source_file": "WaitAttributeChangeDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_meshspacerefpose_class",
+      "label": "AnimNode_MeshSpaceRefPose",
+      "file_type": "document",
+      "source_file": "AnimNode_MeshSpaceRefPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_base_baseclass",
+      "label": "AnimNode_Base",
+      "file_type": "document",
+      "source_file": "AnimNode_MeshSpaceRefPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakebase_class",
+      "label": "CameraShakeBase",
+      "file_type": "document",
+      "source_file": "CameraShakeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakepattern_type",
+      "label": "CameraShakePattern",
+      "file_type": "document",
+      "source_file": "CameraShakeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashake_pattern_architecture",
+      "label": "Camera Shake Pattern Architecture",
+      "file_type": "document",
+      "source_file": "CameraShakeBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rcbehaviourconditionalnode_class",
+      "target": "rcbehaviournode_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourConditionalNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rcbehaviourconditionalnode_class",
+      "target": "rcbehaviour_parameter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCBehaviourConditionalNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationmedianodebackbuffer_class",
+      "target": "displayclusterconfigurationmediaoutput_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationMediaNodeBackbuffer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxgetvolume_class",
+      "target": "rigvmfunction_mathboxbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathBoxGetVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxgetvolume_class",
+      "target": "box_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathBoxGetVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_randomplayer_class",
+      "target": "animnode_assetplayerrelevancybase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_randomplayer_class",
+      "target": "randomplayersequenceentry_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "shuffle_mode_feature",
+      "target": "animnode_randomplayer_class",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionskyatmosphereviewluminance_class",
+      "target": "materialexpression_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSkyAtmosphereViewLuminance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilitywidgetblueprint_class",
+      "target": "widgetblueprint_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityWidgetBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createcolumnarheatmapparams_batch_class",
+      "target": "createcolumnarheatmaparams_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateColumnarHeatMapParams__Batch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdploop2d_class",
+      "target": "wdppolyline2d_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpLoop2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundsubmixwidgetinterface_class",
+      "target": "soundsubmixbase_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundSubmixWidgetInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaytargetdatafilter_class",
+      "target": "targetdatafilterself_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayTargetDataFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animlayersectionitem_class",
+      "target": "animlayerselectionset_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimLayerSectionItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animlayersectionitem_class",
+      "target": "moviescenesection_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimLayerSectionItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "auto_compact_design",
+      "target": "geometryscriptpolygroupsimplifyoptions_class",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScriptPolygroupSimplifyOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fractureeffect_class",
+      "target": "particlesystem_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FractureEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fractureeffect_class",
+      "target": "soundbase_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FractureEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clusterunion_design_rationale",
+      "target": "clusterunionreplicatedproxycomponent_class",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ClusterUnionReplicatedProxyComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmvariant_class",
+      "target": "guid_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMVariant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmvariant_class",
+      "target": "rigvmtag_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMVariant Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sin_squared_mode_flare",
+      "target": "sin_mode_flare",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptFlareType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_meshspacerefpose_class",
+      "target": "animnode_base_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_MeshSpaceRefPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerashakebase_class",
+      "target": "camerashakepattern_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraShakeBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerashake_pattern_architecture",
+      "target": "camerashakebase_class",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "CameraShakeBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_randomplayer_class",
+      "target": "animnode_meshspacerefpose_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode_RandomPlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptpolygroupsimplifyoptions_class",
+      "target": "geometryscriptflaretype_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptPolygroupSimplifyOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_node_system",
+      "label": "Animation Node System",
+      "nodes": [
+        "animnode_randomplayer_class",
+        "animnode_meshspacerefpose_class",
+        "animlayersectionitem_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_RandomPlayer Objects.md"
+    },
+    {
+      "id": "geometry_processing_tools",
+      "label": "Geometry Processing Tools",
+      "nodes": [
+        "geometryscriptpolygroupsimplifyoptions_class",
+        "geometryscriptflaretype_class",
+        "ceclonermeshasset_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptPolygroupSimplifyOptions Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,715 @@
+{
+  "nodes": [
+    {
+      "id": "moviesceneevent_moviesceneevent",
+      "label": "MovieSceneEvent",
+      "file_type": "code",
+      "source_file": "MovieSceneEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rb__bodysetup_bodysetup",
+      "label": "RB_BodySetup",
+      "file_type": "code",
+      "source_file": "RB__BodySetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphrenderlayersubsystem_moviegraphrenderlayersubsystem",
+      "label": "MovieGraphRenderLayerSubsystem",
+      "file_type": "code",
+      "source_file": "MovieGraphRenderLayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__stringlength_rigunit_stringlength",
+      "label": "RigUnit_StringLength",
+      "file_type": "code",
+      "source_file": "RigUnit__StringLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectmixerwidgetuserconfig_objectmixerwidgetuserconfig",
+      "label": "ObjectMixerWidgetUserConfig",
+      "file_type": "code",
+      "source_file": "ObjectMixerWidgetUserConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpvisualparambase_wdpvisualparambase",
+      "label": "WdpVisualParamBase",
+      "file_type": "code",
+      "source_file": "WdpVisualParamBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode__subinstance_animgraphnode_subinstance",
+      "label": "AnimGraphNode_SubInstance",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SubInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartnavlinkdir_smartnavlinkdir",
+      "label": "SmartNavLinkDir",
+      "file_type": "code",
+      "source_file": "SmartNavLinkDir Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode__trail_animnode_trail",
+      "label": "AnimNode_Trail",
+      "file_type": "code",
+      "source_file": "AnimNode__Trail Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusadvancedskeletondataprovider_optimusadvancedskeletondataprovider",
+      "label": "OptimusAdvancedSkeletonDataProvider",
+      "file_type": "code",
+      "source_file": "OptimusAdvancedSkeletonDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialsamplertype_materialsamplertype",
+      "label": "MaterialSamplerType",
+      "file_type": "code",
+      "source_file": "MaterialSamplerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reorientrootbonemodifier_reorientrootbonemodifier",
+      "label": "ReOrientRootBoneModifier",
+      "file_type": "code",
+      "source_file": "ReOrientRootBoneModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbakeddescriptor_aesbakeddescriptor",
+      "label": "AesBakedDescriptor",
+      "file_type": "code",
+      "source_file": "AesBakedDescriptor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rcnetworkaddress_rcnetworkaddress",
+      "label": "RCNetworkAddress",
+      "file_type": "code",
+      "source_file": "RCNetworkAddress Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mapbuilddataactor_mapbuilddataactor",
+      "label": "MapBuildDataActor",
+      "file_type": "code",
+      "source_file": "MapBuildDataActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "importassetparameters_importassetparameters",
+      "label": "ImportAssetParameters",
+      "file_type": "code",
+      "source_file": "ImportAssetParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coreonlinedummy_coreonlinedummy",
+      "label": "CoreOnlineDummy",
+      "file_type": "code",
+      "source_file": "CoreOnlineDummy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataregistryid_dataregistryid",
+      "label": "DataRegistryId",
+      "file_type": "code",
+      "source_file": "DataRegistryId Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcacheinfo_groomcacheinfo",
+      "label": "GroomCacheInfo",
+      "file_type": "code",
+      "source_file": "GroomCacheInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionappendvector_materialexpressionappendvector",
+      "label": "MaterialExpressionAppendVector",
+      "file_type": "code",
+      "source_file": "MaterialExpressionAppendVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurveitemarray_rigunit_fitchaintocurveitemarray",
+      "label": "RigUnit_FitChainToCurveItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit_FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "MovieSceneEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bodysetup_bodysetup",
+      "label": "BodySetup",
+      "file_type": "code",
+      "source_file": "RB__BodySetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldsubsystem_worldsubsystem",
+      "label": "WorldSubsystem",
+      "file_type": "code",
+      "source_file": "MovieGraphRenderLayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringlength_rigvmfunction_stringlength",
+      "label": "RigVMFunction_StringLength",
+      "file_type": "code",
+      "source_file": "RigUnit__StringLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": "WdpVisualParamBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_linkedanimgraph_animgraphnode_linkedanimgraph",
+      "label": "AnimGraphNode_LinkedAnimGraph",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SubInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlinkdirection_navlinkdirection",
+      "label": "NavLinkDirection",
+      "file_type": "code",
+      "source_file": "SmartNavLinkDir Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_skeletalcontrolbase_animnode_skeletalcontrolbase",
+      "label": "AnimNode_SkeletalControlBase",
+      "file_type": "code",
+      "source_file": "AnimNode__Trail Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computedataprovider_computedataprovider",
+      "label": "ComputeDataProvider",
+      "file_type": "code",
+      "source_file": "OptimusAdvancedSkeletonDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "MaterialSamplerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationmodifier_animationmodifier",
+      "label": "AnimationModifier",
+      "file_type": "code",
+      "source_file": "ReOrientRootBoneModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "MapBuildDataActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionAppendVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviesceneevent_moviesceneevent",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rb__bodysetup_bodysetup",
+      "target": "bodysetup_bodysetup",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RB__BodySetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphrenderlayersubsystem_moviegraphrenderlayersubsystem",
+      "target": "worldsubsystem_worldsubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphRenderLayerSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__stringlength_rigunit_stringlength",
+      "target": "rigvmfunction_stringlength_rigvmfunction_stringlength",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__StringLength Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "objectmixerwidgetuserconfig_objectmixerwidgetuserconfig",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ObjectMixerWidgetUserConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpvisualparambase_wdpvisualparambase",
+      "target": "paramsbase_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpVisualParamBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode__subinstance_animgraphnode_subinstance",
+      "target": "animgraphnode_linkedanimgraph_animgraphnode_linkedanimgraph",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SubInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartnavlinkdir_smartnavlinkdir",
+      "target": "navlinkdirection_navlinkdirection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartNavLinkDir Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode__trail_animnode_trail",
+      "target": "animnode_skeletalcontrolbase_animnode_skeletalcontrolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__Trail Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusadvancedskeletondataprovider_optimusadvancedskeletondataprovider",
+      "target": "computedataprovider_computedataprovider",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusAdvancedSkeletonDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialsamplertype_materialsamplertype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialSamplerType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reorientrootbonemodifier_reorientrootbonemodifier",
+      "target": "animationmodifier_animationmodifier",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ReOrientRootBoneModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbakeddescriptor_aesbakeddescriptor",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBakedDescriptor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rcnetworkaddress_rcnetworkaddress",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RCNetworkAddress Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mapbuilddataactor_mapbuilddataactor",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MapBuildDataActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "importassetparameters_importassetparameters",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImportAssetParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coreonlinedummy_coreonlinedummy",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoreOnlineDummy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataregistryid_dataregistryid",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataRegistryId Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcacheinfo_groomcacheinfo",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCacheInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionappendvector_materialexpressionappendvector",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionAppendVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray_rigunit_fitchaintocurveitemarray",
+      "target": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode__trail_animnode_trail",
+      "target": "reorientrootbonemodifier_reorientrootbonemodifier",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode__Trail Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveitemarray_rigunit_fitchaintocurveitemarray",
+      "target": "animnode__trail_animnode_trail",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_FitChainToCurveItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphrenderlayersubsystem_moviegraphrenderlayersubsystem",
+      "target": "moviesceneevent_moviesceneevent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieGraphRenderLayerSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcacheinfo_groomcacheinfo",
+      "target": "importassetparameters_importassetparameters",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GroomCacheInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataregistryid_dataregistryid",
+      "target": "importassetparameters_importassetparameters",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DataRegistryId Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionappendvector_materialexpressionappendvector",
+      "target": "materialsamplertype_materialsamplertype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionAppendVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusadvancedskeletondataprovider_optimusadvancedskeletondataprovider",
+      "target": "animnode__trail_animnode_trail",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OptimusAdvancedSkeletonDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_renamed_types",
+      "label": "Deprecated Renamed Types",
+      "nodes": [
+        "rb__bodysetup_bodysetup",
+        "rigunit__stringlength_rigunit_stringlength",
+        "animgraphnode__subinstance_animgraphnode_subinstance",
+        "smartnavlinkdir_smartnavlinkdir"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RB__BodySetup Objects.md"
+    },
+    {
+      "id": "animation_rigging_system",
+      "label": "Animation and Rigging System",
+      "nodes": [
+        "animnode__trail_animnode_trail",
+        "rigunit_fitchaintocurveitemarray_rigunit_fitchaintocurveitemarray",
+        "reorientrootbonemodifier_reorientrootbonemodifier",
+        "optimusadvancedskeletondataprovider_optimusadvancedskeletondataprovider"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode__Trail Objects.md"
+    },
+    {
+      "id": "movie_rendering_pipeline",
+      "label": "Movie Rendering Pipeline",
+      "nodes": [
+        "moviegraphrenderlayersubsystem_moviegraphrenderlayersubsystem",
+        "moviesceneevent_moviesceneevent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieGraphRenderLayerSubsystem Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

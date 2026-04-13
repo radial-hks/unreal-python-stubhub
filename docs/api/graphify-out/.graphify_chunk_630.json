@@ -1,0 +1,854 @@
+{
+  "nodes": [
+    {
+      "id": "colorcorrectionregion_colorcorrectionregion",
+      "label": "ColorCorrectionRegion",
+      "file_type": "document",
+      "source_file": "ColorCorrectionRegion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorcorrectionregion_colorcorrectregion",
+      "label": "ColorCorrectRegion (Parent Class)",
+      "file_type": "document",
+      "source_file": "ColorCorrectionRegion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+      "label": "RigVMFunction_MathIntToFloat",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntToFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathinttofloat_rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase (Parent Class)",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntToFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcglandscapecache_pcglandscapecache",
+      "label": "PCGLandscapeCache",
+      "file_type": "document",
+      "source_file": "PCGLandscapeCache Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcustomhlslsettings_pcgcustomhlslsettings",
+      "label": "PCGCustomHLSLSettings",
+      "file_type": "document",
+      "source_file": "PCGCustomHLSLSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcustomhlslsettings_pcgsettings",
+      "label": "PCGSettings (Parent Class)",
+      "file_type": "document",
+      "source_file": "PCGCustomHLSLSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthstandardactorentity_earthstandardactorentity",
+      "label": "EarthStandardActorEntity",
+      "file_type": "document",
+      "source_file": "EarthStandardActorEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthstandardactorentity_earthactorentity",
+      "label": "EarthActorEntity (Parent Class)",
+      "file_type": "document",
+      "source_file": "EarthStandardActorEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentryextendedstandardlibrary1to10other_lowentryextendedstandardlibrary1to10other",
+      "label": "LowEntryExtendedStandardLibrary1to10other",
+      "file_type": "document",
+      "source_file": "LowEntryExtendedStandardLibrary1to10other Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mapplayerkeyargs_mapplayerkeyargs",
+      "label": "MapPlayerKeyArgs",
+      "file_type": "document",
+      "source_file": "MapPlayerKeyArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_deltafrompreviousquat_rigunit_deltafrompreviousquat",
+      "label": "RigUnit_DeltaFromPreviousQuat (Deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit__DeltaFromPreviousQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modifypathparams_modifypathparams",
+      "label": "ModifyPathParams",
+      "file_type": "document",
+      "source_file": "ModifyPathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbinaryop_rigvmfunction_mathtransformbinaryop",
+      "label": "RigVMFunction_MathTransformBinaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbinaryop_rigvmfunction_mathtransformbase",
+      "label": "RigVMFunction_MathTransformBase (Parent Class)",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshdifferenceinfo_geometryscriptmeshdifferenceinfo",
+      "label": "GeometryScriptMeshDifferenceInfo",
+      "file_type": "document",
+      "source_file": "GeometryScriptMeshDifferenceInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesspawntrack_moviescenesspawntrack",
+      "label": "MovieSceneSpawnTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneSpawnTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesspawntrack_moviescenetrack",
+      "label": "MovieSceneTrack (Parent Class)",
+      "file_type": "document",
+      "source_file": "MovieSceneSpawnTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformclampspatially_rigvmfunction_mathtransformclampspatially",
+      "label": "RigVMFunction_MathTransformClampSpatially",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathTransformClampSpatially Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmediaplayermediaopened_onmediaplayermediaopened",
+      "label": "OnMediaPlayerMediaOpened",
+      "file_type": "document",
+      "source_file": "OnMediaPlayerMediaOpened Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintnegate_rigvmfunction_mathintnegate",
+      "label": "RigVMFunction_MathIntNegate",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintnegate_rigvmfunction_mathintunaryop",
+      "label": "RigVMFunction_MathIntUnaryOp (Parent Class)",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datavalidationusecase_datavalidationusecase",
+      "label": "DataValidationUsecase",
+      "file_type": "document",
+      "source_file": "DataValidationUsecase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmstructfieldpathhelpertest_mvvmstructfieldpathhelpertest",
+      "label": "MVVMStructFieldPathHelperTest",
+      "file_type": "document",
+      "source_file": "MVVMStructFieldPathHelperTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangescenevariantsetsfactory_interchangescenevariantsetsfactory",
+      "label": "InterchangeSceneVariantSetsFactory",
+      "file_type": "document",
+      "source_file": "InterchangeSceneVariantSetsFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublebinaryop_rigunit_mathdoublebinaryop",
+      "label": "RigUnit_MathDoubleBinaryOp (Deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiosliderbase_audiosliderbase",
+      "label": "AudioSliderBase",
+      "file_type": "document",
+      "source_file": "AudioSliderBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbangeoedentitycomponent_urbangeoedentitycomponent",
+      "label": "UrbanGeoEdEntityComponent",
+      "file_type": "document",
+      "source_file": "UrbanGeoEdEntityComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbangeoedentitycomponent_urbangeoedcomponent",
+      "label": "UrbanGeoEdComponent (Parent Class)",
+      "file_type": "document",
+      "source_file": "UrbanGeoEdEntityComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesearthentity_aesearthentity",
+      "label": "AesEarthEntity",
+      "file_type": "document",
+      "source_file": "AesEarthEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesearthentity_wdpstandardactorentity",
+      "label": "WdpStandardActorEntity (Parent Class)",
+      "file_type": "document",
+      "source_file": "AesEarthEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_colorcorrectregions",
+      "label": "ColorCorrectRegions Plugin",
+      "file_type": "document",
+      "source_file": "ColorCorrectionRegion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_rigvm",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathIntToFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_pcg",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGLandscapeCache Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_aesworld",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthStandardActorEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_lowentryextstdlib",
+      "label": "LowEntryExtStdLib Plugin",
+      "file_type": "document",
+      "source_file": "LowEntryExtendedStandardLibrary1to10other Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_enhancedinput",
+      "label": "EnhancedInput Plugin",
+      "file_type": "document",
+      "source_file": "MapPlayerKeyArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_coveringapi",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "ModifyPathParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_geometryscripting",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptMeshDifferenceInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_modelviewviewmodel",
+      "label": "ModelViewViewModel Plugin",
+      "file_type": "document",
+      "source_file": "MVVMStructFieldPathHelperTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_interchange",
+      "label": "Interchange Plugin",
+      "file_type": "document",
+      "source_file": "InterchangeSceneVariantSetsFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_audiowidgets",
+      "label": "AudioWidgets Plugin",
+      "file_type": "document",
+      "source_file": "AudioSliderBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_aeseditor",
+      "label": "AesEditor Plugin",
+      "file_type": "document",
+      "source_file": "UrbanGeoEdEntityComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "plugin_aestilesentity",
+      "label": "AesTilesEntity Plugin",
+      "file_type": "document",
+      "source_file": "AesEarthEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "colorcorrectionregion_colorcorrectionregion",
+      "target": "colorcorrectionregion_colorcorrectregion",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorCorrectionRegion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "colorcorrectionregion_colorcorrectionregion",
+      "target": "plugin_colorcorrectregions",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorCorrectionRegion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+      "target": "rigvmfunction_mathinttofloat_rigvmfunction_mathintbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntToFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+      "target": "plugin_rigvm",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntToFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcglandscapecache_pcglandscapecache",
+      "target": "plugin_pcg",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGLandscapeCache Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgcustomhlslsettings_pcgcustomhlslsettings",
+      "target": "pcgcustomhlslsettings_pcgsettings",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGCustomHLSLSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgcustomhlslsettings_pcgcustomhlslsettings",
+      "target": "plugin_pcg",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGCustomHLSLSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthstandardactorentity_earthstandardactorentity",
+      "target": "earthstandardactorentity_earthactorentity",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthStandardActorEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthstandardactorentity_earthstandardactorentity",
+      "target": "plugin_aesworld",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthStandardActorEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lowentryextendedstandardlibrary1to10other_lowentryextendedstandardlibrary1to10other",
+      "target": "plugin_lowentryextstdlib",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LowEntryExtendedStandardLibrary1to10other Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mapplayerkeyargs_mapplayerkeyargs",
+      "target": "plugin_enhancedinput",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MapPlayerKeyArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modifypathparams_modifypathparams",
+      "target": "plugin_coveringapi",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModifyPathParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformbinaryop_rigvmfunction_mathtransformbinaryop",
+      "target": "rigvmfunction_mathtransformbinaryop_rigvmfunction_mathtransformbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformbinaryop_rigvmfunction_mathtransformbinaryop",
+      "target": "plugin_rigvm",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmeshdifferenceinfo_geometryscriptmeshdifferenceinfo",
+      "target": "plugin_geometryscripting",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptMeshDifferenceInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenesspawntrack_moviescenesspawntrack",
+      "target": "moviescenesspawntrack_moviescenetrack",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSpawnTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformclampspatially_rigvmfunction_mathtransformclampspatially",
+      "target": "plugin_rigvm",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformClampSpatially Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintnegate_rigvmfunction_mathintnegate",
+      "target": "rigvmfunction_mathintnegate_rigvmfunction_mathintunaryop",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintnegate_rigvmfunction_mathintnegate",
+      "target": "plugin_rigvm",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmstructfieldpathhelpertest_mvvmstructfieldpathhelpertest",
+      "target": "plugin_modelviewviewmodel",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMStructFieldPathHelperTest Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangescenevariantsetsfactory_interchangescenevariantsetsfactory",
+      "target": "plugin_interchange",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeSceneVariantSetsFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiosliderbase_audiosliderbase",
+      "target": "plugin_audiowidgets",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSliderBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbangeoedentitycomponent_urbangeoedentitycomponent",
+      "target": "urbangeoedentitycomponent_urbangeoedcomponent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanGeoEdEntityComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbangeoedentitycomponent_urbangeoedentitycomponent",
+      "target": "plugin_aeseditor",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanGeoEdEntityComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesearthentity_aesearthentity",
+      "target": "aesearthentity_wdpstandardactorentity",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEarthEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesearthentity_aesearthentity",
+      "target": "plugin_aestilesentity",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEarthEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformclampspatially_rigvmfunction_mathtransformclampspatially",
+      "target": "rigvmfunction_mathtransformbinaryop_rigvmfunction_mathtransformbase",
+      "relation": "extends",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathTransformClampSpatially Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+      "target": "rigvmfunction_mathintnegate_rigvmfunction_mathintnegate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintnegate_rigvmfunction_mathintnegate",
+      "target": "rigvmfunction_mathinttofloat_rigvmfunction_mathintbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgcustomhlslsettings_pcgcustomhlslsettings",
+      "target": "pcglandscapecache_pcglandscapecache",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthstandardactorentity_earthstandardactorentity",
+      "target": "aesearthentity_aesearthentity",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesearthentity_aesearthentity",
+      "target": "urbangeoedentitycomponent_urbangeoedentitycomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Math Functions",
+      "nodes": [
+        "rigvmfunction_mathinttofloat_rigvmfunction_mathinttofloat",
+        "rigvmfunction_mathtransformbinaryop_rigvmfunction_mathtransformbinaryop",
+        "rigvmfunction_mathtransformclampspatially_rigvmfunction_mathtransformclampspatially",
+        "rigvmfunction_mathintnegate_rigvmfunction_mathintnegate",
+        "rigunit_mathdoublebinaryop_rigunit_mathdoublebinaryop"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null
+    },
+    {
+      "id": "pcg_systems",
+      "label": "PCG System Components",
+      "nodes": [
+        "pcglandscapecache_pcglandscapecache",
+        "pcgcustomhlslsettings_pcgcustomhlslsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null
+    },
+    {
+      "id": "aes_ecosystem",
+      "label": "AES Plugin Ecosystem",
+      "nodes": [
+        "earthstandardactorentity_earthstandardactorentity",
+        "urbangeoedentitycomponent_urbangeoedentitycomponent",
+        "aesearthentity_aesearthentity"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

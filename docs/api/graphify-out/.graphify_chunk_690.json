@@ -1,0 +1,572 @@
+{
+  "nodes": [
+    {
+      "id": "dmmaterialstageexpressioncrossproduct_dmmaterialstageexpressioncrossproduct",
+      "label": "DMMaterialStageExpressionCrossProduct",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionCrossProduct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleconstpi_rigunit_mathdoubleconstpi",
+      "label": "RigUnit_MathDoubleConstPi",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleConstPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleconstpi_rigvmfunction_mathdoubleconstpi",
+      "label": "RigVMFunction_MathDoubleConstPi",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleConstPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorpresettextscale_propertyanimatorpresettextscale",
+      "label": "PropertyAnimatorPresetTextScale",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorPresetTextScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcorepropertypreset_propertyanimatorcorepropertypreset",
+      "label": "PropertyAnimatorCorePropertyPreset",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorPresetTextScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundsourceeffectfactory_soundsourceeffectfactory",
+      "label": "SoundSourceEffectFactory",
+      "file_type": "code",
+      "source_file": "SoundSourceEffectFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "SoundSourceEffectFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoistyle_label_custompoistyle_label",
+      "label": "custompoiStyle_label",
+      "file_type": "code",
+      "source_file": "custompoiStyle__label Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoistyle_label_content_custompoistyle_label_content",
+      "label": "custompoiStyle_label_content",
+      "file_type": "code",
+      "source_file": "custompoiStyle__label Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolvector2d_limitsettings_rigunit_hierarchyaddcontrolvector2d_limitsettings",
+      "label": "RigUnit_HierarchyAddControlVector2D_LimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlVector2D_LimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrollimitenabled_rigcontrollimitenabled",
+      "label": "RigControlLimitEnabled",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlVector2D_LimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectcalculation_gameplayeffectcalculation",
+      "label": "GameplayEffectCalculation",
+      "file_type": "code",
+      "source_file": "GameplayEffectCalculation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proxynormalcomputationmethod_proxynormalcomputationmethod",
+      "label": "ProxyNormalComputationMethod",
+      "file_type": "code",
+      "source_file": "ProxyNormalComputationMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathrbfinterpolatevectorfloat_target_mathrbfinterpolatevectorfloat_target",
+      "label": "MathRBFInterpolateVectorFloat_Target",
+      "file_type": "code",
+      "source_file": "MathRBFInterpolateVectorFloat_Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendspaceevaluator_animnode_blendspaceevaluator",
+      "label": "AnimNode_BlendSpaceEvaluator",
+      "file_type": "code",
+      "source_file": "AnimNode_BlendSpaceEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendspaceplayer_animnode_blendspaceplayer",
+      "label": "AnimNode_BlendSpacePlayer",
+      "file_type": "code",
+      "source_file": "AnimNode_BlendSpaceEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationfilterflags_navigationfilterflags",
+      "label": "NavigationFilterFlags",
+      "file_type": "code",
+      "source_file": "NavigationFilterFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distortioninfo_distortioninfo",
+      "label": "DistortionInfo",
+      "file_type": "code",
+      "source_file": "DistortionInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialslider_radialslider",
+      "label": "RadialSlider",
+      "file_type": "code",
+      "source_file": "RadialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_widget",
+      "label": "Widget",
+      "file_type": "code",
+      "source_file": "RadialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_inertialization_animnode_inertialization",
+      "label": "AnimNode_Inertialization",
+      "file_type": "code",
+      "source_file": "AnimNode__Inertialization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_base_animnode_base",
+      "label": "AnimNode_Base",
+      "file_type": "code",
+      "source_file": "AnimNode__Inertialization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatmin_rigunit_mathfloatmin",
+      "label": "RigUnit_MathFloatMin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmin_rigvmfunction_mathfloatmin",
+      "label": "RigVMFunction_MathFloatMin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintview_mvvmblueprintview",
+      "label": "MVVMBlueprintView",
+      "file_type": "code",
+      "source_file": "MVVMBlueprintView Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aitask_runeqs_aitask_runeqs",
+      "label": "AITask_RunEQS",
+      "file_type": "code",
+      "source_file": "AITask__RunEQS Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aitask_aitask",
+      "label": "AITask",
+      "file_type": "code",
+      "source_file": "AITask__RunEQS Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatranslucentprioritymodifiermode_avatranslucentprioritymodifiermode",
+      "label": "AvaTranslucentPriorityModifierMode",
+      "file_type": "code",
+      "source_file": "AvaTranslucentPriorityModifierMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clusterunionmethod_clusterunionmethod",
+      "label": "ClusterUnionMethod",
+      "file_type": "code",
+      "source_file": "ClusterUnionMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "touchinputcomponent_ononefingerpressed_touchinputcomponent_ononefingerpressed",
+      "label": "TouchInputComponent_OnOneFingerPressed",
+      "file_type": "code",
+      "source_file": "TouchInputComponent__OnOneFingerPressed Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstaticcomponentmaskparameter_materialexpressionstaticcomponentmaskparameter",
+      "label": "MaterialExpressionStaticComponentMaskParameter",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStaticComponentMaskParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionparameter_materialexpressionparameter",
+      "label": "MaterialExpressionParameter",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStaticComponentMaskParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgroupentityatom_wdpgroupentityatom",
+      "label": "WdpGroupEntityAtom",
+      "file_type": "code",
+      "source_file": "WdpGroupEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase_entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "code",
+      "source_file": "WdpGroupEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "dmmaterialstageexpressioncrossproduct_dmmaterialstageexpressioncrossproduct",
+      "target": "rigvmfunction_mathdoubleconstpi_rigvmfunction_mathdoubleconstpi",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionCrossProduct Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleconstpi_rigunit_mathdoubleconstpi",
+      "target": "rigvmfunction_mathdoubleconstpi_rigvmfunction_mathdoubleconstpi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleConstPi Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorpresettextscale_propertyanimatorpresettextscale",
+      "target": "propertyanimatorcorepropertypreset_propertyanimatorcorepropertypreset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorPresetTextScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundsourceeffectfactory_soundsourceeffectfactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundSourceEffectFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custompoistyle_label_custompoistyle_label",
+      "target": "custompoistyle_label_content_custompoistyle_label_content",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "custompoiStyle__label Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolvector2d_limitsettings_rigunit_hierarchyaddcontrolvector2d_limitsettings",
+      "target": "rigcontrollimitenabled_rigcontrollimitenabled",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControlVector2D_LimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffectcalculation_gameplayeffectcalculation",
+      "target": "gameplayeffectcalculation_gameplayeffectcalculation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectCalculation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendspaceevaluator_animnode_blendspaceevaluator",
+      "target": "animnode_blendspaceplayer_animnode_blendspaceplayer",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_BlendSpaceEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatmin_rigunit_mathfloatmin",
+      "target": "rigvmfunction_mathfloatmin_rigvmfunction_mathfloatmin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatMin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_inertialization_animnode_inertialization",
+      "target": "animnode_base_animnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__Inertialization Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aitask_runeqs_aitask_runeqs",
+      "target": "aitask_aitask",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AITask__RunEQS Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstaticcomponentmaskparameter_materialexpressionstaticcomponentmaskparameter",
+      "target": "materialexpressionparameter_materialexpressionparameter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStaticComponentMaskParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgroupentityatom_wdpgroupentityatom",
+      "target": "entityatombase_entityatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGroupEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mathrbfinterpolatevectorfloat_target_mathrbfinterpolatevectorfloat_target",
+      "target": "animnode_blendspaceevaluator_animnode_blendspaceevaluator",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MathRBFInterpolateVectorFloat_Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navigationfilterflags_navigationfilterflags",
+      "target": "distortioninfo_distortioninfo",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NavigationFilterFlags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_math_operations",
+      "label": "Control Rig Math Operations",
+      "nodes": [
+        "rigvmfunction_mathdoubleconstpi_rigvmfunction_mathdoubleconstpi",
+        "rigvmfunction_mathfloatmin_rigvmfunction_mathfloatmin",
+        "rigunit_hierarchyaddcontrolvector2d_limitsettings_rigunit_hierarchyaddcontrolvector2d_limitsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathDoubleConstPi Objects.md"
+    },
+    {
+      "id": "animation_blending_systems",
+      "label": "Animation Blending Systems",
+      "nodes": [
+        "animnode_blendspaceevaluator_animnode_blendspaceevaluator",
+        "animnode_inertialization_animnode_inertialization",
+        "mathrbfinterpolatevectorfloat_target_mathrbfinterpolatevectorfloat_target"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode_BlendSpaceEvaluator Objects.md"
+    },
+    {
+      "id": "deprecated_rigvm_units",
+      "label": "Deprecated RigVM Units",
+      "nodes": [
+        "rigunit_mathdoubleconstpi_rigunit_mathdoubleconstpi",
+        "rigunit_mathfloatmin_rigunit_mathfloatmin"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_MathDoubleConstPi Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,531 @@
+{
+  "nodes": [
+    {
+      "id": "massactorpoolableinterface_massactorpoolableinterface",
+      "label": "MassActorPoolableInterface",
+      "file_type": "code",
+      "source_file": "MassActorPoolableInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthoutputmergeconfigfragment_earthoutputmergeconfigfragment",
+      "label": "EarthOutputMergeConfigFragment",
+      "file_type": "code",
+      "source_file": "EarthOutputMergeConfigFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapeparametricmaterial_avashapeparametricmaterial",
+      "label": "AvaShapeParametricMaterial",
+      "file_type": "code",
+      "source_file": "AvaShapeParametricMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktransformblueprintdata_livelinktransformblueprintdata",
+      "label": "LiveLinkTransformBlueprintData",
+      "file_type": "code",
+      "source_file": "LiveLinkTransformBlueprintData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hoverbasecolor_hoverbasecolor",
+      "label": "HoverBaseColor",
+      "file_type": "code",
+      "source_file": "HoverBaseColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoientityatom_custompoientityatom",
+      "label": "CustomPoiEntityAtom",
+      "file_type": "code",
+      "source_file": "CustomPoiEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "realtimeweatherdata_realtimeweatherdata",
+      "label": "RealtimeWeatherData",
+      "file_type": "code",
+      "source_file": "RealtimeWeatherData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdemextractortype_earthdemextractortype",
+      "label": "EarthDemExtractorType",
+      "file_type": "code",
+      "source_file": "EarthDemExtractorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "migration_migration",
+      "label": "Migration",
+      "file_type": "code",
+      "source_file": "Migration Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spacer_spacer",
+      "label": "Spacer",
+      "file_type": "code",
+      "source_file": "Spacer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_containment_geometryscript_containment",
+      "label": "GeometryScript_Containment",
+      "file_type": "code",
+      "source_file": "GeometryScript__Containment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratelightfunction_materialexpressionsubstratelightfunction",
+      "label": "MaterialExpressionSubstrateLightFunction",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstrateLightFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poiapi_poiapi",
+      "label": "PoiAPI",
+      "file_type": "code",
+      "source_file": "PoiAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencerchannelproxy_sequencerchannelproxy",
+      "label": "SequencerChannelProxy",
+      "file_type": "code",
+      "source_file": "SequencerChannelProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditoruisetting_aeseditoruisetting",
+      "label": "AesEditorUISetting",
+      "file_type": "code",
+      "source_file": "AesEditorUISetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playerkeymapping_playerkeymapping",
+      "label": "PlayerKeyMapping",
+      "file_type": "code",
+      "source_file": "PlayerKeyMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameviewportwidgetslot_gameviewportwidgetslot",
+      "label": "GameViewportWidgetSlot",
+      "file_type": "code",
+      "source_file": "GameViewportWidgetSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialsliderstyle_audiomaterialsliderstyle",
+      "label": "AudioMaterialSliderStyle",
+      "file_type": "code",
+      "source_file": "AudioMaterialSliderStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgconvexhull2dsettings_pcgconvexhull2dsettings",
+      "label": "PCGConvexHull2DSettings",
+      "file_type": "code",
+      "source_file": "PCGConvexHull2DSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthembankmentprefabactor_earthembankmentprefabactor",
+      "label": "EarthEmbankmentPrefabActor",
+      "file_type": "code",
+      "source_file": "EarthEmbankmentPrefabActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonersphererandomlayout_ceclonersphererandomlayout",
+      "label": "CEClonerSphereRandomLayout",
+      "file_type": "code",
+      "source_file": "CEClonerSphereRandomLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnodeassetreferencer_soundnodeassetreferencer",
+      "label": "SoundNodeAssetReferencer",
+      "file_type": "code",
+      "source_file": "SoundNodeAssetReferencer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthembankmentprefabactor_algorithm",
+      "label": "Algorithm Property",
+      "file_type": "code",
+      "source_file": "EarthEmbankmentPrefabActor Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthembankmentprefabactor_inputprovider",
+      "label": "Input Provider Property",
+      "file_type": "code",
+      "source_file": "EarthEmbankmentPrefabActor Objects.md",
+      "source_location": "line 84",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_containment_convexhull",
+      "label": "Convex Hull Computation",
+      "file_type": "code",
+      "source_file": "GeometryScript__Containment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_containment_sweptthull",
+      "label": "Swept Hull Computation",
+      "file_type": "code",
+      "source_file": "GeometryScript__Containment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_containment_convexdecomposition",
+      "label": "Convex Decomposition Computation",
+      "file_type": "code",
+      "source_file": "GeometryScript__Containment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoientityatom_marker_system",
+      "label": "POI Marker System",
+      "file_type": "code",
+      "source_file": "CustomPoiEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompoientityatom_label_system",
+      "label": "POI Label System",
+      "file_type": "code",
+      "source_file": "CustomPoiEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "realtimeweatherdata_weather_components",
+      "label": "Weather Data Components",
+      "file_type": "code",
+      "source_file": "RealtimeWeatherData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometryscript_containment_geometryscript_containment",
+      "target": "geometryscript_containment_convexhull",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Containment Objects.md",
+      "source_location": "lines 49-81",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_containment_geometryscript_containment",
+      "target": "geometryscript_containment_sweptthull",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Containment Objects.md",
+      "source_location": "lines 15-48",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_containment_geometryscript_containment",
+      "target": "geometryscript_containment_convexdecomposition",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Containment Objects.md",
+      "source_location": "lines 82-115",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_containment_convexhull",
+      "target": "pcgconvexhull2dsettings_pcgconvexhull2dsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__Containment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthembankmentprefabactor_earthembankmentprefabactor",
+      "target": "earthembankmentprefabactor_algorithm",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthEmbankmentPrefabActor Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "earthembankmentprefabactor_earthembankmentprefabactor",
+      "target": "earthembankmentprefabactor_inputprovider",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthEmbankmentPrefabActor Objects.md",
+      "source_location": "line 84",
+      "weight": 1.0
+    },
+    {
+      "source": "earthembankmentprefabactor_earthembankmentprefabactor",
+      "target": "earthoutputmergeconfigfragment_earthoutputmergeconfigfragment",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthEmbankmentPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthembankmentprefabactor_earthembankmentprefabactor",
+      "target": "earthdemextractortype_earthdemextractortype",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthEmbankmentPrefabActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custompoientityatom_custompoientityatom",
+      "target": "custompoientityatom_marker_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CustomPoiEntityAtom Objects.md",
+      "source_location": "lines 21-24",
+      "weight": 1.0
+    },
+    {
+      "source": "custompoientityatom_custompoientityatom",
+      "target": "custompoientityatom_label_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CustomPoiEntityAtom Objects.md",
+      "source_location": "lines 18-19",
+      "weight": 1.0
+    },
+    {
+      "source": "poiapi_poiapi",
+      "target": "custompoientityatom_custompoientityatom",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PoiAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "realtimeweatherdata_realtimeweatherdata",
+      "target": "realtimeweatherdata_weather_components",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RealtimeWeatherData Objects.md",
+      "source_location": "lines 17-19",
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialsliderstyle_audiomaterialsliderstyle",
+      "target": "spacer_spacer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AudioMaterialSliderStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonersphererandomlayout_ceclonersphererandomlayout",
+      "target": "geometryscript_containment_sweptthull",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CEClonerSphereRandomLayout Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massactorpoolableinterface_massactorpoolableinterface",
+      "target": "earthembankmentprefabactor_earthembankmentprefabactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MassActorPoolableInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "earth_prefab_system",
+      "label": "Earth Prefab System",
+      "nodes": [
+        "earthembankmentprefabactor_earthembankmentprefabactor",
+        "earthoutputmergeconfigfragment_earthoutputmergeconfigfragment",
+        "earthdemextractortype_earthdemextractortype"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthEmbankmentPrefabActor Objects.md"
+    },
+    {
+      "id": "poi_system",
+      "label": "Point of Interest System",
+      "nodes": [
+        "poiapi_poiapi",
+        "custompoientityatom_custompoientityatom",
+        "custompoientityatom_marker_system",
+        "custompoientityatom_label_system"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PoiAPI Objects.md"
+    },
+    {
+      "id": "convex_geometry_functions",
+      "label": "Convex Geometry Functions",
+      "nodes": [
+        "geometryscript_containment_convexhull",
+        "geometryscript_containment_sweptthull",
+        "geometryscript_containment_convexdecomposition",
+        "pcgconvexhull2dsettings_pcgconvexhull2dsettings"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__Containment Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

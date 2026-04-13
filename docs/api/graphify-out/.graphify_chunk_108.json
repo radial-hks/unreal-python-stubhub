@@ -1,0 +1,512 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathvectorabs",
+      "label": "RigVMFunction_MathVectorAbs",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathvectorabs_result",
+      "label": "Result Vector",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathvectorabs_value",
+      "label": "Value Vector",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_lightcardrendersettings",
+      "label": "DisplayClusterConfigurationICVFX_LightcardRenderSettings",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_LightcardRenderSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightcard_rendersettings",
+      "label": "Lightcard Render Settings",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_LightcardRenderSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basematerialtranslation",
+      "label": "BaseMaterialTranslation",
+      "file_type": "document",
+      "source_file": "BaseMaterialTranslation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialtranslation_dataarray",
+      "label": "Material Translation Data Array",
+      "file_type": "document",
+      "source_file": "BaseMaterialTranslation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstep",
+      "label": "MaterialExpressionStep",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "step_constx",
+      "label": "Step Constant X",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "step_consty",
+      "label": "Step Constant Y",
+      "file_type": "document",
+      "source_file": "MaterialExpressionStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdmetadatavalue",
+      "label": "UsdMetadataValue",
+      "file_type": "document",
+      "source_file": "UsdMetadataValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usd_metadata_stringification",
+      "label": "USD Metadata Stringification",
+      "file_type": "document",
+      "source_file": "UsdMetadataValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilityinputkeyselector",
+      "label": "EditorUtilityInputKeySelector",
+      "file_type": "document",
+      "source_file": "EditorUtilityInputKeySelector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "input_key_selection",
+      "label": "Input Key Selection",
+      "file_type": "document",
+      "source_file": "EditorUtilityInputKeySelector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffecteqband",
+      "label": "SubmixEffectEQBand",
+      "file_type": "document",
+      "source_file": "SubmixEffectEQBand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eq_band_parameters",
+      "label": "EQ Band Parameters",
+      "file_type": "document",
+      "source_file": "SubmixEffectEQBand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetpreview",
+      "label": "WidgetPreview",
+      "file_type": "document",
+      "source_file": "WidgetPreview Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_slot_management",
+      "label": "Widget Slot Management",
+      "file_type": "document",
+      "source_file": "WidgetPreview Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustermoviepipelineviewportpass_detaillighting",
+      "label": "DisplayClusterMoviePipelineViewportPass_DetailLighting",
+      "file_type": "document",
+      "source_file": "DisplayClusterMoviePipelineViewportPass_DetailLighting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndetail_detaillighting_pass",
+      "label": "nDisplay Detail Lighting Pass",
+      "file_type": "document",
+      "source_file": "DisplayClusterMoviePipelineViewportPass_DetailLighting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummetadatagenericvalueblueprintlibrary",
+      "label": "CesiumMetadataGenericValueBlueprintLibrary",
+      "file_type": "document",
+      "source_file": "CesiumMetadataGenericValueBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_cesium_library",
+      "label": "Deprecated Cesium Metadata Library",
+      "file_type": "document",
+      "source_file": "CesiumMetadataGenericValueBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolormul",
+      "label": "RigVMFunction_MathColorMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathColorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "color_multiplication",
+      "label": "Color Multiplication",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathColorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorfloat",
+      "label": "RigVMFunction_MathRBFInterpolateVectorFloat",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rbf_interpolation",
+      "label": "RBF Interpolation",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathvectorabs",
+      "target": "mathvectorabs_result",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorabs",
+      "target": "mathvectorabs_value",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mathvectorabs_value",
+      "target": "mathvectorabs_result",
+      "relation": "transforms_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_lightcardrendersettings",
+      "target": "lightcard_rendersettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_LightcardRenderSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "basematerialtranslation",
+      "target": "materialtranslation_dataarray",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BaseMaterialTranslation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstep",
+      "target": "step_constx",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStep Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstep",
+      "target": "step_consty",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStep Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "step_constx",
+      "target": "step_consty",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionStep Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "usdmetadatavalue",
+      "target": "usd_metadata_stringification",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UsdMetadataValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilityinputkeyselector",
+      "target": "input_key_selection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityInputKeySelector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "submixeffecteqband",
+      "target": "eq_band_parameters",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixEffectEQBand Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widgetpreview",
+      "target": "widget_slot_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetPreview Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustermoviepipelineviewportpass_detaillighting",
+      "target": "ndetail_detaillighting_pass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterMoviePipelineViewportPass_DetailLighting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiummetadatagenericvalueblueprintlibrary",
+      "target": "deprecated_cesium_library",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumMetadataGenericValueBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcolormul",
+      "target": "color_multiplication",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathColorMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatevectorfloat",
+      "target": "rbf_interpolation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorabs",
+      "target": "rigvmfunction_mathcolormul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorabs",
+      "target": "rigvmfunction_mathrbfinterpolatevectorfloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcolormul",
+      "target": "rigvmfunction_mathrbfinterpolatevectorfloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathColorMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathvectorabs",
+        "rigvmfunction_mathcolormul",
+        "rigvmfunction_mathrbfinterpolatevectorfloat"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathVectorAbs Objects.md"
+    },
+    {
+      "id": "unreal_rendering_pipeline_components",
+      "label": "Unreal Rendering Pipeline Components",
+      "nodes": [
+        "displayclusterconfigurationicvfx_lightcardrendersettings",
+        "displayclustermoviepipelineviewportpass_detaillighting",
+        "materialexpressionstep"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DisplayClusterConfigurationICVFX_LightcardRenderSettings Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

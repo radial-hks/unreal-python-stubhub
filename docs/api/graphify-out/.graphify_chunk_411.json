@@ -1,0 +1,927 @@
+{
+  "nodes": [
+    {
+      "id": "pcgworldactor_pcgworldactor",
+      "label": "PCGWorldActor",
+      "file_type": "document",
+      "source_file": "PCGWorldActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgworldactor_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "PCGWorldActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgworldactor_pcglandscapecache",
+      "label": "PCGLandscapeCache",
+      "file_type": "document",
+      "source_file": "PCGWorldActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityinputbinds_gameplayabilityinputbinds",
+      "label": "GameplayAbilityInputBinds",
+      "file_type": "document",
+      "source_file": "GameplayAbilityInputBinds Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityinputbinds_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "GameplayAbilityInputBinds Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdynamicmeshtransformsettings_pcgdynamicmeshtransformsettings",
+      "label": "PCGDynamicMeshTransformSettings",
+      "file_type": "document",
+      "source_file": "PCGDynamicMeshTransformSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdynamicmeshtransformsettings_pcgdynamicmeshbasesettings",
+      "label": "PCGDynamicMeshBaseSettings",
+      "file_type": "document",
+      "source_file": "PCGDynamicMeshTransformSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectchoruspreset_sourceeffectchoruspreset",
+      "label": "SourceEffectChorusPreset",
+      "file_type": "document",
+      "source_file": "SourceEffectChorusPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectchoruspreset_soundeffectsourcepreset",
+      "label": "SoundEffectSourcePreset",
+      "file_type": "document",
+      "source_file": "SourceEffectChorusPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectchoruspreset_sourceeffectchorussettings",
+      "label": "SourceEffectChorusSettings",
+      "file_type": "document",
+      "source_file": "SourceEffectChorusPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectchoruspreset_soundmodulatorbase",
+      "label": "SoundModulatorBase",
+      "file_type": "document",
+      "source_file": "SourceEffectChorusPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetdata_locationinfo_gameplayabilitytargetdata_locationinfo",
+      "label": "GameplayAbilityTargetData_LocationInfo",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetData__LocationInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetdata_locationinfo_gameplayabilitytargetdata",
+      "label": "GameplayAbilityTargetData",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetData__LocationInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetdata_locationinfo_gameplayabilitytargetinglocationinfo",
+      "label": "GameplayAbilityTargetingLocationInfo",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetData__LocationInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecomposureexportclient_moviescenecomposureexportclient",
+      "label": "MovieSceneComposureExportClient",
+      "file_type": "document",
+      "source_file": "MovieSceneComposureExportClient Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecomposureexportclient_interface",
+      "label": "Interface",
+      "file_type": "document",
+      "source_file": "MovieSceneComposureExportClient Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecomposureexportclient_moviescenecomposureexportinitializer",
+      "label": "MovieSceneComposureExportInitializer",
+      "file_type": "document",
+      "source_file": "MovieSceneComposureExportClient Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinepieexecutor_moviepipelinepieexecutor",
+      "label": "MoviePipelinePIEExecutor",
+      "file_type": "document",
+      "source_file": "MoviePipelinePIEExecutor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinepieexecutor_moviepipelinelinearexecutorbase",
+      "label": "MoviePipelineLinearExecutorBase",
+      "file_type": "document",
+      "source_file": "MoviePipelinePIEExecutor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinepieexecutor_moviepipeline",
+      "label": "MoviePipeline",
+      "file_type": "document",
+      "source_file": "MoviePipelinePIEExecutor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgselectgrammarcomparator_pcgselectgrammarcomparator",
+      "label": "PCGSelectGrammarComparator",
+      "file_type": "document",
+      "source_file": "PCGSelectGrammarComparator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "legacypytestobject_legacypytestobject",
+      "label": "LegacyPyTestObject",
+      "file_type": "document",
+      "source_file": "LegacyPyTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "legacypytestobject_pytestobject",
+      "label": "PyTestObject",
+      "file_type": "document",
+      "source_file": "LegacyPyTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraint_constraint",
+      "label": "Constraint",
+      "file_type": "document",
+      "source_file": "Constraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraint_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "Constraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraint_bonereference",
+      "label": "BoneReference",
+      "file_type": "document",
+      "source_file": "Constraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wmsentity_wmsentity",
+      "label": "WMSEntity",
+      "file_type": "document",
+      "source_file": "WMSEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wmsentity_wdpactorentity",
+      "label": "WdpActorEntity",
+      "file_type": "document",
+      "source_file": "WMSEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wmsentity_entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "WMSEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "circularthrobber_circularthrobber",
+      "label": "CircularThrobber",
+      "file_type": "document",
+      "source_file": "CircularThrobber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "circularthrobber_widget",
+      "label": "Widget",
+      "file_type": "document",
+      "source_file": "CircularThrobber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "circularthrobber_slatebrush",
+      "label": "SlateBrush",
+      "file_type": "document",
+      "source_file": "CircularThrobber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinefinished_moviepipelinefinished",
+      "label": "MoviePipelineFinished",
+      "file_type": "document",
+      "source_file": "MoviePipelineFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinefinished_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "MoviePipelineFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathtransformmake_rigunit__mathtransformmake",
+      "label": "RigUnit_MathTransformMake",
+      "file_type": "document",
+      "source_file": "RigUnit__MathTransformMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathtransformmake_rigvmfunction__mathtransformmake",
+      "label": "RigVMFunction_MathTransformMake",
+      "file_type": "document",
+      "source_file": "RigUnit__MathTransformMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papertilelayer_papertilelayer",
+      "label": "PaperTileLayer",
+      "file_type": "document",
+      "source_file": "PaperTileLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papertilelayer_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "PaperTileLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onduplicateactorsend_onduplicateactorsend",
+      "label": "OnDuplicateActorsEnd",
+      "file_type": "document",
+      "source_file": "OnDuplicateActorsEnd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneeventparameters_moviesceneeventparameters",
+      "label": "MovieSceneEventParameters",
+      "file_type": "document",
+      "source_file": "MovieSceneEventParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorbbkey__string_valueorbbkey__string",
+      "label": "ValueOrBBKey_String",
+      "file_type": "document",
+      "source_file": "ValueOrBBKey__String Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorbbkey__string_valueorblackboardkeybase",
+      "label": "ValueOrBlackboardKeyBase",
+      "file_type": "document",
+      "source_file": "ValueOrBBKey__String Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "translationrepresentation_translationrepresentation",
+      "label": "TranslationRepresentation",
+      "file_type": "document",
+      "source_file": "TranslationRepresentation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "translationrepresentation_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "TranslationRepresentation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchtrajectorysample_posesearchtrajectorysample",
+      "label": "PoseSearchTrajectorySample",
+      "file_type": "document",
+      "source_file": "PoseSearchTrajectorySample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchtrajectorysample_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "PoseSearchTrajectorySample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithmdlsceneimportdata_datasmithmdlsceneimportdata",
+      "label": "DatasmithMDLSceneImportData",
+      "file_type": "document",
+      "source_file": "DatasmithMDLSceneImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithmdlsceneimportdata_datasmithsceneimportdata",
+      "label": "DatasmithSceneImportData",
+      "file_type": "document",
+      "source_file": "DatasmithMDLSceneImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfulatsmapcolorindexmapping_earthfulatsmapcolorindexmapping",
+      "label": "EarthSplatMapColorIndexMapping",
+      "file_type": "document",
+      "source_file": "EarthSplatMapColorIndexMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfulatsmapcolorindexmapping_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "EarthSplatMapColorIndexMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgworldactor_pcgworldactor",
+      "target": "pcgworldactor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGWorldActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgworldactor_pcgworldactor",
+      "target": "pcgworldactor_pcglandscapecache",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGWorldActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilityinputbinds_gameplayabilityinputbinds",
+      "target": "gameplayabilityinputbinds_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityInputBinds Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdynamicmeshtransformsettings_pcgdynamicmeshtransformsettings",
+      "target": "pcgdynamicmeshtransformsettings_pcgdynamicmeshbasesettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDynamicMeshTransformSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectchoruspreset_sourceeffectchoruspreset",
+      "target": "sourceeffectchoruspreset_soundeffectsourcepreset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectChorusPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectchoruspreset_sourceeffectchoruspreset",
+      "target": "sourceeffectchoruspreset_sourceeffectchorussettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectChorusPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectchoruspreset_sourceeffectchoruspreset",
+      "target": "sourceeffectchoruspreset_soundmodulatorbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectChorusPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilitytargetdata_locationinfo_gameplayabilitytargetdata_locationinfo",
+      "target": "gameplayabilitytargetdata_locationinfo_gameplayabilitytargetdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetData__LocationInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilitytargetdata_locationinfo_gameplayabilitytargetdata_locationinfo",
+      "target": "gameplayabilitytargetdata_locationinfo_gameplayabilitytargetinglocationinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetData__LocationInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecomposureexportclient_moviescenecomposureexportclient",
+      "target": "moviescenecomposureexportclient_interface",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneComposureExportClient Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecomposureexportclient_moviescenecomposureexportclient",
+      "target": "moviescenecomposureexportclient_moviescenecomposureexportinitializer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneComposureExportClient Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinepieexecutor_moviepipelinepieexecutor",
+      "target": "moviepipelinepieexecutor_moviepipelinelinearexecutorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelinePIEExecutor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinepieexecutor_moviepipelinepieexecutor",
+      "target": "moviepipelinepieexecutor_moviepipeline",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MoviePipelinePIEExecutor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgselectgrammarcomparator_pcgselectgrammarcomparator",
+      "target": "gameplayabilityinputbinds_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSelectGrammarComparator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "legacypytestobject_legacypytestobject",
+      "target": "legacypytestobject_pytestobject",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LegacyPyTestObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraint_constraint",
+      "target": "constraint_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Constraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraint_constraint",
+      "target": "constraint_bonereference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Constraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wmsentity_wmsentity",
+      "target": "wmsentity_wdpactorentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WMSEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wmsentity_wmsentity",
+      "target": "wmsentity_entityatombase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WMSEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "circularthrobber_circularthrobber",
+      "target": "circularthrobber_widget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CircularThrobber Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "circularthrobber_circularthrobber",
+      "target": "circularthrobber_slatebrush",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CircularThrobber Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinefinished_moviepipelinefinished",
+      "target": "moviepipelinefinished_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineFinished Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinefinished_moviepipelinefinished",
+      "target": "moviepipelinepieexecutor_moviepipeline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineFinished Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathtransformmake_rigunit__mathtransformmake",
+      "target": "rigunit__mathtransformmake_rigvmfunction__mathtransformmake",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "papertilelayer_papertilelayer",
+      "target": "papertilelayer_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperTileLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onduplicateactorsend_onduplicateactorsend",
+      "target": "moviepipelinefinished_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDuplicateActorsEnd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneeventparameters_moviesceneeventparameters",
+      "target": "constraint_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneEventParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "valueorbbkey__string_valueorbbkey__string",
+      "target": "valueorbbkey__string_valueorblackboardkeybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ValueOrBBKey__String Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "translationrepresentation_translationrepresentation",
+      "target": "gameplayabilityinputbinds_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TranslationRepresentation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchtrajectorysample_posesearchtrajectorysample",
+      "target": "posesearchtrajectorysample_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchTrajectorySample Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithmdlsceneimportdata_datasmithmdlsceneimportdata",
+      "target": "datasmithmdlsceneimportdata_datasmithsceneimportdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithMDLSceneImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfulatsmapcolorindexmapping_earthfulatsmapcolorindexmapping",
+      "target": "earthfulatsmapcolorindexmapping_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSplatMapColorIndexMapping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wmsentity_wdpactorentity",
+      "target": "pcgworldactor_actor",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WMSEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinepieexecutor_moviepipelinepieexecutor",
+      "target": "moviepipelinefinished_moviepipelinefinished",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MoviePipelinePIEExecutor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "movie_pipeline_rendering_system",
+      "label": "Movie Pipeline Rendering System",
+      "nodes": [
+        "moviepipelinepieexecutor_moviepipelinepieexecutor",
+        "moviepipelinefinished_moviepipelinefinished",
+        "moviepipelinepieexecutor_moviepipeline"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MoviePipelinePIEExecutor Objects.md"
+    },
+    {
+      "id": "struct_based_data_structures",
+      "label": "Struct-based Data Structures",
+      "nodes": [
+        "constraint_constraint",
+        "moviesceneeventparameters_moviesceneeventparameters",
+        "posesearchtrajectorysample_posesearchtrajectorysample",
+        "earthfulatsmapcolorindexmapping_earthfulatsmapcolorindexmapping"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Constraint Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,497 @@
+{
+  "nodes": [
+    {
+      "id": "earthfacadeprefabalgorithm_deprecated",
+      "label": "EarthFacadePrefabAlgorithm Deprecated",
+      "file_type": "code",
+      "source_file": "EarthFacadePrefabAlgorithm__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorbounce",
+      "label": "PropertyAnimatorBounce",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorBounce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modularrigmodel",
+      "label": "ModularRigModel",
+      "file_type": "code",
+      "source_file": "ModularRigModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintgeneratedclass",
+      "label": "BlueprintGeneratedClass",
+      "file_type": "code",
+      "source_file": "BlueprintGeneratedClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffecteqpreset",
+      "label": "SourceEffectEQPreset",
+      "file_type": "code",
+      "source_file": "SourceEffectEQPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collectionreference",
+      "label": "CollectionReference",
+      "file_type": "code",
+      "source_file": "CollectionReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_animevalrichcurve",
+      "label": "RigUnit AnimEvalRichCurve",
+      "file_type": "code",
+      "source_file": "RigUnit__AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "instanceradialdamagesignature",
+      "label": "InstanceRadialDamageSignature",
+      "file_type": "code",
+      "source_file": "InstanceRadialDamageSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingpropertychangedevent",
+      "label": "AesBuildingPropertyChangedEvent",
+      "file_type": "code",
+      "source_file": "AesBuildingPropertyChangedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onactorlabelchanged",
+      "label": "OnActorLabelChanged",
+      "file_type": "code",
+      "source_file": "OnActorLabelChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublesign",
+      "label": "RigVMFunction MathDoubleSign",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "superapi_jsontype",
+      "label": "SuperAPI JsonType",
+      "file_type": "code",
+      "source_file": "SuperAPI__JsonType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorremap",
+      "label": "RigVMFunction MathVectorRemap",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintcameradirectorevaluationparams",
+      "label": "BlueprintCameraDirectorEvaluationParams",
+      "file_type": "code",
+      "source_file": "BlueprintCameraDirectorEvaluationParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpbuttonslot",
+      "label": "WdpButtonSlot",
+      "file_type": "code",
+      "source_file": "WdpButtonSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerembankfencetype",
+      "label": "WdpModelerEmbankFenceType",
+      "file_type": "code",
+      "source_file": "WdpModelerEmbankFenceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflowtransfervertexattributenodeboundingvolume",
+      "label": "DataflowTransferVertexAttributeNodeBoundingVolume",
+      "file_type": "code",
+      "source_file": "DataflowTransferVertexAttributeNodeBoundingVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatefxsubsystem",
+      "label": "SlateFXSubsystem",
+      "file_type": "code",
+      "source_file": "SlateFXSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fftsize",
+      "label": "FFTSize",
+      "file_type": "code",
+      "source_file": "FFTSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmodelerroadlanetype",
+      "label": "EarthModelerRoadLaneType",
+      "file_type": "code",
+      "source_file": "EarthModelerRoadLaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaoslistenercomponent",
+      "label": "ChaosEventListenerComponent",
+      "file_type": "code",
+      "source_file": "ChaosEventListenerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_multiwayblend",
+      "label": "AnimNode MultiWayBlend",
+      "file_type": "code",
+      "source_file": "AnimNode_MultiWayBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabalgorithm",
+      "label": "EarthPrefabAlgorithm",
+      "file_type": "code",
+      "source_file": "EarthFacadePrefabAlgorithm__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatornumericbase",
+      "label": "PropertyAnimatorNumericBase",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorBounce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "ModularRigModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animevalrichcurve",
+      "label": "RigVMFunction AnimEvalRichCurve",
+      "file_type": "code",
+      "source_file": "RigUnit__AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleunaryop",
+      "label": "RigVMFunction MathDoubleUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction MathVectorBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "earthfacadeprefabalgorithm_deprecated",
+      "target": "earthprefabalgorithm",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadePrefabAlgorithm__Deprecated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorbounce",
+      "target": "propertyanimatornumericbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorBounce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modularrigmodel",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModularRigModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collectionreference",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CollectionReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintcameradirectorevaluationparams",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlueprintCameraDirectorEvaluationParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_animevalrichcurve",
+      "target": "rigvmfunction_animevalrichcurve",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublesign",
+      "target": "rigvmfunction_mathdoubleunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorremap",
+      "target": "rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorRemap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorremap",
+      "target": "rigunit_animevalrichcurve",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorRemap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingpropertychangedevent",
+      "target": "instanceradialdamagesignature",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesBuildingPropertyChangedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingpropertychangedevent",
+      "target": "onactorlabelchanged",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesBuildingPropertyChangedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "instanceradialdamagesignature",
+      "target": "onactorlabelchanged",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InstanceRadialDamageSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffecteqpreset",
+      "target": "slatefxsubsystem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "SourceEffectEQPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpbuttonslot",
+      "target": "animnode_multiwayblend",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.60,
+      "source_file": "WdpButtonSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Math Transformation Functions",
+      "nodes": [
+        "rigvmfunction_mathdoublesign",
+        "rigvmfunction_mathvectorremap",
+        "rigunit_animevalrichcurve"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigVMFunction_MathVectorRemap Objects.md"
+    },
+    {
+      "id": "unreal_event_delegates",
+      "label": "Unreal Engine Event Delegate Types",
+      "nodes": [
+        "aesbuildingpropertychangedevent",
+        "instanceradialdamagesignature",
+        "onactorlabelchanged"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesBuildingPropertyChangedEvent Objects.md"
+    },
+    {
+      "id": "aes_world_prefab_system",
+      "label": "AesWorld Prefab Generation System",
+      "nodes": [
+        "earthfacadeprefabalgorithm_deprecated",
+        "earthmodelerroadlanetype",
+        "wdpmodelerembankfencetype"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthFacadePrefabAlgorithm__Deprecated Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

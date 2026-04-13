@@ -1,0 +1,422 @@
+{
+  "nodes": [
+    {
+      "id": "vreditor_dockablecamerawindow",
+      "label": "VREditorDockableCameraWindow",
+      "file_type": "code",
+      "source_file": "VREditorDockableCameraWindow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fixtinygeo_geometryselectionmethod",
+      "label": "FixTinyGeoGeometrySelectionMethod",
+      "file_type": "code",
+      "source_file": "FixTinyGeoGeometrySelectionMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroad_terrainbuffersettings",
+      "label": "EarthRoadTerrainBufferSettings",
+      "file_type": "code",
+      "source_file": "EarthRoadTerrainBufferSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceeditor_blueprintlibrary",
+      "label": "LevelSequenceEditorBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "LevelSequenceEditorBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene_markedframe",
+      "label": "MovieSceneMarkedFrame",
+      "file_type": "code",
+      "source_file": "MovieSceneMarkedFrame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_animeasing",
+      "label": "RigUnit_AnimEasing",
+      "file_type": "code",
+      "source_file": "RigUnit__AnimEasing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvalue_float1",
+      "label": "DMMaterialValueFloat1",
+      "file_type": "code",
+      "source_file": "DMMaterialValueFloat1 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene_niagarasystemspawnsection",
+      "label": "MovieSceneNiagaraSystemSpawnSection",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraSystemSpawnSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpeffectselect_apiregister",
+      "label": "DCPEffectSelectAPIRegister",
+      "file_type": "code",
+      "source_file": "DCPEffectSelectAPIRegister Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffect_ringmodulationpreset",
+      "label": "SourceEffectRingModulationPreset",
+      "file_type": "code",
+      "source_file": "SourceEffectRingModulationPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_spacename",
+      "label": "RigUnit_SpaceName",
+      "file_type": "code",
+      "source_file": "RigUnit__SpaceName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugtransform",
+      "label": "RigUnit_DebugTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_DebugTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "instancedstruct",
+      "label": "InstancedStruct",
+      "file_type": "code",
+      "source_file": "InstancedStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsequence_levelsequencelink",
+      "label": "AnimSequenceLevelSequenceLink",
+      "file_type": "code",
+      "source_file": "AnimSequenceLevelSequenceLink Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradefaultrenderer_pixelcoveragemode",
+      "label": "NiagaraDefaultRendererPixelCoverageMode",
+      "file_type": "code",
+      "source_file": "NiagaraDefaultRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvalue_float4dynamic",
+      "label": "DMMaterialValueFloat4Dynamic",
+      "file_type": "code",
+      "source_file": "DMMaterialValueFloat4Dynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ava_extrudemode",
+      "label": "AvaExtrudeMode",
+      "file_type": "code",
+      "source_file": "AvaExtrudeMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hardwareinput_devicechanged",
+      "label": "HardwareInputDeviceChanged",
+      "file_type": "code",
+      "source_file": "HardwareInputDeviceChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "networkphysics_component",
+      "label": "NetworkPhysicsComponent",
+      "file_type": "code",
+      "source_file": "NetworkPhysicsComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffect_dynamicspeakmode",
+      "label": "SubmixEffectDynamicsPeakMode",
+      "file_type": "code",
+      "source_file": "SubmixEffectDynamicsPeakMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommandparams_flatten",
+      "label": "AesTerrainEditorCommandParams_Flatten",
+      "file_type": "code",
+      "source_file": "AesTerrainEditorCommandParams__Flatten Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "determinism_fence",
+      "label": "Determinism Fence",
+      "file_type": "document",
+      "source_file": "MovieSceneMarkedFrame Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_system_spawn_behavior",
+      "label": "Niagara System Spawn Behavior",
+      "file_type": "document",
+      "source_file": "MovieSceneNiagaraSystemSpawnSection Objects.md",
+      "source_location": "lines 27-30",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "vreditor_dockablecamerawindow",
+      "target": "vreditor_dockablecamerawindow",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VREditorDockableCameraWindow Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene_markedframe",
+      "target": "determinism_fence",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneMarkedFrame Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene_niagarasystemspawnsection",
+      "target": "niagara_system_spawn_behavior",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraSystemSpawnSection Objects.md",
+      "source_location": "lines 27-30",
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceeditor_blueprintlibrary",
+      "target": "moviescene_markedframe",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LevelSequenceEditorBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequence_levelsequencelink",
+      "target": "levelsequenceeditor_blueprintlibrary",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimSequenceLevelSequenceLink Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene_niagarasystemspawnsection",
+      "target": "moviescene_markedframe",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneNiagaraSystemSpawnSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvalue_float1",
+      "target": "dmmaterialvalue_float4dynamic",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DMMaterialValueFloat1 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransform",
+      "target": "rigunit_spacename",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_DebugTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_animeasing",
+      "target": "rigunit_debugtransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__AnimEasing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "networkphysics_component",
+      "target": "animsequence_levelsequencelink",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NetworkPhysicsComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "instancedstruct",
+      "target": "earthroad_terrainbuffersettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InstancedStruct Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffect_ringmodulationpreset",
+      "target": "submixeffect_dynamicspeakmode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SourceEffectRingModulationPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "level_sequence_ecosystem",
+      "label": "Level Sequence Ecosystem",
+      "nodes": [
+        "levelsequenceeditor_blueprintlibrary",
+        "moviescene_markedframe",
+        "animsequence_levelsequencelink",
+        "moviescene_niagarasystemspawnsection"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LevelSequenceEditorBlueprintLibrary Objects.md"
+    },
+    {
+      "id": "rig_animation_system",
+      "label": "Rig Animation System",
+      "nodes": [
+        "rigunit_animeasing",
+        "rigunit_spacename",
+        "rigunit_debugtransform"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__AnimEasing Objects.md"
+    },
+    {
+      "id": "dynamic_material_values",
+      "label": "Dynamic Material Values",
+      "nodes": [
+        "dmmaterialvalue_float1",
+        "dmmaterialvalue_float4dynamic"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DMMaterialValueFloat1 Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,814 @@
+{
+  "nodes": [
+    {
+      "id": "geometrymaskcanvasactor",
+      "label": "Geometry Mask Canvas Actor",
+      "file_type": "code",
+      "source_file": "GeometryMaskCanvasActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmuserworkflowoptions",
+      "label": "RigVM User Workflow Options",
+      "file_type": "code",
+      "source_file": "RigVMUserWorkflowOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterialmodel",
+      "label": "Dynamic Material Model",
+      "file_type": "code",
+      "source_file": "DynamicMaterialModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_drawcontainersetcolor",
+      "label": "Rig Unit Draw Container Set Color",
+      "file_type": "code",
+      "source_file": "RigUnit_DrawContainerSetColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundbuildersubsystem",
+      "label": "MetaSound Builder Subsystem",
+      "file_type": "code",
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameradirectorstatetreeevaluationdata",
+      "label": "Camera Director State Tree Evaluation Data",
+      "file_type": "code",
+      "source_file": "CameraDirectorStateTreeEvaluationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pickaestilesnodesbyrectparam",
+      "label": "Pick Aes Tiles Nodes By Rect Param",
+      "file_type": "code",
+      "source_file": "PickAesTilesNodesByRectParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairsimulationsettings",
+      "label": "Hair Simulation Settings",
+      "file_type": "code",
+      "source_file": "HairSimulationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onspectrumresults",
+      "label": "On Spectrum Results",
+      "file_type": "code",
+      "source_file": "OnSpectrumResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetransformanimationtracknode",
+      "label": "Interchange Transform Animation Track Node",
+      "file_type": "code",
+      "source_file": "InterchangeTransformAnimationTrackNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundsourcebussendinfo",
+      "label": "Sound Source Bus Send Info",
+      "file_type": "code",
+      "source_file": "SoundSourceBusSendInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvelinearcoloratlasfactory",
+      "label": "Curve Linear Color Atlas Factory",
+      "file_type": "code",
+      "source_file": "CurveLinearColorAtlasFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolrotator_entry",
+      "label": "Rig Unit Set Multi Control Rotator Entry",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMultiControlRotator__Entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massmovementstyleref",
+      "label": "Mass Movement Style Ref",
+      "file_type": "code",
+      "source_file": "MassMovementStyleRef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintsscriptinglibrary",
+      "label": "Constraints Scripting Library",
+      "file_type": "code",
+      "source_file": "ConstraintsScriptingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectiondebugdrawcomponent",
+      "label": "Geometry Collection Debug Draw Component",
+      "file_type": "code",
+      "source_file": "GeometryCollectionDebugDrawComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectbehaviorconfigbase",
+      "label": "Smart Object Behavior Config Base",
+      "file_type": "code",
+      "source_file": "SmartObjectBehaviorConfigBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cachespawnabletemplate",
+      "label": "Cache Spawnable Template",
+      "file_type": "code",
+      "source_file": "CacheSpawnableTemplate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsfieldstatics",
+      "label": "Physics Field Statics",
+      "file_type": "code",
+      "source_file": "PhysicsFieldStatics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshtransforms",
+      "label": "Geometry Script Mesh Transforms",
+      "file_type": "code",
+      "source_file": "GeometryScript__MeshTransforms Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "channelmaskparametercolor",
+      "label": "Channel Mask Parameter Color",
+      "file_type": "code",
+      "source_file": "ChannelMaskParameterColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudspriteshape",
+      "label": "Lidar Point Cloud Sprite Shape",
+      "file_type": "code",
+      "source_file": "LidarPointCloudSpriteShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometrymaskcanvasactor",
+      "target": "canvasrendertarget2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryMaskCanvasActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodel",
+      "target": "dmmaterialvalue",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodel",
+      "target": "dmmaterialcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasoundsourcebuilder",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasoundpatchbuilder",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasoundbuilderbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasoundfrontendliteral",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "audioparameter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairsimulationsettings",
+      "target": "hairsimulationsetup",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairSimulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairsimulationsettings",
+      "target": "hairsimulationsolver",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairSimulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairsimulationsettings",
+      "target": "hairsimulationforces",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairSimulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairsimulationsettings",
+      "target": "hairsimulationconstraints",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairSimulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundsourcebussendinfo",
+      "target": "audiobus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundSourceBusSendInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundsourcebussendinfo",
+      "target": "soundsourcebus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundSourceBusSendInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundsourcebussendinfo",
+      "target": "runtimefloatcurve",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundSourceBusSendInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintsscriptinglibrary",
+      "target": "transformablehandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConstraintsScriptingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintsscriptinglibrary",
+      "target": "transformablecomponenthandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConstraintsScriptingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintsscriptinglibrary",
+      "target": "tickabletransformconstraint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConstraintsScriptingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshtransforms",
+      "target": "dynamicmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshtransforms",
+      "target": "geometryscriptmeshselection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasounddocumentinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrymaskcanvasactor",
+      "target": "geometrymaskcanvas",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryMaskCanvasActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodel",
+      "target": "material",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DynamicMaterialModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_drawcontainersetcolor",
+      "target": "rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DrawContainerSetColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetransformanimationtracknode",
+      "target": "interchangeanimationtracknode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTransformAnimationTrackNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectbehaviorconfigbase",
+      "target": "smartobjectbehaviordefinition",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectBehaviorConfigBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onspectrumresults",
+      "target": "synesthesiaspectrumresults",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnSpectrumResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolrotator_entry",
+      "target": "rigvmtransformspace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetMultiControlRotator__Entry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrymaskcanvasactor",
+      "target": "actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryMaskCanvasActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "enginesubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamicmaterialmodel",
+      "target": "dynamicmaterialmodelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DynamicMaterialModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintsscriptinglibrary",
+      "target": "blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConstraintsScriptingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicsfieldstatics",
+      "target": "blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsFieldStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshtransforms",
+      "target": "blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectiondebugdrawcomponent",
+      "target": "actorcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCollectionDebugDrawComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curvelinearcoloratlasfactory",
+      "target": "factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveLinearColorAtlasFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicsfieldstatics",
+      "target": "fieldvectortype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsFieldStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicsfieldstatics",
+      "target": "fieldscalartype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsFieldStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicsfieldstatics",
+      "target": "fieldintegertype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PhysicsFieldStatics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintsscriptinglibrary",
+      "target": "world",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ConstraintsScriptingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectiondebugdrawcomponent",
+      "target": "geometrycollectionrenderlevelsetactor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCollectionDebugDrawComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolrotator_entry",
+      "target": "controlrig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetMultiControlRotator__Entry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_drawcontainersetcolor",
+      "target": "controlrig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_DrawContainerSetColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmuserworkflowoptions",
+      "target": "rigvmuserworkflow",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMUserWorkflowOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundsourcebussendinfo",
+      "target": "sourcebussendlevelcontrolmethod",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundSourceBusSendInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraintsscriptinglibrary",
+      "target": "transformconstrainttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ConstraintsScriptingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshtransforms",
+      "target": "geometryscriptdebug",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pickaestilesnodesbyrectparam",
+      "target": "wdpselectionmode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PickAesTilesNodesByRectParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasoundoutputaudioformat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasoundbuildernodeoutputhandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasoundbuildernodeinputhandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundbuildersubsystem",
+      "target": "metasoundbuilderresult",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_workflow",
+      "label": "Control Rig Workflow System",
+      "nodes": [
+        "rigvmuserworkflowoptions",
+        "rigunit_drawcontainersetcolor",
+        "rigunit_setmulticontrolrotator_entry"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMUserWorkflowOptions Objects.md"
+    },
+    {
+      "id": "metasound_builder_registry",
+      "label": "MetaSound Builder Registration System",
+      "nodes": [
+        "metasoundbuildersubsystem",
+        "metasoundsourcebuilder",
+        "metasoundpatchbuilder",
+        "metasoundbuilderbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MetaSoundBuilderSubsystem Objects.md"
+    },
+    {
+      "id": "hair_physics_simulation",
+      "label": "Hair Physics Simulation System",
+      "nodes": [
+        "hairsimulationsettings",
+        "hairsimulationsetup",
+        "hairsimulationsolver",
+        "hairsimulationforces",
+        "hairsimulationconstraints"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "HairSimulationSettings Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

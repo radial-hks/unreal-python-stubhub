@@ -1,0 +1,1301 @@
+{
+  "nodes": [
+    {
+      "id": "LocationYToSpawnEnum",
+      "type": "enum_class",
+      "name": "LocationYToSpawnEnum",
+      "description": "ELocation YTo Spawn Enum",
+      "source_file": "NiagaraDataInterfaceChaosDestruction.h"
+    },
+    {
+      "id": "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+      "type": "enum_class",
+      "name": "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+      "description": "Egl TFRuntime Physics Asset Auto Body Collision Type",
+      "source_file": "glTFRuntimeParser.h"
+    },
+    {
+      "id": "WdpGetPickedPolylinesParams",
+      "type": "class",
+      "name": "WdpGetPickedPolylinesParams",
+      "description": "Wdp Get Picked Polylines Params",
+      "source_file": "WdpPickPolylineAPIParams.h"
+    },
+    {
+      "id": "BlueprintFindSessionsResultDelegate",
+      "type": "class",
+      "name": "BlueprintFindSessionsResultDelegate",
+      "description": "Blueprint Find Sessions Result Delegate",
+      "source_file": "FindSessionsCallbackProxy.h"
+    },
+    {
+      "id": "GridPathAIController",
+      "type": "class",
+      "name": "GridPathAIController",
+      "description": "Grid Path AIController",
+      "source_file": "GridPathAIController.h"
+    },
+    {
+      "id": "MediaIOConfiguration",
+      "type": "class",
+      "name": "MediaIOConfiguration",
+      "description": "Configuration of a device input / output",
+      "source_file": "MediaIOCoreDefinitions.h"
+    },
+    {
+      "id": "ColumnarEidValueResult",
+      "type": "class",
+      "name": "ColumnarEidValueResult",
+      "description": "Columnar Eid Value Result",
+      "source_file": "ColumnarHeatMapAPIParams.h"
+    },
+    {
+      "id": "MaterialParameterCollection",
+      "type": "class",
+      "name": "MaterialParameterCollection",
+      "description": "Asset class that contains a list of parameter names and their default values",
+      "source_file": "MaterialParameterCollection.h"
+    },
+    {
+      "id": "PoseSearchInteractionAssetFactory",
+      "type": "class",
+      "name": "PoseSearchInteractionAssetFactory",
+      "description": "Pose Search Interaction Asset Factory",
+      "source_file": "PoseSearchInteractionAssetFactory.h"
+    },
+    {
+      "id": "SourceEffectFoldbackDistortionPreset",
+      "type": "class",
+      "name": "SourceEffectFoldbackDistortionPreset",
+      "description": "Source Effect Foldback Distortion Preset",
+      "source_file": "SourceEffectFoldbackDistortion.h"
+    },
+    {
+      "id": "SpaceHeatMapAPI",
+      "type": "class",
+      "name": "SpaceHeatMapAPI",
+      "description": "Space Heat Map API",
+      "source_file": "SpaceHeatMapAPI.h"
+    },
+    {
+      "id": "MovieGraphConditionGroupOpType",
+      "type": "enum_class",
+      "name": "MovieGraphConditionGroupOpType",
+      "description": "Operation types available on condition groups",
+      "source_file": "MovieGraphRenderLayerSubsystem.h"
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "name": "PCGSettings",
+      "description": "Base class for settings-as-data in the PCG framework",
+      "source_file": "PCGSettings.h"
+    },
+    {
+      "id": "ReverbEffectFactory",
+      "type": "class",
+      "name": "ReverbEffectFactory",
+      "description": "Reverb Effect Factory",
+      "source_file": "ReverbEffectFactory.h"
+    },
+    {
+      "id": "OnDaySequenceActorSet",
+      "type": "class",
+      "name": "OnDaySequenceActorSet",
+      "description": "On Day Sequence Actor Set",
+      "source_file": "DaySequenceSubsystem.h"
+    },
+    {
+      "id": "SystemTimeTimecodeProvider",
+      "type": "class",
+      "name": "SystemTimeTimecodeProvider",
+      "description": "Converts the current system time to timecode, relative to a provided frame rate",
+      "source_file": "SystemTimeTimecodeProvider.h"
+    },
+    {
+      "id": "MaterialExpressionStrataEyeBSDF",
+      "type": "class",
+      "name": "MaterialExpressionStrataEyeBSDF",
+      "description": "Deprecated: renamed to MaterialExpressionSubstrateEyeBSDF",
+      "source_file": null,
+      "deprecated": true
+    },
+    {
+      "id": "CEClonerLifetimeExtension",
+      "type": "class",
+      "name": "CEClonerLifetimeExtension",
+      "description": "Extension dealing with clones lifetime options",
+      "source_file": "CEClonerLifetimeExtension.h"
+    },
+    {
+      "id": "AvaShapeUVMode",
+      "type": "enum_class",
+      "name": "AvaShapeUVMode",
+      "description": "EAva Shape UVMode",
+      "source_file": "AvaShapesDefs.h"
+    },
+    {
+      "id": "KinematicBonesUpdateToPhysics",
+      "type": "enum_class",
+      "name": "KinematicBonesUpdateToPhysics",
+      "description": "Defines how to update bones to physics world",
+      "source_file": "SkeletalMeshComponent.h"
+    },
+    {
+      "id": "WdpFileDownloaderCache",
+      "type": "class",
+      "name": "WdpFileDownloaderCache",
+      "description": "Wdp File Downloader Cache",
+      "source_file": "WdpFileDownloader.h"
+    },
+    {
+      "id": "RigVMDispatchNode",
+      "type": "class",
+      "name": "RigVMDispatchNode",
+      "description": "The Struct Node represents a Function Invocation of a RIGVM_METHOD declared on a USTRUCT",
+      "source_file": "RigVMDispatchNode.h"
+    },
+    {
+      "id": "EnumBase",
+      "type": "base_class",
+      "name": "EnumBase"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "base_class",
+      "name": "ParamsBase"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "base_class",
+      "name": "MulticastDelegateBase"
+    },
+    {
+      "id": "AIController",
+      "type": "base_class",
+      "name": "AIController"
+    },
+    {
+      "id": "StructBase",
+      "type": "base_class",
+      "name": "StructBase"
+    },
+    {
+      "id": "ResultBase",
+      "type": "base_class",
+      "name": "ResultBase"
+    },
+    {
+      "id": "Object",
+      "type": "base_class",
+      "name": "Object"
+    },
+    {
+      "id": "Factory",
+      "type": "base_class",
+      "name": "Factory"
+    },
+    {
+      "id": "SoundEffectSourcePreset",
+      "type": "base_class",
+      "name": "SoundEffectSourcePreset"
+    },
+    {
+      "id": "ApiClassBase",
+      "type": "base_class",
+      "name": "ApiClassBase"
+    },
+    {
+      "id": "PCGSettingsInterface",
+      "type": "base_class",
+      "name": "PCGSettingsInterface"
+    },
+    {
+      "id": "TimecodeProvider",
+      "type": "base_class",
+      "name": "TimecodeProvider"
+    },
+    {
+      "id": "MaterialExpressionSubstrateEyeBSDF",
+      "type": "base_class",
+      "name": "MaterialExpressionSubstrateEyeBSDF"
+    },
+    {
+      "id": "CEClonerExtensionBase",
+      "type": "base_class",
+      "name": "CEClonerExtensionBase"
+    },
+    {
+      "id": "RigVMTemplateNode",
+      "type": "base_class",
+      "name": "RigVMTemplateNode"
+    },
+    {
+      "id": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_NONE",
+      "type": "enum_value",
+      "name": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_NONE",
+      "value": 0
+    },
+    {
+      "id": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MIN",
+      "type": "enum_value",
+      "name": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MIN",
+      "value": 1
+    },
+    {
+      "id": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MAX",
+      "type": "enum_value",
+      "name": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MAX",
+      "value": 2
+    },
+    {
+      "id": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MIN_MAX",
+      "type": "enum_value",
+      "name": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MIN_MAX",
+      "value": 3
+    },
+    {
+      "id": "CAPSULE",
+      "type": "enum_value",
+      "name": "CAPSULE",
+      "value": 0
+    },
+    {
+      "id": "SPHERE",
+      "type": "enum_value",
+      "name": "SPHERE",
+      "value": 1
+    },
+    {
+      "id": "BOX",
+      "type": "enum_value",
+      "name": "BOX",
+      "value": 2
+    },
+    {
+      "id": "ADD",
+      "type": "enum_value",
+      "name": "ADD",
+      "value": 0,
+      "description": "Adds the contents of the condition group to the results from the previous condition group"
+    },
+    {
+      "id": "SUBTRACT",
+      "type": "enum_value",
+      "name": "SUBTRACT",
+      "value": 1,
+      "description": "Removes the contents of the condition group from the result of the previous condition group"
+    },
+    {
+      "id": "AND",
+      "type": "enum_value",
+      "name": "AND",
+      "value": 2,
+      "description": "Replaces the results of the previous condition group(s) with only the elements that exist in both"
+    },
+    {
+      "id": "STRETCH",
+      "type": "enum_value",
+      "name": "STRETCH",
+      "value": 0
+    },
+    {
+      "id": "UNIFORM",
+      "type": "enum_value",
+      "name": "UNIFORM",
+      "value": 1,
+      "description": "uvs are stretched and fill the shape size"
+    },
+    {
+      "id": "SKIP_SIMULATING_BONES",
+      "type": "enum_value",
+      "name": "SKIP_SIMULATING_BONES",
+      "value": 0,
+      "description": "Update any bones that are not simulating"
+    },
+    {
+      "id": "SKIP_ALL_BONES",
+      "type": "enum_value",
+      "name": "SKIP_ALL_BONES",
+      "value": 1,
+      "description": "Skip physics update from kinematic changes"
+    },
+    {
+      "id": "get_vector_parameter_names",
+      "type": "method",
+      "name": "get_vector_parameter_names",
+      "return_type": "Array[Name]"
+    },
+    {
+      "id": "get_vector_parameter_default_value",
+      "type": "method",
+      "name": "get_vector_parameter_default_value",
+      "return_type": "Tuple[LinearColor, bool]"
+    },
+    {
+      "id": "get_scalar_parameter_names",
+      "type": "method",
+      "name": "get_scalar_parameter_names",
+      "return_type": "Array[Name]"
+    },
+    {
+      "id": "get_scalar_parameter_default_value",
+      "type": "method",
+      "name": "get_scalar_parameter_default_value",
+      "return_type": "Tuple[float, bool]"
+    },
+    {
+      "id": "modify_space_heat_map",
+      "type": "method",
+      "name": "modify_space_heat_map",
+      "return_type": "Optional[EidResult]"
+    },
+    {
+      "id": "bp_get_type_union_of_incident_edges",
+      "type": "method",
+      "name": "bp_get_type_union_of_incident_edges",
+      "return_type": "int"
+    },
+    {
+      "id": "set_lifetime_scale_enabled",
+      "type": "method",
+      "name": "set_lifetime_scale_enabled",
+      "return_type": "None"
+    },
+    {
+      "id": "set_lifetime_scale_curve",
+      "type": "method",
+      "name": "set_lifetime_scale_curve",
+      "return_type": "None"
+    },
+    {
+      "id": "set_lifetime_min",
+      "type": "method",
+      "name": "set_lifetime_min",
+      "return_type": "None"
+    },
+    {
+      "id": "set_lifetime_max",
+      "type": "method",
+      "name": "set_lifetime_max",
+      "return_type": "None"
+    },
+    {
+      "id": "set_lifetime_enabled",
+      "type": "method",
+      "name": "set_lifetime_enabled",
+      "return_type": "None"
+    },
+    {
+      "id": "get_lifetime_scale_enabled",
+      "type": "method",
+      "name": "get_lifetime_scale_enabled",
+      "return_type": "bool"
+    },
+    {
+      "id": "get_lifetime_min",
+      "type": "method",
+      "name": "get_lifetime_min",
+      "return_type": "float"
+    },
+    {
+      "id": "get_lifetime_max",
+      "type": "method",
+      "name": "get_lifetime_max",
+      "return_type": "float"
+    },
+    {
+      "id": "get_lifetime_enabled",
+      "type": "method",
+      "name": "get_lifetime_enabled",
+      "return_type": "bool"
+    },
+    {
+      "id": "set_settings",
+      "type": "method",
+      "name": "set_settings",
+      "return_type": "None"
+    },
+    {
+      "id": "plugin_ChaosNiagara",
+      "type": "plugin",
+      "name": "ChaosNiagara"
+    },
+    {
+      "id": "plugin_AesWorld",
+      "type": "plugin",
+      "name": "AesWorld"
+    },
+    {
+      "id": "plugin_WdpRuntimeAPI",
+      "type": "plugin",
+      "name": "WdpRuntimeAPI"
+    },
+    {
+      "id": "plugin_OnlineSubsystemUtils",
+      "type": "plugin",
+      "name": "OnlineSubsystemUtils"
+    },
+    {
+      "id": "plugin_MediaIOFramework",
+      "type": "plugin",
+      "name": "MediaIOFramework"
+    },
+    {
+      "id": "plugin_CoveringAPI",
+      "type": "plugin",
+      "name": "CoveringAPI"
+    },
+    {
+      "id": "plugin_PoseSearch",
+      "type": "plugin",
+      "name": "PoseSearch"
+    },
+    {
+      "id": "plugin_Synthesis",
+      "type": "plugin",
+      "name": "Synthesis"
+    },
+    {
+      "id": "plugin_MovieRenderPipeline",
+      "type": "plugin",
+      "name": "MovieRenderPipeline"
+    },
+    {
+      "id": "plugin_PCG",
+      "type": "plugin",
+      "name": "PCG"
+    },
+    {
+      "id": "plugin_DaySequence",
+      "type": "plugin",
+      "name": "DaySequence"
+    },
+    {
+      "id": "plugin_ClonerEffector",
+      "type": "plugin",
+      "name": "ClonerEffector"
+    },
+    {
+      "id": "plugin_Avalanche",
+      "type": "plugin",
+      "name": "Avalanche"
+    },
+    {
+      "id": "plugin_WdpCommon",
+      "type": "plugin",
+      "name": "WdpCommon"
+    },
+    {
+      "id": "plugin_RigVM",
+      "type": "plugin",
+      "name": "RigVM"
+    },
+    {
+      "id": "module_AIModule",
+      "type": "module",
+      "name": "AIModule"
+    },
+    {
+      "id": "module_Engine",
+      "type": "module",
+      "name": "Engine"
+    },
+    {
+      "id": "module_AudioEditor",
+      "type": "module",
+      "name": "AudioEditor"
+    },
+    {
+      "id": "module_glTFRuntime",
+      "type": "module",
+      "name": "glTFRuntime"
+    },
+    {
+      "id": "module_WdpInteractionAPI",
+      "type": "module",
+      "name": "WdpInteractionAPI"
+    },
+    {
+      "id": "module_OnlineSubsystemUtils",
+      "type": "module",
+      "name": "OnlineSubsystemUtils"
+    },
+    {
+      "id": "module_MediaIOCore",
+      "type": "module",
+      "name": "MediaIOCore"
+    },
+    {
+      "id": "module_CoveringAPIDefine",
+      "type": "module",
+      "name": "CoveringAPIDefine"
+    },
+    {
+      "id": "module_PoseSearchEditor",
+      "type": "module",
+      "name": "PoseSearchEditor"
+    },
+    {
+      "id": "module_Synthesis",
+      "type": "module",
+      "name": "Synthesis"
+    },
+    {
+      "id": "module_MovieRenderPipelineCore",
+      "type": "module",
+      "name": "MovieRenderPipelineCore"
+    },
+    {
+      "id": "module_PCG",
+      "type": "module",
+      "name": "PCG"
+    },
+    {
+      "id": "module_DaySequence",
+      "type": "module",
+      "name": "DaySequence"
+    },
+    {
+      "id": "module_ClonerEffector",
+      "type": "module",
+      "name": "ClonerEffector"
+    },
+    {
+      "id": "module_AvalancheShapes",
+      "type": "module",
+      "name": "AvalancheShapes"
+    },
+    {
+      "id": "module_WdpFileDownloader",
+      "type": "module",
+      "name": "WdpFileDownloader"
+    },
+    {
+      "id": "module_RigVMDeveloper",
+      "type": "module",
+      "name": "RigVMDeveloper"
+    }
+  ],
+  "edges": [
+    {
+      "source": "LocationYToSpawnEnum",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WdpGetPickedPolylinesParams",
+      "target": "ParamsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BlueprintFindSessionsResultDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GridPathAIController",
+      "target": "AIController",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MediaIOConfiguration",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ColumnarEidValueResult",
+      "target": "ResultBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialParameterCollection",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PoseSearchInteractionAssetFactory",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SourceEffectFoldbackDistortionPreset",
+      "target": "SoundEffectSourcePreset",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SpaceHeatMapAPI",
+      "target": "ApiClassBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieGraphConditionGroupOpType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGSettings",
+      "target": "PCGSettingsInterface",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ReverbEffectFactory",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnDaySequenceActorSet",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SystemTimeTimecodeProvider",
+      "target": "TimecodeProvider",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionStrataEyeBSDF",
+      "target": "MaterialExpressionSubstrateEyeBSDF",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "CEClonerExtensionBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaShapeUVMode",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "KinematicBonesUpdateToPhysics",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WdpFileDownloaderCache",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMDispatchNode",
+      "target": "RigVMTemplateNode",
+      "type": "inherits_from"
+    },
+    {
+      "source": "LocationYToSpawnEnum",
+      "target": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_NONE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationYToSpawnEnum",
+      "target": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MIN",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationYToSpawnEnum",
+      "target": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MAX",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationYToSpawnEnum",
+      "target": "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MIN_MAX",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+      "target": "CAPSULE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+      "target": "SPHERE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+      "target": "BOX",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieGraphConditionGroupOpType",
+      "target": "ADD",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieGraphConditionGroupOpType",
+      "target": "SUBTRACT",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MovieGraphConditionGroupOpType",
+      "target": "AND",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "AvaShapeUVMode",
+      "target": "STRETCH",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "AvaShapeUVMode",
+      "target": "UNIFORM",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "KinematicBonesUpdateToPhysics",
+      "target": "SKIP_SIMULATING_BONES",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "KinematicBonesUpdateToPhysics",
+      "target": "SKIP_ALL_BONES",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "MaterialParameterCollection",
+      "target": "get_vector_parameter_names",
+      "type": "has_method"
+    },
+    {
+      "source": "MaterialParameterCollection",
+      "target": "get_vector_parameter_default_value",
+      "type": "has_method"
+    },
+    {
+      "source": "MaterialParameterCollection",
+      "target": "get_scalar_parameter_names",
+      "type": "has_method"
+    },
+    {
+      "source": "MaterialParameterCollection",
+      "target": "get_scalar_parameter_default_value",
+      "type": "has_method"
+    },
+    {
+      "source": "SpaceHeatMapAPI",
+      "target": "modify_space_heat_map",
+      "type": "has_method"
+    },
+    {
+      "source": "PCGSettings",
+      "target": "bp_get_type_union_of_incident_edges",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "set_lifetime_scale_enabled",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "set_lifetime_scale_curve",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "set_lifetime_min",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "set_lifetime_max",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "set_lifetime_enabled",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "get_lifetime_scale_enabled",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "get_lifetime_min",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "get_lifetime_max",
+      "type": "has_method"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "get_lifetime_enabled",
+      "type": "has_method"
+    },
+    {
+      "source": "SourceEffectFoldbackDistortionPreset",
+      "target": "set_settings",
+      "type": "has_method"
+    },
+    {
+      "source": "get_vector_parameter_default_value",
+      "target": "Name",
+      "type": "takes_param"
+    },
+    {
+      "source": "get_scalar_parameter_default_value",
+      "target": "Name",
+      "type": "takes_param"
+    },
+    {
+      "source": "modify_space_heat_map",
+      "target": "ModifyHeatMapParam",
+      "type": "takes_param"
+    },
+    {
+      "source": "bp_get_type_union_of_incident_edges",
+      "target": "Name",
+      "type": "takes_param"
+    },
+    {
+      "source": "set_lifetime_scale_enabled",
+      "target": "bool",
+      "type": "takes_param"
+    },
+    {
+      "source": "set_lifetime_scale_curve",
+      "target": "CurveFloat",
+      "type": "takes_param"
+    },
+    {
+      "source": "set_lifetime_min",
+      "target": "float",
+      "type": "takes_param"
+    },
+    {
+      "source": "set_lifetime_max",
+      "target": "float",
+      "type": "takes_param"
+    },
+    {
+      "source": "set_lifetime_enabled",
+      "target": "bool",
+      "type": "takes_param"
+    },
+    {
+      "source": "set_settings",
+      "target": "SourceEffectFoldbackDistortionSettings",
+      "type": "takes_param"
+    },
+    {
+      "source": "LocationYToSpawnEnum",
+      "target": "plugin_ChaosNiagara",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+      "target": "plugin_AesWorld",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "WdpGetPickedPolylinesParams",
+      "target": "plugin_WdpRuntimeAPI",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "BlueprintFindSessionsResultDelegate",
+      "target": "plugin_OnlineSubsystemUtils",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "MediaIOConfiguration",
+      "target": "plugin_MediaIOFramework",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "ColumnarEidValueResult",
+      "target": "plugin_CoveringAPI",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "PoseSearchInteractionAssetFactory",
+      "target": "plugin_PoseSearch",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "SourceEffectFoldbackDistortionPreset",
+      "target": "plugin_Synthesis",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "SpaceHeatMapAPI",
+      "target": "plugin_CoveringAPI",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "MovieGraphConditionGroupOpType",
+      "target": "plugin_MovieRenderPipeline",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "PCGSettings",
+      "target": "plugin_PCG",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "OnDaySequenceActorSet",
+      "target": "plugin_DaySequence",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "plugin_ClonerEffector",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "AvaShapeUVMode",
+      "target": "plugin_Avalanche",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "WdpFileDownloaderCache",
+      "target": "plugin_WdpCommon",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMDispatchNode",
+      "target": "plugin_RigVM",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "LocationYToSpawnEnum",
+      "target": "module_ChaosNiagara",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+      "target": "module_glTFRuntime",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "WdpGetPickedPolylinesParams",
+      "target": "module_WdpInteractionAPI",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "BlueprintFindSessionsResultDelegate",
+      "target": "module_OnlineSubsystemUtils",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GridPathAIController",
+      "target": "module_AIModule",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "MediaIOConfiguration",
+      "target": "module_MediaIOCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "ColumnarEidValueResult",
+      "target": "module_CoveringAPIDefine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "MaterialParameterCollection",
+      "target": "module_Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PoseSearchInteractionAssetFactory",
+      "target": "module_PoseSearchEditor",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "SourceEffectFoldbackDistortionPreset",
+      "target": "module_Synthesis",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "SpaceHeatMapAPI",
+      "target": "module_CoveringAPIDefine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "MovieGraphConditionGroupOpType",
+      "target": "module_MovieRenderPipelineCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PCGSettings",
+      "target": "module_PCG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "ReverbEffectFactory",
+      "target": "module_AudioEditor",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "OnDaySequenceActorSet",
+      "target": "module_DaySequence",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "SystemTimeTimecodeProvider",
+      "target": "module_Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "CEClonerLifetimeExtension",
+      "target": "module_ClonerEffector",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AvaShapeUVMode",
+      "target": "module_AvalancheShapes",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "KinematicBonesUpdateToPhysics",
+      "target": "module_Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "WdpFileDownloaderCache",
+      "target": "module_WdpFileDownloader",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMDispatchNode",
+      "target": "module_RigVMDeveloper",
+      "type": "defined_in_module"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_1",
+      "type": "factory_pattern",
+      "nodes": [
+        "PoseSearchInteractionAssetFactory",
+        "Factory",
+        "Object"
+      ],
+      "description": "Factory pattern for creating pose search interaction assets"
+    },
+    {
+      "id": "he_2",
+      "type": "factory_pattern",
+      "nodes": [
+        "ReverbEffectFactory",
+        "Factory",
+        "Object"
+      ],
+      "description": "Factory pattern for creating reverb effects"
+    },
+    {
+      "id": "he_3",
+      "type": "delegate_pattern",
+      "nodes": [
+        "BlueprintFindSessionsResultDelegate",
+        "MulticastDelegateBase",
+        "Array[BlueprintSessionResult]"
+      ],
+      "description": "Multicast delegate for session finding results"
+    },
+    {
+      "id": "he_4",
+      "type": "delegate_pattern",
+      "nodes": [
+        "OnDaySequenceActorSet",
+        "MulticastDelegateBase",
+        "DaySequenceActor"
+      ],
+      "description": "Multicast delegate for day sequence actor changes"
+    },
+    {
+      "id": "he_5",
+      "type": "api_pattern",
+      "nodes": [
+        "SpaceHeatMapAPI",
+        "ApiClassBase",
+        "modify_space_heat_map",
+        "ModifyHeatMapParam",
+        "EidResult"
+      ],
+      "description": "API class for space heat map modifications with parameter and result types"
+    },
+    {
+      "id": "he_6",
+      "type": "struct_pattern",
+      "nodes": [
+        "WdpGetPickedPolylinesParams",
+        "ParamsBase",
+        "coord_z_ref",
+        "guid",
+        "hit_keys"
+      ],
+      "description": "Parameter structure for picking polylines with multiple properties"
+    },
+    {
+      "id": "he_7",
+      "type": "struct_pattern",
+      "nodes": [
+        "MediaIOConfiguration",
+        "StructBase",
+        "media_connection",
+        "media_mode"
+      ],
+      "description": "Configuration structure for media I/O with connection and mode"
+    },
+    {
+      "id": "he_8",
+      "type": "result_pattern",
+      "nodes": [
+        "ColumnarEidValueResult",
+        "ResultBase",
+        "eid",
+        "value",
+        "message",
+        "success",
+        "scene_change_info"
+      ],
+      "description": "Result structure with entity ID, value, and metadata"
+    },
+    {
+      "id": "he_9",
+      "type": "extension_pattern",
+      "nodes": [
+        "CEClonerLifetimeExtension",
+        "CEClonerExtensionBase",
+        "lifetime_enabled",
+        "lifetime_min",
+        "lifetime_max",
+        "lifetime_scale_enabled"
+      ],
+      "description": "Extension for managing clone lifetime with multiple getter/setter methods"
+    },
+    {
+      "id": "he_10",
+      "type": "settings_pattern",
+      "nodes": [
+        "PCGSettings",
+        "PCGSettingsInterface",
+        "seed",
+        "debug",
+        "enabled",
+        "execute_on_gpu",
+        "determinism_settings"
+      ],
+      "description": "Settings class for PCG framework with numerous configuration options"
+    },
+    {
+      "id": "he_11",
+      "type": "material_parameter_collection",
+      "nodes": [
+        "MaterialParameterCollection",
+        "Object",
+        "scalar_parameters",
+        "vector_parameters",
+        "get_scalar_parameter_names",
+        "get_vector_parameter_names",
+        "get_scalar_parameter_default_value",
+        "get_vector_parameter_default_value"
+      ],
+      "description": "Material parameter collection with scalar and vector parameter management"
+    },
+    {
+      "id": "he_12",
+      "type": "effect_preset_pattern",
+      "nodes": [
+        "SourceEffectFoldbackDistortionPreset",
+        "SoundEffectSourcePreset",
+        "settings",
+        "set_settings",
+        "SourceEffectFoldbackDistortionSettings"
+      ],
+      "description": "Audio effect preset with settings configuration"
+    },
+    {
+      "id": "he_13",
+      "type": "timecode_provider_pattern",
+      "nodes": [
+        "SystemTimeTimecodeProvider",
+        "TimecodeProvider",
+        "frame_rate",
+        "frame_delay",
+        "generate_full_frame",
+        "use_high_performance_clock"
+      ],
+      "description": "Timecode provider using system time with multiple configuration options"
+    },
+    {
+      "id": "he_14",
+      "type": "enum_collision_types",
+      "nodes": [
+        "EglTFRuntimePhysicsAssetAutoBodyCollisionType",
+        "CAPSULE",
+        "SPHERE",
+        "BOX"
+      ],
+      "description": "Physics collision body types for glTF runtime"
+    },
+    {
+      "id": "he_15",
+      "type": "enum_condition_operations",
+      "nodes": [
+        "MovieGraphConditionGroupOpType",
+        "ADD",
+        "SUBTRACT",
+        "AND"
+      ],
+      "description": "Condition group operations for movie graph rendering"
+    },
+    {
+      "id": "he_16",
+      "type": "enum_spawn_location",
+      "nodes": [
+        "LocationYToSpawnEnum",
+        "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_NONE",
+        "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MIN",
+        "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MAX",
+        "CHAOS_NIAGARA_LOCATION_Y_TO_SPAWN_MIN_MAX"
+      ],
+      "description": "Y-axis location options for spawning in Chaos Niagara"
+    },
+    {
+      "id": "he_17",
+      "type": "enum_physics_update",
+      "nodes": [
+        "KinematicBonesUpdateToPhysics",
+        "SKIP_SIMULATING_BONES",
+        "SKIP_ALL_BONES"
+      ],
+      "description": "Bone physics update strategies"
+    },
+    {
+      "id": "he_18",
+      "type": "controller_hierarchy",
+      "nodes": [
+        "GridPathAIController",
+        "AIController",
+        "blackboard",
+        "brain_component",
+        "path_following_component",
+        "perception_component"
+      ],
+      "description": "AI controller with navigation and perception components"
+    },
+    {
+      "id": "he_19",
+      "type": "deprecated_class",
+      "nodes": [
+        "MaterialExpressionStrataEyeBSDF",
+        "MaterialExpressionSubstrateEyeBSDF"
+      ],
+      "description": "Deprecated class renamed to MaterialExpressionSubstrateEyeBSDF"
+    }
+  ]
+}

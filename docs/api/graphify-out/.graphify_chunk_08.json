@@ -1,0 +1,505 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathvectormin_rigunit_mathvectormin",
+      "label": "RigUnit MathVectorMin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectormul_rigunit_mathvectormul",
+      "label": "RigUnit MathVectorMul",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundattenuationpluginsettings_soundattenuationpluginsettings",
+      "label": "SoundAttenuationPluginSettings",
+      "file_type": "code",
+      "source_file": "SoundAttenuationPluginSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgclustersettings_pcgclustersettings",
+      "label": "PCGClusterSettings",
+      "file_type": "code",
+      "source_file": "PCGClusterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummetadatapropertyblueprintlibrary_cesiummetadatapropertyblueprintlibrary",
+      "label": "CesiumMetadataPropertyBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "CesiumMetadataPropertyBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setboneinitialtransform_rigunit_setboneinitialtransform",
+      "label": "RigUnit SetBoneInitialTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_SetBoneInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffect_soundwave_hapticfeedbackeffect_soundwave",
+      "label": "HapticFeedbackEffect SoundWave",
+      "file_type": "code",
+      "source_file": "HapticFeedbackEffect_SoundWave Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonbplib_pythonbplib",
+      "label": "PythonBPLib",
+      "file_type": "code",
+      "source_file": "PythonBPLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "connectioncontactareamethodenum_connectioncontactareamethodenum",
+      "label": "ConnectionContactAreaMethodEnum",
+      "file_type": "code",
+      "source_file": "ConnectionContactAreaMethodEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrylatentactionboolean_lowentrylatentactionboolean",
+      "label": "LowEntryLatentActionBoolean",
+      "file_type": "code",
+      "source_file": "LowEntryLatentActionBoolean Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorcontextmenuitemwidget_aeseditorcontextmenuitemwidget",
+      "label": "AesEditorContextMenuItemWidget",
+      "file_type": "code",
+      "source_file": "AesEditorContextMenuItemWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpprojecttoolwidget_wdpprojecttoolwidget",
+      "label": "WdpProjectToolWidget",
+      "file_type": "code",
+      "source_file": "WdpProjectToolWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapegrasstype_landscapegrasstype",
+      "label": "LandscapeGrassType",
+      "file_type": "code",
+      "source_file": "LandscapeGrassType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublebase_rigunit_mathdoublebase",
+      "label": "RigUnit MathDoubleBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimehttpresponse_gltfruntimehttpresponse",
+      "label": "glTFRuntimeHttpResponse",
+      "file_type": "code",
+      "source_file": "glTFRuntimeHttpResponse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodybrushcachecontainer_waterbodybrushcachecontainer",
+      "label": "WaterBodyBrushCacheContainer",
+      "file_type": "code",
+      "source_file": "WaterBodyBrushCacheContainer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sunpositionfunctionlibrary_sunpositionfunctionlibrary",
+      "label": "SunPositionFunctionLibrary",
+      "file_type": "code",
+      "source_file": "SunPositionFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstagesource_dmmaterialstagesource",
+      "label": "DMMaterialStageSource",
+      "file_type": "code",
+      "source_file": "DMMaterialStageSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hierarchymeshhighlightstyle_hierarchymeshhighlightstyle",
+      "label": "HierarchyMeshHighlightStyle",
+      "file_type": "code",
+      "source_file": "HierarchyMeshHighlightStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundclass_soundclass",
+      "label": "SoundClass",
+      "file_type": "code",
+      "source_file": "SoundClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomhairgroupspreview_groomhairgroupspreview",
+      "label": "GroomHairGroupsPreview",
+      "file_type": "code",
+      "source_file": "GroomHairGroupsPreview Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionlandscapephysicalmaterialoutput_materialexpressionlandscapephysicalmaterialoutput",
+      "label": "MaterialExpressionLandscapePhysicalMaterialOutput",
+      "file_type": "code",
+      "source_file": "MaterialExpressionLandscapePhysicalMaterialOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgclustersettings_clustering_algorithm",
+      "label": "Clustering Algorithm",
+      "file_type": "code",
+      "source_file": "PCGClusterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundattenuationpluginsettings_audio_plugin_system",
+      "label": "Audio Plugin System",
+      "file_type": "code",
+      "source_file": "SoundAttenuationPluginSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setboneinitialtransform_bone_transform_system",
+      "label": "Bone Transform System",
+      "file_type": "code",
+      "source_file": "RigUnit_SetBoneInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonbplib_editor_scripting_utilities",
+      "label": "Editor Scripting Utilities",
+      "file_type": "code",
+      "source_file": "PythonBPLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionlandscapephysicalmaterialoutput_landscape_material_system",
+      "label": "Landscape Material System",
+      "file_type": "code",
+      "source_file": "MaterialExpressionLandscapePhysicalMaterialOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathvectormin_rigunit_mathvectormin",
+      "target": "rigunit_mathdoublebase_rigunit_mathdoublebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathVectorMin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormul_rigunit_mathvectormul",
+      "target": "rigunit_mathdoublebase_rigunit_mathdoublebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathVectorMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormin_rigunit_mathvectormin",
+      "target": "rigunit_mathvectormul_rigunit_mathvectormul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathVectorMin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setboneinitialtransform_rigunit_setboneinitialtransform",
+      "target": "rigunit_setboneinitialtransform_bone_transform_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_SetBoneInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgclustersettings_pcgclustersettings",
+      "target": "pcgclustersettings_clustering_algorithm",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PCGClusterSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundattenuationpluginsettings_soundattenuationpluginsettings",
+      "target": "soundattenuationpluginsettings_audio_plugin_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SoundAttenuationPluginSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundattenuationpluginsettings_soundattenuationpluginsettings",
+      "target": "soundclass_soundclass",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SoundAttenuationPluginSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pythonbplib_pythonbplib",
+      "target": "pythonbplib_editor_scripting_utilities",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PythonBPLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorcontextmenuitemwidget_aeseditorcontextmenuitemwidget",
+      "target": "wdpprojecttoolwidget_wdpprojecttoolwidget",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesEditorContextMenuItemWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionlandscapephysicalmaterialoutput_materialexpressionlandscapephysicalmaterialoutput",
+      "target": "materialexpressionlandscapephysicalmaterialoutput_landscape_material_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "MaterialExpressionLandscapePhysicalMaterialOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionlandscapephysicalmaterialoutput_materialexpressionlandscapephysicalmaterialoutput",
+      "target": "landscapegrasstype_landscapegrasstype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionLandscapePhysicalMaterialOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstagesource_dmmaterialstagesource",
+      "target": "materialexpressionlandscapephysicalmaterialoutput_materialexpressionlandscapephysicalmaterialoutput",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DMMaterialStageSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackeffect_soundwave_hapticfeedbackeffect_soundwave",
+      "target": "soundclass_soundclass",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "HapticFeedbackEffect_SoundWave Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimehttpresponse_gltfruntimehttpresponse",
+      "target": "cesiummetadatapropertyblueprintlibrary_cesiummetadatapropertyblueprintlibrary",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "glTFRuntimeHttpResponse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pythonbplib_pythonbplib",
+      "target": "aeseditorcontextmenuitemwidget_aeseditorcontextmenuitemwidget",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PythonBPLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pythonbplib_pythonbplib",
+      "target": "wdpprojecttoolwidget_wdpprojecttoolwidget",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PythonBPLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_classes",
+      "label": "Deprecated RigUnit Classes",
+      "nodes": [
+        "rigunit_mathvectormin_rigunit_mathvectormin",
+        "rigunit_mathvectormul_rigunit_mathvectormul",
+        "rigunit_mathdoublebase_rigunit_mathdoublebase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathVectorMin Objects.md"
+    },
+    {
+      "id": "audio_system_components",
+      "label": "Audio System Components",
+      "nodes": [
+        "soundattenuationpluginsettings_soundattenuationpluginsettings",
+        "soundclass_soundclass",
+        "hapticfeedbackeffect_soundwave_hapticfeedbackeffect_soundwave"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SoundAttenuationPluginSettings Objects.md"
+    },
+    {
+      "id": "editor_utility_widgets",
+      "label": "Editor Utility Widgets",
+      "nodes": [
+        "aeseditorcontextmenuitemwidget_aeseditorcontextmenuitemwidget",
+        "wdpprojecttoolwidget_wdpprojecttoolwidget"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesEditorContextMenuItemWidget Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

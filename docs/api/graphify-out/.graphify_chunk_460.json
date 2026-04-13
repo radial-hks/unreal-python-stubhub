@@ -1,0 +1,430 @@
+{
+  "nodes": [
+    {
+      "id": "earthcollisiontype_enum",
+      "label": "EarthCollisionType",
+      "file_type": "document",
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcollisiontype_none",
+      "label": "NONE Collision Type",
+      "file_type": "document",
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcollisiontype_bounds",
+      "label": "BOUNDS Collision Type",
+      "file_type": "document",
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcollisiontype_mesh",
+      "label": "MESH Collision Type",
+      "file_type": "document",
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcollisiontype_procedural",
+      "label": "PROCEDURAL Collision Type",
+      "file_type": "document",
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "replaysubsystem_class",
+      "label": "ReplaySubsystem",
+      "file_type": "document",
+      "source_file": "ReplaySubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasortmode_enum",
+      "label": "NiagaraSortMode",
+      "file_type": "document",
+      "source_file": "NiagaraSortMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathbooltofloat_class",
+      "label": "RigUnit_MathBoolToFloat",
+      "file_type": "document",
+      "source_file": "RigUnit_MathBoolToFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchygetparentweightsarray_class",
+      "label": "RigUnit_HierarchyGetParentWeightsArray",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyGetParentWeightsArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionrequiredsamplerwitch_class",
+      "label": "MaterialExpressionRequiredSamplersSwitch",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRequiredSamplersSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsparsevolumetexturesampleparameter_class",
+      "label": "MaterialExpressionSparseVolumeTextureSampleParameter",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSparseVolumeTextureSampleParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computegraphcomponent_class",
+      "label": "ComputeGraphComponent",
+      "file_type": "document",
+      "source_file": "ComputeGraphComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computedataprovider_class",
+      "label": "ComputeDataProvider",
+      "file_type": "document",
+      "source_file": "ComputeDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_fbikeffector_class",
+      "label": "IKRig_FBIKEffector",
+      "file_type": "document",
+      "source_file": "IKRig__FBIKEffector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletondataprovider_class",
+      "label": "SkeletonDataProvider",
+      "file_type": "document",
+      "source_file": "SkeletonDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectionsource_class",
+      "label": "GeometryCollectionSource",
+      "file_type": "document",
+      "source_file": "GeometryCollectionSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsubgraphsettings_class",
+      "label": "PCGSubgraphSettings",
+      "file_type": "document",
+      "source_file": "PCGSubgraphSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_contains_class",
+      "label": "RigUnit_Contains",
+      "file_type": "document",
+      "source_file": "RigUnit__Contains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_phase_class",
+      "label": "PoseSearchFeatureChannel_Phase",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Phase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionnanitereplace_class",
+      "label": "MaterialExpressionNaniteReplace",
+      "file_type": "document",
+      "source_file": "MaterialExpressionNaniteReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "directionallightcomponent_class",
+      "label": "DirectionalLightComponent",
+      "file_type": "document",
+      "source_file": "DirectionalLightComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_dynamichierarchybase",
+      "label": "RigUnit_DynamicHierarchyBase",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyGetParentWeightsArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "earthcollisiontype_none",
+      "target": "earthcollisiontype_enum",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcollisiontype_bounds",
+      "target": "earthcollisiontype_enum",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcollisiontype_mesh",
+      "target": "earthcollisiontype_enum",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcollisiontype_procedural",
+      "target": "earthcollisiontype_enum",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthCollisionType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathbooltofloat_class",
+      "target": "rigunit_contains_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathBoolToFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetparentweightsarray_class",
+      "target": "rigunit_dynamichierarchybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyGetParentWeightsArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "computegraphcomponent_class",
+      "target": "computedataprovider_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComputeGraphComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletondataprovider_class",
+      "target": "computedataprovider_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SkeletonDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionrequiredsamplerwitch_class",
+      "target": "materialexpressionnanitereplace_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionRequiredSamplersSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionrequiredsamplerwitch_class",
+      "target": "materialexpressionsparsevolumetexturesampleparameter_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionRequiredSamplersSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionnanitereplace_class",
+      "target": "materialexpressionsparsevolumetexturesampleparameter_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionNaniteReplace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_fbikeffector_class",
+      "target": "posesearchfeaturechannel_phase_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IKRig__FBIKEffector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionsource_class",
+      "target": "earthcollisiontype_mesh",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryCollectionSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "directionallightcomponent_class",
+      "target": "niagarasortmode_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "DirectionalLightComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rig_units",
+      "label": "Deprecated RigUnit Classes",
+      "nodes": [
+        "rigunit_mathbooltofloat_class",
+        "rigunit_contains_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathBoolToFloat Objects.md"
+    },
+    {
+      "id": "material_expression_classes",
+      "label": "Material Expression System",
+      "nodes": [
+        "materialexpressionrequiredsamplerwitch_class",
+        "materialexpressionsparsevolumetexturesampleparameter_class",
+        "materialexpressionnanitereplace_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionRequiredSamplersSwitch Objects.md"
+    },
+    {
+      "id": "compute_framework_components",
+      "label": "Compute Framework Data Flow",
+      "nodes": [
+        "computegraphcomponent_class",
+        "computedataprovider_class",
+        "skeletondataprovider_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ComputeGraphComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

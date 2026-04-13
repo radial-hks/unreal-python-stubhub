@@ -1,0 +1,2325 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_DrawContainerSetThickness",
+      "type": "class",
+      "name": "RigUnit_DrawContainerSetThickness",
+      "description": "Set Imported Draw Container curve thickness",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_DrawContainer.h"
+    },
+    {
+      "id": "RigUnitMutable",
+      "type": "class",
+      "name": "RigUnitMutable",
+      "description": "Base class for mutable RigUnits"
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "type",
+      "name": "ControlRigExecuteContext",
+      "description": "Context for Control Rig execution"
+    },
+    {
+      "id": "thickness_property",
+      "type": "property",
+      "name": "thickness",
+      "data_type": "float",
+      "description": "Curve thickness value"
+    },
+    {
+      "id": "instruction_name_property",
+      "type": "property",
+      "name": "instruction_name",
+      "data_type": "Name",
+      "description": "Instruction name"
+    },
+    {
+      "id": "execute_context_property",
+      "type": "property",
+      "name": "execute_context",
+      "data_type": "ControlRigExecuteContext",
+      "description": "Chain multiple mutable units together"
+    },
+    {
+      "id": "CameraAsset",
+      "type": "class",
+      "name": "CameraAsset",
+      "description": "A complete camera asset",
+      "module": "GameplayCameras",
+      "plugin": "GameplayCameras",
+      "file": "CameraAsset.h"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "name": "Object",
+      "description": "Base Object class"
+    },
+    {
+      "id": "InterchangeTextureFilterMode",
+      "type": "enum",
+      "name": "InterchangeTextureFilterMode",
+      "description": "EInterchange Texture Filter Mode",
+      "module": "InterchangeNodes",
+      "plugin": "Interchange",
+      "file": "InterchangeTextureNode.h"
+    },
+    {
+      "id": "NEAREST",
+      "type": "enum_value",
+      "name": "NEAREST",
+      "value": 0,
+      "description": "Nearest neighbor filtering"
+    },
+    {
+      "id": "BILINEAR",
+      "type": "enum_value",
+      "name": "BILINEAR",
+      "value": 1,
+      "description": "Bilinear filtering"
+    },
+    {
+      "id": "TRILINEAR",
+      "type": "enum_value",
+      "name": "TRILINEAR",
+      "value": 2,
+      "description": "Trilinear filtering"
+    },
+    {
+      "id": "DEFAULT",
+      "type": "enum_value",
+      "name": "DEFAULT",
+      "value": 3,
+      "description": "Use setting from the Texture Group"
+    },
+    {
+      "id": "GameplayTagLibrary",
+      "type": "class",
+      "name": "GameplayTagLibrary",
+      "description": "Blueprint Gameplay Tag Library",
+      "module": "GameplayTags",
+      "file": "BlueprintGameplayTagLibrary.h",
+      "base_class": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "name": "BlueprintFunctionLibrary",
+      "description": "Base class for blueprint function libraries"
+    },
+    {
+      "id": "GameplayTagContainer",
+      "type": "type",
+      "name": "GameplayTagContainer",
+      "description": "Container for gameplay tags"
+    },
+    {
+      "id": "GameplayTag",
+      "type": "type",
+      "name": "GameplayTag",
+      "description": "A gameplay tag"
+    },
+    {
+      "id": "GameplayTagQuery",
+      "type": "type",
+      "name": "GameplayTagQuery",
+      "description": "Query for gameplay tags"
+    },
+    {
+      "id": "remove_gameplay_tag_method",
+      "type": "method",
+      "name": "remove_gameplay_tag",
+      "description": "Remove a single tag from the passed in tag container"
+    },
+    {
+      "id": "matches_tag_method",
+      "type": "method",
+      "name": "matches_tag",
+      "description": "Determine if TagOne matches against TagTwo"
+    },
+    {
+      "id": "has_tag_method",
+      "type": "method",
+      "name": "has_tag",
+      "description": "Check if the tag container has the specified tag"
+    },
+    {
+      "id": "has_any_tags_method",
+      "type": "method",
+      "name": "has_any_tags",
+      "description": "Check if the tag container has ANY of the tags in another container"
+    },
+    {
+      "id": "has_all_tags_method",
+      "type": "method",
+      "name": "has_all_tags",
+      "description": "Check if the tag container has ALL of the tags in another container"
+    },
+    {
+      "id": "DelegateBase",
+      "type": "class",
+      "name": "DelegateBase",
+      "description": "Type for all Unreal exposed delegate instances",
+      "base_class": "_WrapperBase"
+    },
+    {
+      "id": "_WrapperBase",
+      "type": "class",
+      "name": "_WrapperBase",
+      "description": "Base wrapper class"
+    },
+    {
+      "id": "is_bound_method",
+      "type": "method",
+      "name": "is_bound",
+      "description": "Check if delegate is bound to something"
+    },
+    {
+      "id": "bind_delegate_method",
+      "type": "method",
+      "name": "bind_delegate",
+      "description": "Bind delegate to same object and function as another delegate"
+    },
+    {
+      "id": "bind_method_method",
+      "type": "method",
+      "name": "bind_method",
+      "description": "Bind delegate to a named Unreal function on given object instance"
+    },
+    {
+      "id": "bind_callable_method",
+      "type": "method",
+      "name": "bind_callable",
+      "description": "Bind delegate to a Python callable"
+    },
+    {
+      "id": "unbind_method",
+      "type": "method",
+      "name": "unbind",
+      "description": "Unbind this Unreal delegate"
+    },
+    {
+      "id": "execute_method",
+      "type": "method",
+      "name": "execute",
+      "description": "Call this Unreal delegate, error if unbound"
+    },
+    {
+      "id": "execute_if_bound_method",
+      "type": "method",
+      "name": "execute_if_bound",
+      "description": "Call this Unreal delegate only if bound"
+    },
+    {
+      "id": "EarthPointFragment",
+      "type": "class",
+      "name": "EarthPointFragment",
+      "description": "Point data fragment (点数据片段)",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld",
+      "file": "EarthSpatialFragment.h",
+      "base_class": "EarthSpatialFragment"
+    },
+    {
+      "id": "EarthSpatialFragment",
+      "type": "class",
+      "name": "EarthSpatialFragment",
+      "description": "Base class for spatial fragments"
+    },
+    {
+      "id": "transform_property",
+      "type": "property",
+      "name": "transform",
+      "data_type": "Transform",
+      "description": "Point data"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "name": "Transform",
+      "description": "Transform representing location, rotation, and scale"
+    },
+    {
+      "id": "valid_property",
+      "type": "property",
+      "name": "valid",
+      "data_type": "bool",
+      "description": "Whether data fragment is valid"
+    },
+    {
+      "id": "validated_property",
+      "type": "property",
+      "name": "validated",
+      "data_type": "bool",
+      "description": "Whether data validation has been performed"
+    },
+    {
+      "id": "owned_component_property",
+      "type": "property",
+      "name": "owned_component",
+      "data_type": "ActorComponent",
+      "description": "Component owned by spatial fragment"
+    },
+    {
+      "id": "ActorComponent",
+      "type": "type",
+      "name": "ActorComponent",
+      "description": "Base class for actor components"
+    },
+    {
+      "id": "UMGSequencePlayer",
+      "type": "class",
+      "name": "UMGSequencePlayer",
+      "description": "UMG Sequence Player",
+      "module": "UMG",
+      "file": "UMGSequencePlayer.h",
+      "base_class": "Object"
+    },
+    {
+      "id": "set_user_tag_method",
+      "type": "method",
+      "name": "set_user_tag",
+      "description": "Set user tag"
+    },
+    {
+      "id": "get_user_tag_method",
+      "type": "method",
+      "name": "get_user_tag",
+      "description": "Get user tag"
+    },
+    {
+      "id": "PCGDensityNoiseMode",
+      "type": "enum",
+      "name": "PCGDensityNoiseMode",
+      "description": "Deprecated - renamed to PCGAttributeNoiseMode",
+      "deprecated": true,
+      "replacement": "PCGAttributeNoiseMode"
+    },
+    {
+      "id": "SET",
+      "type": "enum_value",
+      "name": "SET",
+      "value": 0,
+      "description": "Set mode"
+    },
+    {
+      "id": "MINIMUM",
+      "type": "enum_value",
+      "name": "MINIMUM",
+      "value": 1,
+      "description": "Minimum mode"
+    },
+    {
+      "id": "MAXIMUM",
+      "type": "enum_value",
+      "name": "MAXIMUM",
+      "value": 2,
+      "description": "Maximum mode"
+    },
+    {
+      "id": "ADD",
+      "type": "enum_value",
+      "name": "ADD",
+      "value": 3,
+      "description": "Add mode"
+    },
+    {
+      "id": "MULTIPLY",
+      "type": "enum_value",
+      "name": "MULTIPLY",
+      "value": 4,
+      "description": "Multiply mode"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleToFloat",
+      "type": "class",
+      "name": "RigVMFunction_MathDoubleToFloat",
+      "description": "Returns the double cast to a float",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathDouble.h",
+      "base_class": "RigVMFunction_MathDoubleBase"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleBase",
+      "type": "class",
+      "name": "RigVMFunction_MathDoubleBase",
+      "description": "Base class for math double functions"
+    },
+    {
+      "id": "value_property_double",
+      "type": "property",
+      "name": "value",
+      "data_type": "double",
+      "description": "Input double value"
+    },
+    {
+      "id": "result_property_float",
+      "type": "property",
+      "name": "result",
+      "data_type": "float",
+      "description": "Output float result"
+    },
+    {
+      "id": "GameplayCueNotify_Burst",
+      "type": "class",
+      "name": "GameplayCueNotify_Burst",
+      "description": "Non-instanced gameplay cue notify for one-off effects",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "file": "GameplayCueNotify_Burst.h",
+      "base_class": "GameplayCueNotify_Static"
+    },
+    {
+      "id": "GameplayCueNotify_Static",
+      "type": "class",
+      "name": "GameplayCueNotify_Static",
+      "description": "Static gameplay cue notify base"
+    },
+    {
+      "id": "burst_effects_property",
+      "type": "property",
+      "name": "burst_effects",
+      "data_type": "GameplayCueNotify_BurstEffects",
+      "description": "List of effects to spawn on burst"
+    },
+    {
+      "id": "default_placement_info_property",
+      "type": "property",
+      "name": "default_placement_info",
+      "data_type": "GameplayCueNotify_PlacementInfo",
+      "description": "Default placement rules"
+    },
+    {
+      "id": "default_spawn_condition_property",
+      "type": "property",
+      "name": "default_spawn_condition",
+      "data_type": "GameplayCueNotify_SpawnCondition",
+      "description": "Default spawn condition"
+    },
+    {
+      "id": "gameplay_cue_tag_property",
+      "type": "property",
+      "name": "gameplay_cue_tag",
+      "data_type": "GameplayTag",
+      "description": "Tag this notify is activated by"
+    },
+    {
+      "id": "is_override_property",
+      "type": "property",
+      "name": "is_override",
+      "data_type": "bool",
+      "description": "Whether this Cue overrides other cues"
+    },
+    {
+      "id": "on_burst_method",
+      "type": "method",
+      "name": "on_burst",
+      "description": "Called on burst event"
+    },
+    {
+      "id": "OnPontoonEnteredWater",
+      "type": "class",
+      "name": "OnPontoonEnteredWater",
+      "description": "Delegate for pontoon entering water",
+      "module": "Water",
+      "plugin": "Water",
+      "file": "BuoyancyComponent.h",
+      "base_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "name": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "SphericalPontoon",
+      "type": "type",
+      "name": "SphericalPontoon",
+      "description": "Spherical pontoon type"
+    },
+    {
+      "id": "RigVMFunction_MathBoxShift",
+      "type": "class",
+      "name": "RigVMFunction_MathBoxShift",
+      "description": "Move the box by a certain amount",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathBox.h",
+      "base_class": "RigVMFunction_MathBoxBase"
+    },
+    {
+      "id": "RigVMFunction_MathBoxBase",
+      "type": "class",
+      "name": "RigVMFunction_MathBoxBase",
+      "description": "Base class for math box functions"
+    },
+    {
+      "id": "box_property",
+      "type": "property",
+      "name": "box",
+      "data_type": "Box",
+      "description": "Box to shift"
+    },
+    {
+      "id": "Box",
+      "type": "type",
+      "name": "Box",
+      "description": "Box type"
+    },
+    {
+      "id": "amount_property",
+      "type": "property",
+      "name": "amount",
+      "data_type": "Vector",
+      "description": "Amount/vector to shift the box by"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "name": "Vector",
+      "description": "3D vector"
+    },
+    {
+      "id": "result_property_box",
+      "type": "property",
+      "name": "result",
+      "data_type": "Box",
+      "description": "Shifted box result"
+    },
+    {
+      "id": "AesVegetationEditorCommandParams_Erase",
+      "type": "class",
+      "name": "AesVegetationEditorCommandParams_Erase",
+      "description": "Command parameters for vegetation editor erase",
+      "module": "AesEditorMode",
+      "plugin": "AesWorld",
+      "file": "AesVegetationEditorAction_Erase.h",
+      "base_class": "AesEditorSimpleCommandParams"
+    },
+    {
+      "id": "AesEditorSimpleCommandParams",
+      "type": "class",
+      "name": "AesEditorSimpleCommandParams",
+      "description": "Base class for simple editor command parameters"
+    },
+    {
+      "id": "LightEntity",
+      "type": "class",
+      "name": "LightEntity",
+      "description": "Light entity actor",
+      "module": "CoveringAPIEntity",
+      "plugin": "CoveringAPI",
+      "file": "LightEntity.h",
+      "base_class": "WdpActorEntity"
+    },
+    {
+      "id": "WdpActorEntity",
+      "type": "class",
+      "name": "WdpActorEntity",
+      "description": "Base actor entity class"
+    },
+    {
+      "id": "dynamic_color_mat_property",
+      "type": "property",
+      "name": "dynamic_color_mat",
+      "data_type": "MaterialInstanceDynamic",
+      "description": "Dynamic color material"
+    },
+    {
+      "id": "entity_atoms_property",
+      "type": "property",
+      "name": "entity_atoms",
+      "data_type": "Array[EntityAtomBase]",
+      "description": "Entity atoms array"
+    },
+    {
+      "id": "entity_id_property",
+      "type": "property",
+      "name": "entity_id",
+      "data_type": "int64",
+      "description": "Entity identifier"
+    },
+    {
+      "id": "light_atom_property",
+      "type": "property",
+      "name": "light_atom",
+      "data_type": "LightEntityAtom",
+      "description": "Light entity atom"
+    },
+    {
+      "id": "light_component_property",
+      "type": "property",
+      "name": "light_component",
+      "data_type": "StaticMeshComponent",
+      "description": "Light component"
+    },
+    {
+      "id": "spot_light_component_property",
+      "type": "property",
+      "name": "spot_light_component",
+      "data_type": "SpotLightComponent",
+      "description": "Spot light component"
+    },
+    {
+      "id": "MaterialInstanceDynamic",
+      "type": "type",
+      "name": "MaterialInstanceDynamic",
+      "description": "Dynamic material instance"
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "type",
+      "name": "EntityAtomBase",
+      "description": "Base class for entity atoms"
+    },
+    {
+      "id": "LightEntityAtom",
+      "type": "type",
+      "name": "LightEntityAtom",
+      "description": "Light entity atom"
+    },
+    {
+      "id": "StaticMeshComponent",
+      "type": "type",
+      "name": "StaticMeshComponent",
+      "description": "Static mesh component"
+    },
+    {
+      "id": "SpotLightComponent",
+      "type": "type",
+      "name": "SpotLightComponent",
+      "description": "Spot light component"
+    },
+    {
+      "id": "PCGPreConfiguredSettingsInfo",
+      "type": "struct",
+      "name": "PCGPreConfiguredSettingsInfo",
+      "description": "Pre-configured settings info for PCG",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGSettings.h",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "name": "StructBase",
+      "description": "Base class for structs"
+    },
+    {
+      "id": "preconfigured_index_property",
+      "type": "property",
+      "name": "preconfigured_index",
+      "data_type": "int32",
+      "description": "Index for preconfigured settings"
+    },
+    {
+      "id": "label_property",
+      "type": "property",
+      "name": "label",
+      "data_type": "Text",
+      "description": "Label for exposed asset"
+    },
+    {
+      "id": "tooltip_property",
+      "type": "property",
+      "name": "tooltip",
+      "data_type": "Text",
+      "description": "Tooltip text"
+    },
+    {
+      "id": "Text",
+      "type": "type",
+      "name": "Text",
+      "description": "Text type"
+    },
+    {
+      "id": "RigUnit_ConvertVectorToQuaternion",
+      "type": "class",
+      "name": "RigUnit_ConvertVectorToQuaternion",
+      "description": "Convert Vector to Quaternion",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_Converter.h",
+      "base_class": "RigUnit"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "name": "RigUnit",
+      "description": "Base RigUnit class"
+    },
+    {
+      "id": "input_property_vector",
+      "type": "property",
+      "name": "input",
+      "data_type": "Vector",
+      "description": "Input vector"
+    },
+    {
+      "id": "result_property_quat",
+      "type": "property",
+      "name": "result",
+      "data_type": "Quat",
+      "description": "Result quaternion"
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "name": "Quat",
+      "description": "Quaternion"
+    },
+    {
+      "id": "DCPEffectAtom",
+      "type": "class",
+      "name": "DCPEffectAtom",
+      "description": "DCP Effect Atom",
+      "module": "BimAssetLoader",
+      "plugin": "WdpAssetLoader",
+      "file": "DCPEffectAtom.h",
+      "base_class": "EntityAtomBase"
+    },
+    {
+      "id": "dcp_effect_setting_names_property",
+      "type": "property",
+      "name": "dcp_effect_setting_names",
+      "data_type": "Map[DCPEffectMaterialType, str]",
+      "description": "DCP effect setting names"
+    },
+    {
+      "id": "bim_highlight_style_property",
+      "type": "property",
+      "name": "bim_highlight_style",
+      "data_type": "HierarchyMeshHighlightStyle",
+      "description": "BIM highlight style"
+    },
+    {
+      "id": "DCPEffectMaterialType",
+      "type": "type",
+      "name": "DCPEffectMaterialType",
+      "description": "DCP effect material type"
+    },
+    {
+      "id": "HierarchyMeshHighlightStyle",
+      "type": "type",
+      "name": "HierarchyMeshHighlightStyle",
+      "description": "Hierarchy mesh highlight style"
+    },
+    {
+      "id": "SoundModulationDefaultRoutingSettings",
+      "type": "class",
+      "name": "SoundModulationDefaultRoutingSettings",
+      "description": "Default parameter destination settings for source audio",
+      "module": "Engine",
+      "file": "SoundModulationDestination.h",
+      "base_class": "SoundModulationDefaultSettings"
+    },
+    {
+      "id": "SoundModulationDefaultSettings",
+      "type": "class",
+      "name": "SoundModulationDefaultSettings",
+      "description": "Base class for sound modulation settings"
+    },
+    {
+      "id": "volume_modulation_destination_property",
+      "type": "property",
+      "name": "volume_modulation_destination",
+      "data_type": "SoundModulationDestinationSettings",
+      "description": "Volume modulation"
+    },
+    {
+      "id": "pitch_modulation_destination_property",
+      "type": "property",
+      "name": "pitch_modulation_destination",
+      "data_type": "SoundModulationDestinationSettings",
+      "description": "Pitch modulation"
+    },
+    {
+      "id": "highpass_modulation_destination_property",
+      "type": "property",
+      "name": "highpass_modulation_destination",
+      "data_type": "SoundModulationDestinationSettings",
+      "description": "Highpass modulation"
+    },
+    {
+      "id": "lowpass_modulation_destination_property",
+      "type": "property",
+      "name": "lowpass_modulation_destination",
+      "data_type": "SoundModulationDestinationSettings",
+      "description": "Lowpass modulation"
+    },
+    {
+      "id": "volume_routing_property",
+      "type": "property",
+      "name": "volume_routing",
+      "data_type": "ModulationRouting",
+      "description": "Volume modulation routing"
+    },
+    {
+      "id": "pitch_routing_property",
+      "type": "property",
+      "name": "pitch_routing",
+      "data_type": "ModulationRouting",
+      "description": "Pitch modulation routing"
+    },
+    {
+      "id": "highpass_routing_property",
+      "type": "property",
+      "name": "highpass_routing",
+      "data_type": "ModulationRouting",
+      "description": "Highpass modulation routing"
+    },
+    {
+      "id": "lowpass_routing_property",
+      "type": "property",
+      "name": "lowpass_routing",
+      "data_type": "ModulationRouting",
+      "description": "Lowpass modulation routing"
+    },
+    {
+      "id": "SoundModulationDestinationSettings",
+      "type": "type",
+      "name": "SoundModulationDestinationSettings",
+      "description": "Sound modulation destination settings"
+    },
+    {
+      "id": "ModulationRouting",
+      "type": "enum",
+      "name": "ModulationRouting",
+      "description": "Modulation routing options"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleLawOfCosine",
+      "type": "class",
+      "name": "RigVMFunction_MathDoubleLawOfCosine",
+      "description": "Computes angles between three sides using law of cosine",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathDouble.h",
+      "base_class": "RigVMFunction_MathDoubleBase"
+    },
+    {
+      "id": "a_property",
+      "type": "property",
+      "name": "a",
+      "data_type": "double",
+      "description": "Side A"
+    },
+    {
+      "id": "b_property",
+      "type": "property",
+      "name": "b",
+      "data_type": "double",
+      "description": "Side B"
+    },
+    {
+      "id": "c_property",
+      "type": "property",
+      "name": "c",
+      "data_type": "double",
+      "description": "Side C"
+    },
+    {
+      "id": "alpha_angle_property",
+      "type": "property",
+      "name": "alpha_angle",
+      "data_type": "double",
+      "description": "Alpha angle in radians"
+    },
+    {
+      "id": "beta_angle_property",
+      "type": "property",
+      "name": "beta_angle",
+      "data_type": "double",
+      "description": "Beta angle in radians"
+    },
+    {
+      "id": "gamma_angle_property",
+      "type": "property",
+      "name": "gamma_angle",
+      "data_type": "double",
+      "description": "Gamma angle in radians"
+    },
+    {
+      "id": "valid_property_law",
+      "type": "property",
+      "name": "valid",
+      "data_type": "bool",
+      "description": "Whether calculation is valid"
+    },
+    {
+      "id": "GameplayTaskSpawnActorDelegate",
+      "type": "class",
+      "name": "GameplayTaskSpawnActorDelegate",
+      "description": "Delegate for gameplay task spawn actor",
+      "module": "GameplayTasks",
+      "file": "GameplayTask_SpawnActor.h",
+      "base_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "spawned_actor_param",
+      "type": "parameter",
+      "name": "spawned_actor",
+      "data_type": "Actor",
+      "description": "Spawned actor parameter"
+    },
+    {
+      "id": "Actor",
+      "type": "type",
+      "name": "Actor",
+      "description": "Base actor class"
+    },
+    {
+      "id": "HLODBuilderMeshMergeSettings",
+      "type": "class",
+      "name": "HLODBuilderMeshMergeSettings",
+      "description": "HLOD Builder Mesh Merge Settings",
+      "module": "WorldPartitionHLODUtilities",
+      "plugin": "WorldPartitionHLODUtilities",
+      "file": "HLODBuilderMeshMerge.h",
+      "base_class": "HLODBuilderSettings"
+    },
+    {
+      "id": "HLODBuilderSettings",
+      "type": "class",
+      "name": "HLODBuilderSettings",
+      "description": "Base class for HLOD builder settings"
+    },
+    {
+      "id": "hlod_material_property",
+      "type": "property",
+      "name": "hlod_material",
+      "data_type": "MaterialInterface",
+      "description": "Material for generated HLOD static mesh"
+    },
+    {
+      "id": "mesh_merge_settings_property",
+      "type": "property",
+      "name": "mesh_merge_settings",
+      "data_type": "MeshMergingSettings",
+      "description": "Merged mesh generation settings"
+    },
+    {
+      "id": "MaterialInterface",
+      "type": "type",
+      "name": "MaterialInterface",
+      "description": "Material interface"
+    },
+    {
+      "id": "MeshMergingSettings",
+      "type": "type",
+      "name": "MeshMergingSettings",
+      "description": "Mesh merging settings"
+    },
+    {
+      "id": "FBIKDebugOption",
+      "type": "struct",
+      "name": "FBIKDebugOption",
+      "description": "FBIK Debug Option",
+      "module": "FullBodyIK",
+      "plugin": "FullBodyIK",
+      "file": "FBIKDebugOption.h",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "color_angular_motion_strength_property",
+      "type": "property",
+      "name": "color_angular_motion_strength",
+      "data_type": "bool",
+      "description": "Use red channel for angular motion strength"
+    },
+    {
+      "id": "color_linear_motion_strength_property",
+      "type": "property",
+      "name": "color_linear_motion_strength",
+      "data_type": "bool",
+      "description": "Use green channel for linear motion strength"
+    },
+    {
+      "id": "draw_debug_axes_property",
+      "type": "property",
+      "name": "draw_debug_axes",
+      "data_type": "bool",
+      "description": "Draw debug axes"
+    },
+    {
+      "id": "draw_debug_constraints_property",
+      "type": "property",
+      "name": "draw_debug_constraints",
+      "data_type": "bool",
+      "description": "Draw debug constraints"
+    },
+    {
+      "id": "draw_debug_effector_property",
+      "type": "property",
+      "name": "draw_debug_effector",
+      "data_type": "bool",
+      "description": "Draw debug effector"
+    },
+    {
+      "id": "draw_debug_hierarchy_property",
+      "type": "property",
+      "name": "draw_debug_hierarchy",
+      "data_type": "bool",
+      "description": "Draw debug hierarchy"
+    },
+    {
+      "id": "draw_size_property",
+      "type": "property",
+      "name": "draw_size",
+      "data_type": "float",
+      "description": "Draw size"
+    },
+    {
+      "id": "draw_world_offset_property",
+      "type": "property",
+      "name": "draw_world_offset",
+      "data_type": "Transform",
+      "description": "Draw world offset"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "name": "Name",
+      "description": "Name type in Unreal"
+    },
+    {
+      "id": "float",
+      "type": "primitive",
+      "name": "float",
+      "description": "Float primitive type"
+    },
+    {
+      "id": "double",
+      "type": "primitive",
+      "name": "double",
+      "description": "Double primitive type"
+    },
+    {
+      "id": "bool",
+      "type": "primitive",
+      "name": "bool",
+      "description": "Boolean primitive type"
+    },
+    {
+      "id": "int32",
+      "type": "primitive",
+      "name": "int32",
+      "description": "32-bit integer primitive type"
+    },
+    {
+      "id": "int64",
+      "type": "primitive",
+      "name": "int64",
+      "description": "64-bit integer primitive type"
+    },
+    {
+      "id": "str",
+      "type": "primitive",
+      "name": "str",
+      "description": "String primitive type"
+    },
+    {
+      "id": "GameplayCueParameters",
+      "type": "type",
+      "name": "GameplayCueParameters",
+      "description": "Gameplay cue parameters"
+    },
+    {
+      "id": "GameplayCueNotify_SpawnResult",
+      "type": "type",
+      "name": "GameplayCueNotify_SpawnResult",
+      "description": "Spawn result for gameplay cue notify"
+    },
+    {
+      "id": "GameplayCueNotify_BurstEffects",
+      "type": "type",
+      "name": "GameplayCueNotify_BurstEffects",
+      "description": "Burst effects container"
+    },
+    {
+      "id": "GameplayCueNotify_PlacementInfo",
+      "type": "type",
+      "name": "GameplayCueNotify_PlacementInfo",
+      "description": "Placement info for gameplay cue"
+    },
+    {
+      "id": "GameplayCueNotify_SpawnCondition",
+      "type": "type",
+      "name": "GameplayCueNotify_SpawnCondition",
+      "description": "Spawn condition for gameplay cue"
+    },
+    {
+      "id": "GameplayTagAssetInterface",
+      "type": "interface",
+      "name": "GameplayTagAssetInterface",
+      "description": "Interface for objects with gameplay tags"
+    },
+    {
+      "id": "Class",
+      "type": "type",
+      "name": "Class",
+      "description": "Class type"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "RigUnit_DrawContainerSetThickness",
+      "target": "RigUnitMutable",
+      "type": "INHERITS_FROM",
+      "description": "RigUnit_DrawContainerSetThickness inherits from RigUnitMutable"
+    },
+    {
+      "id": "edge_2",
+      "source": "RigUnit_DrawContainerSetThickness",
+      "target": "execute_context_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigUnit_DrawContainerSetThickness has property execute_context"
+    },
+    {
+      "id": "edge_3",
+      "source": "execute_context_property",
+      "target": "ControlRigExecuteContext",
+      "type": "HAS_TYPE",
+      "description": "execute_context has type ControlRigExecuteContext"
+    },
+    {
+      "id": "edge_4",
+      "source": "RigUnit_DrawContainerSetThickness",
+      "target": "thickness_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigUnit_DrawContainerSetThickness has property thickness"
+    },
+    {
+      "id": "edge_5",
+      "source": "thickness_property",
+      "target": "float",
+      "type": "HAS_TYPE",
+      "description": "thickness has type float"
+    },
+    {
+      "id": "edge_6",
+      "source": "RigUnit_DrawContainerSetThickness",
+      "target": "instruction_name_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigUnit_DrawContainerSetThickness has property instruction_name"
+    },
+    {
+      "id": "edge_7",
+      "source": "instruction_name_property",
+      "target": "Name",
+      "type": "HAS_TYPE",
+      "description": "instruction_name has type Name"
+    },
+    {
+      "id": "edge_8",
+      "source": "CameraAsset",
+      "target": "Object",
+      "type": "INHERITS_FROM",
+      "description": "CameraAsset inherits from Object"
+    },
+    {
+      "id": "edge_9",
+      "source": "InterchangeTextureFilterMode",
+      "target": "NEAREST",
+      "type": "HAS_ENUM_VALUE",
+      "description": "InterchangeTextureFilterMode has enum value NEAREST"
+    },
+    {
+      "id": "edge_10",
+      "source": "InterchangeTextureFilterMode",
+      "target": "BILINEAR",
+      "type": "HAS_ENUM_VALUE",
+      "description": "InterchangeTextureFilterMode has enum value BILINEAR"
+    },
+    {
+      "id": "edge_11",
+      "source": "InterchangeTextureFilterMode",
+      "target": "TRILINEAR",
+      "type": "HAS_ENUM_VALUE",
+      "description": "InterchangeTextureFilterMode has enum value TRILINEAR"
+    },
+    {
+      "id": "edge_12",
+      "source": "InterchangeTextureFilterMode",
+      "target": "DEFAULT",
+      "type": "HAS_ENUM_VALUE",
+      "description": "InterchangeTextureFilterMode has enum value DEFAULT"
+    },
+    {
+      "id": "edge_13",
+      "source": "GameplayTagLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "INHERITS_FROM",
+      "description": "GameplayTagLibrary inherits from BlueprintFunctionLibrary"
+    },
+    {
+      "id": "edge_14",
+      "source": "GameplayTagLibrary",
+      "target": "remove_gameplay_tag_method",
+      "type": "HAS_METHOD",
+      "description": "GameplayTagLibrary has method remove_gameplay_tag"
+    },
+    {
+      "id": "edge_15",
+      "source": "GameplayTagLibrary",
+      "target": "matches_tag_method",
+      "type": "HAS_METHOD",
+      "description": "GameplayTagLibrary has method matches_tag"
+    },
+    {
+      "id": "edge_16",
+      "source": "GameplayTagLibrary",
+      "target": "has_tag_method",
+      "type": "HAS_METHOD",
+      "description": "GameplayTagLibrary has method has_tag"
+    },
+    {
+      "id": "edge_17",
+      "source": "GameplayTagLibrary",
+      "target": "has_any_tags_method",
+      "type": "HAS_METHOD",
+      "description": "GameplayTagLibrary has method has_any_tags"
+    },
+    {
+      "id": "edge_18",
+      "source": "GameplayTagLibrary",
+      "target": "has_all_tags_method",
+      "type": "HAS_METHOD",
+      "description": "GameplayTagLibrary has method has_all_tags"
+    },
+    {
+      "id": "edge_19",
+      "source": "DelegateBase",
+      "target": "_WrapperBase",
+      "type": "INHERITS_FROM",
+      "description": "DelegateBase inherits from _WrapperBase"
+    },
+    {
+      "id": "edge_20",
+      "source": "DelegateBase",
+      "target": "is_bound_method",
+      "type": "HAS_METHOD",
+      "description": "DelegateBase has method is_bound"
+    },
+    {
+      "id": "edge_21",
+      "source": "DelegateBase",
+      "target": "bind_delegate_method",
+      "type": "HAS_METHOD",
+      "description": "DelegateBase has method bind_delegate"
+    },
+    {
+      "id": "edge_22",
+      "source": "DelegateBase",
+      "target": "bind_method_method",
+      "type": "HAS_METHOD",
+      "description": "DelegateBase has method bind_method"
+    },
+    {
+      "id": "edge_23",
+      "source": "DelegateBase",
+      "target": "bind_callable_method",
+      "type": "HAS_METHOD",
+      "description": "DelegateBase has method bind_callable"
+    },
+    {
+      "id": "edge_24",
+      "source": "DelegateBase",
+      "target": "unbind_method",
+      "type": "HAS_METHOD",
+      "description": "DelegateBase has method unbind"
+    },
+    {
+      "id": "edge_25",
+      "source": "DelegateBase",
+      "target": "execute_method",
+      "type": "HAS_METHOD",
+      "description": "DelegateBase has method execute"
+    },
+    {
+      "id": "edge_26",
+      "source": "DelegateBase",
+      "target": "execute_if_bound_method",
+      "type": "HAS_METHOD",
+      "description": "DelegateBase has method execute_if_bound"
+    },
+    {
+      "id": "edge_27",
+      "source": "EarthPointFragment",
+      "target": "EarthSpatialFragment",
+      "type": "INHERITS_FROM",
+      "description": "EarthPointFragment inherits from EarthSpatialFragment"
+    },
+    {
+      "id": "edge_28",
+      "source": "EarthPointFragment",
+      "target": "transform_property",
+      "type": "HAS_PROPERTY",
+      "description": "EarthPointFragment has property transform"
+    },
+    {
+      "id": "edge_29",
+      "source": "transform_property",
+      "target": "Transform",
+      "type": "HAS_TYPE",
+      "description": "transform has type Transform"
+    },
+    {
+      "id": "edge_30",
+      "source": "EarthPointFragment",
+      "target": "valid_property",
+      "type": "HAS_PROPERTY",
+      "description": "EarthPointFragment has property valid"
+    },
+    {
+      "id": "edge_31",
+      "source": "valid_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "valid has type bool"
+    },
+    {
+      "id": "edge_32",
+      "source": "EarthPointFragment",
+      "target": "validated_property",
+      "type": "HAS_PROPERTY",
+      "description": "EarthPointFragment has property validated"
+    },
+    {
+      "id": "edge_33",
+      "source": "validated_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "validated has type bool"
+    },
+    {
+      "id": "edge_34",
+      "source": "EarthPointFragment",
+      "target": "owned_component_property",
+      "type": "HAS_PROPERTY",
+      "description": "EarthPointFragment has property owned_component"
+    },
+    {
+      "id": "edge_35",
+      "source": "owned_component_property",
+      "target": "ActorComponent",
+      "type": "HAS_TYPE",
+      "description": "owned_component has type ActorComponent"
+    },
+    {
+      "id": "edge_36",
+      "source": "UMGSequencePlayer",
+      "target": "Object",
+      "type": "INHERITS_FROM",
+      "description": "UMGSequencePlayer inherits from Object"
+    },
+    {
+      "id": "edge_37",
+      "source": "UMGSequencePlayer",
+      "target": "set_user_tag_method",
+      "type": "HAS_METHOD",
+      "description": "UMGSequencePlayer has method set_user_tag"
+    },
+    {
+      "id": "edge_38",
+      "source": "UMGSequencePlayer",
+      "target": "get_user_tag_method",
+      "type": "HAS_METHOD",
+      "description": "UMGSequencePlayer has method get_user_tag"
+    },
+    {
+      "id": "edge_39",
+      "source": "PCGDensityNoiseMode",
+      "target": "SET",
+      "type": "HAS_ENUM_VALUE",
+      "description": "PCGDensityNoiseMode has enum value SET"
+    },
+    {
+      "id": "edge_40",
+      "source": "PCGDensityNoiseMode",
+      "target": "MINIMUM",
+      "type": "HAS_ENUM_VALUE",
+      "description": "PCGDensityNoiseMode has enum value MINIMUM"
+    },
+    {
+      "id": "edge_41",
+      "source": "PCGDensityNoiseMode",
+      "target": "MAXIMUM",
+      "type": "HAS_ENUM_VALUE",
+      "description": "PCGDensityNoiseMode has enum value MAXIMUM"
+    },
+    {
+      "id": "edge_42",
+      "source": "PCGDensityNoiseMode",
+      "target": "ADD",
+      "type": "HAS_ENUM_VALUE",
+      "description": "PCGDensityNoiseMode has enum value ADD"
+    },
+    {
+      "id": "edge_43",
+      "source": "PCGDensityNoiseMode",
+      "target": "MULTIPLY",
+      "type": "HAS_ENUM_VALUE",
+      "description": "PCGDensityNoiseMode has enum value MULTIPLY"
+    },
+    {
+      "id": "edge_44",
+      "source": "RigVMFunction_MathDoubleToFloat",
+      "target": "RigVMFunction_MathDoubleBase",
+      "type": "INHERITS_FROM",
+      "description": "RigVMFunction_MathDoubleToFloat inherits from RigVMFunction_MathDoubleBase"
+    },
+    {
+      "id": "edge_45",
+      "source": "RigVMFunction_MathDoubleToFloat",
+      "target": "value_property_double",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleToFloat has property value"
+    },
+    {
+      "id": "edge_46",
+      "source": "value_property_double",
+      "target": "double",
+      "type": "HAS_TYPE",
+      "description": "value has type double"
+    },
+    {
+      "id": "edge_47",
+      "source": "RigVMFunction_MathDoubleToFloat",
+      "target": "result_property_float",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleToFloat has property result"
+    },
+    {
+      "id": "edge_48",
+      "source": "result_property_float",
+      "target": "float",
+      "type": "HAS_TYPE",
+      "description": "result has type float"
+    },
+    {
+      "id": "edge_49",
+      "source": "GameplayCueNotify_Burst",
+      "target": "GameplayCueNotify_Static",
+      "type": "INHERITS_FROM",
+      "description": "GameplayCueNotify_Burst inherits from GameplayCueNotify_Static"
+    },
+    {
+      "id": "edge_50",
+      "source": "GameplayCueNotify_Burst",
+      "target": "burst_effects_property",
+      "type": "HAS_PROPERTY",
+      "description": "GameplayCueNotify_Burst has property burst_effects"
+    },
+    {
+      "id": "edge_51",
+      "source": "burst_effects_property",
+      "target": "GameplayCueNotify_BurstEffects",
+      "type": "HAS_TYPE",
+      "description": "burst_effects has type GameplayCueNotify_BurstEffects"
+    },
+    {
+      "id": "edge_52",
+      "source": "GameplayCueNotify_Burst",
+      "target": "default_placement_info_property",
+      "type": "HAS_PROPERTY",
+      "description": "GameplayCueNotify_Burst has property default_placement_info"
+    },
+    {
+      "id": "edge_53",
+      "source": "default_placement_info_property",
+      "target": "GameplayCueNotify_PlacementInfo",
+      "type": "HAS_TYPE",
+      "description": "default_placement_info has type GameplayCueNotify_PlacementInfo"
+    },
+    {
+      "id": "edge_54",
+      "source": "GameplayCueNotify_Burst",
+      "target": "default_spawn_condition_property",
+      "type": "HAS_PROPERTY",
+      "description": "GameplayCueNotify_Burst has property default_spawn_condition"
+    },
+    {
+      "id": "edge_55",
+      "source": "default_spawn_condition_property",
+      "target": "GameplayCueNotify_SpawnCondition",
+      "type": "HAS_TYPE",
+      "description": "default_spawn_condition has type GameplayCueNotify_SpawnCondition"
+    },
+    {
+      "id": "edge_56",
+      "source": "GameplayCueNotify_Burst",
+      "target": "gameplay_cue_tag_property",
+      "type": "HAS_PROPERTY",
+      "description": "GameplayCueNotify_Burst has property gameplay_cue_tag"
+    },
+    {
+      "id": "edge_57",
+      "source": "gameplay_cue_tag_property",
+      "target": "GameplayTag",
+      "type": "HAS_TYPE",
+      "description": "gameplay_cue_tag has type GameplayTag"
+    },
+    {
+      "id": "edge_58",
+      "source": "GameplayCueNotify_Burst",
+      "target": "is_override_property",
+      "type": "HAS_PROPERTY",
+      "description": "GameplayCueNotify_Burst has property is_override"
+    },
+    {
+      "id": "edge_59",
+      "source": "is_override_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "is_override has type bool"
+    },
+    {
+      "id": "edge_60",
+      "source": "GameplayCueNotify_Burst",
+      "target": "on_burst_method",
+      "type": "HAS_METHOD",
+      "description": "GameplayCueNotify_Burst has method on_burst"
+    },
+    {
+      "id": "edge_61",
+      "source": "OnPontoonEnteredWater",
+      "target": "MulticastDelegateBase",
+      "type": "INHERITS_FROM",
+      "description": "OnPontoonEnteredWater inherits from MulticastDelegateBase"
+    },
+    {
+      "id": "edge_62",
+      "source": "RigVMFunction_MathBoxShift",
+      "target": "RigVMFunction_MathBoxBase",
+      "type": "INHERITS_FROM",
+      "description": "RigVMFunction_MathBoxShift inherits from RigVMFunction_MathBoxBase"
+    },
+    {
+      "id": "edge_63",
+      "source": "RigVMFunction_MathBoxShift",
+      "target": "box_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathBoxShift has property box"
+    },
+    {
+      "id": "edge_64",
+      "source": "box_property",
+      "target": "Box",
+      "type": "HAS_TYPE",
+      "description": "box has type Box"
+    },
+    {
+      "id": "edge_65",
+      "source": "RigVMFunction_MathBoxShift",
+      "target": "amount_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathBoxShift has property amount"
+    },
+    {
+      "id": "edge_66",
+      "source": "amount_property",
+      "target": "Vector",
+      "type": "HAS_TYPE",
+      "description": "amount has type Vector"
+    },
+    {
+      "id": "edge_67",
+      "source": "RigVMFunction_MathBoxShift",
+      "target": "result_property_box",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathBoxShift has property result"
+    },
+    {
+      "id": "edge_68",
+      "source": "result_property_box",
+      "target": "Box",
+      "type": "HAS_TYPE",
+      "description": "result has type Box"
+    },
+    {
+      "id": "edge_69",
+      "source": "AesVegetationEditorCommandParams_Erase",
+      "target": "AesEditorSimpleCommandParams",
+      "type": "INHERITS_FROM",
+      "description": "AesVegetationEditorCommandParams_Erase inherits from AesEditorSimpleCommandParams"
+    },
+    {
+      "id": "edge_70",
+      "source": "LightEntity",
+      "target": "WdpActorEntity",
+      "type": "INHERITS_FROM",
+      "description": "LightEntity inherits from WdpActorEntity"
+    },
+    {
+      "id": "edge_71",
+      "source": "LightEntity",
+      "target": "dynamic_color_mat_property",
+      "type": "HAS_PROPERTY",
+      "description": "LightEntity has property dynamic_color_mat"
+    },
+    {
+      "id": "edge_72",
+      "source": "dynamic_color_mat_property",
+      "target": "MaterialInstanceDynamic",
+      "type": "HAS_TYPE",
+      "description": "dynamic_color_mat has type MaterialInstanceDynamic"
+    },
+    {
+      "id": "edge_73",
+      "source": "LightEntity",
+      "target": "entity_atoms_property",
+      "type": "HAS_PROPERTY",
+      "description": "LightEntity has property entity_atoms"
+    },
+    {
+      "id": "edge_74",
+      "source": "entity_atoms_property",
+      "target": "EntityAtomBase",
+      "type": "HAS_TYPE",
+      "description": "entity_atoms has type Array[EntityAtomBase]"
+    },
+    {
+      "id": "edge_75",
+      "source": "LightEntity",
+      "target": "entity_id_property",
+      "type": "HAS_PROPERTY",
+      "description": "LightEntity has property entity_id"
+    },
+    {
+      "id": "edge_76",
+      "source": "entity_id_property",
+      "target": "int64",
+      "type": "HAS_TYPE",
+      "description": "entity_id has type int64"
+    },
+    {
+      "id": "edge_77",
+      "source": "LightEntity",
+      "target": "light_atom_property",
+      "type": "HAS_PROPERTY",
+      "description": "LightEntity has property light_atom"
+    },
+    {
+      "id": "edge_78",
+      "source": "light_atom_property",
+      "target": "LightEntityAtom",
+      "type": "HAS_TYPE",
+      "description": "light_atom has type LightEntityAtom"
+    },
+    {
+      "id": "edge_79",
+      "source": "LightEntity",
+      "target": "light_component_property",
+      "type": "HAS_PROPERTY",
+      "description": "LightEntity has property light_component"
+    },
+    {
+      "id": "edge_80",
+      "source": "light_component_property",
+      "target": "StaticMeshComponent",
+      "type": "HAS_TYPE",
+      "description": "light_component has type StaticMeshComponent"
+    },
+    {
+      "id": "edge_81",
+      "source": "LightEntity",
+      "target": "spot_light_component_property",
+      "type": "HAS_PROPERTY",
+      "description": "LightEntity has property spot_light_component"
+    },
+    {
+      "id": "edge_82",
+      "source": "spot_light_component_property",
+      "target": "SpotLightComponent",
+      "type": "HAS_TYPE",
+      "description": "spot_light_component has type SpotLightComponent"
+    },
+    {
+      "id": "edge_83",
+      "source": "PCGPreConfiguredSettingsInfo",
+      "target": "StructBase",
+      "type": "INHERITS_FROM",
+      "description": "PCGPreConfiguredSettingsInfo inherits from StructBase"
+    },
+    {
+      "id": "edge_84",
+      "source": "PCGPreConfiguredSettingsInfo",
+      "target": "preconfigured_index_property",
+      "type": "HAS_PROPERTY",
+      "description": "PCGPreConfiguredSettingsInfo has property preconfigured_index"
+    },
+    {
+      "id": "edge_85",
+      "source": "preconfigured_index_property",
+      "target": "int32",
+      "type": "HAS_TYPE",
+      "description": "preconfigured_index has type int32"
+    },
+    {
+      "id": "edge_86",
+      "source": "PCGPreConfiguredSettingsInfo",
+      "target": "label_property",
+      "type": "HAS_PROPERTY",
+      "description": "PCGPreConfiguredSettingsInfo has property label"
+    },
+    {
+      "id": "edge_87",
+      "source": "label_property",
+      "target": "Text",
+      "type": "HAS_TYPE",
+      "description": "label has type Text"
+    },
+    {
+      "id": "edge_88",
+      "source": "PCGPreConfiguredSettingsInfo",
+      "target": "tooltip_property",
+      "type": "HAS_PROPERTY",
+      "description": "PCGPreConfiguredSettingsInfo has property tooltip"
+    },
+    {
+      "id": "edge_89",
+      "source": "tooltip_property",
+      "target": "Text",
+      "type": "HAS_TYPE",
+      "description": "tooltip has type Text"
+    },
+    {
+      "id": "edge_90",
+      "source": "RigUnit_ConvertVectorToQuaternion",
+      "target": "RigUnit",
+      "type": "INHERITS_FROM",
+      "description": "RigUnit_ConvertVectorToQuaternion inherits from RigUnit"
+    },
+    {
+      "id": "edge_91",
+      "source": "RigUnit_ConvertVectorToQuaternion",
+      "target": "input_property_vector",
+      "type": "HAS_PROPERTY",
+      "description": "RigUnit_ConvertVectorToQuaternion has property input"
+    },
+    {
+      "id": "edge_92",
+      "source": "input_property_vector",
+      "target": "Vector",
+      "type": "HAS_TYPE",
+      "description": "input has type Vector"
+    },
+    {
+      "id": "edge_93",
+      "source": "RigUnit_ConvertVectorToQuaternion",
+      "target": "result_property_quat",
+      "type": "HAS_PROPERTY",
+      "description": "RigUnit_ConvertVectorToQuaternion has property result"
+    },
+    {
+      "id": "edge_94",
+      "source": "result_property_quat",
+      "target": "Quat",
+      "type": "HAS_TYPE",
+      "description": "result has type Quat"
+    },
+    {
+      "id": "edge_95",
+      "source": "DCPEffectAtom",
+      "target": "EntityAtomBase",
+      "type": "INHERITS_FROM",
+      "description": "DCPEffectAtom inherits from EntityAtomBase"
+    },
+    {
+      "id": "edge_96",
+      "source": "DCPEffectAtom",
+      "target": "dcp_effect_setting_names_property",
+      "type": "HAS_PROPERTY",
+      "description": "DCPEffectAtom has property dcp_effect_setting_names"
+    },
+    {
+      "id": "edge_97",
+      "source": "dcp_effect_setting_names_property",
+      "target": "DCPEffectMaterialType",
+      "type": "HAS_TYPE",
+      "description": "dcp_effect_setting_names has type Map[DCPEffectMaterialType, str]"
+    },
+    {
+      "id": "edge_98",
+      "source": "DCPEffectAtom",
+      "target": "bim_highlight_style_property",
+      "type": "HAS_PROPERTY",
+      "description": "DCPEffectAtom has property bim_highlight_style"
+    },
+    {
+      "id": "edge_99",
+      "source": "bim_highlight_style_property",
+      "target": "HierarchyMeshHighlightStyle",
+      "type": "HAS_TYPE",
+      "description": "bim_highlight_style has type HierarchyMeshHighlightStyle"
+    },
+    {
+      "id": "edge_100",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "SoundModulationDefaultSettings",
+      "type": "INHERITS_FROM",
+      "description": "SoundModulationDefaultRoutingSettings inherits from SoundModulationDefaultSettings"
+    },
+    {
+      "id": "edge_101",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "volume_modulation_destination_property",
+      "type": "HAS_PROPERTY",
+      "description": "SoundModulationDefaultRoutingSettings has property volume_modulation_destination"
+    },
+    {
+      "id": "edge_102",
+      "source": "volume_modulation_destination_property",
+      "target": "SoundModulationDestinationSettings",
+      "type": "HAS_TYPE",
+      "description": "volume_modulation_destination has type SoundModulationDestinationSettings"
+    },
+    {
+      "id": "edge_103",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "pitch_modulation_destination_property",
+      "type": "HAS_PROPERTY",
+      "description": "SoundModulationDefaultRoutingSettings has property pitch_modulation_destination"
+    },
+    {
+      "id": "edge_104",
+      "source": "pitch_modulation_destination_property",
+      "target": "SoundModulationDestinationSettings",
+      "type": "HAS_TYPE",
+      "description": "pitch_modulation_destination has type SoundModulationDestinationSettings"
+    },
+    {
+      "id": "edge_105",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "highpass_modulation_destination_property",
+      "type": "HAS_PROPERTY",
+      "description": "SoundModulationDefaultRoutingSettings has property highpass_modulation_destination"
+    },
+    {
+      "id": "edge_106",
+      "source": "highpass_modulation_destination_property",
+      "target": "SoundModulationDestinationSettings",
+      "type": "HAS_TYPE",
+      "description": "highpass_modulation_destination has type SoundModulationDestinationSettings"
+    },
+    {
+      "id": "edge_107",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "lowpass_modulation_destination_property",
+      "type": "HAS_PROPERTY",
+      "description": "SoundModulationDefaultRoutingSettings has property lowpass_modulation_destination"
+    },
+    {
+      "id": "edge_108",
+      "source": "lowpass_modulation_destination_property",
+      "target": "SoundModulationDestinationSettings",
+      "type": "HAS_TYPE",
+      "description": "lowpass_modulation_destination has type SoundModulationDestinationSettings"
+    },
+    {
+      "id": "edge_109",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "volume_routing_property",
+      "type": "HAS_PROPERTY",
+      "description": "SoundModulationDefaultRoutingSettings has property volume_routing"
+    },
+    {
+      "id": "edge_110",
+      "source": "volume_routing_property",
+      "target": "ModulationRouting",
+      "type": "HAS_TYPE",
+      "description": "volume_routing has type ModulationRouting"
+    },
+    {
+      "id": "edge_111",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "pitch_routing_property",
+      "type": "HAS_PROPERTY",
+      "description": "SoundModulationDefaultRoutingSettings has property pitch_routing"
+    },
+    {
+      "id": "edge_112",
+      "source": "pitch_routing_property",
+      "target": "ModulationRouting",
+      "type": "HAS_TYPE",
+      "description": "pitch_routing has type ModulationRouting"
+    },
+    {
+      "id": "edge_113",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "highpass_routing_property",
+      "type": "HAS_PROPERTY",
+      "description": "SoundModulationDefaultRoutingSettings has property highpass_routing"
+    },
+    {
+      "id": "edge_114",
+      "source": "highpass_routing_property",
+      "target": "ModulationRouting",
+      "type": "HAS_TYPE",
+      "description": "highpass_routing has type ModulationRouting"
+    },
+    {
+      "id": "edge_115",
+      "source": "SoundModulationDefaultRoutingSettings",
+      "target": "lowpass_routing_property",
+      "type": "HAS_PROPERTY",
+      "description": "SoundModulationDefaultRoutingSettings has property lowpass_routing"
+    },
+    {
+      "id": "edge_116",
+      "source": "lowpass_routing_property",
+      "target": "ModulationRouting",
+      "type": "HAS_TYPE",
+      "description": "lowpass_routing has type ModulationRouting"
+    },
+    {
+      "id": "edge_117",
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "RigVMFunction_MathDoubleBase",
+      "type": "INHERITS_FROM",
+      "description": "RigVMFunction_MathDoubleLawOfCosine inherits from RigVMFunction_MathDoubleBase"
+    },
+    {
+      "id": "edge_118",
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "a_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleLawOfCosine has property a"
+    },
+    {
+      "id": "edge_119",
+      "source": "a_property",
+      "target": "double",
+      "type": "HAS_TYPE",
+      "description": "a has type double"
+    },
+    {
+      "id": "edge_120",
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "b_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleLawOfCosine has property b"
+    },
+    {
+      "id": "edge_121",
+      "source": "b_property",
+      "target": "double",
+      "type": "HAS_TYPE",
+      "description": "b has type double"
+    },
+    {
+      "id": "edge_122",
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "c_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleLawOfCosine has property c"
+    },
+    {
+      "id": "edge_123",
+      "source": "c_property",
+      "target": "double",
+      "type": "HAS_TYPE",
+      "description": "c has type double"
+    },
+    {
+      "id": "edge_124",
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "alpha_angle_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleLawOfCosine has property alpha_angle"
+    },
+    {
+      "id": "edge_125",
+      "source": "alpha_angle_property",
+      "target": "double",
+      "type": "HAS_TYPE",
+      "description": "alpha_angle has type double"
+    },
+    {
+      "id": "edge_126",
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "beta_angle_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleLawOfCosine has property beta_angle"
+    },
+    {
+      "id": "edge_127",
+      "source": "beta_angle_property",
+      "target": "double",
+      "type": "HAS_TYPE",
+      "description": "beta_angle has type double"
+    },
+    {
+      "id": "edge_128",
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "gamma_angle_property",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleLawOfCosine has property gamma_angle"
+    },
+    {
+      "id": "edge_129",
+      "source": "gamma_angle_property",
+      "target": "double",
+      "type": "HAS_TYPE",
+      "description": "gamma_angle has type double"
+    },
+    {
+      "id": "edge_130",
+      "source": "RigVMFunction_MathDoubleLawOfCosine",
+      "target": "valid_property_law",
+      "type": "HAS_PROPERTY",
+      "description": "RigVMFunction_MathDoubleLawOfCosine has property valid"
+    },
+    {
+      "id": "edge_131",
+      "source": "valid_property_law",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "valid has type bool"
+    },
+    {
+      "id": "edge_132",
+      "source": "GameplayTaskSpawnActorDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "INHERITS_FROM",
+      "description": "GameplayTaskSpawnActorDelegate inherits from MulticastDelegateBase"
+    },
+    {
+      "id": "edge_133",
+      "source": "HLODBuilderMeshMergeSettings",
+      "target": "HLODBuilderSettings",
+      "type": "INHERITS_FROM",
+      "description": "HLODBuilderMeshMergeSettings inherits from HLODBuilderSettings"
+    },
+    {
+      "id": "edge_134",
+      "source": "HLODBuilderMeshMergeSettings",
+      "target": "hlod_material_property",
+      "type": "HAS_PROPERTY",
+      "description": "HLODBuilderMeshMergeSettings has property hlod_material"
+    },
+    {
+      "id": "edge_135",
+      "source": "hlod_material_property",
+      "target": "MaterialInterface",
+      "type": "HAS_TYPE",
+      "description": "hlod_material has type MaterialInterface"
+    },
+    {
+      "id": "edge_136",
+      "source": "HLODBuilderMeshMergeSettings",
+      "target": "mesh_merge_settings_property",
+      "type": "HAS_PROPERTY",
+      "description": "HLODBuilderMeshMergeSettings has property mesh_merge_settings"
+    },
+    {
+      "id": "edge_137",
+      "source": "mesh_merge_settings_property",
+      "target": "MeshMergingSettings",
+      "type": "HAS_TYPE",
+      "description": "mesh_merge_settings has type MeshMergingSettings"
+    },
+    {
+      "id": "edge_138",
+      "source": "FBIKDebugOption",
+      "target": "StructBase",
+      "type": "INHERITS_FROM",
+      "description": "FBIKDebugOption inherits from StructBase"
+    },
+    {
+      "id": "edge_139",
+      "source": "FBIKDebugOption",
+      "target": "color_angular_motion_strength_property",
+      "type": "HAS_PROPERTY",
+      "description": "FBIKDebugOption has property color_angular_motion_strength"
+    },
+    {
+      "id": "edge_140",
+      "source": "color_angular_motion_strength_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "color_angular_motion_strength has type bool"
+    },
+    {
+      "id": "edge_141",
+      "source": "FBIKDebugOption",
+      "target": "color_linear_motion_strength_property",
+      "type": "HAS_PROPERTY",
+      "description": "FBIKDebugOption has property color_linear_motion_strength"
+    },
+    {
+      "id": "edge_142",
+      "source": "color_linear_motion_strength_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "color_linear_motion_strength has type bool"
+    },
+    {
+      "id": "edge_143",
+      "source": "FBIKDebugOption",
+      "target": "draw_debug_axes_property",
+      "type": "HAS_PROPERTY",
+      "description": "FBIKDebugOption has property draw_debug_axes"
+    },
+    {
+      "id": "edge_144",
+      "source": "draw_debug_axes_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "draw_debug_axes has type bool"
+    },
+    {
+      "id": "edge_145",
+      "source": "FBIKDebugOption",
+      "target": "draw_debug_constraints_property",
+      "type": "HAS_PROPERTY",
+      "description": "FBIKDebugOption has property draw_debug_constraints"
+    },
+    {
+      "id": "edge_146",
+      "source": "draw_debug_constraints_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "draw_debug_constraints has type bool"
+    },
+    {
+      "id": "edge_147",
+      "source": "FBIKDebugOption",
+      "target": "draw_debug_effector_property",
+      "type": "HAS_PROPERTY",
+      "description": "FBIKDebugOption has property draw_debug_effector"
+    },
+    {
+      "id": "edge_148",
+      "source": "draw_debug_effector_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "draw_debug_effector has type bool"
+    },
+    {
+      "id": "edge_149",
+      "source": "FBIKDebugOption",
+      "target": "draw_debug_hierarchy_property",
+      "type": "HAS_PROPERTY",
+      "description": "FBIKDebugOption has property draw_debug_hierarchy"
+    },
+    {
+      "id": "edge_150",
+      "source": "draw_debug_hierarchy_property",
+      "target": "bool",
+      "type": "HAS_TYPE",
+      "description": "draw_debug_hierarchy has type bool"
+    },
+    {
+      "id": "edge_151",
+      "source": "FBIKDebugOption",
+      "target": "draw_size_property",
+      "type": "HAS_PROPERTY",
+      "description": "FBIKDebugOption has property draw_size"
+    },
+    {
+      "id": "edge_152",
+      "source": "draw_size_property",
+      "target": "float",
+      "type": "HAS_TYPE",
+      "description": "draw_size has type float"
+    },
+    {
+      "id": "edge_153",
+      "source": "FBIKDebugOption",
+      "target": "draw_world_offset_property",
+      "type": "HAS_PROPERTY",
+      "description": "FBIKDebugOption has property draw_world_offset"
+    },
+    {
+      "id": "edge_154",
+      "source": "draw_world_offset_property",
+      "target": "Transform",
+      "type": "HAS_TYPE",
+      "description": "draw_world_offset has type Transform"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "nodes": [
+        "remove_gameplay_tag_method",
+        "GameplayTagContainer",
+        "GameplayTag"
+      ],
+      "type": "METHOD_SIGNATURE",
+      "description": "remove_gameplay_tag takes GameplayTagContainer and GameplayTag as parameters"
+    },
+    {
+      "id": "hyperedge_2",
+      "nodes": [
+        "matches_tag_method",
+        "GameplayTag",
+        "bool"
+      ],
+      "type": "METHOD_SIGNATURE",
+      "description": "matches_tag takes two GameplayTag parameters and returns bool"
+    },
+    {
+      "id": "hyperedge_3",
+      "nodes": [
+        "has_tag_method",
+        "GameplayTagContainer",
+        "GameplayTag",
+        "bool"
+      ],
+      "type": "METHOD_SIGNATURE",
+      "description": "has_tag takes GameplayTagContainer, GameplayTag, and exact_match bool, returns bool"
+    },
+    {
+      "id": "hyperedge_4",
+      "nodes": [
+        "has_any_tags_method",
+        "GameplayTagContainer",
+        "bool"
+      ],
+      "type": "METHOD_SIGNATURE",
+      "description": "has_any_tags takes two GameplayTagContainer and exact_match bool, returns bool"
+    },
+    {
+      "id": "hyperedge_5",
+      "nodes": [
+        "has_all_tags_method",
+        "GameplayTagContainer",
+        "bool"
+      ],
+      "type": "METHOD_SIGNATURE",
+      "description": "has_all_tags takes two GameplayTagContainer and exact_match bool, returns bool"
+    },
+    {
+      "id": "hyperedge_6",
+      "nodes": [
+        "on_burst_method",
+        "Actor",
+        "GameplayCueParameters",
+        "GameplayCueNotify_SpawnResult"
+      ],
+      "type": "METHOD_SIGNATURE",
+      "description": "on_burst takes Actor, GameplayCueParameters, and GameplayCueNotify_SpawnResult"
+    },
+    {
+      "id": "hyperedge_7",
+      "nodes": [
+        "OnPontoonEnteredWater",
+        "SphericalPontoon"
+      ],
+      "type": "DELEGATE_SIGNATURE",
+      "description": "OnPontoonEnteredWater delegate signature takes SphericalPontoon parameter"
+    },
+    {
+      "id": "hyperedge_8",
+      "nodes": [
+        "GameplayTaskSpawnActorDelegate",
+        "Actor"
+      ],
+      "type": "DELEGATE_SIGNATURE",
+      "description": "GameplayTaskSpawnActorDelegate takes Actor parameter"
+    },
+    {
+      "id": "hyperedge_9",
+      "nodes": [
+        "RigVMFunction_MathDoubleLawOfCosine",
+        "a_property",
+        "b_property",
+        "c_property",
+        "alpha_angle_property",
+        "beta_angle_property",
+        "gamma_angle_property"
+      ],
+      "type": "LAW_OF_COSINE_COMPUTATION",
+      "description": "Computes alpha, beta, and gamma angles from sides a, b, and c using law of cosine"
+    },
+    {
+      "id": "hyperedge_10",
+      "nodes": [
+        "SoundModulationDefaultRoutingSettings",
+        "volume_modulation_destination_property",
+        "pitch_modulation_destination_property",
+        "highpass_modulation_destination_property",
+        "lowpass_modulation_destination_property"
+      ],
+      "type": "AUDIO_MODULATION_CONFIG",
+      "description": "SoundModulationDefaultRoutingSettings manages volume, pitch, highpass, and lowpass modulation destinations"
+    },
+    {
+      "id": "hyperedge_11",
+      "nodes": [
+        "SoundModulationDefaultRoutingSettings",
+        "volume_routing_property",
+        "pitch_routing_property",
+        "highpass_routing_property",
+        "lowpass_routing_property"
+      ],
+      "type": "AUDIO_ROUTING_CONFIG",
+      "description": "SoundModulationDefaultRoutingSettings manages routing for volume, pitch, highpass, and lowpass"
+    },
+    {
+      "id": "hyperedge_12",
+      "nodes": [
+        "FBIKDebugOption",
+        "draw_debug_axes_property",
+        "draw_debug_constraints_property",
+        "draw_debug_effector_property",
+        "draw_debug_hierarchy_property"
+      ],
+      "type": "DEBUG_DRAW_CONFIG",
+      "description": "FBIKDebugOption controls debug drawing for axes, constraints, effector, and hierarchy"
+    },
+    {
+      "id": "hyperedge_13",
+      "nodes": [
+        "PCGDensityNoiseMode",
+        "PCGAttributeNoiseMode"
+      ],
+      "type": "DEPRECATION",
+      "description": "PCGDensityNoiseMode was renamed to PCGAttributeNoiseMode"
+    },
+    {
+      "id": "hyperedge_14",
+      "nodes": [
+        "GameplayCueNotify_Burst",
+        "burst_effects_property",
+        "default_placement_info_property",
+        "default_spawn_condition_property"
+      ],
+      "type": "GAMEPLAY_CUE_CONFIG",
+      "description": "GameplayCueNotify_Burst configures burst effects, placement, and spawn conditions"
+    },
+    {
+      "id": "hyperedge_15",
+      "nodes": [
+        "EarthPointFragment",
+        "transform_property",
+        "valid_property",
+        "validated_property",
+        "owned_component_property"
+      ],
+      "type": "SPATIAL_DATA_FRAGMENT",
+      "description": "EarthPointFragment represents a point in space with transform, validity, and component data"
+    },
+    {
+      "id": "hyperedge_16",
+      "nodes": [
+        "LightEntity",
+        "dynamic_color_mat_property",
+        "light_atom_property",
+        "light_component_property",
+        "spot_light_component_property"
+      ],
+      "type": "LIGHT_ENTITY_COMPONENTS",
+      "description": "LightEntity contains lighting-related components and materials"
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "nodes": [
+    {
+      "id": "DaySequenceStaticTimeContributor",
+      "type": "class",
+      "label": "DaySequenceStaticTimeContributor",
+      "description": "A Blueprint exposed static time contributor for Day Sequence Actors",
+      "properties": {
+        "blend_weight": "float",
+        "static_time": "float",
+        "wants_static_time": "bool"
+      },
+      "methods": ["bind_to_day_sequence_actor", "unbind_from_day_sequence_actor"],
+      "module": "DaySequence",
+      "plugin": "DaySequence"
+    },
+    {
+      "id": "WdpPreserveScaleRatioParams",
+      "type": "class",
+      "label": "WdpPreserveScaleRatioParams",
+      "description": "Gizmo PreserveScaleRatio parameters",
+      "properties": {
+        "guid": "str",
+        "hit_keys": "Set[Name]",
+        "preserve_scale_ratio": "bool"
+      },
+      "module": "ApplicationAPI",
+      "plugin": "WdpRuntimeAPI"
+    },
+    {
+      "id": "AsyncAction_ListenForAesMessage",
+      "type": "class",
+      "label": "AsyncAction_ListenForAesMessage",
+      "description": "Async action for listening to AES messages",
+      "properties": {
+        "on_message_received": "AsyncGameplayMessageDelegate"
+      },
+      "module": "AesMessageSystem",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "GeometryScriptLayoutUVsOptions",
+      "type": "struct",
+      "label": "GeometryScriptLayoutUVsOptions",
+      "description": "Options for UV layout operations in geometry scripting",
+      "properties": {
+        "layout_type": "GeometryScriptUVLayoutType",
+        "texture_resolution": "int32",
+        "scale": "float",
+        "translation": "Vector2D",
+        "preserve_scale": "bool",
+        "preserve_rotation": "bool",
+        "allow_flips": "bool",
+        "enable_udim_layout": "bool",
+        "udim_resolutions": "Map[int32, int32]"
+      },
+      "module": "GeometryScriptingCore",
+      "plugin": "GeometryScripting"
+    },
+    {
+      "id": "AnimationAsset",
+      "type": "class",
+      "label": "AnimationAsset",
+      "description": "Base class for animation assets",
+      "properties": {
+        "asset_mapping_table": "AssetMappingTable",
+        "asset_user_data": "Array[AssetUserData]",
+        "meta_data": "Array[AnimMetaData]",
+        "parent_asset": "AnimationAsset",
+        "preview_pose_asset": "PoseAsset",
+        "skeleton": "Skeleton",
+        "thumbnail_info": "ThumbnailInfo"
+      },
+      "methods": [
+        "set_preview_skeletal_mesh",
+        "get_play_length",
+        "find_meta_data_by_class",
+        "has_asset_user_data_of_class",
+        "get_asset_user_data_of_class",
+        "add_asset_user_data_of_class",
+        "get_skeleton",
+        "create_attribute_identifier"
+      ],
+      "module": "Engine"
+    },
+    {
+      "id": "AISenseConfig_Damage",
+      "type": "class",
+      "label": "AISenseConfig_Damage",
+      "description": "AI sense configuration for damage detection",
+      "properties": {
+        "debug_color": "Color",
+        "implementation": "Class",
+        "max_age": "float",
+        "starts_enabled": "bool"
+      },
+      "module": "AIModule"
+    },
+    {
+      "id": "PCGDifferenceSettings",
+      "type": "class",
+      "label": "PCGDifferenceSettings",
+      "description": "Settings for PCG difference operations",
+      "properties": {
+        "density_function": "PCGDifferenceDensityFunction",
+        "mode": "PCGDifferenceMode",
+        "diff_metadata": "bool",
+        "keep_zero_density_points": "bool",
+        "debug": "bool",
+        "enabled": "bool",
+        "seed": "int32"
+      },
+      "module": "PCG",
+      "plugin": "PCG"
+    },
+    {
+      "id": "RigUnit_MathVectorRad",
+      "type": "class",
+      "label": "RigUnit_MathVectorRad",
+      "description": "Deprecated: renamed to RigVMFunction_MathVectorRad",
+      "properties": {
+        "value": "Vector",
+        "result": "Vector"
+      },
+      "deprecated": true,
+      "replacement": "RigVMFunction_MathVectorRad"
+    },
+    {
+      "id": "EditorAnimSegment",
+      "type": "class",
+      "label": "EditorAnimSegment",
+      "description": "Editor animation segment object",
+      "properties": {
+        "anim_segment": "AnimSegment"
+      },
+      "module": "UnrealEd"
+    },
+    {
+      "id": "SoundModulationDefaultSettings",
+      "type": "struct",
+      "label": "SoundModulationDefaultSettings",
+      "description": "Default parameter destination settings for source audio",
+      "properties": {
+        "volume_modulation_destination": "SoundModulationDestinationSettings",
+        "pitch_modulation_destination": "SoundModulationDestinationSettings",
+        "highpass_modulation_destination": "SoundModulationDestinationSettings",
+        "lowpass_modulation_destination": "SoundModulationDestinationSettings"
+      },
+      "module": "Engine"
+    },
+    {
+      "id": "ApplicationLifecycleComponent_ApplicationLifetimeDelegate",
+      "type": "delegate",
+      "label": "ApplicationLifetimeDelegate",
+      "description": "Delegate for application lifetime events",
+      "module": "Engine"
+    },
+    {
+      "id": "RigVMFunction_MathMatrixBinaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathMatrixBinaryOp",
+      "description": "Binary operation for matrices in RigVM",
+      "properties": {
+        "a": "Matrix",
+        "b": "Matrix",
+        "result": "Matrix"
+      },
+      "module": "RigVM",
+      "plugin": "RigVM"
+    },
+    {
+      "id": "API_HeatPointList",
+      "type": "struct",
+      "label": "API_HeatPointList",
+      "description": "Heat point list data structure",
+      "properties": {
+        "point_list": "Array[API_HeatPointData]"
+      },
+      "module": "CoveringAPIEntity",
+      "plugin": "CoveringAPI"
+    },
+    {
+      "id": "AudioSpectrumPlotFrequencyAxisPixelBucketMode",
+      "type": "enum",
+      "label": "AudioSpectrumPlotFrequencyAxisPixelBucketMode",
+      "description": "Enum for audio spectrum plot frequency axis pixel bucket modes",
+      "values": [
+        {"name": "SAMPLE", "value": 0, "description": "Plot one data point per frequency axis pixel bucket"},
+        {"name": "PEAK", "value": 1, "description": "Plot highest sound level data point per bucket"},
+        {"name": "AVERAGE", "value": 2, "description": "Plot average of data points in each bucket"}
+      ],
+      "module": "AudioWidgets",
+      "plugin": "AudioWidgets"
+    },
+    {
+      "id": "ToFloatField",
+      "type": "class",
+      "label": "ToFloatField",
+      "description": "Converts an integer field to a float field",
+      "properties": {
+        "int_field": "FieldNodeInt"
+      },
+      "methods": ["set_to_float_field"],
+      "module": "FieldSystemEngine"
+    },
+    {
+      "id": "RigVMTrait_SetDeformerTransformArrayVariable",
+      "type": "class",
+      "label": "RigVMTrait_SetDeformerTransformArrayVariable",
+      "description": "RigVM trait for setting deformer transform array variables",
+      "properties": {
+        "value": "Array[Transform]"
+      },
+      "module": "OptimusCore",
+      "plugin": "DeformerGraph"
+    },
+    {
+      "id": "OptimusNode_SubGraphReference",
+      "type": "class",
+      "label": "OptimusNode_SubGraphReference",
+      "description": "Optimus node for sub-graph references",
+      "module": "OptimusCore",
+      "plugin": "DeformerGraph"
+    },
+    {
+      "id": "InterchangeDDSTranslator",
+      "type": "class",
+      "label": "InterchangeDDSTranslator",
+      "description": "DDS file translator for Interchange system",
+      "module": "InterchangeImport",
+      "plugin": "Interchange"
+    },
+    {
+      "id": "BlendSpace1D",
+      "type": "class",
+      "label": "BlendSpace1D",
+      "description": "Allows multiple animations to be blended based on input parameters",
+      "properties": {
+        "allow_marker_based_sync": "bool",
+        "allow_mesh_space_blending": "bool",
+        "analysis_properties": "AnalysisProperties",
+        "axis_to_scale_animation": "BlendSpaceAxis",
+        "blend_parameters": "BlendParameter",
+        "interpolate_using_grid": "bool",
+        "interpolation_param": "InterpolationParameter",
+        "loop": "bool",
+        "manual_per_bone_overrides": "Array[PerBoneInterpolation]",
+        "notify_trigger_mode": "NotifyTriggerMode",
+        "per_bone_blend_mode": "BlendSpacePerBoneBlendMode",
+        "per_bone_blend_profile": "BlendSpaceBlendProfile",
+        "preferred_triangulation_direction": "PreferredTriangulationDirection",
+        "preview_base_pose": "AnimSequence",
+        "scale_animation": "bool",
+        "target_weight_interpolation_ease_in_out": "bool",
+        "target_weight_interpolation_speed_per_sec": "float"
+      },
+      "module": "Engine"
+    },
+    {
+      "id": "RigVMFunction_MathVectorFromFloat",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorFromFloat",
+      "description": "Makes a vector from a single float",
+      "properties": {
+        "value": "float",
+        "result": "Vector"
+      },
+      "module": "RigVM",
+      "plugin": "RigVM"
+    },
+    {
+      "id": "DcpBuildingStateChange",
+      "type": "struct",
+      "label": "DcpBuildingStateChange",
+      "description": "Building state change data structure",
+      "properties": {
+        "eid": "str",
+        "is_break": "bool"
+      },
+      "module": "DcpAPI",
+      "plugin": "WdpAssetAPI"
+    },
+    {
+      "id": "AxisType",
+      "type": "enum",
+      "label": "AxisType",
+      "description": "Generic axis enum",
+      "values": [
+        {"name": "NONE", "value": 0},
+        {"name": "X", "value": 1},
+        {"name": "Y", "value": 2},
+        {"name": "Z", "value": 3}
+      ],
+      "module": "CoreUObject"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object",
+      "description": "Base UObject class"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase",
+      "description": "Base struct class"
+    },
+    {
+      "id": "CancellableAsyncAction",
+      "type": "class",
+      "label": "CancellableAsyncAction",
+      "description": "Base class for cancellable async actions"
+    },
+    {
+      "id": "AISenseConfig",
+      "type": "class",
+      "label": "AISenseConfig",
+      "description": "Base AI sense configuration"
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "label": "PCGSettings",
+      "description": "Base PCG settings class"
+    },
+    {
+      "id": "RigVMFunction_MathVectorBase",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorBase",
+      "description": "Base class for RigVM math vector functions"
+    },
+    {
+      "id": "RigVMFunction_MathMatrixBase",
+      "type": "class",
+      "label": "RigVMFunction_MathMatrixBase",
+      "description": "Base class for RigVM math matrix functions"
+    },
+    {
+      "id": "EditorAnimBaseObj",
+      "type": "class",
+      "label": "EditorAnimBaseObj",
+      "description": "Base class for editor animation objects"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "FieldNodeFloat",
+      "type": "class",
+      "label": "FieldNodeFloat",
+      "description": "Float field node"
+    },
+    {
+      "id": "RigVMTrait_OptimusVariableBase",
+      "type": "class",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "description": "Base class for Optimus variable traits"
+    },
+    {
+      "id": "OptimusNode",
+      "type": "class",
+      "label": "OptimusNode",
+      "description": "Base Optimus node class"
+    },
+    {
+      "id": "InterchangeTranslatorBase",
+      "type": "class",
+      "label": "InterchangeTranslatorBase",
+      "description": "Base class for Interchange translators"
+    },
+    {
+      "id": "BlendSpace",
+      "type": "class",
+      "label": "BlendSpace",
+      "description": "Base blend space class"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase",
+      "description": "Base enum class"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase",
+      "description": "Base parameters class"
+    }
+  ],
+  "edges": [
+    {
+      "source": "DaySequenceStaticTimeContributor",
+      "target": "Object",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "WdpPreserveScaleRatioParams",
+      "target": "ParamsBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "AsyncAction_ListenForAesMessage",
+      "target": "CancellableAsyncAction",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "GeometryScriptLayoutUVsOptions",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "AnimationAsset",
+      "target": "Object",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "AISenseConfig_Damage",
+      "target": "AISenseConfig",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "PCGDifferenceSettings",
+      "target": "PCGSettings",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "RigUnit_MathVectorRad",
+      "target": "RigVMFunction_MathVectorRad",
+      "type": "deprecated_alias",
+      "label": "renamed to"
+    },
+    {
+      "source": "EditorAnimSegment",
+      "target": "EditorAnimBaseObj",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "SoundModulationDefaultSettings",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "ApplicationLifecycleComponent_ApplicationLifetimeDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "RigVMFunction_MathMatrixBinaryOp",
+      "target": "RigVMFunction_MathMatrixBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "API_HeatPointList",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "AudioSpectrumPlotFrequencyAxisPixelBucketMode",
+      "target": "EnumBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "ToFloatField",
+      "target": "FieldNodeFloat",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "RigVMTrait_SetDeformerTransformArrayVariable",
+      "target": "RigVMTrait_OptimusVariableBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "OptimusNode_SubGraphReference",
+      "target": "OptimusNode",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "InterchangeDDSTranslator",
+      "target": "InterchangeTranslatorBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "BlendSpace1D",
+      "target": "BlendSpace",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "RigVMFunction_MathVectorFromFloat",
+      "target": "RigVMFunction_MathVectorBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "DcpBuildingStateChange",
+      "target": "StructBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "AxisType",
+      "target": "EnumBase",
+      "type": "inherits",
+      "label": "extends"
+    },
+    {
+      "source": "AnimationAsset",
+      "target": "Skeleton",
+      "type": "reference",
+      "label": "uses"
+    },
+    {
+      "source": "BlendSpace1D",
+      "target": "AnimationAsset",
+      "type": "reference",
+      "label": "references"
+    },
+    {
+      "source": "ToFloatField",
+      "target": "FieldNodeInt",
+      "type": "reference",
+      "label": "converts from"
+    },
+    {
+      "source": "DaySequenceStaticTimeContributor",
+      "target": "DaySequenceActor",
+      "type": "reference",
+      "label": "binds to"
+    },
+    {
+      "source": "GeometryScriptLayoutUVsOptions",
+      "target": "GeometryScriptUVLayoutType",
+      "type": "reference",
+      "label": "uses"
+    },
+    {
+      "source": "API_HeatPointList",
+      "target": "API_HeatPointData",
+      "type": "composition",
+      "label": "contains"
+    },
+    {
+      "source": "SoundModulationDefaultSettings",
+      "target": "SoundModulationDestinationSettings",
+      "type": "composition",
+      "label": "contains"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_system",
+      "label": "Animation System",
+      "description": "Classes related to animation assets and blending",
+      "nodes": ["AnimationAsset", "BlendSpace1D", "EditorAnimSegment"]
+    },
+    {
+      "id": "rigvm_math",
+      "label": "RigVM Mathematics",
+      "description": "Mathematical operations in RigVM",
+      "nodes": [
+        "RigUnit_MathVectorRad",
+        "RigVMFunction_MathMatrixBinaryOp",
+        "RigVMFunction_MathVectorFromFloat"
+      ]
+    },
+    {
+      "id": "audio_system",
+      "label": "Audio System",
+      "description": "Audio processing and modulation",
+      "nodes": [
+        "SoundModulationDefaultSettings",
+        "AudioSpectrumPlotFrequencyAxisPixelBucketMode"
+      ]
+    },
+    {
+      "id": "geometry_scripting",
+      "label": "Geometry Scripting",
+      "description": "Geometry and mesh manipulation",
+      "nodes": ["GeometryScriptLayoutUVsOptions", "ToFloatField"]
+    },
+    {
+      "id": "procedural_generation",
+      "label": "Procedural Generation",
+      "description": "PCG and procedural content generation",
+      "nodes": ["PCGDifferenceSettings", "DaySequenceStaticTimeContributor"]
+    },
+    {
+      "id": "ai_system",
+      "label": "AI System",
+      "description": "AI perception and sensing",
+      "nodes": ["AISenseConfig_Damage"]
+    },
+    {
+      "id": "optimus_deformation",
+      "label": "Optimus Deformation",
+      "description": "Deformer graph and Optimus nodes",
+      "nodes": [
+        "OptimusNode_SubGraphReference",
+        "RigVMTrait_SetDeformerTransformArrayVariable"
+      ]
+    },
+    {
+      "id": "interchange_import",
+      "label": "Interchange Import",
+      "description": "Asset import and translation",
+      "nodes": ["InterchangeDDSTranslator"]
+    },
+    {
+      "id": "plugin_api_structures",
+      "label": "Plugin API Structures",
+      "description": "Plugin-specific API data structures",
+      "nodes": [
+        "WdpPreserveScaleRatioParams",
+        "API_HeatPointList",
+        "DcpBuildingStateChange"
+      ]
+    },
+    {
+      "id": "messaging_system",
+      "label": "Messaging System",
+      "description": "Async actions and message handling",
+      "nodes": ["AsyncAction_ListenForAesMessage"]
+    },
+    {
+      "id": "core_enums",
+      "label": "Core Enumerations",
+      "description": "Core engine enumeration types",
+      "nodes": ["AxisType"]
+    },
+    {
+      "id": "application_lifecycle",
+      "label": "Application Lifecycle",
+      "description": "Application state and lifecycle management",
+      "nodes": ["ApplicationLifecycleComponent_ApplicationLifetimeDelegate"]
+    }
+  ]
+}

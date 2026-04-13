@@ -1,0 +1,618 @@
+{
+  "nodes": [
+    {
+      "id": "moviescenepropertytrack_moviescenepropertytrack",
+      "label": "MovieScenePropertyTrack",
+      "file_type": "document",
+      "source_file": "MovieScenePropertyTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionpathtracingraytypeswitch_materialexpressionpathtracingraytypeswitch",
+      "label": "MaterialExpressionPathTracingRayTypeSwitch",
+      "file_type": "document",
+      "source_file": "MaterialExpressionPathTracingRayTypeSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondivide_materialexpressiondivide",
+      "label": "MaterialExpressionDivide",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDivide Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputtriggerholdandrelease_inputtriggerholdandrelease",
+      "label": "InputTriggerHoldAndRelease",
+      "file_type": "document",
+      "source_file": "InputTriggerHoldAndRelease Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparamvector_niagarapreviewaxis_interpparamvector",
+      "label": "NiagaraPreviewAxis_InterpParamVector",
+      "file_type": "document",
+      "source_file": "NiagaraPreviewAxis_InterpParamVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aespayloadlayer_aespayloadlayer",
+      "label": "AesPayloadLayer",
+      "file_type": "document",
+      "source_file": "AesPayloadLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetsettings_aesassetsettings",
+      "label": "AesAssetSettings",
+      "file_type": "document",
+      "source_file": "AesAssetSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmutipickresult_dcpmutipickresult",
+      "label": "DCPMutiPickResult",
+      "file_type": "document",
+      "source_file": "DCPMutiPickResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify_playparticleeffect_c_animnotify_playparticleeffect_c",
+      "label": "AnimNotify_PlayParticleEffect_C",
+      "file_type": "document",
+      "source_file": "AnimNotify__PlayParticleEffect__C Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreator_skycreator",
+      "label": "SkyCreator",
+      "file_type": "document",
+      "source_file": "SkyCreator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterrainquadmeshcomponent_aesterrainquadmeshcomponent",
+      "label": "AesTerrainQuadMeshComponent",
+      "file_type": "document",
+      "source_file": "AesTerrainQuadMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingeditorcommandparams_propertybrush_aesbuildingeditorcommandparams_propertybrush",
+      "label": "AesBuildingEditorCommandParams_PropertyBrush",
+      "file_type": "document",
+      "source_file": "AesBuildingEditorCommandParams__PropertyBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediatexturefactorynew_mediatexturefactorynew",
+      "label": "MediaTextureFactoryNew",
+      "file_type": "document",
+      "source_file": "MediaTextureFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturemiploadoptions_texturemiploadoptions",
+      "label": "TextureMipLoadOptions",
+      "file_type": "document",
+      "source_file": "TextureMipLoadOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorautomationobject_editorautomationobject",
+      "label": "EditorAutomationObject",
+      "file_type": "document",
+      "source_file": "EditorAutomationObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratesimpleclearcoatbsdf_materialexpressionsubstratesimpleclearcoatbsdf",
+      "label": "MaterialExpressionSubstrateSimpleClearCoatBSDF",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateSimpleClearCoatBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosthreadingmode_chaosthreadingmode",
+      "label": "ChaosThreadingMode",
+      "file_type": "document",
+      "source_file": "ChaosThreadingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgizmocoordaxistype_wdpgizmocoordaxistype",
+      "label": "WdpGizmoCoordAxisType",
+      "file_type": "document",
+      "source_file": "WdpGizmoCoordAxisType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataregistrycachepolicy_dataregistrycachepolicy",
+      "label": "DataRegistryCachePolicy",
+      "file_type": "document",
+      "source_file": "DataRegistryCachePolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlespawnsignature_particlespawnsignature",
+      "label": "ParticleSpawnSignature",
+      "file_type": "document",
+      "source_file": "ParticleSpawnSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fovscalingtype_fovscalingtype",
+      "label": "FOVScalingType",
+      "file_type": "document",
+      "source_file": "FOVScalingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolbase_rigvmfunction_mathboolbase",
+      "label": "RigVMFunction_MathBoolBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoolBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "AesPayloadLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinput_plugin",
+      "label": "EnhancedInput Plugin",
+      "file_type": "document",
+      "source_file": "InputTriggerHoldAndRelease Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_editor_properties_pattern",
+      "label": "Material Expression Editor Properties Pattern",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDivide Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NiagaraPreviewAxis_InterpParamVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_world_building",
+      "label": "Procedural World Building",
+      "file_type": "document",
+      "source_file": "AesAssetSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_class_renamed",
+      "label": "Deprecated Class Renamed",
+      "file_type": "document",
+      "source_file": "AnimNotify__PlayParticleEffect__C Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionpathtracingraytypeswitch_materialexpressionpathtracingraytypeswitch",
+      "target": "materialexpression_editor_properties_pattern",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionPathTracingRayTypeSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondivide_materialexpressiondivide",
+      "target": "materialexpression_editor_properties_pattern",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionDivide Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstratesimpleclearcoatbsdf_materialexpressionsubstratesimpleclearcoatbsdf",
+      "target": "materialexpression_editor_properties_pattern",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionSubstrateSimpleClearCoatBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondivide_materialexpressiondivide",
+      "target": "materialexpressionpathtracingraytypeswitch_materialexpressionpathtracingraytypeswitch",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionDivide Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondivide_materialexpressiondivide",
+      "target": "materialexpressionsubstratesimpleclearcoatbsdf_materialexpressionsubstratesimpleclearcoatbsdf",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionDivide Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionpathtracingraytypeswitch_materialexpressionpathtracingraytypeswitch",
+      "target": "materialexpressionsubstratesimpleclearcoatbsdf_materialexpressionsubstratesimpleclearcoatbsdf",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionPathTracingRayTypeSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aespayloadlayer_aespayloadlayer",
+      "target": "aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesPayloadLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetsettings_aesassetsettings",
+      "target": "aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesAssetSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesterrainquadmeshcomponent_aesterrainquadmeshcomponent",
+      "target": "aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainQuadMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingeditorcommandparams_propertybrush_aesbuildingeditorcommandparams_propertybrush",
+      "target": "aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBuildingEditorCommandParams__PropertyBrush Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetsettings_aesassetsettings",
+      "target": "procedural_world_building",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesAssetSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesterrainquadmeshcomponent_aesterrainquadmeshcomponent",
+      "target": "procedural_world_building",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesTerrainQuadMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aespayloadlayer_aespayloadlayer",
+      "target": "procedural_world_building",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AesPayloadLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetsettings_aesassetsettings",
+      "target": "aesterrainquadmeshcomponent_aesterrainquadmeshcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesAssetSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetsettings_aesassetsettings",
+      "target": "aespayloadlayer_aespayloadlayer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesAssetSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesassetsettings_aesassetsettings",
+      "target": "aesbuildingeditorcommandparams_propertybrush_aesbuildingeditorcommandparams_propertybrush",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesAssetSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputtriggerholdandrelease_inputtriggerholdandrelease",
+      "target": "enhancedinput_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputTriggerHoldAndRelease Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fovscalingtype_fovscalingtype",
+      "target": "enhancedinput_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FOVScalingType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputtriggerholdandrelease_inputtriggerholdandrelease",
+      "target": "fovscalingtype_fovscalingtype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InputTriggerHoldAndRelease Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamvector_niagarapreviewaxis_interpparamvector",
+      "target": "niagara_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPreviewAxis_InterpParamVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playparticleeffect_c_animnotify_playparticleeffect_c",
+      "target": "deprecated_class_renamed",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify__PlayParticleEffect__C Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorautomationobject_editorautomationobject",
+      "target": "deprecated_class_renamed",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorAutomationObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_playparticleeffect_c_animnotify_playparticleeffect_c",
+      "target": "editorautomationobject_editorautomationobject",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimNotify__PlayParticleEffect__C Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgizmocoordaxistype_wdpgizmocoordaxistype",
+      "target": "aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGizmoCoordAxisType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgizmocoordaxistype_wdpgizmocoordaxistype",
+      "target": "procedural_world_building",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WdpGizmoCoordAxisType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreator_skycreator",
+      "target": "skycreator_skycreator",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkyCreator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "material_expression_editor_properties_group",
+      "label": "Material Expression Editor Properties Group",
+      "nodes": [
+        "materialexpressionpathtracingraytypeswitch_materialexpressionpathtracingraytypeswitch",
+        "materialexpressiondivide_materialexpressiondivide",
+        "materialexpressionsubstratesimpleclearcoatbsdf_materialexpressionsubstratesimpleclearcoatbsdf"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionDivide Objects.md"
+    },
+    {
+      "id": "aesworld_procedural_world_components",
+      "label": "AesWorld Procedural World Components",
+      "nodes": [
+        "aespayloadlayer_aespayloadlayer",
+        "aesassetsettings_aesassetsettings",
+        "aesterrainquadmeshcomponent_aesterrainquadmeshcomponent",
+        "aesbuildingeditorcommandparams_propertybrush_aesbuildingeditorcommandparams_propertybrush",
+        "wdpgizmocoordaxistype_wdpgizmocoordaxistype"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AesAssetSettings Objects.md"
+    },
+    {
+      "id": "enhanced_input_system_components",
+      "label": "Enhanced Input System Components",
+      "nodes": [
+        "inputtriggerholdandrelease_inputtriggerholdandrelease",
+        "fovscalingtype_fovscalingtype"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InputTriggerHoldAndRelease Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

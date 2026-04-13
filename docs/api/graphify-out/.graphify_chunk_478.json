@@ -1,0 +1,805 @@
+{
+  "nodes": [
+    {
+      "id": "createspaceheatmapparams_class",
+      "label": "CreateSpaceHeatMapParams",
+      "file_type": "code",
+      "source_file": "CreateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procmeshslicecapoption_class",
+      "label": "ProcMeshSliceCapOption",
+      "file_type": "code",
+      "source_file": "ProcMeshSliceCapOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procmeshtangent_class",
+      "label": "ProcMeshTangent",
+      "file_type": "code",
+      "source_file": "ProcMeshTangent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaeditorsettings_class",
+      "label": "AvaEditorSettings",
+      "file_type": "code",
+      "source_file": "AvaEditorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "systemlibrary_onassetloaded_class",
+      "label": "SystemLibrary_OnAssetLoaded",
+      "file_type": "code",
+      "source_file": "SystemLibrary__OnAssetLoaded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "planereflectioncapturecomponent_class",
+      "label": "PlaneReflectionCaptureComponent",
+      "file_type": "code",
+      "source_file": "PlaneReflectionCaptureComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmaptexture2d_class",
+      "label": "LightMapTexture2D",
+      "file_type": "code",
+      "source_file": "LightMapTexture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "envtestdot_class",
+      "label": "EnvTestDot",
+      "file_type": "code",
+      "source_file": "EnvTestDot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vegetationcullregion_class",
+      "label": "VegetationCullRegion",
+      "file_type": "code",
+      "source_file": "VegetationCullRegion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "canvaspanelslot_class",
+      "label": "CanvasPanelSlot",
+      "file_type": "code",
+      "source_file": "CanvasPanelSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthzoneshapecomponent_class",
+      "label": "EarthZoneShapeComponent",
+      "file_type": "code",
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigbone_class",
+      "label": "RigBone",
+      "file_type": "code",
+      "source_file": "RigBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialpropertyspecular_class",
+      "label": "DMMaterialPropertySpecular",
+      "file_type": "code",
+      "source_file": "DMMaterialPropertySpecular Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vreditorbaseactor_class",
+      "label": "VREditorBaseActor",
+      "file_type": "code",
+      "source_file": "VREditorBaseActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithstaticmeshgltfimportdata_class",
+      "label": "DatasmithStaticMeshGLTFImportData",
+      "file_type": "code",
+      "source_file": "DatasmithStaticMeshGLTFImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararade_class",
+      "label": "NiagaraNode",
+      "file_type": "code",
+      "source_file": "NiagaraNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflowtransfernodeboundingvolume_class",
+      "label": "DataflowTransferNodeBoundingVolume",
+      "file_type": "code",
+      "source_file": "DataflowTransferNodeBoundingVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distancefieldtotexturesettings_class",
+      "label": "DistanceFieldToTextureSettings",
+      "file_type": "code",
+      "source_file": "DistanceFieldToTextureSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnodemodulatorcontinuous_class",
+      "label": "SoundNodeModulatorContinuous",
+      "file_type": "code",
+      "source_file": "SoundNodeModulatorContinuous Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassterraincarvingsettings_class",
+      "label": "LandmassTerrainCarvingSettings",
+      "file_type": "code",
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcorecomponent_class",
+      "label": "PropertyAnimatorCoreComponent",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorCoreComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spaceheatmapdata_struct",
+      "label": "SpaceHeatMapData",
+      "file_type": "code",
+      "source_file": "CreateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spaceheatmapstyle_struct",
+      "label": "SpaceHeatMapStyle",
+      "file_type": "code",
+      "source_file": "CreateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avviewportqualitysettings_struct",
+      "label": "AvaViewportQualitySettings",
+      "file_type": "code",
+      "source_file": "AvaEditorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "anchordata_struct",
+      "label": "AnchorData",
+      "file_type": "code",
+      "source_file": "CanvasPanelSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "anchors_struct",
+      "label": "Anchors",
+      "file_type": "code",
+      "source_file": "CanvasPanelSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigbone_type_enum",
+      "label": "RigBoneType",
+      "file_type": "code",
+      "source_file": "RigBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modulatorcontinuousparams_struct",
+      "label": "ModulatorContinuousParams",
+      "file_type": "code",
+      "source_file": "SoundNodeModulatorContinuous Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brushblendtype_enum",
+      "label": "BrushBlendType",
+      "file_type": "code",
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassfalloffsettings_struct",
+      "label": "LandmassFalloffSettings",
+      "file_type": "code",
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmassbrusheffectslist_struct",
+      "label": "LandmassBrushEffectsList",
+      "file_type": "code",
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabasset_struct",
+      "label": "EarthPrefabAsset",
+      "file_type": "code",
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthspatialdatatype_enum",
+      "label": "EarthSpatialDataType",
+      "file_type": "code",
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonelaneprofileref_struct",
+      "label": "ZoneLaneProfileRef",
+      "file_type": "code",
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zoneshapepoint_struct",
+      "label": "ZoneShapePoint",
+      "file_type": "code",
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_mesh_system",
+      "label": "Procedural Mesh System",
+      "file_type": "code",
+      "source_file": "ProcMeshSliceCapOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reflection_capture_system",
+      "label": "Reflection Capture System",
+      "file_type": "code",
+      "source_file": "PlaneReflectionCaptureComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heat_map_visualization",
+      "label": "Heat Map Visualization",
+      "file_type": "code",
+      "source_file": "CreateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ui_layout_system",
+      "label": "UI Layout System",
+      "file_type": "code",
+      "source_file": "CanvasPanelSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigging_system",
+      "label": "Rigging System",
+      "file_type": "code",
+      "source_file": "RigBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_property_system",
+      "label": "Material Property System",
+      "file_type": "code",
+      "source_file": "DMMaterialPropertySpecular Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sound_modulation_system",
+      "label": "Sound Modulation System",
+      "file_type": "code",
+      "source_file": "SoundNodeModulatorContinuous Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "terrain_sculpting",
+      "label": "Terrain Sculpting",
+      "file_type": "code",
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "property_animation_system",
+      "label": "Property Animation System",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorCoreComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "createspaceheatmapparams_class",
+      "target": "spaceheatmapdata_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createspaceheatmapparams_class",
+      "target": "spaceheatmapstyle_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createspaceheatmapparams_class",
+      "target": "heat_map_visualization",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CreateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "procmeshslicecapoption_class",
+      "target": "procedural_mesh_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ProcMeshSliceCapOption Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "procmeshtangent_class",
+      "target": "procedural_mesh_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ProcMeshTangent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaeditorsettings_class",
+      "target": "avviewportqualitysettings_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaEditorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planereflectioncapturecomponent_class",
+      "target": "reflection_capture_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PlaneReflectionCaptureComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightmaptexture2d_class",
+      "target": "reflection_capture_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LightMapTexture2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "canvaspanelslot_class",
+      "target": "anchordata_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CanvasPanelSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "canvaspanelslot_class",
+      "target": "anchors_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CanvasPanelSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "canvaspanelslot_class",
+      "target": "ui_layout_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CanvasPanelSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthzoneshapecomponent_class",
+      "target": "earthprefabasset_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthzoneshapecomponent_class",
+      "target": "earthspatialdatatype_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthzoneshapecomponent_class",
+      "target": "zonelaneprofileref_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthzoneshapecomponent_class",
+      "target": "zoneshapepoint_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthZoneShapeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigbone_class",
+      "target": "rigbone_type_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigbone_class",
+      "target": "rigging_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialpropertyspecular_class",
+      "target": "material_property_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DMMaterialPropertySpecular Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodemodulatorcontinuous_class",
+      "target": "modulatorcontinuousparams_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundNodeModulatorContinuous Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodemodulatorcontinuous_class",
+      "target": "sound_modulation_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SoundNodeModulatorContinuous Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassterraincarvingsettings_class",
+      "target": "brushblendtype_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassterraincarvingsettings_class",
+      "target": "landmassfalloffsettings_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassterraincarvingsettings_class",
+      "target": "landmassbrusheffectslist_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landmassterraincarvingsettings_class",
+      "target": "terrain_sculpting",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LandmassTerrainCarvingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcorecomponent_class",
+      "target": "property_animation_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PropertyAnimatorCoreComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "procmeshslicecapoption_class",
+      "target": "procmeshtangent_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ProcMeshSliceCapOption Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "distancefieldtotexturesettings_class",
+      "target": "lightmaptexture2d_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "DistanceFieldToTextureSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "procedural_mesh_components",
+      "label": "Procedural Mesh Components",
+      "nodes": [
+        "procmeshslicecapoption_class",
+        "procmeshtangent_class",
+        "procedural_mesh_system"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ProcMeshSliceCapOption Objects.md"
+    },
+    {
+      "id": "ui_layout_components",
+      "label": "UI Layout Components",
+      "nodes": [
+        "canvaspanelslot_class",
+        "anchordata_struct",
+        "anchors_struct",
+        "ui_layout_system"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CanvasPanelSlot Objects.md"
+    },
+    {
+      "id": "terrain_manipulation_tools",
+      "label": "Terrain Manipulation Tools",
+      "nodes": [
+        "landmassterraincarvingsettings_class",
+        "landmassfalloffsettings_struct",
+        "landmassbrusheffectslist_struct",
+        "terrain_sculpting"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LandmassTerrainCarvingSettings Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

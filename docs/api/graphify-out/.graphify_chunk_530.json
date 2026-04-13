@@ -1,0 +1,1081 @@
+{
+  "nodes": [
+    {
+      "id": "materialexpressionreflectioncapturepassswitch_materialexpressionreflectioncapturepassswitch",
+      "label": "MaterialExpressionReflectionCapturePassSwitch",
+      "file_type": "document",
+      "source_file": "MaterialExpressionReflectionCapturePassSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyeditortestinstancedobject_propertyeditortestinstancedobject",
+      "label": "PropertyEditorTestInstancedObject",
+      "file_type": "document",
+      "source_file": "PropertyEditorTestInstancedObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineformatargs_moviepipelineformatargs",
+      "label": "MoviePipelineFormatArgs",
+      "file_type": "document",
+      "source_file": "MoviePipelineFormatArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcurrentandinitialdirtystate_rigcurrentandinitialdirtystate",
+      "label": "RigCurrentAndInitialDirtyState",
+      "file_type": "document",
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptevaluatesplinerange_geometryscriptevaluatesplinerange",
+      "label": "GeometryScriptEvaluateSplineRange",
+      "file_type": "document",
+      "source_file": "GeometryScriptEvaluateSplineRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onvegetationcreatingeventargs_onvegetationcreatingeventargs",
+      "label": "OnVegetationCreatingEventArgs",
+      "file_type": "document",
+      "source_file": "OnVegetationCreatingEventArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "searchdir_searchdir",
+      "label": "SearchDir",
+      "file_type": "document",
+      "source_file": "SearchDir Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerwatertype_wdpmodelerwatertype",
+      "label": "WdpModelerWaterType",
+      "file_type": "document",
+      "source_file": "WdpModelerWaterType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressiononeminus_dmmaterialstageexpressiononeminus",
+      "label": "DMMaterialStageExpressionOneMinus",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groomcreatestrandstexturesoptions_groomcreatestrandstexturesoptions",
+      "label": "GroomCreateStrandsTexturesOptions",
+      "file_type": "document",
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectuidata_textonly_gameplayeffectuidata_textonly",
+      "label": "GameplayEffectUIData_TextOnly",
+      "file_type": "document",
+      "source_file": "GameplayEffectUIData__TextOnly Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorsequenceplayer_actorsequenceplayer",
+      "label": "ActorSequencePlayer",
+      "file_type": "document",
+      "source_file": "ActorSequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platformsettings_platformsettings",
+      "label": "PlatformSettings",
+      "file_type": "document",
+      "source_file": "PlatformSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayeroperation_geolayeroperation",
+      "label": "GeoLayerOperation",
+      "file_type": "document",
+      "source_file": "GeoLayerOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture2d_texture2d",
+      "label": "Texture2D",
+      "file_type": "document",
+      "source_file": "Texture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_randomplayer_animnode_randomplayer",
+      "label": "AnimNode_RandomPlayer",
+      "file_type": "document",
+      "source_file": "AnimNode__RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathinttodouble_rigvmfunction_mathinttodouble",
+      "label": "RigVMFunction_MathIntToDouble",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntToDouble Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatevectorvector_rigunit_mathrbfinterpolatevectorvector",
+      "label": "RigUnit_MathRBFInterpolateVectorVector",
+      "file_type": "document",
+      "source_file": "RigUnit_MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublenegate_rigvmfunction_mathdoublenegate",
+      "label": "RigVMFunction_MathDoubleNegate",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintviewmodelcontextcreationtype_mvvmblueprintviewmodelcontextcreationtype",
+      "label": "MVVMBlueprintViewModelContextCreationType",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintViewModelContextCreationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsine_materialexpressionsine",
+      "label": "MaterialExpressionSine",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "placededitorutilitybase_placededitorutilitybase",
+      "label": "PlacedEditorUtilityBase",
+      "file_type": "document",
+      "source_file": "PlacedEditorUtilityBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionReflectionCapturePassSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "PropertyEditorTestInstancedObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MoviePipelineFormatArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "GeometryScriptEvaluateSplineRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eventargsbase_eventargsbase",
+      "label": "EventArgsBase",
+      "file_type": "document",
+      "source_file": "OnVegetationCreatingEventArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionmathbase_dmmaterialstageexpressionmathbase",
+      "label": "DMMaterialStageExpressionMathBase",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectuidata_gameplayeffectuidata",
+      "label": "GameplayEffectUIData",
+      "file_type": "document",
+      "source_file": "GameplayEffectUIData__TextOnly Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenedesequenceplayer_moviescenedesequenceplayer",
+      "label": "MovieSceneSequencePlayer",
+      "file_type": "document",
+      "source_file": "ActorSequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_texture",
+      "label": "Texture",
+      "file_type": "document",
+      "source_file": "Texture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_assetplayerrelevancybase_animnode_assetplayerrelevancybase",
+      "label": "AnimNode_AssetPlayerRelevancyBase",
+      "file_type": "document",
+      "source_file": "AnimNode__RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase_rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntToDouble Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorvector_rigvmfunction_mathrbfinterpolatevectorvector",
+      "label": "RigVMFunction_MathRBFInterpolateVectorVector",
+      "file_type": "document",
+      "source_file": "RigUnit_MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleunaryop_rigvmfunction_mathdoubleunaryop",
+      "label": "RigVMFunction_MathDoubleUnaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "PlacedEditorUtilityBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineexecutorjob_moviepipelineexecutorjob",
+      "label": "MoviePipelineExecutorJob",
+      "file_type": "document",
+      "source_file": "MoviePipelineFormatArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riglocalandglobaldirtystate_riglocalandglobaldirtystate",
+      "label": "RigLocalAndGlobalDirtyState",
+      "file_type": "document",
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairtexturelayout_hairtexturelayout",
+      "label": "HairTextureLayout",
+      "file_type": "document",
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strandstexturesmeshtype_strandstexturesmeshtype",
+      "label": "StrandsTexturesMeshType",
+      "file_type": "document",
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strandstexturestracetype_strandstexturestracetype",
+      "label": "StrandsTexturesTraceType",
+      "file_type": "document",
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmesh_staticmesh",
+      "label": "StaticMesh",
+      "file_type": "document",
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmesh_skeletalmesh",
+      "label": "SkeletalMesh",
+      "file_type": "document",
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageconnector_dmmaterialstageconnector",
+      "label": "DMMaterialStageConnector",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmcomponentlifetimestate_dmcomponentlifetimestate",
+      "label": "DMComponentLifetimeState",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmexpressionmenu_dmexpressionmenu",
+      "label": "DMExpressionMenu",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "randomplayersequenceentry_randomplayersequenceentry",
+      "label": "RandomPlayerSequenceEntry",
+      "file_type": "document",
+      "source_file": "AnimNode__RandomPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textureaddress_textureaddress",
+      "label": "TextureAddress",
+      "file_type": "document",
+      "source_file": "Texture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "MaterialExpressionReflectionCapturePassSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unrealed_module",
+      "label": "UnrealEd Module",
+      "file_type": "document",
+      "source_file": "PropertyEditorTestInstancedObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntToDouble Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionreflectioncapturepassswitch_materialexpressionreflectioncapturepassswitch",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionReflectionCapturePassSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionreflectioncapturepassswitch_materialexpressionreflectioncapturepassswitch",
+      "target": "engine_module",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionReflectionCapturePassSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyeditortestinstancedobject_propertyeditortestinstancedobject",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyEditorTestInstancedObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyeditortestinstancedobject_propertyeditortestinstancedobject",
+      "target": "unrealed_module",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyEditorTestInstancedObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineformatargs_moviepipelineformatargs",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineFormatArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineformatargs_moviepipelineformatargs",
+      "target": "moviepipelineexecutorjob_moviepipelineexecutorjob",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineFormatArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcurrentandinitialdirtystate_rigcurrentandinitialdirtystate",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcurrentandinitialdirtystate_rigcurrentandinitialdirtystate",
+      "target": "riglocalandglobaldirtystate_riglocalandglobaldirtystate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcurrentandinitialdirtystate_rigcurrentandinitialdirtystate",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptevaluatesplinerange_geometryscriptevaluatesplinerange",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptEvaluateSplineRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onvegetationcreatingeventargs_onvegetationcreatingeventargs",
+      "target": "eventargsbase_eventargsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnVegetationCreatingEventArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "searchdir_searchdir",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SearchDir Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpmodelerwatertype_wdpmodelerwatertype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpModelerWaterType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiononeminus_dmmaterialstageexpressiononeminus",
+      "target": "dmmaterialstageexpressionmathbase_dmmaterialstageexpressionmathbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiononeminus_dmmaterialstageexpressiononeminus",
+      "target": "dmmaterialstageconnector_dmmaterialstageconnector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiononeminus_dmmaterialstageexpressiononeminus",
+      "target": "dmcomponentlifetimestate_dmcomponentlifetimestate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiononeminus_dmmaterialstageexpressiononeminus",
+      "target": "dmexpressionmenu_dmexpressionmenu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionOneMinus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcreatestrandstexturesoptions_groomcreatestrandstexturesoptions",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcreatestrandstexturesoptions_groomcreatestrandstexturesoptions",
+      "target": "hairtexturelayout_hairtexturelayout",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcreatestrandstexturesoptions_groomcreatestrandstexturesoptions",
+      "target": "strandstexturesmeshtype_strandstexturesmeshtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcreatestrandstexturesoptions_groomcreatestrandstexturesoptions",
+      "target": "strandstexturestracetype_strandstexturestracetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcreatestrandstexturesoptions_groomcreatestrandstexturesoptions",
+      "target": "staticmesh_staticmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "groomcreatestrandstexturesoptions_groomcreatestrandstexturesoptions",
+      "target": "skeletalmesh_skeletalmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GroomCreateStrandsTexturesOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeffectuidata_textonly_gameplayeffectuidata_textonly",
+      "target": "gameplayeffectuidata_gameplayeffectuidata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectUIData__TextOnly Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorsequenceplayer_actorsequenceplayer",
+      "target": "moviescenedesequenceplayer_moviescenedesequenceplayer",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorSequencePlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "platformsettings_platformsettings",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayeroperation_geolayeroperation",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoLayerOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texture2d_texture2d",
+      "target": "texture_texture",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Texture2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texture2d_texture2d",
+      "target": "engine_module",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Texture2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texture2d_texture2d",
+      "target": "textureaddress_textureaddress",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Texture2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_randomplayer_animnode_randomplayer",
+      "target": "animnode_assetplayerrelevancybase_animnode_assetplayerrelevancybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__RandomPlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_randomplayer_animnode_randomplayer",
+      "target": "randomplayersequenceentry_randomplayersequenceentry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__RandomPlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttodouble_rigvmfunction_mathinttodouble",
+      "target": "rigvmfunction_mathintbase_rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntToDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttodouble_rigvmfunction_mathinttodouble",
+      "target": "rigvm_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntToDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorvector_rigunit_mathrbfinterpolatevectorvector",
+      "target": "rigvmfunction_mathrbfinterpolatevectorvector_rigvmfunction_mathrbfinterpolatevectorvector",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublenegate_rigvmfunction_mathdoublenegate",
+      "target": "rigvmfunction_mathdoubleunaryop_rigvmfunction_mathdoubleunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublenegate_rigvmfunction_mathdoublenegate",
+      "target": "rigvm_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleNegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmblueprintviewmodelcontextcreationtype_mvvmblueprintviewmodelcontextcreationtype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBlueprintViewModelContextCreationType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsine_materialexpressionsine",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsine_materialexpressionsine",
+      "target": "engine_module",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "placededitorutilitybase_placededitorutilitybase",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlacedEditorUtilityBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsine_materialexpressionsine",
+      "target": "materialexpressionreflectioncapturepassswitch_materialexpressionreflectioncapturepassswitch",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionSine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttodouble_rigvmfunction_mathinttodouble",
+      "target": "rigvmfunction_mathdoublenegate_rigvmfunction_mathdoublenegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathIntToDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptevaluatesplinerange_geometryscriptevaluatesplinerange",
+      "target": "geolayeroperation_geolayeroperation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "GeometryScriptEvaluateSplineRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcurrentandinitialdirtystate_rigcurrentandinitialdirtystate",
+      "target": "rigvmfunction_mathinttodouble_rigvmfunction_mathinttodouble",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcurrentandinitialdirtystate_rigcurrentandinitialdirtystate",
+      "target": "rigvmfunction_mathdoublenegate_rigvmfunction_mathdoublenegate",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "engine_module_material_expressions",
+      "label": "Engine Module Material Expressions",
+      "nodes": [
+        "materialexpressionreflectioncapturepassswitch_materialexpressionreflectioncapturepassswitch",
+        "materialexpressionsine_materialexpressionsine",
+        "texture2d_texture2d"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionReflectionCapturePassSwitch Objects.md"
+    },
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathinttodouble_rigvmfunction_mathinttodouble",
+        "rigvmfunction_mathdoublenegate_rigvmfunction_mathdoublenegate",
+        "rigunit_mathrbfinterpolatevectorvector_rigunit_mathrbfinterpolatevectorvector"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntToDouble Objects.md"
+    },
+    {
+      "id": "controlrig_rigvm_integration",
+      "label": "ControlRig-RigVM Integration",
+      "nodes": [
+        "rigcurrentandinitialdirtystate_rigcurrentandinitialdirtystate",
+        "rigvmfunction_mathinttodouble_rigvmfunction_mathinttodouble",
+        "rigvmfunction_mathdoublenegate_rigvmfunction_mathdoublenegate"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigCurrentAndInitialDirtyState Objects.md"
+    }
+  ],
+  "input_tokens": 22688,
+  "output_tokens": 6896
+}

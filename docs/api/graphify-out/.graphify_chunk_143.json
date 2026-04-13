@@ -1,0 +1,559 @@
+{
+  "nodes": [
+    {
+      "id": "livelinklightrole_livelinklightrole",
+      "label": "LiveLinkLightRole",
+      "file_type": "document",
+      "source_file": "LiveLinkLightRole Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeimportteststepreimport_interchangeimportteststepreimport",
+      "label": "InterchangeImportTestStepReimport",
+      "file_type": "document",
+      "source_file": "InterchangeImportTestStepReimport Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendlistbase_animnode_blendlistbase",
+      "label": "AnimNode_BlendListBase",
+      "file_type": "document",
+      "source_file": "AnimNode_BlendListBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorclamp_rigunit_mathvectorclamp",
+      "label": "RigUnit_MathVectorClamp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorclamp_rigvmfunction_mathvectorclamp",
+      "label": "RigVMFunction_MathVectorClamp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashaperoundedcorner_avashaperoundedcorner",
+      "label": "AvaShapeRoundedCorner",
+      "file_type": "document",
+      "source_file": "AvaShapeRoundedCorner Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrotatoranimationchannel_rigunit_setrotatoranimationchannel",
+      "label": "RigUnit_SetRotatorAnimationChannel",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityworldreticle_gameplayabilityworldreticle",
+      "label": "GameplayAbilityWorldReticle",
+      "file_type": "document",
+      "source_file": "GameplayAbilityWorldReticle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequenceplayerlibrary_sequenceplayerlibrary",
+      "label": "SequencePlayerLibrary",
+      "file_type": "document",
+      "source_file": "SequencePlayerLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "righierarchymodifieddynamicevent_righierarchymodifieddynamicevent",
+      "label": "RigHierarchyModifiedDynamicEvent",
+      "file_type": "document",
+      "source_file": "RigHierarchyModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerwaterpolygonatom_modelerwaterpolygonatom",
+      "label": "ModelerWaterPolygonAtom",
+      "file_type": "document",
+      "source_file": "ModelerWaterPolygonAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequenceevaluatorlibrary_sequenceevaluatorlibrary",
+      "label": "SequenceEvaluatorLibrary",
+      "file_type": "document",
+      "source_file": "SequenceEvaluatorLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxstring_onselectionchangedevent_comboboxstring_onselectionchangedevent",
+      "label": "ComboBoxString_OnSelectionChangedEvent",
+      "file_type": "document",
+      "source_file": "ComboBoxString__OnSelectionChangedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetretransitiontype_statetretransitiontype",
+      "label": "StateTreeTransitionType",
+      "file_type": "document",
+      "source_file": "StateTreeTransitionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanworldpreviewcomponent_urbanworldpreviewcomponent",
+      "label": "UrbanWorldPreviewComponent",
+      "file_type": "document",
+      "source_file": "UrbanWorldPreviewComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigforworldtransforms_controlrigforworldtransforms",
+      "label": "ControlRigForWorldTransforms",
+      "file_type": "document",
+      "source_file": "ControlRigForWorldTransforms Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_visualdebugtransform_rigunit_visualdebugtransform",
+      "label": "RigUnit_VisualDebugTransform",
+      "file_type": "document",
+      "source_file": "RigUnit_VisualDebugTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenepastebindingsparams_moviescenepastebindingsparams",
+      "label": "MovieScenePasteBindingsParams",
+      "file_type": "document",
+      "source_file": "MovieScenePasteBindingsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webbrowser51_onhovered_webbrowser51_onhovered",
+      "label": "WebBrowser51_OnHovered",
+      "file_type": "document",
+      "source_file": "WebBrowser51__OnHovered Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanageddebugstringmessagekey_pcgmanageddebugstringmessagekey",
+      "label": "PCGManagedDebugStringMessageKey",
+      "file_type": "document",
+      "source_file": "PCGManagedDebugStringMessageKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scriptingcollisionshapetype_deprecated_scriptingcollisionshapetype_deprecated",
+      "label": "ScriptingCollisionShapeType_Deprecated",
+      "file_type": "document",
+      "source_file": "ScriptingCollisionShapeType_Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlistitemselectionchangeddynamic_onlistitemselectionchangeddynamic",
+      "label": "OnListItemSelectionChangedDynamic",
+      "file_type": "document",
+      "source_file": "OnListItemSelectionChangedDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiometer_getmeterchannelinfo_audiometer_getmeterchannelinfo",
+      "label": "AudioMeter_GetMeterChannelInfo",
+      "file_type": "document",
+      "source_file": "AudioMeter_GetMeterChannelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_sequence_operations",
+      "label": "Animation Sequence Operations",
+      "file_type": "document",
+      "source_file": "SequencePlayerLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_animation_channels",
+      "label": "ControlRig Animation Channels",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_api_migration",
+      "label": "Deprecated API Migration",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargeting_system",
+      "label": "Gameplay Ability Targeting System",
+      "file_type": "document",
+      "source_file": "GameplayAbilityWorldReticle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "livelinklightrole_livelinklightrole",
+      "target": "interchangeimportteststepreimport_interchangeimportteststepreimport",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "LiveLinkLightRole Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorclamp_rigunit_mathvectorclamp",
+      "target": "rigvmfunction_mathvectorclamp_rigvmfunction_mathvectorclamp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorclamp_rigunit_mathvectorclamp",
+      "target": "deprecated_api_migration",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathVectorClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrotatoranimationchannel_rigunit_setrotatoranimationchannel",
+      "target": "controlrig_animation_channels",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetRotatorAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilityworldreticle_gameplayabilityworldreticle",
+      "target": "gameplayabilitytargeting_system",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayAbilityWorldReticle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequenceplayerlibrary_sequenceplayerlibrary",
+      "target": "animation_sequence_operations",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SequencePlayerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequenceplayerlibrary_sequenceplayerlibrary",
+      "target": "sequenceevaluatorlibrary_sequenceevaluatorlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SequencePlayerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequenceevaluatorlibrary_sequenceevaluatorlibrary",
+      "target": "animation_sequence_operations",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SequenceEvaluatorLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "righierarchymodifieddynamicevent_righierarchymodifieddynamicevent",
+      "target": "rigunit_setrotatoranimationchannel_rigunit_setrotatoranimationchannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigHierarchyModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "righierarchymodifieddynamicevent_righierarchymodifieddynamicevent",
+      "target": "rigunit_visualdebugtransform_rigunit_visualdebugtransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigHierarchyModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_visualdebugtransform_rigunit_visualdebugtransform",
+      "target": "rigunit_setrotatoranimationchannel_rigunit_setrotatoranimationchannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_VisualDebugTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigforworldtransforms_controlrigforworldtransforms",
+      "target": "rigunit_setrotatoranimationchannel_rigunit_setrotatoranimationchannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ControlRigForWorldTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigforworldtransforms_controlrigforworldtransforms",
+      "target": "rigunit_visualdebugtransform_rigunit_visualdebugtransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ControlRigForWorldTransforms Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenepastebindingsparams_moviescenepastebindingsparams",
+      "target": "sequenceplayerlibrary_sequenceplayerlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieScenePasteBindingsParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenepastebindingsparams_moviescenepastebindingsparams",
+      "target": "sequenceevaluatorlibrary_sequenceevaluatorlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieScenePasteBindingsParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetretransitiontype_statetretransitiontype",
+      "target": "gameplayabilityworldreticle_gameplayabilityworldreticle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "StateTreeTransitionType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendlistbase_animnode_blendlistbase",
+      "target": "animation_sequence_operations",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode_BlendListBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendlistbase_animnode_blendlistbase",
+      "target": "sequenceplayerlibrary_sequenceplayerlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode_BlendListBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendlistbase_animnode_blendlistbase",
+      "target": "sequenceevaluatorlibrary_sequenceevaluatorlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode_BlendListBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scriptingcollisionshapetype_deprecated_scriptingcollisionshapetype_deprecated",
+      "target": "deprecated_api_migration",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ScriptingCollisionShapeType_Deprecated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "comboboxstring_onselectionchangedevent_comboboxstring_onselectionchangedevent",
+      "target": "onlistitemselectionchangeddynamic_onlistitemselectionchangeddynamic",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ComboBoxString__OnSelectionChangedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_ecosystem",
+      "label": "ControlRig Ecosystem",
+      "nodes": [
+        "rigunit_setrotatoranimationchannel_rigunit_setrotatoranimationchannel",
+        "righierarchymodifieddynamicevent_righierarchymodifieddynamicevent",
+        "rigunit_visualdebugtransform_rigunit_visualdebugtransform",
+        "controlrigforworldtransforms_controlrigforworldtransforms"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetRotatorAnimationChannel Objects.md"
+    },
+    {
+      "id": "animation_sequence_systems",
+      "label": "Animation Sequence Systems",
+      "nodes": [
+        "sequenceplayerlibrary_sequenceplayerlibrary",
+        "sequenceevaluatorlibrary_sequenceevaluatorlibrary",
+        "animnode_blendlistbase_animnode_blendlistbase",
+        "moviescenepastebindingsparams_moviescenepastebindingsparams"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SequencePlayerLibrary Objects.md"
+    },
+    {
+      "id": "event_driven_ui_patterns",
+      "label": "Event-Driven UI Patterns",
+      "nodes": [
+        "comboboxstring_onselectionchangedevent_comboboxstring_onselectionchangedevent",
+        "onlistitemselectionchangeddynamic_onlistitemselectionchangeddynamic",
+        "webbrowser51_onhovered_webbrowser51_onhovered",
+        "audiometer_getmeterchannelinfo_audiometer_getmeterchannelinfo"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ComboBoxString__OnSelectionChangedEvent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,952 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmtrait_setdeformerrotatorvariable",
+      "label": "RigVMTrait SetDeformerRotatorVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait_SetDeformerRotatorVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtait_optimusvariablebase",
+      "label": "RigVMTrait Optimus Variable Base",
+      "file_type": "code",
+      "source_file": "RigVMTrait_SetDeformerRotatorVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectdefinitionreference",
+      "label": "SmartObjectDefinition Reference",
+      "file_type": "code",
+      "source_file": "SmartObjectDefinitionReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectdefinition",
+      "label": "SmartObjectDefinition",
+      "file_type": "code",
+      "source_file": "SmartObjectDefinitionReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacegrid2dcollection",
+      "label": "Niagara DataInterface Grid2D Collection",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid2DCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacegrid2d",
+      "label": "Niagara DataInterface Grid2D",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid2DCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vreditorcamerawidgetcomponent",
+      "label": "VR Editor Camera Widget Component",
+      "file_type": "code",
+      "source_file": "VREditorCameraWidgetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vreditorwidgetcomponent",
+      "label": "VR Editor Widget Component",
+      "file_type": "code",
+      "source_file": "VREditorCameraWidgetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendstack_standalone",
+      "label": "AnimNode BlendStack Standalone",
+      "file_type": "code",
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_assetplayerbase",
+      "label": "AnimNode Asset Player Base",
+      "file_type": "code",
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stitch_database",
+      "label": "Stitch Database",
+      "file_type": "code",
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "holdoutcompositesubsystem",
+      "label": "Holdout Composite Subsystem",
+      "file_type": "code",
+      "source_file": "HoldoutCompositeSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatebase",
+      "label": "RigVMFunction Math RBF Interpolate Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbase",
+      "label": "RigVMFunction Math Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloattoint",
+      "label": "RigUnit MathFloatToInt (Deprecated)",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatToInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloattoint",
+      "label": "RigVMFunction MathFloatToInt",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatToInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionmul",
+      "label": "RigVMFunction Math Quaternion Mul",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathQuaternionMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbinaryaggregateop",
+      "label": "RigVMFunction Math Quaternion Binary Aggregate Op",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathQuaternionMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fixedframeratecustomtimestep",
+      "label": "Fixed FrameRate Custom TimeStep",
+      "file_type": "code",
+      "source_file": "FixedFrameRateCustomTimeStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enginecustomtimestep",
+      "label": "Engine Custom TimeStep",
+      "file_type": "code",
+      "source_file": "FixedFrameRateCustomTimeStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splineresampletype",
+      "label": "Spline Resample Type",
+      "file_type": "code",
+      "source_file": "SplineResampleType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixsendstage",
+      "label": "Submix Send Stage",
+      "file_type": "code",
+      "source_file": "SubmixSendStage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interruptedflight",
+      "label": "Interrupted Flight Delegate",
+      "file_type": "code",
+      "source_file": "InterruptedFlight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcyclemode",
+      "label": "PropertyAnimator Cycle Mode",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorCycleMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpsectionsdklibrary",
+      "label": "DCPSection SDK Library",
+      "file_type": "code",
+      "source_file": "DCPSectionSDKLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sphericallensmodel",
+      "label": "Spherical Lens Model",
+      "file_type": "code",
+      "source_file": "SphericalLensModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lensmodel",
+      "label": "Lens Model",
+      "file_type": "code",
+      "source_file": "SphericalLensModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorbbkey_struct",
+      "label": "ValueOrBBKey Struct",
+      "file_type": "code",
+      "source_file": "ValueOrBBKey__Struct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valueorblackboardkeybase",
+      "label": "ValueOrBlackboardKey Base",
+      "file_type": "code",
+      "source_file": "ValueOrBBKey__Struct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerriverentity",
+      "label": "Modeler River Entity",
+      "file_type": "code",
+      "source_file": "ModelerRiverEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstandardactorentity",
+      "label": "WdpStandard Actor Entity",
+      "file_type": "code",
+      "source_file": "ModelerRiverEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectionfactory",
+      "label": "GeometryCollection Factory",
+      "file_type": "code",
+      "source_file": "GeometryCollectionFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifierresponsecurveuser",
+      "label": "InputModifier Response Curve User",
+      "file_type": "code",
+      "source_file": "InputModifierResponseCurveUser Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifier",
+      "label": "InputModifier",
+      "file_type": "code",
+      "source_file": "InputModifierResponseCurveUser Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvefloat",
+      "label": "Curve Float",
+      "file_type": "code",
+      "source_file": "InputModifierResponseCurveUser Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgaddattributesettings",
+      "label": "PCG AddAttribute Settings",
+      "file_type": "code",
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings",
+      "label": "PCG Settings",
+      "file_type": "code",
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyinputselector",
+      "label": "PCG Attribute Property Input Selector",
+      "file_type": "code",
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyoutputselector",
+      "label": "PCG Attribute Property Output Selector",
+      "file_type": "code",
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformer_graph_plugin",
+      "label": "DeformerGraph Plugin",
+      "file_type": "code",
+      "source_file": "RigVMTrait_SetDeformerRotatorVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smart_objects_plugin",
+      "label": "SmartObjects Plugin",
+      "file_type": "code",
+      "source_file": "SmartObjectDefinitionReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid2DCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blend_stack_plugin",
+      "label": "BlendStack Plugin",
+      "file_type": "code",
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesium_plugin",
+      "label": "CesiumForUnreal Plugin",
+      "file_type": "code",
+      "source_file": "InterruptedFlight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_calibration_plugin",
+      "label": "CameraCalibrationCore Plugin",
+      "file_type": "code",
+      "source_file": "SphericalLensModel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhanced_input_plugin",
+      "label": "EnhancedInput Plugin",
+      "file_type": "code",
+      "source_file": "InputModifierResponseCurveUser Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "code",
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_blending_system",
+      "label": "Animation Blending System",
+      "file_type": "code",
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vr_editing_system",
+      "label": "VR Editing System",
+      "file_type": "code",
+      "source_file": "VREditorCameraWidgetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_content_generation",
+      "label": "Procedural Content Generation",
+      "file_type": "code",
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmtrait_setdeformerrotatorvariable",
+      "target": "rigvmtait_optimusvariablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait_SetDeformerRotatorVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerrotatorvariable",
+      "target": "deformer_graph_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait_SetDeformerRotatorVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectdefinitionreference",
+      "target": "smartobjectdefinition",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SmartObjectDefinitionReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectdefinitionreference",
+      "target": "smart_objects_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectDefinitionReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacegrid2dcollection",
+      "target": "niagaradatainterfacegrid2d",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceGrid2DCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacegrid2dcollection",
+      "target": "niagara_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceGrid2DCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vreditorcamerawidgetcomponent",
+      "target": "vreditorwidgetcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VREditorCameraWidgetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vreditorcamerawidgetcomponent",
+      "target": "vr_editing_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "VREditorCameraWidgetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendstack_standalone",
+      "target": "animnode_assetplayerbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendstack_standalone",
+      "target": "stitch_database",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendstack_standalone",
+      "target": "blend_stack_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendstack_standalone",
+      "target": "animation_blending_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "holdoutcompositesubsystem",
+      "target": "primitivecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HoldoutCompositeSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatebase",
+      "target": "rigvmfunction_mathbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatebase",
+      "target": "rigvm_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloattoint",
+      "target": "rigvmfunction_mathfloattoint",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatToInt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionmul",
+      "target": "rigvmfunction_mathquaternionbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathQuaternionMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fixedframeratecustomtimestep",
+      "target": "enginecustomtimestep",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FixedFrameRateCustomTimeStep Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interruptedflight",
+      "target": "cesium_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterruptedFlight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sphericallensmodel",
+      "target": "lensmodel",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SphericalLensModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sphericallensmodel",
+      "target": "camera_calibration_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SphericalLensModel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "valueorbbkey_struct",
+      "target": "valueorblackboardkeybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ValueOrBBKey__Struct Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modelerriverentity",
+      "target": "wdpstandardactorentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelerRiverEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputmodifierresponsecurveuser",
+      "target": "inputmodifier",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputModifierResponseCurveUser Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputmodifierresponsecurveuser",
+      "target": "curvefloat",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputModifierResponseCurveUser Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputmodifierresponsecurveuser",
+      "target": "enhanced_input_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputModifierResponseCurveUser Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgaddattributesettings",
+      "target": "pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgaddattributesettings",
+      "target": "pcgattributepropertyinputselector",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgaddattributesettings",
+      "target": "pcgattributepropertyoutputselector",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgaddattributesettings",
+      "target": "pcg_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgaddattributesettings",
+      "target": "procedural_content_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGAddAttributeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatebase",
+      "target": "rigvmfunction_mathquaternionmul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatebase",
+      "target": "rigvmfunction_mathfloattoint",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathRBFInterpolateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendstack_standalone",
+      "target": "niagaradatainterfacegrid2dcollection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathrbfinterpolatebase",
+        "rigvmfunction_mathquaternionmul",
+        "rigvmfunction_mathfloattoint",
+        "rigunit_mathfloattoint"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathRBFInterpolateBase Objects.md"
+    },
+    {
+      "id": "unreal_animation_systems",
+      "label": "Unreal Animation Systems",
+      "nodes": [
+        "animnode_blendstack_standalone",
+        "rigvmtrait_setdeformerrotatorvariable",
+        "rigvmfunction_mathrbfinterpolatebase",
+        "rigvmfunction_mathquaternionmul"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode_BlendStack_Standalone Objects.md"
+    },
+    {
+      "id": "enhanced_input_processing",
+      "label": "Enhanced Input Processing",
+      "nodes": [
+        "inputmodifierresponsecurveuser",
+        "inputmodifier",
+        "curvefloat"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InputModifierResponseCurveUser Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

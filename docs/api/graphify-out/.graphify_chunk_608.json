@@ -1,0 +1,1218 @@
+{
+  "nodes": [
+    {
+      "id": "platformeventscomponent_platformeventdelegate",
+      "label": "PlatformEventsComponent PlatformEventDelegate",
+      "file_type": "document",
+      "source_file": "PlatformEventsComponent__PlatformEventDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "PlatformEventsComponent__PlatformEventDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthentityinstanceflags",
+      "label": "EarthEntityInstanceFlags",
+      "file_type": "document",
+      "source_file": "EarthEntityInstanceFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "EarthEntityInstanceFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatconsthalfpi",
+      "label": "RigUnit MathFloatConstHalfPi",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatConstHalfPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconsthalfpi",
+      "label": "RigVMFunction MathFloatConstHalfPi",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatConstHalfPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerquatarrayvariable",
+      "label": "RigVMTrait SetDeformerQuatArrayVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerQuatArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusvariablebase",
+      "label": "RigVMTrait OptimusVariableBase",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerQuatArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformergraph_plugin",
+      "label": "DeformerGraph Plugin",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerQuatArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroofbasefragment",
+      "label": "EarthRoofBaseFragment",
+      "file_type": "document",
+      "source_file": "EarthRoofBaseFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthentityfragment",
+      "label": "EarthEntityFragment",
+      "file_type": "document",
+      "source_file": "EarthRoofBaseFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmaterialinfo",
+      "label": "EarthMaterialInfo",
+      "file_type": "document",
+      "source_file": "EarthRoofBaseFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionadditem",
+      "label": "RigUnit CollectionAddItem",
+      "file_type": "document",
+      "source_file": "RigUnit__CollectionAddItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionbase",
+      "label": "RigUnit CollectionBase",
+      "file_type": "document",
+      "source_file": "RigUnit__CollectionAddItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkeycollection",
+      "label": "RigElementKeyCollection",
+      "file_type": "document",
+      "source_file": "RigUnit__CollectionAddItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmaptype",
+      "label": "LightmapType",
+      "file_type": "document",
+      "source_file": "LightmapType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geofeatureclickedevent",
+      "label": "GeoFeatureClickedEvent",
+      "file_type": "document",
+      "source_file": "GeoFeatureClickedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "magicgisviewmodelinterface",
+      "label": "MagicGISViewModelInterface",
+      "file_type": "document",
+      "source_file": "GeoFeatureClickedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimitem",
+      "label": "RigUnit AimItem",
+      "file_type": "document",
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimitem_target",
+      "label": "RigUnit AimItem Target",
+      "file_type": "document",
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimbone_debugsettings",
+      "label": "RigUnit AimBone DebugSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameraanimationplayspace",
+      "label": "CameraAnimationPlaySpace",
+      "file_type": "document",
+      "source_file": "CameraAnimationPlaySpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animmontage",
+      "label": "AnimMontage",
+      "file_type": "document",
+      "source_file": "AnimMontage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcompositebase",
+      "label": "AnimCompositeBase",
+      "file_type": "document",
+      "source_file": "AnimMontage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "montageblendmode",
+      "label": "MontageBlendMode",
+      "file_type": "document",
+      "source_file": "AnimMontage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendprofile",
+      "label": "BlendProfile",
+      "file_type": "document",
+      "source_file": "AnimMontage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediacomponent",
+      "label": "MediaComponent",
+      "file_type": "document",
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplayer",
+      "label": "MediaPlayer",
+      "file_type": "document",
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediatexture",
+      "label": "MediaTexture",
+      "file_type": "document",
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectmixerblueprintfilterfactory",
+      "label": "ObjectMixerBlueprintFilterFactory",
+      "file_type": "document",
+      "source_file": "ObjectMixerBlueprintFilterFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "ObjectMixerBlueprintFilterFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesflowmapeditorcommand_velocity",
+      "label": "AesFlowMapEditorCommand Velocity",
+      "file_type": "document",
+      "source_file": "AesFlowMapEditorCommand__Velocity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommand",
+      "label": "AesEditorSimpleCommand",
+      "file_type": "document",
+      "source_file": "AesFlowMapEditorCommand__Velocity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_onreply",
+      "label": "Widget OnReply",
+      "file_type": "document",
+      "source_file": "Widget__OnReply Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "Widget__OnReply Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "locationservicesdata_onlocationchanged",
+      "label": "LocationServicesData OnLocationChanged",
+      "file_type": "document",
+      "source_file": "LocationServicesData_OnLocationChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "locationservicesdata",
+      "label": "LocationServicesData",
+      "file_type": "document",
+      "source_file": "LocationServicesData_OnLocationChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionprecomputedaomask",
+      "label": "MaterialExpressionPrecomputedAOMask",
+      "file_type": "document",
+      "source_file": "MaterialExpressionPrecomputedAOMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionPrecomputedAOMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialdamageparams",
+      "label": "RadialDamageParams",
+      "file_type": "document",
+      "source_file": "RadialDamageParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RadialDamageParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialdamage_event",
+      "label": "Radial Damage Events",
+      "file_type": "document",
+      "source_file": "RadialDamageParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tempentity",
+      "label": "TempEntity",
+      "file_type": "document",
+      "source_file": "TempEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstandardactorentity",
+      "label": "WdpStandardActorEntity",
+      "file_type": "document",
+      "source_file": "TempEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "TempEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchysetshapesettings",
+      "label": "RigUnit HierarchySetShapeSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchySetShapeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_dynamichierarchybasemutable",
+      "label": "RigUnit DynamicHierarchyBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchySetShapeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_shapesettings",
+      "label": "RigUnit HierarchyAddControl ShapeSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchySetShapeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormakerelative",
+      "label": "RigVMFunction MathVectorMakeRelative",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction MathVectorBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthEntityInstanceFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gisdataapi_plugin",
+      "label": "GISDataAPI Plugin",
+      "file_type": "document",
+      "source_file": "GeoFeatureClickedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectmixer_plugin",
+      "label": "ObjectMixer Plugin",
+      "file_type": "document",
+      "source_file": "ObjectMixerBlueprintFilterFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "platformeventscomponent_platformeventdelegate",
+      "target": "multicastdelegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformEventsComponent__PlatformEventDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthentityinstanceflags",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthEntityInstanceFlags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatconsthalfpi",
+      "target": "rigvmfunction_mathfloatconsthalfpi",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatConstHalfPi Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerquatarrayvariable",
+      "target": "rigvmtrait_optimusvariablebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait_SetDeformerQuatArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerquatarrayvariable",
+      "target": "deformergraph_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait_SetDeformerQuatArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroofbasefragment",
+      "target": "earthentityfragment",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoofBaseFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroofbasefragment",
+      "target": "earthmaterialinfo",
+      "relation": "contains_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoofBaseFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionadditem",
+      "target": "rigunit_collectionbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionAddItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionadditem",
+      "target": "rigelementkeycollection",
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionAddItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightmaptype",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightmapType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geofeatureclickedevent",
+      "target": "multicastdelegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoFeatureClickedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geofeatureclickedevent",
+      "target": "magicgisviewmodelinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoFeatureClickedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimitem",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimitem",
+      "target": "rigunit_aimitem_target",
+      "relation": "contains_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimitem",
+      "target": "rigunit_aimbone_debugsettings",
+      "relation": "contains_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimitem",
+      "target": "controlrig_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameraanimationplayspace",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraAnimationPlaySpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animmontage",
+      "target": "animcompositebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimMontage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animmontage",
+      "target": "montageblendmode",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimMontage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animmontage",
+      "target": "blendprofile",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimMontage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacomponent",
+      "target": "actorcomponent",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacomponent",
+      "target": "mediaplayer",
+      "relation": "contains_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacomponent",
+      "target": "mediatexture",
+      "relation": "contains_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "objectmixerblueprintfilterfactory",
+      "target": "factory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ObjectMixerBlueprintFilterFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "objectmixerblueprintfilterfactory",
+      "target": "objectmixer_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ObjectMixerBlueprintFilterFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesflowmapeditorcommand_velocity",
+      "target": "aeseditorsimplecommand",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFlowMapEditorCommand__Velocity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widget_onreply",
+      "target": "delegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Widget__OnReply Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "locationservicesdata_onlocationchanged",
+      "target": "multicastdelegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LocationServicesData_OnLocationChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "locationservicesdata_onlocationchanged",
+      "target": "locationservicesdata",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LocationServicesData_OnLocationChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionprecomputedaomask",
+      "target": "materialexpression",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionPrecomputedAOMask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "radialdamageparams",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RadialDamageParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "radialdamageparams",
+      "target": "radialdamage_event",
+      "relation": "used_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RadialDamageParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tempentity",
+      "target": "wdpstandardactorentity",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TempEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tempentity",
+      "target": "entityatombase",
+      "relation": "contains_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TempEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchysetshapesettings",
+      "target": "rigunit_dynamichierarchybasemutable",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchySetShapeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchysetshapesettings",
+      "target": "rigunit_hierarchyaddcontrol_shapesettings",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchySetShapeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormakerelative",
+      "target": "rigvmfunction_mathvectorbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormakerelative",
+      "target": "rigvm_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthentityinstanceflags",
+      "target": "aesworld_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthEntityInstanceFlags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroofbasefragment",
+      "target": "aesworld_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoofBaseFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geofeatureclickedevent",
+      "target": "gisdataapi_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoFeatureClickedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesflowmapeditorcommand_velocity",
+      "target": "aesworld_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFlowMapEditorCommand__Velocity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tempentity",
+      "target": "aesworld_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TempEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionadditem",
+      "target": "controlrig_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CollectionAddItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchysetshapesettings",
+      "target": "controlrig_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchySetShapeSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimitem",
+      "target": "rigunit_aimbone_debugsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__AimItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerquatarrayvariable",
+      "target": "rigvmfunction_mathvectormakerelative",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMTrait_SetDeformerQuatArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacomponent",
+      "target": "mediaplayer",
+      "relation": "manages",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacomponent",
+      "target": "mediatexture",
+      "relation": "manages",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MediaComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionadditem",
+      "target": "rigunit_aimitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__CollectionAddItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animmontage",
+      "target": "cameraanimationplayspace",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AnimMontage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthentityinstanceflags",
+      "target": "earthroofbasefragment",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthEntityInstanceFlags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthentityinstanceflags",
+      "target": "tempentity",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthEntityInstanceFlags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightmaptype",
+      "target": "materialexpressionprecomputedaomask",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "LightmapType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_units",
+      "label": "ControlRig RigUnit Classes",
+      "nodes": [
+        "rigunit_aimitem",
+        "rigunit_collectionadditem",
+        "rigunit_hierarchysetshapesettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AimItem Objects.md"
+    },
+    {
+      "id": "aesworld_entities",
+      "label": "AesWorld Entity System",
+      "nodes": [
+        "earthentityinstanceflags",
+        "earthroofbasefragment",
+        "tempentity",
+        "aesflowmapeditorcommand_velocity"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthEntityInstanceFlags Objects.md"
+    },
+    {
+      "id": "unreal_delegates",
+      "label": "Unreal Engine Delegate System",
+      "nodes": [
+        "platformeventscomponent_platformeventdelegate",
+        "geofeatureclickedevent",
+        "widget_onreply",
+        "locationservicesdata_onlocationchanged"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformEventsComponent__PlatformEventDelegate Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

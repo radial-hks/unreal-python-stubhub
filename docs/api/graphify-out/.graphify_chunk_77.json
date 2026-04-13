@@ -1,0 +1,992 @@
+{
+  "nodes": [
+    {
+      "id": "brusheffectterracing",
+      "label": "BrushEffectTerracing",
+      "file_type": "document",
+      "source_file": "BrushEffectTerracing Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brusheffectterracing_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "BrushEffectTerracing Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brusheffectterracing_terrace_alpha",
+      "label": "terrace_alpha property",
+      "file_type": "document",
+      "source_file": "BrushEffectTerracing Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brusheffectterracing_terrace_spacing",
+      "label": "terrace_spacing property",
+      "file_type": "document",
+      "source_file": "BrushEffectTerracing Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landmass_module",
+      "label": "Landmass Module",
+      "file_type": "document",
+      "source_file": "BrushEffectTerracing Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescritingobjectpathkey",
+      "label": "MovieSceneScriptingObjectPathKey",
+      "file_type": "document",
+      "source_file": "MovieSceneScriptingObjectPathKey Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescritingobjectpathkey_base",
+      "label": "MovieSceneScriptingKey",
+      "file_type": "document",
+      "source_file": "MovieSceneScriptingObjectPathKey Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescritingobjectpathkey_set_value",
+      "label": "set_value method",
+      "file_type": "document",
+      "source_file": "MovieSceneScriptingObjectPathKey Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescritingobjectpathkey_get_value",
+      "label": "get_value method",
+      "file_type": "document",
+      "source_file": "MovieSceneScriptingObjectPathKey Objects.md",
+      "source_location": "line 55",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencerscripting_module",
+      "label": "SequencerScripting Module",
+      "file_type": "document",
+      "source_file": "MovieSceneScriptingObjectPathKey Objects.md",
+      "source_location": "line 13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialtransparencydiagrapercentparam",
+      "label": "DCPMaterialTransparencyDiagramPercentParam",
+      "file_type": "document",
+      "source_file": "DCPMaterialTransparencyDiagramPercentParam Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "DCPMaterialTransparencyDiagramPercentParam Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialtransparencydiagrapercentparam_transparency_percent",
+      "label": "transparency_percent property",
+      "file_type": "document",
+      "source_file": "DCPMaterialTransparencyDiagramPercentParam Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpapi_module",
+      "label": "DcpAPI Module",
+      "file_type": "document",
+      "source_file": "DCPMaterialTransparencyDiagramPercentParam Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "note",
+      "label": "Note",
+      "file_type": "document",
+      "source_file": "Note Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "Note Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "note_text",
+      "label": "text property",
+      "file_type": "document",
+      "source_file": "Note Objects.md",
+      "source_location": "line 130",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "Note Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstartpickpointparams",
+      "label": "WdpStartPickPointParams",
+      "file_type": "document",
+      "source_file": "WdpStartPickPointParams Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstartpickpointparams_coord_z_ref",
+      "label": "coord_z_ref property",
+      "file_type": "document",
+      "source_file": "WdpStartPickPointParams Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpinteractionapi_module",
+      "label": "WdpInteractionAPI Module",
+      "file_type": "document",
+      "source_file": "WdpStartPickPointParams Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbsolver",
+      "label": "IKRig_LimbSolver",
+      "file_type": "document",
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrigsolver",
+      "label": "IKRigSolver",
+      "file_type": "document",
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbsolver_enable_limit",
+      "label": "enable_limit property",
+      "file_type": "document",
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbsolver_max_iterations",
+      "label": "max_iterations property",
+      "file_type": "document",
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_module",
+      "label": "IKRig Module",
+      "file_type": "document",
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolanimationtype",
+      "label": "RigControlAnimationType",
+      "file_type": "document",
+      "source_file": "RigControlAnimationType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "RigControlAnimationType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolanimationtype_animation_control",
+      "label": "ANIMATION_CONTROL enum value",
+      "file_type": "document",
+      "source_file": "RigControlAnimationType Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_module",
+      "label": "ControlRig Module",
+      "file_type": "document",
+      "source_file": "RigControlAnimationType Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionarctangent",
+      "label": "MaterialExpressionArctangent",
+      "file_type": "document",
+      "source_file": "MaterialExpressionArctangent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionArctangent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionarctangent_desc",
+      "label": "desc property",
+      "file_type": "document",
+      "source_file": "MaterialExpressionArctangent Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "achievementwritedelegate",
+      "label": "AchievementWriteDelegate",
+      "file_type": "document",
+      "source_file": "AchievementWriteDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "AchievementWriteDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "achievementwritedelegate_written_achievement_name",
+      "label": "written_achievement_name parameter",
+      "file_type": "document",
+      "source_file": "AchievementWriteDelegate Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlinesubsystemutils_module",
+      "label": "OnlineSubsystemUtils Module",
+      "file_type": "document",
+      "source_file": "AchievementWriteDelegate Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fizevaluationmode",
+      "label": "FIZEvaluationMode",
+      "file_type": "document",
+      "source_file": "FIZEvaluationMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fizevaluationmode_use_live_link",
+      "label": "USE_LIVE_LINK enum value",
+      "file_type": "document",
+      "source_file": "FIZEvaluationMode Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fizevaluationmode_use_camera_settings",
+      "label": "USE_CAMERA_SETTINGS enum value",
+      "file_type": "document",
+      "source_file": "FIZEvaluationMode Objects.md",
+      "source_location": "line 25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lenscomponent_module",
+      "label": "LensComponent Module",
+      "file_type": "document",
+      "source_file": "FIZEvaluationMode Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "align_rotation",
+      "label": "align_rotation",
+      "file_type": "document",
+      "source_file": "align__rotation Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuentryscript",
+      "label": "ToolMenuEntryScript",
+      "file_type": "document",
+      "source_file": "align__rotation Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "align_rotation_rigcontextelement",
+      "label": "RigControlElement",
+      "file_type": "document",
+      "source_file": "align__rotation Objects.md",
+      "source_location": "line 8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenucontextextensions",
+      "label": "ToolMenuContextExtensions",
+      "file_type": "document",
+      "source_file": "ToolMenuContextExtensions Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "ToolMenuContextExtensions Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenucontextextensions_find_by_class",
+      "label": "find_by_class method",
+      "file_type": "document",
+      "source_file": "ToolMenuContextExtensions Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenus_module",
+      "label": "ToolMenus Module",
+      "file_type": "document",
+      "source_file": "ToolMenuContextExtensions Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "brusheffectterracing",
+      "target": "brusheffectterracing_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrushEffectTerracing Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "brusheffectterracing",
+      "target": "brusheffectterracing_terrace_alpha",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrushEffectTerracing Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "brusheffectterracing",
+      "target": "landmass_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrushEffectTerracing Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescritingobjectpathkey",
+      "target": "moviescenescritingobjectpathkey_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneScriptingObjectPathKey Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescritingobjectpathkey",
+      "target": "moviescenescritingobjectpathkey_set_value",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneScriptingObjectPathKey Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescritingobjectpathkey",
+      "target": "sequencerscripting_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneScriptingObjectPathKey Objects.md",
+      "source_location": "line 13",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmaterialtransparencydiagrapercentparam",
+      "target": "paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPMaterialTransparencyDiagramPercentParam Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmaterialtransparencydiagrapercentparam",
+      "target": "dcpmaterialtransparencydiagrapercentparam_transparency_percent",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPMaterialTransparencyDiagramPercentParam Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmaterialtransparencydiagrapercentparam",
+      "target": "dcpapi_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPMaterialTransparencyDiagramPercentParam Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "note",
+      "target": "actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Note Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "note",
+      "target": "note_text",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Note Objects.md",
+      "source_location": "line 130",
+      "weight": 1.0
+    },
+    {
+      "source": "note",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Note Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpstartpickpointparams",
+      "target": "paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpStartPickPointParams Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpstartpickpointparams",
+      "target": "wdpstartpickpointparams_coord_z_ref",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpStartPickPointParams Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpstartpickpointparams",
+      "target": "wdpinteractionapi_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpStartPickPointParams Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver",
+      "target": "ikrigsolver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver",
+      "target": "ikrig_limbsolver_enable_limit",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver",
+      "target": "ikrig_limbsolver_max_iterations",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver",
+      "target": "ikrig_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolanimationtype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlAnimationType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolanimationtype",
+      "target": "rigcontrolanimationtype_animation_control",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlAnimationType Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolanimationtype",
+      "target": "controlrig_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlAnimationType Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionarctangent",
+      "target": "materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArctangent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionarctangent",
+      "target": "materialexpressionarctangent_desc",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArctangent Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionarctangent",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArctangent Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "achievementwritedelegate",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AchievementWriteDelegate Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "achievementwritedelegate",
+      "target": "achievementwritedelegate_written_achievement_name",
+      "relation": "has_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AchievementWriteDelegate Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "achievementwritedelegate",
+      "target": "onlinesubsystemutils_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AchievementWriteDelegate Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "fizevaluationmode",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FIZEvaluationMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "fizevaluationmode",
+      "target": "fizevaluationmode_use_live_link",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FIZEvaluationMode Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "fizevaluationmode",
+      "target": "lenscomponent_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FIZEvaluationMode Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "align_rotation",
+      "target": "toolmenuentryscript",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "align__rotation Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "align_rotation",
+      "target": "align_rotation_rigcontextelement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "align__rotation Objects.md",
+      "source_location": "line 8",
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenucontextextensions",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ToolMenuContextExtensions Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenucontextextensions",
+      "target": "toolmenucontextextensions_find_by_class",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ToolMenuContextExtensions Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenucontextextensions",
+      "target": "toolmenus_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ToolMenuContextExtensions Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpstartpickpointparams",
+      "target": "dcpmaterialtransparencydiagrapercentparam",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WdpStartPickPointParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver",
+      "target": "rigcontrolanimationtype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "IKRig__LimbSolver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "align_rotation",
+      "target": "rigcontrolanimationtype",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "align__rotation Objects.md",
+      "source_location": "line 8",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionarctangent",
+      "target": "engine_module",
+      "relation": "shares_module_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionArctangent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "note",
+      "target": "engine_module",
+      "relation": "shares_module_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Note Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_api_classes",
+      "label": "Unreal Engine Python API Classes",
+      "nodes": [
+        "brusheffectterracing",
+        "moviescenescritingobjectpathkey",
+        "dcpmaterialtransparencydiagrapercentparam",
+        "note",
+        "wdpstartpickpointparams",
+        "ikrig_limbsolver",
+        "materialexpressionarctangent",
+        "achievementwritedelegate",
+        "toolmenucontextextensions"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "multiple files"
+    },
+    {
+      "id": "unreal_engine_enums",
+      "label": "Unreal Engine Enumeration Types",
+      "nodes": [
+        "rigcontrolanimationtype",
+        "fizevaluationmode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "multiple files"
+    },
+    {
+      "id": "rigging_and_animation_systems",
+      "label": "Rigging and Animation Systems",
+      "nodes": [
+        "ikrig_limbsolver",
+        "rigcontrolanimationtype",
+        "align_rotation"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

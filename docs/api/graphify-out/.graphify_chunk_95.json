@@ -1,0 +1,856 @@
+{
+  "nodes": [
+    {
+      "id": "enhancedinputlocalplayersubsystem_enhancedinputlocalplayersubsystem",
+      "label": "EnhancedInputLocalPlayerSubsystem",
+      "file_type": "document",
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputlocalplayersubsystem_localplayersubsystem",
+      "label": "LocalPlayerSubsystem",
+      "file_type": "document",
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputlocalplayersubsystem_inputaction",
+      "label": "InputAction",
+      "file_type": "document",
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputlocalplayersubsystem_inputmappingcontext",
+      "label": "InputMappingContext",
+      "file_type": "document",
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputlocalplayersubsystem_inputmodifier",
+      "label": "InputModifier",
+      "file_type": "document",
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputlocalplayersubsystem_inputtrigger",
+      "label": "InputTrigger",
+      "file_type": "document",
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguecontextmapping_dialoguecontextmapping",
+      "label": "DialogueContextMapping",
+      "file_type": "document",
+      "source_file": "DialogueContextMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguecontextmapping_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "DialogueContextMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguecontextmapping_dialoguecontext",
+      "label": "DialogueContext",
+      "file_type": "document",
+      "source_file": "DialogueContextMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguecontextmapping_soundwave",
+      "label": "SoundWave",
+      "file_type": "document",
+      "source_file": "DialogueContextMapping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamemodename_gamemodename",
+      "label": "GameModeName",
+      "file_type": "document",
+      "source_file": "GameModeName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamemodename_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "GameModeName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamemodename_softclasspath",
+      "label": "SoftClassPath",
+      "file_type": "document",
+      "source_file": "GameModeName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendversionnumber_metasoundfrontendversionnumber",
+      "label": "MetasoundFrontendVersionNumber",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendVersionNumber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendversionnumber_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendVersionNumber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vectoranimationattribute_vectoranimationattribute",
+      "label": "VectorAnimationAttribute",
+      "file_type": "document",
+      "source_file": "VectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vectoranimationattribute_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "VectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vectoranimationattribute_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "VectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterscenecomponentsyncthis_displayclusterscenecomponentsyncthis",
+      "label": "DisplayClusterSceneComponentSyncThis",
+      "file_type": "document",
+      "source_file": "DisplayClusterSceneComponentSyncThis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterscenecomponentsyncthis_displayclusterscenecomponentsync",
+      "label": "DisplayClusterSceneComponentSync",
+      "file_type": "document",
+      "source_file": "DisplayClusterSceneComponentSyncThis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphnode_moviegraphnode",
+      "label": "MovieGraphNode",
+      "file_type": "document",
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphnode_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphnode_moviegraphpin",
+      "label": "MovieGraphPin",
+      "file_type": "document",
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphnode_moviegraphpropertyinfo",
+      "label": "MovieGraphPropertyInfo",
+      "file_type": "document",
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_skeletalcontrolbase_animgraphnode_skeletalcontrolbase",
+      "label": "AnimGraphNode_SkeletalControlBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_SkeletalControlBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_skeletalcontrolbase_animgraphnode_base",
+      "label": "AnimGraphNode_Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_SkeletalControlBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_skeletalcontrolbase_memberreference",
+      "label": "MemberReference",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_SkeletalControlBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdeviceproperty_inputdeviceproperty",
+      "label": "InputDeviceProperty",
+      "file_type": "document",
+      "source_file": "InputDeviceProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdeviceproperty_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "InputDeviceProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdeviceproperty_platformuserid",
+      "label": "PlatformUserId",
+      "file_type": "document",
+      "source_file": "InputDeviceProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdeviceproperty_inputdeviceid",
+      "label": "InputDeviceId",
+      "file_type": "document",
+      "source_file": "InputDeviceProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerwateratom_modelerwateratom",
+      "label": "ModelerWaterAtom",
+      "file_type": "document",
+      "source_file": "ModelerWaterAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerwateratom_entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "ModelerWaterAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerwateratom_wdpmodelerwatertype",
+      "label": "WdpModelerWaterType",
+      "file_type": "document",
+      "source_file": "ModelerWaterAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetactor_actorplacement_gameplayabilitytargetactor_actorplacement",
+      "label": "GameplayAbilityTargetActor_ActorPlacement",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor__ActorPlacement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetactor_actorplacement_gameplayabilitytargetactor_groundtrace",
+      "label": "GameplayAbilityTargetActor_GroundTrace",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor__ActorPlacement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetactor_actorplacement_materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor__ActorPlacement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "egltfruntimetransformbasetype_egltfruntimetransformbasetype",
+      "label": "EglTFRuntimeTransformBaseType",
+      "file_type": "document",
+      "source_file": "EglTFRuntimeTransformBaseType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "egltfruntimetransformbasetype_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "EglTFRuntimeTransformBaseType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinputinputinject_input_injection",
+      "label": "Input Injection System",
+      "file_type": "document",
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphnode_graph_management",
+      "label": "Graph Node Management",
+      "file_type": "document",
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "enhancedinputlocalplayersubsystem_enhancedinputlocalplayersubsystem",
+      "target": "enhancedinputlocalplayersubsystem_localplayersubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputlocalplayersubsystem_enhancedinputlocalplayersubsystem",
+      "target": "enhancedinputlocalplayersubsystem_inputaction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": "multiple methods",
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputlocalplayersubsystem_enhancedinputlocalplayersubsystem",
+      "target": "enhancedinputlocalplayersubsystem_inputmappingcontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": "multiple methods",
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputlocalplayersubsystem_enhancedinputlocalplayersubsystem",
+      "target": "enhancedinputlocalplayersubsystem_inputmodifier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": "multiple methods",
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputlocalplayersubsystem_enhancedinputlocalplayersubsystem",
+      "target": "enhancedinputlocalplayersubsystem_inputtrigger",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": "multiple methods",
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputlocalplayersubsystem_enhancedinputlocalplayersubsystem",
+      "target": "enhancedinputinputinject_input_injection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EnhancedInputLocalPlayerSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dialoguecontextmapping_dialoguecontextmapping",
+      "target": "dialoguecontextmapping_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DialogueContextMapping Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dialoguecontextmapping_dialoguecontextmapping",
+      "target": "dialoguecontextmapping_dialoguecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DialogueContextMapping Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "dialoguecontextmapping_dialoguecontextmapping",
+      "target": "dialoguecontextmapping_soundwave",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DialogueContextMapping Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "gamemodename_gamemodename",
+      "target": "gamemodename_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameModeName Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "gamemodename_gamemodename",
+      "target": "gamemodename_softclasspath",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameModeName Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendversionnumber_metasoundfrontendversionnumber",
+      "target": "metasoundfrontendversionnumber_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundFrontendVersionNumber Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "vectoranimationattribute_vectoranimationattribute",
+      "target": "vectoranimationattribute_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VectorAnimationAttribute Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "vectoranimationattribute_vectoranimationattribute",
+      "target": "vectoranimationattribute_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VectorAnimationAttribute Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterscenecomponentsyncthis_displayclusterscenecomponentsyncthis",
+      "target": "displayclusterscenecomponentsyncthis_displayclusterscenecomponentsync",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterSceneComponentSyncThis Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphnode_moviegraphnode",
+      "target": "moviegraphnode_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphnode_moviegraphnode",
+      "target": "moviegraphnode_moviegraphpin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": "multiple methods",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphnode_moviegraphnode",
+      "target": "moviegraphnode_moviegraphpropertyinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": "multiple methods",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphnode_moviegraphnode",
+      "target": "moviegraphnode_graph_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieGraphNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_skeletalcontrolbase_animgraphnode_skeletalcontrolbase",
+      "target": "animgraphnode_skeletalcontrolbase_animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_SkeletalControlBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_skeletalcontrolbase_animgraphnode_skeletalcontrolbase",
+      "target": "animgraphnode_skeletalcontrolbase_memberreference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_SkeletalControlBase Objects.md",
+      "source_location": "lines 19,21,24",
+      "weight": 1.0
+    },
+    {
+      "source": "inputdeviceproperty_inputdeviceproperty",
+      "target": "inputdeviceproperty_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceProperty Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "inputdeviceproperty_inputdeviceproperty",
+      "target": "inputdeviceproperty_platformuserid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceProperty Objects.md",
+      "source_location": "multiple methods",
+      "weight": 1.0
+    },
+    {
+      "source": "inputdeviceproperty_inputdeviceproperty",
+      "target": "inputdeviceproperty_inputdeviceid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceProperty Objects.md",
+      "source_location": "multiple methods",
+      "weight": 1.0
+    },
+    {
+      "source": "modelerwateratom_modelerwateratom",
+      "target": "modelerwateratom_entityatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelerWaterAtom Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "modelerwateratom_modelerwateratom",
+      "target": "modelerwateratom_wdpmodelerwatertype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelerWaterAtom Objects.md",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilitytargetactor_actorplacement_gameplayabilitytargetactor_actorplacement",
+      "target": "gameplayabilitytargetactor_actorplacement_gameplayabilitytargetactor_groundtrace",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor__ActorPlacement Objects.md",
+      "source_location": "lines 4-6",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilitytargetactor_actorplacement_gameplayabilitytargetactor_actorplacement",
+      "target": "gameplayabilitytargetactor_actorplacement_materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor__ActorPlacement Objects.md",
+      "source_location": "line 113",
+      "weight": 1.0
+    },
+    {
+      "source": "egltfruntimetransformbasetype_egltfruntimetransformbasetype",
+      "target": "egltfruntimetransformbasetype_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EglTFRuntimeTransformBaseType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dialoguecontextmapping_structbase",
+      "target": "gamemodename_structbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gamemodename_structbase",
+      "target": "metasoundfrontendversionnumber_structbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendversionnumber_structbase",
+      "target": "vectoranimationattribute_structbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_skeletalcontrolbase_animgraphnode_base",
+      "target": "moviegraphnode_object",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphnode_object",
+      "target": "inputdeviceproperty_object",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enhancedinputlocalplayersubsystem_inputaction",
+      "target": "inputdeviceproperty_inputdeviceproperty",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "struct_hierarchy",
+      "label": "Struct-based Data Structures",
+      "nodes": [
+        "dialoguecontextmapping_dialoguecontextmapping",
+        "gamemodename_gamemodename",
+        "metasoundfrontendversionnumber_metasoundfrontendversionnumber",
+        "vectoranimationattribute_vectoranimationattribute"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": null
+    },
+    {
+      "id": "unreal_engine_base_types",
+      "label": "Unreal Engine Base Class Hierarchy",
+      "nodes": [
+        "enhancedinputlocalplayersubsystem_localplayersubsystem",
+        "displayclusterscenecomponentsyncthis_displayclusterscenecomponentsync",
+        "moviegraphnode_object",
+        "animgraphnode_skeletalcontrolbase_animgraphnode_base",
+        "inputdeviceproperty_object"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null
+    },
+    {
+      "id": "input_system_components",
+      "label": "Input System Components",
+      "nodes": [
+        "enhancedinputlocalplayersubsystem_enhancedinputlocalplayersubsystem",
+        "enhancedinputlocalplayersubsystem_inputaction",
+        "enhancedinputlocalplayersubsystem_inputmappingcontext",
+        "enhancedinputlocalplayersubsystem_inputmodifier",
+        "enhancedinputlocalplayersubsystem_inputtrigger",
+        "inputdeviceproperty_inputdeviceproperty"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,819 @@
+{
+  "nodes": [
+    {
+      "id": "avaautosizefitmode_avaautosizefitmode",
+      "label": "AvaAutoSizeFitMode",
+      "file_type": "document",
+      "source_file": "AvaAutoSizeFitMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleacos_rigvmfunction_mathdoubleacos",
+      "label": "RigVMFunction_MathDoubleAcos",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathDoubleAcos Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleacos_result",
+      "label": "result",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathDoubleAcos Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleacos_value",
+      "label": "value",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathDoubleAcos Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "iwdpentity_iwdpentity",
+      "label": "IWdpEntity",
+      "file_type": "document",
+      "source_file": "IWdpEntity Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_ragdoll_animgraphnode_ragdoll",
+      "label": "AnimGraphNode_Ragdoll",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__Ragdoll Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_rigidbody_animgraphnode_rigidbody",
+      "label": "AnimGraphNode_RigidBody",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__Ragdoll Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpworldposparams_wdpworldposparams",
+      "label": "WdpWorldPosParams",
+      "file_type": "document",
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpworldposparams_world_pos",
+      "label": "world_pos",
+      "file_type": "document",
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpworldposparams_guid",
+      "label": "guid",
+      "file_type": "document",
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpworldposparams_hit_keys",
+      "label": "hit_keys",
+      "file_type": "document",
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundfieldendpointsubmixfactory_soundfieldendpointsubmixfactory",
+      "label": "SoundfieldEndpointSubmixFactory",
+      "file_type": "document",
+      "source_file": "SoundfieldEndpointSubmixFactory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onearthready_onearthready",
+      "label": "OnEarthReady",
+      "file_type": "document",
+      "source_file": "OnEarthReady Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodymeshcomponent_waterbodymeshcomponent",
+      "label": "WaterBodyMeshComponent",
+      "file_type": "document",
+      "source_file": "WaterBodyMeshComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodymeshcomponent_static_mesh",
+      "label": "static_mesh",
+      "file_type": "document",
+      "source_file": "WaterBodyMeshComponent Objects.md",
+      "source_location": "line 194",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_materialinstancedynamic",
+      "label": "MaterialInstanceDynamic",
+      "file_type": "document",
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_set_vector_parameter_value",
+      "label": "set_vector_parameter_value",
+      "file_type": "document",
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_set_texture_parameter_value",
+      "label": "set_texture_parameter_value",
+      "file_type": "document",
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 95",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_set_scalar_parameter_value",
+      "label": "set_scalar_parameter_value",
+      "file_type": "document",
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 143",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_get_vector_parameter_value",
+      "label": "get_vector_parameter_value",
+      "file_type": "document",
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 267",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_get_texture_parameter_value",
+      "label": "get_texture_parameter_value",
+      "file_type": "document",
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 302",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_get_scalar_parameter_value",
+      "label": "get_scalar_parameter_value",
+      "file_type": "document",
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 337",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstancedynamic_copy_parameter_overrides",
+      "label": "copy_parameter_overrides",
+      "file_type": "document",
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 399",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbsolver_ikrig_limbsolver",
+      "label": "IKRig_LimbSolver",
+      "file_type": "document",
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbsolver_reach_precision",
+      "label": "reach_precision",
+      "file_type": "document",
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbsolver_max_iterations",
+      "label": "max_iterations",
+      "file_type": "document",
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbsolver_enable_limit",
+      "label": "enable_limit",
+      "file_type": "document",
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_limbsolver_hinge_rotation_axis",
+      "label": "hinge_rotation_axis",
+      "file_type": "document",
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_functionreference_optimusnode_functionreference",
+      "label": "OptimusNode_FunctionReference",
+      "file_type": "document",
+      "source_file": "OptimusNode_FunctionReference Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "numtableschanged_numtableschanged",
+      "label": "NumTablesChanged",
+      "file_type": "document",
+      "source_file": "NumTablesChanged Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin",
+      "label": "Avalanche Plugin",
+      "file_type": "document",
+      "source_file": "AvaAutoSizeFitMode Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathDoubleAcos Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesruntim_core_plugin",
+      "label": "AesRuntimeCore Plugin",
+      "file_type": "document",
+      "source_file": "IWdpEntity Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "OnEarthReady Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpruntimeapi_plugin",
+      "label": "WdpRuntimeAPI Plugin",
+      "file_type": "document",
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "water_plugin",
+      "label": "Water Plugin",
+      "file_type": "document",
+      "source_file": "WaterBodyMeshComponent Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_plugin",
+      "label": "IKRig Plugin",
+      "file_type": "document",
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformergraph_plugin",
+      "label": "DeformerGraph Plugin",
+      "file_type": "document",
+      "source_file": "OptimusNode_FunctionReference Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthesis_plugin",
+      "label": "Synthesis Plugin",
+      "file_type": "document",
+      "source_file": "NumTablesChanged Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathdoubleacos_rigvmfunction_mathdoubleacos",
+      "target": "rigvmfunction_mathdoubleacos_result",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleAcos Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleacos_rigvmfunction_mathdoubleacos",
+      "target": "rigvmfunction_mathdoubleacos_value",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleAcos Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_ragdoll_animgraphnode_ragdoll",
+      "target": "animgraphnode_rigidbody_animgraphnode_rigidbody",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__Ragdoll Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_ragdoll_animgraphnode_ragdoll",
+      "target": "animgraphnode_rigidbody_animgraphnode_rigidbody",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__Ragdoll Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpworldposparams_wdpworldposparams",
+      "target": "wdpworldposparams_world_pos",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpworldposparams_wdpworldposparams",
+      "target": "wdpworldposparams_guid",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpworldposparams_wdpworldposparams",
+      "target": "wdpworldposparams_hit_keys",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodymeshcomponent_waterbodymeshcomponent",
+      "target": "waterbodymeshcomponent_static_mesh",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyMeshComponent Objects.md",
+      "source_location": "line 194",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_materialinstancedynamic",
+      "target": "materialinstancedynamic_set_vector_parameter_value",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 64",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_materialinstancedynamic",
+      "target": "materialinstancedynamic_set_texture_parameter_value",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 95",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_materialinstancedynamic",
+      "target": "materialinstancedynamic_set_scalar_parameter_value",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 143",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_materialinstancedynamic",
+      "target": "materialinstancedynamic_get_vector_parameter_value",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 267",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_materialinstancedynamic",
+      "target": "materialinstancedynamic_get_texture_parameter_value",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 302",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_materialinstancedynamic",
+      "target": "materialinstancedynamic_get_scalar_parameter_value",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 337",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_materialinstancedynamic",
+      "target": "materialinstancedynamic_copy_parameter_overrides",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": "line 399",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver_ikrig_limbsolver",
+      "target": "ikrig_limbsolver_reach_precision",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver_ikrig_limbsolver",
+      "target": "ikrig_limbsolver_max_iterations",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver_ikrig_limbsolver",
+      "target": "ikrig_limbsolver_enable_limit",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver_ikrig_limbsolver",
+      "target": "ikrig_limbsolver_hinge_rotation_axis",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "avaautosizefitmode_avaautosizefitmode",
+      "target": "avalanche_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaAutoSizeFitMode Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleacos_rigvmfunction_mathdoubleacos",
+      "target": "rigvm_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathDoubleAcos Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "iwdpentity_iwdpentity",
+      "target": "aesruntim_core_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IWdpEntity Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "onearthready_onearthready",
+      "target": "aesworld_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnEarthReady Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpworldposparams_wdpworldposparams",
+      "target": "wdpruntimeapi_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpWorldPosParams Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodymeshcomponent_waterbodymeshcomponent",
+      "target": "water_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBodyMeshComponent Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver_ikrig_limbsolver",
+      "target": "ikrig_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_functionreference_optimusnode_functionreference",
+      "target": "deformergraph_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode_FunctionReference Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "numtableschanged_numtableschanged",
+      "target": "synthesis_plugin",
+      "relation": "belongs_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NumTablesChanged Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_set_vector_parameter_value",
+      "target": "materialinstancedynamic_get_vector_parameter_value",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_set_texture_parameter_value",
+      "target": "materialinstancedynamic_get_texture_parameter_value",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstancedynamic_set_scalar_parameter_value",
+      "target": "materialinstancedynamic_get_scalar_parameter_value",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialInstanceDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "iwdpentity_iwdpentity",
+      "target": "wdpworldposparams_wdpworldposparams",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IWdpEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_limbsolver_ikrig_limbsolver",
+      "target": "animgraphnode_rigidbody_animgraphnode_rigidbody",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "IKRig_LimbSolver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbodymeshcomponent_waterbodymeshcomponent",
+      "target": "materialinstancedynamic_materialinstancedynamic",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WaterBodyMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "material_parameter_methods",
+      "label": "Material Parameter Get/Set Methods",
+      "nodes": [
+        "materialinstancedynamic_set_vector_parameter_value",
+        "materialinstancedynamic_set_texture_parameter_value",
+        "materialinstancedynamic_set_scalar_parameter_value",
+        "materialinstancedynamic_get_vector_parameter_value",
+        "materialinstancedynamic_get_texture_parameter_value",
+        "materialinstancedynamic_get_scalar_parameter_value"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialInstanceDynamic Objects.md"
+    },
+    {
+      "id": "wdp_ecosystem",
+      "label": "WDP Ecosystem Classes",
+      "nodes": [
+        "iwdpentity_iwdpentity",
+        "wdpworldposparams_wdpworldposparams"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IWdpEntity Objects.md"
+    },
+    {
+      "id": "animation_rigging_systems",
+      "label": "Animation and Rigging Systems",
+      "nodes": [
+        "animgraphnode_rigidbody_animgraphnode_rigidbody",
+        "ikrig_limbsolver_ikrig_limbsolver"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "IKRig_LimbSolver Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

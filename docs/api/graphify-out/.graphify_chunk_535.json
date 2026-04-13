@@ -1,0 +1,728 @@
+{
+  "nodes": [
+    {
+      "id": "magicgislayerviewactorfinishedevent_magicgislayerviewactorfinishedevent",
+      "label": "MagicGISLayerViewActorFinishedEvent",
+      "file_type": "code",
+      "source_file": "MagicGISLayerViewActorFinishedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothingsimulationinteractornv_clothingsimulationinteractornv",
+      "label": "ClothingSimulationInteractorNv",
+      "file_type": "code",
+      "source_file": "ClothingSimulationInteractorNv Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputcancelaction_inputcancelaction",
+      "label": "InputCancelAction",
+      "file_type": "code",
+      "source_file": "InputCancelAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprintloadlogseverity_rigvmblueprintloadlogseverity",
+      "label": "RigVMBlueprintLoadLogSeverity",
+      "file_type": "code",
+      "source_file": "RigVMBlueprintLoadLogSeverity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixelformat_pixelformat",
+      "label": "PixelFormat",
+      "file_type": "code",
+      "source_file": "PixelFormat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesrastereditorcommand_sculpt_aesrastereditorcommand_sculpt",
+      "label": "AesRasterEditorCommand_Sculpt",
+      "file_type": "code",
+      "source_file": "AesRasterEditorCommand__Sculpt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesysparam_particlesysparam",
+      "label": "ParticleSysParam",
+      "file_type": "code",
+      "source_file": "ParticleSysParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_posesearchoverridecontinuingposecostbias_animnotifystate_posesearchoverridecontinuingposecostbias",
+      "label": "AnimNotifyState_PoseSearchOverrideContinuingPoseCostBias",
+      "file_type": "code",
+      "source_file": "AnimNotifyState_PoseSearchOverrideContinuingPoseCostBias Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashakepatternstopparams_camerashakepatternstopparams",
+      "label": "CameraShakePatternStopParams",
+      "file_type": "code",
+      "source_file": "CameraShakePatternStopParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stringtablefactory_stringtablefactory",
+      "label": "StringTableFactory",
+      "file_type": "code",
+      "source_file": "StringTableFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchygetparentweights_rigunit_hierarchygetparentweights",
+      "label": "RigUnit_HierarchyGetParentWeights",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyGetParentWeights Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphoutput_moviegraphoutput",
+      "label": "MovieGraphOutput",
+      "file_type": "code",
+      "source_file": "MovieGraphOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorfunctionaltest_editorfunctionaltest",
+      "label": "EditorFunctionalTest",
+      "file_type": "code",
+      "source_file": "EditorFunctionalTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpartitionactor_pcgpartitionactor",
+      "label": "PCGPartitionActor",
+      "file_type": "code",
+      "source_file": "PCGPartitionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_control_staticmesh_rigunit_control_staticmesh",
+      "label": "RigUnit_Control_StaticMesh",
+      "file_type": "code",
+      "source_file": "RigUnit__Control__StaticMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgbooleanoperationtaginheritancemode_pcgbooleanoperationtaginheritancemode",
+      "label": "PCGBooleanOperationTagInheritanceMode",
+      "file_type": "code",
+      "source_file": "PCGBooleanOperationTagInheritanceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "loudnesscurvetypeenum_loudnesscurvetypeenum",
+      "label": "LoudnessCurveTypeEnum",
+      "file_type": "code",
+      "source_file": "LoudnessCurveTypeEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontrolfloat_rigunit_getcontrolfloat",
+      "label": "RigUnit_GetControlFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__GetControlFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenudynamiccanexecuteaction_toolmenudynamiccanexecuteaction",
+      "label": "ToolMenuDynamicCanExecuteAction",
+      "file_type": "code",
+      "source_file": "ToolMenuDynamicCanExecuteAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustermoviepipelineconfiguration_displayclustermoviepipelineconfiguration",
+      "label": "DisplayClusterMoviePipelineConfiguration",
+      "file_type": "code",
+      "source_file": "DisplayClusterMoviePipelineConfiguration Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clipcolumnarheatmapparam_clipcolumnarheatmapparam",
+      "label": "ClipColumnarHeatMapParam",
+      "file_type": "code",
+      "source_file": "ClipColumnarHeatMapParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceburninoptions_levelsequenceburninoptions",
+      "label": "LevelSequenceBurnInOptions",
+      "file_type": "code",
+      "source_file": "LevelSequenceBurnInOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_delegatebase",
+      "label": "DelegateBase",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_clothingsimulationinteractor",
+      "label": "ClothingSimulationInteractor",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_enumbase",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_aesterraineditorcommand_sculpt",
+      "label": "AesTerrainEditorCommand_Sculpt",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_animnotifystate_posesearchbase",
+      "label": "AnimNotifyState_PoseSearchBase",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_rigunit_dynamichierarchybase",
+      "label": "RigUnit_DynamicHierarchyBase",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_moviegraphinterfacebase",
+      "label": "MovieGraphInterfaceBase",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_functionaltest",
+      "label": "FunctionalTest",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_partitionactor",
+      "label": "PartitionActor",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_rigunit_control",
+      "label": "RigUnit_Control",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "base_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "code",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "magicgislayerviewactorfinishedevent_magicgislayerviewactorfinishedevent",
+      "target": "base_delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MagicGISLayerViewActorFinishedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clothingsimulationinteractornv_clothingsimulationinteractornv",
+      "target": "base_clothingsimulationinteractor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ClothingSimulationInteractorNv Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputcancelaction_inputcancelaction",
+      "target": "base_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputCancelAction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprintloadlogseverity_rigvmblueprintloadlogseverity",
+      "target": "base_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMBlueprintLoadLogSeverity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pixelformat_pixelformat",
+      "target": "base_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PixelFormat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesrastereditorcommand_sculpt_aesrastereditorcommand_sculpt",
+      "target": "base_aesterraineditorcommand_sculpt",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesRasterEditorCommand__Sculpt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlesysparam_particlesysparam",
+      "target": "base_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSysParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_posesearchoverridecontinuingposecostbias_animnotifystate_posesearchoverridecontinuingposecostbias",
+      "target": "base_animnotifystate_posesearchbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState_PoseSearchOverrideContinuingPoseCostBias Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerashakepatternstopparams_camerashakepatternstopparams",
+      "target": "base_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraShakePatternStopParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stringtablefactory_stringtablefactory",
+      "target": "base_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StringTableFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetparentweights_rigunit_hierarchygetparentweights",
+      "target": "base_rigunit_dynamichierarchybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyGetParentWeights Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphoutput_moviegraphoutput",
+      "target": "base_moviegraphinterfacebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorfunctionaltest_editorfunctionaltest",
+      "target": "base_functionaltest",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorFunctionalTest Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpartitionactor_pcgpartitionactor",
+      "target": "base_partitionactor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPartitionActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_control_staticmesh_rigunit_control_staticmesh",
+      "target": "base_rigunit_control",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__Control__StaticMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgbooleanoperationtaginheritancemode_pcgbooleanoperationtaginheritancemode",
+      "target": "base_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBooleanOperationTagInheritanceMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "loudnesscurvetypeenum_loudnesscurvetypeenum",
+      "target": "base_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LoudnessCurveTypeEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolfloat_rigunit_getcontrolfloat",
+      "target": "base_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetControlFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "toolmenudynamiccanexecuteaction_toolmenudynamiccanexecuteaction",
+      "target": "base_delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ToolMenuDynamicCanExecuteAction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustermoviepipelineconfiguration_displayclustermoviepipelineconfiguration",
+      "target": "base_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterMoviePipelineConfiguration Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clipcolumnarheatmapparam_clipcolumnarheatmapparam",
+      "target": "base_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ClipColumnarHeatMapParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceburninoptions_levelsequenceburninoptions",
+      "target": "base_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceBurnInOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetparentweights_rigunit_hierarchygetparentweights",
+      "target": "rigunit_getcontrolfloat_rigunit_getcontrolfloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__HierarchyGetParentWeights Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_control_staticmesh_rigunit_control_staticmesh",
+      "target": "rigunit_getcontrolfloat_rigunit_getcontrolfloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__Control__StaticMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerashakepatternstopparams_camerashakepatternstopparams",
+      "target": "displayclustermoviepipelineconfiguration_displayclustermoviepipelineconfiguration",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CameraShakePatternStopParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputcancelaction_inputcancelaction",
+      "target": "toolmenudynamiccanexecuteaction_toolmenudynamiccanexecuteaction",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "InputCancelAction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlesysparam_particlesysparam",
+      "target": "clipcolumnarheatmapparam_clipcolumnarheatmapparam",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ParticleSysParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_rig_units_group",
+      "label": "ControlRig Rig Units",
+      "nodes": [
+        "rigunit_hierarchygetparentweights_rigunit_hierarchygetparentweights",
+        "rigunit_control_staticmesh_rigunit_control_staticmesh",
+        "rigunit_getcontrolfloat_rigunit_getcontrolfloat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyGetParentWeights Objects.md"
+    },
+    {
+      "id": "unreal_enum_types_group",
+      "label": "Unreal Engine Enum Types",
+      "nodes": [
+        "rigvmblueprintloadlogseverity_rigvmblueprintloadlogseverity",
+        "pixelformat_pixelformat",
+        "pcgbooleanoperationtaginheritancemode_pcgbooleanoperationtaginheritancemode",
+        "loudnesscurvetypeenum_loudnesscurvetypeenum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMBlueprintLoadLogSeverity Objects.md"
+    },
+    {
+      "id": "parameter_structures_group",
+      "label": "Parameter Structures",
+      "nodes": [
+        "particlesysparam_particlesysparam",
+        "camerashakepatternstopparams_camerashakepatternstopparams",
+        "displayclustermoviepipelineconfiguration_displayclustermoviepipelineconfiguration",
+        "clipcolumnarheatmapparam_clipcolumnarheatmapparam"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ParticleSysParam Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

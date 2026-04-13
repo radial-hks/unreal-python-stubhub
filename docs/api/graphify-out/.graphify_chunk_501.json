@@ -1,0 +1,936 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_ccdikitemarray",
+      "label": "RigUnit CCDIKItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_ccdik_rotationlimitperitem",
+      "label": "RigUnit CCDIK RotationLimitPerItem",
+      "file_type": "code",
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textureexporterexr",
+      "label": "TextureExporterEXR",
+      "file_type": "code",
+      "source_file": "TextureExporterEXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textureexportergeneric",
+      "label": "TextureExporterGeneric",
+      "file_type": "code",
+      "source_file": "TextureExporterEXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createtextureobjectparams",
+      "label": "CreateTextureObjectParams",
+      "file_type": "code",
+      "source_file": "CreateTextureObjectParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture2d",
+      "label": "Texture2D",
+      "file_type": "code",
+      "source_file": "CreateTextureObjectParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "umodelingobjectscreationapi",
+      "label": "UModelingObjectsCreationAPI",
+      "file_type": "code",
+      "source_file": "CreateTextureObjectParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "crsimsoftcollisiontype",
+      "label": "CRSimSoftCollisionType",
+      "file_type": "code",
+      "source_file": "CRSimSoftCollisionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationattributeidentifierextensions",
+      "label": "AnimationAttributeIdentifierExtensions",
+      "file_type": "code",
+      "source_file": "AnimationAttributeIdentifierExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationattributeidentifier",
+      "label": "AnimationAttributeIdentifier",
+      "file_type": "code",
+      "source_file": "AnimationAttributeIdentifierExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationasset",
+      "label": "AnimationAsset",
+      "file_type": "code",
+      "source_file": "AnimationAttributeIdentifierExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "initialactivesoundparams",
+      "label": "InitialActiveSoundParams",
+      "file_type": "code",
+      "source_file": "InitialActiveSoundParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioparameter",
+      "label": "AudioParameter",
+      "file_type": "code",
+      "source_file": "InitialActiveSoundParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opencolorioviewtransformdirection",
+      "label": "OpenColorIOViewTransformDirection",
+      "file_type": "code",
+      "source_file": "OpenColorIOViewTransformDirection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatremap",
+      "label": "RigVMFunction MathFloatRemap",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecomposureexportpass",
+      "label": "MovieSceneComposureExportPass",
+      "file_type": "code",
+      "source_file": "MovieSceneComposureExportPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zerooutrootbonemodifier",
+      "label": "ZeroOutRootBoneModifier",
+      "file_type": "code",
+      "source_file": "ZeroOutRootBoneModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationmodifier",
+      "label": "AnimationModifier",
+      "file_type": "code",
+      "source_file": "ZeroOutRootBoneModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfmaterialpropertygroup",
+      "label": "GLTFMaterialPropertyGroup",
+      "file_type": "code",
+      "source_file": "GLTFMaterialPropertyGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatpow",
+      "label": "RigVMFunction MathFloatPow",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatPow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryop",
+      "label": "RigVMFunction MathFloatBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatPow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onterraindatalayerchanged",
+      "label": "OnTerrainDataLayerChanged",
+      "file_type": "code",
+      "source_file": "OnTerrainDataLayerChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "OnTerrainDataLayerChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmedadatacompareoperation",
+      "label": "PCGMedadataCompareOperation",
+      "file_type": "code",
+      "source_file": "PCGMedadataCompareOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatacompareoperation",
+      "label": "PCGMetadataCompareOperation",
+      "file_type": "code",
+      "source_file": "PCGMedadataCompareOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercoreinsertoperation",
+      "label": "ActorModifierCoreInsertOperation",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreInsertOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorestackposition",
+      "label": "ActorModifierCoreStackPosition",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreInsertOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorebase",
+      "label": "ActorModifierCoreBase",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreInsertOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthsplinecurvefragment",
+      "label": "EarthSplineCurveFragment",
+      "file_type": "code",
+      "source_file": "EarthSplineCurveFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprimitivefragment",
+      "label": "EarthPrimitiveFragment",
+      "file_type": "code",
+      "source_file": "EarthSplineCurveFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthsplinecurves",
+      "label": "EarthSplineCurves",
+      "file_type": "code",
+      "source_file": "EarthSplineCurveFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdatamodelmodifieddynamicevent",
+      "label": "AnimDataModelModifiedDynamicEvent",
+      "file_type": "code",
+      "source_file": "AnimDataModelModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdatamodelnotifytype",
+      "label": "AnimDataModelNotifyType",
+      "file_type": "code",
+      "source_file": "AnimDataModelModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationdatamodel",
+      "label": "AnimationDataModel",
+      "file_type": "code",
+      "source_file": "AnimDataModelModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdatamodelnotifpayload",
+      "label": "AnimDataModelNotifPayload",
+      "file_type": "code",
+      "source_file": "AnimDataModelModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloattoint",
+      "label": "RigUnit MathFloatToInt",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatToInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloattoint",
+      "label": "RigVMFunction MathFloatToInt",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatToInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datalayertype",
+      "label": "DataLayerType",
+      "file_type": "code",
+      "source_file": "DataLayerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthsamplertype",
+      "label": "EarthSamplerType",
+      "file_type": "code",
+      "source_file": "EarthSamplerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontroldrivenlist",
+      "label": "RigUnit SetControlDrivenList",
+      "file_type": "code",
+      "source_file": "RigUnit_SetControlDrivenList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_SetControlDrivenList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdebugsettings",
+      "label": "PCGDebugSettings",
+      "file_type": "code",
+      "source_file": "PCGDebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGDebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdebugvisualizationsettings",
+      "label": "PCGDebugVisualizationSettings",
+      "file_type": "code",
+      "source_file": "PCGDebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdeterminismsettings",
+      "label": "PCGDeterminismSettings",
+      "file_type": "code",
+      "source_file": "PCGDebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetexporttask",
+      "label": "AssetExportTask",
+      "file_type": "code",
+      "source_file": "TextureExporterEXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "world",
+      "label": "World",
+      "file_type": "code",
+      "source_file": "CreateTextureObjectParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_ccdikitemarray",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdikitemarray",
+      "target": "rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdikitemarray",
+      "target": "rigunit_ccdik_rotationlimitperitem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdikitemarray",
+      "target": "controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "textureexporterexr",
+      "target": "textureexportergeneric",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureExporterEXR Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "textureexporterexr",
+      "target": "assetexporttask",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureExporterEXR Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createtextureobjectparams",
+      "target": "texture2d",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateTextureObjectParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createtextureobjectparams",
+      "target": "world",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateTextureObjectParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createtextureobjectparams",
+      "target": "umodelingobjectscreationapi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateTextureObjectParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationattributeidentifierextensions",
+      "target": "animationattributeidentifier",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationAttributeIdentifierExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationattributeidentifierextensions",
+      "target": "animationasset",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationAttributeIdentifierExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "initialactivesoundparams",
+      "target": "audioparameter",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InitialActiveSoundParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatremap",
+      "target": "rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatRemap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zerooutrootbonemodifier",
+      "target": "animationmodifier",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ZeroOutRootBoneModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatpow",
+      "target": "rigvmfunction_mathfloatbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatPow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onterraindatalayerchanged",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnTerrainDataLayerChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmedadatacompareoperation",
+      "target": "pcgmetadatacompareoperation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMedadataCompareOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercoreinsertoperation",
+      "target": "actormodifiercorestackposition",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreInsertOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercoreinsertoperation",
+      "target": "actormodifiercorebase",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreInsertOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthsplinecurvefragment",
+      "target": "earthprimitivefragment",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSplineCurveFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthsplinecurvefragment",
+      "target": "earthsplinecurves",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSplineCurveFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdatamodelmodifieddynamicevent",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDataModelModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdatamodelmodifieddynamicevent",
+      "target": "animdatamodelnotifytype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimDataModelModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdatamodelmodifieddynamicevent",
+      "target": "animationdatamodel",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimDataModelModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdatamodelmodifieddynamicevent",
+      "target": "animdatamodelnotifpayload",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimDataModelModifiedDynamicEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloattoint",
+      "target": "rigvmfunction_mathfloattoint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatToInt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroldrivenlist",
+      "target": "rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlDrivenList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroldrivenlist",
+      "target": "rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlDrivenList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroldrivenlist",
+      "target": "controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlDrivenList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdebugsettings",
+      "target": "pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdebugsettings",
+      "target": "pcgdebugvisualizationsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdebugsettings",
+      "target": "pcgdeterminismsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatremap",
+      "target": "rigvmfunction_mathfloatpow",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathFloatRemap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_ccdikitemarray",
+      "target": "rigunit_setcontroldrivenlist",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__CCDIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_mutable_units",
+      "label": "Control Rig Mutable Units",
+      "nodes": [
+        "rigunit_ccdikitemarray",
+        "rigunit_setcontroldrivenlist"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__CCDIKItemArray Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathfloatremap",
+        "rigvmfunction_mathfloatpow",
+        "rigvmfunction_mathfloattoint"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathFloatRemap Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

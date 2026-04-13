@@ -1,0 +1,595 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathquaternionmul_rigunit",
+      "label": "RigUnit_MathQuaternionMul",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionmul_target",
+      "label": "RigVMFunction_MathQuaternionMul",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabaseanimmontageex_class",
+      "label": "PoseSearchDatabaseAnimMontageEx",
+      "file_type": "code",
+      "source_file": "PoseSearchDatabaseAnimMontageEx Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimcache_class",
+      "label": "NiagaraSimCache",
+      "file_type": "code",
+      "source_file": "NiagaraSimCache Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasimcache_attribute_reading",
+      "label": "NiagaraSimCache Attribute Reading",
+      "file_type": "code",
+      "source_file": "NiagaraSimCache Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particleentity_class",
+      "label": "ParticleEntity",
+      "file_type": "code",
+      "source_file": "ParticleEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxvdf_enum",
+      "label": "InterchangeMaterialXVDF",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialXVDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionterrainlayerweight_class",
+      "label": "MaterialExpressionTerrainLayerWeight",
+      "file_type": "code",
+      "source_file": "MaterialExpressionTerrainLayerWeight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendlighten_class",
+      "label": "DMMaterialStageBlendLighten",
+      "file_type": "code",
+      "source_file": "DMMaterialStageBlendLighten Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "naturalsoundfalloffmode_enum",
+      "label": "NaturalSoundFalloffMode",
+      "file_type": "code",
+      "source_file": "NaturalSoundFalloffMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelbool_class",
+      "label": "RigUnit_HierarchyAddAnimationChannelBool",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectfilterparam_enum",
+      "label": "SourceEffectFilterParam",
+      "file_type": "code",
+      "source_file": "SourceEffectFilterParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublerad_class",
+      "label": "RigUnit_MathDoubleRad",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleRad Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstrateshadingmodels_class",
+      "label": "MaterialExpressionSubstrateShadingModels",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstrateShadingModels Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimconstraint_class",
+      "label": "RigUnit_AimConstraint",
+      "file_type": "code",
+      "source_file": "RigUnit_AimConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequenceactor_class",
+      "label": "AvaSequenceActor",
+      "file_type": "code",
+      "source_file": "AvaSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionsine_class",
+      "label": "DMMaterialStageExpressionSine",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionSine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugpoint_class",
+      "label": "RigUnit_DebugPoint",
+      "file_type": "code",
+      "source_file": "RigUnit__DebugPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "anchortype_enum",
+      "label": "AnchorType",
+      "file_type": "code",
+      "source_file": "AnchorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setothernodesvisibilityparam_class",
+      "label": "SetOtherNodesVisibilityParam",
+      "file_type": "code",
+      "source_file": "SetOtherNodesVisibilityParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorsunlightsettings_51_struct",
+      "label": "SkyCreatorSunLightSettings_51",
+      "file_type": "code",
+      "source_file": "SkyCreatorSunLightSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "composurecompshotelement_class",
+      "label": "ComposureCompShotElement",
+      "file_type": "code",
+      "source_file": "ComposureCompShotElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applyrootmotionconstantforcedelegate_delegate",
+      "label": "ApplyRootMotionConstantForceDelegate",
+      "file_type": "code",
+      "source_file": "ApplyRootMotionConstantForceDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "code",
+      "source_file": "NiagaraSimCache Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterial_plugin",
+      "label": "DynamicMaterial Plugin",
+      "file_type": "code",
+      "source_file": "DMMaterialStageBlendLighten Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearch_plugin",
+      "label": "PoseSearch Plugin",
+      "file_type": "code",
+      "source_file": "PoseSearchDatabaseAnimMontageEx Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequence_sequence_playback",
+      "label": "AvaSequence Sequence Playback",
+      "file_type": "code",
+      "source_file": "AvaSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathquaternionmul_rigunit",
+      "target": "rigvmfunction_mathquaternionmul_target",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionmul_rigunit",
+      "target": "rigvmfunction_mathquaternionmul_target",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabaseanimmontageex_class",
+      "target": "posesearch_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchDatabaseAnimMontageEx Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcache_class",
+      "target": "niagarasimcache_attribute_reading",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSimCache Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarasimcache_class",
+      "target": "niagara_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSimCache Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionterrainlayerweight_class",
+      "target": "dmmaterialstageblendlighten_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionTerrainLayerWeight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblendlighten_class",
+      "target": "dynamicmaterial_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageBlendLighten Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelbool_class",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublerad_class",
+      "target": "rigunit_mathquaternionmul_rigunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathDoubleRad Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraint_class",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraint_class",
+      "target": "rigunit_hierarchyaddanimationchannelbool_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_AimConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasequenceactor_class",
+      "target": "avasequence_sequence_playback",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaSequenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionsine_class",
+      "target": "dynamicmaterial_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionSine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionsine_class",
+      "target": "dmmaterialstageblendlighten_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DMMaterialStageExpressionSine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugpoint_class",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__DebugPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugpoint_class",
+      "target": "rigunit_aimconstraint_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__DebugPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugpoint_class",
+      "target": "rigunit_hierarchyaddanimationchannelbool_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__DebugPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "anchortype_enum",
+      "target": "anchortype_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnchorType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "composurecompshotelement_class",
+      "target": "avasequenceactor_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ComposureCompShotElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "applyrootmotionconstantforcedelegate_delegate",
+      "target": "particleentity_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ApplyRootMotionConstantForceDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorsunlightsettings_51_struct",
+      "target": "naturalsoundfalloffmode_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "SkyCreatorSunLightSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectfilterparam_enum",
+      "target": "naturalsoundfalloffmode_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SourceEffectFilterParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxvdf_enum",
+      "target": "materialexpressionsubstrateshadingmodels_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InterchangeMaterialXVDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "setothernodesvisibilityparam_class",
+      "target": "particleentity_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "SetOtherNodesVisibilityParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_math_operations",
+      "label": "ControlRig Math Operations",
+      "nodes": [
+        "rigunit_mathquaternionmul_rigunit",
+        "rigunit_mathdoublerad_class",
+        "rigunit_debugpoint_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathQuaternionMul Objects.md"
+    },
+    {
+      "id": "dynamic_material_system",
+      "label": "Dynamic Material System",
+      "nodes": [
+        "dmmaterialstageblendlighten_class",
+        "dmmaterialstageexpressionsine_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DMMaterialStageBlendLighten Objects.md"
+    },
+    {
+      "id": "audio_effects_enums",
+      "label": "Audio Effects Enums",
+      "nodes": [
+        "sourceeffectfilterparam_enum",
+        "naturalsoundfalloffmode_enum"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SourceEffectFilterParam Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

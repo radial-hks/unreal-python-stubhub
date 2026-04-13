@@ -1,0 +1,548 @@
+{
+  "nodes": [
+    {
+      "id": "riggraphdisplaysettings_class",
+      "label": "RigGraphDisplaySettings",
+      "file_type": "code",
+      "source_file": "RigGraphDisplaySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmgraphdisplaysettings_class",
+      "label": "RigVMEdGraphDisplaySettings",
+      "file_type": "code",
+      "source_file": "RigGraphDisplaySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolvaluetype_enum",
+      "label": "RigControlValueType",
+      "file_type": "code",
+      "source_file": "RigControlValueType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avapagelisttype_enum",
+      "label": "AvaPageListType",
+      "file_type": "code",
+      "source_file": "AvaPageListType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avarundownpagelisttype_enum",
+      "label": "AvaRundownPageListType",
+      "file_type": "code",
+      "source_file": "AvaPageListType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraspriterendererproperties_class",
+      "label": "NiagaraSpriteRendererProperties",
+      "file_type": "code",
+      "source_file": "NiagaraSpriteRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererproperties_class",
+      "label": "NiagaraRendererProperties",
+      "file_type": "code",
+      "source_file": "NiagaraSpriteRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpinitapiregister_class",
+      "label": "DCPInitAPIRegister",
+      "file_type": "code",
+      "source_file": "DCPInitAPIRegister Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifiernegate_class",
+      "label": "InputModifierNegate",
+      "file_type": "code",
+      "source_file": "InputModifierNegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlineblueprintcallproxybase_class",
+      "label": "OnlineBlueprintCallProxyBase",
+      "file_type": "code",
+      "source_file": "OnlineBlueprintCallProxyBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userscenetextureoverride_struct",
+      "label": "UserSceneTextureOverride",
+      "file_type": "code",
+      "source_file": "UserSceneTextureOverride Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabaseblendspaceex_class",
+      "label": "PoseSearchDatabaseBlendSpaceEx",
+      "file_type": "code",
+      "source_file": "PoseSearchDatabaseBlendSpaceEx Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusdeformersettings_class",
+      "label": "RigVMTrait_OptimusDeformerSettings",
+      "file_type": "code",
+      "source_file": "RigVMTrait_OptimusDeformerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "connectortype_enum",
+      "label": "ConnectorType",
+      "file_type": "code",
+      "source_file": "ConnectorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonefilteractionoption_enum",
+      "label": "BoneFilterActionOption",
+      "file_type": "code",
+      "source_file": "BoneFilterActionOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "environmentlightingactor_class",
+      "label": "EnvironmentLightingActor",
+      "file_type": "code",
+      "source_file": "EnvironmentLightingActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lanetraversal_enum",
+      "label": "LaneTraversal",
+      "file_type": "code",
+      "source_file": "LaneTraversal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "farmvisualdatarow_struct",
+      "label": "FarmVisualDataRow",
+      "file_type": "code",
+      "source_file": "FarmVisualDataRow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationthumbnailskeletalactor_class",
+      "label": "AnimationThumbnailSkeletalMeshActor",
+      "file_type": "code",
+      "source_file": "AnimationThumbnailSkeletalMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "attributemetadata_struct",
+      "label": "AttributeMetaData",
+      "file_type": "code",
+      "source_file": "AttributeMetaData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialvectorcoordtransformsource_enum",
+      "label": "MaterialVectorCoordTransformSource",
+      "file_type": "code",
+      "source_file": "MaterialVectorCoordTransformSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctionmateriallayerblendfactory_class",
+      "label": "MaterialFunctionMaterialLayerBlendFactory",
+      "file_type": "code",
+      "source_file": "MaterialFunctionMaterialLayerBlendFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "windowentityatom_class",
+      "label": "WindowEntityAtom",
+      "file_type": "code",
+      "source_file": "WindowEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionunaryop_class",
+      "label": "RigUnit_MathQuaternionUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionunaryop_class",
+      "label": "RigVMFunction_MathQuaternionUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicalsurface_enum",
+      "label": "PhysicalSurface",
+      "file_type": "code",
+      "source_file": "PhysicalSurface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaravariableattributebinding_concept",
+      "label": "NiagaraVariableAttributeBinding",
+      "file_type": "code",
+      "source_file": "NiagaraSpriteRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusdeformerexecutionphase_concept",
+      "label": "OptimusDeformerExecutionPhase",
+      "file_type": "code",
+      "source_file": "RigVMTrait_OptimusDeformerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraspritealignment_concept",
+      "label": "NiagaraSpriteAlignment",
+      "file_type": "code",
+      "source_file": "NiagaraSpriteRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagraspritefacingmode_concept",
+      "label": "NiagaraSpriteFacingMode",
+      "file_type": "code",
+      "source_file": "NiagaraSpriteRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchmirroroption_concept",
+      "label": "PoseSearchMirrorOption",
+      "file_type": "code",
+      "source_file": "PoseSearchDatabaseBlendSpaceEx Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "riggraphdisplaysettings_class",
+      "target": "rigvmgraphdisplaysettings_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigGraphDisplaySettings Objects.md",
+      "source_location": "deprecated: 'RigGraphDisplaySettings' was renamed to 'RigVMEdGraphDisplaySettings'.",
+      "weight": 1.0
+    },
+    {
+      "source": "avapagelisttype_enum",
+      "target": "avarundownpagelisttype_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaPageListType Objects.md",
+      "source_location": "deprecated: 'AvaPageListType' was renamed to 'AvaRundownPageListType'.",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionunaryop_class",
+      "target": "rigvmfunction_mathquaternionunaryop_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionUnaryOp Objects.md",
+      "source_location": "deprecated: 'RigUnit_MathQuaternionUnaryOp' was renamed to 'RigVMFunction_MathQuaternionUnaryOp'.",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraspriterendererproperties_class",
+      "target": "niagaravariableattributebinding_concept",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSpriteRendererProperties Objects.md",
+      "source_location": "camera_offset_binding, color_binding, custom_sorting_binding, dynamic_material_binding, material_random_binding, normalized_age_binding, pivot_offset_binding, position_binding, renderer_enabled_binding, renderer_visibility_tag_binding, sprite_alignment_binding, sprite_facing_binding, sprite_rotation_binding, sprite_size_binding, sub_image_index_binding, uv_scale_binding, velocity_binding all use NiagaraVariableAttributeBinding",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraspriterendererproperties_class",
+      "target": "niagraspritealignment_concept",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSpriteRendererProperties Objects.md",
+      "source_location": "alignment property uses NiagaraSpriteAlignment",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraspriterendererproperties_class",
+      "target": "niagraspritefacingmode_concept",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraSpriteRendererProperties Objects.md",
+      "source_location": "facing_mode property uses NiagaraSpriteFacingMode",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_optimusdeformersettings_class",
+      "target": "optimusdeformerexecutionphase_concept",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait_OptimusDeformerSettings Objects.md",
+      "source_location": "execution_phase property uses OptimusDeformerExecutionPhase",
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabaseblendspaceex_class",
+      "target": "posesearchmirroroption_concept",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchDatabaseBlendSpaceEx Objects.md",
+      "source_location": "mirror_option property uses PoseSearchMirrorOption",
+      "weight": 1.0
+    },
+    {
+      "source": "farmvisualdatarow_struct",
+      "target": "attributemetadata_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "FarmVisualDataRow Objects.md",
+      "source_location": "Both inherit from TableRowBase and represent data structures for DataTable usage with material/mesh properties vs attribute metadata properties",
+      "weight": 1.0
+    },
+    {
+      "source": "environmentlightingactor_class",
+      "target": "animationthumbnailskeletalactor_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EnvironmentLightingActor Objects.md",
+      "source_location": "Both are specialized Actor classes with extensive standard actor properties but serve different purposes (environment lighting vs animation thumbnails)",
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolvaluetype_enum",
+      "target": "connectortype_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "RigControlValueType Objects.md",
+      "source_location": "Both are enums in ControlRig plugin for rig-related type definitions",
+      "weight": 1.0
+    },
+    {
+      "source": "userscenetextureoverride_struct",
+      "target": "materialvectorcoordtransformsource_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "UserSceneTextureOverride Objects.md",
+      "source_location": "Both relate to material rendering and texture/coordinate handling in materials",
+      "weight": 1.0
+    },
+    {
+      "source": "bonefilteractionoption_enum",
+      "target": "physicalsurface_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "BoneFilterActionOption Objects.md",
+      "source_location": "Both are enums for defining types/categories in skeletal/physics systems",
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunctionmateriallayerblendfactory_class",
+      "target": "userscenetextureoverride_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "MaterialFunctionMaterialLayerBlendFactory Objects.md",
+      "source_location": "Both work with material system - factory creates material layer blends, struct overrides scene textures",
+      "weight": 1.0
+    },
+    {
+      "source": "lanetraversal_enum",
+      "target": "connectortype_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "LaneTraversal Objects.md",
+      "source_location": "Both are enums defining traversal/connectivity types for spatial systems",
+      "weight": 1.0
+    },
+    {
+      "source": "inputmodifiernegate_class",
+      "target": "windowentityatom_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "InputModifierNegate Objects.md",
+      "source_location": "Both handle coordinate transformations - InputModifierNegate for input axes (x,y,z), WindowEntityAtom for 2D coordinates (size, offset)",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_enums",
+      "label": "ControlRig Plugin Enums",
+      "nodes": [
+        "rigcontrolvaluetype_enum",
+        "connectortype_enum"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlValueType Objects.md"
+    },
+    {
+      "id": "deprecated_rig_classes",
+      "label": "Deprecated Rig Classes with Renames",
+      "nodes": [
+        "riggraphdisplaysettings_class",
+        "rigunit_mathquaternionunaryop_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigGraphDisplaySettings Objects.md"
+    },
+    {
+      "id": "material_coord_transform_system",
+      "label": "Material Coordinate and Texture System",
+      "nodes": [
+        "materialvectorcoordtransformsource_enum",
+        "materialfunctionmateriallayerblendfactory_class",
+        "userscenetextureoverride_struct"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "MaterialVectorCoordTransformSource Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

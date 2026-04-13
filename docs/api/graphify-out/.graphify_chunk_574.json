@@ -1,0 +1,1292 @@
+{
+  "nodes": [
+    {
+      "id": "onsystemfinished_multicast_delegate",
+      "label": "OnSystemFinished",
+      "file_type": "code",
+      "source_file": "OnSystemFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coverwindowstyle_struct",
+      "label": "CoverWindowStyle",
+      "file_type": "code",
+      "source_file": "CoverWindowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "player_object",
+      "label": "Player",
+      "file_type": "code",
+      "source_file": "Player Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescensectionparameters_struct",
+      "label": "MovieSceneSectionParameters",
+      "file_type": "code",
+      "source_file": "MovieSceneSectionParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndiskelmesh_gpu_max_influences_enum",
+      "label": "NDISkelMesh_GpuMaxInfluences",
+      "file_type": "code",
+      "source_file": "NDISkelMesh__GpuMaxInfluences Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rasterentityatom_class",
+      "label": "RasterEntityAtom",
+      "file_type": "code",
+      "source_file": "RasterEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformmirrortransform_class",
+      "label": "RigVMFunction_MathTransformMirrorTransform",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathrbfinterpolatequatquat_target_struct",
+      "label": "MathRBFInterpolateQuatQuat_Target",
+      "file_type": "code",
+      "source_file": "MathRBFInterpolateQuatQuat_Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixbinaryop_class",
+      "label": "RigUnit_MathMatrixBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgworldraycastmode_enum",
+      "label": "PCGWorldRaycastMode",
+      "file_type": "code",
+      "source_file": "PCGWorldRaycastMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timeofdaysequence_class",
+      "label": "TimeOfDaySequence",
+      "file_type": "code",
+      "source_file": "TimeOfDaySequence Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmgraphvariabledescription_struct",
+      "label": "RigVMGraphVariableDescription",
+      "file_type": "code",
+      "source_file": "RigVMGraphVariableDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionif_class",
+      "label": "MaterialExpressionIf",
+      "file_type": "code",
+      "source_file": "MaterialExpressionIf Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "childactorcomponent_class",
+      "label": "ChildActorComponent",
+      "file_type": "code",
+      "source_file": "ChildActorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkgamelayerslot_class",
+      "label": "UIFrameworkGameLayerSlot",
+      "file_type": "code",
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthsubassetsfragment_struct",
+      "label": "EarthSubAssetsFragment",
+      "file_type": "code",
+      "source_file": "EarthSubAssetsFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorecloneoperation_struct",
+      "label": "ActorModifierCoreCloneOperation",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreCloneOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkmessagebusfinder_class",
+      "label": "LiveLinkMessageBusFinder",
+      "file_type": "code",
+      "source_file": "LiveLinkMessageBusFinder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texttransformpolicy_enum",
+      "label": "TextTransformPolicy",
+      "file_type": "code",
+      "source_file": "TextTransformPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkuserwidget_class",
+      "label": "UIFrameworkUserWidget",
+      "file_type": "code",
+      "source_file": "UIFrameworkUserWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "encoderootbonemodifier_class",
+      "label": "EncodeRootBoneModifier",
+      "file_type": "code",
+      "source_file": "EncodeRootBoneModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_boneweights_class",
+      "label": "GeometryScript_BoneWeights",
+      "file_type": "code",
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystemcomponent",
+      "label": "ParticleSystemComponent",
+      "file_type": "code",
+      "source_file": "OnSystemFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d_type",
+      "label": "Vector2D",
+      "file_type": "code",
+      "source_file": "CoverWindowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framenumber_type",
+      "label": "FrameNumber",
+      "file_type": "code",
+      "source_file": "MovieSceneSectionParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetimesecantvariant_type",
+      "label": "MovieSceneTimeWarpVariant",
+      "file_type": "code",
+      "source_file": "MovieSceneSectionParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_type",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "axistype_enum",
+      "label": "AxisType",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quat_type",
+      "label": "Quat",
+      "file_type": "code",
+      "source_file": "MathRBFInterpolateQuatQuat_Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "matrix_type",
+      "label": "Matrix",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkwidget_class",
+      "label": "UIFrameworkWidget",
+      "file_type": "code",
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkinputmode_enum",
+      "label": "UIFrameworkInputMode",
+      "file_type": "code",
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkgamelayertype_enum",
+      "label": "UIFrameworkGameLayerType",
+      "file_type": "code",
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh_class",
+      "label": "DynamicMesh",
+      "file_type": "code",
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeleton_class",
+      "label": "Skeleton",
+      "file_type": "code",
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_class",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "ChildActorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sceneomponent_class",
+      "label": "SceneComponent",
+      "file_type": "code",
+      "source_file": "ChildActorComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbase_class",
+      "label": "RigVMFunction_MathTransformBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixbinaryop_class",
+      "label": "RigVMFunction_MathMatrixBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequence_class",
+      "label": "DaySequence",
+      "file_type": "code",
+      "source_file": "TimeOfDaySequence Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_class",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionIf Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment_struct",
+      "label": "EarthPropertyFragment",
+      "file_type": "code",
+      "source_file": "EarthSubAssetsFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorebase_class",
+      "label": "ActorModifierCoreBase",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreCloneOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationmodifier_class",
+      "label": "AnimationModifier",
+      "file_type": "code",
+      "source_file": "EncodeRootBoneModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkslotbase_class",
+      "label": "UIFrameworkSlotBase",
+      "file_type": "code",
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase_class",
+      "label": "EntityAtomBase",
+      "file_type": "code",
+      "source_file": "RasterEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_class",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "Player Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_class",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "CoverWindowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_class",
+      "label": "EnumBase",
+      "file_type": "code",
+      "source_file": "NDISkelMesh__GpuMaxInfluences Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_class",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "OnSystemFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctiolibrary_class",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NDISkelMesh__GpuMaxInfluences Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGWorldRaycastMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "CoverWindowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframework_plugin",
+      "label": "UIFramework Plugin",
+      "file_type": "document",
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelink_plugin",
+      "label": "LiveLink Plugin",
+      "file_type": "document",
+      "source_file": "LiveLinkMessageBusFinder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthSubAssetsFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercore_plugin",
+      "label": "ActorModifierCore Plugin",
+      "file_type": "document",
+      "source_file": "ActorModifierCoreCloneOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationmodifierlibrary_plugin",
+      "label": "AnimationModifierLibrary Plugin",
+      "file_type": "document",
+      "source_file": "EncodeRootBoneModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "onsystemfinished_multicast_delegate",
+      "target": "multicastdelegatebase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnSystemFinished Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onsystemfinished_multicast_delegate",
+      "target": "particlesystemcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnSystemFinished Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coverwindowstyle_struct",
+      "target": "structbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoverWindowStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coverwindowstyle_struct",
+      "target": "vector2d_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoverWindowStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coverwindowstyle_struct",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoverWindowStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "player_object",
+      "target": "object_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Player Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescensectionparameters_struct",
+      "target": "structbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSectionParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescensectionparameters_struct",
+      "target": "framenumber_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSectionParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescensectionparameters_struct",
+      "target": "moviescenetimesecantvariant_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSectionParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ndiskelmesh_gpu_max_influences_enum",
+      "target": "enumbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NDISkelMesh__GpuMaxInfluences Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ndiskelmesh_gpu_max_influences_enum",
+      "target": "niagara_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NDISkelMesh__GpuMaxInfluences Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rasterentityatom_class",
+      "target": "entityatombase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RasterEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rasterentityatom_class",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RasterEntityAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformmirrortransform_class",
+      "target": "rigvmfunction_mathtransformbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformmirrortransform_class",
+      "target": "transform_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformmirrortransform_class",
+      "target": "axistype_enum",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformmirrortransform_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mathrbfinterpolatequatquat_target_struct",
+      "target": "structbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateQuatQuat_Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mathrbfinterpolatequatquat_target_struct",
+      "target": "quat_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateQuatQuat_Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mathrbfinterpolatequatquat_target_struct",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MathRBFInterpolateQuatQuat_Target Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixbinaryop_class",
+      "target": "rigvmfunction_mathmatrixbinaryop_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixbinaryop_class",
+      "target": "matrix_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixbinaryop_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgworldraycastmode_enum",
+      "target": "enumbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGWorldRaycastMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgworldraycastmode_enum",
+      "target": "pcg_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGWorldRaycastMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timeofdaysequence_class",
+      "target": "daysequence_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeOfDaySequence Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timeofdaysequence_class",
+      "target": "daysequence_class",
+      "relation": "deprecated_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimeOfDaySequence Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmgraphvariabledescription_struct",
+      "target": "structbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMGraphVariableDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmgraphvariabledescription_struct",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMGraphVariableDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionif_class",
+      "target": "materialexpression_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionIf Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "childactorcomponent_class",
+      "target": "sceneomponent_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChildActorComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "childactorcomponent_class",
+      "target": "actor_class",
+      "relation": "manages",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChildActorComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkgamelayerslot_class",
+      "target": "uiframeworkslotbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkgamelayerslot_class",
+      "target": "uiframeworkwidget_class",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkgamelayerslot_class",
+      "target": "uiframeworkinputmode_enum",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkgamelayerslot_class",
+      "target": "uiframeworkgamelayertype_enum",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkgamelayerslot_class",
+      "target": "uiframework_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthsubassetsfragment_struct",
+      "target": "earthpropertyfragment_struct",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSubAssetsFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthsubassetsfragment_struct",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSubAssetsFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorecloneoperation_struct",
+      "target": "structbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreCloneOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorecloneoperation_struct",
+      "target": "actormodifiercorebase_class",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreCloneOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorecloneoperation_struct",
+      "target": "actormodifiercore_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorModifierCoreCloneOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkmessagebusfinder_class",
+      "target": "object_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkMessageBusFinder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkmessagebusfinder_class",
+      "target": "livelink_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkMessageBusFinder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texttransformpolicy_enum",
+      "target": "enumbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextTransformPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkuserwidget_class",
+      "target": "uiframeworkwidget_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkUserWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkuserwidget_class",
+      "target": "uiframework_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkUserWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "encoderootbonemodifier_class",
+      "target": "animationmodifier_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EncodeRootBoneModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "encoderootbonemodifier_class",
+      "target": "animationmodifierlibrary_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EncodeRootBoneModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_boneweights_class",
+      "target": "blueprintfunctiolibrary_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_boneweights_class",
+      "target": "dynamicmesh_class",
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_boneweights_class",
+      "target": "skeleton_class",
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_boneweights_class",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformmirrortransform_class",
+      "target": "rigvmfunction_mathmatrixbinaryop_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_boneweights_class",
+      "target": "encoderootbonemodifier_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "GeometryScript__BoneWeights Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "childactorcomponent_class",
+      "target": "actormodifiercorecloneoperation_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ChildActorComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkgamelayerslot_class",
+      "target": "uiframeworkuserwidget_class",
+      "relation": "manages",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkGameLayerSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Functions",
+      "nodes": [
+        "rigvmfunction_mathtransformmirrortransform_class",
+        "rigunit_mathmatrixbinaryop_class",
+        "mathrbfinterpolatequatquat_target_struct",
+        "rigvmgraphvariabledescription_struct"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathTransformMirrorTransform Objects.md"
+    },
+    {
+      "id": "uiframework_components",
+      "label": "UIFramework Component System",
+      "nodes": [
+        "uiframeworkgamelayerslot_class",
+        "uiframeworkuserwidget_class",
+        "uiframeworkwidget_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.90,
+      "source_file": "UIFrameworkGameLayerSlot Objects.md"
+    },
+    {
+      "id": "skeletal_animation_tools",
+      "label": "Skeletal Animation and Bone Tools",
+      "nodes": [
+        "geometryscript_boneweights_class",
+        "encoderootbonemodifier_class",
+        "skeleton_class",
+        "dynamicmesh_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "GeometryScript__BoneWeights Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

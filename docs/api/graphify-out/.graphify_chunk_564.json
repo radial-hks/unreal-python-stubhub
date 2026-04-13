@@ -1,0 +1,1260 @@
+{
+  "nodes": [
+    {
+      "id": "MockTask_Log",
+      "name": "MockTask_Log",
+      "type": "class",
+      "properties": {
+        "module": "AITestSuite",
+        "file": "MockGameplayTasks.h",
+        "description": "Mock Task Log"
+      }
+    },
+    {
+      "id": "GameplayTask",
+      "name": "GameplayTask",
+      "type": "class"
+    },
+    {
+      "id": "MoviePipelineCameraSetting",
+      "name": "MoviePipelineCameraSetting",
+      "type": "class",
+      "properties": {
+        "plugin": "MovieRenderPipeline",
+        "module": "MovieRenderPipelineCore",
+        "file": "MoviePipelineCameraSetting.h",
+        "description": "Movie Pipeline Camera Setting"
+      }
+    },
+    {
+      "id": "MoviePipelineSetting",
+      "name": "MoviePipelineSetting",
+      "type": "class"
+    },
+    {
+      "id": "MoviePipelineShutterTiming",
+      "name": "MoviePipelineShutterTiming",
+      "type": "enum"
+    },
+    {
+      "id": "AIRequestPriority",
+      "name": "AIRequestPriority",
+      "type": "enum",
+      "properties": {
+        "module": "AIModule",
+        "file": "AITypes.h",
+        "description": "EAIRequest Priority"
+      }
+    },
+    {
+      "id": "AnimGraphNode_TwoBoneIK",
+      "name": "AnimGraphNode_TwoBoneIK",
+      "type": "class",
+      "properties": {
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_TwoBoneIK.h",
+        "description": "Anim Graph Node Two Bone IK"
+      }
+    },
+    {
+      "id": "AnimGraphNode_SkeletalControlBase",
+      "name": "AnimGraphNode_SkeletalControlBase",
+      "type": "class"
+    },
+    {
+      "id": "AnimNode_TwoBoneIK",
+      "name": "AnimNode_TwoBoneIK",
+      "type": "struct"
+    },
+    {
+      "id": "LevelSequence",
+      "name": "LevelSequence",
+      "type": "class",
+      "properties": {
+        "module": "LevelSequence",
+        "file": "LevelSequence.h",
+        "description": "Movie scene animation for Actors"
+      }
+    },
+    {
+      "id": "MovieSceneSequence",
+      "name": "MovieSceneSequence",
+      "type": "class"
+    },
+    {
+      "id": "AssetUserData",
+      "name": "AssetUserData",
+      "type": "class"
+    },
+    {
+      "id": "Class",
+      "name": "Class",
+      "type": "class"
+    },
+    {
+      "id": "Object",
+      "name": "Object",
+      "type": "class"
+    },
+    {
+      "id": "Polygon2DEntity",
+      "name": "Polygon2DEntity",
+      "type": "class",
+      "properties": {
+        "plugin": "WdpDataModel",
+        "module": "WdpGeometryEntity",
+        "file": "Polygon2DEntity.h",
+        "description": "Polygon 2DEntity"
+      }
+    },
+    {
+      "id": "WdpStandardEntity",
+      "name": "WdpStandardEntity",
+      "type": "class"
+    },
+    {
+      "id": "WdpPolygon2D",
+      "name": "WdpPolygon2D",
+      "type": "struct"
+    },
+    {
+      "id": "MassEntityConfigAsset",
+      "name": "MassEntityConfigAsset",
+      "type": "class",
+      "properties": {
+        "plugin": "MassGameplay",
+        "module": "MassSpawner",
+        "file": "MassEntityConfigAsset.h",
+        "description": "Agent Config asset allows to create shared configs that can be used as base for derived configs"
+      }
+    },
+    {
+      "id": "DataAsset",
+      "name": "DataAsset",
+      "type": "class"
+    },
+    {
+      "id": "MassEntityConfig",
+      "name": "MassEntityConfig",
+      "type": "struct"
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionMul",
+      "name": "RigVMFunction_MathQuaternionMul",
+      "type": "class",
+      "properties": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathQuaternion.h",
+        "description": "Returns the product of the two values"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionBinaryAggregateOp",
+      "name": "RigVMFunction_MathQuaternionBinaryAggregateOp",
+      "type": "class"
+    },
+    {
+      "id": "Quat",
+      "name": "Quat",
+      "type": "struct"
+    },
+    {
+      "id": "AnimGraphNode_CallFunction",
+      "name": "AnimGraphNode_CallFunction",
+      "type": "class",
+      "properties": {
+        "module": "AnimGraph",
+        "file": "AnimGraphNode_CallFunction.h",
+        "description": "Anim Graph Node Call Function"
+      }
+    },
+    {
+      "id": "AnimGraphNode_Base",
+      "name": "AnimGraphNode_Base",
+      "type": "class"
+    },
+    {
+      "id": "AnimNode_CallFunction",
+      "name": "AnimNode_CallFunction",
+      "type": "struct"
+    },
+    {
+      "id": "AesDataAssetInfo",
+      "name": "AesDataAssetInfo",
+      "type": "class",
+      "properties": {
+        "plugin": "AesWorld",
+        "module": "AesEntity",
+        "file": "AesDataAssetInfo.h",
+        "description": "Aes Data Asset Info"
+      }
+    },
+    {
+      "id": "TableRowBase",
+      "name": "TableRowBase",
+      "type": "class"
+    },
+    {
+      "id": "SoftObjectPath",
+      "name": "SoftObjectPath",
+      "type": "struct"
+    },
+    {
+      "id": "EntityStruct",
+      "name": "EntityStruct",
+      "type": "struct"
+    },
+    {
+      "id": "RigUnit_GetItemsInNameSpace",
+      "name": "RigUnit_GetItemsInNameSpace",
+      "type": "class",
+      "properties": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_RigModules.h",
+        "description": "Returns all items (based on a filter) in the current namespace"
+      }
+    },
+    {
+      "id": "RigUnit_RigModulesBase",
+      "name": "RigUnit_RigModulesBase",
+      "type": "class"
+    },
+    {
+      "id": "RigElementType",
+      "name": "RigElementType",
+      "type": "enum"
+    },
+    {
+      "id": "RigElementKey",
+      "name": "RigElementKey",
+      "type": "struct"
+    },
+    {
+      "id": "EarthHipRoofPrefab",
+      "name": "EarthHipRoofPrefab",
+      "type": "class",
+      "properties": {
+        "plugin": "AesWorld",
+        "module": "EarthPrefab",
+        "file": "EarthHipRoofPrefab.h",
+        "description": "坡顶屋顶预制体"
+      }
+    },
+    {
+      "id": "EarthRoofPrefab",
+      "name": "EarthRoofPrefab",
+      "type": "class"
+    },
+    {
+      "id": "InstancedStruct",
+      "name": "InstancedStruct",
+      "type": "struct"
+    },
+    {
+      "id": "BoneGetterSetterMode",
+      "name": "BoneGetterSetterMode",
+      "type": "enum",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "RigVMTransformSpace",
+        "description": "deprecated: 'BoneGetterSetterMode' was renamed to 'RigVMTransformSpace'"
+      }
+    },
+    {
+      "id": "MaterialFunctionInterface",
+      "name": "MaterialFunctionInterface",
+      "type": "class",
+      "properties": {
+        "module": "Engine",
+        "file": "MaterialFunctionInterface.h",
+        "description": "A Material Function is a collection of material expressions that can be reused in different materials"
+      }
+    },
+    {
+      "id": "ThumbnailInfo",
+      "name": "ThumbnailInfo",
+      "type": "class"
+    },
+    {
+      "id": "EnterEarthEditorParams",
+      "name": "EnterEarthEditorParams",
+      "type": "class",
+      "properties": {
+        "plugin": "WdpRuntimeAPI",
+        "module": "AesTilesAPI",
+        "file": "EarthEditorAPI.h",
+        "description": "Enter Earth Editor Params"
+      }
+    },
+    {
+      "id": "ParamsBase",
+      "name": "ParamsBase",
+      "type": "class"
+    },
+    {
+      "id": "Name",
+      "name": "Name",
+      "type": "struct"
+    },
+    {
+      "id": "LandscapeBrushParameters",
+      "name": "LandscapeBrushParameters",
+      "type": "class",
+      "properties": {
+        "module": "Landscape",
+        "file": "LandscapeBlueprintBrushBase.h",
+        "description": "Landscape Brush Parameters"
+      }
+    },
+    {
+      "id": "StructBase",
+      "name": "StructBase",
+      "type": "class"
+    },
+    {
+      "id": "Transform",
+      "name": "Transform",
+      "type": "struct"
+    },
+    {
+      "id": "IntPoint",
+      "name": "IntPoint",
+      "type": "struct"
+    },
+    {
+      "id": "TextureRenderTarget2D",
+      "name": "TextureRenderTarget2D",
+      "type": "class"
+    },
+    {
+      "id": "LandscapeToolTargetType",
+      "name": "LandscapeToolTargetType",
+      "type": "enum"
+    },
+    {
+      "id": "RigUnit_MathBoolBinaryOp",
+      "name": "RigUnit_MathBoolBinaryOp",
+      "type": "class",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "RigVMFunction_MathBoolBinaryOp",
+        "description": "deprecated: 'RigUnit_MathBoolBinaryOp' was renamed to 'RigVMFunction_MathBoolBinaryOp'"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathBoolBinaryOp",
+      "name": "RigVMFunction_MathBoolBinaryOp",
+      "type": "class"
+    },
+    {
+      "id": "RotationOrderEnum",
+      "name": "RotationOrderEnum",
+      "type": "enum",
+      "properties": {
+        "plugin": "GeometryCollectionPlugin",
+        "module": "GeometryCollectionNodes",
+        "file": "GeometryCollectionNodes.h",
+        "description": "ERotation Order Enum"
+      }
+    },
+    {
+      "id": "GameMode",
+      "name": "GameMode",
+      "type": "class",
+      "properties": {
+        "module": "Engine",
+        "file": "GameMode.h",
+        "description": "GameMode is a subclass of GameModeBase that behaves like a multiplayer match-based game"
+      }
+    },
+    {
+      "id": "GameModeBase",
+      "name": "GameModeBase",
+      "type": "class"
+    },
+    {
+      "id": "Guid",
+      "name": "Guid",
+      "type": "struct"
+    },
+    {
+      "id": "Pawn",
+      "name": "Pawn",
+      "type": "class"
+    },
+    {
+      "id": "AISense_Sight",
+      "name": "AISense_Sight",
+      "type": "class",
+      "properties": {
+        "module": "AIModule",
+        "file": "AISense_Sight.h",
+        "description": "AISense Sight"
+      }
+    },
+    {
+      "id": "AISense",
+      "name": "AISense",
+      "type": "class"
+    },
+    {
+      "id": "AISenseNotifyType",
+      "name": "AISenseNotifyType",
+      "type": "enum"
+    },
+    {
+      "id": "ShapedTextOptions",
+      "name": "ShapedTextOptions",
+      "type": "class",
+      "properties": {
+        "module": "UMG",
+        "file": "TextWidgetTypes.h",
+        "description": "Common data for all widgets that use shaped text"
+      }
+    },
+    {
+      "id": "TextShapingMethod",
+      "name": "TextShapingMethod",
+      "type": "enum"
+    },
+    {
+      "id": "TextFlowDirection",
+      "name": "TextFlowDirection",
+      "type": "enum"
+    },
+    {
+      "id": "AISense_Hearing",
+      "name": "AISense_Hearing",
+      "type": "class",
+      "properties": {
+        "module": "AIModule",
+        "file": "AISense_Hearing.h",
+        "description": "AISense Hearing"
+      }
+    },
+    {
+      "id": "Vector",
+      "name": "Vector",
+      "type": "struct"
+    },
+    {
+      "id": "Actor",
+      "name": "Actor",
+      "type": "class"
+    },
+    {
+      "id": "property_override_camera_overscan",
+      "name": "override_camera_overscan",
+      "type": "property",
+      "properties": {
+        "data_type": "bool",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_overscan_percentage",
+      "name": "overscan_percentage",
+      "type": "property",
+      "properties": {
+        "data_type": "float",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_render_all_cameras",
+      "name": "render_all_cameras",
+      "type": "property",
+      "properties": {
+        "data_type": "bool",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_shutter_timing",
+      "name": "shutter_timing",
+      "type": "property",
+      "properties": {
+        "data_type": "MoviePipelineShutterTiming",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_asset_user_data",
+      "name": "asset_user_data",
+      "type": "property",
+      "properties": {
+        "data_type": "Array[AssetUserData]",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_config",
+      "name": "config",
+      "type": "property",
+      "properties": {
+        "data_type": "MassEntityConfig",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_entity_atoms",
+      "name": "entity_atoms",
+      "type": "property",
+      "properties": {
+        "data_type": "Array[EntityAtomBase]",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "property_entity_id",
+      "name": "entity_id",
+      "type": "property",
+      "properties": {
+        "data_type": "int64",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "property_data_table",
+      "name": "data_table",
+      "type": "property",
+      "properties": {
+        "data_type": "SoftObjectPath",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_entity_struct",
+      "name": "entity_struct",
+      "type": "property",
+      "properties": {
+        "data_type": "EntityStruct",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_thumbnail_info",
+      "name": "thumbnail_info",
+      "type": "property",
+      "properties": {
+        "data_type": "ThumbnailInfo",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "property_guid",
+      "name": "guid",
+      "type": "property",
+      "properties": {
+        "data_type": "str",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_hit_keys",
+      "name": "hit_keys",
+      "type": "property",
+      "properties": {
+        "data_type": "Set[Name]",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_language",
+      "name": "language",
+      "type": "property",
+      "properties": {
+        "data_type": "str",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_render_area_world_transform",
+      "name": "render_area_world_transform",
+      "type": "property",
+      "properties": {
+        "data_type": "Transform",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_render_area_size",
+      "name": "render_area_size",
+      "type": "property",
+      "properties": {
+        "data_type": "IntPoint",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_combined_result",
+      "name": "combined_result",
+      "type": "property",
+      "properties": {
+        "data_type": "TextureRenderTarget2D",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_layer_type",
+      "name": "layer_type",
+      "type": "property",
+      "properties": {
+        "data_type": "LandscapeToolTargetType",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_weightmap_layer_name",
+      "name": "weightmap_layer_name",
+      "type": "property",
+      "properties": {
+        "data_type": "Name",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_default_pawn_class",
+      "name": "default_pawn_class",
+      "type": "property",
+      "properties": {
+        "data_type": "type(Class)",
+        "access": "read-write"
+      }
+    },
+    {
+      "id": "property_num_players",
+      "name": "num_players",
+      "type": "property",
+      "properties": {
+        "data_type": "int32",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "property_num_bots",
+      "name": "num_bots",
+      "type": "property",
+      "properties": {
+        "data_type": "int32",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "property_num_spectators",
+      "name": "num_spectators",
+      "type": "property",
+      "properties": {
+        "data_type": "int32",
+        "access": "read-only"
+      }
+    },
+    {
+      "id": "method_remove_meta_data_by_class",
+      "name": "remove_meta_data_by_class",
+      "type": "method",
+      "properties": {
+        "return_type": "None",
+        "parameters": ["class_: Class"]
+      }
+    },
+    {
+      "id": "method_find_or_add_meta_data_by_class",
+      "name": "find_or_add_meta_data_by_class",
+      "type": "method",
+      "properties": {
+        "return_type": "Object",
+        "parameters": ["class_: Class"]
+      }
+    },
+    {
+      "id": "method_find_meta_data_by_class",
+      "name": "find_meta_data_by_class",
+      "type": "method",
+      "properties": {
+        "return_type": "Object",
+        "parameters": ["class_: Class"]
+      }
+    },
+    {
+      "id": "method_copy_meta_data",
+      "name": "copy_meta_data",
+      "type": "method",
+      "properties": {
+        "return_type": "Object",
+        "parameters": ["meta_data: Object"]
+      }
+    },
+    {
+      "id": "method_set_polygon",
+      "name": "set_polygon",
+      "type": "method",
+      "properties": {
+        "return_type": "None",
+        "parameters": ["new_polygon: WdpPolygon2D"]
+      }
+    },
+    {
+      "id": "method_get_polygon",
+      "name": "get_polygon",
+      "type": "method",
+      "properties": {
+        "return_type": "WdpPolygon2D",
+        "parameters": []
+      }
+    },
+    {
+      "id": "method_start_match",
+      "name": "start_match",
+      "type": "method",
+      "properties": {
+        "return_type": "None",
+        "parameters": []
+      }
+    },
+    {
+      "id": "method_say",
+      "name": "say",
+      "type": "method",
+      "properties": {
+        "return_type": "None",
+        "parameters": ["msg: str"]
+      }
+    },
+    {
+      "id": "method_restart_game",
+      "name": "restart_game",
+      "type": "method",
+      "properties": {
+        "return_type": "None",
+        "parameters": []
+      }
+    },
+    {
+      "id": "method_ready_to_start_match",
+      "name": "ready_to_start_match",
+      "type": "method",
+      "properties": {
+        "return_type": "bool",
+        "parameters": []
+      }
+    },
+    {
+      "id": "method_ready_to_end_match",
+      "name": "ready_to_end_match",
+      "type": "method",
+      "properties": {
+        "return_type": "bool",
+        "parameters": []
+      }
+    },
+    {
+      "id": "method_get_match_state",
+      "name": "get_match_state",
+      "type": "method",
+      "properties": {
+        "return_type": "Name",
+        "parameters": []
+      }
+    },
+    {
+      "id": "method_end_match",
+      "name": "end_match",
+      "type": "method",
+      "properties": {
+        "return_type": "None",
+        "parameters": []
+      }
+    },
+    {
+      "id": "method_abort_match",
+      "name": "abort_match",
+      "type": "method",
+      "properties": {
+        "return_type": "None",
+        "parameters": []
+      }
+    },
+    {
+      "id": "method_report_noise_event",
+      "name": "report_noise_event",
+      "type": "method",
+      "properties": {
+        "return_type": "None",
+        "parameters": ["world_context_object: Object", "noise_location: Vector", "loudness: float", "instigator: Actor", "max_range: float", "tag: Name"],
+        "is_static": true
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "MockTask_Log",
+      "target": "GameplayTask",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MoviePipelineCameraSetting",
+      "target": "MoviePipelineSetting",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MoviePipelineCameraSetting",
+      "target": "property_override_camera_overscan",
+      "type": "has_property"
+    },
+    {
+      "source": "MoviePipelineCameraSetting",
+      "target": "property_overscan_percentage",
+      "type": "has_property"
+    },
+    {
+      "source": "MoviePipelineCameraSetting",
+      "target": "property_render_all_cameras",
+      "type": "has_property"
+    },
+    {
+      "source": "MoviePipelineCameraSetting",
+      "target": "property_shutter_timing",
+      "type": "has_property"
+    },
+    {
+      "source": "property_shutter_timing",
+      "target": "MoviePipelineShutterTiming",
+      "type": "has_type"
+    },
+    {
+      "source": "AnimGraphNode_TwoBoneIK",
+      "target": "AnimGraphNode_SkeletalControlBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "LevelSequence",
+      "target": "MovieSceneSequence",
+      "type": "inherits_from"
+    },
+    {
+      "source": "LevelSequence",
+      "target": "property_asset_user_data",
+      "type": "has_property"
+    },
+    {
+      "source": "LevelSequence",
+      "target": "method_remove_meta_data_by_class",
+      "type": "has_method"
+    },
+    {
+      "source": "LevelSequence",
+      "target": "method_find_or_add_meta_data_by_class",
+      "type": "has_method"
+    },
+    {
+      "source": "LevelSequence",
+      "target": "method_find_meta_data_by_class",
+      "type": "has_method"
+    },
+    {
+      "source": "LevelSequence",
+      "target": "method_copy_meta_data",
+      "type": "has_method"
+    },
+    {
+      "source": "method_remove_meta_data_by_class",
+      "target": "Class",
+      "type": "accepts_parameter"
+    },
+    {
+      "source": "method_find_or_add_meta_data_by_class",
+      "target": "Class",
+      "type": "accepts_parameter"
+    },
+    {
+      "source": "method_find_meta_data_by_class",
+      "target": "Class",
+      "type": "accepts_parameter"
+    },
+    {
+      "source": "method_find_or_add_meta_data_by_class",
+      "target": "Object",
+      "type": "returns"
+    },
+    {
+      "source": "method_find_meta_data_by_class",
+      "target": "Object",
+      "type": "returns"
+    },
+    {
+      "source": "method_copy_meta_data",
+      "target": "Object",
+      "type": "accepts_parameter"
+    },
+    {
+      "source": "method_copy_meta_data",
+      "target": "Object",
+      "type": "returns"
+    },
+    {
+      "source": "Polygon2DEntity",
+      "target": "WdpStandardEntity",
+      "type": "inherits_from"
+    },
+    {
+      "source": "Polygon2DEntity",
+      "target": "property_entity_atoms",
+      "type": "has_property"
+    },
+    {
+      "source": "Polygon2DEntity",
+      "target": "property_entity_id",
+      "type": "has_property"
+    },
+    {
+      "source": "Polygon2DEntity",
+      "target": "method_set_polygon",
+      "type": "has_method"
+    },
+    {
+      "source": "Polygon2DEntity",
+      "target": "method_get_polygon",
+      "type": "has_method"
+    },
+    {
+      "source": "method_set_polygon",
+      "target": "WdpPolygon2D",
+      "type": "accepts_parameter"
+    },
+    {
+      "source": "method_get_polygon",
+      "target": "WdpPolygon2D",
+      "type": "returns"
+    },
+    {
+      "source": "MassEntityConfigAsset",
+      "target": "DataAsset",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MassEntityConfigAsset",
+      "target": "property_config",
+      "type": "has_property"
+    },
+    {
+      "source": "property_config",
+      "target": "MassEntityConfig",
+      "type": "has_type"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionMul",
+      "target": "RigVMFunction_MathQuaternionBinaryAggregateOp",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimGraphNode_CallFunction",
+      "target": "AnimGraphNode_Base",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesDataAssetInfo",
+      "target": "TableRowBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesDataAssetInfo",
+      "target": "property_data_table",
+      "type": "has_property"
+    },
+    {
+      "source": "AesDataAssetInfo",
+      "target": "property_entity_struct",
+      "type": "has_property"
+    },
+    {
+      "source": "property_data_table",
+      "target": "SoftObjectPath",
+      "type": "has_type"
+    },
+    {
+      "source": "property_entity_struct",
+      "target": "EntityStruct",
+      "type": "has_type"
+    },
+    {
+      "source": "RigUnit_GetItemsInNameSpace",
+      "target": "RigUnit_RigModulesBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthHipRoofPrefab",
+      "target": "EarthRoofPrefab",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BoneGetterSetterMode",
+      "target": "RigVMTransformSpace",
+      "type": "renamed_to"
+    },
+    {
+      "source": "MaterialFunctionInterface",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialFunctionInterface",
+      "target": "property_thumbnail_info",
+      "type": "has_property"
+    },
+    {
+      "source": "EnterEarthEditorParams",
+      "target": "ParamsBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EnterEarthEditorParams",
+      "target": "property_guid",
+      "type": "has_property"
+    },
+    {
+      "source": "EnterEarthEditorParams",
+      "target": "property_hit_keys",
+      "type": "has_property"
+    },
+    {
+      "source": "EnterEarthEditorParams",
+      "target": "property_language",
+      "type": "has_property"
+    },
+    {
+      "source": "LandscapeBrushParameters",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "LandscapeBrushParameters",
+      "target": "property_render_area_world_transform",
+      "type": "has_property"
+    },
+    {
+      "source": "LandscapeBrushParameters",
+      "target": "property_render_area_size",
+      "type": "has_property"
+    },
+    {
+      "source": "LandscapeBrushParameters",
+      "target": "property_combined_result",
+      "type": "has_property"
+    },
+    {
+      "source": "LandscapeBrushParameters",
+      "target": "property_layer_type",
+      "type": "has_property"
+    },
+    {
+      "source": "LandscapeBrushParameters",
+      "target": "property_weightmap_layer_name",
+      "type": "has_property"
+    },
+    {
+      "source": "property_render_area_world_transform",
+      "target": "Transform",
+      "type": "has_type"
+    },
+    {
+      "source": "property_render_area_size",
+      "target": "IntPoint",
+      "type": "has_type"
+    },
+    {
+      "source": "property_combined_result",
+      "target": "TextureRenderTarget2D",
+      "type": "has_type"
+    },
+    {
+      "source": "property_layer_type",
+      "target": "LandscapeToolTargetType",
+      "type": "has_type"
+    },
+    {
+      "source": "property_weightmap_layer_name",
+      "target": "Name",
+      "type": "has_type"
+    },
+    {
+      "source": "RigUnit_MathBoolBinaryOp",
+      "target": "RigVMFunction_MathBoolBinaryOp",
+      "type": "renamed_to"
+    },
+    {
+      "source": "GameMode",
+      "target": "GameModeBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GameMode",
+      "target": "property_default_pawn_class",
+      "type": "has_property"
+    },
+    {
+      "source": "GameMode",
+      "target": "property_num_players",
+      "type": "has_property"
+    },
+    {
+      "source": "GameMode",
+      "target": "property_num_bots",
+      "type": "has_property"
+    },
+    {
+      "source": "GameMode",
+      "target": "property_num_spectators",
+      "type": "has_property"
+    },
+    {
+      "source": "GameMode",
+      "target": "method_start_match",
+      "type": "has_method"
+    },
+    {
+      "source": "GameMode",
+      "target": "method_say",
+      "type": "has_method"
+    },
+    {
+      "source": "GameMode",
+      "target": "method_restart_game",
+      "type": "has_method"
+    },
+    {
+      "source": "GameMode",
+      "target": "method_ready_to_start_match",
+      "type": "has_method"
+    },
+    {
+      "source": "GameMode",
+      "target": "method_ready_to_end_match",
+      "type": "has_method"
+    },
+    {
+      "source": "GameMode",
+      "target": "method_get_match_state",
+      "type": "has_method"
+    },
+    {
+      "source": "GameMode",
+      "target": "method_end_match",
+      "type": "has_method"
+    },
+    {
+      "source": "GameMode",
+      "target": "method_abort_match",
+      "type": "has_method"
+    },
+    {
+      "source": "method_get_match_state",
+      "target": "Name",
+      "type": "returns"
+    },
+    {
+      "source": "AISense_Sight",
+      "target": "AISense",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ShapedTextOptions",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AISense_Hearing",
+      "target": "AISense",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AISense_Hearing",
+      "target": "method_report_noise_event",
+      "type": "has_method"
+    },
+    {
+      "source": "method_report_noise_event",
+      "target": "Object",
+      "type": "accepts_parameter"
+    },
+    {
+      "source": "method_report_noise_event",
+      "target": "Vector",
+      "type": "accepts_parameter"
+    },
+    {
+      "source": "method_report_noise_event",
+      "target": "Actor",
+      "type": "accepts_parameter"
+    },
+    {
+      "source": "method_report_noise_event",
+      "target": "Name",
+      "type": "accepts_parameter"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_level_sequence_metadata",
+      "nodes": ["LevelSequence", "Class", "Object", "method_find_or_add_meta_data_by_class"],
+      "type": "method_signature",
+      "description": "LevelSequence.find_or_add_meta_data_by_class accepts Class parameter and returns Object"
+    },
+    {
+      "id": "he_game_mode_match_management",
+      "nodes": ["GameMode", "method_start_match", "method_end_match", "method_abort_match", "method_get_match_state", "Name"],
+      "type": "api_group",
+      "description": "GameMode provides match lifecycle management methods"
+    },
+    {
+      "id": "he_ai_hearing_noise_reporting",
+      "nodes": ["AISense_Hearing", "method_report_noise_event", "Vector", "Actor", "Object"],
+      "type": "static_method",
+      "description": "AISense_Hearing provides static method to report noise events with location and instigator"
+    },
+    {
+      "id": "he_landscape_brush_parameters",
+      "nodes": ["LandscapeBrushParameters", "Transform", "IntPoint", "TextureRenderTarget2D", "LandscapeToolTargetType", "Name"],
+      "type": "struct_composition",
+      "description": "LandscapeBrushParameters aggregates multiple types for brush rendering configuration"
+    },
+    {
+      "id": "he_deprecated_types",
+      "nodes": ["BoneGetterSetterMode", "RigUnit_MathBoolBinaryOp", "RigVMTransformSpace", "RigVMFunction_MathBoolBinaryOp"],
+      "type": "deprecation_chain",
+      "description": "Multiple types have been renamed to newer versions"
+    },
+    {
+      "id": "he_ai_senses",
+      "nodes": ["AISense_Sight", "AISense_Hearing", "AISense", "AISenseNotifyType"],
+      "type": "inheritance_hierarchy",
+      "description": "AI sense types inherit from base AISense class"
+    },
+    {
+      "id": "he_material_function_reuse",
+      "nodes": ["MaterialFunctionInterface", "ThumbnailInfo", "Object"],
+      "type": "interface_definition",
+      "description": "MaterialFunctionInterface defines reusable material expressions with thumbnail support"
+    },
+    {
+      "id": "he_gameplay_task_system",
+      "nodes": ["MockTask_Log", "GameplayTask"],
+      "type": "task_hierarchy",
+      "description": "MockTask_Log is a test implementation of gameplay task system"
+    },
+    {
+      "id": "he_rigvm_math_operations",
+      "nodes": ["RigVMFunction_MathQuaternionMul", "RigVMFunction_MathQuaternionBinaryAggregateOp", "Quat"],
+      "type": "math_operation",
+      "description": "RigVM quaternion multiplication operation for rig calculations"
+    },
+    {
+      "id": "he_level_sequence_userdata",
+      "nodes": ["LevelSequence", "property_asset_user_data", "AssetUserData"],
+      "type": "property_ownership",
+      "description": "LevelSequence stores user data through AssetUserData array"
+    }
+  ]
+}

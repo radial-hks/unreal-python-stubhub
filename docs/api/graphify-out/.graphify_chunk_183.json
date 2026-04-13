@@ -1,0 +1,777 @@
+{
+  "nodes": [
+    {
+      "id": "camerarigparameteroverrides_camerarigparameteroverrides",
+      "label": "CameraRigParameterOverrides",
+      "file_type": "document",
+      "source_file": "CameraRigParameterOverrides Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "localspacepose_localspacepose",
+      "label": "LocalSpacePose",
+      "file_type": "document",
+      "source_file": "LocalSpacePose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_root_animnode_root",
+      "label": "AnimNode_Root",
+      "file_type": "document",
+      "source_file": "AnimNode_Root Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "externaldatalayeruid_externaldatalayeruid",
+      "label": "ExternalDataLayerUID",
+      "file_type": "document",
+      "source_file": "ExternalDataLayerUID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontrolrotator_rigunit_getcontrolrotator",
+      "label": "RigUnit_GetControlRotator",
+      "file_type": "document",
+      "source_file": "RigUnit__GetControlRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshutilitieslibrary_skeletalmeshutilitieslibrary",
+      "label": "SkeletalMeshUtilitiesLibrary",
+      "file_type": "document",
+      "source_file": "SkeletalMeshUtilitiesLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstartactionparams_wdpstartactionparams",
+      "label": "WdpStartActionParams",
+      "file_type": "document",
+      "source_file": "WdpStartActionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgetcameraposeresult_wdpgetcameraposeresult",
+      "label": "WDPGetCameraPoseResult",
+      "file_type": "document",
+      "source_file": "WDPGetCameraPoseResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primaryassetlabel_primaryassetlabel",
+      "label": "PrimaryAssetLabel",
+      "file_type": "document",
+      "source_file": "PrimaryAssetLabel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmul_rigvmfunction_mathfloatmul",
+      "label": "RigVMFunction_MathFloatMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathFloatMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourcebussendlevelcontrolmethod_sourcebussendlevelcontrolmethod",
+      "label": "SourceBusSendLevelControlMethod",
+      "file_type": "document",
+      "source_file": "SourceBusSendLevelControlMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massspawnedentitytype_massspawnedentitytype",
+      "label": "MassSpawnedEntityType",
+      "file_type": "document",
+      "source_file": "MassSpawnedEntityType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_mirror_standalone_animnode_mirror_standalone",
+      "label": "AnimNode_Mirror_Standalone",
+      "file_type": "document",
+      "source_file": "AnimNode_Mirror_Standalone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene3dtransformtrackrecorder_moviescene3dtransformtrackrecorder",
+      "label": "MovieScene3DTransformTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieScene3DTransformTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturecollection_texturecollection",
+      "label": "TextureCollection",
+      "file_type": "document",
+      "source_file": "TextureCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_applyrootmotionmovetoactorforce_abilitytask_applyrootmotionmovetoactorforce",
+      "label": "AbilityTask_ApplyRootMotionMoveToActorForce",
+      "file_type": "document",
+      "source_file": "AbilityTask__ApplyRootMotionMoveToActorForce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basic2dtrianglesetcomponent_basic2dtrianglesetcomponent",
+      "label": "Basic2DTriangleSetComponent",
+      "file_type": "document",
+      "source_file": "Basic2DTriangleSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "label": "AesInstanceSplineAssetTagData",
+      "file_type": "document",
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "alphatransformpass_alphatransformpass",
+      "label": "AlphaTransformPass",
+      "file_type": "document",
+      "source_file": "AlphaTransformPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreetransition2_statetreetransition2",
+      "label": "StateTreeTransition2",
+      "file_type": "document",
+      "source_file": "StateTreeTransition2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setintanimationchannel_rigunit_setintanimationchannel",
+      "label": "RigUnit_SetIntAnimationChannel",
+      "file_type": "document",
+      "source_file": "RigUnit__SetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_kalmantransform_rigunit_kalmantransform",
+      "label": "RigUnit_KalmanTransform",
+      "file_type": "document",
+      "source_file": "RigUnit__KalmanTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "localspacepose_localspacepose",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LocalSpacePose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_root_animnode_root",
+      "target": "animnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_Root Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "externaldatalayeruid_externaldatalayeruid",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ExternalDataLayerUID Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolrotator_rigunit_getcontrolrotator",
+      "target": "rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshutilitieslibrary_skeletalmeshutilitieslibrary",
+      "target": "editorskeletalmeshlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshUtilitiesLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpstartactionparams_wdpstartactionparams",
+      "target": "paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpStartActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgetcameraposeresult_wdpgetcameraposeresult",
+      "target": "resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPGetCameraPoseResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primaryassetlabel_primaryassetlabel",
+      "target": "primarydataasset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PrimaryAssetLabel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatmul_rigvmfunction_mathfloatmul",
+      "target": "rigvmfunction_mathfloatbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourcebussendlevelcontrolmethod_sourcebussendlevelcontrolmethod",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceBusSendLevelControlMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massspawnedentitytype_massspawnedentitytype",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassSpawnedEntityType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_mirror_standalone_animnode_mirror_standalone",
+      "target": "animnode_mirrorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_Mirror_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene3dtransformtrackrecorder_moviescene3dtransformtrackrecorder",
+      "target": "moviescenetrackrecorder",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScene3DTransformTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturecollection_texturecollection",
+      "target": "dataasset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_applyrootmotionmovetoactorforce_abilitytask_applyrootmotionmovetoactorforce",
+      "target": "abilitytask_applyrootmotion_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__ApplyRootMotionMoveToActorForce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "basic2dtrianglesetcomponent_basic2dtrianglesetcomponent",
+      "target": "basictrianglesetcomponentbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Basic2DTriangleSetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "alphatransformpass_alphatransformpass",
+      "target": "compositingelementtransform",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AlphaTransformPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreetransition2_statetreetransition2",
+      "target": "statetreetransition",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeTransition2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setintanimationchannel_rigunit_setintanimationchannel",
+      "target": "rigunit_setanimationchannelbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_kalmantransform_rigunit_kalmantransform",
+      "target": "rigvmfunction_kalmantransform",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__KalmanTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "localspacepose_localspacepose",
+      "target": "transform",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LocalSpacePose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_root_animnode_root",
+      "target": "poselink",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_Root Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolrotator_rigunit_getcontrolrotator",
+      "target": "rotator",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__GetControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolrotator_rigunit_getcontrolrotator",
+      "target": "rigvmtransformspace",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__GetControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpstartactionparams_wdpstartactionparams",
+      "target": "wdpjsonobjectwrapper",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpStartActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgetcameraposeresult_wdpgetcameraposeresult",
+      "target": "vector",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WDPGetCameraPoseResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgetcameraposeresult_wdpgetcameraposeresult",
+      "target": "camerapresetrotator",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WDPGetCameraPoseResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgetcameraposeresult_wdpgetcameraposeresult",
+      "target": "wdpscenechangeinfo",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WDPGetCameraPoseResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primaryassetlabel_primaryassetlabel",
+      "target": "collectionreference",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PrimaryAssetLabel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primaryassetlabel_primaryassetlabel",
+      "target": "primaryassetrules",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PrimaryAssetLabel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massspawnedentitytype_massspawnedentitytype",
+      "target": "massentityconfigasset",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MassSpawnedEntityType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_mirror_standalone_animnode_mirror_standalone",
+      "target": "mirrordatatable",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_Mirror_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_mirror_standalone_animnode_mirror_standalone",
+      "target": "poselink",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_Mirror_Standalone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturecollection_texturecollection",
+      "target": "texture",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TextureCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_applyrootmotionmovetoactorforce_abilitytask_applyrootmotionmovetoactorforce",
+      "target": "applyrootmotionmovetoactorforcedelegate",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AbilityTask__ApplyRootMotionMoveToActorForce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "splinealignmenttype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "aessplinesizecontroltype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "aesmeshdata",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "splinemeshaxis",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "splinedeformtype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "splinepointtype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "splineresampletype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesinstancesplineassettagdata_aesinstancesplineassettagdata",
+      "target": "splineplacementtype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesInstanceSplineAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setintanimationchannel_rigunit_setintanimationchannel",
+      "target": "controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetIntAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshutilitieslibrary_skeletalmeshutilitieslibrary",
+      "target": "statetreetransition2_statetreetransition2",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SkeletalMeshUtilitiesLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_root_animnode_root",
+      "target": "animnode_mirror_standalone_animnode_mirror_standalone",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode_Root Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolrotator_rigunit_getcontrolrotator",
+      "target": "rigunit_setintanimationchannel_rigunit_setintanimationchannel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "RigUnit__GetControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "localspacepose_localspacepose",
+      "target": "animnode_root_animnode_root",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LocalSpacePose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerarigparameteroverrides_camerarigparameteroverrides",
+      "target": "wdpgetcameraposeresult_wdpgetcameraposeresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "CameraRigParameterOverrides Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_node_system",
+      "label": "Animation Node System",
+      "nodes": [
+        "animnode_root_animnode_root",
+        "animnode_mirror_standalone_animnode_mirror_standalone",
+        "localspacepose_localspacepose"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode_Root Objects.md"
+    },
+    {
+      "id": "controlrig_control_access",
+      "label": "ControlRig Control Access",
+      "nodes": [
+        "rigunit_getcontrolrotator_rigunit_getcontrolrotator",
+        "rigunit_setintanimationchannel_rigunit_setintanimationchannel"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "RigUnit__GetControlRotator Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

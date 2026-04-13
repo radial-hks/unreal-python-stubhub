@@ -1,0 +1,584 @@
+{
+  "nodes": [
+    {
+      "id": "aesassettransformcontroltype_aesassettransformcontroltype",
+      "label": "AesAssetTransformControlType",
+      "file_type": "code",
+      "source_file": "AesAssetTransformControlType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectstackingtype_gameplayeffectstackingtype",
+      "label": "GameplayEffectStackingType",
+      "file_type": "code",
+      "source_file": "GameplayEffectStackingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesflowmapeditorcommand_direction_aesflowmapeditorcommand_direction",
+      "label": "AesFlowMapEditorCommand_Direction",
+      "file_type": "code",
+      "source_file": "AesFlowMapEditorCommand__Direction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderpanel_takerecorderpanel",
+      "label": "TakeRecorderPanel",
+      "file_type": "code",
+      "source_file": "TakeRecorderPanel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpnoderenderatom_dcpnoderenderatom",
+      "label": "DCPNodeRenderAtom",
+      "file_type": "code",
+      "source_file": "DCPNodeRenderAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "solveriterations_solveriterations",
+      "label": "SolverIterations",
+      "file_type": "code",
+      "source_file": "SolverIterations Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animinterpolationtype_animinterpolationtype",
+      "label": "AnimInterpolationType",
+      "file_type": "code",
+      "source_file": "AnimInterpolationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationcurveidentifier_animationcurveidentifier",
+      "label": "AnimationCurveIdentifier",
+      "file_type": "code",
+      "source_file": "AnimationCurveIdentifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "planeconstraintaxissetting_planeconstraintaxissetting",
+      "label": "PlaneConstraintAxisSetting",
+      "file_type": "code",
+      "source_file": "PlaneConstraintAxisSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublenotequals_rigvmfunction_mathdoublenotequals",
+      "label": "RigVMFunction_MathDoubleNotEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperflipbook_paperflipbook",
+      "label": "PaperFlipbook",
+      "file_type": "code",
+      "source_file": "PaperFlipbook Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestileslayersresult_aestileslayersresult",
+      "label": "AesTilesLayersResult",
+      "file_type": "code",
+      "source_file": "AesTilesLayersResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_twoboneikfk_rigunit_twoboneikfk",
+      "label": "RigUnit_TwoBoneIKFK",
+      "file_type": "code",
+      "source_file": "RigUnit_TwoBoneIKFK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "syncoption_syncoption",
+      "label": "SyncOption",
+      "file_type": "code",
+      "source_file": "SyncOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtransactionmgr_earthtransactionmgr",
+      "label": "EarthTransactionMgr",
+      "file_type": "code",
+      "source_file": "EarthTransactionMgr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubletoint_rigunit_mathdoubletoint",
+      "label": "RigUnit_MathDoubleToInt",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleToInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialeditorassetnamesresult_dcpmaterialeditorassetnamesresult",
+      "label": "DCPMaterialEditorAssetNamesResult",
+      "file_type": "code",
+      "source_file": "DCPMaterialEditorAssetNamesResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "windowtitlebarmode_windowtitlebarmode",
+      "label": "WindowTitleBarMode",
+      "file_type": "code",
+      "source_file": "WindowTitleBarMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animevalrichcurve_rigvmfunction_animevalrichcurve",
+      "label": "RigVMFunction_AnimEvalRichCurve",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcamerastartentity_wdpcamerastartentity",
+      "label": "WdpCameraStartEntity",
+      "file_type": "code",
+      "source_file": "WdpCameraStartEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesrastereditorcommand_flatten_aesrastereditorcommand_flatten",
+      "label": "AesRasterEditorCommand_Flatten",
+      "file_type": "code",
+      "source_file": "AesRasterEditorCommand__Flatten Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformmirrortransform_rigunit_mathtransformmirrortransform",
+      "label": "RigUnit_MathTransformMirrorTransform",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformMirrorTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequence_levelsequence",
+      "label": "LevelSequence",
+      "file_type": "code",
+      "source_file": "TakeRecorderPanel Objects.md",
+      "source_location": "43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takepreset_takepreset",
+      "label": "TakePreset",
+      "file_type": "code",
+      "source_file": "TakeRecorderPanel Objects.md",
+      "source_location": "72",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papersprite_papersprite",
+      "label": "PaperSprite",
+      "file_type": "code",
+      "source_file": "PaperFlipbook Objects.md",
+      "source_location": "92",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase_entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "code",
+      "source_file": "DCPNodeRenderAtom Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uniqueentitybase_uniqueentitybase",
+      "label": "UniqueEntityBase",
+      "file_type": "code",
+      "source_file": "WdpCameraStartEntity Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_resultbase",
+      "label": "ResultBase",
+      "file_type": "code",
+      "source_file": "AesTilesLayersResult Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommand_aeseditorsimplecommand",
+      "label": "AesEditorSimpleCommand",
+      "file_type": "code",
+      "source_file": "AesFlowMapEditorCommand__Direction Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebase_rigvmfunction_mathdoublebase",
+      "label": "RigVMFunction_MathDoubleBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleNotEquals Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_TwoBoneIKFK Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubletoint_rigvmfunction_mathdoubletoint",
+      "label": "RigVMFunction_MathDoubleToInt",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleToInt Objects.md",
+      "source_location": "7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformmirrortransform_rigvmfunction_mathtransformmirrortransform",
+      "label": "RigVMFunction_MathTransformMirrorTransform",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformMirrorTransform Objects.md",
+      "source_location": "8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommand_flatten_aesterraineditorcommand_flatten",
+      "label": "AesTerrainEditorCommand_Flatten",
+      "file_type": "code",
+      "source_file": "AesRasterEditorCommand__Flatten Objects.md",
+      "source_location": "7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "aesflowmapeditorcommand_direction_aesflowmapeditorcommand_direction",
+      "target": "aeseditorsimplecommand_aeseditorsimplecommand",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFlowMapEditorCommand__Direction Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpnoderenderatom_dcpnoderenderatom",
+      "target": "entityatombase_entityatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPNodeRenderAtom Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcamerastartentity_wdpcamerastartentity",
+      "target": "uniqueentitybase_uniqueentitybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpCameraStartEntity Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "aestileslayersresult_aestileslayersresult",
+      "target": "resultbase_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesLayersResult Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmaterialeditorassetnamesresult_dcpmaterialeditorassetnamesresult",
+      "target": "resultbase_resultbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPMaterialEditorAssetNamesResult Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublenotequals_rigvmfunction_mathdoublenotequals",
+      "target": "rigvmfunction_mathdoublebase_rigvmfunction_mathdoublebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleNotEquals Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twoboneikfk_rigunit_twoboneikfk",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_TwoBoneIKFK Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubletoint_rigunit_mathdoubletoint",
+      "target": "rigvmfunction_mathdoubletoint_rigvmfunction_mathdoubletoint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleToInt Objects.md",
+      "source_location": "7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformmirrortransform_rigunit_mathtransformmirrortransform",
+      "target": "rigvmfunction_mathtransformmirrortransform_rigvmfunction_mathtransformmirrortransform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformMirrorTransform Objects.md",
+      "source_location": "8",
+      "weight": 1.0
+    },
+    {
+      "source": "aesrastereditorcommand_flatten_aesrastereditorcommand_flatten",
+      "target": "aesterraineditorcommand_flatten_aesterraineditorcommand_flatten",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesRasterEditorCommand__Flatten Objects.md",
+      "source_location": "7",
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderpanel_takerecorderpanel",
+      "target": "levelsequence_levelsequence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderPanel Objects.md",
+      "source_location": "43",
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderpanel_takerecorderpanel",
+      "target": "takepreset_takepreset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderPanel Objects.md",
+      "source_location": "72",
+      "weight": 1.0
+    },
+    {
+      "source": "paperflipbook_paperflipbook",
+      "target": "papersprite_papersprite",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperFlipbook Objects.md",
+      "source_location": "92",
+      "weight": 1.0
+    },
+    {
+      "source": "solveriterations_solveriterations",
+      "target": "animinterpolationtype_animinterpolationtype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SolverIterations Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_animevalrichcurve_rigvmfunction_animevalrichcurve",
+      "target": "animationcurveidentifier_animationcurveidentifier",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twoboneikfk_rigunit_twoboneikfk",
+      "target": "solveriterations_solveriterations",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit_TwoBoneIKFK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_renames",
+      "label": "Deprecated RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_mathdoubletoint_rigunit_mathdoubletoint",
+        "rigunit_mathtransformmirrortransform_rigunit_mathtransformmirrortransform",
+        "rigvmfunction_mathdoubletoint_rigvmfunction_mathdoubletoint",
+        "rigvmfunction_mathtransformmirrortransform_rigvmfunction_mathtransformmirrortransform"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleToInt Objects.md"
+    },
+    {
+      "id": "aes_world_plugin_entities",
+      "label": "AesWorld Plugin Entities",
+      "nodes": [
+        "aesassettransformcontroltype_aesassettransformcontroltype",
+        "aesflowmapeditorcommand_direction_aesflowmapeditorcommand_direction",
+        "earthtransactionmgr_earthtransactionmgr"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesAssetTransformControlType Objects.md"
+    },
+    {
+      "id": "result_base_implementations",
+      "label": "ResultBase Implementations with Scene Change Tracking",
+      "nodes": [
+        "aestileslayersresult_aestileslayersresult",
+        "dcpmaterialeditorassetnamesresult_dcpmaterialeditorassetnamesresult",
+        "resultbase_resultbase"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesLayersResult Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

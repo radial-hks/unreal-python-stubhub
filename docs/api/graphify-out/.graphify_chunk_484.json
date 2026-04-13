@@ -1,0 +1,537 @@
+{
+  "nodes": [
+    {
+      "id": "projectinstanceatom_projectinstanceatom",
+      "label": "ProjectInstanceAtom",
+      "file_type": "code",
+      "source_file": "ProjectInstanceAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpnodeselection_wdpnodeselection",
+      "label": "WdpNodeSelection",
+      "file_type": "code",
+      "source_file": "WdpNodeSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_proxysettings_rigunit_hierarchyaddcontrol_proxysettings",
+      "label": "RigUnit_HierarchyAddControl_ProxySettings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControl__ProxySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "namedcolor_namedcolor",
+      "label": "NamedColor",
+      "file_type": "code",
+      "source_file": "NamedColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptconvexhullapproximationoptions_geometryscriptconvexhullapproximationoptions",
+      "label": "GeometryScriptConvexHullApproximationOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptConvexHullApproximationOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtabbutton_earthtabbutton",
+      "label": "EarthTabButton",
+      "file_type": "code",
+      "source_file": "EarthTabButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createrealtimevideoparams_createrealtimevideoparams",
+      "label": "CreateRealTimeVideoParams",
+      "file_type": "code",
+      "source_file": "CreateRealTimeVideoParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_assetutils_geometryscript_assetutils",
+      "label": "GeometryScript_AssetUtils",
+      "file_type": "code",
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectiongetparentindices_rigunit_collectiongetparentindices",
+      "label": "RigUnit_CollectionGetParentIndices",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionGetParentIndices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialmeterstyle_audiomaterialmeterstyle",
+      "label": "AudioMaterialMeterStyle",
+      "file_type": "code",
+      "source_file": "AudioMaterialMeterStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayersceneobject_animlayersceneobject",
+      "label": "AnimLayerSceneObject",
+      "file_type": "code",
+      "source_file": "AnimLayerSceneObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionburn_materialexpressionburn",
+      "label": "MaterialExpressionBurn",
+      "file_type": "code",
+      "source_file": "MaterialExpressionBurn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jsonstringifyoptions_jsonstringifyoptions",
+      "label": "JsonStringifyOptions",
+      "file_type": "code",
+      "source_file": "JsonStringifyOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummetadatetruetype_cesiummetadatetruetype",
+      "label": "CesiumMetadataTrueType",
+      "file_type": "code",
+      "source_file": "CesiumMetadataTrueType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustermediaoutputsynchronizationpolicy_displayclustermediaoutputsynchronizationpolicy",
+      "label": "DisplayClusterMediaOutputSynchronizationPolicy",
+      "file_type": "code",
+      "source_file": "DisplayClusterMediaOutputSynchronizationPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatsign_rigunit_mathfloatsign",
+      "label": "RigUnit_MathFloatSign",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_fbikbonesettings_ikrig_fbikbonesettings",
+      "label": "IKRig_FBIKBoneSettings",
+      "file_type": "code",
+      "source_file": "IKRig__FBIKBoneSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponentdeactivatesignature_actorcomponentdeactivatesignature",
+      "label": "ActorComponentDeactivateSignature",
+      "file_type": "code",
+      "source_file": "ActorComponentDeactivateSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polyongroupid_polyongroupid",
+      "label": "PolygonGroupID",
+      "file_type": "code",
+      "source_file": "PolygonGroupID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgstringmatchingoperator_pcgstringmatchingoperator",
+      "label": "PCGStringMatchingOperator",
+      "file_type": "code",
+      "source_file": "PCGStringMatchingOperator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionramp4_materialexpressionramp4",
+      "label": "MaterialExpressionRamp4",
+      "file_type": "code",
+      "source_file": "MaterialExpressionRamp4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgactorselection_pcgactorselection",
+      "label": "PCGActorSelection",
+      "file_type": "code",
+      "source_file": "PCGActorSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_assetutils_get_section_material_list_from_static_mesh",
+      "label": "get_section_material_list_from_static_mesh",
+      "file_type": "code",
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_assetutils_copy_mesh_to_static_mesh",
+      "label": "copy_mesh_to_static_mesh",
+      "file_type": "code",
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_assetutils_copy_mesh_from_static_mesh_v2",
+      "label": "copy_mesh_from_static_mesh_v2",
+      "file_type": "code",
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_assetutils_copy_mesh_to_skeletal_mesh",
+      "label": "copy_mesh_to_skeletal_mesh",
+      "file_type": "code",
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_assetutils_copy_mesh_from_skeletal_mesh",
+      "label": "copy_mesh_from_skeletal_mesh",
+      "file_type": "code",
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_fbikbonesettings_preferred_angles",
+      "label": "preferred_angles property",
+      "file_type": "code",
+      "source_file": "IKRig__FBIKBoneSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_fbikbonesettings_stiffness_settings",
+      "label": "stiffness settings",
+      "file_type": "code",
+      "source_file": "IKRig__FBIKBoneSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "wdpnodeselection_wdpnodeselection",
+      "target": "projectinstanceatom_projectinstanceatom",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpNodeSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtabbutton_earthtabbutton",
+      "target": "materialexpressionburn_materialexpressionburn",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthTabButton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtabbutton_earthtabbutton",
+      "target": "materialexpressionramp4_materialexpressionramp4",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthTabButton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_assetutils_get_section_material_list_from_static_mesh",
+      "target": "geometryscript_assetutils_copy_mesh_to_static_mesh",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_assetutils_copy_mesh_to_static_mesh",
+      "target": "geometryscript_assetutils_copy_mesh_from_static_mesh_v2",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_assetutils_copy_mesh_to_skeletal_mesh",
+      "target": "geometryscript_assetutils_copy_mesh_from_skeletal_mesh",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__AssetUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_proxysettings_rigunit_hierarchyaddcontrol_proxysettings",
+      "target": "rigunit_collectiongetparentindices_rigunit_collectiongetparentindices",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__HierarchyAddControl__ProxySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_proxysettings_rigunit_hierarchyaddcontrol_proxysettings",
+      "target": "rigunit_mathfloatsign_rigunit_mathfloatsign",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__HierarchyAddControl__ProxySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectiongetparentindices_rigunit_collectiongetparentindices",
+      "target": "ikrig_fbikbonesettings_ikrig_fbikbonesettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_CollectionGetParentIndices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_fbikbonesettings_preferred_angles",
+      "target": "ikrig_fbikbonesettings_stiffness_settings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "IKRig__FBIKBoneSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialmeterstyle_audiomaterialmeterstyle",
+      "target": "namedcolor_namedcolor",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AudioMaterialMeterStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "polyongroupid_polyongroupid",
+      "target": "geometryscript_assetutils_copy_mesh_to_static_mesh",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PolygonGroupID Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptconvexhullapproximationoptions_geometryscriptconvexhullapproximationoptions",
+      "target": "geometryscript_assetutils_geometryscript_assetutils",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptConvexHullApproximationOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animlayersceneobject_animlayersceneobject",
+      "target": "rigunit_hierarchyaddcontrol_proxysettings_rigunit_hierarchyaddcontrol_proxysettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimLayerSceneObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgactorselection_pcgactorselection",
+      "target": "wdpnodeselection_wdpnodeselection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGActorSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createrealtimevideoparams_createrealtimevideoparams",
+      "target": "jsonstringifyoptions_jsonstringifyoptions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CreateRealTimeVideoParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated Renamed Classes",
+      "nodes": [
+        "earthtabbutton_earthtabbutton",
+        "materialexpressionburn_materialexpressionburn",
+        "materialexpressionramp4_materialexpressionramp4",
+        "rigunit_mathfloatsign_rigunit_mathfloatsign",
+        "cesiummetadatetruetype_cesiummetadatetruetype"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTabButton Objects.md"
+    },
+    {
+      "id": "rigging_and_animation_system",
+      "label": "Rigging and Animation System",
+      "nodes": [
+        "rigunit_hierarchyaddcontrol_proxysettings_rigunit_hierarchyaddcontrol_proxysettings",
+        "rigunit_collectiongetparentindices_rigunit_collectiongetparentindices",
+        "rigunit_mathfloatsign_rigunit_mathfloatsign",
+        "ikrig_fbikbonesettings_ikrig_fbikbonesettings",
+        "animlayersceneobject_animlayersceneobject"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyAddControl__ProxySettings Objects.md"
+    },
+    {
+      "id": "geometry_scripting_mesh_operations",
+      "label": "Geometry Scripting Mesh Operations",
+      "nodes": [
+        "geometryscriptconvexhullapproximationoptions_geometryscriptconvexhullapproximationoptions",
+        "geometryscript_assetutils_geometryscript_assetutils",
+        "geometryscript_assetutils_get_section_material_list_from_static_mesh",
+        "geometryscript_assetutils_copy_mesh_to_static_mesh",
+        "geometryscript_assetutils_copy_mesh_from_static_mesh_v2",
+        "geometryscript_assetutils_copy_mesh_to_skeletal_mesh",
+        "geometryscript_assetutils_copy_mesh_from_skeletal_mesh",
+        "polyongroupid_polyongroupid"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScript__AssetUtils Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

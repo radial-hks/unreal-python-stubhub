@@ -1,0 +1,540 @@
+{
+  "nodes": [
+    {
+      "id": "interchangepipelinemeshesutilitiescontext_class",
+      "label": "InterchangePipelineMeshesUtilitiesContext",
+      "file_type": "code",
+      "source_file": "InterchangePipelineMeshesUtilitiesContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndicollisionquery_asyncgputraceprovider_enum",
+      "label": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "file_type": "code",
+      "source_file": "NDICollisionQuery__AsyncGpuTraceProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatepostbufferupdateinfo_struct",
+      "label": "SlatePostBufferUpdateInfo",
+      "file_type": "code",
+      "source_file": "SlatePostBufferUpdateInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendlistbybool_class",
+      "label": "AnimNode_BlendListByBool",
+      "file_type": "code",
+      "source_file": "AnimNode__BlendListByBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_transitionposeevaluator_class",
+      "label": "AnimGraphNode_TransitionPoseEvaluator",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__TransitionPoseEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_constantvalue_class",
+      "label": "OptimusNode_ConstantValue",
+      "file_type": "code",
+      "source_file": "OptimusNode__ConstantValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionmatchinginteractionanimnodereference_class",
+      "label": "MotionMatchingInteractionAnimNodeReference",
+      "file_type": "code",
+      "source_file": "MotionMatchingInteractionAnimNodeReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bttasknode_class",
+      "label": "BTTaskNode",
+      "file_type": "code",
+      "source_file": "BTTaskNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiovolume_class",
+      "label": "AudioVolume",
+      "file_type": "code",
+      "source_file": "AudioVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vlogrenderingactor_class",
+      "label": "VLogRenderingActor",
+      "file_type": "code",
+      "source_file": "VLogRenderingActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicalmaterialsoftcollisionmode_enum",
+      "label": "PhysicalMaterialSoftCollisionMode",
+      "file_type": "code",
+      "source_file": "PhysicalMaterialSoftCollisionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothingassetcustomdata_class",
+      "label": "ClothingAssetCustomData",
+      "file_type": "code",
+      "source_file": "ClothingAssetCustomData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "devicetriggerfeedbackdata_struct",
+      "label": "DeviceTriggerFeedbackData",
+      "file_type": "code",
+      "source_file": "DeviceTriggerFeedbackData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotstate_enum",
+      "label": "SmartObjectSlotState",
+      "file_type": "code",
+      "source_file": "SmartObjectSlotState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "leaderboardflushcallbackproxy_class",
+      "label": "LeaderboardFlushCallbackProxy",
+      "file_type": "code",
+      "source_file": "LeaderboardFlushCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resonanceaudiospatializationsourcesettingsfactory_class",
+      "label": "ResonanceAudioSpatializationSourceSettingsFactory",
+      "file_type": "code",
+      "source_file": "ResonanceAudioSpatializationSourceSettingsFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mathrbfinterpolatequatcolor_target_struct",
+      "label": "MathRBFInterpolateQuatColor_Target",
+      "file_type": "code",
+      "source_file": "MathRBFInterpolateQuatColor__Target Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinefilenameresolveparams_struct",
+      "label": "MoviePipelineFilenameResolveParams",
+      "file_type": "code",
+      "source_file": "MoviePipelineFilenameResolveParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathbase_class",
+      "label": "RigUnit_MathBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourcebuschannels_enum",
+      "label": "SourceBusChannels",
+      "file_type": "code",
+      "source_file": "SourceBusChannels Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "boxspherebounds_struct",
+      "label": "BoxSphereBounds",
+      "file_type": "code",
+      "source_file": "BoxSphereBounds Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblend_class",
+      "label": "DMMaterialStageBlend",
+      "file_type": "code",
+      "source_file": "DMMaterialStageBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animnode_blendlistbybool_class",
+      "target": "animnode_blendlistbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__BlendListByBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_transitionposeevaluator_class",
+      "target": "animgraphnode_base_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__TransitionPoseEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_constantvalue_class",
+      "target": "optimusnode_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode__ConstantValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionmatchinginteractionanimnodereference_class",
+      "target": "animnodereference_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionMatchingInteractionAnimNodeReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bttasknode_class",
+      "target": "btnode_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BTTaskNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolume_class",
+      "target": "volume_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vlogrenderingactor_class",
+      "target": "visualloggerrenderingactorbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VLogRenderingActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clothingassetcustomdata_class",
+      "target": "object_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ClothingAssetCustomData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "leaderboardflushcallbackproxy_class",
+      "target": "object_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LeaderboardFlushCallbackProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "resonanceaudiospatializationsourcesettingsfactory_class",
+      "target": "factory_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ResonanceAudioSpatializationSourceSettingsFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathbase_class",
+      "target": "rigvmfunction_mathbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageblend_class",
+      "target": "dmmaterialstagethroughput_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageBlend Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_transitionposeevaluator_class",
+      "target": "animnode_transitionposeevaluator_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__TransitionPoseEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendlistbybool_class",
+      "target": "pose_link",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__BlendListByBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolume_class",
+      "target": "reverbsettings_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolume_class",
+      "target": "interiorsettings_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinefilenameresolveparams_struct",
+      "target": "moviepipelineexecutorjob_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineFilenameResolveParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinefilenameresolveparams_struct",
+      "target": "moviepipelineexecutorshot_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineFilenameResolveParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "devicetriggerfeedbackdata_struct",
+      "target": "curvefloat_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DeviceTriggerFeedbackData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendlistbybool_class",
+      "target": "animgraphnode_transitionposeevaluator_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode__BlendListByBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ndicollisionquery_asyncgputraceprovider_enum",
+      "target": "niagara_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NDICollisionQuery__AsyncGpuTraceProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "physicalmaterialsoftcollisionmode_enum",
+      "target": "physics_material_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PhysicalMaterialSoftCollisionMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolume_class",
+      "target": "resonanceaudiospatializationsourcesettingsfactory_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AudioVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotstate_enum",
+      "target": "bttasknode_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SmartObjectSlotState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "boxspherebounds_struct",
+      "target": "physicalmaterialsoftcollisionmode_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "BoxSphereBounds Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_system_nodes",
+      "label": "Animation System Nodes",
+      "nodes": [
+        "animnode_blendlistbybool_class",
+        "animgraphnode_transitionposeevaluator_class",
+        "motionmatchinginteractionanimnodereference_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode__BlendListByBool Objects.md"
+    },
+    {
+      "id": "audio_system_components",
+      "label": "Audio System Components",
+      "nodes": [
+        "audiovolume_class",
+        "sourcebuschannels_enum",
+        "resonanceaudiospatializationsourcesettingsfactory_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AudioVolume Objects.md"
+    },
+    {
+      "id": "behavior_and_ai_systems",
+      "label": "Behavior and AI Systems",
+      "nodes": [
+        "bttasknode_class",
+        "smartobjectslotstate_enum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BTTaskNode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

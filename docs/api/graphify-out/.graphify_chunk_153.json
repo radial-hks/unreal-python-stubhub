@@ -1,0 +1,940 @@
+{
+  "nodes": [
+    {
+      "id": "widget_getint32_widget_getint32",
+      "label": "Widget GetInt32",
+      "file_type": "code",
+      "source_file": "Widget__GetInt32 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddelement_rigunit_hierarchyaddelement",
+      "label": "RigUnit HierarchyAddElement",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackdetails_curve_hapticfeedbackdetails_curve",
+      "label": "HapticFeedbackDetails Curve",
+      "file_type": "code",
+      "source_file": "HapticFeedbackDetails__Curve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_controlflowbase_rigvmfunction_controlflowbase",
+      "label": "RigVMFunction ControlFlowBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__ControlFlowBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roofshape_roofshape",
+      "label": "RoofShape",
+      "file_type": "code",
+      "source_file": "RoofShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatclamp_rigunit_mathfloatclamp",
+      "label": "RigUnit MathFloatClamp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangelightactorfactory_interchangelightactorfactory",
+      "label": "InterchangeLightActorFactory",
+      "file_type": "code",
+      "source_file": "InterchangeLightActorFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcullpointsoutsideactorboundssettings_pcgcullpointsoutsideactorboundssettings",
+      "label": "PCGCullPointsOutsideActorBoundsSettings",
+      "file_type": "code",
+      "source_file": "PCGCullPointsOutsideActorBoundsSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthbuildingsubasset_earthbuildingsubasset",
+      "label": "EarthBuildingSubAsset",
+      "file_type": "code",
+      "source_file": "EarthBuildingSubAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rcbehaviour_rcbehaviour",
+      "label": "RCBehaviour",
+      "file_type": "code",
+      "source_file": "RCBehaviour Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sparsevolumetextureviewer_sparsevolumetextureviewer",
+      "label": "SparseVolumeTextureViewer",
+      "file_type": "code",
+      "source_file": "SparseVolumeTextureViewer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeswatereditorcommandparams_createwater_aeswatereditorcommandparams_createwater",
+      "label": "AesWaterEditorCommandParams CreateWater",
+      "file_type": "code",
+      "source_file": "AesWaterEditorCommandParams__CreateWater Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpswitchsdklibrary_dcpswitchsdklibrary",
+      "label": "DCPSwitchSDKLibrary",
+      "file_type": "code",
+      "source_file": "DCPSwitchSDKLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxtextureimportdata_fbxtextureimportdata",
+      "label": "FbxTextureImportData",
+      "file_type": "code",
+      "source_file": "FbxTextureImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testsparseclassdatabase_testsparseclassdatabase",
+      "label": "TestSparseClassDataBase",
+      "file_type": "code",
+      "source_file": "TestSparseClassDataBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplayevent_abilitytask_waitgameplayevent",
+      "label": "AbilityTask WaitGameplayEvent",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitGameplayEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "haircardssourcetype_haircardssourcetype",
+      "label": "HairCardsSourceType",
+      "file_type": "code",
+      "source_file": "HairCardsSourceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_chromakeyrendersettings",
+      "label": "DisplayClusterConfigurationICVFX ChromakeyRenderSettings",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "label": "GeometryScript MeshRepair",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraglobalbudgetscaling_niagaraglobalbudgetscaling",
+      "label": "NiagaraGlobalBudgetScaling",
+      "file_type": "code",
+      "source_file": "NiagaraGlobalBudgetScaling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorendplaysignature_actorendplaysignature",
+      "label": "ActorEndPlaySignature",
+      "file_type": "code",
+      "source_file": "ActorEndPlaySignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairinterpolationweight_hairinterpolationweight",
+      "label": "HairInterpolationWeight",
+      "file_type": "code",
+      "source_file": "HairInterpolationWeight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sparsevolumetextureviewer_sparsevolumetextureviewercomponent",
+      "label": "SparseVolumeTextureViewerComponent",
+      "file_type": "code",
+      "source_file": "SparseVolumeTextureViewer Objects.md",
+      "source_location": "127",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddelement_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddElement Objects.md",
+      "source_location": "18,20,40,79",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddelement_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddElement Objects.md",
+      "source_location": "17,27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackdetails_curve_runtimefloatcurve",
+      "label": "RuntimeFloatCurve",
+      "file_type": "code",
+      "source_file": "HapticFeedbackDetails__Curve Objects.md",
+      "source_location": "16,17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcullpointsoutsideactorboundssettings_pcgcullpointsmode",
+      "label": "PCGCullPointsMode",
+      "file_type": "code",
+      "source_file": "PCGCullPointsOutsideActorBoundsSettings Objects.md",
+      "source_location": "30,62",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthbuildingsubasset_earthprefabasset",
+      "label": "EarthPrefabAsset",
+      "file_type": "code",
+      "source_file": "EarthBuildingSubAsset Objects.md",
+      "source_location": "18,31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthbuildingsubasset_earthbuildingsubassettype",
+      "label": "EarthBuildingSubAssetType",
+      "file_type": "code",
+      "source_file": "EarthBuildingSubAsset Objects.md",
+      "source_location": "23,39,49",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplayevent_waitgameplayeventdelegate",
+      "label": "WaitGameplayEventDelegate",
+      "file_type": "code",
+      "source_file": "AbilityTask__WaitGameplayEvent Objects.md",
+      "source_location": "17,25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpswitchsdklibrary_dcpsdkresult",
+      "label": "DCPSDKResult",
+      "file_type": "code",
+      "source_file": "DCPSwitchSDKLibrary Objects.md",
+      "source_location": "21,49,77,106,135,155,175,195,215",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpswitchsdklibrary_assetpicktype",
+      "label": "AssetPickType",
+      "file_type": "code",
+      "source_file": "DCPSwitchSDKLibrary Objects.md",
+      "source_location": "91,109",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxtextureimportdata_softobjectpath",
+      "label": "SoftObjectPath",
+      "file_type": "code",
+      "source_file": "FbxTextureImportData Objects.md",
+      "source_location": "20,80",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxtextureimportdata_materialsearchlocation",
+      "label": "MaterialSearchLocation",
+      "file_type": "code",
+      "source_file": "FbxTextureImportData Objects.md",
+      "source_location": "31,60",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_visibilitylist",
+      "label": "DisplayClusterConfigurationICVFX VisibilityList",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "27,37,145",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationpostrender_override",
+      "label": "DisplayClusterConfigurationPostRender Override",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "25,39,166",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationpostrender_blurpostprocess",
+      "label": "DisplayClusterConfigurationPostRender BlurPostprocess",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "24,42,187",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationpostrender_generatemips",
+      "label": "DisplayClusterConfigurationPostRender GenerateMips",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "23,45,208",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_overlayadvancedrendersettings",
+      "label": "DisplayClusterConfigurationICVFX OverlayAdvancedRenderSettings",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "17,49,229",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_dynamicmesh",
+      "label": "DynamicMesh",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "22,36,47,59,73,83,98,112,121,133,148,156,167,177,189,203,220,233,243,253",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscriptdebug",
+      "label": "GeometryScriptDebug",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "23,33,48,59,73,84,98,109,122,133,147,158,168,178,192,204,222,234,245,254",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscriptweldedgesoptions",
+      "label": "GeometryScriptWeldEdgesOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "23,33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscriptsnapboundariesoptions",
+      "label": "GeometryScriptSnapBoundariesOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "73,84",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscriptresolvetjunctionoptions",
+      "label": "GeometryScriptResolveTJunctionOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "98,109",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscriptdegeneratetriangleoptions",
+      "label": "GeometryScriptDegenerateTriangleOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "122,133",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscriptremovesmallcomponentoptions",
+      "label": "GeometryScriptRemoveSmallComponentOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "167,178",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscriptremovehiddentrianglesoptions",
+      "label": "GeometryScriptRemoveHiddenTrianglesOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "192,204",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshrepair_geometryscriptfillholesoptions",
+      "label": "GeometryScriptFillHolesOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "222,234",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraglobalbudgetscaling_niagaralinearramp",
+      "label": "NiagaraLinearRamp",
+      "file_type": "code",
+      "source_file": "NiagaraGlobalBudgetScaling Objects.md",
+      "source_location": "18,20,22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorendplaysignature_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "ActorEndPlaySignature Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorendplaysignature_endplayreason",
+      "label": "EndPlayReason",
+      "file_type": "code",
+      "source_file": "ActorEndPlaySignature Objects.md",
+      "source_location": "12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_hierarchyaddelement_rigunit_hierarchyaddelement",
+      "target": "rigunit_hierarchyaddelement_rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddElement Objects.md",
+      "source_location": "18,20,40,79",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddelement_rigunit_hierarchyaddelement",
+      "target": "rigunit_hierarchyaddelement_controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddElement Objects.md",
+      "source_location": "17,27",
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackdetails_curve_hapticfeedbackdetails_curve",
+      "target": "hapticfeedbackdetails_curve_runtimefloatcurve",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HapticFeedbackDetails__Curve Objects.md",
+      "source_location": "16,17",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgcullpointsoutsideactorboundssettings_pcgcullpointsoutsideactorboundssettings",
+      "target": "pcgcullpointsoutsideactorboundssettings_pcgcullpointsmode",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGCullPointsOutsideActorBoundsSettings Objects.md",
+      "source_location": "30,62",
+      "weight": 1.0
+    },
+    {
+      "source": "earthbuildingsubasset_earthbuildingsubasset",
+      "target": "earthbuildingsubasset_earthprefabasset",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthBuildingSubAsset Objects.md",
+      "source_location": "18,31",
+      "weight": 1.0
+    },
+    {
+      "source": "earthbuildingsubasset_earthbuildingsubasset",
+      "target": "earthbuildingsubasset_earthbuildingsubassettype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthBuildingSubAsset Objects.md",
+      "source_location": "23,39,49",
+      "weight": 1.0
+    },
+    {
+      "source": "sparsevolumetextureviewer_sparsevolumetextureviewer",
+      "target": "sparsevolumetextureviewer_sparsevolumetextureviewercomponent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SparseVolumeTextureViewer Objects.md",
+      "source_location": "127,149",
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplayevent_abilitytask_waitgameplayevent",
+      "target": "abilitytask_waitgameplayevent_waitgameplayeventdelegate",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayEvent Objects.md",
+      "source_location": "17,25",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpswitchsdklibrary_dcpswitchsdklibrary",
+      "target": "dcpswitchsdklibrary_dcpsdkresult",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPSwitchSDKLibrary Objects.md",
+      "source_location": "21,49,77,106,135,155,175,195,215",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpswitchsdklibrary_dcpswitchsdklibrary",
+      "target": "dcpswitchsdklibrary_assetpicktype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPSwitchSDKLibrary Objects.md",
+      "source_location": "91,109",
+      "weight": 1.0
+    },
+    {
+      "source": "fbxtextureimportdata_fbxtextureimportdata",
+      "target": "fbxtextureimportdata_softobjectpath",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FbxTextureImportData Objects.md",
+      "source_location": "20,80",
+      "weight": 1.0
+    },
+    {
+      "source": "fbxtextureimportdata_fbxtextureimportdata",
+      "target": "fbxtextureimportdata_materialsearchlocation",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FbxTextureImportData Objects.md",
+      "source_location": "31,60",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_chromakeyrendersettings",
+      "target": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_visibilitylist",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "27,37,145",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_chromakeyrendersettings",
+      "target": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationpostrender_override",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "25,39,166",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_chromakeyrendersettings",
+      "target": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationpostrender_blurpostprocess",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "24,42,187",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_chromakeyrendersettings",
+      "target": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationpostrender_generatemips",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "23,45,208",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_chromakeyrendersettings",
+      "target": "displayclusterconfigurationicvfx_chromakeyrendersettings_displayclusterconfigurationicvfx_overlayadvancedrendersettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_ChromakeyRenderSettings Objects.md",
+      "source_location": "17,49,229",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_dynamicmesh",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "22,36,47,59,73,83,98,112,121,133,148,156,167,177,189,203,220,233,243,253",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_geometryscriptdebug",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "23,33,48,59,73,84,98,109,122,133,147,158,168,178,192,204,222,234,245,254",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_geometryscriptweldedgesoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "23,33",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_geometryscriptsnapboundariesoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "73,84",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_geometryscriptresolvetjunctionoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "98,109",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_geometryscriptdegeneratetriangleoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "122,133",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_geometryscriptremovesmallcomponentoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "167,178",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_geometryscriptremovehiddentrianglesoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "192,204",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshrepair_geometryscript_meshrepair",
+      "target": "geometryscript_meshrepair_geometryscriptfillholesoptions",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshRepair Objects.md",
+      "source_location": "222,234",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraglobalbudgetscaling_niagaraglobalbudgetscaling",
+      "target": "niagaraglobalbudgetscaling_niagaralinearramp",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraGlobalBudgetScaling Objects.md",
+      "source_location": "18,20,22",
+      "weight": 1.0
+    },
+    {
+      "source": "actorendplaysignature_actorendplaysignature",
+      "target": "actorendplaysignature_actor",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorEndPlaySignature Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "actorendplaysignature_actorendplaysignature",
+      "target": "actorendplaysignature_endplayreason",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorEndPlaySignature Objects.md",
+      "source_location": "12",
+      "weight": 1.0
+    },
+    {
+      "source": "sparsevolumetextureviewer_sparsevolumetextureviewer",
+      "target": "actorendplaysignature_actorendplaysignature",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SparseVolumeTextureViewer Objects.md",
+      "source_location": "91",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatclamp_rigunit_mathfloatclamp",
+      "target": "rigvmfunction_controlflowbase_rigvmfunction_controlflowbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathFloatClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roofshape_roofshape",
+      "target": "earthbuildingsubasset_earthbuildingsubasset",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RoofShape Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "haircardssourcetype_haircardssourcetype",
+      "target": "hairinterpolationweight_hairinterpolationweight",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "HairCardsSourceType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_vm_control_flow_hierarchy",
+      "label": "RigVM Control Flow and Hierarchy Pattern",
+      "nodes": [
+        "rigvmfunction_controlflowbase_rigvmfunction_controlflowbase",
+        "rigunit_hierarchyaddelement_rigunit_hierarchyaddelement",
+        "rigunit_mathfloatclamp_rigunit_mathfloatclamp"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__ControlFlowBase Objects.md"
+    },
+    {
+      "id": "hair_grooming_system",
+      "label": "Hair Grooming System Components",
+      "nodes": [
+        "haircardssourcetype_haircardssourcetype",
+        "hairinterpolationweight_hairinterpolationweight"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "HairCardsSourceType Objects.md"
+    },
+    {
+      "id": "geometry_repair_workflow",
+      "label": "Geometry Repair Workflow",
+      "nodes": [
+        "geometryscript_meshrepair_geometryscript_meshrepair",
+        "geometryscript_meshrepair_geometryscriptweldedgesoptions",
+        "geometryscript_meshrepair_geometryscriptfillholesoptions",
+        "geometryscript_meshrepair_geometryscriptremovesmallcomponentoptions"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScript_MeshRepair Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

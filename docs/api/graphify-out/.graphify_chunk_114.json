@@ -1,0 +1,946 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_debugtransformarraymutable",
+      "label": "RigUnit DebugTransformArrayMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbasemutable",
+      "label": "RigUnit DebugBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRig ExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitdebugtransformmode",
+      "label": "RigUnit DebugTransformMode",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolinteger",
+      "label": "RigUnit HierarchyAddControlInteger",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolelement",
+      "label": "RigUnit HierarchyAddControlElement",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElement Key",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolinteger_settings",
+      "label": "RigUnit HierarchyAddControlInteger Settings",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbinaryop",
+      "label": "RigVMFunction MathIntBinaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase",
+      "label": "RigVMFunction MathIntBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraemitterscalabilityoverrides",
+      "label": "Niagara Emitter Scalability Overrides",
+      "file_type": "document",
+      "source_file": "NiagaraEmitterScalabilityOverrides Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraemitterscalabilityoverride",
+      "label": "Niagara Emitter Scalability Override",
+      "file_type": "document",
+      "source_file": "NiagaraEmitterScalabilityOverrides Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cachedrigelement",
+      "label": "Cached RigElement",
+      "file_type": "document",
+      "source_file": "CachedRigElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatunaryop",
+      "label": "RigUnit MathFloatUnaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatunaryop",
+      "label": "RigVMFunction MathFloatUnaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "renderinglibrary",
+      "label": "Rendering Library",
+      "file_type": "document",
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary",
+      "label": "Blueprint FunctionLibrary",
+      "file_type": "document",
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertarget2d",
+      "label": "Texture RenderTarget 2D",
+      "file_type": "document",
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertargetvolume",
+      "label": "Texture RenderTarget Volume",
+      "file_type": "document",
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertargetcube",
+      "label": "Texture RenderTarget Cube",
+      "file_type": "document",
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface",
+      "label": "Material Interface",
+      "file_type": "document",
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "path_tracing",
+      "label": "Path Tracing",
+      "file_type": "document",
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_expression_legacyblendmaterialattributes",
+      "label": "MaterialExpression LegacyBlendMaterialAttributes",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLegacyBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_blendmaterialattributes",
+      "label": "MaterialExpression BlendMaterialAttributes",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLegacyBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialattributeblendfunction",
+      "label": "Material Attribute Blend Function",
+      "file_type": "document",
+      "source_file": "MaterialExpressionLegacyBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playmontagecallbackproxy",
+      "label": "Play Montage Callback Proxy",
+      "file_type": "document",
+      "source_file": "PlayMontageCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmontageplaydelegate",
+      "label": "OnMontage Play Delegate",
+      "file_type": "document",
+      "source_file": "PlayMontageCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "montage_events",
+      "label": "Montage Events",
+      "file_type": "document",
+      "source_file": "PlayMontageCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode_datainterface",
+      "label": "OptimusNode DataInterface",
+      "file_type": "document",
+      "source_file": "OptimusNode__DataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnode",
+      "label": "Optimus Node",
+      "file_type": "document",
+      "source_file": "OptimusNode__DataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimuscomputedatainterface",
+      "label": "Optimus Compute DataInterface",
+      "file_type": "document",
+      "source_file": "OptimusNode__DataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnsensingcomponent_hearnoisedelegate",
+      "label": "PawnSensingComponent HearNoise Delegate",
+      "file_type": "document",
+      "source_file": "PawnSensingComponent_HearNoiseDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "Multicast Delegate Base",
+      "file_type": "document",
+      "source_file": "PawnSensingComponent_HearNoiseDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_sensing",
+      "label": "AI Sensing",
+      "file_type": "document",
+      "source_file": "PawnSensingComponent_HearNoiseDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sampledsequencevaluegridoverlaystyle",
+      "label": "Sampled Sequence Value Grid Overlay Style",
+      "file_type": "document",
+      "source_file": "SampledSequenceValueGridOverlayStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatewidgetstyle",
+      "label": "Slate Widget Style",
+      "file_type": "document",
+      "source_file": "SampledSequenceValueGridOverlayStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_widgets",
+      "label": "Audio Widgets",
+      "file_type": "document",
+      "source_file": "SampledSequenceValueGridOverlayStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NiagaraEmitterScalabilityOverrides Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformergraph_plugin",
+      "label": "DeformerGraph Plugin",
+      "file_type": "document",
+      "source_file": "OptimusNode__DataInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aimodule",
+      "label": "AI Module",
+      "file_type": "document",
+      "source_file": "PawnSensingComponent_HearNoiseDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiowidgets_plugin",
+      "label": "AudioWidgets Plugin",
+      "file_type": "document",
+      "source_file": "SampledSequenceValueGridOverlayStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_debugtransformarraymutable",
+      "target": "rigunit_debugbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformarraymutable",
+      "target": "controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformarraymutable",
+      "target": "rigunitdebugtransformmode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformarraymutable",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolinteger",
+      "target": "rigunit_hierarchyaddcontrolelement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolinteger",
+      "target": "rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolinteger",
+      "target": "rigunit_hierarchyaddcontrolinteger_settings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolinteger",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintbinaryop",
+      "target": "rigvmfunction_mathintbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintbinaryop",
+      "target": "rigvm_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraemitterscalabilityoverrides",
+      "target": "niagaraemitterscalabilityoverride",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraEmitterScalabilityOverrides Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraemitterscalabilityoverrides",
+      "target": "niagara_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraEmitterScalabilityOverrides Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cachedrigelement",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CachedRigElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatunaryop",
+      "target": "rigvmfunction_mathfloatunaryop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renderinglibrary",
+      "target": "blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renderinglibrary",
+      "target": "texturerendertarget2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renderinglibrary",
+      "target": "texturerendertargetvolume",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renderinglibrary",
+      "target": "texturerendertargetcube",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renderinglibrary",
+      "target": "materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renderinglibrary",
+      "target": "path_tracing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renderinglibrary",
+      "target": "engine_module",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_expression_legacyblendmaterialattributes",
+      "target": "materialexpression_blendmaterialattributes",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionLegacyBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_expression_legacyblendmaterialattributes",
+      "target": "materialattributeblendfunction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionLegacyBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "material_expression_legacyblendmaterialattributes",
+      "target": "engine_module",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionLegacyBlendMaterialAttributes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playmontagecallbackproxy",
+      "target": "onmontageplaydelegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayMontageCallbackProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playmontagecallbackproxy",
+      "target": "montage_events",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayMontageCallbackProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_datainterface",
+      "target": "optimusnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode__DataInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_datainterface",
+      "target": "optimuscomputedatainterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode__DataInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimusnode_datainterface",
+      "target": "deformergraph_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusNode__DataInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnsensingcomponent_hearnoisedelegate",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnSensingComponent_HearNoiseDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnsensingcomponent_hearnoisedelegate",
+      "target": "ai_sensing",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PawnSensingComponent_HearNoiseDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnsensingcomponent_hearnoisedelegate",
+      "target": "aimodule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnSensingComponent_HearNoiseDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sampledsequencevaluegridoverlaystyle",
+      "target": "slatewidgetstyle",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SampledSequenceValueGridOverlayStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sampledsequencevaluegridoverlaystyle",
+      "target": "audio_widgets",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SampledSequenceValueGridOverlayStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sampledsequencevaluegridoverlaystyle",
+      "target": "audiowidgets_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SampledSequenceValueGridOverlayStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformarraymutable",
+      "target": "rigunit_hierarchyaddcontrolinteger",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintbinaryop",
+      "target": "rigunit_mathfloatunaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturerendertarget2d",
+      "target": "texturerendertargetvolume",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturerendertarget2d",
+      "target": "texturerendertargetcube",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RenderingLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformarraymutable",
+      "target": "cachedrigelement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolinteger",
+      "target": "rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__HierarchyAddControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_system",
+      "label": "ControlRig System",
+      "nodes": [
+        "rigunit_debugtransformarraymutable",
+        "rigunit_hierarchyaddcontrolinteger",
+        "cachedrigelement",
+        "controlrigexecutecontext"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__DebugTransformArrayMutable Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathintbinaryop",
+        "rigvmfunction_mathintbase",
+        "rigunit_mathfloatunaryop",
+        "rigvmfunction_mathfloatunaryop"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathIntBinaryOp Objects.md"
+    },
+    {
+      "id": "render_target_ecosystem",
+      "label": "Render Target Ecosystem",
+      "nodes": [
+        "texturerendertarget2d",
+        "texturerendertargetvolume",
+        "texturerendertargetcube",
+        "renderinglibrary"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RenderingLibrary Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1734 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_MathVectorParallel",
+      "type": "class",
+      "label": "RigUnit_MathVectorParallel",
+      "properties": {
+        "deprecated": true,
+        "description": "deprecated: 'RigUnit_MathVectorParallel' was renamed to 'RigVMFunction_MathVectorParallel'."
+      }
+    },
+    {
+      "id": "TemperatureSeverityType",
+      "type": "enum",
+      "label": "TemperatureSeverityType",
+      "properties": {
+        "description": "A parallel enum to the temperature change severity enum in CoreDelegates"
+      }
+    },
+    {
+      "id": "ModulationRouting",
+      "type": "enum",
+      "label": "ModulationRouting",
+      "properties": {
+        "description": "EModulation Routing"
+      }
+    },
+    {
+      "id": "CesiumPropertyTextureProperty",
+      "type": "class",
+      "label": "CesiumPropertyTextureProperty",
+      "properties": {
+        "description": "brief: A blueprint-accessible wrapper for a property texture property from a glTF. Provides per-pixel access to metadata encoded in a property texture."
+      }
+    },
+    {
+      "id": "SegmentedControlStyle",
+      "type": "class",
+      "label": "SegmentedControlStyle",
+      "properties": {
+        "description": "Represents the appearance of an SSegmentedControl"
+      }
+    },
+    {
+      "id": "LocationAccuracy",
+      "type": "enum",
+      "label": "LocationAccuracy",
+      "properties": {
+        "description": "Enum used to determine what accuracy the Location Services should be run with."
+      }
+    },
+    {
+      "id": "TAPythonMaterialConnection",
+      "type": "class",
+      "label": "TAPythonMaterialConnection",
+      "properties": {
+        "description": "TAPython Material Connection"
+      }
+    },
+    {
+      "id": "UsdUpAxis",
+      "type": "enum",
+      "label": "UsdUpAxis",
+      "properties": {
+        "description": "EUsd Up Axis"
+      }
+    },
+    {
+      "id": "CSVImportType",
+      "type": "enum",
+      "label": "CSVImportType",
+      "properties": {
+        "description": "Enum to indicate what to import CSV as"
+      }
+    },
+    {
+      "id": "MovieSceneParticleTrackRecorder",
+      "type": "class",
+      "label": "MovieSceneParticleTrackRecorder",
+      "properties": {
+        "description": "Movie Scene Particle Track Recorder"
+      }
+    },
+    {
+      "id": "ReturnResultsTerminal",
+      "type": "class",
+      "label": "ReturnResultsTerminal",
+      "properties": {
+        "description": "Terminal field of a graph"
+      }
+    },
+    {
+      "id": "PCGProjectionParams",
+      "type": "class",
+      "label": "PCGProjectionParams",
+      "properties": {
+        "description": "Parameters that control projection behaviour."
+      }
+    },
+    {
+      "id": "AudioCaptureComponent",
+      "type": "class",
+      "label": "AudioCaptureComponent",
+      "properties": {
+        "description": "Audio Capture Component"
+      }
+    },
+    {
+      "id": "EarthLaneInfo",
+      "type": "class",
+      "label": "EarthLaneInfo",
+      "properties": {
+        "description": "定义预制体子资产数据片段的结构体"
+      }
+    },
+    {
+      "id": "GizmoHandleTypes",
+      "type": "enum",
+      "label": "GizmoHandleTypes",
+      "properties": {
+        "description": "EGizmo Handle Types"
+      }
+    },
+    {
+      "id": "DMMaterialPropertyOpacityMask",
+      "type": "class",
+      "label": "DMMaterialPropertyOpacityMask",
+      "properties": {
+        "description": "DMMaterial Property Opacity Mask"
+      }
+    },
+    {
+      "id": "RemoteControlLevelIndependantBinding",
+      "type": "class",
+      "label": "RemoteControlLevelIndependantBinding",
+      "properties": {
+        "description": "Remote Control Level Independant Binding"
+      }
+    },
+    {
+      "id": "RigUnit_RandomVector",
+      "type": "class",
+      "label": "RigUnit_RandomVector",
+      "properties": {
+        "deprecated": true,
+        "description": "deprecated: 'RigUnit_RandomVector' was renamed to 'RigVMFunction_RandomVector'."
+      }
+    },
+    {
+      "id": "EditorValidator_Localization",
+      "type": "class",
+      "label": "EditorValidator_Localization",
+      "properties": {
+        "description": "Validates that localized assets (within the L10N folder) conform to a corresponding source asset of the correct type."
+      }
+    },
+    {
+      "id": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "properties": {
+        "description": "Rig VMFunction Math Double Binary Aggregate Op"
+      }
+    },
+    {
+      "id": "OptimusDeformerExecutionPhase",
+      "type": "enum",
+      "label": "OptimusDeformerExecutionPhase",
+      "properties": {
+        "description": "EOptimus Deformer Execution Phase"
+      }
+    },
+    {
+      "id": "HorizontalBoxSlot",
+      "type": "class",
+      "label": "HorizontalBoxSlot",
+      "properties": {
+        "description": "Horizontal Box Slot"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorParallel",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorParallel"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "SlateWidgetStyle",
+      "type": "class",
+      "label": "SlateWidgetStyle"
+    },
+    {
+      "id": "MovieSceneTrackRecorder",
+      "type": "class",
+      "label": "MovieSceneTrackRecorder"
+    },
+    {
+      "id": "FieldNodeBase",
+      "type": "class",
+      "label": "FieldNodeBase"
+    },
+    {
+      "id": "SynthComponent",
+      "type": "class",
+      "label": "SynthComponent"
+    },
+    {
+      "id": "DMMaterialProperty",
+      "type": "class",
+      "label": "DMMaterialProperty"
+    },
+    {
+      "id": "RemoteControlBinding",
+      "type": "class",
+      "label": "RemoteControlBinding"
+    },
+    {
+      "id": "RigVMFunction_RandomVector",
+      "type": "class",
+      "label": "RigVMFunction_RandomVector"
+    },
+    {
+      "id": "EditorValidatorBase",
+      "type": "class",
+      "label": "EditorValidatorBase"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleBase",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleBase"
+    },
+    {
+      "id": "PanelSlot",
+      "type": "class",
+      "label": "PanelSlot"
+    },
+    {
+      "id": "UNKNOWN",
+      "type": "enum_value",
+      "label": "UNKNOWN",
+      "value": 0
+    },
+    {
+      "id": "GOOD",
+      "type": "enum_value",
+      "label": "GOOD",
+      "value": 1
+    },
+    {
+      "id": "BAD",
+      "type": "enum_value",
+      "label": "BAD",
+      "value": 2
+    },
+    {
+      "id": "SERIOUS",
+      "type": "enum_value",
+      "label": "SERIOUS",
+      "value": 3
+    },
+    {
+      "id": "CRITICAL",
+      "type": "enum_value",
+      "label": "CRITICAL",
+      "value": 4
+    },
+    {
+      "id": "NUM_SEVERITIES",
+      "type": "enum_value",
+      "label": "NUM_SEVERITIES",
+      "value": 5
+    },
+    {
+      "id": "DISABLE",
+      "type": "enum_value",
+      "label": "DISABLE",
+      "value": 0
+    },
+    {
+      "id": "INHERIT",
+      "type": "enum_value",
+      "label": "INHERIT",
+      "value": 1
+    },
+    {
+      "id": "OVERRIDE",
+      "type": "enum_value",
+      "label": "OVERRIDE",
+      "value": 2
+    },
+    {
+      "id": "UNION",
+      "type": "enum_value",
+      "label": "UNION",
+      "value": 3
+    },
+    {
+      "id": "LA_THREE_KILOMETERS",
+      "type": "enum_value",
+      "label": "LA_THREE_KILOMETERS",
+      "value": 0
+    },
+    {
+      "id": "LA_ONE_KILOMETER",
+      "type": "enum_value",
+      "label": "LA_ONE_KILOMETER",
+      "value": 1
+    },
+    {
+      "id": "LA_HUNDRED_METERS",
+      "type": "enum_value",
+      "label": "LA_HUNDRED_METERS",
+      "value": 2
+    },
+    {
+      "id": "LA_TEN_METERS",
+      "type": "enum_value",
+      "label": "LA_TEN_METERS",
+      "value": 3
+    },
+    {
+      "id": "LA_BEST",
+      "type": "enum_value",
+      "label": "LA_BEST",
+      "value": 4
+    },
+    {
+      "id": "LA_NAVIGATION",
+      "type": "enum_value",
+      "label": "LA_NAVIGATION",
+      "value": 5
+    },
+    {
+      "id": "Y_AXIS",
+      "type": "enum_value",
+      "label": "Y_AXIS",
+      "value": 0
+    },
+    {
+      "id": "Z_AXIS",
+      "type": "enum_value",
+      "label": "Z_AXIS",
+      "value": 1
+    },
+    {
+      "id": "ECSV_DATA_TABLE",
+      "type": "enum_value",
+      "label": "ECSV_DATA_TABLE",
+      "value": 0
+    },
+    {
+      "id": "ECSV_CURVE_TABLE",
+      "type": "enum_value",
+      "label": "ECSV_CURVE_TABLE",
+      "value": 1
+    },
+    {
+      "id": "ECSV_CURVE_FLOAT",
+      "type": "enum_value",
+      "label": "ECSV_CURVE_FLOAT",
+      "value": 2
+    },
+    {
+      "id": "ECSV_CURVE_VECTOR",
+      "type": "enum_value",
+      "label": "ECSV_CURVE_VECTOR",
+      "value": 3
+    },
+    {
+      "id": "ECSV_CURVE_LINEAR_COLOR",
+      "type": "enum_value",
+      "label": "ECSV_CURVE_LINEAR_COLOR",
+      "value": 4
+    },
+    {
+      "id": "ALL",
+      "type": "enum_value",
+      "label": "ALL",
+      "value": 0
+    },
+    {
+      "id": "TRANSLATE",
+      "type": "enum_value",
+      "label": "TRANSLATE",
+      "value": 1
+    },
+    {
+      "id": "ROTATE",
+      "type": "enum_value",
+      "label": "ROTATE",
+      "value": 2
+    },
+    {
+      "id": "SCALE",
+      "type": "enum_value",
+      "label": "SCALE",
+      "value": 3
+    },
+    {
+      "id": "AFTER_DEFAULT_DEFORMER",
+      "type": "enum_value",
+      "label": "AFTER_DEFAULT_DEFORMER",
+      "value": 0
+    },
+    {
+      "id": "OVERRIDE_DEFAULT_DEFORMER",
+      "type": "enum_value",
+      "label": "OVERRIDE_DEFAULT_DEFORMER",
+      "value": 1
+    },
+    {
+      "id": "BEFORE_DEFAULT_DEFORMER",
+      "type": "enum_value",
+      "label": "BEFORE_DEFAULT_DEFORMER",
+      "value": 2
+    },
+    {
+      "id": "__init__",
+      "type": "method",
+      "label": "__init__"
+    },
+    {
+      "id": "set_return_results_terminal",
+      "type": "method",
+      "label": "set_return_results_terminal"
+    },
+    {
+      "id": "set_vertical_alignment",
+      "type": "method",
+      "label": "set_vertical_alignment"
+    },
+    {
+      "id": "set_size",
+      "type": "method",
+      "label": "set_size"
+    },
+    {
+      "id": "set_padding",
+      "type": "method",
+      "label": "set_padding"
+    },
+    {
+      "id": "set_horizontal_alignment",
+      "type": "method",
+      "label": "set_horizontal_alignment"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "float",
+      "type": "type",
+      "label": "float"
+    },
+    {
+      "id": "int",
+      "type": "type",
+      "label": "int"
+    },
+    {
+      "id": "str",
+      "type": "type",
+      "label": "str"
+    },
+    {
+      "id": "bool",
+      "type": "type",
+      "label": "bool"
+    },
+    {
+      "id": "CheckBoxStyle",
+      "type": "type",
+      "label": "CheckBoxStyle"
+    },
+    {
+      "id": "SlateBrush",
+      "type": "type",
+      "label": "SlateBrush"
+    },
+    {
+      "id": "Margin",
+      "type": "type",
+      "label": "Margin"
+    },
+    {
+      "id": "EarthRoadLaneType",
+      "type": "type",
+      "label": "EarthRoadLaneType"
+    },
+    {
+      "id": "EarthPlaceDirection",
+      "type": "type",
+      "label": "EarthPlaceDirection"
+    },
+    {
+      "id": "EarthModuleAsset",
+      "type": "type",
+      "label": "EarthModuleAsset"
+    },
+    {
+      "id": "PCGProjectionColorBlendMode",
+      "type": "type",
+      "label": "PCGProjectionColorBlendMode"
+    },
+    {
+      "id": "PCGMetadataFilterMode",
+      "type": "type",
+      "label": "PCGMetadataFilterMode"
+    },
+    {
+      "id": "PCGMetadataOp",
+      "type": "type",
+      "label": "PCGMetadataOp"
+    },
+    {
+      "id": "PCGProjectionTagMergeMode",
+      "type": "type",
+      "label": "PCGProjectionTagMergeMode"
+    },
+    {
+      "id": "SlateChildSize",
+      "type": "type",
+      "label": "SlateChildSize"
+    },
+    {
+      "id": "HorizontalAlignment",
+      "type": "type",
+      "label": "HorizontalAlignment"
+    },
+    {
+      "id": "VerticalAlignment",
+      "type": "type",
+      "label": "VerticalAlignment"
+    }
+  ],
+  "edges": [
+    {
+      "source": "RigUnit_MathVectorParallel",
+      "target": "RigVMFunction_MathVectorParallel",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TemperatureSeverityType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ModulationRouting",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CesiumPropertyTextureProperty",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SegmentedControlStyle",
+      "target": "SlateWidgetStyle",
+      "type": "inherits_from"
+    },
+    {
+      "source": "LocationAccuracy",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TAPythonMaterialConnection",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "UsdUpAxis",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "CSVImportType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieSceneParticleTrackRecorder",
+      "target": "MovieSceneTrackRecorder",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ReturnResultsTerminal",
+      "target": "FieldNodeBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGProjectionParams",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AudioCaptureComponent",
+      "target": "SynthComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthLaneInfo",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GizmoHandleTypes",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialPropertyOpacityMask",
+      "target": "DMMaterialProperty",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RemoteControlLevelIndependantBinding",
+      "target": "RemoteControlBinding",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_RandomVector",
+      "target": "RigVMFunction_RandomVector",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EditorValidator_Localization",
+      "target": "EditorValidatorBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "target": "RigVMFunction_MathDoubleBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "HorizontalBoxSlot",
+      "target": "PanelSlot",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TemperatureSeverityType",
+      "target": "UNKNOWN",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TemperatureSeverityType",
+      "target": "GOOD",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TemperatureSeverityType",
+      "target": "BAD",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TemperatureSeverityType",
+      "target": "SERIOUS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TemperatureSeverityType",
+      "target": "CRITICAL",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TemperatureSeverityType",
+      "target": "NUM_SEVERITIES",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "ModulationRouting",
+      "target": "DISABLE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "ModulationRouting",
+      "target": "INHERIT",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "ModulationRouting",
+      "target": "OVERRIDE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "ModulationRouting",
+      "target": "UNION",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationAccuracy",
+      "target": "LA_THREE_KILOMETERS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationAccuracy",
+      "target": "LA_ONE_KILOMETER",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationAccuracy",
+      "target": "LA_HUNDRED_METERS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationAccuracy",
+      "target": "LA_TEN_METERS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationAccuracy",
+      "target": "LA_BEST",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "LocationAccuracy",
+      "target": "LA_NAVIGATION",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "UsdUpAxis",
+      "target": "Y_AXIS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "UsdUpAxis",
+      "target": "Z_AXIS",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "CSVImportType",
+      "target": "ECSV_DATA_TABLE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "CSVImportType",
+      "target": "ECSV_CURVE_TABLE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "CSVImportType",
+      "target": "ECSV_CURVE_FLOAT",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "CSVImportType",
+      "target": "ECSV_CURVE_VECTOR",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "CSVImportType",
+      "target": "ECSV_CURVE_LINEAR_COLOR",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "GizmoHandleTypes",
+      "target": "ALL",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "GizmoHandleTypes",
+      "target": "TRANSLATE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "GizmoHandleTypes",
+      "target": "ROTATE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "GizmoHandleTypes",
+      "target": "SCALE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "OptimusDeformerExecutionPhase",
+      "target": "AFTER_DEFAULT_DEFORMER",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "OptimusDeformerExecutionPhase",
+      "target": "OVERRIDE_DEFAULT_DEFORMER",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "OptimusDeformerExecutionPhase",
+      "target": "BEFORE_DEFAULT_DEFORMER",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "RigUnit_MathVectorParallel",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "CesiumPropertyTextureProperty",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "SegmentedControlStyle",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "TAPythonMaterialConnection",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "ReturnResultsTerminal",
+      "target": "set_return_results_terminal",
+      "type": "has_method"
+    },
+    {
+      "source": "PCGProjectionParams",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "EarthLaneInfo",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "RigUnit_RandomVector",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "HorizontalBoxSlot",
+      "target": "__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "HorizontalBoxSlot",
+      "target": "set_vertical_alignment",
+      "type": "has_method"
+    },
+    {
+      "source": "HorizontalBoxSlot",
+      "target": "set_size",
+      "type": "has_method"
+    },
+    {
+      "source": "HorizontalBoxSlot",
+      "target": "set_padding",
+      "type": "has_method"
+    },
+    {
+      "source": "HorizontalBoxSlot",
+      "target": "set_horizontal_alignment",
+      "type": "has_method"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "init_RigUnit_MathVectorParallel",
+      "type": "method_signature",
+      "nodes": [
+        "RigUnit_MathVectorParallel",
+        "__init__",
+        "Vector",
+        "bool"
+      ],
+      "properties": {
+        "parameters": [
+          {
+            "name": "a",
+            "type": "Vector",
+            "default": "[0.000000, 0.000000, 0.000000]"
+          },
+          {
+            "name": "b",
+            "type": "Vector",
+            "default": "[0.000000, 0.000000, 0.000000]"
+          },
+          {
+            "name": "result",
+            "type": "bool",
+            "default": "False"
+          }
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "init_RigUnit_RandomVector",
+      "type": "method_signature",
+      "nodes": [
+        "RigUnit_RandomVector",
+        "__init__",
+        "Vector"
+      ],
+      "properties": {
+        "parameters": [
+          {
+            "name": "seed",
+            "type": "int",
+            "default": "0"
+          },
+          {
+            "name": "minimum",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "maximum",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "duration",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "result",
+            "type": "Vector",
+            "default": "[0.000000, 0.000000, 0.000000]"
+          }
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "init_SegmentedControlStyle",
+      "type": "method_signature",
+      "nodes": [
+        "SegmentedControlStyle",
+        "__init__",
+        "CheckBoxStyle",
+        "SlateBrush",
+        "Margin"
+      ],
+      "properties": {
+        "parameters": [
+          {
+            "name": "control_style",
+            "type": "CheckBoxStyle"
+          },
+          {
+            "name": "first_control_style",
+            "type": "CheckBoxStyle"
+          },
+          {
+            "name": "last_control_style",
+            "type": "CheckBoxStyle"
+          },
+          {
+            "name": "background_brush",
+            "type": "SlateBrush"
+          },
+          {
+            "name": "uniform_padding",
+            "type": "Margin"
+          }
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "init_TAPythonMaterialConnection",
+      "type": "method_signature",
+      "nodes": [
+        "TAPythonMaterialConnection",
+        "__init__",
+        "int",
+        "str"
+      ],
+      "properties": {
+        "parameters": [
+          {
+            "name": "left_expression_index",
+            "type": "int",
+            "default": "0"
+          },
+          {
+            "name": "left_output_index",
+            "type": "int",
+            "default": "0"
+          },
+          {
+            "name": "left_output_name",
+            "type": "str",
+            "default": "\"\""
+          },
+          {
+            "name": "right_expression_index",
+            "type": "int",
+            "default": "0"
+          },
+          {
+            "name": "right_expression_input_index",
+            "type": "int",
+            "default": "0"
+          },
+          {
+            "name": "right_expression_input_name",
+            "type": "str",
+            "default": "\"\""
+          }
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "init_PCGProjectionParams",
+      "type": "method_signature",
+      "nodes": [
+        "PCGProjectionParams",
+        "__init__",
+        "bool",
+        "PCGProjectionColorBlendMode",
+        "str",
+        "PCGMetadataFilterMode",
+        "PCGMetadataOp",
+        "PCGProjectionTagMergeMode"
+      ],
+      "properties": {
+        "parameters": [
+          {
+            "name": "project_positions",
+            "type": "bool",
+            "default": "False"
+          },
+          {
+            "name": "project_rotations",
+            "type": "bool",
+            "default": "False"
+          },
+          {
+            "name": "project_scales",
+            "type": "bool",
+            "default": "False"
+          },
+          {
+            "name": "color_blend_mode",
+            "type": "PCGProjectionColorBlendMode",
+            "default": "PCGProjectionColorBlendMode.SOURCE_VALUE"
+          },
+          {
+            "name": "attribute_list",
+            "type": "str",
+            "default": "\"\""
+          },
+          {
+            "name": "attribute_mode",
+            "type": "PCGMetadataFilterMode",
+            "default": "PCGMetadataFilterMode.EXCLUDE_ATTRIBUTES"
+          },
+          {
+            "name": "attribute_merge_operation",
+            "type": "PCGMetadataOp",
+            "default": "PCGMetadataOp.MIN"
+          },
+          {
+            "name": "tag_merge_operation",
+            "type": "PCGProjectionTagMergeMode",
+            "default": "PCGProjectionTagMergeMode.SOURCE"
+          }
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "init_EarthLaneInfo",
+      "type": "method_signature",
+      "nodes": [
+        "EarthLaneInfo",
+        "__init__",
+        "EarthRoadLaneType",
+        "float",
+        "int",
+        "EarthPlaceDirection",
+        "EarthModuleAsset"
+      ],
+      "properties": {
+        "parameters": [
+          {
+            "name": "road_lane_type",
+            "type": "EarthRoadLaneType",
+            "default": "EarthRoadLaneType.LANE"
+          },
+          {
+            "name": "start_width",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "end_width",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "xy_offset",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "z_offset",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "lanenum",
+            "type": "int",
+            "default": "0"
+          },
+          {
+            "name": "direction",
+            "type": "EarthPlaceDirection",
+            "default": "EarthPlaceDirection.FORWARD"
+          },
+          {
+            "name": "guide_mesh_lane_asset",
+            "type": "EarthModuleAsset",
+            "default": "None"
+          },
+          {
+            "name": "lane_asset",
+            "type": "EarthModuleAsset",
+            "default": "None"
+          },
+          {
+            "name": "dividing_lane_asset",
+            "type": "EarthModuleAsset",
+            "default": "None"
+          }
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "init_RigVMFunction_MathDoubleBinaryAggregateOp",
+      "type": "method_signature",
+      "nodes": [
+        "RigVMFunction_MathDoubleBinaryAggregateOp",
+        "__init__",
+        "float"
+      ],
+      "properties": {
+        "parameters": [
+          {
+            "name": "a",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "b",
+            "type": "float",
+            "default": "0.000000"
+          },
+          {
+            "name": "result",
+            "type": "float",
+            "default": "0.000000"
+          }
+        ],
+        "return_type": "None"
+      }
+    },
+    {
+      "id": "properties_SegmentedControlStyle",
+      "type": "class_properties",
+      "nodes": [
+        "SegmentedControlStyle",
+        "SlateBrush",
+        "CheckBoxStyle",
+        "Margin"
+      ],
+      "properties": {
+        "properties": [
+          {
+            "name": "background_brush",
+            "type": "SlateBrush",
+            "access": "read-write",
+            "description": "Background of the segmented control"
+          },
+          {
+            "name": "control_style",
+            "type": "CheckBoxStyle",
+            "access": "read-write",
+            "description": "The style to use for our Center Control"
+          },
+          {
+            "name": "first_control_style",
+            "type": "CheckBoxStyle",
+            "access": "read-write",
+            "description": "The style to use for our Left Control"
+          },
+          {
+            "name": "last_control_style",
+            "type": "CheckBoxStyle",
+            "access": "read-write",
+            "description": "The style to use for our Left Control"
+          },
+          {
+            "name": "uniform_padding",
+            "type": "Margin",
+            "access": "read-write",
+            "description": "Padding between each control"
+          }
+        ]
+      }
+    },
+    {
+      "id": "properties_TAPythonMaterialConnection",
+      "type": "class_properties",
+      "nodes": [
+        "TAPythonMaterialConnection",
+        "int",
+        "str"
+      ],
+      "properties": {
+        "properties": [
+          {
+            "name": "left_expression_index",
+            "type": "int",
+            "access": "read-write",
+            "description": "The index of material expression in source material's expressions, which the connection from"
+          },
+          {
+            "name": "left_output_index",
+            "type": "int",
+            "access": "read-write",
+            "description": "The index of output in the expression"
+          },
+          {
+            "name": "left_output_name",
+            "type": "str",
+            "access": "read-write",
+            "description": "The name of output pin"
+          },
+          {
+            "name": "right_expression_index",
+            "type": "int",
+            "access": "read-write",
+            "description": "The index of material expression in source material's expressions, which the connection to"
+          },
+          {
+            "name": "right_expression_input_index",
+            "type": "int",
+            "access": "read-write",
+            "description": "The index of input in the expression"
+          },
+          {
+            "name": "right_expression_input_name",
+            "type": "str",
+            "access": "read-write",
+            "description": "The name of input pin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "properties_PCGProjectionParams",
+      "type": "class_properties",
+      "nodes": [
+        "PCGProjectionParams",
+        "bool",
+        "str",
+        "PCGProjectionColorBlendMode",
+        "PCGMetadataFilterMode",
+        "PCGMetadataOp",
+        "PCGProjectionTagMergeMode"
+      ],
+      "properties": {
+        "properties": [
+          {
+            "name": "project_positions",
+            "type": "bool",
+            "access": "read-write",
+            "description": "Project positions."
+          },
+          {
+            "name": "project_rotations",
+            "type": "bool",
+            "access": "read-write",
+            "description": "Project rotations."
+          },
+          {
+            "name": "project_scales",
+            "type": "bool",
+            "access": "read-write",
+            "description": "Project scales."
+          },
+          {
+            "name": "color_blend_mode",
+            "type": "PCGProjectionColorBlendMode",
+            "access": "read-write",
+            "description": "The blend mode for colors during the projection"
+          },
+          {
+            "name": "attribute_list",
+            "type": "str",
+            "access": "read-write",
+            "description": "Attributes to either explicitly exclude or include in the projection operation, depending on the Attribute Mode setting."
+          },
+          {
+            "name": "attribute_mode",
+            "type": "PCGMetadataFilterMode",
+            "access": "read-write",
+            "description": "How the attribute list is used."
+          },
+          {
+            "name": "attribute_merge_operation",
+            "type": "PCGMetadataOp",
+            "access": "read-write",
+            "description": "Operation to use to combine attributes that reside on both source and target data."
+          },
+          {
+            "name": "tag_merge_operation",
+            "type": "PCGProjectionTagMergeMode",
+            "access": "read-write",
+            "description": "Controls whether the data tags are taken from the source, the target or both."
+          },
+          {
+            "name": "project_colors",
+            "type": "bool",
+            "access": "read-write",
+            "description": "deprecated: Property 'bProjectColors' is deprecated."
+          }
+        ]
+      }
+    },
+    {
+      "id": "properties_EarthLaneInfo",
+      "type": "class_properties",
+      "nodes": [
+        "EarthLaneInfo",
+        "EarthRoadLaneType",
+        "float",
+        "int",
+        "EarthPlaceDirection",
+        "EarthModuleAsset"
+      ],
+      "properties": {
+        "properties": [
+          {
+            "name": "road_lane_type",
+            "type": "EarthRoadLaneType",
+            "access": "read-write",
+            "description": "生成Lane类型"
+          },
+          {
+            "name": "start_width",
+            "type": "float",
+            "access": "read-write",
+            "description": "宽度"
+          },
+          {
+            "name": "end_width",
+            "type": "float",
+            "access": "read-write",
+            "description": ""
+          },
+          {
+            "name": "xy_offset",
+            "type": "float",
+            "access": "read-write",
+            "description": "位移"
+          },
+          {
+            "name": "z_offset",
+            "type": "float",
+            "access": "read-write",
+            "description": "位移"
+          },
+          {
+            "name": "lanenum",
+            "type": "int",
+            "access": "read-write",
+            "description": "宽度"
+          },
+          {
+            "name": "direction",
+            "type": "EarthPlaceDirection",
+            "access": "read-write",
+            "description": "放置是否顺着点序方向"
+          },
+          {
+            "name": "guide_mesh_lane_asset",
+            "type": "EarthModuleAsset",
+            "access": "read-write",
+            "description": "交通指示标志"
+          },
+          {
+            "name": "lane_asset",
+            "type": "EarthModuleAsset",
+            "access": "read-write",
+            "description": "子资产引用"
+          },
+          {
+            "name": "dividing_lane_asset",
+            "type": "EarthModuleAsset",
+            "access": "read-write",
+            "description": "子资产引用"
+          }
+        ]
+      }
+    },
+    {
+      "id": "properties_HorizontalBoxSlot",
+      "type": "class_properties",
+      "nodes": [
+        "HorizontalBoxSlot",
+        "HorizontalAlignment",
+        "Margin",
+        "SlateChildSize",
+        "VerticalAlignment"
+      ],
+      "properties": {
+        "properties": [
+          {
+            "name": "horizontal_alignment",
+            "type": "HorizontalAlignment",
+            "access": "read-write",
+            "description": ""
+          },
+          {
+            "name": "padding",
+            "type": "Margin",
+            "access": "read-write",
+            "description": "The amount of padding between the slots parent and the content."
+          },
+          {
+            "name": "size",
+            "type": "SlateChildSize",
+            "access": "read-write",
+            "description": "How much space this slot should occupy in the direction of the panel."
+          },
+          {
+            "name": "vertical_alignment",
+            "type": "VerticalAlignment",
+            "access": "read-write",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "source_TemperatureSeverityType",
+      "type": "source_location",
+      "nodes": [
+        "TemperatureSeverityType",
+        "Engine",
+        "ApplicationLifecycleComponent.h"
+      ],
+      "properties": {
+        "module": "Engine",
+        "file": "ApplicationLifecycleComponent.h"
+      }
+    },
+    {
+      "id": "source_ModulationRouting",
+      "type": "source_location",
+      "nodes": [
+        "ModulationRouting",
+        "Engine",
+        "SoundModulationDestination.h"
+      ],
+      "properties": {
+        "module": "Engine",
+        "file": "SoundModulationDestination.h"
+      }
+    },
+    {
+      "id": "source_CesiumPropertyTextureProperty",
+      "type": "source_location",
+      "nodes": [
+        "CesiumPropertyTextureProperty",
+        "CesiumRuntime",
+        "CesiumPropertyTextureProperty.h"
+      ],
+      "properties": {
+        "plugin": "CesiumForUnreal",
+        "module": "CesiumRuntime",
+        "file": "CesiumPropertyTextureProperty.h"
+      }
+    },
+    {
+      "id": "source_SegmentedControlStyle",
+      "type": "source_location",
+      "nodes": [
+        "SegmentedControlStyle",
+        "SlateCore",
+        "SegmentedControlStyle.h"
+      ],
+      "properties": {
+        "module": "SlateCore",
+        "file": "SegmentedControlStyle.h"
+      }
+    },
+    {
+      "id": "source_LocationAccuracy",
+      "type": "source_location",
+      "nodes": [
+        "LocationAccuracy",
+        "LocationServicesBPLibrary",
+        "LocationServicesBPLibrary.h"
+      ],
+      "properties": {
+        "plugin": "LocationServicesBPLibrary",
+        "module": "LocationServicesBPLibrary",
+        "file": "LocationServicesBPLibrary.h"
+      }
+    },
+    {
+      "id": "source_TAPythonMaterialConnection",
+      "type": "source_location",
+      "nodes": [
+        "TAPythonMaterialConnection",
+        "TAPython",
+        "PythonMaterialLib.h"
+      ],
+      "properties": {
+        "plugin": "TAPython",
+        "module": "TAPython",
+        "file": "PythonMaterialLib.h"
+      }
+    },
+    {
+      "id": "source_UsdUpAxis",
+      "type": "source_location",
+      "nodes": [
+        "UsdUpAxis",
+        "USDClasses",
+        "USDStageOptions.h"
+      ],
+      "properties": {
+        "plugin": "USDCore",
+        "module": "USDClasses",
+        "file": "USDStageOptions.h"
+      }
+    },
+    {
+      "id": "source_CSVImportType",
+      "type": "source_location",
+      "nodes": [
+        "CSVImportType",
+        "UnrealEd",
+        "CSVImportFactory.h"
+      ],
+      "properties": {
+        "module": "UnrealEd",
+        "file": "CSVImportFactory.h"
+      }
+    },
+    {
+      "id": "source_MovieSceneParticleTrackRecorder",
+      "type": "source_location",
+      "nodes": [
+        "MovieSceneParticleTrackRecorder",
+        "TakeTrackRecorders",
+        "MovieSceneParticleTrackRecorder.h"
+      ],
+      "properties": {
+        "plugin": "Takes",
+        "module": "TakeTrackRecorders",
+        "file": "MovieSceneParticleTrackRecorder.h"
+      }
+    },
+    {
+      "id": "source_ReturnResultsTerminal",
+      "type": "source_location",
+      "nodes": [
+        "ReturnResultsTerminal",
+        "FieldSystemEngine",
+        "FieldSystemObjects.h"
+      ],
+      "properties": {
+        "module": "FieldSystemEngine",
+        "file": "FieldSystemObjects.h"
+      }
+    },
+    {
+      "id": "source_PCGProjectionParams",
+      "type": "source_location",
+      "nodes": [
+        "PCGProjectionParams",
+        "PCG",
+        "PCGProjectionParams.h"
+      ],
+      "properties": {
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGProjectionParams.h"
+      }
+    },
+    {
+      "id": "source_AudioCaptureComponent",
+      "type": "source_location",
+      "nodes": [
+        "AudioCaptureComponent",
+        "AudioCapture",
+        "AudioCaptureComponent.h"
+      ],
+      "properties": {
+        "plugin": "AudioCapture",
+        "module": "AudioCapture",
+        "file": "AudioCaptureComponent.h"
+      }
+    },
+    {
+      "id": "source_EarthLaneInfo",
+      "type": "source_location",
+      "nodes": [
+        "EarthLaneInfo",
+        "EarthPrefab",
+        "EarthRoadFragment.h"
+      ],
+      "properties": {
+        "plugin": "AesWorld",
+        "module": "EarthPrefab",
+        "file": "EarthRoadFragment.h"
+      }
+    },
+    {
+      "id": "source_GizmoHandleTypes",
+      "type": "source_location",
+      "nodes": [
+        "GizmoHandleTypes",
+        "ViewportInteraction",
+        "VIBaseTransformGizmo.h"
+      ],
+      "properties": {
+        "module": "ViewportInteraction",
+        "file": "VIBaseTransformGizmo.h"
+      }
+    },
+    {
+      "id": "source_DMMaterialPropertyOpacityMask",
+      "type": "source_location",
+      "nodes": [
+        "DMMaterialPropertyOpacityMask",
+        "DynamicMaterialEditor",
+        "DMMPOpacityMask.h"
+      ],
+      "properties": {
+        "plugin": "DynamicMaterial",
+        "module": "DynamicMaterialEditor",
+        "file": "DMMPOpacityMask.h"
+      }
+    },
+    {
+      "id": "source_RemoteControlLevelIndependantBinding",
+      "type": "source_location",
+      "nodes": [
+        "RemoteControlLevelIndependantBinding",
+        "RemoteControl",
+        "RemoteControlBinding.h"
+      ],
+      "properties": {
+        "plugin": "RemoteControl",
+        "module": "RemoteControl",
+        "file": "RemoteControlBinding.h"
+      }
+    },
+    {
+      "id": "source_EditorValidator_Localization",
+      "type": "source_location",
+      "nodes": [
+        "EditorValidator_Localization",
+        "DataValidation",
+        "EditorValidator_Localization.h"
+      ],
+      "properties": {
+        "plugin": "DataValidation",
+        "module": "DataValidation",
+        "file": "EditorValidator_Localization.h"
+      }
+    },
+    {
+      "id": "source_RigVMFunction_MathDoubleBinaryAggregateOp",
+      "type": "source_location",
+      "nodes": [
+        "RigVMFunction_MathDoubleBinaryAggregateOp",
+        "RigVM",
+        "RigVMFunction_MathDouble.h"
+      ],
+      "properties": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathDouble.h"
+      }
+    },
+    {
+      "id": "source_OptimusDeformerExecutionPhase",
+      "type": "source_location",
+      "nodes": [
+        "OptimusDeformerExecutionPhase",
+        "OptimusCore",
+        "OptimusDeformerDynamicInstanceManager.h"
+      ],
+      "properties": {
+        "plugin": "DeformerGraph",
+        "module": "OptimusCore",
+        "file": "OptimusDeformerDynamicInstanceManager.h"
+      }
+    },
+    {
+      "id": "source_HorizontalBoxSlot",
+      "type": "source_location",
+      "nodes": [
+        "HorizontalBoxSlot",
+        "UMG",
+        "HorizontalBoxSlot.h"
+      ],
+      "properties": {
+        "module": "UMG",
+        "file": "HorizontalBoxSlot.h"
+      }
+    }
+  ]
+}

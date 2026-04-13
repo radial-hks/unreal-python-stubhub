@@ -1,0 +1,493 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+      "label": "RigUnit MathColorLerp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathColorLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+      "label": "RigUnit MathQuaternionNotEquals",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencetrack_daysequencetrack",
+      "label": "Day Sequence Track",
+      "file_type": "code",
+      "source_file": "DaySequenceTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller_inputchangednotifyevent_wdpplayercontroller_inputchangednotifyevent",
+      "label": "WdpPlayerController InputChangedNotifyEvent",
+      "file_type": "code",
+      "source_file": "WdpPlayerController__InputChangedNotifyEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumgltfinstancedcomponent_cesiumgltfinstancedcomponent",
+      "label": "Cesium Gltf Instanced Component",
+      "file_type": "code",
+      "source_file": "CesiumGltfInstancedComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updatespaceheatmapparams_updatespaceheatmapparams",
+      "label": "Update Space Heat Map Params",
+      "file_type": "code",
+      "source_file": "UpdateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesobjectassettagdata_aesobjectassettagdata",
+      "label": "Aes Object Asset Tag Data",
+      "file_type": "code",
+      "source_file": "AesObjectAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorscale_rigunit_mathvectorscale",
+      "label": "RigUnit MathVectorScale",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorScale Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+      "label": "RigUnit MathVectorMakeAbsolute",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorMakeAbsolute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpbuildinglayerapiregister_dcpbuildinglayerapiregister",
+      "label": "DCP Building Layer API Register",
+      "file_type": "code",
+      "source_file": "DCPBuildingLayerAPIRegister Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontroltransformchannel_rigcontroltransformchannel",
+      "label": "Rig Control Transform Channel",
+      "file_type": "code",
+      "source_file": "RigControlTransformChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_camerasettings_displayclusterconfigurationicvfx_camerasettings",
+      "label": "Display Cluster Configuration ICVFX Camera Settings",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_CameraSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolvector2d_rigunit_hierarchyaddcontrolvector2d",
+      "label": "RigUnit Hierarchy Add Control Vector2D",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcurvevalue_rigunit_setcurvevalue",
+      "label": "RigUnit Set Curve Value",
+      "file_type": "code",
+      "source_file": "RigUnit__SetCurveValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreebraincomponent_statetreebraincomponent",
+      "label": "State Tree Brain Component",
+      "file_type": "code",
+      "source_file": "StateTreeBrainComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionarcsinefast_dmmaterialstageexpressionarcsinefast",
+      "label": "DMMaterial Stage Expression Arcsine Fast",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionArcsineFast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "georeferenceellipsoidchanged_georeferenceellipsoidchanged",
+      "label": "Georeference Ellipsoid Changed",
+      "file_type": "code",
+      "source_file": "GeoreferenceEllipsoidChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdeditininstancebehavior_usdeditininstancebehavior",
+      "label": "Usd Edit In Instance Behavior",
+      "file_type": "code",
+      "source_file": "UsdEditInInstanceBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparamvector2d_niagarapreviewaxis_interpparamvector2d",
+      "label": "Niagara Preview Axis Interp Param Vector2D",
+      "file_type": "code",
+      "source_file": "NiagaraPreviewAxis__InterpParamVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectentrancepriority_smartobjectentrancepriority",
+      "label": "Smart Object Entrance Priority",
+      "file_type": "code",
+      "source_file": "SmartObjectEntrancePriority Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmanagedcomponentbase_pcgmanagedcomponentbase",
+      "label": "PCG Managed Component Base",
+      "file_type": "code",
+      "source_file": "PCGManagedComponentBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplayeroptionseektimetype_mediaplayeroptionseektimetype",
+      "label": "Media Player Option Seek Time Type",
+      "file_type": "code",
+      "source_file": "MediaPlayerOptionSeekTimeType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+      "target": "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathColorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+      "target": "rigunit_mathvectorscale_rigunit_mathvectorscale",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathColorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+      "target": "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathColorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+      "target": "rigunit_mathvectorscale_rigunit_mathvectorscale",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+      "target": "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorscale_rigunit_mathvectorscale",
+      "target": "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathVectorScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+      "target": "statetreebraincomponent_statetreebraincomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathColorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+      "target": "statetreebraincomponent_statetreebraincomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathQuaternionNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorscale_rigunit_mathvectorscale",
+      "target": "statetreebraincomponent_statetreebraincomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathVectorScale Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+      "target": "statetreebraincomponent_statetreebraincomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathVectorMakeAbsolute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontroltransformchannel_rigcontroltransformchannel",
+      "target": "rigunit_hierarchyaddcontrolvector2d_rigunit_hierarchyaddcontrolvector2d",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigControlTransformChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcurvevalue_rigunit_setcurvevalue",
+      "target": "rigunit_hierarchyaddcontrolvector2d_rigunit_hierarchyaddcontrolvector2d",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__SetCurveValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcurvevalue_rigunit_setcurvevalue",
+      "target": "rigcontroltransformchannel_rigcontroltransformchannel",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__SetCurveValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumgltfinstancedcomponent_cesiumgltfinstancedcomponent",
+      "target": "georeferenceellipsoidchanged_georeferenceellipsoidchanged",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CesiumGltfInstancedComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller_inputchangednotifyevent_wdpplayercontroller_inputchangednotifyevent",
+      "target": "georeferenceellipsoidchanged_georeferenceellipsoidchanged",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WdpPlayerController__InputChangedNotifyEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "updatespaceheatmapparams_updatespaceheatmapparams",
+      "target": "dcpbuildinglayerapiregister_dcpbuildinglayerapiregister",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "UpdateSpaceHeatMapParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesobjectassettagdata_aesobjectassettagdata",
+      "target": "cesiumgltfinstancedcomponent_cesiumgltfinstancedcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AesObjectAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamvector2d_niagarapreviewaxis_interpparamvector2d",
+      "target": "rigunit_hierarchyaddcontrolvector2d_rigunit_hierarchyaddcontrolvector2d",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraPreviewAxis__InterpParamVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmanagedcomponentbase_pcgmanagedcomponentbase",
+      "target": "cesiumgltfinstancedcomponent_cesiumgltfinstancedcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGManagedComponentBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_camerasettings_displayclusterconfigurationicvfx_camerasettings",
+      "target": "mediaplayeroptionseektimetype_mediaplayeroptionseektimetype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "DisplayClusterConfigurationICVFX_CameraSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_classes",
+      "label": "Deprecated RigUnit Classes",
+      "nodes": [
+        "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+        "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+        "rigunit_mathvectorscale_rigunit_mathvectorscale",
+        "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute",
+        "statetreebraincomponent_statetreebraincomponent"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathColorLerp Objects.md"
+    },
+    {
+      "id": "control_rig_math_operations",
+      "label": "Control Rig Math Operations",
+      "nodes": [
+        "rigunit_mathcolorlerp_rigunit_mathcolorlerp",
+        "rigunit_mathquaternionnotequals_rigunit_mathquaternionnotequals",
+        "rigunit_mathvectorscale_rigunit_mathvectorscale",
+        "rigunit_mathvectormakeabsolute_rigunit_mathvectormakeabsolute"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathColorLerp Objects.md"
+    },
+    {
+      "id": "cesium_geospatial_system",
+      "label": "Cesium Geospatial System",
+      "nodes": [
+        "cesiumgltfinstancedcomponent_cesiumgltfinstancedcomponent",
+        "georeferenceellipsoidchanged_georeferenceellipsoidchanged"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CesiumGltfInstancedComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

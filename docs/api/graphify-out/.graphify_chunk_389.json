@@ -1,0 +1,861 @@
+{
+  "nodes": [
+    {
+      "id": "animdetailcontrolsproxyinteger_animdetailcontrolsproxyinteger",
+      "label": "AnimDetailControlsProxyInteger",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptspectralconformaluvoptions_geometryscriptspectralconformaluvoptions",
+      "label": "GeometryScriptSpectralConformalUVOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptSpectralConformalUVOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathbooltointeger_rigunit_mathbooltointeger",
+      "label": "RigUnit_MathBoolToInteger",
+      "file_type": "code",
+      "source_file": "RigUnit__MathBoolToInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbooltointeger_rigvmfunction_mathbooltointeger",
+      "label": "RigVMFunction_MathBoolToInteger",
+      "file_type": "code",
+      "source_file": "RigUnit__MathBoolToInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorlinesetcomponent_aeseditorlinesetcomponent",
+      "label": "AesEditorLineSetComponent",
+      "file_type": "code",
+      "source_file": "AesEditorLineSetComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationdatamodelnotifiesextensions_animationdatamodelnotifiesextensions",
+      "label": "AnimationDataModelNotifiesExtensions",
+      "file_type": "code",
+      "source_file": "AnimationDataModelNotifiesExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreestateselectionbehavior_statetreestateselectionbehavior",
+      "label": "StateTreeStateSelectionBehavior",
+      "file_type": "code",
+      "source_file": "StateTreeStateSelectionBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettingsinterface_pcgsettingsinterface",
+      "label": "PCGSettingsInterface",
+      "file_type": "code",
+      "source_file": "PCGSettingsInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_animdynamics_animgraphnode_animdynamics",
+      "label": "AnimGraphNode_AnimDynamics",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__AnimDynamics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneniagaracachetrack_moviesceneniagaracachetrack",
+      "label": "MovieSceneNiagaraCacheTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraCacheTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmgraphfunctionheader_rigvmgraphfunctionheader",
+      "label": "RigVMGraphFunctionHeader",
+      "file_type": "code",
+      "source_file": "RigVMGraphFunctionHeader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenevectorsection_moviescenevectorsection",
+      "label": "MovieSceneVectorSection",
+      "file_type": "code",
+      "source_file": "MovieSceneVectorSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenefloatvectorsection_moviescenefloatvectorsection",
+      "label": "MovieSceneFloatVectorSection",
+      "file_type": "code",
+      "source_file": "MovieSceneVectorSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getmetadatatags_rigunit_getmetadatatags",
+      "label": "RigUnit_GetMetadataTags",
+      "file_type": "code",
+      "source_file": "RigUnit__GetMetadataTags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerlinearcolorvariable_rigvmtrait_setdeformerlinearcolorvariable",
+      "label": "RigVMTrait_SetDeformerLinearColorVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerLinearColorVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgworldrayhitdata_pcgworldrayhitdata",
+      "label": "PCGWorldRayHitData",
+      "file_type": "code",
+      "source_file": "PCGWorldRayHitData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphcollectionmodifier_moviegraphcollectionmodifier",
+      "label": "MovieGraphCollectionModifier",
+      "file_type": "code",
+      "source_file": "MovieGraphCollectionModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphimagesequenceoutputnode_exr_moviegraphimagesequenceoutputnode_exr",
+      "label": "MovieGraphImageSequenceOutputNode_EXR",
+      "file_type": "code",
+      "source_file": "MovieGraphImageSequenceOutputNode_EXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "streamingsourcetargetstate_streamingsourcetargetstate",
+      "label": "StreamingSourceTargetState",
+      "file_type": "code",
+      "source_file": "StreamingSourceTargetState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabbase_earthprefabbase",
+      "label": "EarthPrefabBase",
+      "file_type": "code",
+      "source_file": "EarthPrefabBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendspaceplayerbase_animnode_blendspaceplayerbase",
+      "label": "AnimNode_BlendSpacePlayerBase",
+      "file_type": "code",
+      "source_file": "AnimNode__BlendSpacePlayerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialeffectstackpresetsubsystem_dmmaterialeffectstackpresetsubsystem",
+      "label": "DMMaterialEffectStackPresetSubsystem",
+      "file_type": "code",
+      "source_file": "DMMaterialEffectStackPresetSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkcanvasbox_uiframeworkcanvasbox",
+      "label": "UIFrameworkCanvasBox",
+      "file_type": "code",
+      "source_file": "UIFrameworkCanvasBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontoutlinesettings_fontoutlinesettings",
+      "label": "FontOutlineSettings",
+      "file_type": "code",
+      "source_file": "FontOutlineSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailproxyinteger_animdetailproxyinteger",
+      "label": "AnimDetailProxyInteger",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolskeyedproxy_animdetailcontrolskeyedproxy",
+      "label": "AnimDetailControlsKeyedProxy",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdatamodelnotifpayload_animdatamodelnotifpayload",
+      "label": "AnimDataModelNotifPayload",
+      "file_type": "code",
+      "source_file": "AnimationDataModelNotifiesExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "emptypayload_emptypayload",
+      "label": "EmptyPayload",
+      "file_type": "code",
+      "source_file": "AnimationDataModelNotifiesExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdebugvisualizationsettings_pcgdebugvisualizationsettings",
+      "label": "PCGDebugVisualizationSettings",
+      "file_type": "code",
+      "source_file": "PCGSettingsInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdata_pcgdata",
+      "label": "PCGData",
+      "file_type": "code",
+      "source_file": "PCGSettingsInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_animdynamics_animnode_animdynamics",
+      "label": "AnimNode_AnimDynamics",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__AnimDynamics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_skeletalcontrolbase_animgraphnode_skeletalcontrolbase",
+      "label": "AnimGraphNode_SkeletalControlBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__AnimDynamics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmgraphfunctionargument_rigvmgraphfunctionargument",
+      "label": "RigVMGraphFunctionArgument",
+      "file_type": "code",
+      "source_file": "RigVMGraphFunctionHeader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmgraphfunctionidentifier_rigvmgraphfunctionidentifier",
+      "label": "RigVMGraphFunctionIdentifier",
+      "file_type": "code",
+      "source_file": "RigVMGraphFunctionHeader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmvariant_rigvmvariant",
+      "label": "RigVMVariant",
+      "file_type": "code",
+      "source_file": "RigVMGraphFunctionHeader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit__GetMetadataTags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerLinearColorVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgworldrayhitqueryparams_pcgworldrayhitqueryparams",
+      "label": "PCGWorldRayHitQueryParams",
+      "file_type": "code",
+      "source_file": "PCGWorldRayHitData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsurfacedata_pcgsurfacedata",
+      "label": "PCGSurfaceData",
+      "file_type": "code",
+      "source_file": "PCGWorldRayHitData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphcollection_moviegraphcollection",
+      "label": "MovieGraphCollection",
+      "file_type": "code",
+      "source_file": "MovieGraphCollectionModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphimagesequenceoutputnode_moviegraphimagesequenceoutputnode",
+      "label": "MovieGraphImageSequenceOutputNode",
+      "file_type": "code",
+      "source_file": "MovieGraphImageSequenceOutputNode_EXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialeffectstackjson_dmmaterialeffectstackjson",
+      "label": "DMMaterialEffectStackJson",
+      "file_type": "code",
+      "source_file": "DMMaterialEffectStackPresetSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkwidget_uiframeworkwidget",
+      "label": "UIFrameworkWidget",
+      "file_type": "code",
+      "source_file": "UIFrameworkCanvasBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkcanvasboxslot_uiframeworkcanvasboxslot",
+      "label": "UIFrameworkCanvasBoxSlot",
+      "file_type": "code",
+      "source_file": "UIFrameworkCanvasBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_assetplayerbase_animnode_assetplayerbase",
+      "label": "AnimNode_AssetPlayerBase",
+      "file_type": "code",
+      "source_file": "AnimNode__BlendSpacePlayerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdatabase_earthdatabase",
+      "label": "EarthDataBase",
+      "file_type": "code",
+      "source_file": "EarthPrefabBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animdetailcontrolsproxyinteger_animdetailcontrolsproxyinteger",
+      "target": "animdetailcontrolskeyedproxy_animdetailcontrolskeyedproxy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxyinteger_animdetailcontrolsproxyinteger",
+      "target": "animdetailproxyinteger_animdetailproxyinteger",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathbooltointeger_rigunit_mathbooltointeger",
+      "target": "rigvmfunction_mathbooltointeger_rigvmfunction_mathbooltointeger",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathBoolToInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorlinesetcomponent_aeseditorlinesetcomponent",
+      "target": "meshcomponent_meshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorLineSetComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationdatamodelnotifiesextensions_animationdatamodelnotifiesextensions",
+      "target": "animdatamodelnotifpayload_animdatamodelnotifpayload",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationDataModelNotifiesExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationdatamodelnotifiesextensions_animationdatamodelnotifiesextensions",
+      "target": "emptypayload_emptypayload",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationDataModelNotifiesExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsettingsinterface_pcgsettingsinterface",
+      "target": "pcgdata_pcgdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSettingsInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsettingsinterface_pcgsettingsinterface",
+      "target": "pcgdebugvisualizationsettings_pcgdebugvisualizationsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSettingsInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_animdynamics_animgraphnode_animdynamics",
+      "target": "animgraphnode_skeletalcontrolbase_animgraphnode_skeletalcontrolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__AnimDynamics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_animdynamics_animgraphnode_animdynamics",
+      "target": "animnode_animdynamics_animnode_animdynamics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__AnimDynamics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaracachetrack_moviesceneniagaracachetrack",
+      "target": "moviescenenameabletrack_moviescenenameabletrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraCacheTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmgraphfunctionheader_rigvmgraphfunctionheader",
+      "target": "rigvmgraphfunctionargument_rigvmgraphfunctionargument",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMGraphFunctionHeader Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmgraphfunctionheader_rigvmgraphfunctionheader",
+      "target": "rigvmgraphfunctionidentifier_rigvmgraphfunctionidentifier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMGraphFunctionHeader Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmgraphfunctionheader_rigvmgraphfunctionheader",
+      "target": "rigvmvariant_rigvmvariant",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMGraphFunctionHeader Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenevectorsection_moviescenevectorsection",
+      "target": "moviescenefloatvectorsection_moviescenefloatvectorsection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneVectorSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getmetadatatags_rigunit_getmetadatatags",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetMetadataTags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerlinearcolorvariable_rigvmtrait_setdeformerlinearcolorvariable",
+      "target": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerLinearColorVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgworldrayhitdata_pcgworldrayhitdata",
+      "target": "pcgsurfacedata_pcgsurfacedata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGWorldRayHitData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgworldrayhitdata_pcgworldrayhitdata",
+      "target": "pcgworldrayhitqueryparams_pcgworldrayhitqueryparams",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGWorldRayHitData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphcollectionmodifier_moviegraphcollectionmodifier",
+      "target": "moviegraphcollection_moviegraphcollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphCollectionModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphimagesequenceoutputnode_exr_moviegraphimagesequenceoutputnode_exr",
+      "target": "moviegraphimagesequenceoutputnode_moviegraphimagesequenceoutputnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphImageSequenceOutputNode_EXR Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabbase_earthprefabbase",
+      "target": "earthdatabase_earthdatabase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthPrefabBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendspaceplayerbase_animnode_blendspaceplayerbase",
+      "target": "animnode_assetplayerbase_animnode_assetplayerbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__BlendSpacePlayerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialeffectstackpresetsubsystem_dmmaterialeffectstackpresetsubsystem",
+      "target": "dmmaterialeffectstackjson_dmmaterialeffectstackjson",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialEffectStackPresetSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkcanvasbox_uiframeworkcanvasbox",
+      "target": "uiframeworkwidget_uiframeworkwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkCanvasBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkcanvasbox_uiframeworkcanvasbox",
+      "target": "uiframeworkcanvasboxslot_uiframeworkcanvasboxslot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkCanvasBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerlinearcolorvariable_rigvmtrait_setdeformerlinearcolorvariable",
+      "target": "rigvmgraphfunctionheader_rigvmgraphfunctionheader",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMTrait__SetDeformerLinearColorVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathbooltointeger_rigunit_mathbooltointeger",
+      "target": "rigvmgraphfunctionheader_rigvmgraphfunctionheader",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathBoolToInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_animdynamics_animgraphnode_animdynamics",
+      "target": "animnode_blendspaceplayerbase_animnode_blendspaceplayerbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode__AnimDynamics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphimagesequenceoutputnode_exr_moviegraphimagesequenceoutputnode_exr",
+      "target": "moviesceneniagaracachetrack_moviesceneniagaracachetrack",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MovieGraphImageSequenceOutputNode_EXR Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_type_system",
+      "label": "RigVM Type System Components",
+      "nodes": [
+        "rigvmgraphfunctionheader_rigvmgraphfunctionheader",
+        "rigvmgraphfunctionargument_rigvmgraphfunctionargument",
+        "rigvmgraphfunctionidentifier_rigvmgraphfunctionidentifier",
+        "rigvmvariant_rigvmvariant",
+        "rigvmfunction_mathbooltointeger_rigvmfunction_mathbooltointeger",
+        "rigunit_mathbooltointeger_rigunit_mathbooltointeger"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMGraphFunctionHeader Objects.md"
+    },
+    {
+      "id": "pcg_data_hierarchy",
+      "label": "PCG Data Processing Pipeline",
+      "nodes": [
+        "pcgsettingsinterface_pcgsettingsinterface",
+        "pcgdata_pcgdata",
+        "pcgworldrayhitdata_pcgworldrayhitdata",
+        "pcgsurfacedata_pcgsurfacedata",
+        "pcgworldrayhitqueryparams_pcgworldrayhitqueryparams"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGSettingsInterface Objects.md"
+    },
+    {
+      "id": "animation_node_system",
+      "label": "Animation Blueprint Node System",
+      "nodes": [
+        "animgraphnode_animdynamics_animgraphnode_animdynamics",
+        "animnode_animdynamics_animnode_animdynamics",
+        "animnode_blendspaceplayerbase_animnode_blendspaceplayerbase",
+        "animnode_assetplayerbase_animnode_assetplayerbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimGraphNode__AnimDynamics Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,672 @@
+{
+  "nodes": [
+    {
+      "id": "pcgswitchsettings_class",
+      "label": "PCGSwitchSettings",
+      "file_type": "code",
+      "source_file": "PCGSwitchSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings_class",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGSwitchSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcontrolflowselectionmode_enum",
+      "label": "PCGControlFlowSelectionMode",
+      "file_type": "code",
+      "source_file": "PCGSwitchSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumselector_struct",
+      "label": "EnumSelector",
+      "file_type": "code",
+      "source_file": "PCGSwitchSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotystate_disablerootmotion_class",
+      "label": "AnimNotifyState_DisableRootMotion",
+      "file_type": "code",
+      "source_file": "AnimNotifyState_DisableRootMotion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotystate_class",
+      "label": "AnimNotifyState",
+      "file_type": "code",
+      "source_file": "AnimNotifyState_DisableRootMotion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_prediction_class",
+      "label": "AISense_Prediction",
+      "file_type": "code",
+      "source_file": "AISense__Prediction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_class",
+      "label": "AISense",
+      "file_type": "code",
+      "source_file": "AISense__Prediction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aicontroller_class",
+      "label": "AIController",
+      "file_type": "code",
+      "source_file": "AISense__Prediction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatevectorrange_class",
+      "label": "RigVMFunction_AccumulateVectorRange",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AccumulateVectorRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatebase_class",
+      "label": "RigVMFunction_AccumulateBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_AccumulateVectorRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertycontrollereasingtype_enum",
+      "label": "PropertyControllerEasingType",
+      "file_type": "code",
+      "source_file": "PropertyControllerEasingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatoreasingtype_enum",
+      "label": "PropertyAnimatorEasingType",
+      "file_type": "code",
+      "source_file": "PropertyControllerEasingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggensourceeditorcamera_class",
+      "label": "PCGGenSourceEditorCamera",
+      "file_type": "code",
+      "source_file": "PCGGenSourceEditorCamera Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelinfo_struct",
+      "label": "ModelInfo",
+      "file_type": "code",
+      "source_file": "ModelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nonblendablequaternionanimationattribute_class",
+      "label": "NonBlendableQuaternionAnimationAttribute",
+      "file_type": "code",
+      "source_file": "NonBlendableQuaternionAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternionanimationattribute_class",
+      "label": "QuaternionAnimationAttribute",
+      "file_type": "code",
+      "source_file": "NonBlendableQuaternionAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_drawcontainergetinstruction_class",
+      "label": "RigUnit_DrawContainerGetInstruction",
+      "file_type": "code",
+      "source_file": "RigUnit__DrawContainerGetInstruction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_class",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit__DrawContainerGetInstruction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rbffunctiontype_enum",
+      "label": "RBFFunctionType",
+      "file_type": "code",
+      "source_file": "RBFFunctionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesfacadeshapegrammar_struct",
+      "label": "AesFacadeShapeGrammar",
+      "file_type": "code",
+      "source_file": "AesFacadeShapeGrammar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesfacademoduledata_struct",
+      "label": "AesFacadeModuleData",
+      "file_type": "code",
+      "source_file": "AesFacadeShapeGrammar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesfascadeleveldata_struct",
+      "label": "AesFacadeLevelData",
+      "file_type": "code",
+      "source_file": "AesFacadeShapeGrammar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringleft_class",
+      "label": "RigVMFunction_StringLeft",
+      "file_type": "code",
+      "source_file": "RigVMFunction_StringLeft Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringbase_class",
+      "label": "RigVMFunction_StringBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_StringLeft Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectmotionfiltermodulationsettings_struct",
+      "label": "SourceEffectMotionFilterModulationSettings",
+      "file_type": "code",
+      "source_file": "SourceEffectMotionFilterModulationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectmotionfiltermodsource_enum",
+      "label": "SourceEffectMotionFilterModSource",
+      "file_type": "code",
+      "source_file": "SourceEffectMotionFilterModulationSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_removemetadatatag_class",
+      "label": "RigUnit_RemoveMetadataTag",
+      "file_type": "code",
+      "source_file": "RigUnit_RemoveMetadataTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_class",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_RemoveMetadataTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigmetadata_namespace_enum",
+      "label": "RigMetaDataNameSpace",
+      "file_type": "code",
+      "source_file": "RigUnit_RemoveMetadataTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reflectionmethod_enum",
+      "label": "ReflectionMethod",
+      "file_type": "code",
+      "source_file": "ReflectionMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixbinaryop_class",
+      "label": "RigUnit_MathMatrixBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixbinaryop_class",
+      "label": "RigVMFunction_MathMatrixBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navareanull_class",
+      "label": "NavAreaNull",
+      "file_type": "code",
+      "source_file": "NavAreaNull Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navarea_null_class",
+      "label": "NavArea_Null",
+      "file_type": "code",
+      "source_file": "NavAreaNull Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgswitchsettings_class",
+      "target": "pcgsettings_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSwitchSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgswitchsettings_class",
+      "target": "pcgcontrolflowselectionmode_enum",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSwitchSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgswitchsettings_class",
+      "target": "enumselector_struct",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSwitchSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotystate_disablerootmotion_class",
+      "target": "animnotystate_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState_DisableRootMotion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisense_prediction_class",
+      "target": "aisense_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISense__Prediction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisense_prediction_class",
+      "target": "aicontroller_class",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISense__Prediction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatevectorrange_class",
+      "target": "rigvmfunction_accumulatebase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_AccumulateVectorRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertycontrollereasingtype_enum",
+      "target": "propertyanimatoreasingtype_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyControllerEasingType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nonblendablequaternionanimationattribute_class",
+      "target": "quaternionanimationattribute_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NonBlendableQuaternionAnimationAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_drawcontainergetinstruction_class",
+      "target": "rigunit_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DrawContainerGetInstruction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesfacadeshapegrammar_struct",
+      "target": "aesfacademoduledata_struct",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFacadeShapeGrammar Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesfacadeshapegrammar_struct",
+      "target": "aesfascadeleveldata_struct",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFacadeShapeGrammar Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringleft_class",
+      "target": "rigvmfunction_stringbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringLeft Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectmotionfiltermodulationsettings_struct",
+      "target": "sourceeffectmotionfiltermodsource_enum",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectMotionFilterModulationSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_removemetadatatag_class",
+      "target": "rigunitmutable_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_RemoveMetadataTag Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_removemetadatatag_class",
+      "target": "rigmetadata_namespace_enum",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_RemoveMetadataTag Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixbinaryop_class",
+      "target": "rigvmfunction_mathmatrixbinaryop_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navareanull_class",
+      "target": "navarea_null_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavAreaNull Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertycontrollereasingtype_enum",
+      "target": "propertyanimatoreasingtype_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PropertyControllerEasingType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixbinaryop_class",
+      "target": "rigvmfunction_mathmatrixbinaryop_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit_MathMatrixBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navareanull_class",
+      "target": "navarea_null_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "NavAreaNull Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatevectorrange_class",
+      "target": "rigunit_drawcontainergetinstruction_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_AccumulateVectorRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringleft_class",
+      "target": "rigvmfunction_accumulatevectorrange_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigVMFunction_StringLeft Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgswitchsettings_class",
+      "target": "pcggensourceeditorcamera_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGSwitchSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisense_prediction_class",
+      "target": "rbffunctiontype_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "AISense__Prediction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated and Renamed Classes",
+      "nodes": [
+        "propertycontrollereasingtype_enum",
+        "rigunit_mathmatrixbinaryop_class",
+        "navareanull_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "rigvm_function_hierarchy",
+      "label": "RigVM Function Base Class Hierarchy",
+      "nodes": [
+        "rigvmfunction_accumulatevectorrange_class",
+        "rigvmfunction_stringleft_class",
+        "rigunit_drawcontainergetinstruction_class",
+        "rigunit_removemetadatatag_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

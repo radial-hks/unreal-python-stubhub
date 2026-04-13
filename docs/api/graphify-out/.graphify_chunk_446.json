@@ -1,0 +1,762 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_stringcontains",
+      "label": "RigVMFunction StringContains",
+      "file_type": "document",
+      "source_file": "RigVMFunction__StringContains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltruntimeskeletalanimationcurveremapperhook",
+      "label": "glTFRuntime Skeletal Animation Curve Remapper Hook",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletalAnimationCurveRemapperHook Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthremovelaneinfo",
+      "label": "Earth Remove Lane Info",
+      "file_type": "document",
+      "source_file": "EarthRemoveLaneInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proceduralfoliageinstance",
+      "label": "Procedural Foliage Instance",
+      "file_type": "document",
+      "source_file": "ProceduralFoliageInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatequatquat",
+      "label": "RigUnit Math RBF Interpolate Quat Quat",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmcontentbrowserthumbnailsettings",
+      "label": "DMContent Browser Thumbnail Settings",
+      "file_type": "document",
+      "source_file": "DMContentBrowserThumbnailSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetingfiltertask_actorclass",
+      "label": "Targeting Filter Task Actor Class",
+      "file_type": "document",
+      "source_file": "TargetingFilterTask__ActorClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_clamp_float",
+      "label": "RigUnit Clamp Float",
+      "file_type": "document",
+      "source_file": "RigUnit_Clamp_Float Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massagentsynctrait",
+      "label": "Mass Agent Sync Trait",
+      "file_type": "document",
+      "source_file": "MassAgentSyncTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendlistbyint",
+      "label": "Anim Graph Node Blend List by Int",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__BlendListByInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurveperitem",
+      "label": "RigUnit Fit Chain To Curve Per Item",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scriptcollisionshapetype",
+      "label": "Script Collision Shape Type",
+      "file_type": "document",
+      "source_file": "ScriptCollisionShapeType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riglogicscaletype",
+      "label": "Rig Logic Scale Type",
+      "file_type": "document",
+      "source_file": "RigLogicScaleType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onimagewritecomplete",
+      "label": "On Image Write Complete",
+      "file_type": "document",
+      "source_file": "OnImageWriteComplete Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_forloopcount",
+      "label": "RigVMFunction For Loop Count",
+      "file_type": "document",
+      "source_file": "RigVMFunction_ForLoopCount Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendsample",
+      "label": "Blend Sample",
+      "file_type": "document",
+      "source_file": "BlendSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "joinsessioncallbackproxy",
+      "label": "Join Session Callback Proxy",
+      "file_type": "document",
+      "source_file": "JoinSessionCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchysetposeitemarray",
+      "label": "RigUnit Hierarchy Set Pose Item Array",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchySetPoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresultgizmofiltermode",
+      "label": "Hit Result Gizmo Filter Mode",
+      "file_type": "document",
+      "source_file": "HitResultGizmoFilterMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmutablebase",
+      "label": "RigUnit Math Mutable Base",
+      "file_type": "document",
+      "source_file": "RigUnit_MathMutableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "windowapi",
+      "label": "Window API",
+      "file_type": "document",
+      "source_file": "WindowAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nodalpointoffset",
+      "label": "Nodal Point Offset",
+      "file_type": "document",
+      "source_file": "NodalPointOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletalAnimationCurveRemapperHook Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringbase",
+      "label": "RigVMFunction StringBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__StringContains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_Clamp_Float Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatquat",
+      "label": "RigVMFunction Math RBF Interpolate Quat Quat",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmutablebase",
+      "label": "RigVMFunction Math Mutable Base",
+      "file_type": "document",
+      "source_file": "RigUnit_MathMutableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetingfiltertask_basicfiltertemplate",
+      "label": "Targeting Filter Task Basic Filter Template",
+      "file_type": "document",
+      "source_file": "TargetingFilterTask__ActorClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massentitytraitbase",
+      "label": "Mass Entity Trait Base",
+      "file_type": "document",
+      "source_file": "MassAgentSyncTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendlistbase",
+      "label": "Anim Graph Node Blend List Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__BlendListByInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit Highlevel Base Mutable",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchybasemutable",
+      "label": "RigUnit Hierarchy Base Mutable",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchySetPoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmstructmutable",
+      "label": "RigVMStruct Mutable",
+      "file_type": "document",
+      "source_file": "RigVMFunction_ForLoopCount Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlineblueprintcallproxybase",
+      "label": "Online Blueprint Call Proxy Base",
+      "file_type": "document",
+      "source_file": "JoinSessionCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "apiclassbase",
+      "label": "Api Class Base",
+      "file_type": "document",
+      "source_file": "WindowAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "Delegate Base",
+      "file_type": "document",
+      "source_file": "OnImageWriteComplete Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "Enum Base",
+      "file_type": "document",
+      "source_file": "ScriptCollisionShapeType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_stringcontains",
+      "target": "rigvmfunction_stringbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__StringContains Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltruntimeskeletalanimationcurveremapperhook",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeSkeletalAnimationCurveRemapperHook Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthremovelaneinfo",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRemoveLaneInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proceduralfoliageinstance",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProceduralFoliageInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatequatquat",
+      "target": "rigvmfunction_mathrbfinterpolatequatquat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateQuatQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmcontentbrowserthumbnailsettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMContentBrowserThumbnailSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetingfiltertask_actorclass",
+      "target": "targetingfiltertask_basicfiltertemplate",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetingFilterTask__ActorClass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_clamp_float",
+      "target": "rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_Clamp_Float Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massagentsynctrait",
+      "target": "massentitytraitbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassAgentSyncTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendlistbyint",
+      "target": "animgraphnode_blendlistbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__BlendListByInt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveperitem",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scriptcollisionshapetype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ScriptCollisionShapeType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riglogicscaletype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigLogicScaleType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onimagewritecomplete",
+      "target": "delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnImageWriteComplete Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_forloopcount",
+      "target": "rigvmstructmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_ForLoopCount Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blendsample",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlendSample Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "joinsessioncallbackproxy",
+      "target": "onlineblueprintcallproxybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "JoinSessionCallbackProxy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchysetposeitemarray",
+      "target": "rigunit_hierarchybasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchySetPoseItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hitresultgizmofiltermode",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HitResultGizmoFilterMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmutablebase",
+      "target": "rigvmfunction_mathmutablebase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathMutableBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "windowapi",
+      "target": "apiclassbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WindowAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nodalpointoffset",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NodalPointOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_clamp_float",
+      "target": "rigunit_fitchaintocurveperitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_Clamp_Float Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurveperitem",
+      "target": "rigunit_hierarchysetposeitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__FitChainToCurvePerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blendsample",
+      "target": "animgraphnode_blendlistbyint",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "BlendSample Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proceduralfoliageinstance",
+      "target": "nodalpointoffset",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ProceduralFoliageInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringcontains",
+      "target": "rigvmfunction_forloopcount",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__StringContains Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scriptcollisionshapetype",
+      "target": "hitresultgizmofiltermode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ScriptCollisionShapeType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riglogicscaletype",
+      "target": "rigunit_mathrbfinterpolatequatquat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigLogicScaleType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetingfiltertask_actorclass",
+      "target": "massagentsynctrait",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "TargetingFilterTask__ActorClass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_control_rig_units",
+      "label": "Control Rig Unit Classes",
+      "nodes": [
+        "rigvmfunction_stringcontains",
+        "rigunit_clamp_float",
+        "rigunit_fitchaintocurveperitem",
+        "rigunit_hierarchysetposeitemarray",
+        "rigvmfunction_forloopcount",
+        "rigunit_mathmutablebase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction__StringContains Objects.md"
+    },
+    {
+      "id": "data_structure_classes",
+      "label": "Data Structure Classes",
+      "nodes": [
+        "gltruntimeskeletalanimationcurveremapperhook",
+        "earthremovelaneinfo",
+        "proceduralfoliageinstance",
+        "dmcontentbrowserthumbnailsettings",
+        "blendsample",
+        "nodalpointoffset"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "glTFRuntimeSkeletalAnimationCurveRemapperHook Objects.md"
+    },
+    {
+      "id": "enum_classes",
+      "label": "Enumeration Classes",
+      "nodes": [
+        "scriptcollisionshapetype",
+        "riglogicscaletype",
+        "hitresultgizmofiltermode"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "ScriptCollisionShapeType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

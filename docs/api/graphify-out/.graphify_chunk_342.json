@@ -1,0 +1,431 @@
+{
+  "nodes": [
+    {
+      "id": "sourceeffectdynamicspeakmode_sourcedynamicspeakmode",
+      "label": "SourceEffectDynamicsPeakMode",
+      "file_type": "code",
+      "source_file": "SourceEffectDynamicsPeakMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textlibrary_textlibrary",
+      "label": "TextLibrary",
+      "file_type": "code",
+      "source_file": "TextLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editablegametagqueryexpression_allexprmatch_allexprmatch",
+      "label": "EditableGameplayTagQueryExpression_AllExprMatch",
+      "file_type": "code",
+      "source_file": "EditableGameplayTagQueryExpression_AllExprMatch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenedynamicbindingpayloadvariable_payloadvariable",
+      "label": "MovieSceneDynamicBindingPayloadVariable",
+      "file_type": "code",
+      "source_file": "MovieSceneDynamicBindingPayloadVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublebase_mathdoublebase",
+      "label": "RigUnit_MathDoubleBase",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangegenerictexturepipeline_texturepipeline",
+      "label": "InterchangeGenericTexturePipeline",
+      "file_type": "code",
+      "source_file": "InterchangeGenericTexturePipeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "warppointanimprovider_warppointanimprovider",
+      "label": "WarpPointAnimProvider",
+      "file_type": "code",
+      "source_file": "WarpPointAnimProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rb_thrustercomponent_thrustercomponent",
+      "label": "RB_ThrusterComponent",
+      "file_type": "code",
+      "source_file": "RB_ThrusterComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unroadheatmapfilterparam_filterparam",
+      "label": "UnRoadHeatMapFilterParam",
+      "file_type": "code",
+      "source_file": "UnRoadHeatMapFilterParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physicsvolumeexportert3d_volumexportert3d",
+      "label": "PhysicsVolumeExporterT3D",
+      "file_type": "code",
+      "source_file": "PhysicsVolumeExporterT3D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "imgmediasourcefactory_sourcefactory",
+      "label": "ImgMediaSourceFactory",
+      "file_type": "code",
+      "source_file": "ImgMediaSourceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadheatmapentityatom_entityatom",
+      "label": "RoadHeatMapEntityAtom",
+      "file_type": "code",
+      "source_file": "RoadHeatMapEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolorbinaryop_colorbinaryop",
+      "label": "RigVMFunction_MathColorBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathColorBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getmetadatatags_getmetadatatags",
+      "label": "RigUnit_GetMetadataTags",
+      "file_type": "code",
+      "source_file": "RigUnit_GetMetadataTags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorcorrectregion_c_colorcorrectregion",
+      "label": "ColorCorrectRegion_C",
+      "file_type": "code",
+      "source_file": "ColorCorrectRegion_C Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpselectionapi_selectionapi",
+      "label": "WdpSelectionApi",
+      "file_type": "code",
+      "source_file": "WdpSelectionApi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformernamearrayvariable_namearrayvariable",
+      "label": "RigVMTrait_SetDeformerNameArrayVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait_SetDeformerNameArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmainaudiooutputdeviceobtained_audiooutputdeviceobtained",
+      "label": "OnMainAudioOutputDeviceObtained",
+      "file_type": "code",
+      "source_file": "OnMainAudioOutputDeviceObtained Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_item_item",
+      "label": "RigUnit_Item",
+      "file_type": "code",
+      "source_file": "RigUnit_Item Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stereolayershapequad_shapequad",
+      "label": "StereoLayerShapeQuad",
+      "file_type": "code",
+      "source_file": "StereoLayerShapeQuad Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visibleparams_visibleparams",
+      "label": "VisibleParams",
+      "file_type": "code",
+      "source_file": "VisibleParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "boxreflectioncapture_boxreflectioncapture",
+      "label": "BoxReflectionCapture",
+      "file_type": "code",
+      "source_file": "BoxReflectionCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "editablegametagqueryexpression_allexprmatch_allexprmatch",
+      "target": "rigunit_mathdoublebase_mathdoublebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditableGameplayTagQueryExpression_AllExprMatch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangegenerictexturepipeline_texturepipeline",
+      "target": "imgmediasourcefactory_sourcefactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InterchangeGenericTexturePipeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unroadheatmapfilterparam_filterparam",
+      "target": "roadheatmapentityatom_entityatom",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "UnRoadHeatMapFilterParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathcolorbinaryop_colorbinaryop",
+      "target": "rigunit_getmetadatatags_getmetadatatags",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction_MathColorBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getmetadatatags_getmetadatatags",
+      "target": "rigunit_item_item",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_GetMetadataTags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformernamearrayvariable_namearrayvariable",
+      "target": "rigunit_getmetadatatags_getmetadatatags",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMTrait_SetDeformerNameArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "visibleparams_visibleparams",
+      "target": "unroadheatmapfilterparam_filterparam",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "VisibleParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpselectionapi_selectionapi",
+      "target": "visibleparams_visibleparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpSelectionApi Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectdynamicspeakmode_sourcedynamicspeakmode",
+      "target": "onmainaudiooutputdeviceobtained_audiooutputdeviceobtained",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "SourceEffectDynamicsPeakMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rb_thrustercomponent_thrustercomponent",
+      "target": "physicsvolumeexportert3d_volumexportert3d",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RB_ThrusterComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "textlibrary_textlibrary",
+      "target": "boxreflectioncapture_boxreflectioncapture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "TextLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "colorcorrectregion_c_colorcorrectregion",
+      "target": "boxreflectioncapture_boxreflectioncapture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ColorCorrectRegion_C Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "warppointanimprovider_warppointanimprovider",
+      "target": "moviescenedynamicbindingpayloadvariable_payloadvariable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "WarpPointAnimProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stereolayershapequad_shapequad",
+      "target": "boxreflectioncapture_boxreflectioncapture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "StereoLayerShapeQuad Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_controlrig_rigunit_nodes",
+      "label": "ControlRig RigUnit Nodes",
+      "nodes": [
+        "rigunit_getmetadatatags_getmetadatatags",
+        "rigunit_item_item",
+        "rigvmtrait_setdeformernamearrayvariable_namearrayvariable"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_GetMetadataTags Objects.md"
+    },
+    {
+      "id": "unreal_api_parameter_classes",
+      "label": "Unreal API Parameter Classes",
+      "nodes": [
+        "unroadheatmapfilterparam_filterparam",
+        "visibleparams_visibleparams",
+        "wdpselectionapi_selectionapi"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "UnRoadHeatMapFilterParam Objects.md"
+    },
+    {
+      "id": "texture_media_pipeline_components",
+      "label": "Texture and Media Pipeline Components",
+      "nodes": [
+        "interchangegenerictexturepipeline_texturepipeline",
+        "imgmediasourcefactory_sourcefactory",
+        "moviescenedynamicbindingpayloadvariable_payloadvariable"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InterchangeGenericTexturePipeline Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

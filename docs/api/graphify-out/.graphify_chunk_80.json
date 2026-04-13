@@ -1,0 +1,858 @@
+{
+  "nodes": [
+    {
+      "id": "ceclonercomparemode",
+      "label": "CEClonerCompareMode",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonercomparemode_greater",
+      "label": "GREATER",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonercomparemode_greater_equal",
+      "label": "GREATER_EQUAL",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonercomparemode_equal",
+      "label": "EQUAL",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonercomparemode_not_equal",
+      "label": "NOT_EQUAL",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonercomparemode_less",
+      "label": "LESS",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonercomparemode_less_equal",
+      "label": "LESS_EQUAL",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequencefactorynew",
+      "label": "LevelSequenceFactoryNew",
+      "file_type": "document",
+      "source_file": "LevelSequenceFactoryNew Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathinttodouble",
+      "label": "RigUnit_MathIntToDouble",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntToDouble Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaravariant",
+      "label": "NiagaraVariant",
+      "file_type": "document",
+      "source_file": "NiagaraVariant Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene3dattachtrack",
+      "label": "MovieScene3DAttachTrack",
+      "file_type": "document",
+      "source_file": "MovieScene3DAttachTrack Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenedatalayertrack",
+      "label": "MovieSceneDataLayerTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneDataLayerTrack Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialfunctioncall",
+      "label": "MaterialExpressionMaterialFunctionCall",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialFunctionCall Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreereferenceoverrides",
+      "label": "StateTreeReferenceOverrides",
+      "file_type": "document",
+      "source_file": "StateTreeReferenceOverrides Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorlerp",
+      "label": "RigUnit_MathVectorLerp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorLerp Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptspatialqueryoptions",
+      "label": "GeometryScriptSpatialQueryOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptSpatialQueryOptions Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setvector2danimationchannelfromitem",
+      "label": "RigUnit_SetVector2DAnimationChannelFromItem",
+      "file_type": "document",
+      "source_file": "RigUnit_SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkcameraframedata",
+      "label": "LiveLinkCameraFrameData",
+      "file_type": "document",
+      "source_file": "LiveLinkCameraFrameData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "LevelSequenceFactoryNew Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathinttodouble",
+      "label": "RigVMFunction_MathIntToDouble",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntToDouble Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "NiagaraVariant Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene3dconstrainttrack",
+      "label": "MovieScene3DConstraintTrack",
+      "file_type": "document",
+      "source_file": "MovieScene3DAttachTrack Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenenameabletrack",
+      "label": "MovieSceneNameableTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneDataLayerTrack Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialFunctionCall Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorlerp",
+      "label": "RigVMFunction_MathVectorLerp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorLerp Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setanimationchannelbasefromitem",
+      "label": "RigUnit_SetAnimationChannelBaseFromItem",
+      "file_type": "document",
+      "source_file": "RigUnit_SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinktransformframedata",
+      "label": "LiveLinkTransformFrameData",
+      "file_type": "document",
+      "source_file": "LiveLinkCameraFrameData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clonereffector_plugin",
+      "label": "ClonerEffector Plugin",
+      "file_type": "document",
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceeditor_plugin",
+      "label": "LevelSequenceEditor Plugin",
+      "file_type": "document",
+      "source_file": "LevelSequenceFactoryNew Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NiagaraVariant Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetracks_module",
+      "label": "MovieSceneTracks Module",
+      "file_type": "document",
+      "source_file": "MovieScene3DAttachTrack Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialFunctionCall Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetree_plugin",
+      "label": "StateTree Plugin",
+      "file_type": "document",
+      "source_file": "StateTreeReferenceOverrides Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptSpatialQueryOptions Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit_SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkinterface_module",
+      "label": "LiveLinkInterface Module",
+      "file_type": "document",
+      "source_file": "LiveLinkCameraFrameData Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_properties",
+      "label": "Camera Properties",
+      "file_type": "document",
+      "source_file": "LiveLinkCameraFrameData Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_function_calling",
+      "label": "Material Function Calling",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialFunctionCall Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatial_queries",
+      "label": "Spatial Queries",
+      "file_type": "document",
+      "source_file": "GeometryScriptSpatialQueryOptions Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_channel_manipulation",
+      "label": "Animation Channel Manipulation",
+      "file_type": "document",
+      "source_file": "RigUnit_SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": "line 8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "ceclonercomparemode",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonercomparemode",
+      "target": "clonereffector_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonercomparemode",
+      "target": "ceclonercomparemode_greater",
+      "relation": "has_member",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonercomparemode",
+      "target": "ceclonercomparemode_greater_equal",
+      "relation": "has_member",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonercomparemode",
+      "target": "ceclonercomparemode_equal",
+      "relation": "has_member",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 28",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonercomparemode",
+      "target": "ceclonercomparemode_not_equal",
+      "relation": "has_member",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 33",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonercomparemode",
+      "target": "ceclonercomparemode_less",
+      "relation": "has_member",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 39",
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonercomparemode",
+      "target": "ceclonercomparemode_less_equal",
+      "relation": "has_member",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerCompareMode Objects.md",
+      "source_location": "line 45",
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequencefactorynew",
+      "target": "factory",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceFactoryNew Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequencefactorynew",
+      "target": "levelsequenceeditor_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceFactoryNew Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathinttodouble",
+      "target": "rigvmfunction_mathinttodouble",
+      "relation": "deprecated_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntToDouble Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathinttodouble",
+      "target": "rigvmfunction_mathinttodouble",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntToDouble Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaravariant",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraVariant Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaravariant",
+      "target": "niagara_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraVariant Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene3dattachtrack",
+      "target": "moviescene3dconstrainttrack",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScene3DAttachTrack Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene3dattachtrack",
+      "target": "moviescenetracks_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScene3DAttachTrack Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenedatalayertrack",
+      "target": "moviescenenameabletrack",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneDataLayerTrack Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenedatalayertrack",
+      "target": "moviescenetracks_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneDataLayerTrack Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialfunctioncall",
+      "target": "materialexpression",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialFunctionCall Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialfunctioncall",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialFunctionCall Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialfunctioncall",
+      "target": "material_function_calling",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionMaterialFunctionCall Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "statetreereferenceoverrides",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeReferenceOverrides Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "statetreereferenceoverrides",
+      "target": "statetree_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeReferenceOverrides Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorlerp",
+      "target": "rigvmfunction_mathvectorlerp",
+      "relation": "deprecated_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorLerp Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorlerp",
+      "target": "rigvmfunction_mathvectorlerp",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorLerp Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptspatialqueryoptions",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptSpatialQueryOptions Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptspatialqueryoptions",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptSpatialQueryOptions Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptspatialqueryoptions",
+      "target": "spatial_queries",
+      "relation": "configures",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScriptSpatialQueryOptions Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setvector2danimationchannelfromitem",
+      "target": "rigunit_setanimationchannelbasefromitem",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setvector2danimationchannelfromitem",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setvector2danimationchannelfromitem",
+      "target": "animation_channel_manipulation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_SetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": "line 8",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkcameraframedata",
+      "target": "livelinktransformframedata",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkCameraFrameData Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkcameraframedata",
+      "target": "livelinkinterface_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkCameraFrameData Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkcameraframedata",
+      "target": "camera_properties",
+      "relation": "contains",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "LiveLinkCameraFrameData Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene3dattachtrack",
+      "target": "moviescenedatalayertrack",
+      "relation": "shares_module_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieScene3DAttachTrack Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathinttodouble",
+      "target": "rigunit_mathvectorlerp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathIntToDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptspatialqueryoptions",
+      "target": "livelinkcameraframedata",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "GeometryScriptSpatialQueryOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rig_units",
+      "label": "Deprecated Rig Units",
+      "nodes": ["rigunit_mathinttodouble", "rigunit_mathvectorlerp"],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathIntToDouble Objects.md"
+    },
+    {
+      "id": "movie_scene_tracks",
+      "label": "Movie Scene Tracks",
+      "nodes": ["moviescene3dattachtrack", "moviescenedatalayertrack"],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieScene3DAttachTrack Objects.md"
+    },
+    {
+      "id": "struct_based_data_structures",
+      "label": "Struct-Based Data Structures",
+      "nodes": ["niagaravariant", "statetreereferenceoverrides", "geometryscriptspatialqueryoptions"],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NiagaraVariant Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

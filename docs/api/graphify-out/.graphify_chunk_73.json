@@ -1,0 +1,809 @@
+{
+  "nodes": [
+    {
+      "id": "mrmeshcomponent_mrmeshcomponent",
+      "label": "MRMeshComponent",
+      "file_type": "document",
+      "source_file": "MRMeshComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mrmeshcomponent_primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "document",
+      "source_file": "MRMeshComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mrmeshcomponent_wireframe_operations",
+      "label": "Wireframe Operations",
+      "file_type": "document",
+      "source_file": "MRMeshComponent Objects.md",
+      "source_location": "lines 196-237",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mrmeshcomponent_nav_mesh_operations",
+      "label": "Nav Mesh Operations",
+      "file_type": "document",
+      "source_file": "MRMeshComponent Objects.md",
+      "source_location": "lines 252-328",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floatanimationattribute_floatanimationattribute",
+      "label": "FloatAnimationAttribute",
+      "file_type": "document",
+      "source_file": "FloatAnimationAttribute Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floatanimationattribute_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "FloatAnimationAttribute Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floatanimationattribute_legacy_tvariant",
+      "label": "Legacy TVariant Attribute Support",
+      "file_type": "document",
+      "source_file": "FloatAnimationAttribute Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplayerfactorynew_mediaplayerfactorynew",
+      "label": "MediaPlayerFactoryNew",
+      "file_type": "document",
+      "source_file": "MediaPlayerFactoryNew Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplayerfactorynew_factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "MediaPlayerFactoryNew Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplayerfactorynew_mediaplayer_creation",
+      "label": "UMediaPlayer Creation",
+      "file_type": "document",
+      "source_file": "MediaPlayerFactoryNew Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringendswith_rigunit_stringendswith",
+      "label": "RigUnit_StringEndsWith",
+      "file_type": "document",
+      "source_file": "RigUnit_StringEndsWith Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringendswith_rigvmfunction_stringendswith",
+      "label": "RigVMFunction_StringEndsWith",
+      "file_type": "document",
+      "source_file": "RigUnit_StringEndsWith Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthspatialdatainterface_earthspatialdatainterface",
+      "label": "EarthSpatialDataInterface",
+      "file_type": "document",
+      "source_file": "EarthSpatialDataInterface Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthspatialdatainterface_interface",
+      "label": "Interface",
+      "file_type": "document",
+      "source_file": "EarthSpatialDataInterface Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthspatialdatainterface_spatial_data_management",
+      "label": "Spatial Data Management",
+      "file_type": "document",
+      "source_file": "EarthSpatialDataInterface Objects.md",
+      "source_location": "lines 15-80",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthspatialdatainterface_aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthSpatialDataInterface Objects.md",
+      "source_location": "lines 11-12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexture2dfactorynode_interchangetexture2dfactorynode",
+      "label": "InterchangeTexture2DFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeTexture2DFactoryNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexture2dfactorynode_interchangetexturefactorynode",
+      "label": "InterchangeTextureFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeTexture2DFactoryNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexture2dfactorynode_udim_texture_import",
+      "label": "UDIM Texture Import",
+      "file_type": "document",
+      "source_file": "InterchangeTexture2DFactoryNode Objects.md",
+      "source_location": "lines 23-28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexture2dfactorynode_source_block_management",
+      "label": "Source Block Management",
+      "file_type": "document",
+      "source_file": "InterchangeTexture2DFactoryNode Objects.md",
+      "source_location": "lines 15-152",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityactivationmode_gameplayabilityactivationmode",
+      "label": "GameplayAbilityActivationMode",
+      "file_type": "document",
+      "source_file": "GameplayAbilityActivationMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityactivationmode_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "GameplayAbilityActivationMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityactivationmode_ability_prediction_system",
+      "label": "Ability Prediction System",
+      "file_type": "document",
+      "source_file": "GameplayAbilityActivationMode Objects.md",
+      "source_location": "lines 7-43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendclassvertex_metasoundfrontendclassvertex",
+      "label": "MetasoundFrontendClassVertex",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendClassVertex Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendclassvertex_metasoundfrontendvertex",
+      "label": "MetasoundFrontendVertex",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendClassVertex Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendclassvertex_vertex_metadata",
+      "label": "Vertex Metadata",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendClassVertex Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkpreset_livelinkpreset",
+      "label": "LiveLinkPreset",
+      "file_type": "document",
+      "source_file": "LiveLinkPreset Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkpreset_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "LiveLinkPreset Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkpreset_preset_management",
+      "label": "Preset Management",
+      "file_type": "document",
+      "source_file": "LiveLinkPreset Objects.md",
+      "source_location": "lines 20-76",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkpreset_source_and_subject_configuration",
+      "label": "Source and Subject Configuration",
+      "file_type": "document",
+      "source_file": "LiveLinkPreset Objects.md",
+      "source_location": "lines 17-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basegeneratednavlinksproxy_basegeneratednavlinksproxy",
+      "label": "BaseGeneratedNavLinksProxy",
+      "file_type": "document",
+      "source_file": "BaseGeneratedNavLinksProxy Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basegeneratednavlinksproxy_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "BaseGeneratedNavLinksProxy Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basegeneratednavlinksproxy_navigation_system",
+      "label": "Navigation System",
+      "file_type": "document",
+      "source_file": "BaseGeneratedNavLinksProxy Objects.md",
+      "source_location": "lines 7-9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugtransformmutableitemspace_rigunit_debugtransformmutableitemspace",
+      "label": "RigUnit_DebugTransformMutableItemSpace",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformMutableItemSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugtransformmutableitemspace_rigunit_debugbasemutable",
+      "label": "RigUnit_DebugBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformMutableItemSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugtransformmutableitemspace_viewport_debug_visualization",
+      "label": "Viewport Debug Visualization",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformMutableItemSpace Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugtransformmutableitemspace_controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit__DebugTransformMutableItemSpace Objects.md",
+      "source_location": "lines 11-12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "combobuttonstyle_combobuttonstyle",
+      "label": "ComboButtonStyle",
+      "file_type": "document",
+      "source_file": "ComboButtonStyle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "combobuttonstyle_slatewidgetstyle",
+      "label": "SlateWidgetStyle",
+      "file_type": "document",
+      "source_file": "ComboButtonStyle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "combobuttonstyle_ui_widget_styling",
+      "label": "UI Widget Styling",
+      "file_type": "document",
+      "source_file": "ComboButtonStyle Objects.md",
+      "source_location": "lines 16-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "combobuttonstyle_scombobutton_widget",
+      "label": "SComboButton Widget",
+      "file_type": "document",
+      "source_file": "ComboButtonStyle Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "mrmeshcomponent_mrmeshcomponent",
+      "target": "mrmeshcomponent_primitivecomponent",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MRMeshComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "mrmeshcomponent_wireframe_operations",
+      "target": "mrmeshcomponent_mrmeshcomponent",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MRMeshComponent Objects.md",
+      "source_location": "lines 196-237",
+      "weight": 1.0
+    },
+    {
+      "source": "mrmeshcomponent_nav_mesh_operations",
+      "target": "mrmeshcomponent_mrmeshcomponent",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MRMeshComponent Objects.md",
+      "source_location": "lines 252-328",
+      "weight": 1.0
+    },
+    {
+      "source": "floatanimationattribute_floatanimationattribute",
+      "target": "floatanimationattribute_structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FloatAnimationAttribute Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "floatanimationattribute_legacy_tvariant",
+      "target": "floatanimationattribute_floatanimationattribute",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FloatAnimationAttribute Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "mediaplayerfactorynew_mediaplayerfactorynew",
+      "target": "mediaplayerfactorynew_factory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaPlayerFactoryNew Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "mediaplayerfactorynew_mediaplayer_creation",
+      "target": "mediaplayerfactorynew_mediaplayerfactorynew",
+      "relation": "created_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaPlayerFactoryNew Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringendswith_rigunit_stringendswith",
+      "target": "rigunit_stringendswith_rigvmfunction_stringendswith",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StringEndsWith Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringendswith_rigunit_stringendswith",
+      "target": "rigunit_stringendswith_rigvmfunction_stringendswith",
+      "relation": "deprecated_in_favor_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StringEndsWith Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "earthspatialdatainterface_earthspatialdatainterface",
+      "target": "earthspatialdatainterface_interface",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSpatialDataInterface Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "earthspatialdatainterface_spatial_data_management",
+      "target": "earthspatialdatainterface_earthspatialdatainterface",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSpatialDataInterface Objects.md",
+      "source_location": "lines 15-80",
+      "weight": 1.0
+    },
+    {
+      "source": "earthspatialdatainterface_aesworld_plugin",
+      "target": "earthspatialdatainterface_earthspatialdatainterface",
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSpatialDataInterface Objects.md",
+      "source_location": "lines 11-12",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexture2dfactorynode_interchangetexture2dfactorynode",
+      "target": "interchangetexture2dfactorynode_interchangetexturefactorynode",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTexture2DFactoryNode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexture2dfactorynode_udim_texture_import",
+      "target": "interchangetexture2dfactorynode_interchangetexture2dfactorynode",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTexture2DFactoryNode Objects.md",
+      "source_location": "lines 23-28",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexture2dfactorynode_source_block_management",
+      "target": "interchangetexture2dfactorynode_interchangetexture2dfactorynode",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTexture2DFactoryNode Objects.md",
+      "source_location": "lines 15-152",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilityactivationmode_gameplayabilityactivationmode",
+      "target": "gameplayabilityactivationmode_enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityActivationMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilityactivationmode_ability_prediction_system",
+      "target": "gameplayabilityactivationmode_gameplayabilityactivationmode",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityActivationMode Objects.md",
+      "source_location": "lines 7-43",
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendclassvertex_metasoundfrontendclassvertex",
+      "target": "metasoundfrontendclassvertex_metasoundfrontendvertex",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundFrontendClassVertex Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendclassvertex_vertex_metadata",
+      "target": "metasoundfrontendclassvertex_metasoundfrontendclassvertex",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundFrontendClassVertex Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkpreset_livelinkpreset",
+      "target": "livelinkpreset_object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkPreset Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkpreset_preset_management",
+      "target": "livelinkpreset_livelinkpreset",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkPreset Objects.md",
+      "source_location": "lines 20-76",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkpreset_source_and_subject_configuration",
+      "target": "livelinkpreset_livelinkpreset",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkPreset Objects.md",
+      "source_location": "lines 17-18",
+      "weight": 1.0
+    },
+    {
+      "source": "basegeneratednavlinksproxy_basegeneratednavlinksproxy",
+      "target": "basegeneratednavlinksproxy_object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BaseGeneratedNavLinksProxy Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "basegeneratednavlinksproxy_navigation_system",
+      "target": "basegeneratednavlinksproxy_basegeneratednavlinksproxy",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BaseGeneratedNavLinksProxy Objects.md",
+      "source_location": "lines 7-9",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformmutableitemspace_rigunit_debugtransformmutableitemspace",
+      "target": "rigunit_debugtransformmutableitemspace_rigunit_debugbasemutable",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransformMutableItemSpace Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformmutableitemspace_viewport_debug_visualization",
+      "target": "rigunit_debugtransformmutableitemspace_rigunit_debugtransformmutableitemspace",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransformMutableItemSpace Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugtransformmutableitemspace_controlrig_plugin",
+      "target": "rigunit_debugtransformmutableitemspace_rigunit_debugtransformmutableitemspace",
+      "relation": "provides",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugTransformMutableItemSpace Objects.md",
+      "source_location": "lines 11-12",
+      "weight": 1.0
+    },
+    {
+      "source": "combobuttonstyle_combobuttonstyle",
+      "target": "combobuttonstyle_slatewidgetstyle",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComboButtonStyle Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "combobuttonstyle_ui_widget_styling",
+      "target": "combobuttonstyle_combobuttonstyle",
+      "relation": "feature_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComboButtonStyle Objects.md",
+      "source_location": "lines 16-25",
+      "weight": 1.0
+    },
+    {
+      "source": "combobuttonstyle_scombobutton_widget",
+      "target": "combobuttonstyle_combobuttonstyle",
+      "relation": "styled_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComboButtonStyle Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "mrmeshcomponent_nav_mesh_operations",
+      "target": "basegeneratednavlinksproxy_navigation_system",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MRMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "floatanimationattribute_legacy_tvariant",
+      "target": "gameplayabilityactivationmode_ability_prediction_system",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "FloatAnimationAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_component_hierarchy",
+      "label": "Unreal Engine Component Inheritance Pattern",
+      "nodes": [
+        "mrmeshcomponent_primitivecomponent",
+        "mediaplayerfactorynew_factory",
+        "livelinkpreset_object",
+        "basegeneratednavlinksproxy_object",
+        "combobuttonstyle_slatewidgetstyle"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MRMeshComponent Objects.md"
+    },
+    {
+      "id": "plugin_based_architecture",
+      "label": "Plugin-Based Architecture Pattern",
+      "nodes": [
+        "earthspatialdatainterface_aesworld_plugin",
+        "rigunit_debugtransformmutableitemspace_controlrig_plugin",
+        "interchangetexture2dfactorynode_interchangetexture2dfactorynode"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthSpatialDataInterface Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

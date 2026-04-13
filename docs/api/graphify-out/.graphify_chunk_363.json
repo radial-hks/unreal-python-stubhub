@@ -1,0 +1,675 @@
+{
+  "nodes": [
+    {
+      "id": "ikrig_bodymover",
+      "label": "IKRig BodyMover",
+      "file_type": "code",
+      "source_file": "IKRig_BodyMover Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelvector2d",
+      "label": "RigUnit Hierarchy Add Animation Channel Vector2D",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointlight",
+      "label": "Point Light",
+      "file_type": "code",
+      "source_file": "PointLight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tickablelookatconstraint",
+      "label": "Tickable LookAt Constraint",
+      "file_type": "code",
+      "source_file": "TickableLookAtConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformmakerelative",
+      "label": "RigVMFunction Math Transform MakeRelative",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "label": "RigUnit Hierarchy Add Control Rotator LimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlRotator_LimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocesssettings",
+      "label": "Generate Static Mesh LODProcess Settings",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODProcessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmitharealightactorshape",
+      "label": "Datasmith Area Light Actor Shape",
+      "file_type": "code",
+      "source_file": "DatasmithAreaLightActorShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify_pauseclothingsimulation",
+      "label": "AnimNotify Pause Clothing Simulation",
+      "file_type": "code",
+      "source_file": "AnimNotify__PauseClothingSimulation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "variantmanagerlibrary",
+      "label": "Variant Manager Library",
+      "file_type": "code",
+      "source_file": "VariantManagerLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "columnarheatmapapi",
+      "label": "Columnar HeatMap API",
+      "file_type": "code",
+      "source_file": "ColumnarHeatMapAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnodecustomizationinterface",
+      "label": "Anim Graph Node Customization Interface",
+      "file_type": "code",
+      "source_file": "AnimGraphNodeCustomizationInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "set_wrapper",
+      "label": "Set",
+      "file_type": "code",
+      "source_file": "Set Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componentelementscopy",
+      "label": "Component Elements Copy",
+      "file_type": "code",
+      "source_file": "ComponentElementsCopy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingmeshreductionsettings",
+      "label": "Editor Scripting Mesh Reduction Settings",
+      "file_type": "code",
+      "source_file": "EditorScriptingMeshReductionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffectdelaypreset",
+      "label": "Submix Effect Delay Preset",
+      "file_type": "code",
+      "source_file": "SubmixEffectDelayPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createviewshedparams_batch",
+      "label": "Create Viewshed Params Batch",
+      "file_type": "code",
+      "source_file": "CreateViewshedParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphburninnode",
+      "label": "Movie Graph BurnIn Node",
+      "file_type": "code",
+      "source_file": "MovieGraphBurnInNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolbinaryop",
+      "label": "RigVMFunction Math Bool BinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoolBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onuserscrolledevent",
+      "label": "On User Scrolled Event",
+      "file_type": "code",
+      "source_file": "OnUserScrolledEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialeditornameresult",
+      "label": "DCPMaterial Editor Name Result",
+      "file_type": "code",
+      "source_file": "DCPMaterialEditorNameResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componenttype",
+      "label": "Component Type",
+      "file_type": "code",
+      "source_file": "ComponentType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_solver",
+      "label": "IKRig Solver",
+      "file_type": "code",
+      "source_file": "IKRig_BodyMover Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddelement",
+      "label": "RigUnit Hierarchy AddElement",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "light",
+      "label": "Light",
+      "file_type": "code",
+      "source_file": "PointLight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tickabletransformconstraint",
+      "label": "Tickable Transform Constraint",
+      "file_type": "code",
+      "source_file": "TickableLookAtConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbase",
+      "label": "RigVMFunction Math Transform Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolbase",
+      "label": "RigVMFunction Math Bool Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoolBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshreductionsettings",
+      "label": "Static Mesh Reduction Settings",
+      "file_type": "code",
+      "source_file": "EditorScriptingMeshReductionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunithierarchyaddanimationchannel2dlimitsettings",
+      "label": "RigUnit Hierarchy Add Animation Channel 2D LimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVector2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointlightcomponent",
+      "label": "Point Light Component",
+      "file_type": "code",
+      "source_file": "PointLight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffectdelaysettings",
+      "label": "Submix Effect Delay Settings",
+      "file_type": "code",
+      "source_file": "SubmixEffectDelayPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createviewshedsparams",
+      "label": "Create Viewsheds Params",
+      "file_type": "code",
+      "source_file": "CreateViewshedParams__Batch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrollimitenabled",
+      "label": "Rig Control Limit Enabled",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlRotator_LimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_meshgeneratormodes",
+      "label": "Generate Static Mesh LODProcess MeshGeneratorModes",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODProcessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformablehandle",
+      "label": "Transformable Handle",
+      "file_type": "code",
+      "source_file": "TickableLookAtConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotify",
+      "label": "Anim Notify",
+      "file_type": "code",
+      "source_file": "AnimNotify__PauseClothingSimulation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "ikrig_bodymover",
+      "target": "ikrig_solver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig_BodyMover Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelvector2d",
+      "target": "rigunit_hierarchyaddelement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointlight",
+      "target": "light",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PointLight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tickablelookatconstraint",
+      "target": "tickabletransformconstraint",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TickableLookAtConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformmakerelative",
+      "target": "rigvmfunction_mathtransformbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolbinaryop",
+      "target": "rigvmfunction_mathboolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoolBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorscriptingmeshreductionsettings",
+      "target": "staticmeshreductionsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorScriptingMeshReductionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelvector2d",
+      "target": "rigunithierarchyaddanimationchannel2dlimitsettings",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointlight",
+      "target": "pointlightcomponent",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "PointLight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "submixeffectdelaypreset",
+      "target": "submixeffectdelaysettings",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SubmixEffectDelayPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createviewshedparams_batch",
+      "target": "createviewshedsparams",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CreateViewshedParams__Batch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "target": "rigcontrollimitenabled",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_HierarchyAddControlRotator_LimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodprocesssettings",
+      "target": "generatestaticmeshlodprocess_meshgeneratormodes",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GenerateStaticMeshLODProcessSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tickablelookatconstraint",
+      "target": "transformablehandle",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TickableLookAtConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotify_pauseclothingsimulation",
+      "target": "animnotify",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotify__PauseClothingSimulation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformmakerelative",
+      "target": "rigvmfunction_mathboolbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathTransformMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelvector2d",
+      "target": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVector2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_bodymover",
+      "target": "tickablelookatconstraint",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "IKRig_BodyMover Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componenttype",
+      "target": "rigvmfunction_mathtransformmakerelative",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ComponentType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datasmitharealightactorshape",
+      "target": "pointlight",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DatasmithAreaLightActorShape Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createviewshedparams_batch",
+      "target": "columnarheatmapapi",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CreateViewshedParams__Batch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "variantmanagerlibrary",
+      "target": "dcpmaterialeditornameresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "VariantManagerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_control_system",
+      "label": "Rig Control System",
+      "nodes": [
+        "rigunit_hierarchyaddanimationchannelvector2d",
+        "rigunit_hierarchyaddcontrolrotator_limitsettings",
+        "rigvmfunction_mathtransformmakerelative",
+        "rigvmfunction_mathboolbinaryop"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVector2D Objects.md"
+    },
+    {
+      "id": "ik_constraint_system",
+      "label": "IK Constraint System",
+      "nodes": [
+        "ikrig_bodymover",
+        "tickablelookatconstraint"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IKRig_BodyMover Objects.md"
+    },
+    {
+      "id": "light_system",
+      "label": "Light System",
+      "nodes": [
+        "pointlight",
+        "datasmitharealightactorshape"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PointLight Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,810 @@
+{
+  "nodes": [
+    {
+      "id": "pytestobject_pytestobject",
+      "label": "PyTestObject",
+      "file_type": "document",
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pyteststruct_pyteststruct",
+      "label": "PyTestStruct",
+      "file_type": "document",
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestchildstruct_pytestchildstruct",
+      "label": "PyTestChildStruct",
+      "file_type": "document",
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestenum_pytestenum",
+      "label": "PyTestEnum",
+      "file_type": "document",
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestdelegate_pytestdelegate",
+      "label": "PyTestDelegate",
+      "file_type": "document",
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestmulticastdelegate_pytestmulticastdelegate",
+      "label": "PyTestMulticastDelegate",
+      "file_type": "document",
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onchaotrailingevents_onchaotrailingevents",
+      "label": "OnChaosTrailingEvents",
+      "file_type": "document",
+      "source_file": "OnChaosTrailingEvents Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosdrailingeventdata_chaosdrailingeventdata",
+      "label": "ChaosTrailingEventData",
+      "file_type": "document",
+      "source_file": "OnChaosTrailingEvents Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxminus_materialexpressionmaterialxminus",
+      "label": "MaterialExpressionMaterialXMinus",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXMinus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadbuilderconnectivitydata_aesroadbuilderconnectivitydata",
+      "label": "AesRoadBuilderConnectivityData",
+      "file_type": "document",
+      "source_file": "AesRoadBuilderConnectivityData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmodelerlaneinfofragment_earthmodelerlaneinfofragment",
+      "label": "EarthModelerLaneInfoFragment",
+      "file_type": "document",
+      "source_file": "EarthModelerLaneInfoFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmodelerlaneinfo_earthmodelerlaneinfo",
+      "label": "EarthModelerLaneInfo",
+      "file_type": "document",
+      "source_file": "EarthModelerLaneInfoFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daynightcyclemode_daynightcyclemode",
+      "label": "DayNightCycleMode",
+      "file_type": "document",
+      "source_file": "DayNightCycleMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hasmetadatatagarray_rigunit_hasmetadatagarray",
+      "label": "RigUnit_HasMetadataTagArray",
+      "file_type": "document",
+      "source_file": "RigUnit__HasMetadataTagArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit__HasMetadataTagArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigmetadatanamespace_rigmetadatanamespace",
+      "label": "RigMetaDataNameSpace",
+      "file_type": "document",
+      "source_file": "RigUnit__HasMetadataTagArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleatan_rigunit_mathdoubleatan",
+      "label": "RigUnit_MathDoubleAtan",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleAtan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleatan_rigvmfunction_mathdoubleatan",
+      "label": "RigVMFunction_MathDoubleAtan",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleAtan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onperchannelmeterresults_onperchannelmeterresults",
+      "label": "OnPerChannelMeterResults",
+      "file_type": "document",
+      "source_file": "OnPerChannelMeterResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meterresults_meterresults",
+      "label": "MeterResults",
+      "file_type": "document",
+      "source_file": "OnPerChannelMeterResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heterogeneousvolume_heterogeneousvolume",
+      "label": "HeterogeneousVolume",
+      "file_type": "document",
+      "source_file": "HeterogeneousVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heterogeneousvolumecomponent_heterogeneousvolumecomponent",
+      "label": "HeterogeneousVolumeComponent",
+      "file_type": "document",
+      "source_file": "HeterogeneousVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsmoothboneweightstype_geometryscriptsmoothboneweightstype",
+      "label": "GeometryScriptSmoothBoneWeightsType",
+      "file_type": "document",
+      "source_file": "GeometryScriptSmoothBoneWeightsType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modularrigsettings_modularrigsettings",
+      "label": "ModularRigSettings",
+      "file_type": "document",
+      "source_file": "ModularRigSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inteidarrayresult_inteidarrayresult",
+      "label": "IntEidArrayResult",
+      "file_type": "document",
+      "source_file": "IntEidArrayResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "label": "WdpSceneChangeInfo",
+      "file_type": "document",
+      "source_file": "IntEidArrayResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rendertargetexporterpng_rendertargetexporterpng",
+      "label": "RenderTargetExporterPNG",
+      "file_type": "document",
+      "source_file": "RenderTargetExporterPNG Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialslotoutputconnectortypes_dmmaterialslotoutputconnectortypes",
+      "label": "DMMaterialSlotOutputConnectorTypes",
+      "file_type": "document",
+      "source_file": "DMMaterialSlotOutputConnectorTypes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmvaluetype_dmvaluetype",
+      "label": "DMValueType",
+      "file_type": "document",
+      "source_file": "DMMaterialSlotOutputConnectorTypes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleconste_rigunit_mathdoubleconste",
+      "label": "RigUnit_MathDoubleConstE",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleConstE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleconste_rigvmfunction_mathdoubleconste",
+      "label": "RigVMFunction_MathDoubleConstE",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleConstE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorcolor_rigvmfunction_mathrbfinterpolatevectorcolor",
+      "label": "RigVMFunction_MathRBFInterpolateVectorColor",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathRBFInterpolateVectorColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fabrikitemarray_rigunit_fabrikitemarray",
+      "label": "RigUnit_FABRIKItemArray",
+      "file_type": "document",
+      "source_file": "RigUnit__FABRIKItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransforminverse_rigunit_mathtransforminverse",
+      "label": "RigUnit_MathTransformInverse",
+      "file_type": "document",
+      "source_file": "RigUnit_MathTransformInverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransforminverse_rigvmfunction_mathtransforminverse",
+      "label": "RigVMFunction_MathTransformInverse",
+      "file_type": "document",
+      "source_file": "RigUnit_MathTransformInverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeventdata_gameplayeventdata",
+      "label": "GameplayEventData",
+      "file_type": "document",
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytag_gameplaytag",
+      "label": "GameplayTag",
+      "file_type": "document",
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytagcontainer_gameplaytagcontainer",
+      "label": "GameplayTagContainer",
+      "file_type": "document",
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectcontexthandle_gameplayeffectcontexthandle",
+      "label": "GameplayEffectContextHandle",
+      "file_type": "document",
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetdatahandle_gameplayabilitytargetdatahandle",
+      "label": "GameplayAbilityTargetDataHandle",
+      "file_type": "document",
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcomputedtransform_rigcomputedtransform",
+      "label": "RigComputedTransform",
+      "file_type": "document",
+      "source_file": "RigComputedTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createtileparams_createtileparams",
+      "label": "CreateTileParams",
+      "file_type": "document",
+      "source_file": "CreateTileParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pytestobject_pytestobject",
+      "target": "pyteststruct_pyteststruct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pytestobject_pytestobject",
+      "target": "pytestchildstruct_pytestchildstruct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pytestobject_pytestobject",
+      "target": "pytestenum_pytestenum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pytestobject_pytestobject",
+      "target": "pytestdelegate_pytestdelegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pytestobject_pytestobject",
+      "target": "pytestmulticastdelegate_pytestmulticastdelegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onchaotrailingevents_onchaotrailingevents",
+      "target": "chaosdrailingeventdata_chaosdrailingeventdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnChaosTrailingEvents Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthmodelerlaneinfofragment_earthmodelerlaneinfofragment",
+      "target": "earthmodelerlaneinfo_earthmodelerlaneinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthModelerLaneInfoFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadatatagarray_rigunit_hasmetadatagarray",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HasMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadatatagarray_rigunit_hasmetadatatagarray",
+      "target": "rigmetadatanamespace_rigmetadatanamespace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HasMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleatan_rigunit_mathdoubleatan",
+      "target": "rigvmfunction_mathdoubleatan_rigvmfunction_mathdoubleatan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleAtan Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onperchannelmeterresults_onperchannelmeterresults",
+      "target": "meterresults_meterresults",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnPerChannelMeterResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "heterogeneousvolume_heterogeneousvolume",
+      "target": "heterogeneousvolumecomponent_heterogeneousvolumecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeterogeneousVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inteidarrayresult_inteidarrayresult",
+      "target": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IntEidArrayResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialslotoutputconnectortypes_dmmaterialslotoutputconnectortypes",
+      "target": "dmvaluetype_dmvaluetype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialSlotOutputConnectorTypes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleconste_rigunit_mathdoubleconste",
+      "target": "rigvmfunction_mathdoubleconste_rigvmfunction_mathdoubleconste",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleConstE Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransforminverse_rigunit_mathtransforminverse",
+      "target": "rigvmfunction_mathtransforminverse_rigvmfunction_mathtransforminverse",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathTransformInverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeventdata_gameplayeventdata",
+      "target": "gameplaytag_gameplaytag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeventdata_gameplayeventdata",
+      "target": "gameplaytagcontainer_gameplaytagcontainer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeventdata_gameplayeventdata",
+      "target": "gameplayeffectcontexthandle_gameplayeffectcontexthandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayeventdata_gameplayeventdata",
+      "target": "gameplayabilitytargetdatahandle_gameplayabilitytargetdatahandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEventData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleatan_rigunit_mathdoubleatan",
+      "target": "rigvmfunction_mathdoubleatan_rigvmfunction_mathdoubleatan",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit__MathDoubleAtan Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleconste_rigunit_mathdoubleconste",
+      "target": "rigvmfunction_mathdoubleconste_rigvmfunction_mathdoubleconste",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit__MathDoubleConstE Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransforminverse_rigunit_mathtransforminverse",
+      "target": "rigvmfunction_mathtransforminverse_rigvmfunction_mathtransforminverse",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit_MathTransformInverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadatatagarray_rigunit_hasmetadatagarray",
+      "target": "rigunit_fabrikitemarray_rigunit_fabrikitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__HasMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fabrikitemarray_rigunit_fabrikitemarray",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FABRIKItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcomputedtransform_rigcomputedtransform",
+      "target": "rigunit_fabrikitemarray_rigunit_fabrikitemarray",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigComputedTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadbuilderconnectivitydata_aesroadbuilderconnectivitydata",
+      "target": "earthmodelerlaneinfofragment_earthmodelerlaneinfofragment",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesRoadBuilderConnectivityData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadbuilderconnectivitydata_aesroadbuilderconnectivitydata",
+      "target": "createtileparams_createtileparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AesRoadBuilderConnectivityData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthmodelerlaneinfofragment_earthmodelerlaneinfofragment",
+      "target": "createtileparams_createtileparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "EarthModelerLaneInfoFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_math_functions",
+      "label": "ControlRig Math Functions",
+      "nodes": [
+        "rigunit_mathdoubleatan_rigunit_mathdoubleatan",
+        "rigvmfunction_mathdoubleatan_rigvmfunction_mathdoubleatan",
+        "rigunit_mathdoubleconste_rigunit_mathdoubleconste",
+        "rigvmfunction_mathdoubleconste_rigvmfunction_mathdoubleconste",
+        "rigunit_mathtransforminverse_rigunit_mathtransforminverse",
+        "rigvmfunction_mathtransforminverse_rigvmfunction_mathtransforminverse",
+        "rigvmfunction_mathrbfinterpolatevectorcolor_rigvmfunction_mathrbfinterpolatevectorcolor"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathDoubleAtan Objects.md"
+    },
+    {
+      "id": "pytest_testing_types",
+      "label": "Python Testing Type System",
+      "nodes": [
+        "pytestobject_pytestobject",
+        "pyteststruct_pyteststruct",
+        "pytestchildstruct_pytestchildstruct",
+        "pytestenum_pytestenum",
+        "pytestdelegate_pytestdelegate",
+        "pytestmulticastdelegate_pytestmulticastdelegate"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "PyTestObject Objects.md"
+    },
+    {
+      "id": "gameplay_event_system",
+      "label": "Gameplay Event System",
+      "nodes": [
+        "gameplayeventdata_gameplayeventdata",
+        "gameplaytag_gameplaytag",
+        "gameplaytagcontainer_gameplaytagcontainer",
+        "gameplayeffectcontexthandle_gameplayeffectcontexthandle",
+        "gameplayabilitytargetdatahandle_gameplayabilitytargetdatahandle"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayEventData Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

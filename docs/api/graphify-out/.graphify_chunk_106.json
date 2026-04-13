@@ -1,0 +1,1277 @@
+{
+  "nodes": [
+    {
+      "id": "heatmapstyle",
+      "label": "HeatMapStyle",
+      "file_type": "document",
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapstyle_brush_diameter",
+      "label": "HeatMapStyle.brush_diameter",
+      "file_type": "document",
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapstyle_gradient_setting",
+      "label": "HeatMapStyle.gradient_setting",
+      "file_type": "document",
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapstyle_mapping_height_range",
+      "label": "HeatMapStyle.mapping_height_range",
+      "file_type": "document",
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "heatmapstyle_mapping_value_range",
+      "label": "HeatMapStyle.mapping_value_range",
+      "file_type": "document",
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onearthfailed",
+      "label": "OnEarthFailed",
+      "file_type": "document",
+      "source_file": "OnEarthFailed Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixfilteralgorithm",
+      "label": "SubmixFilterAlgorithm",
+      "file_type": "document",
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixfilteralgorithm_one_pole",
+      "label": "SubmixFilterAlgorithm.ONE_POLE",
+      "file_type": "document",
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixfilteralgorithm_state_variable",
+      "label": "SubmixFilterAlgorithm.STATE_VARIABLE",
+      "file_type": "document",
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixfilteralgorithm_ladder",
+      "label": "SubmixFilterAlgorithm.LADDER",
+      "file_type": "document",
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytag",
+      "label": "GameplayTag",
+      "file_type": "document",
+      "source_file": "GameplayTag Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytag_tag_name",
+      "label": "GameplayTag.tag_name",
+      "file_type": "document",
+      "source_file": "GameplayTag Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithsceneimportdata",
+      "label": "DatasmithSceneImportData",
+      "file_type": "document",
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithsceneimportdata_base_options",
+      "label": "DatasmithSceneImportData.base_options",
+      "file_type": "document",
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithsceneimportdata_datasmith_import_info",
+      "label": "DatasmithSceneImportData.datasmith_import_info",
+      "file_type": "document",
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithsceneimportdata_source_data",
+      "label": "DatasmithSceneImportData.source_data",
+      "file_type": "document",
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameramotionreasondata",
+      "label": "CameraMotionReasonData",
+      "file_type": "document",
+      "source_file": "CameraMotionReasonData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameramotionreasondata_camera_motion_reason",
+      "label": "CameraMotionReasonData.camera_motion_reason",
+      "file_type": "document",
+      "source_file": "CameraMotionReasonData Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameramotionreasondata_eids",
+      "label": "CameraMotionReasonData.eids",
+      "file_type": "document",
+      "source_file": "CameraMotionReasonData Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsurfaceprofilestruct",
+      "label": "SubsurfaceProfileStruct",
+      "file_type": "document",
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsurfaceprofilestruct_surface_albedo",
+      "label": "SubsurfaceProfileStruct.surface_albedo",
+      "file_type": "document",
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 38",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsurfaceprofilestruct_mean_free_path_color",
+      "label": "SubsurfaceProfileStruct.mean_free_path_color",
+      "file_type": "document",
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsurfaceprofilestruct_enable_burley",
+      "label": "SubsurfaceProfileStruct.enable_burley",
+      "file_type": "document",
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionfunctioninput",
+      "label": "MaterialExpressionFunctionInput",
+      "file_type": "document",
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionfunctioninput_input_name",
+      "label": "MaterialExpressionFunctionInput.input_name",
+      "file_type": "document",
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionfunctioninput_input_type",
+      "label": "MaterialExpressionFunctionInput.input_type",
+      "file_type": "document",
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionfunctioninput_preview_value",
+      "label": "MaterialExpressionFunctionInput.preview_value",
+      "file_type": "document",
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationprimarynodeports",
+      "label": "DisplayClusterConfigurationPrimaryNodePorts",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationPrimaryNodePorts Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationprimarynodeports_cluster_events_binary",
+      "label": "DisplayClusterConfigurationPrimaryNodePorts.cluster_events_binary",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationPrimaryNodePorts Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationprimarynodeports_cluster_events_json",
+      "label": "DisplayClusterConfigurationPrimaryNodePorts.cluster_events_json",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationPrimaryNodePorts Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationprimarynodeports_cluster_sync",
+      "label": "DisplayClusterConfigurationPrimaryNodePorts.cluster_sync",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationPrimaryNodePorts Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxdodge",
+      "label": "MaterialExpressionMaterialXDodge",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXDodge Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxdodge_const_alpha",
+      "label": "MaterialExpressionMaterialXDodge.const_alpha",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXDodge Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanchangesetouttype",
+      "label": "UrbanChangeSetOutType",
+      "file_type": "document",
+      "source_file": "UrbanChangeSetOutType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanchangesetouttype_key_name",
+      "label": "UrbanChangeSetOutType.key_name",
+      "file_type": "document",
+      "source_file": "UrbanChangeSetOutType Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanchangesetouttype_transform",
+      "label": "UrbanChangeSetOutType.transform",
+      "file_type": "document",
+      "source_file": "UrbanChangeSetOutType Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundbase",
+      "label": "SoundBase",
+      "file_type": "document",
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundbase_sound_class_object",
+      "label": "SoundBase.sound_class_object",
+      "file_type": "document",
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundbase_sound_submix_object",
+      "label": "SoundBase.sound_submix_object",
+      "file_type": "document",
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 36",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundbase_bus_sends",
+      "label": "SoundBase.bus_sends",
+      "file_type": "document",
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundbase_duration",
+      "label": "SoundBase.duration",
+      "file_type": "document",
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundbase_priority",
+      "label": "SoundBase.priority",
+      "file_type": "document",
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d",
+      "label": "Vector2D",
+      "file_type": "document",
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnEarthFailed Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetimportdata",
+      "label": "AssetImportData",
+      "file_type": "document",
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapidefine_module",
+      "label": "Module: CoveringAPIDefine",
+      "file_type": "document",
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesearth_module",
+      "label": "Module: AesEarth",
+      "file_type": "document",
+      "source_file": "OnEarthFailed Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthesis_module",
+      "label": "Module: Synthesis",
+      "file_type": "document",
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytags_module",
+      "label": "Module: GameplayTags",
+      "file_type": "document",
+      "source_file": "GameplayTag Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Module: Engine",
+      "file_type": "document",
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linearcolor",
+      "label": "LinearColor",
+      "file_type": "document",
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector4f",
+      "label": "Vector4f",
+      "file_type": "document",
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "heatmapstyle",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapstyle",
+      "target": "heatmapstyle_brush_diameter",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapstyle",
+      "target": "heatmapstyle_gradient_setting",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapstyle",
+      "target": "heatmapstyle_mapping_height_range",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapstyle",
+      "target": "heatmapstyle_mapping_value_range",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapstyle",
+      "target": "coveringapidefine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapstyle_mapping_height_range",
+      "target": "vector2d",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapstyle_mapping_value_range",
+      "target": "vector2d",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "onearthfailed",
+      "target": "multicastdelegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnEarthFailed Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "onearthfailed",
+      "target": "aesearth_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnEarthFailed Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "submixfilteralgorithm",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "submixfilteralgorithm",
+      "target": "submixfilteralgorithm_one_pole",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "submixfilteralgorithm",
+      "target": "submixfilteralgorithm_state_variable",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "submixfilteralgorithm",
+      "target": "submixfilteralgorithm_ladder",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 28",
+      "weight": 1.0
+    },
+    {
+      "source": "submixfilteralgorithm",
+      "target": "synthesis_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaytag",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayTag Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaytag",
+      "target": "gameplaytag_tag_name",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayTag Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaytag",
+      "target": "gameplaytags_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayTag Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithsceneimportdata",
+      "target": "assetimportdata",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithsceneimportdata",
+      "target": "datasmithsceneimportdata_base_options",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithsceneimportdata",
+      "target": "datasmithsceneimportdata_datasmith_import_info",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithsceneimportdata",
+      "target": "datasmithsceneimportdata_source_data",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DatasmithSceneImportData Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "cameramotionreasondata",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraMotionReasonData Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cameramotionreasondata",
+      "target": "cameramotionreasondata_camera_motion_reason",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraMotionReasonData Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "cameramotionreasondata",
+      "target": "cameramotionreasondata_eids",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraMotionReasonData Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "subsurfaceprofilestruct",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "subsurfaceprofilestruct",
+      "target": "subsurfaceprofilestruct_surface_albedo",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 38",
+      "weight": 1.0
+    },
+    {
+      "source": "subsurfaceprofilestruct",
+      "target": "subsurfaceprofilestruct_mean_free_path_color",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "subsurfaceprofilestruct",
+      "target": "subsurfaceprofilestruct_enable_burley",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "subsurfaceprofilestruct",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "subsurfaceprofilestruct_surface_albedo",
+      "target": "linearcolor",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 38",
+      "weight": 1.0
+    },
+    {
+      "source": "subsurfaceprofilestruct_mean_free_path_color",
+      "target": "linearcolor",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfunctioninput",
+      "target": "materialexpression",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfunctioninput",
+      "target": "materialexpressionfunctioninput_input_name",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfunctioninput",
+      "target": "materialexpressionfunctioninput_input_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfunctioninput",
+      "target": "materialexpressionfunctioninput_preview_value",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfunctioninput",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfunctioninput_preview_value",
+      "target": "vector4f",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationprimarynodeports",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationPrimaryNodePorts Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationprimarynodeports",
+      "target": "displayclusterconfigurationprimarynodeports_cluster_events_binary",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationPrimaryNodePorts Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationprimarynodeports",
+      "target": "displayclusterconfigurationprimarynodeports_cluster_events_json",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationPrimaryNodePorts Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationprimarynodeports",
+      "target": "displayclusterconfigurationprimarynodeports_cluster_sync",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationPrimaryNodePorts Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxdodge",
+      "target": "materialexpression",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXDodge Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxdodge",
+      "target": "materialexpressionmaterialxdodge_const_alpha",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXDodge Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "urbanchangesetouttype",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanChangeSetOutType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "urbanchangesetouttype",
+      "target": "urbanchangesetouttype_key_name",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanChangeSetOutType Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "urbanchangesetouttype",
+      "target": "urbanchangesetouttype_transform",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanChangeSetOutType Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "soundbase",
+      "target": "object",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "soundbase",
+      "target": "soundbase_sound_class_object",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 35",
+      "weight": 1.0
+    },
+    {
+      "source": "soundbase",
+      "target": "soundbase_sound_submix_object",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 36",
+      "weight": 1.0
+    },
+    {
+      "source": "soundbase",
+      "target": "soundbase_bus_sends",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "soundbase",
+      "target": "soundbase_duration",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 24",
+      "weight": 1.0
+    },
+    {
+      "source": "soundbase",
+      "target": "soundbase_priority",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 32",
+      "weight": 1.0
+    },
+    {
+      "source": "soundbase",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundBase Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "subsurfaceprofilestruct",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubsurfaceProfileStruct Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfunctioninput",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "submixfilteralgorithm_one_pole",
+      "target": "submixfilteralgorithm_state_variable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "submixfilteralgorithm_state_variable",
+      "target": "submixfilteralgorithm_ladder",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SubmixFilterAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionfunctioninput",
+      "target": "materialexpressionmaterialxdodge",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionFunctionInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "heatmapstyle_mapping_height_range",
+      "target": "heatmapstyle_mapping_value_range",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "HeatMapStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundbase_sound_class_object",
+      "target": "soundbase_sound_submix_object",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SoundBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_struct_base_hierarchy",
+      "label": "StructBase-derived classes in Unreal Engine",
+      "nodes": [
+        "heatmapstyle",
+        "gameplaytag",
+        "cameramotionreasondata",
+        "subsurfaceprofilestruct",
+        "displayclusterconfigurationprimarynodeports",
+        "urbanchangesetouttype"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HeatMapStyle Objects.md"
+    },
+    {
+      "id": "engine_module_classes",
+      "label": "Engine module classes in Unreal",
+      "nodes": [
+        "subsurfaceprofilestruct",
+        "materialexpressionfunctioninput",
+        "soundbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md"
+    },
+    {
+      "id": "material_expression_types",
+      "label": "Material expression types in Unreal",
+      "nodes": [
+        "materialexpressionfunctioninput",
+        "materialexpressionmaterialxdodge"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionFunctionInput Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

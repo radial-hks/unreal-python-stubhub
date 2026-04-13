@@ -1,0 +1,2075 @@
+{
+  "nodes": [
+    {
+      "id": "RigUnit_ParentSwitchConstraintArray",
+      "type": "Class",
+      "label": "RigUnit_ParentSwitchConstraintArray",
+      "description": "The Parent Switch Constraint is used to have an item follow one of multiple parents, and allowing to switch between the parent in question.",
+      "metadata": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_ParentSwitchConstraint.h",
+        "parent_class": "RigUnitMutable"
+      }
+    },
+    {
+      "id": "MassAgentComponent",
+      "type": "Class",
+      "label": "MassAgentComponent",
+      "description": "Component for Mass agent functionality, allowing actors to communicate with MassSimulation",
+      "metadata": {
+        "plugin": "MassGameplay",
+        "module": "MassActors",
+        "file": "MassAgentComponent.h",
+        "parent_class": "ActorComponent"
+      }
+    },
+    {
+      "id": "CameraShakeDuration",
+      "type": "Class",
+      "label": "CameraShakeDuration",
+      "description": "Camera shake duration",
+      "metadata": {
+        "module": "Engine",
+        "file": "CameraShakeBase.h",
+        "parent_class": "StructBase"
+      }
+    },
+    {
+      "id": "TakeRecorderFinished",
+      "type": "Class",
+      "label": "TakeRecorderFinished",
+      "description": "Take Recorder Finished Delegate Signature",
+      "metadata": {
+        "plugin": "Takes",
+        "module": "TakeRecorder",
+        "file": "TakeRecorderSubsystem.h",
+        "parent_class": "MulticastDelegateBase"
+      }
+    },
+    {
+      "id": "MassVisualizationLODParameters",
+      "type": "Class",
+      "label": "MassVisualizationLODParameters",
+      "description": "Mass Visualization LODParameters",
+      "metadata": {
+        "plugin": "MassGameplay",
+        "module": "MassRepresentation",
+        "file": "MassRepresentationFragments.h",
+        "parent_class": "MassConstSharedFragment"
+      }
+    },
+    {
+      "id": "MovieGraphCameraSettingNode",
+      "type": "Class",
+      "label": "MovieGraphCameraSettingNode",
+      "description": "A node which configures global camera settings that are shared among all renders",
+      "metadata": {
+        "plugin": "MovieRenderPipeline",
+        "module": "MovieRenderPipelineCore",
+        "file": "MovieGraphCameraNode.h",
+        "parent_class": "MovieGraphSettingNode"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorAngle",
+      "type": "Class",
+      "label": "RigVMFunction_MathVectorAngle",
+      "description": "Returns the angle between two vectors in radians",
+      "metadata": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathVector.h",
+        "parent_class": "RigVMFunction_MathVectorBase"
+      }
+    },
+    {
+      "id": "SlateAccessibleBehavior",
+      "type": "Enum",
+      "label": "SlateAccessibleBehavior",
+      "description": "Whether a widget should be included in accessibility, and if so, how its text should be retrieved",
+      "metadata": {
+        "module": "UMG",
+        "file": "SlateWrapperTypes.h",
+        "parent_class": "EnumBase"
+      }
+    },
+    {
+      "id": "IKRetargetGlobalSettings",
+      "type": "Class",
+      "label": "IKRetargetGlobalSettings",
+      "description": "IKRetarget Global Settings",
+      "metadata": {
+        "plugin": "IKRig",
+        "module": "IKRig",
+        "file": "IKRetargeter.h",
+        "parent_class": "Object"
+      }
+    },
+    {
+      "id": "EarthModifyProvider_Actor",
+      "type": "Class",
+      "label": "EarthModifyProvider_Actor",
+      "description": "基于Actor的输入数据提供者",
+      "metadata": {
+        "plugin": "AesWorld",
+        "module": "EarthPrefab",
+        "file": "EarthModifyProvider_Actor.h",
+        "parent_class": "EarthInputProviderBase"
+      }
+    },
+    {
+      "id": "AesBuildingEditorCommand_StyleBrush",
+      "type": "Class",
+      "label": "AesBuildingEditorCommand_StyleBrush",
+      "description": "Aes Building Editor Command Style Brush",
+      "metadata": {
+        "plugin": "AesWorld",
+        "module": "AesEditorMode",
+        "file": "AesBuildingEditorAction_StyleBrush.h",
+        "parent_class": "AesEditorSimpleCommand"
+      }
+    },
+    {
+      "id": "WDPSetCameraAnimationParams",
+      "type": "Class",
+      "label": "WDPSetCameraAnimationParams",
+      "description": "WDPSet Camera Animation Params",
+      "metadata": {
+        "plugin": "WdpRuntimeAPI",
+        "module": "ApplicationAPI",
+        "file": "WdpCameraControlAPIParamsDefine.h",
+        "parent_class": "ParamsBase"
+      }
+    },
+    {
+      "id": "MaterialInstanceActor",
+      "type": "Class",
+      "label": "MaterialInstanceActor",
+      "description": "Material Instance Actor",
+      "metadata": {
+        "module": "Engine",
+        "file": "MaterialInstanceActor.h",
+        "parent_class": "Actor"
+      }
+    },
+    {
+      "id": "UrbanEntityEditorScene",
+      "type": "Class",
+      "label": "UrbanEntityEditorScene",
+      "description": "Urban Entity Editor Scene",
+      "metadata": {
+        "plugin": "AesBuilderCommon",
+        "module": "UrbanEntityScene",
+        "file": "UrbanEntityEditorScene.h",
+        "parent_class": "Actor"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionScaleV2",
+      "type": "Class",
+      "label": "RigVMFunction_MathQuaternionScaleV2",
+      "description": "Scales a quaternion's angle",
+      "metadata": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathQuaternion.h",
+        "parent_class": "RigVMFunction_MathQuaternionBase"
+      }
+    },
+    {
+      "id": "InputMappingRebuildType",
+      "type": "Enum",
+      "label": "InputMappingRebuildType",
+      "description": "EInput Mapping Rebuild Type",
+      "metadata": {
+        "plugin": "EnhancedInput",
+        "module": "EnhancedInput",
+        "file": "EnhancedInputSubsystemInterface.h",
+        "parent_class": "EnumBase"
+      }
+    },
+    {
+      "id": "RasterTool",
+      "type": "Enum",
+      "label": "RasterTool",
+      "description": "ERaster Tool",
+      "metadata": {
+        "plugin": "AesWorld",
+        "module": "AesEditorMode",
+        "file": "AesEditorBlueprintFunctionLibrary.h",
+        "parent_class": "EnumBase"
+      }
+    },
+    {
+      "id": "LaneDirection",
+      "type": "Enum",
+      "label": "LaneDirection",
+      "description": "车道行驶方向/导向箭头方向",
+      "metadata": {
+        "plugin": "AesWorld",
+        "module": "AesAsset",
+        "file": "AesAssetCommon.h",
+        "parent_class": "EnumBase"
+      }
+    },
+    {
+      "id": "MaterialLightingModel",
+      "type": "Enum",
+      "label": "MaterialLightingModel",
+      "description": "deprecated: 'MaterialLightingModel' was renamed to 'MaterialShadingModel'",
+      "metadata": {
+        "module": "Engine",
+        "file": "MaterialInstanceActor.h",
+        "parent_class": "EnumBase"
+      }
+    },
+    {
+      "id": "InterchangeSceneNode",
+      "type": "Class",
+      "label": "InterchangeSceneNode",
+      "description": "The scene node represents a transform node in the scene. Scene nodes can have user-defined attributes",
+      "metadata": {
+        "plugin": "Interchange",
+        "module": "InterchangeNodes",
+        "file": "InterchangeSceneNode.h",
+        "parent_class": "InterchangeBaseNode"
+      }
+    },
+    {
+      "id": "EarthGizmoCoordAxisType",
+      "type": "Enum",
+      "label": "EarthGizmoCoordAxisType",
+      "description": "EEarth Gizmo Coord Axis Type",
+      "metadata": {
+        "plugin": "AesWorld",
+        "module": "EarthGizmoTool",
+        "file": "EarthCoordAxisGizmo.h",
+        "parent_class": "EnumBase"
+      }
+    },
+    {
+      "id": "MovieSceneSequenceExtensions",
+      "type": "Class",
+      "label": "MovieSceneSequenceExtensions",
+      "description": "Function library containing methods that should be hoisted onto UMovieSceneSequences for scripting purposes",
+      "metadata": {
+        "plugin": "SequencerScripting",
+        "module": "SequencerScripting",
+        "file": "MovieSceneSequenceExtensions.h",
+        "parent_class": "BlueprintFunctionLibrary"
+      }
+    },
+    {
+      "id": "method_RigUnit_ParentSwitchConstraintArray_init",
+      "type": "Method",
+      "label": "__init__",
+      "description": "Initialize RigUnit_ParentSwitchConstraintArray"
+    },
+    {
+      "id": "prop_RigUnit_ParentSwitchConstraintArray_subject",
+      "type": "Property",
+      "label": "subject",
+      "description": "The subject to constrain",
+      "metadata": {
+        "type": "RigElementKey",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_RigUnit_ParentSwitchConstraintArray_parent_index",
+      "type": "Property",
+      "label": "parent_index",
+      "description": "The parent index to use for constraining the subject",
+      "metadata": {
+        "type": "int",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_RigUnit_ParentSwitchConstraintArray_parents",
+      "type": "Property",
+      "label": "parents",
+      "description": "The list of parents to constrain to",
+      "metadata": {
+        "type": "Array[RigElementKey]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "method_MassAgentComponent_kill_entity",
+      "type": "Method",
+      "label": "kill_entity",
+      "description": "Kill Entity"
+    },
+    {
+      "id": "method_MassAgentComponent_enable",
+      "type": "Method",
+      "label": "enable",
+      "description": "Registers the component with the owner effectively turning it on"
+    },
+    {
+      "id": "method_MassAgentComponent_disable",
+      "type": "Method",
+      "label": "disable",
+      "description": "Registers the component with the owner effectively turning it off"
+    },
+    {
+      "id": "prop_MassAgentComponent_entity_config",
+      "type": "Property",
+      "label": "entity_config",
+      "description": "Entity configuration",
+      "metadata": {
+        "type": "MassEntityConfig",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "method_MovieGraphCameraSettingNode_get_shutter_timing",
+      "type": "Method",
+      "label": "get_shutter_timing",
+      "description": "Get shutter timing property"
+    },
+    {
+      "id": "prop_MovieGraphCameraSettingNode_overscan_percentage",
+      "type": "Property",
+      "label": "overscan_percentage",
+      "description": "Overscan percent enables rendering render additional pixels beyond the set resolution",
+      "metadata": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_MovieGraphCameraSettingNode_render_all_cameras",
+      "type": "Property",
+      "label": "render_all_cameras",
+      "description": "If enabled Movie Render Queue will examine your Level Sequence for additional cameras",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "method_RigVMFunction_MathVectorAngle_init",
+      "type": "Method",
+      "label": "__init__",
+      "description": "Initialize RigVMFunction_MathVectorAngle"
+    },
+    {
+      "id": "prop_RigVMFunction_MathVectorAngle_a",
+      "type": "Property",
+      "label": "a",
+      "description": "Vector A",
+      "metadata": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_RigVMFunction_MathVectorAngle_b",
+      "type": "Property",
+      "label": "b",
+      "description": "Vector B",
+      "metadata": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_RigVMFunction_MathVectorAngle_result",
+      "type": "Property",
+      "label": "result",
+      "description": "Angle result in radians",
+      "metadata": {
+        "type": "float",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "enumval_SlateAccessibleBehavior_NOT_ACCESSIBLE",
+      "type": "EnumValue",
+      "label": "NOT_ACCESSIBLE",
+      "description": "Not accessible",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "enumval_SlateAccessibleBehavior_AUTO",
+      "type": "EnumValue",
+      "label": "AUTO",
+      "description": "Accessible, first checking to see if there's any custom default text assigned",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "enumval_SlateAccessibleBehavior_SUMMARY",
+      "type": "EnumValue",
+      "label": "SUMMARY",
+      "description": "Accessible, and traverse all child widgets and concat their AccessibleSummaryText together",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "enumval_SlateAccessibleBehavior_CUSTOM",
+      "type": "EnumValue",
+      "label": "CUSTOM",
+      "description": "Accessible, and retrieve manually-assigned text from a TAttribute",
+      "metadata": {
+        "value": 3
+      }
+    },
+    {
+      "id": "enumval_SlateAccessibleBehavior_TOOL_TIP",
+      "type": "EnumValue",
+      "label": "TOOL_TIP",
+      "description": "Accessible, and use the tooltip's accessible text",
+      "metadata": {
+        "value": 4
+      }
+    },
+    {
+      "id": "method_WDPSetCameraAnimationParams_init",
+      "type": "Method",
+      "label": "__init__",
+      "description": "Initialize WDPSetCameraAnimationParams"
+    },
+    {
+      "id": "prop_WDPSetCameraAnimationParams_show_touch_effect",
+      "type": "Property",
+      "label": "show_touch_effect",
+      "description": "Show touch effect",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_WDPSetCameraAnimationParams_show_rotate_icon",
+      "type": "Property",
+      "label": "show_rotate_icon",
+      "description": "Show rotate icon",
+      "metadata": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_MaterialInstanceActor_target_actors",
+      "type": "Property",
+      "label": "target_actors",
+      "description": "Pointer to actors that we want to control paramters of using Matinee",
+      "metadata": {
+        "type": "Array[Actor]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_UrbanEntityEditorScene_entity_data_source",
+      "type": "Property",
+      "label": "entity_data_source",
+      "description": "Entity data source",
+      "metadata": {
+        "type": "UrbanEntityDataSource_Imp",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "method_RigVMFunction_MathQuaternionScaleV2_init",
+      "type": "Method",
+      "label": "__init__",
+      "description": "Initialize RigVMFunction_MathQuaternionScaleV2"
+    },
+    {
+      "id": "prop_RigVMFunction_MathQuaternionScaleV2_value",
+      "type": "Property",
+      "label": "value",
+      "description": "Quaternion value",
+      "metadata": {
+        "type": "Quat",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_RigVMFunction_MathQuaternionScaleV2_factor",
+      "type": "Property",
+      "label": "factor",
+      "description": "Scale factor",
+      "metadata": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "prop_RigVMFunction_MathQuaternionScaleV2_result",
+      "type": "Property",
+      "label": "result",
+      "description": "Scaled quaternion result",
+      "metadata": {
+        "type": "Quat",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "enumval_InputMappingRebuildType_NONE",
+      "type": "EnumValue",
+      "label": "NONE",
+      "description": "No rebuild required",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "enumval_InputMappingRebuildType_REBUILD",
+      "type": "EnumValue",
+      "label": "REBUILD",
+      "description": "Standard mapping rebuild. Retains existing triggers and modifiers for actions that were previously mapped",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "enumval_InputMappingRebuildType_REBUILD_WITH_FLUSH",
+      "type": "EnumValue",
+      "label": "REBUILD_WITH_FLUSH",
+      "description": "If you have made changes to the triggers/modifiers associated with a UInputAction",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "enumval_RasterTool_SCULPT",
+      "type": "EnumValue",
+      "label": "SCULPT",
+      "description": "Sculpt tool",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "enumval_RasterTool_SMOOTH",
+      "type": "EnumValue",
+      "label": "SMOOTH",
+      "description": "Smooth tool",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "enumval_RasterTool_FLATTEN",
+      "type": "EnumValue",
+      "label": "FLATTEN",
+      "description": "Flatten tool",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "enumval_LaneDirection_RIGHT",
+      "type": "EnumValue",
+      "label": "RIGHT",
+      "description": "右转",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "enumval_LaneDirection_LEFT",
+      "type": "EnumValue",
+      "label": "LEFT",
+      "description": "左转",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "enumval_LaneDirection_U_TURN",
+      "type": "EnumValue",
+      "label": "U_TURN",
+      "description": "掉头",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "enumval_LaneDirection_STRAIGHT",
+      "type": "EnumValue",
+      "label": "STRAIGHT",
+      "description": "直行",
+      "metadata": {
+        "value": 3
+      }
+    },
+    {
+      "id": "enumval_MaterialLightingModel_MSM_UNLIT",
+      "type": "EnumValue",
+      "label": "MSM_UNLIT",
+      "description": "Unlit shading model",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "enumval_MaterialLightingModel_MSM_DEFAULT_LIT",
+      "type": "EnumValue",
+      "label": "MSM_DEFAULT_LIT",
+      "description": "Default lit shading model",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "enumval_MaterialLightingModel_MSM_SUBSURFACE",
+      "type": "EnumValue",
+      "label": "MSM_SUBSURFACE",
+      "description": "Subsurface shading model",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "method_InterchangeSceneNode_set_slot_material_dependency_uid",
+      "type": "Method",
+      "label": "set_slot_material_dependency_uid",
+      "description": "Add the specified Material dependency to a specific slot name of this object"
+    },
+    {
+      "id": "method_InterchangeSceneNode_set_custom_local_transform",
+      "type": "Method",
+      "label": "set_custom_local_transform",
+      "description": "Set the default scene node local transform"
+    },
+    {
+      "id": "method_InterchangeSceneNode_get_custom_local_transform",
+      "type": "Method",
+      "label": "get_custom_local_transform",
+      "description": "Get the default scene node local transform"
+    },
+    {
+      "id": "method_InterchangeSceneNode_add_specialized_type",
+      "type": "Method",
+      "label": "add_specialized_type",
+      "description": "Add Specialized Type"
+    },
+    {
+      "id": "method_InterchangeSceneNode_get_specialized_types",
+      "type": "Method",
+      "label": "get_specialized_types",
+      "description": "Get Specialized Types"
+    },
+    {
+      "id": "enumval_EarthGizmoCoordAxisType_DISABLE",
+      "type": "EnumValue",
+      "label": "DISABLE",
+      "description": "Disable",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "enumval_EarthGizmoCoordAxisType_LOCATION",
+      "type": "EnumValue",
+      "label": "LOCATION",
+      "description": "Location",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "enumval_EarthGizmoCoordAxisType_ROTATION",
+      "type": "EnumValue",
+      "label": "ROTATION",
+      "description": "Rotation",
+      "metadata": {
+        "value": 4
+      }
+    },
+    {
+      "id": "enumval_EarthGizmoCoordAxisType_SCALE",
+      "type": "EnumValue",
+      "label": "SCALE",
+      "description": "Scale",
+      "metadata": {
+        "value": 8
+      }
+    },
+    {
+      "id": "method_MovieSceneSequenceExtensions_sort_marked_frames",
+      "type": "Method",
+      "label": "sort_marked_frames",
+      "description": "Sort the marked frames in chronological order"
+    },
+    {
+      "id": "method_MovieSceneSequenceExtensions_set_playback_start",
+      "type": "Method",
+      "label": "set_playback_start",
+      "description": "Set playback start of this sequence"
+    },
+    {
+      "id": "method_MovieSceneSequenceExtensions_get_tracks",
+      "type": "Method",
+      "label": "get_tracks",
+      "description": "Get all tracks"
+    },
+    {
+      "id": "method_MovieSceneSequenceExtensions_find_binding_by_name",
+      "type": "Method",
+      "label": "find_binding_by_name",
+      "description": "Attempt to locate a binding in this sequence by its name"
+    },
+    {
+      "id": "method_MovieSceneSequenceExtensions_add_spawnable_from_class",
+      "type": "Method",
+      "label": "add_spawnable_from_class",
+      "description": "Add a new binding to this sequence that will spawn the specified object"
+    },
+    {
+      "id": "ControlRigExecuteContext",
+      "type": "Type",
+      "label": "ControlRigExecuteContext",
+      "description": "Type used for chaining multiple mutable units together"
+    },
+    {
+      "id": "RigElementKey",
+      "type": "Type",
+      "label": "RigElementKey",
+      "description": "Key for identifying rig elements"
+    },
+    {
+      "id": "Transform",
+      "type": "Type",
+      "label": "Transform",
+      "description": "Transform representing location, rotation, and scale"
+    },
+    {
+      "id": "Vector",
+      "type": "Type",
+      "label": "Vector",
+      "description": "3D vector"
+    },
+    {
+      "id": "Quat",
+      "type": "Type",
+      "label": "Quat",
+      "description": "Quaternion for rotation"
+    },
+    {
+      "id": "MoviePipelineShutterTiming",
+      "type": "Type",
+      "label": "MoviePipelineShutterTiming",
+      "description": "Shutter timing enumeration for movie pipeline"
+    },
+    {
+      "id": "MovieSceneSequence",
+      "type": "Type",
+      "label": "MovieSceneSequence",
+      "description": "Base class for movie scene sequences"
+    },
+    {
+      "id": "MovieSceneTrack",
+      "type": "Type",
+      "label": "MovieSceneTrack",
+      "description": "Track in a movie scene"
+    },
+    {
+      "id": "plugin_ControlRig",
+      "type": "Plugin",
+      "label": "ControlRig",
+      "description": "Control Rig Plugin"
+    },
+    {
+      "id": "plugin_MassGameplay",
+      "type": "Plugin",
+      "label": "MassGameplay",
+      "description": "Mass Gameplay Plugin"
+    },
+    {
+      "id": "plugin_Takes",
+      "type": "Plugin",
+      "label": "Takes",
+      "description": "Takes Plugin"
+    },
+    {
+      "id": "plugin_MovieRenderPipeline",
+      "type": "Plugin",
+      "label": "MovieRenderPipeline",
+      "description": "Movie Render Pipeline Plugin"
+    },
+    {
+      "id": "plugin_RigVM",
+      "type": "Plugin",
+      "label": "RigVM",
+      "description": "RigVM Plugin"
+    },
+    {
+      "id": "plugin_IKRig",
+      "type": "Plugin",
+      "label": "IKRig",
+      "description": "IK Rig Plugin"
+    },
+    {
+      "id": "plugin_AesWorld",
+      "type": "Plugin",
+      "label": "AesWorld",
+      "description": "Aes World Plugin"
+    },
+    {
+      "id": "plugin_WdpRuntimeAPI",
+      "type": "Plugin",
+      "label": "WdpRuntimeAPI",
+      "description": "WDP Runtime API Plugin"
+    },
+    {
+      "id": "plugin_AesBuilderCommon",
+      "type": "Plugin",
+      "label": "AesBuilderCommon",
+      "description": "Aes Builder Common Plugin"
+    },
+    {
+      "id": "plugin_EnhancedInput",
+      "type": "Plugin",
+      "label": "EnhancedInput",
+      "description": "Enhanced Input Plugin"
+    },
+    {
+      "id": "plugin_Interchange",
+      "type": "Plugin",
+      "label": "Interchange",
+      "description": "Interchange Plugin"
+    },
+    {
+      "id": "plugin_SequencerScripting",
+      "type": "Plugin",
+      "label": "SequencerScripting",
+      "description": "Sequencer Scripting Plugin"
+    },
+    {
+      "id": "module_Engine",
+      "type": "Module",
+      "label": "Engine",
+      "description": "Engine Module"
+    },
+    {
+      "id": "module_ControlRig",
+      "type": "Module",
+      "label": "ControlRig",
+      "description": "Control Rig Module"
+    },
+    {
+      "id": "module_MassActors",
+      "type": "Module",
+      "label": "MassActors",
+      "description": "Mass Actors Module"
+    },
+    {
+      "id": "module_TakeRecorder",
+      "type": "Module",
+      "label": "TakeRecorder",
+      "description": "Take Recorder Module"
+    },
+    {
+      "id": "module_MassRepresentation",
+      "type": "Module",
+      "label": "MassRepresentation",
+      "description": "Mass Representation Module"
+    },
+    {
+      "id": "module_MovieRenderPipelineCore",
+      "type": "Module",
+      "label": "MovieRenderPipelineCore",
+      "description": "Movie Render Pipeline Core Module"
+    },
+    {
+      "id": "module_RigVM",
+      "type": "Module",
+      "label": "RigVM",
+      "description": "RigVM Module"
+    },
+    {
+      "id": "module_UMG",
+      "type": "Module",
+      "label": "UMG",
+      "description": "UMG Module"
+    },
+    {
+      "id": "module_IKRig",
+      "type": "Module",
+      "label": "IKRig",
+      "description": "IK Rig Module"
+    },
+    {
+      "id": "module_EarthPrefab",
+      "type": "Module",
+      "label": "EarthPrefab",
+      "description": "Earth Prefab Module"
+    },
+    {
+      "id": "module_AesEditorMode",
+      "type": "Module",
+      "label": "AesEditorMode",
+      "description": "Aes Editor Mode Module"
+    },
+    {
+      "id": "module_ApplicationAPI",
+      "type": "Module",
+      "label": "ApplicationAPI",
+      "description": "Application API Module"
+    },
+    {
+      "id": "module_UrbanEntityScene",
+      "type": "Module",
+      "label": "UrbanEntityScene",
+      "description": "Urban Entity Scene Module"
+    },
+    {
+      "id": "module_EnhancedInput",
+      "type": "Module",
+      "label": "EnhancedInput",
+      "description": "Enhanced Input Module"
+    },
+    {
+      "id": "module_AesAsset",
+      "type": "Module",
+      "label": "AesAsset",
+      "description": "Aes Asset Module"
+    },
+    {
+      "id": "module_InterchangeNodes",
+      "type": "Module",
+      "label": "InterchangeNodes",
+      "description": "Interchange Nodes Module"
+    },
+    {
+      "id": "module_EarthGizmoTool",
+      "type": "Module",
+      "label": "EarthGizmoTool",
+      "description": "Earth Gizmo Tool Module"
+    },
+    {
+      "id": "module_SequencerScripting",
+      "type": "Module",
+      "label": "SequencerScripting",
+      "description": "Sequencer Scripting Module"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "source": "RigUnit_ParentSwitchConstraintArray",
+      "target": "RigUnitMutable",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_2",
+      "source": "MassAgentComponent",
+      "target": "ActorComponent",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_3",
+      "source": "CameraShakeDuration",
+      "target": "StructBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_4",
+      "source": "TakeRecorderFinished",
+      "target": "MulticastDelegateBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_5",
+      "source": "MassVisualizationLODParameters",
+      "target": "MassConstSharedFragment",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_6",
+      "source": "MovieGraphCameraSettingNode",
+      "target": "MovieGraphSettingNode",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_7",
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "RigVMFunction_MathVectorBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_8",
+      "source": "SlateAccessibleBehavior",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_9",
+      "source": "IKRetargetGlobalSettings",
+      "target": "Object",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_10",
+      "source": "EarthModifyProvider_Actor",
+      "target": "EarthInputProviderBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_11",
+      "source": "AesBuildingEditorCommand_StyleBrush",
+      "target": "AesEditorSimpleCommand",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_12",
+      "source": "WDPSetCameraAnimationParams",
+      "target": "ParamsBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_13",
+      "source": "MaterialInstanceActor",
+      "target": "Actor",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_14",
+      "source": "UrbanEntityEditorScene",
+      "target": "Actor",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_15",
+      "source": "RigVMFunction_MathQuaternionScaleV2",
+      "target": "RigVMFunction_MathQuaternionBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_16",
+      "source": "InputMappingRebuildType",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_17",
+      "source": "RasterTool",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_18",
+      "source": "LaneDirection",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_19",
+      "source": "MaterialLightingModel",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_20",
+      "source": "InterchangeSceneNode",
+      "target": "InterchangeBaseNode",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_21",
+      "source": "EarthGizmoCoordAxisType",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_22",
+      "source": "MovieSceneSequenceExtensions",
+      "target": "BlueprintFunctionLibrary",
+      "type": "INHERITS_FROM",
+      "label": "inherits from"
+    },
+    {
+      "id": "edge_23",
+      "source": "RigUnit_ParentSwitchConstraintArray",
+      "target": "method_RigUnit_ParentSwitchConstraintArray_init",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_24",
+      "source": "RigUnit_ParentSwitchConstraintArray",
+      "target": "prop_RigUnit_ParentSwitchConstraintArray_subject",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_25",
+      "source": "RigUnit_ParentSwitchConstraintArray",
+      "target": "prop_RigUnit_ParentSwitchConstraintArray_parent_index",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_26",
+      "source": "RigUnit_ParentSwitchConstraintArray",
+      "target": "prop_RigUnit_ParentSwitchConstraintArray_parents",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_27",
+      "source": "MassAgentComponent",
+      "target": "method_MassAgentComponent_kill_entity",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_28",
+      "source": "MassAgentComponent",
+      "target": "method_MassAgentComponent_enable",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_29",
+      "source": "MassAgentComponent",
+      "target": "method_MassAgentComponent_disable",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_30",
+      "source": "MassAgentComponent",
+      "target": "prop_MassAgentComponent_entity_config",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_31",
+      "source": "MovieGraphCameraSettingNode",
+      "target": "method_MovieGraphCameraSettingNode_get_shutter_timing",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_32",
+      "source": "MovieGraphCameraSettingNode",
+      "target": "prop_MovieGraphCameraSettingNode_overscan_percentage",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_33",
+      "source": "MovieGraphCameraSettingNode",
+      "target": "prop_MovieGraphCameraSettingNode_render_all_cameras",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_34",
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "method_RigVMFunction_MathVectorAngle_init",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_35",
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "prop_RigVMFunction_MathVectorAngle_a",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_36",
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "prop_RigVMFunction_MathVectorAngle_b",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_37",
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "prop_RigVMFunction_MathVectorAngle_result",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_38",
+      "source": "SlateAccessibleBehavior",
+      "target": "enumval_SlateAccessibleBehavior_NOT_ACCESSIBLE",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_39",
+      "source": "SlateAccessibleBehavior",
+      "target": "enumval_SlateAccessibleBehavior_AUTO",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_40",
+      "source": "SlateAccessibleBehavior",
+      "target": "enumval_SlateAccessibleBehavior_SUMMARY",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_41",
+      "source": "SlateAccessibleBehavior",
+      "target": "enumval_SlateAccessibleBehavior_CUSTOM",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_42",
+      "source": "SlateAccessibleBehavior",
+      "target": "enumval_SlateAccessibleBehavior_TOOL_TIP",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_43",
+      "source": "WDPSetCameraAnimationParams",
+      "target": "method_WDPSetCameraAnimationParams_init",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_44",
+      "source": "WDPSetCameraAnimationParams",
+      "target": "prop_WDPSetCameraAnimationParams_show_touch_effect",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_45",
+      "source": "WDPSetCameraAnimationParams",
+      "target": "prop_WDPSetCameraAnimationParams_show_rotate_icon",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_46",
+      "source": "MaterialInstanceActor",
+      "target": "prop_MaterialInstanceActor_target_actors",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_47",
+      "source": "UrbanEntityEditorScene",
+      "target": "prop_UrbanEntityEditorScene_entity_data_source",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_48",
+      "source": "RigVMFunction_MathQuaternionScaleV2",
+      "target": "method_RigVMFunction_MathQuaternionScaleV2_init",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_49",
+      "source": "RigVMFunction_MathQuaternionScaleV2",
+      "target": "prop_RigVMFunction_MathQuaternionScaleV2_value",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_50",
+      "source": "RigVMFunction_MathQuaternionScaleV2",
+      "target": "prop_RigVMFunction_MathQuaternionScaleV2_factor",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_51",
+      "source": "RigVMFunction_MathQuaternionScaleV2",
+      "target": "prop_RigVMFunction_MathQuaternionScaleV2_result",
+      "type": "HAS_PROPERTY",
+      "label": "has property"
+    },
+    {
+      "id": "edge_52",
+      "source": "InputMappingRebuildType",
+      "target": "enumval_InputMappingRebuildType_NONE",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_53",
+      "source": "InputMappingRebuildType",
+      "target": "enumval_InputMappingRebuildType_REBUILD",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_54",
+      "source": "InputMappingRebuildType",
+      "target": "enumval_InputMappingRebuildType_REBUILD_WITH_FLUSH",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_55",
+      "source": "RasterTool",
+      "target": "enumval_RasterTool_SCULPT",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_56",
+      "source": "RasterTool",
+      "target": "enumval_RasterTool_SMOOTH",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_57",
+      "source": "RasterTool",
+      "target": "enumval_RasterTool_FLATTEN",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_58",
+      "source": "LaneDirection",
+      "target": "enumval_LaneDirection_RIGHT",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_59",
+      "source": "LaneDirection",
+      "target": "enumval_LaneDirection_LEFT",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_60",
+      "source": "LaneDirection",
+      "target": "enumval_LaneDirection_U_TURN",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_61",
+      "source": "LaneDirection",
+      "target": "enumval_LaneDirection_STRAIGHT",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_62",
+      "source": "MaterialLightingModel",
+      "target": "enumval_MaterialLightingModel_MSM_UNLIT",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_63",
+      "source": "MaterialLightingModel",
+      "target": "enumval_MaterialLightingModel_MSM_DEFAULT_LIT",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_64",
+      "source": "MaterialLightingModel",
+      "target": "enumval_MaterialLightingModel_MSM_SUBSURFACE",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_65",
+      "source": "InterchangeSceneNode",
+      "target": "method_InterchangeSceneNode_set_slot_material_dependency_uid",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_66",
+      "source": "InterchangeSceneNode",
+      "target": "method_InterchangeSceneNode_set_custom_local_transform",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_67",
+      "source": "InterchangeSceneNode",
+      "target": "method_InterchangeSceneNode_get_custom_local_transform",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_68",
+      "source": "InterchangeSceneNode",
+      "target": "method_InterchangeSceneNode_add_specialized_type",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_69",
+      "source": "InterchangeSceneNode",
+      "target": "method_InterchangeSceneNode_get_specialized_types",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_70",
+      "source": "EarthGizmoCoordAxisType",
+      "target": "enumval_EarthGizmoCoordAxisType_DISABLE",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_71",
+      "source": "EarthGizmoCoordAxisType",
+      "target": "enumval_EarthGizmoCoordAxisType_LOCATION",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_72",
+      "source": "EarthGizmoCoordAxisType",
+      "target": "enumval_EarthGizmoCoordAxisType_ROTATION",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_73",
+      "source": "EarthGizmoCoordAxisType",
+      "target": "enumval_EarthGizmoCoordAxisType_SCALE",
+      "type": "HAS_ENUM_VALUE",
+      "label": "has enum value"
+    },
+    {
+      "id": "edge_74",
+      "source": "MovieSceneSequenceExtensions",
+      "target": "method_MovieSceneSequenceExtensions_sort_marked_frames",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_75",
+      "source": "MovieSceneSequenceExtensions",
+      "target": "method_MovieSceneSequenceExtensions_set_playback_start",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_76",
+      "source": "MovieSceneSequenceExtensions",
+      "target": "method_MovieSceneSequenceExtensions_get_tracks",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_77",
+      "source": "MovieSceneSequenceExtensions",
+      "target": "method_MovieSceneSequenceExtensions_find_binding_by_name",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_78",
+      "source": "MovieSceneSequenceExtensions",
+      "target": "method_MovieSceneSequenceExtensions_add_spawnable_from_class",
+      "type": "HAS_METHOD",
+      "label": "has method"
+    },
+    {
+      "id": "edge_79",
+      "source": "RigUnit_ParentSwitchConstraintArray",
+      "target": "plugin_ControlRig",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_80",
+      "source": "RigUnit_ParentSwitchConstraintArray",
+      "target": "module_ControlRig",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_81",
+      "source": "MassAgentComponent",
+      "target": "plugin_MassGameplay",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_82",
+      "source": "MassAgentComponent",
+      "target": "module_MassActors",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_83",
+      "source": "TakeRecorderFinished",
+      "target": "plugin_Takes",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_84",
+      "source": "TakeRecorderFinished",
+      "target": "module_TakeRecorder",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_85",
+      "source": "MovieGraphCameraSettingNode",
+      "target": "plugin_MovieRenderPipeline",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_86",
+      "source": "MovieGraphCameraSettingNode",
+      "target": "module_MovieRenderPipelineCore",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_87",
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "plugin_RigVM",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_88",
+      "source": "RigVMFunction_MathVectorAngle",
+      "target": "module_RigVM",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_89",
+      "source": "IKRetargetGlobalSettings",
+      "target": "plugin_IKRig",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_90",
+      "source": "IKRetargetGlobalSettings",
+      "target": "module_IKRig",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_91",
+      "source": "EarthModifyProvider_Actor",
+      "target": "plugin_AesWorld",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_92",
+      "source": "EarthModifyProvider_Actor",
+      "target": "module_EarthPrefab",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_93",
+      "source": "AesBuildingEditorCommand_StyleBrush",
+      "target": "plugin_AesWorld",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_94",
+      "source": "AesBuildingEditorCommand_StyleBrush",
+      "target": "module_AesEditorMode",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_95",
+      "source": "WDPSetCameraAnimationParams",
+      "target": "plugin_WdpRuntimeAPI",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_96",
+      "source": "WDPSetCameraAnimationParams",
+      "target": "module_ApplicationAPI",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_97",
+      "source": "UrbanEntityEditorScene",
+      "target": "plugin_AesBuilderCommon",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_98",
+      "source": "UrbanEntityEditorScene",
+      "target": "module_UrbanEntityScene",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_99",
+      "source": "RigVMFunction_MathQuaternionScaleV2",
+      "target": "plugin_RigVM",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_100",
+      "source": "RigVMFunction_MathQuaternionScaleV2",
+      "target": "module_RigVM",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_101",
+      "source": "InputMappingRebuildType",
+      "target": "plugin_EnhancedInput",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_102",
+      "source": "InputMappingRebuildType",
+      "target": "module_EnhancedInput",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_103",
+      "source": "RasterTool",
+      "target": "plugin_AesWorld",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_104",
+      "source": "RasterTool",
+      "target": "module_AesEditorMode",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_105",
+      "source": "LaneDirection",
+      "target": "plugin_AesWorld",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_106",
+      "source": "LaneDirection",
+      "target": "module_AesAsset",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_107",
+      "source": "InterchangeSceneNode",
+      "target": "plugin_Interchange",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_108",
+      "source": "InterchangeSceneNode",
+      "target": "module_InterchangeNodes",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_109",
+      "source": "EarthGizmoCoordAxisType",
+      "target": "plugin_AesWorld",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_110",
+      "source": "EarthGizmoCoordAxisType",
+      "target": "module_EarthGizmoTool",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_111",
+      "source": "MovieSceneSequenceExtensions",
+      "target": "plugin_SequencerScripting",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_112",
+      "source": "MovieSceneSequenceExtensions",
+      "target": "module_SequencerScripting",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_113",
+      "source": "CameraShakeDuration",
+      "target": "module_Engine",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_114",
+      "source": "MassVisualizationLODParameters",
+      "target": "plugin_MassGameplay",
+      "type": "DEFINED_IN_PLUGIN",
+      "label": "defined in plugin"
+    },
+    {
+      "id": "edge_115",
+      "source": "MassVisualizationLODParameters",
+      "target": "module_MassRepresentation",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_116",
+      "source": "SlateAccessibleBehavior",
+      "target": "module_UMG",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_117",
+      "source": "MaterialInstanceActor",
+      "target": "module_Engine",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_118",
+      "source": "MaterialLightingModel",
+      "target": "module_Engine",
+      "type": "DEFINED_IN_MODULE",
+      "label": "defined in module"
+    },
+    {
+      "id": "edge_119",
+      "source": "prop_RigUnit_ParentSwitchConstraintArray_subject",
+      "target": "RigElementKey",
+      "type": "HAS_TYPE",
+      "label": "has type"
+    },
+    {
+      "id": "edge_120",
+      "source": "prop_RigVMFunction_MathVectorAngle_a",
+      "target": "Vector",
+      "type": "HAS_TYPE",
+      "label": "has type"
+    },
+    {
+      "id": "edge_121",
+      "source": "prop_RigVMFunction_MathVectorAngle_b",
+      "target": "Vector",
+      "type": "HAS_TYPE",
+      "label": "has type"
+    },
+    {
+      "id": "edge_122",
+      "source": "prop_RigVMFunction_MathQuaternionScaleV2_value",
+      "target": "Quat",
+      "type": "HAS_TYPE",
+      "label": "has type"
+    },
+    {
+      "id": "edge_123",
+      "source": "prop_RigVMFunction_MathQuaternionScaleV2_result",
+      "target": "Quat",
+      "type": "HAS_TYPE",
+      "label": "has type"
+    },
+    {
+      "id": "edge_124",
+      "source": "prop_MovieGraphCameraSettingNode_shutter_timing",
+      "target": "MoviePipelineShutterTiming",
+      "type": "HAS_TYPE",
+      "label": "has type"
+    },
+    {
+      "id": "edge_125",
+      "source": "method_MovieSceneSequenceExtensions_find_binding_by_name",
+      "target": "MovieSceneSequence",
+      "type": "USES_TYPE",
+      "label": "uses type"
+    },
+    {
+      "id": "edge_126",
+      "source": "method_MovieSceneSequenceExtensions_get_tracks",
+      "target": "MovieSceneTrack",
+      "type": "USES_TYPE",
+      "label": "uses type"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_1",
+      "nodes": [
+        "RigUnit_ParentSwitchConstraintArray",
+        "ControlRigExecuteContext",
+        "RigElementKey",
+        "Transform"
+      ],
+      "type": "DEPENDENCY_CLUSTER",
+      "description": "RigUnit_ParentSwitchConstraintArray depends on multiple types including ControlRigExecuteContext, RigElementKey, and Transform for its constraint operations"
+    },
+    {
+      "id": "hyperedge_2",
+      "nodes": [
+        "RigVMFunction_MathVectorAngle",
+        "RigVMFunction_MathQuaternionScaleV2",
+        "Vector",
+        "Quat",
+        "float"
+      ],
+      "type": "MATH_FUNCTION_FAMILY",
+      "description": "Mathematical RigVM functions that operate on vectors, quaternions, and scalar values for angle and scaling operations"
+    },
+    {
+      "id": "hyperedge_3",
+      "nodes": [
+        "MovieGraphCameraSettingNode",
+        "MoviePipelineShutterTiming",
+        "MovieSceneSequence",
+        "MovieSceneTrack"
+      ],
+      "type": "MOVIE_RENDER_ECOSYSTEM",
+      "description": "Movie rendering and sequencing components that work together for camera settings and scene rendering"
+    },
+    {
+      "id": "hyperedge_4",
+      "nodes": [
+        "MassAgentComponent",
+        "MassVisualizationLODParameters",
+        "MassConstSharedFragment"
+      ],
+      "type": "MASS_GAMEPLAY_SYSTEM",
+      "description": "Mass gameplay system components for entity management and visualization LOD parameters"
+    },
+    {
+      "id": "hyperedge_5",
+      "nodes": [
+        "EarthModifyProvider_Actor",
+        "AesBuildingEditorCommand_StyleBrush",
+        "RasterTool",
+        "LaneDirection",
+        "EarthGizmoCoordAxisType"
+      ],
+      "type": "AES_WORLD_PLUGIN_FAMILY",
+      "description": "AesWorld plugin components for earth modification, building editing, raster tools, lane directions, and gizmo coordinate systems"
+    },
+    {
+      "id": "hyperedge_6",
+      "nodes": [
+        "SlateAccessibleBehavior",
+        "enumval_SlateAccessibleBehavior_NOT_ACCESSIBLE",
+        "enumval_SlateAccessibleBehavior_AUTO",
+        "enumval_SlateAccessibleBehavior_SUMMARY",
+        "enumval_SlateAccessibleBehavior_CUSTOM",
+        "enumval_SlateAccessibleBehavior_TOOL_TIP"
+      ],
+      "type": "ENUM_WITH_VALUES",
+      "description": "SlateAccessibleBehavior enum with all its possible values for accessibility behavior configuration"
+    },
+    {
+      "id": "hyperedge_7",
+      "nodes": [
+        "InputMappingRebuildType",
+        "enumval_InputMappingRebuildType_NONE",
+        "enumval_InputMappingRebuildType_REBUILD",
+        "enumval_InputMappingRebuildType_REBUILD_WITH_FLUSH"
+      ],
+      "type": "ENUM_WITH_VALUES",
+      "description": "InputMappingRebuildType enum with all its values for controlling input mapping rebuild behavior"
+    },
+    {
+      "id": "hyperedge_8",
+      "nodes": [
+        "LaneDirection",
+        "enumval_LaneDirection_RIGHT",
+        "enumval_LaneDirection_LEFT",
+        "enumval_LaneDirection_U_TURN",
+        "enumval_LaneDirection_STRAIGHT"
+      ],
+      "type": "ENUM_WITH_VALUES",
+      "description": "LaneDirection enum with values for lane direction indicators in traffic systems"
+    },
+    {
+      "id": "hyperedge_9",
+      "nodes": [
+        "RasterTool",
+        "enumval_RasterTool_SCULPT",
+        "enumval_RasterTool_SMOOTH",
+        "enumval_RasterTool_FLATTEN"
+      ],
+      "type": "ENUM_WITH_VALUES",
+      "description": "RasterTool enum with values for different raster editing tools"
+    },
+    {
+      "id": "hyperedge_10",
+      "nodes": [
+        "EarthGizmoCoordAxisType",
+        "enumval_EarthGizmoCoordAxisType_DISABLE",
+        "enumval_EarthGizmoCoordAxisType_LOCATION",
+        "enumval_EarthGizmoCoordAxisType_ROTATION",
+        "enumval_EarthGizmoCoordAxisType_SCALE"
+      ],
+      "type": "ENUM_WITH_VALUES",
+      "description": "EarthGizmoCoordAxisType enum with values for coordinate axis manipulation modes"
+    },
+    {
+      "id": "hyperedge_11",
+      "nodes": [
+        "MaterialLightingModel",
+        "enumval_MaterialLightingModel_MSM_UNLIT",
+        "enumval_MaterialLightingModel_MSM_DEFAULT_LIT",
+        "enumval_MaterialLightingModel_MSM_SUBSURFACE"
+      ],
+      "type": "ENUM_WITH_VALUES",
+      "description": "MaterialLightingModel enum with values for different material shading models"
+    },
+    {
+      "id": "hyperedge_12",
+      "nodes": [
+        "InterchangeSceneNode",
+        "Transform",
+        "MovieSceneSequence",
+        "MaterialInstanceActor"
+      ],
+      "type": "SCENE_NODE_ECOSYSTEM",
+      "description": "Interchange scene nodes that manage transforms and integrate with movie sequences and material instances"
+    },
+    {
+      "id": "hyperedge_13",
+      "nodes": [
+        "plugin_AesWorld",
+        "module_EarthPrefab",
+        "module_AesEditorMode",
+        "module_AesAsset",
+        "module_EarthGizmoTool",
+        "EarthModifyProvider_Actor",
+        "AesBuildingEditorCommand_StyleBrush",
+        "RasterTool",
+        "LaneDirection",
+        "EarthGizmoCoordAxisType"
+      ],
+      "type": "PLUGIN_MODULE_CLASS_HIERARCHY",
+      "description": "Complete hierarchy showing AesWorld plugin with its modules and all classes defined in those modules"
+    },
+    {
+      "id": "hyperedge_14",
+      "nodes": [
+        "plugin_RigVM",
+        "module_RigVM",
+        "RigVMFunction_MathVectorAngle",
+        "RigVMFunction_MathQuaternionScaleV2"
+      ],
+      "type": "PLUGIN_MODULE_CLASS_HIERARCHY",
+      "description": "RigVM plugin with its module and math function classes"
+    },
+    {
+      "id": "hyperedge_15",
+      "nodes": [
+        "plugin_ControlRig",
+        "module_ControlRig",
+        "RigUnit_ParentSwitchConstraintArray"
+      ],
+      "type": "PLUGIN_MODULE_CLASS_HIERARCHY",
+      "description": "ControlRig plugin with its module and constraint array class"
+    },
+    {
+      "id": "hyperedge_16",
+      "nodes": [
+        "MaterialInstanceActor",
+        "UrbanEntityEditorScene",
+        "Actor"
+      ],
+      "type": "ACTOR_INHERITANCE_FAMILY",
+      "description": "Multiple classes inheriting from the Actor base class"
+    },
+    {
+      "id": "hyperedge_17",
+      "nodes": [
+        "MovieSceneSequenceExtensions",
+        "method_MovieSceneSequenceExtensions_sort_marked_frames",
+        "method_MovieSceneSequenceExtensions_set_playback_start",
+        "method_MovieSceneSequenceExtensions_get_tracks",
+        "method_MovieSceneSequenceExtensions_find_binding_by_name",
+        "method_MovieSceneSequenceExtensions_add_spawnable_from_class"
+      ],
+      "type": "CLASS_WITH_METHODS",
+      "description": "MovieSceneSequenceExtensions class with its key methods for sequence manipulation"
+    },
+    {
+      "id": "hyperedge_18",
+      "nodes": [
+        "plugin_MassGameplay",
+        "module_MassActors",
+        "module_MassRepresentation",
+        "MassAgentComponent",
+        "MassVisualizationLODParameters"
+      ],
+      "type": "PLUGIN_MODULE_CLASS_HIERARCHY",
+      "description": "MassGameplay plugin with its modules and mass-related classes"
+    },
+    {
+      "id": "hyperedge_19",
+      "nodes": [
+        "plugin_MovieRenderPipeline",
+        "module_MovieRenderPipelineCore",
+        "MovieGraphCameraSettingNode"
+      ],
+      "type": "PLUGIN_MODULE_CLASS_HIERARCHY",
+      "description": "MovieRenderPipeline plugin with its core module and camera setting node"
+    },
+    {
+      "id": "hyperedge_20",
+      "nodes": [
+        "CameraShakeDuration",
+        "TakeRecorderFinished",
+        "module_Engine",
+        "plugin_Takes"
+      ],
+      "type": "ENGINE_AND_TAKES_SYSTEM",
+      "description": "Engine and Takes plugin components for camera shake and recording functionality"
+    }
+  ]
+}

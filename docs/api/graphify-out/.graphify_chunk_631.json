@@ -1,0 +1,625 @@
+{
+  "nodes": [
+    {
+      "id": "GooglePADFunctionLibrary",
+      "type": "class",
+      "label": "GooglePADFunctionLibrary",
+      "properties": {
+        "module": "GooglePAD",
+        "plugin": "GooglePAD",
+        "file": "GooglePADFunctionLibrary.h",
+        "description": "Google PADFunction Library"
+      }
+    },
+    {
+      "id": "show_confirmation_dialog",
+      "type": "method",
+      "label": "show_confirmation_dialog",
+      "properties": {
+        "return_type": "GooglePADErrorCode",
+        "class": "GooglePADFunctionLibrary",
+        "description": "Show confirmation dialog to start all asset pack downloads"
+      }
+    },
+    {
+      "id": "request_download",
+      "type": "method",
+      "label": "request_download",
+      "properties": {
+        "return_type": "GooglePADErrorCode",
+        "class": "GooglePADFunctionLibrary",
+        "description": "Request download of a set of asset packs"
+      }
+    },
+    {
+      "id": "SmartObjectLaneLocationIndices",
+      "type": "class",
+      "label": "SmartObjectLaneLocationIndices",
+      "properties": {
+        "module": "MassSmartObjects",
+        "plugin": "MassGameplay",
+        "file": "SmartObjectZoneAnnotations.h",
+        "description": "Struct to store indices to all entry points on a given lane"
+      }
+    },
+    {
+      "id": "LiveLinkLightBlueprintData",
+      "type": "class",
+      "label": "LiveLinkLightBlueprintData",
+      "properties": {
+        "module": "LiveLinkInterface",
+        "file": "LiveLinkLightTypes.h",
+        "description": "Facility structure to handle light data in blueprint"
+      }
+    },
+    {
+      "id": "AesRoadEditorCommandParams_FormatBrush",
+      "type": "class",
+      "label": "AesRoadEditorCommandParams_FormatBrush",
+      "properties": {
+        "module": "AesEditorMode",
+        "plugin": "AesWorld",
+        "file": "AesRoadEditorAction_FormatBrush.h"
+      }
+    },
+    {
+      "id": "RCVirtualPropertyBase",
+      "type": "class",
+      "label": "RCVirtualPropertyBase",
+      "properties": {
+        "module": "RemoteControl",
+        "plugin": "RemoteControl",
+        "file": "RCVirtualProperty.h",
+        "description": "Base class for dynamic virtual properties using Property Bag"
+      }
+    },
+    {
+      "id": "set_value_vector2d",
+      "type": "method",
+      "label": "set_value_vector2d",
+      "properties": {
+        "return_type": "bool",
+        "class": "RCVirtualPropertyBase",
+        "description": "Set Vector2D value from Virtual Property"
+      }
+    },
+    {
+      "id": "get_value_vector2d",
+      "type": "method",
+      "label": "get_value_vector2d",
+      "properties": {
+        "return_type": "Optional[Vector2D]",
+        "class": "RCVirtualPropertyBase",
+        "description": "Get Vector2D value from Virtual Property"
+      }
+    },
+    {
+      "id": "GeometryScriptLODType",
+      "type": "enum",
+      "label": "GeometryScriptLODType",
+      "properties": {
+        "module": "GeometryScriptingCore",
+        "plugin": "GeometryScripting",
+        "file": "GeometryScriptTypes.h",
+        "description": "The Type of LOD in a Mesh Asset"
+      }
+    },
+    {
+      "id": "MAX_AVAILABLE",
+      "type": "enum_value",
+      "label": "MAX_AVAILABLE",
+      "properties": {
+        "enum": "GeometryScriptLODType",
+        "value": 0,
+        "description": "The Maximum-quality available SourceModel LOD"
+      }
+    },
+    {
+      "id": "GeoLayerAPI",
+      "type": "class",
+      "label": "GeoLayerAPI",
+      "properties": {
+        "module": "MagicGISAPI",
+        "plugin": "GISDataAPI",
+        "file": "GeoLayerAPI.h",
+        "description": "Geo Layer API"
+      }
+    },
+    {
+      "id": "update_geo_layer",
+      "type": "method",
+      "label": "update_geo_layer",
+      "properties": {
+        "return_type": "Optional[ResultBase]",
+        "class": "GeoLayerAPI"
+      }
+    },
+    {
+      "id": "create_geo_layer_entity",
+      "type": "method",
+      "label": "create_geo_layer_entity",
+      "properties": {
+        "return_type": "Optional[EidResult]",
+        "class": "GeoLayerAPI"
+      }
+    },
+    {
+      "id": "RigVMFunctionEntryNode",
+      "type": "class",
+      "label": "RigVMFunctionEntryNode",
+      "properties": {
+        "module": "RigVMDeveloper",
+        "plugin": "RigVM",
+        "file": "RigVMFunctionEntryNode.h",
+        "description": "Function Entry node provides access to input pins"
+      }
+    },
+    {
+      "id": "TargetingSelectionTask_AOE",
+      "type": "class",
+      "label": "TargetingSelectionTask_AOE",
+      "properties": {
+        "module": "TargetingSystem",
+        "plugin": "TargetingSystem",
+        "file": "TargetingSelectionTask_AOE.h",
+        "description": "Basic AOE based selection task with multiple shape types"
+      }
+    },
+    {
+      "id": "get_source_location",
+      "type": "method",
+      "label": "get_source_location",
+      "properties": {
+        "return_type": "Vector",
+        "class": "TargetingSelectionTask_AOE"
+      }
+    },
+    {
+      "id": "OnMoviePipelineIndividualJobStarted",
+      "type": "class",
+      "label": "OnMoviePipelineIndividualJobStarted",
+      "properties": {
+        "module": "MovieRenderPipelineEditor",
+        "plugin": "MovieRenderPipeline",
+        "file": "MoviePipelinePIEExecutor.h",
+        "description": "Delegate for individual job started"
+      }
+    },
+    {
+      "id": "DialogueSoundWaveProxy",
+      "type": "class",
+      "label": "DialogueSoundWaveProxy",
+      "properties": {
+        "module": "Engine",
+        "file": "DialogueSoundWaveProxy.h",
+        "description": "Dialogue Sound Wave Proxy"
+      }
+    },
+    {
+      "id": "InputDeviceTriggerResistanceProperty",
+      "type": "class",
+      "label": "InputDeviceTriggerResistanceProperty",
+      "properties": {
+        "module": "Engine",
+        "file": "InputDeviceProperties.h",
+        "description": "Provides linear resistance to a trigger"
+      }
+    },
+    {
+      "id": "EnvironmentUtilManager",
+      "type": "class",
+      "label": "EnvironmentUtilManager",
+      "properties": {
+        "module": "WdpEnvironment",
+        "plugin": "WdpEnvironment",
+        "file": "EnvironmentUtilManager.h",
+        "description": "用于添加时间同步等相关的接口函数和变量"
+      }
+    },
+    {
+      "id": "EarthActorComponentArrayFragment",
+      "type": "class",
+      "label": "EarthActorComponentArrayFragment",
+      "properties": {
+        "module": "EarthPrefab",
+        "plugin": "AesWorld",
+        "file": "EarthActorFragment.h",
+        "description": "ActorComponent数组数据片段"
+      }
+    },
+    {
+      "id": "AvaRemoteControlInterface",
+      "type": "class",
+      "label": "AvaRemoteControlInterface",
+      "properties": {
+        "module": "AvalancheRemoteControl",
+        "plugin": "Avalanche",
+        "file": "IAvaRemoteControlInterface.h"
+      }
+    },
+    {
+      "id": "PCGMedadataRotatorOperation",
+      "type": "enum",
+      "label": "PCGMedadataRotatorOperation",
+      "properties": {
+        "deprecated": true,
+        "description": "deprecated: was renamed to PCGMetadataRotatorOperation"
+      }
+    },
+    {
+      "id": "MIParamsAtom",
+      "type": "class",
+      "label": "MIParamsAtom",
+      "properties": {
+        "module": "WdpMaterial",
+        "plugin": "WdpApplication",
+        "file": "MIParamsAtom.h",
+        "description": "Material Instance Parameters Atom"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchySetParentWeights",
+      "type": "class",
+      "label": "RigUnit_HierarchySetParentWeights",
+      "properties": {
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_DynamicHierarchy.h",
+        "description": "Sets the item's parents' weights"
+      }
+    },
+    {
+      "id": "ControllerAnalogStick",
+      "type": "enum",
+      "label": "ControllerAnalogStick",
+      "properties": {
+        "module": "Engine",
+        "file": "InputComponent.h",
+        "description": "Controller Analog Stick"
+      }
+    },
+    {
+      "id": "AnimNode_Constraint",
+      "type": "class",
+      "label": "AnimNode_Constraint",
+      "properties": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_Constraint.h",
+        "description": "Constraint node to parent or world transform"
+      }
+    },
+    {
+      "id": "DaySequenceCollectionAssetFactory",
+      "type": "class",
+      "label": "DaySequenceCollectionAssetFactory",
+      "properties": {
+        "module": "DaySequenceEditor",
+        "plugin": "DaySequence",
+        "file": "AssetDefinition_DaySequenceCollectionAsset.h"
+      }
+    },
+    {
+      "id": "LidarPointCloudComponent",
+      "type": "class",
+      "label": "LidarPointCloudComponent",
+      "properties": {
+        "module": "LidarPointCloudRuntime",
+        "plugin": "LidarPointCloud",
+        "file": "LidarPointCloudComponent.h",
+        "description": "Component that renders specified point cloud section"
+      }
+    },
+    {
+      "id": "set_visibility_of_points_in_sphere",
+      "type": "method",
+      "label": "set_visibility_of_points_in_sphere",
+      "properties": {
+        "return_type": "None",
+        "class": "LidarPointCloudComponent"
+      }
+    },
+    {
+      "id": "line_trace_single",
+      "type": "method",
+      "label": "line_trace_single",
+      "properties": {
+        "return_type": "Optional[LidarPointCloudPoint]",
+        "class": "LidarPointCloudComponent"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "GooglePADFunctionLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "show_confirmation_dialog",
+      "target": "GooglePADFunctionLibrary",
+      "type": "belongs_to",
+      "label": "method of"
+    },
+    {
+      "source": "request_download",
+      "target": "GooglePADFunctionLibrary",
+      "type": "belongs_to",
+      "label": "method of"
+    },
+    {
+      "source": "SmartObjectLaneLocationIndices",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "LiveLinkLightBlueprintData",
+      "target": "LiveLinkBaseBlueprintData",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "AesRoadEditorCommandParams_FormatBrush",
+      "target": "AesEditorSimpleCommandParams",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "RCVirtualPropertyBase",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "set_value_vector2d",
+      "target": "RCVirtualPropertyBase",
+      "type": "belongs_to",
+      "label": "method of"
+    },
+    {
+      "source": "get_value_vector2d",
+      "target": "RCVirtualPropertyBase",
+      "type": "belongs_to",
+      "label": "method of"
+    },
+    {
+      "source": "MAX_AVAILABLE",
+      "target": "GeometryScriptLODType",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "update_geo_layer",
+      "target": "GeoLayerAPI",
+      "type": "belongs_to",
+      "label": "method of"
+    },
+    {
+      "source": "create_geo_layer_entity",
+      "target": "GeoLayerAPI",
+      "type": "belongs_to",
+      "label": "method of"
+    },
+    {
+      "source": "RigVMFunctionEntryNode",
+      "target": "RigVMFunctionInterfaceNode",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "TargetingSelectionTask_AOE",
+      "target": "TargetingTask",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "get_source_location",
+      "target": "TargetingSelectionTask_AOE",
+      "type": "belongs_to",
+      "label": "method of"
+    },
+    {
+      "source": "OnMoviePipelineIndividualJobStarted",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "DialogueSoundWaveProxy",
+      "target": "SoundBase",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "InputDeviceTriggerResistanceProperty",
+      "target": "InputDeviceTriggerEffect",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "EnvironmentUtilManager",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "EarthActorComponentArrayFragment",
+      "target": "EarthOutputFragment",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "AvaRemoteControlInterface",
+      "target": "Interface",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "MIParamsAtom",
+      "target": "EntityAtomBase",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "RigUnit_HierarchySetParentWeights",
+      "target": "RigUnit_DynamicHierarchyBaseMutable",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "AnimNode_Constraint",
+      "target": "AnimNode_SkeletalControlBase",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "DaySequenceCollectionAssetFactory",
+      "target": "Factory",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "LidarPointCloudComponent",
+      "target": "MeshComponent",
+      "type": "inherits_from",
+      "label": "inherits"
+    },
+    {
+      "source": "set_visibility_of_points_in_sphere",
+      "target": "LidarPointCloudComponent",
+      "type": "belongs_to",
+      "label": "method of"
+    },
+    {
+      "source": "line_trace_single",
+      "target": "LidarPointCloudComponent",
+      "type": "belongs_to",
+      "label": "method of"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he1",
+      "nodes": [
+        "GooglePADFunctionLibrary",
+        "show_confirmation_dialog",
+        "request_download",
+        "request_info",
+        "cancel_download"
+      ],
+      "type": "api_function_group",
+      "label": "Google PAD Asset Management",
+      "properties": {
+        "description": "Methods for managing Google Play Asset Delivery"
+      }
+    },
+    {
+      "id": "he2",
+      "nodes": [
+        "RCVirtualPropertyBase",
+        "set_value_vector2d",
+        "set_value_vector",
+        "set_value_float",
+        "get_value_vector2d",
+        "get_value_vector",
+        "get_value_float"
+      ],
+      "type": "property_access_pattern",
+      "label": "Virtual Property Getters/Setters",
+      "properties": {
+        "description": "Type-safe get/set methods for various property types"
+      }
+    },
+    {
+      "id": "he3",
+      "nodes": [
+        "TargetingSelectionTask_AOE",
+        "get_source_location",
+        "get_source_rotation",
+        "get_source_offset"
+      ],
+      "type": "spatial_queries",
+      "label": "AOE Spatial Methods",
+      "properties": {
+        "description": "Methods for getting spatial information for AOE targeting"
+      }
+    },
+    {
+      "id": "he4",
+      "nodes": [
+        "LidarPointCloudComponent",
+        "set_visibility_of_points_in_sphere",
+        "set_visibility_of_points_in_box",
+        "remove_points_in_sphere",
+        "line_trace_single",
+        "line_trace_multi"
+      ],
+      "type": "point_cloud_operations",
+      "label": "Point Cloud Manipulation",
+      "properties": {
+        "description": "Methods for querying and modifying point cloud data"
+      }
+    },
+    {
+      "id": "he5",
+      "nodes": [
+        "GeometryScriptLODType",
+        "MAX_AVAILABLE",
+        "HI_RES_SOURCE_MODEL",
+        "SOURCE_MODEL",
+        "RENDER_DATA"
+      ],
+      "type": "enum_definition",
+      "label": "LOD Types",
+      "properties": {
+        "description": "Enumeration of Level of Detail types for mesh assets"
+      }
+    },
+    {
+      "id": "he6",
+      "nodes": [
+        "GeoLayerAPI",
+        "update_geo_layer",
+        "create_geo_layer_entity",
+        "set_layer_visibility",
+        "get_geo_layer_info"
+      ],
+      "type": "gis_api",
+      "label": "Geographic Layer API",
+      "properties": {
+        "description": "API methods for managing geographic layers"
+      }
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "GooglePADFunctionLibrary Objects.md",
+      "SmartObjectLaneLocationIndices Objects.md",
+      "LiveLinkLightBlueprintData Objects.md",
+      "AesRoadEditorCommandParams__FormatBrush Objects.md",
+      "RCVirtualPropertyBase Objects.md",
+      "GeometryScriptLODType Objects.md",
+      "GeoLayerAPI Objects.md",
+      "RigVMFunctionEntryNode Objects.md",
+      "TargetingSelectionTask__AOE Objects.md",
+      "OnMoviePipelineIndividualJobStarted Objects.md",
+      "DialogueSoundWaveProxy Objects.md",
+      "InputDeviceTriggerResistanceProperty Objects.md",
+      "EnvironmentUtilManager Objects.md",
+      "EarthActorComponentArrayFragment Objects.md",
+      "AvaRemoteControlInterface Objects.md",
+      "PCGMedadataRotatorOperation Objects.md",
+      "MIParamsAtom Objects.md",
+      "RigUnit__HierarchySetParentWeights Objects.md",
+      "ControllerAnalogStick Objects.md",
+      "AnimNode_Constraint Objects.md",
+      "DaySequenceCollectionAssetFactory Objects.md",
+      "LidarPointCloudComponent Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_nodes": 33,
+    "total_edges": 29,
+    "total_hyperedges": 6
+  }
+}

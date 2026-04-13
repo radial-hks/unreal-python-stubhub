@@ -1,0 +1,580 @@
+{
+  "nodes": [
+    {
+      "id": "NiagaraDataInterfaceRenderTargetCube_niagaradatainterfacerendertargetcube",
+      "label": "NiagaraDataInterfaceRenderTargetCube",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceRenderTargetCube Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LevelCapture_levelcapture",
+      "label": "LevelCapture",
+      "file_type": "document",
+      "source_file": "LevelCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionSwitch_materialexpressionswitch",
+      "label": "MaterialExpressionSwitch",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneGeometryCollectionParams_moviescenegeometrycollectionparams",
+      "label": "MovieSceneGeometryCollectionParams",
+      "file_type": "document",
+      "source_file": "MovieSceneGeometryCollectionParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EarthDomExtractorType_earthdomextractortype",
+      "label": "EarthDomExtractorType",
+      "file_type": "document",
+      "source_file": "EarthDomExtractorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AesTilesVisibilityGroupUpdateParam_aestilesvisibilitygroupupdateparam",
+      "label": "AesTilesVisibilityGroupUpdateParam",
+      "file_type": "document",
+      "source_file": "AesTilesVisibilityGroupUpdateParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Quat_quat",
+      "label": "Quat",
+      "file_type": "document",
+      "source_file": "Quat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "GeometryScriptInitKMeansMethod_geometryscriptinitkmeansmethod",
+      "label": "GeometryScriptInitKMeansMethod",
+      "file_type": "document",
+      "source_file": "GeometryScriptInitKMeansMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LidarPointCloudSpriteOrientation_lidarpointcloudspriteorientation",
+      "label": "LidarPointCloudSpriteOrientation",
+      "file_type": "document",
+      "source_file": "LidarPointCloudSpriteOrientation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AttenuationShape_attenuationshape",
+      "label": "AttenuationShape",
+      "file_type": "document",
+      "source_file": "AttenuationShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MotionWarpingPreUpdate_motionwarpingpreupdate",
+      "label": "MotionWarpingPreUpdate",
+      "file_type": "document",
+      "source_file": "MotionWarpingPreUpdate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SpawnOwnership_spawnownership",
+      "label": "SpawnOwnership",
+      "file_type": "document",
+      "source_file": "SpawnOwnership Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DMMaterialStageExpressionInverseLinearInterpolate_dmmaterialstageexpressioninverselinearinterpolate",
+      "label": "DMMaterialStageExpressionInverseLinearInterpolate",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionInverseLinearInterpolate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LevelSequenceActor_OnLevelSequenceLoaded_levelsequenceactor_onlevelsequenceloaded",
+      "label": "LevelSequenceActor_OnLevelSequenceLoaded",
+      "file_type": "document",
+      "source_file": "LevelSequenceActor__OnLevelSequenceLoaded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "HyperlinkStyle_hyperlinkstyle",
+      "label": "HyperlinkStyle",
+      "file_type": "document",
+      "source_file": "HyperlinkStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InterpToMovementComponent_OnInterpToWaitBeginDelegate_interptomovementcomponent_oninterptowaitbegidelegate",
+      "label": "InterpToMovementComponent_OnInterpToWaitBeginDelegate",
+      "file_type": "document",
+      "source_file": "InterpToMovementComponent__OnInterpToWaitBeginDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionQualitySwitch_materialexpressionqualityswitch",
+      "label": "MaterialExpressionQualitySwitch",
+      "file_type": "document",
+      "source_file": "MaterialExpressionQualitySwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGWorldVolumetricQueryParams_pcgworldvolumetricqueryparams",
+      "label": "PCGWorldVolumetricQueryParams",
+      "file_type": "document",
+      "source_file": "PCGWorldVolumetricQueryParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WdpModelerEmbankBaseType_wdpmodelerembankbasetype",
+      "label": "WdpModelerEmbankBaseType",
+      "file_type": "document",
+      "source_file": "WdpModelerEmbankBaseType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings_rigunit_hierarchyaddanimationchannelemptylimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WdpGlobalSettingsEntity_wdpglobalsettingsentity",
+      "label": "WdpGlobalSettingsEntity",
+      "file_type": "document",
+      "source_file": "WdpGlobalSettingsEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ParticleSystemLODMethod_particlesystemlodmethod",
+      "label": "ParticleSystemLODMethod",
+      "file_type": "document",
+      "source_file": "ParticleSystemLODMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "NiagaraDataInterfaceRenderTargetCube_niagaradatainterfacerendertargetcube",
+      "target": "NiagaraDataInterfaceRWBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceRenderTargetCube Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "LevelCapture_levelcapture",
+      "target": "MovieSceneCapture",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionSwitch_materialexpressionswitch",
+      "target": "MaterialExpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneGeometryCollectionParams_moviescenegeometrycollectionparams",
+      "target": "StructBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneGeometryCollectionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AesTilesVisibilityGroupUpdateParam_aestilesvisibilitygroupupdateparam",
+      "target": "AesTilesVisualApiParamBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesVisibilityGroupUpdateParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "Quat_quat",
+      "target": "StructBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Quat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingPreUpdate_motionwarpingpreupdate",
+      "target": "MulticastDelegateBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MotionWarpingPreUpdate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DMMaterialStageExpressionInverseLinearInterpolate_dmmaterialstageexpressioninverselinearinterpolate",
+      "target": "DMMaterialStageExpressionMathBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionInverseLinearInterpolate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "LevelSequenceActor_OnLevelSequenceLoaded_levelsequenceactor_onlevelsequenceloaded",
+      "target": "DelegateBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceActor__OnLevelSequenceLoaded Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "HyperlinkStyle_hyperlinkstyle",
+      "target": "SlateWidgetStyle",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HyperlinkStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "InterpToMovementComponent_OnInterpToWaitBeginDelegate_interptomovementcomponent_oninterptowaitbegidelegate",
+      "target": "MulticastDelegateBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterpToMovementComponent__OnInterpToWaitBeginDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionQualitySwitch_materialexpressionqualityswitch",
+      "target": "MaterialExpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionQualitySwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGWorldVolumetricQueryParams_pcgworldvolumetricqueryparams",
+      "target": "PCGWorldCommonQueryParams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGWorldVolumetricQueryParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings_rigunit_hierarchyaddanimationchannelemptylimitsettings",
+      "target": "StructBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "WdpGlobalSettingsEntity_wdpglobalsettingsentity",
+      "target": "UniqueEntityBase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGlobalSettingsEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "Quat_quat",
+      "target": "Vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Quat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "Quat_quat",
+      "target": "Rotator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Quat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "Quat_quat",
+      "target": "QuaternionSpringState",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Quat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionSwitch_materialexpressionswitch",
+      "target": "MaterialExpressionQualitySwitch_materialexpressionqualityswitch",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionSwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "HyperlinkStyle_hyperlinkstyle",
+      "target": "ButtonStyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HyperlinkStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "HyperlinkStyle_hyperlinkstyle",
+      "target": "TextBlockStyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HyperlinkStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "HyperlinkStyle_hyperlinkstyle",
+      "target": "Margin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HyperlinkStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EarthDomExtractorType_earthdomextractortype",
+      "target": "WdpGlobalSettingsEntity_wdpglobalsettingsentity",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthDomExtractorType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "LevelCapture_levelcapture",
+      "target": "MovieSceneGeometryCollectionParams_moviescenegeometrycollectionparams",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LevelCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "LevelCapture_levelcapture",
+      "target": "LevelSequenceActor_OnLevelSequenceLoaded_levelsequenceactor_onlevelsequenceloaded",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LevelCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MotionWarpingPreUpdate_motionwarpingpreupdate",
+      "target": "InterpToMovementComponent_OnInterpToWaitBeginDelegate_interptomovementcomponent_oninterptowaitbegidelegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MotionWarpingPreUpdate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "NiagaraDataInterfaceRenderTargetCube_niagaradatainterfacerendertargetcube",
+      "target": "NiagaraUserParameterBinding",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceRenderTargetCube Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "NiagaraDataInterfaceRenderTargetCube_niagaradatainterfacerendertargetcube",
+      "target": "TextureFilter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceRenderTargetCube Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "NiagaraDataInterfaceRenderTargetCube_niagaradatainterfacerendertargetcube",
+      "target": "TextureRenderTargetFormat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceRenderTargetCube Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "quaternion_rotation_math",
+      "label": "Quaternion Rotation Math Classes",
+      "nodes": [
+        "Quat_quat",
+        "Vector",
+        "Rotator"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Quat Objects.md"
+    },
+    {
+      "id": "material_expression_switching",
+      "label": "Material Expression Switching",
+      "nodes": [
+        "MaterialExpressionSwitch_materialexpressionswitch",
+        "MaterialExpressionQualitySwitch_materialexpressionqualityswitch"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionSwitch Objects.md"
+    },
+    {
+      "id": "movie_sequence_capture",
+      "label": "Movie Sequence Capture System",
+      "nodes": [
+        "LevelCapture_levelcapture",
+        "MovieSceneGeometryCollectionParams_moviescenegeometrycollectionparams",
+        "LevelSequenceActor_OnLevelSequenceLoaded_levelsequenceactor_onlevelsequenceloaded"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LevelCapture Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1871 @@
+{
+  "entities": [
+    {
+      "id": "DMMaterialStageBlendColorDodge",
+      "type": "class",
+      "name": "DMMaterialStageBlendColorDodge",
+      "description": "DMMaterial Stage Blend Color Dodge"
+    },
+    {
+      "id": "DMMaterialStageBlendFunction",
+      "type": "class",
+      "name": "DMMaterialStageBlendFunction"
+    },
+    {
+      "id": "DynamicMaterial",
+      "type": "plugin",
+      "name": "DynamicMaterial"
+    },
+    {
+      "id": "DynamicMaterialEditor",
+      "type": "module",
+      "name": "DynamicMaterialEditor"
+    },
+    {
+      "id": "DMMaterialStageExpressionArccosine",
+      "type": "class",
+      "name": "DMMaterialStageExpressionArccosine",
+      "description": "DMMaterial Stage Expression Arccosine"
+    },
+    {
+      "id": "DMMaterialStageExpressionMathBase",
+      "type": "class",
+      "name": "DMMaterialStageExpressionMathBase"
+    },
+    {
+      "id": "UniformGridSlot",
+      "type": "class",
+      "name": "UniformGridSlot",
+      "description": "A slot for UUniformGridPanel, these slots all share the same size as the largest slot in the grid."
+    },
+    {
+      "id": "PanelSlot",
+      "type": "class",
+      "name": "PanelSlot"
+    },
+    {
+      "id": "UMG",
+      "type": "module",
+      "name": "UMG"
+    },
+    {
+      "id": "DisplayClusterConfiguratorReimportFactory",
+      "type": "class",
+      "name": "DisplayClusterConfiguratorReimportFactory",
+      "description": "Display Cluster Configurator Reimport Factory"
+    },
+    {
+      "id": "DisplayClusterConfiguratorFactory",
+      "type": "class",
+      "name": "DisplayClusterConfiguratorFactory"
+    },
+    {
+      "id": "nDisplay",
+      "type": "plugin",
+      "name": "nDisplay"
+    },
+    {
+      "id": "DisplayClusterConfigurator",
+      "type": "module",
+      "name": "DisplayClusterConfigurator"
+    },
+    {
+      "id": "ComponentEndTouchOverSignature",
+      "type": "class",
+      "name": "ComponentEndTouchOverSignature",
+      "description": "Component End Touch Over Signature Delegate Signature"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "name": "MulticastDelegateBase"
+    },
+    {
+      "id": "Engine",
+      "type": "module",
+      "name": "Engine"
+    },
+    {
+      "id": "HapticFeedbackEffect_Buffer",
+      "type": "class",
+      "name": "HapticFeedbackEffect_Buffer",
+      "description": "Haptic Feedback Effect Buffer"
+    },
+    {
+      "id": "HapticFeedbackEffect_Base",
+      "type": "class",
+      "name": "HapticFeedbackEffect_Base"
+    },
+    {
+      "id": "GeometryScriptConstrainedDelaunayTriangulationOptions",
+      "type": "class",
+      "name": "GeometryScriptConstrainedDelaunayTriangulationOptions",
+      "description": "Geometry Script Constrained Delaunay Triangulation Options"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "name": "StructBase"
+    },
+    {
+      "id": "GeometryScripting",
+      "type": "plugin",
+      "name": "GeometryScripting"
+    },
+    {
+      "id": "GeometryScriptingCore",
+      "type": "module",
+      "name": "GeometryScriptingCore"
+    },
+    {
+      "id": "StateTreeRunStatus",
+      "type": "class",
+      "name": "StateTreeRunStatus",
+      "description": "Status describing current run status of a State Tree."
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "name": "EnumBase"
+    },
+    {
+      "id": "StateTree",
+      "type": "plugin",
+      "name": "StateTree"
+    },
+    {
+      "id": "StateTreeModule",
+      "type": "module",
+      "name": "StateTreeModule"
+    },
+    {
+      "id": "OnlineProxyStoreOffer",
+      "type": "class",
+      "name": "OnlineProxyStoreOffer",
+      "description": "Offer entry for display from online store"
+    },
+    {
+      "id": "OnlineSubsystemUtils",
+      "type": "plugin",
+      "name": "OnlineSubsystemUtils"
+    },
+    {
+      "id": "MetaSoundDocumentInterface",
+      "type": "class",
+      "name": "MetaSoundDocumentInterface",
+      "description": "Meta Sound Document Interface"
+    },
+    {
+      "id": "Interface",
+      "type": "class",
+      "name": "Interface"
+    },
+    {
+      "id": "Metasound",
+      "type": "plugin",
+      "name": "Metasound"
+    },
+    {
+      "id": "MetasoundFrontend",
+      "type": "module",
+      "name": "MetasoundFrontend"
+    },
+    {
+      "id": "GetCameraRoamingInfoResult",
+      "type": "class",
+      "name": "GetCameraRoamingInfoResult",
+      "description": "Get Camera Roaming Info Result"
+    },
+    {
+      "id": "ResultBase",
+      "type": "class",
+      "name": "ResultBase"
+    },
+    {
+      "id": "WdpRuntimeAPI",
+      "type": "plugin",
+      "name": "WdpRuntimeAPI"
+    },
+    {
+      "id": "ApplicationAPI",
+      "type": "module",
+      "name": "ApplicationAPI"
+    },
+    {
+      "id": "AnimGraphNode_Layer",
+      "type": "class",
+      "name": "AnimGraphNode_Layer",
+      "description": "deprecated: 'AnimGraphNode_Layer' was renamed to 'AnimGraphNode_LinkedAnimLayer'."
+    },
+    {
+      "id": "AnimGraphNode_LinkedAnimLayer",
+      "type": "class",
+      "name": "AnimGraphNode_LinkedAnimLayer"
+    },
+    {
+      "id": "MaterialExpressionVirtualTextureFeatureSwitch",
+      "type": "class",
+      "name": "MaterialExpressionVirtualTextureFeatureSwitch",
+      "description": "Material output expression to switch logic according to whether virtual texturing is supported on this project, platform and feature level."
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "name": "MaterialExpression"
+    },
+    {
+      "id": "TakeRecorderProjectParameters",
+      "type": "class",
+      "name": "TakeRecorderProjectParameters",
+      "description": "Take Recorder Project Parameters"
+    },
+    {
+      "id": "Takes",
+      "type": "plugin",
+      "name": "Takes"
+    },
+    {
+      "id": "TakeRecorder",
+      "type": "module",
+      "name": "TakeRecorder"
+    },
+    {
+      "id": "RigUnit_SlideChainItemArray",
+      "type": "class",
+      "name": "RigUnit_SlideChainItemArray",
+      "description": "Slides an existing chain along itself with control over extrapolation."
+    },
+    {
+      "id": "RigUnit_HighlevelBaseMutable",
+      "type": "class",
+      "name": "RigUnit_HighlevelBaseMutable"
+    },
+    {
+      "id": "ControlRig",
+      "type": "plugin",
+      "name": "ControlRig"
+    },
+    {
+      "id": "MassEntityTraitBase",
+      "type": "class",
+      "name": "MassEntityTraitBase",
+      "description": "Base class for Mass Entity Traits. An entity trait is a set of fragments that create a logical trait that makes sense to end use (i.e. replication, visualization)."
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "name": "Object"
+    },
+    {
+      "id": "MassGameplay",
+      "type": "plugin",
+      "name": "MassGameplay"
+    },
+    {
+      "id": "MassSpawner",
+      "type": "module",
+      "name": "MassSpawner"
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionNotEquals",
+      "type": "class",
+      "name": "RigVMFunction_MathQuaternionNotEquals",
+      "description": "Returns true if the value A does not equal B"
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionBase",
+      "type": "class",
+      "name": "RigVMFunction_MathQuaternionBase"
+    },
+    {
+      "id": "RigVM",
+      "type": "plugin",
+      "name": "RigVM"
+    },
+    {
+      "id": "RigDispatch_SetModuleMetadata",
+      "type": "class",
+      "name": "RigDispatch_SetModuleMetadata",
+      "description": "Sets metadata on the module"
+    },
+    {
+      "id": "RigDispatch_SetMetadata",
+      "type": "class",
+      "name": "RigDispatch_SetMetadata"
+    },
+    {
+      "id": "GLTFAnimSequenceExporter",
+      "type": "class",
+      "name": "GLTFAnimSequenceExporter",
+      "description": "GLTFAnim Sequence Exporter"
+    },
+    {
+      "id": "GLTFExporter",
+      "type": "class",
+      "name": "GLTFExporter"
+    },
+    {
+      "id": "GLTFExporter",
+      "type": "plugin",
+      "name": "GLTFExporter"
+    },
+    {
+      "id": "AbilityTriggerData",
+      "type": "class",
+      "name": "AbilityTriggerData",
+      "description": "Structure that defines how an ability will be triggered by external events"
+    },
+    {
+      "id": "GameplayAbilities",
+      "type": "plugin",
+      "name": "GameplayAbilities"
+    },
+    {
+      "id": "PolysExporterT3D",
+      "type": "class",
+      "name": "PolysExporterT3D",
+      "description": "Polys Exporter T3D"
+    },
+    {
+      "id": "Exporter",
+      "type": "class",
+      "name": "Exporter"
+    },
+    {
+      "id": "UnrealEd",
+      "type": "module",
+      "name": "UnrealEd"
+    },
+    {
+      "id": "AnimNode_BlendSpacePlayer",
+      "type": "class",
+      "name": "AnimNode_BlendSpacePlayer",
+      "description": "TODO:: Comment"
+    },
+    {
+      "id": "AnimNode_BlendSpacePlayerBase",
+      "type": "class",
+      "name": "AnimNode_BlendSpacePlayerBase"
+    },
+    {
+      "id": "AnimGraphRuntime",
+      "type": "module",
+      "name": "AnimGraphRuntime"
+    },
+    {
+      "id": "prop_allow_nested_inputs",
+      "type": "property",
+      "name": "allow_nested_inputs",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_base_channel_override",
+      "type": "property",
+      "name": "base_channel_override",
+      "data_type": "AvaColorChannel",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_component_dirty",
+      "type": "property",
+      "name": "component_dirty",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_component_state",
+      "type": "property",
+      "name": "component_state",
+      "data_type": "DMComponentLifetimeState",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_editable_properties",
+      "type": "property",
+      "name": "editable_properties",
+      "data_type": "Array[Name]",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_input_connectors",
+      "type": "property",
+      "name": "input_connectors",
+      "data_type": "Array[DMMaterialStageConnector]",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_input_required",
+      "type": "property",
+      "name": "input_required",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_name",
+      "type": "property",
+      "name": "name",
+      "data_type": "Text",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_output_connectors",
+      "type": "property",
+      "name": "output_connectors",
+      "data_type": "Array[DMMaterialStageConnector]",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_allow_single_float_match",
+      "type": "property",
+      "name": "allow_single_float_match",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_material_expression_class",
+      "type": "property",
+      "name": "material_expression_class",
+      "data_type": "type(Class)",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_menus",
+      "type": "property",
+      "name": "menus",
+      "data_type": "Array[DMExpressionMenu]",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_single_channel_only",
+      "type": "property",
+      "name": "single_channel_only",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_variadic_input_count",
+      "type": "property",
+      "name": "variadic_input_count",
+      "data_type": "int32",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_column",
+      "type": "property",
+      "name": "column",
+      "data_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_horizontal_alignment",
+      "type": "property",
+      "name": "horizontal_alignment",
+      "data_type": "HorizontalAlignment",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_row",
+      "type": "property",
+      "name": "row",
+      "data_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_vertical_alignment",
+      "type": "property",
+      "name": "vertical_alignment",
+      "data_type": "VerticalAlignment",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_asset_import_task",
+      "type": "property",
+      "name": "asset_import_task",
+      "data_type": "AssetImportTask",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_automated_import_data",
+      "type": "property",
+      "name": "automated_import_data",
+      "data_type": "AutomatedAssetImportData",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_context_class",
+      "type": "property",
+      "name": "context_class",
+      "data_type": "type(Class)",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_create_new",
+      "type": "property",
+      "name": "create_new",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_edit_after_new",
+      "type": "property",
+      "name": "edit_after_new",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_editor_import",
+      "type": "property",
+      "name": "editor_import",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_formats",
+      "type": "property",
+      "name": "formats",
+      "data_type": "Array[str]",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_supported_class",
+      "type": "property",
+      "name": "supported_class",
+      "data_type": "type(Class)",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_text",
+      "type": "property",
+      "name": "text",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_amplitudes",
+      "type": "property",
+      "name": "amplitudes",
+      "data_type": "Array[uint8]",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_sample_rate",
+      "type": "property",
+      "name": "sample_rate",
+      "data_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_constrained_edges_fill_mode",
+      "type": "property",
+      "name": "constrained_edges_fill_mode",
+      "data_type": "GeometryScriptPolygonFillMode",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_remove_duplicate_vertices",
+      "type": "property",
+      "name": "remove_duplicate_vertices",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_validate_edges_in_result",
+      "type": "property",
+      "name": "validate_edges_in_result",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "enum_RUNNING",
+      "type": "enum_value",
+      "name": "RUNNING",
+      "value": 0,
+      "description": "Tree is still running."
+    },
+    {
+      "id": "enum_FAILED",
+      "type": "enum_value",
+      "name": "FAILED",
+      "value": 1,
+      "description": "Tree execution has stopped on failure."
+    },
+    {
+      "id": "enum_SUCCEEDED",
+      "type": "enum_value",
+      "name": "SUCCEEDED",
+      "value": 2,
+      "description": "Tree execution has stopped on success."
+    },
+    {
+      "id": "enum_STOPPED",
+      "type": "enum_value",
+      "name": "STOPPED",
+      "value": 3,
+      "description": "The State Tree was requested to stop without a particular success or failure state."
+    },
+    {
+      "id": "enum_UNSET",
+      "type": "enum_value",
+      "name": "UNSET",
+      "value": 4,
+      "description": "Status not set."
+    },
+    {
+      "id": "prop_offer_id",
+      "type": "property",
+      "name": "offer_id",
+      "data_type": "str",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_title",
+      "type": "property",
+      "name": "title",
+      "data_type": "Text",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_description",
+      "type": "property",
+      "name": "description",
+      "data_type": "Text",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_long_description",
+      "type": "property",
+      "name": "long_description",
+      "data_type": "Text",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_regular_price_text",
+      "type": "property",
+      "name": "regular_price_text",
+      "data_type": "Text",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_regular_price",
+      "type": "property",
+      "name": "regular_price",
+      "data_type": "int32",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_price_text",
+      "type": "property",
+      "name": "price_text",
+      "data_type": "Text",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_numeric_price",
+      "type": "property",
+      "name": "numeric_price",
+      "data_type": "int32",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_currency_code",
+      "type": "property",
+      "name": "currency_code",
+      "data_type": "str",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_release_date",
+      "type": "property",
+      "name": "release_date",
+      "data_type": "DateTime",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_expiration_date",
+      "type": "property",
+      "name": "expiration_date",
+      "data_type": "DateTime",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_discount_type",
+      "type": "property",
+      "name": "discount_type",
+      "data_type": "OnlineProxyStoreOfferDiscountType",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_dynamic_fields",
+      "type": "property",
+      "name": "dynamic_fields",
+      "data_type": "Map[str, str]",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_message",
+      "type": "property",
+      "name": "message",
+      "data_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_progress_ratio",
+      "type": "property",
+      "name": "progress_ratio",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_scene_change_info",
+      "type": "property",
+      "name": "scene_change_info",
+      "data_type": "WdpSceneChangeInfo",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_success",
+      "type": "property",
+      "name": "success",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_desc",
+      "type": "property",
+      "name": "desc",
+      "data_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_material_expression_editor_x",
+      "type": "property",
+      "name": "material_expression_editor_x",
+      "data_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_material_expression_editor_y",
+      "type": "property",
+      "name": "material_expression_editor_y",
+      "data_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_default_slate",
+      "type": "property",
+      "name": "default_slate",
+      "data_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_default_tracks",
+      "type": "property",
+      "name": "default_tracks",
+      "data_type": "Array[TakeRecorderTrackSettings]",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_record_sources_into_sub_sequences",
+      "type": "property",
+      "name": "record_sources_into_sub_sequences",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_record_timecode",
+      "type": "property",
+      "name": "record_timecode",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_record_to_possessable",
+      "type": "property",
+      "name": "record_to_possessable",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_recording_clock_source",
+      "type": "property",
+      "name": "recording_clock_source",
+      "data_type": "UpdateClockSource",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_root_take_save_dir",
+      "type": "property",
+      "name": "root_take_save_dir",
+      "data_type": "DirectoryPath",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_show_notifications",
+      "type": "property",
+      "name": "show_notifications",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_start_at_current_timecode",
+      "type": "property",
+      "name": "start_at_current_timecode",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_take_save_dir",
+      "type": "property",
+      "name": "take_save_dir",
+      "data_type": "str",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_execute_context",
+      "type": "property",
+      "name": "execute_context",
+      "data_type": "ControlRigExecuteContext",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_items",
+      "type": "property",
+      "name": "items",
+      "data_type": "Array[RigElementKey]",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_propagate_to_children",
+      "type": "property",
+      "name": "propagate_to_children",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "prop_slide_amount",
+      "type": "property",
+      "name": "slide_amount",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_a",
+      "type": "property",
+      "name": "a",
+      "data_type": "Quat",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_b",
+      "type": "property",
+      "name": "b",
+      "data_type": "Quat",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_result",
+      "type": "property",
+      "name": "result",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_trigger_source",
+      "type": "property",
+      "name": "trigger_source",
+      "data_type": "GameplayAbilityTriggerSource",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_trigger_tag",
+      "type": "property",
+      "name": "trigger_tag",
+      "data_type": "GameplayTag",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_export_task",
+      "type": "property",
+      "name": "export_task",
+      "data_type": "AssetExportTask",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_format_description",
+      "type": "property",
+      "name": "format_description",
+      "data_type": "Array[str]",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_format_extension",
+      "type": "property",
+      "name": "format_extension",
+      "data_type": "Array[str]",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_blend_space",
+      "type": "property",
+      "name": "blend_space",
+      "data_type": "BlendSpace",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_blend_weight",
+      "type": "property",
+      "name": "blend_weight",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_group_name",
+      "type": "property",
+      "name": "group_name",
+      "data_type": "Name",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_group_role",
+      "type": "property",
+      "name": "group_role",
+      "data_type": "AnimGroupRole",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_ignore_for_relevancy_test",
+      "type": "property",
+      "name": "ignore_for_relevancy_test",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_internal_time_accumulator",
+      "type": "property",
+      "name": "internal_time_accumulator",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_loop",
+      "type": "property",
+      "name": "loop",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_method",
+      "type": "property",
+      "name": "method",
+      "data_type": "AnimSyncMethod",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_play_rate",
+      "type": "property",
+      "name": "play_rate",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_reset_play_time_when_blend_space_changes",
+      "type": "property",
+      "name": "reset_play_time_when_blend_space_changes",
+      "data_type": "bool",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_start_position",
+      "type": "property",
+      "name": "start_position",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_x",
+      "type": "property",
+      "name": "x",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "prop_y",
+      "type": "property",
+      "name": "y",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "method_set_vertical_alignment",
+      "type": "method",
+      "name": "set_vertical_alignment",
+      "return_type": "None"
+    },
+    {
+      "id": "method_set_row",
+      "type": "method",
+      "name": "set_row",
+      "return_type": "None"
+    },
+    {
+      "id": "method_set_horizontal_alignment",
+      "type": "method",
+      "name": "set_horizontal_alignment",
+      "return_type": "None"
+    },
+    {
+      "id": "method_set_column",
+      "type": "method",
+      "name": "set_column",
+      "return_type": "None"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "DMMaterialStageBlendFunction",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "DynamicMaterial",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "DynamicMaterialEditor",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_allow_nested_inputs",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_base_channel_override",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_component_dirty",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_component_state",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_editable_properties",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_input_connectors",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_input_required",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_name",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColorDodge",
+      "target": "prop_output_connectors",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "DMMaterialStageExpressionMathBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "DynamicMaterial",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "DynamicMaterialEditor",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_allow_nested_inputs",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_allow_single_float_match",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_component_dirty",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_component_state",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_editable_properties",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_input_connectors",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_input_required",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_material_expression_class",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_menus",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_name",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_output_connectors",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_single_channel_only",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageExpressionArccosine",
+      "target": "prop_variadic_input_count",
+      "type": "has_property"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "PanelSlot",
+      "type": "inherits_from"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "UMG",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "prop_column",
+      "type": "has_property"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "prop_horizontal_alignment",
+      "type": "has_property"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "prop_row",
+      "type": "has_property"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "prop_vertical_alignment",
+      "type": "has_property"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "method_set_vertical_alignment",
+      "type": "has_method"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "method_set_row",
+      "type": "has_method"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "method_set_horizontal_alignment",
+      "type": "has_method"
+    },
+    {
+      "source": "UniformGridSlot",
+      "target": "method_set_column",
+      "type": "has_method"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "DisplayClusterConfiguratorFactory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "nDisplay",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "DisplayClusterConfigurator",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_asset_import_task",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_automated_import_data",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_context_class",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_create_new",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_edit_after_new",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_editor_import",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_formats",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_supported_class",
+      "type": "has_property"
+    },
+    {
+      "source": "DisplayClusterConfiguratorReimportFactory",
+      "target": "prop_text",
+      "type": "has_property"
+    },
+    {
+      "source": "ComponentEndTouchOverSignature",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ComponentEndTouchOverSignature",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "HapticFeedbackEffect_Buffer",
+      "target": "HapticFeedbackEffect_Base",
+      "type": "inherits_from"
+    },
+    {
+      "source": "HapticFeedbackEffect_Buffer",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "HapticFeedbackEffect_Buffer",
+      "target": "prop_amplitudes",
+      "type": "has_property"
+    },
+    {
+      "source": "HapticFeedbackEffect_Buffer",
+      "target": "prop_sample_rate",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptConstrainedDelaunayTriangulationOptions",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryScriptConstrainedDelaunayTriangulationOptions",
+      "target": "GeometryScripting",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "GeometryScriptConstrainedDelaunayTriangulationOptions",
+      "target": "GeometryScriptingCore",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GeometryScriptConstrainedDelaunayTriangulationOptions",
+      "target": "prop_constrained_edges_fill_mode",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptConstrainedDelaunayTriangulationOptions",
+      "target": "prop_remove_duplicate_vertices",
+      "type": "has_property"
+    },
+    {
+      "source": "GeometryScriptConstrainedDelaunayTriangulationOptions",
+      "target": "prop_validate_edges_in_result",
+      "type": "has_property"
+    },
+    {
+      "source": "StateTreeRunStatus",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "StateTreeRunStatus",
+      "target": "StateTree",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "StateTreeRunStatus",
+      "target": "StateTreeModule",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "StateTreeRunStatus",
+      "target": "enum_RUNNING",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "StateTreeRunStatus",
+      "target": "enum_FAILED",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "StateTreeRunStatus",
+      "target": "enum_SUCCEEDED",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "StateTreeRunStatus",
+      "target": "enum_STOPPED",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "StateTreeRunStatus",
+      "target": "enum_UNSET",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "OnlineSubsystemUtils",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "OnlineSubsystemUtils",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_offer_id",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_title",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_description",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_long_description",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_regular_price_text",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_regular_price",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_price_text",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_numeric_price",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_currency_code",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_release_date",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_expiration_date",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_discount_type",
+      "type": "has_property"
+    },
+    {
+      "source": "OnlineProxyStoreOffer",
+      "target": "prop_dynamic_fields",
+      "type": "has_property"
+    },
+    {
+      "source": "MetaSoundDocumentInterface",
+      "target": "Interface",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MetaSoundDocumentInterface",
+      "target": "Metasound",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "MetaSoundDocumentInterface",
+      "target": "MetasoundFrontend",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GetCameraRoamingInfoResult",
+      "target": "ResultBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GetCameraRoamingInfoResult",
+      "target": "WdpRuntimeAPI",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "GetCameraRoamingInfoResult",
+      "target": "ApplicationAPI",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GetCameraRoamingInfoResult",
+      "target": "prop_message",
+      "type": "has_property"
+    },
+    {
+      "source": "GetCameraRoamingInfoResult",
+      "target": "prop_progress_ratio",
+      "type": "has_property"
+    },
+    {
+      "source": "GetCameraRoamingInfoResult",
+      "target": "prop_scene_change_info",
+      "type": "has_property"
+    },
+    {
+      "source": "GetCameraRoamingInfoResult",
+      "target": "prop_success",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimGraphNode_Layer",
+      "target": "AnimGraphNode_LinkedAnimLayer",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionVirtualTextureFeatureSwitch",
+      "target": "MaterialExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionVirtualTextureFeatureSwitch",
+      "target": "Engine",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "MaterialExpressionVirtualTextureFeatureSwitch",
+      "target": "prop_desc",
+      "type": "has_property"
+    },
+    {
+      "source": "MaterialExpressionVirtualTextureFeatureSwitch",
+      "target": "prop_material_expression_editor_x",
+      "type": "has_property"
+    },
+    {
+      "source": "MaterialExpressionVirtualTextureFeatureSwitch",
+      "target": "prop_material_expression_editor_y",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "Takes",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "TakeRecorder",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_default_slate",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_default_tracks",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_record_sources_into_sub_sequences",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_record_timecode",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_record_to_possessable",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_recording_clock_source",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_root_take_save_dir",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_show_notifications",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_start_at_current_timecode",
+      "type": "has_property"
+    },
+    {
+      "source": "TakeRecorderProjectParameters",
+      "target": "prop_take_save_dir",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SlideChainItemArray",
+      "target": "RigUnit_HighlevelBaseMutable",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_SlideChainItemArray",
+      "target": "ControlRig",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigUnit_SlideChainItemArray",
+      "target": "ControlRig",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigUnit_SlideChainItemArray",
+      "target": "prop_execute_context",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SlideChainItemArray",
+      "target": "prop_items",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SlideChainItemArray",
+      "target": "prop_propagate_to_children",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_SlideChainItemArray",
+      "target": "prop_slide_amount",
+      "type": "has_property"
+    },
+    {
+      "source": "MassEntityTraitBase",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MassEntityTraitBase",
+      "target": "MassGameplay",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "MassEntityTraitBase",
+      "target": "MassSpawner",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionNotEquals",
+      "target": "RigVMFunction_MathQuaternionBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionNotEquals",
+      "target": "RigVM",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionNotEquals",
+      "target": "RigVM",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionNotEquals",
+      "target": "prop_a",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionNotEquals",
+      "target": "prop_b",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionNotEquals",
+      "target": "prop_result",
+      "type": "has_property"
+    },
+    {
+      "source": "RigDispatch_SetModuleMetadata",
+      "target": "RigDispatch_SetMetadata",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigDispatch_SetModuleMetadata",
+      "target": "ControlRig",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "RigDispatch_SetModuleMetadata",
+      "target": "ControlRig",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GLTFAnimSequenceExporter",
+      "target": "GLTFExporter",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GLTFAnimSequenceExporter",
+      "target": "GLTFExporter",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "GLTFAnimSequenceExporter",
+      "target": "GLTFExporter",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "GLTFAnimSequenceExporter",
+      "target": "prop_export_task",
+      "type": "has_property"
+    },
+    {
+      "source": "GLTFAnimSequenceExporter",
+      "target": "prop_format_description",
+      "type": "has_property"
+    },
+    {
+      "source": "GLTFAnimSequenceExporter",
+      "target": "prop_format_extension",
+      "type": "has_property"
+    },
+    {
+      "source": "GLTFAnimSequenceExporter",
+      "target": "prop_supported_class",
+      "type": "has_property"
+    },
+    {
+      "source": "GLTFAnimSequenceExporter",
+      "target": "prop_text",
+      "type": "has_property"
+    },
+    {
+      "source": "AbilityTriggerData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AbilityTriggerData",
+      "target": "GameplayAbilities",
+      "type": "defined_in_plugin"
+    },
+    {
+      "source": "AbilityTriggerData",
+      "target": "GameplayAbilities",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AbilityTriggerData",
+      "target": "prop_trigger_source",
+      "type": "has_property"
+    },
+    {
+      "source": "AbilityTriggerData",
+      "target": "prop_trigger_tag",
+      "type": "has_property"
+    },
+    {
+      "source": "PolysExporterT3D",
+      "target": "Exporter",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PolysExporterT3D",
+      "target": "UnrealEd",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "PolysExporterT3D",
+      "target": "prop_export_task",
+      "type": "has_property"
+    },
+    {
+      "source": "PolysExporterT3D",
+      "target": "prop_format_description",
+      "type": "has_property"
+    },
+    {
+      "source": "PolysExporterT3D",
+      "target": "prop_format_extension",
+      "type": "has_property"
+    },
+    {
+      "source": "PolysExporterT3D",
+      "target": "prop_supported_class",
+      "type": "has_property"
+    },
+    {
+      "source": "PolysExporterT3D",
+      "target": "prop_text",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "AnimNode_BlendSpacePlayerBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "AnimGraphRuntime",
+      "type": "defined_in_module"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_blend_space",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_blend_weight",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_group_name",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_group_role",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_ignore_for_relevancy_test",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_internal_time_accumulator",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_loop",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_method",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_play_rate",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_reset_play_time_when_blend_space_changes",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_start_position",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_x",
+      "type": "has_property"
+    },
+    {
+      "source": "AnimNode_BlendSpacePlayer",
+      "target": "prop_y",
+      "type": "has_property"
+    }
+  ]
+}

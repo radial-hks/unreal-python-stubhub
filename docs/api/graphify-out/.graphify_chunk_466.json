@@ -1,0 +1,481 @@
+{
+  "nodes": [
+    {
+      "id": "audiofadercurve_audiofadercurve",
+      "label": "AudioFaderCurve",
+      "file_type": "code",
+      "source_file": "AudioFaderCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintunaryop_rigunit_mathintunaryop",
+      "label": "RigUnit_MathIntUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathIntUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interactivetoolpresetdefintion_interactivetoolpresetdefintion",
+      "label": "InteractiveToolPresetDefintion",
+      "file_type": "code",
+      "source_file": "InteractiveToolPresetDefintion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floatingtext_floatingtext",
+      "label": "FloatingText",
+      "file_type": "code",
+      "source_file": "FloatingText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilityeditabletextbox_editorutilityeditabletextbox",
+      "label": "EditorUtilityEditableTextBox",
+      "file_type": "code",
+      "source_file": "EditorUtilityEditableTextBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componentmaterialinfo_componentmaterialinfo",
+      "label": "ComponentMaterialInfo",
+      "file_type": "code",
+      "source_file": "ComponentMaterialInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "montagenotifyticktype_montagenotifyticktype",
+      "label": "MontageNotifyTickType",
+      "file_type": "code",
+      "source_file": "MontageNotifyTickType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionrotationorder_rigunit_mathquaternionrotationorder",
+      "label": "RigUnit_MathQuaternionRotationOrder",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionRotationOrder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightweightinstancestaticmeshmanager_lightweightinstancestaticmeshmanager",
+      "label": "LightWeightInstanceStaticMeshManager",
+      "file_type": "code",
+      "source_file": "LightWeightInstanceStaticMeshManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_offsettransformforitem_rigunit_offsettransformforitem",
+      "label": "RigUnit_OffsetTransformForItem",
+      "file_type": "code",
+      "source_file": "RigUnit__OffsetTransformForItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenevisibilitysection_moviescenevisibilitysection",
+      "label": "MovieSceneVisibilitySection",
+      "file_type": "code",
+      "source_file": "MovieSceneVisibilitySection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_postbeginexecution_rigunit_postbeginexecution",
+      "label": "RigUnit_PostBeginExecution",
+      "file_type": "code",
+      "source_file": "RigUnit_PostBeginExecution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springinterpquaternionv2_rigunit_springinterpquaternionv2",
+      "label": "RigUnit_SpringInterpQuaternionV2",
+      "file_type": "code",
+      "source_file": "RigUnit__SpringInterpQuaternionV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proximitymethodenum_proximitymethodenum",
+      "label": "ProximityMethodEnum",
+      "file_type": "code",
+      "source_file": "ProximityMethodEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctionmateriallayer_materialfunctionmateriallayer",
+      "label": "MaterialFunctionMaterialLayer",
+      "file_type": "code",
+      "source_file": "MaterialFunctionMaterialLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphlibrary_animgraphlibrary",
+      "label": "AnimGraphLibrary",
+      "file_type": "code",
+      "source_file": "AnimGraphLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphlibrary_two_bone_ik",
+      "label": "two_bone_ik method",
+      "file_type": "code",
+      "source_file": "AnimGraphLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncregisterandexecutetask_asyncregisterandexecutetask",
+      "label": "AsyncRegisterAndExecuteTask",
+      "file_type": "code",
+      "source_file": "AsyncRegisterAndExecuteTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialnodegetparam_dcpmaterialnodegetparam",
+      "label": "DCPMaterialNodeGetParam",
+      "file_type": "code",
+      "source_file": "DCPMaterialNodeGetParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_networksyncpoint_abilitytask_networksyncpoint",
+      "label": "AbilityTask_NetworkSyncPoint",
+      "file_type": "code",
+      "source_file": "AbilityTask__NetworkSyncPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgtexturefilter_pcgtexturefilter",
+      "label": "PCGTextureFilter",
+      "file_type": "code",
+      "source_file": "PCGTextureFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintsmanager_onconstraintadded_constraintsmanager_onconstraintadded",
+      "label": "ConstraintsManager_OnConstraintAdded",
+      "file_type": "code",
+      "source_file": "ConstraintsManager__OnConstraintAdded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgettree_widgettree",
+      "label": "WidgetTree",
+      "file_type": "code",
+      "source_file": "WidgetTree Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathintunaryop_rigunit_mathintunaryop",
+      "target": "rigunit_mathintunaryop_rigunit_mathintunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interactivetoolpresetdefintion_interactivetoolpresetdefintion",
+      "target": "interactivetoolpresetdefintion_interactivetoolpresetdefintion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InteractiveToolPresetDefintion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "floatingtext_floatingtext",
+      "target": "floatingtext_floatingtext",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FloatingText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilityeditabletextbox_editorutilityeditabletextbox",
+      "target": "editorutilityeditabletextbox_editorutilityeditabletextbox",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityEditableTextBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componentmaterialinfo_componentmaterialinfo",
+      "target": "componentmaterialinfo_componentmaterialinfo",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentMaterialInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionrotationorder_rigunit_mathquaternionrotationorder",
+      "target": "rigunit_mathquaternionrotationorder_rigunit_mathquaternionrotationorder",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionRotationOrder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightweightinstancestaticmeshmanager_lightweightinstancestaticmeshmanager",
+      "target": "lightweightinstancestaticmeshmanager_lightweightinstancestaticmeshmanager",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightWeightInstanceStaticMeshManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_offsettransformforitem_rigunit_offsettransformforitem",
+      "target": "rigunit_offsettransformforitem_rigunit_offsettransformforitem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__OffsetTransformForItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenevisibilitysection_moviescenevisibilitysection",
+      "target": "moviescenevisibilitysection_moviescenevisibilitysection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneVisibilitySection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_postbeginexecution_rigunit_postbeginexecution",
+      "target": "rigunit_postbeginexecution_rigunit_postbeginexecution",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PostBeginExecution Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springinterpquaternionv2_rigunit_springinterpquaternionv2",
+      "target": "rigunit_springinterpquaternionv2_rigunit_springinterpquaternionv2",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SpringInterpQuaternionV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunctionmateriallayer_materialfunctionmateriallayer",
+      "target": "materialfunctionmateriallayer_materialfunctionmateriallayer",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialFunctionMaterialLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphlibrary_animgraphlibrary",
+      "target": "animgraphlibrary_animgraphlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncregisterandexecutetask_asyncregisterandexecutetask",
+      "target": "asyncregisterandexecutetask_asyncregisterandexecutetask",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AsyncRegisterAndExecuteTask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_networksyncpoint_abilitytask_networksyncpoint",
+      "target": "abilitytask_networksyncpoint_abilitytask_networksyncpoint",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__NetworkSyncPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widgettree_widgettree",
+      "target": "widgettree_widgettree",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidgetTree Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphlibrary_two_bone_ik",
+      "target": "rigunit_springinterpquaternionv2_rigunit_springinterpquaternionv2",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_networksyncpoint_abilitytask_networksyncpoint",
+      "target": "constraintsmanager_onconstraintadded_constraintsmanager_onconstraintadded",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AbilityTask__NetworkSyncPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionrotationorder_rigunit_mathquaternionrotationorder",
+      "target": "rigunit_springinterpquaternionv2_rigunit_springinterpquaternionv2",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathQuaternionRotationOrder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_math_units",
+      "label": "Control Rig Math Operations",
+      "nodes": [
+        "rigunit_mathintunaryop_rigunit_mathintunaryop",
+        "rigunit_mathquaternionrotationorder_rigunit_mathquaternionrotationorder",
+        "rigunit_springinterpquaternionv2_rigunit_springinterpquaternionv2",
+        "rigunit_offsettransformforitem_rigunit_offsettransformforitem"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files"
+    },
+    {
+      "id": "animation_systems",
+      "label": "Animation and IK Systems",
+      "nodes": [
+        "animgraphlibrary_animgraphlibrary",
+        "animgraphlibrary_two_bone_ik",
+        "montagenotifyticktype_montagenotifyticktype",
+        "rigunit_springinterpquaternionv2_rigunit_springinterpquaternionv2"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

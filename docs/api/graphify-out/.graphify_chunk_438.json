@@ -1,0 +1,556 @@
+{
+  "nodes": [
+    {
+      "id": "interchangetexturecubenode_interchangetexturecubenode",
+      "label": "InterchangeTextureCubeNode",
+      "file_type": "code",
+      "source_file": "InterchangeTextureCubeNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_posedriver_animnode_posedriver",
+      "label": "AnimNode_PoseDriver",
+      "file_type": "code",
+      "source_file": "AnimNode__PoseDriver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimushalfedgedataprovider_optimushalfedgedataprovider",
+      "label": "OptimusHalfEdgeDataProvider",
+      "file_type": "code",
+      "source_file": "OptimusHalfEdgeDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputclampstate_inputclampstate",
+      "label": "InputClampState",
+      "file_type": "code",
+      "source_file": "InputClampState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_getanimattribute_rigdispatch_getanimattribute",
+      "label": "RigDispatch_GetAnimAttribute",
+      "file_type": "code",
+      "source_file": "RigDispatch_GetAnimAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorparallel_rigvmfunction_mathvectorparallel",
+      "label": "RigVMFunction_MathVectorParallel",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorParallel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxsceneimportoptionsstaticmesh_fbxsceneimportoptionsstaticmesh",
+      "label": "FbxSceneImportOptionsStaticMesh",
+      "file_type": "code",
+      "source_file": "FbxSceneImportOptionsStaticMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerarotationlimitationdata_camerarotationlimitationdata",
+      "label": "CameraRotationLimitationData",
+      "file_type": "code",
+      "source_file": "CameraRotationLimitationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewbase_niagarapreviewbase",
+      "label": "NiagaraPreviewBase",
+      "file_type": "code",
+      "source_file": "NiagaraPreviewBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "show3dtrajectory_show3dtrajectory",
+      "label": "Show3DTrajectory",
+      "file_type": "code",
+      "source_file": "Show3DTrajectory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "selectionbasecolor_selectionbasecolor",
+      "label": "SelectionBaseColor",
+      "file_type": "code",
+      "source_file": "SelectionBaseColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textcommit_textcommit",
+      "label": "TextCommit",
+      "file_type": "code",
+      "source_file": "TextCommit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommand_smooth_aesterraineditorcommand_smooth",
+      "label": "AesTerrainEditorCommand_Smooth",
+      "file_type": "code",
+      "source_file": "AesTerrainEditorCommand__Smooth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_motionmatchinginteraction_animnode_motionmatchinginteraction",
+      "label": "AnimNode_MotionMatchingInteraction",
+      "file_type": "code",
+      "source_file": "AnimNode_MotionMatchingInteraction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshreplicatedcomponent_skeletalmeshreplicatedcomponent",
+      "label": "SkeletalMeshReplicatedComponent",
+      "file_type": "code",
+      "source_file": "SkeletalMeshReplicatedComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioanalyzersettings_audioanalyzersettings",
+      "label": "AudioAnalyzerSettings",
+      "file_type": "code",
+      "source_file": "AudioAnalyzerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+      "label": "RigVMFunction_MathTransformRotateVector",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformRotateVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattractmode_pcgattractmode",
+      "label": "PCGAttractMode",
+      "file_type": "code",
+      "source_file": "PCGAttractMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolormake_rigvmfunction_mathcolormake",
+      "label": "RigVMFunction_MathColorMake",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathColorMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorgradingsettings_colorgradingsettings",
+      "label": "ColorGradingSettings",
+      "file_type": "code",
+      "source_file": "ColorGradingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorwatercreatetoolmode_water_aeseditorwatercreatetoolmode_water",
+      "label": "AesEditorWaterCreateToolMode_Water",
+      "file_type": "code",
+      "source_file": "AesEditorWaterCreateToolMode__Water Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorsoundparameterinterface_actorsoundparameterinterface",
+      "label": "ActorSoundParameterInterface",
+      "file_type": "code",
+      "source_file": "ActorSoundParameterInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rbf_solver_rbf_solver",
+      "label": "RBF Solver",
+      "file_type": "code",
+      "source_file": "AnimNode__PoseDriver Objects.md",
+      "source_location": "RBF based orientation driver",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pose_driving_mechanism_pose_driving_mechanism",
+      "label": "Pose Driving Mechanism",
+      "file_type": "code",
+      "source_file": "AnimNode__PoseDriver Objects.md",
+      "source_location": "drive poses or curves based on bone orientation",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_blend_stack_animation_blend_stack",
+      "label": "Animation Blend Stack",
+      "file_type": "code",
+      "source_file": "AnimNode_MotionMatchingInteraction Objects.md",
+      "source_location": "BlendStack functionality for animation blending",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motion_matching_interaction_motion_matching_interaction",
+      "label": "Motion Matching Interaction",
+      "file_type": "code",
+      "source_file": "AnimNode_MotionMatchingInteraction Objects.md",
+      "source_location": "Motion matching with interaction capabilities",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "half_edge_data_processing_half_edge_data_processing",
+      "label": "Half-Edge Data Processing",
+      "file_type": "code",
+      "source_file": "OptimusHalfEdgeDataProvider Objects.md",
+      "source_location": "Compute Framework Data Provider for reading skeletal mesh",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_rotation_constraint_camera_rotation_constraint",
+      "label": "Camera Rotation Constraint",
+      "file_type": "code",
+      "source_file": "CameraRotationLimitationData Objects.md",
+      "source_location": "旋转限制参数",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "color_grading_tonal_ranges_color_grading_tonal_ranges",
+      "label": "Color Grading Tonal Ranges",
+      "file_type": "code",
+      "source_file": "ColorGradingSettings Objects.md",
+      "source_location": "shadows, midtones, highlights",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_attraction_modes_pcg_attraction_modes",
+      "label": "PCG Attraction Modes",
+      "file_type": "code",
+      "source_file": "PCGAttractMode Objects.md",
+      "source_location": "different attraction behaviors in procedural content generation",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "interchangetexturecubenode_interchangetexturecubenode",
+      "target": "animnode_posedriver_animnode_posedriver",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InterchangeTextureCubeNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posedriver_animnode_posedriver",
+      "target": "rbf_solver_rbf_solver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__PoseDriver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_posedriver_animnode_posedriver",
+      "target": "pose_driving_mechanism_pose_driving_mechanism",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__PoseDriver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "optimushalfedgedataprovider_optimushalfedgedataprovider",
+      "target": "half_edge_data_processing_half_edge_data_processing",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OptimusHalfEdgeDataProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_getanimattribute_rigdispatch_getanimattribute",
+      "target": "animnode_posedriver_animnode_posedriver",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigDispatch_GetAnimAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorparallel_rigvmfunction_mathvectorparallel",
+      "target": "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathVectorParallel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerarotationlimitationdata_camerarotationlimitationdata",
+      "target": "camera_rotation_constraint_camera_rotation_constraint",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraRotationLimitationData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewbase_niagarapreviewbase",
+      "target": "optimushalfedgedataprovider_optimushalfedgedataprovider",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraPreviewBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_motionmatchinginteraction_animnode_motionmatchinginteraction",
+      "target": "animation_blend_stack_animation_blend_stack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_MotionMatchingInteraction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_motionmatchinginteraction_animnode_motionmatchinginteraction",
+      "target": "motion_matching_interaction_motion_matching_interaction",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_MotionMatchingInteraction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_motionmatchinginteraction_animnode_motionmatchinginteraction",
+      "target": "animnode_posedriver_animnode_posedriver",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode_MotionMatchingInteraction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshreplicatedcomponent_skeletalmeshreplicatedcomponent",
+      "target": "optimushalfedgedataprovider_optimushalfedgedataprovider",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SkeletalMeshReplicatedComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+      "target": "rigvmfunction_mathcolormake_rigvmfunction_mathcolormake",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction__MathTransformRotateVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "colorgradingsettings_colorgradingsettings",
+      "target": "color_grading_tonal_ranges_color_grading_tonal_ranges",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorGradingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattractmode_pcgattractmode",
+      "target": "pcg_attraction_modes_pcg_attraction_modes",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttractMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorsoundparameterinterface_actorsoundparameterinterface",
+      "target": "audioanalyzersettings_audioanalyzersettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ActorSoundParameterInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_getanimattribute_rigdispatch_getanimattribute",
+      "target": "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigDispatch_GetAnimAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_motionmatchinginteraction_animnode_motionmatchinginteraction",
+      "target": "rigdispatch_getanimattribute_rigdispatch_getanimattribute",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode_MotionMatchingInteraction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rbf_solver_rbf_solver",
+      "target": "motion_matching_interaction_motion_matching_interaction",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode__PoseDriver Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Functions",
+      "nodes": [
+        "rigvmfunction_mathvectorparallel_rigvmfunction_mathvectorparallel",
+        "rigvmfunction_mathtransformrotatevector_rigvmfunction_mathtransformrotatevector",
+        "rigvmfunction_mathcolormake_rigvmfunction_mathcolormake"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorParallel Objects.md"
+    },
+    {
+      "id": "animation_system_components",
+      "label": "Animation System Components",
+      "nodes": [
+        "animnode_posedriver_animnode_posedriver",
+        "animnode_motionmatchinginteraction_animnode_motionmatchinginteraction",
+        "rigdispatch_getanimattribute_rigdispatch_getanimattribute"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode__PoseDriver Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

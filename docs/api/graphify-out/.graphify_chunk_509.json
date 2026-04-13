@@ -1,0 +1,645 @@
+{
+  "nodes": [
+    {
+      "id": "materialexpressionsmoothstep_materialexpression",
+      "label": "MaterialExpressionSmoothStep",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSmoothStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublesin_rigvmfunction_mathdoubleunaryop",
+      "label": "RigVMFunction_MathDoubleSin",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleSin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumcameramanager_actor",
+      "label": "CesiumCameraManager",
+      "file_type": "code",
+      "source_file": "CesiumCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpenvironmentatom_entityatombase",
+      "label": "WdpEnvironmentAtom",
+      "file_type": "code",
+      "source_file": "WdpEnvironmentAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "locationservicesdata_structbase",
+      "label": "LocationServicesData",
+      "file_type": "code",
+      "source_file": "LocationServicesData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxchevrondynamicmesh_avashapechevrondynamicmesh",
+      "label": "AvaToolboxChevronDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaToolboxChevronDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat4_dmmaterialvaluefloat",
+      "label": "DMMaterialValueFloat4",
+      "file_type": "code",
+      "source_file": "DMMaterialValueFloat4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudpoint_structbase",
+      "label": "LidarPointCloudPoint",
+      "file_type": "code",
+      "source_file": "LidarPointCloudPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shouldcookblueprintpropertyguids_enumbase",
+      "label": "ShouldCookBlueprintPropertyGuids",
+      "file_type": "code",
+      "source_file": "ShouldCookBlueprintPropertyGuids Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamiconfinalpassrendered_multicastdelegatebase",
+      "label": "DynamicOnFinalPassRendered",
+      "file_type": "code",
+      "source_file": "DynamicOnFinalPassRendered Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdruntimeblueprintlibrary_blueprintfunctionlibrary",
+      "label": "ChaosVDRuntimeBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "ChaosVDRuntimeBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_rotationoffsetblendspacegraph_animnode_blendspacegraphbase",
+      "label": "AnimNode_RotationOffsetBlendSpaceGraph",
+      "file_type": "code",
+      "source_file": "AnimNode__RotationOffsetBlendSpaceGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserdataobjectfilter_structbase",
+      "label": "ContentBrowserDataObjectFilter",
+      "file_type": "code",
+      "source_file": "ContentBrowserDataObjectFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublelerp_rigvmfunction_mathdoublelerp",
+      "label": "RigUnit_MathDoubleLerp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublearrayaverage_rigvmfunction_mathdoublebase",
+      "label": "RigVMFunction_MathDoubleArrayAverage",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleArrayAverage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconste_rigvmfunction_mathfloatconstant",
+      "label": "RigVMFunction_MathFloatConstE",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatConstE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexturewrapmode_enumbase",
+      "label": "InterchangeTextureWrapMode",
+      "file_type": "code",
+      "source_file": "InterchangeTextureWrapMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionvolume_volume",
+      "label": "WorldPartitionVolume",
+      "file_type": "code",
+      "source_file": "WorldPartitionVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "previewmeshcollectionfactory_factory",
+      "label": "PreviewMeshCollectionFactory",
+      "file_type": "code",
+      "source_file": "PreviewMeshCollectionFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenucontext_structbase",
+      "label": "ToolMenuContext",
+      "file_type": "code",
+      "source_file": "ToolMenuContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdomoverlayersettings_earthtextureoverlayersettings",
+      "label": "EarthDomOverlayerSettings",
+      "file_type": "code",
+      "source_file": "EarthDomOverlayerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgravitymovementcomponent_charactermovementcomponent",
+      "label": "WdpGravityMovementComponent",
+      "file_type": "code",
+      "source_file": "WdpGravityMovementComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumcamera",
+      "label": "CesiumCamera",
+      "file_type": "code",
+      "source_file": "CesiumCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesium3dtileset",
+      "label": "Cesium3DTileset",
+      "file_type": "code",
+      "source_file": "CesiumCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSmoothStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleunaryop",
+      "label": "RigVMFunction_MathDoubleUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleSin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublelerp",
+      "label": "RigVMFunction_MathDoubleLerp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebase",
+      "label": "RigVMFunction_MathDoubleBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleArrayAverage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat",
+      "label": "DMMaterialValueFloat",
+      "file_type": "code",
+      "source_file": "DMMaterialValueFloat4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudnormal",
+      "label": "LidarPointCloudNormal",
+      "file_type": "code",
+      "source_file": "LidarPointCloudPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatconstant",
+      "label": "RigVMFunction_MathFloatConstant",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatConstE Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldoriginanchor",
+      "label": "WorldOriginAnchor",
+      "file_type": "code",
+      "source_file": "WdpGravityMovementComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "CesiumCameraManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "file_type": "code",
+      "source_file": "WorldPartitionVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "charactermovementcomponent",
+      "label": "CharacterMovementComponent",
+      "file_type": "code",
+      "source_file": "WdpGravityMovementComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "ChaosVDRuntimeBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "PreviewMeshCollectionFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionsmoothstep_materialexpression",
+      "target": "materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSmoothStep Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublesin_rigvmfunction_mathdoubleunaryop",
+      "target": "rigvmfunction_mathdoubleunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleSin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumcameramanager_actor",
+      "target": "actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumcameramanager_actor",
+      "target": "cesiumcamera",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumcameramanager_actor",
+      "target": "cesium3dtileset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluefloat4_dmmaterialvaluefloat",
+      "target": "dmmaterialvaluefloat",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialValueFloat4 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lidarpointcloudpoint_structbase",
+      "target": "lidarpointcloudnormal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LidarPointCloudPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublelerp_rigvmfunction_mathdoublelerp",
+      "target": "rigvmfunction_mathdoublelerp",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublearrayaverage_rigvmfunction_mathdoublebase",
+      "target": "rigvmfunction_mathdoublebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleArrayAverage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatconste_rigvmfunction_mathfloatconstant",
+      "target": "rigvmfunction_mathfloatconstant",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatConstE Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionvolume_volume",
+      "target": "volume",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartitionVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "previewmeshcollectionfactory_factory",
+      "target": "factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PreviewMeshCollectionFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvdruntimeblueprintlibrary_blueprintfunctionlibrary",
+      "target": "blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosVDRuntimeBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgravitymovementcomponent_charactermovementcomponent",
+      "target": "charactermovementcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGravityMovementComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgravitymovementcomponent_charactermovementcomponent",
+      "target": "worldoriginanchor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpGravityMovementComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatoolboxchevrondynamicmesh_avashapechevrondynamicmesh",
+      "target": "dmmaterialvaluefloat4_dmmaterialvaluefloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AvaToolboxChevronDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublesin_rigvmfunction_mathdoubleunaryop",
+      "target": "rigvmfunction_mathdoublearrayaverage_rigvmfunction_mathdoublebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathDoubleSin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatconste_rigvmfunction_mathfloatconstant",
+      "target": "rigvmfunction_mathdoublearrayaverage_rigvmfunction_mathdoublebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathFloatConstE Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "locationservicesdata_structbase",
+      "target": "lidarpointcloudpoint_structbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LocationServicesData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumcameramanager_actor",
+      "target": "wdpgravitymovementcomponent_charactermovementcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CesiumCameraManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Functions",
+      "nodes": [
+        "rigvmfunction_mathdoublesin_rigvmfunction_mathdoubleunaryop",
+        "rigvmfunction_mathdoublearrayaverage_rigvmfunction_mathdoublebase",
+        "rigvmfunction_mathfloatconste_rigvmfunction_mathfloatconstant",
+        "rigunit_mathdoublelerp_rigvmfunction_mathdoublelerp"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathDoubleSin Objects.md"
+    },
+    {
+      "id": "unreal_structs",
+      "label": "Unreal Engine Struct Types",
+      "nodes": [
+        "locationservicesdata_structbase",
+        "lidarpointcloudpoint_structbase",
+        "contentbrowserdataobjectfilter_structbase",
+        "toolmenucontext_structbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LocationServicesData Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

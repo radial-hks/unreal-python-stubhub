@@ -1,0 +1,787 @@
+{
+  "nodes": [
+    {
+      "id": "AudioFrequencyRadialSlider_audioradialslider",
+      "label": "AudioFrequencyRadialSlider",
+      "file_type": "code",
+      "source_file": "AudioFrequencyRadialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WdpSetGeoReferenceParams_paramsbase",
+      "label": "WdpSetGeoReferenceParams",
+      "file_type": "code",
+      "source_file": "WdpSetGeoReferenceParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InterchangeTextureFactory_interchangefactorybase",
+      "label": "InterchangeTextureFactory",
+      "file_type": "code",
+      "source_file": "InterchangeTextureFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionDDX_materialexpression",
+      "label": "MaterialExpressionDDX",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDDX Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AesEditorCommandParams_object",
+      "label": "AesEditorCommandParams",
+      "file_type": "code",
+      "source_file": "AesEditorCommandParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathDoubleExponential_rigvmfunction_mathdoubleunaryop",
+      "label": "RigVMFunction_MathDoubleExponential",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DMMaterialStageExpressionScreenPosition_dmmaterialstageexpression",
+      "label": "DMMaterialStageExpressionScreenPosition",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionScreenPosition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EnhancedInputUserSettings_EnhancedInputUserSettingsApplied_multicastdelegatebase",
+      "label": "EnhancedInputUserSettings_EnhancedInputUserSettingsApplied",
+      "file_type": "code",
+      "source_file": "EnhancedInputUserSettings__EnhancedInputUserSettingsApplied Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigDispatch_GetModuleMetadata_rigdispatch_getmetadata",
+      "label": "RigDispatch_GetModuleMetadata",
+      "file_type": "code",
+      "source_file": "RigDispatch__GetModuleMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathBoolNand_rigvmfunction_mathboolbinaryop",
+      "label": "RigVMFunction_MathBoolNand",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathBoolNand Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EasyFileDialogFlags_enumbase",
+      "label": "EasyFileDialogFlags",
+      "file_type": "code",
+      "source_file": "EasyFileDialogFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Class_struct",
+      "label": "Class",
+      "file_type": "code",
+      "source_file": "Class Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "TextureCookPlatformTilingSettings_enumbase",
+      "label": "TextureCookPlatformTilingSettings",
+      "file_type": "code",
+      "source_file": "TextureCookPlatformTilingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InterchangeGLTFPipeline_interchangepipelinebase",
+      "label": "InterchangeGLTFPipeline",
+      "file_type": "code",
+      "source_file": "InterchangeGLTFPipeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "GameFeatureAction_object",
+      "label": "GameFeatureAction",
+      "file_type": "code",
+      "source_file": "GameFeatureAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MagicGISAppSubsystem_worldsubsystem",
+      "label": "MagicGISAppSubsystem",
+      "file_type": "code",
+      "source_file": "MagicGISAppSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DisplayClusterConfigurationTile_Settings_structbase",
+      "label": "DisplayClusterConfigurationTile_Settings",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationTile_Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "TextureRenderTarget2DArrayFactoryNew_factory",
+      "label": "TextureRenderTarget2DArrayFactoryNew",
+      "file_type": "code",
+      "source_file": "TextureRenderTarget2DArrayFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SoundNodeMature_soundnode",
+      "label": "SoundNodeMature",
+      "file_type": "code",
+      "source_file": "SoundNodeMature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMAggregateNode_rigvmcollapsenode",
+      "label": "RigVMAggregateNode",
+      "file_type": "code",
+      "source_file": "RigVMAggregateNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathFloatEquals_rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction_MathFloatEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MockInputUserSettings_enhancedinputusersettings",
+      "label": "MockInputUserSettings",
+      "file_type": "code",
+      "source_file": "MockInputUserSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AudioWidgets_plugin",
+      "label": "AudioWidgets Plugin",
+      "file_type": "code",
+      "source_file": "AudioFrequencyRadialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WdpRuntimeAPI_plugin",
+      "label": "WdpRuntimeAPI Plugin",
+      "file_type": "code",
+      "source_file": "WdpSetGeoReferenceParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Interchange_plugin",
+      "label": "Interchange Plugin",
+      "file_type": "code",
+      "source_file": "InterchangeTextureFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Engine_module",
+      "label": "Engine Module",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDDX Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVM_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "DynamicMaterial_plugin",
+      "label": "DynamicMaterial Plugin",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionScreenPosition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EnhancedInput_plugin",
+      "label": "EnhancedInput Plugin",
+      "file_type": "code",
+      "source_file": "EnhancedInputUserSettings__EnhancedInputUserSettingsApplied Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ControlRig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "RigDispatch__GetModuleMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "GISDataAPI_plugin",
+      "label": "GISDataAPI Plugin",
+      "file_type": "code",
+      "source_file": "MagicGISAppSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nDisplay_plugin",
+      "label": "nDisplay Plugin",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationTile_Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "GameFeatures_plugin",
+      "label": "GameFeatures Plugin",
+      "file_type": "code",
+      "source_file": "GameFeatureAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Vector2D_type",
+      "label": "Vector2D",
+      "file_type": "code",
+      "source_file": "WdpSetGeoReferenceParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Vector_type",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "WdpSetGeoReferenceParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "GeoFeatureClickedEvent_type",
+      "label": "GeoFeatureClickedEvent",
+      "file_type": "code",
+      "source_file": "MagicGISAppSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "IntPoint_type",
+      "label": "IntPoint",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationTile_Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EnhancedInputUserSettingsApplied_type",
+      "label": "EnhancedInputUserSettingsApplied",
+      "file_type": "code",
+      "source_file": "MockInputUserSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EnhancedInputUserSettingsChanged_type",
+      "label": "EnhancedInputUserSettingsChanged",
+      "file_type": "code",
+      "source_file": "MockInputUserSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "TopLevelAssetPath_type",
+      "label": "TopLevelAssetPath",
+      "file_type": "code",
+      "source_file": "Class Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "AudioFrequencyRadialSlider_audioradialslider",
+      "target": "AudioWidgets_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioFrequencyRadialSlider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "WdpSetGeoReferenceParams_paramsbase",
+      "target": "WdpRuntimeAPI_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpSetGeoReferenceParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "InterchangeTextureFactory_interchangefactorybase",
+      "target": "Interchange_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTextureFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MaterialExpressionDDX_materialexpression",
+      "target": "Engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDDX Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathDoubleExponential_rigvmfunction_mathdoubleunaryop",
+      "target": "RigVM_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DMMaterialStageExpressionScreenPosition_dmmaterialstageexpression",
+      "target": "DynamicMaterial_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionScreenPosition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EnhancedInputUserSettings_EnhancedInputUserSettingsApplied_multicastdelegatebase",
+      "target": "EnhancedInput_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnhancedInputUserSettings__EnhancedInputUserSettingsApplied Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigDispatch_GetModuleMetadata_rigdispatch_getmetadata",
+      "target": "ControlRig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigDispatch__GetModuleMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathBoolNand_rigvmfunction_mathboolbinaryop",
+      "target": "RigVM_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathBoolNand Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "InterchangeGLTFPipeline_interchangepipelinebase",
+      "target": "Interchange_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeGLTFPipeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "GameFeatureAction_object",
+      "target": "GameFeatures_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameFeatureAction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MagicGISAppSubsystem_worldsubsystem",
+      "target": "GISDataAPI_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MagicGISAppSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DisplayClusterConfigurationTile_Settings_structbase",
+      "target": "nDisplay_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationTile_Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathFloatEquals_rigvmfunction_mathfloatbase",
+      "target": "RigVM_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MockInputUserSettings_enhancedinputusersettings",
+      "target": "EnhancedInput_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MockInputUserSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "WdpSetGeoReferenceParams_paramsbase",
+      "target": "Vector_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpSetGeoReferenceParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MagicGISAppSubsystem_worldsubsystem",
+      "target": "Vector2D_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MagicGISAppSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MagicGISAppSubsystem_worldsubsystem",
+      "target": "GeoFeatureClickedEvent_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MagicGISAppSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "DisplayClusterConfigurationTile_Settings_structbase",
+      "target": "IntPoint_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationTile_Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MockInputUserSettings_enhancedinputusersettings",
+      "target": "EnhancedInputUserSettingsApplied_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MockInputUserSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MockInputUserSettings_enhancedinputusersettings",
+      "target": "EnhancedInputUserSettingsChanged_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MockInputUserSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MockInputUserSettings_enhancedinputusersettings",
+      "target": "EnhancedInputUserSettings_EnhancedInputUserSettingsApplied_multicastdelegatebase",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MockInputUserSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "Class_struct",
+      "target": "TopLevelAssetPath_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Class Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathDoubleExponential_rigvmfunction_mathdoubleunaryop",
+      "target": "RigVMFunction_MathFloatEquals_rigvmfunction_mathfloatbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathDoubleExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathDoubleExponential_rigvmfunction_mathdoubleunaryop",
+      "target": "RigVMFunction_MathBoolNand_rigvmfunction_mathboolbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathDoubleExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathFloatEquals_rigvmfunction_mathfloatbase",
+      "target": "RigVMFunction_MathBoolNand_rigvmfunction_mathboolbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathFloatEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "InterchangeTextureFactory_interchangefactorybase",
+      "target": "InterchangeGLTFPipeline_interchangepipelinebase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "InterchangeTextureFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AudioFrequencyRadialSlider_audioradialslider",
+      "target": "MaterialExpressionDDX_materialexpression",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AudioFrequencyRadialSlider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMAggregateNode_rigvmcollapsenode",
+      "target": "RigDispatch_GetModuleMetadata_rigdispatch_getmetadata",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMAggregateNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EnhancedInputUserSettings_EnhancedInputUserSettingsApplied_multicastdelegatebase",
+      "target": "MockInputUserSettings_enhancedinputusersettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "EnhancedInputUserSettings__EnhancedInputUserSettingsApplied Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Function Library",
+      "nodes": [
+        "RigVMFunction_MathDoubleExponential_rigvmfunction_mathdoubleunaryop",
+        "RigVMFunction_MathFloatEquals_rigvmfunction_mathfloatbase",
+        "RigVMFunction_MathBoolNand_rigvmfunction_mathboolbinaryop"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathDoubleExponential Objects.md"
+    },
+    {
+      "id": "interchange_pipeline_components",
+      "label": "Interchange Import Pipeline Components",
+      "nodes": [
+        "InterchangeTextureFactory_interchangefactorybase",
+        "InterchangeGLTFPipeline_interchangepipelinebase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "InterchangeTextureFactory Objects.md"
+    },
+    {
+      "id": "enhanced_input_settings_ecosystem",
+      "label": "Enhanced Input Settings Ecosystem",
+      "nodes": [
+        "EnhancedInputUserSettings_EnhancedInputUserSettingsApplied_multicastdelegatebase",
+        "MockInputUserSettings_enhancedinputusersettings"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "EnhancedInputUserSettings__EnhancedInputUserSettingsApplied Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

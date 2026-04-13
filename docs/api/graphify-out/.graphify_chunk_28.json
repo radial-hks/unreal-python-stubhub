@@ -1,0 +1,643 @@
+{
+  "entities": [
+    {
+      "id": "OnPlayerStatePawnSet",
+      "type": "class",
+      "name": "OnPlayerStatePawnSet",
+      "module": "Engine",
+      "file": "PlayerState.h",
+      "base_class": "MulticastDelegateBase",
+      "description": "On Player State Pawn Set Delegate Signature",
+      "properties": []
+    },
+    {
+      "id": "InterpToMovementComponent",
+      "type": "class",
+      "name": "InterpToMovementComponent",
+      "module": "Engine",
+      "file": "InterpToMovementComponent.h",
+      "base_class": "MovementComponent",
+      "description": "Move the root component between a series of points over a given time",
+      "properties": [
+        "duration",
+        "pause_on_impact",
+        "sweep",
+        "teleport_type",
+        "behaviour_type",
+        "check_if_still_in_world",
+        "force_sub_stepping",
+        "on_interp_to_reverse",
+        "on_interp_to_stop",
+        "on_wait_begin_delegate",
+        "on_wait_end_delegate",
+        "on_reset_delegate",
+        "max_simulation_time_step",
+        "speed_multiplier",
+        "max_simulation_iterations",
+        "control_points"
+      ],
+      "methods": [
+        "stop_simulating",
+        "restart_movement",
+        "reset_control_points",
+        "finalise_control_points",
+        "add_control_point_position"
+      ]
+    },
+    {
+      "id": "AnimGraphNode_ApplyLimits",
+      "type": "class",
+      "name": "AnimGraphNode_ApplyLimits",
+      "module": "AnimGraph",
+      "file": "AnimGraphNode_ApplyLimits.h",
+      "base_class": "AnimGraphNode_SkeletalControlBase",
+      "description": "Anim Graph Node Apply Limits",
+      "properties": [
+        "become_relevant_function",
+        "binding",
+        "initial_update_function",
+        "node",
+        "show_pin_for_properties",
+        "tag",
+        "update_function"
+      ]
+    },
+    {
+      "id": "RigUnit_MathDoubleAbs",
+      "type": "class",
+      "name": "RigUnit_MathDoubleAbs",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathDoubleAbs' was renamed to 'RigVMFunction_MathDoubleAbs'.",
+      "replaced_by": "RigVMFunction_MathDoubleAbs",
+      "properties": [
+        "value",
+        "result"
+      ]
+    },
+    {
+      "id": "AnimGraphNode_SequenceEvaluator",
+      "type": "class",
+      "name": "AnimGraphNode_SequenceEvaluator",
+      "module": "AnimGraph",
+      "file": "AnimGraphNode_SequenceEvaluator.h",
+      "base_class": "AnimGraphNode_AssetPlayerBase",
+      "description": "Anim Graph Node Sequence Evaluator",
+      "properties": [
+        "become_relevant_function",
+        "binding",
+        "initial_update_function",
+        "node",
+        "show_pin_for_properties",
+        "tag",
+        "update_function"
+      ]
+    },
+    {
+      "id": "RigUnit_Multiply_FloatFloat",
+      "type": "class",
+      "name": "RigUnit_Multiply_FloatFloat",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_Float.h",
+      "base_class": "RigUnit_BinaryFloatOp",
+      "description": "Rig Unit Multiply Float Float",
+      "properties": [
+        "argument0",
+        "argument1",
+        "result"
+      ]
+    },
+    {
+      "id": "PCGWorldQueryFilterByTag",
+      "type": "enum",
+      "name": "PCGWorldQueryFilterByTag",
+      "plugin": "PCG",
+      "module": "PCG",
+      "file": "PCGWorldData.h",
+      "base_class": "EnumBase",
+      "description": "EPCGWorld Query Filter by Tag",
+      "values": [
+        "NO_TAG_FILTER",
+        "INCLUDE_TAGGED",
+        "EXCLUDE_TAGGED"
+      ]
+    },
+    {
+      "id": "AnimNode_CopyBone",
+      "type": "class",
+      "name": "AnimNode_CopyBone",
+      "module": "AnimGraphRuntime",
+      "file": "AnimNode_CopyBone.h",
+      "base_class": "AnimNode_SkeletalControlBase",
+      "description": "Simple controller to copy a bone's transform to another one.",
+      "properties": [
+        "alpha",
+        "alpha_bool_blend",
+        "alpha_bool_enabled",
+        "alpha_curve_name",
+        "alpha_input_type",
+        "alpha_scale_bias",
+        "alpha_scale_bias_clamp",
+        "component_pose",
+        "control_space",
+        "copy_rotation",
+        "copy_scale",
+        "copy_translation",
+        "lod_threshold",
+        "source_bone",
+        "target_bone"
+      ]
+    },
+    {
+      "id": "MVVMBlueprintViewEvent",
+      "type": "class",
+      "name": "MVVMBlueprintViewEvent",
+      "plugin": "ModelViewViewModel",
+      "module": "ModelViewViewModelBlueprint",
+      "file": "MVVMBlueprintViewEvent.h",
+      "base_class": "Object",
+      "description": "Binding for an event that MVVM will listen too. Does not imply the MVVM graph itself will use events.",
+      "properties": [
+        "compile",
+        "destination_path",
+        "enabled",
+        "event_key",
+        "event_path",
+        "graph_name",
+        "saved_pins"
+      ]
+    },
+    {
+      "id": "ImportanceTexture",
+      "type": "struct",
+      "name": "ImportanceTexture",
+      "module": "Engine",
+      "file": "ImportanceSamplingLibrary.h",
+      "base_class": "StructBase",
+      "description": "Texture processed for importance sampling. Holds marginal PDF of the rows, as well as the PDF of each row",
+      "properties": [
+        "texture",
+        "weighting_func"
+      ]
+    },
+    {
+      "id": "AbilityAsync_WaitGameplayEffectApplied",
+      "type": "class",
+      "name": "AbilityAsync_WaitGameplayEffectApplied",
+      "plugin": "GameplayAbilities",
+      "module": "GameplayAbilities",
+      "file": "AbilityAsync_WaitGameplayEffectApplied.h",
+      "base_class": "AbilityAsync",
+      "description": "This action listens for specific gameplay effect applications based off specified tags. Effects themselves are not replicated; rather the tags they grant, the attributes they change, and the gameplay cues they emit are replicated. This will only listen for local server or predicted client effects.",
+      "properties": [
+        "on_applied"
+      ]
+    },
+    {
+      "id": "AbilityTask_WaitInputPress",
+      "type": "class",
+      "name": "AbilityTask_WaitInputPress",
+      "plugin": "GameplayAbilities",
+      "module": "GameplayAbilities",
+      "file": "AbilityTask_WaitInputPress.h",
+      "base_class": "AbilityTask",
+      "description": "Waits until the input is pressed from activating an ability. This should be true immediately upon starting the ability, since the key was pressed to activate it.",
+      "properties": [
+        "on_press"
+      ]
+    },
+    {
+      "id": "EarthFacadeBaseFragment",
+      "type": "struct",
+      "name": "EarthFacadeBaseFragment",
+      "plugin": "AesWorld",
+      "module": "EarthPrefab",
+      "file": "EarthFacadeFragment.h",
+      "base_class": "EarthPropertyFragment",
+      "description": "定义立面基础数据片段的结构体",
+      "properties": [
+        "validated",
+        "valid",
+        "height",
+        "height_offset",
+        "levels",
+        "color",
+        "footprint_offset"
+      ]
+    },
+    {
+      "id": "SearchCase",
+      "type": "enum",
+      "name": "SearchCase",
+      "module": "CoreUObject",
+      "file": "NoExportTypes.h",
+      "base_class": "EnumBase",
+      "description": "Determines case sensitivity options for string comparisons.",
+      "values": [
+        "CASE_SENSITIVE",
+        "IGNORE_CASE"
+      ]
+    },
+    {
+      "id": "RigVMFunction_MathFloatMake",
+      "type": "class",
+      "name": "RigVMFunction_MathFloatMake",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathFloat.h",
+      "base_class": "RigVMFunction_MathFloatBase",
+      "description": "A float constant",
+      "properties": [
+        "value"
+      ]
+    },
+    {
+      "id": "EarthClusterPrefabAlgorithm",
+      "type": "class",
+      "name": "EarthClusterPrefabAlgorithm",
+      "plugin": "AesWorld",
+      "module": "EarthPrefab",
+      "file": "EarthClusterPrefab.h",
+      "base_class": "EarthPrefabAlgorithm",
+      "description": "与集群预制体数据配套的生成算法",
+      "properties": [
+        "required_fragments"
+      ]
+    },
+    {
+      "id": "RigConnectionRule",
+      "type": "struct",
+      "name": "RigConnectionRule",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigConnectionRules.h",
+      "base_class": "StructBase",
+      "description": "Rig Connection Rule",
+      "properties": []
+    },
+    {
+      "id": "DisplayClusterConfigurationICVFX_CameraDepthOfField",
+      "type": "struct",
+      "name": "DisplayClusterConfigurationICVFX_CameraDepthOfField",
+      "plugin": "nDisplay",
+      "module": "DisplayClusterConfiguration",
+      "file": "DisplayClusterConfigurationTypes_ICVFX.h",
+      "base_class": "StructBase",
+      "description": "Display Cluster Configuration ICVFX Camera Depth Of Field",
+      "properties": [
+        "enable_depth_of_field_compensation",
+        "automatically_set_distance_to_wall",
+        "distance_to_wall",
+        "distance_to_wall_offset",
+        "depth_of_field_gain",
+        "compensation_lut"
+      ]
+    },
+    {
+      "id": "VertexOffsetUsage",
+      "type": "struct",
+      "name": "VertexOffsetUsage",
+      "module": "Engine",
+      "file": "SkinnedMeshComponent.h",
+      "base_class": "StructBase",
+      "description": "Vertex Offset Usage",
+      "properties": [
+        "usage"
+      ]
+    },
+    {
+      "id": "TakeRecorderPropertyTrackSettings",
+      "type": "struct",
+      "name": "TakeRecorderPropertyTrackSettings",
+      "plugin": "Takes",
+      "module": "TakeTrackRecorders",
+      "file": "IMovieSceneTrackRecorderHost.h",
+      "base_class": "StructBase",
+      "description": "Take Recorder Property Track Settings",
+      "properties": [
+        "component_path",
+        "property_path"
+      ]
+    },
+    {
+      "id": "WdpGizmoSpace",
+      "type": "enum",
+      "name": "WdpGizmoSpace",
+      "plugin": "WdpApplication",
+      "module": "WdpGizmo",
+      "file": "WdpGizmoDefines.h",
+      "base_class": "EnumBase",
+      "description": "EWdp Gizmo Space",
+      "values": [
+        "WORLD",
+        "LOCAL"
+      ]
+    },
+    {
+      "id": "OnLeaderboardFlushed",
+      "type": "class",
+      "name": "OnLeaderboardFlushed",
+      "plugin": "OnlineSubsystemUtils",
+      "module": "OnlineSubsystemUtils",
+      "file": "LeaderboardFlushCallbackProxy.h",
+      "base_class": "MulticastDelegateBase",
+      "description": "On Leaderboard Flushed Delegate Signature",
+      "properties": []
+    }
+  ],
+  "relationships": [
+    {
+      "type": "inherits_from",
+      "source": "OnPlayerStatePawnSet",
+      "target": "MulticastDelegateBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "InterpToMovementComponent",
+      "target": "MovementComponent"
+    },
+    {
+      "type": "inherits_from",
+      "source": "AnimGraphNode_ApplyLimits",
+      "target": "AnimGraphNode_SkeletalControlBase"
+    },
+    {
+      "type": "renamed_to",
+      "source": "RigUnit_MathDoubleAbs",
+      "target": "RigVMFunction_MathDoubleAbs"
+    },
+    {
+      "type": "inherits_from",
+      "source": "AnimGraphNode_SequenceEvaluator",
+      "target": "AnimGraphNode_AssetPlayerBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "RigUnit_Multiply_FloatFloat",
+      "target": "RigUnit_BinaryFloatOp"
+    },
+    {
+      "type": "inherits_from",
+      "source": "PCGWorldQueryFilterByTag",
+      "target": "EnumBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "AnimNode_CopyBone",
+      "target": "AnimNode_SkeletalControlBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "MVVMBlueprintViewEvent",
+      "target": "Object"
+    },
+    {
+      "type": "inherits_from",
+      "source": "ImportanceTexture",
+      "target": "StructBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "AbilityAsync_WaitGameplayEffectApplied",
+      "target": "AbilityAsync"
+    },
+    {
+      "type": "inherits_from",
+      "source": "AbilityTask_WaitInputPress",
+      "target": "AbilityTask"
+    },
+    {
+      "type": "inherits_from",
+      "source": "EarthFacadeBaseFragment",
+      "target": "EarthPropertyFragment"
+    },
+    {
+      "type": "inherits_from",
+      "source": "SearchCase",
+      "target": "EnumBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "RigVMFunction_MathFloatMake",
+      "target": "RigVMFunction_MathFloatBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "EarthClusterPrefabAlgorithm",
+      "target": "EarthPrefabAlgorithm"
+    },
+    {
+      "type": "inherits_from",
+      "source": "RigConnectionRule",
+      "target": "StructBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "DisplayClusterConfigurationICVFX_CameraDepthOfField",
+      "target": "StructBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "VertexOffsetUsage",
+      "target": "StructBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "TakeRecorderPropertyTrackSettings",
+      "target": "StructBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "WdpGizmoSpace",
+      "target": "EnumBase"
+    },
+    {
+      "type": "inherits_from",
+      "source": "OnLeaderboardFlushed",
+      "target": "MulticastDelegateBase"
+    },
+    {
+      "type": "has_property",
+      "source": "InterpToMovementComponent",
+      "target": "duration",
+      "property_type": "float"
+    },
+    {
+      "type": "has_property",
+      "source": "InterpToMovementComponent",
+      "target": "behaviour_type",
+      "property_type": "InterpToBehaviourType"
+    },
+    {
+      "type": "has_property",
+      "source": "InterpToMovementComponent",
+      "target": "control_points",
+      "property_type": "Array[InterpControlPoint]"
+    },
+    {
+      "type": "has_property",
+      "source": "AbilityAsync_WaitGameplayEffectApplied",
+      "target": "on_applied",
+      "property_type": "OnAppliedDelegate"
+    },
+    {
+      "type": "has_property",
+      "source": "AbilityTask_WaitInputPress",
+      "target": "on_press",
+      "property_type": "InputPressDelegate"
+    },
+    {
+      "type": "has_property",
+      "source": "DisplayClusterConfigurationICVFX_CameraDepthOfField",
+      "target": "compensation_lut",
+      "property_type": "Texture2D"
+    },
+    {
+      "type": "has_property",
+      "source": "ImportanceTexture",
+      "target": "weighting_func",
+      "property_type": "ImportanceWeight"
+    },
+    {
+      "type": "has_property",
+      "source": "AnimNode_CopyBone",
+      "target": "copy_translation",
+      "property_type": "bool"
+    },
+    {
+      "type": "has_property",
+      "source": "AnimNode_CopyBone",
+      "target": "copy_rotation",
+      "property_type": "bool"
+    },
+    {
+      "type": "has_property",
+      "source": "AnimNode_CopyBone",
+      "target": "copy_scale",
+      "property_type": "bool"
+    },
+    {
+      "type": "has_property",
+      "source": "EarthFacadeBaseFragment",
+      "target": "height",
+      "property_type": "float"
+    },
+    {
+      "type": "has_property",
+      "source": "EarthFacadeBaseFragment",
+      "target": "color",
+      "property_type": "LinearColor"
+    },
+    {
+      "type": "has_method",
+      "source": "InterpToMovementComponent",
+      "target": "stop_simulating"
+    },
+    {
+      "type": "has_method",
+      "source": "InterpToMovementComponent",
+      "target": "restart_movement"
+    },
+    {
+      "type": "has_method",
+      "source": "InterpToMovementComponent",
+      "target": "add_control_point_position"
+    },
+    {
+      "type": "belongs_to_module",
+      "source": "OnPlayerStatePawnSet",
+      "target": "Engine"
+    },
+    {
+      "type": "belongs_to_module",
+      "source": "InterpToMovementComponent",
+      "target": "Engine"
+    },
+    {
+      "type": "belongs_to_module",
+      "source": "AnimGraphNode_ApplyLimits",
+      "target": "AnimGraph"
+    },
+    {
+      "type": "belongs_to_module",
+      "source": "AnimGraphNode_SequenceEvaluator",
+      "target": "AnimGraph"
+    },
+    {
+      "type": "belongs_to_module",
+      "source": "AnimNode_CopyBone",
+      "target": "AnimGraphRuntime"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "PCGWorldQueryFilterByTag",
+      "target": "PCG"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "RigUnit_Multiply_FloatFloat",
+      "target": "ControlRig"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "RigVMFunction_MathFloatMake",
+      "target": "RigVM"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "RigConnectionRule",
+      "target": "ControlRig"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "AbilityAsync_WaitGameplayEffectApplied",
+      "target": "GameplayAbilities"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "AbilityTask_WaitInputPress",
+      "target": "GameplayAbilities"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "EarthFacadeBaseFragment",
+      "target": "AesWorld"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "EarthClusterPrefabAlgorithm",
+      "target": "AesWorld"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "MVVMBlueprintViewEvent",
+      "target": "ModelViewViewModel"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "DisplayClusterConfigurationICVFX_CameraDepthOfField",
+      "target": "nDisplay"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "TakeRecorderPropertyTrackSettings",
+      "target": "Takes"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "WdpGizmoSpace",
+      "target": "WdpApplication"
+    },
+    {
+      "type": "belongs_to_plugin",
+      "source": "OnLeaderboardFlushed",
+      "target": "OnlineSubsystemUtils"
+    }
+  ],
+  "metadata": {
+    "chunk_id": 28,
+    "total_files": 22,
+    "extraction_date": "2026-04-12",
+    "source_path": "/Users/radial/github/unreal-python-stubhub/docs/api"
+  }
+}

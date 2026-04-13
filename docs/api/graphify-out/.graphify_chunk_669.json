@@ -1,0 +1,1059 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathdoubleacos",
+      "label": "RigUnit_MathDoubleAcos",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleAcos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleacos",
+      "label": "RigVMFunction_MathDoubleAcos",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleAcos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "expandparameters",
+      "label": "ExpandParameters",
+      "file_type": "document",
+      "source_file": "ExpandParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "ExpandParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorplugin",
+      "label": "SkyCreatorPlugin",
+      "file_type": "document",
+      "source_file": "ExpandParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixelstreaming51cloudstreamercomponent",
+      "label": "PixelStreaming51CloudStreamerComponent",
+      "file_type": "document",
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "externaldatalayerasset",
+      "label": "ExternalDataLayerAsset",
+      "file_type": "document",
+      "source_file": "ExternalDataLayerAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datalayerasset",
+      "label": "DataLayerAsset",
+      "file_type": "document",
+      "source_file": "ExternalDataLayerAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcameracontrolinterface",
+      "label": "WdpCameraControlInterface",
+      "file_type": "document",
+      "source_file": "WdpCameraControlInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interface",
+      "label": "Interface",
+      "file_type": "document",
+      "source_file": "WdpCameraControlInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolonce",
+      "label": "RigVMFunction_MathBoolOnce",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoolOnce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolbase",
+      "label": "RigVMFunction_MathBoolBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoolOnce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvefloat",
+      "label": "CurveFloat",
+      "file_type": "document",
+      "source_file": "CurveFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvebase",
+      "label": "CurveBase",
+      "file_type": "document",
+      "source_file": "CurveFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorparallel",
+      "label": "RigVMFunction_MathVectorParallel",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorParallel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction_MathVectorBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorParallel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_parentswitchconstraint",
+      "label": "RigUnit_ParentSwitchConstraint",
+      "file_type": "document",
+      "source_file": "RigUnit__ParentSwitchConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__ParentSwitchConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmstate",
+      "label": "DMState",
+      "file_type": "document",
+      "source_file": "DMState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "DMState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avataghandlecontainer",
+      "label": "AvaTagHandleContainer",
+      "file_type": "document",
+      "source_file": "AvaTagHandleContainer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshuvchannelinfo",
+      "label": "MeshUVChannelInfo",
+      "file_type": "document",
+      "source_file": "MeshUVChannelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolrotator",
+      "label": "RigUnit_SetControlRotator",
+      "file_type": "document",
+      "source_file": "RigUnit__SetControlRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddbone",
+      "label": "RigUnit_HierarchyAddBone",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddelement",
+      "label": "RigUnit_HierarchyAddElement",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringconcat",
+      "label": "RigUnit_StringConcat",
+      "file_type": "document",
+      "source_file": "RigUnit__StringConcat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringconcat",
+      "label": "RigVMFunction_StringConcat",
+      "file_type": "document",
+      "source_file": "RigUnit__StringConcat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_visualdebugvectoritemspace",
+      "label": "RigUnit_VisualDebugVectorItemSpace",
+      "file_type": "document",
+      "source_file": "RigUnit_VisualDebugVectorItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbase",
+      "label": "RigUnit_DebugBase",
+      "file_type": "document",
+      "source_file": "RigUnit_VisualDebugVectorItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiospectrumbandpresettype",
+      "label": "AudioSpectrumBandPresetType",
+      "file_type": "document",
+      "source_file": "AudioSpectrumBandPresetType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_ragdoll",
+      "label": "AnimNode_Ragdoll",
+      "file_type": "document",
+      "source_file": "AnimNode_Ragdoll Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_rigidbody",
+      "label": "AnimNode_RigidBody",
+      "file_type": "document",
+      "source_file": "AnimNode_Ragdoll Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgizmocoordaxistypenew",
+      "label": "EarthGizmoCoordAxisTypeNew",
+      "file_type": "document",
+      "source_file": "EarthGizmoCoordAxisTypeNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polyline2dentity",
+      "label": "Polyline2DEntity",
+      "file_type": "document",
+      "source_file": "Polyline2DEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstandardentity",
+      "label": "WdpStandardEntity",
+      "file_type": "document",
+      "source_file": "Polyline2DEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommandparams_smooth",
+      "label": "AesTerrainEditorCommandParams_Smooth",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommandParams__Smooth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommandparams",
+      "label": "AesTerrainEditorCommandParams",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommandParams__Smooth Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiosynesthesianrtfactory",
+      "label": "AudioSynesthesiaNRTFactory",
+      "file_type": "document",
+      "source_file": "AudioSynesthesiaNRTFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "AudioSynesthesiaNRTFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unfreeze_stream_method",
+      "label": "unfreeze_stream",
+      "file_type": "document",
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stop_streaming_method",
+      "label": "stop_streaming",
+      "file_type": "document",
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "start_streaming_method",
+      "label": "start_streaming",
+      "file_type": "document",
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "get_float_value_method",
+      "label": "get_float_value",
+      "file_type": "document",
+      "source_file": "CurveFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "set_polyline_method",
+      "label": "set_polyline",
+      "file_type": "document",
+      "source_file": "Polyline2DEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "get_polyline_method",
+      "label": "get_polyline",
+      "file_type": "document",
+      "source_file": "Polyline2DEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_control_methods",
+      "label": "Camera Control Methods",
+      "file_type": "document",
+      "source_file": "WdpCameraControlInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_framework",
+      "label": "RigVM Framework",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoolOnce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_system",
+      "label": "ControlRig System",
+      "file_type": "document",
+      "source_file": "RigUnit__ParentSwitchConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixel_streaming_system",
+      "label": "Pixel Streaming System",
+      "file_type": "document",
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_analysis_system",
+      "label": "Audio Analysis System",
+      "file_type": "document",
+      "source_file": "AudioSynesthesiaNRTFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathdoubleacos",
+      "target": "rigvmfunction_mathdoubleacos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleAcos Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "expandparameters",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ExpandParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "expandparameters",
+      "target": "skycreatorplugin",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ExpandParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pixelstreaming51cloudstreamercomponent",
+      "target": "actorcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unfreeze_stream_method",
+      "target": "pixelstreaming51cloudstreamercomponent",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stop_streaming_method",
+      "target": "pixelstreaming51cloudstreamercomponent",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "start_streaming_method",
+      "target": "pixelstreaming51cloudstreamercomponent",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "externaldatalayerasset",
+      "target": "datalayerasset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ExternalDataLayerAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcameracontrolinterface",
+      "target": "interface",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpCameraControlInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camera_control_methods",
+      "target": "wdpcameracontrolinterface",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpCameraControlInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolonce",
+      "target": "rigvmfunction_mathboolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathBoolOnce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolonce",
+      "target": "rigvm_framework",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction_MathBoolOnce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curvefloat",
+      "target": "curvebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "get_float_value_method",
+      "target": "curvefloat",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorparallel",
+      "target": "rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorParallel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorparallel",
+      "target": "rigvm_framework",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction__MathVectorParallel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentswitchconstraint",
+      "target": "rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ParentSwitchConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentswitchconstraint",
+      "target": "controlrig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__ParentSwitchConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmstate",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avataghandlecontainer",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTagHandleContainer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshuvchannelinfo",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshUVChannelInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolrotator",
+      "target": "rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolrotator",
+      "target": "controlrig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__SetControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddbone",
+      "target": "rigunit_hierarchyaddelement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddbone",
+      "target": "controlrig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__HierarchyAddBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringconcat",
+      "target": "rigvmfunction_stringconcat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__StringConcat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_visualdebugvectoritemspace",
+      "target": "rigunit_debugbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_VisualDebugVectorItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_visualdebugvectoritemspace",
+      "target": "controlrig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_VisualDebugVectorItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiospectrumbandpresettype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSpectrumBandPresetType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiospectrumbandpresettype",
+      "target": "audio_analysis_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AudioSpectrumBandPresetType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_ragdoll",
+      "target": "animnode_rigidbody",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_Ragdoll Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthgizmocoordaxistypenew",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGizmoCoordAxisTypeNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "polyline2dentity",
+      "target": "wdpstandardentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Polyline2DEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "set_polyline_method",
+      "target": "polyline2dentity",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Polyline2DEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "get_polyline_method",
+      "target": "polyline2dentity",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Polyline2DEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommandparams_smooth",
+      "target": "aesterraineditorcommandparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainEditorCommandParams__Smooth Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiosynesthesianrtfactory",
+      "target": "factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSynesthesiaNRTFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiosynesthesianrtfactory",
+      "target": "audio_analysis_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AudioSynesthesiaNRTFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pixelstreaming51cloudstreamercomponent",
+      "target": "pixel_streaming_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PixelStreaming51CloudStreamerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolonce",
+      "target": "rigvmfunction_mathvectorparallel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathBoolOnce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentswitchconstraint",
+      "target": "rigunit_setcontrolrotator",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__ParentSwitchConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentswitchconstraint",
+      "target": "rigunit_hierarchyaddbone",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__ParentSwitchConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolrotator",
+      "target": "rigunit_hierarchyaddbone",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__SetControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiospectrumbandpresettype",
+      "target": "audiosynesthesianrtfactory",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AudioSpectrumBandPresetType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "externaldatalayerasset",
+      "target": "aesterraineditorcommandparams_smooth",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ExternalDataLayerAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_hierarchy_manipulation",
+      "label": "ControlRig Hierarchy Manipulation",
+      "nodes": [
+        "rigunit_parentswitchconstraint",
+        "rigunit_setcontrolrotator",
+        "rigunit_hierarchyaddbone"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ParentSwitchConstraint Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathboolonce",
+        "rigvmfunction_mathvectorparallel",
+        "rigunit_visualdebugvectoritemspace"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathBoolOnce Objects.md"
+    },
+    {
+      "id": "audio_processing_components",
+      "label": "Audio Processing Components",
+      "nodes": [
+        "audiospectrumbandpresettype",
+        "audiosynesthesianrtfactory"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AudioSpectrumBandPresetType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,897 @@
+{
+  "nodes": [
+    {
+      "id": "timerhandle_timerhandle",
+      "label": "TimerHandle",
+      "file_type": "code",
+      "source_file": "TimerHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripttangentsoptions_geometryscripttangentsoptions",
+      "label": "GeometryScriptTangentsOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptTangentsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorfromdouble_rigunitmathvectorfromdouble",
+      "label": "RigUnit_MathVectorFromDouble",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorFromDouble Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptblurcolormode_geometryscriptblurcolormode",
+      "label": "GeometryScriptBlurColorMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptBlurColorMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_subinstancebase_animgraphnodesubinstancebase",
+      "label": "AnimGraphNode_SubInstanceBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_SubInstanceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+      "label": "DisplayClusterICVFXCameraComponent",
+      "file_type": "code",
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveeditorfftfilterclass_curveeditorfftfilterclass",
+      "label": "CurveEditorFFTFilterClass",
+      "file_type": "code",
+      "source_file": "CurveEditorFFTFilterClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialpairdata_materialpairdata",
+      "label": "MaterialPairData",
+      "file_type": "code",
+      "source_file": "MaterialPairData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floatrk4springinterpolator_floatrk4springinterpolator",
+      "label": "FloatRK4SpringInterpolator",
+      "file_type": "code",
+      "source_file": "FloatRK4SpringInterpolator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorpresettext_propertyanimatorpresettext",
+      "label": "PropertyAnimatorPresetText",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorPresetText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_userdefinedevent_rigunituserdefinedevent",
+      "label": "RigUnit_UserDefinedEvent",
+      "file_type": "code",
+      "source_file": "RigUnit_UserDefinedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionreplaceitems_rigunitcollectionreplaceitems",
+      "label": "RigUnit_CollectionReplaceItems",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionReplaceItems Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffectdynamicskeysource_submixeffectdynamicskeysource",
+      "label": "SubmixEffectDynamicsKeySource",
+      "file_type": "code",
+      "source_file": "SubmixEffectDynamicsKeySource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spriteinstancedata_spriteinstancedata",
+      "label": "SpriteInstanceData",
+      "file_type": "code",
+      "source_file": "SpriteInstanceData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformanimationattribute_transformanimationattribute",
+      "label": "TransformAnimationAttribute",
+      "file_type": "code",
+      "source_file": "TransformAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "label": "RigUnit_SetSpaceInitialTransform",
+      "file_type": "code",
+      "source_file": "RigUnit__SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onchaoscrumblingevent_onchaoscrumblingevent",
+      "label": "OnChaosCrumblingEvent",
+      "file_type": "code",
+      "source_file": "OnChaosCrumblingEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_posesearchexcludefromdatabase_animnotifystateposesearchexcludefromdatabase",
+      "label": "AnimNotifyState_PoseSearchExcludeFromDatabase",
+      "file_type": "code",
+      "source_file": "AnimNotifyState_PoseSearchExcludeFromDatabase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionbinaryaggregateop_rigunitmathquaternionbinaryaggregateop",
+      "label": "RigUnit_MathQuaternionBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poseassetfactory_poseassetfactory",
+      "label": "PoseAssetFactory",
+      "file_type": "code",
+      "source_file": "PoseAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayerentityjson_geolayerentityjson",
+      "label": "GeoLayerEntityJson",
+      "file_type": "code",
+      "source_file": "GeoLayerEntityJson Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerafeedinfo_camerafeedinfo",
+      "label": "CameraFeedInfo",
+      "file_type": "code",
+      "source_file": "CameraFeedInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripttangentstypes_geometryscripttangenttypes",
+      "label": "GeometryScriptTangentTypes",
+      "file_type": "code",
+      "source_file": "GeometryScriptTangentsOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorfromdouble_rigvmfunctionmathvectorfromdouble",
+      "label": "RigVMFunction_MathVectorFromDouble",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorFromDouble Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_linkedanimgraphbase_animgraphnodelinkedanimgraphbase",
+      "label": "AnimGraphNode_LinkedAnimGraphBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_SubInstanceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cinecameracomponent_cinecameracomponent",
+      "label": "CineCameraComponent",
+      "file_type": "code",
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_camerasettings_displayclusterconfigurationicvfxcamerasettings",
+      "label": "DisplayClusterConfigurationICVFX_CameraSettings",
+      "file_type": "code",
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_cameradepthoffield_displayclusterconfigurationicvfxcameradepthoffield",
+      "label": "DisplayClusterConfigurationICVFX_CameraDepthOfField",
+      "file_type": "code",
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcorepropertypreset_propertyanimatorcorepropertypreset",
+      "label": "PropertyAnimatorCorePropertyPreset",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorPresetText Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_userdefinedevent_rigvmfunctionuserdefinedevent",
+      "label": "RigVMFunction_UserDefinedEvent",
+      "file_type": "code",
+      "source_file": "RigUnit_UserDefinedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionbase_rigunitcollectionbase",
+      "label": "RigUnit_CollectionBase",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionReplaceItems Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkeycollection_rigelementkeycollection",
+      "label": "RigElementKeyCollection",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionReplaceItems Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papersprite_papersprite",
+      "label": "PaperSprite",
+      "file_type": "code",
+      "source_file": "SpriteInstanceData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtransformspace_rigvmtransformspace",
+      "label": "RigVMTransformSpace",
+      "file_type": "code",
+      "source_file": "RigUnit__SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaoscrumblingevent_chaoscrumblingevent",
+      "label": "ChaosCrumblingEvent",
+      "file_type": "code",
+      "source_file": "OnChaosCrumblingEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_posesearchbase_animnotifystateposesearchbase",
+      "label": "AnimNotifyState_PoseSearchBase",
+      "file_type": "code",
+      "source_file": "AnimNotifyState_PoseSearchExcludeFromDatabase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbinaryaggregateop_rigvmfunctionmathquaternionbinaryaggregateop",
+      "label": "RigVMFunction_MathQuaternionBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "PoseAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsequence_animsequence",
+      "label": "AnimSequence",
+      "file_type": "code",
+      "source_file": "PoseAssetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bmtsearchinglayer_bmtsearchinglayer",
+      "label": "BMTSearchingLayer",
+      "file_type": "code",
+      "source_file": "MaterialPairData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "springphysics_simulation",
+      "label": "Spring Physics Simulation",
+      "file_type": "code",
+      "source_file": "FloatRK4SpringInterpolator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rk4_numerical_integration",
+      "label": "RK4 Numerical Integration",
+      "file_type": "code",
+      "source_file": "FloatRK4SpringInterpolator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "icvfx_rendering",
+      "label": "In-Camera VFX Rendering",
+      "file_type": "code",
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chromakey_compositing",
+      "label": "Chromakey Compositing",
+      "file_type": "code",
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ndisplay_cluster_rendering",
+      "label": "nDisplay Cluster Rendering",
+      "file_type": "code",
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fft_filtering",
+      "label": "FFT Filtering",
+      "file_type": "code",
+      "source_file": "CurveEditorFFTFilterClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blur_weighting_strategy",
+      "label": "Blur Weighting Strategy",
+      "file_type": "code",
+      "source_file": "GeometryScriptBlurColorMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "timerhandle_timerhandle",
+      "target": "rigunit_collectionreplaceitems_rigunitcollectionreplaceitems",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "TimerHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscripttangentsoptions_geometryscripttangentsoptions",
+      "target": "geometryscripttangentstypes_geometryscripttangenttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptTangentsOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorfromdouble_rigunitmathvectorfromdouble",
+      "target": "rigvmfunction_mathvectorfromdouble_rigvmfunctionmathvectorfromdouble",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorFromDouble Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_subinstancebase_animgraphnodesubinstancebase",
+      "target": "animgraphnode_linkedanimgraphbase_animgraphnodelinkedanimgraphbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_SubInstanceBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+      "target": "cinecameracomponent_cinecameracomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+      "target": "displayclusterconfigurationicvfx_camerasettings_displayclusterconfigurationicvfxcamerasettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+      "target": "displayclusterconfigurationicvfx_cameradepthoffield_displayclusterconfigurationicvfxcameradepthoffield",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+      "target": "icvfx_rendering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+      "target": "chromakey_compositing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+      "target": "ndisplay_cluster_rendering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorpresettext_propertyanimatorpresettext",
+      "target": "propertyanimatorcorepropertypreset_propertyanimatorcorepropertypreset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorPresetText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_userdefinedevent_rigunituserdefinedevent",
+      "target": "rigvmfunction_userdefinedevent_rigvmfunctionuserdefinedevent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_UserDefinedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionreplaceitems_rigunitcollectionreplaceitems",
+      "target": "rigunit_collectionbase_rigunitcollectionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionReplaceItems Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionreplaceitems_rigunitcollectionreplaceitems",
+      "target": "rigelementkeycollection_rigelementkeycollection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionReplaceItems Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spriteinstancedata_spriteinstancedata",
+      "target": "papersprite_papersprite",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpriteInstanceData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "target": "rigvmtransformspace_rigvmtransformspace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setspaceinitialtransform_rigunitsetspaceinitialtransform",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetSpaceInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onchaoscrumblingevent_onchaoscrumblingevent",
+      "target": "chaoscrumblingevent_chaoscrumblingevent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnChaosCrumblingEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_posesearchexcludefromdatabase_animnotifystateposesearchexcludefromdatabase",
+      "target": "animnotifystate_posesearchbase_animnotifystateposesearchbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState_PoseSearchExcludeFromDatabase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionbinaryaggregateop_rigunitmathquaternionbinaryaggregateop",
+      "target": "rigvmfunction_mathquaternionbinaryaggregateop_rigvmfunctionmathquaternionbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "poseassetfactory_poseassetfactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseAssetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "poseassetfactory_poseassetfactory",
+      "target": "animsequence_animsequence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseAssetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialpairdata_materialpairdata",
+      "target": "bmtsearchinglayer_bmtsearchinglayer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialPairData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "floatrk4springinterpolator_floatrk4springinterpolator",
+      "target": "springphysics_simulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "FloatRK4SpringInterpolator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "floatrk4springinterpolator_floatrk4springinterpolator",
+      "target": "rk4_numerical_integration",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "FloatRK4SpringInterpolator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rk4_numerical_integration",
+      "target": "springphysics_simulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FloatRK4SpringInterpolator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptblurcolormode_geometryscriptblurcolormode",
+      "target": "blur_weighting_strategy",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScriptBlurColorMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveeditorfftfilterclass_curveeditorfftfilterclass",
+      "target": "fft_filtering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "CurveEditorFFTFilterClass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerafeedinfo_camerafeedinfo",
+      "target": "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CameraFeedInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayerentityjson_geolayerentityjson",
+      "target": "transformanimationattribute_transformanimationattribute",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "GeoLayerEntityJson Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_classes",
+      "label": "Deprecated RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_mathvectorfromdouble_rigunitmathvectorfromdouble",
+        "rigunit_userdefinedevent_rigunituserdefinedevent",
+        "rigunit_mathquaternionbinaryaggregateop_rigunitmathquaternionbinaryaggregateop"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit__MathVectorFromDouble Objects.md"
+    },
+    {
+      "id": "geometryscripting_mesh_operations",
+      "label": "Geometry Scripting Mesh Operations",
+      "nodes": [
+        "geometryscripttangentsoptions_geometryscripttangentsoptions",
+        "geometryscriptblurcolormode_geometryscriptblurcolormode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptTangentsOptions Objects.md"
+    },
+    {
+      "id": "camera_vfx_pipeline",
+      "label": "Camera and VFX Rendering Pipeline Components",
+      "nodes": [
+        "displayclustericvfxcameracomponent_displayclustericvfxcameracomponent",
+        "camerafeedinfo_camerafeedinfo",
+        "onchaoscrumblingevent_onchaoscrumblingevent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DisplayClusterICVFXCameraComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

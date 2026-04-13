@@ -1,0 +1,733 @@
+{
+  "nodes": [
+    {
+      "id": "animlayer_animlayer",
+      "label": "AnimLayer",
+      "file_type": "code",
+      "source_file": "AnimLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayer_weight_management",
+      "label": "Weight Management",
+      "file_type": "code",
+      "source_file": "AnimLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlayer_sequencer_integration",
+      "label": "Sequencer Integration",
+      "file_type": "code",
+      "source_file": "AnimLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usddrawmodecomponent_usddrawmodecomponent",
+      "label": "UsdDrawModeComponent",
+      "file_type": "code",
+      "source_file": "UsdDrawModeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usddrawmodecomponent_card_texturing",
+      "label": "Card Texturing",
+      "file_type": "code",
+      "source_file": "UsdDrawModeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesentity_aestilesentity",
+      "label": "AesTilesEntity",
+      "file_type": "code",
+      "source_file": "AesTilesEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesentity_activation_system",
+      "label": "Activation System",
+      "file_type": "code",
+      "source_file": "AesTilesEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustermoviepipelineviewportpass_reflectionsonly_displayclustermoviepipelineviewportpass_reflectionsonly",
+      "label": "DisplayClusterMoviePipelineViewportPass_ReflectionsOnly",
+      "file_type": "code",
+      "source_file": "DisplayClusterMoviePipelineViewportPass_ReflectionsOnly Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brushblendmode_brushblendmode",
+      "label": "BrushBlendMode",
+      "file_type": "code",
+      "source_file": "BrushBlendMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionatmosphericlightcolor_materialexpressionatmosphericlightcolor",
+      "label": "MaterialExpressionAtmosphericLightColor",
+      "file_type": "code",
+      "source_file": "MaterialExpressionAtmosphericLightColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthrendertarget2dfragment_earthrendertarget2dfragment",
+      "label": "EarthRenderTarget2DFragment",
+      "file_type": "code",
+      "source_file": "EarthRenderTarget2DFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthrendertarget2dfragment_water_color_presets",
+      "label": "Water Color Presets",
+      "file_type": "code",
+      "source_file": "EarthRenderTarget2DFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialmeter_audiomaterialmeter",
+      "label": "AudioMaterialMeter",
+      "file_type": "code",
+      "source_file": "AudioMaterialMeter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialmeter_multichannel_support",
+      "label": "MultiChannel Support",
+      "file_type": "code",
+      "source_file": "AudioMaterialMeter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinksourcepreset_livelinksourcepreset",
+      "label": "LiveLinkSourcePreset",
+      "file_type": "code",
+      "source_file": "LiveLinkSourcePreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_normalssettings_generatestaticmeshlodprocess_normalssettings",
+      "label": "GenerateStaticMeshLODProcess_NormalsSettings",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODProcess__NormalsSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenevectortrackextensions_moviescenevectortrackextensions",
+      "label": "MovieSceneVectorTrackExtensions",
+      "file_type": "code",
+      "source_file": "MovieSceneVectorTrackExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waveoscillatorcamerashakepattern_waveoscillatorcamerashakepattern",
+      "label": "WaveOscillatorCameraShakePattern",
+      "file_type": "code",
+      "source_file": "WaveOscillatorCameraShakePattern Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waveoscillatorcamerashakepattern_location_oscillation",
+      "label": "Location Oscillation",
+      "file_type": "code",
+      "source_file": "WaveOscillatorCameraShakePattern Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waveoscillatorcamerashakepattern_rotation_oscillation",
+      "label": "Rotation Oscillation",
+      "file_type": "code",
+      "source_file": "WaveOscillatorCameraShakePattern Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skyatmospherecomponent_skyatmospherecomponent",
+      "label": "SkyAtmosphereComponent",
+      "file_type": "code",
+      "source_file": "SkyAtmosphereComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skyatmospherecomponent_rayleigh_scattering",
+      "label": "Rayleigh Scattering",
+      "file_type": "code",
+      "source_file": "SkyAtmosphereComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skyatmospherecomponent_mie_scattering",
+      "label": "Mie Scattering",
+      "file_type": "code",
+      "source_file": "SkyAtmosphereComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skyatmospherecomponent_multiple_scattering",
+      "label": "Multiple Scattering",
+      "file_type": "code",
+      "source_file": "SkyAtmosphereComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolsettings_rigcontrolsettings",
+      "label": "RigControlSettings",
+      "file_type": "code",
+      "source_file": "RigControlSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolsettings_value_limiting",
+      "label": "Value Limiting",
+      "file_type": "code",
+      "source_file": "RigControlSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolsettings_shape_customization",
+      "label": "Shape Customization",
+      "file_type": "code",
+      "source_file": "RigControlSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applyrootmotionjumpforcedelegate_applyrootmotionjumpforcedelegate",
+      "label": "ApplyRootMotionJumpForceDelegate",
+      "file_type": "code",
+      "source_file": "ApplyRootMotionJumpForceDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapesplinemeshentry_landscapesplinemeshentry",
+      "label": "LandscapeSplineMeshEntry",
+      "file_type": "code",
+      "source_file": "LandscapeSplineMeshEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapesplinemeshentry_mesh_placement",
+      "label": "Mesh Placement",
+      "file_type": "code",
+      "source_file": "LandscapeSplineMeshEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vectorfieldexporter_vectorfieldexporter",
+      "label": "VectorFieldExporter",
+      "file_type": "code",
+      "source_file": "VectorFieldExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcolorpicker_earthcolorpicker",
+      "label": "EarthColorPicker",
+      "file_type": "code",
+      "source_file": "EarthColorPicker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcolorpicker_color_selection_ui",
+      "label": "Color Selection UI",
+      "file_type": "code",
+      "source_file": "EarthColorPicker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatselectbool_rigunit_mathfloatselectbool",
+      "label": "RigUnit_MathFloatSelectBool",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatSelectBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "automationscheduler_automationscheduler",
+      "label": "AutomationScheduler",
+      "file_type": "code",
+      "source_file": "AutomationScheduler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "automationscheduler_tick_based_scheduling",
+      "label": "Tick-Based Scheduling",
+      "file_type": "code",
+      "source_file": "AutomationScheduler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "randomstream_randomstream",
+      "label": "RandomStream",
+      "file_type": "code",
+      "source_file": "RandomStream Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "randomstream_vector_generation",
+      "label": "Vector Generation",
+      "file_type": "code",
+      "source_file": "RandomStream Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "randomstream_random_distributions",
+      "label": "Random Distributions",
+      "file_type": "code",
+      "source_file": "RandomStream Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_applyfk_rigunit_applyfk",
+      "label": "RigUnit_ApplyFK",
+      "file_type": "code",
+      "source_file": "RigUnit__ApplyFK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_applyfk_transform_application",
+      "label": "Transform Application",
+      "file_type": "code",
+      "source_file": "RigUnit__ApplyFK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animlayer_animlayer",
+      "target": "animlayer_weight_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animlayer_animlayer",
+      "target": "animlayer_sequencer_integration",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "usddrawmodecomponent_usddrawmodecomponent",
+      "target": "usddrawmodecomponent_card_texturing",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UsdDrawModeComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesentity_aestilesentity",
+      "target": "aestilesentity_activation_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthrendertarget2dfragment_earthrendertarget2dfragment",
+      "target": "earthrendertarget2dfragment_water_color_presets",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRenderTarget2DFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialmeter_audiomaterialmeter",
+      "target": "audiomaterialmeter_multichannel_support",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMaterialMeter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waveoscillatorcamerashakepattern_waveoscillatorcamerashakepattern",
+      "target": "waveoscillatorcamerashakepattern_location_oscillation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaveOscillatorCameraShakePattern Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waveoscillatorcamerashakepattern_waveoscillatorcamerashakepattern",
+      "target": "waveoscillatorcamerashakepattern_rotation_oscillation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaveOscillatorCameraShakePattern Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skyatmospherecomponent_skyatmospherecomponent",
+      "target": "skyatmospherecomponent_rayleigh_scattering",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyAtmosphereComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skyatmospherecomponent_skyatmospherecomponent",
+      "target": "skyatmospherecomponent_mie_scattering",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyAtmosphereComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skyatmospherecomponent_skyatmospherecomponent",
+      "target": "skyatmospherecomponent_multiple_scattering",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyAtmosphereComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skyatmospherecomponent_rayleigh_scattering",
+      "target": "skyatmospherecomponent_mie_scattering",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkyAtmosphereComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolsettings_rigcontrolsettings",
+      "target": "rigcontrolsettings_value_limiting",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolsettings_rigcontrolsettings",
+      "target": "rigcontrolsettings_shape_customization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapesplinemeshentry_landscapesplinemeshentry",
+      "target": "landscapesplinemeshentry_mesh_placement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandscapeSplineMeshEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcolorpicker_earthcolorpicker",
+      "target": "earthcolorpicker_color_selection_ui",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthColorPicker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "automationscheduler_automationscheduler",
+      "target": "automationscheduler_tick_based_scheduling",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AutomationScheduler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "randomstream_randomstream",
+      "target": "randomstream_vector_generation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RandomStream Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "randomstream_randomstream",
+      "target": "randomstream_random_distributions",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RandomStream Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_applyfk_rigunit_applyfk",
+      "target": "rigunit_applyfk_transform_application",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ApplyFK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionatmosphericlightcolor_materialexpressionatmosphericlightcolor",
+      "target": "skyatmospherecomponent_skyatmospherecomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionAtmosphericLightColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_applyfk_rigunit_applyfk",
+      "target": "rigcontrolsettings_rigcontrolsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__ApplyFK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animlayer_animlayer",
+      "target": "rigcontrolsettings_rigcontrolsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "atmospheric_rendering_system",
+      "label": "Atmospheric Rendering System",
+      "nodes": [
+        "skyatmospherecomponent_skyatmospherecomponent",
+        "skyatmospherecomponent_rayleigh_scattering",
+        "skyatmospherecomponent_mie_scattering",
+        "skyatmospherecomponent_multiple_scattering",
+        "materialexpressionatmosphericlightcolor_materialexpressionatmosphericlightcolor"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkyAtmosphereComponent Objects.md"
+    },
+    {
+      "id": "rig_animation_control_system",
+      "label": "Rig Animation Control System",
+      "nodes": [
+        "rigcontrolsettings_rigcontrolsettings",
+        "rigunit_applyfk_rigunit_applyfk",
+        "rigunit_mathfloatselectbool_rigunit_mathfloatselectbool",
+        "animlayer_animlayer"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigControlSettings Objects.md"
+    },
+    {
+      "id": "random_generation_utilities",
+      "label": "Random Generation Utilities",
+      "nodes": [
+        "randomstream_randomstream",
+        "randomstream_vector_generation",
+        "randomstream_random_distributions"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RandomStream Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

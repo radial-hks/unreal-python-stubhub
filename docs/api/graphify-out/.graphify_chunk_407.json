@@ -1,0 +1,416 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_pbik_rigunit_pbik",
+      "label": "RigUnit_PBIK",
+      "file_type": "document",
+      "source_file": "RigUnit_PBIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_pbik_pbikeffector",
+      "label": "PBIKEffector",
+      "file_type": "document",
+      "source_file": "RigUnit_PBIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_pbik_pbikbonesetting",
+      "label": "PBIKBoneSetting",
+      "file_type": "document",
+      "source_file": "RigUnit_PBIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_pbik_pbiksolversettings",
+      "label": "PBIKSolverSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_PBIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "richtextblockdecorator_richtextblockdecorator",
+      "label": "RichTextBlockDecorator",
+      "file_type": "document",
+      "source_file": "RichTextBlockDecorator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector3b_vector3b",
+      "label": "Vector3b",
+      "file_type": "document",
+      "source_file": "Vector3b Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "httpesrifeatureservicelayerdefine_httpesrifeatureservicelayerdefine",
+      "label": "HttpESRIFeatureServiceLayerDefine",
+      "file_type": "document",
+      "source_file": "HttpESRIFeatureServiceLayerDefine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorelementscopy_actorelementscopy",
+      "label": "ActorElementsCopy",
+      "file_type": "document",
+      "source_file": "ActorElementsCopy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgleveltoasset_pcgleveltoasset",
+      "label": "PCGLevelToAsset",
+      "file_type": "document",
+      "source_file": "PCGLevelToAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusskinnedmeshreaddataprovider_optimusskinnedmeshreaddataprovider",
+      "label": "OptimusSkinnedMeshReadDataProvider",
+      "file_type": "document",
+      "source_file": "OptimusSkinnedMeshReadDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestvectordelegate_pytestvectordelegate",
+      "label": "PyTestVectorDelegate",
+      "file_type": "document",
+      "source_file": "PyTestVectorDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencedirector_daysequencedirector",
+      "label": "DaySequenceDirector",
+      "file_type": "document",
+      "source_file": "DaySequenceDirector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencedirector_daysequenceplayer",
+      "label": "DaySequencePlayer",
+      "file_type": "document",
+      "source_file": "DaySequenceDirector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequencedirector_moviescenesequence",
+      "label": "MovieSceneSequence",
+      "file_type": "document",
+      "source_file": "DaySequenceDirector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonergridconstraintsphere_avaclonergridconstraintsphere",
+      "label": "AvaClonerGridConstraintSphere",
+      "file_type": "document",
+      "source_file": "AvaClonerGridConstraintSphere Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "foliagetype_actor_foliagetype_actor",
+      "label": "FoliageType_Actor",
+      "file_type": "document",
+      "source_file": "FoliageType__Actor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystemscalabilitysettings_niagarasystemscalabilitysettings",
+      "label": "NiagaraSystemScalabilitySettings",
+      "file_type": "document",
+      "source_file": "NiagaraSystemScalabilitySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createmodelerembankparams_createmodelerembankparams",
+      "label": "CreateModelerEmbankParams",
+      "file_type": "document",
+      "source_file": "CreateModelerEmbankParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorwavecurve_propertyanimatorwavecurve",
+      "label": "PropertyAnimatorWaveCurve",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorWaveCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserpathtype_contentbrowserpathtype",
+      "label": "ContentBrowserPathType",
+      "file_type": "document",
+      "source_file": "ContentBrowserPathType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "angularrangelimit_angularrangelimit",
+      "label": "AngularRangeLimit",
+      "file_type": "document",
+      "source_file": "AngularRangeLimit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbooltoggled_rigvmfunction_mathbooltoggled",
+      "label": "RigVMFunction_MathBoolToggled",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoolToggled Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointlightcomponent_pointlightcomponent",
+      "label": "PointLightComponent",
+      "file_type": "document",
+      "source_file": "PointLightComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pluginblueprintlibrary_pluginblueprintlibrary",
+      "label": "PluginBlueprintLibrary",
+      "file_type": "document",
+      "source_file": "PluginBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "arucodictionary_arucodictionary",
+      "label": "ArucoDictionary",
+      "file_type": "document",
+      "source_file": "ArucoDictionary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mirrordatatablefactory_mirrordatatablefactory",
+      "label": "MirrorDataTableFactory",
+      "file_type": "document",
+      "source_file": "MirrorDataTableFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonergridconstraintcylinder_avaclonergridconstraintcylinder",
+      "label": "AvaClonerGridConstraintCylinder",
+      "file_type": "document",
+      "source_file": "AvaClonerGridConstraintCylinder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_pbik_rigunit_pbik",
+      "target": "rigunit_pbik_pbikeffector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PBIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_pbik_rigunit_pbik",
+      "target": "rigunit_pbik_pbikbonesetting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PBIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_pbik_rigunit_pbik",
+      "target": "rigunit_pbik_pbiksolversettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PBIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequencedirector_daysequencedirector",
+      "target": "daysequencedirector_daysequenceplayer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceDirector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "daysequencedirector_daysequencedirector",
+      "target": "daysequencedirector_moviescenesequence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DaySequenceDirector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonergridconstraintsphere_avaclonergridconstraintsphere",
+      "target": "avaclonergridconstraintcylinder_avaclonergridconstraintcylinder",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaClonerGridConstraintSphere Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointlightcomponent_pointlightcomponent",
+      "target": "rigunit_pbik_rigunit_pbik",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "PointLightComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "inverse_kinematics_system",
+      "label": "Inverse Kinematics System Components",
+      "nodes": [
+        "rigunit_pbik_rigunit_pbik",
+        "rigunit_pbik_pbikeffector",
+        "rigunit_pbik_pbikbonesetting",
+        "rigunit_pbik_pbiksolversettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_PBIK Objects.md"
+    },
+    {
+      "id": "sequence_playback_system",
+      "label": "Sequence Playback System Components",
+      "nodes": [
+        "daysequencedirector_daysequencedirector",
+        "daysequencedirector_daysequenceplayer",
+        "daysequencedirector_moviescenesequence"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DaySequenceDirector Objects.md"
+    },
+    {
+      "id": "deprecated_cloner_constraints",
+      "label": "Deprecated Cloner Constraint Classes",
+      "nodes": [
+        "avaclonergridconstraintsphere_avaclonergridconstraintsphere",
+        "avaclonergridconstraintcylinder_avaclonergridconstraintcylinder"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AvaClonerGridConstraintSphere Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

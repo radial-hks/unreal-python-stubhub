@@ -1,0 +1,1071 @@
+{
+  "nodes": [
+    {
+      "id": "materialexpressionsubstratehorizontalmixing_class",
+      "label": "MaterialExpressionSubstrateHorizontalMixing",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateHorizontalMixing Objects.md",
+      "source_location": "line 4-6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratebsdf_class",
+      "label": "MaterialExpressionSubstrateBSDF",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateHorizontalMixing Objects.md",
+      "source_location": "line 4-6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "use_parameter_blending_property",
+      "label": "use_parameter_blending",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateHorizontalMixing Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtexturetype_enum",
+      "label": "EarthTextureType",
+      "file_type": "document",
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vgm_texture_type",
+      "label": "VGM Texture Type",
+      "file_type": "document",
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 23-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dem_texture_type",
+      "label": "DEM Texture Type",
+      "file_type": "document",
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 33-34",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dom_texture_type",
+      "label": "DOM Texture Type",
+      "file_type": "document",
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 39-40",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontloadingpolicy_enum",
+      "label": "FontLoadingPolicy",
+      "file_type": "document",
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lazy_load_strategy",
+      "label": "Lazy Load Strategy",
+      "file_type": "document",
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 16-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stream_strategy",
+      "label": "Stream Strategy",
+      "file_type": "document",
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 22-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inline_strategy",
+      "label": "Inline Strategy",
+      "file_type": "document",
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 28-30",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondaysequenceplayerevent_delegate",
+      "label": "OnDaySequencePlayerEvent",
+      "file_type": "document",
+      "source_file": "OnDaySequencePlayerEvent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_class",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnDaySequencePlayerEvent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "daysequence_module",
+      "label": "DaySequence Module",
+      "file_type": "document",
+      "source_file": "OnDaySequencePlayerEvent Objects.md",
+      "source_location": "line 11-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvelinearcolor_class",
+      "label": "CurveLinearColor",
+      "file_type": "document",
+      "source_file": "CurveLinearColor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvebase_class",
+      "label": "CurveBase",
+      "file_type": "document",
+      "source_file": "CurveLinearColor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "color_adjustment_properties",
+      "label": "Color Adjustment Properties",
+      "file_type": "document",
+      "source_file": "CurveLinearColor Objects.md",
+      "source_location": "line 16-23",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "get_linear_color_value_method",
+      "label": "get_linear_color_value",
+      "file_type": "document",
+      "source_file": "CurveLinearColor Objects.md",
+      "source_location": "line 47",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphglobalgameoverridesnode_class",
+      "label": "MovieGraphGlobalGameOverridesNode",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphsettingnode_class",
+      "label": "MovieGraphSettingNode",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lod_management",
+      "label": "LOD Management",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 17-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_streaming_control",
+      "label": "Texture Streaming Control",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 28-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shader_compilation_flush",
+      "label": "Shader Compilation Flush",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 42-45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asset_compilation_flush",
+      "label": "Asset Compilation Flush",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 33-35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_settransformarray_class",
+      "label": "RigUnit_SetTransformArray",
+      "file_type": "document",
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_class",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_hierarchy_manipulation",
+      "label": "Transform Hierarchy Manipulation",
+      "file_type": "document",
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 7-11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propagate_to_children_property",
+      "label": "propagate_to_children",
+      "file_type": "document",
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 25-26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_ishostbeingdebugged_class",
+      "label": "RigVMFunction_IsHostBeingDebugged",
+      "file_type": "document",
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmstruct_class",
+      "label": "RigVMStruct",
+      "file_type": "document",
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugging_detection",
+      "label": "Debugging Detection",
+      "file_type": "document",
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionselectbool_class",
+      "label": "RigVMFunction_MathQuaternionSelectBool",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionSelectBool Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbase_class",
+      "label": "RigVMFunction_MathQuaternionBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionSelectBool Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternion_conditional_selection",
+      "label": "Quaternion Conditional Selection",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionSelectBool Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcginstancepackerbyattribute_class",
+      "label": "PCGInstancePackerByAttribute",
+      "file_type": "document",
+      "source_file": "PCGInstancePackerByAttribute Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcginstancedatapackerbyattribute_class",
+      "label": "PCGInstanceDataPackerByAttribute",
+      "file_type": "document",
+      "source_file": "PCGInstancePackerByAttribute Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_class_migration",
+      "label": "Deprecated Class Migration",
+      "file_type": "document",
+      "source_file": "PCGInstancePackerByAttribute Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionparticledirection_class",
+      "label": "DMMaterialStageExpressionParticleDirection",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionParticleDirection Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpression_class",
+      "label": "DMMaterialStageExpression",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionParticleDirection Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particle_material_expression",
+      "label": "Particle Material Expression",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionParticleDirection Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tagcollectionmodifierstack_class",
+      "label": "TagCollectionModifierStack",
+      "file_type": "document",
+      "source_file": "TagCollectionModifierStack Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorestack_class",
+      "label": "ActorModifierCoreStack",
+      "file_type": "document",
+      "source_file": "TagCollectionModifierStack Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_expression_editor_properties",
+      "label": "Material Expression Editor Properties",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateHorizontalMixing Objects.md",
+      "source_location": "line 16-21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatial_fragment_system",
+      "label": "Spatial Fragment System",
+      "file_type": "document",
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "font_rendering_optimization",
+      "label": "Font Rendering Optimization",
+      "file_type": "document",
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movie_render_pipeline",
+      "label": "Movie Render Pipeline",
+      "file_type": "document",
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 11-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig_system",
+      "label": "Control Rig System",
+      "file_type": "document",
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 15-17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md",
+      "source_location": "line 11-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_instance_management",
+      "label": "PCG Instance Management",
+      "file_type": "document",
+      "source_file": "PCGInstancePackerByAttribute Objects.md",
+      "source_location": "line 4-7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_material_editor",
+      "label": "Dynamic Material Editor",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionParticleDirection Objects.md",
+      "source_location": "line 11-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionsubstratehorizontalmixing_class",
+      "target": "materialexpressionsubstratebsdf_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateHorizontalMixing Objects.md",
+      "source_location": "line 4-6",
+      "weight": 1.0
+    },
+    {
+      "source": "use_parameter_blending_property",
+      "target": "materialexpressionsubstratehorizontalmixing_class",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateHorizontalMixing Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "vgm_texture_type",
+      "target": "earthtexturetype_enum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 23-24",
+      "weight": 1.0
+    },
+    {
+      "source": "dem_texture_type",
+      "target": "earthtexturetype_enum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 33-34",
+      "weight": 1.0
+    },
+    {
+      "source": "dom_texture_type",
+      "target": "earthtexturetype_enum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 39-40",
+      "weight": 1.0
+    },
+    {
+      "source": "earthtexturetype_enum",
+      "target": "spatial_fragment_system",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTextureType Objects.md",
+      "source_location": "line 13",
+      "weight": 1.0
+    },
+    {
+      "source": "lazy_load_strategy",
+      "target": "fontloadingpolicy_enum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 16-18",
+      "weight": 1.0
+    },
+    {
+      "source": "stream_strategy",
+      "target": "fontloadingpolicy_enum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 22-24",
+      "weight": 1.0
+    },
+    {
+      "source": "inline_strategy",
+      "target": "fontloadingpolicy_enum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 28-30",
+      "weight": 1.0
+    },
+    {
+      "source": "lazy_load_strategy",
+      "target": "font_rendering_optimization",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 16-18",
+      "weight": 1.0
+    },
+    {
+      "source": "stream_strategy",
+      "target": "font_rendering_optimization",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 22-24",
+      "weight": 1.0
+    },
+    {
+      "source": "inline_strategy",
+      "target": "font_rendering_optimization",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "FontLoadingPolicy Objects.md",
+      "source_location": "line 28-30",
+      "weight": 1.0
+    },
+    {
+      "source": "ondaysequenceplayerevent_delegate",
+      "target": "multicastdelegatebase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDaySequencePlayerEvent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "ondaysequenceplayerevent_delegate",
+      "target": "daysequence_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDaySequencePlayerEvent Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "curvelinearcolor_class",
+      "target": "curvebase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveLinearColor Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "color_adjustment_properties",
+      "target": "curvelinearcolor_class",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveLinearColor Objects.md",
+      "source_location": "line 16-23",
+      "weight": 1.0
+    },
+    {
+      "source": "get_linear_color_value_method",
+      "target": "curvelinearcolor_class",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveLinearColor Objects.md",
+      "source_location": "line 47",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphglobalgameoverridesnode_class",
+      "target": "moviegraphsettingnode_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "lod_management",
+      "target": "moviegraphglobalgameoverridesnode_class",
+      "relation": "configured_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 17-25",
+      "weight": 1.0
+    },
+    {
+      "source": "texture_streaming_control",
+      "target": "moviegraphglobalgameoverridesnode_class",
+      "relation": "configured_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 28-31",
+      "weight": 1.0
+    },
+    {
+      "source": "shader_compilation_flush",
+      "target": "moviegraphglobalgameoverridesnode_class",
+      "relation": "configured_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 42-45",
+      "weight": 1.0
+    },
+    {
+      "source": "asset_compilation_flush",
+      "target": "moviegraphglobalgameoverridesnode_class",
+      "relation": "configured_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 33-35",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphglobalgameoverridesnode_class",
+      "target": "movie_render_pipeline",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "lod_management",
+      "target": "movie_render_pipeline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 17-25",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransformarray_class",
+      "target": "rigunitmutable_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "transform_hierarchy_manipulation",
+      "target": "rigunit_settransformarray_class",
+      "relation": "implemented_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 7-11",
+      "weight": 1.0
+    },
+    {
+      "source": "propagate_to_children_property",
+      "target": "transform_hierarchy_manipulation",
+      "relation": "controls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 25-26",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_settransformarray_class",
+      "target": "control_rig_system",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetTransformArray Objects.md",
+      "source_location": "line 15-17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_ishostbeingdebugged_class",
+      "target": "rigvmstruct_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "debugging_detection",
+      "target": "rigvmfunction_ishostbeingdebugged_class",
+      "relation": "implemented_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_ishostbeingdebugged_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionselectbool_class",
+      "target": "rigvmfunction_mathquaternionbase_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionSelectBool Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "quaternion_conditional_selection",
+      "target": "rigvmfunction_mathquaternionselectbool_class",
+      "relation": "implemented_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction_MathQuaternionSelectBool Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionselectbool_class",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionSelectBool Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "pcginstancepackerbyattribute_class",
+      "target": "pcginstancedatapackerbyattribute_class",
+      "relation": "deprecated_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGInstancePackerByAttribute Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "pcginstancepackerbyattribute_class",
+      "target": "deprecated_class_migration",
+      "relation": "demonstrates",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGInstancePackerByAttribute Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "pcginstancepackerbyattribute_class",
+      "target": "pcg_instance_management",
+      "relation": "used_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGInstancePackerByAttribute Objects.md",
+      "source_location": "line 4-7",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionparticledirection_class",
+      "target": "dmmaterialstageexpression_class",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionParticleDirection Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "particle_material_expression",
+      "target": "dmmaterialstageexpressionparticledirection_class",
+      "relation": "implemented_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DMMaterialStageExpressionParticleDirection Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionparticledirection_class",
+      "target": "dynamic_material_editor",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionParticleDirection Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "tagcollectionmodifierstack_class",
+      "target": "actormodifiercorestack_class",
+      "relation": "deprecated_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TagCollectionModifierStack Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "tagcollectionmodifierstack_class",
+      "target": "deprecated_class_migration",
+      "relation": "demonstrates",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "TagCollectionModifierStack Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "material_expression_editor_properties",
+      "target": "materialexpressionsubstratehorizontalmixing_class",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateHorizontalMixing Objects.md",
+      "source_location": "line 16-21",
+      "weight": 1.0
+    },
+    {
+      "source": "use_parameter_blending_property",
+      "target": "material_expression_editor_properties",
+      "relation": "part_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionSubstrateHorizontalMixing Objects.md",
+      "source_location": "line 16-21",
+      "weight": 1.0
+    },
+    {
+      "source": "shader_compilation_flush",
+      "target": "asset_compilation_flush",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md",
+      "source_location": "line 33-45",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionselectbool_class",
+      "target": "rigvmfunction_ishostbeingdebugged_class",
+      "relation": "shares_plugin_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "pcginstancepackerbyattribute_class",
+      "target": "tagcollectionmodifierstack_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGInstancePackerByAttribute Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_api_migration_pattern",
+      "label": "Deprecated API Migration Pattern",
+      "nodes": [
+        "pcginstancepackerbyattribute_class",
+        "tagcollectionmodifierstack_class",
+        "deprecated_class_migration"
+      ],
+      "relation": "demonstrate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGInstancePackerByAttribute Objects.md"
+    },
+    {
+      "id": "rigvm_function_ecosystem",
+      "label": "RigVM Function Ecosystem",
+      "nodes": [
+        "rigvmfunction_ishostbeingdebugged_class",
+        "rigvmfunction_mathquaternionselectbool_class",
+        "rigvm_plugin",
+        "rigvmstruct_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_IsHostBeingDebugged Objects.md"
+    },
+    {
+      "id": "movie_render_optimization_strategies",
+      "label": "Movie Render Optimization Strategies",
+      "nodes": [
+        "lod_management",
+        "texture_streaming_control",
+        "shader_compilation_flush",
+        "asset_compilation_flush"
+      ],
+      "relation": "coordinate",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieGraphGlobalGameOverridesNode Objects.md"
+    }
+  ],
+  "input_tokens": 4580,
+  "output_tokens": 5200
+}

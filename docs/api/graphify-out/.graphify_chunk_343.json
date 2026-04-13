@@ -1,0 +1,936 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_mathintsign_rigunit_mathintsign",
+      "label": "RigUnit MathIntSign",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleround_rigunit_mathdoubleround",
+      "label": "RigUnit MathDoubleRound",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleRound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onquerywaterentitytileidcompleted_onquerywaterentitytileidcompleted",
+      "label": "On Query Water Entity Tile Id Completed",
+      "file_type": "code",
+      "source_file": "OnQueryWaterEntityTileIdCompleted Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterblueprint_displayclusterblueprint",
+      "label": "Display Cluster Blueprint",
+      "file_type": "code",
+      "source_file": "DisplayClusterBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbandownsamplebp_urbandownsamplebp",
+      "label": "Urban Down Sample BP",
+      "file_type": "code",
+      "source_file": "UrbanDownSampleBP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturecompressionsettings_texturecompressionsettings",
+      "label": "Texture Compression Settings",
+      "file_type": "code",
+      "source_file": "TextureCompressionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilityblueprintasyncactionbase_editorutilityblueprintasyncactionbase",
+      "label": "Editor Utility Blueprint Async Action Base",
+      "file_type": "code",
+      "source_file": "EditorUtilityBlueprintAsyncActionBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertargetvolume_texturerendertargetvolume",
+      "label": "Texture Render Target Volume",
+      "file_type": "code",
+      "source_file": "TextureRenderTargetVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatunaryop_rigunit_mathfloatunaryop",
+      "label": "RigUnit MathFloatUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "locationvolume_locationvolume",
+      "label": "Location Volume",
+      "file_type": "code",
+      "source_file": "LocationVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_timeoffsettransform_rigvmfunction_timeoffsettransform",
+      "label": "RigVMFunction TimeOffsetTransform",
+      "file_type": "code",
+      "source_file": "RigVMFunction_TimeOffsetTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_unsetcurvevalue_rigunit_unsetcurvevalue",
+      "label": "RigUnit UnsetCurveValue",
+      "file_type": "code",
+      "source_file": "RigUnit_UnsetCurveValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorskyatmospheresettings_skycreatorskyatmospheresettings",
+      "label": "Sky Creator Sky Atmosphere Settings",
+      "file_type": "code",
+      "source_file": "SkyCreatorSkyAtmosphereSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesmeshdata_aesmeshdata",
+      "label": "Aes Mesh Data",
+      "file_type": "code",
+      "source_file": "AesMeshData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widthparam_widthparam",
+      "label": "Width Param",
+      "file_type": "code",
+      "source_file": "WidthParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublesub_rigvmfunction_mathdoublesub",
+      "label": "RigVMFunction MathDoubleSub",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "consolevariableseditorpresetimportmode_consolevariableseditorpresetimportmode",
+      "label": "Console Variables Editor Preset Import Mode",
+      "file_type": "code",
+      "source_file": "ConsoleVariablesEditorPresetImportMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangephysicalcameranode_interchangephysicalcameranode",
+      "label": "Interchange Physical Camera Node",
+      "file_type": "code",
+      "source_file": "InterchangePhysicalCameraNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendlistbybool_animgraphnode_blendlistbybool",
+      "label": "Anim Graph Node Blend List by Bool",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__BlendListByBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikgoalcreatorinterface_ikgoalcreatorinterface",
+      "label": "IK Goal Creator Interface",
+      "file_type": "code",
+      "source_file": "IKGoalCreatorInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontroltransform_rigunit_setcontroltransform",
+      "label": "RigUnit SetControlTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_SetControlTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintabs_rigunit_mathintabs",
+      "label": "RigUnit MathIntAbs",
+      "file_type": "code",
+      "source_file": "RigUnit__MathIntAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintsign_rigvmfunction_mathintsign",
+      "label": "RigVMFunction MathIntSign",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleround_rigvmfunction_mathdoubleround",
+      "label": "RigVMFunction MathDoubleRound",
+      "file_type": "code",
+      "source_file": "RigUnit_MathDoubleRound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatunaryop_rigvmfunction_mathfloatunaryop",
+      "label": "RigVMFunction MathFloatUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintabs_rigvmfunction_mathintabs",
+      "label": "RigVMFunction MathIntAbs",
+      "file_type": "code",
+      "source_file": "RigUnit__MathIntAbs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebinaryop_rigvmfunction_mathdoublebinaryop",
+      "label": "RigVMFunction MathDoubleBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volume_volume",
+      "label": "Volume",
+      "file_type": "code",
+      "source_file": "LocationVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_simbase_rigvmfunction_simbase",
+      "label": "RigVMFunction SimBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_TimeOffsetTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_rigunitmutable",
+      "label": "RigUnit Mutable",
+      "file_type": "code",
+      "source_file": "RigUnit_UnsetCurveValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "Struct Base",
+      "file_type": "code",
+      "source_file": "AesMeshData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangebasenode_interchangebasenode",
+      "label": "Interchange Base Node",
+      "file_type": "code",
+      "source_file": "InterchangePhysicalCameraNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendlistbase_animgraphnode_blendlistbase",
+      "label": "Anim Graph Node Blend List Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__BlendListByBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertarget_texturerendertarget",
+      "label": "Texture Render Target",
+      "file_type": "code",
+      "source_file": "TextureRenderTargetVolume Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_multicastdelegatebase",
+      "label": "Multicast Delegate Base",
+      "file_type": "code",
+      "source_file": "OnQueryWaterEntityTileIdCompleted Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprint_blueprint",
+      "label": "Blueprint",
+      "file_type": "code",
+      "source_file": "DisplayClusterBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "label": "Blueprint Function Library",
+      "file_type": "code",
+      "source_file": "UrbanDownSampleBP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "Enum Base",
+      "file_type": "code",
+      "source_file": "TextureCompressionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintasyncactionbase_blueprintasyncactionbase",
+      "label": "Blueprint Async Action Base",
+      "file_type": "code",
+      "source_file": "EditorUtilityBlueprintAsyncActionBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interface_interface",
+      "label": "Interface",
+      "file_type": "code",
+      "source_file": "IKGoalCreatorInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface_materialinterface",
+      "label": "Material Interface",
+      "file_type": "code",
+      "source_file": "UrbanDownSampleBP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "linearcolor_linearcolor",
+      "label": "Linear Color",
+      "file_type": "code",
+      "source_file": "UrbanDownSampleBP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "RigVMFunction_TimeOffsetTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_controlrigexecutecontext",
+      "label": "Control Rig Execute Context",
+      "file_type": "code",
+      "source_file": "RigUnit_UnsetCurveValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikriggoal_ikriggoal",
+      "label": "IK Rig Goal",
+      "file_type": "code",
+      "source_file": "IKGoalCreatorInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtransformspace_rigvmtransformspace",
+      "label": "RigVM Transform Space",
+      "file_type": "code",
+      "source_file": "RigUnit_SetControlTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathintsign_rigunit_mathintsign",
+      "target": "rigvmfunction_mathintsign_rigvmfunction_mathintsign",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleround_rigunit_mathdoubleround",
+      "target": "rigvmfunction_mathdoubleround_rigvmfunction_mathdoubleround",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleRound Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatunaryop_rigunit_mathfloatunaryop",
+      "target": "rigvmfunction_mathfloatunaryop_rigvmfunction_mathfloatunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintabs_rigunit_mathintabs",
+      "target": "rigvmfunction_mathintabs_rigvmfunction_mathintabs",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntAbs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublesub_rigvmfunction_mathdoublesub",
+      "target": "rigvmfunction_mathdoublebinaryop_rigvmfunction_mathdoublebinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "locationvolume_locationvolume",
+      "target": "volume_volume",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LocationVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_timeoffsettransform_rigvmfunction_timeoffsettransform",
+      "target": "rigvmfunction_simbase_rigvmfunction_simbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_TimeOffsetTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_unsetcurvevalue_rigunit_unsetcurvevalue",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_UnsetCurveValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroltransform_rigunit_setcontroltransform",
+      "target": "rigunitmutable_rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorskyatmospheresettings_skycreatorskyatmospheresettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorSkyAtmosphereSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmeshdata_aesmeshdata",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesMeshData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widthparam_widthparam",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WidthParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangephysicalcameranode_interchangephysicalcameranode",
+      "target": "interchangebasenode_interchangebasenode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePhysicalCameraNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendlistbybool_animgraphnode_blendlistbybool",
+      "target": "animgraphnode_blendlistbase_animgraphnode_blendlistbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__BlendListByBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturerendertargetvolume_texturerendertargetvolume",
+      "target": "texturerendertarget_texturerendertarget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureRenderTargetVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onquerywaterentitytileidcompleted_onquerywaterentitytileidcompleted",
+      "target": "multicastdelegatebase_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnQueryWaterEntityTileIdCompleted Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterblueprint_displayclusterblueprint",
+      "target": "blueprint_blueprint",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbandownsamplebp_urbandownsamplebp",
+      "target": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanDownSampleBP Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturecompressionsettings_texturecompressionsettings",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextureCompressionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorutilityblueprintasyncactionbase_editorutilityblueprintasyncactionbase",
+      "target": "blueprintasyncactionbase_blueprintasyncactionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorUtilityBlueprintAsyncActionBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikgoalcreatorinterface_ikgoalcreatorinterface",
+      "target": "interface_interface",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKGoalCreatorInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbandownsamplebp_urbandownsamplebp",
+      "target": "materialinterface_materialinterface",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "UrbanDownSampleBP Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbandownsamplebp_urbandownsamplebp",
+      "target": "linearcolor_linearcolor",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "UrbanDownSampleBP Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_timeoffsettransform_rigvmfunction_timeoffsettransform",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_TimeOffsetTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_unsetcurvevalue_rigunit_unsetcurvevalue",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_UnsetCurveValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroltransform_rigunit_setcontroltransform",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetControlTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroltransform_rigunit_setcontroltransform",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetControlTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroltransform_rigunit_setcontroltransform",
+      "target": "rigvmtransformspace_rigvmtransformspace",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetControlTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikgoalcreatorinterface_ikgoalcreatorinterface",
+      "target": "ikriggoal_ikriggoal",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "IKGoalCreatorInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintsign_rigunit_mathintsign",
+      "target": "rigunit_mathintabs_rigunit_mathintabs",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathIntSign Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleround_rigunit_mathdoubleround",
+      "target": "rigunit_mathfloatunaryop_rigunit_mathfloatunaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathDoubleRound Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoublesub_rigvmfunction_mathdoublesub",
+      "target": "rigvmfunction_timeoffsettransform_rigvmfunction_timeoffsettransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigVMFunction__MathDoubleSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_unsetcurvevalue_rigunit_unsetcurvevalue",
+      "target": "rigunit_setcontroltransform_rigunit_setcontroltransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "RigUnit_UnsetCurveValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorskyatmospheresettings_skycreatorskyatmospheresettings",
+      "target": "texturerendertargetvolume_texturerendertargetvolume",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.60,
+      "source_file": "SkyCreatorSkyAtmosphereSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmeshdata_aesmeshdata",
+      "target": "widthparam_widthparam",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "AesMeshData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onquerywaterentitytileidcompleted_onquerywaterentitytileidcompleted",
+      "target": "aesmeshdata_aesmeshdata",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OnQueryWaterEntityTileIdCompleted Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "locationvolume_locationvolume",
+      "target": "texturerendertargetvolume_texturerendertargetvolume",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "LocationVolume Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texturecompressionsettings_texturecompressionsettings",
+      "target": "texturerendertargetvolume_texturerendertargetvolume",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "TextureCompressionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operation Functions",
+      "nodes": [
+        "rigunit_mathintsign_rigunit_mathintsign",
+        "rigunit_mathdoubleround_rigunit_mathdoubleround",
+        "rigunit_mathfloatunaryop_rigunit_mathfloatunaryop",
+        "rigunit_mathintabs_rigunit_mathintabs",
+        "rigvmfunction_mathdoublesub_rigvmfunction_mathdoublesub"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathIntSign Objects.md"
+    },
+    {
+      "id": "controlrig_mutable_units",
+      "label": "Control Rig Mutable Units",
+      "nodes": [
+        "rigunit_unsetcurvevalue_rigunit_unsetcurvevalue",
+        "rigunit_setcontroltransform_rigunit_setcontroltransform"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.90,
+      "source_file": "RigUnit_UnsetCurveValue Objects.md"
+    },
+    {
+      "id": "aes_struct_types",
+      "label": "AES Plugin Struct Types",
+      "nodes": [
+        "skycreatorskyatmospheresettings_skycreatorskyatmospheresettings",
+        "aesmeshdata_aesmeshdata",
+        "widthparam_widthparam"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "AesMeshData Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

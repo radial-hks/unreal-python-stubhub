@@ -1,0 +1,721 @@
+{
+  "nodes": [
+    {
+      "id": "smartobjectslotshape",
+      "label": "SmartObjectSlotShape",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avataghandle",
+      "label": "AvaTagHandle",
+      "file_type": "document",
+      "source_file": "AvaTagHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createrangesparams",
+      "label": "CreateRangesParams",
+      "file_type": "document",
+      "source_file": "CreateRangesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthselectgrammarcriterion",
+      "label": "EarthSelectGrammarCriterion",
+      "file_type": "document",
+      "source_file": "EarthSelectGrammarCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_lookat",
+      "label": "AnimGraphNode_LookAt",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_LookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfeatureidsettings",
+      "label": "EarthFeatureIdSettings",
+      "file_type": "document",
+      "source_file": "EarthFeatureIdSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitsplinecurvetochainitemarray",
+      "label": "RigUnit_FitSplineCurveToChainItemArray",
+      "file_type": "document",
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenedoublesection",
+      "label": "MovieSceneDoubleSection",
+      "file_type": "document",
+      "source_file": "MovieSceneDoubleSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_oncontrolselectedbp",
+      "label": "ControlRig_OnControlSelectedBP",
+      "file_type": "document",
+      "source_file": "ControlRig__OnControlSelectedBP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatlawofcosine",
+      "label": "RigUnit_MathFloatLawOfCosine",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatLawOfCosine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformfromsrt",
+      "label": "RigVMFunction_MathTransformFromSRT",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringlength",
+      "label": "RigUnit_StringLength",
+      "file_type": "document",
+      "source_file": "RigUnit_StringLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "AvaTagHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rangestyle",
+      "label": "RangeStyle",
+      "file_type": "document",
+      "source_file": "CreateRangesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthselectgrammarcomparator",
+      "label": "EarthSelectGrammarComparator",
+      "file_type": "document",
+      "source_file": "EarthSelectGrammarCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_skeletalcontrolbase",
+      "label": "AnimGraphNode_SkeletalControlBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_LookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_lookat",
+      "label": "AnimNode_LookAt",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_LookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthlayersettingsbase",
+      "label": "EarthLayerSettingsBase",
+      "file_type": "document",
+      "source_file": "EarthFeatureIdSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigspline",
+      "label": "ControlRigSpline",
+      "file_type": "document",
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenesection",
+      "label": "MovieSceneSection",
+      "file_type": "document",
+      "source_file": "MovieSceneDoubleSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "ControlRig__OnControlSelectedBP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatlawofcosine",
+      "label": "RigVMFunction_MathFloatLawOfCosine",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatLawOfCosine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbase",
+      "label": "RigVMFunction_MathTransformBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringlength",
+      "label": "RigVMFunction_StringLength",
+      "file_type": "document",
+      "source_file": "RigUnit_StringLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjects_plugin",
+      "label": "SmartObjects Plugin",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin",
+      "label": "Avalanche Plugin",
+      "file_type": "document",
+      "source_file": "AvaTagHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "CreateRangesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthSelectGrammarCriterion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "ControlRig__OnControlSelectedBP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "smartobjectslotshape",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotShape Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avataghandle",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTagHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createrangesparams",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateRangesParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createrangesparams",
+      "target": "rangestyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateRangesParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthselectgrammarcriterion",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSelectGrammarCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthselectgrammarcriterion",
+      "target": "earthselectgrammarcomparator",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSelectGrammarCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_lookat",
+      "target": "animgraphnode_skeletalcontrolbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_LookAt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_lookat",
+      "target": "animnode_lookat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_LookAt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfeatureidsettings",
+      "target": "earthlayersettingsbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFeatureIdSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "controlrigspline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "rigelementkey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenedoublesection",
+      "target": "moviescenesection",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneDoubleSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrig_oncontrolselectedbp",
+      "target": "multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRig__OnControlSelectedBP Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatlawofcosine",
+      "target": "rigvmfunction_mathfloatlawofcosine",
+      "relation": "deprecated_renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatLawOfCosine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformfromsrt",
+      "target": "rigvmfunction_mathtransformbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringlength",
+      "target": "rigvmfunction_stringlength",
+      "relation": "deprecated_renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StringLength Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotshape",
+      "target": "smartobjects_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotShape Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avataghandle",
+      "target": "avalanche_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTagHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createrangesparams",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateRangesParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthselectgrammarcriterion",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthSelectGrammarCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfeatureidsettings",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFeatureIdSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrig_oncontrolselectedbp",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRig__OnControlSelectedBP Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformfromsrt",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatlawofcosine",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__MathFloatLawOfCosine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringlength",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_StringLength Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitsplinecurvetochainitemarray",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_FitSplineCurveToChainItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthselectgrammarcriterion",
+      "target": "earthfeatureidsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthSelectGrammarCriterion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatlawofcosine",
+      "target": "rigvmfunction_mathtransformfromsrt",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__MathFloatLawOfCosine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigvm_units",
+      "label": "Deprecated RigVM Units",
+      "nodes": [
+        "rigunit_mathfloatlawofcosine",
+        "rigunit_stringlength"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit__MathFloatLawOfCosine Objects.md"
+    },
+    {
+      "id": "aesworld_earth_terrain_system",
+      "label": "AesWorld Earth Terrain System",
+      "nodes": [
+        "earthselectgrammarcriterion",
+        "earthfeatureidsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EarthSelectGrammarCriterion Objects.md"
+    },
+    {
+      "id": "controlrig_animation_system",
+      "label": "ControlRig Animation System",
+      "nodes": [
+        "controlrig_oncontrolselectedbp",
+        "rigunit_fitsplinecurvetochainitemarray",
+        "animgraphnode_lookat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ControlRig__OnControlSelectedBP Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

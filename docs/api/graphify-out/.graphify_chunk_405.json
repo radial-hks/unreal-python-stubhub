@@ -1,0 +1,471 @@
+{
+  "nodes": [
+    {
+      "id": "fbxskeletalmeshimportdata_class",
+      "label": "FbxSkeletalMeshImportData",
+      "file_type": "document",
+      "source_file": "FbxSkeletalMeshImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_addoptimusdeformer_class",
+      "label": "RigUnit_AddOptimusDeformer",
+      "file_type": "document",
+      "source_file": "RigUnit__AddOptimusDeformer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworldterrainbuilderlayer_class",
+      "label": "AesWorldTerrainBuilderLayer",
+      "file_type": "document",
+      "source_file": "AesWorldTerrainBuilderLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptappendmeshoptions_class",
+      "label": "GeometryScriptAppendMeshOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptAppendMeshOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributeselectsettings_class",
+      "label": "PCGAttributeSelectSettings",
+      "file_type": "document",
+      "source_file": "PCGAttributeSelectSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilityactivationinfo_class",
+      "label": "GameplayAbilityActivationInfo",
+      "file_type": "document",
+      "source_file": "GameplayAbilityActivationInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vfplayerobject_onvideoloadeddelegate_class",
+      "label": "VFPlayerObject_OnVideoLoadedDelegate",
+      "file_type": "document",
+      "source_file": "VFPlayerObject__OnVideoLoadedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacegrid3dcollectionreader_class",
+      "label": "NiagaraDataInterfaceGrid3DCollectionReader",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceGrid3DCollectionReader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_forcefeedbackinfo_class",
+      "label": "GameplayCueNotify_ForceFeedbackInfo",
+      "file_type": "document",
+      "source_file": "GameplayCueNotify__ForceFeedbackInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_gettransformanimationchannel_class",
+      "label": "RigUnit_GetTransformAnimationChannel",
+      "file_type": "document",
+      "source_file": "RigUnit_GetTransformAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcptransformanchordata_class",
+      "label": "DCPTransformAnchorData",
+      "file_type": "document",
+      "source_file": "DCPTransformAnchorData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialnodegetparams_class",
+      "label": "DCPMaterialNodeGetParams",
+      "file_type": "document",
+      "source_file": "DCPMaterialNodeGetParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugpointmutable_class",
+      "label": "RigVMFunction_DebugPointMutable",
+      "file_type": "document",
+      "source_file": "RigVMFunction__DebugPointMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_shapeexists_class",
+      "label": "RigUnit_ShapeExists",
+      "file_type": "document",
+      "source_file": "RigUnit__ShapeExists Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasound_class",
+      "label": "MetaSound",
+      "file_type": "document",
+      "source_file": "MetaSound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointvalueatom_data_class",
+      "label": "PointValueAtom_Data",
+      "file_type": "document",
+      "source_file": "PointValueAtom__Data Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenegeometrycollectionsection_class",
+      "label": "MovieSceneGeometryCollectionSection",
+      "file_type": "document",
+      "source_file": "MovieSceneGeometryCollectionSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnactionresult_class",
+      "label": "PawnActionResult",
+      "file_type": "document",
+      "source_file": "PawnActionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "activegameplayeffectquerycustommatch_dynamic_class",
+      "label": "ActiveGameplayEffectQueryCustomMatch_Dynamic",
+      "file_type": "document",
+      "source_file": "ActiveGameplayEffectQueryCustomMatch__Dynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameinstancesubsystem_class",
+      "label": "GameInstanceSubsystem",
+      "file_type": "document",
+      "source_file": "GameInstanceSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpathfindingcostfunctionmode_class",
+      "label": "PCGPathfindingCostFunctionMode",
+      "file_type": "document",
+      "source_file": "PCGPathfindingCostFunctionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthbuildertype_class",
+      "label": "EarthBuilderType",
+      "file_type": "document",
+      "source_file": "EarthBuilderType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_addoptimusdeformer_class",
+      "target": "rigunit_gettransformanimationchannel_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__AddOptimusDeformer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_addoptimusdeformer_class",
+      "target": "rigunit_shapeexists_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__AddOptimusDeformer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_addoptimusdeformer_class",
+      "target": "rigvmfunction_debugpointmutable_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__AddOptimusDeformer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_gettransformanimationchannel_class",
+      "target": "rigunit_shapeexists_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_GetTransformAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_gettransformanimationchannel_class",
+      "target": "rigvmfunction_debugpointmutable_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_GetTransformAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_shapeexists_class",
+      "target": "rigvmfunction_debugpointmutable_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ShapeExists Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcptransformanchordata_class",
+      "target": "dcpmaterialnodegetparams_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "DCPTransformAnchorData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilityactivationinfo_class",
+      "target": "gameplaycuenotify_forcefeedbackinfo_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "GameplayAbilityActivationInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilityactivationinfo_class",
+      "target": "activegameplayeffectquerycustommatch_dynamic_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "GameplayAbilityActivationInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplaycuenotify_forcefeedbackinfo_class",
+      "target": "activegameplayeffectquerycustommatch_dynamic_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "GameplayCueNotify__ForceFeedbackInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributeselectsettings_class",
+      "target": "pcgpathfindingcostfunctionmode_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": "PCGAttributeSelectSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptappendmeshoptions_class",
+      "target": "moviescenegeometrycollectionsection_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "GeometryScriptAppendMeshOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fbxskeletalmeshimportdata_class",
+      "target": "geometryscriptappendmeshoptions_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "FbxSkeletalMeshImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesworldterrainbuilderlayer_class",
+      "target": "earthbuildertype_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesWorldTerrainBuilderLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointvalueatom_data_class",
+      "target": "gameplayabilityactivationinfo_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PointValueAtom__Data Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasound_class",
+      "target": "niagaradatainterfacegrid3dcollectionreader_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "MetaSound Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameinstancesubsystem_class",
+      "target": "gameplayabilityactivationinfo_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.70,
+      "source_file": "GameInstanceSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnactionresult_class",
+      "target": "gameplayabilityactivationinfo_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "PawnActionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_system_classes",
+      "label": "ControlRig System Classes",
+      "nodes": [
+        "rigunit_addoptimusdeformer_class",
+        "rigunit_gettransformanimationchannel_class",
+        "rigunit_shapeexists_class",
+        "rigvmfunction_debugpointmutable_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "RigUnit__AddOptimusDeformer Objects.md"
+    },
+    {
+      "id": "gameplayabilities_system_classes",
+      "label": "GameplayAbilities System Classes",
+      "nodes": [
+        "gameplayabilityactivationinfo_class",
+        "gameplaycuenotify_forcefeedbackinfo_class",
+        "activegameplayeffectquerycustommatch_dynamic_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameplayAbilityActivationInfo Objects.md"
+    },
+    {
+      "id": "dcp_system_classes",
+      "label": "DCP System Classes",
+      "nodes": [
+        "dcptransformanchordata_class",
+        "dcpmaterialnodegetparams_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "DCPTransformAnchorData Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

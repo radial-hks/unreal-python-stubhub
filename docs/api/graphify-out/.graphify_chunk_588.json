@@ -1,0 +1,1957 @@
+{
+  "nodes": [
+    {
+      "id": "MovieScenePropertyTrackRecorder",
+      "type": "class",
+      "label": "MovieScenePropertyTrackRecorder",
+      "description": "Movie Scene Property Track Recorder",
+      "module": "TakeTrackRecorders",
+      "plugin": "Takes",
+      "file": "MovieScenePropertyTrackRecorder.h"
+    },
+    {
+      "id": "MovieSceneTrackRecorder",
+      "type": "class",
+      "label": "MovieSceneTrackRecorder",
+      "description": "Base class for track recorders"
+    },
+    {
+      "id": "OnsetNRTSettings",
+      "type": "class",
+      "label": "OnsetNRTSettings",
+      "description": "Settings for a UOnsetNRT analyzer",
+      "module": "AudioSynesthesia",
+      "plugin": "AudioSynesthesia",
+      "file": "OnsetNRT.h"
+    },
+    {
+      "id": "AudioSynesthesiaNRTSettings",
+      "type": "class",
+      "label": "AudioSynesthesiaNRTSettings",
+      "description": "Base class for audio synesthesia settings"
+    },
+    {
+      "id": "AvaTextField",
+      "type": "class",
+      "label": "AvaTextField",
+      "description": "Ava Text Field",
+      "module": "AvalancheText",
+      "plugin": "Avalanche",
+      "file": "AvaTextDefs.h"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase",
+      "description": "Base structure class"
+    },
+    {
+      "id": "MaterialFunctionMaterialLayerInstance",
+      "type": "class",
+      "label": "MaterialFunctionMaterialLayerInstance",
+      "description": "Specialized Material Function Instance that instances a layer",
+      "module": "Engine",
+      "file": "MaterialFunctionMaterialLayer.h"
+    },
+    {
+      "id": "MaterialFunctionInstance",
+      "type": "class",
+      "label": "MaterialFunctionInstance",
+      "description": "Base material function instance"
+    },
+    {
+      "id": "RigVMParserASTSettings",
+      "type": "class",
+      "label": "RigVMParserASTSettings",
+      "description": "The settings to apply during the parse of the abstract syntax tree",
+      "module": "RigVMDeveloper",
+      "plugin": "RigVM",
+      "file": "RigVMAST.h"
+    },
+    {
+      "id": "CameraProjectionMode",
+      "type": "enum",
+      "label": "CameraProjectionMode",
+      "description": "Camera projection mode enumeration",
+      "module": "Engine",
+      "file": "CameraTypes.h"
+    },
+    {
+      "id": "CameraProjectionMode.PERSPECTIVE",
+      "type": "enum_value",
+      "label": "PERSPECTIVE",
+      "value": 0
+    },
+    {
+      "id": "CameraProjectionMode.ORTHOGRAPHIC",
+      "type": "enum_value",
+      "label": "ORTHOGRAPHIC",
+      "value": 1
+    },
+    {
+      "id": "MoveAlongPathEntityAtom",
+      "type": "class",
+      "label": "MoveAlongPathEntityAtom",
+      "description": "Move Along Path Entity Atom",
+      "module": "CoveringAPIEntity",
+      "plugin": "CoveringAPI",
+      "file": "MoveAlongPathEntityAtom.h"
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "class",
+      "label": "EntityAtomBase",
+      "description": "Base class for entity atoms"
+    },
+    {
+      "id": "EntityChildrenAtom",
+      "type": "class",
+      "label": "EntityChildrenAtom",
+      "description": "Entity Children Atom",
+      "module": "WdpDataModel",
+      "plugin": "AesRuntimeCore",
+      "file": "EntityChildrenAtom.h"
+    },
+    {
+      "id": "AutomatedAssetImportData",
+      "type": "class",
+      "label": "AutomatedAssetImportData",
+      "description": "Contains data for a group of assets to import",
+      "module": "UnrealEd",
+      "file": "AutomatedAssetImportData.h"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object",
+      "description": "Base object class"
+    },
+    {
+      "id": "PoseDriverTransform",
+      "type": "class",
+      "label": "PoseDriverTransform",
+      "description": "Translation and rotation for a particular bone at a particular target",
+      "module": "AnimGraphRuntime",
+      "file": "AnimNode_PoseDriver.h"
+    },
+    {
+      "id": "MovieSceneLevelVisibilitySection",
+      "type": "class",
+      "label": "MovieSceneLevelVisibilitySection",
+      "description": "A section for use with the movie scene level visibility track",
+      "module": "MovieSceneTracks",
+      "file": "MovieSceneLevelVisibilitySection.h"
+    },
+    {
+      "id": "MovieSceneSection",
+      "type": "class",
+      "label": "MovieSceneSection",
+      "description": "Base class for movie scene sections"
+    },
+    {
+      "id": "ActorEndTouchOverSignature",
+      "type": "class",
+      "label": "ActorEndTouchOverSignature",
+      "description": "Actor End Touch Over Signature Delegate",
+      "module": "Engine",
+      "file": "Actor.h"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "GroomLODMode",
+      "type": "enum",
+      "label": "GroomLODMode",
+      "description": "EGroom LODMode",
+      "module": "HairStrandsCore",
+      "plugin": "HairStrands",
+      "file": "GroomAssetInterpolation.h"
+    },
+    {
+      "id": "GroomLODMode.DEFAULT",
+      "type": "enum_value",
+      "label": "DEFAULT",
+      "value": 0,
+      "description": "Hair strands curves & points adapt based on project settings LOD mode"
+    },
+    {
+      "id": "GroomLODMode.MANUAL",
+      "type": "enum_value",
+      "label": "MANUAL",
+      "value": 1,
+      "description": "Hair strands curves & points adapt based on LOD settings"
+    },
+    {
+      "id": "GroomLODMode.AUTO",
+      "type": "enum_value",
+      "label": "AUTO",
+      "value": 2,
+      "description": "Hair strands curves & points automatically adapt based on screen coverage"
+    },
+    {
+      "id": "MaterialExpressionRuntimeVirtualTextureReplace",
+      "type": "class",
+      "label": "MaterialExpressionRuntimeVirtualTextureReplace",
+      "description": "Material output expression to switch logic for runtime virtual texture pages",
+      "module": "Engine",
+      "file": "MaterialExpressionRuntimeVirtualTextureReplace.h"
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression",
+      "description": "Base class for material expressions"
+    },
+    {
+      "id": "RoundPlanetPawn",
+      "type": "class",
+      "label": "RoundPlanetPawn",
+      "description": "Pawn for moving around the globe while maintaining sensible orientation",
+      "module": "GeoReferencing",
+      "plugin": "GeoReferencing",
+      "file": "RoundPlanetPawn.h"
+    },
+    {
+      "id": "DefaultPawn",
+      "type": "class",
+      "label": "DefaultPawn",
+      "description": "Base default pawn class"
+    },
+    {
+      "id": "PCGCollapsePointsSettings",
+      "type": "class",
+      "label": "PCGCollapsePointsSettings",
+      "description": "Collapses (decimates) points on a closest-point basis",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGCollapsePoints.h"
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "label": "PCGSettings",
+      "description": "Base class for PCG settings"
+    },
+    {
+      "id": "RigUnit_VisualDebugVector",
+      "type": "class",
+      "label": "RigUnit_VisualDebugVector",
+      "description": "Rig Unit Visual Debug Vector",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_VisualDebug.h"
+    },
+    {
+      "id": "RigUnit_DebugBase",
+      "type": "class",
+      "label": "RigUnit_DebugBase",
+      "description": "Base class for rig debug units"
+    },
+    {
+      "id": "SmartObjectCollectionEntry",
+      "type": "class",
+      "label": "SmartObjectCollectionEntry",
+      "description": "Struct representing a unique registered component in the collection actor",
+      "module": "SmartObjectsModule",
+      "plugin": "SmartObjects",
+      "file": "SmartObjectPersistentCollection.h"
+    },
+    {
+      "id": "MovieSceneCVarSection",
+      "type": "class",
+      "label": "MovieSceneCVarSection",
+      "description": "A CVar section responsible for applying console variable values",
+      "module": "MovieSceneTracks",
+      "file": "MovieSceneCVarSection.h"
+    },
+    {
+      "id": "WdpModelerRegionResult",
+      "type": "class",
+      "label": "WdpModelerRegionResult",
+      "description": "Wdp Modeler Region Result",
+      "module": "RuntimeModelerAPI",
+      "plugin": "AesRuntimeModeler",
+      "file": "WdpModelerAPI.h"
+    },
+    {
+      "id": "EidResult",
+      "type": "class",
+      "label": "EidResult",
+      "description": "Base class for EID results"
+    },
+    {
+      "id": "PCGAttributePropertySelector",
+      "type": "class",
+      "label": "PCGAttributePropertySelector",
+      "description": "Blueprint class to select an attribute or property",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGAttributePropertySelector.h"
+    },
+    {
+      "id": "ComponentSync",
+      "type": "class",
+      "label": "ComponentSync",
+      "description": "Component Sync",
+      "module": "Engine",
+      "file": "LODSyncComponent.h"
+    },
+    {
+      "id": "downmix_to_mono",
+      "type": "property",
+      "label": "downmix_to_mono",
+      "data_type": "bool",
+      "description": "If true, multichannel audio is downmixed to mono"
+    },
+    {
+      "id": "granularity_in_seconds",
+      "type": "property",
+      "label": "granularity_in_seconds",
+      "data_type": "float",
+      "description": "Onset timestamp granularity"
+    },
+    {
+      "id": "sensitivity",
+      "type": "property",
+      "label": "sensitivity",
+      "data_type": "float",
+      "description": "Sensitivity of onset detector"
+    },
+    {
+      "id": "minimum_frequency",
+      "type": "property",
+      "label": "minimum_frequency",
+      "data_type": "float",
+      "description": "Starting frequency for onset analysis"
+    },
+    {
+      "id": "maximum_frequency",
+      "type": "property",
+      "label": "maximum_frequency",
+      "data_type": "float",
+      "description": "Ending frequency for onset analysis"
+    },
+    {
+      "id": "text",
+      "type": "property",
+      "label": "text",
+      "data_type": "Text",
+      "description": "Text content"
+    },
+    {
+      "id": "maximum_length",
+      "type": "property",
+      "label": "maximum_length",
+      "data_type": "AvaTextLength",
+      "description": "Maximum text length"
+    },
+    {
+      "id": "count",
+      "type": "property",
+      "label": "count",
+      "data_type": "int32",
+      "description": "Count"
+    },
+    {
+      "id": "text_case",
+      "type": "property",
+      "label": "text_case",
+      "data_type": "AvaTextCase",
+      "description": "Text case"
+    },
+    {
+      "id": "parent",
+      "type": "property",
+      "label": "parent",
+      "data_type": "MaterialFunctionInterface",
+      "description": "Parent function"
+    },
+    {
+      "id": "double_vector_parameter_values",
+      "type": "property",
+      "label": "double_vector_parameter_values",
+      "data_type": "Array[DoubleVectorParameterValue]",
+      "description": "DoubleVector parameters"
+    },
+    {
+      "id": "scalar_parameter_values",
+      "type": "property",
+      "label": "scalar_parameter_values",
+      "data_type": "Array[ScalarParameterValue]",
+      "description": "Scalar parameters"
+    },
+    {
+      "id": "vector_parameter_values",
+      "type": "property",
+      "label": "vector_parameter_values",
+      "data_type": "Array[VectorParameterValue]",
+      "description": "Vector parameters"
+    },
+    {
+      "id": "texture_parameter_values",
+      "type": "property",
+      "label": "texture_parameter_values",
+      "data_type": "Array[TextureParameterValue]",
+      "description": "Texture parameters"
+    },
+    {
+      "id": "fold_assignments",
+      "type": "property",
+      "label": "fold_assignments",
+      "data_type": "bool",
+      "description": "fold assignments / copies"
+    },
+    {
+      "id": "fold_literals",
+      "type": "property",
+      "label": "fold_literals",
+      "data_type": "bool",
+      "description": "fold literals and share memory"
+    },
+    {
+      "id": "setup_traits",
+      "type": "property",
+      "label": "setup_traits",
+      "data_type": "bool",
+      "description": "Setup traits"
+    },
+    {
+      "id": "execute_context_struct",
+      "type": "property",
+      "label": "execute_context_struct",
+      "data_type": "ScriptStruct",
+      "description": "Execute context struct"
+    },
+    {
+      "id": "moving_eid",
+      "type": "property",
+      "label": "moving_eid",
+      "data_type": "int64",
+      "description": "Moving entity ID"
+    },
+    {
+      "id": "path_eid",
+      "type": "property",
+      "label": "path_eid",
+      "data_type": "int64",
+      "description": "Path entity ID"
+    },
+    {
+      "id": "time",
+      "type": "property",
+      "label": "time",
+      "data_type": "float",
+      "description": "Time"
+    },
+    {
+      "id": "loop",
+      "type": "property",
+      "label": "loop",
+      "data_type": "bool",
+      "description": "Loop"
+    },
+    {
+      "id": "reverse",
+      "type": "property",
+      "label": "reverse",
+      "data_type": "bool",
+      "description": "Reverse"
+    },
+    {
+      "id": "offset",
+      "type": "property",
+      "label": "offset",
+      "data_type": "MoveAlongOffset_Atom",
+      "description": "Offset"
+    },
+    {
+      "id": "rotator",
+      "type": "property",
+      "label": "rotator",
+      "data_type": "Rotator",
+      "description": "Rotator"
+    },
+    {
+      "id": "state",
+      "type": "property",
+      "label": "state",
+      "data_type": "str",
+      "description": "State"
+    },
+    {
+      "id": "path_update_points",
+      "type": "property",
+      "label": "path_update_points",
+      "data_type": "Array[Vector]",
+      "description": "Path update points"
+    },
+    {
+      "id": "children_eids",
+      "type": "property",
+      "label": "children_eids",
+      "data_type": "Array[int64]",
+      "description": "Children entity IDs"
+    },
+    {
+      "id": "destination_path",
+      "type": "property",
+      "label": "destination_path",
+      "data_type": "str",
+      "description": "Content path where assets will be imported"
+    },
+    {
+      "id": "filenames",
+      "type": "property",
+      "label": "filenames",
+      "data_type": "Array[str]",
+      "description": "Filenames to import"
+    },
+    {
+      "id": "factory",
+      "type": "property",
+      "label": "factory",
+      "data_type": "Factory",
+      "description": "Factory currently being used"
+    },
+    {
+      "id": "factory_name",
+      "type": "property",
+      "label": "factory_name",
+      "data_type": "str",
+      "description": "Name of the factory to use"
+    },
+    {
+      "id": "replace_existing",
+      "type": "property",
+      "label": "replace_existing",
+      "data_type": "bool",
+      "description": "Whether or not to replace existing assets"
+    },
+    {
+      "id": "skip_read_only",
+      "type": "property",
+      "label": "skip_read_only",
+      "data_type": "bool",
+      "description": "Whether to skip importing over read only assets"
+    },
+    {
+      "id": "group_name",
+      "type": "property",
+      "label": "group_name",
+      "data_type": "str",
+      "description": "Display name of the group"
+    },
+    {
+      "id": "level_to_load",
+      "type": "property",
+      "label": "level_to_load",
+      "data_type": "str",
+      "description": "Full path to level to load before importing"
+    },
+    {
+      "id": "target_rotation",
+      "type": "property",
+      "label": "target_rotation",
+      "data_type": "Rotator",
+      "description": "Rotation of this target"
+    },
+    {
+      "id": "target_translation",
+      "type": "property",
+      "label": "target_translation",
+      "data_type": "Vector",
+      "description": "Translation of this target"
+    },
+    {
+      "id": "level_names",
+      "type": "property",
+      "label": "level_names",
+      "data_type": "Array[Name]",
+      "description": "The short names of the levels controlled by this section"
+    },
+    {
+      "id": "visibility",
+      "type": "property",
+      "label": "visibility",
+      "data_type": "LevelVisibility",
+      "description": "Whether levels should be visible or hidden"
+    },
+    {
+      "id": "console_variables",
+      "type": "property",
+      "label": "console_variables",
+      "data_type": "MovieSceneCVarOverrides",
+      "description": "Console variable name and value"
+    },
+    {
+      "id": "console_variable_collections",
+      "type": "property",
+      "label": "console_variable_collections",
+      "data_type": "Array[MovieSceneConsoleVariableCollection]",
+      "description": "Array of console variable preset assets"
+    },
+    {
+      "id": "orbital_motion",
+      "type": "property",
+      "label": "orbital_motion",
+      "data_type": "bool",
+      "description": "If True, motion is relative to Planet tangent"
+    },
+    {
+      "id": "base_speed_kmh",
+      "type": "property",
+      "label": "base_speed_kmh",
+      "data_type": "float",
+      "description": "Reference maximum speed for the pawn"
+    },
+    {
+      "id": "speed_scalar",
+      "type": "property",
+      "label": "speed_scalar",
+      "data_type": "float",
+      "description": "Scalar modifier for the base speed"
+    },
+    {
+      "id": "speed_scalar_increment",
+      "type": "property",
+      "label": "speed_scalar_increment",
+      "data_type": "float",
+      "description": "Multiplier/Divider for increasing/decreasing speed scalar"
+    },
+    {
+      "id": "hat",
+      "type": "property",
+      "label": "hat",
+      "data_type": "float",
+      "description": "Height Above Terrain"
+    },
+    {
+      "id": "altitude",
+      "type": "property",
+      "label": "altitude",
+      "data_type": "float",
+      "description": "Distance between geographic ellipsoid surface and pawn"
+    },
+    {
+      "id": "maximum_altitude_curve",
+      "type": "property",
+      "label": "maximum_altitude_curve",
+      "data_type": "CurveFloat",
+      "description": "Curve to pick up reference maximum altitude when flying"
+    },
+    {
+      "id": "altitude_profile_curve",
+      "type": "property",
+      "label": "altitude_profile_curve",
+      "data_type": "CurveFloat",
+      "description": "Curve for altitude percentage during flight"
+    },
+    {
+      "id": "progress_curve",
+      "type": "property",
+      "label": "progress_curve",
+      "data_type": "CurveFloat",
+      "description": "Curve for easing Fly to Location speed"
+    },
+    {
+      "id": "fly_duration",
+      "type": "property",
+      "label": "fly_duration",
+      "data_type": "float",
+      "description": "Fly to Location duration in seconds"
+    },
+    {
+      "id": "granularity_degrees",
+      "type": "property",
+      "label": "granularity_degrees",
+      "data_type": "float",
+      "description": "Granularity in degrees for keypoints generation"
+    },
+    {
+      "id": "distance_threshold",
+      "type": "property",
+      "label": "distance_threshold",
+      "data_type": "double",
+      "description": "Distance at which we will stop collapsing points"
+    },
+    {
+      "id": "mode",
+      "type": "property",
+      "label": "mode",
+      "data_type": "PCGCollapseMode",
+      "description": "Collapse mode"
+    },
+    {
+      "id": "comparison_mode",
+      "type": "property",
+      "label": "comparison_mode",
+      "data_type": "PCGCollapseComparisonMode",
+      "description": "Comparison mode"
+    },
+    {
+      "id": "visit_order",
+      "type": "property",
+      "label": "visit_order",
+      "data_type": "PCGCollapseVisitOrder",
+      "description": "Order in which we will collapse points"
+    },
+    {
+      "id": "value",
+      "type": "property",
+      "label": "value",
+      "data_type": "Vector",
+      "description": "Vector value"
+    },
+    {
+      "id": "enabled",
+      "type": "property",
+      "label": "enabled",
+      "data_type": "bool",
+      "description": "Enabled"
+    },
+    {
+      "id": "color",
+      "type": "property",
+      "label": "color",
+      "data_type": "LinearColor",
+      "description": "Color"
+    },
+    {
+      "id": "thickness",
+      "type": "property",
+      "label": "thickness",
+      "data_type": "float",
+      "description": "Thickness"
+    },
+    {
+      "id": "scale",
+      "type": "property",
+      "label": "scale",
+      "data_type": "float",
+      "description": "Scale"
+    },
+    {
+      "id": "bone_space",
+      "type": "property",
+      "label": "bone_space",
+      "data_type": "Name",
+      "description": "Bone space"
+    },
+    {
+      "id": "handle",
+      "type": "property",
+      "label": "handle",
+      "data_type": "SmartObjectHandle",
+      "description": "Smart object handle"
+    },
+    {
+      "id": "tags",
+      "type": "property",
+      "label": "tags",
+      "data_type": "GameplayTagContainer",
+      "description": "Tags"
+    },
+    {
+      "id": "definition_idx",
+      "type": "property",
+      "label": "definition_idx",
+      "data_type": "uint32",
+      "description": "Definition index"
+    },
+    {
+      "id": "message",
+      "type": "property",
+      "label": "message",
+      "data_type": "str",
+      "description": "Message"
+    },
+    {
+      "id": "scene_change_info",
+      "type": "property",
+      "label": "scene_change_info",
+      "data_type": "WdpSceneChangeInfo",
+      "description": "Scene change info"
+    },
+    {
+      "id": "success",
+      "type": "property",
+      "label": "success",
+      "data_type": "bool",
+      "description": "Success"
+    },
+    {
+      "id": "name",
+      "type": "property",
+      "label": "name",
+      "data_type": "Name",
+      "description": "Name"
+    },
+    {
+      "id": "sync_option",
+      "type": "property",
+      "label": "sync_option",
+      "data_type": "SyncOption",
+      "description": "Sync option"
+    },
+    {
+      "id": "fly_to_location_latitude_longitude_altitude",
+      "type": "method",
+      "label": "fly_to_location_latitude_longitude_altitude",
+      "description": "Begin smooth camera flight to latitude/longitude destination"
+    },
+    {
+      "id": "fly_to_location_geographic",
+      "type": "method",
+      "label": "fly_to_location_geographic",
+      "description": "Begin smooth camera flight to geographic destination"
+    },
+    {
+      "id": "fly_to_location_ecef",
+      "type": "method",
+      "label": "fly_to_location_ecef",
+      "description": "Begin smooth camera flight to ECEF destination"
+    },
+    {
+      "id": "interrupt_fly_to_location",
+      "type": "method",
+      "label": "interrupt_fly_to_location",
+      "description": "Stop the current Fly To Location motion"
+    },
+    {
+      "id": "increase_speed_scalar",
+      "type": "method",
+      "label": "increase_speed_scalar",
+      "description": "Increase the Speed Scalar"
+    },
+    {
+      "id": "decrease_speed_scalar",
+      "type": "method",
+      "label": "decrease_speed_scalar",
+      "description": "Decrease the Speed Scalar"
+    },
+    {
+      "id": "reset_speed_scalar",
+      "type": "method",
+      "label": "reset_speed_scalar",
+      "description": "Reset the Speed Scalar to default value"
+    },
+    {
+      "id": "set_visibility",
+      "type": "method",
+      "label": "set_visibility",
+      "description": "Set Visibility"
+    },
+    {
+      "id": "get_visibility",
+      "type": "method",
+      "label": "get_visibility",
+      "description": "Get Visibility"
+    },
+    {
+      "id": "set_level_names",
+      "type": "method",
+      "label": "set_level_names",
+      "description": "Set Level Names"
+    },
+    {
+      "id": "get_level_names",
+      "type": "method",
+      "label": "get_level_names",
+      "description": "Get Level Names"
+    },
+    {
+      "id": "set_time",
+      "type": "method",
+      "label": "set_time",
+      "description": "Set Time"
+    },
+    {
+      "id": "set_path_eid",
+      "type": "method",
+      "label": "set_path_eid",
+      "description": "Set Path EID"
+    },
+    {
+      "id": "set_moving_eid",
+      "type": "method",
+      "label": "set_moving_eid",
+      "description": "Set Moving EID"
+    },
+    {
+      "id": "setb_reverse",
+      "type": "method",
+      "label": "setb_reverse",
+      "description": "Set Reverse"
+    },
+    {
+      "id": "setb_loop",
+      "type": "method",
+      "label": "setb_loop",
+      "description": "Set Loop"
+    },
+    {
+      "id": "remove_items",
+      "type": "method",
+      "label": "remove_items",
+      "description": "Remove Items"
+    },
+    {
+      "id": "set_from_string",
+      "type": "method",
+      "label": "set_from_string",
+      "description": "Set from String"
+    },
+    {
+      "id": "get_string",
+      "type": "method",
+      "label": "get_string",
+      "description": "Get String"
+    },
+    {
+      "id": "set_point_property",
+      "type": "method",
+      "label": "set_point_property",
+      "description": "Set Point Property"
+    },
+    {
+      "id": "set_extra_property",
+      "type": "method",
+      "label": "set_extra_property",
+      "description": "Set Extra Property"
+    },
+    {
+      "id": "set_attribute_name",
+      "type": "method",
+      "label": "set_attribute_name",
+      "description": "Set Attribute Name"
+    },
+    {
+      "id": "get_selection",
+      "type": "method",
+      "label": "get_selection",
+      "description": "Get Selection"
+    },
+    {
+      "id": "get_point_property",
+      "type": "method",
+      "label": "get_point_property",
+      "description": "Get Point Property"
+    },
+    {
+      "id": "get_name",
+      "type": "method",
+      "label": "get_name",
+      "description": "Get Name"
+    },
+    {
+      "id": "get_extra_property",
+      "type": "method",
+      "label": "get_extra_property",
+      "description": "Get Extra Property"
+    },
+    {
+      "id": "get_extra_names",
+      "type": "method",
+      "label": "get_extra_names",
+      "description": "Get Extra Names"
+    },
+    {
+      "id": "get_attribute_name",
+      "type": "method",
+      "label": "get_attribute_name",
+      "description": "Get Attribute Name"
+    }
+  ],
+  "edges": [
+    {
+      "source": "MovieScenePropertyTrackRecorder",
+      "target": "MovieSceneTrackRecorder",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "OnsetNRTSettings",
+      "target": "AudioSynesthesiaNRTSettings",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "OnsetNRTSettings",
+      "target": "downmix_to_mono",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "OnsetNRTSettings",
+      "target": "granularity_in_seconds",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "OnsetNRTSettings",
+      "target": "sensitivity",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "OnsetNRTSettings",
+      "target": "minimum_frequency",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "OnsetNRTSettings",
+      "target": "maximum_frequency",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AvaTextField",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AvaTextField",
+      "target": "text",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AvaTextField",
+      "target": "maximum_length",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AvaTextField",
+      "target": "count",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AvaTextField",
+      "target": "text_case",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialFunctionMaterialLayerInstance",
+      "target": "MaterialFunctionInstance",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialFunctionMaterialLayerInstance",
+      "target": "parent",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialFunctionMaterialLayerInstance",
+      "target": "double_vector_parameter_values",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialFunctionMaterialLayerInstance",
+      "target": "scalar_parameter_values",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialFunctionMaterialLayerInstance",
+      "target": "vector_parameter_values",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MaterialFunctionMaterialLayerInstance",
+      "target": "texture_parameter_values",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMParserASTSettings",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigVMParserASTSettings",
+      "target": "fold_assignments",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMParserASTSettings",
+      "target": "fold_literals",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMParserASTSettings",
+      "target": "setup_traits",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMParserASTSettings",
+      "target": "execute_context_struct",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "CameraProjectionMode",
+      "target": "CameraProjectionMode.PERSPECTIVE",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "CameraProjectionMode",
+      "target": "CameraProjectionMode.ORTHOGRAPHIC",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "EntityAtomBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "moving_eid",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "path_eid",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "time",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "loop",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "reverse",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "offset",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "rotator",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "state",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "path_update_points",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "set_time",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "set_path_eid",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "set_moving_eid",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "setb_reverse",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MoveAlongPathEntityAtom",
+      "target": "setb_loop",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "EntityChildrenAtom",
+      "target": "EntityAtomBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "EntityChildrenAtom",
+      "target": "children_eids",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "EntityChildrenAtom",
+      "target": "remove_items",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "destination_path",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "filenames",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "factory",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "factory_name",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "replace_existing",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "skip_read_only",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "group_name",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AutomatedAssetImportData",
+      "target": "level_to_load",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PoseDriverTransform",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "PoseDriverTransform",
+      "target": "target_rotation",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PoseDriverTransform",
+      "target": "target_translation",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MovieSceneLevelVisibilitySection",
+      "target": "MovieSceneSection",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieSceneLevelVisibilitySection",
+      "target": "level_names",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MovieSceneLevelVisibilitySection",
+      "target": "visibility",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MovieSceneLevelVisibilitySection",
+      "target": "set_visibility",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MovieSceneLevelVisibilitySection",
+      "target": "get_visibility",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MovieSceneLevelVisibilitySection",
+      "target": "set_level_names",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MovieSceneLevelVisibilitySection",
+      "target": "get_level_names",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ActorEndTouchOverSignature",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "GroomLODMode",
+      "target": "GroomLODMode.DEFAULT",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "GroomLODMode",
+      "target": "GroomLODMode.MANUAL",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "GroomLODMode",
+      "target": "GroomLODMode.AUTO",
+      "type": "has_enum_value",
+      "label": "has enum value"
+    },
+    {
+      "source": "MaterialExpressionRuntimeVirtualTextureReplace",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "DefaultPawn",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "orbital_motion",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "base_speed_kmh",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "speed_scalar",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "speed_scalar_increment",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "hat",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "altitude",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "maximum_altitude_curve",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "altitude_profile_curve",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "progress_curve",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "fly_duration",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "granularity_degrees",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "fly_to_location_latitude_longitude_altitude",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "fly_to_location_geographic",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "fly_to_location_ecef",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "interrupt_fly_to_location",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "increase_speed_scalar",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "decrease_speed_scalar",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "RoundPlanetPawn",
+      "target": "reset_speed_scalar",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGCollapsePointsSettings",
+      "target": "PCGSettings",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "PCGCollapsePointsSettings",
+      "target": "distance_threshold",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGCollapsePointsSettings",
+      "target": "mode",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGCollapsePointsSettings",
+      "target": "comparison_mode",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGCollapsePointsSettings",
+      "target": "visit_order",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_VisualDebugVector",
+      "target": "RigUnit_DebugBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_VisualDebugVector",
+      "target": "value",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_VisualDebugVector",
+      "target": "enabled",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_VisualDebugVector",
+      "target": "color",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_VisualDebugVector",
+      "target": "thickness",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_VisualDebugVector",
+      "target": "scale",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_VisualDebugVector",
+      "target": "bone_space",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "SmartObjectCollectionEntry",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "SmartObjectCollectionEntry",
+      "target": "handle",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "SmartObjectCollectionEntry",
+      "target": "tags",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "SmartObjectCollectionEntry",
+      "target": "definition_idx",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MovieSceneCVarSection",
+      "target": "MovieSceneSection",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieSceneCVarSection",
+      "target": "console_variables",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MovieSceneCVarSection",
+      "target": "console_variable_collections",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MovieSceneCVarSection",
+      "target": "set_from_string",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "MovieSceneCVarSection",
+      "target": "get_string",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "WdpModelerRegionResult",
+      "target": "EidResult",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "WdpModelerRegionResult",
+      "target": "message",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "WdpModelerRegionResult",
+      "target": "scene_change_info",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "WdpModelerRegionResult",
+      "target": "success",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "set_point_property",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "set_extra_property",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "set_attribute_name",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "get_selection",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "get_point_property",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "get_name",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "get_extra_property",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "get_extra_names",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "PCGAttributePropertySelector",
+      "target": "get_attribute_name",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "source": "ComponentSync",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ComponentSync",
+      "target": "name",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "ComponentSync",
+      "target": "sync_option",
+      "type": "has_property",
+      "label": "has property"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_audio_analysis_onset",
+      "nodes": [
+        "OnsetNRTSettings",
+        "AudioSynesthesiaNRTSettings",
+        "granularity_in_seconds",
+        "sensitivity",
+        "minimum_frequency",
+        "maximum_frequency"
+      ],
+      "label": "Audio Onset Analysis Settings",
+      "description": "Settings for audio onset detection with frequency range and sensitivity parameters"
+    },
+    {
+      "id": "he_material_layer_instance_params",
+      "nodes": [
+        "MaterialFunctionMaterialLayerInstance",
+        "MaterialFunctionInstance",
+        "parent",
+        "scalar_parameter_values",
+        "vector_parameter_values",
+        "texture_parameter_values",
+        "double_vector_parameter_values"
+      ],
+      "label": "Material Layer Parameter System",
+      "description": "Material function layer instance with various parameter types for material customization"
+    },
+    {
+      "id": "he_rigvm_parser_optimization",
+      "nodes": [
+        "RigVMParserASTSettings",
+        "StructBase",
+        "fold_assignments",
+        "fold_literals",
+        "setup_traits"
+      ],
+      "label": "RigVM AST Parser Optimization",
+      "description": "Parser settings for optimizing abstract syntax tree generation with folding options"
+    },
+    {
+      "id": "he_entity_path_movement",
+      "nodes": [
+        "MoveAlongPathEntityAtom",
+        "EntityAtomBase",
+        "moving_eid",
+        "path_eid",
+        "time",
+        "loop",
+        "reverse",
+        "set_time",
+        "set_path_eid",
+        "set_moving_eid"
+      ],
+      "label": "Entity Path Movement System",
+      "description": "System for moving entities along paths with time, loop, and direction controls"
+    },
+    {
+      "id": "he_asset_import_workflow",
+      "nodes": [
+        "AutomatedAssetImportData",
+        "Object",
+        "destination_path",
+        "filenames",
+        "factory",
+        "factory_name",
+        "replace_existing",
+        "skip_read_only"
+      ],
+      "label": "Automated Asset Import Workflow",
+      "description": "Complete workflow for automated asset importing with factory and path configuration"
+    },
+    {
+      "id": "he_moviescene_level_visibility",
+      "nodes": [
+        "MovieSceneLevelVisibilitySection",
+        "MovieSceneSection",
+        "level_names",
+        "visibility",
+        "set_visibility",
+        "get_visibility",
+        "set_level_names",
+        "get_level_names"
+      ],
+      "label": "Movie Scene Level Visibility Control",
+      "description": "System for controlling level visibility in movie scenes with getter/setter methods"
+    },
+    {
+      "id": "he_roundplanet_flight_system",
+      "nodes": [
+        "RoundPlanetPawn",
+        "DefaultPawn",
+        "orbital_motion",
+        "base_speed_kmh",
+        "speed_scalar",
+        "hat",
+        "altitude",
+        "maximum_altitude_curve",
+        "altitude_profile_curve",
+        "progress_curve",
+        "fly_duration",
+        "fly_to_location_latitude_longitude_altitude",
+        "fly_to_location_geographic",
+        "fly_to_location_ecef",
+        "interrupt_fly_to_location"
+      ],
+      "label": "Round Planet Flight Navigation",
+      "description": "Comprehensive flight system for round planet navigation with altitude curves and geographic coordinates"
+    },
+    {
+      "id": "he_pcg_collapse_points",
+      "nodes": [
+        "PCGCollapsePointsSettings",
+        "PCGSettings",
+        "distance_threshold",
+        "mode",
+        "comparison_mode",
+        "visit_order"
+      ],
+      "label": "PCG Point Collapse Settings",
+      "description": "Settings for collapsing points in procedural content generation with distance and comparison modes"
+    },
+    {
+      "id": "he_rigunit_visual_debug",
+      "nodes": [
+        "RigUnit_VisualDebugVector",
+        "RigUnit_DebugBase",
+        "value",
+        "enabled",
+        "color",
+        "thickness",
+        "scale",
+        "bone_space"
+      ],
+      "label": "Rig Unit Visual Debugging",
+      "description": "Visual debugging for rig units with vector display, coloring, and scaling options"
+    },
+    {
+      "id": "he_moviescene_cvar_control",
+      "nodes": [
+        "MovieSceneCVarSection",
+        "MovieSceneSection",
+        "console_variables",
+        "console_variable_collections",
+        "set_from_string",
+        "get_string"
+      ],
+      "label": "Movie Scene Console Variable Control",
+      "description": "System for controlling console variables in movie scenes with preset collections"
+    },
+    {
+      "id": "he_pcg_attribute_selection",
+      "nodes": [
+        "PCGAttributePropertySelector",
+        "StructBase",
+        "set_point_property",
+        "set_extra_property",
+        "set_attribute_name",
+        "get_selection",
+        "get_point_property",
+        "get_attribute_name"
+      ],
+      "label": "PCG Attribute/Property Selection",
+      "description": "Flexible selection system for PCG attributes and properties with getter/setter methods"
+    },
+    {
+      "id": "he_camera_projection_modes",
+      "nodes": [
+        "CameraProjectionMode",
+        "CameraProjectionMode.PERSPECTIVE",
+        "CameraProjectionMode.ORTHOGRAPHIC"
+      ],
+      "label": "Camera Projection Mode Enumeration",
+      "description": "Enumeration of camera projection modes: perspective and orthographic"
+    },
+    {
+      "id": "he_groom_lod_modes",
+      "nodes": [
+        "GroomLODMode",
+        "GroomLODMode.DEFAULT",
+        "GroomLODMode.MANUAL",
+        "GroomLODMode.AUTO"
+      ],
+      "label": "Groom LOD Mode System",
+      "description": "Level of detail modes for hair strands with automatic, manual, and default options"
+    },
+    {
+      "id": "he_entity_hierarchy",
+      "nodes": [
+        "EntityChildrenAtom",
+        "EntityAtomBase",
+        "children_eids",
+        "remove_items"
+      ],
+      "label": "Entity Hierarchy Management",
+      "description": "System for managing entity children with entity IDs and item removal"
+    },
+    {
+      "id": "he_ava_text_field",
+      "nodes": [
+        "AvaTextField",
+        "StructBase",
+        "text",
+        "maximum_length",
+        "count",
+        "text_case"
+      ],
+      "label": "Avalanche Text Field System",
+      "description": "Text field with length limits, case control, and character counting"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "MovieScenePropertyTrackRecorder Objects.md",
+      "OnsetNRTSettings Objects.md",
+      "AvaTextField Objects.md",
+      "MaterialFunctionMaterialLayerInstance Objects.md",
+      "RigVMParserASTSettings Objects.md",
+      "CameraProjectionMode Objects.md",
+      "MoveAlongPathEntityAtom Objects.md",
+      "EntityChildrenAtom Objects.md",
+      "AutomatedAssetImportData Objects.md",
+      "PoseDriverTransform Objects.md",
+      "MovieSceneLevelVisibilitySection Objects.md",
+      "ActorEndTouchOverSignature Objects.md",
+      "GroomLODMode Objects.md",
+      "MaterialExpressionRuntimeVirtualTextureReplace Objects.md",
+      "RoundPlanetPawn Objects.md",
+      "PCGCollapsePointsSettings Objects.md",
+      "RigUnit_VisualDebugVector Objects.md",
+      "SmartObjectCollectionEntry Objects.md",
+      "MovieSceneCVarSection Objects.md",
+      "WdpModelerRegionResult Objects.md",
+      "PCGAttributePropertySelector Objects.md",
+      "ComponentSync Objects.md"
+    ],
+    "chunk_id": 588,
+    "generated_at": "2026-04-12",
+    "total_nodes": 144,
+    "total_edges": 140,
+    "total_hyperedges": 15
+  }
+}

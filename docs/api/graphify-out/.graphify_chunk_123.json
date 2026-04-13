@@ -1,0 +1,1254 @@
+{
+  "nodes": [
+    {
+      "id": "synth1osctype_synth1osctype",
+      "label": "Synth1OscType",
+      "file_type": "code",
+      "source_file": "Synth1OscType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subobjectdatahandle_subobjectdatahandle",
+      "label": "SubobjectDataHandle",
+      "file_type": "code",
+      "source_file": "SubobjectDataHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "planefalloff_planefalloff",
+      "label": "PlaneFalloff",
+      "file_type": "code",
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowsermenucontext_contentbrowsermenucontext",
+      "label": "ContentBrowserMenuContext",
+      "file_type": "code",
+      "source_file": "ContentBrowserMenuContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_controlflowbranch_rigvmfunction_controlflowbranch",
+      "label": "RigVMFunction_ControlFlowBranch",
+      "file_type": "code",
+      "source_file": "RigVMFunction_ControlFlowBranch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderparameters_takerecorderparameters",
+      "label": "TakeRecorderParameters",
+      "file_type": "code",
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "label": "AesModularBuildingAssetTagData",
+      "file_type": "code",
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gizmohandlegroup_gizmohandlegroup",
+      "label": "GizmoHandleGroup",
+      "file_type": "code",
+      "source_file": "GizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigtestdatavariable_controlrigtestdatavariable",
+      "label": "ControlRigTestDataVariable",
+      "file_type": "code",
+      "source_file": "ControlRigTestDataVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updateclocksource_updateclocksource",
+      "label": "UpdateClockSource",
+      "file_type": "code",
+      "source_file": "UpdateClockSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorperceptionforgetupdateddelegate_actorperceptionforgetupdateddelegate",
+      "label": "ActorPerceptionForgetUpdatedDelegate",
+      "file_type": "code",
+      "source_file": "ActorPerceptionForgetUpdatedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncapiresult_asyncapiresult",
+      "label": "AsyncApiResult",
+      "file_type": "code",
+      "source_file": "AsyncApiResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aitestspawnset_aitestspawnset",
+      "label": "AITestSpawnSet",
+      "file_type": "code",
+      "source_file": "AITestSpawnSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rotator3f_rotator3f",
+      "label": "Rotator3f",
+      "file_type": "code",
+      "source_file": "Rotator3f Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondeltatime_materialexpressiondeltatime",
+      "label": "MaterialExpressionDeltaTime",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDeltaTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_poseblendnode_animgraphnode_poseblendnode",
+      "label": "AnimGraphNode_PoseBlendNode",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componentreference_componentreference",
+      "label": "ComponentReference",
+      "file_type": "code",
+      "source_file": "ComponentReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+      "label": "RigUnit_TwoBoneIKSimple_DebugSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_TwoBoneIKSimple_DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxkey_onopeningevent_comboboxkey_onopeningevent",
+      "label": "ComboBoxKey_OnOpeningEvent",
+      "file_type": "code",
+      "source_file": "ComboBoxKey__OnOpeningEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsequencercontroller_animsequencercontroller",
+      "label": "AnimSequencerController",
+      "file_type": "code",
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatbase_rigunit_mathfloatbase",
+      "label": "RigUnit_MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterpositionalparams_displayclusterpositionalparams",
+      "label": "DisplayClusterPositionalParams",
+      "file_type": "code",
+      "source_file": "DisplayClusterPositionalParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodefloat_fieldnodefloat",
+      "label": "FieldNodeFloat",
+      "file_type": "code",
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_controlflowbase_rigvmfunction_controlflowbase",
+      "label": "RigVMFunction_ControlFlowBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_ControlFlowBranch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction_MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aitestspawnsetbase_aitestspawnsetbase",
+      "label": "AITestSpawnSetBase",
+      "file_type": "code",
+      "source_file": "AITestSpawnSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionDeltaTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_posehandler_animgraphnode_posehandler",
+      "label": "AnimGraphNode_PoseHandler",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basecomponentreference_basecomponentreference",
+      "label": "BaseComponentReference",
+      "file_type": "code",
+      "source_file": "ComponentReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecomponent_scenecomponent",
+      "label": "SceneComponent",
+      "file_type": "code",
+      "source_file": "GizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_vector",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldfallofftype_fieldfallofftype",
+      "label": "FieldFalloffType",
+      "file_type": "code",
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmexecutecontext_rigvmexecutecontext",
+      "label": "RigVMExecuteContext",
+      "file_type": "code",
+      "source_file": "RigVMFunction_ControlFlowBranch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderuserparameters_takerecorderuserparameters",
+      "label": "TakeRecorderUserParameters",
+      "file_type": "code",
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderprojectparameters_takerecorderprojectparameters",
+      "label": "TakeRecorderProjectParameters",
+      "file_type": "code",
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecordermode_takerecordermode",
+      "label": "TakeRecorderMode",
+      "file_type": "code",
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framenumber_framenumber",
+      "label": "FrameNumber",
+      "file_type": "code",
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetchildmetadata_aesassetchildmetadata",
+      "label": "AesAssetChildMetaData",
+      "file_type": "code",
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landcover_landcover",
+      "label": "LandCover",
+      "file_type": "code",
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roofshape_roofshape",
+      "label": "RoofShape",
+      "file_type": "code",
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingprefabtype_aesbuildingprefabtype",
+      "label": "AesBuildingPrefabType",
+      "file_type": "code",
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "color_color",
+      "label": "Color",
+      "file_type": "code",
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpjsonobjectwrapper_wdpjsonobjectwrapper",
+      "label": "WdpJsonObjectWrapper",
+      "file_type": "code",
+      "source_file": "AsyncApiResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aitestspawninfo_aitestspawninfo",
+      "label": "AITestSpawnInfo",
+      "file_type": "code",
+      "source_file": "AITestSpawnSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_transform",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "RigUnit_TwoBoneIKSimple_DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeleton_skeleton",
+      "label": "Skeleton",
+      "file_type": "code",
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationcurveidentifier_animationcurveidentifier",
+      "label": "AnimationCurveIdentifier",
+      "file_type": "code",
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationdatamodel_animationdatamodel",
+      "label": "AnimationDataModel",
+      "file_type": "code",
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "richcurvekey_richcurvekey",
+      "label": "RichCurveKey",
+      "file_type": "code",
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framerate_framerate",
+      "label": "FrameRate",
+      "file_type": "code",
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d_vector2d",
+      "label": "Vector2D",
+      "file_type": "code",
+      "source_file": "DisplayClusterPositionalParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_poseblendnode_animnode_poseblendnode",
+      "label": "AnimNode_PoseBlendNode",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "AITestSpawnSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "planefalloff_planefalloff",
+      "target": "fieldnodefloat_fieldnodefloat",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planefalloff_planefalloff",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planefalloff_planefalloff",
+      "target": "fieldfallofftype_fieldfallofftype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_controlflowbranch_rigvmfunction_controlflowbranch",
+      "target": "rigvmfunction_controlflowbase_rigvmfunction_controlflowbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_ControlFlowBranch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_controlflowbranch_rigvmfunction_controlflowbranch",
+      "target": "rigvmexecutecontext_rigvmexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_ControlFlowBranch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderparameters_takerecorderparameters",
+      "target": "takerecorderuserparameters_takerecorderuserparameters",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderparameters_takerecorderparameters",
+      "target": "takerecorderprojectparameters_takerecorderprojectparameters",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderparameters_takerecorderparameters",
+      "target": "takerecordermode_takerecordermode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderparameters_takerecorderparameters",
+      "target": "framenumber_framenumber",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderparameters_takerecorderparameters",
+      "target": "updateclocksource_updateclocksource",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "target": "aesassetchildmetadata_aesassetchildmetadata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "target": "landcover_landcover",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "target": "roofshape_roofshape",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "target": "aesbuildingprefabtype_aesbuildingprefabtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "target": "color_color",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gizmohandlegroup_gizmohandlegroup",
+      "target": "scenecomponent_scenecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GizmoHandleGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aitestspawnset_aitestspawnset",
+      "target": "aitestspawnsetbase_aitestspawnsetbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AITestSpawnSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aitestspawnset_aitestspawnset",
+      "target": "aitestspawninfo_aitestspawninfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AITestSpawnSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aitestspawnset_aitestspawnset",
+      "target": "actor_actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AITestSpawnSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondeltatime_materialexpressiondeltatime",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDeltaTime Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_poseblendnode_animgraphnode_poseblendnode",
+      "target": "animgraphnode_posehandler_animgraphnode_posehandler",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_poseblendnode_animgraphnode_poseblendnode",
+      "target": "animnode_poseblendnode_animnode_poseblendnode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componentreference_componentreference",
+      "target": "basecomponentreference_basecomponentreference",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componentreference_componentreference",
+      "target": "actor_actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_TwoBoneIKSimple_DebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "skeleton_skeleton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "animationcurveidentifier_animationcurveidentifier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "animationdatamodel_animationdatamodel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "transform_transform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "richcurvekey_richcurvekey",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "framerate_framerate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "framenumber_framenumber",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatbase_rigunit_mathfloatbase",
+      "target": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterpositionalparams_displayclusterpositionalparams",
+      "target": "vector2d_vector2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterPositionalParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncapiresult_asyncapiresult",
+      "target": "wdpjsonobjectwrapper_wdpjsonobjectwrapper",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AsyncApiResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_controlflowbranch_rigvmfunction_controlflowbranch",
+      "target": "rigvmfunction_controlflowbranch_rigvmfunction_controlflowbranch",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_ControlFlowBranch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planefalloff_planefalloff",
+      "target": "planefalloff_planefalloff",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtestdatavariable_controlrigtestdatavariable",
+      "target": "controlrigtestdatavariable_controlrigtestdatavariable",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigTestDataVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderparameters_takerecorderparameters",
+      "target": "takerecorderparameters_takerecorderparameters",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "target": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncapiresult_asyncapiresult",
+      "target": "asyncapiresult_asyncapiresult",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AsyncApiResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aitestspawnset_aitestspawnset",
+      "target": "aitestspawnset_aitestspawnset",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AITestSpawnSet Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rotator3f_rotator3f",
+      "target": "rotator3f_rotator3f",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Rotator3f Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+      "target": "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_TwoBoneIKSimple_DebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterpositionalparams_displayclusterpositionalparams",
+      "target": "displayclusterpositionalparams_displayclusterpositionalparams",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterPositionalParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "subobjectdatahandle_subobjectdatahandle",
+      "target": "subobjectdatahandle_subobjectdatahandle",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubobjectDataHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatbase_rigunit_mathfloatbase",
+      "target": "rigunit_mathfloatbase_rigunit_mathfloatbase",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componentreference_componentreference",
+      "target": "componentreference_componentreference",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorperceptionforgetupdateddelegate_actorperceptionforgetupdateddelegate",
+      "target": "actorperceptionforgetupdateddelegate_actorperceptionforgetupdateddelegate",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorPerceptionForgetUpdatedDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "comboboxkey_onopeningevent_comboboxkey_onopeningevent",
+      "target": "comboboxkey_onopeningevent_comboboxkey_onopeningevent",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComboBoxKey__OnOpeningEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_poseblendnode_animgraphnode_poseblendnode",
+      "target": "animgraphnode_poseblendnode_animgraphnode_poseblendnode",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_controlflowbranch_rigvmfunction_controlflowbranch",
+      "target": "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_ControlFlowBranch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings",
+      "target": "controlrigtestdatavariable_controlrigtestdatavariable",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_TwoBoneIKSimple_DebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "takerecorderparameters_takerecorderparameters",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planefalloff_planefalloff",
+      "target": "displayclusterpositionalparams_displayclusterpositionalparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PlaneFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesmodularbuildingassettagdata_aesmodularbuildingassettagdata",
+      "target": "displayclusterpositionalparams_displayclusterpositionalparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesModularBuildingAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "framenumber_framenumber",
+      "target": "framerate_framerate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "TakeRecorderParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animsequencercontroller_animsequencercontroller",
+      "target": "skeleton_skeleton",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimSequencerController Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_poseblendnode_animgraphnode_poseblendnode",
+      "target": "animsequencercontroller_animsequencercontroller",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AnimGraphNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondeltatime_materialexpressiondeltatime",
+      "target": "updateclocksource_updateclocksource",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionDeltaTime Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_framework_classes",
+      "label": "RigVM Framework Classes",
+      "nodes": [
+        "rigvmfunction_controlflowbranch_rigvmfunction_controlflowbranch",
+        "rigunit_mathfloatbase_rigunit_mathfloatbase",
+        "rigvmfunction_controlflowbase_rigvmfunction_controlflowbase",
+        "rigvmfunction_mathfloatbase_rigvmfunction_mathfloatbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_ControlFlowBranch Objects.md"
+    },
+    {
+      "id": "animation_sequencing_system",
+      "label": "Animation Sequencing System",
+      "nodes": [
+        "animsequencercontroller_animsequencercontroller",
+        "animationdatamodel_animationdatamodel",
+        "animationcurveidentifier_animationcurveidentifier",
+        "framenumber_framenumber",
+        "framerate_framerate"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimSequencerController Objects.md"
+    },
+    {
+      "id": "controlrig_test_infrastructure",
+      "label": "ControlRig Test Infrastructure",
+      "nodes": [
+        "controlrigtestdatavariable_controlrigtestdatavariable",
+        "rigunit_twoboneiksimple_debugsettings_rigunit_twoboneiksimple_debugsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ControlRigTestDataVariable Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

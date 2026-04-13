@@ -1,0 +1,762 @@
+{
+  "nodes": [
+    {
+      "id": "wdpmodelerrivertype_wdpmodelerrivertype",
+      "label": "WdpModelerRiverType",
+      "file_type": "code",
+      "source_file": "WdpModelerRiverType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormax_rigvmfunction_mathvectormax",
+      "label": "RigVMFunction_MathVectorMax",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbinaryaggregateop_rigvmfunction_mathvectorbinaryaggregateop",
+      "label": "RigVMFunction_MathVectorBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__setdefaultparent_rigunit__setdefaultparent",
+      "label": "RigUnit_SetDefaultParent",
+      "file_type": "code",
+      "source_file": "RigUnit__SetDefaultParent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_dynamichierarchybasemutable_rigunit_dynamichierarchybasemutable",
+      "label": "RigUnit_DynamicHierarchyBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SetDefaultParent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkskeletonstaticdata_livelinkskeletonstaticdata",
+      "label": "LiveLinkSkeletonStaticData",
+      "file_type": "code",
+      "source_file": "LiveLinkSkeletonStaticData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkbasestaticdata_livelinkbasestaticdata",
+      "label": "LiveLinkBaseStaticData",
+      "file_type": "code",
+      "source_file": "LiveLinkSkeletonStaticData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacegrid2dcollectionreader_niagaradatainterfacegrid2dcollectionreader",
+      "label": "NiagaraDataInterfaceGrid2DCollectionReader",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid2DCollectionReader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacegrid2dcollection_niagaradatainterfacegrid2dcollection",
+      "label": "NiagaraDataInterfaceGrid2DCollection",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceGrid2DCollectionReader Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "a3dtilesentity_a3dtilesentity",
+      "label": "A3DTilesEntity",
+      "file_type": "code",
+      "source_file": "A3DTilesEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpactorentity_wdpactorentity",
+      "label": "WdpActorEntity",
+      "file_type": "code",
+      "source_file": "A3DTilesEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenechaoscachetrack_moviescenechaoscachetrack",
+      "label": "MovieSceneChaosCacheTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneChaosCacheTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenenameabletrack_moviescenenameabletrack",
+      "label": "MovieSceneNameableTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneChaosCacheTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectfoldbackdistortionsettings_sourceeffectfoldbackdistortionsettings",
+      "label": "SourceEffectFoldbackDistortionSettings",
+      "file_type": "code",
+      "source_file": "SourceEffectFoldbackDistortionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorsub_rigunit_mathvectorsub",
+      "label": "RigUnit_MathVectorSub",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorsub_rigvmfunction_mathvectorsub",
+      "label": "RigVMFunction_MathVectorSub",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthzoneshapeprefab_earthzoneshapeprefab",
+      "label": "EarthZoneShapePrefab",
+      "file_type": "code",
+      "source_file": "EarthZoneShapePrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthspatialprefab_earthspatialprefab",
+      "label": "EarthSpatialPrefab",
+      "file_type": "code",
+      "source_file": "EarthZoneShapePrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landedsignature_landedsignature",
+      "label": "LandedSignature",
+      "file_type": "code",
+      "source_file": "LandedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathvectornotequals_rigvmfunction__mathvectornotequals",
+      "label": "RigVMFunction_MathVectorNotEquals",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction_MathVectorBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__controlname_rigunit__controlname",
+      "label": "RigUnit_ControlName",
+      "file_type": "code",
+      "source_file": "RigUnit__ControlName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit__ControlName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mpmatchoutcome_mpmatchoutcome",
+      "label": "MPMatchOutcome",
+      "file_type": "code",
+      "source_file": "MPMatchOutcome Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabaseanimmontage_posesearchdatabaseanimmontage",
+      "label": "PoseSearchDatabaseAnimMontage",
+      "file_type": "code",
+      "source_file": "PoseSearchDatabaseAnimMontage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabaseanimationassetbase_posesearchdatabaseanimationassetbase",
+      "label": "PoseSearchDatabaseAnimationAssetBase",
+      "file_type": "code",
+      "source_file": "PoseSearchDatabaseAnimMontage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait__setdeformerrotatorarrayvariable_rigvmtrait__setdeformerrotatorarrayvariable",
+      "label": "RigVMTrait_SetDeformerRotatorArrayVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerRotatorArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerRotatorArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdomextractorprefab_earthdomextractorprefab",
+      "label": "EarthDomExtractorPrefab",
+      "file_type": "code",
+      "source_file": "EarthDomExtractorPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabbase_earthprefabbase",
+      "label": "EarthPrefabBase",
+      "file_type": "code",
+      "source_file": "EarthDomExtractorPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfactory_metasoundfactory",
+      "label": "MetaSoundFactory",
+      "file_type": "code",
+      "source_file": "MetaSoundFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundbasefactory_metasoundbasefactory",
+      "label": "MetaSoundBaseFactory",
+      "file_type": "code",
+      "source_file": "MetaSoundFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "windowwidgetbase_windowwidgetbase",
+      "label": "WindowWidgetBase",
+      "file_type": "code",
+      "source_file": "WindowWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringwidgetbase_coveringwidgetbase",
+      "label": "CoveringWidgetBase",
+      "file_type": "code",
+      "source_file": "WindowWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldsystemactor_fieldsystemactor",
+      "label": "FieldSystemActor",
+      "file_type": "code",
+      "source_file": "FieldSystemActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "FieldSystemActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldsystemcomponent_fieldsystemcomponent",
+      "label": "FieldSystemComponent",
+      "file_type": "code",
+      "source_file": "FieldSystemActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rectlightcomponent_rectlightcomponent",
+      "label": "RectLightComponent",
+      "file_type": "code",
+      "source_file": "RectLightComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "locallightcomponent_locallightcomponent",
+      "label": "LocalLightComponent",
+      "file_type": "code",
+      "source_file": "RectLightComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathvectorclamp_rigunit__mathvectorclamp",
+      "label": "RigUnit_MathVectorClamp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorclamp_rigvmfunction_mathvectorclamp",
+      "label": "RigVMFunction_MathVectorClamp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathVectorClamp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorop_rigvmfunction_mathvectorop",
+      "label": "RigVMFunction_MathVectorOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathvectormax_rigvmfunction_mathvectormax",
+      "target": "rigvmfunction_mathvectorbinaryaggregateop_rigvmfunction_mathvectorbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormax_rigvmfunction_mathvectormax",
+      "target": "rigvmfunction_mathvectorop_rigvmfunction_mathvectorop",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__setdefaultparent_rigunit__setdefaultparent",
+      "target": "rigunit_dynamichierarchybasemutable_rigunit_dynamichierarchybasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetDefaultParent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkskeletonstaticdata_livelinkskeletonstaticdata",
+      "target": "livelinkbasestaticdata_livelinkbasestaticdata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkSkeletonStaticData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacegrid2dcollectionreader_niagaradatainterfacegrid2dcollectionreader",
+      "target": "niagaradatainterfacegrid2dcollection_niagaradatainterfacegrid2dcollection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceGrid2DCollectionReader Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "a3dtilesentity_a3dtilesentity",
+      "target": "wdpactorentity_wdpactorentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "A3DTilesEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenechaoscachetrack_moviescenechaoscachetrack",
+      "target": "moviescenenameabletrack_moviescenenameabletrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneChaosCacheTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorsub_rigunit_mathvectorsub",
+      "target": "rigvmfunction_mathvectorsub_rigvmfunction_mathvectorsub",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthzoneshapeprefab_earthzoneshapeprefab",
+      "target": "earthspatialprefab_earthspatialprefab",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthZoneShapePrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathvectornotequals_rigvmfunction__mathvectornotequals",
+      "target": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__controlname_rigunit__controlname",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ControlName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabaseanimmontage_posesearchdatabaseanimmontage",
+      "target": "posesearchdatabaseanimationassetbase_posesearchdatabaseanimationassetbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchDatabaseAnimMontage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait__setdeformerrotatorarrayvariable_rigvmtrait__setdeformerrotatorarrayvariable",
+      "target": "rigvmtrait_optimusvariablebase_rigvmtrait_optimusvariablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerRotatorArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdomextractorprefab_earthdomextractorprefab",
+      "target": "earthprefabbase_earthprefabbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDomExtractorPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfactory_metasoundfactory",
+      "target": "metasoundbasefactory_metasoundbasefactory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetaSoundFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "windowwidgetbase_windowwidgetbase",
+      "target": "coveringwidgetbase_coveringwidgetbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WindowWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldsystemactor_fieldsystemactor",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldSystemActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldsystemactor_fieldsystemactor",
+      "target": "fieldsystemcomponent_fieldsystemcomponent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FieldSystemActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rectlightcomponent_rectlightcomponent",
+      "target": "locallightcomponent_locallightcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RectLightComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathvectorclamp_rigunit__mathvectorclamp",
+      "target": "rigvmfunction_mathvectorclamp_rigvmfunction_mathvectorclamp",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorsub_rigvmfunction_mathvectorsub",
+      "target": "rigvmfunction_mathvectorbinaryaggregateop_rigvmfunction_mathvectorbinaryaggregateop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathVectorSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathvectornotequals_rigvmfunction__mathvectornotequals",
+      "target": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathVectorNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorclamp_rigvmfunction_mathvectorclamp",
+      "target": "rigvmfunction_mathvectorbinaryaggregateop_rigvmfunction_mathvectorbinaryaggregateop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathVectorClamp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthzoneshapeprefab_earthzoneshapeprefab",
+      "target": "earthdomextractorprefab_earthdomextractorprefab",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthZoneShapePrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "a3dtilesentity_a3dtilesentity",
+      "target": "wdpmodelerrivertype_wdpmodelerrivertype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "A3DTilesEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_vector_operations",
+      "label": "RigVM Math Vector Operations",
+      "nodes": [
+        "rigvmfunction_mathvectormax_rigvmfunction_mathvectormax",
+        "rigvmfunction_mathvectorsub_rigvmfunction_mathvectorsub",
+        "rigvmfunction__mathvectornotequals_rigvmfunction__mathvectornotequals",
+        "rigvmfunction_mathvectorclamp_rigvmfunction_mathvectorclamp"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathVectorMax Objects.md"
+    },
+    {
+      "id": "earth_prefab_system",
+      "label": "Earth Prefab System",
+      "nodes": [
+        "earthzoneshapeprefab_earthzoneshapeprefab",
+        "earthdomextractorprefab_earthdomextractorprefab",
+        "earthspatialprefab_earthspatialprefab",
+        "earthprefabbase_earthprefabbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthZoneShapePrefab Objects.md"
+    },
+    {
+      "id": "deprecated_rigunit_renamings",
+      "label": "Deprecated RigUnit Renamings",
+      "nodes": [
+        "rigunit_mathvectorsub_rigunit_mathvectorsub",
+        "rigunit__mathvectorclamp_rigunit__mathvectorclamp"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_MathVectorSub Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

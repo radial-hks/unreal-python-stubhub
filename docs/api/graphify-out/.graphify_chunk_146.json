@@ -1,0 +1,571 @@
+{
+  "nodes": [
+    {
+      "id": "interchangecinecamerafactorynode_interchangecinecamerafactorynode",
+      "label": "InterchangeCineCameraFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeCineCameraFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaanimationactor_avaanimationactor",
+      "label": "AvaAnimationActor",
+      "file_type": "document",
+      "source_file": "AvaAnimationActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterbodyinfomeshcomponent_waterbodyinfomeshcomponent",
+      "label": "WaterBodyInfoMeshComponent",
+      "file_type": "document",
+      "source_file": "WaterBodyInfoMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector",
+      "label": "RigVMFunction_TimeOffsetVector",
+      "file_type": "document",
+      "source_file": "RigVMFunction_TimeOffsetVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "removeentityparams_removeentityparams",
+      "label": "RemoveEntityParams",
+      "file_type": "document",
+      "source_file": "RemoveEntityParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_editordynamicmeshutil_geometryscript_editordynamicmeshutil",
+      "label": "GeometryScript_EditorDynamicMeshUtil",
+      "file_type": "document",
+      "source_file": "GeometryScript_EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setboneinitialtransform_rigunit_setboneinitialtransform",
+      "label": "RigUnit_SetBoneInitialTransform",
+      "file_type": "document",
+      "source_file": "RigUnit__SetBoneInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exposedfieldtype_exposedfieldtype",
+      "label": "ExposedFieldType",
+      "file_type": "document",
+      "source_file": "ExposedFieldType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgreroutesettings_pcgreroutesettings",
+      "label": "PCGRerouteSettings",
+      "file_type": "document",
+      "source_file": "PCGRerouteSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearraycolor_niagaradatainterfacearraycolor",
+      "label": "NiagaraDataInterfaceArrayColor",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceArrayColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmeshsamplingmethod_pcgmeshsamplingmethod",
+      "label": "PCGMeshSamplingMethod",
+      "file_type": "document",
+      "source_file": "PCGMeshSamplingMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "standardgroupnameenum_standardgroupnameenum",
+      "label": "StandardGroupNameEnum",
+      "file_type": "document",
+      "source_file": "StandardGroupNameEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_constraint_animnode_constraint",
+      "label": "AnimNode_Constraint",
+      "file_type": "document",
+      "source_file": "AnimNode__Constraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeasset_gltfruntimeasset",
+      "label": "glTFRuntimeAsset",
+      "file_type": "document",
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getrelativetransformforitem_rigunit_getrelativetransformforitem",
+      "label": "RigUnit_GetRelativeTransformForItem",
+      "file_type": "document",
+      "source_file": "RigUnit_GetRelativeTransformForItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_observebone_animnode_observebone",
+      "label": "AnimNode_ObserveBone",
+      "file_type": "document",
+      "source_file": "AnimNode__ObserveBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpointparametersbase_earthpointparametersbase",
+      "label": "EarthPointParametersBase",
+      "file_type": "document",
+      "source_file": "EarthPointParametersBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneintegersection_moviesceneintegersection",
+      "label": "MovieSceneIntegerSection",
+      "file_type": "document",
+      "source_file": "MovieSceneIntegerSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodelerembanksidetype_wdpmodelerembanksidetype",
+      "label": "WdpModelerEmbankSideType",
+      "file_type": "document",
+      "source_file": "WdpModelerEmbankSideType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmblueprintviewextension_mvvmblueprintviewextension",
+      "label": "MVVMBlueprintViewExtension",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintViewExtension Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textbufferexportertxt_textbufferexportertxt",
+      "label": "TextBufferExporterTXT",
+      "file_type": "document",
+      "source_file": "TextBufferExporterTXT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneconditioncontext_moviesceneconditioncontext",
+      "label": "MovieSceneConditionContext",
+      "file_type": "document",
+      "source_file": "MovieSceneConditionContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangephysicalcamerafactorynode_interchangephysicalcamerafactorynode",
+      "label": "InterchangePhysicalCameraFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeCineCameraFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequenceplaybackactor_avasequenceplaybackactor",
+      "label": "AvaSequencePlaybackActor",
+      "file_type": "document",
+      "source_file": "AvaAnimationActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh_dynamicmesh",
+      "label": "DynamicMesh",
+      "file_type": "document",
+      "source_file": "GeometryScript_EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmeshchangecontainer_dynamicmeshchangecontainer",
+      "label": "DynamicMeshChangeContainer",
+      "file_type": "document",
+      "source_file": "GeometryScript_EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmesh_staticmesh",
+      "label": "StaticMesh",
+      "file_type": "document",
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmesh_skeletalmesh",
+      "label": "SkeletalMesh",
+      "file_type": "document",
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeleton_skeleton",
+      "label": "Skeleton",
+      "file_type": "document",
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsequence_animsequence",
+      "label": "AnimSequence",
+      "file_type": "document",
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture2d_texture2d",
+      "label": "Texture2D",
+      "file_type": "document",
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface_materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "document",
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "interchangecinecamerafactorynode_interchangecinecamerafactorynode",
+      "target": "interchangephysicalcamerafactorynode_interchangephysicalcamerafactorynode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeCineCameraFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaanimationactor_avaanimationactor",
+      "target": "avasequenceplaybackactor_avasequenceplaybackactor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaAnimationActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_editordynamicmeshutil_geometryscript_editordynamicmeshutil",
+      "target": "dynamicmesh_dynamicmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_editordynamicmeshutil_geometryscript_editordynamicmeshutil",
+      "target": "dynamicmeshchangecontainer_dynamicmeshchangecontainer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "staticmesh_staticmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "skeletalmesh_skeletalmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "skeleton_skeleton",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "animsequence_animsequence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "texture2d_texture2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "materialinterface_materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "skeletalmesh_skeletalmesh",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setboneinitialtransform_rigunit_setboneinitialtransform",
+      "target": "rigunit_getrelativetransformforitem_rigunit_getrelativetransformforitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetBoneInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_constraint_animnode_constraint",
+      "target": "animnode_observebone_animnode_observebone",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode__Constraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "rigunit_setboneinitialtransform_rigunit_setboneinitialtransform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeasset_gltfruntimeasset",
+      "target": "animsequence_animsequence",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmeshsamplingmethod_pcgmeshsamplingmethod",
+      "target": "geometryscript_editordynamicmeshutil_geometryscript_editordynamicmeshutil",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGMeshSamplingMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneconditioncontext_moviesceneconditioncontext",
+      "target": "moviesceneintegersection_moviesceneintegersection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieSceneConditionContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "skeletal_mesh_animation_workflow",
+      "label": "Skeletal Mesh and Animation Loading Workflow",
+      "nodes": [
+        "gltfruntimeasset_gltfruntimeasset",
+        "skeletalmesh_skeletalmesh",
+        "skeleton_skeleton",
+        "animsequence_animsequence"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "glTFRuntimeAsset Objects.md"
+    },
+    {
+      "id": "rig_transform_manipulation",
+      "label": "Rig Transform Manipulation System",
+      "nodes": [
+        "rigunit_setboneinitialtransform_rigunit_setboneinitialtransform",
+        "rigunit_getrelativetransformforitem_rigunit_getrelativetransformforitem",
+        "rigvmfunction_timeoffsetvector_rigvmfunction_timeoffsetvector"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetBoneInitialTransform Objects.md"
+    },
+    {
+      "id": "animation_node_system",
+      "label": "Animation Node System",
+      "nodes": [
+        "animnode_constraint_animnode_constraint",
+        "animnode_observebone_animnode_observebone"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode__Constraint Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

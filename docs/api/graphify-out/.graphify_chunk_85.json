@@ -1,0 +1,997 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_distributerotation_rotation",
+      "label": "RigUnit_DistributeRotation_Rotation",
+      "file_type": "document",
+      "source_file": "RigUnit_DistributeRotation_Rotation Objects.md",
+      "source_location": "RigUnit_DistributeRotation.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RigUnit_DistributeRotation_Rotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quat",
+      "label": "Quat",
+      "file_type": "document",
+      "source_file": "RigUnit_DistributeRotation_Rotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit_DistributeRotation_Rotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lakecollisioncomponent",
+      "label": "LakeCollisionComponent",
+      "file_type": "document",
+      "source_file": "LakeCollisionComponent Objects.md",
+      "source_location": "LakeCollisionComponent.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "document",
+      "source_file": "LakeCollisionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bodyinstance",
+      "label": "BodyInstance",
+      "file_type": "document",
+      "source_file": "LakeCollisionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "water_plugin",
+      "label": "Water Plugin",
+      "file_type": "document",
+      "source_file": "LakeCollisionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintarraysum",
+      "label": "RigVMFunction_MathIntArraySum",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntArraySum Objects.md",
+      "source_location": "RigVMFunction_MathInt.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntArraySum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntArraySum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangegenericcommonskeletalmeshesandanimationsproperties",
+      "label": "InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties",
+      "file_type": "document",
+      "source_file": "InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties Objects.md",
+      "source_location": "InterchangeGenericAssetsPipelineSharedSettings.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinebase",
+      "label": "InterchangePipelineBase",
+      "file_type": "document",
+      "source_file": "InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeleton",
+      "label": "Skeleton",
+      "file_type": "document",
+      "source_file": "InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_plugin",
+      "label": "Interchange Plugin",
+      "file_type": "document",
+      "source_file": "InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigtype",
+      "label": "ControlRigType",
+      "file_type": "document",
+      "source_file": "ControlRigType Objects.md",
+      "source_location": "ControlRigBlueprint.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "ControlRigType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "independent_rig",
+      "label": "INDEPENDENT_RIG",
+      "file_type": "document",
+      "source_file": "ControlRigType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_module",
+      "label": "RIG_MODULE",
+      "file_type": "document",
+      "source_file": "ControlRigType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modular_rig",
+      "label": "MODULAR_RIG",
+      "file_type": "document",
+      "source_file": "ControlRigType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolinteger",
+      "label": "RigUnit_SetControlInteger",
+      "file_type": "document",
+      "source_file": "RigUnit_SetControlInteger Objects.md",
+      "source_location": "RigUnit_SetControlTransform.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_SetControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit_SetControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangegraphinspectorpipeline",
+      "label": "InterchangeGraphInspectorPipeline",
+      "file_type": "document",
+      "source_file": "InterchangeGraphInspectorPipeline Objects.md",
+      "source_location": "InterchangeGraphInspectorPipeline.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeeditor_plugin",
+      "label": "InterchangeEditor Plugin",
+      "file_type": "document",
+      "source_file": "InterchangeGraphInspectorPipeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "forcefeedbackeffectfactory",
+      "label": "ForceFeedbackEffectFactory",
+      "file_type": "document",
+      "source_file": "ForceFeedbackEffectFactory Objects.md",
+      "source_location": "ForceFeedbackEffectFactory.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "ForceFeedbackEffectFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetimporttask",
+      "label": "AssetImportTask",
+      "file_type": "document",
+      "source_file": "ForceFeedbackEffectFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unrealed_module",
+      "label": "UnrealEd Module",
+      "file_type": "document",
+      "source_file": "ForceFeedbackEffectFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdebugpayloadcontrol",
+      "label": "EarthDebugPayloadControl",
+      "file_type": "document",
+      "source_file": "EarthDebugPayloadControl Objects.md",
+      "source_location": "EarthDebuggerSettings.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdebuginfofadecontrol",
+      "label": "EarthDebugInfoFadeControl",
+      "file_type": "document",
+      "source_file": "EarthDebugPayloadControl Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpayloadstate",
+      "label": "EarthPayloadState",
+      "file_type": "document",
+      "source_file": "EarthDebugPayloadControl Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthDebugPayloadControl Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnode",
+      "label": "PCGNode",
+      "file_type": "document",
+      "source_file": "PCGNode Objects.md",
+      "source_location": "PCGNode.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "PCGNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpin",
+      "label": "PCGPin",
+      "file_type": "document",
+      "source_file": "PCGNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettingsinterface",
+      "label": "PCGSettingsInterface",
+      "file_type": "document",
+      "source_file": "PCGNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "document",
+      "source_file": "PCGNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggraph",
+      "label": "PCGGraph",
+      "file_type": "document",
+      "source_file": "PCGNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componentstrippingvector",
+      "label": "ComponentStrippingVector",
+      "file_type": "document",
+      "source_file": "ComponentStrippingVector Objects.md",
+      "source_location": "PoseSearchFeatureChannel.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strip_xy",
+      "label": "STRIP_XY",
+      "file_type": "document",
+      "source_file": "ComponentStrippingVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strip_z",
+      "label": "STRIP_Z",
+      "file_type": "document",
+      "source_file": "ComponentStrippingVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearch_plugin",
+      "label": "PoseSearch Plugin",
+      "file_type": "document",
+      "source_file": "ComponentStrippingVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundeffectsubmixpreset",
+      "label": "SoundEffectSubmixPreset",
+      "file_type": "document",
+      "source_file": "SoundEffectSubmixPreset Objects.md",
+      "source_location": "SoundEffectSubmix.h",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundeffectpreset",
+      "label": "SoundEffectPreset",
+      "file_type": "document",
+      "source_file": "SoundEffectSubmixPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "SoundEffectSubmixPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_distributerotation_rotation",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DistributeRotation_Rotation Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_distributerotation_rotation",
+      "target": "quat",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DistributeRotation_Rotation Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_distributerotation_rotation",
+      "target": "controlrig_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DistributeRotation_Rotation Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "lakecollisioncomponent",
+      "target": "primitivecomponent",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LakeCollisionComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "lakecollisioncomponent",
+      "target": "bodyinstance",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LakeCollisionComponent Objects.md",
+      "source_location": "line 31",
+      "weight": 1.0
+    },
+    {
+      "source": "lakecollisioncomponent",
+      "target": "water_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LakeCollisionComponent Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintarraysum",
+      "target": "rigvmfunction_mathintbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntArraySum Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintarraysum",
+      "target": "rigvm_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntArraySum Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangegenericcommonskeletalmeshesandanimationsproperties",
+      "target": "interchangepipelinebase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangegenericcommonskeletalmeshesandanimationsproperties",
+      "target": "skeleton",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangegenericcommonskeletalmeshesandanimationsproperties",
+      "target": "interchange_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeGenericCommonSkeletalMeshesAndAnimationsProperties Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtype",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtype",
+      "target": "independent_rig",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigType Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtype",
+      "target": "rig_module",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigType Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtype",
+      "target": "modular_rig",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigType Objects.md",
+      "source_location": "line 29",
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigtype",
+      "target": "controlrig_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigType Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolinteger",
+      "target": "rigunitmutable",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlInteger Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolinteger",
+      "target": "controlrigexecutecontext",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlInteger Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolinteger",
+      "target": "controlrig_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetControlInteger Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangegraphinspectorpipeline",
+      "target": "interchangepipelinebase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeGraphInspectorPipeline Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangegraphinspectorpipeline",
+      "target": "interchangeeditor_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeGraphInspectorPipeline Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangegraphinspectorpipeline",
+      "target": "interchangegenericcommonskeletalmeshesandanimationsproperties",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InterchangeGraphInspectorPipeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "forcefeedbackeffectfactory",
+      "target": "factory",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ForceFeedbackEffectFactory Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "forcefeedbackeffectfactory",
+      "target": "assetimporttask",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ForceFeedbackEffectFactory Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "forcefeedbackeffectfactory",
+      "target": "unrealed_module",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ForceFeedbackEffectFactory Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "earthdebugpayloadcontrol",
+      "target": "structbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDebugPayloadControl Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "earthdebugpayloadcontrol",
+      "target": "earthdebuginfofadecontrol",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDebugPayloadControl Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "earthdebugpayloadcontrol",
+      "target": "earthpayloadstate",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDebugPayloadControl Objects.md",
+      "source_location": "line 25",
+      "weight": 1.0
+    },
+    {
+      "source": "earthdebugpayloadcontrol",
+      "target": "aesworld_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDebugPayloadControl Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnode",
+      "target": "object",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnode",
+      "target": "pcgpin",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNode Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnode",
+      "target": "pcgsettingsinterface",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNode Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnode",
+      "target": "pcgsettings",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNode Objects.md",
+      "source_location": "line 136",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnode",
+      "target": "pcggraph",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNode Objects.md",
+      "source_location": "line 168",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnode",
+      "target": "pcg_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNode Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "componentstrippingvector",
+      "target": "enumbase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentStrippingVector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "componentstrippingvector",
+      "target": "strip_xy",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentStrippingVector Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "componentstrippingvector",
+      "target": "strip_z",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentStrippingVector Objects.md",
+      "source_location": "line 29",
+      "weight": 1.0
+    },
+    {
+      "source": "componentstrippingvector",
+      "target": "posesearch_plugin",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentStrippingVector Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "soundeffectsubmixpreset",
+      "target": "soundeffectpreset",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundEffectSubmixPreset Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "soundeffectsubmixpreset",
+      "target": "engine_module",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundEffectSubmixPreset Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolinteger",
+      "target": "rigunit_distributerotation_rotation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintarraysum",
+      "target": "rigunit_setcontrolinteger",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_ecosystem",
+      "label": "ControlRig Ecosystem",
+      "nodes": [
+        "rigunit_distributerotation_rotation",
+        "controlrigtype",
+        "rigunit_setcontrolinteger"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": null
+    },
+    {
+      "id": "import_pipeline_workflow",
+      "label": "Import Pipeline Workflow",
+      "nodes": [
+        "interchangegenericcommonskeletalmeshesandanimationsproperties",
+        "interchangegraphinspectorpipeline",
+        "forcefeedbackeffectfactory"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": null
+    },
+    {
+      "id": "procedural_content_generation",
+      "label": "Procedural Content Generation",
+      "nodes": [
+        "pcgnode",
+        "pcggraph",
+        "pcgsettings",
+        "pcgpin"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": null
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

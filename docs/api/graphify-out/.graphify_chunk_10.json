@@ -1,0 +1,826 @@
+{
+  "nodes": [
+    {
+      "id": "displayclusterconfigurationmediainput_struct",
+      "label": "DisplayClusterConfigurationMediaInput",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationMediaInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediasource_class",
+      "label": "MediaSource",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationMediaInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodelerjunctionprefabalgorithm_class",
+      "label": "EarthRoadModelerJunctionPrefabAlgorithm",
+      "file_type": "code",
+      "source_file": "EarthRoadModelerJunctionPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabalgorithm_class",
+      "label": "EarthPrefabAlgorithm",
+      "file_type": "code",
+      "source_file": "EarthRoadModelerJunctionPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "randomvector_class",
+      "label": "RandomVector",
+      "file_type": "code",
+      "source_file": "RandomVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodevector_class",
+      "label": "FieldNodeVector",
+      "file_type": "code",
+      "source_file": "RandomVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecaptureenvironment_class",
+      "label": "MovieSceneCaptureEnvironment",
+      "file_type": "code",
+      "source_file": "MovieSceneCaptureEnvironment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneimagecaptureprotocolbase_class",
+      "label": "MovieSceneImageCaptureProtocolBase",
+      "file_type": "code",
+      "source_file": "MovieSceneCaptureEnvironment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneaudiocaptureprotocolbase_class",
+      "label": "MovieSceneAudioCaptureProtocolBase",
+      "file_type": "code",
+      "source_file": "MovieSceneCaptureEnvironment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgettickfrequency_enum",
+      "label": "WidgetTickFrequency",
+      "file_type": "code",
+      "source_file": "WidgetTickFrequency Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigswitchparentmode_enum",
+      "label": "RigSwitchParentMode",
+      "file_type": "code",
+      "source_file": "RigSwitchParentMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceactor_onlevelsequenceloaded_delegate",
+      "label": "LevelSequenceActor_OnLevelSequenceLoaded",
+      "file_type": "code",
+      "source_file": "LevelSequenceActor_OnLevelSequenceLoaded Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionarccosinefast_class",
+      "label": "MaterialExpressionArccosineFast",
+      "file_type": "code",
+      "source_file": "MaterialExpressionArccosineFast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_class",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionArccosineFast Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_propagatetransform_class",
+      "label": "RigUnit_PropagateTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_PropagateTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_class",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_PropagateTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_struct",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit_PropagateTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_struct",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit_PropagateTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintbinaryop_class",
+      "label": "RigUnit_MathIntBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbinaryop_class",
+      "label": "RigVMFunction_MathIntBinaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationtrackaddedpayload_struct",
+      "label": "AnimationTrackAddedPayload",
+      "file_type": "code",
+      "source_file": "AnimationTrackAddedPayload Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationtrackpayload_class",
+      "label": "AnimationTrackPayload",
+      "file_type": "code",
+      "source_file": "AnimationTrackAddedPayload Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolshutdowntype_enum",
+      "label": "ToolShutdownType",
+      "file_type": "code",
+      "source_file": "ToolShutdownType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weaponclass_enum",
+      "label": "WeaponClass",
+      "file_type": "code",
+      "source_file": "WeaponClass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eqstestingpawn_class",
+      "label": "EQSTestingPawn",
+      "file_type": "code",
+      "source_file": "EQSTestingPawn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "character_class",
+      "label": "Character",
+      "file_type": "code",
+      "source_file": "EQSTestingPawn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "envquery_class",
+      "label": "EnvQuery",
+      "file_type": "code",
+      "source_file": "EQSTestingPawn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "anchors_struct",
+      "label": "Anchors",
+      "file_type": "code",
+      "source_file": "Anchors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d_struct",
+      "label": "Vector2D",
+      "file_type": "code",
+      "source_file": "Anchors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_savecachedpose_class",
+      "label": "AnimGraphNode_SaveCachedPose",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_class",
+      "label": "AnimGraphNode_Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_savecachedpose_struct",
+      "label": "AnimNode_SaveCachedPose",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpvegetationassetinfo_struct",
+      "label": "WdpVegetationAssetInfo",
+      "file_type": "code",
+      "source_file": "WdpVegetationAssetInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialattributeblend_enum",
+      "label": "MaterialAttributeBlend",
+      "file_type": "code",
+      "source_file": "MaterialAttributeBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorcorrectionwindow_class",
+      "label": "ColorCorrectionWindow",
+      "file_type": "code",
+      "source_file": "ColorCorrectionWindow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorcorrectregion_class",
+      "label": "ColorCorrectRegion",
+      "file_type": "code",
+      "source_file": "ColorCorrectionWindow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorcorrectwindowtype_enum",
+      "label": "ColorCorrectWindowType",
+      "file_type": "code",
+      "source_file": "ColorCorrectionWindow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorgradingsettings_struct",
+      "label": "ColorGradingSettings",
+      "file_type": "code",
+      "source_file": "ColorCorrectionWindow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringwidgetbase_class",
+      "label": "CoveringWidgetBase",
+      "file_type": "code",
+      "source_file": "CoveringWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userwidget_class",
+      "label": "UserWidget",
+      "file_type": "code",
+      "source_file": "CoveringWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpactorentity_class",
+      "label": "WdpActorEntity",
+      "file_type": "code",
+      "source_file": "CoveringWidgetBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationviewport_stereomode_enum",
+      "label": "DisplayClusterConfigurationViewport_StereoMode",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationViewport_StereoMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aistimulus_struct",
+      "label": "AIStimulus",
+      "file_type": "code",
+      "source_file": "AIStimulus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_struct",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "AIStimulus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "displayclusterconfigurationmediainput_struct",
+      "target": "mediasource_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationMediaInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadmodelerjunctionprefabalgorithm_class",
+      "target": "earthprefabalgorithm_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadModelerJunctionPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "randomvector_class",
+      "target": "fieldnodevector_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RandomVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecaptureenvironment_class",
+      "target": "moviesceneimagecaptureprotocolbase_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCaptureEnvironment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecaptureenvironment_class",
+      "target": "moviesceneaudiocaptureprotocolbase_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCaptureEnvironment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionarccosinefast_class",
+      "target": "materialexpression_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArccosineFast Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_propagatetransform_class",
+      "target": "rigunitmutable_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PropagateTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_propagatetransform_class",
+      "target": "rigelementkey_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PropagateTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_propagatetransform_class",
+      "target": "controlrigexecutecontext_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PropagateTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintbinaryop_class",
+      "target": "rigvmfunction_mathintbinaryop_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationtrackaddedpayload_struct",
+      "target": "animationtrackpayload_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationTrackAddedPayload Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eqstestingpawn_class",
+      "target": "character_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EQSTestingPawn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eqstestingpawn_class",
+      "target": "envquery_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EQSTestingPawn Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "anchors_struct",
+      "target": "vector2d_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Anchors Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_savecachedpose_class",
+      "target": "animgraphnode_base_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_savecachedpose_class",
+      "target": "animnode_savecachedpose_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpvegetationassetinfo_struct",
+      "target": "vector2d_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpVegetationAssetInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "colorcorrectionwindow_class",
+      "target": "colorcorrectregion_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorCorrectionWindow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "colorcorrectionwindow_class",
+      "target": "colorcorrectwindowtype_enum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorCorrectionWindow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "colorcorrectionwindow_class",
+      "target": "colorgradingsettings_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ColorCorrectionWindow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coveringwidgetbase_class",
+      "target": "userwidget_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoveringWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coveringwidgetbase_class",
+      "target": "wdpactorentity_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoveringWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coveringwidgetbase_class",
+      "target": "widgettickfrequency_enum",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CoveringWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "coveringwidgetbase_class",
+      "target": "vector2d_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CoveringWidgetBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aistimulus_struct",
+      "target": "vector_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIStimulus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationmediainput_struct",
+      "target": "displayclusterconfigurationviewport_stereomode_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DisplayClusterConfigurationMediaInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigswitchparentmode_enum",
+      "target": "rigunit_propagatetransform_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigSwitchParentMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_savecachedpose_class",
+      "target": "animationtrackaddedpayload_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "randomvector_class",
+      "target": "wdpvegetationassetinfo_struct",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RandomVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_hierarchy_management",
+      "label": "Rig Hierarchy Management Pattern",
+      "nodes": [
+        "rigswitchparentmode_enum",
+        "rigunit_propagatetransform_class",
+        "rigelementkey_struct"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigSwitchParentMode Objects.md"
+    },
+    {
+      "id": "ui_widget_layout_system",
+      "label": "UI Widget Layout System",
+      "nodes": [
+        "anchors_struct",
+        "coveringwidgetbase_class",
+        "vector2d_struct"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Anchors Objects.md"
+    },
+    {
+      "id": "unreal_enum_types",
+      "label": "Unreal Engine Enumeration Types",
+      "nodes": [
+        "widgettickfrequency_enum",
+        "rigswitchparentmode_enum",
+        "toolshutdowntype_enum",
+        "weaponclass_enum",
+        "materialattributeblend_enum",
+        "displayclusterconfigurationviewport_stereomode_enum"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WidgetTickFrequency Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,2018 @@
+{
+  "nodes": [
+    {
+      "id": "class_optimusdeformerinstancesettings",
+      "type": "class",
+      "label": "OptimusDeformerInstanceSettings",
+      "description": "Optimus Deformer Instance Settings",
+      "source_file": "OptimusDeformerInstanceSettings Objects.md"
+    },
+    {
+      "id": "class_meshapproximationsimplificationpolicy",
+      "type": "enum",
+      "label": "MeshApproximationSimplificationPolicy",
+      "description": "EMesh Approximation Simplification Policy",
+      "source_file": "MeshApproximationSimplificationPolicy Objects.md"
+    },
+    {
+      "id": "class_modelerwatermeshactor",
+      "type": "class",
+      "label": "ModelerWaterMeshActor",
+      "description": "Modeler Water Mesh Actor",
+      "source_file": "ModelerWaterMeshActor Objects.md"
+    },
+    {
+      "id": "class_sequencerecordergroup",
+      "type": "class",
+      "label": "SequenceRecorderGroup",
+      "description": "Sequence Recorder Group",
+      "source_file": "SequenceRecorderGroup Objects.md"
+    },
+    {
+      "id": "class_drawfrustumcomponent",
+      "type": "class",
+      "label": "DrawFrustumComponent",
+      "description": "Utility component for drawing a view frustum. Origin is at the component location, frustum points down position X axis.",
+      "source_file": "DrawFrustumComponent Objects.md"
+    },
+    {
+      "id": "class_uinavigationaction",
+      "type": "enum",
+      "label": "UINavigationAction",
+      "description": "Generic UI navigation action that are usually bound to a gamepad or other input device",
+      "source_file": "UINavigationAction Objects.md"
+    },
+    {
+      "id": "class_livelinkvirtualsubject",
+      "type": "class",
+      "label": "LiveLinkVirtualSubject",
+      "description": "A Virtual subject is made up of one or more real subjects from a source",
+      "source_file": "LiveLinkVirtualSubject Objects.md"
+    },
+    {
+      "id": "class_moviescenebasecacheparams",
+      "type": "struct",
+      "label": "MovieSceneBaseCacheParams",
+      "description": "Base class for the cache parameters that will be used in all the cache sections",
+      "source_file": "MovieSceneBaseCacheParams Objects.md"
+    },
+    {
+      "id": "class_lidarclippingvolume",
+      "type": "class",
+      "label": "LidarClippingVolume",
+      "description": "Lidar Clipping Volume",
+      "source_file": "LidarClippingVolume Objects.md"
+    },
+    {
+      "id": "class_coverrealtimevideostyle",
+      "type": "struct",
+      "label": "CoverRealTimeVideoStyle",
+      "description": "Cover Real Time Video Style",
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "class_precomputedvisibilityvolume",
+      "type": "class",
+      "label": "PrecomputedVisibilityVolume",
+      "description": "Precomputed Visibility Volume",
+      "source_file": "PrecomputedVisibilityVolume Objects.md"
+    },
+    {
+      "id": "class_pcgmetadatamakevector3",
+      "type": "enum",
+      "label": "PCGMetadataMakeVector3",
+      "description": "EPCGMetadata Make Vector 3",
+      "source_file": "PCGMetadataMakeVector3 Objects.md"
+    },
+    {
+      "id": "class_opencvarucodictionarysize",
+      "type": "enum",
+      "label": "OpenCVArucoDictionarySize",
+      "description": "EOpen CVAruco Dictionary Size",
+      "source_file": "OpenCVArucoDictionarySize Objects.md"
+    },
+    {
+      "id": "class_geometrycollection",
+      "type": "class",
+      "label": "GeometryCollection",
+      "description": "UGeometryCollectionObject (UObject). UObject wrapper for the FGeometryCollection",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "class_takerecorderusersettings",
+      "type": "class",
+      "label": "TakeRecorderUserSettings",
+      "description": "Universal take recorder settings that apply to a whole take",
+      "source_file": "TakeRecorderUserSettings Objects.md"
+    },
+    {
+      "id": "class_moviegraphcollectionnode",
+      "type": "class",
+      "label": "MovieGraphCollectionNode",
+      "description": "A collection node specifies an interface for doing dynamic scene queries for actors in the world. Collections work in tandem with UMovieGraphModifiers to select which actors the modifiers should be run on.",
+      "source_file": "MovieGraphCollectionNode Objects.md"
+    },
+    {
+      "id": "class_rigunit_getcontrolbool",
+      "type": "class",
+      "label": "RigUnit_GetControlBool",
+      "description": "GetControlBool is used to retrieve a single Bool from a hierarchy.",
+      "source_file": "RigUnit_GetControlBool Objects.md"
+    },
+    {
+      "id": "class_materialexpressionfloattouint",
+      "type": "class",
+      "label": "MaterialExpressionFloatToUInt",
+      "description": "Material Expression Float to UInt",
+      "source_file": "MaterialExpressionFloatToUInt Objects.md"
+    },
+    {
+      "id": "class_foliagetypeobject",
+      "type": "struct",
+      "label": "FoliageTypeObject",
+      "description": "A wrapper struct used to allow the use of either FoliageType assets or FoliageType blueprint classes",
+      "source_file": "FoliageTypeObject Objects.md"
+    },
+    {
+      "id": "class_fzoneshapetype",
+      "type": "enum",
+      "label": "FZoneShapeType",
+      "description": "FZone Shape Type",
+      "source_file": "FZoneShapeType Objects.md"
+    },
+    {
+      "id": "class_earthroadnetprefab",
+      "type": "class",
+      "label": "EarthRoadNetPrefab",
+      "description": "Earth Road Net Prefab",
+      "source_file": "EarthRoadNetPrefab Objects.md"
+    },
+    {
+      "id": "class_submixeffectstereottoquadpreset",
+      "type": "class",
+      "label": "SubmixEffectStereoToQuadPreset",
+      "description": "Submix effect which sends stereo audio to quad (left surround and right surround) if the channel count is greater than 2.",
+      "source_file": "SubmixEffectStereoToQuadPreset Objects.md"
+    },
+    {
+      "id": "module_optimuscore",
+      "type": "module",
+      "label": "OptimusCore",
+      "source_file": "OptimusDeformerInstanceSettings Objects.md"
+    },
+    {
+      "id": "module_engine",
+      "type": "module",
+      "label": "Engine",
+      "source_file": "MeshApproximationSimplificationPolicy Objects.md"
+    },
+    {
+      "id": "module_aesruntimemodeler",
+      "type": "module",
+      "label": "AesRuntimeModeler",
+      "source_file": "ModelerWaterMeshActor Objects.md"
+    },
+    {
+      "id": "module_sequencerecorder",
+      "type": "module",
+      "label": "SequenceRecorder",
+      "source_file": "SequenceRecorderGroup Objects.md"
+    },
+    {
+      "id": "module_slatecore",
+      "type": "module",
+      "label": "SlateCore",
+      "source_file": "UINavigationAction Objects.md"
+    },
+    {
+      "id": "module_livelinkinterface",
+      "type": "module",
+      "label": "LiveLinkInterface",
+      "source_file": "LiveLinkVirtualSubject Objects.md"
+    },
+    {
+      "id": "module_moviescenetracks",
+      "type": "module",
+      "label": "MovieSceneTracks",
+      "source_file": "MovieSceneBaseCacheParams Objects.md"
+    },
+    {
+      "id": "module_lidarpointcloudruntime",
+      "type": "module",
+      "label": "LidarPointCloudRuntime",
+      "source_file": "LidarClippingVolume Objects.md"
+    },
+    {
+      "id": "module_coveringapidefine",
+      "type": "module",
+      "label": "CoveringAPIDefine",
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "module_pcg",
+      "type": "module",
+      "label": "PCG",
+      "source_file": "PCGMetadataMakeVector3 Objects.md"
+    },
+    {
+      "id": "module_opencvhelper",
+      "type": "module",
+      "label": "OpenCVHelper",
+      "source_file": "OpenCVArucoDictionarySize Objects.md"
+    },
+    {
+      "id": "module_geometrycollectionengine",
+      "type": "module",
+      "label": "GeometryCollectionEngine",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "module_takerecorder",
+      "type": "module",
+      "label": "TakeRecorder",
+      "source_file": "TakeRecorderUserSettings Objects.md"
+    },
+    {
+      "id": "module_moverenderpipelinecore",
+      "type": "module",
+      "label": "MovieRenderPipelineCore",
+      "source_file": "MovieGraphCollectionNode Objects.md"
+    },
+    {
+      "id": "module_controlrig",
+      "type": "module",
+      "label": "ControlRig",
+      "source_file": "RigUnit_GetControlBool Objects.md"
+    },
+    {
+      "id": "module_foliage",
+      "type": "module",
+      "label": "Foliage",
+      "source_file": "FoliageTypeObject Objects.md"
+    },
+    {
+      "id": "module_zonegraph",
+      "type": "module",
+      "label": "ZoneGraph",
+      "source_file": "FZoneShapeType Objects.md"
+    },
+    {
+      "id": "module_earthprefab",
+      "type": "module",
+      "label": "EarthPrefab",
+      "source_file": "EarthRoadNetPrefab Objects.md"
+    },
+    {
+      "id": "module_synthesis",
+      "type": "module",
+      "label": "Synthesis",
+      "source_file": "SubmixEffectStereoToQuadPreset Objects.md"
+    },
+    {
+      "id": "plugin_deformergraph",
+      "type": "plugin",
+      "label": "DeformerGraph",
+      "source_file": "OptimusDeformerInstanceSettings Objects.md"
+    },
+    {
+      "id": "plugin_aesruntimemodeler",
+      "type": "plugin",
+      "label": "AesRuntimeModeler",
+      "source_file": "ModelerWaterMeshActor Objects.md"
+    },
+    {
+      "id": "plugin_lidarpointcloud",
+      "type": "plugin",
+      "label": "LidarPointCloud",
+      "source_file": "LidarClippingVolume Objects.md"
+    },
+    {
+      "id": "plugin_coveringapi",
+      "type": "plugin",
+      "label": "CoveringAPI",
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "plugin_pcg",
+      "type": "plugin",
+      "label": "PCG",
+      "source_file": "PCGMetadataMakeVector3 Objects.md"
+    },
+    {
+      "id": "plugin_opencv",
+      "type": "plugin",
+      "label": "OpenCV",
+      "source_file": "OpenCVArucoDictionarySize Objects.md"
+    },
+    {
+      "id": "plugin_takes",
+      "type": "plugin",
+      "label": "Takes",
+      "source_file": "TakeRecorderUserSettings Objects.md"
+    },
+    {
+      "id": "plugin_moverenderpipeline",
+      "type": "plugin",
+      "label": "MovieRenderPipeline",
+      "source_file": "MovieGraphCollectionNode Objects.md"
+    },
+    {
+      "id": "plugin_controlrig",
+      "type": "plugin",
+      "label": "ControlRig",
+      "source_file": "RigUnit_GetControlBool Objects.md"
+    },
+    {
+      "id": "plugin_zonegraph",
+      "type": "plugin",
+      "label": "ZoneGraph",
+      "source_file": "FZoneShapeType Objects.md"
+    },
+    {
+      "id": "plugin_aesworld",
+      "type": "plugin",
+      "label": "AesWorld",
+      "source_file": "EarthRoadNetPrefab Objects.md"
+    },
+    {
+      "id": "plugin_synthesis",
+      "type": "plugin",
+      "label": "Synthesis",
+      "source_file": "SubmixEffectStereoToQuadPreset Objects.md"
+    },
+    {
+      "id": "enumvalue_meshapproximationsimplificationpolicy_fixed_triangle_count",
+      "type": "enum_value",
+      "label": "FIXED_TRIANGLE_COUNT",
+      "value": 0,
+      "source_file": "MeshApproximationSimplificationPolicy Objects.md"
+    },
+    {
+      "id": "enumvalue_meshapproximationsimplificationpolicy_triangles_per_area",
+      "type": "enum_value",
+      "label": "TRIANGLES_PER_AREA",
+      "value": 1,
+      "source_file": "MeshApproximationSimplificationPolicy Objects.md"
+    },
+    {
+      "id": "enumvalue_meshapproximationsimplificationpolicy_geometric_tolerance",
+      "type": "enum_value",
+      "label": "GEOMETRIC_TOLERANCE",
+      "value": 2,
+      "source_file": "MeshApproximationSimplificationPolicy Objects.md"
+    },
+    {
+      "id": "enumvalue_uinavigationaction_accept",
+      "type": "enum_value",
+      "label": "ACCEPT",
+      "value": 0,
+      "description": "Accept, normally acts like a mouse click. Corresponds to Virtual_Accept key",
+      "source_file": "UINavigationAction Objects.md"
+    },
+    {
+      "id": "enumvalue_uinavigationaction_back",
+      "type": "enum_value",
+      "label": "BACK",
+      "value": 1,
+      "description": "Back/Cancel, normally acts like escape. Corresponds to Virtual_Back key",
+      "source_file": "UINavigationAction Objects.md"
+    },
+    {
+      "id": "enumvalue_uinavigationaction_invalid",
+      "type": "enum_value",
+      "label": "INVALID",
+      "value": 3,
+      "description": "Invalid action",
+      "source_file": "UINavigationAction Objects.md"
+    },
+    {
+      "id": "enumvalue_pcgmetadatamakevector3_three_values",
+      "type": "enum_value",
+      "label": "THREE_VALUES",
+      "value": 0,
+      "source_file": "PCGMetadataMakeVector3 Objects.md"
+    },
+    {
+      "id": "enumvalue_pcgmetadatamakevector3_vector2_and_value",
+      "type": "enum_value",
+      "label": "VECTOR2_AND_VALUE",
+      "value": 1,
+      "source_file": "PCGMetadataMakeVector3 Objects.md"
+    },
+    {
+      "id": "enumvalue_opencvarucodictionarysize_dict_size50",
+      "type": "enum_value",
+      "label": "DICT_SIZE50",
+      "value": 0,
+      "source_file": "OpenCVArucoDictionarySize Objects.md"
+    },
+    {
+      "id": "enumvalue_opencvarucodictionarysize_dict_size100",
+      "type": "enum_value",
+      "label": "DICT_SIZE100",
+      "value": 1,
+      "source_file": "OpenCVArucoDictionarySize Objects.md"
+    },
+    {
+      "id": "enumvalue_opencvarucodictionarysize_dict_size250",
+      "type": "enum_value",
+      "label": "DICT_SIZE250",
+      "value": 2,
+      "source_file": "OpenCVArucoDictionarySize Objects.md"
+    },
+    {
+      "id": "enumvalue_opencvarucodictionarysize_dict_size1000",
+      "type": "enum_value",
+      "label": "DICT_SIZE1000",
+      "value": 3,
+      "source_file": "OpenCVArucoDictionarySize Objects.md"
+    },
+    {
+      "id": "enumvalue_fzoneshapetype_spline",
+      "type": "enum_value",
+      "label": "SPLINE",
+      "value": 0,
+      "source_file": "FZoneShapeType Objects.md"
+    },
+    {
+      "id": "enumvalue_fzoneshapetype_polygon",
+      "type": "enum_value",
+      "label": "POLYGON",
+      "value": 1,
+      "description": "Bezier spline shape",
+      "source_file": "FZoneShapeType Objects.md"
+    },
+    {
+      "id": "property_optimusdeformerinstancesettings_bindings",
+      "type": "property",
+      "label": "bindings",
+      "data_type": "Array[OptimusDeformerInstanceComponentBinding]",
+      "access": "read_write",
+      "description": "Array of binding descriptions. This is fixed and used by GetComponentBindings() to resolve final bindings for a given context.",
+      "source_file": "OptimusDeformerInstanceSettings Objects.md"
+    },
+    {
+      "id": "property_modelerwatermeshactor_mesh_info",
+      "type": "property",
+      "label": "mesh_info",
+      "data_type": "WaterMeshInfo",
+      "access": "read_write",
+      "source_file": "ModelerWaterMeshActor Objects.md"
+    },
+    {
+      "id": "property_livelinkvirtualsubject_frame_translators",
+      "type": "property",
+      "label": "frame_translators",
+      "data_type": "Array[LiveLinkFrameTranslator]",
+      "access": "read_write",
+      "description": "List of available translator the subject can use.",
+      "source_file": "LiveLinkVirtualSubject Objects.md"
+    },
+    {
+      "id": "property_livelinkvirtualsubject_rebroadcast_subject",
+      "type": "property",
+      "label": "rebroadcast_subject",
+      "data_type": "bool",
+      "access": "read_write",
+      "description": "If enabled, rebroadcast this subject",
+      "source_file": "LiveLinkVirtualSubject Objects.md"
+    },
+    {
+      "id": "property_livelinkvirtualsubject_subjects",
+      "type": "property",
+      "label": "subjects",
+      "data_type": "Array[LiveLinkSubjectName]",
+      "access": "read_write",
+      "description": "Names of the real subjects to combine into a virtual subject",
+      "source_file": "LiveLinkVirtualSubject Objects.md"
+    },
+    {
+      "id": "property_moviescenebasecacheparams_end_frame_offset",
+      "type": "property",
+      "label": "end_frame_offset",
+      "data_type": "FrameNumber",
+      "access": "read_write",
+      "description": "The offset into the end of the animation clip",
+      "source_file": "MovieSceneBaseCacheParams Objects.md"
+    },
+    {
+      "id": "property_moviescenebasecacheparams_first_loop_start_frame_offset",
+      "type": "property",
+      "label": "first_loop_start_frame_offset",
+      "data_type": "FrameNumber",
+      "access": "read_write",
+      "description": "The offset for the first loop of the animation clip",
+      "source_file": "MovieSceneBaseCacheParams Objects.md"
+    },
+    {
+      "id": "property_moviescenebasecacheparams_play_rate",
+      "type": "property",
+      "label": "play_rate",
+      "data_type": "float",
+      "access": "read_write",
+      "description": "The playback rate of the animation clip",
+      "source_file": "MovieSceneBaseCacheParams Objects.md"
+    },
+    {
+      "id": "property_moviescenebasecacheparams_reverse",
+      "type": "property",
+      "label": "reverse",
+      "data_type": "bool",
+      "access": "read_write",
+      "description": "Reverse the playback of the animation clip",
+      "source_file": "MovieSceneBaseCacheParams Objects.md"
+    },
+    {
+      "id": "property_moviescenebasecacheparams_start_frame_offset",
+      "type": "property",
+      "label": "start_frame_offset",
+      "data_type": "FrameNumber",
+      "access": "read_write",
+      "description": "The offset into the beginning of the animation clip",
+      "source_file": "MovieSceneBaseCacheParams Objects.md"
+    },
+    {
+      "id": "property_lidarclippingvolume_enabled",
+      "type": "property",
+      "label": "enabled",
+      "data_type": "bool",
+      "access": "read_write",
+      "source_file": "LidarClippingVolume Objects.md"
+    },
+    {
+      "id": "property_lidarclippingvolume_mode",
+      "type": "property",
+      "label": "mode",
+      "data_type": "LidarClippingVolumeMode",
+      "access": "read_write",
+      "description": "Affects how this volume affects points",
+      "source_file": "LidarClippingVolume Objects.md"
+    },
+    {
+      "id": "property_lidarclippingvolume_priority",
+      "type": "property",
+      "label": "priority",
+      "data_type": "int32",
+      "access": "read_write",
+      "description": "Determines the processing order of the nodes, in case they overlap. Higher values take priority over lower ones.",
+      "source_file": "LidarClippingVolume Objects.md"
+    },
+    {
+      "id": "property_coverrealtimevideostyle_url",
+      "type": "property",
+      "label": "url",
+      "data_type": "str",
+      "access": "read_write",
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "property_coverrealtimevideostyle_resolution",
+      "type": "property",
+      "label": "resolution",
+      "data_type": "Vector2D",
+      "access": "read_write",
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "property_coverrealtimevideostyle_offset",
+      "type": "property",
+      "label": "offset",
+      "data_type": "Vector2D",
+      "access": "read_write",
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "property_coverrealtimevideostyle_bokeh",
+      "type": "property",
+      "label": "bokeh",
+      "data_type": "float",
+      "access": "read_write",
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "property_coverrealtimevideostyle_corner_shift",
+      "type": "property",
+      "label": "corner_shift",
+      "data_type": "Array[Vector2D]",
+      "access": "read_write",
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "property_takerecorderusersettings_preset_save_dir",
+      "type": "property",
+      "label": "preset_save_dir",
+      "data_type": "DirectoryPath",
+      "access": "read_write",
+      "description": "The default location in which to save take presets",
+      "source_file": "TakeRecorderUserSettings Objects.md"
+    },
+    {
+      "id": "property_takerecorderusersettings_settings",
+      "type": "property",
+      "label": "settings",
+      "data_type": "TakeRecorderUserParameters",
+      "access": "read_only",
+      "description": "User settings that should be passed to a recorder instance",
+      "source_file": "TakeRecorderUserSettings Objects.md"
+    },
+    {
+      "id": "property_moviegraphcollectionnode_collection",
+      "type": "property",
+      "label": "collection",
+      "data_type": "MovieGraphCollection",
+      "access": "read_only",
+      "description": "The collection is customized in the details panel, so the override should always be enabled",
+      "source_file": "MovieGraphCollectionNode Objects.md"
+    },
+    {
+      "id": "property_moviegraphcollectionnode_dynamic_properties",
+      "type": "property",
+      "label": "dynamic_properties",
+      "data_type": "InstancedPropertyBag",
+      "access": "read_write",
+      "description": "Properties which can be dynamically declared on the node (vs. native properties which are always present).",
+      "source_file": "MovieGraphCollectionNode Objects.md"
+    },
+    {
+      "id": "property_moviegraphcollectionnode_override_collection",
+      "type": "property",
+      "label": "override_collection",
+      "data_type": "bool",
+      "access": "read_write",
+      "source_file": "MovieGraphCollectionNode Objects.md"
+    },
+    {
+      "id": "property_moviegraphcollectionnode_script_tags",
+      "type": "property",
+      "label": "script_tags",
+      "data_type": "Array[str]",
+      "access": "read_write",
+      "description": "Tags that can be used to identify this node within a pre/post render script. Tags can be unique in order to identify this specific node, or the same tag can be applied to multiple nodes in order to identify a grouping of nodes.",
+      "source_file": "MovieGraphCollectionNode Objects.md"
+    },
+    {
+      "id": "property_rigunit_getcontrolbool_bool_value",
+      "type": "property",
+      "label": "bool_value",
+      "data_type": "bool",
+      "access": "read_only",
+      "description": "The current bool of the given bone - or identity in case it wasn't found.",
+      "source_file": "RigUnit_GetControlBool Objects.md"
+    },
+    {
+      "id": "property_rigunit_getcontrolbool_control",
+      "type": "property",
+      "label": "control",
+      "data_type": "Name",
+      "access": "read_write",
+      "description": "The name of the Control to retrieve the bool for.",
+      "source_file": "RigUnit_GetControlBool Objects.md"
+    },
+    {
+      "id": "property_materialexpressionfloattouint_desc",
+      "type": "property",
+      "label": "desc",
+      "data_type": "str",
+      "access": "read_write",
+      "description": "A description that level designers can add (shows in the material editor UI).",
+      "source_file": "MaterialExpressionFloatToUInt Objects.md"
+    },
+    {
+      "id": "property_materialexpressionfloattouint_mode",
+      "type": "property",
+      "label": "mode",
+      "data_type": "FloatToIntMode",
+      "access": "read_write",
+      "source_file": "MaterialExpressionFloatToUInt Objects.md"
+    },
+    {
+      "id": "property_foliagetypeobject_foliage_type_object",
+      "type": "property",
+      "label": "foliage_type_object",
+      "data_type": "Object",
+      "access": "read_write",
+      "description": "The foliage type that will be spawned by the procedural foliage simulation",
+      "source_file": "FoliageTypeObject Objects.md"
+    },
+    {
+      "id": "property_earthroadnetprefab_fragments",
+      "type": "property",
+      "label": "fragments",
+      "data_type": "Array[InstancedStruct]",
+      "access": "read_write",
+      "description": "片段数据，结构相同的片段有且仅有一份，不建议在非游戏线程中使用",
+      "source_file": "EarthRoadNetPrefab Objects.md"
+    },
+    {
+      "id": "property_submixeffectstereottoquadpreset_settings",
+      "type": "property",
+      "label": "settings",
+      "data_type": "SubmixEffectStereoToQuadSettings",
+      "access": "read_write",
+      "source_file": "SubmixEffectStereoToQuadPreset Objects.md"
+    },
+    {
+      "id": "property_drawfrustumcomponent_frustum_enabled",
+      "type": "property",
+      "label": "frustum_enabled",
+      "data_type": "bool",
+      "access": "read_write",
+      "description": "Enable or disable frustum visualization for this camera",
+      "source_file": "DrawFrustumComponent Objects.md"
+    },
+    {
+      "id": "property_drawfrustumcomponent_frustum_color",
+      "type": "property",
+      "label": "frustum_color",
+      "data_type": "Color",
+      "access": "read_write",
+      "description": "Color to draw the wireframe frustum.",
+      "source_file": "DrawFrustumComponent Objects.md"
+    },
+    {
+      "id": "property_drawfrustumcomponent_frustum_angle",
+      "type": "property",
+      "label": "frustum_angle",
+      "data_type": "float",
+      "access": "read_write",
+      "description": "Angle of longest dimension of view shape. If the angle is 0 then an orthographic projection is used",
+      "source_file": "DrawFrustumComponent Objects.md"
+    },
+    {
+      "id": "property_drawfrustumcomponent_frustum_aspect_ratio",
+      "type": "property",
+      "label": "frustum_aspect_ratio",
+      "data_type": "float",
+      "access": "read_write",
+      "description": "Ratio of horizontal size over vertical size.",
+      "source_file": "DrawFrustumComponent Objects.md"
+    },
+    {
+      "id": "property_drawfrustumcomponent_frustum_start_dist",
+      "type": "property",
+      "label": "frustum_start_dist",
+      "data_type": "float",
+      "access": "read_write",
+      "description": "Distance from origin to start drawing the frustum.",
+      "source_file": "DrawFrustumComponent Objects.md"
+    },
+    {
+      "id": "property_drawfrustumcomponent_frustum_end_dist",
+      "type": "property",
+      "label": "frustum_end_dist",
+      "data_type": "float",
+      "access": "read_write",
+      "description": "Distance from origin to stop drawing the frustum.",
+      "source_file": "DrawFrustumComponent Objects.md"
+    },
+    {
+      "id": "property_drawfrustumcomponent_texture",
+      "type": "property",
+      "label": "texture",
+      "data_type": "Texture",
+      "access": "read_write",
+      "description": "optional texture to show on the near plane",
+      "source_file": "DrawFrustumComponent Objects.md"
+    },
+    {
+      "id": "property_geometrycollection_damage_model",
+      "type": "property",
+      "label": "damage_model",
+      "data_type": "DamageModelTypeEnum",
+      "access": "read_write",
+      "description": "Damage model to use for evaluating destruction.",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "property_geometrycollection_enable_nanite",
+      "type": "property",
+      "label": "enable_nanite",
+      "data_type": "bool",
+      "access": "read_write",
+      "description": "Enable support for Nanite.",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "property_geometrycollection_mass",
+      "type": "property",
+      "label": "mass",
+      "data_type": "float",
+      "access": "read_write",
+      "description": "Total Mass of Collection. If density, units are in kg/m^3 ( only enabled if physics material is not set )",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "method_modelerwatermeshactor_generate_mesh",
+      "type": "method",
+      "label": "generate_mesh",
+      "return_type": "None",
+      "source_file": "ModelerWaterMeshActor Objects.md"
+    },
+    {
+      "id": "method_modelerwatermeshactor_destroy_component",
+      "type": "method",
+      "label": "destroy_component",
+      "return_type": "None",
+      "source_file": "ModelerWaterMeshActor Objects.md"
+    },
+    {
+      "id": "method_moviescenebasecacheparams___init__",
+      "type": "method",
+      "label": "__init__",
+      "return_type": "None",
+      "source_file": "MovieSceneBaseCacheParams Objects.md"
+    },
+    {
+      "id": "method_coverrealtimevideostyle___init__",
+      "type": "method",
+      "label": "__init__",
+      "return_type": "None",
+      "parameters": ["url", "resolution", "offset", "bokeh", "corner_shift"],
+      "source_file": "CoverRealTimeVideoStyle Objects.md"
+    },
+    {
+      "id": "method_foliagetypeobject___init__",
+      "type": "method",
+      "label": "__init__",
+      "return_type": "None",
+      "source_file": "FoliageTypeObject Objects.md"
+    },
+    {
+      "id": "method_rigunit_getcontrolbool___init__",
+      "type": "method",
+      "label": "__init__",
+      "return_type": "None",
+      "parameters": ["control", "bool_value"],
+      "source_file": "RigUnit_GetControlBool Objects.md"
+    },
+    {
+      "id": "method_earthroadnetprefab___init__",
+      "type": "method",
+      "label": "__init__",
+      "return_type": "None",
+      "parameters": ["fragments"],
+      "source_file": "EarthRoadNetPrefab Objects.md"
+    },
+    {
+      "id": "method_submixeffectstereottoquadpreset_set_settings",
+      "type": "method",
+      "label": "set_settings",
+      "return_type": "None",
+      "parameters": ["settings"],
+      "description": "Set all tap delay settings. This will replace any dynamically added or modified taps.",
+      "source_file": "SubmixEffectStereoToQuadPreset Objects.md"
+    },
+    {
+      "id": "method_geometrycollection_set_enable_nanite",
+      "type": "method",
+      "label": "set_enable_nanite",
+      "return_type": "None",
+      "parameters": ["value"],
+      "description": "Set Enable Nanite",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "method_geometrycollection_set_convert_vertex_colors_to_srgb",
+      "type": "method",
+      "label": "set_convert_vertex_colors_to_srgb",
+      "return_type": "None",
+      "parameters": ["value"],
+      "description": "Set Convert Vertex Colors to SRGB",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "method_geometrycollection_has_asset_user_data_of_class",
+      "type": "method",
+      "label": "has_asset_user_data_of_class",
+      "return_type": "bool",
+      "parameters": ["user_data_class"],
+      "description": "Checks whether or not an instance of the provided AssetUserData class is contained.",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "method_geometrycollection_get_asset_user_data_of_class",
+      "type": "method",
+      "label": "get_asset_user_data_of_class",
+      "return_type": "AssetUserData",
+      "parameters": ["user_data_class"],
+      "description": "Returns an instance of the provided AssetUserData class if it's contained in the target asset.",
+      "source_file": "GeometryCollection Objects.md"
+    },
+    {
+      "id": "method_geometrycollection_add_asset_user_data_of_class",
+      "type": "method",
+      "label": "add_asset_user_data_of_class",
+      "return_type": "bool",
+      "parameters": ["user_data_class"],
+      "description": "Creates and adds an instance of the provided AssetUserData class to the target asset.",
+      "source_file": "GeometryCollection Objects.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_inheritance_optimusdeformerinstancesettings",
+      "type": "inherits_from",
+      "source": "class_optimusdeformerinstancesettings",
+      "target": "class_meshdeformerinstancesettings",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_modelerwatermeshactor",
+      "type": "inherits_from",
+      "source": "class_modelerwatermeshactor",
+      "target": "class_actor",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_sequencerecordergroup",
+      "type": "inherits_from",
+      "source": "class_sequencerecordergroup",
+      "target": "class_actor",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_drawfrustumcomponent",
+      "type": "inherits_from",
+      "source": "class_drawfrustumcomponent",
+      "target": "class_primitivecomponent",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_livelinkvirtualsubject",
+      "type": "inherits_from",
+      "source": "class_livelinkvirtualsubject",
+      "target": "class_object",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_moviescenebasecacheparams",
+      "type": "inherits_from",
+      "source": "class_moviescenebasecacheparams",
+      "target": "class_structbase",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_lidarclippingvolume",
+      "type": "inherits_from",
+      "source": "class_lidarclippingvolume",
+      "target": "class_volume",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_coverrealtimevideostyle",
+      "type": "inherits_from",
+      "source": "class_coverrealtimevideostyle",
+      "target": "class_structbase",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_precomputedvisibilityvolume",
+      "type": "inherits_from",
+      "source": "class_precomputedvisibilityvolume",
+      "target": "class_volume",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_geometrycollection",
+      "type": "inherits_from",
+      "source": "class_geometrycollection",
+      "target": "class_object",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_takerecorderusersettings",
+      "type": "inherits_from",
+      "source": "class_takerecorderusersettings",
+      "target": "class_object",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_moviegraphcollectionnode",
+      "type": "inherits_from",
+      "source": "class_moviegraphcollectionnode",
+      "target": "class_moviegraphsettingnode",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_rigunit_getcontrolbool",
+      "type": "inherits_from",
+      "source": "class_rigunit_getcontrolbool",
+      "target": "class_rigunit",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_materialexpressionfloattouint",
+      "type": "inherits_from",
+      "source": "class_materialexpressionfloattouint",
+      "target": "class_materialexpression",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_foliagetypeobject",
+      "type": "inherits_from",
+      "source": "class_foliagetypeobject",
+      "target": "class_structbase",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_earthroadnetprefab",
+      "type": "inherits_from",
+      "source": "class_earthroadnetprefab",
+      "target": "class_earthprefabbase",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_inheritance_submixeffectstereottoquadpreset",
+      "type": "inherits_from",
+      "source": "class_submixeffectstereottoquadpreset",
+      "target": "class_soundeffectsubmixpreset",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_optimusdeformerinstancesettings",
+      "type": "defined_in_module",
+      "source": "class_optimusdeformerinstancesettings",
+      "target": "module_optimuscore",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_meshapproximationsimplificationpolicy",
+      "type": "defined_in_module",
+      "source": "class_meshapproximationsimplificationpolicy",
+      "target": "module_engine",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_modelerwatermeshactor",
+      "type": "defined_in_module",
+      "source": "class_modelerwatermeshactor",
+      "target": "module_aesruntimemodeler",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_sequencerecordergroup",
+      "type": "defined_in_module",
+      "source": "class_sequencerecordergroup",
+      "target": "module_sequencerecorder",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_drawfrustumcomponent",
+      "type": "defined_in_module",
+      "source": "class_drawfrustumcomponent",
+      "target": "module_engine",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_uinavigationaction",
+      "type": "defined_in_module",
+      "source": "class_uinavigationaction",
+      "target": "module_slatecore",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_livelinkvirtualsubject",
+      "type": "defined_in_module",
+      "source": "class_livelinkvirtualsubject",
+      "target": "module_livelinkinterface",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_moviescenebasecacheparams",
+      "type": "defined_in_module",
+      "source": "class_moviescenebasecacheparams",
+      "target": "module_moviescenetracks",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_lidarclippingvolume",
+      "type": "defined_in_module",
+      "source": "class_lidarclippingvolume",
+      "target": "module_lidarpointcloudruntime",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_coverrealtimevideostyle",
+      "type": "defined_in_module",
+      "source": "class_coverrealtimevideostyle",
+      "target": "module_coveringapidefine",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_precomputedvisibilityvolume",
+      "type": "defined_in_module",
+      "source": "class_precomputedvisibilityvolume",
+      "target": "module_engine",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_pcgmetadatamakevector3",
+      "type": "defined_in_module",
+      "source": "class_pcgmetadatamakevector3",
+      "target": "module_pcg",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_opencvarucodictionarysize",
+      "type": "defined_in_module",
+      "source": "class_opencvarucodictionarysize",
+      "target": "module_opencvhelper",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_geometrycollection",
+      "type": "defined_in_module",
+      "source": "class_geometrycollection",
+      "target": "module_geometrycollectionengine",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_takerecorderusersettings",
+      "type": "defined_in_module",
+      "source": "class_takerecorderusersettings",
+      "target": "module_takerecorder",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_moviegraphcollectionnode",
+      "type": "defined_in_module",
+      "source": "class_moviegraphcollectionnode",
+      "target": "module_moverenderpipelinecore",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_rigunit_getcontrolbool",
+      "type": "defined_in_module",
+      "source": "class_rigunit_getcontrolbool",
+      "target": "module_controlrig",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_materialexpressionfloattouint",
+      "type": "defined_in_module",
+      "source": "class_materialexpressionfloattouint",
+      "target": "module_engine",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_foliagetypeobject",
+      "type": "defined_in_module",
+      "source": "class_foliagetypeobject",
+      "target": "module_foliage",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_fzoneshapetype",
+      "type": "defined_in_module",
+      "source": "class_fzoneshapetype",
+      "target": "module_zonegraph",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_earthroadnetprefab",
+      "type": "defined_in_module",
+      "source": "class_earthroadnetprefab",
+      "target": "module_earthprefab",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_module_submixeffectstereottoquadpreset",
+      "type": "defined_in_module",
+      "source": "class_submixeffectstereottoquadpreset",
+      "target": "module_synthesis",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_optimusdeformerinstancesettings",
+      "type": "defined_in_plugin",
+      "source": "class_optimusdeformerinstancesettings",
+      "target": "plugin_deformergraph",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_modelerwatermeshactor",
+      "type": "defined_in_plugin",
+      "source": "class_modelerwatermeshactor",
+      "target": "plugin_aesruntimemodeler",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_lidarclippingvolume",
+      "type": "defined_in_plugin",
+      "source": "class_lidarclippingvolume",
+      "target": "plugin_lidarpointcloud",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_coverrealtimevideostyle",
+      "type": "defined_in_plugin",
+      "source": "class_coverrealtimevideostyle",
+      "target": "plugin_coveringapi",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_pcgmetadatamakevector3",
+      "type": "defined_in_plugin",
+      "source": "class_pcgmetadatamakevector3",
+      "target": "plugin_pcg",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_opencvarucodictionarysize",
+      "type": "defined_in_plugin",
+      "source": "class_opencvarucodictionarysize",
+      "target": "plugin_opencv",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_takerecorderusersettings",
+      "type": "defined_in_plugin",
+      "source": "class_takerecorderusersettings",
+      "target": "plugin_takes",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_moviegraphcollectionnode",
+      "type": "defined_in_plugin",
+      "source": "class_moviegraphcollectionnode",
+      "target": "plugin_moverenderpipeline",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_rigunit_getcontrolbool",
+      "type": "defined_in_plugin",
+      "source": "class_rigunit_getcontrolbool",
+      "target": "plugin_controlrig",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_fzoneshapetype",
+      "type": "defined_in_plugin",
+      "source": "class_fzoneshapetype",
+      "target": "plugin_zonegraph",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_earthroadnetprefab",
+      "type": "defined_in_plugin",
+      "source": "class_earthroadnetprefab",
+      "target": "plugin_aesworld",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_plugin_submixeffectstereottoquadpreset",
+      "type": "defined_in_plugin",
+      "source": "class_submixeffectstereottoquadpreset",
+      "target": "plugin_synthesis",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_meshapproximationsimplificationpolicy_fixed_triangle_count",
+      "type": "enum_value_of",
+      "source": "enumvalue_meshapproximationsimplificationpolicy_fixed_triangle_count",
+      "target": "class_meshapproximationsimplificationpolicy",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_meshapproximationsimplificationpolicy_triangles_per_area",
+      "type": "enum_value_of",
+      "source": "enumvalue_meshapproximationsimplificationpolicy_triangles_per_area",
+      "target": "class_meshapproximationsimplificationpolicy",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_meshapproximationsimplificationpolicy_geometric_tolerance",
+      "type": "enum_value_of",
+      "source": "enumvalue_meshapproximationsimplificationpolicy_geometric_tolerance",
+      "target": "class_meshapproximationsimplificationpolicy",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_uinavigationaction_accept",
+      "type": "enum_value_of",
+      "source": "enumvalue_uinavigationaction_accept",
+      "target": "class_uinavigationaction",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_uinavigationaction_back",
+      "type": "enum_value_of",
+      "source": "enumvalue_uinavigationaction_back",
+      "target": "class_uinavigationaction",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_uinavigationaction_invalid",
+      "type": "enum_value_of",
+      "source": "enumvalue_uinavigationaction_invalid",
+      "target": "class_uinavigationaction",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_pcgmetadatamakevector3_three_values",
+      "type": "enum_value_of",
+      "source": "enumvalue_pcgmetadatamakevector3_three_values",
+      "target": "class_pcgmetadatamakevector3",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_pcgmetadatamakevector3_vector2_and_value",
+      "type": "enum_value_of",
+      "source": "enumvalue_pcgmetadatamakevector3_vector2_and_value",
+      "target": "class_pcgmetadatamakevector3",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_opencvarucodictionarysize_dict_size50",
+      "type": "enum_value_of",
+      "source": "enumvalue_opencvarucodictionarysize_dict_size50",
+      "target": "class_opencvarucodictionarysize",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_opencvarucodictionarysize_dict_size100",
+      "type": "enum_value_of",
+      "source": "enumvalue_opencvarucodictionarysize_dict_size100",
+      "target": "class_opencvarucodictionarysize",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_opencvarucodictionarysize_dict_size250",
+      "type": "enum_value_of",
+      "source": "enumvalue_opencvarucodictionarysize_dict_size250",
+      "target": "class_opencvarucodictionarysize",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_opencvarucodictionarysize_dict_size1000",
+      "type": "enum_value_of",
+      "source": "enumvalue_opencvarucodictionarysize_dict_size1000",
+      "target": "class_opencvarucodictionarysize",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_fzoneshapetype_spline",
+      "type": "enum_value_of",
+      "source": "enumvalue_fzoneshapetype_spline",
+      "target": "class_fzoneshapetype",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_enumvalue_fzoneshapetype_polygon",
+      "type": "enum_value_of",
+      "source": "enumvalue_fzoneshapetype_polygon",
+      "target": "class_fzoneshapetype",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_optimusdeformerinstancesettings_bindings",
+      "type": "property_of",
+      "source": "property_optimusdeformerinstancesettings_bindings",
+      "target": "class_optimusdeformerinstancesettings",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_modelerwatermeshactor_mesh_info",
+      "type": "property_of",
+      "source": "property_modelerwatermeshactor_mesh_info",
+      "target": "class_modelerwatermeshactor",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_livelinkvirtualsubject_frame_translators",
+      "type": "property_of",
+      "source": "property_livelinkvirtualsubject_frame_translators",
+      "target": "class_livelinkvirtualsubject",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_livelinkvirtualsubject_rebroadcast_subject",
+      "type": "property_of",
+      "source": "property_livelinkvirtualsubject_rebroadcast_subject",
+      "target": "class_livelinkvirtualsubject",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_livelinkvirtualsubject_subjects",
+      "type": "property_of",
+      "source": "property_livelinkvirtualsubject_subjects",
+      "target": "class_livelinkvirtualsubject",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviescenebasecacheparams_end_frame_offset",
+      "type": "property_of",
+      "source": "property_moviescenebasecacheparams_end_frame_offset",
+      "target": "class_moviescenebasecacheparams",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviescenebasecacheparams_first_loop_start_frame_offset",
+      "type": "property_of",
+      "source": "property_moviescenebasecacheparams_first_loop_start_frame_offset",
+      "target": "class_moviescenebasecacheparams",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviescenebasecacheparams_play_rate",
+      "type": "property_of",
+      "source": "property_moviescenebasecacheparams_play_rate",
+      "target": "class_moviescenebasecacheparams",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviescenebasecacheparams_reverse",
+      "type": "property_of",
+      "source": "property_moviescenebasecacheparams_reverse",
+      "target": "class_moviescenebasecacheparams",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviescenebasecacheparams_start_frame_offset",
+      "type": "property_of",
+      "source": "property_moviescenebasecacheparams_start_frame_offset",
+      "target": "class_moviescenebasecacheparams",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_lidarclippingvolume_enabled",
+      "type": "property_of",
+      "source": "property_lidarclippingvolume_enabled",
+      "target": "class_lidarclippingvolume",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_lidarclippingvolume_mode",
+      "type": "property_of",
+      "source": "property_lidarclippingvolume_mode",
+      "target": "class_lidarclippingvolume",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_lidarclippingvolume_priority",
+      "type": "property_of",
+      "source": "property_lidarclippingvolume_priority",
+      "target": "class_lidarclippingvolume",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_coverrealtimevideostyle_url",
+      "type": "property_of",
+      "source": "property_coverrealtimevideostyle_url",
+      "target": "class_coverrealtimevideostyle",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_coverrealtimevideostyle_resolution",
+      "type": "property_of",
+      "source": "property_coverrealtimevideostyle_resolution",
+      "target": "class_coverrealtimevideostyle",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_coverrealtimevideostyle_offset",
+      "type": "property_of",
+      "source": "property_coverrealtimevideostyle_offset",
+      "target": "class_coverrealtimevideostyle",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_coverrealtimevideostyle_bokeh",
+      "type": "property_of",
+      "source": "property_coverrealtimevideostyle_bokeh",
+      "target": "class_coverrealtimevideostyle",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_coverrealtimevideostyle_corner_shift",
+      "type": "property_of",
+      "source": "property_coverrealtimevideostyle_corner_shift",
+      "target": "class_coverrealtimevideostyle",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_takerecorderusersettings_preset_save_dir",
+      "type": "property_of",
+      "source": "property_takerecorderusersettings_preset_save_dir",
+      "target": "class_takerecorderusersettings",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_takerecorderusersettings_settings",
+      "type": "property_of",
+      "source": "property_takerecorderusersettings_settings",
+      "target": "class_takerecorderusersettings",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviegraphcollectionnode_collection",
+      "type": "property_of",
+      "source": "property_moviegraphcollectionnode_collection",
+      "target": "class_moviegraphcollectionnode",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviegraphcollectionnode_dynamic_properties",
+      "type": "property_of",
+      "source": "property_moviegraphcollectionnode_dynamic_properties",
+      "target": "class_moviegraphcollectionnode",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviegraphcollectionnode_override_collection",
+      "type": "property_of",
+      "source": "property_moviegraphcollectionnode_override_collection",
+      "target": "class_moviegraphcollectionnode",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_moviegraphcollectionnode_script_tags",
+      "type": "property_of",
+      "source": "property_moviegraphcollectionnode_script_tags",
+      "target": "class_moviegraphcollectionnode",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_rigunit_getcontrolbool_bool_value",
+      "type": "property_of",
+      "source": "property_rigunit_getcontrolbool_bool_value",
+      "target": "class_rigunit_getcontrolbool",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_rigunit_getcontrolbool_control",
+      "type": "property_of",
+      "source": "property_rigunit_getcontrolbool_control",
+      "target": "class_rigunit_getcontrolbool",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_materialexpressionfloattouint_desc",
+      "type": "property_of",
+      "source": "property_materialexpressionfloattouint_desc",
+      "target": "class_materialexpressionfloattouint",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_materialexpressionfloattouint_mode",
+      "type": "property_of",
+      "source": "property_materialexpressionfloattouint_mode",
+      "target": "class_materialexpressionfloattouint",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_foliagetypeobject_foliage_type_object",
+      "type": "property_of",
+      "source": "property_foliagetypeobject_foliage_type_object",
+      "target": "class_foliagetypeobject",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_earthroadnetprefab_fragments",
+      "type": "property_of",
+      "source": "property_earthroadnetprefab_fragments",
+      "target": "class_earthroadnetprefab",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_submixeffectstereottoquadpreset_settings",
+      "type": "property_of",
+      "source": "property_submixeffectstereottoquadpreset_settings",
+      "target": "class_submixeffectstereottoquadpreset",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_drawfrustumcomponent_frustum_enabled",
+      "type": "property_of",
+      "source": "property_drawfrustumcomponent_frustum_enabled",
+      "target": "class_drawfrustumcomponent",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_drawfrustumcomponent_frustum_color",
+      "type": "property_of",
+      "source": "property_drawfrustumcomponent_frustum_color",
+      "target": "class_drawfrustumcomponent",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_drawfrustumcomponent_frustum_angle",
+      "type": "property_of",
+      "source": "property_drawfrustumcomponent_frustum_angle",
+      "target": "class_drawfrustumcomponent",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_drawfrustumcomponent_frustum_aspect_ratio",
+      "type": "property_of",
+      "source": "property_drawfrustumcomponent_frustum_aspect_ratio",
+      "target": "class_drawfrustumcomponent",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_drawfrustumcomponent_frustum_start_dist",
+      "type": "property_of",
+      "source": "property_drawfrustumcomponent_frustum_start_dist",
+      "target": "class_drawfrustumcomponent",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_drawfrustumcomponent_frustum_end_dist",
+      "type": "property_of",
+      "source": "property_drawfrustumcomponent_frustum_end_dist",
+      "target": "class_drawfrustumcomponent",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_drawfrustumcomponent_texture",
+      "type": "property_of",
+      "source": "property_drawfrustumcomponent_texture",
+      "target": "class_drawfrustumcomponent",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_geometrycollection_damage_model",
+      "type": "property_of",
+      "source": "property_geometrycollection_damage_model",
+      "target": "class_geometrycollection",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_geometrycollection_enable_nanite",
+      "type": "property_of",
+      "source": "property_geometrycollection_enable_nanite",
+      "target": "class_geometrycollection",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_property_geometrycollection_mass",
+      "type": "property_of",
+      "source": "property_geometrycollection_mass",
+      "target": "class_geometrycollection",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_modelerwatermeshactor_generate_mesh",
+      "type": "method_of",
+      "source": "method_modelerwatermeshactor_generate_mesh",
+      "target": "class_modelerwatermeshactor",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_modelerwatermeshactor_destroy_component",
+      "type": "method_of",
+      "source": "method_modelerwatermeshactor_destroy_component",
+      "target": "class_modelerwatermeshactor",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_moviescenebasecacheparams___init__",
+      "type": "method_of",
+      "source": "method_moviescenebasecacheparams___init__",
+      "target": "class_moviescenebasecacheparams",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_coverrealtimevideostyle___init__",
+      "type": "method_of",
+      "source": "method_coverrealtimevideostyle___init__",
+      "target": "class_coverrealtimevideostyle",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_foliagetypeobject___init__",
+      "type": "method_of",
+      "source": "method_foliagetypeobject___init__",
+      "target": "class_foliagetypeobject",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_rigunit_getcontrolbool___init__",
+      "type": "method_of",
+      "source": "method_rigunit_getcontrolbool___init__",
+      "target": "class_rigunit_getcontrolbool",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_earthroadnetprefab___init__",
+      "type": "method_of",
+      "source": "method_earthroadnetprefab___init__",
+      "target": "class_earthroadnetprefab",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_submixeffectstereottoquadpreset_set_settings",
+      "type": "method_of",
+      "source": "method_submixeffectstereottoquadpreset_set_settings",
+      "target": "class_submixeffectstereottoquadpreset",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_geometrycollection_set_enable_nanite",
+      "type": "method_of",
+      "source": "method_geometrycollection_set_enable_nanite",
+      "target": "class_geometrycollection",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_geometrycollection_set_convert_vertex_colors_to_srgb",
+      "type": "method_of",
+      "source": "method_geometrycollection_set_convert_vertex_colors_to_srgb",
+      "target": "class_geometrycollection",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_geometrycollection_has_asset_user_data_of_class",
+      "type": "method_of",
+      "source": "method_geometrycollection_has_asset_user_data_of_class",
+      "target": "class_geometrycollection",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_geometrycollection_get_asset_user_data_of_class",
+      "type": "method_of",
+      "source": "method_geometrycollection_get_asset_user_data_of_class",
+      "target": "class_geometrycollection",
+      "weight": 1.0
+    },
+    {
+      "id": "edge_method_geometrycollection_add_asset_user_data_of_class",
+      "type": "method_of",
+      "source": "method_geometrycollection_add_asset_user_data_of_class",
+      "target": "class_geometrycollection",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_actor_inheritance_tree",
+      "type": "inheritance_tree",
+      "nodes": [
+        "class_modelerwatermeshactor",
+        "class_sequencerecordergroup",
+        "class_lidarclippingvolume",
+        "class_precomputedvisibilityvolume",
+        "class_actor",
+        "class_volume"
+      ],
+      "description": "Actor and Volume inheritance hierarchy"
+    },
+    {
+      "id": "hyperedge_structbase_inheritance_tree",
+      "type": "inheritance_tree",
+      "nodes": [
+        "class_moviescenebasecacheparams",
+        "class_coverrealtimevideostyle",
+        "class_foliagetypeobject",
+        "class_structbase"
+      ],
+      "description": "StructBase inheritance hierarchy"
+    },
+    {
+      "id": "hyperedge_object_inheritance_tree",
+      "type": "inheritance_tree",
+      "nodes": [
+        "class_livelinkvirtualsubject",
+        "class_geometrycollection",
+        "class_takerecorderusersettings",
+        "class_object"
+      ],
+      "description": "Object inheritance hierarchy"
+    },
+    {
+      "id": "hyperedge_engine_module_classes",
+      "type": "module_grouping",
+      "nodes": [
+        "class_meshapproximationsimplificationpolicy",
+        "class_drawfrustumcomponent",
+        "class_precomputedvisibilityvolume",
+        "class_materialexpressionfloattouint",
+        "module_engine"
+      ],
+      "description": "Classes defined in the Engine module"
+    },
+    {
+      "id": "hyperedge_plugin_ecosystem",
+      "type": "plugin_ecosystem",
+      "nodes": [
+        "class_optimusdeformerinstancesettings",
+        "class_modelerwatermeshactor",
+        "class_lidarclippingvolume",
+        "class_coverrealtimevideostyle",
+        "class_pcgmetadatamakevector3",
+        "class_opencvarucodictionarysize",
+        "class_takerecorderusersettings",
+        "class_moviegraphcollectionnode",
+        "class_rigunit_getcontrolbool",
+        "class_fzoneshapetype",
+        "class_earthroadnetprefab",
+        "class_submixeffectstereottoquadpreset",
+        "plugin_deformergraph",
+        "plugin_aesruntimemodeler",
+        "plugin_lidarpointcloud",
+        "plugin_coveringapi",
+        "plugin_pcg",
+        "plugin_opencv",
+        "plugin_takes",
+        "plugin_moverenderpipeline",
+        "plugin_controlrig",
+        "plugin_zonegraph",
+        "plugin_aesworld",
+        "plugin_synthesis"
+      ],
+      "description": "Plugin-based class ecosystem"
+    },
+    {
+      "id": "hyperedge_enum_types",
+      "type": "type_grouping",
+      "nodes": [
+        "class_meshapproximationsimplificationpolicy",
+        "class_uinavigationaction",
+        "class_pcgmetadatamakevector3",
+        "class_opencvarucodictionarysize",
+        "class_fzoneshapetype"
+      ],
+      "description": "Enumeration types in the dataset"
+    },
+    {
+      "id": "hyperedge_struct_types",
+      "type": "type_grouping",
+      "nodes": [
+        "class_moviescenebasecacheparams",
+        "class_coverrealtimevideostyle",
+        "class_foliagetypeobject"
+      ],
+      "description": "Struct types in the dataset"
+    },
+    {
+      "id": "hyperedge_component_types",
+      "type": "type_grouping",
+      "nodes": [
+        "class_drawfrustumcomponent"
+      ],
+      "description": "Component types in the dataset"
+    },
+    {
+      "id": "hyperedge_geometry_collection_ecosystem",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_geometrycollection",
+        "property_geometrycollection_damage_model",
+        "property_geometrycollection_enable_nanite",
+        "property_geometrycollection_mass",
+        "method_geometrycollection_set_enable_nanite",
+        "method_geometrycollection_set_convert_vertex_colors_to_srgb",
+        "method_geometrycollection_has_asset_user_data_of_class",
+        "method_geometrycollection_get_asset_user_data_of_class",
+        "method_geometrycollection_add_asset_user_data_of_class"
+      ],
+      "description": "GeometryCollection and its properties and methods"
+    },
+    {
+      "id": "hyperedge_frustum_visualization",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_drawfrustumcomponent",
+        "property_drawfrustumcomponent_frustum_enabled",
+        "property_drawfrustumcomponent_frustum_color",
+        "property_drawfrustumcomponent_frustum_angle",
+        "property_drawfrustumcomponent_frustum_aspect_ratio",
+        "property_drawfrustumcomponent_frustum_start_dist",
+        "property_drawfrustumcomponent_frustum_end_dist",
+        "property_drawfrustumcomponent_texture"
+      ],
+      "description": "DrawFrustumComponent and its frustum visualization properties"
+    },
+    {
+      "id": "hyperedge_lidar_processing",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_lidarclippingvolume",
+        "property_lidarclippingvolume_enabled",
+        "property_lidarclippingvolume_mode",
+        "property_lidarclippingvolume_priority"
+      ],
+      "description": "LidarClippingVolume and its processing properties"
+    },
+    {
+      "id": "hyperedge_movie_recording",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_takerecorderusersettings",
+        "class_moviegraphcollectionnode",
+        "property_takerecorderusersettings_preset_save_dir",
+        "property_takerecorderusersettings_settings",
+        "property_moviegraphcollectionnode_collection",
+        "property_moviegraphcollectionnode_dynamic_properties",
+        "property_moviegraphcollectionnode_override_collection",
+        "property_moviegraphcollectionnode_script_tags"
+      ],
+      "description": "Movie recording and rendering ecosystem"
+    },
+    {
+      "id": "hyperedge_control_rig",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_rigunit_getcontrolbool",
+        "property_rigunit_getcontrolbool_bool_value",
+        "property_rigunit_getcontrolbool_control",
+        "method_rigunit_getcontrolbool___init__"
+      ],
+      "description": "ControlRig unit for boolean control retrieval"
+    },
+    {
+      "id": "hyperedge_water_mesh_modeling",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_modelerwatermeshactor",
+        "property_modelerwatermeshactor_mesh_info",
+        "method_modelerwatermeshactor_generate_mesh",
+        "method_modelerwatermeshactor_destroy_component"
+      ],
+      "description": "Water mesh modeling and generation"
+    },
+    {
+      "id": "hyperedge_audio_processing",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_submixeffectstereottoquadpreset",
+        "property_submixeffectstereottoquadpreset_settings",
+        "method_submixeffectstereottoquadpreset_set_settings"
+      ],
+      "description": "Audio submix effect for stereo to quad conversion"
+    },
+    {
+      "id": "hyperedge_video_style",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_coverrealtimevideostyle",
+        "property_coverrealtimevideostyle_url",
+        "property_coverrealtimevideostyle_resolution",
+        "property_coverrealtimevideostyle_offset",
+        "property_coverrealtimevideostyle_bokeh",
+        "property_coverrealtimevideostyle_corner_shift",
+        "method_coverrealtimevideostyle___init__"
+      ],
+      "description": "Real-time video style configuration"
+    },
+    {
+      "id": "hyperedge_foliage_system",
+      "type": "feature_ecosystem",
+      "nodes": [
+        "class_foliagetypeobject",
+        "property_foliagetypeobject_foliage_type_object",
+        "method_foliagetypeobject___init__"
+      ],
+      "description": "Foliage type wrapper system"
+    }
+  ],
+  "metadata": {
+    "chunk_id": 653,
+    "source_files": [
+      "OptimusDeformerInstanceSettings Objects.md",
+      "MeshApproximationSimplificationPolicy Objects.md",
+      "ModelerWaterMeshActor Objects.md",
+      "SequenceRecorderGroup Objects.md",
+      "DrawFrustumComponent Objects.md",
+      "UINavigationAction Objects.md",
+      "LiveLinkVirtualSubject Objects.md",
+      "MovieSceneBaseCacheParams Objects.md",
+      "LidarClippingVolume Objects.md",
+      "CoverRealTimeVideoStyle Objects.md",
+      "PrecomputedVisibilityVolume Objects.md",
+      "PCGMetadataMakeVector3 Objects.md",
+      "OpenCVArucoDictionarySize Objects.md",
+      "GeometryCollection Objects.md",
+      "TakeRecorderUserSettings Objects.md",
+      "MovieGraphCollectionNode Objects.md",
+      "RigUnit_GetControlBool Objects.md",
+      "MaterialExpressionFloatToUInt Objects.md",
+      "FoliageTypeObject Objects.md",
+      "FZoneShapeType Objects.md",
+      "EarthRoadNetPrefab Objects.md",
+      "SubmixEffectStereoToQuadPreset Objects.md"
+    ],
+    "total_nodes": 118,
+    "total_edges": 138,
+    "total_hyperedges": 17,
+    "generation_timestamp": "2026-04-12T00:00:00Z",
+    "node_type_distribution": {
+      "class": 22,
+      "enum": 5,
+      "struct": 3,
+      "module": 18,
+      "plugin": 13,
+      "enum_value": 15,
+      "property": 38,
+      "method": 14
+    },
+    "edge_type_distribution": {
+      "inherits_from": 17,
+      "defined_in_module": 22,
+      "defined_in_plugin": 13,
+      "enum_value_of": 15,
+      "property_of": 38,
+      "method_of": 14
+    }
+  }
+}

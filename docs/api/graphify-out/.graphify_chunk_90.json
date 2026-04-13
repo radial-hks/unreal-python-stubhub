@@ -1,0 +1,864 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_stringjoin",
+      "label": "RigVMFunction_StringJoin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringJoin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringbase",
+      "label": "RigVMFunction_StringBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringJoin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionswingtwist",
+      "label": "RigUnit_MathQuaternionSwingTwist",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionSwingTwist Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiovolumesubmixoverridesettings",
+      "label": "AudioVolumeSubmixOverrideSettings",
+      "file_type": "document",
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundsubmix",
+      "label": "SoundSubmix",
+      "file_type": "document",
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundeffectsubmixpreset",
+      "label": "SoundEffectSubmixPreset",
+      "file_type": "document",
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionruntimevirtualtexturesample",
+      "label": "MaterialExpressionRuntimeVirtualTextureSample",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimevirtualtexture",
+      "label": "RuntimeVirtualTexture",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimevirtualtexturematerialtype",
+      "label": "RuntimeVirtualTextureMaterialType",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bingmapsstyle",
+      "label": "BingMapsStyle",
+      "file_type": "document",
+      "source_file": "BingMapsStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lineardriveconstraint",
+      "label": "LinearDriveConstraint",
+      "file_type": "document",
+      "source_file": "LinearDriveConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintdrive",
+      "label": "ConstraintDrive",
+      "file_type": "document",
+      "source_file": "LinearDriveConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptremeshoptions",
+      "label": "GeometryScriptRemeshOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptremeshsmoothingtype",
+      "label": "GeometryScriptRemeshSmoothingType",
+      "file_type": "document",
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptremeshedgeconstrainttype",
+      "label": "GeometryScriptRemeshEdgeConstraintType",
+      "file_type": "document",
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poistyle_marker",
+      "label": "poiStyle_marker",
+      "file_type": "document",
+      "source_file": "poiStyle__marker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poistyle_marker_image",
+      "label": "poiStyle_marker_image",
+      "file_type": "document",
+      "source_file": "poiStyle__marker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstrateconvertmaterialattributes",
+      "label": "MaterialExpressionSubstrateConvertMaterialAttributes",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratebsdf",
+      "label": "MaterialExpressionSubstrateBSDF",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsurfaceprofile",
+      "label": "SubsurfaceProfile",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialshadingmodel",
+      "label": "MaterialShadingModel",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity",
+      "label": "Entity",
+      "file_type": "document",
+      "source_file": "Entity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shadowmaptexture2d",
+      "label": "ShadowMapTexture2D",
+      "file_type": "document",
+      "source_file": "ShadowMapTexture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture2d",
+      "label": "Texture2D",
+      "file_type": "document",
+      "source_file": "ShadowMapTexture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressiondivide",
+      "label": "DMMaterialStageExpressionDivide",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionDivide Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionmathbase",
+      "label": "DMMaterialStageExpressionMathBase",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionDivide Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringJoin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumforunreal_plugin",
+      "label": "CesiumForUnreal Plugin",
+      "file_type": "document",
+      "source_file": "BingMapsStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "document",
+      "source_file": "poiStyle__marker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterial_plugin",
+      "label": "DynamicMaterial Plugin",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionDivide Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "string_manipulation",
+      "label": "String Manipulation",
+      "file_type": "document",
+      "source_file": "RigVMFunction_StringJoin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternion_math",
+      "label": "Quaternion Mathematics",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionSwingTwist Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_submix_system",
+      "label": "Audio Submix System",
+      "file_type": "document",
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "virtual_texturing",
+      "label": "Virtual Texturing",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometry_processing",
+      "label": "Geometry Processing",
+      "file_type": "document",
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_shading",
+      "label": "Material Shading",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shadow_rendering",
+      "label": "Shadow Rendering",
+      "file_type": "document",
+      "source_file": "ShadowMapTexture2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_stringjoin",
+      "target": "rigvmfunction_stringbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringJoin Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringjoin",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_StringJoin Objects.md",
+      "source_location": "lines 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringjoin",
+      "target": "string_manipulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_StringJoin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionswingtwist",
+      "target": "rigvmfunction_mathquaternionswingtwist",
+      "relation": "deprecated_alias_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionSwingTwist Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionswingtwist",
+      "target": "quaternion_math",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_MathQuaternionSwingTwist Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumesubmixoverridesettings",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": "lines 9-12",
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumesubmixoverridesettings",
+      "target": "soundsubmix",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumesubmixoverridesettings",
+      "target": "soundeffectsubmixpreset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "audiovolumesubmixoverridesettings",
+      "target": "audio_submix_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionruntimevirtualtexturesample",
+      "target": "materialexpression",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionruntimevirtualtexturesample",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": "lines 9-12",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionruntimevirtualtexturesample",
+      "target": "runtimevirtualtexture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionruntimevirtualtexturesample",
+      "target": "runtimevirtualtexturematerialtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": "line 23",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionruntimevirtualtexturesample",
+      "target": "virtual_texturing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bingmapsstyle",
+      "target": "cesiumforunreal_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BingMapsStyle Objects.md",
+      "source_location": "lines 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "lineardriveconstraint",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LinearDriveConstraint Objects.md",
+      "source_location": "lines 10-12",
+      "weight": 1.0
+    },
+    {
+      "source": "lineardriveconstraint",
+      "target": "constraintdrive",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LinearDriveConstraint Objects.md",
+      "source_location": "lines 21-23",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptremeshoptions",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptremeshoptions",
+      "target": "geometryscriptremeshsmoothingtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": "line 30",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptremeshoptions",
+      "target": "geometryscriptremeshedgeconstrainttype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": "lines 22-24",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptremeshoptions",
+      "target": "geometry_processing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "poistyle_marker",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "poiStyle__marker Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "poistyle_marker",
+      "target": "poistyle_marker_image",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "poiStyle__marker Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstrateconvertmaterialattributes",
+      "target": "materialexpressionsubstratebsdf",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": "lines 4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstrateconvertmaterialattributes",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstrateconvertmaterialattributes",
+      "target": "subsurfaceprofile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstrateconvertmaterialattributes",
+      "target": "materialshadingmodel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstrateconvertmaterialattributes",
+      "target": "material_shading",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MaterialExpressionSubstrateConvertMaterialAttributes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entity",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Entity Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "shadowmaptexture2d",
+      "target": "texture2d",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ShadowMapTexture2D Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "shadowmaptexture2d",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ShadowMapTexture2D Objects.md",
+      "source_location": "lines 9-12",
+      "weight": 1.0
+    },
+    {
+      "source": "shadowmaptexture2d",
+      "target": "shadow_rendering",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "ShadowMapTexture2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiondivide",
+      "target": "dmmaterialstageexpressionmathbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionDivide Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiondivide",
+      "target": "dynamicmaterial_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionDivide Objects.md",
+      "source_location": "lines 10-13",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionruntimevirtualtexturesample",
+      "target": "materialexpressionsubstrateconvertmaterialattributes",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiondivide",
+      "target": "materialexpression",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DMMaterialStageExpressionDivide Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptremeshoptions",
+      "target": "lineardriveconstraint",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryScriptRemeshOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "material_expression_hierarchy",
+      "label": "Material Expression Class Hierarchy",
+      "nodes": [
+        "materialexpression",
+        "materialexpressionruntimevirtualtexturesample",
+        "materialexpressionsubstrateconvertmaterialattributes",
+        "materialexpressionsubstratebsdf"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionRuntimeVirtualTextureSample Objects.md"
+    },
+    {
+      "id": "engine_module_classes",
+      "label": "Classes Defined in Engine Module",
+      "nodes": [
+        "audiovolumesubmixoverridesettings",
+        "materialexpressionruntimevirtualtexturesample",
+        "lineardriveconstraint",
+        "materialexpressionsubstrateconvertmaterialattributes",
+        "shadowmaptexture2d"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioVolumeSubmixOverrideSettings Objects.md"
+    },
+    {
+      "id": "plugin_ecosystem",
+      "label": "Unreal Engine Plugin Ecosystem",
+      "nodes": [
+        "rigvm_plugin",
+        "cesiumforunreal_plugin",
+        "geometryscripting_plugin",
+        "coveringapi_plugin",
+        "dynamicmaterial_plugin"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_StringJoin Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

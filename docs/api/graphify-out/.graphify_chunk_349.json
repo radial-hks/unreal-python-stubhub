@@ -1,0 +1,526 @@
+{
+  "nodes": [
+    {
+      "id": "dcpmodelsdklibrary_dcpmodelsdklibrary",
+      "label": "DCPModelSDKLibrary",
+      "file_type": "document",
+      "source_file": "DCPModelSDKLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmodelsdklibrary_model_management",
+      "label": "Model Management Operations",
+      "file_type": "document",
+      "source_file": "DCPModelSDKLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widgetpreviewfactory_widgetpreviewfactory",
+      "label": "WidgetPreviewFactory",
+      "file_type": "document",
+      "source_file": "WidgetPreviewFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreenpositionresult_wdpscreenpositionresult",
+      "label": "WdpScreenPositionResult",
+      "file_type": "document",
+      "source_file": "WdpScreenPositionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "findfloorresult_findfloorresult",
+      "label": "FindFloorResult",
+      "file_type": "document",
+      "source_file": "FindFloorResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "findfloorresult_floor_detection",
+      "label": "Floor Detection for Character Movement",
+      "file_type": "document",
+      "source_file": "FindFloorResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolbase_rigvmfunction_mathboolbase",
+      "label": "RigVMFunction_MathBoolBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathBoolBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialstatistics_materialstatistics",
+      "label": "MaterialStatistics",
+      "file_type": "document",
+      "source_file": "MaterialStatistics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialstatistics_shader_performance_analysis",
+      "label": "Shader Performance Analysis",
+      "file_type": "document",
+      "source_file": "MaterialStatistics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onbuttonpressedevent_onbuttonpressedevent",
+      "label": "OnButtonPressedEvent",
+      "file_type": "document",
+      "source_file": "OnButtonPressedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreetransitiontrigger_statetreetransitiontrigger",
+      "label": "StateTreeTransitionTrigger",
+      "file_type": "document",
+      "source_file": "StateTreeTransitionTrigger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreetransitiontrigger_state_transition_control",
+      "label": "State Tree Transition Control",
+      "file_type": "document",
+      "source_file": "StateTreeTransitionTrigger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "basewidgetblueprint_basewidgetblueprint",
+      "label": "BaseWidgetBlueprint",
+      "file_type": "document",
+      "source_file": "BaseWidgetBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate__disablerootmotion_animnotifystate__disablerootmotion",
+      "label": "AnimNotifyState_DisableRootMotion",
+      "file_type": "document",
+      "source_file": "AnimNotifyState__DisableRootMotion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrybytedatawriter_lowentrybytedatawriter",
+      "label": "LowEntryByteDataWriter",
+      "file_type": "document",
+      "source_file": "LowEntryByteDataWriter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrybytedatawriter_compact_integer_encoding",
+      "label": "Compact Integer Encoding",
+      "file_type": "document",
+      "source_file": "LowEntryByteDataWriter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycachetrack__flipbookanimation_geometrycachetrack__flipbookanimation",
+      "label": "GeometryCacheTrack_FlipbookAnimation",
+      "file_type": "document",
+      "source_file": "GeometryCacheTrack__FlipbookAnimation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightingbuildquality_lightingbuildquality",
+      "label": "LightingBuildQuality",
+      "file_type": "document",
+      "source_file": "LightingBuildQuality Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eartheditorapi_eartheditorapi",
+      "label": "EarthEditorAPI",
+      "file_type": "document",
+      "source_file": "EarthEditorAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixmul_rigvmfunction_mathmatrixmul",
+      "label": "RigVMFunction_MathMatrixMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathMatrixMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "softsplinemeshcomponentdescriptor_softsplinemeshcomponentdescriptor",
+      "label": "SoftSplineMeshComponentDescriptor",
+      "file_type": "document",
+      "source_file": "SoftSplineMeshComponentDescriptor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig__settransform_ikrig__settransform",
+      "label": "IKRig_SetTransform",
+      "file_type": "document",
+      "source_file": "IKRig_SetTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputaction_inputaction",
+      "label": "InputAction",
+      "file_type": "document",
+      "source_file": "InputAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputaction_enhanced_input_system",
+      "label": "Enhanced Input System",
+      "file_type": "document",
+      "source_file": "InputAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "riglogicconfiguration_riglogicconfiguration",
+      "label": "RigLogicConfiguration",
+      "file_type": "document",
+      "source_file": "RigLogicConfiguration Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataregistryacquirestatus_dataregistryacquirestatus",
+      "label": "DataRegistryAcquireStatus",
+      "file_type": "document",
+      "source_file": "DataRegistryAcquireStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputkeyselector__onisselectingkeychanged_inputkeyselector__onisselectingkeychanged",
+      "label": "InputKeySelector_OnIsSelectingKeyChanged",
+      "file_type": "document",
+      "source_file": "InputKeySelector_OnIsSelectingKeyChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathvectormakeabsolute_rigvmfunction__mathvectormakeabsolute",
+      "label": "RigVMFunction_MathVectorMakeAbsolute",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorMakeAbsolute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "dcpmodelsdklibrary_dcpmodelsdklibrary",
+      "target": "dcpmodelsdklibrary_model_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPModelSDKLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "findfloorresult_findfloorresult",
+      "target": "findfloorresult_floor_detection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FindFloorResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialstatistics_materialstatistics",
+      "target": "materialstatistics_shader_performance_analysis",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialStatistics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreetransitiontrigger_statetreetransitiontrigger",
+      "target": "statetreetransitiontrigger_state_transition_control",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeTransitionTrigger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lowentrybytedatawriter_lowentrybytedatawriter",
+      "target": "lowentrybytedatawriter_compact_integer_encoding",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LowEntryByteDataWriter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputaction_inputaction",
+      "target": "inputaction_enhanced_input_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputAction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolbase_rigvmfunction_mathboolbase",
+      "target": "rigvmfunction_mathmatrixmul_rigvmfunction_mathmatrixmul",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathBoolBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixmul_rigvmfunction_mathmatrixmul",
+      "target": "rigvmfunction__mathvectormakeabsolute_rigvmfunction__mathvectormakeabsolute",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathMatrixMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolbase_rigvmfunction_mathboolbase",
+      "target": "rigvmfunction__mathvectormakeabsolute_rigvmfunction__mathvectormakeabsolute",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathBoolBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig__settransform_ikrig__settransform",
+      "target": "riglogicconfiguration_riglogicconfiguration",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "IKRig_SetTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig__settransform_ikrig__settransform",
+      "target": "rigvmfunction_mathmatrixmul_rigvmfunction_mathmatrixmul",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IKRig_SetTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "riglogicconfiguration_riglogicconfiguration",
+      "target": "rigvmfunction__mathvectormakeabsolute_rigvmfunction__mathvectormakeabsolute",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigLogicConfiguration Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onbuttonpressedevent_onbuttonpressedevent",
+      "target": "inputkeyselector__onisselectingkeychanged_inputkeyselector__onisselectingkeychanged",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnButtonPressedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreenpositionresult_wdpscreenpositionresult",
+      "target": "findfloorresult_findfloorresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpScreenPositionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmodelsdklibrary_dcpmodelsdklibrary",
+      "target": "wdpscreenpositionresult_wdpscreenpositionresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DCPModelSDKLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataregistryacquirestatus_dataregistryacquirestatus",
+      "target": "statetreetransitiontrigger_statetreetransitiontrigger",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "DataRegistryAcquireStatus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialstatistics_materialstatistics",
+      "target": "lightingbuildquality_lightingbuildquality",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MaterialStatistics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Function Classes",
+      "nodes": [
+        "rigvmfunction_mathboolbase_rigvmfunction_mathboolbase",
+        "rigvmfunction_mathmatrixmul_rigvmfunction_mathmatrixmul",
+        "rigvmfunction__mathvectormakeabsolute_rigvmfunction__mathvectormakeabsolute"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction_MathBoolBase Objects.md"
+    },
+    {
+      "id": "rigging_and_animation_classes",
+      "label": "Rigging and Animation Classes",
+      "nodes": [
+        "ikrig__settransform_ikrig__settransform",
+        "riglogicconfiguration_riglogicconfiguration",
+        "animnotifystate__disablerootmotion_animnotifystate__disablerootmotion"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IKRig_SetTransform Objects.md"
+    },
+    {
+      "id": "umg_input_delegates",
+      "label": "UMG Input Delegate Classes",
+      "nodes": [
+        "onbuttonpressedevent_onbuttonpressedevent",
+        "inputkeyselector__onisselectingkeychanged_inputkeyselector__onisselectingkeychanged"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnButtonPressedEvent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,919 @@
+{
+  "entities": [
+    {
+      "id": "MoviePipelinePIEExecutorSettings",
+      "type": "class",
+      "name": "MoviePipelinePIEExecutorSettings",
+      "description": "Implementation responsible for executing the rendering of multiple movie pipelines within the editor using PIE",
+      "inherits_from": "DeveloperSettings",
+      "source": {
+        "plugin": "MovieRenderPipeline",
+        "module": "MovieRenderPipelineEditor",
+        "file": "MoviePipelinePIEExecutorSettings.h"
+      },
+      "properties": [
+        {
+          "name": "initial_delay_frame_count",
+          "type": "int32",
+          "access": "read-write",
+          "description": "How long should we wait after being initialized to start doing any work"
+        },
+        {
+          "name": "resize_pie_window_to_output_resolution",
+          "type": "bool",
+          "access": "read-write",
+          "description": "Should the PIE Window be created at the same resolution as the MRQ Output"
+        }
+      ]
+    },
+    {
+      "id": "MassMovementStyleParameters",
+      "type": "class",
+      "name": "MassMovementStyleParameters",
+      "description": "Movement style parameters. A movement style abstracts movement properties for specific style",
+      "inherits_from": "StructBase",
+      "source": {
+        "plugin": "MassGameplay",
+        "module": "MassMovement",
+        "file": "MassMovementTypes.h"
+      },
+      "properties": [
+        {
+          "name": "desired_speeds",
+          "type": "Array[MassMovementStyleSpeedParameters]",
+          "access": "read-write",
+          "description": "Array of desired speeds (cm/s) assigned to agents based on probability"
+        },
+        {
+          "name": "style",
+          "type": "MassMovementStyleRef",
+          "access": "read-write",
+          "description": "Style of the movement"
+        }
+      ]
+    },
+    {
+      "id": "AnimNotify_PlayParticleEffect_C",
+      "type": "class",
+      "name": "AnimNotify_PlayParticleEffect_C",
+      "description": "deprecated: 'AnimNotify_PlayParticleEffect_C' was renamed to 'AnimNotify_PlayParticleEffect'",
+      "inherits_from": "AnimNotify_PlayParticleEffect",
+      "deprecated": true,
+      "deprecated_message": "'AnimNotify_PlayParticleEffect_C' was renamed to 'AnimNotify_PlayParticleEffect'"
+    },
+    {
+      "id": "RigVMFunction_MathFloatAtan2",
+      "type": "class",
+      "name": "RigVMFunction_MathFloatAtan2",
+      "description": "Returns the arctangent of the specified A and B coordinates",
+      "inherits_from": "RigVMFunction_MathFloatBinaryOp",
+      "source": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathFloat.h"
+      },
+      "properties": [
+        {
+          "name": "a",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "b",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "result",
+          "type": "float",
+          "access": "read-write"
+        }
+      ]
+    },
+    {
+      "id": "StaticComponentMaskParameter",
+      "type": "class",
+      "name": "StaticComponentMaskParameter",
+      "description": "Holds the information for a static component mask parameter",
+      "inherits_from": "StaticParameterBase",
+      "source": {
+        "module": "Engine",
+        "file": "StaticParameterSet.h"
+      }
+    },
+    {
+      "id": "EarthDomOverlayerFragment",
+      "type": "class",
+      "name": "EarthDomOverlayerFragment",
+      "description": "定义正射影像图叠加器数据片段的结构体",
+      "inherits_from": "EarthTextureOverlayerFragment",
+      "source": {
+        "plugin": "AesWorld",
+        "module": "AesMarkerSystem",
+        "file": "EarthDomOverlayerFragment.h"
+      },
+      "properties": [
+        {
+          "name": "alpha_strength",
+          "type": "float",
+          "access": "read-write",
+          "description": "影响透明贴图或透明通道的透明度应用效果"
+        },
+        {
+          "name": "alpha_texture",
+          "type": "Texture",
+          "access": "read-write",
+          "description": "透明度控制贴图资产引用"
+        },
+        {
+          "name": "blend_type",
+          "type": "EarthOverlayerBlendType",
+          "access": "read-write",
+          "description": "叠加贴图的混合类型"
+        },
+        {
+          "name": "bottom_left",
+          "type": "Vector2D",
+          "access": "read-write",
+          "description": "贴图包围盒的左下角经纬度"
+        },
+        {
+          "name": "earth_actor",
+          "type": "Actor",
+          "access": "read-write",
+          "description": "对应的地球对象"
+        },
+        {
+          "name": "feature_id",
+          "type": "EarthFeatureIDFragment",
+          "access": "read-write",
+          "description": "要素识别码"
+        },
+        {
+          "name": "invalidate_producer_names",
+          "type": "Array[Name]",
+          "access": "read-only",
+          "description": "叠加器执行时需要更新的生产者"
+        },
+        {
+          "name": "owned_object",
+          "type": "Object",
+          "access": "read-write",
+          "description": "输出片段所拥有的组件"
+        },
+        {
+          "name": "producer_name",
+          "type": "Name",
+          "access": "read-only",
+          "description": "叠加贴图作用的生产者"
+        },
+        {
+          "name": "rotation",
+          "type": "float",
+          "access": "read-write",
+          "description": "贴图的平面旋转角度"
+        },
+        {
+          "name": "sampler_type",
+          "type": "EarthOverlayerSamplerType",
+          "access": "read-write",
+          "description": "叠加贴图的采样器类型"
+        },
+        {
+          "name": "sort_order",
+          "type": "int32",
+          "access": "read-write",
+          "description": "叠加贴图的渲染顺序"
+        },
+        {
+          "name": "texture",
+          "type": "Texture",
+          "access": "read-write",
+          "description": "叠加贴图资产引用"
+        },
+        {
+          "name": "tiles",
+          "type": "Set[str]",
+          "access": "read-write",
+          "description": "贴图所在的最高级别地块ID"
+        },
+        {
+          "name": "top_level",
+          "type": "int32",
+          "access": "read-write",
+          "description": "叠加贴图应用的最上层地块级别"
+        },
+        {
+          "name": "top_right",
+          "type": "Vector2D",
+          "access": "read-write",
+          "description": "贴图包围盒的右上角经纬度"
+        },
+        {
+          "name": "use_alpha_channel",
+          "type": "bool",
+          "access": "read-write",
+          "description": "是否使用叠加贴图的Alpha通道作为叠加的透明度控制"
+        },
+        {
+          "name": "valid",
+          "type": "bool",
+          "access": "read-write",
+          "description": "数据片段是否有效"
+        },
+        {
+          "name": "validated",
+          "type": "bool",
+          "access": "read-write",
+          "description": "是否已执行数据有效性验证"
+        }
+      ]
+    },
+    {
+      "id": "RigVMFunction_MathDoubleMod",
+      "type": "class",
+      "name": "RigVMFunction_MathDoubleMod",
+      "description": "Returns the modulo of the two values",
+      "inherits_from": "RigVMFunction_MathDoubleBinaryOp",
+      "source": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathDouble.h"
+      },
+      "properties": [
+        {
+          "name": "a",
+          "type": "double",
+          "access": "read-write"
+        },
+        {
+          "name": "b",
+          "type": "double",
+          "access": "read-write"
+        },
+        {
+          "name": "result",
+          "type": "double",
+          "access": "read-write"
+        }
+      ]
+    },
+    {
+      "id": "GeometryScriptDynamicMeshBVH",
+      "type": "class",
+      "name": "GeometryScriptDynamicMeshBVH",
+      "description": "Spatial data structures",
+      "inherits_from": "StructBase",
+      "source": {
+        "plugin": "GeometryScripting",
+        "module": "GeometryScriptingCore",
+        "file": "GeometryScriptTypes.h"
+      },
+      "methods": [
+        {
+          "name": "reset_bvh",
+          "description": "Reset the Bounding Volume Hierarchy (BVH) by clearing all the internal data"
+        }
+      ]
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionUnit",
+      "type": "class",
+      "name": "RigVMFunction_MathQuaternionUnit",
+      "description": "Returns the normalized quaternion",
+      "inherits_from": "RigVMFunction_MathQuaternionUnaryOp",
+      "source": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathQuaternion.h"
+      },
+      "properties": [
+        {
+          "name": "result",
+          "type": "Quat",
+          "access": "read-write"
+        },
+        {
+          "name": "value",
+          "type": "Quat",
+          "access": "read-write"
+        }
+      ]
+    },
+    {
+      "id": "NiagaraDataInterfaceEmitterBindingMode",
+      "type": "enum",
+      "name": "NiagaraDataInterfaceEmitterBindingMode",
+      "description": "ENiagara Data Interface Emitter Binding Mode",
+      "source": {
+        "plugin": "Niagara",
+        "module": "Niagara",
+        "file": "NiagaraDataInterfaceEmitterBinding.h"
+      },
+      "values": [
+        {
+          "name": "SELF",
+          "value": 0,
+          "description": "Attempt to bind to the emitter the data interface is used with"
+        },
+        {
+          "name": "OTHER",
+          "value": 1,
+          "description": "Attempt to bind to an emitter using it's name"
+        }
+      ]
+    },
+    {
+      "id": "DMMaterialStageExpressionActorPositionWS",
+      "type": "class",
+      "name": "DMMaterialStageExpressionActorPositionWS",
+      "description": "DMMaterial Stage Expression Actor Position WS",
+      "inherits_from": "DMMaterialStageExpression",
+      "source": {
+        "plugin": "DynamicMaterial",
+        "module": "DynamicMaterialEditor",
+        "file": "DMMSEActorPositionWS.h"
+      },
+      "properties": [
+        {
+          "name": "allow_nested_inputs",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "component_dirty",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "component_state",
+          "type": "DMComponentLifetimeState",
+          "access": "read-only"
+        },
+        {
+          "name": "editable_properties",
+          "type": "Array[Name]",
+          "access": "read-only"
+        },
+        {
+          "name": "input_connectors",
+          "type": "Array[DMMaterialStageConnector]",
+          "access": "read-only"
+        },
+        {
+          "name": "input_required",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "material_expression_class",
+          "type": "type(Class)",
+          "access": "read-only"
+        },
+        {
+          "name": "menus",
+          "type": "Array[DMExpressionMenu]",
+          "access": "read-only"
+        },
+        {
+          "name": "name",
+          "type": "Text",
+          "access": "read-only"
+        },
+        {
+          "name": "output_connectors",
+          "type": "Array[DMMaterialStageConnector]",
+          "access": "read-only"
+        }
+      ]
+    },
+    {
+      "id": "ModelFactory",
+      "type": "class",
+      "name": "ModelFactory",
+      "description": "Model Factory",
+      "inherits_from": "Factory",
+      "source": {
+        "module": "UnrealEd",
+        "file": "ModelFactory.h"
+      },
+      "properties": [
+        {
+          "name": "asset_import_task",
+          "type": "AssetImportTask",
+          "access": "read-write"
+        },
+        {
+          "name": "automated_import_data",
+          "type": "AutomatedAssetImportData",
+          "access": "read-write"
+        },
+        {
+          "name": "context_class",
+          "type": "type(Class)",
+          "access": "read-write"
+        },
+        {
+          "name": "create_new",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "edit_after_new",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "editor_import",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "formats",
+          "type": "Array[str]",
+          "access": "read-write"
+        },
+        {
+          "name": "supported_class",
+          "type": "type(Class)",
+          "access": "read-write"
+        },
+        {
+          "name": "text",
+          "type": "bool",
+          "access": "read-write"
+        }
+      ]
+    },
+    {
+      "id": "ReimportTextureFactory",
+      "type": "class",
+      "name": "ReimportTextureFactory",
+      "description": "Reimport Texture Factory",
+      "inherits_from": "TextureFactory",
+      "source": {
+        "module": "UnrealEd",
+        "file": "ReimportTextureFactory.h"
+      },
+      "properties": [
+        {
+          "name": "alpha_coverage_thresholds",
+          "type": "Vector4",
+          "access": "read-write"
+        },
+        {
+          "name": "alpha_to_emissive",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "alpha_to_opacity",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "alpha_to_opacity_mask",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "alpha_to_roughness",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "blending",
+          "type": "BlendMode",
+          "access": "read-write"
+        },
+        {
+          "name": "compression_settings",
+          "type": "TextureCompressionSettings",
+          "access": "read-write"
+        },
+        {
+          "name": "create_material",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "defer_compression",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "flip_normal_map_green_channel",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "lod_group",
+          "type": "TextureGroup",
+          "access": "read-write"
+        },
+        {
+          "name": "mip_gen_settings",
+          "type": "TextureMipGenSettings",
+          "access": "read-write"
+        },
+        {
+          "name": "no_alpha",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "preserve_border",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "rgb_to_base_color",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "rgb_to_emissive",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "shading_model",
+          "type": "MaterialShadingModel",
+          "access": "read-write"
+        },
+        {
+          "name": "two_sided",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "use_new_mip_filter",
+          "type": "bool",
+          "access": "read-write"
+        }
+      ]
+    },
+    {
+      "id": "AudioPanelWidgetInterface",
+      "type": "interface",
+      "name": "AudioPanelWidgetInterface",
+      "description": "Audio Panel Widget Interface",
+      "inherits_from": "Interface",
+      "source": {
+        "module": "Engine",
+        "file": "AudioPanelWidgetInterface.h"
+      },
+      "methods": [
+        {
+          "name": "get_icon_brush_name",
+          "return_type": "Name",
+          "description": "Get Icon Brush Name"
+        },
+        {
+          "name": "get_editor_name",
+          "return_type": "Text",
+          "description": "Get Editor Name"
+        }
+      ]
+    },
+    {
+      "id": "GameplayTask_TimeLimitedExecution",
+      "type": "class",
+      "name": "GameplayTask_TimeLimitedExecution",
+      "description": "Adds time limit for running a child task",
+      "inherits_from": "GameplayTask",
+      "source": {
+        "module": "GameplayTasks",
+        "file": "GameplayTask_TimeLimitedExecution.h"
+      },
+      "properties": [
+        {
+          "name": "on_finished",
+          "type": "TaskFinishDelegate",
+          "access": "read-write",
+          "description": "called when child task finishes execution before time runs out"
+        },
+        {
+          "name": "on_time_expired",
+          "type": "TaskFinishDelegate",
+          "access": "read-write",
+          "description": "called when time runs out"
+        }
+      ]
+    },
+    {
+      "id": "FoliageType_Actor",
+      "type": "class",
+      "name": "FoliageType_Actor",
+      "description": "Foliage Type Actor",
+      "inherits_from": "FoliageType",
+      "source": {
+        "module": "Foliage",
+        "file": "FoliageType_Actor.h"
+      },
+      "properties": [
+        {
+          "name": "actor_class",
+          "type": "type(Class)",
+          "access": "read-write"
+        },
+        {
+          "name": "static_mesh_only",
+          "type": "bool",
+          "access": "read-write",
+          "description": "If enabled, will place an instanced static mesh representation of this actor without placing an actual actor"
+        },
+        {
+          "name": "static_mesh_only_component_class",
+          "type": "type(Class)",
+          "access": "read-write"
+        }
+      ]
+    },
+    {
+      "id": "RigUnit_GetBoneTransform",
+      "type": "class",
+      "name": "RigUnit_GetBoneTransform",
+      "description": "GetBoneTransform is used to retrieve a single transform from a hierarchy",
+      "inherits_from": "RigUnit",
+      "source": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_GetBoneTransform.h"
+      },
+      "properties": [
+        {
+          "name": "bone",
+          "type": "Name",
+          "access": "read-write",
+          "description": "The name of the Bone to retrieve the transform for"
+        },
+        {
+          "name": "space",
+          "type": "RigVMTransformSpace",
+          "access": "read-write",
+          "description": "Defines if the bone's transform should be retrieved in local or global space"
+        },
+        {
+          "name": "transform",
+          "type": "Transform",
+          "access": "read-only",
+          "description": "The current transform of the given bone - or identity in case it wasn't found"
+        }
+      ]
+    },
+    {
+      "id": "DisplayClusterConfigurationViewport_ColorGradingSettings",
+      "type": "class",
+      "name": "DisplayClusterConfigurationViewport_ColorGradingSettings",
+      "description": "Display Cluster Configuration Viewport Color Grading Settings",
+      "inherits_from": "StructBase",
+      "source": {
+        "plugin": "nDisplay",
+        "module": "DisplayClusterConfiguration",
+        "file": "DisplayClusterConfigurationTypes_Postprocess.h"
+      },
+      "properties": [
+        {
+          "name": "contrast",
+          "type": "Vector4",
+          "access": "read-write",
+          "description": "Contrast"
+        },
+        {
+          "name": "gain",
+          "type": "Vector4",
+          "access": "read-write",
+          "description": "Gain"
+        },
+        {
+          "name": "gamma",
+          "type": "Vector4",
+          "access": "read-write",
+          "description": "Gamma"
+        },
+        {
+          "name": "offset",
+          "type": "Vector4",
+          "access": "read-write",
+          "description": "Offset"
+        },
+        {
+          "name": "override_contrast",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "override_gain",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "override_gamma",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "override_offset",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "override_saturation",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "saturation",
+          "type": "Vector4",
+          "access": "read-write",
+          "description": "Saturation"
+        }
+      ]
+    },
+    {
+      "id": "AesRoofAssetTagData",
+      "type": "class",
+      "name": "AesRoofAssetTagData",
+      "description": "屋顶资产标签数据",
+      "inherits_from": "StructBase",
+      "source": {
+        "plugin": "AesWorld",
+        "module": "AesAsset",
+        "file": "AesRoofAsset.h"
+      },
+      "properties": [
+        {
+          "name": "gable_material",
+          "type": "AesMaterialData",
+          "access": "read-write",
+          "description": "山墙材质"
+        },
+        {
+          "name": "height",
+          "type": "float",
+          "access": "read-write",
+          "description": "屋顶高度"
+        },
+        {
+          "name": "levels",
+          "type": "int32",
+          "access": "read-write",
+          "description": "屋顶楼层数"
+        },
+        {
+          "name": "roof_color",
+          "type": "Color",
+          "access": "read-write",
+          "description": "屋顶颜色"
+        },
+        {
+          "name": "roof_material",
+          "type": "AesMaterialData",
+          "access": "read-write",
+          "description": "屋顶材质"
+        },
+        {
+          "name": "roof_shape",
+          "type": "RoofShape",
+          "access": "read-write",
+          "description": "屋顶形态"
+        },
+        {
+          "name": "slope",
+          "type": "float",
+          "access": "read-write",
+          "description": "屋顶坡度"
+        }
+      ]
+    },
+    {
+      "id": "OnLatestOverallLoudnessResults",
+      "type": "class",
+      "name": "OnLatestOverallLoudnessResults",
+      "description": "Delegate to receive only the most recent overall loudness result",
+      "inherits_from": "MulticastDelegateBase",
+      "source": {
+        "plugin": "AudioSynesthesia",
+        "module": "AudioSynesthesia",
+        "file": "Loudness.h"
+      }
+    },
+    {
+      "id": "RigUnit_MathVectorIsNearlyZero",
+      "type": "class",
+      "name": "RigUnit_MathVectorIsNearlyZero",
+      "description": "deprecated: 'RigUnit_MathVectorIsNearlyZero' was renamed to 'RigVMFunction_MathVectorIsNearlyZero'",
+      "inherits_from": "RigVMFunction_MathVectorIsNearlyZero",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathVectorIsNearlyZero' was renamed to 'RigVMFunction_MathVectorIsNearlyZero'"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "MoviePipelinePIEExecutorSettings",
+      "target": "DeveloperSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MassMovementStyleParameters",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNotify_PlayParticleEffect_C",
+      "target": "AnimNotify_PlayParticleEffect",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathFloatAtan2",
+      "target": "RigVMFunction_MathFloatBinaryOp",
+      "type": "inherits_from"
+    },
+    {
+      "source": "StaticComponentMaskParameter",
+      "target": "StaticParameterBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthDomOverlayerFragment",
+      "target": "EarthTextureOverlayerFragment",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathDoubleMod",
+      "target": "RigVMFunction_MathDoubleBinaryOp",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryScriptDynamicMeshBVH",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionUnit",
+      "target": "RigVMFunction_MathQuaternionUnaryOp",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStageExpressionActorPositionWS",
+      "target": "DMMaterialStageExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ModelFactory",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ReimportTextureFactory",
+      "target": "TextureFactory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AudioPanelWidgetInterface",
+      "target": "Interface",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GameplayTask_TimeLimitedExecution",
+      "target": "GameplayTask",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FoliageType_Actor",
+      "target": "FoliageType",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_GetBoneTransform",
+      "target": "RigUnit",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DisplayClusterConfigurationViewport_ColorGradingSettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesRoofAssetTagData",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnLatestOverallLoudnessResults",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathVectorIsNearlyZero",
+      "target": "RigVMFunction_MathVectorIsNearlyZero",
+      "type": "inherits_from"
+    }
+  ],
+  "metadata": {
+    "chunk_id": 31,
+    "total_chunks": 702,
+    "extraction_timestamp": "2026-04-12T16:39:00Z"
+  }
+}

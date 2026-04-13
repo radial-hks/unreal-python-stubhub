@@ -1,0 +1,396 @@
+{
+  "nodes": [
+    {
+      "id": "animnode_blendspacegraphbase_animbnode_blendspacegraphbase",
+      "label": "AnimNode_BlendSpaceGraphBase",
+      "file_type": "code",
+      "source_file": "AnimNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animfunctioncallsite_animfunctioncallsite",
+      "label": "AnimFunctionCallSite",
+      "file_type": "code",
+      "source_file": "AnimFunctionCallSite Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_stateresult_animgraphnode_stateresult",
+      "label": "AnimGraphNode_StateResult",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__StateResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatvector_rigvmfunction_mathrbfinterpolatequatvector",
+      "label": "RigVMFunction_MathRBFInterpolateQuatVector",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorlerp_rigvmfunction_mathvectorlerp",
+      "label": "RigVMFunction_MathVectorLerp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionselectbool_rigvmfunction_mathquaternionselectbool",
+      "label": "RigVMFunction_MathQuaternionSelectBool",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathQuaternionSelectBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfileutilsbplibrary_blueprintfileutilsbplibrary",
+      "label": "BlueprintFileUtilsBPLibrary",
+      "file_type": "code",
+      "source_file": "BlueprintFileUtilsBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangespotlightnode_interchangespotlightnode",
+      "label": "InterchangeSpotLightNode",
+      "file_type": "code",
+      "source_file": "InterchangeSpotLightNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "anamorphiclensdistortionmodelhandler_anamorphiclensdistortionmodelhandler",
+      "label": "AnamorphicLensDistortionModelHandler",
+      "file_type": "code",
+      "source_file": "AnamorphicLensDistortionModelHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "determinismlevel_determinismlevel",
+      "label": "DeterminismLevel",
+      "file_type": "code",
+      "source_file": "DeterminismLevel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangemeshinstance_interchangemeshinstance",
+      "label": "InterchangeMeshInstance",
+      "file_type": "code",
+      "source_file": "InterchangeMeshInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneanimationtrackrecordersettings_moviesceneanimationtrackrecordersettings",
+      "label": "MovieSceneAnimationTrackRecorderSettings",
+      "file_type": "code",
+      "source_file": "MovieSceneAnimationTrackRecorderSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontfaceplatformrasterizationoverrides_fontfaceplatformrasterizationoverrides",
+      "label": "FontFacePlatformRasterizationOverrides",
+      "file_type": "code",
+      "source_file": "FontFacePlatformRasterizationOverrides Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "egltfruntimepointstriangulationmode_egltfruntimepointstriangulationmode",
+      "label": "EglTFRuntimePointsTriangulationMode",
+      "file_type": "code",
+      "source_file": "EglTFRuntimePointsTriangulationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgeorefsettingmode_wdpgeorefsettingmode",
+      "label": "WdpGeoRefSettingMode",
+      "file_type": "code",
+      "source_file": "WdpGeoRefSettingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialwidgetstyle_audiomaterialwidgetstyle",
+      "label": "AudioMaterialWidgetStyle",
+      "file_type": "code",
+      "source_file": "AudioMaterialWidgetStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightoc_lightoc",
+      "label": "LightOC",
+      "file_type": "code",
+      "source_file": "LightOC Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprintfilterdynamic_rigvmblueprintfilterdynamic",
+      "label": "RigVMBlueprintFilterDynamic",
+      "file_type": "code",
+      "source_file": "RigVMBlueprintFilterDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraclipboardeditorscriptingutilities_niagaraclipboardeditorscriptingutilities",
+      "label": "NiagaraClipboardEditorScriptingUtilities",
+      "file_type": "code",
+      "source_file": "NiagaraClipboardEditorScriptingUtilities Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixelstreaming51clouddelegates_disconnectedfromsignallingserver_pixelstreaming51clouddelegates_disconnectedfromsignallingserver",
+      "label": "PixelStreaming51CloudDelegates_DisconnectedFromSignallingServer",
+      "file_type": "code",
+      "source_file": "PixelStreaming51CloudDelegates__DisconnectedFromSignallingServer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animnode_blendspacegraphbase_animbnode_blendspacegraphbase",
+      "target": "rigvmfunction_mathvectorlerp_rigvmfunction_mathvectorlerp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimNode_BlendSpaceGraphBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animfunctioncallsite_animfunctioncallsite",
+      "target": "animgraphnode_stateresult_animgraphnode_stateresult",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimFunctionCallSite Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorlerp_rigvmfunction_mathvectorlerp",
+      "target": "rigvmfunction_mathquaternionselectbool_rigvmfunction_mathquaternionselectbool",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathVectorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatvector_rigvmfunction_mathrbfinterpolatequatvector",
+      "target": "rigvmfunction_mathquaternionselectbool_rigvmfunction_mathquaternionselectbool",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangespotlightnode_interchangespotlightnode",
+      "target": "anamorphiclensdistortionmodelhandler_anamorphiclensdistortionmodelhandler",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "InterchangeSpotLightNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangemeshinstance_interchangemeshinstance",
+      "target": "interchangespotlightnode_interchangespotlightnode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InterchangeMeshInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightoc_lightoc",
+      "target": "interchangespotlightnode_interchangespotlightnode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "LightOC Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightoc_lightoc",
+      "target": "anamorphiclensdistortionmodelhandler_anamorphiclensdistortionmodelhandler",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "LightOC Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneanimationtrackrecordersettings_moviesceneanimationtrackrecordersettings",
+      "target": "animgraphnode_stateresult_animgraphnode_stateresult",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneAnimationTrackRecorderSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blueprintfileutilsbplibrary_blueprintfileutilsbplibrary",
+      "target": "niagaraclipboardeditorscriptingutilities_niagaraclipboardeditorscriptingutilities",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "BlueprintFileUtilsBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprintfilterdynamic_rigvmblueprintfilterdynamic",
+      "target": "rigvmfunction_mathrbfinterpolatequatvector_rigvmfunction_mathrbfinterpolatequatvector",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMBlueprintFilterDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprintfilterdynamic_rigvmblueprintfilterdynamic",
+      "target": "rigvmfunction_mathvectorlerp_rigvmfunction_mathvectorlerp",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMBlueprintFilterDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprintfilterdynamic_rigvmblueprintfilterdynamic",
+      "target": "rigvmfunction_mathquaternionselectbool_rigvmfunction_mathquaternionselectbool",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMBlueprintFilterDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pixelstreaming51clouddelegates_disconnectedfromsignallingserver_pixelstreaming51clouddelegates_disconnectedfromsignallingserver",
+      "target": "lightoc_lightoc",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "PixelStreaming51CloudDelegates__DisconnectedFromSignallingServer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Math Function Classes",
+      "nodes": [
+        "rigvmfunction_mathrbfinterpolatequatvector_rigvmfunction_mathrbfinterpolatequatvector",
+        "rigvmfunction_mathvectorlerp_rigvmfunction_mathvectorlerp",
+        "rigvmfunction_mathquaternionselectbool_rigvmfunction_mathquaternionselectbool"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatVector Objects.md"
+    },
+    {
+      "id": "lighting_systems",
+      "label": "Light and Rendering System Components",
+      "nodes": [
+        "interchangespotlightnode_interchangespotlightnode",
+        "anamorphiclensdistortionmodelhandler_anamorphiclensdistortionmodelhandler",
+        "lightoc_lightoc"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InterchangeSpotLightNode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

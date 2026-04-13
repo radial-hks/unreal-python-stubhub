@@ -1,0 +1,1175 @@
+{
+  "nodes": [
+    {
+      "id": "inputdevicesubsystem",
+      "label": "InputDeviceSubsystem",
+      "file_type": "document",
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdevicesubsystem_on_input_hardware_device_changed",
+      "label": "on_input_hardware_device_changed",
+      "file_type": "document",
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 17-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdevicesubsystem_remove_device_property_handles",
+      "label": "remove_device_property_handles",
+      "file_type": "document",
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 42-47",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdevicesubsystem_activate_device_property_of_class",
+      "label": "activate_device_property_of_class",
+      "file_type": "document",
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 172-179",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationinfo",
+      "label": "DisplayClusterConfigurationInfo",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationInfo Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationinfo_description",
+      "label": "description property",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationInfo Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationinfo_version",
+      "label": "version property",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationInfo Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "label": "RigUnit_HierarchyAddControlRotator_LimitSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_limit_pitch",
+      "label": "limit_pitch",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_limit_yaw",
+      "label": "limit_yaw",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_limit_roll",
+      "label": "limit_roll",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_min_value",
+      "label": "min_value",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_max_value",
+      "label": "max_value",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitgameplayeffectremoveddelegate",
+      "label": "WaitGameplayEffectRemovedDelegate",
+      "file_type": "document",
+      "source_file": "WaitGameplayEffectRemovedDelegate Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaragpusyncmode",
+      "label": "NiagaraGpuSyncMode",
+      "file_type": "document",
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaragpusyncmode_none",
+      "label": "NONE sync mode",
+      "file_type": "document",
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 17-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaragpusyncmode_sync_cpu_to_gpu",
+      "label": "SYNC_CPU_TO_GPU",
+      "file_type": "document",
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 21-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaragpusyncmode_sync_gpu_to_cpu",
+      "label": "SYNC_GPU_TO_CPU",
+      "file_type": "document",
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 27-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaragpusyncmode_sync_both",
+      "label": "SYNC_BOTH",
+      "file_type": "document",
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 33-37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponenttonegenerator",
+      "label": "SynthComponentToneGenerator",
+      "file_type": "document",
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponenttonegenerator_frequency",
+      "label": "frequency",
+      "file_type": "document",
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 42",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponenttonegenerator_volume",
+      "label": "volume",
+      "file_type": "document",
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 71",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponenttonegenerator_set_frequency",
+      "label": "set_frequency",
+      "file_type": "document",
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 169-174",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponenttonegenerator_set_volume",
+      "label": "set_volume",
+      "file_type": "document",
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 155-160",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponenttonegenerator_distance_attenuation",
+      "label": "distance_attenuation_curve",
+      "file_type": "document",
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nodeoutlinestyleparam",
+      "label": "NodeOutlineStyleParam",
+      "file_type": "document",
+      "source_file": "NodeOutlineStyleParam Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinepoint",
+      "label": "SplinePoint",
+      "file_type": "document",
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinepoint_position",
+      "label": "position",
+      "file_type": "document",
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinepoint_arrive_tangent",
+      "label": "arrive_tangent",
+      "file_type": "document",
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinepoint_leave_tangent",
+      "label": "leave_tangent",
+      "file_type": "document",
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinepoint_rotation",
+      "label": "rotation",
+      "file_type": "document",
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinepoint_scale",
+      "label": "scale",
+      "file_type": "document",
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "splinepoint_type",
+      "label": "type",
+      "file_type": "document",
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmassimportancevolume",
+      "label": "LightmassImportanceVolume",
+      "file_type": "document",
+      "source_file": "LightmassImportanceVolume Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmassimportancevolume_brush_component",
+      "label": "brush_component",
+      "file_type": "document",
+      "source_file": "LightmassImportanceVolume Objects.md",
+      "source_location": "line 31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmassimportancevolume_replicate_movement",
+      "label": "replicate_movement",
+      "file_type": "document",
+      "source_file": "LightmassImportanceVolume Objects.md",
+      "source_location": "line 118-120",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_visualdebugtransformnospace",
+      "label": "RigVMFunction_VisualDebugTransformNoSpace",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_value",
+      "label": "value",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_enabled",
+      "label": "enabled",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_scale",
+      "label": "scale",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcorepropertypreset",
+      "label": "PropertyAnimatorCorePropertyPreset",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCorePropertyPreset Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimator_preset_content",
+      "label": "preset_content",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCorePropertyPreset Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimator_preset_name",
+      "label": "preset_name",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCorePropertyPreset Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestobjectlibrary",
+      "label": "PyTestObjectLibrary",
+      "file_type": "document",
+      "source_file": "PyTestObjectLibrary Objects.md",
+      "source_location": "line 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestobjectlibrary_is_bool_set",
+      "label": "is_bool_set",
+      "file_type": "document",
+      "source_file": "PyTestObjectLibrary Objects.md",
+      "source_location": "line 17-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enginesubsystem",
+      "label": "EngineSubsystem",
+      "file_type": "document",
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "WaitGameplayEffectRemovedDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthcomponent",
+      "label": "SynthComponent",
+      "file_type": "document",
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volume",
+      "label": "Volume",
+      "file_type": "document",
+      "source_file": "LightmassImportanceVolume Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugbase",
+      "label": "RigVMFunction_DebugBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcorepresetbase",
+      "label": "PropertyAnimatorCorePresetBase",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCorePropertyPreset Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfuntionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "PyTestObjectLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "inputdevicesubsystem",
+      "target": "enginesubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "inputdevicesubsystem",
+      "target": "inputdevicesubsystem_on_input_hardware_device_changed",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 17-18",
+      "weight": 1.0
+    },
+    {
+      "source": "inputdevicesubsystem",
+      "target": "inputdevicesubsystem_remove_device_property_handles",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 42-47",
+      "weight": 1.0
+    },
+    {
+      "source": "inputdevicesubsystem",
+      "target": "inputdevicesubsystem_activate_device_property_of_class",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDeviceSubsystem Objects.md",
+      "source_location": "line 172-179",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationinfo",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationinfo",
+      "target": "displayclusterconfigurationinfo_description",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationInfo Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationinfo",
+      "target": "displayclusterconfigurationinfo_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationInfo Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "target": "rigunit_limit_pitch",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "target": "rigunit_limit_yaw",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "target": "rigunit_limit_roll",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "target": "rigunit_min_value",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotator_limitsettings",
+      "target": "rigunit_max_value",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "waitgameplayeffectremoveddelegate",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaitGameplayEffectRemovedDelegate Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaragpusyncmode",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaragpusyncmode",
+      "target": "niagaragpusyncmode_none",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 17-19",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaragpusyncmode",
+      "target": "niagaragpusyncmode_sync_cpu_to_gpu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 21-25",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaragpusyncmode",
+      "target": "niagaragpusyncmode_sync_gpu_to_cpu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 27-31",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaragpusyncmode",
+      "target": "niagaragpusyncmode_sync_both",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": "line 33-37",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaragpusyncmode_sync_cpu_to_gpu",
+      "target": "niagaragpusyncmode_sync_gpu_to_cpu",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NiagaraGpuSyncMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponenttonegenerator",
+      "target": "synthcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponenttonegenerator",
+      "target": "synthcomponenttonegenerator_frequency",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 42",
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponenttonegenerator",
+      "target": "synthcomponenttonegenerator_volume",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 71",
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponenttonegenerator",
+      "target": "synthcomponenttonegenerator_set_frequency",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 169-174",
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponenttonegenerator",
+      "target": "synthcomponenttonegenerator_set_volume",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 155-160",
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponenttonegenerator",
+      "target": "synthcomponenttonegenerator_distance_attenuation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 32",
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponenttonegenerator_set_frequency",
+      "target": "synthcomponenttonegenerator_frequency",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 169-174",
+      "weight": 1.0
+    },
+    {
+      "source": "synthcomponenttonegenerator_set_volume",
+      "target": "synthcomponenttonegenerator_volume",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SynthComponentToneGenerator Objects.md",
+      "source_location": "line 155-160",
+      "weight": 1.0
+    },
+    {
+      "source": "nodeoutlinestyleparam",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NodeOutlineStyleParam Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint",
+      "target": "splinepoint_position",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint",
+      "target": "splinepoint_arrive_tangent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint",
+      "target": "splinepoint_leave_tangent",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint",
+      "target": "splinepoint_rotation",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint",
+      "target": "splinepoint_scale",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint",
+      "target": "splinepoint_type",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SplinePoint Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint_arrive_tangent",
+      "target": "splinepoint_leave_tangent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SplinePoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightmassimportancevolume",
+      "target": "volume",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightmassImportanceVolume Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "lightmassimportancevolume",
+      "target": "lightmassimportancevolume_brush_component",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightmassImportanceVolume Objects.md",
+      "source_location": "line 31",
+      "weight": 1.0
+    },
+    {
+      "source": "lightmassimportancevolume",
+      "target": "lightmassimportancevolume_replicate_movement",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightmassImportanceVolume Objects.md",
+      "source_location": "line 118-120",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_visualdebugtransformnospace",
+      "target": "rigvmfunction_debugbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_visualdebugtransformnospace",
+      "target": "rigvmfunction_value",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_visualdebugtransformnospace",
+      "target": "rigvmfunction_enabled",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_visualdebugtransformnospace",
+      "target": "rigvmfunction_scale",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_VisualDebugTransformNoSpace Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcorepropertypreset",
+      "target": "propertyanimatorcorepresetbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCorePropertyPreset Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcorepropertypreset",
+      "target": "propertyanimator_preset_content",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCorePropertyPreset Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcorepropertypreset",
+      "target": "propertyanimator_preset_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCorePropertyPreset Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "pytestobjectlibrary",
+      "target": "blueprintfuntionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestObjectLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pytestobjectlibrary",
+      "target": "pytestobjectlibrary_is_bool_set",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestObjectLibrary Objects.md",
+      "source_location": "line 17-24",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_limit_pitch",
+      "target": "rigunit_limit_yaw",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_limit_yaw",
+      "target": "rigunit_limit_roll",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_min_value",
+      "target": "rigunit_max_value",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.90,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "splinepoint_rotation",
+      "target": "rigunit_limit_pitch",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "struct_based_classes",
+      "label": "Struct-based data containers",
+      "nodes": [
+        "displayclusterconfigurationinfo",
+        "rigunit_hierarchyaddcontrolrotator_limitsettings",
+        "nodeoutlinestyleparam",
+        "splinepoint"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.80,
+      "source_file": null
+    },
+    {
+      "id": "rotator_limit_properties",
+      "label": "Rotational limit controls",
+      "nodes": [
+        "rigunit_limit_pitch",
+        "rigunit_limit_yaw",
+        "rigunit_limit_roll"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyAddControlRotator__LimitSettings Objects.md"
+    },
+    {
+      "id": "niagara_sync_modes",
+      "label": "Niagara GPU synchronization strategies",
+      "nodes": [
+        "niagaragpusyncmode_none",
+        "niagaragpusyncmode_sync_cpu_to_gpu",
+        "niagaragpusyncmode_sync_gpu_to_cpu",
+        "niagaragpusyncmode_sync_both"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.90,
+      "source_file": "NiagaraGpuSyncMode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

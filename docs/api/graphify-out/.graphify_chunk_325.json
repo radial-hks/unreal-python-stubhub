@@ -1,0 +1,962 @@
+{
+  "nodes": [
+    {
+      "id": "earthboxfragment_class",
+      "label": "EarthBoxFragment",
+      "file_type": "code",
+      "source_file": "EarthBoxFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpointfragment_class",
+      "label": "EarthPointFragment",
+      "file_type": "code",
+      "source_file": "EarthBoxFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "box_size_property",
+      "label": "box_size Property",
+      "file_type": "code",
+      "source_file": "EarthBoxFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdptransactionmgr_class",
+      "label": "WdpTransactionMgr",
+      "file_type": "code",
+      "source_file": "WdpTransactionMgr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transaction_management_concept",
+      "label": "Transaction Management Pattern",
+      "file_type": "code",
+      "source_file": "WdpTransactionMgr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "undo_redo_operations",
+      "label": "Undo/Redo Operations",
+      "file_type": "code",
+      "source_file": "WdpTransactionMgr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringsplit_class",
+      "label": "RigVMFunction_StringSplit",
+      "file_type": "code",
+      "source_file": "RigVMFunction__StringSplit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringbase_class",
+      "label": "RigVMFunction_StringBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__StringSplit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "string_splitting_operation",
+      "label": "String Splitting Operation",
+      "file_type": "code",
+      "source_file": "RigVMFunction__StringSplit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_size_class",
+      "label": "DisplayClusterConfigurationICVFX_Size",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_Size Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "icvfx_camera_system",
+      "label": "ICVFX Camera System",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_Size Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filmback_aspect_ratio",
+      "label": "Filmback Aspect Ratio",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_Size Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectmode_enum",
+      "label": "ProjectMode",
+      "file_type": "code",
+      "source_file": "ProjectMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coordinate_projection_systems",
+      "label": "Coordinate Projection Systems",
+      "file_type": "code",
+      "source_file": "ProjectMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptrendercapturetextures_class",
+      "label": "GeometryScriptRenderCaptureTextures",
+      "file_type": "code",
+      "source_file": "GeometryScriptRenderCaptureTextures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbr_texture_baking",
+      "label": "PBR Texture Baking System",
+      "file_type": "code",
+      "source_file": "GeometryScriptRenderCaptureTextures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerint3arrayvariable_class",
+      "label": "RigVMTrait_SetDeformerInt3ArrayVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerInt3ArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusvariablebase_class",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerInt3ArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimus_deformer_system",
+      "label": "Optimus Deformer System",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerInt3ArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingmeshreductionoptions_class",
+      "label": "EditorScriptingMeshReductionOptions",
+      "file_type": "code",
+      "source_file": "EditorScriptingMeshReductionOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshreductionoptions_class",
+      "label": "StaticMeshReductionOptions",
+      "file_type": "code",
+      "source_file": "EditorScriptingMeshReductionOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "customizedtoolmenu_class",
+      "label": "CustomizedToolMenu",
+      "file_type": "code",
+      "source_file": "CustomizedToolMenu Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuprofile_class",
+      "label": "ToolMenuProfile",
+      "file_type": "code",
+      "source_file": "CustomizedToolMenu Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmparameter_class",
+      "label": "RigVMParameter",
+      "file_type": "code",
+      "source_file": "RigVMParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_memory_registers",
+      "label": "RigVM Memory Registers",
+      "file_type": "code",
+      "source_file": "RigVMParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcginstancedatapackerbyregex_class",
+      "label": "PCGInstanceDataPackerByRegex",
+      "file_type": "code",
+      "source_file": "PCGInstanceDataPackerByRegex Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcginstancedatapackerbase_class",
+      "label": "PCGInstanceDataPackerBase",
+      "file_type": "code",
+      "source_file": "PCGInstanceDataPackerByRegex Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioradialslider_class",
+      "label": "AudioRadialSlider",
+      "file_type": "code",
+      "source_file": "AudioRadialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_widget_components",
+      "label": "Audio Widget Components",
+      "file_type": "code",
+      "source_file": "AudioRadialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slider_value_mapping",
+      "label": "Slider Value Mapping System",
+      "file_type": "code",
+      "source_file": "AudioRadialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_sequenceplayer_class",
+      "label": "AnimNode_SequencePlayer",
+      "file_type": "code",
+      "source_file": "AnimNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_sequenceplayerbase_class",
+      "label": "AnimNode_SequencePlayerBase",
+      "file_type": "code",
+      "source_file": "AnimNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_playback_control",
+      "label": "Animation Playback Control",
+      "file_type": "code",
+      "source_file": "AnimNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "randomplayersequenceentry_class",
+      "label": "RandomPlayerSequenceEntry",
+      "file_type": "code",
+      "source_file": "RandomPlayerSequenceEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "random_sequence_selection",
+      "label": "Random Sequence Selection",
+      "file_type": "code",
+      "source_file": "RandomPlayerSequenceEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialeditormeshcomponent_class",
+      "label": "MaterialEditorMeshComponent",
+      "file_type": "code",
+      "source_file": "MaterialEditorMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshcomponent_class",
+      "label": "StaticMeshComponent",
+      "file_type": "code",
+      "source_file": "MaterialEditorMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameframeworkaddcomponentflags_enum",
+      "label": "GameFrameworkAddComponentFlags",
+      "file_type": "code",
+      "source_file": "GameFrameworkAddComponentFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modular_gameplay_architecture",
+      "label": "Modular Gameplay Architecture",
+      "file_type": "code",
+      "source_file": "GameFrameworkAddComponentFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_sequenceaggregate_class",
+      "label": "RigUnit_SequenceAggregate",
+      "file_type": "code",
+      "source_file": "RigUnit_SequenceAggregate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_sequence_class",
+      "label": "RigVMFunction_Sequence",
+      "file_type": "code",
+      "source_file": "RigUnit_SequenceAggregate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadlaneassetactor_class",
+      "label": "AesRoadLaneAssetActor",
+      "file_type": "code",
+      "source_file": "AesRoadLaneAssetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassetactorbase_class",
+      "label": "AesAssetActorBase",
+      "file_type": "code",
+      "source_file": "AesRoadLaneAssetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spline_based_asset_generation",
+      "label": "Spline-based Asset Generation",
+      "file_type": "code",
+      "source_file": "AesRoadLaneAssetActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryop_class",
+      "label": "RigVMFunction_MathFloatBinaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbase_class",
+      "label": "RigVMFunction_MathFloatBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathraytransform_class",
+      "label": "RigVMFunction_MathRayTransform",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRayTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathraybase_class",
+      "label": "RigVMFunction_MathRayBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRayTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createviewshedparams_class",
+      "label": "CreateViewshedParams",
+      "file_type": "code",
+      "source_file": "CreateViewshedParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewshed_analysis",
+      "label": "Viewshed Analysis System",
+      "file_type": "code",
+      "source_file": "CreateViewshedParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_editordynamicmeshutil_class",
+      "label": "GeometryScript_EditorDynamicMeshUtil",
+      "file_type": "code",
+      "source_file": "GeometryScript__EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_mesh_debugging",
+      "label": "Dynamic Mesh Debugging",
+      "file_type": "code",
+      "source_file": "GeometryScript__EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "undo_redo_mesh_changes",
+      "label": "Undo/Redo Mesh Change Tracking",
+      "file_type": "code",
+      "source_file": "GeometryScript__EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "earthboxfragment_class",
+      "target": "earthpointfragment_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthBoxFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthboxfragment_class",
+      "target": "box_size_property",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthBoxFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdptransactionmgr_class",
+      "target": "transaction_management_concept",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpTransactionMgr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdptransactionmgr_class",
+      "target": "undo_redo_operations",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WdpTransactionMgr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringsplit_class",
+      "target": "rigvmfunction_stringbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__StringSplit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_stringsplit_class",
+      "target": "string_splitting_operation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__StringSplit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_size_class",
+      "target": "icvfx_camera_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DisplayClusterConfigurationICVFX_Size Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_size_class",
+      "target": "filmback_aspect_ratio",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DisplayClusterConfigurationICVFX_Size Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "projectmode_enum",
+      "target": "coordinate_projection_systems",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ProjectMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrendercapturetextures_class",
+      "target": "pbr_texture_baking",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptRenderCaptureTextures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerint3arrayvariable_class",
+      "target": "rigvmtrait_optimusvariablebase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerInt3ArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerint3arrayvariable_class",
+      "target": "optimus_deformer_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMTrait__SetDeformerInt3ArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editorscriptingmeshreductionoptions_class",
+      "target": "staticmeshreductionoptions_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorScriptingMeshReductionOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "customizedtoolmenu_class",
+      "target": "toolmenuprofile_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CustomizedToolMenu Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmparameter_class",
+      "target": "rigvm_memory_registers",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcginstancedatapackerbyregex_class",
+      "target": "pcginstancedatapackerbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGInstanceDataPackerByRegex Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioradialslider_class",
+      "target": "audio_widget_components",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AudioRadialSlider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audioradialslider_class",
+      "target": "slider_value_mapping",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AudioRadialSlider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_sequenceplayer_class",
+      "target": "animnode_sequenceplayerbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_sequenceplayer_class",
+      "target": "animation_playback_control",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "randomplayersequenceentry_class",
+      "target": "random_sequence_selection",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RandomPlayerSequenceEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialeditormeshcomponent_class",
+      "target": "staticmeshcomponent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialEditorMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameframeworkaddcomponentflags_enum",
+      "target": "modular_gameplay_architecture",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GameFrameworkAddComponentFlags Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_sequenceaggregate_class",
+      "target": "rigvmfunction_sequence_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SequenceAggregate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadlaneassetactor_class",
+      "target": "aesassetactorbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesRoadLaneAssetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesroadlaneassetactor_class",
+      "target": "spline_based_asset_generation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesRoadLaneAssetActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatbinaryop_class",
+      "target": "rigvmfunction_mathfloatbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathraytransform_class",
+      "target": "rigvmfunction_mathraybase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathRayTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createviewshedparams_class",
+      "target": "viewshed_analysis",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CreateViewshedParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_editordynamicmeshutil_class",
+      "target": "dynamic_mesh_debugging",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_editordynamicmeshutil_class",
+      "target": "undo_redo_mesh_changes",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript__EditorDynamicMeshUtil Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "undo_redo_operations",
+      "target": "undo_redo_mesh_changes",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WdpTransactionMgr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animation_playback_control",
+      "target": "random_sequence_selection",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimNode__SequencePlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_function_hierarchy",
+      "label": "RigVM Function Inheritance Hierarchy",
+      "nodes": [
+        "rigvmfunction_stringsplit_class",
+        "rigvmfunction_mathfloatbinaryop_class",
+        "rigvmfunction_mathraytransform_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__StringSplit Objects.md"
+    },
+    {
+      "id": "unreal_component_specialization",
+      "label": "Unreal Component Specialization Pattern",
+      "nodes": [
+        "materialeditormeshcomponent_class",
+        "staticmeshcomponent_class",
+        "gameframeworkaddcomponentflags_enum"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialEditorMeshComponent Objects.md"
+    },
+    {
+      "id": "asset_authoring_systems",
+      "label": "Asset Authoring Systems",
+      "nodes": [
+        "aesroadlaneassetactor_class",
+        "spline_based_asset_generation",
+        "geometryscript_editordynamicmeshutil_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesRoadLaneAssetActor Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

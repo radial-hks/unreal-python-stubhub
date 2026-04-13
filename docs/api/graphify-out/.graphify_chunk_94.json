@@ -1,0 +1,703 @@
+{
+  "nodes": [
+    {
+      "id": "animnode_poseblendnode",
+      "label": "AnimNode_PoseBlendNode",
+      "file_type": "document",
+      "source_file": "AnimNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_posehandler",
+      "label": "AnimNode_PoseHandler",
+      "file_type": "document",
+      "source_file": "AnimNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "monowavetablesynthpresetfactory",
+      "label": "MonoWaveTableSynthPresetFactory",
+      "file_type": "document",
+      "source_file": "MonoWaveTableSynthPresetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "MonoWaveTableSynthPresetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexturenode",
+      "label": "InterchangeTextureNode",
+      "file_type": "document",
+      "source_file": "InterchangeTextureNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangebasenode",
+      "label": "InterchangeBaseNode",
+      "file_type": "document",
+      "source_file": "InterchangeTextureNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatevectorvector",
+      "label": "RigUnit_MathRBFInterpolateVectorVector",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorvector",
+      "label": "RigVMFunction_MathRBFInterpolateVectorVector",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_aimconstraintlocalspaceoffset",
+      "label": "RigUnit_AimConstraintLocalSpaceOffset",
+      "file_type": "document",
+      "source_file": "RigUnit_AimConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_AimConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendlistbybool",
+      "label": "AnimGraphNode_BlendListByBool",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendListByBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendlistbase",
+      "label": "AnimGraphNode_BlendListBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendListByBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformerboolvariable",
+      "label": "RigVMTrait_SetDeformerBoolVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusvariablebase",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleadd",
+      "label": "RigVMFunction_MathDoubleAdd",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebinaryaggregateop",
+      "label": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectormakerelative",
+      "label": "RigUnit_MathVectorMakeRelative",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormakerelative",
+      "label": "RigVMFunction_MathVectorMakeRelative",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perboneinterpolation",
+      "label": "PerBoneInterpolation",
+      "file_type": "document",
+      "source_file": "PerBoneInterpolation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "PerBoneInterpolation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nonblendablevectoranimationattribute",
+      "label": "NonBlendableVectorAnimationAttribute",
+      "file_type": "document",
+      "source_file": "NonBlendableVectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vectoranimationattribute",
+      "label": "VectorAnimationAttribute",
+      "file_type": "document",
+      "source_file": "NonBlendableVectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ismcomponentdescriptorbase",
+      "label": "ISMComponentDescriptorBase",
+      "file_type": "document",
+      "source_file": "ISMComponentDescriptorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_pose_evaluation",
+      "label": "Animation Pose Evaluation",
+      "file_type": "document",
+      "source_file": "AnimNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_synthesis",
+      "label": "Audio Synthesis",
+      "file_type": "document",
+      "source_file": "MonoWaveTableSynthPresetFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_import",
+      "label": "Texture Import",
+      "file_type": "document",
+      "source_file": "InterchangeTextureNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_math_operations",
+      "label": "Rig Math Operations",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraint_systems",
+      "label": "Constraint Systems",
+      "file_type": "document",
+      "source_file": "RigUnit_AimConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_graph_blend",
+      "label": "Animation Graph Blend",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_BlendListByBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformer_variables",
+      "label": "Deformer Variables",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_math",
+      "label": "Vector Math",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bone_interpolation",
+      "label": "Bone Interpolation",
+      "file_type": "document",
+      "source_file": "PerBoneInterpolation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_attributes",
+      "label": "Animation Attributes",
+      "file_type": "document",
+      "source_file": "NonBlendableVectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "instanced_mesh_management",
+      "label": "Instanced Mesh Management",
+      "file_type": "document",
+      "source_file": "ISMComponentDescriptorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animnode_poseblendnode",
+      "target": "animnode_posehandler",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_poseblendnode",
+      "target": "animation_pose_evaluation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "monowavetablesynthpresetfactory",
+      "target": "factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MonoWaveTableSynthPresetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "monowavetablesynthpresetfactory",
+      "target": "audio_synthesis",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MonoWaveTableSynthPresetFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexturenode",
+      "target": "interchangebasenode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTextureNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexturenode",
+      "target": "texture_import",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "InterchangeTextureNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorvector",
+      "target": "rigvmfunction_mathrbfinterpolatevectorvector",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorvector",
+      "target": "rig_math_operations",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraintlocalspaceoffset",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AimConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_aimconstraintlocalspaceoffset",
+      "target": "constraint_systems",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit_AimConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendlistbybool",
+      "target": "animgraphnode_blendlistbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_BlendListByBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendlistbybool",
+      "target": "animation_graph_blend",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "AnimGraphNode_BlendListByBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerboolvariable",
+      "target": "rigvmtrait_optimusvariablebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait_SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformerboolvariable",
+      "target": "deformer_variables",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigVMTrait_SetDeformerBoolVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleadd",
+      "target": "rigvmfunction_mathdoublebinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleadd",
+      "target": "rig_math_operations",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathDoubleAdd Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormakerelative",
+      "target": "rigvmfunction_mathvectormakerelative",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectormakerelative",
+      "target": "vector_math",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__MathVectorMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perboneinterpolation",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerBoneInterpolation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perboneinterpolation",
+      "target": "bone_interpolation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PerBoneInterpolation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nonblendablevectoranimationattribute",
+      "target": "vectoranimationattribute",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NonBlendableVectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nonblendablevectoranimationattribute",
+      "target": "animation_attributes",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "NonBlendableVectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ismcomponentdescriptorbase",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ISMComponentDescriptorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ismcomponentdescriptorbase",
+      "target": "instanced_mesh_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "ISMComponentDescriptorBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rig_math_operations",
+      "target": "vector_math",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathRBFInterpolateVectorVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animation_pose_evaluation",
+      "target": "bone_interpolation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animation_pose_evaluation",
+      "target": "animation_graph_blend",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimNode__PoseBlendNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constraint_systems",
+      "target": "bone_interpolation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_AimConstraintLocalSpaceOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animation_attributes",
+      "target": "animation_pose_evaluation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NonBlendableVectorAnimationAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_animation_system",
+      "label": "Unreal Animation System",
+      "nodes": [
+        "animnode_poseblendnode",
+        "animgraphnode_blendlistbybool",
+        "perboneinterpolation",
+        "nonblendablevectoranimationattribute"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AnimNode__PoseBlendNode Objects.md"
+    },
+    {
+      "id": "rigvm_framework",
+      "label": "RigVM Framework",
+      "nodes": [
+        "rigunit_mathrbfinterpolatevectorvector",
+        "rigunit_aimconstraintlocalspaceoffset",
+        "rigvmtrait_setdeformerboolvariable",
+        "rigvmfunction_mathdoubleadd",
+        "rigunit_mathvectormakerelative"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__MathRBFInterpolateVectorVector Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,495 @@
+{
+  "nodes": [
+    {
+      "id": "avamasksettings_avamasksettings",
+      "label": "AvaMaskSettings",
+      "file_type": "document",
+      "source_file": "AvaMaskSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "imagesequenceprotocol_bmp_imagesequenceprotocol_bmp",
+      "label": "ImageSequenceProtocol_BMP",
+      "file_type": "document",
+      "source_file": "ImageSequenceProtocol_BMP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadfragment_earthroadfragment",
+      "label": "EarthRoadFragment",
+      "file_type": "document",
+      "source_file": "EarthRoadFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumpropertytype_cesiumpropertytype",
+      "label": "CesiumPropertyType",
+      "file_type": "document",
+      "source_file": "CesiumPropertyType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionparticledirection_materialexpressionparticledirection",
+      "label": "MaterialExpressionParticleDirection",
+      "file_type": "document",
+      "source_file": "MaterialExpressionParticleDirection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "trajectorysample_trajectorysample",
+      "label": "TrajectorySample",
+      "file_type": "document",
+      "source_file": "TrajectorySample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "Vector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlineshowloginuiresult_onlineshowloginuiresult",
+      "label": "OnlineShowLoginUIResult",
+      "file_type": "document",
+      "source_file": "OnlineShowLoginUIResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_poseloop_rigunit_poseloop",
+      "label": "RigUnit_PoseLoop",
+      "file_type": "document",
+      "source_file": "RigUnit_PoseLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weatherupdateeventargs_weatherupdateeventargs",
+      "label": "WeatherUpdateEventArgs",
+      "file_type": "document",
+      "source_file": "WeatherUpdateEventArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sceneviewextensionisactivefunctor_sceneviewextensionisactivefunctor",
+      "label": "SceneViewExtensionIsActiveFunctor",
+      "file_type": "document",
+      "source_file": "SceneViewExtensionIsActiveFunctor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiospectrumtype_audiospectrumtype",
+      "label": "AudioSpectrumType",
+      "file_type": "document",
+      "source_file": "AudioSpectrumType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorisnearlyequal_rigunit_mathvectorisnearlyequal",
+      "label": "RigUnit_MathVectorIsNearlyEqual",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorIsNearlyEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uniquenetidrepl_uniquenetidrepl",
+      "label": "UniqueNetIdRepl",
+      "file_type": "document",
+      "source_file": "UniqueNetIdRepl Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathvectorclamplength_rigunit__mathvectorclamplength",
+      "label": "RigUnit_MathVectorClampLength",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorClampLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avabooleanmode_avabooleanmode",
+      "label": "AvaBooleanMode",
+      "file_type": "document",
+      "source_file": "AvaBooleanMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "convolutionbloomsettings_convolutionbloomsettings",
+      "label": "ConvolutionBloomSettings",
+      "file_type": "document",
+      "source_file": "ConvolutionBloomSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathtransformtovectors_rigvmfunction__mathtransformtovectors",
+      "label": "RigVMFunction_MathTransformToVectors",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathTransformToVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "relativepolylineatom_relativepolylineatom",
+      "label": "RelativePolylineAtom",
+      "file_type": "document",
+      "source_file": "RelativePolylineAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairexternalforces_hairexternalforces",
+      "label": "HairExternalForces",
+      "file_type": "document",
+      "source_file": "HairExternalForces Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstanceconstant_materialinstanceconstant",
+      "label": "MaterialInstanceConstant",
+      "file_type": "document",
+      "source_file": "MaterialInstanceConstant Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustermediaoutputsynchpolicyvblankfactory_displayclustermediaoutputsynchpolicyvblankfactory",
+      "label": "DisplayClusterMediaOutputSynchronizationPolicyVblankFactory",
+      "file_type": "document",
+      "source_file": "DisplayClusterMediaOutputSynchronizationPolicyVblankFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_transform_usage",
+      "label": "Vector Usage in Transform",
+      "file_type": "document",
+      "source_file": "Vector Objects.md",
+      "source_location": "1430-1443",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_rigvm_math_usage",
+      "label": "Vector in RigVM Math Operations",
+      "file_type": "document",
+      "source_file": "Vector Objects.md",
+      "source_location": "1-1786",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "avamasksettings_avamasksettings",
+      "target": "vector_transform_usage",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AvaMaskSettings Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "trajectorysample_trajectorysample",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TrajectorySample Objects.md",
+      "source_location": "18",
+      "weight": 1.0
+    },
+    {
+      "source": "trajectorysample_trajectorysample",
+      "target": "vector_transform_usage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TrajectorySample Objects.md",
+      "source_location": "19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_poseloop_rigunit_poseloop",
+      "target": "vector_transform_usage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseLoop Objects.md",
+      "source_location": "21-22",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathtransformtovectors_rigvmfunction__mathtransformtovectors",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformToVectors Objects.md",
+      "source_location": "17-19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathtransformtovectors_rigvmfunction__mathtransformtovectors",
+      "target": "vector_transform_usage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformToVectors Objects.md",
+      "source_location": "20",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorisnearlyequal_rigunit_mathvectorisnearlyequal",
+      "target": "vector_rigvm_math_usage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorIsNearlyEqual Objects.md",
+      "source_location": "14",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathvectorclamplength_rigunit__mathvectorclamplength",
+      "target": "vector_rigvm_math_usage",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorClampLength Objects.md",
+      "source_location": "14",
+      "weight": 1.0
+    },
+    {
+      "source": "hairexternalforces_hairexternalforces",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairExternalForces Objects.md",
+      "source_location": "19",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorisnearlyequal_rigunit_mathvectorisnearlyequal",
+      "target": "rigunit__mathvectorclamplength_rigunit__mathvectorclamplength",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathVectorIsNearlyEqual Objects.md",
+      "source_location": "1-8",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumpropertytype_cesiumpropertytype",
+      "target": "rigunit_mathvectorisnearlyequal_rigunit_mathvectorisnearlyequal",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CesiumPropertyType Objects.md",
+      "source_location": "4-8",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumpropertytype_cesiumpropertytype",
+      "target": "rigunit__mathvectorclamplength_rigunit__mathvectorclamplength",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CesiumPropertyType Objects.md",
+      "source_location": "4-8",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionparticledirection_materialexpressionparticledirection",
+      "target": "materialinstanceconstant_materialinstanceconstant",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionParticleDirection Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_poseloop_rigunit_poseloop",
+      "target": "rigvmfunction__mathtransformtovectors_rigvmfunction__mathtransformtovectors",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_PoseLoop Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_poseloop_rigunit_poseloop",
+      "target": "rigunit_mathvectorisnearlyequal_rigunit_mathvectorisnearlyequal",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_PoseLoop Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_poseloop_rigunit_poseloop",
+      "target": "rigunit__mathvectorclamplength_rigunit__mathvectorclamplength",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_PoseLoop Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "trajectorysample_trajectorysample",
+      "target": "rigunit_poseloop_rigunit_poseloop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "TrajectorySample Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "audiospectrumtype_audiospectrumtype",
+      "target": "hairexternalforces_hairexternalforces",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "AudioSpectrumType Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_vector_math_operations",
+      "label": "RigVM Vector Math Operations",
+      "nodes": [
+        "vector_vector",
+        "rigunit_mathvectorisnearlyequal_rigunit_mathvectorisnearlyequal",
+        "rigunit__mathvectorclamplength_rigunit__mathvectorclamplength",
+        "rigvmfunction__mathtransformtovectors_rigvmfunction__mathtransformtovectors"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathVectorIsNearlyEqual Objects.md"
+    },
+    {
+      "id": "transform_based_classes",
+      "label": "Transform-Based Classes",
+      "nodes": [
+        "vector_vector",
+        "trajectorysample_trajectorysample",
+        "rigunit_poseloop_rigunit_poseloop",
+        "rigvmfunction__mathtransformtovectors_rigvmfunction__mathtransformtovectors"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "TrajectorySample Objects.md"
+    },
+    {
+      "id": "deprecated_unreal_types",
+      "label": "Deprecated Unreal Types",
+      "nodes": [
+        "cesiumpropertytype_cesiumpropertytype",
+        "rigunit_mathvectorisnearlyequal_rigunit_mathvectorisnearlyequal",
+        "rigunit__mathvectorclamplength_rigunit__mathvectorclamplength"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumPropertyType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

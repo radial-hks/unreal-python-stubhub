@@ -1,0 +1,1413 @@
+{
+  "nodes": [
+    {
+      "id": "pcgattributereduceoperation",
+      "label": "PCGAttributeReduceOperation",
+      "file_type": "document",
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributereduceoperation_average",
+      "label": "AVERAGE",
+      "file_type": "document",
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": "lines 17-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributereduceoperation_max",
+      "label": "MAX",
+      "file_type": "document",
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": "lines 23-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributereduceoperation_min",
+      "label": "MIN",
+      "file_type": "document",
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": "lines 29-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributereduceoperation_sum",
+      "label": "SUM",
+      "file_type": "document",
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": "lines 35-37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributereduceoperation_join",
+      "label": "JOIN",
+      "file_type": "document",
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": "lines 41-43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributeselectoperation",
+      "label": "PCGAttributeSelectOperation",
+      "file_type": "document",
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": "line 45",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxstring_onopeningevent",
+      "label": "ComboBoxString_OnOpeningEvent",
+      "file_type": "document",
+      "source_file": "ComboBoxString__OnOpeningEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxstring_onopeningevent_init",
+      "label": "__init__",
+      "file_type": "document",
+      "source_file": "ComboBoxString__OnOpeningEvent Objects.md",
+      "source_location": "lines 16-20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxstring_onselectionchangedevent",
+      "label": "ComboBoxString_OnSelectionChangedEvent",
+      "file_type": "document",
+      "source_file": "ComboBoxString__OnOpeningEvent Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequenceroutlinerselectionchanged",
+      "label": "SequencerOutlinerSelectionChanged",
+      "file_type": "document",
+      "source_file": "SequencerOutlinerSelectionChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequenceroutlinerselectionchanged_init",
+      "label": "__init__",
+      "file_type": "document",
+      "source_file": "SequencerOutlinerSelectionChanged Objects.md",
+      "source_location": "lines 16-20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourcecontrol_queryfilestatedelegate",
+      "label": "SourceControl_QueryFileStateDelegate",
+      "file_type": "document",
+      "source_file": "SequencerOutlinerSelectionChanged Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewshedapi",
+      "label": "ViewShedAPI",
+      "file_type": "document",
+      "source_file": "ViewShedAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visible2datomapi",
+      "label": "Visible2DAtomAPI",
+      "file_type": "document",
+      "source_file": "ViewShedAPI Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererpixelcoveragemode",
+      "label": "NiagaraRendererPixelCoverageMode",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererpixelcoveragemode_automatic",
+      "label": "AUTOMATIC",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": "lines 17-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererpixelcoveragemode_disabled",
+      "label": "DISABLED",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": "lines 23-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererpixelcoveragemode_enabled",
+      "label": "ENABLED",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": "lines 29-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererpixelcoveragemode_enabled_rgba",
+      "label": "ENABLED_RGBA",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": "lines 35-37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererpixelcoveragemode_enabled_rgb",
+      "label": "ENABLED_RGB",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": "lines 41-43",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererpixelcoveragemode_enabled_a",
+      "label": "ENABLED_A",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": "lines 47-49",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subuvboundingvertexcount",
+      "label": "SubUVBoundingVertexCount",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": "line 51",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacademeshprefabalgorith",
+      "label": "EarthFacadeMeshPrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabalgorith",
+      "label": "EarthPrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacademeshprefabalgorith_required_fragments",
+      "label": "required_fragments",
+      "file_type": "document",
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacadeprefabalgorith",
+      "label": "EarthFacadePrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreenposboundaddresult",
+      "label": "WDPScreenPosBoundAddResult",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreenposboundaddresult_init",
+      "label": "__init__",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": "lines 25-32",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreenposboundaddresult_ids",
+      "label": "ids",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": "lines 39-44",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreenposboundaddresult_locations",
+      "label": "locations",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": "lines 61-64",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreeenposboundaddresult_message",
+      "label": "message",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreeenposboundaddresult_scene_change_info",
+      "label": "scene_change_info",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreeenposboundaddresult_success",
+      "label": "success",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpupdatescreenposboundresult",
+      "label": "WDPUpdateScreenPosBoundResult",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": "line 75",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proximitycontactfilteringmethodenum",
+      "label": "ProximityContactFilteringMethodEnum",
+      "file_type": "document",
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proximitycontactfilteringmethodenum_projected_bounds_overlap",
+      "label": "DATAFLOW_PROXIMITY_CONTACT_FILTERING_METHOD_PROJECTED_BOUNDS_OVERLAP",
+      "file_type": "document",
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": "lines 17-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proximitycontactfilteringmethodenum_convex_hull_sharp",
+      "label": "DATAFLOW_PROXIMITY_CONTACT_FILTERING_METHOD_CONVEX_HULL_SHARP",
+      "file_type": "document",
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": "lines 23-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proximitycontactfilteringmethodenum_convex_hull_area",
+      "label": "DATAFLOW_PROXIMITY_CONTACT_FILTERING_METHOD_CONVEX_HULL_AREA",
+      "file_type": "document",
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": "lines 29-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "connectioncontactareamethodenum",
+      "label": "ConnectionContactAreaMethodEnum",
+      "file_type": "document",
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": "line 33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oscillatorwaveform",
+      "label": "OscillatorWaveform",
+      "file_type": "document",
+      "source_file": "OscillatorWaveform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oscillatorwaveform_sine_wave",
+      "label": "SINE_WAVE",
+      "file_type": "document",
+      "source_file": "OscillatorWaveform Objects.md",
+      "source_location": "lines 17-19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oscillatorwaveform_perlin_noise",
+      "label": "PERLIN_NOISE",
+      "file_type": "document",
+      "source_file": "OscillatorWaveform Objects.md",
+      "source_location": "lines 23-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerariglayer",
+      "label": "CameraRigLayer",
+      "file_type": "document",
+      "source_file": "OscillatorWaveform Objects.md",
+      "source_location": "line 27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textwrappingpolicy",
+      "label": "TextWrappingPolicy",
+      "file_type": "document",
+      "source_file": "TextWrappingPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textwrappingpolicy_default_wrapping",
+      "label": "DEFAULT_WRAPPING",
+      "file_type": "document",
+      "source_file": "TextWrappingPolicy Objects.md",
+      "source_location": "lines 17-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textwrappingpolicy_allow_per_character_wrapping",
+      "label": "ALLOW_PER_CHARACTER_WRAPPING",
+      "file_type": "document",
+      "source_file": "TextWrappingPolicy Objects.md",
+      "source_location": "lines 22-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textflowdirection",
+      "label": "TextFlowDirection",
+      "file_type": "document",
+      "source_file": "TextWrappingPolicy Objects.md",
+      "source_location": "line 26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptindextype",
+      "label": "GeometryScriptIndexType",
+      "file_type": "document",
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptindextype_any",
+      "label": "ANY",
+      "file_type": "document",
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": "lines 22-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptindextype_triangle",
+      "label": "TRIANGLE",
+      "file_type": "document",
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": "lines 27-30",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptindextype_edge",
+      "label": "EDGE",
+      "file_type": "document",
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": "lines 34-36",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptindextype_vertex",
+      "label": "VERTEX",
+      "file_type": "document",
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": "lines 40-42",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptindextype_material_id",
+      "label": "MATERIAL_ID",
+      "file_type": "document",
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": "lines 46-48",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptindextype_polygroup_id",
+      "label": "POLYGROUP_ID",
+      "file_type": "document",
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": "lines 52-54",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptdebugmessagetype",
+      "label": "GeometryScriptDebugMessageType",
+      "file_type": "document",
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": "line 56",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "speciesdiscard",
+      "label": "SpeciesDiscard",
+      "file_type": "document",
+      "source_file": "SpeciesDiscard Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "speciesdiscard_init",
+      "label": "__init__",
+      "file_type": "document",
+      "source_file": "SpeciesDiscard Objects.md",
+      "source_location": "lines 22-24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "speciesdiscard_names",
+      "label": "names",
+      "file_type": "document",
+      "source_file": "SpeciesDiscard Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vegetationrendercontrol",
+      "label": "VegetationRenderControl",
+      "file_type": "document",
+      "source_file": "SpeciesDiscard Objects.md",
+      "source_location": "line 27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "document",
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgattributereduceoperation_average",
+      "target": "pcgattributereduceoperation",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_max",
+      "target": "pcgattributereduceoperation",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_min",
+      "target": "pcgattributereduceoperation",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_sum",
+      "target": "pcgattributereduceoperation",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_join",
+      "target": "pcgattributereduceoperation",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation",
+      "target": "pcgattributeselectoperation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation",
+      "target": "pcg_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "comboboxstring_onopeningevent_init",
+      "target": "comboboxstring_onopeningevent",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComboBoxString__OnOpeningEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "comboboxstring_onopeningevent",
+      "target": "comboboxstring_onselectionchangedevent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ComboBoxString__OnOpeningEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequenceroutlinerselectionchanged_init",
+      "target": "sequenceroutlinerselectionchanged",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SequencerOutlinerSelectionChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "viewshedapi",
+      "target": "visible2datomapi",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ViewShedAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_automatic",
+      "target": "niagararendererpixelcoveragemode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_disabled",
+      "target": "niagararendererpixelcoveragemode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_enabled",
+      "target": "niagararendererpixelcoveragemode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_enabled_rgba",
+      "target": "niagararendererpixelcoveragemode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_enabled_rgb",
+      "target": "niagararendererpixelcoveragemode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_enabled_a",
+      "target": "niagararendererpixelcoveragemode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode",
+      "target": "niagara_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode",
+      "target": "subuvboundingvertexcount",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacademeshprefabalgorith",
+      "target": "earthprefabalgorith",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": "line 5",
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacademeshprefabalgorith_required_fragments",
+      "target": "earthfacademeshprefabalgorith",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacademeshprefabalgorith",
+      "target": "earthfacadeprefabalgorith",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacademeshprefabalgorith",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreenposboundaddresult_init",
+      "target": "wdpscreenposboundaddresult",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreenposboundaddresult_ids",
+      "target": "wdpscreenposboundaddresult",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreenposboundaddresult_locations",
+      "target": "wdpscreenposboundaddresult",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreeenposboundaddresult_message",
+      "target": "wdpscreenposboundaddresult",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreeenposboundaddresult_scene_change_info",
+      "target": "wdpscreenposboundaddresult",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreeenposboundaddresult_success",
+      "target": "wdpscreenposboundaddresult",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscreenposboundaddresult",
+      "target": "wdpupdatescreenposboundresult",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WDPScreenPosBoundAddResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proximitycontactfilteringmethodenum_projected_bounds_overlap",
+      "target": "proximitycontactfilteringmethodenum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proximitycontactfilteringmethodenum_convex_hull_sharp",
+      "target": "proximitycontactfilteringmethodenum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proximitycontactfilteringmethodenum_convex_hull_area",
+      "target": "proximitycontactfilteringmethodenum",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proximitycontactfilteringmethodenum",
+      "target": "connectioncontactareamethodenum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oscillatorwaveform_sine_wave",
+      "target": "oscillatorwaveform",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OscillatorWaveform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oscillatorwaveform_perlin_noise",
+      "target": "oscillatorwaveform",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OscillatorWaveform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oscillatorwaveform",
+      "target": "camerariglayer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OscillatorWaveform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "textwrappingpolicy_default_wrapping",
+      "target": "textwrappingpolicy",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextWrappingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "textwrappingpolicy_allow_per_character_wrapping",
+      "target": "textwrappingpolicy",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextWrappingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "textwrappingpolicy",
+      "target": "textflowdirection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "TextWrappingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_any",
+      "target": "geometryscriptindextype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_triangle",
+      "target": "geometryscriptindextype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_edge",
+      "target": "geometryscriptindextype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_vertex",
+      "target": "geometryscriptindextype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_material_id",
+      "target": "geometryscriptindextype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_polygroup_id",
+      "target": "geometryscriptindextype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype",
+      "target": "geometryscriptdebugmessagetype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "speciesdiscard_init",
+      "target": "speciesdiscard",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpeciesDiscard Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "speciesdiscard_names",
+      "target": "speciesdiscard",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpeciesDiscard Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "speciesdiscard",
+      "target": "vegetationrendercontrol",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SpeciesDiscard Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "speciesdiscard",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpeciesDiscard Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_enabled_rgba",
+      "target": "niagararendererpixelcoveragemode_enabled_rgb",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_enabled_rgba",
+      "target": "niagararendererpixelcoveragemode_enabled_a",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererpixelcoveragemode_enabled_rgb",
+      "target": "niagararendererpixelcoveragemode_enabled_a",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proximitycontactfilteringmethodenum_convex_hull_sharp",
+      "target": "proximitycontactfilteringmethodenum_convex_hull_area",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ProximityContactFilteringMethodEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_triangle",
+      "target": "geometryscriptindextype_edge",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_triangle",
+      "target": "geometryscriptindextype_vertex",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_edge",
+      "target": "geometryscriptindextype_vertex",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptindextype_material_id",
+      "target": "geometryscriptindextype_polygroup_id",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptIndexType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_average",
+      "target": "pcgattributereduceoperation_max",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_average",
+      "target": "pcgattributereduceoperation_min",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_average",
+      "target": "pcgattributereduceoperation_sum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_max",
+      "target": "pcgattributereduceoperation_min",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_max",
+      "target": "pcgattributereduceoperation_sum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributereduceoperation_min",
+      "target": "pcgattributereduceoperation_sum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGAttributeReduceOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oscillatorwaveform_sine_wave",
+      "target": "oscillatorwaveform_perlin_noise",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "OscillatorWaveform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthprefabalgorith",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeMeshPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "niagara_pixel_coverage_modes",
+      "label": "Niagara Pixel Coverage Mode Variants",
+      "nodes": [
+        "niagararendererpixelcoveragemode_enabled_rgba",
+        "niagararendererpixelcoveragemode_enabled_rgb",
+        "niagararendererpixelcoveragemode_enabled_a"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NiagaraRendererPixelCoverageMode Objects.md"
+    },
+    {
+      "id": "geometry_index_types",
+      "label": "Geometry Script Index Types",
+      "nodes": [
+        "geometryscriptindextype_triangle",
+        "geometryscriptindextype_edge",
+        "geometryscriptindextype_vertex"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScriptIndexType Objects.md"
+    },
+    {
+      "id": "pcg_reduce_operations",
+      "label": "PCG Attribute Reduce Operations",
+      "nodes": [
+        "pcgattributereduceoperation_average",
+        "pcgattributereduceoperation_max",
+        "pcgattributereduceoperation_min",
+        "pcgattributereduceoperation_sum"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGAttributeReduceOperation Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

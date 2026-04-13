@@ -1,0 +1,474 @@
+{
+  "nodes": [
+    {
+      "id": "skeletalmeshsamplinginfo_skeletalmeshsamplinginfo",
+      "label": "SkeletalMeshSamplingInfo",
+      "file_type": "document",
+      "source_file": "SkeletalMeshSamplingInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editabletextbox_oneditabletextboxcommittedevent_editabletextbox_oneditabletextboxcommittedevent",
+      "label": "EditableTextBox_OnEditableTextBoxCommittedEvent",
+      "file_type": "document",
+      "source_file": "EditableTextBox_OnEditableTextBoxCommittedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleisnearlyzero_rigvmfunction_mathdoubleisnearlyzero",
+      "label": "RigVMFunction_MathDoubleIsNearlyZero",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleIsNearlyZero Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxstring_comboboxstring",
+      "label": "ComboBoxString",
+      "file_type": "document",
+      "source_file": "ComboBoxString Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clipheatmapparam_clipheatmapparam",
+      "label": "ClipHeatMapParam",
+      "file_type": "document",
+      "source_file": "ClipHeatMapParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testenumflags_testenumflags",
+      "label": "TestEnumFlags",
+      "file_type": "document",
+      "source_file": "TestEnumFlags Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_addoptimusdeformer_rigunit_addoptimusdeformer",
+      "label": "RigUnit_AddOptimusDeformer",
+      "file_type": "document",
+      "source_file": "RigUnit_AddOptimusDeformer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmatchandsetbyattribute_pcgmatchandsetbyattribute",
+      "label": "PCGMatchAndSetByAttribute",
+      "file_type": "document",
+      "source_file": "PCGMatchAndSetByAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgouterintersectionsettings_pcgouterintersectionsettings",
+      "label": "PCGOuterIntersectionSettings",
+      "file_type": "document",
+      "source_file": "PCGOuterIntersectionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onqueryentityidcompleted_onqueryentityidcompleted",
+      "label": "OnQueryEntityIdCompleted",
+      "file_type": "document",
+      "source_file": "OnQueryEntityIdCompleted Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movementmodechangeddelegate_movementmodechangeddelegate",
+      "label": "MovementModeChangedDelegate",
+      "file_type": "document",
+      "source_file": "MovementModeChangedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chinamapswitchmodeparams_chinamapswitchmodeparams",
+      "label": "ChinaMapSwitchModeParams",
+      "file_type": "document",
+      "source_file": "ChinaMapSwitchModeParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendparameter_blendparameter",
+      "label": "BlendParameter",
+      "file_type": "document",
+      "source_file": "BlendParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompropertycontrolcontrollerbase_custompropertycontrolcontrollerbase",
+      "label": "CustomPropertyControlControllerBase",
+      "file_type": "document",
+      "source_file": "CustomPropertyControlControllerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelercomponent_modelercomponent",
+      "label": "ModelerComponent",
+      "file_type": "document",
+      "source_file": "ModelerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_riglogic_rigunit_riglogic",
+      "label": "RigUnit_RigLogic",
+      "file_type": "document",
+      "source_file": "RigUnit_RigLogic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosbreakingeventrequestsettings_chaosbreakingeventrequestsettings",
+      "label": "ChaosBreakingEventRequestSettings",
+      "file_type": "document",
+      "source_file": "ChaosBreakingEventRequestSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionparticlemacrouv_dmmaterialstageexpressionparticlemacrouv",
+      "label": "DMMaterialStageExpressionParticleMacroUV",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionParticleMacroUV Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintsubsystem_onconstraintremovedfromsystem_constraintsubsystem_onconstraintremovedfromsystem",
+      "label": "ConstraintSubsystem_OnConstraintRemovedFromSystem",
+      "file_type": "document",
+      "source_file": "ConstraintSubsystem__OnConstraintRemovedFromSystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintmake_rigunit_mathintmake",
+      "label": "RigUnit_MathIntMake",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixbinaryaggregateop_rigvmfunction_mathmatrixbinaryaggregateop",
+      "label": "RigVMFunction_MathMatrixBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathMatrixBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggetsplinesettings_pcggetsplinesettings",
+      "label": "PCGGetSplineSettings",
+      "file_type": "document",
+      "source_file": "PCGGetSplineSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmatchandsetbyattributeentry_pcgmatchandsetbyattributeentry",
+      "label": "PCGMatchAndSetByAttributeEntry",
+      "file_type": "document",
+      "source_file": "PCGMatchAndSetByAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polygon_heatmapclip_polygon_heatmapclip",
+      "label": "Polygon_HeatMapClip",
+      "file_type": "document",
+      "source_file": "ClipHeatMapParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshsamplingregion_skeletalmeshsamplingregion",
+      "label": "SkeletalMeshSamplingRegion",
+      "file_type": "document",
+      "source_file": "SkeletalMeshSamplingInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosbreakingsortmethod_chaosbreakingsortmethod",
+      "label": "ChaosBreakingSortMethod",
+      "file_type": "document",
+      "source_file": "ChaosBreakingEventRequestSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebase_rigvmfunction_mathdoublebase",
+      "label": "RigVMFunction_MathDoubleBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleIsNearlyZero Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixbase_rigvmfunction_mathmatrixbase",
+      "label": "RigVMFunction_MathMatrixBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathMatrixBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "comboboxstring_comboboxstring",
+      "target": "editabletextbox_oneditabletextboxcommittedevent_editabletextbox_oneditabletextboxcommittedevent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ComboBoxString Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clipheatmapparam_clipheatmapparam",
+      "target": "chinamapswitchmodeparams_chinamapswitchmodeparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ClipHeatMapParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_addoptimusdeformer_rigunit_addoptimusdeformer",
+      "target": "rigunit_riglogic_rigunit_riglogic",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_AddOptimusDeformer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmatchandsetbyattribute_pcgmatchandsetbyattribute",
+      "target": "pcggetsplinesettings_pcggetsplinesettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGMatchAndSetByAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmatchandsetbyattribute_pcgmatchandsetbyattribute",
+      "target": "pcgouterintersectionsettings_pcgouterintersectionsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGMatchAndSetByAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgouterintersectionsettings_pcgouterintersectionsettings",
+      "target": "pcggetsplinesettings_pcggetsplinesettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGOuterIntersectionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleisnearlyzero_rigvmfunction_mathdoubleisnearlyzero",
+      "target": "rigvmfunction_mathmatrixbinaryaggregateop_rigvmfunction_mathmatrixbinaryaggregateop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathDoubleIsNearlyZero Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshsamplinginfo_skeletalmeshsamplinginfo",
+      "target": "skeletalmeshsamplingregion_skeletalmeshsamplingregion",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshSamplingInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmatchandsetbyattribute_pcgmatchandsetbyattribute",
+      "target": "pcgmatchandsetbyattributeentry_pcgmatchandsetbyattributeentry",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMatchAndSetByAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clipheatmapparam_clipheatmapparam",
+      "target": "polygon_heatmapclip_polygon_heatmapclip",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ClipHeatMapParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosbreakingeventrequestsettings_chaosbreakingeventrequestsettings",
+      "target": "chaosbreakingsortmethod_chaosbreakingsortmethod",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosBreakingEventRequestSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleisnearlyzero_rigvmfunction_mathdoubleisnearlyzero",
+      "target": "rigvmfunction_mathdoublebase_rigvmfunction_mathdoublebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleIsNearlyZero Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathmatrixbinaryaggregateop_rigvmfunction_mathmatrixbinaryaggregateop",
+      "target": "rigvmfunction_mathmatrixbase_rigvmfunction_mathmatrixbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathMatrixBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pcg_data_processing_settings",
+      "label": "PCG Data Processing Settings Classes",
+      "nodes": [
+        "pcgmatchandsetbyattribute_pcgmatchandsetbyattribute",
+        "pcgouterintersectionsettings_pcgouterintersectionsettings",
+        "pcggetsplinesettings_pcggetsplinesettings"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGMatchAndSetByAttribute Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operation Functions",
+      "nodes": [
+        "rigvmfunction_mathdoubleisnearlyzero_rigvmfunction_mathdoubleisnearlyzero",
+        "rigvmfunction_mathmatrixbinaryaggregateop_rigvmfunction_mathmatrixbinaryaggregateop",
+        "rigunit_mathintmake_rigunit_mathintmake"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathDoubleIsNearlyZero Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

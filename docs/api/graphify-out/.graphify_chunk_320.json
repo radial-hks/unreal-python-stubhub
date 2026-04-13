@@ -1,0 +1,949 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_stringtruncate_rigunit_stringtruncate",
+      "label": "RigUnit StringTruncate",
+      "file_type": "document",
+      "source_file": "RigUnit_StringTruncate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringtruncate_rigvmfunction_stringtruncate",
+      "label": "RigVMFunction StringTruncate",
+      "file_type": "document",
+      "source_file": "RigUnit_StringTruncate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesdynamicmeshcomponent_aesdynamicmeshcomponent",
+      "label": "AesDynamicMeshComponent",
+      "file_type": "document",
+      "source_file": "AesDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmeshcomponent_dynamicmeshcomponent",
+      "label": "DynamicMeshComponent",
+      "file_type": "document",
+      "source_file": "AesDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcoordaxisgizmo_wdpcoordaxisgizmo",
+      "label": "WdpCoordAxisGizmo",
+      "file_type": "document",
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgizmocoordaxistype_wdpcoordaxisgizmo",
+      "label": "WdpGizmoCoordAxisType",
+      "file_type": "document",
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgizmocoordaxisaction_wdpcoordaxisgizmo",
+      "label": "WdpGizmoCoordAxisAction",
+      "file_type": "document",
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgizmocoordaxisdomain_wdpcoordaxisgizmo",
+      "label": "WdpGizmoCoordAxisDomain",
+      "file_type": "document",
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabaseanimcomposite_posesearchdatabaseanimcomposite",
+      "label": "PoseSearchDatabaseAnimComposite",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabaseAnimComposite Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchdatabaseanimationassetbase_posesearchdatabaseanimcomposite",
+      "label": "PoseSearchDatabaseAnimationAssetBase",
+      "file_type": "document",
+      "source_file": "PoseSearchDatabaseAnimComposite Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onmovealongpathendevent_onmovealongpathendevent",
+      "label": "OnMoveAlongPathEndEvent",
+      "file_type": "document",
+      "source_file": "OnMoveAlongPathEndEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eventargsbase_eventargsbase",
+      "label": "EventArgsBase",
+      "file_type": "document",
+      "source_file": "OnMoveAlongPathEndEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshspatial_geometryscript_meshspatial",
+      "label": "GeometryScript MeshSpatial",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptdynamicmeshbvh_geometryscript_meshspatial",
+      "label": "GeometryScriptDynamicMeshBVH",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh_geometryscript_meshspatial",
+      "label": "DynamicMesh",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumfeaturetableaccesstype_cesiumfeaturetableaccesstype",
+      "label": "CesiumFeatureTableAccessType",
+      "file_type": "document",
+      "source_file": "CesiumFeatureTableAccessType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpwebsocketserver_wdpwebsocketserver",
+      "label": "WdpWebSocketServer",
+      "file_type": "document",
+      "source_file": "WdpWebSocketServer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hierarchymeshpickatom_hierarchymeshpickatom",
+      "label": "HierarchyMeshPickAtom",
+      "file_type": "document",
+      "source_file": "HierarchyMeshPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "defaultentitypickatom_defaultentitypickatom",
+      "label": "DefaultEntityPickAtom",
+      "file_type": "document",
+      "source_file": "HierarchyMeshPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_getuserdata_rigdispatch_getuserdata",
+      "label": "RigDispatch GetUserData",
+      "file_type": "document",
+      "source_file": "RigDispatch__GetUserData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatchfactory_rigdispatchfactory",
+      "label": "RigDispatchFactory",
+      "file_type": "document",
+      "source_file": "RigDispatch__GetUserData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perqualitylevelfloat_perqualitylevelfloat",
+      "label": "PerQualityLevelFloat",
+      "file_type": "document",
+      "source_file": "PerQualityLevelFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "PerQualityLevelFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filmbackoverridesource_filmbackoverridesource",
+      "label": "FilmbackOverrideSource",
+      "file_type": "document",
+      "source_file": "FilmbackOverrideSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthterraformingmeshprefab_earthterraformingmeshprefab",
+      "label": "EarthTerraformingMeshPrefab",
+      "file_type": "document",
+      "source_file": "EarthTerraformingMeshPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabbase_earthprefabbase",
+      "label": "EarthPrefabBase",
+      "file_type": "document",
+      "source_file": "EarthTerraformingMeshPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffectmultibandcompressorsettings_submixeffectmultibandcompressorsettings",
+      "label": "SubmixEffectMultibandCompressorSettings",
+      "file_type": "document",
+      "source_file": "SubmixEffectMultibandCompressorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseconfig_hearing_aisenseconfig_hearing",
+      "label": "AISenseConfig Hearing",
+      "file_type": "document",
+      "source_file": "AISenseConfig_Hearing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseconfig_aisenseconfig",
+      "label": "AISenseConfig",
+      "file_type": "document",
+      "source_file": "AISenseConfig_Hearing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisenseaffiliationfilter_aisenseconfig_hearing",
+      "label": "AISenseAffiliationFilter",
+      "file_type": "document",
+      "source_file": "AISenseConfig_Hearing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_lightcardsettings_displayclusterconfigurationicvfx_lightcardsettings",
+      "label": "DisplayClusterConfigurationICVFX LightcardSettings",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationICVFX_LightcardSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmcollapsenode_rigvmcollapsenode",
+      "label": "RigVMCollapseNode",
+      "file_type": "document",
+      "source_file": "RigVMCollapseNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmlibrarynode_rigvmlibrarynode",
+      "label": "RigVMLibraryNode",
+      "file_type": "document",
+      "source_file": "RigVMCollapseNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiosliderstyle_audiosliderstyle",
+      "label": "AudioSliderStyle",
+      "file_type": "document",
+      "source_file": "AudioSliderStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatewidgetstyle_slatewidgetstyle",
+      "label": "SlateWidgetStyle",
+      "file_type": "document",
+      "source_file": "AudioSliderStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserfoldercontentsfilter_contentbrowserfoldercontentsfilter",
+      "label": "ContentBrowserFolderContentsFilter",
+      "file_type": "document",
+      "source_file": "ContentBrowserFolderContentsFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbiklimittype_pbiklimittype",
+      "label": "PBIKLimitType",
+      "file_type": "document",
+      "source_file": "PBIKLimitType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendspacegraph_animgraphnode_blendspacegraph",
+      "label": "AnimGraphNode BlendSpaceGraph",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__BlendSpaceGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendspacegraphbase_animgraphnode_blendspacegraphbase",
+      "label": "AnimGraphNode BlendSpaceGraphBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__BlendSpaceGraph Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiondepthfade_materialexpressiondepthfade",
+      "label": "MaterialExpressionDepthFade",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDepthFade Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionDepthFade Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mesh_physics_collision_system",
+      "label": "Mesh Physics Collision System",
+      "file_type": "document",
+      "source_file": "AesDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatial_acceleration_structure",
+      "label": "Spatial Acceleration Structure",
+      "file_type": "document",
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "websocket_communication_pattern",
+      "label": "WebSocket Communication Pattern",
+      "file_type": "document",
+      "source_file": "WdpWebSocketServer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_perception_system",
+      "label": "AI Perception System",
+      "file_type": "document",
+      "source_file": "AISenseConfig_Hearing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quality_level_scaling",
+      "label": "Quality Level Scaling",
+      "file_type": "document",
+      "source_file": "PerQualityLevelFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_node_system",
+      "label": "RigVM Node System",
+      "file_type": "document",
+      "source_file": "RigVMCollapseNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_stringtruncate_rigunit_stringtruncate",
+      "target": "rigvmfunction_stringtruncate_rigvmfunction_stringtruncate",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StringTruncate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesdynamicmeshcomponent_aesdynamicmeshcomponent",
+      "target": "dynamicmeshcomponent_dynamicmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesdynamicmeshcomponent_aesdynamicmeshcomponent",
+      "target": "mesh_physics_collision_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcoordaxisgizmo_wdpcoordaxisgizmo",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcoordaxisgizmo_wdpcoordaxisgizmo",
+      "target": "wdpgizmocoordaxistype_wdpcoordaxisgizmo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcoordaxisgizmo_wdpcoordaxisgizmo",
+      "target": "wdpgizmocoordaxisaction_wdpcoordaxisgizmo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcoordaxisgizmo_wdpcoordaxisgizmo",
+      "target": "wdpgizmocoordaxisdomain_wdpcoordaxisgizmo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpCoordAxisGizmo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchdatabaseanimcomposite_posesearchdatabaseanimcomposite",
+      "target": "posesearchdatabaseanimationassetbase_posesearchdatabaseanimcomposite",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchDatabaseAnimComposite Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onmovealongpathendevent_onmovealongpathendevent",
+      "target": "eventargsbase_eventargsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnMoveAlongPathEndEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshspatial_geometryscript_meshspatial",
+      "target": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshspatial_geometryscript_meshspatial",
+      "target": "geometryscriptdynamicmeshbvh_geometryscript_meshspatial",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshspatial_geometryscript_meshspatial",
+      "target": "dynamicmesh_geometryscript_meshspatial",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshspatial_geometryscript_meshspatial",
+      "target": "spatial_acceleration_structure",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdynamicmeshbvh_geometryscript_meshspatial",
+      "target": "spatial_acceleration_structure",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScript_MeshSpatial Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpwebsocketserver_wdpwebsocketserver",
+      "target": "actor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpWebSocketServer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpwebsocketserver_wdpwebsocketserver",
+      "target": "websocket_communication_pattern",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpWebSocketServer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hierarchymeshpickatom_hierarchymeshpickatom",
+      "target": "defaultentitypickatom_defaultentitypickatom",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HierarchyMeshPickAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_getuserdata_rigdispatch_getuserdata",
+      "target": "rigdispatchfactory_rigdispatchfactory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigDispatch__GetUserData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perqualitylevelfloat_perqualitylevelfloat",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerQualityLevelFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perqualitylevelfloat_perqualitylevelfloat",
+      "target": "quality_level_scaling",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PerQualityLevelFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthterraformingmeshprefab_earthterraformingmeshprefab",
+      "target": "earthprefabbase_earthprefabbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTerraformingMeshPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "submixeffectmultibandcompressorsettings_submixeffectmultibandcompressorsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixEffectMultibandCompressorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisenseconfig_hearing_aisenseconfig_hearing",
+      "target": "aisenseconfig_aisenseconfig",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISenseConfig_Hearing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisenseconfig_hearing_aisenseconfig_hearing",
+      "target": "aisenseaffiliationfilter_aisenseconfig_hearing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISenseConfig_Hearing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisenseconfig_hearing_aisenseconfig_hearing",
+      "target": "ai_perception_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AISenseConfig_Hearing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_lightcardsettings_displayclusterconfigurationicvfx_lightcardsettings",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationICVFX_LightcardSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcollapsenode_rigvmcollapsenode",
+      "target": "rigvmlibrarynode_rigvmlibrarynode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMCollapseNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcollapsenode_rigvmcollapsenode",
+      "target": "rigvm_node_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMCollapseNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_getuserdata_rigdispatch_getuserdata",
+      "target": "rigvm_node_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigDispatch__GetUserData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiosliderstyle_audiosliderstyle",
+      "target": "slatewidgetstyle_slatewidgetstyle",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioSliderStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "contentbrowserfoldercontentsfilter_contentbrowserfoldercontentsfilter",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ContentBrowserFolderContentsFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_blendspacegraph_animgraphnode_blendspacegraph",
+      "target": "animgraphnode_blendspacegraphbase_animgraphnode_blendspacegraphbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__BlendSpaceGraph Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressiondepthfade_materialexpressiondepthfade",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionDepthFade Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesdynamicmeshcomponent_aesdynamicmeshcomponent",
+      "target": "geometryscript_meshspatial_geometryscript_meshspatial",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesDynamicMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcollapsenode_rigvmcollapsenode",
+      "target": "rigunit_stringtruncate_rigunit_stringtruncate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMCollapseNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmcollapsenode_rigvmcollapsenode",
+      "target": "rigdispatch_getuserdata_rigdispatch_getuserdata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMCollapseNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_framework_components",
+      "label": "RigVM Framework Components",
+      "nodes": [
+        "rigvmcollapsenode_rigvmcollapsenode",
+        "rigdispatch_getuserdata_rigdispatch_getuserdata",
+        "rigunit_stringtruncate_rigunit_stringtruncate"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMCollapseNode Objects.md"
+    },
+    {
+      "id": "unreal_engine_struct_types",
+      "label": "Unreal Engine Struct Types",
+      "nodes": [
+        "perqualitylevelfloat_perqualitylevelfloat",
+        "submixeffectmultibandcompressorsettings_submixeffectmultibandcompressorsettings",
+        "displayclusterconfigurationicvfx_lightcardsettings_displayclusterconfigurationicvfx_lightcardsettings",
+        "contentbrowserfoldercontentsfilter_contentbrowserfoldercontentsfilter"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PerQualityLevelFloat Objects.md"
+    },
+    {
+      "id": "unreal_actor_hierarchy",
+      "label": "Unreal Actor Hierarchy",
+      "nodes": [
+        "wdpcoordaxisgizmo_wdpcoordaxisgizmo",
+        "wdpwebsocketserver_wdpwebsocketserver",
+        "actor_actor"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "WdpCoordAxisGizmo Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

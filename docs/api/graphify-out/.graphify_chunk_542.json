@@ -1,0 +1,741 @@
+{
+  "nodes": [
+    {
+      "id": "animgraphnode_meshrefpose_animgraphnode_meshrefpose",
+      "label": "AnimGraphNode MeshRefPose",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__MeshRefPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpvisualcolorstyleparams_wdpvisualcolorstyleparams",
+      "label": "WdpVisualColorStyleParams",
+      "file_type": "code",
+      "source_file": "WdpVisualColorStyleParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perboneblendweight_perboneblendweight",
+      "label": "PerBoneBlendWeight",
+      "file_type": "code",
+      "source_file": "PerBoneBlendWeight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bimnodeoutlinestyle_bimnodeoutlinestyle",
+      "label": "BimNodeOutlineStyle",
+      "file_type": "code",
+      "source_file": "BimNodeOutlineStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kaggregategeom_kaggregategeom",
+      "label": "KAggregateGeom",
+      "file_type": "code",
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_samplingtime_posesearchfeaturechannel_samplingtime",
+      "label": "PoseSearchFeatureChannel SamplingTime",
+      "file_type": "code",
+      "source_file": "PoseSearchFeatureChannel_SamplingTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthshapegrammarinstantiationresult_earthshapegrammarinstantiationresult",
+      "label": "EarthShapeGrammarInstantiationResult",
+      "file_type": "code",
+      "source_file": "EarthShapeGrammarInstantiationResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenebindingresolveresult_moviescenebindingresolveresult",
+      "label": "MovieSceneBindingResolveResult",
+      "file_type": "code",
+      "source_file": "MovieSceneBindingResolveResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userwidgetextension_userwidgetextension",
+      "label": "UserWidgetExtension",
+      "file_type": "code",
+      "source_file": "UserWidgetExtension Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeuserdefinedattributesapi_interchangeuserdefinedattributesapi",
+      "label": "InterchangeUserDefinedAttributesAPI",
+      "file_type": "code",
+      "source_file": "InterchangeUserDefinedAttributesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffectreverbfastpreset_submixeffectreverbfastpreset",
+      "label": "SubmixEffectReverbFastPreset",
+      "file_type": "code",
+      "source_file": "SubmixEffectReverbFastPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdeterminismsettings_pcgdeterminismsettings",
+      "label": "PCGDeterminismSettings",
+      "file_type": "code",
+      "source_file": "PCGDeterminismSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterprojectionblueprintlib_displayclusterprojectionblueprintlib",
+      "label": "DisplayClusterProjectionBlueprintLib",
+      "file_type": "code",
+      "source_file": "DisplayClusterProjectionBlueprintLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenebytesection_moviescenebytesection",
+      "label": "MovieSceneByteSection",
+      "file_type": "code",
+      "source_file": "MovieSceneByteSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getvector2danimationchannelfromitem_rigunit_getvector2danimationchannelfromitem",
+      "label": "RigUnit GetVector2DAnimationChannelFromItem",
+      "file_type": "code",
+      "source_file": "RigUnit__GetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fixedarray_fixedarray",
+      "label": "FixedArray",
+      "file_type": "code",
+      "source_file": "FixedArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animphyslinearconstrainttype_animphyslinearconstrainttype",
+      "label": "AnimPhysLinearConstraintType",
+      "file_type": "code",
+      "source_file": "AnimPhysLinearConstraintType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchquerytrajectory_posesearchquerytrajectory",
+      "label": "PoseSearchQueryTrajectory",
+      "file_type": "code",
+      "source_file": "PoseSearchQueryTrajectory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertydescription_propertydescription",
+      "label": "PropertyDescription",
+      "file_type": "code",
+      "source_file": "PropertyDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gerstnerwaterwavegeneratorsimple_gerstnerwaterwavegeneratorsimple",
+      "label": "GerstnerWaterWaveGeneratorSimple",
+      "file_type": "code",
+      "source_file": "GerstnerWaterWaveGeneratorSimple Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustermediaoutputsynchronizationpolicythresholdbase_displayclustermediaoutputsynchronizationpolicythresholdbase",
+      "label": "DisplayClusterMediaOutputSynchronizationPolicyThresholdBase",
+      "file_type": "code",
+      "source_file": "DisplayClusterMediaOutputSynchronizationPolicyThresholdBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeslanenummanager_aeslanenummanager",
+      "label": "AesLaneNumManager",
+      "file_type": "code",
+      "source_file": "AesLaneNumManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kaggregategeom_kboxelem",
+      "label": "KBoxElem",
+      "file_type": "code",
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kaggregategeom_kconvexelem",
+      "label": "KConvexElem",
+      "file_type": "code",
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kaggregategeom_klevelsetelem",
+      "label": "KLevelSetElem",
+      "file_type": "code",
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kaggregategeom_kskinnedlevelsetelem",
+      "label": "KSkinnedLevelSetElem",
+      "file_type": "code",
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kaggregategeom_ksphereelem",
+      "label": "KSphereElem",
+      "file_type": "code",
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kaggregategeom_ksphylelem",
+      "label": "KSphylElem",
+      "file_type": "code",
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kaggregategeom_ktaperedcapsuleelem",
+      "label": "KTaperedCapsuleElem",
+      "file_type": "code",
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeuserdefinedattributesapi_interchangebasenode",
+      "label": "InterchangeBaseNode",
+      "file_type": "code",
+      "source_file": "InterchangeUserDefinedAttributesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterprojectionblueprintlib_displayclusterprojectionblueprintapi",
+      "label": "DisplayClusterProjectionBlueprintAPI",
+      "file_type": "code",
+      "source_file": "DisplayClusterProjectionBlueprintLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterprojectionblueprintlib_cameracomponent",
+      "label": "CameraComponent",
+      "file_type": "code",
+      "source_file": "DisplayClusterProjectionBlueprintLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchquerytrajectory_posesearchquerytrajectorysample",
+      "label": "PoseSearchQueryTrajectorySample",
+      "file_type": "code",
+      "source_file": "PoseSearchQueryTrajectory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeslanenummanager_vector2d",
+      "label": "Vector2D",
+      "file_type": "code",
+      "source_file": "AesLaneNumManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animgraphnode_meshrefpose_animgraphnode_meshrefpose",
+      "target": "animgraphnode_meshrefpose_animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__MeshRefPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpvisualcolorstyleparams_wdpvisualcolorstyleparams",
+      "target": "wdpvisualcolorstyleparams_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpVisualColorStyleParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perboneblendweight_perboneblendweight",
+      "target": "perboneblendweight_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerBoneBlendWeight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bimnodeoutlinestyle_bimnodeoutlinestyle",
+      "target": "bimnodeoutlinestyle_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BimNodeOutlineStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kaggregategeom_kaggregategeom",
+      "target": "kaggregategeom_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kaggregategeom_kaggregategeom",
+      "target": "kaggregategeom_kboxelem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kaggregategeom_kaggregategeom",
+      "target": "kaggregategeom_kconvexelem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kaggregategeom_kaggregategeom",
+      "target": "kaggregategeom_klevelsetelem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kaggregategeom_kaggregategeom",
+      "target": "kaggregategeom_kskinnedlevelsetelem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kaggregategeom_kaggregategeom",
+      "target": "kaggregategeom_ksphereelem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kaggregategeom_kaggregategeom",
+      "target": "kaggregategeom_ksphylelem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kaggregategeom_kaggregategeom",
+      "target": "kaggregategeom_ktaperedcapsuleelem",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "KAggregateGeom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_samplingtime_posesearchfeaturechannel_samplingtime",
+      "target": "posesearchfeaturechannel_samplingtime_posesearchfeaturechannel",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_SamplingTime Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthshapegrammarinstantiationresult_earthshapegrammarinstantiationresult",
+      "target": "earthshapegrammarinstantiationresult_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthShapeGrammarInstantiationResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenebindingresolveresult_moviescenebindingresolveresult",
+      "target": "moviescenebindingresolveresult_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneBindingResolveResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "userwidgetextension_userwidgetextension",
+      "target": "userwidgetextension_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UserWidgetExtension Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeuserdefinedattributesapi_interchangeuserdefinedattributesapi",
+      "target": "interchangeuserdefinedattributesapi_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeUserDefinedAttributesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeuserdefinedattributesapi_interchangeuserdefinedattributesapi",
+      "target": "interchangeuserdefinedattributesapi_interchangebasenode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeUserDefinedAttributesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "submixeffectreverbfastpreset_submixeffectreverbfastpreset",
+      "target": "submixeffectreverbfastpreset_submixeffectreverbpreset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SubmixEffectReverbFastPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdeterminismsettings_pcgdeterminismsettings",
+      "target": "pcgdeterminismsettings_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDeterminismSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterprojectionblueprintlib_displayclusterprojectionblueprintlib",
+      "target": "displayclusterprojectionblueprintlib_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterProjectionBlueprintLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterprojectionblueprintlib_displayclusterprojectionblueprintlib",
+      "target": "displayclusterprojectionblueprintlib_displayclusterprojectionblueprintapi",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterProjectionBlueprintLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterprojectionblueprintlib_displayclusterprojectionblueprintlib",
+      "target": "displayclusterprojectionblueprintlib_cameracomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterProjectionBlueprintLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenebytesection_moviescenebytesection",
+      "target": "moviescenebytesection_moviescenesection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneByteSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getvector2danimationchannelfromitem_rigunit_getvector2danimationchannelfromitem",
+      "target": "rigunit_getvector2danimationchannelfromitem_rigunit_getanimationchannelfromitembase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetVector2DAnimationChannelFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fixedarray_fixedarray",
+      "target": "fixedarray__wrapperbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FixedArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animphyslinearconstrainttype_animphyslinearconstrainttype",
+      "target": "animphyslinearconstrainttype_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPhysLinearConstraintType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchquerytrajectory_posesearchquerytrajectory",
+      "target": "posesearchquerytrajectory_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchQueryTrajectory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchquerytrajectory_posesearchquerytrajectory",
+      "target": "posesearchquerytrajectory_posesearchquerytrajectorysample",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchQueryTrajectory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertydescription_propertydescription",
+      "target": "propertydescription_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gerstnerwaterwavegeneratorsimple_gerstnerwaterwavegeneratorsimple",
+      "target": "gerstnerwaterwavegeneratorsimple_gerstnerwaterwavegeneratorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GerstnerWaterWaveGeneratorSimple Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclustermediaoutputsynchronizationpolicythresholdbase_displayclustermediaoutputsynchronizationpolicythresholdbase",
+      "target": "displayclustermediaoutputsynchronizationpolicythresholdbase_displayclustermediaoutputsynchronizationpolicyethernetbarrierbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterMediaOutputSynchronizationPolicyThresholdBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeslanenummanager_aeslanenummanager",
+      "target": "aeslanenummanager_worldsubsystem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesLaneNumManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeslanenummanager_aeslanenummanager",
+      "target": "aeslanenummanager_vector2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesLaneNumManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "collision_shape_types",
+      "label": "Collision Shape Types",
+      "nodes": [
+        "kaggregategeom_kboxelem",
+        "kaggregategeom_kconvexelem",
+        "kaggregategeom_klevelsetelem",
+        "kaggregategeom_kskinnedlevelsetelem",
+        "kaggregategeom_ksphereelem",
+        "kaggregategeom_ksphylelem",
+        "kaggregategeom_ktaperedcapsuleelem"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "KAggregateGeom Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

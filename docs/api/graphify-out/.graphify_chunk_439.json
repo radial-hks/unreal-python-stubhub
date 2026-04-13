@@ -1,0 +1,859 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_setcontrolvector",
+      "label": "RigUnit SetControlVector",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnit Mutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbinaryaggregateop",
+      "label": "RigVMFunction MathTransformBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddbone",
+      "label": "RigUnit HierarchyAddBone",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddelement",
+      "label": "RigUnit HierarchyAddElement",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddBone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineviewfamilysetting",
+      "label": "MoviePipeline ViewFamilySetting",
+      "file_type": "code",
+      "source_file": "MoviePipelineViewFamilySetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinesetting",
+      "label": "MoviePipeline Setting",
+      "file_type": "code",
+      "source_file": "MoviePipelineViewFamilySetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgizmostate",
+      "label": "Wdp GizmoState",
+      "file_type": "code",
+      "source_file": "WdpGizmoState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene2dtransformsection",
+      "label": "MovieScene 2DTransformSection",
+      "file_type": "code",
+      "source_file": "MovieScene2DTransformSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescensection",
+      "label": "MovieScene Section",
+      "file_type": "code",
+      "source_file": "MovieScene2DTransformSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmsimpointintegratetype",
+      "label": "RigVM SimPointIntegrateType",
+      "file_type": "code",
+      "source_file": "RigVMSimPointIntegrateType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpsetdefaultactionsettingparams",
+      "label": "Wdp SetDefaultActionSettingParams",
+      "file_type": "code",
+      "source_file": "WdpSetDefaultActionSettingParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase",
+      "label": "Params Base",
+      "file_type": "code",
+      "source_file": "WdpSetDefaultActionSettingParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "togglewaterdataparams",
+      "label": "ToggleWater DataParams",
+      "file_type": "code",
+      "source_file": "ToggleWaterDataParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratepostprocess",
+      "label": "MaterialExpression SubstratePostProcess",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstratePostProcess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratebsdf",
+      "label": "MaterialExpression SubstrateBSDF",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstratePostProcess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_livelinkpose",
+      "label": "AnimGraphNode LiveLinkPose",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__LiveLinkPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base",
+      "label": "AnimGraphNode Base",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__LiveLinkPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewportscene",
+      "label": "Viewport Scene",
+      "file_type": "code",
+      "source_file": "ViewportScene Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolelement",
+      "label": "Rig ControlElement",
+      "file_type": "code",
+      "source_file": "RigControlElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigmultiparentelement",
+      "label": "Rig MultiParentElement",
+      "file_type": "code",
+      "source_file": "RigControlElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacadelevelinfo",
+      "label": "EarthFacade LevelInfo",
+      "file_type": "code",
+      "source_file": "EarthFacadeLevelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "Struct Base",
+      "file_type": "code",
+      "source_file": "EarthFacadeLevelInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrackextensions",
+      "label": "MovieScene TrackExtensions",
+      "file_type": "code",
+      "source_file": "MovieSceneTrackExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary",
+      "label": "Blueprint FunctionLibrary",
+      "file_type": "code",
+      "source_file": "MovieSceneTrackExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uniformscalegizmohandlegroup",
+      "label": "UniformScale GizmoHandleGroup",
+      "file_type": "code",
+      "source_file": "UniformScaleGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gizmohandlegroup",
+      "label": "Gizmo HandleGroup",
+      "file_type": "code",
+      "source_file": "UniformScaleGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "upgradeniagaraemittercontext",
+      "label": "UpgradeNiagara EmitterContext",
+      "file_type": "code",
+      "source_file": "UpgradeNiagaraEmitterContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "templatesequence",
+      "label": "Template Sequence",
+      "file_type": "code",
+      "source_file": "TemplateSequence Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescensequence",
+      "label": "MovieScene Sequence",
+      "file_type": "code",
+      "source_file": "TemplateSequence Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathcolorfromfloat",
+      "label": "RigVMFunction MathColorFromFloat",
+      "file_type": "code",
+      "source_file": "RigUnit_MathColorFromFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratesinglelayerwaterbsdf",
+      "label": "MaterialExpression SubstrateSingleLayerWaterBSDF",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstrateSingleLayerWaterBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hapticfeedbackeffect_base",
+      "label": "HapticFeedback Effect Base",
+      "file_type": "code",
+      "source_file": "HapticFeedbackEffect_Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "HapticFeedbackEffect_Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_module",
+      "label": "ControlRig Module",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_module",
+      "label": "RigVM Module",
+      "file_type": "code",
+      "source_file": "RigVMSimPointIntegrateType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrack",
+      "label": "MovieScene Track",
+      "file_type": "code",
+      "source_file": "MovieSceneTrackExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapythonemitter",
+      "label": "Niagara PythonEmitter",
+      "file_type": "code",
+      "source_file": "UpgradeNiagaraEmitterContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_datatype",
+      "label": "Transform Data Type",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_setcontrolvector",
+      "target": "rigunitmutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector",
+      "target": "controlrig_module",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector",
+      "target": "transform_datatype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hapticfeedbackeffect_base",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HapticFeedbackEffect_Base Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformbinaryaggregateop",
+      "target": "rigvmfunction_mathtransformbinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformbinaryaggregateop",
+      "target": "transform_datatype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathTransformBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddbone",
+      "target": "rigunit_hierarchyaddelement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddbone",
+      "target": "controlrig_module",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_HierarchyAddBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddbone",
+      "target": "transform_datatype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_HierarchyAddBone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineviewfamilysetting",
+      "target": "moviepipelinesetting",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineViewFamilySetting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpgizmostate",
+      "target": "wdpsetdefaultactionsettingparams",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WdpGizmoState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene2dtransformsection",
+      "target": "moviescensection",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScene2DTransformSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescene2dtransformsection",
+      "target": "moviescenetrack",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieScene2DTransformSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmsimpointintegratetype",
+      "target": "rigvm_module",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMSimPointIntegrateType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpsetdefaultactionsettingparams",
+      "target": "paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpSetDefaultActionSettingParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "togglewaterdataparams",
+      "target": "paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ToggleWaterDataParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstratepostprocess",
+      "target": "materialexpressionsubstratebsdf",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstratePostProcess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstratesinglelayerwaterbsdf",
+      "target": "materialexpressionsubstratebsdf",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSubstrateSingleLayerWaterBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionsubstratepostprocess",
+      "target": "materialexpressionsubstratesinglelayerwaterbsdf",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MaterialExpressionSubstratePostProcess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_livelinkpose",
+      "target": "animgraphnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__LiveLinkPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "viewportscene",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ViewportScene Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolelement",
+      "target": "rigmultiparentelement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolelement",
+      "target": "controlrig_module",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigControlElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolelement",
+      "target": "rigunit_setcontrolvector",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigControlElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacadelevelinfo",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeLevelInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacadelevelinfo",
+      "target": "transform_datatype",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthFacadeLevelInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrackextensions",
+      "target": "blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTrackExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrackextensions",
+      "target": "moviescenetrack",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieSceneTrackExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetrackextensions",
+      "target": "moviescene2dtransformsection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieSceneTrackExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uniformscalegizmohandlegroup",
+      "target": "gizmohandlegroup",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UniformScaleGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "upgradeniagaraemittercontext",
+      "target": "object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpgradeNiagaraEmitterContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "upgradeniagaraemittercontext",
+      "target": "niagarapythonemitter",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "UpgradeNiagaraEmitterContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "templatesequence",
+      "target": "moviescensequence",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TemplateSequence Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorfromfloat",
+      "target": "rigvmfunction_mathcolorfromfloat",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathColorFromFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathcolorfromfloat",
+      "target": "rigvm_module",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_MathColorFromFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector",
+      "target": "rigunit_hierarchyaddbone",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolvector",
+      "target": "rigcontrolelement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetControlVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpsetdefaultactionsettingparams",
+      "target": "togglewaterdataparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WdpSetDefaultActionSettingParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_classes",
+      "label": "ControlRig Module Classes",
+      "nodes": [
+        "rigunit_setcontrolvector",
+        "rigunit_hierarchyaddbone",
+        "rigcontrolelement"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__SetControlVector Objects.md"
+    },
+    {
+      "id": "moviescene_hierarchy",
+      "label": "MovieScene Hierarchy System",
+      "nodes": [
+        "moviescene2dtransformsection",
+        "moviescenetrack",
+        "moviescenetrackextensions",
+        "templatesequence"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieScene2DTransformSection Objects.md"
+    },
+    {
+      "id": "substrate_bsdf_materials",
+      "label": "Substrate BSDF Material System",
+      "nodes": [
+        "materialexpressionsubstratepostprocess",
+        "materialexpressionsubstratesinglelayerwaterbsdf",
+        "materialexpressionsubstratebsdf"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialExpressionSubstratePostProcess Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

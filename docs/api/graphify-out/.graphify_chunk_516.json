@@ -1,0 +1,612 @@
+{
+  "nodes": [
+    {
+      "id": "viewportdragoperationcomponent_viewportdragoperationcomponent",
+      "label": "ViewportDragOperationComponent",
+      "file_type": "code",
+      "source_file": "ViewportDragOperationComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "webbrowser51_onscreenshotcompleted_webbrowser51_onscreenshotcompleted",
+      "label": "WebBrowser51_OnScreenShotCompleted",
+      "file_type": "code",
+      "source_file": "WebBrowser51__OnScreenShotCompleted Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fencewayinfo_fencewayinfo",
+      "label": "FenceWayInfo",
+      "file_type": "code",
+      "source_file": "FenceWayInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "label": "RigUnit_FitChainToCurve_Rotation",
+      "file_type": "code",
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framemetrics_framemetrics",
+      "label": "FrameMetrics",
+      "file_type": "code",
+      "source_file": "FrameMetrics Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collectionsharetype_collectionsharetype",
+      "label": "CollectionShareType",
+      "file_type": "code",
+      "source_file": "CollectionShareType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyremoveelement_rigunit_hierarchyremoveelement",
+      "label": "RigUnit_HierarchyRemoveElement",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyRemoveElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatebrushoutlinesettings_slatebrushoutlinesettings",
+      "label": "SlateBrushOutlineSettings",
+      "file_type": "code",
+      "source_file": "SlateBrushOutlineSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumrasteroverlayloadtype_cesiumrasteroverlayloadtype",
+      "label": "CesiumRasterOverlayLoadType",
+      "file_type": "code",
+      "source_file": "CesiumRasterOverlayLoadType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_setanimattribute_rigdispatch_setanimattribute",
+      "label": "RigDispatch_SetAnimAttribute",
+      "file_type": "code",
+      "source_file": "RigDispatch_SetAnimAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_parentconstraint_advancedsettings_rigunit_parentconstraint_advancedsettings",
+      "label": "RigUnit_ParentConstraint_AdvancedSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_ParentConstraint_AdvancedSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthcollisionfragment_earthcollisionfragment",
+      "label": "EarthCollisionFragment",
+      "file_type": "code",
+      "source_file": "EarthCollisionFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltflevelvariantsetsexporter_gltflevelvariantsetsexporter",
+      "label": "GLTFLevelVariantSetsExporter",
+      "file_type": "code",
+      "source_file": "GLTFLevelVariantSetsExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "retargetautoalignmethod_retargetautoalignmethod",
+      "label": "RetargetAutoAlignMethod",
+      "file_type": "code",
+      "source_file": "RetargetAutoAlignMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_posesearchcomponentspacehistorycollector_animgraphnode_posesearchcomponentspacehistorycollector",
+      "label": "AnimGraphNode_PoseSearchComponentSpaceHistoryCollector",
+      "file_type": "code",
+      "source_file": "AnimGraphNode_PoseSearchComponentSpaceHistoryCollector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontroltransform_limitsettings_rigunit_hierarchyaddcontroltransform_limitsettings",
+      "label": "RigUnit_HierarchyAddControlTransform_LimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlTransform_LimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transitionrequestqueuemode_transitionrequestqueuemode",
+      "label": "TransitionRequestQueueMode",
+      "file_type": "code",
+      "source_file": "TransitionRequestQueueMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodsimplecollisiongeometrytype_generatestaticmeshlodsimplecollisiongeometrytype",
+      "label": "GenerateStaticMeshLODSimpleCollisionGeometryType",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODSimpleCollisionGeometryType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatless_rigunit_mathfloatless",
+      "label": "RigUnit_MathFloatLess",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatLess Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugpose_rigunit_debugpose",
+      "label": "RigUnit_DebugPose",
+      "file_type": "code",
+      "source_file": "RigUnit__DebugPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "functionaltest_functionaltest",
+      "label": "FunctionalTest",
+      "file_type": "code",
+      "source_file": "FunctionalTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatasin_rigunit_mathfloatasin",
+      "label": "RigUnit_MathFloatAsin",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatAsin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "viewportdragoperationcomponent_viewportdragoperationcomponent",
+      "target": "actorcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ViewportDragOperationComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "webbrowser51_onscreenshotcompleted_webbrowser51_onscreenshotcompleted",
+      "target": "multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WebBrowser51__OnScreenShotCompleted Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fencewayinfo_fencewayinfo",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FenceWayInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fencewayinfo_fencewayinfo",
+      "target": "fencenodeinfo",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FenceWayInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "framemetrics_framemetrics",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FrameMetrics Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collectionsharetype_collectionsharetype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CollectionShareType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyremoveelement_rigunit_hierarchyremoveelement",
+      "target": "rigunit_dynamichierarchybasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyRemoveElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slatebrushoutlinesettings_slatebrushoutlinesettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateBrushOutlineSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumrasteroverlayloadtype_cesiumrasteroverlayloadtype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumRasterOverlayLoadType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_setanimattribute_rigdispatch_setanimattribute",
+      "target": "rigdispatch_animattributebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigDispatch_SetAnimAttribute Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentconstraint_advancedsettings_rigunit_parentconstraint_advancedsettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ParentConstraint_AdvancedSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcollisionfragment_earthcollisionfragment",
+      "target": "earthoutputfragment",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthCollisionFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcollisionfragment_earthcollisionfragment",
+      "target": "earthboundsfragment",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "EarthCollisionFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthcollisionfragment_earthcollisionfragment",
+      "target": "earthtagfragment",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "EarthCollisionFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltflevelvariantsetsexporter_gltflevelvariantsetsexporter",
+      "target": "gltfexporter",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFLevelVariantSetsExporter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "retargetautoalignmethod_retargetautoalignmethod",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RetargetAutoAlignMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_posesearchcomponentspacehistorycollector_animgraphnode_posesearchcomponentspacehistorycollector",
+      "target": "animgraphnode_posesearchhistorycollector_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseSearchComponentSpaceHistoryCollector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontroltransform_limitsettings_rigunit_hierarchyaddcontroltransform_limitsettings",
+      "target": "structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControlTransform_LimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transitionrequestqueuemode_transitionrequestqueuemode",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransitionRequestQueueMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "generatestaticmeshlodsimplecollisiongeometrytype_generatestaticmeshlodsimplecollisiongeometrytype",
+      "target": "enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenerateStaticMeshLODSimpleCollisionGeometryType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatless_rigunit_mathfloatless",
+      "target": "rigvmfunction_mathfloatless",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatLess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugpose_rigunit_debugpose",
+      "target": "rigvmfunction_debugbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DebugPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "functionaltest_functionaltest",
+      "target": "actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FunctionalTest Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatasin_rigunit_mathfloatasin",
+      "target": "rigvmfunction_mathfloatasin",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatAsin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatless_rigunit_mathfloatless",
+      "target": "rigunit_mathfloatasin_rigunit_mathfloatasin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathFloatLess Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "target": "rigunit_hierarchyremoveelement_rigunit_hierarchyremoveelement",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "target": "rigdispatch_setanimattribute_rigdispatch_setanimattribute",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "target": "rigunit_parentconstraint_advancedsettings_rigunit_parentconstraint_advancedsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "target": "rigunit_hierarchyaddcontroltransform_limitsettings_rigunit_hierarchyaddcontroltransform_limitsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "target": "rigunit_mathfloatless_rigunit_mathfloatless",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "target": "rigunit_debugpose_rigunit_debugpose",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+      "target": "rigunit_mathfloatasin_rigunit_mathfloatasin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_plugin_units",
+      "label": "ControlRig Plugin Units",
+      "nodes": [
+        "rigunit_fitchaintocurve_rotation_rigunit_fitchaintocurve_rotation",
+        "rigunit_hierarchyremoveelement_rigunit_hierarchyremoveelement",
+        "rigdispatch_setanimattribute_rigdispatch_setanimattribute",
+        "rigunit_parentconstraint_advancedsettings_rigunit_parentconstraint_advancedsettings",
+        "rigunit_hierarchyaddcontroltransform_limitsettings_rigunit_hierarchyaddcontroltransform_limitsettings",
+        "rigunit_mathfloatless_rigunit_mathfloatless",
+        "rigunit_debugpose_rigunit_debugpose",
+        "rigunit_mathfloatasin_rigunit_mathfloatasin"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit__FitChainToCurve__Rotation Objects.md"
+    },
+    {
+      "id": "deprecated_rigvm_units",
+      "label": "Deprecated RigVM Units",
+      "nodes": [
+        "rigunit_mathfloatless_rigunit_mathfloatless",
+        "rigunit_mathfloatasin_rigunit_mathfloatasin"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit__MathFloatLess Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

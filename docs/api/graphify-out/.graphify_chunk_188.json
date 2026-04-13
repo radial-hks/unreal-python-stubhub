@@ -1,0 +1,514 @@
+{
+  "nodes": [
+    {
+      "id": "materialexpressionparticlecolor_materialexpressionparticlecolor",
+      "label": "MaterialExpressionParticleColor",
+      "file_type": "document",
+      "source_file": "MaterialExpressionParticleColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublebinaryaggregateop_rigunit_mathdoublebinaryaggregateop",
+      "label": "RigUnit_MathDoubleBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialdamageevent_radialdamageevent",
+      "label": "RadialDamageEvent",
+      "file_type": "document",
+      "source_file": "RadialDamageEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringtolowercase_rigunit_stringtolowercase",
+      "label": "RigUnit_StringToLowercase",
+      "file_type": "document",
+      "source_file": "RigUnit_StringToLowercase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "planetshape_planetshape",
+      "label": "PlanetShape",
+      "file_type": "document",
+      "source_file": "PlanetShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenegeometrycachesectiontemplateparameters_moviescenegeometrycachesectiontemplateparameters",
+      "label": "MovieSceneGeometryCacheSectionTemplateParameters",
+      "file_type": "document",
+      "source_file": "MovieSceneGeometryCacheSectionTemplateParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturecroporigin_texturecroporigin",
+      "label": "TextureCropOrigin",
+      "file_type": "document",
+      "source_file": "TextureCropOrigin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "windowstyle_windowstyle",
+      "label": "WindowStyle",
+      "file_type": "document",
+      "source_file": "WindowStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxstring_onopeningevent_comboboxstring_onopeningevent",
+      "label": "ComboBoxString_OnOpeningEvent",
+      "file_type": "document",
+      "source_file": "ComboBoxString_OnOpeningEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayresourceset_gameplayresourceset",
+      "label": "GameplayResourceSet",
+      "file_type": "document",
+      "source_file": "GameplayResourceSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintersectplane_rigvmfunction_mathintersectplane",
+      "label": "RigVMFunction_MathIntersectPlane",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntersectPlane Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationscene_displayclusterconfigurationscene",
+      "label": "DisplayClusterConfigurationScene",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationScene Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkcomponent_livelinkcomponent",
+      "label": "LiveLinkComponent",
+      "file_type": "document",
+      "source_file": "LiveLinkComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionskyatmospheredistantlightscatteredluminance_materialexpressionskyatmospheredistantlightscatteredluminance",
+      "label": "MaterialExpressionSkyAtmosphereDistantLightScatteredLuminance",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSkyAtmosphereDistantLightScatteredLuminance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorcross_rigvmfunction_mathvectorcross",
+      "label": "RigVMFunction_MathVectorCross",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorCross Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectstackingdurationpolicy_gameplayeffectstackingdurationpolicy",
+      "label": "GameplayEffectStackingDurationPolicy",
+      "file_type": "document",
+      "source_file": "GameplayEffectStackingDurationPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visualloggerrenderingcomponent_visualloggerrenderingcomponent",
+      "label": "VisualLoggerRenderingComponent",
+      "file_type": "document",
+      "source_file": "VisualLoggerRenderingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpoint_pcgpoint",
+      "label": "PCGPoint",
+      "file_type": "document",
+      "source_file": "PCGPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waterzone_waterzone",
+      "label": "WaterZone",
+      "file_type": "document",
+      "source_file": "WaterZone Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setbonetranslation_rigunit_setbonetranslation",
+      "label": "RigUnit_SetBoneTranslation",
+      "file_type": "document",
+      "source_file": "RigUnit__SetBoneTranslation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptconvexdecompositionoptions_geometryscriptconvexdecompositionoptions",
+      "label": "GeometryScriptConvexDecompositionOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptConvexDecompositionOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumcamera_cesiumcamera",
+      "label": "CesiumCamera",
+      "file_type": "document",
+      "source_file": "CesiumCamera Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionParticleColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublebinaryaggregateop_rigvmfunction_mathdoublebinaryaggregateop",
+      "label": "RigVMFunction_MathDoubleBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringtolowercase_rigvmfunction_stringtolowercase",
+      "label": "RigVMFunction_StringToLowercase",
+      "file_type": "document",
+      "source_file": "RigUnit_StringToLowercase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "damageevent_damageevent",
+      "label": "DamageEvent",
+      "file_type": "document",
+      "source_file": "RadialDamageEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenegeometrycacheparams_moviescenegeometrycacheparams",
+      "label": "MovieSceneGeometryCacheParams",
+      "file_type": "document",
+      "source_file": "MovieSceneGeometryCacheSectionTemplateParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "label": "RigVMFunction_MathVectorBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntersectPlane Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbinaryop_rigvmfunction_mathvectorbinaryop",
+      "label": "RigVMFunction_MathVectorBinaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorCross Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionparticlecolor_materialexpressionparticlecolor",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionParticleColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublebinaryaggregateop_rigunit_mathdoublebinaryaggregateop",
+      "target": "rigvmfunction_mathdoublebinaryaggregateop_rigvmfunction_mathdoublebinaryaggregateop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublebinaryaggregateop_rigunit_mathdoublebinaryaggregateop",
+      "target": "rigvmfunction_mathdoublebinaryaggregateop_rigvmfunction_mathdoublebinaryaggregateop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleBinaryAggregateOp Objects.md",
+      "source_location": "deprecated: 'RigUnit_MathDoubleBinaryAggregateOp' was renamed to 'RigVMFunction_MathDoubleBinaryAggregateOp'.",
+      "weight": 1.0
+    },
+    {
+      "source": "radialdamageevent_radialdamageevent",
+      "target": "damageevent_damageevent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RadialDamageEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringtolowercase_rigunit_stringtolowercase",
+      "target": "rigvmfunction_stringtolowercase_rigvmfunction_stringtolowercase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StringToLowercase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringtolowercase_rigunit_stringtolowercase",
+      "target": "rigvmfunction_stringtolowercase_rigvmfunction_stringtolowercase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_StringToLowercase Objects.md",
+      "source_location": "deprecated: 'RigUnit_StringToLowercase' was renamed to 'RigVMFunction_StringToLowercase'.",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenegeometrycachesectiontemplateparameters_moviescenegeometrycachesectiontemplateparameters",
+      "target": "moviescenegeometrycacheparams_moviescenegeometrycacheparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneGeometryCacheSectionTemplateParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintersectplane_rigvmfunction_mathintersectplane",
+      "target": "rigvmfunction_mathvectorbase_rigvmfunction_mathvectorbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntersectPlane Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorcross_rigvmfunction_mathvectorcross",
+      "target": "rigvmfunction_mathvectorbinaryop_rigvmfunction_mathvectorbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorCross Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionskyatmospheredistantlightscatteredluminance_materialexpressionskyatmospheredistantlightscatteredluminance",
+      "target": "materialexpression_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSkyAtmosphereDistantLightScatteredLuminance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "planetshape_planetshape",
+      "target": "cesiumcamera_cesiumcamera",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PlanetShape Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintersectplane_rigvmfunction_mathintersectplane",
+      "target": "rigvmfunction_mathvectorcross_rigvmfunction_mathvectorcross",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathIntersectPlane Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorcross_rigvmfunction_mathvectorcross",
+      "target": "rigunit_setbonetranslation_rigunit_setbonetranslation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathVectorCross Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintersectplane_rigvmfunction_mathintersectplane",
+      "target": "rigunit_setbonetranslation_rigunit_setbonetranslation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_MathIntersectPlane Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterzone_waterzone",
+      "target": "pcgpoint_pcgpoint",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WaterZone Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoublebinaryaggregateop_rigunit_mathdoublebinaryaggregateop",
+      "target": "rigunit_stringtolowercase_rigunit_stringtolowercase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathDoubleBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations_group",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathintersectplane_rigvmfunction_mathintersectplane",
+        "rigvmfunction_mathvectorcross_rigvmfunction_mathvectorcross",
+        "rigunit_mathdoublebinaryaggregateop_rigunit_mathdoublebinaryaggregateop"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_MathIntersectPlane Objects.md"
+    },
+    {
+      "id": "unreal_deprecated_rigunit_group",
+      "label": "Deprecated RigUnit Classes",
+      "nodes": [
+        "rigunit_mathdoublebinaryaggregateop_rigunit_mathdoublebinaryaggregateop",
+        "rigunit_stringtolowercase_rigunit_stringtolowercase"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleBinaryAggregateOp Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

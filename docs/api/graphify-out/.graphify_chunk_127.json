@@ -1,0 +1,378 @@
+{
+  "nodes": [
+    {
+      "id": "migrationoptions_migrationoptions",
+      "label": "MigrationOptions",
+      "file_type": "code",
+      "source_file": "MigrationOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cachedfloatcurve_cachedfloatcurve",
+      "label": "CachedFloatCurve",
+      "file_type": "code",
+      "source_file": "CachedFloatCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorclamplength_rigunit_mathvectorclamplength",
+      "label": "RigUnit_MathVectorClampLength",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorClampLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgprintverbosity_pcgprintverbosity",
+      "label": "PCGPrintVerbosity",
+      "file_type": "code",
+      "source_file": "PCGPrintVerbosity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bimsnapresult_bimsnapresult",
+      "label": "BimSnapResult",
+      "file_type": "code",
+      "source_file": "BimSnapResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacadeprefab_deprecated_earthfacadeprefab_deprecated",
+      "label": "EarthFacadePrefab_Deprecated",
+      "file_type": "code",
+      "source_file": "EarthFacadePrefab__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcontrolinteger_rigunit_getcontrolinteger",
+      "label": "RigUnit_GetControlInteger",
+      "file_type": "code",
+      "source_file": "RigUnit__GetControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolfloat_rigunit_hierarchyaddcontrolfloat",
+      "label": "RigUnit_HierarchyAddControlFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "valuedef_valuedef",
+      "label": "ValueDef",
+      "file_type": "code",
+      "source_file": "ValueDef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onexpandableareaexpansionchanged_onexpandableareaexpansionchanged",
+      "label": "OnExpandableAreaExpansionChanged",
+      "file_type": "code",
+      "source_file": "OnExpandableAreaExpansionChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlpointmeshactor_controlpointmeshactor",
+      "label": "ControlPointMeshActor",
+      "file_type": "code",
+      "source_file": "ControlPointMeshActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spritepolygon_spritepolygon",
+      "label": "SpritePolygon",
+      "file_type": "code",
+      "source_file": "SpritePolygon Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrayintersectplane_rigvmfunction_mathrayintersectplane",
+      "label": "RigVMFunction_MathRayIntersectPlane",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathRayIntersectPlane Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_twoboneik_animgraphnode_twoboneik",
+      "label": "AnimGraphNode_TwoBoneIK",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__TwoBoneIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmetadatatag_rigunit_setmetadatatag",
+      "label": "RigUnit_SetMetadataTag",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMetadataTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapemeshproxyactor_landscapemeshproxyactor",
+      "label": "LandscapeMeshProxyActor",
+      "file_type": "code",
+      "source_file": "LandscapeMeshProxyActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptprimitiveuvmode_geometryscriptprimitiveuvmode",
+      "label": "GeometryScriptPrimitiveUVMode",
+      "file_type": "code",
+      "source_file": "GeometryScriptPrimitiveUVMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfragment_earthfragment",
+      "label": "EarthFragment",
+      "file_type": "code",
+      "source_file": "EarthFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuwidgetcollectioncontext_toolmenuwidgetcollectioncontext",
+      "label": "ToolMenuWidgetCollectionContext",
+      "file_type": "code",
+      "source_file": "ToolMenuWidgetCollectionContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchysetposeitemarray_rigunit_hierarchysetposeitemarray",
+      "label": "RigUnit_HierarchySetPoseItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchySetPoseItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpprojectready_wdpprojectready",
+      "label": "WdpProjectReady",
+      "file_type": "code",
+      "source_file": "WdpProjectReady Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialslider_audiomaterialslider",
+      "label": "AudioMaterialSlider",
+      "file_type": "code",
+      "source_file": "AudioMaterialSlider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathvectorclamplength_rigunit_mathvectorclamplength",
+      "target": "rigvmfunction_mathrayintersectplane_rigvmfunction_mathrayintersectplane",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorClampLength Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spritepolygon_spritepolygon",
+      "target": "spritepolygon_spritepolygon",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpritePolygon Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolinteger_rigunit_getcontrolinteger",
+      "target": "rigunit_hierarchyaddcontrolfloat_rigunit_hierarchyaddcontrolfloat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__GetControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacadeprefab_deprecated_earthfacadeprefab_deprecated",
+      "target": "earthfragment_earthfragment",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EarthFacadePrefab__Deprecated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlpointmeshactor_controlpointmeshactor",
+      "target": "landscapemeshproxyactor_landscapemeshproxyactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ControlPointMeshActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmetadatatag_rigunit_setmetadatatag",
+      "target": "rigunit_hierarchysetposeitemarray_rigunit_hierarchysetposeitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__SetMetadataTag Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onexpandableareaexpansionchanged_onexpandableareaexpansionchanged",
+      "target": "audiomaterialslider_audiomaterialslider",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OnExpandableAreaExpansionChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcontrolinteger_rigunit_getcontrolinteger",
+      "target": "rigunit_setmetadatatag_rigunit_setmetadatatag",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__GetControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolfloat_rigunit_hierarchyaddcontrolfloat",
+      "target": "rigunit_hierarchysetposeitemarray_rigunit_hierarchysetposeitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__HierarchyAddControlFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_twoboneik_animgraphnode_twoboneik",
+      "target": "rigunit_getcontrolinteger_rigunit_getcontrolinteger",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimGraphNode__TwoBoneIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_hierarchy_operations",
+      "label": "Control Rig Hierarchy Operations",
+      "nodes": [
+        "rigunit_getcontrolinteger_rigunit_getcontrolinteger",
+        "rigunit_hierarchyaddcontrolfloat_rigunit_hierarchyaddcontrolfloat",
+        "rigunit_setmetadatatag_rigunit_setmetadatatag",
+        "rigunit_hierarchysetposeitemarray_rigunit_hierarchysetposeitemarray"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "multiple"
+    },
+    {
+      "id": "unreal_engine_actor_specializations",
+      "label": "Unreal Engine Actor Specializations",
+      "nodes": [
+        "controlpointmeshactor_controlpointmeshactor",
+        "landscapemeshproxyactor_landscapemeshproxyactor"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "multiple"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

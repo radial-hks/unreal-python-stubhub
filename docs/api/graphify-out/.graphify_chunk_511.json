@@ -1,0 +1,461 @@
+{
+  "nodes": [
+    {
+      "id": "QuitPreference_QuitPreference",
+      "label": "QuitPreference",
+      "file_type": "document",
+      "source_file": "QuitPreference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "UnderwaterPostProcessSettings_UnderwaterPostProcessSettings",
+      "label": "UnderwaterPostProcessSettings",
+      "file_type": "document",
+      "source_file": "UnderwaterPostProcessSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EarthRoadJunctionPrefabAlgorithm_EarthRoadJunctionPrefabAlgorithm",
+      "label": "EarthRoadJunctionPrefabAlgorithm",
+      "file_type": "document",
+      "source_file": "EarthRoadJunctionPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SVGRenderMode_SVGRenderMode",
+      "label": "SVGRenderMode",
+      "file_type": "document",
+      "source_file": "SVGRenderMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_Contains_RigVMFunction_Contains",
+      "label": "RigVMFunction_Contains",
+      "file_type": "document",
+      "source_file": "RigVMFunction__Contains Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMTrait_SetDeformerInt3ArrayVariable_RigVMTrait_SetDeformerInt3ArrayVariable",
+      "label": "RigVMTrait_SetDeformerInt3ArrayVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait_SetDeformerInt3ArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EarthGridLayoutFragment_EarthGridLayoutFragment",
+      "label": "EarthGridLayoutFragment",
+      "file_type": "document",
+      "source_file": "EarthGridLayoutFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialProxySettings_MaterialProxySettings",
+      "label": "MaterialProxySettings",
+      "file_type": "document",
+      "source_file": "MaterialProxySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "AvaOutlineModifier_AvaOutlineModifier",
+      "label": "AvaOutlineModifier",
+      "file_type": "document",
+      "source_file": "AvaOutlineModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InternalToolFrameworkActor_InternalToolFrameworkActor",
+      "label": "InternalToolFrameworkActor",
+      "file_type": "document",
+      "source_file": "InternalToolFrameworkActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EarthDemOverlayerFragment_EarthDemOverlayerFragment",
+      "label": "EarthDemOverlayerFragment",
+      "file_type": "document",
+      "source_file": "EarthDemOverlayerFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MassLODCollectorTrait_MassLODCollectorTrait",
+      "label": "MassLODCollectorTrait",
+      "file_type": "document",
+      "source_file": "MassLODCollectorTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InterchangeStaticMeshActorFactory_InterchangeStaticMeshActorFactory",
+      "label": "InterchangeStaticMeshActorFactory",
+      "file_type": "document",
+      "source_file": "InterchangeStaticMeshActorFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_ConvertVectorRotation_RigUnit_ConvertVectorRotation",
+      "label": "RigUnit_ConvertVectorRotation",
+      "file_type": "document",
+      "source_file": "RigUnit_ConvertVectorRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "InputModifierResponseCurveExponential_InputModifierResponseCurveExponential",
+      "label": "InputModifierResponseCurveExponential",
+      "file_type": "document",
+      "source_file": "InputModifierResponseCurveExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_VisualDebugVectorItemSpace_RigUnit_VisualDebugVectorItemSpace",
+      "label": "RigUnit_VisualDebugVectorItemSpace",
+      "file_type": "document",
+      "source_file": "RigUnit__VisualDebugVectorItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_MathVectorMake_RigUnit_MathVectorMake",
+      "label": "RigUnit_MathVectorMake (Deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathFloatMul_RigVMFunction_MathFloatMul",
+      "label": "RigVMFunction_MathFloatMul",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathFloatMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MaterialExpressionSubstrateConvertToDecal_MaterialExpressionSubstrateConvertToDecal",
+      "label": "MaterialExpressionSubstrateConvertToDecal",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSubstrateConvertToDecal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MediaIOSampleEvaluationType_MediaIOSampleEvaluationType",
+      "label": "MediaIOSampleEvaluationType",
+      "file_type": "document",
+      "source_file": "MediaIOSampleEvaluationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "OnAudioPlaybackPercent_OnAudioPlaybackPercent",
+      "label": "OnAudioPlaybackPercent",
+      "file_type": "document",
+      "source_file": "OnAudioPlaybackPercent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MVVMBlueprintPin_MVVMBlueprintPin",
+      "label": "MVVMBlueprintPin",
+      "file_type": "document",
+      "source_file": "MVVMBlueprintPin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "height_remap_concept",
+      "label": "Height Remapping",
+      "file_type": "document",
+      "source_file": "EarthDemOverlayerFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visual_debug_concept",
+      "label": "Visual Debugging in Rig Systems",
+      "file_type": "document",
+      "source_file": "RigUnit__VisualDebugVectorItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "response_curve_concept",
+      "label": "Input Response Curves",
+      "file_type": "document",
+      "source_file": "InputModifierResponseCurveExponential Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "UnderwaterPostProcessSettings_UnderwaterPostProcessSettings",
+      "target": "height_remap_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "UnderwaterPostProcessSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EarthDemOverlayerFragment_EarthDemOverlayerFragment",
+      "target": "height_remap_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthDemOverlayerFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_VisualDebugVectorItemSpace_RigUnit_VisualDebugVectorItemSpace",
+      "target": "visual_debug_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__VisualDebugVectorItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "InputModifierResponseCurveExponential_InputModifierResponseCurveExponential",
+      "target": "response_curve_concept",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputModifierResponseCurveExponential Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathFloatMul_RigVMFunction_MathFloatMul",
+      "target": "RigVMFunction_Contains_RigVMFunction_Contains",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "RigVMFunction__MathFloatMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EarthGridLayoutFragment_EarthGridLayoutFragment",
+      "target": "EarthDemOverlayerFragment_EarthDemOverlayerFragment",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "EarthGridLayoutFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "EarthGridLayoutFragment_EarthGridLayoutFragment",
+      "target": "EarthRoadJunctionPrefabAlgorithm_EarthRoadJunctionPrefabAlgorithm",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthGridLayoutFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_MathVectorMake_RigUnit_MathVectorMake",
+      "target": "RigVMFunction_MathFloatMul_RigVMFunction_MathFloatMul",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.71,
+      "source_file": "RigUnit__MathVectorMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "AvaOutlineModifier_AvaOutlineModifier",
+      "target": "MaterialProxySettings_MaterialProxySettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "AvaOutlineModifier Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MassLODCollectorTrait_MassLODCollectorTrait",
+      "target": "InternalToolFrameworkActor_InternalToolFrameworkActor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.62,
+      "source_file": "MassLODCollectorTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "QuitPreference_QuitPreference",
+      "target": "MediaIOSampleEvaluationType_MediaIOSampleEvaluationType",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.64,
+      "source_file": "QuitPreference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "SVGRenderMode_SVGRenderMode",
+      "target": "MaterialExpressionSubstrateConvertToDecal_MaterialExpressionSubstrateConvertToDecal",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.66,
+      "source_file": "SVGRenderMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_ConvertVectorRotation_RigUnit_ConvertVectorRotation",
+      "target": "RigUnit_VisualDebugVectorItemSpace_RigUnit_VisualDebugVectorItemSpace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.73,
+      "source_file": "RigUnit_ConvertVectorRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "OnAudioPlaybackPercent_OnAudioPlaybackPercent",
+      "target": "MVVMBlueprintPin_MVVMBlueprintPin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.61,
+      "source_file": "OnAudioPlaybackPercent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "InterchangeStaticMeshActorFactory_InterchangeStaticMeshActorFactory",
+      "target": "MaterialProxySettings_MaterialProxySettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.67,
+      "source_file": "InterchangeStaticMeshActorFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "earth_prefab_system",
+      "label": "Earth Prefab System Fragments",
+      "nodes": [
+        "EarthGridLayoutFragment_EarthGridLayoutFragment",
+        "EarthDemOverlayerFragment_EarthDemOverlayerFragment",
+        "EarthRoadJunctionPrefabAlgorithm_EarthRoadJunctionPrefabAlgorithm"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "EarthGridLayoutFragment Objects.md"
+    },
+    {
+      "id": "rig_math_functions",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "RigVMFunction_MathFloatMul_RigVMFunction_MathFloatMul",
+        "RigUnit_MathVectorMake_RigUnit_MathVectorMake",
+        "RigUnit_ConvertVectorRotation_RigUnit_ConvertVectorRotation"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.79,
+      "source_file": "RigVMFunction__MathFloatMul Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,996 @@
+{
+  "nodes": [
+    {
+      "id": "brushshape_brushshape",
+      "label": "BrushShape",
+      "file_type": "document",
+      "source_file": "BrushShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctioninstancefactory_factory",
+      "label": "MaterialFunctionInstanceFactory",
+      "file_type": "document",
+      "source_file": "MaterialFunctionInstanceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_multiplyquaternion_rigunit",
+      "label": "RigUnit_MultiplyQuaternion",
+      "file_type": "document",
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityslotparams_struct",
+      "label": "EntitySlotParams",
+      "file_type": "document",
+      "source_file": "EntitySlotParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonesockettarget_struct",
+      "label": "BoneSocketTarget",
+      "file_type": "document",
+      "source_file": "BoneSocketTarget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraemittercalculateboundmode_enum",
+      "label": "NiagaraEmitterCalculateBoundMode",
+      "file_type": "document",
+      "source_file": "NiagaraEmitterCalculateBoundMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchtrajectory_worldcollisionresults_struct",
+      "label": "PoseSearchTrajectory_WorldCollisionResults",
+      "file_type": "document",
+      "source_file": "PoseSearchTrajectory_WorldCollisionResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ondragleaveevent_delegate",
+      "label": "OnDragLeaveEvent",
+      "file_type": "document",
+      "source_file": "OnDragLeaveEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_slidechainperitem_rigunit",
+      "label": "RigUnit_SlideChainPerItem",
+      "file_type": "document",
+      "source_file": "RigUnit__SlideChainPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createobjecttypehint_enum",
+      "label": "CreateObjectTypeHint",
+      "file_type": "document",
+      "source_file": "CreateObjectTypeHint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fonthinting_enum",
+      "label": "FontHinting",
+      "file_type": "document",
+      "source_file": "FontHinting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlinkdefinition_object",
+      "label": "NavLinkDefinition",
+      "file_type": "document",
+      "source_file": "NavLinkDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navarea_navarea",
+      "label": "NavArea",
+      "file_type": "document",
+      "source_file": "NavArea Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatevectorcolor_rigvm",
+      "label": "RigUnit_MathRBFInterpolateVectorColor",
+      "file_type": "document",
+      "source_file": "RigUnit_MathRBFInterpolateVectorColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararenderermaterialstaticboolparameter_struct",
+      "label": "NiagaraRendererMaterialStaticBoolParameter",
+      "file_type": "document",
+      "source_file": "NiagaraRendererMaterialStaticBoolParameter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameframeworkinitstateinterface_interface",
+      "label": "GameFrameworkInitStateInterface",
+      "file_type": "document",
+      "source_file": "GameFrameworkInitStateInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synth1patchdestination_enum",
+      "label": "Synth1PatchDestination",
+      "file_type": "document",
+      "source_file": "Synth1PatchDestination Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcurveelement_rig",
+      "label": "RigCurveElement",
+      "file_type": "document",
+      "source_file": "RigCurveElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_padding_posesearch",
+      "label": "PoseSearchFeatureChannel_Padding",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Padding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getfloatanimationchannel_rigunit",
+      "label": "RigUnit_GetFloatAnimationChannel",
+      "file_type": "document",
+      "source_file": "RigUnit__GetFloatAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlecollisionsignature_delegate",
+      "label": "ParticleCollisionSignature",
+      "file_type": "document",
+      "source_file": "ParticleCollisionSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionparticleradius_materialexpression",
+      "label": "MaterialExpressionParticleRadius",
+      "file_type": "document",
+      "source_file": "MaterialExpressionParticleRadius Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brush_baseclass",
+      "label": "Brush",
+      "file_type": "document",
+      "source_file": "BrushShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_baseclass",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "MaterialFunctionInstanceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_binaryquaternionop_baseclass",
+      "label": "RigUnit_BinaryQuaternionOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_baseclass",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "EntitySlotParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_baseclass",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "NiagaraEmitterCalculateBoundMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_baseclass",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "OnDragLeaveEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable_baseclass",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__SlideChainPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_baseclass",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "NavLinkDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navareabase_baseclass",
+      "label": "NavAreaBase",
+      "file_type": "document",
+      "source_file": "NavArea Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorcolor_baseclass",
+      "label": "RigVMFunction_MathRBFInterpolateVectorColor",
+      "file_type": "document",
+      "source_file": "RigUnit_MathRBFInterpolateVectorColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interface_baseclass",
+      "label": "Interface",
+      "file_type": "document",
+      "source_file": "GameFrameworkInitStateInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigbaseelement_baseclass",
+      "label": "RigBaseElement",
+      "file_type": "document",
+      "source_file": "RigCurveElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchfeaturechannel_baseclass",
+      "label": "PoseSearchFeatureChannel",
+      "file_type": "document",
+      "source_file": "PoseSearchFeatureChannel_Padding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelbase_baseclass",
+      "label": "RigUnit_GetAnimationChannelBase",
+      "file_type": "document",
+      "source_file": "RigUnit__GetFloatAnimationChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_baseclass",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionParticleRadius Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigation_system",
+      "label": "Navigation System",
+      "file_type": "document",
+      "source_file": "NavArea Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig_system",
+      "label": "Control Rig System",
+      "file_type": "document",
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_particle_system",
+      "label": "Niagara Particle System",
+      "file_type": "document",
+      "source_file": "NiagaraEmitterCalculateBoundMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pose_search_system",
+      "label": "Pose Search System",
+      "file_type": "document",
+      "source_file": "PoseSearchTrajectory_WorldCollisionResults Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometry_mode_modifier",
+      "label": "Geometry Mode Modifier",
+      "file_type": "document",
+      "source_file": "BrushShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synthesizer_audio_system",
+      "label": "Synthesizer Audio System",
+      "file_type": "document",
+      "source_file": "Synth1PatchDestination Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_system",
+      "label": "Material System",
+      "file_type": "document",
+      "source_file": "MaterialExpressionParticleRadius Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplay_framework_initialization",
+      "label": "Gameplay Framework Initialization",
+      "file_type": "document",
+      "source_file": "GameFrameworkInitStateInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "brushshape_brushshape",
+      "target": "brush_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrushShape Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brushshape_brushshape",
+      "target": "geometry_mode_modifier",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrushShape Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunctioninstancefactory_factory",
+      "target": "factory_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialFunctionInstanceFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multiplyquaternion_rigunit",
+      "target": "rigunit_binaryquaternionop_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multiplyquaternion_rigunit",
+      "target": "control_rig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entityslotparams_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntitySlotParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bonesockettarget_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BoneSocketTarget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraemittercalculateboundmode_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraEmitterCalculateBoundMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraemittercalculateboundmode_enum",
+      "target": "niagara_particle_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraEmitterCalculateBoundMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchtrajectory_worldcollisionresults_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchTrajectory_WorldCollisionResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchtrajectory_worldcollisionresults_struct",
+      "target": "pose_search_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchTrajectory_WorldCollisionResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ondragleaveevent_delegate",
+      "target": "multicastdelegatebase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnDragLeaveEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_slidechainperitem_rigunit",
+      "target": "rigunit_highlevelbasemutable_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SlideChainPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_slidechainperitem_rigunit",
+      "target": "control_rig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SlideChainPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createobjecttypehint_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateObjectTypeHint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fonthinting_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FontHinting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlinkdefinition_object",
+      "target": "object_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavLinkDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlinkdefinition_object",
+      "target": "navigation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavLinkDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navarea_navarea",
+      "target": "navareabase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavArea Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navarea_navarea",
+      "target": "navigation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavArea Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlinkdefinition_object",
+      "target": "navarea_navarea",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NavLinkDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorcolor_rigvm",
+      "target": "rigvmfunction_mathrbfinterpolatevectorcolor_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathRBFInterpolateVectorColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorcolor_rigvm",
+      "target": "control_rig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathRBFInterpolateVectorColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararenderermaterialstaticboolparameter_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererMaterialStaticBoolParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararenderermaterialstaticboolparameter_struct",
+      "target": "niagara_particle_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererMaterialStaticBoolParameter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameframeworkinitstateinterface_interface",
+      "target": "interface_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameFrameworkInitStateInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameframeworkinitstateinterface_interface",
+      "target": "gameplay_framework_initialization",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameFrameworkInitStateInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synth1patchdestination_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Synth1PatchDestination Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "synth1patchdestination_enum",
+      "target": "synthesizer_audio_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Synth1PatchDestination Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcurveelement_rig",
+      "target": "rigbaseelement_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigCurveElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcurveelement_rig",
+      "target": "control_rig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigCurveElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_padding_posesearch",
+      "target": "posesearchfeaturechannel_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_Padding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchfeaturechannel_padding_posesearch",
+      "target": "pose_search_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchFeatureChannel_Padding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getfloatanimationchannel_rigunit",
+      "target": "rigunit_getanimationchannelbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetFloatAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getfloatanimationchannel_rigunit",
+      "target": "control_rig_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetFloatAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlecollisionsignature_delegate",
+      "target": "multicastdelegatebase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleCollisionSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionparticleradius_materialexpression",
+      "target": "materialexpression_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionParticleRadius Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionparticleradius_materialexpression",
+      "target": "material_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionParticleRadius Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlecollisionsignature_delegate",
+      "target": "niagara_particle_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ParticleCollisionSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionparticleradius_materialexpression",
+      "target": "particlecollisionsignature_delegate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionParticleRadius Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multiplyquaternion_rigunit",
+      "target": "rigunit_slidechainperitem_rigunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multiplyquaternion_rigunit",
+      "target": "rigunit_mathrbfinterpolatevectorcolor_rigvm",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_multiplyquaternion_rigunit",
+      "target": "rigunit_getfloatanimationchannel_rigunit",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_slidechainperitem_rigunit",
+      "target": "rigcurveelement_rig",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RigUnit__SlideChainPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchtrajectory_worldcollisionresults_struct",
+      "target": "posesearchfeaturechannel_padding_posesearch",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PoseSearchTrajectory_WorldCollisionResults Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_units",
+      "label": "Control Rig Units",
+      "nodes": [
+        "rigunit_multiplyquaternion_rigunit",
+        "rigunit_slidechainperitem_rigunit",
+        "rigunit_mathrbfinterpolatevectorcolor_rigvm",
+        "rigunit_getfloatanimationchannel_rigunit",
+        "rigcurveelement_rig"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MultiplyQuaternion Objects.md"
+    },
+    {
+      "id": "navigation_system_components",
+      "label": "Navigation System Components",
+      "nodes": [
+        "navlinkdefinition_object",
+        "navarea_navarea"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "NavArea Objects.md"
+    },
+    {
+      "id": "particle_system_components",
+      "label": "Particle System Components",
+      "nodes": [
+        "niagaraemittercalculateboundmode_enum",
+        "niagararenderermaterialstaticboolparameter_struct",
+        "particlecollisionsignature_delegate",
+        "materialexpressionparticleradius_materialexpression"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NiagaraEmitterCalculateBoundMode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,810 @@
+{
+  "nodes": [
+    {
+      "id": "massstationarydistancevisualizationtrait",
+      "label": "MassStationaryDistanceVisualizationTrait",
+      "file_type": "document",
+      "source_file": "MassStationaryDistanceVisualizationTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massdistancevisualizationtrait",
+      "label": "MassDistanceVisualizationTrait",
+      "file_type": "document",
+      "source_file": "MassStationaryDistanceVisualizationTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filemediasourcefactorynew",
+      "label": "FileMediaSourceFactoryNew",
+      "file_type": "document",
+      "source_file": "FileMediaSourceFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "FileMediaSourceFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatechildsize",
+      "label": "SlateChildSize",
+      "file_type": "document",
+      "source_file": "SlateChildSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "SlateChildSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpinputeventmanager",
+      "label": "WdpInputEventManager",
+      "file_type": "document",
+      "source_file": "WdpInputEventManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldsubsystem",
+      "label": "WorldSubsystem",
+      "file_type": "document",
+      "source_file": "WdpInputEventManager Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterreplacetexturecroprectangle",
+      "label": "DisplayClusterReplaceTextureCropRectangle",
+      "file_type": "document",
+      "source_file": "DisplayClusterReplaceTextureCropRectangle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearrayfloat4",
+      "label": "NiagaraDataInterfaceArrayFloat4",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceArrayFloat4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearray",
+      "label": "NiagaraDataInterfaceArray",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceArrayFloat4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image",
+      "label": "Image",
+      "file_type": "document",
+      "source_file": "Image Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget",
+      "label": "Widget",
+      "file_type": "document",
+      "source_file": "Image Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradeviceprofileredirectmode",
+      "label": "NiagaraDeviceProfileRedirectMode",
+      "file_type": "document",
+      "source_file": "NiagaraDeviceProfileRedirectMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "NiagaraDeviceProfileRedirectMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_slidechainperitem",
+      "label": "RigUnit_SlideChainPerItem",
+      "file_type": "document",
+      "source_file": "RigUnit_SlideChainPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_SlideChainPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "attributebasedrootmotioncomponent",
+      "label": "AttributeBasedRootMotionComponent",
+      "file_type": "document",
+      "source_file": "AttributeBasedRootMotionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "AttributeBasedRootMotionComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_riglogic",
+      "label": "AnimNode_RigLogic",
+      "file_type": "document",
+      "source_file": "AnimNode_RigLogic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_base",
+      "label": "AnimNode_Base",
+      "file_type": "document",
+      "source_file": "AnimNode_RigLogic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_itembasemutable",
+      "label": "RigUnit_ItemBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_ItemBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_ItemBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangelevelfactorynode",
+      "label": "InterchangeLevelFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeLevelFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangefactorybasenode",
+      "label": "InterchangeFactoryBaseNode",
+      "file_type": "document",
+      "source_file": "InterchangeLevelFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetingrequestdynamicdelegate",
+      "label": "TargetingRequestDynamicDelegate",
+      "file_type": "document",
+      "source_file": "TargetingRequestDynamicDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "TargetingRequestDynamicDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingeditorcommand_propertyeyedropper",
+      "label": "AesBuildingEditorCommand_PropertyEyedropper",
+      "file_type": "document",
+      "source_file": "AesBuildingEditorCommand__PropertyEyedropper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommand",
+      "label": "AesEditorSimpleCommand",
+      "file_type": "document",
+      "source_file": "AesBuildingEditorCommand__PropertyEyedropper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaterniongetaxis",
+      "label": "RigUnit_MathQuaternionGetAxis",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionGetAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaterniongetaxis",
+      "label": "RigVMFunction_MathQuaternionGetAxis",
+      "file_type": "document",
+      "source_file": "RigUnit_MathQuaternionGetAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreeitemblueprintbase",
+      "label": "StateTreeItemBlueprintBase",
+      "file_type": "document",
+      "source_file": "StateTreeItemBlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreenodeblueprintbase",
+      "label": "StateTreeNodeBlueprintBase",
+      "file_type": "document",
+      "source_file": "StateTreeItemBlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "neuralprofileruntimetype",
+      "label": "NeuralProfileRuntimeType",
+      "file_type": "document",
+      "source_file": "NeuralProfileRuntimeType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptperlinnoiseoptions",
+      "label": "GeometryScriptPerlinNoiseOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptPerlinNoiseOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getrelativebonetransform",
+      "label": "RigUnit_GetRelativeBoneTransform",
+      "file_type": "document",
+      "source_file": "RigUnit__GetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit__GetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusdatadomain",
+      "label": "OptimusDataDomain",
+      "file_type": "document",
+      "source_file": "OptimusDataDomain Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescene3dpathsection_axis",
+      "label": "MovieScene3DPathSection_Axis",
+      "file_type": "document",
+      "source_file": "MovieScene3DPathSection__Axis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig",
+      "label": "ControlRig",
+      "file_type": "document",
+      "source_file": "RigUnit_SlideChainPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara",
+      "label": "Niagara",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceArrayFloat4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "umg",
+      "label": "UMG",
+      "file_type": "document",
+      "source_file": "Image Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "massstationarydistancevisualizationtrait",
+      "target": "massdistancevisualizationtrait",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassStationaryDistanceVisualizationTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "massstationarydistancevisualizationtrait",
+      "target": "controlrig",
+      "relation": "part_of_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassStationaryDistanceVisualizationTrait Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "filemediasourcefactorynew",
+      "target": "factory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FileMediaSourceFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slatechildsize",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateChildSize Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slatechildsize",
+      "target": "umg",
+      "relation": "part_of_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateChildSize Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpinputeventmanager",
+      "target": "worldsubsystem",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpInputEventManager Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterreplacetexturecroprectangle",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterReplaceTextureCropRectangle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearrayfloat4",
+      "target": "niagaradatainterfacearray",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceArrayFloat4 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearrayfloat4",
+      "target": "niagara",
+      "relation": "part_of_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceArrayFloat4 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image",
+      "target": "widget",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Image Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image",
+      "target": "umg",
+      "relation": "part_of_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Image Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradeviceprofileredirectmode",
+      "target": "enumbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDeviceProfileRedirectMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradeviceprofileredirectmode",
+      "target": "niagara",
+      "relation": "part_of_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDeviceProfileRedirectMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_slidechainperitem",
+      "target": "rigunit_highlevelbasemutable",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SlideChainPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_slidechainperitem",
+      "target": "controlrig",
+      "relation": "part_of_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SlideChainPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "attributebasedrootmotioncomponent",
+      "target": "actorcomponent",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AttributeBasedRootMotionComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_riglogic",
+      "target": "animnode_base",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_RigLogic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itembasemutable",
+      "target": "rigunitmutable",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ItemBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itembasemutable",
+      "target": "controlrig",
+      "relation": "part_of_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ItemBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangelevelfactorynode",
+      "target": "interchangefactorybasenode",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeLevelFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetingrequestdynamicdelegate",
+      "target": "delegatebase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetingRequestDynamicDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingeditorcommand_propertyeyedropper",
+      "target": "aeseditorsimplecommand",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBuildingEditorCommand__PropertyEyedropper Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaterniongetaxis",
+      "target": "rigvmfunction_mathquaterniongetaxis",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionGetAxis Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreeitemblueprintbase",
+      "target": "statetreenodeblueprintbase",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeItemBlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrelativebonetransform",
+      "target": "rigunit",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrelativebonetransform",
+      "target": "controlrig",
+      "relation": "part_of_module",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetRelativeBoneTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itembasemutable",
+      "target": "rigunit_slidechainperitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SlideChainPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getrelativebonetransform",
+      "target": "rigunit_slidechainperitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SlideChainPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_riglogic",
+      "target": "rigunit_itembasemutable",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "RigUnit_ItemBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slatechildsize",
+      "target": "image",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Image Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_rig_units",
+      "label": "ControlRig RigUnit Family",
+      "nodes": [
+        "rigunit_slidechainperitem",
+        "rigunit_itembasemutable",
+        "rigunit_getrelativebonetransform",
+        "rigunit_mathquaterniongetaxis"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SlideChainPerItem Objects.md"
+    },
+    {
+      "id": "niagara_systems",
+      "label": "Niagara System Components",
+      "nodes": [
+        "niagaradatainterfacearrayfloat4",
+        "niagaradeviceprofileredirectmode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraDataInterfaceArrayFloat4 Objects.md"
+    },
+    {
+      "id": "umg_widgets",
+      "label": "UMG Widget System",
+      "nodes": [
+        "image",
+        "slatechildsize"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Image Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

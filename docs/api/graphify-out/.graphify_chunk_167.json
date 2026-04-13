@@ -1,0 +1,524 @@
+{
+  "nodes": [
+    {
+      "id": "smartobjectchangereason_smartobjectchangereason",
+      "label": "SmartObjectChangeReason",
+      "file_type": "document",
+      "source_file": "SmartObjectChangeReason Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitytypesresult_entitytypesresult",
+      "label": "EntityTypesResult",
+      "file_type": "document",
+      "source_file": "EntityTypesResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltxfruntimeskeletalanimationconfig_gltxfruntimeskeletalanimationconfig",
+      "label": "glTFRuntimeSkeletalAnimationConfig",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformbase_rigvmfunction_mathtransformbase",
+      "label": "RigVMFunction_MathTransformBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathTransformBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetrenameresult_assetrenameresult",
+      "label": "AssetRenameResult",
+      "file_type": "document",
+      "source_file": "AssetRenameResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorround_rigunit_mathvectorround",
+      "label": "RigUnit_MathVectorRound",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorRound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorround_rigvmfunction_mathvectorround",
+      "label": "RigVMFunction_MathVectorRound",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorRound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framenumber_framenumber",
+      "label": "FrameNumber",
+      "file_type": "document",
+      "source_file": "FrameNumber Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_transformfromcontrolrigspline2_rigunit_transformfromcontrolrigspline2",
+      "label": "RigUnit_TransformFromControlRigSpline2",
+      "file_type": "document",
+      "source_file": "RigUnit_TransformFromControlRigSpline2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scripttypedelementhandle_scripttypedelementhandle",
+      "label": "ScriptTypedElementHandle",
+      "file_type": "document",
+      "source_file": "ScriptTypedElementHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdmetadataimportoptions_usdmetadataimportoptions",
+      "label": "UsdMetadataImportOptions",
+      "file_type": "document",
+      "source_file": "UsdMetadataImportOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenebindingresolvecontext_moviescenebindingresolvecontext",
+      "label": "MovieSceneBindingResolveContext",
+      "file_type": "document",
+      "source_file": "MovieSceneBindingResolveContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneeventtrack_moviesceneeventtrack",
+      "label": "MovieSceneEventTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneEventTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "synesthesiaspectrumanalyzer_synesthesiaspectrumanalyzer",
+      "label": "SynesthesiaSpectrumAnalyzer",
+      "file_type": "document",
+      "source_file": "SynesthesiaSpectrumAnalyzer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_convertvectortorotation_rigunit_convertvectortorotation",
+      "label": "RigUnit_ConvertVectorToRotation",
+      "file_type": "document",
+      "source_file": "RigUnit__ConvertVectorToRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineburninsetting_moviepipelineburninsetting",
+      "label": "MoviePipelineBurnInSetting",
+      "file_type": "document",
+      "source_file": "MoviePipelineBurnInSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delaunayindex_delaunayindex",
+      "label": "DelaunayIndex",
+      "file_type": "document",
+      "source_file": "DelaunayIndex Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectioncomponent_notifygeometrycollectionphysicsstatechange_geometrycollectioncomponent_notifygeometrycollectionphysicsstatechange",
+      "label": "GeometryCollectionComponent_NotifyGeometryCollectionPhysicsStateChange",
+      "file_type": "document",
+      "source_file": "GeometryCollectionComponent_NotifyGeometryCollectionPhysicsStateChange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetlistatom_assetlistatom",
+      "label": "AssetListAtom",
+      "file_type": "document",
+      "source_file": "AssetListAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatbinaryop_rigunit_mathfloatbinaryop",
+      "label": "RigUnit_MathFloatBinaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+      "label": "RigVMFunction_MathFloatBinaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationpostrender_override_displayclusterconfigurationpostrender_override",
+      "label": "DisplayClusterConfigurationPostRender_Override",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationPostRender_Override Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navdatagatheringmode_navdatagatheringmode",
+      "label": "NavDataGatheringMode",
+      "file_type": "document",
+      "source_file": "NavDataGatheringMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polygonentityatom_polygonentityatom",
+      "label": "PolygonEntityAtom",
+      "file_type": "document",
+      "source_file": "PolygonEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscenescenechangeinfo_wdpscenescenechangeinfo",
+      "label": "WdpSceneChangeInfo",
+      "file_type": "document",
+      "source_file": "EntityTypesResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigspline_controlrigspline",
+      "label": "ControlRigSpline",
+      "file_type": "document",
+      "source_file": "RigUnit_TransformFromControlRigSpline2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeleton_skeleton",
+      "label": "Skeleton",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmesh_skeletalmesh",
+      "label": "SkeletalMesh",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poseasset_poseasset",
+      "label": "PoseAsset",
+      "file_type": "document",
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpassetinfo_wdpassetinfo",
+      "label": "WdpAssetInfo",
+      "file_type": "document",
+      "source_file": "AssetListAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppolygon_wdppolygon",
+      "label": "WdpPolygon",
+      "file_type": "document",
+      "source_file": "PolygonEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathvectorround_rigunit_mathvectorround",
+      "target": "rigvmfunction_mathvectorround_rigvmfunction_mathvectorround",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorRound Objects.md",
+      "source_location": "deprecated: 'RigUnit_MathVectorRound' was renamed to 'RigVMFunction_MathVectorRound'.",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatbinaryop_rigunit_mathfloatbinaryop",
+      "target": "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatBinaryOp Objects.md",
+      "source_location": "deprecated: 'RigUnit_MathFloatBinaryOp' was renamed to 'RigVMFunction_MathFloatBinaryOp'.",
+      "weight": 1.0
+    },
+    {
+      "source": "entitytypesresult_entitytypesresult",
+      "target": "wdpscenescenechangeinfo_wdpscenescenechangeinfo",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "EntityTypesResult Objects.md",
+      "source_location": "scene_change_info: WdpSceneChangeInfo",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_transformfromcontrolrigspline2_rigunit_transformfromcontrolrigspline2",
+      "target": "controlrigspline_controlrigspline",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_TransformFromControlRigSpline2 Objects.md",
+      "source_location": "spline: ControlRigSpline",
+      "weight": 1.0
+    },
+    {
+      "source": "gltxfruntimeskeletalanimationconfig_gltxfruntimeskeletalanimationconfig",
+      "target": "skeleton_skeleton",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md",
+      "source_location": "retarget_to: Skeleton",
+      "weight": 1.0
+    },
+    {
+      "source": "gltxfruntimeskeletalanimationconfig_gltxfruntimeskeletalanimationconfig",
+      "target": "skeletalmesh_skeletalmesh",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md",
+      "source_location": "retarget_to_skeletal_mesh: SkeletalMesh",
+      "weight": 1.0
+    },
+    {
+      "source": "gltxfruntimeskeletalanimationconfig_gltxfruntimeskeletalanimationconfig",
+      "target": "poseasset_poseasset",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md",
+      "source_location": "pose_for_retargeting: PoseAsset",
+      "weight": 1.0
+    },
+    {
+      "source": "assetlistatom_assetlistatom",
+      "target": "wdpassetinfo_wdpassetinfo",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AssetListAtom Objects.md",
+      "source_location": "assets: Set[WdpAssetInfo]",
+      "weight": 1.0
+    },
+    {
+      "source": "polygonentityatom_polygonentityatom",
+      "target": "wdppolygon_wdppolygon",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PolygonEntityAtom Objects.md",
+      "source_location": "polygon: WdpPolygon",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorround_rigunit_mathvectorround",
+      "target": "rigunit_mathfloatbinaryop_rigunit_mathfloatbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathVectorRound Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorround_rigvmfunction_mathvectorround",
+      "target": "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathVectorRound Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skeleton_skeleton",
+      "target": "skeletalmesh_skeletalmesh",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetlistatom_assetlistatom",
+      "target": "polygonentityatom_polygonentityatom",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AssetListAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_math_operations_pattern",
+      "label": "Rig Math Operations Pattern",
+      "nodes": [
+        "rigunit_mathvectorround_rigunit_mathvectorround",
+        "rigvmfunction_mathvectorround_rigvmfunction_mathvectorround",
+        "rigunit_mathfloatbinaryop_rigunit_mathfloatbinaryop",
+        "rigvmfunction_mathfloatbinaryop_rigvmfunction_mathfloatbinaryop",
+        "rigvmfunction_mathtransformbase_rigvmfunction_mathtransformbase"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathVectorRound Objects.md"
+    },
+    {
+      "id": "wdp_entity_atoms_pattern",
+      "label": "WDP Entity Atoms Pattern",
+      "nodes": [
+        "assetlistatom_assetlistatom",
+        "polygonentityatom_polygonentityatom",
+        "wdpassetinfo_wdpassetinfo",
+        "wdppolygon_wdppolygon"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AssetListAtom Objects.md"
+    },
+    {
+      "id": "skeletal_animation_retargeting_workflow",
+      "label": "Skeletal Animation Retargeting Workflow",
+      "nodes": [
+        "gltxfruntimeskeletalanimationconfig_gltxfruntimeskeletalanimationconfig",
+        "skeleton_skeleton",
+        "skeletalmesh_skeletalmesh",
+        "poseasset_poseasset"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "glTFRuntimeSkeletalAnimationConfig Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

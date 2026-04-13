@@ -1,0 +1,451 @@
+{
+  "nodes": [
+    {
+      "id": "earthcolorfragment",
+      "label": "EarthColorFragment",
+      "file_type": "code",
+      "source_file": "EarthColorFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_timeloop",
+      "label": "RigVMFunction_TimeLoop",
+      "file_type": "code",
+      "source_file": "RigVMFunction_TimeLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressiontangent",
+      "label": "DMMaterialStageExpressionTangent",
+      "file_type": "code",
+      "source_file": "DMMaterialStageExpressionTangent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_deltafrompreviousquat",
+      "label": "RigVMFunction_DeltaFromPreviousQuat",
+      "file_type": "code",
+      "source_file": "RigVMFunction__DeltaFromPreviousQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositingelementinput",
+      "label": "CompositingElementInput",
+      "file_type": "code",
+      "source_file": "CompositingElementInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewportactionkeyinput",
+      "label": "ViewportActionKeyInput",
+      "file_type": "code",
+      "source_file": "ViewportActionKeyInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitystatedelegate",
+      "label": "AbilityStateDelegate",
+      "file_type": "code",
+      "source_file": "AbilityStateDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "simpletargetingfiltertask",
+      "label": "SimpleTargetingFilterTask",
+      "file_type": "code",
+      "source_file": "SimpleTargetingFilterTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatsub",
+      "label": "RigUnit_MathFloatSub",
+      "file_type": "code",
+      "source_file": "RigUnit__MathFloatSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpglobalsettingsfpsparams",
+      "label": "WdpGlobalSettingsFPSParams",
+      "file_type": "code",
+      "source_file": "WdpGlobalSettingsFPSParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "functionaltestaispawned",
+      "label": "FunctionalTestAISpawned",
+      "file_type": "code",
+      "source_file": "FunctionalTestAISpawned Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudduplicatehandling",
+      "label": "LidarPointCloudDuplicateHandling",
+      "file_type": "code",
+      "source_file": "LidarPointCloudDuplicateHandling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createproxymeshactoroptions",
+      "label": "CreateProxyMeshActorOptions",
+      "file_type": "code",
+      "source_file": "CreateProxyMeshActorOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fxsystemcomponent",
+      "label": "FXSystemComponent",
+      "file_type": "code",
+      "source_file": "FXSystemComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkuserwidgetnamedslot",
+      "label": "UIFrameworkUserWidgetNamedSlot",
+      "file_type": "code",
+      "source_file": "UIFrameworkUserWidgetNamedSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatlerp",
+      "label": "RigVMFunction_MathFloatLerp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_getslatebrush",
+      "label": "Widget_GetSlateBrush",
+      "file_type": "code",
+      "source_file": "Widget_GetSlateBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "textureparametervalue",
+      "label": "TextureParameterValue",
+      "file_type": "code",
+      "source_file": "TextureParameterValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgfilterdatabaseettings",
+      "label": "PCGFilterDataBaseSettings",
+      "file_type": "code",
+      "source_file": "PCGFilterDataBaseSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmax",
+      "label": "RigVMFunction_MathFloatMax",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkdrivencomponent",
+      "label": "LiveLinkDrivenComponent",
+      "file_type": "code",
+      "source_file": "LiveLinkDrivenComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixinverse",
+      "label": "RigUnit_MathMatrixInverse",
+      "file_type": "code",
+      "source_file": "RigUnit__MathMatrixInverse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "earthcolorfragment",
+      "target": "rigvmfunction_timeloop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EarthColorFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_timeloop",
+      "target": "rigvmfunction_deltafrompreviousquat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction_TimeLoop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_deltafrompreviousquat",
+      "target": "rigvmfunction_timeloop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__DeltaFromPreviousQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatsub",
+      "target": "rigvmfunction_mathfloatlerp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathFloatSub Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatlerp",
+      "target": "rigvmfunction_mathfloatmax",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathFloatLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatmax",
+      "target": "rigunit_mathfloatsub",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathFloatMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixinverse",
+      "target": "rigvmfunction_mathfloatlerp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathMatrixInverse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fxsystemcomponent",
+      "target": "textureparametervalue",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "FXSystemComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiontangent",
+      "target": "fxsystemcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DMMaterialStageExpressionTangent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "compositingelementinput",
+      "target": "fxsystemcomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "CompositingElementInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitystatedelegate",
+      "target": "simpletargetingfiltertask",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "AbilityStateDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "functionaltestaispawned",
+      "target": "abilitystatedelegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.62,
+      "source_file": "FunctionalTestAISpawned Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkdrivencomponent",
+      "target": "rigvmfunction_deltafrompreviousquat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "LiveLinkDrivenComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgfilterdatabaseettings",
+      "target": "lidarpointcloudduplicatehandling",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGFilterDataBaseSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "widget_getslatebrush",
+      "target": "uiframeworkuserwidgetnamedslot",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Widget_GetSlateBrush Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "viewportactionkeyinput",
+      "target": "wdpglobalsettingsfpsparams",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ViewportActionKeyInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createproxymeshactoroptions",
+      "target": "compositingelementinput",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.62,
+      "source_file": "CreateProxyMeshActorOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigunit_mathfloatsub",
+        "rigvmfunction_mathfloatlerp",
+        "rigvmfunction_mathfloatmax",
+        "rigvmfunction_deltafrompreviousquat",
+        "rigunit_mathmatrixinverse"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathFloatSub Objects.md"
+    },
+    {
+      "id": "rendering_material_pipeline",
+      "label": "Rendering and Material Pipeline Components",
+      "nodes": [
+        "fxsystemcomponent",
+        "textureparametervalue",
+        "dmmaterialstageexpressiontangent",
+        "compositingelementinput"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "FXSystemComponent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

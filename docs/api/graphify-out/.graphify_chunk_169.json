@@ -1,0 +1,769 @@
+{
+  "nodes": [
+    {
+      "id": "onlineconnectionresult_onlineconnectionresult",
+      "label": "OnlineConnectionResult",
+      "file_type": "code",
+      "source_file": "OnlineConnectionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencerkeyactor_sequencerkeyactor",
+      "label": "SequencerKeyActor",
+      "file_type": "code",
+      "source_file": "SequencerKeyActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstratametalnesstodiffusealbedof0_materialexpressionstratametalnesstodiffusealbedof0",
+      "label": "MaterialExpressionStrataMetalnessToDiffuseAlbedoF0",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStrataMetalnessToDiffuseAlbedoF0 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setbonerotation_rigunit_setbonerotation",
+      "label": "RigUnit_SetBoneRotation",
+      "file_type": "code",
+      "source_file": "RigUnit_SetBoneRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tracequerytestresultsinner_tracequerytestresultsinner",
+      "label": "TraceQueryTestResultsInner",
+      "file_type": "code",
+      "source_file": "TraceQueryTestResultsInner Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptrgbachannel_geometryscriptrgbachannel",
+      "label": "GeometryScriptRGBAChannel",
+      "file_type": "code",
+      "source_file": "GeometryScriptRGBAChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "phasedautomationactorbase_phasedautomationactorbase",
+      "label": "PhasedAutomationActorBase",
+      "file_type": "code",
+      "source_file": "PhasedAutomationActorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionpostvolumeuserflagtest_materialexpressionpostvolumeuserflagtest",
+      "label": "MaterialExpressionPostVolumeUserFlagTest",
+      "file_type": "code",
+      "source_file": "MaterialExpressionPostVolumeUserFlagTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundoutputaudioformat_metasoundoutputaudioformat",
+      "label": "MetaSoundOutputAudioFormat",
+      "file_type": "code",
+      "source_file": "MetaSoundOutputAudioFormat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigphysicssettings_rigphysicssettings",
+      "label": "RigPhysicsSettings",
+      "file_type": "code",
+      "source_file": "RigPhysicsSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "possesspawnsettings_possesspawnsettings",
+      "label": "PossessPawnSettings",
+      "file_type": "code",
+      "source_file": "PossessPawnSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth2dentitymouseeventtype_earth2dentitymouseeventtype",
+      "label": "Earth2DEntityMouseEventType",
+      "file_type": "code",
+      "source_file": "Earth2DEntityMouseEventType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oncanvasrendertargetupdate_oncanvasrendertargetupdate",
+      "label": "OnCanvasRenderTargetUpdate",
+      "file_type": "code",
+      "source_file": "OnCanvasRenderTargetUpdate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reflectioncapture_reflectioncapture",
+      "label": "ReflectionCapture",
+      "file_type": "code",
+      "source_file": "ReflectionCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathtransformmutablebase_rigvmfunction_mathtransformmutablebase",
+      "label": "RigVMFunction_MathTransformMutableBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformMutableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolfloat_settings_rigunit_hierarchyaddcontrolfloat_settings",
+      "label": "RigUnit_HierarchyAddControlFloat_Settings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinebase_interchangepipelinebase",
+      "label": "InterchangePipelineBase",
+      "file_type": "code",
+      "source_file": "InterchangePipelineBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneaudiocaptureprotocolbase_moviesceneaudiocaptureprotocolbase",
+      "label": "MovieSceneAudioCaptureProtocolBase",
+      "file_type": "code",
+      "source_file": "MovieSceneAudioCaptureProtocolBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playerstate_playerstate",
+      "label": "PlayerState",
+      "file_type": "code",
+      "source_file": "PlayerState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typedelementselectionset_onchangedynamic_typedelementselectionset_onchangedynamic",
+      "label": "TypedElementSelectionSet_OnChangeDynamic",
+      "file_type": "code",
+      "source_file": "TypedElementSelectionSet_OnChangeDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createparabolaparams_createparabolaparams",
+      "label": "CreateParabolaParams",
+      "file_type": "code",
+      "source_file": "CreateParabolaParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationcurvedata_animationcurvedata",
+      "label": "AnimationCurveData",
+      "file_type": "code",
+      "source_file": "AnimationCurveData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tracequerytestresultsinnermost_tracequerytestresultsinnermost",
+      "label": "TraceQueryTestResultsInnerMost",
+      "file_type": "code",
+      "source_file": "TraceQueryTestResultsInner Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reflectioncapturecomponent_reflectioncapturecomponent",
+      "label": "ReflectionCaptureComponent",
+      "file_type": "code",
+      "source_file": "ReflectionCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolaxis_rigcontrolaxis",
+      "label": "RigControlAxis",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolfloat_limitsettings_rigunit_hierarchyaddcontrolfloat_limitsettings",
+      "label": "RigUnit_HierarchyAddControlFloat_LimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+      "label": "RigUnit_HierarchyAddControl_ShapeSettings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_proxysettings_rigunit_hierarchyaddcontrol_proxysettings",
+      "label": "RigUnit_HierarchyAddControl_ProxySettings",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmexecutecontext_rigvmexecutecontext",
+      "label": "RigVMExecuteContext",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathTransformMutableBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit_SetBoneRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtransformspace_rigvmtransformspace",
+      "label": "RigVMTransformSpace",
+      "file_type": "code",
+      "source_file": "RigUnit_SetBoneRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "parabolastyle_parabolastyle",
+      "label": "ParabolaStyle",
+      "file_type": "code",
+      "source_file": "CreateParabolaParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "floatcurve_floatcurve",
+      "label": "FloatCurve",
+      "file_type": "code",
+      "source_file": "AnimationCurveData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformcurve_transformcurve",
+      "label": "TransformCurve",
+      "file_type": "code",
+      "source_file": "AnimationCurveData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangebasenodecontainer_interchangebasenodecontainer",
+      "label": "InterchangeBaseNodeContainer",
+      "file_type": "code",
+      "source_file": "InterchangePipelineBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangesourcedata_interchangesourcedata",
+      "label": "InterchangeSourceData",
+      "file_type": "code",
+      "source_file": "InterchangePipelineBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinepropertystates_interchangepipelinepropertystates",
+      "label": "InterchangePipelinePropertyStates",
+      "file_type": "code",
+      "source_file": "InterchangePipelineBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onplayerstatepawnset_onplayerstatepawnset",
+      "label": "OnPlayerStatePawnSet",
+      "file_type": "code",
+      "source_file": "PlayerState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "onlineconnectionresult_onlineconnectionresult",
+      "target": "sequencerkeyactor_sequencerkeyactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OnlineConnectionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequencerkeyactor_sequencerkeyactor",
+      "target": "phasedautomationactorbase_phasedautomationactorbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SequencerKeyActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequencerkeyactor_sequencerkeyactor",
+      "target": "reflectioncapture_reflectioncapture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SequencerKeyActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequencerkeyactor_sequencerkeyactor",
+      "target": "playerstate_playerstate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SequencerKeyActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstratametalnesstodiffusealbedof0_materialexpressionstratametalnesstodiffusealbedof0",
+      "target": "materialexpressionpostvolumeuserflagtest_materialexpressionpostvolumeuserflagtest",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MaterialExpressionStrataMetalnessToDiffuseAlbedoF0 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setbonerotation_rigunit_setbonerotation",
+      "target": "rigunit_hierarchyaddcontrolfloat_settings_rigunit_hierarchyaddcontrolfloat_settings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetBoneRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setbonerotation_rigunit_setbonerotation",
+      "target": "rigvmfunction_mathtransformmutablebase_rigvmfunction_mathtransformmutablebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetBoneRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setbonerotation_rigunit_setbonerotation",
+      "target": "rigphysicssettings_rigphysicssettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SetBoneRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tracequerytestresultsinner_tracequerytestresultsinner",
+      "target": "phasedautomationactorbase_phasedautomationactorbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "TraceQueryTestResultsInner Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tracequerytestresultsinner_tracequerytestresultsinner",
+      "target": "tracequerytestresultsinnermost_tracequerytestresultsinnermost",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TraceQueryTestResultsInner Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reflectioncapture_reflectioncapture",
+      "target": "reflectioncapturecomponent_reflectioncapturecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ReflectionCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolfloat_settings_rigunit_hierarchyaddcontrolfloat_settings",
+      "target": "rigcontrolaxis_rigcontrolaxis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolfloat_settings_rigunit_hierarchyaddcontrolfloat_settings",
+      "target": "rigunit_hierarchyaddcontrolfloat_limitsettings_rigunit_hierarchyaddcontrolfloat_limitsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolfloat_settings_rigunit_hierarchyaddcontrolfloat_settings",
+      "target": "rigunit_hierarchyaddcontrol_shapesettings_rigunit_hierarchyaddcontrol_shapesettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolfloat_settings_rigunit_hierarchyaddcontrolfloat_settings",
+      "target": "rigunit_hierarchyaddcontrol_proxysettings_rigunit_hierarchyaddcontrol_proxysettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlFloat__Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathtransformmutablebase_rigvmfunction_mathtransformmutablebase",
+      "target": "rigvmexecutecontext_rigvmexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathTransformMutableBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setbonerotation_rigunit_setbonerotation",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetBoneRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setbonerotation_rigunit_setbonerotation",
+      "target": "rigvmtransformspace_rigvmtransformspace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetBoneRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinebase_interchangepipelinebase",
+      "target": "interchangebasenodecontainer_interchangebasenodecontainer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinebase_interchangepipelinebase",
+      "target": "interchangesourcedata_interchangesourcedata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepipelinebase_interchangepipelinebase",
+      "target": "interchangepipelinepropertystates_interchangepipelinepropertystates",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePipelineBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createparabolaparams_createparabolaparams",
+      "target": "parabolastyle_parabolastyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateParabolaParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationcurvedata_animationcurvedata",
+      "target": "floatcurve_floatcurve",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationCurveData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animationcurvedata_animationcurvedata",
+      "target": "transformcurve_transformcurve",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationCurveData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playerstate_playerstate",
+      "target": "onplayerstatepawnset_onplayerstatepawnset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneaudiocaptureprotocolbase_moviesceneaudiocaptureprotocolbase",
+      "target": "interchangepipelinebase_interchangepipelinebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MovieSceneAudioCaptureProtocolBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlineconnectionresult_onlineconnectionresult",
+      "target": "oncanvasrendertargetupdate_oncanvasrendertargetupdate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OnlineConnectionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlineconnectionresult_onlineconnectionresult",
+      "target": "typedelementselectionset_onchangedynamic_typedelementselectionset_onchangedynamic",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OnlineConnectionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrgbachannel_geometryscriptrgbachannel",
+      "target": "metasoundoutputaudioformat_metasoundoutputaudioformat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptRGBAChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptrgbachannel_geometryscriptrgbachannel",
+      "target": "earth2dentitymouseeventtype_earth2dentitymouseeventtype",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeometryScriptRGBAChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_rig_units",
+      "label": "ControlRig System Units",
+      "nodes": [
+        "rigunit_setbonerotation_rigunit_setbonerotation",
+        "rigunit_hierarchyaddcontrolfloat_settings_rigunit_hierarchyaddcontrolfloat_settings",
+        "rigphysicssettings_rigphysicssettings",
+        "rigvmfunction_mathtransformmutablebase_rigvmfunction_mathtransformmutablebase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetBoneRotation Objects.md"
+    },
+    {
+      "id": "unreal_engine_actor_types",
+      "label": "Unreal Engine Actor Types",
+      "nodes": [
+        "sequencerkeyactor_sequencerkeyactor",
+        "phasedautomationactorbase_phasedautomationactorbase",
+        "reflectioncapture_reflectioncapture",
+        "playerstate_playerstate"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "SequencerKeyActor Objects.md"
+    },
+    {
+      "id": "delegate_types",
+      "label": "Unreal Engine Delegate Types",
+      "nodes": [
+        "onlineconnectionresult_onlineconnectionresult",
+        "oncanvasrendertargetupdate_oncanvasrendertargetupdate",
+        "typedelementselectionset_onchangedynamic_typedelementselectionset_onchangedynamic"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnlineConnectionResult Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

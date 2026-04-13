@@ -1,0 +1,1455 @@
+{
+  "nodes": [
+    {
+      "id": "DatasmithUserData",
+      "type": "class",
+      "label": "DatasmithUserData",
+      "description": "Asset user data that can be used with Datasmith on Actors and other objects",
+      "source_file": "DatasmithUserData Objects.md",
+      "plugin": "DatasmithContent",
+      "module": "DatasmithContent",
+      "file": "DatasmithAssetUserData.h"
+    },
+    {
+      "id": "AssetUserData",
+      "type": "class",
+      "label": "AssetUserData",
+      "description": "Base class for asset user data"
+    },
+    {
+      "id": "AnimNode_BlendBoneByChannel",
+      "type": "class",
+      "label": "AnimNode_BlendBoneByChannel",
+      "description": "Anim Node Blend Bone by Channel",
+      "source_file": "AnimNode__BlendBoneByChannel Objects.md",
+      "module": "AnimGraphRuntime",
+      "file": "AnimNode_BlendBoneByChannel.h"
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "label": "AnimNode_Base",
+      "description": "Base class for animation nodes"
+    },
+    {
+      "id": "UsdPrimMetadata",
+      "type": "struct",
+      "label": "UsdPrimMetadata",
+      "description": "Describes all the metadata values collected from a particular USD prim",
+      "source_file": "UsdPrimMetadata Objects.md",
+      "plugin": "USDCore",
+      "module": "USDClasses",
+      "file": "USDMetadata.h"
+    },
+    {
+      "id": "StructBase",
+      "type": "struct",
+      "label": "StructBase",
+      "description": "Base struct for Unreal structures"
+    },
+    {
+      "id": "GeometryScriptBakeResolution",
+      "type": "enum",
+      "label": "GeometryScriptBakeResolution",
+      "description": "EGeometry Script Bake Resolution",
+      "source_file": "GeometryScriptBakeResolution Objects.md",
+      "plugin": "GeometryScripting",
+      "module": "GeometryScriptingCore",
+      "file": "MeshBakeFunctions.h"
+    },
+    {
+      "id": "EnumBase",
+      "type": "enum",
+      "label": "EnumBase",
+      "description": "Base class for enums"
+    },
+    {
+      "id": "NiagaraPreviewGridResetMode",
+      "type": "enum",
+      "label": "NiagaraPreviewGridResetMode",
+      "description": "ENiagara Preview Grid Reset Mode",
+      "source_file": "NiagaraPreviewGridResetMode Objects.md",
+      "plugin": "Niagara",
+      "module": "Niagara",
+      "file": "NiagaraPreviewGrid.h"
+    },
+    {
+      "id": "MovieSceneEventRepeaterSection",
+      "type": "class",
+      "label": "MovieSceneEventRepeaterSection",
+      "description": "Event section that will trigger its event exactly once, every time it is evaluated",
+      "source_file": "MovieSceneEventRepeaterSection Objects.md",
+      "module": "MovieSceneTracks",
+      "file": "MovieSceneEventRepeaterSection.h"
+    },
+    {
+      "id": "MovieSceneEventSectionBase",
+      "type": "class",
+      "label": "MovieSceneEventSectionBase",
+      "description": "Base class for movie scene event sections"
+    },
+    {
+      "id": "MaterialExpressionBoundsType",
+      "type": "enum",
+      "label": "MaterialExpressionBoundsType",
+      "description": "EMaterial Expression Bounds Type",
+      "source_file": "MaterialExpressionBoundsType Objects.md",
+      "module": "Engine",
+      "file": "MaterialExpressionBounds.h"
+    },
+    {
+      "id": "HttpImageState",
+      "type": "enum",
+      "label": "HttpImageState",
+      "description": "EHttp Image State",
+      "source_file": "HttpImageState Objects.md",
+      "plugin": "CoveringAPI",
+      "module": "CoveringAPIEntity",
+      "file": "HttpImageStateSubsystem.h"
+    },
+    {
+      "id": "WaveOscillator",
+      "type": "struct",
+      "label": "WaveOscillator",
+      "description": "A wave oscillator for a single number",
+      "source_file": "WaveOscillator Objects.md",
+      "plugin": "EngineCameras",
+      "module": "EngineCameras",
+      "file": "WaveOscillatorCameraShakePattern.h"
+    },
+    {
+      "id": "FBIKBoneLimit",
+      "type": "struct",
+      "label": "FBIKBoneLimit",
+      "description": "FBIKBone Limit",
+      "source_file": "FBIKBoneLimit Objects.md",
+      "plugin": "FullBodyIK",
+      "module": "FullBodyIK",
+      "file": "FBIKConstraintOption.h"
+    },
+    {
+      "id": "ActorPerceptionUpdatedDelegate",
+      "type": "class",
+      "label": "ActorPerceptionUpdatedDelegate",
+      "description": "Actor Perception Updated Delegate",
+      "source_file": "ActorPerceptionUpdatedDelegate Objects.md",
+      "module": "AIModule",
+      "file": "AIPerceptionComponent.h"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "AppMsgCategory",
+      "type": "enum",
+      "label": "AppMsgCategory",
+      "description": "Enumerates supported message dialog category types",
+      "source_file": "AppMsgCategory Objects.md",
+      "module": "CoreUObject",
+      "file": "NoExportTypes.h"
+    },
+    {
+      "id": "GeometryScriptDebugMessage",
+      "type": "struct",
+      "label": "GeometryScriptDebugMessage",
+      "description": "Geometry Script Debug Message",
+      "source_file": "GeometryScriptDebugMessage Objects.md",
+      "plugin": "GeometryScripting",
+      "module": "GeometryScriptingCore",
+      "file": "GeometryScriptTypes.h"
+    },
+    {
+      "id": "ImgMediaSource",
+      "type": "class",
+      "label": "ImgMediaSource",
+      "description": "Media source for EXR image sequences",
+      "source_file": "ImgMediaSource Objects.md",
+      "plugin": "ImgMedia",
+      "module": "ImgMedia",
+      "file": "ImgMediaSource.h"
+    },
+    {
+      "id": "BaseMediaSource",
+      "type": "class",
+      "label": "BaseMediaSource",
+      "description": "Base class for media sources"
+    },
+    {
+      "id": "PCGRuntimeGenerationRadii",
+      "type": "struct",
+      "label": "PCGRuntimeGenerationRadii",
+      "description": "PCGRuntime Generation Radii",
+      "source_file": "PCGRuntimeGenerationRadii Objects.md",
+      "plugin": "PCG",
+      "module": "PCG",
+      "file": "PCGCommon.h"
+    },
+    {
+      "id": "NiagaraDataChannelHandler_Global",
+      "type": "class",
+      "label": "NiagaraDataChannelHandler_Global",
+      "description": "Basic DataChannel handler that makes all data visible globally",
+      "source_file": "NiagaraDataChannelHandler__Global Objects.md",
+      "plugin": "Niagara",
+      "module": "Niagara",
+      "file": "NiagaraDataChannel_Global.h"
+    },
+    {
+      "id": "NiagaraDataChannelHandler",
+      "type": "class",
+      "label": "NiagaraDataChannelHandler",
+      "description": "Base class for Niagara data channel handlers"
+    },
+    {
+      "id": "MaterialExpressionTextureSampleParameter",
+      "type": "class",
+      "label": "MaterialExpressionTextureSampleParameter",
+      "description": "Material Expression Texture Sample Parameter",
+      "source_file": "MaterialExpressionTextureSampleParameter Objects.md",
+      "module": "Engine",
+      "file": "MaterialExpressionTextureSampleParameter.h"
+    },
+    {
+      "id": "MaterialExpressionTextureSample",
+      "type": "class",
+      "label": "MaterialExpressionTextureSample",
+      "description": "Base class for material expression texture samples"
+    },
+    {
+      "id": "EidValueResult",
+      "type": "class",
+      "label": "EidValueResult",
+      "description": "Eid Value Result",
+      "source_file": "EidValueResult Objects.md",
+      "plugin": "CoveringAPI",
+      "module": "CoveringAPIDefine",
+      "file": "HeatMapAPIParams.h"
+    },
+    {
+      "id": "ResultBase",
+      "type": "class",
+      "label": "ResultBase",
+      "description": "Base class for result types"
+    },
+    {
+      "id": "ContentBrowserItemPathExtensions",
+      "type": "class",
+      "label": "ContentBrowserItemPathExtensions",
+      "description": "Content Browser Item Path Extensions",
+      "source_file": "ContentBrowserItemPathExtensions Objects.md",
+      "module": "ContentBrowserData",
+      "file": "ContentBrowserItemPath.h"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary",
+      "description": "Base class for blueprint function libraries"
+    },
+    {
+      "id": "FrameNumberRangeBound",
+      "type": "struct",
+      "label": "FrameNumberRangeBound",
+      "description": "Defines a single bound for a range of frame numbers",
+      "source_file": "FrameNumberRangeBound Objects.md",
+      "module": "CoreUObject",
+      "file": "NoExportTypes.h"
+    },
+    {
+      "id": "MetasoundParameterPack",
+      "type": "class",
+      "label": "MetasoundParameterPack",
+      "description": "UObject BlueprintType that can hold FMetasoundParamStorage instance",
+      "source_file": "MetasoundParameterPack Objects.md",
+      "plugin": "Metasound",
+      "module": "MetasoundFrontend",
+      "file": "MetasoundParameterPack.h"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object",
+      "description": "Base Unreal Object class"
+    },
+    {
+      "id": "RigUnit_GetControlTransform",
+      "type": "class",
+      "label": "RigUnit_GetControlTransform",
+      "description": "GetControlTransform is used to retrieve a single transform from a hierarchy",
+      "source_file": "RigUnit__GetControlTransform Objects.md",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_GetControlTransform.h"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "label": "RigUnit",
+      "description": "Base class for Control Rig units"
+    },
+    {
+      "id": "Map_Name_str",
+      "type": "type",
+      "label": "Map[Name, str]",
+      "description": "Map type with Name keys and string values"
+    },
+    {
+      "id": "Map_str_UsdMetadataValue",
+      "type": "type",
+      "label": "Map[str, UsdMetadataValue]",
+      "description": "Map type with string keys and UsdMetadataValue values"
+    },
+    {
+      "id": "PoseLink",
+      "type": "type",
+      "label": "PoseLink",
+      "description": "Type for pose links in animation"
+    },
+    {
+      "id": "InputScaleBias",
+      "type": "type",
+      "label": "InputScaleBias",
+      "description": "Type for input scale and bias"
+    },
+    {
+      "id": "BlendBoneByChannelEntry",
+      "type": "type",
+      "label": "BlendBoneByChannelEntry",
+      "description": "Type for blend bone by channel entries"
+    },
+    {
+      "id": "BoneControlSpace",
+      "type": "type",
+      "label": "BoneControlSpace",
+      "description": "Enum type for bone control space"
+    },
+    {
+      "id": "InitialWaveOscillatorOffsetType",
+      "type": "type",
+      "label": "InitialWaveOscillatorOffsetType",
+      "description": "Type for initial wave oscillator offset"
+    },
+    {
+      "id": "FBIKBoneLimitType",
+      "type": "type",
+      "label": "FBIKBoneLimitType",
+      "description": "Type for FBUK bone limit"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector",
+      "description": "3D vector type"
+    },
+    {
+      "id": "AIStimulus",
+      "type": "type",
+      "label": "AIStimulus",
+      "description": "Type for AI stimulus"
+    },
+    {
+      "id": "Actor",
+      "type": "type",
+      "label": "Actor",
+      "description": "Actor type in Unreal Engine"
+    },
+    {
+      "id": "GeometryScriptErrorType",
+      "type": "type",
+      "label": "GeometryScriptErrorType",
+      "description": "Type for geometry script errors"
+    },
+    {
+      "id": "GeometryScriptDebugMessageType",
+      "type": "type",
+      "label": "GeometryScriptDebugMessageType",
+      "description": "Type for geometry script debug messages"
+    },
+    {
+      "id": "Text",
+      "type": "type",
+      "label": "Text",
+      "description": "Text type in Unreal"
+    },
+    {
+      "id": "FrameRate",
+      "type": "type",
+      "label": "FrameRate",
+      "description": "Type for frame rate"
+    },
+    {
+      "id": "Timecode",
+      "type": "type",
+      "label": "Timecode",
+      "description": "Type for timecode"
+    },
+    {
+      "id": "DirectoryPath",
+      "type": "type",
+      "label": "DirectoryPath",
+      "description": "Type for directory paths"
+    },
+    {
+      "id": "WdpSceneChangeInfo",
+      "type": "type",
+      "label": "WdpSceneChangeInfo",
+      "description": "Type for WDP scene change information"
+    },
+    {
+      "id": "SetParamResult",
+      "type": "type",
+      "label": "SetParamResult",
+      "description": "Type for parameter set results"
+    },
+    {
+      "id": "RigVMTransformSpace",
+      "type": "type",
+      "label": "RigVMTransformSpace",
+      "description": "Type for RigVM transform space"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform",
+      "description": "Transform type with location, rotation, scale"
+    },
+    {
+      "id": "RangeBoundTypes",
+      "type": "type",
+      "label": "RangeBoundTypes",
+      "description": "Type for range bound types"
+    },
+    {
+      "id": "FrameNumber",
+      "type": "type",
+      "label": "FrameNumber",
+      "description": "Type for frame numbers"
+    },
+    {
+      "id": "ContentBrowserItemPath",
+      "type": "type",
+      "label": "ContentBrowserItemPath",
+      "description": "Type for content browser item paths"
+    },
+    {
+      "id": "ContentBrowserPathType",
+      "type": "type",
+      "label": "ContentBrowserPathType",
+      "description": "Type for content browser path types"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name",
+      "description": "Name type in Unreal"
+    },
+    {
+      "id": "MovieSceneConditionContainer",
+      "type": "type",
+      "label": "MovieSceneConditionContainer",
+      "description": "Type for movie scene conditions"
+    },
+    {
+      "id": "MovieSceneEasingSettings",
+      "type": "type",
+      "label": "MovieSceneEasingSettings",
+      "description": "Type for movie scene easing"
+    },
+    {
+      "id": "MovieSceneSectionEvalOptions",
+      "type": "type",
+      "label": "MovieSceneSectionEvalOptions",
+      "description": "Type for movie scene section evaluation options"
+    },
+    {
+      "id": "MovieSceneEvent",
+      "type": "type",
+      "label": "MovieSceneEvent",
+      "description": "Type for movie scene events"
+    },
+    {
+      "id": "MovieSceneFrameRange",
+      "type": "type",
+      "label": "MovieSceneFrameRange",
+      "description": "Type for movie scene frame ranges"
+    },
+    {
+      "id": "MovieSceneTimecodeSource",
+      "type": "type",
+      "label": "MovieSceneTimecodeSource",
+      "description": "Type for movie scene timecode sources"
+    },
+    {
+      "id": "Color",
+      "type": "type",
+      "label": "Color",
+      "description": "Color type in Unreal"
+    },
+    {
+      "id": "Texture",
+      "type": "type",
+      "label": "Texture",
+      "description": "Texture type in Unreal"
+    },
+    {
+      "id": "ParameterChannelNames",
+      "type": "type",
+      "label": "ParameterChannelNames",
+      "description": "Type for parameter channel names"
+    },
+    {
+      "id": "TextureMipValueMode",
+      "type": "type",
+      "label": "TextureMipValueMode",
+      "description": "Type for texture mip value modes"
+    },
+    {
+      "id": "SamplerSourceMode",
+      "type": "type",
+      "label": "SamplerSourceMode",
+      "description": "Type for sampler source modes"
+    },
+    {
+      "id": "MaterialSamplerType",
+      "type": "type",
+      "label": "MaterialSamplerType",
+      "description": "Type for material sampler types"
+    },
+    {
+      "id": "ImgMediaSourceCustomizationSequenceProxy",
+      "type": "type",
+      "label": "ImgMediaSourceCustomizationSequenceProxy",
+      "description": "Type for image media source sequence proxy customization"
+    }
+  ],
+  "edges": [
+    {
+      "source": "DatasmithUserData",
+      "target": "AssetUserData",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "DatasmithUserData",
+      "target": "Map_Name_str",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "metadata"
+    },
+    {
+      "source": "AnimNode_BlendBoneByChannel",
+      "target": "AnimNode_Base",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimNode_BlendBoneByChannel",
+      "target": "PoseLink",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "a"
+    },
+    {
+      "source": "AnimNode_BlendBoneByChannel",
+      "target": "PoseLink",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "b"
+    },
+    {
+      "source": "AnimNode_BlendBoneByChannel",
+      "target": "float",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "alpha"
+    },
+    {
+      "source": "AnimNode_BlendBoneByChannel",
+      "target": "InputScaleBias",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "alpha_scale_bias"
+    },
+    {
+      "source": "AnimNode_BlendBoneByChannel",
+      "target": "BlendBoneByChannelEntry",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "bone_definitions"
+    },
+    {
+      "source": "AnimNode_BlendBoneByChannel",
+      "target": "BoneControlSpace",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "transforms_space"
+    },
+    {
+      "source": "UsdPrimMetadata",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "UsdPrimMetadata",
+      "target": "Map_str_UsdMetadataValue",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "metadata"
+    },
+    {
+      "source": "GeometryScriptBakeResolution",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "NiagaraPreviewGridResetMode",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "MovieSceneEventSectionBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "Color",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "color_tint"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "MovieSceneConditionContainer",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "condition_container"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "MovieSceneEasingSettings",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "easing"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "MovieSceneSectionEvalOptions",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "eval_options"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "MovieSceneEvent",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "event"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "FrameNumber",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "post_roll_frames"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "FrameNumber",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "pre_roll_frames"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "MovieSceneFrameRange",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "section_range"
+    },
+    {
+      "source": "MovieSceneEventRepeaterSection",
+      "target": "MovieSceneTimecodeSource",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "timecode_source"
+    },
+    {
+      "source": "MaterialExpressionBoundsType",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "HttpImageState",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "WaveOscillator",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "WaveOscillator",
+      "target": "float",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "amplitude"
+    },
+    {
+      "source": "WaveOscillator",
+      "target": "float",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "frequency"
+    },
+    {
+      "source": "WaveOscillator",
+      "target": "InitialWaveOscillatorOffsetType",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "initial_offset_type"
+    },
+    {
+      "source": "FBIKBoneLimit",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "FBIKBoneLimit",
+      "target": "Vector",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "limit"
+    },
+    {
+      "source": "FBIKBoneLimit",
+      "target": "FBIKBoneLimitType",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "limit_type_x"
+    },
+    {
+      "source": "FBIKBoneLimit",
+      "target": "FBIKBoneLimitType",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "limit_type_y"
+    },
+    {
+      "source": "FBIKBoneLimit",
+      "target": "FBIKBoneLimitType",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "limit_type_z"
+    },
+    {
+      "source": "ActorPerceptionUpdatedDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ActorPerceptionUpdatedDelegate",
+      "target": "Actor",
+      "type": "delegate_parameter",
+      "label": "delegate parameter"
+    },
+    {
+      "source": "ActorPerceptionUpdatedDelegate",
+      "target": "AIStimulus",
+      "type": "delegate_parameter",
+      "label": "delegate parameter"
+    },
+    {
+      "source": "AppMsgCategory",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "GeometryScriptDebugMessage",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "GeometryScriptDebugMessage",
+      "target": "GeometryScriptDebugMessageType",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "message_type"
+    },
+    {
+      "source": "GeometryScriptDebugMessage",
+      "target": "GeometryScriptErrorType",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "error_type"
+    },
+    {
+      "source": "GeometryScriptDebugMessage",
+      "target": "Text",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "message"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "BaseMediaSource",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "bool",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "fill_gaps_in_sequence"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "FrameRate",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "frame_rate_override"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "str",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "proxy_override"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "DirectoryPath",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "sequence_path"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "ImgMediaSourceCustomizationSequenceProxy",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "sequence_proxy"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "Timecode",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "start_timecode"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "Actor",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "remove_target_object"
+    },
+    {
+      "source": "ImgMediaSource",
+      "target": "Actor",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "add_target_object"
+    },
+    {
+      "source": "PCGRuntimeGenerationRadii",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "PCGRuntimeGenerationRadii",
+      "target": "double",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "generation_radius"
+    },
+    {
+      "source": "PCGRuntimeGenerationRadii",
+      "target": "double",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "cleanup_radius_multiplier"
+    },
+    {
+      "source": "NiagaraDataChannelHandler_Global",
+      "target": "NiagaraDataChannelHandler",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "MaterialExpressionTextureSample",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "bool",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "automatic_view_mip_bias"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "ParameterChannelNames",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "channel_names"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "uint8",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "const_coordinate"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "int32",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "const_mip_value"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "str",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "desc"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "Name",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "group"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "bool",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "is_default_meshpaint_texture"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "TextureMipValueMode",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "mip_value_mode"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "Name",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "parameter_name"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "SamplerSourceMode",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "sampler_source"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "MaterialSamplerType",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "sampler_type"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "int32",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "sort_priority"
+    },
+    {
+      "source": "MaterialExpressionTextureSampleParameter",
+      "target": "Texture",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "texture"
+    },
+    {
+      "source": "EidValueResult",
+      "target": "ResultBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "EidValueResult",
+      "target": "str",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "eid"
+    },
+    {
+      "source": "EidValueResult",
+      "target": "str",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "message"
+    },
+    {
+      "source": "EidValueResult",
+      "target": "WdpSceneChangeInfo",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "scene_change_info"
+    },
+    {
+      "source": "EidValueResult",
+      "target": "bool",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "success"
+    },
+    {
+      "source": "EidValueResult",
+      "target": "str",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "value"
+    },
+    {
+      "source": "ContentBrowserItemPathExtensions",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "ContentBrowserItemPathExtensions",
+      "target": "ContentBrowserItemPath",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_path"
+    },
+    {
+      "source": "ContentBrowserItemPathExtensions",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_path"
+    },
+    {
+      "source": "ContentBrowserItemPathExtensions",
+      "target": "ContentBrowserPathType",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_path"
+    },
+    {
+      "source": "ContentBrowserItemPathExtensions",
+      "target": "ContentBrowserItemPath",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "get_virtual_path"
+    },
+    {
+      "source": "ContentBrowserItemPathExtensions",
+      "target": "ContentBrowserItemPath",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "get_internal_path"
+    },
+    {
+      "source": "FrameNumberRangeBound",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "FrameNumberRangeBound",
+      "target": "RangeBoundTypes",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "type"
+    },
+    {
+      "source": "FrameNumberRangeBound",
+      "target": "FrameNumber",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "value"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_trigger"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "bool",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_trigger"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "SetParamResult",
+      "type": "method_return",
+      "label": "method returns",
+      "method_name": "set_trigger"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_string"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "str",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_string"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "bool",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_string"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "SetParamResult",
+      "type": "method_return",
+      "label": "method returns",
+      "method_name": "set_string"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_int"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "int",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_int"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "bool",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_int"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "SetParamResult",
+      "type": "method_return",
+      "label": "method returns",
+      "method_name": "set_int"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_float"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "float",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_float"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "bool",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_float"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "SetParamResult",
+      "type": "method_return",
+      "label": "method returns",
+      "method_name": "set_float"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "Name",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_bool"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "bool",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_bool"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "bool",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "set_bool"
+    },
+    {
+      "source": "MetasoundParameterPack",
+      "target": "SetParamResult",
+      "type": "method_return",
+      "label": "method returns",
+      "method_name": "set_bool"
+    },
+    {
+      "source": "RigUnit_GetControlTransform",
+      "target": "RigUnit",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_GetControlTransform",
+      "target": "Name",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "control"
+    },
+    {
+      "source": "RigUnit_GetControlTransform",
+      "target": "RigVMTransformSpace",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "space"
+    },
+    {
+      "source": "RigUnit_GetControlTransform",
+      "target": "Transform",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "transform"
+    },
+    {
+      "source": "RigUnit_GetControlTransform",
+      "target": "Transform",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "minimum"
+    },
+    {
+      "source": "RigUnit_GetControlTransform",
+      "target": "Transform",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "maximum"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he1",
+      "type": "animation_system",
+      "nodes": ["AnimNode_BlendBoneByChannel", "AnimNode_Base", "PoseLink", "BlendBoneByChannelEntry", "BoneControlSpace"],
+      "label": "Animation blending system",
+      "description": "System for blending bones by channel in animation graphs"
+    },
+    {
+      "id": "he2",
+      "type": "datasmith_integration",
+      "nodes": ["DatasmithUserData", "AssetUserData", "Map_Name_str"],
+      "label": "Datasmith metadata system",
+      "description": "System for attaching metadata to Datasmith actors and objects"
+    },
+    {
+      "id": "he3",
+      "type": "usd_integration",
+      "nodes": ["UsdPrimMetadata", "StructBase", "Map_str_UsdMetadataValue"],
+      "label": "USD metadata system",
+      "description": "System for managing USD primitive metadata"
+    },
+    {
+      "id": "he4",
+      "type": "geometry_scripting",
+      "nodes": ["GeometryScriptBakeResolution", "GeometryScriptDebugMessage", "EnumBase", "StructBase"],
+      "label": "Geometry scripting system",
+      "description": "System for geometry script operations including baking and debug messaging"
+    },
+    {
+      "id": "he5",
+      "type": "niagara_effects",
+      "nodes": ["NiagaraPreviewGridResetMode", "NiagaraDataChannelHandler_Global", "NiagaraDataChannelHandler", "EnumBase"],
+      "label": "Niagara effects system",
+      "description": "System for Niagara particle effects including preview and data channels"
+    },
+    {
+      "id": "he6",
+      "type": "movie_scene_events",
+      "nodes": ["MovieSceneEventRepeaterSection", "MovieSceneEventSectionBase", "MovieSceneEvent", "FrameNumber", "Color"],
+      "label": "Movie scene event system",
+      "description": "System for triggering events in movie scenes"
+    },
+    {
+      "id": "he7",
+      "type": "camera_shake",
+      "nodes": ["WaveOscillator", "StructBase", "InitialWaveOscillatorOffsetType", "float"],
+      "label": "Camera shake system",
+      "description": "System for camera shake effects using wave oscillators"
+    },
+    {
+      "id": "he8",
+      "type": "full_body_ik",
+      "nodes": ["FBIKBoneLimit", "StructBase", "Vector", "FBIKBoneLimitType"],
+      "label": "Full body IK system",
+      "description": "System for full body inverse kinematics bone limits"
+    },
+    {
+      "id": "he9",
+      "type": "ai_perception",
+      "nodes": ["ActorPerceptionUpdatedDelegate", "MulticastDelegateBase", "Actor", "AIStimulus"],
+      "label": "AI perception system",
+      "description": "System for AI perception and actor awareness"
+    },
+    {
+      "id": "he10",
+      "type": "media_playback",
+      "nodes": ["ImgMediaSource", "BaseMediaSource", "FrameRate", "Timecode", "DirectoryPath", "Actor"],
+      "label": "Image media playback system",
+      "description": "System for playing image sequences as media sources"
+    },
+    {
+      "id": "he11",
+      "type": "pcg_system",
+      "nodes": ["PCGRuntimeGenerationRadii", "StructBase", "double"],
+      "label": "PCG runtime generation system",
+      "description": "System for procedural content generation with radii-based generation"
+    },
+    {
+      "id": "he12",
+      "type": "material_textures",
+      "nodes": ["MaterialExpressionTextureSampleParameter", "MaterialExpressionTextureSample", "Texture", "Name", "ParameterChannelNames"],
+      "label": "Material texture parameter system",
+      "description": "System for texture sample parameters in materials"
+    },
+    {
+      "id": "he13",
+      "type": "covering_api",
+      "nodes": ["HttpImageState", "EidValueResult", "EnumBase", "ResultBase", "WdpSceneChangeInfo"],
+      "label": "Covering API system",
+      "description": "System for covering API operations including HTTP image states and EID values"
+    },
+    {
+      "id": "he14",
+      "type": "content_browser",
+      "nodes": ["ContentBrowserItemPathExtensions", "BlueprintFunctionLibrary", "ContentBrowserItemPath", "Name", "ContentBrowserPathType"],
+      "label": "Content browser path system",
+      "description": "System for managing content browser item paths"
+    },
+    {
+      "id": "he15",
+      "type": "frame_timing",
+      "nodes": ["FrameNumberRangeBound", "StructBase", "RangeBoundTypes", "FrameNumber"],
+      "label": "Frame timing system",
+      "description": "System for defining frame number ranges and bounds"
+    },
+    {
+      "id": "he16",
+      "type": "metasound",
+      "nodes": ["MetasoundParameterPack", "Object", "Name", "SetParamResult", "str", "int", "float", "bool"],
+      "label": "Metasound parameter system",
+      "description": "System for managing Metasound parameters with multiple data types"
+    },
+    {
+      "id": "he17",
+      "type": "control_rig",
+      "nodes": ["RigUnit_GetControlTransform", "RigUnit", "Name", "RigVMTransformSpace", "Transform"],
+      "label": "Control rig transform system",
+      "description": "System for retrieving and managing control transforms in Control Rig"
+    },
+    {
+      "id": "he18",
+      "type": "messaging",
+      "nodes": ["AppMsgCategory", "EnumBase"],
+      "label": "Application messaging system",
+      "description": "System for application message dialog categories"
+    },
+    {
+      "id": "he19",
+      "type": "material_bounds",
+      "nodes": ["MaterialExpressionBoundsType", "EnumBase"],
+      "label": "Material bounds system",
+      "description": "System for material expression bounds types"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "DatasmithUserData Objects.md",
+      "AnimNode__BlendBoneByChannel Objects.md",
+      "UsdPrimMetadata Objects.md",
+      "GeometryScriptBakeResolution Objects.md",
+      "NiagaraPreviewGridResetMode Objects.md",
+      "MovieSceneEventRepeaterSection Objects.md",
+      "MaterialExpressionBoundsType Objects.md",
+      "HttpImageState Objects.md",
+      "WaveOscillator Objects.md",
+      "FBIKBoneLimit Objects.md",
+      "ActorPerceptionUpdatedDelegate Objects.md",
+      "AppMsgCategory Objects.md",
+      "GeometryScriptDebugMessage Objects.md",
+      "ImgMediaSource Objects.md",
+      "PCGRuntimeGenerationRadii Objects.md",
+      "NiagaraDataChannelHandler__Global Objects.md",
+      "MaterialExpressionTextureSampleParameter Objects.md",
+      "EidValueResult Objects.md",
+      "ContentBrowserItemPathExtensions Objects.md",
+      "FrameNumberRangeBound Objects.md",
+      "MetasoundParameterPack Objects.md",
+      "RigUnit__GetControlTransform Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_nodes": 80,
+    "total_edges": 134,
+    "total_hyperedges": 19,
+    "framework": "Unreal Engine Python API",
+    "plugin_coverage": [
+      "DatasmithContent",
+      "USDCore",
+      "GeometryScripting",
+      "Niagara",
+      "EngineCameras",
+      "FullBodyIK",
+      "ImgMedia",
+      "PCG",
+      "CoveringAPI",
+      "Metasound",
+      "ControlRig"
+    ]
+  }
+}

@@ -1,0 +1,957 @@
+{
+  "nodes": [
+    {
+      "id": "MaterialExpressionMaterialXScreen",
+      "type": "class",
+      "label": "MaterialExpressionMaterialXScreen",
+      "description": "Blend nodes take two 1-4 channel inputs and apply the same operator to all channels",
+      "properties": {
+        "plugin": "Interchange",
+        "module": "InterchangeImport",
+        "file": "MaterialExpressionScreen.h"
+      }
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression",
+      "description": "Base class for material expressions"
+    },
+    {
+      "id": "AppleImageUtilsImageConversionResult",
+      "type": "class",
+      "label": "AppleImageUtilsImageConversionResult",
+      "description": "Apple Image Utils Image Conversion Result",
+      "properties": {
+        "plugin": "AppleImageUtils",
+        "module": "AppleImageUtils",
+        "file": "AppleImageUtilsBlueprintProxy.h"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase",
+      "description": "Base class for structs"
+    },
+    {
+      "id": "RigUnit_MathFloatRemap",
+      "type": "class",
+      "label": "RigUnit_MathFloatRemap",
+      "description": "deprecated: 'RigUnit_MathFloatRemap' was renamed to 'RigVMFunction_MathFloatRemap'",
+      "properties": {
+        "deprecated": true
+      }
+    },
+    {
+      "id": "RigVMFunction_MathFloatRemap",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatRemap",
+      "description": "Renamed version of RigUnit_MathFloatRemap"
+    },
+    {
+      "id": "RigUnit__MathVectorMirror",
+      "type": "class",
+      "label": "RigUnit__MathVectorMirror",
+      "description": "deprecated: 'RigUnit__MathVectorMirror' was renamed to 'RigVMFunction_MathVectorMirror'",
+      "properties": {
+        "deprecated": true
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorMirror",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorMirror",
+      "description": "Renamed version of RigUnit__MathVectorMirror"
+    },
+    {
+      "id": "PCGGatherSettings",
+      "type": "class",
+      "label": "PCGGatherSettings",
+      "description": "Used to wrangle multiple input wires into one output wire for organizational purposes",
+      "properties": {
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGGather.h"
+      }
+    },
+    {
+      "id": "PCGSettings",
+      "type": "class",
+      "label": "PCGSettings",
+      "description": "Base class for PCG settings"
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionToAxisAndAngle",
+      "type": "class",
+      "label": "RigVMFunction_MathQuaternionToAxisAndAngle",
+      "description": "Retrieves the axis and angle of a quaternion in radians",
+      "properties": {
+        "plugin": "RigVM",
+        "module": "RigVM",
+        "file": "RigVMFunction_MathQuaternion.h"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionBase",
+      "type": "class",
+      "label": "RigVMFunction_MathQuaternionBase",
+      "description": "Base class for quaternion math functions"
+    },
+    {
+      "id": "UpdateSectionParams",
+      "type": "class",
+      "label": "UpdateSectionParams",
+      "description": "Update Section Params",
+      "properties": {
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIDefine",
+        "file": "SectionAPIParams.h"
+      }
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase",
+      "description": "Base class for parameters"
+    },
+    {
+      "id": "RigUnit__MathVectorUnaryOp",
+      "type": "class",
+      "label": "RigUnit__MathVectorUnaryOp",
+      "description": "deprecated: 'RigUnit__MathVectorUnaryOp' was renamed to 'RigVMFunction_MathVectorUnaryOp'",
+      "properties": {
+        "deprecated": true
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorUnaryOp",
+      "description": "Renamed version of RigUnit__MathVectorUnaryOp"
+    },
+    {
+      "id": "OptimusSceneDataProvider",
+      "type": "class",
+      "label": "OptimusSceneDataProvider",
+      "description": "Compute Framework Data Provider for reading general scene data",
+      "properties": {
+        "plugin": "DeformerGraph",
+        "module": "OptimusCore",
+        "file": "OptimusDataInterfaceScene.h"
+      }
+    },
+    {
+      "id": "ComputeDataProvider",
+      "type": "class",
+      "label": "ComputeDataProvider",
+      "description": "Base class for compute data providers"
+    },
+    {
+      "id": "ActorSequence",
+      "type": "class",
+      "label": "ActorSequence",
+      "description": "Movie scene animation embedded within an actor",
+      "properties": {
+        "plugin": "ActorSequence",
+        "module": "ActorSequence",
+        "file": "ActorSequence.h"
+      }
+    },
+    {
+      "id": "MovieSceneSequence",
+      "type": "class",
+      "label": "MovieSceneSequence",
+      "description": "Base class for movie scene sequences"
+    },
+    {
+      "id": "ModelerFenceAtom",
+      "type": "class",
+      "label": "ModelerFenceAtom",
+      "description": "Modeler Fence Atom",
+      "properties": {
+        "plugin": "AesRuntimeModeler",
+        "module": "WdpModelerEntity",
+        "file": "ModelerFenceAtom.h"
+      }
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "class",
+      "label": "EntityAtomBase",
+      "description": "Base class for entity atoms"
+    },
+    {
+      "id": "ModelerEmbankActor",
+      "type": "class",
+      "label": "ModelerEmbankActor",
+      "description": "Modeler Embank Actor",
+      "properties": {
+        "plugin": "AesRuntimeModeler",
+        "module": "AesRuntimeModeler",
+        "file": "ModelerEmbankActor.h"
+      }
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor",
+      "description": "Base class for all actors"
+    },
+    {
+      "id": "ImgMediaPlaybackComponent",
+      "type": "class",
+      "label": "ImgMediaPlaybackComponent",
+      "description": "Component to help with ImgMedia playback",
+      "properties": {
+        "plugin": "ImgMedia",
+        "module": "ImgMediaEngine",
+        "file": "ImgMediaPlaybackComponent.h"
+      }
+    },
+    {
+      "id": "ActorComponent",
+      "type": "class",
+      "label": "ActorComponent",
+      "description": "Base class for actor components"
+    },
+    {
+      "id": "CheckBox",
+      "type": "class",
+      "label": "CheckBox",
+      "description": "The checkbox widget allows you to display a toggled state",
+      "properties": {
+        "module": "UMG",
+        "file": "CheckBox.h"
+      }
+    },
+    {
+      "id": "ContentWidget",
+      "type": "class",
+      "label": "ContentWidget",
+      "description": "Base class for content widgets"
+    },
+    {
+      "id": "MovieSceneCustomBinding",
+      "type": "class",
+      "label": "MovieSceneCustomBinding",
+      "description": "A custom binding for defining binding resolution types",
+      "properties": {
+        "module": "MovieScene",
+        "file": "MovieSceneCustomBinding.h"
+      }
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object",
+      "description": "Base class for all objects"
+    },
+    {
+      "id": "RigUnit__HierarchyAddAnimationChannelEmptyLimitSettings",
+      "type": "class",
+      "label": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "description": "Rig Unit Hierarchy Add Animation Channel Empty Limit Settings",
+      "properties": {
+        "plugin": "ControlRig",
+        "module": "ControlRig",
+        "file": "RigUnit_DynamicHierarchy.h"
+      }
+    },
+    {
+      "id": "MetaSoundSource",
+      "type": "class",
+      "label": "MetaSoundSource",
+      "description": "This Metasound type can be played as an audio source",
+      "properties": {
+        "plugin": "Metasound",
+        "module": "MetasoundEngine",
+        "file": "MetasoundSource.h"
+      }
+    },
+    {
+      "id": "SoundWaveProcedural",
+      "type": "class",
+      "label": "SoundWaveProcedural",
+      "description": "Base class for procedural sound waves"
+    },
+    {
+      "id": "EarthLandCover",
+      "type": "enum",
+      "label": "EarthLandCover",
+      "description": "土地覆盖类型",
+      "properties": {
+        "plugin": "AesWorld",
+        "module": "EarthPrefab",
+        "file": "EarthLandCoverFragment.h"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "label": "EnumBase",
+      "description": "Base class for enums"
+    },
+    {
+      "id": "OnEditPasteActorsBegin",
+      "type": "class",
+      "label": "OnEditPasteActorsBegin",
+      "description": "delegate type for before edit paste actors is handled",
+      "properties": {
+        "module": "UnrealEd",
+        "file": "EditorActorSubsystem.h"
+      }
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "MovieGraphInitConfig",
+      "type": "class",
+      "label": "MovieGraphInitConfig",
+      "description": "Movie Graph Init Config",
+      "properties": {
+        "plugin": "MovieRenderPipeline",
+        "module": "MovieRenderPipelineCore",
+        "file": "MovieGraphDataTypes.h"
+      }
+    },
+    {
+      "id": "HLODLayerFactory",
+      "type": "class",
+      "label": "HLODLayerFactory",
+      "description": "HLODLayer Factory",
+      "properties": {
+        "module": "WorldPartitionEditor",
+        "file": "HLODLayerFactory.h"
+      }
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "label": "Factory",
+      "description": "Base class for factories"
+    },
+    {
+      "id": "AssetType",
+      "type": "enum",
+      "label": "AssetType",
+      "description": "EAsset Type",
+      "properties": {
+        "plugin": "AesRuntimeModeler",
+        "module": "AesRuntimeModeler",
+        "file": "AesRuntimeModelerMeshStruct.h"
+      }
+    },
+    {
+      "id": "const_alpha",
+      "type": "property",
+      "label": "const_alpha",
+      "description": "only used if Alpha is not hooked up",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "error",
+      "type": "property",
+      "label": "error",
+      "description": "Error message",
+      "properties": {
+        "type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "image_data",
+      "type": "property",
+      "label": "image_data",
+      "description": "Image data array",
+      "properties": {
+        "type": "Array[uint8]",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "break_debugger",
+      "type": "property",
+      "label": "break_debugger",
+      "description": "If a debugger is attached, triggers a breakpoint inside IPCGElement::Execute()",
+      "properties": {
+        "type": "bool",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "angle",
+      "type": "property",
+      "label": "angle",
+      "description": "Angle in radians",
+      "properties": {
+        "type": "float",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "axis",
+      "type": "property",
+      "label": "axis",
+      "description": "Axis vector",
+      "properties": {
+        "type": "Vector",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "value_quat",
+      "type": "property",
+      "label": "value",
+      "description": "Quaternion value",
+      "properties": {
+        "type": "Quat",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "scene_component",
+      "type": "property",
+      "label": "scene_component",
+      "description": "Scene component reference",
+      "properties": {
+        "type": "SceneComponent",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "mesh_info",
+      "type": "property",
+      "label": "mesh_info",
+      "description": "Mesh information for embank",
+      "properties": {
+        "type": "EmbankEntityInfo",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "checked_state",
+      "type": "property",
+      "label": "checked_state",
+      "description": "Whether the check box is currently in a checked state",
+      "properties": {
+        "type": "CheckBoxState",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "output_format",
+      "type": "property",
+      "label": "output_format",
+      "description": "The output audio format of the metasound source",
+      "properties": {
+        "type": "MetaSoundOutputAudioFormat",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "renderer_class",
+      "type": "property",
+      "label": "renderer_class",
+      "description": "Which class should the UMovieGraphPipeline use to look for render layers",
+      "properties": {
+        "type": "type(Class)",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "CULTIVATED_LAND",
+      "type": "enum_value",
+      "label": "CULTIVATED_LAND",
+      "description": "耕地，编号10",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "FOREST",
+      "type": "enum_value",
+      "label": "FOREST",
+      "description": "林地，编号20",
+      "properties": {
+        "value": 1
+      }
+    },
+    {
+      "id": "GRASSLAND",
+      "type": "enum_value",
+      "label": "GRASSLAND",
+      "description": "草地，编号30",
+      "properties": {
+        "value": 2
+      }
+    },
+    {
+      "id": "MATERIAL",
+      "type": "enum_value",
+      "label": "MATERIAL",
+      "description": "Material asset type",
+      "properties": {
+        "value": 0
+      }
+    },
+    {
+      "id": "CUSTOM_MATERIAL",
+      "type": "enum_value",
+      "label": "CUSTOM_MATERIAL",
+      "description": "Custom material asset type",
+      "properties": {
+        "value": 1
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "MaterialExpressionMaterialXScreen",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "MaterialExpressionMaterialXScreen",
+      "target": "const_alpha",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AppleImageUtilsImageConversionResult",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "AppleImageUtilsImageConversionResult",
+      "target": "error",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "AppleImageUtilsImageConversionResult",
+      "target": "image_data",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigUnit_MathFloatRemap",
+      "target": "RigVMFunction_MathFloatRemap",
+      "type": "deprecated_renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "source": "RigUnit__MathVectorMirror",
+      "target": "RigVMFunction_MathVectorMirror",
+      "type": "deprecated_renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "source": "PCGGatherSettings",
+      "target": "PCGSettings",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "PCGGatherSettings",
+      "target": "break_debugger",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionToAxisAndAngle",
+      "target": "RigVMFunction_MathQuaternionBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionToAxisAndAngle",
+      "target": "angle",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionToAxisAndAngle",
+      "target": "axis",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionToAxisAndAngle",
+      "target": "value_quat",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "UpdateSectionParams",
+      "target": "ParamsBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "RigUnit__MathVectorUnaryOp",
+      "target": "RigVMFunction_MathVectorUnaryOp",
+      "type": "deprecated_renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "source": "OptimusSceneDataProvider",
+      "target": "ComputeDataProvider",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "OptimusSceneDataProvider",
+      "target": "scene_component",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "ActorSequence",
+      "target": "MovieSceneSequence",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "ModelerFenceAtom",
+      "target": "EntityAtomBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "ModelerEmbankActor",
+      "target": "Actor",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "ModelerEmbankActor",
+      "target": "mesh_info",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "ImgMediaPlaybackComponent",
+      "target": "ActorComponent",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "CheckBox",
+      "target": "ContentWidget",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "CheckBox",
+      "target": "checked_state",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "MovieSceneCustomBinding",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "RigUnit__HierarchyAddAnimationChannelEmptyLimitSettings",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "MetaSoundSource",
+      "target": "SoundWaveProcedural",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "MetaSoundSource",
+      "target": "output_format",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "EarthLandCover",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "EarthLandCover",
+      "target": "CULTIVATED_LAND",
+      "type": "has_enum_value",
+      "label": "has value"
+    },
+    {
+      "source": "EarthLandCover",
+      "target": "FOREST",
+      "type": "has_enum_value",
+      "label": "has value"
+    },
+    {
+      "source": "EarthLandCover",
+      "target": "GRASSLAND",
+      "type": "has_enum_value",
+      "label": "has value"
+    },
+    {
+      "source": "OnEditPasteActorsBegin",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "MovieGraphInitConfig",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "MovieGraphInitConfig",
+      "target": "renderer_class",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "source": "HLODLayerFactory",
+      "target": "Factory",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "AssetType",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "AssetType",
+      "target": "MATERIAL",
+      "type": "has_enum_value",
+      "label": "has value"
+    },
+    {
+      "source": "AssetType",
+      "target": "CUSTOM_MATERIAL",
+      "type": "has_enum_value",
+      "label": "has value"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "plugin_module_file_1",
+      "nodes": [
+        "MaterialExpressionMaterialXScreen",
+        "Interchange",
+        "InterchangeImport",
+        "MaterialExpressionScreen.h"
+      ],
+      "type": "source_location",
+      "description": "MaterialExpressionMaterialXScreen is defined in Interchange plugin, InterchangeImport module, MaterialExpressionScreen.h file"
+    },
+    {
+      "id": "plugin_module_file_2",
+      "nodes": [
+        "AppleImageUtilsImageConversionResult",
+        "AppleImageUtils",
+        "AppleImageUtils",
+        "AppleImageUtilsBlueprintProxy.h"
+      ],
+      "type": "source_location",
+      "description": "AppleImageUtilsImageConversionResult is defined in AppleImageUtils plugin, AppleImageUtils module, AppleImageUtilsBlueprintProxy.h file"
+    },
+    {
+      "id": "plugin_module_file_3",
+      "nodes": [
+        "PCGGatherSettings",
+        "PCG",
+        "PCG",
+        "PCGGather.h"
+      ],
+      "type": "source_location",
+      "description": "PCGGatherSettings is defined in PCG plugin, PCG module, PCGGather.h file"
+    },
+    {
+      "id": "plugin_module_file_4",
+      "nodes": [
+        "RigVMFunction_MathQuaternionToAxisAndAngle",
+        "RigVM",
+        "RigVM",
+        "RigVMFunction_MathQuaternion.h"
+      ],
+      "type": "source_location",
+      "description": "RigVMFunction_MathQuaternionToAxisAndAngle is defined in RigVM plugin, RigVM module, RigVMFunction_MathQuaternion.h file"
+    },
+    {
+      "id": "plugin_module_file_5",
+      "nodes": [
+        "UpdateSectionParams",
+        "CoveringAPI",
+        "CoveringAPIDefine",
+        "SectionAPIParams.h"
+      ],
+      "type": "source_location",
+      "description": "UpdateSectionParams is defined in CoveringAPI plugin, CoveringAPIDefine module, SectionAPIParams.h file"
+    },
+    {
+      "id": "plugin_module_file_6",
+      "nodes": [
+        "OptimusSceneDataProvider",
+        "DeformerGraph",
+        "OptimusCore",
+        "OptimusDataInterfaceScene.h"
+      ],
+      "type": "source_location",
+      "description": "OptimusSceneDataProvider is defined in DeformerGraph plugin, OptimusCore module, OptimusDataInterfaceScene.h file"
+    },
+    {
+      "id": "plugin_module_file_7",
+      "nodes": [
+        "ActorSequence",
+        "ActorSequence",
+        "ActorSequence",
+        "ActorSequence.h"
+      ],
+      "type": "source_location",
+      "description": "ActorSequence is defined in ActorSequence plugin, ActorSequence module, ActorSequence.h file"
+    },
+    {
+      "id": "plugin_module_file_8",
+      "nodes": [
+        "ModelerFenceAtom",
+        "AesRuntimeModeler",
+        "WdpModelerEntity",
+        "ModelerFenceAtom.h"
+      ],
+      "type": "source_location",
+      "description": "ModelerFenceAtom is defined in AesRuntimeModeler plugin, WdpModelerEntity module, ModelerFenceAtom.h file"
+    },
+    {
+      "id": "plugin_module_file_9",
+      "nodes": [
+        "ModelerEmbankActor",
+        "AesRuntimeModeler",
+        "AesRuntimeModeler",
+        "ModelerEmbankActor.h"
+      ],
+      "type": "source_location",
+      "description": "ModelerEmbankActor is defined in AesRuntimeModeler plugin, AesRuntimeModeler module, ModelerEmbankActor.h file"
+    },
+    {
+      "id": "plugin_module_file_10",
+      "nodes": [
+        "ImgMediaPlaybackComponent",
+        "ImgMedia",
+        "ImgMediaEngine",
+        "ImgMediaPlaybackComponent.h"
+      ],
+      "type": "source_location",
+      "description": "ImgMediaPlaybackComponent is defined in ImgMedia plugin, ImgMediaEngine module, ImgMediaPlaybackComponent.h file"
+    },
+    {
+      "id": "plugin_module_file_11",
+      "nodes": [
+        "MetaSoundSource",
+        "Metasound",
+        "MetasoundEngine",
+        "MetasoundSource.h"
+      ],
+      "type": "source_location",
+      "description": "MetaSoundSource is defined in Metasound plugin, MetasoundEngine module, MetasoundSource.h file"
+    },
+    {
+      "id": "plugin_module_file_12",
+      "nodes": [
+        "EarthLandCover",
+        "AesWorld",
+        "EarthPrefab",
+        "EarthLandCoverFragment.h"
+      ],
+      "type": "source_location",
+      "description": "EarthLandCover is defined in AesWorld plugin, EarthPrefab module, EarthLandCoverFragment.h file"
+    },
+    {
+      "id": "plugin_module_file_13",
+      "nodes": [
+        "MovieGraphInitConfig",
+        "MovieRenderPipeline",
+        "MovieRenderPipelineCore",
+        "MovieGraphDataTypes.h"
+      ],
+      "type": "source_location",
+      "description": "MovieGraphInitConfig is defined in MovieRenderPipeline plugin, MovieRenderPipelineCore module, MovieGraphDataTypes.h file"
+    },
+    {
+      "id": "plugin_module_file_14",
+      "nodes": [
+        "AssetType",
+        "AesRuntimeModeler",
+        "AesRuntimeModeler",
+        "AesRuntimeModelerMeshStruct.h"
+      ],
+      "type": "source_location",
+      "description": "AssetType is defined in AesRuntimeModeler plugin, AesRuntimeModeler module, AesRuntimeModelerMeshStruct.h file"
+    },
+    {
+      "id": "deprecated_classes",
+      "nodes": [
+        "RigUnit_MathFloatRemap",
+        "RigUnit__MathVectorMirror",
+        "RigUnit__MathVectorUnaryOp"
+      ],
+      "type": "deprecated_group",
+      "description": "Group of deprecated RigUnit classes that have been renamed to RigVMFunction variants"
+    },
+    {
+      "id": "audio_visual_classes",
+      "nodes": [
+        "MetaSoundSource",
+        "ImgMediaPlaybackComponent",
+        "ActorSequence"
+      ],
+      "type": "media_group",
+      "description": "Classes related to audio and visual media processing"
+    },
+    {
+      "id": "modeler_classes",
+      "nodes": [
+        "ModelerFenceAtom",
+        "ModelerEmbankActor",
+        "AssetType"
+      ],
+      "type": "domain_group",
+      "description": "Classes related to the AesRuntimeModeler system for procedural modeling"
+    },
+    {
+      "id": "ui_widgets",
+      "nodes": [
+        "CheckBox",
+        "ContentWidget"
+      ],
+      "type": "ui_group",
+      "description": "UI widget classes for user interface development"
+    },
+    {
+      "id": "math_operations",
+      "nodes": [
+        "RigVMFunction_MathQuaternionToAxisAndAngle",
+        "RigUnit_MathFloatRemap",
+        "RigUnit__MathVectorMirror",
+        "RigUnit__MathVectorUnaryOp"
+      ],
+      "type": "functional_group",
+      "description": "Mathematical operation classes for vector, quaternion, and float operations"
+    }
+  ]
+}

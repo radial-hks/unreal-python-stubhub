@@ -1,0 +1,1034 @@
+{
+  "nodes": [
+    {
+      "id": "takescoreblueprintlibrary_ontakerecorderslatechanged_delegatebase",
+      "label": "TakesCoreBlueprintLibrary_OnTakeRecorderSlateChanged",
+      "file_type": "document",
+      "source_file": "TakesCoreBlueprintLibrary_OnTakeRecorderSlateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase_class",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "TakesCoreBlueprintLibrary_OnTakeRecorderSlateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_subinstancebase_deprecated",
+      "label": "AnimGraphNode_SubInstanceBase (deprecated)",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__SubInstanceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_linkedanimgraphbase_class",
+      "label": "AnimGraphNode_LinkedAnimGraphBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__SubInstanceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movementproperties_struct",
+      "label": "MovementProperties",
+      "file_type": "document",
+      "source_file": "MovementProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_class",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MovementProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawn_movement_capabilities",
+      "label": "Pawn Movement Capabilities",
+      "file_type": "document",
+      "source_file": "MovementProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkframerate_class",
+      "label": "LiveLinkFrameRate",
+      "file_type": "document",
+      "source_file": "LiveLinkFrameRate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "framerate_class",
+      "label": "FrameRate",
+      "file_type": "document",
+      "source_file": "LiveLinkFrameRate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "envquerystatus_enum",
+      "label": "EnvQueryStatus",
+      "file_type": "document",
+      "source_file": "EnvQueryStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_class",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "EnvQueryStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintunaryop_class",
+      "label": "RigVMFunction_MathIntUnaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase_class",
+      "label": "RigVMFunction_MathIntBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathIntUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorangle_deprecated",
+      "label": "RigUnit_MathVectorAngle (deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorAngle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorangle_class",
+      "label": "RigVMFunction_MathVectorAngle",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorAngle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialeffecttarget_enum",
+      "label": "DMMaterialEffectTarget",
+      "file_type": "document",
+      "source_file": "DMMaterialEffectTarget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothlodbiasmode_enum",
+      "label": "ClothLODBiasMode",
+      "file_type": "document",
+      "source_file": "ClothLODBiasMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cloth_lod_strategy",
+      "label": "Cloth LOD Strategy",
+      "file_type": "document",
+      "source_file": "ClothLODBiasMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "raytracing_lod_management",
+      "label": "Raytracing LOD Management",
+      "file_type": "document",
+      "source_file": "ClothLODBiasMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphdatasourcebase_class",
+      "label": "MovieGraphDataSourceBase",
+      "file_type": "document",
+      "source_file": "MovieGraphDataSourceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_class",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "MovieGraphDataSourceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraph_timestep_synchronization",
+      "label": "MovieGraph Time Step Synchronization",
+      "file_type": "document",
+      "source_file": "MovieGraphDataSourceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inapppurchasereceiptinfo2_struct",
+      "label": "InAppPurchaseReceiptInfo2",
+      "file_type": "document",
+      "source_file": "InAppPurchaseReceiptInfo2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "microtransaction_purchase_data",
+      "label": "Micro-transaction Purchase Data",
+      "file_type": "document",
+      "source_file": "InAppPurchaseReceiptInfo2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdanimsequenceassetimportdata_class",
+      "label": "UsdAnimSequenceAssetImportData",
+      "file_type": "document",
+      "source_file": "UsdAnimSequenceAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usdassetimportdata_class",
+      "label": "UsdAssetImportData",
+      "file_type": "document",
+      "source_file": "UsdAnimSequenceAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatavectorsettings_class",
+      "label": "PCGMetadataVectorSettings",
+      "file_type": "document",
+      "source_file": "PCGMetadataVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatattingsbase_class",
+      "label": "PCGMetadataSettingsBase",
+      "file_type": "document",
+      "source_file": "PCGMetadataVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyinputselector_type",
+      "label": "PCGAttributePropertyInputSelector",
+      "file_type": "document",
+      "source_file": "PCGMetadataVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatavectoroperation_type",
+      "label": "PCGMetadataVectorOperation",
+      "file_type": "document",
+      "source_file": "PCGMetadataVectorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinstanceconstantfactorynew_class",
+      "label": "MaterialInstanceConstantFactoryNew",
+      "file_type": "document",
+      "source_file": "MaterialInstanceConstantFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_class",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "MaterialInstanceConstantFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "terraincoordmappingtype_enum",
+      "label": "TerrainCoordMappingType",
+      "file_type": "document",
+      "source_file": "TerrainCoordMappingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesapi_class",
+      "label": "AesTilesAPI",
+      "file_type": "document",
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "standardapiclassbase_class",
+      "label": "StandardApiClassBase",
+      "file_type": "document",
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesvisibilitylayerparam_type",
+      "label": "AesTilesVisibilityLayerParam",
+      "file_type": "document",
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestilesoutlinelayerparam_type",
+      "label": "AesTilesOutlineLayerParam",
+      "file_type": "document",
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestileshighlightlayerparam_type",
+      "label": "AesTilesHighlightLayerParam",
+      "file_type": "document",
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eidparams_type",
+      "label": "EidParams",
+      "file_type": "document",
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_type",
+      "label": "ResultBase",
+      "file_type": "document",
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "triggersphere_class",
+      "label": "TriggerSphere",
+      "file_type": "document",
+      "source_file": "TriggerSphere Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "triggerbase_class",
+      "label": "TriggerBase",
+      "file_type": "document",
+      "source_file": "TriggerSphere Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "overlap_event_generation",
+      "label": "Overlap Event Generation",
+      "file_type": "document",
+      "source_file": "TriggerSphere Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "atomchangedproperty_struct",
+      "label": "AtomChangedProperty",
+      "file_type": "document",
+      "source_file": "AtomChangedProperty Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendclasstype_enum",
+      "label": "MetasoundFrontendClassType",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendClassType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasound_class_types",
+      "label": "MetaSound Class Types",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendClassType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_posehandler_class",
+      "label": "AnimGraphNode_PoseHandler",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_assetplayerbase_class",
+      "label": "AnimGraphNode_AssetPlayerBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_PoseHandler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldsubsystem_class",
+      "label": "WorldSubsystem",
+      "file_type": "document",
+      "source_file": "WorldSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subsystem_class",
+      "label": "Subsystem",
+      "file_type": "document",
+      "source_file": "WorldSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesterraineditorcommand_select_class",
+      "label": "AesTerrainEditorCommand_Select",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommand__Select Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommand_class",
+      "label": "AesEditorSimpleCommand",
+      "file_type": "document",
+      "source_file": "AesTerrainEditorCommand__Select Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "takescoreblueprintlibrary_ontakerecorderslatechanged_delegatebase",
+      "target": "delegatebase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakesCoreBlueprintLibrary_OnTakeRecorderSlateChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_subinstancebase_deprecated",
+      "target": "animgraphnode_linkedanimgraphbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__SubInstanceBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "movementproperties_struct",
+      "target": "structbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovementProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "movementproperties_struct",
+      "target": "pawn_movement_capabilities",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovementProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkframerate_class",
+      "target": "framerate_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkFrameRate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "envquerystatus_enum",
+      "target": "enumbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnvQueryStatus Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathintunaryop_class",
+      "target": "rigvmfunction_mathintbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathIntUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorangle_deprecated",
+      "target": "rigvmfunction_mathvectorangle_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorAngle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialeffecttarget_enum",
+      "target": "enumbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialEffectTarget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clothlodbiasmode_enum",
+      "target": "enumbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ClothLODBiasMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clothlodbiasmode_enum",
+      "target": "cloth_lod_strategy",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ClothLODBiasMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clothlodbiasmode_enum",
+      "target": "raytracing_lod_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ClothLODBiasMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cloth_lod_strategy",
+      "target": "raytracing_lod_management",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ClothLODBiasMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphdatasourcebase_class",
+      "target": "object_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphDataSourceBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphdatasourcebase_class",
+      "target": "moviegraph_timestep_synchronization",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieGraphDataSourceBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inapppurchasereceiptinfo2_struct",
+      "target": "structbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InAppPurchaseReceiptInfo2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inapppurchasereceiptinfo2_struct",
+      "target": "microtransaction_purchase_data",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "InAppPurchaseReceiptInfo2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "usdanimsequenceassetimportdata_class",
+      "target": "usdassetimportdata_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UsdAnimSequenceAssetImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatavectorsettings_class",
+      "target": "pcgmetadatattingsbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataVectorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatavectorsettings_class",
+      "target": "pcgattributepropertyinputselector_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataVectorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatavectorsettings_class",
+      "target": "pcgmetadatavectoroperation_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataVectorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialinstanceconstantfactorynew_class",
+      "target": "factory_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialInstanceConstantFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "terraincoordmappingtype_enum",
+      "target": "enumbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TerrainCoordMappingType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesapi_class",
+      "target": "standardapiclassbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesapi_class",
+      "target": "aestilesvisibilitylayerparam_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesapi_class",
+      "target": "aestilesoutlinelayerparam_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesapi_class",
+      "target": "aestileshighlightlayerparam_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesapi_class",
+      "target": "eidparams_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesapi_class",
+      "target": "resultbase_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesvisibilitylayerparam_type",
+      "target": "resultbase_type",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestilesoutlinelayerparam_type",
+      "target": "resultbase_type",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestileshighlightlayerparam_type",
+      "target": "resultbase_type",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesTilesAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "triggersphere_class",
+      "target": "triggerbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TriggerSphere Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "triggersphere_class",
+      "target": "overlap_event_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TriggerSphere Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "atomchangedproperty_struct",
+      "target": "structbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AtomChangedProperty Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendclasstype_enum",
+      "target": "enumbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundFrontendClassType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendclasstype_enum",
+      "target": "metasound_class_types",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MetasoundFrontendClassType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_posehandler_class",
+      "target": "animgraphnode_assetplayerbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_PoseHandler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldsubsystem_class",
+      "target": "subsystem_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommand_select_class",
+      "target": "aeseditorsimplecommand_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainEditorCommand__Select Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesterraineditorcommand_select_class",
+      "target": "aestilesapi_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesTerrainEditorCommand__Select Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "aestiles_visual_layer_operations",
+      "label": "Aes Tiles Visual Layer Operations",
+      "nodes": [
+        "aestilesvisibilitylayerparam_type",
+        "aestilesoutlinelayerparam_type",
+        "aestileshighlightlayerparam_type",
+        "resultbase_type"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesTilesAPI Objects.md"
+    },
+    {
+      "id": "unreal_base_classes",
+      "label": "Unreal Engine Base Classes",
+      "nodes": [
+        "delegatebase_class",
+        "structbase_class",
+        "enumbase_class",
+        "object_class",
+        "factory_class",
+        "subsystem_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Multiple Files"
+    },
+    {
+      "id": "deprecated_renamed_classes",
+      "label": "Deprecated/Renamed Classes",
+      "nodes": [
+        "animgraphnode_subinstancebase_deprecated",
+        "rigunit_mathvectorangle_deprecated"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Multiple Files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

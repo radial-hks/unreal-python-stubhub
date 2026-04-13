@@ -1,0 +1,1098 @@
+{
+  "nodes": [
+    {
+      "id": "FBIKBoneLimitType",
+      "type": "enum",
+      "label": "FBIKBoneLimitType",
+      "description": "EFBIKBone Limit Type",
+      "values": ["FREE", "LIMIT", "LOCKED"],
+      "module": "FullBodyIK",
+      "plugin": "FullBodyIK",
+      "file": "FBIKConstraintOption.h"
+    },
+    {
+      "id": "EarthPropertyItem_TextureArray",
+      "type": "class",
+      "label": "EarthPropertyItem_TextureArray",
+      "description": "Earth Property Item Texture Array",
+      "extends": "EarthPropertyItemWidget",
+      "module": "AesEditorUI",
+      "plugin": "AesWorld",
+      "file": "EarthPropertyItem_TextureArray.h"
+    },
+    {
+      "id": "AesGeoreference",
+      "type": "class",
+      "label": "AesGeoreference",
+      "description": "Aes Georeference",
+      "extends": "Info",
+      "module": "AesGeoreference",
+      "plugin": "AesWorld",
+      "file": "AesGeoreference.h"
+    },
+    {
+      "id": "SolverBreakingFilterSettings",
+      "type": "struct",
+      "label": "SolverBreakingFilterSettings",
+      "description": "Solver Breaking Filter Settings",
+      "extends": "StructBase",
+      "module": "Chaos",
+      "file": "SolverEventFilters.h"
+    },
+    {
+      "id": "MoviePipelineMasterConfig",
+      "type": "class",
+      "label": "MoviePipelineMasterConfig",
+      "description": "deprecated: 'MoviePipelineMasterConfig' was renamed to 'MoviePipelinePrimaryConfig'.",
+      "extends": "MoviePipelinePrimaryConfig",
+      "deprecated": true
+    },
+    {
+      "id": "PyTestVectorDelegate_OnNameCollisionDelegate",
+      "type": "delegate",
+      "label": "PyTestVectorDelegate_OnNameCollisionDelegate",
+      "description": "On Name Collision Delegate",
+      "extends": "MulticastDelegateBase",
+      "module": "PythonScriptPlugin",
+      "plugin": "PythonScriptPlugin",
+      "file": "PyTest.h"
+    },
+    {
+      "id": "OnChaosBreakEvent",
+      "type": "delegate",
+      "label": "OnChaosBreakEvent",
+      "description": "On Chaos Break Event Delegate Signature",
+      "extends": "MulticastDelegateBase",
+      "module": "GeometryCollectionEngine",
+      "file": "GeometryCollectionComponent.h"
+    },
+    {
+      "id": "AudioTextBoxStyle",
+      "type": "class",
+      "label": "AudioTextBoxStyle",
+      "description": "Represents the appearance of an Audio Text Box",
+      "extends": "SlateWidgetStyle",
+      "module": "AudioWidgets",
+      "plugin": "AudioWidgets",
+      "file": "AudioWidgetsSlateTypes.h"
+    },
+    {
+      "id": "PaperSpriteComponent",
+      "type": "class",
+      "label": "PaperSpriteComponent",
+      "description": "A component that handles rendering and collision for a single instance of a UPaperSprite asset.",
+      "extends": "MeshComponent",
+      "module": "Paper2D",
+      "plugin": "Paper2D",
+      "file": "PaperSpriteComponent.h"
+    },
+    {
+      "id": "BiomeRuleType",
+      "type": "enum",
+      "label": "BiomeRuleType",
+      "description": "EBiome Rule Type",
+      "values": ["DEFAULT", "CITY", "GRASS"],
+      "module": "EarthMisc",
+      "plugin": "AesWorld",
+      "file": "EarthVegetationSettings.h"
+    },
+    {
+      "id": "InputPressDelegate",
+      "type": "delegate",
+      "label": "InputPressDelegate",
+      "description": "Input Press Delegate",
+      "extends": "MulticastDelegateBase",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "file": "AbilityTask_WaitInputPress.h"
+    },
+    {
+      "id": "LensBloomSettings",
+      "type": "struct",
+      "label": "LensBloomSettings",
+      "description": "Lens Bloom Settings",
+      "extends": "StructBase",
+      "module": "Engine",
+      "file": "Scene.h"
+    },
+    {
+      "id": "RigVMFunction_MathDoublePow",
+      "type": "class",
+      "label": "RigVMFunction_MathDoublePow",
+      "description": "Returns the value of A raised to the power of B.",
+      "extends": "RigVMFunction_MathDoubleBinaryOp",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathDouble.h"
+    },
+    {
+      "id": "MaterialExpressionMask",
+      "type": "class",
+      "label": "MaterialExpressionMask",
+      "description": "deprecated: 'MaterialExpressionMask' was renamed to 'MaterialExpressionMaterialXMask'.",
+      "extends": "MaterialExpressionMaterialXMask",
+      "deprecated": true
+    },
+    {
+      "id": "EarthEditorSaveAtom",
+      "type": "class",
+      "label": "EarthEditorSaveAtom",
+      "description": "Earth Editor Save Atom",
+      "extends": "EntityAtomBase",
+      "module": "AesTilesAPI",
+      "plugin": "WdpRuntimeAPI",
+      "file": "EarthEditorSaveAtom.h"
+    },
+    {
+      "id": "PCGParseStringSettings",
+      "type": "class",
+      "label": "PCGParseStringSettings",
+      "description": "Convert a string to a numerical value.",
+      "extends": "PCGMetadataSettingsBase",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGParseString.h"
+    },
+    {
+      "id": "EarthRoadSubAssetInfo",
+      "type": "struct",
+      "label": "EarthRoadSubAssetInfo",
+      "description": "定义带Index指定的道路的预制体子资产信息的结构体",
+      "extends": "EarthSubAssetInfo",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld",
+      "file": "EarthCommonFragments.h"
+    },
+    {
+      "id": "ActorDesc",
+      "type": "struct",
+      "label": "ActorDesc",
+      "description": "Snapshot of an actor descriptor, which represents the state of an actor on disk.",
+      "extends": "StructBase",
+      "module": "Engine",
+      "file": "WorldPartitionBlueprintLibrary.h"
+    },
+    {
+      "id": "PaperTileInfo",
+      "type": "struct",
+      "label": "PaperTileInfo",
+      "description": "This is the contents of a tile map cell",
+      "extends": "StructBase",
+      "module": "Paper2D",
+      "plugin": "Paper2D",
+      "file": "PaperTileLayer.h"
+    },
+    {
+      "id": "WdpStandardEntity",
+      "type": "class",
+      "label": "WdpStandardEntity",
+      "description": "Wdp Standard Entity",
+      "extends": "WdpEntity",
+      "module": "WdpDataModel",
+      "plugin": "AesRuntimeCore",
+      "file": "WdpStandardEntity.h"
+    },
+    {
+      "id": "EarthTerraformingFragment",
+      "type": "class",
+      "label": "EarthTerraformingFragment",
+      "description": "定义地形改造数据片段的结构体",
+      "extends": "EarthEntityFragment",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld",
+      "file": "EarthTerraformingFragment.h"
+    },
+    {
+      "id": "LensInfo",
+      "type": "struct",
+      "label": "LensInfo",
+      "description": "Information about the lens rig",
+      "extends": "StructBase",
+      "module": "CameraCalibrationCore",
+      "plugin": "CameraCalibrationCore",
+      "file": "LensData.h"
+    },
+    {
+      "id": "EarthPropertyItemWidget",
+      "type": "class",
+      "label": "EarthPropertyItemWidget",
+      "description": "Base class for Earth property items"
+    },
+    {
+      "id": "Info",
+      "type": "class",
+      "label": "Info",
+      "description": "Base Actor class"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase",
+      "description": "Base class for structs"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "SlateWidgetStyle",
+      "type": "class",
+      "label": "SlateWidgetStyle",
+      "description": "Base class for Slate widget styles"
+    },
+    {
+      "id": "MeshComponent",
+      "type": "class",
+      "label": "MeshComponent",
+      "description": "Base class for mesh components"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleBinaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleBinaryOp",
+      "description": "Base class for RigVM double binary operations"
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "class",
+      "label": "EntityAtomBase",
+      "description": "Base class for entity atoms"
+    },
+    {
+      "id": "PCGMetadataSettingsBase",
+      "type": "class",
+      "label": "PCGMetadataSettingsBase",
+      "description": "Base class for PCG metadata settings"
+    },
+    {
+      "id": "EarthSubAssetInfo",
+      "type": "struct",
+      "label": "EarthSubAssetInfo",
+      "description": "Base class for Earth sub-asset info"
+    },
+    {
+      "id": "WdpEntity",
+      "type": "class",
+      "label": "WdpEntity",
+      "description": "Base class for WDP entities"
+    },
+    {
+      "id": "EarthEntityFragment",
+      "type": "class",
+      "label": "EarthEntityFragment",
+      "description": "Base class for Earth entity fragments"
+    },
+    {
+      "id": "MoviePipelinePrimaryConfig",
+      "type": "class",
+      "label": "MoviePipelinePrimaryConfig",
+      "description": "Primary configuration for movie pipeline"
+    },
+    {
+      "id": "MaterialExpressionMaterialXMask",
+      "type": "class",
+      "label": "MaterialExpressionMaterialXMask",
+      "description": "Material X Mask expression"
+    },
+    {
+      "id": "PaperSprite",
+      "type": "class",
+      "label": "PaperSprite",
+      "description": "Paper sprite asset",
+      "module": "Paper2D",
+      "plugin": "Paper2D"
+    },
+    {
+      "id": "PaperTileSet",
+      "type": "class",
+      "label": "PaperTileSet",
+      "description": "Paper tile set asset",
+      "module": "Paper2D",
+      "plugin": "Paper2D"
+    },
+    {
+      "id": "EarthPrefabAsset",
+      "type": "class",
+      "label": "EarthPrefabAsset",
+      "description": "Earth prefab asset",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "EarthMaterialInfo",
+      "type": "struct",
+      "label": "EarthMaterialInfo",
+      "description": "Earth material information",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "EarthPropertyTextureItemInfo",
+      "type": "struct",
+      "label": "EarthPropertyTextureItemInfo",
+      "description": "Earth property texture item info",
+      "module": "AesEditorUI",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "AesGeoreferenceUpdated",
+      "type": "delegate",
+      "label": "AesGeoreferenceUpdated",
+      "description": "Delegate for georeference updates",
+      "module": "AesGeoreference",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "AesPlanetShape",
+      "type": "enum",
+      "label": "AesPlanetShape",
+      "description": "Planet shape configuration",
+      "module": "AesGeoreference",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "AesPlanetScope",
+      "type": "enum",
+      "label": "AesPlanetScope",
+      "description": "Planet scope configuration",
+      "module": "AesGeoreference",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "GaussianSumBloomSettings",
+      "type": "struct",
+      "label": "GaussianSumBloomSettings",
+      "description": "Gaussian sum bloom settings",
+      "module": "Engine"
+    },
+    {
+      "id": "ConvolutionBloomSettings",
+      "type": "struct",
+      "label": "ConvolutionBloomSettings",
+      "description": "Convolution bloom settings",
+      "module": "Engine"
+    },
+    {
+      "id": "BloomMethod",
+      "type": "enum",
+      "label": "BloomMethod",
+      "description": "Bloom algorithm method",
+      "module": "Engine"
+    },
+    {
+      "id": "EarthRoadLaneType",
+      "type": "enum",
+      "label": "EarthRoadLaneType",
+      "description": "Earth road lane type",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld"
+    },
+    {
+      "id": "ChaosBreakEvent",
+      "type": "class",
+      "label": "ChaosBreakEvent",
+      "description": "Chaos break event data",
+      "module": "GeometryCollectionEngine"
+    },
+    {
+      "id": "PCGMetadataTypes",
+      "type": "enum",
+      "label": "PCGMetadataTypes",
+      "description": "PCG metadata types",
+      "module": "PCG",
+      "plugin": "PCG"
+    },
+    {
+      "id": "PCGAttributePropertyInputSelector",
+      "type": "struct",
+      "label": "PCGAttributePropertyInputSelector",
+      "description": "PCG attribute property input selector",
+      "module": "PCG",
+      "plugin": "PCG"
+    },
+    {
+      "id": "PCGAttributePropertyOutputSelector",
+      "type": "struct",
+      "label": "PCGAttributePropertyOutputSelector",
+      "description": "PCG attribute property output selector",
+      "module": "PCG",
+      "plugin": "PCG"
+    }
+  ],
+  "edges": [
+    {
+      "source": "EarthPropertyItem_TextureArray",
+      "target": "EarthPropertyItemWidget",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Info",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "SolverBreakingFilterSettings",
+      "target": "StructBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "MoviePipelineMasterConfig",
+      "target": "MoviePipelinePrimaryConfig",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "PyTestVectorDelegate_OnNameCollisionDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "OnChaosBreakEvent",
+      "target": "MulticastDelegateBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "AudioTextBoxStyle",
+      "target": "SlateWidgetStyle",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "PaperSpriteComponent",
+      "target": "MeshComponent",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "InputPressDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "LensBloomSettings",
+      "target": "StructBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "RigVMFunction_MathDoublePow",
+      "target": "RigVMFunction_MathDoubleBinaryOp",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "MaterialExpressionMask",
+      "target": "MaterialExpressionMaterialXMask",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "EarthEditorSaveAtom",
+      "target": "EntityAtomBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "PCGParseStringSettings",
+      "target": "PCGMetadataSettingsBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "EarthRoadSubAssetInfo",
+      "target": "EarthSubAssetInfo",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "ActorDesc",
+      "target": "StructBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "PaperTileInfo",
+      "target": "StructBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "WdpStandardEntity",
+      "target": "WdpEntity",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "EarthTerraformingFragment",
+      "target": "EarthEntityFragment",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "LensInfo",
+      "target": "StructBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "source": "PaperSpriteComponent",
+      "target": "PaperSprite",
+      "type": "has_property",
+      "label": "has property source_sprite"
+    },
+    {
+      "source": "PaperTileInfo",
+      "target": "PaperTileSet",
+      "type": "has_property",
+      "label": "has property tile_set"
+    },
+    {
+      "source": "EarthRoadSubAssetInfo",
+      "target": "EarthPrefabAsset",
+      "type": "has_property",
+      "label": "has property asset"
+    },
+    {
+      "source": "EarthRoadSubAssetInfo",
+      "target": "EarthRoadLaneType",
+      "type": "has_property",
+      "label": "has property lane_tags"
+    },
+    {
+      "source": "EarthTerraformingFragment",
+      "target": "EarthMaterialInfo",
+      "type": "has_property",
+      "label": "has property material"
+    },
+    {
+      "source": "EarthPropertyItem_TextureArray",
+      "target": "EarthPropertyTextureItemInfo",
+      "type": "has_property",
+      "label": "has property texture_items"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "AesGeoreferenceUpdated",
+      "type": "has_property",
+      "label": "has property on_georeference_updated"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "AesPlanetShape",
+      "type": "has_property",
+      "label": "has property planet_shape"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "AesPlanetScope",
+      "type": "has_property",
+      "label": "has property planet_scope"
+    },
+    {
+      "source": "LensBloomSettings",
+      "target": "GaussianSumBloomSettings",
+      "type": "has_property",
+      "label": "has property gaussian_sum"
+    },
+    {
+      "source": "LensBloomSettings",
+      "target": "ConvolutionBloomSettings",
+      "type": "has_property",
+      "label": "has property convolution"
+    },
+    {
+      "source": "LensBloomSettings",
+      "target": "BloomMethod",
+      "type": "has_property",
+      "label": "has property method"
+    },
+    {
+      "source": "OnChaosBreakEvent",
+      "target": "ChaosBreakEvent",
+      "type": "accepts_parameter",
+      "label": "accepts parameter break_event"
+    },
+    {
+      "source": "PCGParseStringSettings",
+      "target": "PCGMetadataTypes",
+      "type": "has_property",
+      "label": "has property target_type"
+    },
+    {
+      "source": "PCGParseStringSettings",
+      "target": "PCGAttributePropertyInputSelector",
+      "type": "has_property",
+      "label": "has property input_source"
+    },
+    {
+      "source": "PCGParseStringSettings",
+      "target": "PCGAttributePropertyOutputSelector",
+      "type": "has_property",
+      "label": "has property output_target"
+    },
+    {
+      "source": "FBIKBoneLimitType",
+      "target": "FullBodyIK",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "EarthPropertyItem_TextureArray",
+      "target": "AesEditorUI",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "AesGeoreference",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "SolverBreakingFilterSettings",
+      "target": "Chaos",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "PyTestVectorDelegate_OnNameCollisionDelegate",
+      "target": "PythonScriptPlugin",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "OnChaosBreakEvent",
+      "target": "GeometryCollectionEngine",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "AudioTextBoxStyle",
+      "target": "AudioWidgets",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "PaperSpriteComponent",
+      "target": "Paper2D",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "BiomeRuleType",
+      "target": "EarthMisc",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "InputPressDelegate",
+      "target": "GameplayAbilities",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "LensBloomSettings",
+      "target": "Engine",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "RigVMFunction_MathDoublePow",
+      "target": "RigVM",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "EarthEditorSaveAtom",
+      "target": "AesTilesAPI",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "PCGParseStringSettings",
+      "target": "PCG",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "EarthRoadSubAssetInfo",
+      "target": "EarthPrefab",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "ActorDesc",
+      "target": "Engine",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "PaperTileInfo",
+      "target": "Paper2D",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "WdpStandardEntity",
+      "target": "WdpDataModel",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "EarthTerraformingFragment",
+      "target": "EarthPrefab",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "LensInfo",
+      "target": "CameraCalibrationCore",
+      "type": "belongs_to_module",
+      "label": "belongs to module"
+    },
+    {
+      "source": "FBIKBoneLimitType",
+      "target": "FullBodyIK",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "EarthPropertyItem_TextureArray",
+      "target": "AesWorld",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "AesWorld",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "PyTestVectorDelegate_OnNameCollisionDelegate",
+      "target": "PythonScriptPlugin",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "AudioTextBoxStyle",
+      "target": "AudioWidgets",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "PaperSpriteComponent",
+      "target": "Paper2D",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "BiomeRuleType",
+      "target": "AesWorld",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "InputPressDelegate",
+      "target": "GameplayAbilities",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "RigVMFunction_MathDoublePow",
+      "target": "RigVM",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "EarthEditorSaveAtom",
+      "target": "WdpRuntimeAPI",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "PCGParseStringSettings",
+      "target": "PCG",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "EarthRoadSubAssetInfo",
+      "target": "AesWorld",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "PaperTileInfo",
+      "target": "Paper2D",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "WdpStandardEntity",
+      "target": "AesRuntimeCore",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "EarthTerraformingFragment",
+      "target": "AesWorld",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "LensInfo",
+      "target": "CameraCalibrationCore",
+      "type": "belongs_to_plugin",
+      "label": "belongs to plugin"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Vector",
+      "type": "returns",
+      "label": "get_world_location_to_world_rotation returns Vector"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Vector",
+      "type": "returns",
+      "label": "get_world_location_to_lon_lat returns Vector"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Transform",
+      "type": "returns",
+      "label": "get_tile_xy_to_world_transform returns Transform"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Vector",
+      "type": "returns",
+      "label": "get_tile_xy_to_world_location returns Vector"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Transform",
+      "type": "returns",
+      "label": "get_quad_key_to_world_transform returns Transform"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Vector",
+      "type": "returns",
+      "label": "get_quad_key_to_world_location returns Vector"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Box",
+      "type": "returns",
+      "label": "get_quad_key_to_local_bound returns Box"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Transform",
+      "type": "returns",
+      "label": "get_planet_center_transform returns Transform"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Transform",
+      "type": "returns",
+      "label": "get_lon_lat_to_world_transform returns Transform"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Rotator",
+      "type": "returns",
+      "label": "get_lon_lat_to_world_rotation returns Rotator"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "Vector",
+      "type": "returns",
+      "label": "get_lon_lat_to_world_location returns Vector"
+    },
+    {
+      "source": "AesGeoreference",
+      "target": "AesGeoreference",
+      "type": "returns",
+      "label": "get_default_georeference returns AesGeoreference"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "plugin_aesworld",
+      "label": "AesWorld Plugin",
+      "description": "Classes and components from the AesWorld plugin",
+      "nodes": [
+        "EarthPropertyItem_TextureArray",
+        "AesGeoreference",
+        "BiomeRuleType",
+        "EarthRoadSubAssetInfo",
+        "EarthTerraformingFragment",
+        "EarthPrefabAsset",
+        "EarthMaterialInfo",
+        "EarthPropertyTextureItemInfo",
+        "AesGeoreferenceUpdated",
+        "AesPlanetShape",
+        "AesPlanetScope",
+        "EarthRoadLaneType"
+      ]
+    },
+    {
+      "id": "plugin_paper2d",
+      "label": "Paper2D Plugin",
+      "description": "Classes and components from the Paper2D plugin for 2D graphics",
+      "nodes": [
+        "PaperSpriteComponent",
+        "PaperTileInfo",
+        "PaperSprite",
+        "PaperTileSet"
+      ]
+    },
+    {
+      "id": "plugin_pcg",
+      "label": "PCG Plugin",
+      "description": "Classes from the Procedural Content Generation plugin",
+      "nodes": [
+        "PCGParseStringSettings",
+        "PCGMetadataTypes",
+        "PCGAttributePropertyInputSelector",
+        "PCGAttributePropertyOutputSelector"
+      ]
+    },
+    {
+      "id": "module_engine",
+      "label": "Engine Module",
+      "description": "Core engine classes and structs",
+      "nodes": [
+        "LensBloomSettings",
+        "ActorDesc",
+        "GaussianSumBloomSettings",
+        "ConvolutionBloomSettings",
+        "BloomMethod"
+      ]
+    },
+    {
+      "id": "delegates",
+      "label": "Delegate Types",
+      "description": "Multicast delegate classes for event handling",
+      "nodes": [
+        "PyTestVectorDelegate_OnNameCollisionDelegate",
+        "OnChaosBreakEvent",
+        "InputPressDelegate",
+        "AesGeoreferenceUpdated"
+      ]
+    },
+    {
+      "id": "deprecated",
+      "label": "Deprecated Types",
+      "description": "Deprecated classes that have been renamed or replaced",
+      "nodes": [
+        "MoviePipelineMasterConfig",
+        "MaterialExpressionMask"
+      ]
+    },
+    {
+      "id": "enums",
+      "label": "Enumeration Types",
+      "description": "Enum types for configuration and state",
+      "nodes": [
+        "FBIKBoneLimitType",
+        "BiomeRuleType",
+        "AesPlanetShape",
+        "AesPlanetScope",
+        "BloomMethod",
+        "EarthRoadLaneType",
+        "PCGMetadataTypes"
+      ]
+    },
+    {
+      "id": "structs",
+      "label": "Struct Types",
+      "description": "Data structure classes extending StructBase",
+      "nodes": [
+        "SolverBreakingFilterSettings",
+        "LensBloomSettings",
+        "ActorDesc",
+        "PaperTileInfo",
+        "LensInfo",
+        "EarthRoadSubAssetInfo",
+        "EarthTerraformingFragment"
+      ]
+    },
+    {
+      "id": "earth_prefab_system",
+      "label": "Earth Prefab System",
+      "description": "Classes related to Earth prefab and terrain systems",
+      "nodes": [
+        "EarthRoadSubAssetInfo",
+        "EarthTerraformingFragment",
+        "EarthPrefabAsset",
+        "EarthMaterialInfo",
+        "EarthRoadLaneType"
+      ]
+    },
+    {
+      "id": "georeference_system",
+      "label": "Georeference System",
+      "description": "Geographic coordinate and georeferencing system",
+      "nodes": [
+        "AesGeoreference",
+        "AesGeoreferenceUpdated",
+        "AesPlanetShape",
+        "AesPlanetScope"
+      ]
+    },
+    {
+      "id": "camera_lens_system",
+      "label": "Camera Lens System",
+      "description": "Camera calibration and lens configuration",
+      "nodes": [
+        "LensInfo",
+        "LensBloomSettings",
+        "GaussianSumBloomSettings",
+        "ConvolutionBloomSettings",
+        "BloomMethod"
+      ]
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "FBIKBoneLimitType Objects.md",
+      "EarthPropertyItem__TextureArray Objects.md",
+      "AesGeoreference Objects.md",
+      "SolverBreakingFilterSettings Objects.md",
+      "MoviePipelineMasterConfig Objects.md",
+      "PyTestVectorDelegate__OnNameCollisionDelegate Objects.md",
+      "OnChaosBreakEvent Objects.md",
+      "AudioTextBoxStyle Objects.md",
+      "PaperSpriteComponent Objects.md",
+      "BiomeRuleType Objects.md",
+      "InputPressDelegate Objects.md",
+      "LensBloomSettings Objects.md",
+      "RigVMFunction_MathDoublePow Objects.md",
+      "MaterialExpressionMask Objects.md",
+      "EarthEditorSaveAtom Objects.md",
+      "PCGParseStringSettings Objects.md",
+      "EarthRoadSubAssetInfo Objects.md",
+      "ActorDesc Objects.md",
+      "PaperTileInfo Objects.md",
+      "WdpStandardEntity Objects.md",
+      "EarthTerraformingFragment Objects.md",
+      "LensInfo Objects.md"
+    ],
+    "total_nodes": 51,
+    "total_edges": 92,
+    "total_hyperedges": 11,
+    "extraction_timestamp": "2026-04-12T00:00:00Z"
+  }
+}

@@ -1,0 +1,820 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_animeasing_rigvmfunction_animeasing",
+      "label": "RigUnit_AnimEasing deprecated rename to RigVMFunction_AnimEasing",
+      "file_type": "code",
+      "source_file": "RigUnit_AnimEasing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxshapeactor_avashapeactor",
+      "label": "AvaToolboxShapeActor deprecated rename to AvaShapeActor",
+      "file_type": "code",
+      "source_file": "AvaToolboxShapeActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmjsonserializable_interface",
+      "label": "DMJsonSerializable Interface",
+      "file_type": "code",
+      "source_file": "DMJsonSerializable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poistyle_label_content_struct",
+      "label": "poiStyle_label_content Struct for POI label styling",
+      "file_type": "code",
+      "source_file": "poiStyle__label__content Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perplatformfloat_struct",
+      "label": "PerPlatformFloat Struct for per-platform float overrides",
+      "file_type": "code",
+      "source_file": "PerPlatformFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneniagaratrack_moviescenenameabletrack",
+      "label": "MovieSceneNiagaraTrack inherits from MovieSceneNameableTrack",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fontparametervalue_struct",
+      "label": "FontParameterValue Struct for material font parameters",
+      "file_type": "code",
+      "source_file": "FontParameterValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfmaterialvariantmode_enum",
+      "label": "GLTFMaterialVariantMode Enum for GLTF export options",
+      "file_type": "code",
+      "source_file": "GLTFMaterialVariantMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthembankmentwaterside_enum",
+      "label": "EarthEmbankmentWaterSide Enum for water side direction",
+      "file_type": "code",
+      "source_file": "EarthEmbankmentWaterSide Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bodysetupcore_object",
+      "label": "BodySetupCore Object for physics body configuration",
+      "file_type": "code",
+      "source_file": "BodySetupCore Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "genericsmartobject_actor",
+      "label": "GenericSmartObject Actor for smart object placement",
+      "file_type": "code",
+      "source_file": "GenericSmartObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gethighlighttextdelegate_delegate",
+      "label": "GetHighlightTextDelegate Delegate for highlight text retrieval",
+      "file_type": "code",
+      "source_file": "GetHighlightTextDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bonerotationsource_enum",
+      "label": "BoneRotationSource Enum for bone rotation source specification",
+      "file_type": "code",
+      "source_file": "BoneRotationSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolsproxylocation_proxy",
+      "label": "AnimDetailControlsProxyLocation inherits from AnimDetailControlsKeyedProxy",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchassetsamplerinput_struct",
+      "label": "PoseSearchAssetSamplerInput Struct for animation sampling",
+      "file_type": "code",
+      "source_file": "PoseSearchAssetSamplerInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeslandmarkassettagdata_struct",
+      "label": "AesLandmarkAssetTagData Struct for landmark geospatial data",
+      "file_type": "code",
+      "source_file": "AesLandmarkAssetTagData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ismpartitionactor_partitionactor",
+      "label": "ISMPartitionActor inherits from PartitionActor for instance containers",
+      "file_type": "code",
+      "source_file": "ISMPartitionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "retargetdefinition_struct",
+      "label": "RetargetDefinition Struct for IK rig bone retargeting",
+      "file_type": "code",
+      "source_file": "RetargetDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluetexturedynamic_dmmaterialvaluedynamic",
+      "label": "DMMaterialValueTextureDynamic inherits from DMMaterialValueDynamic",
+      "file_type": "code",
+      "source_file": "DMMaterialValueTextureDynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripttransformcollisionoptions_struct",
+      "label": "GeometryScriptTransformCollisionOptions Struct for collision transformation",
+      "file_type": "code",
+      "source_file": "GeometryScriptTransformCollisionOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objectbase_baseclass",
+      "label": "_ObjectBase base class for Unreal object instances",
+      "file_type": "code",
+      "source_file": "__ObjectBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inapppurchaserestorecallbackproxy2_object",
+      "label": "InAppPurchaseRestoreCallbackProxy2 Object for purchase restoration",
+      "file_type": "code",
+      "source_file": "InAppPurchaseRestoreCallbackProxy2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_baseclass",
+      "label": "StructBase base class for Unreal struct types",
+      "file_type": "code",
+      "source_file": "poiStyle__label__content Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_baseclass",
+      "label": "EnumBase base class for Unreal enum types",
+      "file_type": "code",
+      "source_file": "GLTFMaterialVariantMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interface_baseclass",
+      "label": "Interface base class for Unreal interface types",
+      "file_type": "code",
+      "source_file": "DMJsonSerializable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_baseclass",
+      "label": "Actor base class for Unreal actors",
+      "file_type": "code",
+      "source_file": "GenericSmartObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_baseclass",
+      "label": "Object base class for Unreal objects",
+      "file_type": "code",
+      "source_file": "BodySetupCore Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase_baseclass",
+      "label": "DelegateBase base class for Unreal delegates",
+      "file_type": "code",
+      "source_file": "GetHighlightTextDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "code",
+      "source_file": "poiStyle__label__content Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmaterial_plugin",
+      "label": "DynamicMaterial Plugin",
+      "file_type": "code",
+      "source_file": "DMJsonSerializable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "code",
+      "source_file": "MovieSceneNiagaraTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfexporter_plugin",
+      "label": "GLTFExporter Plugin",
+      "file_type": "code",
+      "source_file": "GLTFMaterialVariantMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "code",
+      "source_file": "EarthEmbankmentWaterSide Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjects_plugin",
+      "label": "SmartObjects Plugin",
+      "file_type": "code",
+      "source_file": "GenericSmartObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearch_plugin",
+      "label": "PoseSearch Plugin",
+      "file_type": "code",
+      "source_file": "PoseSearchAssetSamplerInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_plugin",
+      "label": "IKRig Plugin",
+      "file_type": "code",
+      "source_file": "RetargetDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "code",
+      "source_file": "GeometryScriptTransformCollisionOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlinesubsystemutils_plugin",
+      "label": "OnlineSubsystemUtils Plugin",
+      "file_type": "code",
+      "source_file": "InAppPurchaseRestoreCallbackProxy2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_animeasing_rigvmfunction_animeasing",
+      "target": "avatoolboxshapeactor_avashapeactor",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_AnimEasing Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmjsonserializable_interface",
+      "target": "interface_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMJsonSerializable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "poistyle_label_content_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "poiStyle__label__content Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "poistyle_label_content_struct",
+      "target": "coveringapi_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "poiStyle__label__content Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "perplatformfloat_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PerPlatformFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneniagaratrack_moviescenenameabletrack",
+      "target": "niagara_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneNiagaraTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fontparametervalue_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FontParameterValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfmaterialvariantmode_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFMaterialVariantMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfmaterialvariantmode_enum",
+      "target": "gltfexporter_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFMaterialVariantMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthembankmentwaterside_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthEmbankmentWaterSide Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthembankmentwaterside_enum",
+      "target": "aesworld_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthEmbankmentWaterSide Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bodysetupcore_object",
+      "target": "object_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BodySetupCore Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "genericsmartobject_actor",
+      "target": "actor_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenericSmartObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "genericsmartobject_actor",
+      "target": "smartobjects_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GenericSmartObject Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gethighlighttextdelegate_delegate",
+      "target": "delegatebase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GetHighlightTextDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bonerotationsource_enum",
+      "target": "enumbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BoneRotationSource Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailcontrolsproxylocation_proxy",
+      "target": "controlrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailControlsProxyLocation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchassetsamplerinput_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchAssetSamplerInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchassetsamplerinput_struct",
+      "target": "posesearch_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PoseSearchAssetSamplerInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeslandmarkassettagdata_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesLandmarkAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeslandmarkassettagdata_struct",
+      "target": "aesworld_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesLandmarkAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ismpartitionactor_partitionactor",
+      "target": "object_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ISMPartitionActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "retargetdefinition_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RetargetDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "retargetdefinition_struct",
+      "target": "ikrig_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RetargetDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluetexturedynamic_dmmaterialvaluedynamic",
+      "target": "dynamicmaterial_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialValueTextureDynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscripttransformcollisionoptions_struct",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptTransformCollisionOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscripttransformcollisionoptions_struct",
+      "target": "geometryscripting_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptTransformCollisionOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "objectbase_baseclass",
+      "target": "object_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "__ObjectBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inapppurchaserestorecallbackproxy2_object",
+      "target": "object_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InAppPurchaseRestoreCallbackProxy2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inapppurchaserestorecallbackproxy2_object",
+      "target": "onlinesubsystemutils_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InAppPurchaseRestoreCallbackProxy2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmjsonserializable_interface",
+      "target": "dynamicmaterial_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMJsonSerializable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeslandmarkassettagdata_struct",
+      "target": "earthembankmentwaterside_enum",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesLandmarkAssetTagData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "retargetdefinition_struct",
+      "target": "bonerotationsource_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RetargetDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchassetsamplerinput_struct",
+      "target": "retargetdefinition_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PoseSearchAssetSamplerInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscripttransformcollisionoptions_struct",
+      "target": "bodysetupcore_object",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScriptTransformCollisionOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_base_class_hierarchy",
+      "label": "Unreal Python API Base Class Hierarchy",
+      "nodes": [
+        "objectbase_baseclass",
+        "structbase_baseclass",
+        "enumbase_baseclass",
+        "interface_baseclass",
+        "actor_baseclass",
+        "object_baseclass",
+        "delegatebase_baseclass"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "__ObjectBase Objects.md"
+    },
+    {
+      "id": "skeletal_animation_systems",
+      "label": "Skeletal Animation and Rigging Systems",
+      "nodes": [
+        "retargetdefinition_struct",
+        "bonerotationsource_enum",
+        "posesearchassetsamplerinput_struct",
+        "animdetailcontrolsproxylocation_proxy"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RetargetDefinition Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

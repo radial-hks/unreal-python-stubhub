@@ -1,0 +1,1152 @@
+{
+  "entities": [
+    {
+      "id": "EarthFlatRoofPrefabAlgorithm",
+      "type": "class",
+      "name": "EarthFlatRoofPrefabAlgorithm",
+      "description": "与平屋顶预制体配套的生成算法",
+      "extends": "EarthPrefabAlgorithm",
+      "plugin": "AesWorld",
+      "module": "EarthPrefab",
+      "file": "EarthRoofPrefab.h"
+    },
+    {
+      "id": "EarthFlatRoofPrefabAlgorithm.required_fragments",
+      "type": "property",
+      "name": "required_fragments",
+      "data_type": "Array[ScriptStruct]",
+      "access": "Read-Write",
+      "description": "算法所需的数据片段类型"
+    },
+    {
+      "id": "RigUnit_MathDoubleSqrt",
+      "type": "class",
+      "name": "RigUnit_MathDoubleSqrt",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathDoubleSqrt' was renamed to 'RigVMFunction_MathDoubleSqrt'",
+      "extends": "RigVMFunction_MathDoubleSqrt"
+    },
+    {
+      "id": "AvaTagSoftHandle",
+      "type": "class",
+      "name": "AvaTagSoftHandle",
+      "description": "Soft reference handle to a Tag in a particular Source Tag Collection",
+      "extends": "StructBase",
+      "plugin": "Avalanche",
+      "module": "AvalancheTag",
+      "file": "AvaTagSoftHandle.h"
+    },
+    {
+      "id": "AvaTagSoftHandle.source",
+      "type": "property",
+      "name": "source",
+      "data_type": "AvaTagCollection",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigVMVariableNode",
+      "type": "class",
+      "name": "RigVMVariableNode",
+      "description": "The Variable Node represents a mutable value / local state within the Function / Graph",
+      "extends": "RigVMNode",
+      "plugin": "RigVM",
+      "module": "RigVMDeveloper",
+      "file": "RigVMVariableNode.h"
+    },
+    {
+      "id": "RigVMVariableNode.is_local_variable",
+      "type": "method",
+      "name": "is_local_variable",
+      "return_type": "bool",
+      "description": "Returns true if this variable is a local variable"
+    },
+    {
+      "id": "RigVMVariableNode.is_input_argument",
+      "type": "method",
+      "name": "is_input_argument",
+      "return_type": "bool",
+      "description": "Returns true if this variable is an input argument"
+    },
+    {
+      "id": "RigVMVariableNode.is_getter",
+      "type": "method",
+      "name": "is_getter",
+      "return_type": "bool",
+      "description": "Returns true if this node is a variable getter"
+    },
+    {
+      "id": "RigVMVariableNode.is_external_variable",
+      "type": "method",
+      "name": "is_external_variable",
+      "return_type": "bool",
+      "description": "Returns true if this variable is an external variable"
+    },
+    {
+      "id": "RigVMVariableNode.get_variable_name",
+      "type": "method",
+      "name": "get_variable_name",
+      "return_type": "Name",
+      "description": "Returns the name of the variable"
+    },
+    {
+      "id": "RigVMVariableNode.get_variable_description",
+      "type": "method",
+      "name": "get_variable_description",
+      "return_type": "RigVMGraphVariableDescription",
+      "description": "Returns this variable node's variable description"
+    },
+    {
+      "id": "RigVMVariableNode.get_default_value",
+      "type": "method",
+      "name": "get_default_value",
+      "return_type": "str",
+      "description": "Returns the default value of the variable as a string"
+    },
+    {
+      "id": "RigVMVariableNode.get_cpp_type_object",
+      "type": "method",
+      "name": "get_cpp_type_object",
+      "return_type": "Object",
+      "description": "Returns the C++ data type struct of the variable (or nullptr)"
+    },
+    {
+      "id": "RigVMVariableNode.get_cpp_type",
+      "type": "method",
+      "name": "get_cpp_type",
+      "return_type": "str",
+      "description": "Returns the C++ data type of the variable"
+    },
+    {
+      "id": "RigUnit_MathQuaternionMakeAbsolute",
+      "type": "class",
+      "name": "RigUnit_MathQuaternionMakeAbsolute",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathQuaternionMakeAbsolute' was renamed to 'RigVMFunction_MathQuaternionMakeAbsolute'",
+      "extends": "RigVMFunction_MathQuaternionMakeAbsolute"
+    },
+    {
+      "id": "ToolMenuEntryExtensions",
+      "type": "class",
+      "name": "ToolMenuEntryExtensions",
+      "description": "Tool Menu Entry Extensions",
+      "extends": "Object",
+      "module": "ToolMenus",
+      "file": "ToolMenusBlueprintLibrary.h"
+    },
+    {
+      "id": "ToolMenuEntryExtensions.set_tool_tip",
+      "type": "method",
+      "name": "set_tool_tip",
+      "return_type": "ToolMenuEntry",
+      "parameters": [
+        {"name": "target", "type": "ToolMenuEntry"},
+        {"name": "tool_tip", "type": "Text"}
+      ],
+      "class_method": true
+    },
+    {
+      "id": "ToolMenuEntryExtensions.set_string_command",
+      "type": "method",
+      "name": "set_string_command",
+      "return_type": "ToolMenuEntry",
+      "parameters": [
+        {"name": "target", "type": "ToolMenuEntry"},
+        {"name": "type", "type": "ToolMenuStringCommandType"},
+        {"name": "custom_type", "type": "Name"},
+        {"name": "string", "type": "str"}
+      ],
+      "class_method": true
+    },
+    {
+      "id": "ToolMenuEntryExtensions.set_label",
+      "type": "method",
+      "name": "set_label",
+      "return_type": "ToolMenuEntry",
+      "parameters": [
+        {"name": "target", "type": "ToolMenuEntry"},
+        {"name": "label", "type": "Text"}
+      ],
+      "class_method": true
+    },
+    {
+      "id": "ToolMenuEntryExtensions.set_icon",
+      "type": "method",
+      "name": "set_icon",
+      "return_type": "ToolMenuEntry",
+      "parameters": [
+        {"name": "target", "type": "ToolMenuEntry"},
+        {"name": "style_set_name", "type": "Name"},
+        {"name": "style_name", "type": "Name"},
+        {"name": "small_style_name", "type": "Name"}
+      ],
+      "class_method": true
+    },
+    {
+      "id": "ToolMenuEntryExtensions.init_menu_entry",
+      "type": "method",
+      "name": "init_menu_entry",
+      "return_type": "ToolMenuEntry",
+      "parameters": [
+        {"name": "owner", "type": "Name"},
+        {"name": "name", "type": "Name"},
+        {"name": "label", "type": "Text"},
+        {"name": "tool_tip", "type": "Text"},
+        {"name": "command_type", "type": "ToolMenuStringCommandType"},
+        {"name": "custom_command_type", "type": "Name"},
+        {"name": "command_string", "type": "str"}
+      ],
+      "class_method": true
+    },
+    {
+      "id": "ToolMenuEntryExtensions.get_tool_tip",
+      "type": "method",
+      "name": "get_tool_tip",
+      "return_type": "Text",
+      "parameters": [
+        {"name": "target", "type": "ToolMenuEntry"}
+      ],
+      "class_method": true
+    },
+    {
+      "id": "ToolMenuEntryExtensions.get_label",
+      "type": "method",
+      "name": "get_label",
+      "return_type": "Text",
+      "parameters": [
+        {"name": "target", "type": "ToolMenuEntry"}
+      ],
+      "class_method": true
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionFromTwoVectors",
+      "type": "class",
+      "name": "RigVMFunction_MathQuaternionFromTwoVectors",
+      "description": "Makes a quaternion from two vectors, representing the shortest rotation between the two vectors",
+      "extends": "RigVMFunction_MathQuaternionBase",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathQuaternion.h"
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionFromTwoVectors.a",
+      "type": "property",
+      "name": "a",
+      "data_type": "Vector",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionFromTwoVectors.b",
+      "type": "property",
+      "name": "b",
+      "data_type": "Vector",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionFromTwoVectors.result",
+      "type": "property",
+      "name": "result",
+      "data_type": "Quat",
+      "access": "Read-Only"
+    },
+    {
+      "id": "CEClonerLayoutBase",
+      "type": "class",
+      "name": "CEClonerLayoutBase",
+      "description": "Base class for layouts available in the cloner actor",
+      "extends": "Object",
+      "plugin": "ClonerEffector",
+      "module": "ClonerEffector",
+      "file": "CEClonerLayoutBase.h"
+    },
+    {
+      "id": "CEClonerLayoutBase.is_layout_active",
+      "type": "method",
+      "name": "is_layout_active",
+      "return_type": "bool",
+      "description": "Is this layout system in use within the cloner"
+    },
+    {
+      "id": "CEClonerLayoutBase.get_layout_name",
+      "type": "method",
+      "name": "get_layout_name",
+      "return_type": "Name",
+      "description": "Get Layout Name"
+    },
+    {
+      "id": "MVVMBindingName",
+      "type": "class",
+      "name": "MVVMBindingName",
+      "description": "MVVMBinding Name",
+      "extends": "StructBase",
+      "plugin": "ModelViewViewModel",
+      "module": "ModelViewViewModel",
+      "file": "MVVMBindingName.h"
+    },
+    {
+      "id": "MVVMBindingName.binding_name",
+      "type": "property",
+      "name": "binding_name",
+      "data_type": "Name",
+      "access": "Read-Write",
+      "description": "todo this should be and make helper function to build the name in BP with a picker"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew",
+      "type": "class",
+      "name": "NiagaraEmitterFactoryNew",
+      "description": "A factory for niagara emitter assets",
+      "extends": "Factory",
+      "plugin": "Niagara",
+      "module": "NiagaraEditor",
+      "file": "NiagaraEmitterFactoryNew.h"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.asset_import_task",
+      "type": "property",
+      "name": "asset_import_task",
+      "data_type": "AssetImportTask",
+      "access": "Read-Write",
+      "description": "Task for importing file via script interfaces"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.automated_import_data",
+      "type": "property",
+      "name": "automated_import_data",
+      "data_type": "AutomatedAssetImportData",
+      "access": "Read-Write",
+      "description": "Data for how to import files via the automated command line importing interface"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.context_class",
+      "type": "property",
+      "name": "context_class",
+      "data_type": "type(Class)",
+      "access": "Read-Write",
+      "description": "Class of the context object used to help create the object"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.create_new",
+      "type": "property",
+      "name": "create_new",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "The default value to return from CanCreateNew()"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.edit_after_new",
+      "type": "property",
+      "name": "edit_after_new",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "true if the associated editor should be opened after creating a new object"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.editor_import",
+      "type": "property",
+      "name": "editor_import",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "true if the factory imports objects from files"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.formats",
+      "type": "property",
+      "name": "formats",
+      "data_type": "Array[str]",
+      "access": "Read-Write",
+      "description": "List of formats supported by the factory"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.supported_class",
+      "type": "property",
+      "name": "supported_class",
+      "data_type": "type(Class)",
+      "access": "Read-Write",
+      "description": "The class manufactured by this factory"
+    },
+    {
+      "id": "NiagaraEmitterFactoryNew.text",
+      "type": "property",
+      "name": "text",
+      "data_type": "bool",
+      "access": "Read-Write",
+      "description": "true if the factory imports objects from text"
+    },
+    {
+      "id": "WdpCommonInput_OnZoomKeyPressed",
+      "type": "class",
+      "name": "WdpCommonInput_OnZoomKeyPressed",
+      "description": "Zoom 按下，按下时的屏幕坐标",
+      "extends": "MulticastDelegateBase",
+      "plugin": "WdpCamera",
+      "module": "WdpCamera",
+      "file": "WdpCommonInput.h"
+    },
+    {
+      "id": "RigUnit_MathDoubleDiv",
+      "type": "class",
+      "name": "RigUnit_MathDoubleDiv",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathDoubleDiv' was renamed to 'RigVMFunction_MathDoubleDiv'",
+      "extends": "RigVMFunction_MathDoubleDiv"
+    },
+    {
+      "id": "OnMoviePipelineIndividualJobFinished",
+      "type": "class",
+      "name": "OnMoviePipelineIndividualJobFinished",
+      "description": "On Movie Pipeline Individual Job Finished Delegate Signature",
+      "extends": "MulticastDelegateBase",
+      "plugin": "MovieRenderPipeline",
+      "module": "MovieRenderPipelineEditor",
+      "file": "MoviePipelinePIEExecutor.h"
+    },
+    {
+      "id": "AvaInteractiveToolsModeDetailsObjectProvider",
+      "type": "class",
+      "name": "AvaInteractiveToolsModeDetailsObjectProvider",
+      "description": "Ava Interactive Tools Mode Details Object Provider",
+      "extends": "Interface",
+      "plugin": "Avalanche",
+      "module": "AvalancheInteractiveToolsRuntime",
+      "file": "IAvaInteractiveToolsModeDetailsObjectProvider.h"
+    },
+    {
+      "id": "AvaInteractiveToolsModeDetailsObjectProvider.get_mode_details_object",
+      "type": "method",
+      "name": "get_mode_details_object",
+      "return_type": "Object",
+      "description": "Get Mode Details Object"
+    },
+    {
+      "id": "AnimNode_ScaleChainLength",
+      "type": "class",
+      "name": "AnimNode_ScaleChainLength",
+      "description": "Scale the length of a chain of bones",
+      "extends": "AnimNode_Base",
+      "module": "AnimGraphRuntime",
+      "file": "AnimNode_ScaleChainLength.h"
+    },
+    {
+      "id": "AnimNode_ScaleChainLength.default_chain_length",
+      "type": "property",
+      "name": "default_chain_length",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "Default chain length, as animated"
+    },
+    {
+      "id": "AnimNode_ScaleChainLength.target_location",
+      "type": "property",
+      "name": "target_location",
+      "data_type": "Vector",
+      "access": "Read-Write"
+    },
+    {
+      "id": "AnimNode_ScaleChainLength.alpha",
+      "type": "property",
+      "name": "alpha",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "PreviewAnimationBlueprintApplicationMethod",
+      "type": "class",
+      "name": "PreviewAnimationBlueprintApplicationMethod",
+      "description": "The method by which a preview animation blueprint is applied",
+      "extends": "EnumBase",
+      "module": "Engine",
+      "file": "AnimBlueprint.h"
+    },
+    {
+      "id": "PreviewAnimationBlueprintApplicationMethod.LINKED_LAYERS",
+      "type": "enum_value",
+      "name": "LINKED_LAYERS",
+      "value": 0,
+      "description": "Apply the preview animation blueprint using LinkAnimClassLayers"
+    },
+    {
+      "id": "PreviewAnimationBlueprintApplicationMethod.LINKED_ANIM_GRAPH",
+      "type": "enum_value",
+      "name": "LINKED_ANIM_GRAPH",
+      "value": 1,
+      "description": "Apply the preview animation blueprint using SetLinkedAnimGraphByTag"
+    },
+    {
+      "id": "AvaToolboxRoundedCorner",
+      "type": "class",
+      "name": "AvaToolboxRoundedCorner",
+      "deprecated": true,
+      "deprecated_message": "'AvaToolboxRoundedCorner' was renamed to 'AvaShapeRoundedCorner'",
+      "extends": "AvaShapeRoundedCorner"
+    },
+    {
+      "id": "OpenColorIOColorSpace",
+      "type": "class",
+      "name": "OpenColorIOColorSpace",
+      "description": "Structure to identify a ColorSpace as described in an OCIO configuration file",
+      "extends": "StructBase",
+      "plugin": "OpenColorIO",
+      "module": "OpenColorIO",
+      "file": "OpenColorIOColorSpace.h"
+    },
+    {
+      "id": "OpenColorIOColorSpace.color_space_name",
+      "type": "property",
+      "name": "color_space_name",
+      "data_type": "str",
+      "access": "Read-Write",
+      "description": "The ColorSpace name"
+    },
+    {
+      "id": "OpenColorIOColorSpace.color_space_index",
+      "type": "property",
+      "name": "color_space_index",
+      "data_type": "int32",
+      "access": "Read-Write",
+      "description": "The index of the ColorSpace in the config"
+    },
+    {
+      "id": "OpenColorIOColorSpace.family_name",
+      "type": "property",
+      "name": "family_name",
+      "data_type": "str",
+      "access": "Read-Write",
+      "description": "The family of this ColorSpace as specified in the configuration file"
+    },
+    {
+      "id": "ConstraintBrokenSignature",
+      "type": "class",
+      "name": "ConstraintBrokenSignature",
+      "description": "Dynamic delegate to use by components that want to route the broken-event into blueprints",
+      "extends": "MulticastDelegateBase",
+      "module": "Engine",
+      "file": "EngineTypes.h"
+    },
+    {
+      "id": "RigUnit_CCDIK",
+      "type": "class",
+      "name": "RigUnit_CCDIK",
+      "description": "The CCID solver can solve N-Bone chains using the Cyclic Coordinate Descent Inverse Kinematics algorithm",
+      "extends": "RigUnit_HighlevelBaseMutable",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_CCDIK.h"
+    },
+    {
+      "id": "RigUnit_CCDIK.start_bone",
+      "type": "property",
+      "name": "start_bone",
+      "data_type": "Name",
+      "access": "Read-Write",
+      "description": "The first bone in the chain to solve"
+    },
+    {
+      "id": "RigUnit_CCDIK.effector_bone",
+      "type": "property",
+      "name": "effector_bone",
+      "data_type": "Name",
+      "access": "Read-Write",
+      "description": "The last bone in the chain to solve - the effector"
+    },
+    {
+      "id": "RigUnit_CCDIK.effector_transform",
+      "type": "property",
+      "name": "effector_transform",
+      "data_type": "Transform",
+      "access": "Read-Write",
+      "description": "The transform of the effector in global space"
+    },
+    {
+      "id": "RigUnit_CCDIK.precision",
+      "type": "property",
+      "name": "precision",
+      "data_type": "float",
+      "access": "Read-Only",
+      "description": "The precision to use for the fabrik solver"
+    },
+    {
+      "id": "RigUnit_CCDIK.weight",
+      "type": "property",
+      "name": "weight",
+      "data_type": "float",
+      "access": "Read-Write",
+      "description": "The weight of the solver - how much the IK should be applied"
+    },
+    {
+      "id": "RigUnit_CCDIK.max_iterations",
+      "type": "property",
+      "name": "max_iterations",
+      "data_type": "int32",
+      "access": "Read-Write",
+      "description": "The maximum number of iterations"
+    },
+    {
+      "id": "RigUnit_CCDIK.start_from_tail",
+      "type": "property",
+      "name": "start_from_tail",
+      "data_type": "bool",
+      "access": "Read-Only",
+      "description": "If set to true the direction of the solvers is flipped"
+    },
+    {
+      "id": "RigUnit_CCDIK.base_rotation_limit",
+      "type": "property",
+      "name": "base_rotation_limit",
+      "data_type": "float",
+      "access": "Read-Only",
+      "description": "The general rotation limit to be applied to bones"
+    },
+    {
+      "id": "RigUnit_CCDIK.rotation_limits",
+      "type": "property",
+      "name": "rotation_limits",
+      "data_type": "Array[RigUnit_CCDIK_RotationLimit]",
+      "access": "Read-Only",
+      "description": "Defines the limits of rotation per bone"
+    },
+    {
+      "id": "RigUnit_CCDIK.propagate_to_children",
+      "type": "property",
+      "name": "propagate_to_children",
+      "data_type": "bool",
+      "access": "Read-Only",
+      "description": "If set to true all of the global transforms of the children of this bone will be recalculated"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "type": "class",
+      "name": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "description": "Given a transform array, will draw a point, axis, or a box in the viewport",
+      "extends": "RigUnit_DebugBaseMutable",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_DebugTransform.h"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.transforms",
+      "type": "property",
+      "name": "transforms",
+      "data_type": "Array[Transform]",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.parent_indices",
+      "type": "property",
+      "name": "parent_indices",
+      "data_type": "Array[int32]",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.mode",
+      "type": "property",
+      "name": "mode",
+      "data_type": "RigUnitDebugTransformMode",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.color",
+      "type": "property",
+      "name": "color",
+      "data_type": "LinearColor",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.thickness",
+      "type": "property",
+      "name": "thickness",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.scale",
+      "type": "property",
+      "name": "scale",
+      "data_type": "float",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.space",
+      "type": "property",
+      "name": "space",
+      "data_type": "RigElementKey",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.world_offset",
+      "type": "property",
+      "name": "world_offset",
+      "data_type": "Transform",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigUnit_DebugTransformArrayMutableItemSpace.enabled",
+      "type": "property",
+      "name": "enabled",
+      "data_type": "bool",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleCeil",
+      "type": "class",
+      "name": "RigVMFunction_MathDoubleCeil",
+      "description": "Returns the closest higher full number (integer) of the value",
+      "extends": "RigVMFunction_MathDoubleBase",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathDouble.h"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleCeil.value",
+      "type": "property",
+      "name": "value",
+      "data_type": "double",
+      "access": "Read-Write"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleCeil.result",
+      "type": "property",
+      "name": "result",
+      "data_type": "double",
+      "access": "Read-Only"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleCeil.int",
+      "type": "property",
+      "name": "int",
+      "data_type": "int32",
+      "access": "Read-Only"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "EarthFlatRoofPrefabAlgorithm",
+      "to": "EarthPrefabAlgorithm",
+      "type": "extends"
+    },
+    {
+      "from": "EarthFlatRoofPrefabAlgorithm",
+      "to": "EarthFlatRoofPrefabAlgorithm.required_fragments",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_MathDoubleSqrt",
+      "to": "RigVMFunction_MathDoubleSqrt",
+      "type": "extends"
+    },
+    {
+      "from": "AvaTagSoftHandle",
+      "to": "StructBase",
+      "type": "extends"
+    },
+    {
+      "from": "AvaTagSoftHandle",
+      "to": "AvaTagSoftHandle.source",
+      "type": "has_property"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMNode",
+      "type": "extends"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.is_local_variable",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.is_input_argument",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.is_getter",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.is_external_variable",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.get_variable_name",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.get_variable_description",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.get_default_value",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.get_cpp_type_object",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMVariableNode",
+      "to": "RigVMVariableNode.get_cpp_type",
+      "type": "has_method"
+    },
+    {
+      "from": "RigUnit_MathQuaternionMakeAbsolute",
+      "to": "RigVMFunction_MathQuaternionMakeAbsolute",
+      "type": "extends"
+    },
+    {
+      "from": "ToolMenuEntryExtensions",
+      "to": "Object",
+      "type": "extends"
+    },
+    {
+      "from": "ToolMenuEntryExtensions",
+      "to": "ToolMenuEntryExtensions.set_tool_tip",
+      "type": "has_method"
+    },
+    {
+      "from": "ToolMenuEntryExtensions",
+      "to": "ToolMenuEntryExtensions.set_string_command",
+      "type": "has_method"
+    },
+    {
+      "from": "ToolMenuEntryExtensions",
+      "to": "ToolMenuEntryExtensions.set_label",
+      "type": "has_method"
+    },
+    {
+      "from": "ToolMenuEntryExtensions",
+      "to": "ToolMenuEntryExtensions.set_icon",
+      "type": "has_method"
+    },
+    {
+      "from": "ToolMenuEntryExtensions",
+      "to": "ToolMenuEntryExtensions.init_menu_entry",
+      "type": "has_method"
+    },
+    {
+      "from": "ToolMenuEntryExtensions",
+      "to": "ToolMenuEntryExtensions.get_tool_tip",
+      "type": "has_method"
+    },
+    {
+      "from": "ToolMenuEntryExtensions",
+      "to": "ToolMenuEntryExtensions.get_label",
+      "type": "has_method"
+    },
+    {
+      "from": "RigVMFunction_MathQuaternionFromTwoVectors",
+      "to": "RigVMFunction_MathQuaternionBase",
+      "type": "extends"
+    },
+    {
+      "from": "RigVMFunction_MathQuaternionFromTwoVectors",
+      "to": "RigVMFunction_MathQuaternionFromTwoVectors.a",
+      "type": "has_property"
+    },
+    {
+      "from": "RigVMFunction_MathQuaternionFromTwoVectors",
+      "to": "RigVMFunction_MathQuaternionFromTwoVectors.b",
+      "type": "has_property"
+    },
+    {
+      "from": "RigVMFunction_MathQuaternionFromTwoVectors",
+      "to": "RigVMFunction_MathQuaternionFromTwoVectors.result",
+      "type": "has_property"
+    },
+    {
+      "from": "CEClonerLayoutBase",
+      "to": "Object",
+      "type": "extends"
+    },
+    {
+      "from": "CEClonerLayoutBase",
+      "to": "CEClonerLayoutBase.is_layout_active",
+      "type": "has_method"
+    },
+    {
+      "from": "CEClonerLayoutBase",
+      "to": "CEClonerLayoutBase.get_layout_name",
+      "type": "has_method"
+    },
+    {
+      "from": "MVVMBindingName",
+      "to": "StructBase",
+      "type": "extends"
+    },
+    {
+      "from": "MVVMBindingName",
+      "to": "MVVMBindingName.binding_name",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "Factory",
+      "type": "extends"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.asset_import_task",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.automated_import_data",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.context_class",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.create_new",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.edit_after_new",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.editor_import",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.formats",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.supported_class",
+      "type": "has_property"
+    },
+    {
+      "from": "NiagaraEmitterFactoryNew",
+      "to": "NiagaraEmitterFactoryNew.text",
+      "type": "has_property"
+    },
+    {
+      "from": "WdpCommonInput_OnZoomKeyPressed",
+      "to": "MulticastDelegateBase",
+      "type": "extends"
+    },
+    {
+      "from": "RigUnit_MathDoubleDiv",
+      "to": "RigVMFunction_MathDoubleDiv",
+      "type": "extends"
+    },
+    {
+      "from": "OnMoviePipelineIndividualJobFinished",
+      "to": "MulticastDelegateBase",
+      "type": "extends"
+    },
+    {
+      "from": "AvaInteractiveToolsModeDetailsObjectProvider",
+      "to": "Interface",
+      "type": "extends"
+    },
+    {
+      "from": "AvaInteractiveToolsModeDetailsObjectProvider",
+      "to": "AvaInteractiveToolsModeDetailsObjectProvider.get_mode_details_object",
+      "type": "has_method"
+    },
+    {
+      "from": "AnimNode_ScaleChainLength",
+      "to": "AnimNode_Base",
+      "type": "extends"
+    },
+    {
+      "from": "AnimNode_ScaleChainLength",
+      "to": "AnimNode_ScaleChainLength.default_chain_length",
+      "type": "has_property"
+    },
+    {
+      "from": "AnimNode_ScaleChainLength",
+      "to": "AnimNode_ScaleChainLength.target_location",
+      "type": "has_property"
+    },
+    {
+      "from": "AnimNode_ScaleChainLength",
+      "to": "AnimNode_ScaleChainLength.alpha",
+      "type": "has_property"
+    },
+    {
+      "from": "PreviewAnimationBlueprintApplicationMethod",
+      "to": "EnumBase",
+      "type": "extends"
+    },
+    {
+      "from": "PreviewAnimationBlueprintApplicationMethod",
+      "to": "PreviewAnimationBlueprintApplicationMethod.LINKED_LAYERS",
+      "type": "has_enum_value"
+    },
+    {
+      "from": "PreviewAnimationBlueprintApplicationMethod",
+      "to": "PreviewAnimationBlueprintApplicationMethod.LINKED_ANIM_GRAPH",
+      "type": "has_enum_value"
+    },
+    {
+      "from": "AvaToolboxRoundedCorner",
+      "to": "AvaShapeRoundedCorner",
+      "type": "extends"
+    },
+    {
+      "from": "OpenColorIOColorSpace",
+      "to": "StructBase",
+      "type": "extends"
+    },
+    {
+      "from": "OpenColorIOColorSpace",
+      "to": "OpenColorIOColorSpace.color_space_name",
+      "type": "has_property"
+    },
+    {
+      "from": "OpenColorIOColorSpace",
+      "to": "OpenColorIOColorSpace.color_space_index",
+      "type": "has_property"
+    },
+    {
+      "from": "OpenColorIOColorSpace",
+      "to": "OpenColorIOColorSpace.family_name",
+      "type": "has_property"
+    },
+    {
+      "from": "ConstraintBrokenSignature",
+      "to": "MulticastDelegateBase",
+      "type": "extends"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_HighlevelBaseMutable",
+      "type": "extends"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.start_bone",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.effector_bone",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.effector_transform",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.precision",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.weight",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.max_iterations",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.start_from_tail",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.base_rotation_limit",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.rotation_limits",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_CCDIK",
+      "to": "RigUnit_CCDIK.propagate_to_children",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugBaseMutable",
+      "type": "extends"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.transforms",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.parent_indices",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.mode",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.color",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.thickness",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.scale",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.space",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.world_offset",
+      "type": "has_property"
+    },
+    {
+      "from": "RigUnit_DebugTransformArrayMutableItemSpace",
+      "to": "RigUnit_DebugTransformArrayMutableItemSpace.enabled",
+      "type": "has_property"
+    },
+    {
+      "from": "RigVMFunction_MathDoubleCeil",
+      "to": "RigVMFunction_MathDoubleBase",
+      "type": "extends"
+    },
+    {
+      "from": "RigVMFunction_MathDoubleCeil",
+      "to": "RigVMFunction_MathDoubleCeil.value",
+      "type": "has_property"
+    },
+    {
+      "from": "RigVMFunction_MathDoubleCeil",
+      "to": "RigVMFunction_MathDoubleCeil.result",
+      "type": "has_property"
+    },
+    {
+      "from": "RigVMFunction_MathDoubleCeil",
+      "to": "RigVMFunction_MathDoubleCeil.int",
+      "type": "has_property"
+    }
+  ]
+}

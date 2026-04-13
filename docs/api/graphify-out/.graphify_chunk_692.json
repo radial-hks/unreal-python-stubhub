@@ -1,0 +1,540 @@
+{
+  "nodes": [
+    {
+      "id": "playermappableinputconfig_class",
+      "label": "PlayerMappableInputConfig",
+      "file_type": "document",
+      "source_file": "PlayerMappableInputConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_animrichcurve_class",
+      "label": "RigUnit_AnimRichCurve (deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit_AnimRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscreenposboundchange_class",
+      "label": "WDPScreenPosBoundChange",
+      "file_type": "document",
+      "source_file": "WDPScreenPosBoundChange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorwavefunction_class",
+      "label": "PropertyAnimatorWaveFunction",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorWaveFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustconfigurationviewport_allnodescolorgrading_class",
+      "label": "DisplayClusterConfigurationViewport_AllNodesColorGrading",
+      "file_type": "document",
+      "source_file": "DisplayClusterConfigurationViewport_AllNodesColorGrading Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat2dynamic_class",
+      "label": "DMMaterialValueFloat2Dynamic",
+      "file_type": "document",
+      "source_file": "DMMaterialValueFloat2Dynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguewavefactory_class",
+      "label": "DialogueWaveFactory",
+      "file_type": "document",
+      "source_file": "DialogueWaveFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_pbikbonesettings_class",
+      "label": "IKRig_PBIKBoneSettings (deprecated)",
+      "file_type": "document",
+      "source_file": "IKRig_PBIKBoneSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inapppurchaseproductinfo2_class",
+      "label": "InAppPurchaseProductInfo2",
+      "file_type": "document",
+      "source_file": "InAppPurchaseProductInfo2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skinnedmeshcomponent_class",
+      "label": "SkinnedMeshComponent",
+      "file_type": "document",
+      "source_file": "SkinnedMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_settings_class",
+      "label": "RigUnit_HierarchyAddControl_Settings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddControl_Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageconnection_class",
+      "label": "DMMaterialStageConnection",
+      "file_type": "document",
+      "source_file": "DMMaterialStageConnection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typedelementchildinclusionmethod_class",
+      "label": "TypedElementChildInclusionMethod",
+      "file_type": "document",
+      "source_file": "TypedElementChildInclusionMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_timeloop_class",
+      "label": "RigUnit_TimeLoop (deprecated)",
+      "file_type": "document",
+      "source_file": "RigUnit__TimeLoop Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timeddatachannelsampletime_class",
+      "label": "TimedDataChannelSampleTime",
+      "file_type": "document",
+      "source_file": "TimedDataChannelSampleTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadpropertyfragment_class",
+      "label": "EarthRoadPropertyFragment",
+      "file_type": "document",
+      "source_file": "EarthRoadPropertyFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onaudiofadesignature_class",
+      "label": "OnAudioFadeChangeSignature",
+      "file_type": "document",
+      "source_file": "OnAudioFadeChangeSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigsequencerlibrary_class",
+      "label": "ControlRigSequencerLibrary",
+      "file_type": "document",
+      "source_file": "ControlRigSequencerLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxstring_onselectionchangedevent_class",
+      "label": "ComboBoxString_OnSelectionChangedEvent",
+      "file_type": "document",
+      "source_file": "ComboBoxString_OnSelectionChangedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightmasslightsettings_class",
+      "label": "LightmassLightSettings",
+      "file_type": "document",
+      "source_file": "LightmassLightSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transactioncreateparams_class",
+      "label": "TransactionCreateParams",
+      "file_type": "document",
+      "source_file": "TransactionCreateParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "layeredboneblendlibrary_class",
+      "label": "LayeredBoneBlendLibrary",
+      "file_type": "document",
+      "source_file": "LayeredBoneBlendLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmappingcontext_type",
+      "label": "InputMappingContext",
+      "file_type": "document",
+      "source_file": "PlayerMappableInputConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enhancedinput_plugin",
+      "label": "EnhancedInput Plugin",
+      "file_type": "document",
+      "source_file": "PlayerMappableInputConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animrichcurve_class",
+      "label": "RigVMFunction_AnimRichCurve",
+      "file_type": "document",
+      "source_file": "RigUnit_AnimRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletal_mesh_asset",
+      "label": "SkeletalMesh/SkinnedAsset",
+      "file_type": "document",
+      "source_file": "SkinnedMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_system",
+      "label": "ControlRig System",
+      "file_type": "document",
+      "source_file": "ControlRigSequencerLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencer_animation_workflow",
+      "label": "Sequencer Animation Workflow",
+      "file_type": "document",
+      "source_file": "ControlRigSequencerLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_material_system",
+      "label": "Dynamic Material System",
+      "file_type": "document",
+      "source_file": "DMMaterialValueFloat2Dynamic Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "playermappableinputconfig_class",
+      "target": "inputmappingcontext_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerMappableInputConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playermappableinputconfig_class",
+      "target": "enhancedinput_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerMappableInputConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_animrichcurve_class",
+      "target": "rigvmfunction_animrichcurve_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AnimRichCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skinnedmeshcomponent_class",
+      "target": "skeletal_mesh_asset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkinnedMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigsequencerlibrary_class",
+      "target": "controlrig_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigSequencerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigsequencerlibrary_class",
+      "target": "sequencer_animation_workflow",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigSequencerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluefloat2dynamic_class",
+      "target": "dynamic_material_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialValueFloat2Dynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageconnection_class",
+      "target": "dynamic_material_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageConnection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_pbikbonesettings_class",
+      "target": "skinnedmeshcomponent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "IKRig_PBIKBoneSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_settings_class",
+      "target": "controlrig_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddControl_Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_timeloop_class",
+      "target": "controlrig_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__TimeLoop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "layeredboneblendlibrary_class",
+      "target": "skinnedmeshcomponent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LayeredBoneBlendLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigsequencerlibrary_class",
+      "target": "skinnedmeshcomponent_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRigSequencerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrigsequencerlibrary_class",
+      "target": "layeredboneblendlibrary_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ControlRigSequencerLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_settings_class",
+      "target": "rigunit_timeloop_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_HierarchyAddControl_Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_settings_class",
+      "target": "rigunit_animrichcurve_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_HierarchyAddControl_Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluefloat2dynamic_class",
+      "target": "dmmaterialstageconnection_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DMMaterialValueFloat2Dynamic Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_ecosystem",
+      "label": "Control Rig Ecosystem",
+      "nodes": [
+        "rigunit_animrichcurve_class",
+        "rigunit_hierarchyaddcontrol_settings_class",
+        "rigunit_timeloop_class",
+        "controlrigsequencerlibrary_class",
+        "ikrig_pbikbonesettings_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Multiple Files"
+    },
+    {
+      "id": "skeletal_animation_pipeline",
+      "label": "Skeletal Animation Pipeline",
+      "nodes": [
+        "skinnedmeshcomponent_class",
+        "layeredboneblendlibrary_class",
+        "controlrigsequencerlibrary_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple Files"
+    },
+    {
+      "id": "deprecated_api_migration",
+      "label": "Deprecated API Migration",
+      "nodes": [
+        "rigunit_animrichcurve_class",
+        "ikrig_pbikbonesettings_class",
+        "rigunit_timeloop_class"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Multiple Files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

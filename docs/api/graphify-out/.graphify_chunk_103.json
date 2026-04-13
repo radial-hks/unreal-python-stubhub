@@ -1,0 +1,1029 @@
+{
+  "nodes": [
+    {
+      "id": "animgraphnode_statemachine",
+      "label": "AnimGraphNode StateMachine",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_statemachinebase",
+      "label": "AnimGraphNode StateMachineBase",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_statemachine",
+      "label": "AnimNode StateMachine",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller_onpointerkeydoubleclicked",
+      "label": "WdpPlayerController OnPointerKeyDoubleClicked",
+      "file_type": "document",
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d",
+      "label": "Vector2D",
+      "file_type": "document",
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintnotequals",
+      "label": "RigUnit MathIntNotEquals",
+      "file_type": "document",
+      "source_file": "RigUnit_MathIntNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintnotequals",
+      "label": "RigVMFunction MathIntNotEquals",
+      "file_type": "document",
+      "source_file": "RigUnit_MathIntNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorbinaryaggregateop",
+      "label": "RigUnit MathVectorBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorbinaryaggregateop",
+      "label": "RigVMFunction MathVectorBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wmtsatom",
+      "label": "WMTSAtom",
+      "file_type": "document",
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gisdataapi_plugin",
+      "label": "GISDataAPI Plugin",
+      "file_type": "document",
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "u3dtilesentitypickatom",
+      "label": "U3DTilesEntityPickAtom",
+      "file_type": "document",
+      "source_file": "U3DTilesEntityPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitypickatom",
+      "label": "EntityPickAtom",
+      "file_type": "document",
+      "source_file": "U3DTilesEntityPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphpathtracerdenoisertype",
+      "label": "MovieGraphPathTracerDenoiserType",
+      "file_type": "document",
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatial_denoiser",
+      "label": "Spatial Denoiser",
+      "file_type": "document",
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "temporal_denoiser",
+      "label": "Temporal Denoiser",
+      "file_type": "document",
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpenvironmentutilsubsystem",
+      "label": "WdpEnvironmentUtilSubsystem",
+      "file_type": "document",
+      "source_file": "WdpEnvironmentUtilSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldsubsystem",
+      "label": "WorldSubsystem",
+      "file_type": "document",
+      "source_file": "WdpEnvironmentUtilSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "environmentutilmanager",
+      "label": "EnvironmentUtilManager",
+      "file_type": "document",
+      "source_file": "WdpEnvironmentUtilSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputdevices",
+      "label": "InputDevices",
+      "file_type": "document",
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "keyboard_device",
+      "label": "Keyboard Device",
+      "file_type": "document",
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mouse_device",
+      "label": "Mouse Device",
+      "file_type": "document",
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gamepad_device",
+      "label": "Gamepad Device",
+      "file_type": "document",
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vr_controllers",
+      "label": "VR Controllers",
+      "file_type": "document",
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spatial_input_devices",
+      "label": "Spatial Input Devices",
+      "file_type": "document",
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tablet_touch_input",
+      "label": "Tablet Touch Input",
+      "file_type": "document",
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshinstancingsettings",
+      "label": "MeshInstancingSettings",
+      "file_type": "document",
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "instanced_static_mesh",
+      "label": "Instanced Static Mesh",
+      "file_type": "document",
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hlod_volumes",
+      "label": "HLOD Volumes",
+      "file_type": "document",
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetcompiledata",
+      "label": "AssetCompileData",
+      "file_type": "document",
+      "source_file": "AssetCompileData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "AssetCompileData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "imagesequenceprotocol_png",
+      "label": "ImageSequenceProtocol PNG",
+      "file_type": "document",
+      "source_file": "ImageSequenceProtocol__PNG Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compressedimagesequenceprotocol",
+      "label": "CompressedImageSequenceProtocol",
+      "file_type": "document",
+      "source_file": "ImageSequenceProtocol__PNG Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_system",
+      "label": "Animation System",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_vm_system",
+      "label": "Rig VM System",
+      "file_type": "document",
+      "source_file": "RigUnit_MathIntNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gis_web_services",
+      "label": "GIS Web Services",
+      "file_type": "document",
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movie_render_pipeline",
+      "label": "Movie Render Pipeline",
+      "file_type": "document",
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpenvironment_plugin",
+      "label": "WdpEnvironment Plugin",
+      "file_type": "document",
+      "source_file": "WdpEnvironmentUtilSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcamera_plugin",
+      "label": "WdpCamera Plugin",
+      "file_type": "document",
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraph_module",
+      "label": "AnimGraph Module",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animgraphnode_statemachine",
+      "target": "animgraphnode_statemachinebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_statemachine",
+      "target": "animnode_statemachine",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_statemachine",
+      "target": "animgraph_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_statemachine",
+      "target": "animation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "AnimGraphNode__StateMachine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller_onpointerkeydoubleclicked",
+      "target": "multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller_onpointerkeydoubleclicked",
+      "target": "vector2d",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller_onpointerkeydoubleclicked",
+      "target": "wdpcamera_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintnotequals",
+      "target": "rigvmfunction_mathintnotequals",
+      "relation": "deprecated_renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathIntNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintnotequals",
+      "target": "rig_vm_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathIntNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbinaryaggregateop",
+      "target": "rigvmfunction_mathvectorbinaryaggregateop",
+      "relation": "deprecated_renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbinaryaggregateop",
+      "target": "vector",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorbinaryaggregateop",
+      "target": "rig_vm_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathVectorBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wmtsatom",
+      "target": "entityatombase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wmtsatom",
+      "target": "vector",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wmtsatom",
+      "target": "gisdataapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wmtsatom",
+      "target": "gis_web_services",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "u3dtilesentitypickatom",
+      "target": "entitypickatom",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "U3DTilesEntityPickAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "u3dtilesentitypickatom",
+      "target": "gisdataapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "U3DTilesEntityPickAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "u3dtilesentitypickatom",
+      "target": "gis_web_services",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "U3DTilesEntityPickAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphpathtracerdenoisertype",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spatial_denoiser",
+      "target": "moviegraphpathtracerdenoisertype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "temporal_denoiser",
+      "target": "moviegraphpathtracerdenoisertype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphpathtracerdenoisertype",
+      "target": "movie_render_pipeline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpenvironmentutilsubsystem",
+      "target": "worldsubsystem",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEnvironmentUtilSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpenvironmentutilsubsystem",
+      "target": "environmentutilmanager",
+      "relation": "provides_access_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEnvironmentUtilSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpenvironmentutilsubsystem",
+      "target": "wdpenvironment_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEnvironmentUtilSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputdevices",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "keyboard_device",
+      "target": "inputdevices",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mouse_device",
+      "target": "inputdevices",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gamepad_device",
+      "target": "inputdevices",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vr_controllers",
+      "target": "inputdevices",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spatial_input_devices",
+      "target": "inputdevices",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tablet_touch_input",
+      "target": "inputdevices",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshinstancingsettings",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshinstancingsettings",
+      "target": "instanced_static_mesh",
+      "relation": "configures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshinstancingsettings",
+      "target": "hlod_volumes",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshinstancingsettings",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MeshInstancingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetcompiledata",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetCompileData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetcompiledata",
+      "target": "object",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetCompileData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetcompiledata",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetCompileData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "imagesequenceprotocol_png",
+      "target": "compressedimagesequenceprotocol",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ImageSequenceProtocol__PNG Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spatial_denoiser",
+      "target": "temporal_denoiser",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieGraphPathTracerDenoiserType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vr_controllers",
+      "target": "spatial_input_devices",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InputDevices Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wmtsatom",
+      "target": "u3dtilesentitypickatom",
+      "relation": "shares_plugin_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WMTSAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintnotequals",
+      "target": "rigunit_mathvectorbinaryaggregateop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathIntNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vector2d",
+      "target": "vector",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcamera_plugin",
+      "target": "wdpenvironment_plugin",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpPlayerController__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "gis_data_processing",
+      "label": "GIS Data Processing Components",
+      "nodes": [
+        "wmtsatom",
+        "u3dtilesentitypickatom",
+        "gisdataapi_plugin"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WMTSAtom Objects.md"
+    },
+    {
+      "id": "deprecated_rig_units",
+      "label": "Deprecated RigVM Units",
+      "nodes": [
+        "rigunit_mathintnotequals",
+        "rigunit_mathvectorbinaryaggregateop",
+        "rig_vm_system"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_MathIntNotEquals Objects.md"
+    },
+    {
+      "id": "unreal_input_devices",
+      "label": "Unreal Engine Input Device Types",
+      "nodes": [
+        "inputdevices",
+        "keyboard_device",
+        "mouse_device",
+        "gamepad_device",
+        "vr_controllers",
+        "spatial_input_devices",
+        "tablet_touch_input"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputDevices Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

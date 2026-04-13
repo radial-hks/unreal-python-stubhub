@@ -1,0 +1,1902 @@
+{
+  "nodes": [
+    {
+      "id": "DCPNodeHightLightParam",
+      "type": "class",
+      "label": "DCPNodeHightLightParam",
+      "description": "DCPNode Hight Light Param",
+      "source": "DCPNodeHightLightParam Objects.md",
+      "module": "DcpAPI",
+      "plugin": "WdpAssetAPI",
+      "file": "DCPNodeAPIParams.h"
+    },
+    {
+      "id": "DCPNodeBaseParam",
+      "type": "class",
+      "label": "DCPNodeBaseParam",
+      "description": "Base class for DCPNode parameters"
+    },
+    {
+      "id": "DCPNodeHighLightStyleParam",
+      "type": "class",
+      "label": "DCPNodeHighLightStyleParam",
+      "description": "Style parameter for DCPNode highlighting"
+    },
+    {
+      "id": "SampledSequenceVectorViewerStyle",
+      "type": "class",
+      "label": "SampledSequenceVectorViewerStyle",
+      "description": "Represents the appearance of a trigger threshold line",
+      "source": "SampledSequenceVectorViewerStyle Objects.md",
+      "module": "AudioWidgets",
+      "plugin": "AudioWidgets",
+      "file": "SampledSequenceVectorViewerStyle.h"
+    },
+    {
+      "id": "SlateWidgetStyle",
+      "type": "class",
+      "label": "SlateWidgetStyle",
+      "description": "Base class for Slate widget styles"
+    },
+    {
+      "id": "EarthControlActor",
+      "type": "class",
+      "label": "EarthControlActor",
+      "description": "Earth Control Actor",
+      "source": "EarthControlActor Objects.md",
+      "module": "EarthControl",
+      "plugin": "AesWorld",
+      "file": "EarthControlActor.h"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor",
+      "description": "Base Actor class in Unreal Engine"
+    },
+    {
+      "id": "EarthCameraComponent",
+      "type": "class",
+      "label": "EarthCameraComponent",
+      "description": "Camera component for Earth control"
+    },
+    {
+      "id": "EarthControlEnhancedInput",
+      "type": "class",
+      "label": "EarthControlEnhancedInput",
+      "description": "Enhanced input system for Earth control"
+    },
+    {
+      "id": "ActorModifierCoreDisableReason",
+      "type": "enum",
+      "label": "ActorModifierCoreDisableReason",
+      "description": "EActor Modifier Core Disable Reason",
+      "source": "ActorModifierCoreDisableReason Objects.md",
+      "module": "ActorModifierCore",
+      "plugin": "ActorModifierCore",
+      "file": "ActorModifierCoreDefs.h"
+    },
+    {
+      "id": "DMMaterialStageExpressionParticleColor",
+      "type": "class",
+      "label": "DMMaterialStageExpressionParticleColor",
+      "description": "DMMaterial Stage Expression Particle Color",
+      "source": "DMMaterialStageExpressionParticleColor Objects.md",
+      "module": "DynamicMaterialEditor",
+      "plugin": "DynamicMaterial",
+      "file": "DMMSEParticleColor.h"
+    },
+    {
+      "id": "DMMaterialStageExpression",
+      "type": "class",
+      "label": "DMMaterialStageExpression",
+      "description": "Base class for Dynamic Material stage expressions"
+    },
+    {
+      "id": "MovieSceneNiagaraSystemTrack",
+      "type": "class",
+      "label": "MovieSceneNiagaraSystemTrack",
+      "description": "Movie Scene Niagara System Track",
+      "source": "MovieSceneNiagaraSystemTrack Objects.md",
+      "module": "Niagara",
+      "plugin": "Niagara",
+      "file": "MovieSceneNiagaraSystemTrack.h"
+    },
+    {
+      "id": "MovieSceneNiagaraTrack",
+      "type": "class",
+      "label": "MovieSceneNiagaraTrack",
+      "description": "Base class for Niagara movie scene tracks"
+    },
+    {
+      "id": "RigUnit_MathVectorFromFloat",
+      "type": "class",
+      "label": "RigUnit_MathVectorFromFloat",
+      "description": "deprecated: 'RigUnit_MathVectorFromFloat' was renamed to 'RigVMFunction_MathVectorFromFloat'",
+      "source": "RigUnit_MathVectorFromFloat Objects.md",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathVectorFromFloat' was renamed to 'RigVMFunction_MathVectorFromFloat'"
+    },
+    {
+      "id": "RigVMFunction_MathVectorFromFloat",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorFromFloat",
+      "description": "RigVM function for creating Vector from Float"
+    },
+    {
+      "id": "HardwareDeviceIdentifier",
+      "type": "struct",
+      "label": "HardwareDeviceIdentifier",
+      "description": "An identifier that can be used to determine what input devices are available",
+      "source": "HardwareDeviceIdentifier Objects.md",
+      "module": "Engine",
+      "file": "InputSettings.h"
+    },
+    {
+      "id": "HardwareDevicePrimaryType",
+      "type": "enum",
+      "label": "HardwareDevicePrimaryType",
+      "description": "Generic hardware device types"
+    },
+    {
+      "id": "ValueOrBBKey_Struct",
+      "type": "class",
+      "label": "ValueOrBBKey_Struct",
+      "description": "Value or BBKey Struct",
+      "source": "ValueOrBBKey_Struct Objects.md",
+      "module": "AIModule",
+      "file": "ValueOrBBKey.h"
+    },
+    {
+      "id": "ValueOrBlackboardKeyBase",
+      "type": "class",
+      "label": "ValueOrBlackboardKeyBase",
+      "description": "Base class for Value or Blackboard Key"
+    },
+    {
+      "id": "WidgetInteractionSource",
+      "type": "enum",
+      "label": "WidgetInteractionSource",
+      "description": "The interaction source for the widget interaction component",
+      "source": "WidgetInteractionSource Objects.md",
+      "module": "UMG",
+      "file": "WidgetInteractionComponent.h"
+    },
+    {
+      "id": "ActorExporterT3D",
+      "type": "class",
+      "label": "ActorExporterT3D",
+      "description": "Actor Exporter T3D",
+      "source": "ActorExporterT3D Objects.md",
+      "module": "UnrealEd",
+      "file": "ActorExporterT3D.h"
+    },
+    {
+      "id": "Exporter",
+      "type": "class",
+      "label": "Exporter",
+      "description": "Base class for exporters"
+    },
+    {
+      "id": "IKRigGoalPreviewMode",
+      "type": "enum",
+      "label": "IKRigGoalPreviewMode",
+      "description": "EIKRig Goal Preview Mode",
+      "source": "IKRigGoalPreviewMode Objects.md",
+      "module": "IKRig",
+      "plugin": "IKRig",
+      "file": "IKRigDefinition.h"
+    },
+    {
+      "id": "PointLightMovable",
+      "type": "class",
+      "label": "PointLightMovable",
+      "description": "deprecated: 'PointLightMovable' was renamed to 'PointLight'",
+      "source": "PointLightMovable Objects.md",
+      "deprecated": true,
+      "deprecated_message": "'PointLightMovable' was renamed to 'PointLight'"
+    },
+    {
+      "id": "PointLight",
+      "type": "class",
+      "label": "PointLight",
+      "description": "Point light actor"
+    },
+    {
+      "id": "MotionDesignPlayableLibrary",
+      "type": "class",
+      "label": "MotionDesignPlayableLibrary",
+      "description": "Ava Playable Library",
+      "source": "MotionDesignPlayableLibrary Objects.md",
+      "module": "AvalancheMedia",
+      "plugin": "Avalanche",
+      "file": "AvaPlayableLibrary.h"
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "class",
+      "label": "BlueprintFunctionLibrary",
+      "description": "Base class for blueprint function libraries"
+    },
+    {
+      "id": "ContentBrowserDataMenuContext_DragDropMenu",
+      "type": "class",
+      "label": "ContentBrowserDataMenuContext_DragDropMenu",
+      "description": "Content Browser Data Menu Context Drag Drop Menu",
+      "source": "ContentBrowserDataMenuContext__DragDropMenu Objects.md",
+      "module": "ContentBrowserData",
+      "file": "ContentBrowserDataMenuContexts.h"
+    },
+    {
+      "id": "ContentBrowserItem",
+      "type": "class",
+      "label": "ContentBrowserItem",
+      "description": "Content browser item"
+    },
+    {
+      "id": "RigPhysicsSolverID",
+      "type": "struct",
+      "label": "RigPhysicsSolverID",
+      "description": "Rig Physics Solver ID",
+      "source": "RigPhysicsSolverID Objects.md",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigHierarchyElements.h"
+    },
+    {
+      "id": "GameplayTask_TimeLimitedExecution_TaskFinishDelegate",
+      "type": "class",
+      "label": "GameplayTask_TimeLimitedExecution_TaskFinishDelegate",
+      "description": "Task Finish Delegate",
+      "source": "GameplayTask_TimeLimitedExecution_TaskFinishDelegate Objects.md",
+      "module": "GameplayTasks",
+      "file": "GameplayTask_TimeLimitedExecution.h"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "label": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "AvaShapeMaterialUVParameters",
+      "type": "struct",
+      "label": "AvaShapeMaterialUVParameters",
+      "description": "Ava Shape Material UVParameters",
+      "source": "AvaShapeMaterialUVParameters Objects.md",
+      "module": "AvalancheShapes",
+      "plugin": "Avalanche",
+      "file": "AvaShapeUVParameters.h"
+    },
+    {
+      "id": "AvaShapeUVMode",
+      "type": "enum",
+      "label": "AvaShapeUVMode",
+      "description": "UV mode for Avalanche shapes"
+    },
+    {
+      "id": "AvaAnchors",
+      "type": "enum",
+      "label": "AvaAnchors",
+      "description": "Anchor presets for Avalanche"
+    },
+    {
+      "id": "GameplayTask_ClaimResource",
+      "type": "class",
+      "label": "GameplayTask_ClaimResource",
+      "description": "Gameplay Task Claim Resource",
+      "source": "GameplayTask__ClaimResource Objects.md",
+      "module": "GameplayTasks",
+      "file": "GameplayTask_ClaimResource.h"
+    },
+    {
+      "id": "GameplayTask",
+      "type": "class",
+      "label": "GameplayTask",
+      "description": "Base class for gameplay tasks"
+    },
+    {
+      "id": "GameplayTaskOwnerInterface",
+      "type": "interface",
+      "label": "GameplayTaskOwnerInterface",
+      "description": "Interface for gameplay task owners"
+    },
+    {
+      "id": "PCGCollapseVisitOrder",
+      "type": "enum",
+      "label": "PCGCollapseVisitOrder",
+      "description": "EPCGCollapse Visit Order",
+      "source": "PCGCollapseVisitOrder Objects.md",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGCollapsePoints.h"
+    },
+    {
+      "id": "DatasmithAreaLightActor",
+      "type": "class",
+      "label": "DatasmithAreaLightActor",
+      "description": "Datasmith Area Light Actor",
+      "source": "DatasmithAreaLightActor Objects.md",
+      "module": "DatasmithContent",
+      "plugin": "DatasmithContent",
+      "file": "DatasmithAreaLightActor.h"
+    },
+    {
+      "id": "DatasmithAreaLightActorType",
+      "type": "enum",
+      "label": "DatasmithAreaLightActorType",
+      "description": "Type of area light"
+    },
+    {
+      "id": "DatasmithAreaLightActorShape",
+      "type": "enum",
+      "label": "DatasmithAreaLightActorShape",
+      "description": "Shape of area light"
+    },
+    {
+      "id": "LightUnits",
+      "type": "enum",
+      "label": "LightUnits",
+      "description": "Units for light intensity"
+    },
+    {
+      "id": "TextureLightProfile",
+      "type": "class",
+      "label": "TextureLightProfile",
+      "description": "IES texture light profile"
+    },
+    {
+      "id": "ComponentMobility",
+      "type": "enum",
+      "label": "ComponentMobility",
+      "description": "Component mobility types"
+    },
+    {
+      "id": "DateTimeStyle",
+      "type": "enum",
+      "label": "DateTimeStyle",
+      "description": "EDate Time Style",
+      "source": "DateTimeStyle Objects.md",
+      "module": "Engine",
+      "file": "KismetTextLibrary.h"
+    },
+    {
+      "id": "property_exclusion",
+      "type": "property",
+      "label": "exclusion",
+      "description": "bool property",
+      "data_type": "bool"
+    },
+    {
+      "id": "property_guid",
+      "type": "property",
+      "label": "guid",
+      "description": "str property",
+      "data_type": "str"
+    },
+    {
+      "id": "property_high_light_style",
+      "type": "property",
+      "label": "high_light_style",
+      "description": "DCPNodeHighLightStyleParam property",
+      "data_type": "DCPNodeHighLightStyleParam"
+    },
+    {
+      "id": "property_hightlight",
+      "type": "property",
+      "label": "hightlight",
+      "description": "bool property",
+      "data_type": "bool"
+    },
+    {
+      "id": "property_hit_keys",
+      "type": "property",
+      "label": "hit_keys",
+      "description": "Set[Name] property",
+      "data_type": "Set[Name]"
+    },
+    {
+      "id": "property_node_id",
+      "type": "property",
+      "label": "node_id",
+      "description": "int32 property",
+      "data_type": "int32"
+    },
+    {
+      "id": "property_background_brush",
+      "type": "property",
+      "label": "background_brush",
+      "description": "SlateBrush property",
+      "data_type": "SlateBrush"
+    },
+    {
+      "id": "property_background_color",
+      "type": "property",
+      "label": "background_color",
+      "description": "SlateColor property - The background color",
+      "data_type": "SlateColor"
+    },
+    {
+      "id": "property_line_color",
+      "type": "property",
+      "label": "line_color",
+      "description": "LinearColor property - The vector view line color",
+      "data_type": "LinearColor"
+    },
+    {
+      "id": "property_line_thickness",
+      "type": "property",
+      "label": "line_thickness",
+      "description": "float property - The vector view line thickness",
+      "data_type": "float"
+    },
+    {
+      "id": "property_earth_camera_component",
+      "type": "property",
+      "label": "earth_camera_component",
+      "description": "EarthCameraComponent property - Read-Only",
+      "data_type": "EarthCameraComponent",
+      "access": "read-only"
+    },
+    {
+      "id": "property_earth_input",
+      "type": "property",
+      "label": "earth_input",
+      "description": "EarthControlEnhancedInput property",
+      "data_type": "EarthControlEnhancedInput"
+    },
+    {
+      "id": "property_earth_radius",
+      "type": "property",
+      "label": "earth_radius",
+      "description": "double property",
+      "data_type": "double"
+    },
+    {
+      "id": "property_camera_altitude",
+      "type": "property",
+      "label": "camera_altitude",
+      "description": "double property",
+      "data_type": "double"
+    },
+    {
+      "id": "property_world_center",
+      "type": "property",
+      "label": "world_center",
+      "description": "Vector property",
+      "data_type": "Vector"
+    },
+    {
+      "id": "method_get_camera_lon_lat",
+      "type": "method",
+      "label": "get_camera_lon_lat",
+      "description": "Get Camera Lon Lat",
+      "return_type": "Vector2D"
+    },
+    {
+      "id": "method_focus_to_point",
+      "type": "method",
+      "label": "focus_to_point",
+      "description": "Focus to Point",
+      "parameters": [
+        {
+          "name": "world_location",
+          "type": "Vector"
+        }
+      ]
+    },
+    {
+      "id": "method_fly_to_position",
+      "type": "method",
+      "label": "fly_to_position",
+      "description": "Fly to Position",
+      "parameters": [
+        {
+          "name": "position",
+          "type": "EarthFlytoPos"
+        },
+        {
+          "name": "fly_all_time",
+          "type": "float",
+          "default": 5.000000
+        }
+      ]
+    },
+    {
+      "id": "enum_value_USER",
+      "type": "enum_value",
+      "label": "USER",
+      "value": 0,
+      "description": "Modifier disabled by user"
+    },
+    {
+      "id": "enum_value_UNDO",
+      "type": "enum_value",
+      "label": "UNDO",
+      "value": 1,
+      "description": "Modifier disabled by undo"
+    },
+    {
+      "id": "enum_value_DESTROYED",
+      "type": "enum_value",
+      "label": "DESTROYED",
+      "value": 2,
+      "description": "Modifier disabled by actor destroyed"
+    },
+    {
+      "id": "property_hardware_device_identifier",
+      "type": "property",
+      "label": "hardware_device_identifier",
+      "description": "Name property - The name of this hardware device",
+      "data_type": "Name",
+      "access": "read-only"
+    },
+    {
+      "id": "property_input_class_name",
+      "type": "property",
+      "label": "input_class_name",
+      "description": "Name property - The name of the Input Class that uses this hardware device",
+      "data_type": "Name",
+      "access": "read-only"
+    },
+    {
+      "id": "property_primary_device_type",
+      "type": "property",
+      "label": "primary_device_type",
+      "description": "HardwareDevicePrimaryType property - The generic type that this hardware identifies as",
+      "data_type": "HardwareDevicePrimaryType",
+      "access": "read-only"
+    },
+    {
+      "id": "property_supported_features_mask",
+      "type": "property",
+      "label": "supported_features_mask",
+      "description": "int32 property - Flags that represent this hardware device's traits",
+      "data_type": "int32",
+      "access": "read-only"
+    },
+    {
+      "id": "property_key",
+      "type": "property",
+      "label": "key",
+      "description": "Name property",
+      "data_type": "Name"
+    },
+    {
+      "id": "property_default_value",
+      "type": "property",
+      "label": "default_value",
+      "description": "InstancedStruct property",
+      "data_type": "InstancedStruct"
+    },
+    {
+      "id": "enum_value_WORLD",
+      "type": "enum_value",
+      "label": "WORLD",
+      "value": 0,
+      "description": "Sends traces from the world location and orientation of the interaction component"
+    },
+    {
+      "id": "enum_value_MOUSE",
+      "type": "enum_value",
+      "label": "MOUSE",
+      "value": 1,
+      "description": "Sends traces from the mouse location of the first local player controller"
+    },
+    {
+      "id": "enum_value_CENTER_SCREEN",
+      "type": "enum_value",
+      "label": "CENTER_SCREEN",
+      "value": 2,
+      "description": "Sends trace from the center of the first local player's screen"
+    },
+    {
+      "id": "enum_value_CUSTOM",
+      "type": "enum_value",
+      "label": "CUSTOM",
+      "value": 3,
+      "description": "Sends traces from a custom location determined by the user"
+    },
+    {
+      "id": "property_export_task",
+      "type": "property",
+      "label": "export_task",
+      "description": "AssetExportTask property",
+      "data_type": "AssetExportTask"
+    },
+    {
+      "id": "property_format_description",
+      "type": "property",
+      "label": "format_description",
+      "description": "Array[str] property - Description of the export format",
+      "data_type": "Array[str]"
+    },
+    {
+      "id": "property_format_extension",
+      "type": "property",
+      "label": "format_extension",
+      "description": "Array[str] property - File extension to use for this exporter",
+      "data_type": "Array[str]"
+    },
+    {
+      "id": "property_supported_class",
+      "type": "property",
+      "label": "supported_class",
+      "description": "type(Class) property - Supported class of this exporter",
+      "data_type": "type(Class)"
+    },
+    {
+      "id": "property_text",
+      "type": "property",
+      "label": "text",
+      "description": "bool property - If true, this will export the data as text",
+      "data_type": "bool"
+    },
+    {
+      "id": "enum_value_ADDITIVE",
+      "type": "enum_value",
+      "label": "ADDITIVE",
+      "value": 0
+    },
+    {
+      "id": "enum_value_ABSOLUTE",
+      "type": "enum_value",
+      "label": "ABSOLUTE",
+      "value": 1
+    },
+    {
+      "id": "method_update_playable_remote_control_values",
+      "type": "method",
+      "label": "update_playable_remote_control_values",
+      "description": "Injects the remote control values from current transition for the current playable",
+      "return_type": "bool",
+      "is_static": true,
+      "parameters": [
+        {
+          "name": "world_context_object",
+          "type": "Object"
+        }
+      ]
+    },
+    {
+      "id": "method_set_playable_hidden",
+      "type": "method",
+      "label": "set_playable_hidden",
+      "description": "Sets the hidden state of all primitives under this playable",
+      "return_type": "bool",
+      "is_static": true,
+      "parameters": [
+        {
+          "name": "world_context_object",
+          "type": "Object"
+        },
+        {
+          "name": "should_be_hidden",
+          "type": "bool"
+        }
+      ]
+    },
+    {
+      "id": "method_is_playable_hidden",
+      "type": "method",
+      "label": "is_playable_hidden",
+      "description": "Returns the current hidden state of this playable",
+      "return_type": "bool",
+      "is_static": true,
+      "parameters": [
+        {
+          "name": "world_context_object",
+          "type": "Object"
+        }
+      ]
+    },
+    {
+      "id": "property_drop_target_item",
+      "type": "property",
+      "label": "drop_target_item",
+      "description": "ContentBrowserItem property - Read-Only",
+      "data_type": "ContentBrowserItem",
+      "access": "read-only"
+    },
+    {
+      "id": "property_dragged_items",
+      "type": "property",
+      "label": "dragged_items",
+      "description": "Array[ContentBrowserItem] property - Read-Only",
+      "data_type": "Array[ContentBrowserItem]",
+      "access": "read-only"
+    },
+    {
+      "id": "property_can_move",
+      "type": "property",
+      "label": "can_move",
+      "description": "bool property - Read-Only",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "property_can_copy",
+      "type": "property",
+      "label": "can_copy",
+      "description": "bool property - Read-Only",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "property_RigPhysicsSolverID_guid",
+      "type": "property",
+      "label": "guid",
+      "description": "Guid property - Read-Only",
+      "data_type": "Guid",
+      "access": "read-only"
+    },
+    {
+      "id": "property_mode",
+      "type": "property",
+      "label": "mode",
+      "description": "AvaShapeUVMode property",
+      "data_type": "AvaShapeUVMode"
+    },
+    {
+      "id": "property_anchor_preset",
+      "type": "property",
+      "label": "anchor_preset",
+      "description": "AvaAnchors property",
+      "data_type": "AvaAnchors"
+    },
+    {
+      "id": "property_anchor",
+      "type": "property",
+      "label": "anchor",
+      "description": "Vector2D property",
+      "data_type": "Vector2D"
+    },
+    {
+      "id": "property_scale",
+      "type": "property",
+      "label": "scale",
+      "description": "Vector2D property",
+      "data_type": "Vector2D"
+    },
+    {
+      "id": "property_offset",
+      "type": "property",
+      "label": "offset",
+      "description": "Vector2D property",
+      "data_type": "Vector2D"
+    },
+    {
+      "id": "property_rotation",
+      "type": "property",
+      "label": "rotation",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_flip_horizontal",
+      "type": "property",
+      "label": "flip_horizontal",
+      "description": "bool property",
+      "data_type": "bool"
+    },
+    {
+      "id": "property_flip_vertical",
+      "type": "property",
+      "label": "flip_vertical",
+      "description": "bool property",
+      "data_type": "bool"
+    },
+    {
+      "id": "method_claim_resources",
+      "type": "method",
+      "label": "claim_resources",
+      "description": "Claim Resources",
+      "return_type": "GameplayTask_ClaimResource",
+      "is_static": true,
+      "parameters": [
+        {
+          "name": "task_owner",
+          "type": "GameplayTaskOwnerInterface"
+        },
+        {
+          "name": "resource_classes",
+          "type": "Array[Class]"
+        },
+        {
+          "name": "priority",
+          "type": "int",
+          "default": 192
+        },
+        {
+          "name": "task_instance_name",
+          "type": "Name",
+          "default": "None"
+        }
+      ]
+    },
+    {
+      "id": "method_claim_resource",
+      "type": "method",
+      "label": "claim_resource",
+      "description": "Claim Resource",
+      "return_type": "GameplayTask_ClaimResource",
+      "is_static": true,
+      "parameters": [
+        {
+          "name": "task_owner",
+          "type": "GameplayTaskOwnerInterface"
+        },
+        {
+          "name": "resource_class",
+          "type": "Class"
+        },
+        {
+          "name": "priority",
+          "type": "int",
+          "default": 192
+        },
+        {
+          "name": "task_instance_name",
+          "type": "Name",
+          "default": "None"
+        }
+      ]
+    },
+    {
+      "id": "enum_value_ORDERED",
+      "type": "enum_value",
+      "label": "ORDERED",
+      "value": 0,
+      "description": "Will create pairs based on original point order"
+    },
+    {
+      "id": "enum_value_RANDOM",
+      "type": "enum_value",
+      "label": "RANDOM",
+      "value": 1,
+      "description": "Will generate a random ordering that will drive pair order creation"
+    },
+    {
+      "id": "enum_value_MIN_ATTRIBUTE",
+      "type": "enum_value",
+      "label": "MIN_ATTRIBUTE",
+      "value": 2,
+      "description": "Will create pairs according to attribute value order (minimum value first)"
+    },
+    {
+      "id": "enum_value_MAX_ATTRIBUTE",
+      "type": "enum_value",
+      "label": "MAX_ATTRIBUTE",
+      "value": 3,
+      "description": "Will create pairs according to attribute value order (maximum value first)"
+    },
+    {
+      "id": "property_light_type",
+      "type": "property",
+      "label": "light_type",
+      "description": "DatasmithAreaLightActorType property",
+      "data_type": "DatasmithAreaLightActorType"
+    },
+    {
+      "id": "property_light_shape",
+      "type": "property",
+      "label": "light_shape",
+      "description": "DatasmithAreaLightActorShape property",
+      "data_type": "DatasmithAreaLightActorShape"
+    },
+    {
+      "id": "property_dimensions",
+      "type": "property",
+      "label": "dimensions",
+      "description": "Vector2D property",
+      "data_type": "Vector2D"
+    },
+    {
+      "id": "property_intensity",
+      "type": "property",
+      "label": "intensity",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_intensity_units",
+      "type": "property",
+      "label": "intensity_units",
+      "description": "LightUnits property",
+      "data_type": "LightUnits"
+    },
+    {
+      "id": "property_color",
+      "type": "property",
+      "label": "color",
+      "description": "LinearColor property",
+      "data_type": "LinearColor"
+    },
+    {
+      "id": "property_temperature",
+      "type": "property",
+      "label": "temperature",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_ies_texture",
+      "type": "property",
+      "label": "ies_texture",
+      "description": "TextureLightProfile property",
+      "data_type": "TextureLightProfile"
+    },
+    {
+      "id": "property_use_ies_brightness",
+      "type": "property",
+      "label": "use_ies_brightness",
+      "description": "bool property",
+      "data_type": "bool"
+    },
+    {
+      "id": "property_ies_brightness_scale",
+      "type": "property",
+      "label": "ies_brightness_scale",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_DatasmithAreaLightActor_rotation",
+      "type": "property",
+      "label": "rotation",
+      "description": "Rotator property",
+      "data_type": "Rotator"
+    },
+    {
+      "id": "property_source_radius",
+      "type": "property",
+      "label": "source_radius",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_source_length",
+      "type": "property",
+      "label": "source_length",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_attenuation_radius",
+      "type": "property",
+      "label": "attenuation_radius",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_spotlight_inner_angle",
+      "type": "property",
+      "label": "spotlight_inner_angle",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_spotlight_outer_angle",
+      "type": "property",
+      "label": "spotlight_outer_angle",
+      "description": "float property",
+      "data_type": "float"
+    },
+    {
+      "id": "property_mobility",
+      "type": "property",
+      "label": "mobility",
+      "description": "ComponentMobility property - Read-Only",
+      "data_type": "ComponentMobility",
+      "access": "read-only"
+    },
+    {
+      "id": "enum_value_DEFAULT",
+      "type": "enum_value",
+      "label": "DEFAULT",
+      "value": 0
+    },
+    {
+      "id": "enum_value_SHORT",
+      "type": "enum_value",
+      "label": "SHORT",
+      "value": 1
+    },
+    {
+      "id": "enum_value_MEDIUM",
+      "type": "enum_value",
+      "label": "MEDIUM",
+      "value": 2
+    },
+    {
+      "id": "enum_value_LONG",
+      "type": "enum_value",
+      "label": "LONG",
+      "value": 3
+    },
+    {
+      "id": "enum_value_FULL",
+      "type": "enum_value",
+      "label": "FULL",
+      "value": 4
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_DCPNodeHightLightParam_extends_DCPNodeBaseParam",
+      "source": "DCPNodeHightLightParam",
+      "target": "DCPNodeBaseParam",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_DCPNodeHightLightParam_has_property_exclusion",
+      "source": "DCPNodeHightLightParam",
+      "target": "property_exclusion",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DCPNodeHightLightParam_has_property_guid",
+      "source": "DCPNodeHightLightParam",
+      "target": "property_guid",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DCPNodeHightLightParam_has_property_high_light_style",
+      "source": "DCPNodeHightLightParam",
+      "target": "property_high_light_style",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DCPNodeHightLightParam_has_property_hightlight",
+      "source": "DCPNodeHightLightParam",
+      "target": "property_hightlight",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DCPNodeHightLightParam_has_property_hit_keys",
+      "source": "DCPNodeHightLightParam",
+      "target": "property_hit_keys",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DCPNodeHightLightParam_has_property_node_id",
+      "source": "DCPNodeHightLightParam",
+      "target": "property_node_id",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_SampledSequenceVectorViewerStyle_extends_SlateWidgetStyle",
+      "source": "SampledSequenceVectorViewerStyle",
+      "target": "SlateWidgetStyle",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_SampledSequenceVectorViewerStyle_has_property_background_brush",
+      "source": "SampledSequenceVectorViewerStyle",
+      "target": "property_background_brush",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_SampledSequenceVectorViewerStyle_has_property_background_color",
+      "source": "SampledSequenceVectorViewerStyle",
+      "target": "property_background_color",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_SampledSequenceVectorViewerStyle_has_property_line_color",
+      "source": "SampledSequenceVectorViewerStyle",
+      "target": "property_line_color",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_SampledSequenceVectorViewerStyle_has_property_line_thickness",
+      "source": "SampledSequenceVectorViewerStyle",
+      "target": "property_line_thickness",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_EarthControlActor_extends_Actor",
+      "source": "EarthControlActor",
+      "target": "Actor",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_EarthControlActor_has_property_earth_camera_component",
+      "source": "EarthControlActor",
+      "target": "property_earth_camera_component",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_EarthControlActor_has_property_earth_input",
+      "source": "EarthControlActor",
+      "target": "property_earth_input",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_EarthControlActor_has_property_earth_radius",
+      "source": "EarthControlActor",
+      "target": "property_earth_radius",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_EarthControlActor_has_property_camera_altitude",
+      "source": "EarthControlActor",
+      "target": "property_camera_altitude",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_EarthControlActor_has_property_world_center",
+      "source": "EarthControlActor",
+      "target": "property_world_center",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_EarthControlActor_has_method_get_camera_lon_lat",
+      "source": "EarthControlActor",
+      "target": "method_get_camera_lon_lat",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "id": "edge_EarthControlActor_has_method_focus_to_point",
+      "source": "EarthControlActor",
+      "target": "method_focus_to_point",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "id": "edge_EarthControlActor_has_method_fly_to_position",
+      "source": "EarthControlActor",
+      "target": "method_fly_to_position",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "id": "edge_ActorModifierCoreDisableReason_has_value_USER",
+      "source": "ActorModifierCoreDisableReason",
+      "target": "enum_value_USER",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_ActorModifierCoreDisableReason_has_value_UNDO",
+      "source": "ActorModifierCoreDisableReason",
+      "target": "enum_value_UNDO",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_ActorModifierCoreDisableReason_has_value_DESTROYED",
+      "source": "ActorModifierCoreDisableReason",
+      "target": "enum_value_DESTROYED",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_DMMaterialStageExpressionParticleColor_extends_DMMaterialStageExpression",
+      "source": "DMMaterialStageExpressionParticleColor",
+      "target": "DMMaterialStageExpression",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_MovieSceneNiagaraSystemTrack_extends_MovieSceneNiagaraTrack",
+      "source": "MovieSceneNiagaraSystemTrack",
+      "target": "MovieSceneNiagaraTrack",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_RigUnit_MathVectorFromFloat_deprecated_for_RigVMFunction_MathVectorFromFloat",
+      "source": "RigUnit_MathVectorFromFloat",
+      "target": "RigVMFunction_MathVectorFromFloat",
+      "type": "deprecated_for",
+      "label": "deprecated for"
+    },
+    {
+      "id": "edge_HardwareDeviceIdentifier_extends_StructBase",
+      "source": "HardwareDeviceIdentifier",
+      "target": "StructBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_HardwareDeviceIdentifier_has_property_hardware_device_identifier",
+      "source": "HardwareDeviceIdentifier",
+      "target": "property_hardware_device_identifier",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_HardwareDeviceIdentifier_has_property_input_class_name",
+      "source": "HardwareDeviceIdentifier",
+      "target": "property_input_class_name",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_HardwareDeviceIdentifier_has_property_primary_device_type",
+      "source": "HardwareDeviceIdentifier",
+      "target": "property_primary_device_type",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_HardwareDeviceIdentifier_has_property_supported_features_mask",
+      "source": "HardwareDeviceIdentifier",
+      "target": "property_supported_features_mask",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ValueOrBBKey_Struct_extends_ValueOrBlackboardKeyBase",
+      "source": "ValueOrBBKey_Struct",
+      "target": "ValueOrBlackboardKeyBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_ValueOrBBKey_Struct_has_property_key",
+      "source": "ValueOrBBKey_Struct",
+      "target": "property_key",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ValueOrBBKey_Struct_has_property_default_value",
+      "source": "ValueOrBBKey_Struct",
+      "target": "property_default_value",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_WidgetInteractionSource_has_value_WORLD",
+      "source": "WidgetInteractionSource",
+      "target": "enum_value_WORLD",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_WidgetInteractionSource_has_value_MOUSE",
+      "source": "WidgetInteractionSource",
+      "target": "enum_value_MOUSE",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_WidgetInteractionSource_has_value_CENTER_SCREEN",
+      "source": "WidgetInteractionSource",
+      "target": "enum_value_CENTER_SCREEN",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_WidgetInteractionSource_has_value_CUSTOM",
+      "source": "WidgetInteractionSource",
+      "target": "enum_value_CUSTOM",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_ActorExporterT3D_extends_Exporter",
+      "source": "ActorExporterT3D",
+      "target": "Exporter",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_ActorExporterT3D_has_property_export_task",
+      "source": "ActorExporterT3D",
+      "target": "property_export_task",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ActorExporterT3D_has_property_format_description",
+      "source": "ActorExporterT3D",
+      "target": "property_format_description",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ActorExporterT3D_has_property_format_extension",
+      "source": "ActorExporterT3D",
+      "target": "property_format_extension",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ActorExporterT3D_has_property_supported_class",
+      "source": "ActorExporterT3D",
+      "target": "property_supported_class",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ActorExporterT3D_has_property_text",
+      "source": "ActorExporterT3D",
+      "target": "property_text",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_IKRigGoalPreviewMode_has_value_ADDITIVE",
+      "source": "IKRigGoalPreviewMode",
+      "target": "enum_value_ADDITIVE",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_IKRigGoalPreviewMode_has_value_ABSOLUTE",
+      "source": "IKRigGoalPreviewMode",
+      "target": "enum_value_ABSOLUTE",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_PointLightMovable_deprecated_for_PointLight",
+      "source": "PointLightMovable",
+      "target": "PointLight",
+      "type": "deprecated_for",
+      "label": "deprecated for"
+    },
+    {
+      "id": "edge_MotionDesignPlayableLibrary_extends_BlueprintFunctionLibrary",
+      "source": "MotionDesignPlayableLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_MotionDesignPlayableLibrary_has_method_update_playable_remote_control_values",
+      "source": "MotionDesignPlayableLibrary",
+      "target": "method_update_playable_remote_control_values",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "id": "edge_MotionDesignPlayableLibrary_has_method_set_playable_hidden",
+      "source": "MotionDesignPlayableLibrary",
+      "target": "method_set_playable_hidden",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "id": "edge_MotionDesignPlayableLibrary_has_method_is_playable_hidden",
+      "source": "MotionDesignPlayableLibrary",
+      "target": "method_is_playable_hidden",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "id": "edge_ContentBrowserDataMenuContext_DragDropMenu_extends_Object",
+      "source": "ContentBrowserDataMenuContext_DragDropMenu",
+      "target": "Object",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_ContentBrowserDataMenuContext_DragDropMenu_has_property_drop_target_item",
+      "source": "ContentBrowserDataMenuContext_DragDropMenu",
+      "target": "property_drop_target_item",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ContentBrowserDataMenuContext_DragDropMenu_has_property_dragged_items",
+      "source": "ContentBrowserDataMenuContext_DragDropMenu",
+      "target": "property_dragged_items",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ContentBrowserDataMenuContext_DragDropMenu_has_property_can_move",
+      "source": "ContentBrowserDataMenuContext_DragDropMenu",
+      "target": "property_can_move",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_ContentBrowserDataMenuContext_DragDropMenu_has_property_can_copy",
+      "source": "ContentBrowserDataMenuContext_DragDropMenu",
+      "target": "property_can_copy",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_RigPhysicsSolverID_extends_StructBase",
+      "source": "RigPhysicsSolverID",
+      "target": "StructBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_RigPhysicsSolverID_has_property_guid",
+      "source": "RigPhysicsSolverID",
+      "target": "property_RigPhysicsSolverID_guid",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_GameplayTask_TimeLimitedExecution_TaskFinishDelegate_extends_MulticastDelegateBase",
+      "source": "GameplayTask_TimeLimitedExecution_TaskFinishDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_extends_StructBase",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "StructBase",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_has_property_mode",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "property_mode",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_has_property_anchor_preset",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "property_anchor_preset",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_has_property_anchor",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "property_anchor",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_has_property_scale",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "property_scale",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_has_property_offset",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "property_offset",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_has_property_rotation",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "property_rotation",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_has_property_flip_horizontal",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "property_flip_horizontal",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_AvaShapeMaterialUVParameters_has_property_flip_vertical",
+      "source": "AvaShapeMaterialUVParameters",
+      "target": "property_flip_vertical",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_GameplayTask_ClaimResource_extends_GameplayTask",
+      "source": "GameplayTask_ClaimResource",
+      "target": "GameplayTask",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_GameplayTask_ClaimResource_has_method_claim_resources",
+      "source": "GameplayTask_ClaimResource",
+      "target": "method_claim_resources",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "id": "edge_GameplayTask_ClaimResource_has_method_claim_resource",
+      "source": "GameplayTask_ClaimResource",
+      "target": "method_claim_resource",
+      "type": "has_method",
+      "label": "has method"
+    },
+    {
+      "id": "edge_PCGCollapseVisitOrder_has_value_ORDERED",
+      "source": "PCGCollapseVisitOrder",
+      "target": "enum_value_ORDERED",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_PCGCollapseVisitOrder_has_value_RANDOM",
+      "source": "PCGCollapseVisitOrder",
+      "target": "enum_value_RANDOM",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_PCGCollapseVisitOrder_has_value_MIN_ATTRIBUTE",
+      "source": "PCGCollapseVisitOrder",
+      "target": "enum_value_MIN_ATTRIBUTE",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_PCGCollapseVisitOrder_has_value_MAX_ATTRIBUTE",
+      "source": "PCGCollapseVisitOrder",
+      "target": "enum_value_MAX_ATTRIBUTE",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_extends_Actor",
+      "source": "DatasmithAreaLightActor",
+      "target": "Actor",
+      "type": "extends",
+      "label": "extends"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_light_type",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_light_type",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_light_shape",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_light_shape",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_dimensions",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_dimensions",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_intensity",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_intensity",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_intensity_units",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_intensity_units",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_color",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_color",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_temperature",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_temperature",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_ies_texture",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_ies_texture",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_use_ies_brightness",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_use_ies_brightness",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_ies_brightness_scale",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_ies_brightness_scale",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_rotation",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_DatasmithAreaLightActor_rotation",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_source_radius",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_source_radius",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_source_length",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_source_length",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_attenuation_radius",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_attenuation_radius",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_spotlight_inner_angle",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_spotlight_inner_angle",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_spotlight_outer_angle",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_spotlight_outer_angle",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DatasmithAreaLightActor_has_property_mobility",
+      "source": "DatasmithAreaLightActor",
+      "target": "property_mobility",
+      "type": "has_property",
+      "label": "has property"
+    },
+    {
+      "id": "edge_DateTimeStyle_has_value_DEFAULT",
+      "source": "DateTimeStyle",
+      "target": "enum_value_DEFAULT",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_DateTimeStyle_has_value_SHORT",
+      "source": "DateTimeStyle",
+      "target": "enum_value_SHORT",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_DateTimeStyle_has_value_MEDIUM",
+      "source": "DateTimeStyle",
+      "target": "enum_value_MEDIUM",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_DateTimeStyle_has_value_LONG",
+      "source": "DateTimeStyle",
+      "target": "enum_value_LONG",
+      "type": "has_value",
+      "label": "has value"
+    },
+    {
+      "id": "edge_DateTimeStyle_has_value_FULL",
+      "source": "DateTimeStyle",
+      "target": "enum_value_FULL",
+      "type": "has_value",
+      "label": "has value"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_plugin_module_file",
+      "nodes": [
+        "DCPNodeHightLightParam",
+        "WdpAssetAPI",
+        "DcpAPI",
+        "DCPNodeAPIParams.h"
+      ],
+      "description": "DCPNodeHightLightParam belongs to WdpAssetAPI plugin, DcpAPI module, defined in DCPNodeAPIParams.h"
+    },
+    {
+      "id": "hyperedge_audio_widgets_plugin",
+      "nodes": [
+        "SampledSequenceVectorViewerStyle",
+        "AudioWidgets"
+      ],
+      "description": "SampledSequenceVectorViewerStyle belongs to AudioWidgets plugin and module"
+    },
+    {
+      "id": "hyperedge_earth_control_plugin",
+      "nodes": [
+        "EarthControlActor",
+        "AesWorld",
+        "EarthControl"
+      ],
+      "description": "EarthControlActor belongs to AesWorld plugin, EarthControl module"
+    },
+    {
+      "id": "hyperedge_modifier_core_plugin",
+      "nodes": [
+        "ActorModifierCoreDisableReason",
+        "ActorModifierCore"
+      ],
+      "description": "ActorModifierCoreDisableReason belongs to ActorModifierCore plugin and module"
+    },
+    {
+      "id": "hyperedge_dynamic_material_plugin",
+      "nodes": [
+        "DMMaterialStageExpressionParticleColor",
+        "DynamicMaterial",
+        "DynamicMaterialEditor"
+      ],
+      "description": "DMMaterialStageExpressionParticleColor belongs to DynamicMaterial plugin, DynamicMaterialEditor module"
+    },
+    {
+      "id": "hyperedge_niagara_plugin",
+      "nodes": [
+        "MovieSceneNiagaraSystemTrack",
+        "Niagara"
+      ],
+      "description": "MovieSceneNiagaraSystemTrack belongs to Niagara plugin and module"
+    },
+    {
+      "id": "hyperedge_ikrig_plugin",
+      "nodes": [
+        "IKRigGoalPreviewMode",
+        "IKRig"
+      ],
+      "description": "IKRigGoalPreviewMode belongs to IKRig plugin and module"
+    },
+    {
+      "id": "hyperedge_avalanche_plugin",
+      "nodes": [
+        "MotionDesignPlayableLibrary",
+        "Avalanche",
+        "AvalancheMedia"
+      ],
+      "description": "MotionDesignPlayableLibrary belongs to Avalanche plugin, AvalancheMedia module"
+    },
+    {
+      "id": "hyperedge_avalanche_shapes_plugin",
+      "nodes": [
+        "AvaShapeMaterialUVParameters",
+        "Avalanche",
+        "AvalancheShapes"
+      ],
+      "description": "AvaShapeMaterialUVParameters belongs to Avalanche plugin, AvalancheShapes module"
+    },
+    {
+      "id": "hyperedge_controlrig_plugin",
+      "nodes": [
+        "RigPhysicsSolverID",
+        "ControlRig"
+      ],
+      "description": "RigPhysicsSolverID belongs to ControlRig plugin and module"
+    },
+    {
+      "id": "hyperedge_datasmith_plugin",
+      "nodes": [
+        "DatasmithAreaLightActor",
+        "DatasmithContent"
+      ],
+      "description": "DatasmithAreaLightActor belongs to DatasmithContent plugin and module"
+    },
+    {
+      "id": "hyperedge_pcg_plugin",
+      "nodes": [
+        "PCGCollapseVisitOrder",
+        "PCG"
+      ],
+      "description": "PCGCollapseVisitOrder belongs to PCG plugin and module"
+    },
+    {
+      "id": "hyperedge_light_actor_properties",
+      "nodes": [
+        "DatasmithAreaLightActor",
+        "property_light_type",
+        "property_light_shape",
+        "property_dimensions",
+        "property_intensity",
+        "property_color",
+        "property_temperature"
+      ],
+      "description": "DatasmithAreaLightActor has light-related properties"
+    },
+    {
+      "id": "hyperedge_uv_transform_properties",
+      "nodes": [
+        "AvaShapeMaterialUVParameters",
+        "property_anchor",
+        "property_scale",
+        "property_offset",
+        "property_rotation",
+        "property_flip_horizontal",
+        "property_flip_vertical"
+      ],
+      "description": "AvaShapeMaterialUVParameters has UV transformation properties"
+    },
+    {
+      "id": "hyperedge_earth_camera_properties",
+      "nodes": [
+        "EarthControlActor",
+        "property_earth_camera_component",
+        "property_earth_radius",
+        "property_camera_altitude",
+        "property_world_center"
+      ],
+      "description": "EarthControlActor has Earth and camera-related properties"
+    },
+    {
+      "id": "hyperedge_hardware_device_properties",
+      "nodes": [
+        "HardwareDeviceIdentifier",
+        "property_hardware_device_identifier",
+        "property_input_class_name",
+        "property_primary_device_type",
+        "property_supported_features_mask"
+      ],
+      "description": "HardwareDeviceIdentifier has device identification properties"
+    }
+  ],
+  "metadata": {
+    "chunk_id": 575,
+    "source_files": [
+      "DCPNodeHightLightParam Objects.md",
+      "SampledSequenceVectorViewerStyle Objects.md",
+      "EarthControlActor Objects.md",
+      "ActorModifierCoreDisableReason Objects.md",
+      "DMMaterialStageExpressionParticleColor Objects.md",
+      "MovieSceneNiagaraSystemTrack Objects.md",
+      "RigUnit_MathVectorFromFloat Objects.md",
+      "HardwareDeviceIdentifier Objects.md",
+      "ValueOrBBKey_Struct Objects.md",
+      "WidgetInteractionSource Objects.md",
+      "ActorExporterT3D Objects.md",
+      "IKRigGoalPreviewMode Objects.md",
+      "PointLightMovable Objects.md",
+      "MotionDesignPlayableLibrary Objects.md",
+      "ContentBrowserDataMenuContext__DragDropMenu Objects.md",
+      "RigPhysicsSolverID Objects.md",
+      "GameplayTask_TimeLimitedExecution_TaskFinishDelegate Objects.md",
+      "AvaShapeMaterialUVParameters Objects.md",
+      "GameplayTask__ClaimResource Objects.md",
+      "PCGCollapseVisitOrder Objects.md",
+      "DatasmithAreaLightActor Objects.md",
+      "DateTimeStyle Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_nodes": 157,
+    "total_edges": 130,
+    "total_hyperedges": 16
+  }
+}

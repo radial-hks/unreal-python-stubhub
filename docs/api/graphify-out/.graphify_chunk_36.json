@@ -1,0 +1,680 @@
+{
+  "nodes": [
+    {
+      "id": "MontageWaitSimpleDelegate",
+      "type": "class",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "file": "AbilityTask_PlayMontageAndWait.h",
+      "inherits_from": "MulticastDelegateBase",
+      "description": "Montage Wait Simple Delegate Delegate Signature",
+      "deprecated": false
+    },
+    {
+      "id": "GeometryScriptResolveTJunctionOptions",
+      "type": "struct",
+      "module": "GeometryScriptingCore",
+      "plugin": "GeometryScripting",
+      "file": "MeshRepairFunctions.h",
+      "inherits_from": "StructBase",
+      "description": "Geometry Script Resolve TJunction Options",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "tolerance",
+          "type": "float",
+          "access": "read-write"
+        }
+      ]
+    },
+    {
+      "id": "RigUnit_MathTransformMakeRelative",
+      "type": "class",
+      "plugin": "RigVM",
+      "inherits_from": "RigVMFunction_MathTransformMakeRelative",
+      "deprecated": true,
+      "deprecation_note": "'RigUnit_MathTransformMakeRelative' was renamed to 'RigVMFunction_MathTransformMakeRelative'"
+    },
+    {
+      "id": "ChaosPhysicsSettings",
+      "type": "struct",
+      "module": "Engine",
+      "file": "PhysicsSettings.h",
+      "inherits_from": "StructBase",
+      "description": "Settings container for Chaos physics engine settings, accessed in Chaos through a setting provider interface.",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "dedicated_thread_buffer_mode",
+          "type": "ChaosBufferMode",
+          "access": "read-write"
+        },
+        {
+          "name": "dedicated_thread_tick_mode",
+          "type": "ChaosSolverTickMode",
+          "access": "read-write"
+        },
+        {
+          "name": "default_threading_model",
+          "type": "ChaosThreadingMode",
+          "access": "read-write"
+        }
+      ]
+    },
+    {
+      "id": "_Logger",
+      "type": "class",
+      "inherits_from": "_io.BufferedIOBase",
+      "deprecated": false,
+      "methods": [
+        {
+          "name": "__init__",
+          "parameters": ["encoding", "log_func", "flush_func"]
+        },
+        {
+          "name": "writable"
+        },
+        {
+          "name": "write",
+          "parameters": ["b"]
+        },
+        {
+          "name": "flush"
+        },
+        {
+          "name": "detach"
+        },
+        {
+          "name": "close"
+        },
+        {
+          "name": "_redirect_warning",
+          "parameters": ["message", "category", "filename", "lineno", "file", "line"]
+        }
+      ]
+    },
+    {
+      "id": "uclass",
+      "type": "decorator",
+      "description": "decorator used to define UClass types from Python"
+    },
+    {
+      "id": "ustruct",
+      "type": "decorator",
+      "description": "decorator used to define UStruct types from Python"
+    },
+    {
+      "id": "uenum",
+      "type": "decorator",
+      "description": "decorator used to define UEnum types from Python"
+    },
+    {
+      "id": "uvalue",
+      "type": "function",
+      "description": "function used to define constant values from Python",
+      "parameters": ["val", "meta"]
+    },
+    {
+      "id": "uproperty",
+      "type": "function",
+      "description": "function used to define UProperty fields from Python",
+      "parameters": ["type", "meta", "getter", "setter"]
+    },
+    {
+      "id": "ufunction",
+      "type": "decorator",
+      "description": "decorator used to define UFunction fields from Python",
+      "parameters": ["meta", "ret", "params", "override", "static", "pure", "getter", "setter"]
+    },
+    {
+      "id": "RigVMFunction_MathMatrixFromTransform",
+      "type": "class",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathMatrix.h",
+      "inherits_from": "RigVMFunction_MathMatrixBase",
+      "description": "Makes a matrix from a transform",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "transform",
+          "type": "Transform",
+          "access": "read-write"
+        },
+        {
+          "name": "result",
+          "type": "Matrix",
+          "access": "read-only"
+        }
+      ]
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionSlerp",
+      "type": "class",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathQuaternion.h",
+      "inherits_from": "RigVMFunction_MathQuaternionBase",
+      "description": "Linearly interpolates between A and B using the ratio T",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "a",
+          "type": "Quat",
+          "access": "read-write"
+        },
+        {
+          "name": "b",
+          "type": "Quat",
+          "access": "read-write"
+        },
+        {
+          "name": "t",
+          "type": "float",
+          "access": "read-write"
+        },
+        {
+          "name": "result",
+          "type": "Quat",
+          "access": "read-only"
+        }
+      ]
+    },
+    {
+      "id": "AnimExecutionContextLibrary",
+      "type": "class",
+      "module": "AnimGraphRuntime",
+      "file": "AnimExecutionContextLibrary.h",
+      "inherits_from": "BlueprintFunctionLibrary",
+      "description": "Exposes operations to be performed on anim node contexts",
+      "deprecated": false,
+      "methods": [
+        {
+          "name": "is_active",
+          "parameters": ["context"],
+          "return_type": "bool"
+        },
+        {
+          "name": "get_delta_time",
+          "parameters": ["context"],
+          "return_type": "float"
+        },
+        {
+          "name": "get_current_weight",
+          "parameters": ["context"],
+          "return_type": "float"
+        },
+        {
+          "name": "get_anim_instance",
+          "parameters": ["context"],
+          "return_type": "AnimInstance"
+        },
+        {
+          "name": "convert_to_update_context",
+          "parameters": ["context"],
+          "return_type": "Tuple[AnimUpdateContext, AnimExecutionContextConversionResult]"
+        },
+        {
+          "name": "convert_to_pose_context",
+          "parameters": ["context"],
+          "return_type": "Tuple[AnimPoseContext, AnimExecutionContextConversionResult]"
+        },
+        {
+          "name": "convert_to_initialization_context",
+          "parameters": ["context"],
+          "return_type": "Tuple[AnimInitializationContext, AnimExecutionContextConversionResult]"
+        },
+        {
+          "name": "convert_to_component_space_pose_context",
+          "parameters": ["context"],
+          "return_type": "Tuple[AnimComponentSpacePoseContext, AnimExecutionContextConversionResult]"
+        }
+      ]
+    },
+    {
+      "id": "AnimNode_SubInstance",
+      "type": "class",
+      "inherits_from": "AnimNode_LinkedAnimGraph",
+      "deprecated": true,
+      "deprecation_note": "'AnimNode_SubInstance' was renamed to 'AnimNode_LinkedAnimGraph'"
+    },
+    {
+      "id": "MovieSceneScriptingBoolKey",
+      "type": "class",
+      "module": "SequencerScripting",
+      "plugin": "SequencerScripting",
+      "file": "MovieSceneScriptingBool.h",
+      "inherits_from": "MovieSceneScriptingKey",
+      "description": "Exposes a Sequencer bool type key to Python/Blueprints. Stores a reference to the data so changes to this class are forwarded onto the underlying data structures.",
+      "deprecated": false,
+      "methods": [
+        {
+          "name": "set_value",
+          "parameters": ["new_value"],
+          "return_type": "None"
+        },
+        {
+          "name": "set_time",
+          "parameters": ["new_frame_number", "sub_frame", "time_unit"],
+          "return_type": "None"
+        },
+        {
+          "name": "get_value",
+          "return_type": "bool"
+        },
+        {
+          "name": "get_time",
+          "parameters": ["time_unit"],
+          "return_type": "FrameTime"
+        }
+      ]
+    },
+    {
+      "id": "AvaToolbox3DDynMeshBase",
+      "type": "class",
+      "inherits_from": "AvaShape3DDynMeshBase",
+      "deprecated": true,
+      "deprecation_note": "'AvaToolbox3DDynMeshBase' was renamed to 'AvaShape3DDynMeshBase'"
+    },
+    {
+      "id": "PropertyAnimatorFloatBase",
+      "type": "class",
+      "inherits_from": "PropertyAnimatorNumericBase",
+      "deprecated": true,
+      "deprecation_note": "'PropertyAnimatorFloatBase' was renamed to 'PropertyAnimatorNumericBase'"
+    },
+    {
+      "id": "PCGUserParametersData",
+      "type": "class",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGUserParametersData.h",
+      "inherits_from": "PCGData",
+      "description": "PCG Data meant only to be used internally. It contains a copy of UserParameters for a given graph instance, with overrides in it.",
+      "deprecated": false
+    },
+    {
+      "id": "RigVMFunction_MathIntToString",
+      "type": "class",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathInt.h",
+      "inherits_from": "RigVMFunction_MathIntBase",
+      "description": "Converts an integer to a string",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "number",
+          "type": "int32",
+          "access": "read-write"
+        },
+        {
+          "name": "padded_size",
+          "type": "int32",
+          "access": "read-write"
+        },
+        {
+          "name": "result",
+          "type": "str",
+          "access": "read-only"
+        }
+      ]
+    },
+    {
+      "id": "DMMaterialStageExpressionParticleRelativeTime",
+      "type": "class",
+      "module": "DynamicMaterialEditor",
+      "plugin": "DynamicMaterial",
+      "file": "DMMSEParticleRelativeTime.h",
+      "inherits_from": "DMMaterialStageExpression",
+      "description": "DMMaterial Stage Expression Particle Relative Time",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "allow_nested_inputs",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "component_dirty",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "component_state",
+          "type": "DMComponentLifetimeState",
+          "access": "read-only"
+        },
+        {
+          "name": "editable_properties",
+          "type": "Array[Name]",
+          "access": "read-only"
+        },
+        {
+          "name": "input_connectors",
+          "type": "Array[DMMaterialStageConnector]",
+          "access": "read-only"
+        },
+        {
+          "name": "input_required",
+          "type": "bool",
+          "access": "read-only"
+        },
+        {
+          "name": "material_expression_class",
+          "type": "type(Class)",
+          "access": "read-only"
+        },
+        {
+          "name": "menus",
+          "type": "Array[DMExpressionMenu]",
+          "access": "read-only"
+        },
+        {
+          "name": "name",
+          "type": "Text",
+          "access": "read-only"
+        },
+        {
+          "name": "output_connectors",
+          "type": "Array[DMMaterialStageConnector]",
+          "access": "read-only"
+        }
+      ]
+    },
+    {
+      "id": "RigUnit_MathBoolNotEquals",
+      "type": "class",
+      "inherits_from": "RigVMFunction_MathBoolNotEquals",
+      "deprecated": true,
+      "deprecation_note": "'RigUnit_MathBoolNotEquals' was renamed to 'RigVMFunction_MathBoolNotEquals'"
+    },
+    {
+      "id": "RigUnit_PostPrepareForExecution",
+      "type": "class",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_PrepareForExecution.h",
+      "inherits_from": "RigUnit",
+      "description": "Event to further configure elements. Runs after the Construction Event",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "execute_context",
+          "type": "ControlRigExecuteContext",
+          "access": "read-only"
+        }
+      ]
+    },
+    {
+      "id": "FontCacheType",
+      "type": "enum",
+      "module": "Engine",
+      "file": "Font.h",
+      "description": "Enumerates supported font caching types.",
+      "deprecated": false,
+      "values": [
+        {
+          "name": "OFFLINE",
+          "value": 0,
+          "description": "The font is using offline caching (this is how UFont traditionally worked)."
+        },
+        {
+          "name": "RUNTIME",
+          "value": 1,
+          "description": "The font is using runtime caching (this is how Slate fonts work)."
+        }
+      ]
+    },
+    {
+      "id": "DatasmithDeltaGenAssetImportData",
+      "type": "class",
+      "module": "DatasmithContent",
+      "plugin": "DatasmithContent",
+      "file": "DatasmithAssetImportData.h",
+      "inherits_from": "DatasmithAssetImportData",
+      "description": "Datasmith Delta Gen Asset Import Data",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "additional_data",
+          "type": "Array[DatasmithAdditionalData]",
+          "access": "read-write"
+        },
+        {
+          "name": "asset_import_options",
+          "type": "DatasmithAssetImportOptions",
+          "access": "read-write"
+        },
+        {
+          "name": "datasmith_import_info",
+          "type": "DatasmithImportInfo",
+          "access": "read-write"
+        },
+        {
+          "name": "source_data",
+          "type": "AssetImportInfo",
+          "access": "read-only"
+        }
+      ]
+    },
+    {
+      "id": "WindowTitleBarArea",
+      "type": "class",
+      "module": "UMG",
+      "file": "WindowTitleBarArea.h",
+      "inherits_from": "ContentWidget",
+      "description": "A panel for defining a region of the UI that should allow users to drag the window on desktop platforms.",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "window_buttons_enabled",
+          "type": "bool",
+          "access": "read-write"
+        },
+        {
+          "name": "double_click_toggles_fullscreen",
+          "type": "bool",
+          "access": "read-write"
+        }
+      ],
+      "methods": [
+        {
+          "name": "set_vertical_alignment",
+          "parameters": ["vertical_alignment"],
+          "return_type": "None"
+        },
+        {
+          "name": "set_padding",
+          "parameters": ["padding"],
+          "return_type": "None"
+        },
+        {
+          "name": "set_horizontal_alignment",
+          "parameters": ["horizontal_alignment"],
+          "return_type": "None"
+        }
+      ]
+    },
+    {
+      "id": "RasterEntity",
+      "type": "class",
+      "module": "CoveringAPIEntity",
+      "plugin": "CoveringAPI",
+      "file": "RasterEntity.h",
+      "inherits_from": "WdpActorEntity",
+      "description": "Raster Entity",
+      "deprecated": false,
+      "properties": [
+        {
+          "name": "tif_component",
+          "type": "SuperAPI_HttpTif",
+          "access": "read-only"
+        }
+      ],
+      "methods": [
+        {
+          "name": "set_coord_z",
+          "parameters": ["new_coord_z"],
+          "return_type": "bool"
+        },
+        {
+          "name": "set_type",
+          "parameters": ["new_type"],
+          "return_type": "bool"
+        },
+        {
+          "name": "set_path",
+          "parameters": ["new_path"],
+          "return_type": "bool"
+        },
+        {
+          "name": "set_gradient_setting",
+          "parameters": ["new_colors"],
+          "return_type": "bool"
+        },
+        {
+          "name": "set_clip_raster",
+          "parameters": ["polygon", "fill_color"],
+          "return_type": "bool"
+        },
+        {
+          "name": "get_raster_points",
+          "return_type": "Optional[Array[Vector]]"
+        },
+        {
+          "name": "do_create_raster",
+          "parameters": ["raster_entity_atom"],
+          "return_type": "bool"
+        }
+      ]
+    },
+    {
+      "id": "PropertyAccessChangeNotifyMode",
+      "type": "enum",
+      "module": "CoreUObject",
+      "file": "NoExportTypes.h",
+      "description": "Enum controlling when to emit property change notifications when setting a property value.",
+      "deprecated": false,
+      "values": [
+        {
+          "name": "DEFAULT",
+          "value": 0,
+          "description": "Notify only when a value change has actually occurred"
+        },
+        {
+          "name": "NEVER",
+          "value": 1,
+          "description": "Never notify that a value change has occurred"
+        },
+        {
+          "name": "ALWAYS",
+          "value": 2,
+          "description": "Always notify that a value change has occurred, even if the value is unchanged"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "MontageWaitSimpleDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GeometryScriptResolveTJunctionOptions",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathTransformMakeRelative",
+      "target": "RigVMFunction_MathTransformMakeRelative",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ChaosPhysicsSettings",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "_Logger",
+      "target": "_io.BufferedIOBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathMatrixFromTransform",
+      "target": "RigVMFunction_MathMatrixBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionSlerp",
+      "target": "RigVMFunction_MathQuaternionBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimExecutionContextLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_SubInstance",
+      "target": "AnimNode_LinkedAnimGraph",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MovieSceneScriptingBoolKey",
+      "target": "MovieSceneScriptingKey",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaToolbox3DDynMeshBase",
+      "target": "AvaShape3DDynMeshBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PropertyAnimatorFloatBase",
+      "target": "PropertyAnimatorNumericBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGUserParametersData",
+      "target": "PCGData",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathIntToString",
+      "target": "RigVMFunction_MathIntBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStageExpressionParticleRelativeTime",
+      "target": "DMMaterialStageExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathBoolNotEquals",
+      "target": "RigVMFunction_MathBoolNotEquals",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_PostPrepareForExecution",
+      "target": "RigUnit",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DatasmithDeltaGenAssetImportData",
+      "target": "DatasmithAssetImportData",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WindowTitleBarArea",
+      "target": "ContentWidget",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RasterEntity",
+      "target": "WdpActorEntity",
+      "type": "inherits_from"
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "nodes": [
+    {
+      "id": "urbantexturefactory_class",
+      "label": "UrbanTextureFactory",
+      "file_type": "document",
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturefactory_class",
+      "label": "TextureFactory",
+      "file_type": "document",
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_pbikbonesettings_class",
+      "label": "IKRig_PBIKBoneSettings",
+      "file_type": "document",
+      "source_file": "IKRig__PBIKBoneSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_fbikbonesettings_class",
+      "label": "IKRig_FBIKBoneSettings",
+      "file_type": "document",
+      "source_file": "IKRig__PBIKBoneSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialparameterinfo_struct",
+      "label": "MaterialParameterInfo",
+      "file_type": "document",
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_class",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialparameterassociation_enum",
+      "label": "MaterialParameterAssociation",
+      "file_type": "document",
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkanimationframedata_class",
+      "label": "LiveLinkAnimationFrameData",
+      "file_type": "document",
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkbaseframedata_class",
+      "label": "LiveLinkBaseFrameData",
+      "file_type": "document",
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkmetadata_struct",
+      "label": "LiveLinkMetaData",
+      "file_type": "document",
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_struct",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialmeter_getmeterchannelinfo_delegate",
+      "label": "AudioMaterialMeter_GetMeterChannelInfo",
+      "file_type": "document",
+      "source_file": "AudioMaterialMeter_GetMeterChannelInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meterchannelinfo_struct",
+      "label": "MeterChannelInfo",
+      "file_type": "document",
+      "source_file": "AudioMaterialMeter_GetMeterChannelInfo Objects.md",
+      "source_location": "line 11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptxatlasoptions_struct",
+      "label": "GeometryScriptXAtlasOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptXAtlasOptions Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithimportscene_enum",
+      "label": "DatasmithImportScene",
+      "file_type": "document",
+      "source_file": "DatasmithImportScene Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visible2datomapi_class",
+      "label": "Visible2DAtomAPI",
+      "file_type": "document",
+      "source_file": "Visible2DAtomAPI Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "apiclassbase_class",
+      "label": "ApiClassBase",
+      "file_type": "document",
+      "source_file": "Visible2DAtomAPI Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visible2dparam_struct",
+      "label": "Visible2DParam",
+      "file_type": "document",
+      "source_file": "Visible2DAtomAPI Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_struct",
+      "label": "ResultBase",
+      "file_type": "document",
+      "source_file": "Visible2DAtomAPI Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatebase_class",
+      "label": "RigUnit_MathRBFInterpolateBase",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatebase_class",
+      "label": "RigVMFunction_MathRBFInterpolateBase",
+      "file_type": "document",
+      "source_file": "RigUnit__MathRBFInterpolateBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbezieritemspace_class",
+      "label": "RigUnit_DebugBezierItemSpace",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugbasemutable_class",
+      "label": "RigVMFunction_DebugBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfourpointbezier_struct",
+      "label": "RigVMFourPointBezier",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_struct",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "holdoutcompositecomponent_class",
+      "label": "HoldoutCompositeComponent",
+      "file_type": "document",
+      "source_file": "HoldoutCompositeComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecomponent_class",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "HoldoutCompositeComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applyrootmotionmovetoactorforcedelegate_delegate",
+      "label": "ApplyRootMotionMoveToActorForceDelegate",
+      "file_type": "document",
+      "source_file": "ApplyRootMotionMoveToActorForceDelegate Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animlinkmethod_enum",
+      "label": "AnimLinkMethod",
+      "file_type": "document",
+      "source_file": "AnimLinkMethod Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skelmeshskinweightinfo_struct",
+      "label": "SkelMeshSkinWeightInfo",
+      "file_type": "document",
+      "source_file": "SkelMeshSkinWeightInfo Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcolorchannel_enum",
+      "label": "PCGColorChannel",
+      "file_type": "document",
+      "source_file": "PCGColorChannel Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_visualdebugvectornospace_class",
+      "label": "RigVMFunction_VisualDebugVectorNoSpace",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_debugbase_class",
+      "label": "RigVMFunction_DebugBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitvisualdebugpointmode_enum",
+      "label": "RigUnitVisualDebugPointMode",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playermappableinputconfig_factory_class",
+      "label": "PlayerMappableInputConfig_Factory",
+      "file_type": "document",
+      "source_file": "PlayerMappableInputConfig__Factory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_class",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "PlayerMappableInputConfig__Factory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorscriptingfiltertype_enum",
+      "label": "EditorScriptingFilterType",
+      "file_type": "document",
+      "source_file": "EditorScriptingFilterType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthshapegrammarselector_struct",
+      "label": "EarthShapeGrammarSelector",
+      "file_type": "document",
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthselectgrammarcriterion_struct",
+      "label": "EarthSelectGrammarCriterion",
+      "file_type": "document",
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpointsorder_enum",
+      "label": "EarthPointsOrder",
+      "file_type": "document",
+      "source_file": "EarthPointsOrder Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraageupdatemode_enum",
+      "label": "NiagaraAgeUpdateMode",
+      "file_type": "document",
+      "source_file": "NiagaraAgeUpdateMode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthzonegraphstorage_struct",
+      "label": "EarthZoneGraphStorage",
+      "file_type": "document",
+      "source_file": "EarthZoneGraphStorage Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "alpha_coverage_thresholds_property",
+      "label": "alpha_coverage_thresholds (Vector4)",
+      "file_type": "document",
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "create_material_property",
+      "label": "create_material (bool)",
+      "file_type": "document",
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compression_settings_property",
+      "label": "compression_settings (TextureCompressionSettings)",
+      "file_type": "document",
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "name_property",
+      "label": "name (Name)",
+      "file_type": "document",
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "index_property",
+      "label": "index (int32)",
+      "file_type": "document",
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transforms_property",
+      "label": "transforms (Array[Transform])",
+      "file_type": "document",
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meta_data_property",
+      "label": "meta_data (LiveLinkMetaData)",
+      "file_type": "document",
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "max_iterations_property",
+      "label": "max_iterations (int32)",
+      "file_type": "document",
+      "source_file": "GeometryScriptXAtlasOptions Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bezier_property",
+      "label": "bezier (RigVMFourPointBezier)",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "space_property",
+      "label": "space (RigElementKey)",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "is_enabled_property",
+      "label": "is_enabled (bool)",
+      "file_type": "document",
+      "source_file": "HoldoutCompositeComponent Objects.md",
+      "source_location": "line 29",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "value_property",
+      "label": "value (Vector)",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mode_property",
+      "label": "mode (RigUnitVisualDebugPointMode)",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compared_value_attribute_property",
+      "label": "compared_value_attribute (Name)",
+      "file_type": "document",
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "criteria_property",
+      "label": "criteria (Array[EarthSelectGrammarCriterion])",
+      "file_type": "document",
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "urbantexturefactory_class",
+      "target": "texturefactory_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "urbantexturefactory_class",
+      "target": "alpha_coverage_thresholds_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "urbantexturefactory_class",
+      "target": "create_material_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "urbantexturefactory_class",
+      "target": "compression_settings_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": "line 25",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_pbikbonesettings_class",
+      "target": "ikrig_fbikbonesettings_class",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig__PBIKBoneSettings Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "materialparameterinfo_struct",
+      "target": "structbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialparameterinfo_struct",
+      "target": "name_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "materialparameterinfo_struct",
+      "target": "index_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "materialparameterinfo_struct",
+      "target": "materialparameterassociation_enum",
+      "relation": "uses_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialParameterInfo Objects.md",
+      "source_location": "line 28",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkanimationframedata_class",
+      "target": "livelinkbaseframedata_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkanimationframedata_class",
+      "target": "transforms_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkanimationframedata_class",
+      "target": "meta_data_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "transforms_property",
+      "target": "transform_struct",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "meta_data_property",
+      "target": "livelinkmetadata_struct",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialmeter_getmeterchannelinfo_delegate",
+      "target": "meterchannelinfo_struct",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMaterialMeter_GetMeterChannelInfo Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptxatlasoptions_struct",
+      "target": "structbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptXAtlasOptions Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptxatlasoptions_struct",
+      "target": "max_iterations_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptXAtlasOptions Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "visible2datomapi_class",
+      "target": "apiclassbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Visible2DAtomAPI Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "visible2datomapi_class",
+      "target": "visible2dparam_struct",
+      "relation": "accepts_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Visible2DAtomAPI Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "visible2datomapi_class",
+      "target": "resultbase_struct",
+      "relation": "returns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Visible2DAtomAPI Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatebase_class",
+      "target": "rigvmfunction_mathrbfinterpolatebase_class",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathRBFInterpolateBase Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbezieritemspace_class",
+      "target": "rigvmfunction_debugbasemutable_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbezieritemspace_class",
+      "target": "bezier_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbezieritemspace_class",
+      "target": "space_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 24",
+      "weight": 1.0
+    },
+    {
+      "source": "bezier_property",
+      "target": "rigvmfourpointbezier_struct",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "space_property",
+      "target": "rigelementkey_struct",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugBezierItemSpace Objects.md",
+      "source_location": "line 24",
+      "weight": 1.0
+    },
+    {
+      "source": "holdoutcompositecomponent_class",
+      "target": "scenecomponent_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HoldoutCompositeComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "holdoutcompositecomponent_class",
+      "target": "is_enabled_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HoldoutCompositeComponent Objects.md",
+      "source_location": "line 29",
+      "weight": 1.0
+    },
+    {
+      "source": "skelmeshskinweightinfo_struct",
+      "target": "structbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkelMeshSkinWeightInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_visualdebugvectornospace_class",
+      "target": "rigvmfunction_debugbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_visualdebugvectornospace_class",
+      "target": "value_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_visualdebugvectornospace_class",
+      "target": "mode_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "mode_property",
+      "target": "rigunitvisualdebugpointmode_enum",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "playermappableinputconfig_factory_class",
+      "target": "factory_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerMappableInputConfig__Factory Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "earthshapegrammarselector_struct",
+      "target": "structbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "earthshapegrammarselector_struct",
+      "target": "compared_value_attribute_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "earthshapegrammarselector_struct",
+      "target": "criteria_property",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "criteria_property",
+      "target": "earthselectgrammarcriterion_struct",
+      "relation": "has_type",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "earthzonegraphstorage_struct",
+      "target": "structbase_class",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthZoneGraphStorage Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "urbantexturefactory_class",
+      "target": "materialparameterinfo_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "UrbanTextureFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "livelinkanimationframedata_class",
+      "target": "rigunit_debugbezieritemspace_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "LiveLinkAnimationFrameData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_debugbase_class",
+      "target": "rigvmfunction_debugbasemutable_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthshapegrammarselector_struct",
+      "target": "earthpointsorder_enum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthshapegrammarselector_struct",
+      "target": "earthzonegraphstorage_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthShapeGrammarSelector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_base_classes",
+      "label": "Unreal Engine Base Classes",
+      "nodes": [
+        "structbase_class",
+        "texturefactory_class",
+        "scenecomponent_class",
+        "factory_class",
+        "apiclassbase_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaterialParameterInfo Objects.md"
+    },
+    {
+      "id": "rig_debug_classes",
+      "label": "Rig Debug Functionality",
+      "nodes": [
+        "rigvmfunction_debugbase_class",
+        "rigvmfunction_debugbasemutable_class",
+        "rigvmfunction_visualdebugvectornospace_class",
+        "rigunit_debugbezieritemspace_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_VisualDebugVectorNoSpace Objects.md"
+    },
+    {
+      "id": "earth_plugin_system",
+      "label": "Earth Plugin System",
+      "nodes": [
+        "earthshapegrammarselector_struct",
+        "earthpointsorder_enum",
+        "earthzonegraphstorage_struct",
+        "earthselectgrammarcriterion_struct"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "EarthShapeGrammarSelector Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1240 @@
+{
+  "nodes": [
+    {
+      "id": "CSVImportSettings",
+      "type": "class",
+      "label": "CSVImportSettings",
+      "description": "CSVImport Settings",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "OnNavigationPathUpdated",
+      "type": "class",
+      "label": "OnNavigationPathUpdated",
+      "description": "On Navigation Path Updated Delegate Signature",
+      "base_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "MenuAnchor_GetUserWidget",
+      "type": "class",
+      "label": "MenuAnchor_GetUserWidget",
+      "description": "Get User Widget Delegate Signature",
+      "base_class": "DelegateBase"
+    },
+    {
+      "id": "SetGeoLayerOffsetParams",
+      "type": "class",
+      "label": "SetGeoLayerOffsetParams",
+      "description": "Set Geo Layer Offset Params",
+      "base_class": "EidParams"
+    },
+    {
+      "id": "TimeStretchCurveMarker",
+      "type": "class",
+      "label": "TimeStretchCurveMarker",
+      "description": "Time Stretch Curve Marker",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "GeometryScript_MeshSelectionQueries",
+      "type": "class",
+      "label": "GeometryScript_MeshSelectionQueries",
+      "description": "Geometry Script Library Mesh Selection Query Functions",
+      "base_class": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "RigUnit_PointSimulation",
+      "type": "class",
+      "label": "RigUnit_PointSimulation",
+      "description": "Performs point based simulation",
+      "base_class": "RigVMFunction_SimBaseMutable"
+    },
+    {
+      "id": "WdpModelerWaterVertexAttribute",
+      "type": "class",
+      "label": "WdpModelerWaterVertexAttribute",
+      "description": "Wdp Modeler Water Vertex Attribute",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "RigUnit_MathDoubleMax",
+      "type": "class",
+      "label": "RigUnit_MathDoubleMax",
+      "description": "deprecated: 'RigUnit_MathDoubleMax' was renamed to 'RigVMFunction_MathDoubleMax'",
+      "base_class": "RigVMFunction_MathDoubleMax"
+    },
+    {
+      "id": "GameplayEffectDurationType",
+      "type": "enum",
+      "label": "GameplayEffectDurationType",
+      "description": "Gameplay effect duration policies",
+      "base_class": "EnumBase"
+    },
+    {
+      "id": "OnAsyncHandleSaveGame",
+      "type": "class",
+      "label": "OnAsyncHandleSaveGame",
+      "description": "On Async Handle Save Game Delegate Signature",
+      "base_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "ExternalDataLayerInstance",
+      "type": "class",
+      "label": "ExternalDataLayerInstance",
+      "description": "External Data Layer Instance",
+      "base_class": "DataLayerInstanceWithAsset"
+    },
+    {
+      "id": "UsdProjectSettings",
+      "type": "class",
+      "label": "UsdProjectSettings",
+      "description": "USDCore and defaultconfig here so this ends up at DefaultUSDCore.ini in the editor",
+      "base_class": "DeveloperSettings"
+    },
+    {
+      "id": "MovieSceneBuiltInEasing",
+      "type": "enum",
+      "label": "MovieSceneBuiltInEasing",
+      "description": "EMovie Scene Built in Easing",
+      "base_class": "EnumBase"
+    },
+    {
+      "id": "AesTilesFeatureIdPickAtom",
+      "type": "class",
+      "label": "AesTilesFeatureIdPickAtom",
+      "description": "Aes Tiles Feature Id Pick Atom",
+      "base_class": "DefaultEntityPickAtom"
+    },
+    {
+      "id": "DCPClickSinglePointResult",
+      "type": "class",
+      "label": "DCPClickSinglePointResult",
+      "description": "DCPClick Single Point Result",
+      "base_class": "EventArgsBase"
+    },
+    {
+      "id": "ParamsBase",
+      "type": "class",
+      "label": "ParamsBase",
+      "description": "Params Base",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "OnConstantQResults",
+      "type": "class",
+      "label": "OnConstantQResults",
+      "description": "Delegate to receive all ConstantQ results per channel",
+      "base_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "BlendStackInputAnimNodeLibrary",
+      "type": "class",
+      "label": "BlendStackInputAnimNodeLibrary",
+      "description": "Exposes operations that can be run on a Blend Stack node via Anim Node Functions",
+      "base_class": "BlueprintFunctionLibrary"
+    },
+    {
+      "id": "MovieGraphDeferredRenderPassNode",
+      "type": "class",
+      "label": "MovieGraphDeferredRenderPassNode",
+      "description": "A render node which uses the Deferred Renderer",
+      "base_class": "MovieGraphImagePassBaseNode"
+    },
+    {
+      "id": "ComputeSource",
+      "type": "class",
+      "label": "ComputeSource",
+      "description": "Class representing some source for inclusion in a UComputeKernel",
+      "base_class": "Object"
+    },
+    {
+      "id": "InputAlphaBoolBlend",
+      "type": "class",
+      "label": "InputAlphaBoolBlend",
+      "description": "Input Alpha Bool Blend",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "prop_CSVImportSettings_import_row_struct",
+      "type": "property",
+      "label": "import_row_struct",
+      "data_type": "ScriptStruct"
+    },
+    {
+      "id": "prop_CSVImportSettings_import_type",
+      "type": "property",
+      "label": "import_type",
+      "data_type": "CSVImportType"
+    },
+    {
+      "id": "prop_CSVImportSettings_import_curve_interp_mode",
+      "type": "property",
+      "label": "import_curve_interp_mode",
+      "data_type": "RichCurveInterpMode"
+    },
+    {
+      "id": "prop_SetGeoLayerOffsetParams_geo_layer_offset",
+      "type": "property",
+      "label": "geo_layer_offset",
+      "data_type": "Vector"
+    },
+    {
+      "id": "prop_SetGeoLayerOffsetParams_eid",
+      "type": "property",
+      "label": "eid",
+      "data_type": "Eid"
+    },
+    {
+      "id": "prop_SetGeoLayerOffsetParams_guid",
+      "type": "property",
+      "label": "guid",
+      "data_type": "str"
+    },
+    {
+      "id": "prop_SetGeoLayerOffsetParams_hit_keys",
+      "type": "property",
+      "label": "hit_keys",
+      "data_type": "Set[Name]"
+    },
+    {
+      "id": "prop_TimeStretchCurveMarker_alpha",
+      "type": "property",
+      "label": "alpha",
+      "data_type": "float"
+    },
+    {
+      "id": "prop_TimeStretchCurveMarker_time",
+      "type": "property",
+      "label": "time",
+      "data_type": "float"
+    },
+    {
+      "id": "prop_RigUnit_PointSimulation_points",
+      "type": "property",
+      "label": "points",
+      "data_type": "Array[RigVMSimPoint]"
+    },
+    {
+      "id": "prop_RigUnit_PointSimulation_links",
+      "type": "property",
+      "label": "links",
+      "data_type": "Array[CRSimLinearSpring]"
+    },
+    {
+      "id": "prop_RigUnit_PointSimulation_forces",
+      "type": "property",
+      "label": "forces",
+      "data_type": "Array[CRSimPointForce]"
+    },
+    {
+      "id": "prop_RigUnit_PointSimulation_collision_volumes",
+      "type": "property",
+      "label": "collision_volumes",
+      "data_type": "Array[CRSimSoftCollision]"
+    },
+    {
+      "id": "prop_RigUnit_PointSimulation_bezier",
+      "type": "property",
+      "label": "bezier",
+      "data_type": "RigVMFourPointBezier"
+    },
+    {
+      "id": "prop_WdpModelerWaterVertexAttribute_corner_radius",
+      "type": "property",
+      "label": "corner_radius",
+      "data_type": "float"
+    },
+    {
+      "id": "prop_WdpModelerWaterVertexAttribute_corner_split_num",
+      "type": "property",
+      "label": "corner_split_num",
+      "data_type": "int32"
+    },
+    {
+      "id": "prop_ExternalDataLayerInstance_data_layer_asset",
+      "type": "property",
+      "label": "data_layer_asset",
+      "data_type": "DataLayerAsset"
+    },
+    {
+      "id": "prop_ExternalDataLayerInstance_initial_runtime_state",
+      "type": "property",
+      "label": "initial_runtime_state",
+      "data_type": "DataLayerRuntimeState"
+    },
+    {
+      "id": "prop_ParamsBase_guid",
+      "type": "property",
+      "label": "guid",
+      "data_type": "str"
+    },
+    {
+      "id": "prop_ParamsBase_hit_keys",
+      "type": "property",
+      "label": "hit_keys",
+      "data_type": "Set[Name]"
+    },
+    {
+      "id": "prop_DCPClickSinglePointResult_gis_coord",
+      "type": "property",
+      "label": "gis_coord",
+      "data_type": "Vector"
+    },
+    {
+      "id": "prop_DCPClickSinglePointResult_ue_coord",
+      "type": "property",
+      "label": "ue_coord",
+      "data_type": "Vector"
+    },
+    {
+      "id": "prop_InputAlphaBoolBlend_blend_in_time",
+      "type": "property",
+      "label": "blend_in_time",
+      "data_type": "float"
+    },
+    {
+      "id": "prop_InputAlphaBoolBlend_blend_out_time",
+      "type": "property",
+      "label": "blend_out_time",
+      "data_type": "float"
+    },
+    {
+      "id": "prop_InputAlphaBoolBlend_blend_option",
+      "type": "property",
+      "label": "blend_option",
+      "data_type": "AlphaBlendOption"
+    },
+    {
+      "id": "prop_InputAlphaBoolBlend_custom_curve",
+      "type": "property",
+      "label": "custom_curve",
+      "data_type": "CurveFloat"
+    },
+    {
+      "id": "prop_ComputeSource_additional_sources",
+      "type": "property",
+      "label": "additional_sources",
+      "data_type": "Array[ComputeSource]"
+    },
+    {
+      "id": "enum_GameplayEffectDurationType_INSTANT",
+      "type": "enum_value",
+      "label": "INSTANT",
+      "value": 0,
+      "description": "This effect applies instantly"
+    },
+    {
+      "id": "enum_GameplayEffectDurationType_INFINITE",
+      "type": "enum_value",
+      "label": "INFINITE",
+      "value": 1,
+      "description": "This effect lasts forever"
+    },
+    {
+      "id": "enum_GameplayEffectDurationType_HAS_DURATION",
+      "type": "enum_value",
+      "label": "HAS_DURATION",
+      "value": 2,
+      "description": "The duration of this effect will be specified by a magnitude"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_LINEAR",
+      "type": "enum_value",
+      "label": "LINEAR",
+      "value": 0,
+      "description": "Linear easing"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_SIN_IN",
+      "type": "enum_value",
+      "label": "SIN_IN",
+      "value": 1,
+      "description": "Sinusoidal easing"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_SIN_OUT",
+      "type": "enum_value",
+      "label": "SIN_OUT",
+      "value": 2
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_QUAD_IN",
+      "type": "enum_value",
+      "label": "QUAD_IN",
+      "value": 4,
+      "description": "Quadratic easing"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_CUBIC",
+      "type": "enum_value",
+      "label": "CUBIC",
+      "value": 7,
+      "description": "Cubic easing"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_QUART_IN",
+      "type": "enum_value",
+      "label": "QUART_IN",
+      "value": 12,
+      "description": "Quartic easing"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_QUINT_IN",
+      "type": "enum_value",
+      "label": "QUINT_IN",
+      "value": 15,
+      "description": "Quintic easing"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_EXPO_IN",
+      "type": "enum_value",
+      "label": "EXPO_IN",
+      "value": 18,
+      "description": "Exponential easing"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_CIRC_IN",
+      "type": "enum_value",
+      "label": "CIRC_IN",
+      "value": 21,
+      "description": "Circular easing"
+    },
+    {
+      "id": "enum_MovieSceneBuiltInEasing_CUSTOM",
+      "type": "enum_value",
+      "label": "CUSTOM",
+      "value": 24,
+      "description": "Custom"
+    },
+    {
+      "id": "method_GeometryScript_MeshSelectionQueries_get_mesh_selection_bounding_box",
+      "type": "method",
+      "label": "get_mesh_selection_bounding_box",
+      "description": "Get the 3D Bounding Box of a Mesh Selection"
+    },
+    {
+      "id": "method_GeometryScript_MeshSelectionQueries_get_mesh_selection_boundary_loops",
+      "type": "method",
+      "label": "get_mesh_selection_boundary_loops",
+      "description": "Compute the set of Vertex Loops bordering a Mesh Selection"
+    },
+    {
+      "id": "method_BlendStackInputAnimNodeLibrary_get_properties",
+      "type": "method",
+      "label": "get_properties",
+      "description": "Get Properties"
+    },
+    {
+      "id": "method_BlendStackInputAnimNodeLibrary_convert_to_blend_stack_input_node_pure",
+      "type": "method",
+      "label": "convert_to_blend_stack_input_node_pure",
+      "description": "Get a blend stack input node context from an anim node context (pure)"
+    },
+    {
+      "id": "method_BlendStackInputAnimNodeLibrary_convert_to_blend_stack_input_node",
+      "type": "method",
+      "label": "convert_to_blend_stack_input_node",
+      "description": "Get a blend stack input node context from an anim node context"
+    },
+    {
+      "id": "module_UnrealEd",
+      "type": "module",
+      "label": "UnrealEd"
+    },
+    {
+      "id": "module_NavigationSystem",
+      "type": "module",
+      "label": "NavigationSystem"
+    },
+    {
+      "id": "module_UMG",
+      "type": "module",
+      "label": "UMG"
+    },
+    {
+      "id": "module_MagicGISAPI",
+      "type": "module",
+      "label": "MagicGISAPI"
+    },
+    {
+      "id": "module_Engine",
+      "type": "module",
+      "label": "Engine"
+    },
+    {
+      "id": "module_GeometryScriptingCore",
+      "type": "module",
+      "label": "GeometryScriptingCore"
+    },
+    {
+      "id": "module_ControlRig",
+      "type": "module",
+      "label": "ControlRig"
+    },
+    {
+      "id": "module_WdpModelerEntity",
+      "type": "module",
+      "label": "WdpModelerEntity"
+    },
+    {
+      "id": "module_GameplayAbilities",
+      "type": "module",
+      "label": "GameplayAbilities"
+    },
+    {
+      "id": "module_USDClasses",
+      "type": "module",
+      "label": "USDClasses"
+    },
+    {
+      "id": "module_MovieScene",
+      "type": "module",
+      "label": "MovieScene"
+    },
+    {
+      "id": "module_AesTilesEntity",
+      "type": "module",
+      "label": "AesTilesEntity"
+    },
+    {
+      "id": "module_DcpAPI",
+      "type": "module",
+      "label": "DcpAPI"
+    },
+    {
+      "id": "module_WdpAPIFramework",
+      "type": "module",
+      "label": "WdpAPIFramework"
+    },
+    {
+      "id": "module_AudioSynesthesia",
+      "type": "module",
+      "label": "AudioSynesthesia"
+    },
+    {
+      "id": "module_BlendStack",
+      "type": "module",
+      "label": "BlendStack"
+    },
+    {
+      "id": "module_MovieRenderPipelineRenderPasses",
+      "type": "module",
+      "label": "MovieRenderPipelineRenderPasses"
+    },
+    {
+      "id": "module_ComputeFramework",
+      "type": "module",
+      "label": "ComputeFramework"
+    },
+    {
+      "id": "plugin_GISDataAPI",
+      "type": "plugin",
+      "label": "GISDataAPI"
+    },
+    {
+      "id": "plugin_GeometryScripting",
+      "type": "plugin",
+      "label": "GeometryScripting"
+    },
+    {
+      "id": "plugin_ControlRig",
+      "type": "plugin",
+      "label": "ControlRig"
+    },
+    {
+      "id": "plugin_AesRuntimeModeler",
+      "type": "plugin",
+      "label": "AesRuntimeModeler"
+    },
+    {
+      "id": "plugin_GameplayAbilities",
+      "type": "plugin",
+      "label": "GameplayAbilities"
+    },
+    {
+      "id": "plugin_USDCore",
+      "type": "plugin",
+      "label": "USDCore"
+    },
+    {
+      "id": "plugin_AesTilesEntity",
+      "type": "plugin",
+      "label": "AesTilesEntity"
+    },
+    {
+      "id": "plugin_WdpAssetAPI",
+      "type": "plugin",
+      "label": "WdpAssetAPI"
+    },
+    {
+      "id": "plugin_WdpAPIFrame",
+      "type": "plugin",
+      "label": "WdpAPIFrame"
+    },
+    {
+      "id": "plugin_AudioSynesthesia",
+      "type": "plugin",
+      "label": "AudioSynesthesia"
+    },
+    {
+      "id": "plugin_BlendStack",
+      "type": "plugin",
+      "label": "BlendStack"
+    },
+    {
+      "id": "plugin_MovieRenderPipeline",
+      "type": "plugin",
+      "label": "MovieRenderPipeline"
+    },
+    {
+      "id": "plugin_ComputeFramework",
+      "type": "plugin",
+      "label": "ComputeFramework"
+    }
+  ],
+  "edges": [
+    {
+      "source": "CSVImportSettings",
+      "target": "StructBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "OnNavigationPathUpdated",
+      "target": "MulticastDelegateBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "MenuAnchor_GetUserWidget",
+      "target": "DelegateBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "SetGeoLayerOffsetParams",
+      "target": "EidParams",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "TimeStretchCurveMarker",
+      "target": "StructBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "GeometryScript_MeshSelectionQueries",
+      "target": "BlueprintFunctionLibrary",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "RigUnit_PointSimulation",
+      "target": "RigVMFunction_SimBaseMutable",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "WdpModelerWaterVertexAttribute",
+      "target": "StructBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "RigUnit_MathDoubleMax",
+      "target": "RigVMFunction_MathDoubleMax",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "GameplayEffectDurationType",
+      "target": "EnumBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "OnAsyncHandleSaveGame",
+      "target": "MulticastDelegateBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "ExternalDataLayerInstance",
+      "target": "DataLayerInstanceWithAsset",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "UsdProjectSettings",
+      "target": "DeveloperSettings",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "MovieSceneBuiltInEasing",
+      "target": "EnumBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "AesTilesFeatureIdPickAtom",
+      "target": "DefaultEntityPickAtom",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "DCPClickSinglePointResult",
+      "target": "EventArgsBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "ParamsBase",
+      "target": "StructBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "OnConstantQResults",
+      "target": "MulticastDelegateBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "BlendStackInputAnimNodeLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "MovieGraphDeferredRenderPassNode",
+      "target": "MovieGraphImagePassBaseNode",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "ComputeSource",
+      "target": "Object",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "InputAlphaBoolBlend",
+      "target": "StructBase",
+      "relation": "inherits_from"
+    },
+    {
+      "source": "CSVImportSettings",
+      "target": "prop_CSVImportSettings_import_row_struct",
+      "relation": "has_property"
+    },
+    {
+      "source": "CSVImportSettings",
+      "target": "prop_CSVImportSettings_import_type",
+      "relation": "has_property"
+    },
+    {
+      "source": "CSVImportSettings",
+      "target": "prop_CSVImportSettings_import_curve_interp_mode",
+      "relation": "has_property"
+    },
+    {
+      "source": "SetGeoLayerOffsetParams",
+      "target": "prop_SetGeoLayerOffsetParams_geo_layer_offset",
+      "relation": "has_property"
+    },
+    {
+      "source": "TimeStretchCurveMarker",
+      "target": "prop_TimeStretchCurveMarker_alpha",
+      "relation": "has_property"
+    },
+    {
+      "source": "TimeStretchCurveMarker",
+      "target": "prop_TimeStretchCurveMarker_time",
+      "relation": "has_property"
+    },
+    {
+      "source": "RigUnit_PointSimulation",
+      "target": "prop_RigUnit_PointSimulation_points",
+      "relation": "has_property"
+    },
+    {
+      "source": "RigUnit_PointSimulation",
+      "target": "prop_RigUnit_PointSimulation_links",
+      "relation": "has_property"
+    },
+    {
+      "source": "RigUnit_PointSimulation",
+      "target": "prop_RigUnit_PointSimulation_forces",
+      "relation": "has_property"
+    },
+    {
+      "source": "RigUnit_PointSimulation",
+      "target": "prop_RigUnit_PointSimulation_collision_volumes",
+      "relation": "has_property"
+    },
+    {
+      "source": "RigUnit_PointSimulation",
+      "target": "prop_RigUnit_PointSimulation_bezier",
+      "relation": "has_property"
+    },
+    {
+      "source": "WdpModelerWaterVertexAttribute",
+      "target": "prop_WdpModelerWaterVertexAttribute_corner_radius",
+      "relation": "has_property"
+    },
+    {
+      "source": "WdpModelerWaterVertexAttribute",
+      "target": "prop_WdpModelerWaterVertexAttribute_corner_split_num",
+      "relation": "has_property"
+    },
+    {
+      "source": "ExternalDataLayerInstance",
+      "target": "prop_ExternalDataLayerInstance_data_layer_asset",
+      "relation": "has_property"
+    },
+    {
+      "source": "ParamsBase",
+      "target": "prop_ParamsBase_guid",
+      "relation": "has_property"
+    },
+    {
+      "source": "ParamsBase",
+      "target": "prop_ParamsBase_hit_keys",
+      "relation": "has_property"
+    },
+    {
+      "source": "DCPClickSinglePointResult",
+      "target": "prop_DCPClickSinglePointResult_gis_coord",
+      "relation": "has_property"
+    },
+    {
+      "source": "DCPClickSinglePointResult",
+      "target": "prop_DCPClickSinglePointResult_ue_coord",
+      "relation": "has_property"
+    },
+    {
+      "source": "InputAlphaBoolBlend",
+      "target": "prop_InputAlphaBoolBlend_blend_in_time",
+      "relation": "has_property"
+    },
+    {
+      "source": "InputAlphaBoolBlend",
+      "target": "prop_InputAlphaBoolBlend_blend_out_time",
+      "relation": "has_property"
+    },
+    {
+      "source": "InputAlphaBoolBlend",
+      "target": "prop_InputAlphaBoolBlend_blend_option",
+      "relation": "has_property"
+    },
+    {
+      "source": "InputAlphaBoolBlend",
+      "target": "prop_InputAlphaBoolBlend_custom_curve",
+      "relation": "has_property"
+    },
+    {
+      "source": "ComputeSource",
+      "target": "prop_ComputeSource_additional_sources",
+      "relation": "has_property"
+    },
+    {
+      "source": "GameplayEffectDurationType",
+      "target": "enum_GameplayEffectDurationType_INSTANT",
+      "relation": "has_enum_value"
+    },
+    {
+      "source": "GameplayEffectDurationType",
+      "target": "enum_GameplayEffectDurationType_INFINITE",
+      "relation": "has_enum_value"
+    },
+    {
+      "source": "GameplayEffectDurationType",
+      "target": "enum_GameplayEffectDurationType_HAS_DURATION",
+      "relation": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneBuiltInEasing",
+      "target": "enum_MovieSceneBuiltInEasing_LINEAR",
+      "relation": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneBuiltInEasing",
+      "target": "enum_MovieSceneBuiltInEasing_SIN_IN",
+      "relation": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneBuiltInEasing",
+      "target": "enum_MovieSceneBuiltInEasing_CUBIC",
+      "relation": "has_enum_value"
+    },
+    {
+      "source": "MovieSceneBuiltInEasing",
+      "target": "enum_MovieSceneBuiltInEasing_CUSTOM",
+      "relation": "has_enum_value"
+    },
+    {
+      "source": "GeometryScript_MeshSelectionQueries",
+      "target": "method_GeometryScript_MeshSelectionQueries_get_mesh_selection_bounding_box",
+      "relation": "has_method"
+    },
+    {
+      "source": "GeometryScript_MeshSelectionQueries",
+      "target": "method_GeometryScript_MeshSelectionQueries_get_mesh_selection_boundary_loops",
+      "relation": "has_method"
+    },
+    {
+      "source": "BlendStackInputAnimNodeLibrary",
+      "target": "method_BlendStackInputAnimNodeLibrary_get_properties",
+      "relation": "has_method"
+    },
+    {
+      "source": "BlendStackInputAnimNodeLibrary",
+      "target": "method_BlendStackInputAnimNodeLibrary_convert_to_blend_stack_input_node_pure",
+      "relation": "has_method"
+    },
+    {
+      "source": "BlendStackInputAnimNodeLibrary",
+      "target": "method_BlendStackInputAnimNodeLibrary_convert_to_blend_stack_input_node",
+      "relation": "has_method"
+    },
+    {
+      "source": "CSVImportSettings",
+      "target": "module_UnrealEd",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "OnNavigationPathUpdated",
+      "target": "module_NavigationSystem",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "MenuAnchor_GetUserWidget",
+      "target": "module_UMG",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "SetGeoLayerOffsetParams",
+      "target": "module_MagicGISAPI",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "TimeStretchCurveMarker",
+      "target": "module_Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "GeometryScript_MeshSelectionQueries",
+      "target": "module_GeometryScriptingCore",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "RigUnit_PointSimulation",
+      "target": "module_ControlRig",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "WdpModelerWaterVertexAttribute",
+      "target": "module_WdpModelerEntity",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "GameplayEffectDurationType",
+      "target": "module_GameplayAbilities",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "OnAsyncHandleSaveGame",
+      "target": "module_Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "ExternalDataLayerInstance",
+      "target": "module_Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "UsdProjectSettings",
+      "target": "module_USDClasses",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "MovieSceneBuiltInEasing",
+      "target": "module_MovieScene",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "AesTilesFeatureIdPickAtom",
+      "target": "module_AesTilesEntity",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "DCPClickSinglePointResult",
+      "target": "module_DcpAPI",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "ParamsBase",
+      "target": "module_WdpAPIFramework",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "OnConstantQResults",
+      "target": "module_AudioSynesthesia",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "BlendStackInputAnimNodeLibrary",
+      "target": "module_BlendStack",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "MovieGraphDeferredRenderPassNode",
+      "target": "module_MovieRenderPipelineRenderPasses",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "ComputeSource",
+      "target": "module_ComputeFramework",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "InputAlphaBoolBlend",
+      "target": "module_Engine",
+      "relation": "defined_in_module"
+    },
+    {
+      "source": "SetGeoLayerOffsetParams",
+      "target": "plugin_GISDataAPI",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "GeometryScript_MeshSelectionQueries",
+      "target": "plugin_GeometryScripting",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "RigUnit_PointSimulation",
+      "target": "plugin_ControlRig",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "WdpModelerWaterVertexAttribute",
+      "target": "plugin_AesRuntimeModeler",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "GameplayEffectDurationType",
+      "target": "plugin_GameplayAbilities",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "UsdProjectSettings",
+      "target": "plugin_USDCore",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "AesTilesFeatureIdPickAtom",
+      "target": "plugin_AesTilesEntity",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "DCPClickSinglePointResult",
+      "target": "plugin_WdpAssetAPI",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "ParamsBase",
+      "target": "plugin_WdpAPIFrame",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "OnConstantQResults",
+      "target": "plugin_AudioSynesthesia",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "BlendStackInputAnimNodeLibrary",
+      "target": "plugin_BlendStack",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "MovieGraphDeferredRenderPassNode",
+      "target": "plugin_MovieRenderPipeline",
+      "relation": "defined_in_plugin"
+    },
+    {
+      "source": "ComputeSource",
+      "target": "plugin_ComputeFramework",
+      "relation": "defined_in_plugin"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_OnNavigationPathUpdated_signature",
+      "type": "delegate_signature",
+      "nodes": [
+        "OnNavigationPathUpdated",
+        "NavigationPath",
+        "NavPathEvent"
+      ],
+      "description": "Delegate accepts affected_path (NavigationPath) and path_event (NavPathEvent)"
+    },
+    {
+      "id": "hyperedge_MenuAnchor_GetUserWidget_signature",
+      "type": "delegate_signature",
+      "nodes": [
+        "MenuAnchor_GetUserWidget",
+        "UserWidget"
+      ],
+      "description": "Delegate returns UserWidget"
+    },
+    {
+      "id": "hyperedge_OnAsyncHandleSaveGame_signature",
+      "type": "delegate_signature",
+      "nodes": [
+        "OnAsyncHandleSaveGame",
+        "SaveGame",
+        "bool"
+      ],
+      "description": "Delegate accepts save_game (SaveGame) and success (bool)"
+    },
+    {
+      "id": "hyperedge_OnConstantQResults_signature",
+      "type": "delegate_signature",
+      "nodes": [
+        "OnConstantQResults",
+        "int32",
+        "Array[ConstantQResults]"
+      ],
+      "description": "Delegate accepts channel_index (int32) and constant_q_results (Array[ConstantQResults])"
+    },
+    {
+      "id": "hyperedge_GetGeoLayerLocationParams_inheritance",
+      "type": "inheritance_chain",
+      "nodes": [
+        "SetGeoLayerOffsetParams",
+        "EidParams",
+        "ParamsBase",
+        "StructBase"
+      ],
+      "description": "Inheritance chain from SetGeoLayerOffsetParams to StructBase"
+    },
+    {
+      "id": "hyperedge_RigUnit_PointSimulation_simulation_components",
+      "type": "simulation_structure",
+      "nodes": [
+        "RigUnit_PointSimulation",
+        "prop_RigUnit_PointSimulation_points",
+        "prop_RigUnit_PointSimulation_links",
+        "prop_RigUnit_PointSimulation_forces",
+        "prop_RigUnit_PointSimulation_collision_volumes"
+      ],
+      "description": "Point simulation requires points, links, forces, and collision volumes"
+    },
+    {
+      "id": "hyperedge_MovieGraphDeferredRenderPassNode_render_settings",
+      "type": "configuration_group",
+      "nodes": [
+        "MovieGraphDeferredRenderPassNode",
+        "AntiAliasingMethod",
+        "ViewModeIndex",
+        "MovieGraphShowFlags"
+      ],
+      "description": "Render pass node configuration includes anti-aliasing, view mode, and show flags"
+    },
+    {
+      "id": "hyperedge_ComputeSource_dependencies",
+      "type": "recursive_structure",
+      "nodes": [
+        "ComputeSource",
+        "prop_ComputeSource_additional_sources"
+      ],
+      "description": "ComputeSource can contain additional ComputeSource objects as dependencies"
+    },
+    {
+      "id": "hyperedge_gameplay_effect_duration_types",
+      "type": "enum_grouping",
+      "nodes": [
+        "GameplayEffectDurationType",
+        "enum_GameplayEffectDurationType_INSTANT",
+        "enum_GameplayEffectDurationType_INFINITE",
+        "enum_GameplayEffectDurationType_HAS_DURATION"
+      ],
+      "description": "Complete set of gameplay effect duration type values"
+    },
+    {
+      "id": "hyperedge_easing_curve_types",
+      "type": "enum_grouping",
+      "nodes": [
+        "MovieSceneBuiltInEasing",
+        "enum_MovieSceneBuiltInEasing_LINEAR",
+        "enum_MovieSceneBuiltInEasing_SIN_IN",
+        "enum_MovieSceneBuiltInEasing_QUAD_IN",
+        "enum_MovieSceneBuiltInEasing_CUBIC",
+        "enum_MovieSceneBuiltInEasing_QUART_IN",
+        "enum_MovieSceneBuiltInEasing_QUINT_IN",
+        "enum_MovieSceneBuiltInEasing_EXPO_IN",
+        "enum_MovieSceneBuiltInEasing_CIRC_IN",
+        "enum_MovieSceneBuiltInEasing_CUSTOM"
+      ],
+      "description": "Easing curve types for movie scene animations"
+    },
+    {
+      "id": "hyperedge_GIS_plugin_modules",
+      "type": "plugin_module_relationship",
+      "nodes": [
+        "plugin_GISDataAPI",
+        "module_MagicGISAPI",
+        "SetGeoLayerOffsetParams"
+      ],
+      "description": "GISDataAPI plugin contains MagicGISAPI module with SetGeoLayerOffsetParams"
+    },
+    {
+      "id": "hyperedge_ControlRig_plugin_chain",
+      "type": "plugin_module_chain",
+      "nodes": [
+        "plugin_ControlRig",
+        "module_ControlRig",
+        "RigUnit_PointSimulation",
+        "RigUnit_MathDoubleMax"
+      ],
+      "description": "ControlRig plugin provides rigging functionality through ControlRig module"
+    },
+    {
+      "id": "hyperedge_BlendStack_workflow",
+      "type": "method_chain",
+      "nodes": [
+        "BlendStackInputAnimNodeLibrary",
+        "method_BlendStackInputAnimNodeLibrary_convert_to_blend_stack_input_node",
+        "method_BlendStackInputAnimNodeLibrary_get_properties",
+        "AnimNodeReference",
+        "BlendStackInputAnimNodeReference"
+      ],
+      "description": "Workflow for converting and accessing blend stack input node properties"
+    },
+    {
+      "id": "hyperedge_GeometryScript_selection_queries",
+      "type": "method_group",
+      "nodes": [
+        "GeometryScript_MeshSelectionQueries",
+        "method_GeometryScript_MeshSelectionQueries_get_mesh_selection_bounding_box",
+        "method_GeometryScript_MeshSelectionQueries_get_mesh_selection_boundary_loops",
+        "DynamicMesh",
+        "GeometryScriptMeshSelection"
+      ],
+      "description": "Mesh selection query methods operating on DynamicMesh with selections"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "CSVImportSettings Objects.md",
+      "OnNavigationPathUpdated Objects.md",
+      "MenuAnchor__GetUserWidget Objects.md",
+      "SetGeoLayerOffsetParams Objects.md",
+      "TimeStretchCurveMarker Objects.md",
+      "GeometryScript_MeshSelectionQueries Objects.md",
+      "RigUnit_PointSimulation Objects.md",
+      "WdpModelerWaterVertexAttribute Objects.md",
+      "RigUnit__MathDoubleMax Objects.md",
+      "GameplayEffectDurationType Objects.md",
+      "OnAsyncHandleSaveGame Objects.md",
+      "ExternalDataLayerInstance Objects.md",
+      "UsdProjectSettings Objects.md",
+      "MovieSceneBuiltInEasing Objects.md",
+      "AesTilesFeatureIdPickAtom Objects.md",
+      "DCPClickSinglePointResult Objects.md",
+      "ParamsBase Objects.md",
+      "OnConstantQResults Objects.md",
+      "BlendStackInputAnimNodeLibrary Objects.md",
+      "MovieGraphDeferredRenderPassNode Objects.md",
+      "ComputeSource Objects.md",
+      "InputAlphaBoolBlend Objects.md"
+    ],
+    "extraction_timestamp": "2026-04-12",
+    "total_nodes": 116,
+    "total_edges": 100,
+    "total_hyperedges": 14,
+    "chunk_id": 643
+  }
+}

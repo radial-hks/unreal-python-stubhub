@@ -1,0 +1,626 @@
+{
+  "metadata": {
+    "extraction_date": "2026-04-12",
+    "source_files": [
+      "EarthShapeGrammarRefittingResult Objects.md",
+      "HighlightInfo Objects.md",
+      "CRFourPointBezier Objects.md",
+      "MeshComponent Objects.md",
+      "PCGAttributeTransferSettings Objects.md",
+      "AvaPatternModifierLineLayoutOptions Objects.md",
+      "RigUnit__MathMatrixFromTransformV2 Objects.md",
+      "AnimatedSparseVolumeTextureController Objects.md",
+      "PoseSearchFeatureChannel_Pose Objects.md",
+      "BlendSpaceBlendProfile Objects.md",
+      "AnimNode_RotationMultiplier Objects.md",
+      "StaticMeshReductionTerimationCriterion Objects.md"
+    ],
+    "total_entities": 12,
+    "total_relationships": 150
+  },
+  "nodes": [
+    {
+      "id": "EarthShapeGrammarRefittingResult",
+      "type": "struct",
+      "name": "EarthShapeGrammarRefittingResult",
+      "description": "定义形状语法重构结果结构体",
+      "base_class": "StructBase",
+      "source": {
+        "plugin": "AesWorld",
+        "module": "EarthPrefab",
+        "file": "EarthShapeGrammarFragment.h"
+      },
+      "properties": [],
+      "methods": [
+        {
+          "name": "__init__",
+          "signature": "def __init__() -> None",
+          "parameters": []
+        }
+      ]
+    },
+    {
+      "id": "HighlightInfo",
+      "type": "struct",
+      "name": "HighlightInfo",
+      "description": "Highlight Info",
+      "base_class": "StructBase",
+      "source": {
+        "plugin": "CoveringAPI",
+        "module": "CoveringAPIEntity",
+        "file": "ChinaMapTypes.h"
+      },
+      "properties": [
+        {
+          "name": "default_color",
+          "type": "LinearColor",
+          "access": "read-write",
+          "default_value": "[0.000000, 0.000000, 0.000000, 0.000000]"
+        },
+        {
+          "name": "mid",
+          "type": "MaterialInstanceDynamic",
+          "access": "read-write",
+          "default_value": "None"
+        },
+        {
+          "name": "smc",
+          "type": "StaticMeshComponent",
+          "access": "read-write",
+          "default_value": "None"
+        }
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "signature": "def __init__(smc: StaticMeshComponent = None, default_color: LinearColor = [0.000000, 0.000000, 0.000000, 0.000000], mid: MaterialInstanceDynamic = None) -> None",
+          "parameters": [
+            {"name": "smc", "type": "StaticMeshComponent", "default": "None"},
+            {"name": "default_color", "type": "LinearColor", "default": "[0.000000, 0.000000, 0.000000, 0.000000]"},
+            {"name": "mid", "type": "MaterialInstanceDynamic", "default": "None"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CRFourPointBezier",
+      "type": "class",
+      "name": "CRFourPointBezier",
+      "description": "deprecated: 'CRFourPointBezier' was renamed to 'RigVMFourPointBezier'",
+      "base_class": "RigVMFourPointBezier",
+      "deprecated": true,
+      "deprecated_message": "'CRFourPointBezier' was renamed to 'RigVMFourPointBezier'",
+      "methods": [
+        {
+          "name": "__init__",
+          "signature": "def __init__() -> None",
+          "parameters": []
+        }
+      ]
+    },
+    {
+      "id": "MeshComponent",
+      "type": "class",
+      "name": "MeshComponent",
+      "description": "MeshComponent is an abstract base for any component that is an instance of a renderable collection of triangles.",
+      "base_class": "PrimitiveComponent",
+      "source": {
+        "module": "Engine",
+        "file": "MeshComponent.h"
+      },
+      "properties": [
+        {"name": "overlay_material", "type": "MaterialInterface", "access": "read-only"},
+        {"name": "overlay_material_max_draw_distance", "type": "float", "access": "read-only"},
+        {"name": "enable_material_parameter_caching", "type": "bool", "access": "read-only"}
+      ],
+      "methods": [
+        {
+          "name": "set_vector_parameter_value_on_materials",
+          "signature": "def set_vector_parameter_value_on_materials(parameter_name: Name, parameter_value: Vector) -> None",
+          "description": "Set all occurrences of Vector Material Parameters with ParameterName in the set of materials of the SkeletalMesh to ParameterValue",
+          "parameters": [
+            {"name": "parameter_name", "type": "Name"},
+            {"name": "parameter_value", "type": "Vector"}
+          ]
+        },
+        {
+          "name": "set_scalar_parameter_value_on_materials",
+          "signature": "def set_scalar_parameter_value_on_materials(parameter_name: Name, parameter_value: float) -> None",
+          "description": "Set all occurrences of Scalar Material Parameters with ParameterName in the set of materials of the SkeletalMesh to ParameterValue",
+          "parameters": [
+            {"name": "parameter_name", "type": "Name"},
+            {"name": "parameter_value", "type": "float"}
+          ]
+        },
+        {
+          "name": "set_overlay_material_max_draw_distance",
+          "signature": "def set_overlay_material_max_draw_distance(max_draw_distance: float) -> None",
+          "description": "Change the overlay material max draw distance used by this instance",
+          "parameters": [
+            {"name": "max_draw_distance", "type": "float"}
+          ]
+        },
+        {
+          "name": "set_overlay_material",
+          "signature": "def set_overlay_material(new_overlay_material: MaterialInterface) -> None",
+          "description": "Change the overlay material used by this instance",
+          "parameters": [
+            {"name": "new_overlay_material", "type": "MaterialInterface"}
+          ]
+        },
+        {
+          "name": "set_color_parameter_value_on_materials",
+          "signature": "def set_color_parameter_value_on_materials(parameter_name: Name, parameter_value: LinearColor) -> None",
+          "description": "Set all occurrences of Vector Material Parameters with ParameterName in the set of materials of the SkeletalMesh to ParameterValue",
+          "parameters": [
+            {"name": "parameter_name", "type": "Name"},
+            {"name": "parameter_value", "type": "LinearColor"}
+          ]
+        },
+        {
+          "name": "prestream_textures",
+          "signature": "def prestream_textures(seconds: float, prioritize_character_textures: bool, cinematic_texture_groups: int = 0) -> None",
+          "description": "Tell the streaming system to start loading all textures with all mip-levels.",
+          "parameters": [
+            {"name": "seconds", "type": "float"},
+            {"name": "prioritize_character_textures", "type": "bool"},
+            {"name": "cinematic_texture_groups", "type": "int32", "default": "0"}
+          ]
+        },
+        {
+          "name": "prestream_mesh_lo_ds",
+          "signature": "def prestream_mesh_lo_ds(seconds: float) -> bool",
+          "description": "Tell the streaming system to start streaming in all LODs for the mesh.",
+          "parameters": [
+            {"name": "seconds", "type": "float"}
+          ],
+          "return_type": "bool"
+        },
+        {
+          "name": "get_overlay_material_max_draw_distance",
+          "signature": "def get_overlay_material_max_draw_distance() -> float",
+          "description": "Get the overlay material used by this instance",
+          "return_type": "float"
+        },
+        {
+          "name": "get_overlay_material",
+          "signature": "def get_overlay_material() -> MaterialInterface",
+          "description": "Get the overlay material used by this instance",
+          "return_type": "MaterialInterface"
+        },
+        {
+          "name": "get_materials",
+          "signature": "def get_materials() -> Array[MaterialInterface]",
+          "description": "Get Materials",
+          "return_type": "Array[MaterialInterface]"
+        }
+      ],
+      "editor_properties_count": 94
+    },
+    {
+      "id": "PCGAttributeTransferSettings",
+      "type": "class",
+      "name": "PCGAttributeTransferSettings",
+      "description": "PCGAttribute Transfer Settings",
+      "base_class": "PCGCopyAttributesSettings",
+      "source": {
+        "plugin": "PCG",
+        "module": "PCG",
+        "file": "PCGAttributeTransferElement.h"
+      },
+      "properties": [
+        {"name": "break_debugger", "type": "bool", "access": "read-write"},
+        {"name": "category", "type": "Text", "access": "read-write"},
+        {"name": "copy_all_attributes", "type": "bool", "access": "read-write"},
+        {"name": "debug", "type": "bool", "access": "read-write"},
+        {"name": "debug_buffer_size", "type": "int32", "access": "read-write"},
+        {"name": "debug_settings", "type": "PCGDebugVisualizationSettings", "access": "read-write"},
+        {"name": "description", "type": "Text", "access": "read-write"},
+        {"name": "determinism_settings", "type": "PCGDeterminismSettings", "access": "read-write"},
+        {"name": "dump_cooked_hlsl", "type": "bool", "access": "read-write"},
+        {"name": "dump_data_descriptions", "type": "bool", "access": "read-write"},
+        {"name": "enabled", "type": "bool", "access": "read-write"},
+        {"name": "execute_on_gpu", "type": "bool", "access": "read-write"},
+        {"name": "expose_to_library", "type": "bool", "access": "read-write"},
+        {"name": "input_source", "type": "PCGAttributePropertyInputSelector", "access": "read-write"},
+        {"name": "operation", "type": "PCGCopyAttributesOperation", "access": "read-write"},
+        {"name": "output_target", "type": "PCGAttributePropertyOutputSelector", "access": "read-write"},
+        {"name": "print_shader_debug_values", "type": "bool", "access": "read-write"},
+        {"name": "seed", "type": "int32", "access": "read-write"},
+        {"name": "use_seed", "type": "bool", "access": "read-write", "deprecated": true}
+      ],
+      "methods": []
+    },
+    {
+      "id": "AvaPatternModifierLineLayoutOptions",
+      "type": "struct",
+      "name": "AvaPatternModifierLineLayoutOptions",
+      "description": "Ava Pattern Modifier Line Layout Options",
+      "base_class": "StructBase",
+      "source": {
+        "plugin": "Avalanche",
+        "module": "AvalancheModifiers",
+        "file": "AvaPatternModifier.h"
+      },
+      "properties": [
+        {"name": "accumulate_transform", "type": "bool", "access": "read-write"},
+        {"name": "axis", "type": "AvaPatternModifierAxis", "access": "read-write"},
+        {"name": "axis_inverted", "type": "bool", "access": "read-write"},
+        {"name": "centered", "type": "bool", "access": "read-write", "description": "Center the layout based on the axis"},
+        {"name": "repeat_count", "type": "int32", "access": "read-write"},
+        {"name": "rotation", "type": "Rotator", "access": "read-write"},
+        {"name": "scale", "type": "Vector", "access": "read-write"},
+        {"name": "spacing", "type": "float", "access": "read-write"}
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "signature": "def __init__(axis: AvaPatternModifierAxis = AvaPatternModifierAxis.X, axis_inverted: bool = False, repeat_count: int = 0, spacing: float = 0.000000, centered: bool = False, accumulate_transform: bool = False, rotation: Rotator = [0.000000, 0.000000, 0.000000], scale: Vector = [0.000000, 0.000000, 0.000000]) -> None",
+          "parameters": [
+            {"name": "axis", "type": "AvaPatternModifierAxis", "default": "AvaPatternModifierAxis.X"},
+            {"name": "axis_inverted", "type": "bool", "default": "False"},
+            {"name": "repeat_count", "type": "int", "default": "0"},
+            {"name": "spacing", "type": "float", "default": "0.000000"},
+            {"name": "centered", "type": "bool", "default": "False"},
+            {"name": "accumulate_transform", "type": "bool", "default": "False"},
+            {"name": "rotation", "type": "Rotator", "default": "[0.000000, 0.000000, 0.000000]"},
+            {"name": "scale", "type": "Vector", "default": "[0.000000, 0.000000, 0.000000]"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RigUnit_MathMatrixFromTransformV2",
+      "type": "class",
+      "name": "RigUnit_MathMatrixFromTransformV2",
+      "description": "deprecated: 'RigUnit_MathMatrixFromTransformV2' was renamed to 'RigVMFunction_MathMatrixFromTransformV2'",
+      "base_class": "RigVMFunction_MathMatrixFromTransformV2",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathMatrixFromTransformV2' was renamed to 'RigVMFunction_MathMatrixFromTransformV2'",
+      "methods": [
+        {
+          "name": "__init__",
+          "signature": "def __init__(value: Transform = [[0.000000, 0.000000, 0.000000], [-0.000000, 0.000000, 0.000000], [1.000000, 1.000000, 1.000000]], result: Matrix = [[0.000000, 0.000000, 0.000000, 0.000000], [0.000000, 0.000000, 0.000000, 0.000000], [0.000000, 0.000000, 0.000000, 0.000000], [0.000000, 0.000000, 0.000000, 0.000000]]) -> None",
+          "parameters": [
+            {"name": "value", "type": "Transform", "default": "[[0.000000, 0.000000, 0.000000], [-0.000000, 0.000000, 0.000000], [1.000000, 1.000000, 1.000000]]"},
+            {"name": "result", "type": "Matrix", "default": "[[0.000000, 0.000000, 0.000000, 0.000000], [0.000000, 0.000000, 0.000000, 0.000000], [0.000000, 0.000000, 0.000000, 0.000000], [0.000000, 0.000000, 0.000000, 0.000000]]"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "AnimatedSparseVolumeTextureController",
+      "type": "class",
+      "name": "AnimatedSparseVolumeTextureController",
+      "description": "Utility (blueprint) class for controlling SparseVolumeTexture playback.",
+      "base_class": "Object",
+      "source": {
+        "module": "Engine",
+        "file": "SparseVolumeTexture.h"
+      },
+      "properties": [
+        {"name": "blocking_streaming_requests", "type": "bool", "access": "read-write"},
+        {"name": "frame_rate", "type": "float", "access": "read-write"},
+        {"name": "is_playing", "type": "bool", "access": "read-write"},
+        {"name": "mip_level", "type": "int32", "access": "read-write"},
+        {"name": "sparse_volume_texture", "type": "SparseVolumeTexture", "access": "read-write"},
+        {"name": "time", "type": "float", "access": "read-write"}
+      ],
+      "methods": [
+        {
+          "name": "update",
+          "signature": "def update(delta_time: float) -> None",
+          "description": "Update",
+          "parameters": [
+            {"name": "delta_time", "type": "float"}
+          ]
+        },
+        {
+          "name": "stop",
+          "signature": "def stop() -> None",
+          "description": "Stop"
+        },
+        {
+          "name": "play",
+          "signature": "def play() -> None",
+          "description": "Play"
+        },
+        {
+          "name": "pause",
+          "signature": "def pause() -> None",
+          "description": "Pause"
+        },
+        {
+          "name": "get_frame_by_index",
+          "signature": "def get_frame_by_index(frame_index: int) -> SparseVolumeTextureFrame",
+          "description": "Get Frame by Index",
+          "parameters": [
+            {"name": "frame_index", "type": "int32"}
+          ],
+          "return_type": "SparseVolumeTextureFrame"
+        },
+        {
+          "name": "get_fractional_frame_index",
+          "signature": "def get_fractional_frame_index() -> float",
+          "description": "Get Fractional Frame Index",
+          "return_type": "float"
+        },
+        {
+          "name": "get_duration",
+          "signature": "def get_duration() -> float",
+          "description": "Get Duration",
+          "return_type": "float"
+        },
+        {
+          "name": "get_current_frames_for_interpolation",
+          "signature": "def get_current_frames_for_interpolation() -> Tuple[SparseVolumeTextureFrame, SparseVolumeTextureFrame, float]",
+          "description": "Get Current Frames for Interpolation",
+          "return_type": "Tuple[SparseVolumeTextureFrame, SparseVolumeTextureFrame, float]"
+        },
+        {
+          "name": "get_current_frame",
+          "signature": "def get_current_frame() -> SparseVolumeTextureFrame",
+          "description": "Get Current Frame",
+          "return_type": "SparseVolumeTextureFrame"
+        }
+      ]
+    },
+    {
+      "id": "PoseSearchFeatureChannel_Pose",
+      "type": "class",
+      "name": "PoseSearchFeatureChannel_Pose",
+      "description": "UPoseSearchFeatureChannel_Pose",
+      "base_class": "PoseSearchFeatureChannel_GroupBase",
+      "source": {
+        "plugin": "PoseSearch",
+        "module": "PoseSearch",
+        "file": "PoseSearchFeatureChannel_Pose.h"
+      },
+      "properties": [
+        {"name": "input_query_pose", "type": "InputQueryPose", "access": "read-write"},
+        {"name": "sample_role", "type": "Name", "access": "read-write"},
+        {"name": "sampled_bones", "type": "Array[PoseSearchBone]", "access": "read-write", "description": "List of skeletal joints and associated Flags (Velocity, Position, etc) to sample."},
+        {"name": "use_character_space_velocities", "type": "bool", "access": "read-write", "description": "if bUseCharacterSpaceVelocities is true, velocities will be calculated from the positions in character space, otherwise they will be calculated using global space positions"},
+        {"name": "weight", "type": "float", "access": "read-write"}
+      ],
+      "methods": []
+    },
+    {
+      "id": "BlendSpaceBlendProfile",
+      "type": "struct",
+      "name": "BlendSpaceBlendProfile",
+      "description": "Blend Space Blend Profile",
+      "base_class": "StructBase",
+      "source": {
+        "module": "Engine",
+        "file": "BlendSpace.h"
+      },
+      "properties": [
+        {"name": "blend_profile", "type": "BlendProfile", "access": "read-write"},
+        {"name": "target_weight_interpolation_speed_per_sec", "type": "float", "access": "read-write"}
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "signature": "def __init__() -> None",
+          "parameters": []
+        }
+      ]
+    },
+    {
+      "id": "AnimNode_RotationMultiplier",
+      "type": "struct",
+      "name": "AnimNode_RotationMultiplier",
+      "description": "Simple controller that multiplies scalar value to the translation/rotation/scale of a single bone.",
+      "base_class": "AnimNode_SkeletalControlBase",
+      "source": {
+        "module": "AnimGraphRuntime",
+        "file": "AnimNode_RotationMultiplier.h"
+      },
+      "properties": [
+        {"name": "alpha", "type": "float", "access": "read-write", "description": "Current strength of the skeletal control"},
+        {"name": "alpha_bool_blend", "type": "InputAlphaBoolBlend", "access": "read-write"},
+        {"name": "alpha_bool_enabled", "type": "bool", "access": "read-write"},
+        {"name": "alpha_curve_name", "type": "Name", "access": "read-write"},
+        {"name": "alpha_input_type", "type": "AnimAlphaInputType", "access": "read-write"},
+        {"name": "alpha_scale_bias", "type": "InputScaleBias", "access": "read-write"},
+        {"name": "alpha_scale_bias_clamp", "type": "InputScaleBiasClamp", "access": "read-write"},
+        {"name": "component_pose", "type": "ComponentSpacePoseLink", "access": "read-write", "description": "Input link"},
+        {"name": "is_additive", "type": "bool", "access": "read-write"},
+        {"name": "lod_threshold", "type": "int32", "access": "read-write", "description": "Max LOD that this node is allowed to run"},
+        {"name": "multiplier", "type": "float", "access": "read-write", "description": "0.f is invalid, and default"},
+        {"name": "rotation_axis_to_refer", "type": "BoneAxis", "access": "read-write"},
+        {"name": "source_bone", "type": "BoneReference", "access": "read-write", "description": "Source to get transform from"},
+        {"name": "target_bone", "type": "BoneReference", "access": "read-write", "description": "Name of bone to control. This is the main bone chain to modify from."}
+      ],
+      "methods": [
+        {
+          "name": "__init__",
+          "signature": "def __init__(component_pose: ComponentSpacePoseLink = [], lod_threshold: int = 0, alpha_input_type: AnimAlphaInputType = AnimAlphaInputType.FLOAT, alpha_bool_enabled: bool = False, alpha: float = 0.000000, alpha_scale_bias: InputScaleBias = [1.000000, 0.000000], alpha_bool_blend: InputAlphaBoolBlend = [0.000000, 0.000000, AlphaBlendOption.LINEAR, None], alpha_curve_name: Name = \"None\", alpha_scale_bias_clamp: InputScaleBiasClamp = [False, False, False, [0.000000, 1.000000], [0.000000, 1.000000], 1.000000, 0.000000, 0.000000, 1.000000, 10.000000, 10.000000], multiplier: float = 0.000000) -> None",
+          "parameters": [
+            {"name": "component_pose", "type": "ComponentSpacePoseLink", "default": "[]"},
+            {"name": "lod_threshold", "type": "int", "default": "0"},
+            {"name": "alpha_input_type", "type": "AnimAlphaInputType", "default": "AnimAlphaInputType.FLOAT"},
+            {"name": "alpha_bool_enabled", "type": "bool", "default": "False"},
+            {"name": "alpha", "type": "float", "default": "0.000000"},
+            {"name": "alpha_scale_bias", "type": "InputScaleBias", "default": "[1.000000, 0.000000]"},
+            {"name": "alpha_bool_blend", "type": "InputAlphaBoolBlend", "default": "[0.000000, 0.000000, AlphaBlendOption.LINEAR, None]"},
+            {"name": "alpha_curve_name", "type": "Name", "default": "\"None\""},
+            {"name": "alpha_scale_bias_clamp", "type": "InputScaleBiasClamp", "default": "[False, False, False, [0.000000, 1.000000], [0.000000, 1.000000], 1.000000, 0.000000, 0.000000, 1.000000, 10.000000, 10.000000]"},
+            {"name": "multiplier", "type": "float", "default": "0.000000"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "StaticMeshReductionTerimationCriterion",
+      "type": "enum",
+      "name": "StaticMeshReductionTerimationCriterion",
+      "description": "Enum specifying the reduction type to use when simplifying static meshes with the engines internal tool",
+      "base_class": "EnumBase",
+      "source": {
+        "module": "Engine",
+        "file": "MeshReductionSettings.h"
+      },
+      "values": [
+        {
+          "name": "TRIANGLES",
+          "value": 0,
+          "description": "Triangle percent criterion will be used for simplification."
+        },
+        {
+          "name": "VERTICES",
+          "value": 1,
+          "description": "Vertice percent criterion will be used for simplification."
+        },
+        {
+          "name": "ANY",
+          "value": 2,
+          "description": "Simplification will continue until either Triangle or Vertex count criteria is met."
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "EarthShapeGrammarRefittingResult",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "HighlightInfo",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "HighlightInfo",
+      "target": "StaticMeshComponent",
+      "type": "has_property",
+      "property_name": "smc"
+    },
+    {
+      "source": "HighlightInfo",
+      "target": "LinearColor",
+      "type": "has_property",
+      "property_name": "default_color"
+    },
+    {
+      "source": "HighlightInfo",
+      "target": "MaterialInstanceDynamic",
+      "type": "has_property",
+      "property_name": "mid"
+    },
+    {
+      "source": "CRFourPointBezier",
+      "target": "RigVMFourPointBezier",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MeshComponent",
+      "target": "PrimitiveComponent",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MeshComponent",
+      "target": "MaterialInterface",
+      "type": "has_property",
+      "property_name": "overlay_material"
+    },
+    {
+      "source": "PCGAttributeTransferSettings",
+      "target": "PCGCopyAttributesSettings",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaPatternModifierLineLayoutOptions",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AvaPatternModifierLineLayoutOptions",
+      "target": "AvaPatternModifierAxis",
+      "type": "has_property",
+      "property_name": "axis"
+    },
+    {
+      "source": "AvaPatternModifierLineLayoutOptions",
+      "target": "Rotator",
+      "type": "has_property",
+      "property_name": "rotation"
+    },
+    {
+      "source": "AvaPatternModifierLineLayoutOptions",
+      "target": "Vector",
+      "type": "has_property",
+      "property_name": "scale"
+    },
+    {
+      "source": "RigUnit_MathMatrixFromTransformV2",
+      "target": "RigVMFunction_MathMatrixFromTransformV2",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimatedSparseVolumeTextureController",
+      "target": "Object",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimatedSparseVolumeTextureController",
+      "target": "SparseVolumeTexture",
+      "type": "has_property",
+      "property_name": "sparse_volume_texture"
+    },
+    {
+      "source": "PoseSearchFeatureChannel_Pose",
+      "target": "PoseSearchFeatureChannel_GroupBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BlendSpaceBlendProfile",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BlendSpaceBlendProfile",
+      "target": "BlendProfile",
+      "type": "has_property",
+      "property_name": "blend_profile"
+    },
+    {
+      "source": "AnimNode_RotationMultiplier",
+      "target": "AnimNode_SkeletalControlBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimNode_RotationMultiplier",
+      "target": "BoneReference",
+      "type": "has_property",
+      "property_name": "source_bone"
+    },
+    {
+      "source": "AnimNode_RotationMultiplier",
+      "target": "BoneReference",
+      "type": "has_property",
+      "property_name": "target_bone"
+    },
+    {
+      "source": "AnimNode_RotationMultiplier",
+      "target": "BoneAxis",
+      "type": "has_property",
+      "property_name": "rotation_axis_to_refer"
+    },
+    {
+      "source": "StaticMeshReductionTerimationCriterion",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    }
+  ],
+  "statistics": {
+    "classes": 7,
+    "structs": 4,
+    "enums": 1,
+    "total_properties": 42,
+    "total_methods": 16,
+    "deprecated_entities": 2
+  }
+}

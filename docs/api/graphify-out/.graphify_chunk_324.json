@@ -1,0 +1,761 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathquaternionfromrotator_class",
+      "label": "RigVMFunction_MathQuaternionFromRotator",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionFromRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbase_class",
+      "label": "RigVMFunction_MathQuaternionBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionFromRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifiersmoothdelta_class",
+      "label": "InputModifierSmoothDelta",
+      "file_type": "document",
+      "source_file": "InputModifierSmoothDelta Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputmodifier_class",
+      "label": "InputModifier",
+      "file_type": "document",
+      "source_file": "InputModifierSmoothDelta Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialfunctionfactorynew_class",
+      "label": "MaterialFunctionFactoryNew",
+      "file_type": "document",
+      "source_file": "MaterialFunctionFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_class",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "MaterialFunctionFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applicationlifecyclecomponent_onlowpowermodedelegate_class",
+      "label": "ApplicationLifecycleComponent_OnLowPowerModeDelegate",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent_OnLowPowerModeDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_class",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "ApplicationLifecycleComponent_OnLowPowerModeDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescreencomponenstrackrecorder_class",
+      "label": "MovieSceneLensComponentTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieSceneLensComponentTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrackrecorder_class",
+      "label": "MovieSceneTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieSceneLensComponentTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "field_class",
+      "label": "Field",
+      "file_type": "document",
+      "source_file": "Field Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthgeoreferencesystemfunctionlibrary_class",
+      "label": "EarthGeoReferenceSystemFunctionLibrary",
+      "file_type": "document",
+      "source_file": "EarthGeoReferenceSystemFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunclibrary_class",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "EarthGeoReferenceSystemFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannellibrary_class",
+      "label": "NiagaraDataChannelLibrary",
+      "file_type": "document",
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannelwriter_class",
+      "label": "NiagaraDataChannelWriter",
+      "file_type": "document",
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannelreader_class",
+      "label": "NiagaraDataChannelReader",
+      "file_type": "document",
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannelasset_class",
+      "label": "NiagaraDataChannelAsset",
+      "file_type": "document",
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannelsearchparameters_class",
+      "label": "NiagaraDataChannelSearchParameters",
+      "file_type": "document",
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvetablerowhandle_class",
+      "label": "CurveTableRowHandle",
+      "file_type": "document",
+      "source_file": "CurveTableRowHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvetable_class",
+      "label": "CurveTable",
+      "file_type": "document",
+      "source_file": "CurveTableRowHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigcurvealignment_class",
+      "label": "ControlRigCurveAlignment",
+      "file_type": "document",
+      "source_file": "ControlRigCurveAlignment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stereolayercomponent_class",
+      "label": "StereoLayerComponent",
+      "file_type": "document",
+      "source_file": "StereoLayerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecomponent_class",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "StereoLayerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawnsensingcomponent_class",
+      "label": "PawnSensingComponent",
+      "file_type": "document",
+      "source_file": "PawnSensingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent_class",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "PawnSensingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpresetcameralimitstate_class",
+      "label": "WdpResetCameraLimitState",
+      "file_type": "document",
+      "source_file": "WdpResetCameraLimitState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_resolveconnector_class",
+      "label": "RigUnit_ResolveConnector",
+      "file_type": "document",
+      "source_file": "RigUnit_ResolveConnector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigmodulesbase_class",
+      "label": "RigUnit_RigModulesBase",
+      "file_type": "document",
+      "source_file": "RigUnit_ResolveConnector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatmake_class",
+      "label": "RigUnit_MathFloatMake",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatmake_class",
+      "label": "RigVMFunction_MathFloatMake",
+      "file_type": "document",
+      "source_file": "RigUnit_MathFloatMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikretargetaniminstance_class",
+      "label": "IKRetargetAnimInstance",
+      "file_type": "document",
+      "source_file": "IKRetargetAnimInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animpreviewinstance_class",
+      "label": "AnimPreviewInstance",
+      "file_type": "document",
+      "source_file": "IKRetargetAnimInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapegrasstypefactory_class",
+      "label": "LandscapeGrassTypeFactory",
+      "file_type": "document",
+      "source_file": "LandscapeGrassTypeFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroofprefab_class",
+      "label": "EarthRoofPrefab",
+      "file_type": "document",
+      "source_file": "EarthRoofPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabbase_class",
+      "label": "EarthPrefabBase",
+      "file_type": "document",
+      "source_file": "EarthRoofPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionbinaryop_class",
+      "label": "RigUnit_MathQuaternionBinaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbinaryop_class",
+      "label": "RigVMFunction_MathQuaternionBinaryOp",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionBinaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springik_debugsettings_class",
+      "label": "RigUnit_SpringIK_DebugSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__SpringIK__DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_spacename_class",
+      "label": "RigUnit_SpaceName",
+      "file_type": "document",
+      "source_file": "RigUnit_SpaceName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_class",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_SpaceName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesearth_class",
+      "label": "AesEarth",
+      "file_type": "document",
+      "source_file": "EarthGeoReferenceSystemFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtileinfo_class",
+      "label": "EarthTileInfo",
+      "file_type": "document",
+      "source_file": "EarthGeoReferenceSystemFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathquaternionfromrotator_class",
+      "target": "rigvmfunction_mathquaternionbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionFromRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputmodifiersmoothdelta_class",
+      "target": "inputmodifier_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputModifierSmoothDelta Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunctionfactorynew_class",
+      "target": "factory_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialFunctionFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "applicationlifecyclecomponent_onlowpowermodedelegate_class",
+      "target": "multicastdelegatebase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent_OnLowPowerModeDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescreencomponenstrackrecorder_class",
+      "target": "moviescenetrackrecorder_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneLensComponentTrackRecorder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthgeoreferencesystemfunctionlibrary_class",
+      "target": "blueprintfunclibrary_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGeoReferenceSystemFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatachannellibrary_class",
+      "target": "blueprintfunclibrary_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatachannellibrary_class",
+      "target": "niagaradatachannelwriter_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatachannellibrary_class",
+      "target": "niagaradatachannelreader_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatachannellibrary_class",
+      "target": "niagaradatachannelasset_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatachannellibrary_class",
+      "target": "niagaradatachannelsearchparameters_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataChannelLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curvetablerowhandle_class",
+      "target": "curvetable_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveTableRowHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stereolayercomponent_class",
+      "target": "scenecomponent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StereoLayerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pawnsensingcomponent_class",
+      "target": "actorcomponent_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PawnSensingComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_resolveconnector_class",
+      "target": "rigunit_rigmodulesbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ResolveConnector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatmake_class",
+      "target": "rigvmfunction_mathfloatmake_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikretargetaniminstance_class",
+      "target": "animpreviewinstance_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRetargetAnimInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapegrasstypefactory_class",
+      "target": "factory_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandscapeGrassTypeFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroofprefab_class",
+      "target": "earthprefabbase_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoofPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionbinaryop_class",
+      "target": "rigvmfunction_mathquaternionbinaryop_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionBinaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spacename_class",
+      "target": "rigunit_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SpaceName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthgeoreferencesystemfunctionlibrary_class",
+      "target": "aesearth_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGeoReferenceSystemFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthgeoreferencesystemfunctionlibrary_class",
+      "target": "earthtileinfo_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthGeoReferenceSystemFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialfunctionfactorynew_class",
+      "target": "landscapegrasstypefactory_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialFunctionFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionfromrotator_class",
+      "target": "rigvmfunction_mathquaternionbinaryop_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathQuaternionFromRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_resolveconnector_class",
+      "target": "rigunit_spacename_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_ResolveConnector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_function_library_classes",
+      "label": "RigVM Function Library Classes",
+      "nodes": [
+        "rigvmfunction_mathquaternionfromrotator_class",
+        "rigvmfunction_mathquaternionbase_class",
+        "rigvmfunction_mathfloatmake_class",
+        "rigvmfunction_mathquaternionbinaryop_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathQuaternionFromRotator Objects.md"
+    },
+    {
+      "id": "geo_coordinate_transformation_system",
+      "label": "Geo Coordinate Transformation System",
+      "nodes": [
+        "earthgeoreferencesystemfunctionlibrary_class",
+        "aesearth_class",
+        "earthtileinfo_class",
+        "earthroofprefab_class",
+        "earthprefabbase_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthGeoReferenceSystemFunctionLibrary Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

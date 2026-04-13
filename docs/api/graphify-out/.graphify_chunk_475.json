@@ -1,0 +1,679 @@
+{
+  "nodes": [
+    {
+      "id": "propertyanimatoreasingfunction_easingfunction",
+      "label": "PropertyAnimatorEasingFunction",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorEasingFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialpropertyemissivecolor_materialproperty",
+      "label": "DMMaterialPropertyEmissiveColor",
+      "file_type": "code",
+      "source_file": "DMMaterialPropertyEmissiveColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_timeline_rigvmfunction",
+      "label": "RigUnit_Timeline",
+      "file_type": "code",
+      "source_file": "RigUnit__Timeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonereffectortype_enumeration",
+      "label": "AvaClonerEffectorType",
+      "file_type": "code",
+      "source_file": "AvaClonerEffectorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "occludedgeometryfilteringpolicy_filteringpolicy",
+      "label": "OccludedGeometryFilteringPolicy",
+      "file_type": "code",
+      "source_file": "OccludedGeometryFilteringPolicy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkstackbox_widgetcontainer",
+      "label": "UIFrameworkStackBox",
+      "file_type": "code",
+      "source_file": "UIFrameworkStackBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavescalar_fieldnode",
+      "label": "WaveScalar",
+      "file_type": "code",
+      "source_file": "WaveScalar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacademeshfragment_structure",
+      "label": "EarthFacadeMeshFragment",
+      "file_type": "code",
+      "source_file": "EarthFacadeMeshFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxcornertype_enumeration",
+      "label": "AvaToolboxCornerType",
+      "file_type": "code",
+      "source_file": "AvaToolboxCornerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionreplaceitemsarray_rigunit",
+      "label": "RigUnit_CollectionReplaceItemsArray",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionReplaceItemsArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_normalssettings_config",
+      "label": "GenerateStaticMeshLODProcess_NormalsSettings",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODProcess_NormalsSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpsceneapi_sceneapi",
+      "label": "WdpSceneAPI",
+      "file_type": "code",
+      "source_file": "WdpSceneAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "remotecontrollogictestdata_testdata",
+      "label": "RemoteControlLogicTestData",
+      "file_type": "code",
+      "source_file": "RemoteControlLogicTestData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdatacollection_datastructure",
+      "label": "PCGDataCollection",
+      "file_type": "code",
+      "source_file": "PCGDataCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spritecollisionmode_enumeration",
+      "label": "SpriteCollisionMode",
+      "file_type": "code",
+      "source_file": "SpriteCollisionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncniagaracapturesimcache_oncapturecomplete_delegate",
+      "label": "AsyncNiagaraCaptureSimCache_OnCaptureComplete",
+      "file_type": "code",
+      "source_file": "AsyncNiagaraCaptureSimCache_OnCaptureComplete Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubsurfacemediummaterialoutput_materialexpression",
+      "label": "MaterialExpressionSubsurfaceMediumMaterialOutput",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubsurfaceMediumMaterialOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorgradingwheelcolor_colorvalue",
+      "label": "ColorGradingWheelColor",
+      "file_type": "code",
+      "source_file": "ColorGradingWheelColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_layeredboneblend_animnode",
+      "label": "AnimGraphNode_LayeredBoneBlend",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__LayeredBoneBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "maxconcurrentresolutionrule_enumeration",
+      "label": "MaxConcurrentResolutionRule",
+      "file_type": "code",
+      "source_file": "MaxConcurrentResolutionRule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationgraphnodecomponent_component",
+      "label": "NavigationGraphNodeComponent",
+      "file_type": "code",
+      "source_file": "NavigationGraphNodeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaiomode_structure",
+      "label": "MediaIOMode",
+      "file_type": "code",
+      "source_file": "MediaIOMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_timeline",
+      "label": "RigVMFunction_Timeline",
+      "file_type": "code",
+      "source_file": "RigUnit__Timeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonereffectortype",
+      "label": "CEClonerEffectorType",
+      "file_type": "code",
+      "source_file": "AvaClonerEffectorType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapecornertype",
+      "label": "AvaShapeCornerType",
+      "file_type": "code",
+      "source_file": "AvaToolboxCornerType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialproperty_baseclass",
+      "label": "DMMaterialProperty",
+      "file_type": "code",
+      "source_file": "DMMaterialPropertyEmissiveColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodefloat_baseclass",
+      "label": "FieldNodeFloat",
+      "file_type": "code",
+      "source_file": "WaveScalar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacadebasefragment_baseclass",
+      "label": "EarthFacadeBaseFragment",
+      "file_type": "code",
+      "source_file": "EarthFacadeMeshFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworkwidget_baseclass",
+      "label": "UIFrameworkWidget",
+      "file_type": "code",
+      "source_file": "UIFrameworkStackBox Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionbase",
+      "label": "RigUnit_CollectionBase",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionReplaceItemsArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_blendlistbase",
+      "label": "AnimGraphNode_BlendListBase",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__LayeredBoneBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sceneapi_entitymanagement",
+      "label": "Entity Management API",
+      "file_type": "code",
+      "source_file": "WdpSceneAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldfallofftype_datatype",
+      "label": "FieldFalloffType",
+      "file_type": "code",
+      "source_file": "WaveScalar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavefunctiontype_datatype",
+      "label": "WaveFunctionType",
+      "file_type": "code",
+      "source_file": "WaveScalar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmaterialinfo_datatype",
+      "label": "EarthMaterialInfo",
+      "file_type": "code",
+      "source_file": "EarthFacadeMeshFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthshapegrammarselector_datatype",
+      "label": "EarthShapeGrammarSelector",
+      "file_type": "code",
+      "source_file": "EarthFacadeMeshFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgtaggeddata_datatype",
+      "label": "PCGTaggedData",
+      "file_type": "code",
+      "source_file": "PCGDataCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_datatype",
+      "label": "RigElementKey",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionReplaceItemsArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundconcurrency_system",
+      "label": "Sound Concurrency System",
+      "file_type": "code",
+      "source_file": "MaxConcurrentResolutionRule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "dmmaterialpropertyemissivecolor_materialproperty",
+      "target": "dmmaterialproperty_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialPropertyEmissiveColor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_timeline_rigvmfunction",
+      "target": "rigvmfunction_timeline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__Timeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonereffectortype_enumeration",
+      "target": "ceclonereffectortype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerEffectorType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatoolboxcornertype_enumeration",
+      "target": "avashapecornertype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaToolboxCornerType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavescalar_fieldnode",
+      "target": "fieldnodefloat_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaveScalar Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacademeshfragment_structure",
+      "target": "earthfacadebasefragment_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeMeshFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworkstackbox_widgetcontainer",
+      "target": "uiframeworkwidget_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkStackBox Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionreplaceitemsarray_rigunit",
+      "target": "rigunit_collectionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionReplaceItemsArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_layeredboneblend_animnode",
+      "target": "animgraphnode_blendlistbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__LayeredBoneBlend Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpsceneapi_sceneapi",
+      "target": "sceneapi_entitymanagement",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpSceneAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavescalar_fieldnode",
+      "target": "fieldfallofftype_datatype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaveScalar Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavescalar_fieldnode",
+      "target": "wavefunctiontype_datatype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaveScalar Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacademeshfragment_structure",
+      "target": "earthmaterialinfo_datatype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeMeshFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacademeshfragment_structure",
+      "target": "earthshapegrammarselector_datatype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeMeshFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgdatacollection_datastructure",
+      "target": "pcgtaggeddata_datatype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGDataCollection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionreplaceitemsarray_rigunit",
+      "target": "rigelementkey_datatype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_CollectionReplaceItemsArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "maxconcurrentresolutionrule_enumeration",
+      "target": "soundconcurrency_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MaxConcurrentResolutionRule Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatoreasingfunction_easingfunction",
+      "target": "dmmaterialpropertyemissivecolor_materialproperty",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PropertyAnimatorEasingFunction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spritecollisionmode_enumeration",
+      "target": "navigationgraphnodecomponent_component",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "SpriteCollisionMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpsceneapi_sceneapi",
+      "target": "pcgdatacollection_datastructure",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WdpSceneAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_unreal_api_classes",
+      "label": "Deprecated Unreal API Classes",
+      "nodes": [
+        "rigunit_timeline_rigvmfunction",
+        "avaclonereffectortype_enumeration",
+        "avatoolboxcornertype_enumeration"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__Timeline Objects.md"
+    },
+    {
+      "id": "unreal_enum_types",
+      "label": "Unreal Enumeration Types",
+      "nodes": [
+        "propertyanimatoreasingfunction_easingfunction",
+        "occludedgeometryfilteringpolicy_filteringpolicy",
+        "spritecollisionmode_enumeration",
+        "maxconcurrentresolutionrule_enumeration"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorEasingFunction Objects.md"
+    },
+    {
+      "id": "material_property_system",
+      "label": "Material Property System",
+      "nodes": [
+        "dmmaterialpropertyemissivecolor_materialproperty",
+        "materialexpressionsubsurfacemediummaterialoutput_materialexpression",
+        "colorgradingwheelcolor_colorvalue"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DMMaterialPropertyEmissiveColor Objects.md"
+    }
+  ],
+  "input_tokens": 12447,
+  "output_tokens": 9428
+}

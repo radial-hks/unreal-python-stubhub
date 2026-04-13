@@ -1,0 +1,451 @@
+{
+  "nodes": [
+    {
+      "id": "geometryscriptcopymorphtargettoassetoptions",
+      "label": "GeometryScriptCopyMorphTargetToAssetOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptCopyMorphTargetToAssetOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptbakevertexoptions",
+      "label": "GeometryScriptBakeVertexOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptBakeVertexOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformablecomponenthandle",
+      "label": "TransformableComponentHandle",
+      "file_type": "document",
+      "source_file": "TransformableComponentHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scene_component",
+      "label": "SceneComponent",
+      "file_type": "document",
+      "source_file": "TransformableComponentHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hierarchicalsimplificationmethod",
+      "label": "HierarchicalSimplificationMethod",
+      "file_type": "document",
+      "source_file": "HierarchicalSimplificationMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenegameplaycuetriggersection",
+      "label": "MovieSceneGameplayCueTriggerSection",
+      "file_type": "document",
+      "source_file": "MovieSceneGameplayCueTriggerSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgeditordirtymode",
+      "label": "PCGEditorDirtyMode",
+      "file_type": "document",
+      "source_file": "PCGEditorDirtyMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_component_generation",
+      "label": "PCG Component Generation",
+      "file_type": "document",
+      "source_file": "PCGEditorDirtyMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanpreviewscenenode_composite",
+      "label": "UrbanPreviewSceneNode_Composite",
+      "file_type": "document",
+      "source_file": "UrbanPreviewSceneNode__Composite Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectmodelatom",
+      "label": "ProjectModelAtom",
+      "file_type": "document",
+      "source_file": "ProjectModelAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "backgroundblur",
+      "label": "BackgroundBlur",
+      "file_type": "document",
+      "source_file": "BackgroundBlur Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blur_effect",
+      "label": "Blur Effect",
+      "file_type": "document",
+      "source_file": "BackgroundBlur Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundgeneratorhandle",
+      "label": "MetasoundGeneratorHandle",
+      "file_type": "document",
+      "source_file": "MetasoundGeneratorHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_component",
+      "label": "AudioComponent",
+      "file_type": "document",
+      "source_file": "MetasoundGeneratorHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshextrudeoptions",
+      "label": "GeometryScriptMeshExtrudeOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptMeshExtrudeOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannelvariable",
+      "label": "NiagaraDataChannelVariable",
+      "file_type": "document",
+      "source_file": "NiagaraDataChannelVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "logoutcallbackproxy",
+      "label": "LogoutCallbackProxy",
+      "file_type": "document",
+      "source_file": "LogoutCallbackProxy Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsimplecollision",
+      "label": "GeometryScriptSimpleCollision",
+      "file_type": "document",
+      "source_file": "GeometryScriptSimpleCollision Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathvectorarrayaverage",
+      "label": "RigVMFunction_MathVectorArrayAverage",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorArrayAverage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onaniminitialized",
+      "label": "OnAnimInitialized",
+      "file_type": "document",
+      "source_file": "OnAnimInitialized Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clusterconnectiontypedef",
+      "label": "ClusterConnectionTypeEnum",
+      "file_type": "document",
+      "source_file": "ClusterConnectionTypeEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarauobjectpropertyreaderremap",
+      "label": "NiagaraUObjectPropertyReaderRemap",
+      "file_type": "document",
+      "source_file": "NiagaraUObjectPropertyReaderRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth_facade_fragment__deprecated",
+      "label": "EarthFacadeFragment_Deprecated",
+      "file_type": "document",
+      "source_file": "EarthFacadeFragment__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "shape_grammar_facade_system",
+      "label": "Shape Grammar Facade System",
+      "file_type": "document",
+      "source_file": "EarthFacadeFragment__Deprecated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wait_attribute_change_ratio_threshold_delegate",
+      "label": "WaitAttributeChangeRatioThresholdDelegate",
+      "file_type": "document",
+      "source_file": "WaitAttributeChangeRatioThresholdDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gizmocirclecomponent",
+      "label": "GizmoCircleComponent",
+      "file_type": "document",
+      "source_file": "GizmoCircleComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatatypes",
+      "label": "PCGMetadataTypes",
+      "file_type": "document",
+      "source_file": "PCGMetadataTypes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "transformablecomponenthandle",
+      "target": "scene_component",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransformableComponentHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgeditordirtymode",
+      "target": "pcg_component_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGEditorDirtyMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "backgroundblur",
+      "target": "blur_effect",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BackgroundBlur Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundgeneratorhandle",
+      "target": "audio_component",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundGeneratorHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earth_facade_fragment__deprecated",
+      "target": "shape_grammar_facade_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeFragment__Deprecated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcopymorphtargettoassetoptions",
+      "target": "geometryscriptbakevertexoptions",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptCopyMorphTargetToAssetOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcopymorphtargettoassetoptions",
+      "target": "geometryscriptmeshextrudeoptions",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptCopyMorphTargetToAssetOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcopymorphtargettoassetoptions",
+      "target": "geometryscriptsimplecollision",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptCopyMorphTargetToAssetOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptbakevertexoptions",
+      "target": "geometryscriptmeshextrudeoptions",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptBakeVertexOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptbakevertexoptions",
+      "target": "geometryscriptsimplecollision",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptBakeVertexOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptmeshextrudeoptions",
+      "target": "geometryscriptsimplecollision",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptMeshExtrudeOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatachannelvariable",
+      "target": "niagarauobjectpropertyreaderremap",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NiagaraDataChannelVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgeditordirtymode",
+      "target": "pcgmetadatatypes",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGEditorDirtyMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "geometry_script_options_classes",
+      "label": "Geometry Script Options Classes",
+      "nodes": [
+        "geometryscriptcopymorphtargettoassetoptions",
+        "geometryscriptbakevertexoptions",
+        "geometryscriptmeshextrudeoptions",
+        "geometryscriptsimplecollision"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScriptCopyMorphTargetToAssetOptions Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,437 @@
+{
+  "nodes": [
+    {
+      "id": "unreal.AvaTransitionRunState",
+      "type": "enum",
+      "name": "AvaTransitionRunState",
+      "namespace": "unreal",
+      "module": "AvalancheTransition",
+      "plugin": "Avalanche",
+      "values": ["RUNNING", "FINISHED"]
+    },
+    {
+      "id": "unreal.MeshBuildSettings",
+      "type": "struct",
+      "name": "MeshBuildSettings",
+      "namespace": "unreal",
+      "module": "Engine",
+      "properties": [
+        "build_reversed_index_buffer",
+        "build_scale3d",
+        "compute_weighted_normals",
+        "distance_field_replacement_mesh",
+        "distance_field_resolution_scale",
+        "dst_lightmap_index",
+        "generate_distance_field_as_if_two_sided",
+        "generate_lightmap_u_vs",
+        "max_lumen_mesh_cards",
+        "min_lightmap_resolution",
+        "recompute_normals",
+        "recompute_tangents",
+        "remove_degenerates",
+        "src_lightmap_index",
+        "support_face_remap",
+        "use_backwards_compatible_f16_trunc_u_vs",
+        "use_full_precision_u_vs",
+        "use_high_precision_tangent_basis",
+        "use_mikk_t_space"
+      ]
+    },
+    {
+      "id": "unreal.ControlRigSequencerBindingProxy",
+      "type": "struct",
+      "name": "ControlRigSequencerBindingProxy",
+      "namespace": "unreal",
+      "module": "ControlRigEditor",
+      "plugin": "ControlRig",
+      "properties": ["control_rig", "proxy", "track"]
+    },
+    {
+      "id": "unreal.CullDistanceSizePair",
+      "type": "struct",
+      "name": "CullDistanceSizePair",
+      "namespace": "unreal",
+      "module": "Engine",
+      "properties": ["cull_distance", "size"]
+    },
+    {
+      "id": "unreal.NiagaraStackModuleItem",
+      "type": "class",
+      "name": "NiagaraStackModuleItem",
+      "namespace": "unreal",
+      "module": "NiagaraEditor",
+      "plugin": "Niagara"
+    },
+    {
+      "id": "unreal.AesEditorUISubsystem",
+      "type": "class",
+      "name": "AesEditorUISubsystem",
+      "namespace": "unreal",
+      "module": "AesEditorUI",
+      "plugin": "AesWorld",
+      "properties": [
+        "aes_editor_main_ui",
+        "aes_editor_ui_hide_event",
+        "aes_editor_ui_show_event",
+        "aes_probe_ui"
+      ],
+      "methods": [
+        "close_ui",
+        "enter_free_mode",
+        "get_asset_tooltip_texture",
+        "is_aes_editor_main_ui_enabled",
+        "open_probe_ui",
+        "open_ui",
+        "set_aes_editor_main_ui_enabled"
+      ]
+    },
+    {
+      "id": "unreal.RigUnit_MathIntNegate",
+      "type": "class",
+      "name": "RigUnit_MathIntNegate",
+      "namespace": "unreal",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathIntNegate' was renamed to 'RigVMFunction_MathIntNegate'"
+    },
+    {
+      "id": "unreal.MaterialExpressionParticleRelativeTime",
+      "type": "class",
+      "name": "MaterialExpressionParticleRelativeTime",
+      "namespace": "unreal",
+      "module": "Engine",
+      "properties": ["desc", "material_expression_editor_x", "material_expression_editor_y"]
+    },
+    {
+      "id": "unreal.PCGGeometryBlueprintElement",
+      "type": "class",
+      "name": "PCGGeometryBlueprintElement",
+      "namespace": "unreal",
+      "module": "PCGGeometryScriptInterop",
+      "plugin": "PCGGeometryScriptInterop",
+      "properties": [
+        "category",
+        "compute_full_data_crc",
+        "custom_input_pins",
+        "custom_output_pins",
+        "dependency_parsing_depth",
+        "description",
+        "enable_preconfigured_settings",
+        "expose_to_library",
+        "has_default_in_pin",
+        "has_default_out_pin",
+        "has_dynamic_pins",
+        "is_cacheable",
+        "only_expose_preconfigured_settings",
+        "requires_game_thread"
+      ],
+      "methods": ["copy_or_steal_input_data", "process_dynamic_mesh"]
+    },
+    {
+      "id": "unreal.AvaSplineSweepModifier",
+      "type": "class",
+      "name": "AvaSplineSweepModifier",
+      "namespace": "unreal",
+      "module": "AvalancheModifiers",
+      "plugin": "Avalanche",
+      "properties": [
+        "capped",
+        "looped",
+        "modifier_enabled",
+        "progress_end",
+        "progress_offset",
+        "progress_start",
+        "sample_distance",
+        "sample_mode",
+        "scale_end",
+        "scale_start",
+        "spline_actor_weak",
+        "steps"
+      ],
+      "methods": [
+        "get_capped",
+        "get_looped",
+        "get_progress_end",
+        "get_progress_offset",
+        "get_progress_start",
+        "get_sample_distance",
+        "get_sample_mode",
+        "get_scale_end",
+        "get_scale_start",
+        "get_spline_actor",
+        "get_steps",
+        "set_capped",
+        "set_looped",
+        "set_progress_end",
+        "set_progress_offset",
+        "set_progress_start",
+        "set_sample_distance",
+        "set_sample_mode",
+        "set_scale_end",
+        "set_scale_start",
+        "set_spline_actor",
+        "set_steps"
+      ]
+    },
+    {
+      "id": "unreal.PropertyBagPropertyType",
+      "type": "enum",
+      "name": "PropertyBagPropertyType",
+      "namespace": "unreal",
+      "module": "CoreUObject",
+      "values": ["BOOL", "BYTE", "INT32", "INT64", "FLOAT", "DOUBLE", "NAME", "STRING", "TEXT", "U_INT32", "U_INT64"]
+    },
+    {
+      "id": "unreal.RigUnit_PostBeginExecution",
+      "type": "class",
+      "name": "RigUnit_PostBeginExecution",
+      "namespace": "unreal",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "properties": ["execute_context"]
+    },
+    {
+      "id": "unreal.CustomPoiButtonClickedDelegate",
+      "type": "delegate",
+      "name": "CustomPoiButtonClickedDelegate",
+      "namespace": "unreal",
+      "module": "CoveringAPIEntity",
+      "plugin": "CoveringAPI",
+      "parameters": ["clicked_widget"]
+    },
+    {
+      "id": "unreal.ClampMode",
+      "type": "enum",
+      "name": "ClampMode",
+      "namespace": "unreal",
+      "module": "Engine",
+      "values": ["CMODE_CLAMP", "CMODE_CLAMP_MAX", "CMODE_CLAMP_MIN"]
+    },
+    {
+      "id": "unreal.DCPCommonParam",
+      "type": "class",
+      "name": "DCPCommonParam",
+      "namespace": "unreal",
+      "module": "DcpAPI",
+      "plugin": "WdpAssetAPI",
+      "properties": ["guid", "hit_keys"]
+    },
+    {
+      "id": "unreal.AnimGraphNode_StateMachine",
+      "type": "class",
+      "name": "AnimGraphNode_StateMachine",
+      "namespace": "unreal",
+      "module": "AnimGraph",
+      "properties": [
+        "become_relevant_function",
+        "binding",
+        "initial_update_function",
+        "node",
+        "show_pin_for_properties",
+        "tag",
+        "update_function"
+      ]
+    },
+    {
+      "id": "unreal.RigVMFourPointBezier",
+      "type": "struct",
+      "name": "RigVMFourPointBezier",
+      "namespace": "unreal",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "properties": ["a", "b", "c", "d"]
+    },
+    {
+      "id": "unreal.TextGender",
+      "type": "enum",
+      "name": "TextGender",
+      "namespace": "unreal",
+      "module": "Engine",
+      "values": ["MASCULINE", "FEMININE", "NEUTER"]
+    },
+    {
+      "id": "unreal.RigVMFunction_ControlFlowBase",
+      "type": "class",
+      "name": "RigVMFunction_ControlFlowBase",
+      "namespace": "unreal",
+      "module": "RigVM",
+      "plugin": "RigVM"
+    },
+    {
+      "id": "unreal.CesiumPropertyTexturePropertyBlueprintLibrary",
+      "type": "class",
+      "name": "CesiumPropertyTexturePropertyBlueprintLibrary",
+      "namespace": "unreal",
+      "module": "CesiumRuntime",
+      "plugin": "CesiumForUnreal",
+      "methods": [
+        "get_array",
+        "get_array_element_blueprint_type",
+        "get_array_size",
+        "get_blueprint_type",
+        "get_byte",
+        "get_channels",
+        "get_component_count",
+        "get_default_value",
+        "get_float",
+        "get_float64",
+        "get_gltf_texture_coordinate_set_index",
+        "get_integer",
+        "get_int_point",
+        "get_int_vector",
+        "get_maximum_value",
+        "get_minimum_value",
+        "get_no_data_value",
+        "get_offset",
+        "get_property_texture_property_status",
+        "get_raw_value",
+        "get_scale",
+        "get_swizzle",
+        "get_texture_coordinate_index",
+        "get_unreal_uv_channel",
+        "get_value",
+        "get_value_type",
+        "get_vector",
+        "get_vector2d",
+        "get_vector4",
+        "is_normalized"
+      ]
+    },
+    {
+      "id": "unreal.StatisticsOperationEnum",
+      "type": "enum",
+      "name": "StatisticsOperationEnum",
+      "namespace": "unreal",
+      "module": "GeometryCollectionNodes",
+      "plugin": "GeometryCollectionPlugin",
+      "values": [
+        "DATAFLOW_E_STATISTICS_OPERATION_ENUM_MAX",
+        "DATAFLOW_E_STATISTICS_OPERATION_ENUM_MEAN",
+        "DATAFLOW_E_STATISTICS_OPERATION_ENUM_MEDIAN",
+        "DATAFLOW_E_STATISTICS_OPERATION_ENUM_MIN",
+        "DATAFLOW_E_STATISTICS_OPERATION_ENUM_MODE",
+        "DATAFLOW_E_STATISTICS_OPERATION_ENUM_SUM"
+      ]
+    },
+    {
+      "id": "unreal.WDPFocusEntitiesParams",
+      "type": "class",
+      "name": "WDPFocusEntitiesParams",
+      "namespace": "unreal",
+      "module": "ApplicationAPI",
+      "plugin": "WdpRuntimeAPI",
+      "properties": ["distance_factor", "eids", "fly_time", "guid", "hit_keys", "rotation"]
+    }
+  ],
+  "edges": [
+    {
+      "source": "unreal.NiagaraStackModuleItem",
+      "target": "unreal.NiagaraStackItem",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.AesEditorUISubsystem",
+      "target": "unreal.WorldSubsystem",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.RigUnit_MathIntNegate",
+      "target": "unreal.RigVMFunction_MathIntNegate",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.MaterialExpressionParticleRelativeTime",
+      "target": "unreal.MaterialExpression",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.PCGGeometryBlueprintElement",
+      "target": "unreal.PCGBlueprintElement",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.AvaSplineSweepModifier",
+      "target": "unreal.AvaGeometryBaseModifier",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.RigUnit_PostBeginExecution",
+      "target": "unreal.RigUnit",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.CustomPoiButtonClickedDelegate",
+      "target": "unreal.MulticastDelegateBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.DCPCommonParam",
+      "target": "unreal.ParamsBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.AnimGraphNode_StateMachine",
+      "target": "unreal.AnimGraphNode_StateMachineBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.RigVMFunction_ControlFlowBase",
+      "target": "unreal.RigVMStruct",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.CesiumPropertyTexturePropertyBlueprintLibrary",
+      "target": "unreal.BlueprintFunctionLibrary",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.WDPFocusEntitiesParams",
+      "target": "unreal.EidArrayParams",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.MeshBuildSettings",
+      "target": "unreal.StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.ControlRigSequencerBindingProxy",
+      "target": "unreal.StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.CullDistanceSizePair",
+      "target": "unreal.StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.RigVMFourPointBezier",
+      "target": "unreal.StructBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.AvaTransitionRunState",
+      "target": "unreal.EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.PropertyBagPropertyType",
+      "target": "unreal.EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.ClampMode",
+      "target": "unreal.EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.TextGender",
+      "target": "unreal.EnumBase",
+      "type": "inherits"
+    },
+    {
+      "source": "unreal.StatisticsOperationEnum",
+      "target": "unreal.EnumBase",
+      "type": "inherits"
+    }
+  ]
+}

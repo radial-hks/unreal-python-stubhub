@@ -1,0 +1,408 @@
+{
+  "nodes": [
+    {
+      "id": "inapppurchaseresult2_inapppurchaseresult2",
+      "label": "InAppPurchaseResult2",
+      "file_type": "code",
+      "source_file": "InAppPurchaseResult2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaterniontovectors_rigvmfunction_mathquaterniontovectors",
+      "label": "RigVMFunction_MathQuaternionToVectors",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathQuaternionToVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpinteractivemode_wdpinteractivemode",
+      "label": "WdpInteractiveMode",
+      "file_type": "code",
+      "source_file": "WdpInteractiveMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionfromtwovectors_rigunit_mathquaternionfromtwovectors",
+      "label": "RigUnit_MathQuaternionFromTwoVectors",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionFromTwoVectors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modifyroadheatmapfeatures_modifyroadheatmapfeatures",
+      "label": "ModifyRoadHeatMapfeatures",
+      "file_type": "code",
+      "source_file": "ModifyRoadHeatMapfeatures Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_ikrig_animgraphnode_ikrig",
+      "label": "AnimGraphNode_IKRig",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__IKRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectmotionfilterpreset_sourceeffectmotionfilterpreset",
+      "label": "SourceEffectMotionFilterPreset",
+      "file_type": "code",
+      "source_file": "SourceEffectMotionFilterPreset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datasmithgltfsceneimportdata_datasmithgltfsceneimportdata",
+      "label": "DatasmithGLTFSceneImportData",
+      "file_type": "code",
+      "source_file": "DatasmithGLTFSceneImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perqualitylevelint_perqualitylevelint",
+      "label": "PerQualityLevelInt",
+      "file_type": "code",
+      "source_file": "PerQualityLevelInt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vectorfieldcomponent_vectorfieldcomponent",
+      "label": "VectorFieldComponent",
+      "file_type": "code",
+      "source_file": "VectorFieldComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecapturecube_scenecapturecube",
+      "label": "SceneCaptureCube",
+      "file_type": "code",
+      "source_file": "SceneCaptureCube Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringdatadriveobjectcomponent_coveringdatadriveobjectcomponent",
+      "label": "CoveringDataDriveObjectComponent",
+      "file_type": "code",
+      "source_file": "CoveringDataDriveObjectComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reimportfbxskeletalmeshfactory_reimportfbxskeletalmeshfactory",
+      "label": "ReimportFbxSkeletalMeshFactory",
+      "file_type": "code",
+      "source_file": "ReimportFbxSkeletalMeshFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "georeferencingsystem_georeferencingsystem",
+      "label": "GeoReferencingSystem",
+      "file_type": "code",
+      "source_file": "GeoReferencingSystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneobjectbindingid_moviesceneobjectbindingid",
+      "label": "MovieSceneObjectBindingID",
+      "file_type": "code",
+      "source_file": "MovieSceneObjectBindingID Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opencoloriolibrary_opencoloriolibrary",
+      "label": "OpenColorIOLibrary",
+      "file_type": "code",
+      "source_file": "OpenColorIOLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummetadatetruetype_deprecated_cesiummetadatetruetype_deprecated",
+      "label": "CesiumMetadataTrueType_DEPRECATED",
+      "file_type": "code",
+      "source_file": "CesiumMetadataTrueType__DEPRECATED Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflowsetmaskconditiontype_dataflowsetmaskconditiontype",
+      "label": "DataflowSetMaskConditionType",
+      "file_type": "code",
+      "source_file": "DataflowSetMaskConditionType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "add_prefix_entry_add_prefix_entry",
+      "label": "add_prefix_entry",
+      "file_type": "code",
+      "source_file": "add__prefix__entry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolvector_rigunit_hierarchyaddcontrolvector",
+      "label": "RigUnit_HierarchyAddControlVector",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddControlVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorfloat_rigvmfunction_mathrbfinterpolatevectorfloat",
+      "label": "RigVMFunction_MathRBFInterpolateVectorFloat",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timecodeprovider_timecodeprovider",
+      "label": "TimecodeProvider",
+      "file_type": "code",
+      "source_file": "TimecodeProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathquaterniontovectors_rigvmfunction_mathquaterniontovectors",
+      "target": "rigunit_mathquaternionfromtwovectors_rigunit_mathquaternionfromtwovectors",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathQuaternionToVectors Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionfromtwovectors_rigunit_mathquaternionfromtwovectors",
+      "target": "rigvmfunction_mathquaterniontovectors_rigvmfunction_mathquaterniontovectors",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathQuaternionFromTwoVectors Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectmotionfilterpreset_sourceeffectmotionfilterpreset",
+      "target": "vectorfieldcomponent_vectorfieldcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "SourceEffectMotionFilterPreset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "georeferencingsystem_georeferencingsystem",
+      "target": "cesiummetadatetruetype_deprecated_cesiummetadatetruetype_deprecated",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GeoReferencingSystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolvector_rigunit_hierarchyaddcontrolvector",
+      "target": "rigvmfunction_mathquaterniontovectors_rigvmfunction_mathquaterniontovectors",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_HierarchyAddControlVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatevectorfloat_rigvmfunction_mathrbfinterpolatevectorfloat",
+      "target": "rigvmfunction_mathquaterniontovectors_rigvmfunction_mathquaterniontovectors",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathRBFInterpolateVectorFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timecodeprovider_timecodeprovider",
+      "target": "scenecapturecube_scenecapturecube",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "TimecodeProvider Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_ikrig_animgraphnode_ikrig",
+      "target": "rigunit_hierarchyaddcontrolvector_rigunit_hierarchyaddcontrolvector",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__IKRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modifyroadheatmapfeatures_modifyroadheatmapfeatures",
+      "target": "coveringdatadriveobjectcomponent_coveringdatadriveobjectcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "ModifyRoadHeatMapfeatures Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datasmithgltfsceneimportdata_datasmithgltfsceneimportdata",
+      "target": "reimportfbxskeletalmeshfactory_reimportfbxskeletalmeshfactory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DatasmithGLTFSceneImportData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneobjectbindingid_moviesceneobjectbindingid",
+      "target": "scenecapturecube_scenecapturecube",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MovieSceneObjectBindingID Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencoloriolibrary_opencoloriolibrary",
+      "target": "sourceeffectmotionfilterpreset_sourceeffectmotionfilterpreset",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "OpenColorIOLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_quaternion_math_classes",
+      "label": "RigVM Quaternion Math Classes",
+      "nodes": [
+        "rigvmfunction_mathquaterniontovectors_rigvmfunction_mathquaterniontovectors",
+        "rigunit_mathquaternionfromtwovectors_rigunit_mathquaternionfromtwovectors"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathQuaternionToVectors Objects.md"
+    },
+    {
+      "id": "rig_control_hierarchy_classes",
+      "label": "Rig Control Hierarchy Classes",
+      "nodes": [
+        "rigunit_hierarchyaddcontrolvector_rigunit_hierarchyaddcontrolvector",
+        "animgraphnode_ikrig_animgraphnode_ikrig"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_HierarchyAddControlVector Objects.md"
+    },
+    {
+      "id": "import_factory_classes",
+      "label": "Import Factory Classes",
+      "nodes": [
+        "datasmithgltfsceneimportdata_datasmithgltfsceneimportdata",
+        "reimportfbxskeletalmeshfactory_reimportfbxskeletalmeshfactory"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DatasmithGLTFSceneImportData Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,2998 @@
+{
+  "nodes": [
+    {
+      "id": "SimpleTargetingSortTask",
+      "type": "Class",
+      "properties": {
+        "description": "Blueprintable TargetingTask class for reordering Targets in results list",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "TargetingSortTask_Base",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "TargetingRequestHandle",
+      "type": "Type",
+      "properties": {
+        "category": "parameter_type"
+      }
+    },
+    {
+      "id": "TargetingDefaultResultData",
+      "type": "Type",
+      "properties": {
+        "category": "parameter_type"
+      }
+    },
+    {
+      "id": "TargetingSystem",
+      "type": "Module",
+      "properties": {
+        "plugin": "TargetingSystem"
+      }
+    },
+    {
+      "id": "SimpleTargetingSortTask.h",
+      "type": "File",
+      "properties": {
+        "path": "SimpleTargetingSortTask.h"
+      }
+    },
+    {
+      "id": "ViewportInteractionDraggingMode",
+      "type": "Enum",
+      "properties": {
+        "description": "Methods of dragging objects around in VR",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "EnumBase",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "ViewportInteraction",
+      "type": "Module",
+      "properties": {}
+    },
+    {
+      "id": "ViewportInteractionTypes.h",
+      "type": "File",
+      "properties": {
+        "path": "ViewportInteractionTypes.h"
+      }
+    },
+    {
+      "id": "NOTHING",
+      "type": "EnumValue",
+      "properties": {
+        "value": 0,
+        "description": "Not dragging right now with this hand"
+      }
+    },
+    {
+      "id": "TRANSFORMABLES_WITH_GIZMO",
+      "type": "EnumValue",
+      "properties": {
+        "value": 1,
+        "description": "Dragging transformables using the transform gizmo"
+      }
+    },
+    {
+      "id": "TRANSFORMABLES_AT_LASER_IMPACT",
+      "type": "EnumValue",
+      "properties": {
+        "value": 2,
+        "description": "Transformables locked to the impact point under the laser"
+      }
+    },
+    {
+      "id": "ASSISTING_DRAG",
+      "type": "EnumValue",
+      "properties": {
+        "value": 3,
+        "description": "Grabbing an object or world already grabbed by other hand"
+      }
+    },
+    {
+      "id": "TRANSFORMABLES_FREELY",
+      "type": "EnumValue",
+      "properties": {
+        "value": 4,
+        "description": "Freely moving, rotating and scaling transformables"
+      }
+    },
+    {
+      "id": "WORLD",
+      "type": "EnumValue",
+      "properties": {
+        "value": 5,
+        "description": "Moving the world itself around"
+      }
+    },
+    {
+      "id": "INTERACTABLE",
+      "type": "EnumValue",
+      "properties": {
+        "value": 6,
+        "description": "Moving a custom interactable"
+      }
+    },
+    {
+      "id": "MATERIAL",
+      "type": "EnumValue",
+      "properties": {
+        "value": 7,
+        "description": "Dragging a material"
+      }
+    },
+    {
+      "id": "PCGKernelType",
+      "type": "Enum",
+      "properties": {
+        "description": "Type of kernel for execution decisions",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "PCG",
+      "type": "Module",
+      "properties": {
+        "plugin": "PCG"
+      }
+    },
+    {
+      "id": "PCGCustomHLSL.h",
+      "type": "File",
+      "properties": {
+        "path": "PCGCustomHLSL.h"
+      }
+    },
+    {
+      "id": "POINT_PROCESSOR",
+      "type": "EnumValue",
+      "properties": {
+        "value": 0,
+        "description": "Kernel executes on each point in first input pin"
+      }
+    },
+    {
+      "id": "POINT_GENERATOR",
+      "type": "EnumValue",
+      "properties": {
+        "value": 1,
+        "description": "Kernel executes for fixed number of points"
+      }
+    },
+    {
+      "id": "CUSTOM",
+      "type": "EnumValue",
+      "properties": {
+        "value": 2,
+        "description": "Execution thread counts and output buffer sizes configurable"
+      }
+    },
+    {
+      "id": "NiagaraSettings",
+      "type": "Class",
+      "properties": {
+        "description": "Niagara Settings",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "DeveloperSettings",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "Niagara",
+      "type": "Module",
+      "properties": {
+        "plugin": "Niagara"
+      }
+    },
+    {
+      "id": "NiagaraSettings.h",
+      "type": "File",
+      "properties": {
+        "path": "NiagaraSettings.h"
+      }
+    },
+    {
+      "id": "NiagaraStripScriptByteCodeOption",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NiagaraCompilationMode",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NiagaraDefaultGpuTranslucentLatency",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NiagaraGpuBufferFormat",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NiagaraDefaultRendererPixelCoverageMode",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "TextureRenderTargetFormat",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NiagaraDefaultRendererMotionVectorSetting",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NiagaraDefaultSortPrecision",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NiagaraCompileErrorSeverity",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NDICollisionQuery_AsyncGpuTraceProvider",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NDISkelMesh_AdjacencyTriangleIndexFormat",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NDISkelMesh_GpuMaxInfluences",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NDISkelMesh_GpuUniformSamplingFormat",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "NiagaraPlatformSetRedirect",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "LinearColor",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "AnimStateAliasNode",
+      "type": "Class",
+      "properties": {
+        "description": "Anim State Alias Node",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "AnimStateNodeBase",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "AnimGraph",
+      "type": "Module",
+      "properties": {}
+    },
+    {
+      "id": "AnimStateAliasNode.h",
+      "type": "File",
+      "properties": {
+        "path": "AnimStateAliasNode.h"
+      }
+    },
+    {
+      "id": "MediaMetadataItemBPT",
+      "type": "Class",
+      "properties": {
+        "description": "Media Metadata Item BPT",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "StructBase",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "MediaAssets",
+      "type": "Module",
+      "properties": {}
+    },
+    {
+      "id": "MediaPlayer.h",
+      "type": "File",
+      "properties": {
+        "path": "MediaPlayer.h"
+      }
+    },
+    {
+      "id": "UpdateColumnarHeatMapParams",
+      "type": "Class",
+      "properties": {
+        "description": "Update Columnar Heat Map Params",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "ParamsBase",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "CoveringAPIDefine",
+      "type": "Module",
+      "properties": {
+        "plugin": "CoveringAPI"
+      }
+    },
+    {
+      "id": "ColumnarHeatMapAPIParams.h",
+      "type": "File",
+      "properties": {
+        "path": "ColumnarHeatMapAPIParams.h"
+      }
+    },
+    {
+      "id": "ColumnarHeatMapData",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "ColumnarHeatMapStyle",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "SubmixEffectStereoDelayPreset",
+      "type": "Class",
+      "properties": {
+        "description": "Audio submix effect delay preset",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "SoundEffectSubmixPreset",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "Synthesis",
+      "type": "Module",
+      "properties": {
+        "plugin": "Synthesis"
+      }
+    },
+    {
+      "id": "SubmixEffectStereoDelay.h",
+      "type": "File",
+      "properties": {
+        "path": "SubmixEffectStereoDelay.h"
+      }
+    },
+    {
+      "id": "SubmixEffectStereoDelaySettings",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "WMSRequestParams",
+      "type": "Class",
+      "properties": {
+        "description": "WMSRequest Params",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "MagicGISLayer",
+      "type": "Module",
+      "properties": {
+        "plugin": "GISDataAPI"
+      }
+    },
+    {
+      "id": "MagicGISDynamicLayerDefines.h",
+      "type": "File",
+      "properties": {
+        "path": "MagicGISDynamicLayerDefines.h"
+      }
+    },
+    {
+      "id": "CompositeDataTableFactory",
+      "type": "Class",
+      "properties": {
+        "description": "Composite Data Table Factory",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "DataTableFactory",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "UnrealEd",
+      "type": "Module",
+      "properties": {}
+    },
+    {
+      "id": "CompositeDataTableFactory.h",
+      "type": "File",
+      "properties": {
+        "path": "CompositeDataTableFactory.h"
+      }
+    },
+    {
+      "id": "AssetImportTask",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "AutomatedAssetImportData",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "ScriptStruct",
+      "type": "Type",
+      "properties": {
+        "category": "class_type"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorSign",
+      "type": "Class",
+      "properties": {
+        "description": "Returns sign of vector value for each component",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorUnaryOp",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "RigVM",
+      "type": "Module",
+      "properties": {
+        "plugin": "RigVM"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVector.h",
+      "type": "File",
+      "properties": {
+        "path": "RigVMFunction_MathVector.h"
+      }
+    },
+    {
+      "id": "Vector",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "MovieSceneReplaceableBindingBase",
+      "type": "Class",
+      "properties": {
+        "description": "Base class for custom replaceable bindings",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "MovieSceneCustomBinding",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "MovieScene",
+      "type": "Module",
+      "properties": {}
+    },
+    {
+      "id": "MovieSceneReplaceableBinding.h",
+      "type": "File",
+      "properties": {
+        "path": "MovieSceneReplaceableBinding.h"
+      }
+    },
+    {
+      "id": "MovieSceneSpawnableBindingBase",
+      "type": "Type",
+      "properties": {
+        "category": "class_type"
+      }
+    },
+    {
+      "id": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "type": "Class",
+      "properties": {
+        "description": "Anim Node Pose Search Component Space History Collector",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "AnimNode_PoseSearchHistoryCollector_Base",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "PoseSearch",
+      "type": "Module",
+      "properties": {
+        "plugin": "PoseSearch"
+      }
+    },
+    {
+      "id": "AnimNode_PoseSearchHistoryCollector.h",
+      "type": "File",
+      "properties": {
+        "path": "AnimNode_PoseSearchHistoryCollector.h"
+      }
+    },
+    {
+      "id": "BoneReference",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "ComponentSpacePoseLink",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "PoseSearchQueryTrajectory",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "PoseSearchTrajectoryData",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "CreateRoadHeatMapsParams",
+      "type": "Class",
+      "properties": {
+        "description": "Create Road Heat Maps Params",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "RoadHeatMapAPIParams.h",
+      "type": "File",
+      "properties": {
+        "path": "RoadHeatMapAPIParams.h"
+      }
+    },
+    {
+      "id": "RoadHeatMapData",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "RoadHeatMapStyle",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "MovieSceneScriptingActorReferenceKey",
+      "type": "Class",
+      "properties": {
+        "description": "Exposes Sequencer Actor Reference type key to Python/Blueprints",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "MovieSceneScriptingKey",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "SequencerScripting",
+      "type": "Module",
+      "properties": {
+        "plugin": "SequencerScripting"
+      }
+    },
+    {
+      "id": "MovieSceneScriptingActorReference.h",
+      "type": "File",
+      "properties": {
+        "path": "MovieSceneScriptingActorReference.h"
+      }
+    },
+    {
+      "id": "MovieSceneObjectBindingID",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "FrameNumber",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "MovieSceneTimeUnit",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "FrameTime",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "SubmixEffectDelaySettings",
+      "type": "Class",
+      "properties": {
+        "description": "UStruct for user-exposed delay effect params",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "SubmixEffectDelay.h",
+      "type": "File",
+      "properties": {
+        "path": "SubmixEffectDelay.h"
+      }
+    },
+    {
+      "id": "PlatformEventsComponent",
+      "type": "Class",
+      "properties": {
+        "description": "Component to handle receiving OS platform events",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "ActorComponent",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "Engine",
+      "type": "Module",
+      "properties": {}
+    },
+    {
+      "id": "PlatformEventsComponent.h",
+      "type": "File",
+      "properties": {
+        "path": "PlatformEventsComponent.h"
+      }
+    },
+    {
+      "id": "AssetUserData",
+      "type": "Type",
+      "properties": {
+        "category": "class_type"
+      }
+    },
+    {
+      "id": "ActorComponentTickFunction",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "ActorComponentActivatedSignature",
+      "type": "Type",
+      "properties": {
+        "category": "delegate_type"
+      }
+    },
+    {
+      "id": "ActorComponentDeactivateSignature",
+      "type": "Type",
+      "properties": {
+        "category": "delegate_type"
+      }
+    },
+    {
+      "id": "PlatformEventDelegate",
+      "type": "Type",
+      "properties": {
+        "category": "delegate_type"
+      }
+    },
+    {
+      "id": "AndroidFileServerBPLibrary",
+      "type": "Class",
+      "properties": {
+        "description": "Android File Server BPLibrary",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "BlueprintFunctionLibrary",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "AndroidFileServer",
+      "type": "Module",
+      "properties": {
+        "plugin": "AndroidFileServer"
+      }
+    },
+    {
+      "id": "AndroidFileServerBPLibrary.h",
+      "type": "File",
+      "properties": {
+        "path": "AndroidFileServerBPLibrary.h"
+      }
+    },
+    {
+      "id": "AFSActiveType",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorMul",
+      "type": "Class",
+      "properties": {
+        "description": "Returns product of two vector values",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorBinaryAggregateOp",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "UpdateHighlightAreaParams",
+      "type": "Class",
+      "properties": {
+        "description": "Update Highlight Area Params",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "HighlightAreaAPIParams.h",
+      "type": "File",
+      "properties": {
+        "path": "HighlightAreaAPIParams.h"
+      }
+    },
+    {
+      "id": "HighlightAreaStyle",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "RigVMFunction_StringStartsWith",
+      "type": "Class",
+      "properties": {
+        "description": "Tests whether string starts with given string",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "RigVMFunction_StringBase",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "RigVMFunction_String.h",
+      "type": "File",
+      "properties": {
+        "path": "RigVMFunction_String.h"
+      }
+    },
+    {
+      "id": "AnimNode_ModifyCurve",
+      "type": "Class",
+      "properties": {
+        "description": "Easy way to modify curve values on a pose",
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "Class",
+      "properties": {
+        "namespace": "unreal"
+      }
+    },
+    {
+      "id": "AnimGraphRuntime",
+      "type": "Module",
+      "properties": {}
+    },
+    {
+      "id": "AnimNode_ModifyCurve.h",
+      "type": "File",
+      "properties": {
+        "path": "AnimNode_ModifyCurve.h"
+      }
+    },
+    {
+      "id": "PoseLink",
+      "type": "Type",
+      "properties": {
+        "category": "struct_type"
+      }
+    },
+    {
+      "id": "ModifyCurveApplyMode",
+      "type": "Type",
+      "properties": {
+        "category": "enum_type"
+      }
+    },
+    {
+      "id": "ascending",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "stable_sort",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "bp_get_score_for_target",
+      "type": "Method",
+      "properties": {
+        "description": "Called on every target to get a Score for sorting"
+      }
+    },
+    {
+      "id": "accurate_quat_interpolation",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "limit_delta_time",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "max_delta_time_per_tick",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "global_alias",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "language_code",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadOnly"
+      }
+    },
+    {
+      "id": "mime_type",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadOnly"
+      }
+    },
+    {
+      "id": "string_data",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadOnly"
+      }
+    },
+    {
+      "id": "binary_data",
+      "type": "Property",
+      "properties": {
+        "type": "Array[uint8]",
+        "access": "ReadOnly"
+      }
+    },
+    {
+      "id": "columnar_heat_map_data",
+      "type": "Property",
+      "properties": {
+        "type": "Array[ColumnarHeatMapData]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "columnar_heat_map_style",
+      "type": "Property",
+      "properties": {
+        "type": "ColumnarHeatMapStyle",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "coord_z",
+      "type": "Property",
+      "properties": {
+        "type": "double",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "coord_z_ref",
+      "type": "Property",
+      "properties": {
+        "type": "int32",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "eid",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "guid",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "hit_keys",
+      "type": "Property",
+      "properties": {
+        "type": "Set[Name]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "settings",
+      "type": "Property",
+      "properties": {
+        "type": "SubmixEffectStereoDelaySettings",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "set_settings",
+      "type": "Method",
+      "properties": {
+        "description": "Set all tap delay settings"
+      }
+    },
+    {
+      "id": "service_layer_identifier",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "request_map_width",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "request_map_height",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "request_version",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "result",
+      "type": "Property",
+      "properties": {
+        "type": "Vector",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "value",
+      "type": "Property",
+      "properties": {
+        "type": "Vector",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "preview_spawnable",
+      "type": "Property",
+      "properties": {
+        "type": "MovieSceneSpawnableBindingBase",
+        "access": "ReadOnly"
+      }
+    },
+    {
+      "id": "collected_bones",
+      "type": "Property",
+      "properties": {
+        "type": "Array[BoneReference]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "collected_curves",
+      "type": "Property",
+      "properties": {
+        "type": "Array[Name]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "debug_color",
+      "type": "Property",
+      "properties": {
+        "type": "LinearColor",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "generate_trajectory",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "initialize_with_ref_pose",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "pose_count",
+      "type": "Property",
+      "properties": {
+        "type": "int32",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "prediction_sampling_interval",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "reset_on_becoming_relevant",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "root_bone_recovery_time",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "root_bone_rotation_recovery_ratio",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "root_bone_translation_recovery_ratio",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "sampling_interval",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "source",
+      "type": "Property",
+      "properties": {
+        "type": "ComponentSpacePoseLink",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "store_scales",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "trajectory",
+      "type": "Property",
+      "properties": {
+        "type": "PoseSearchQueryTrajectory",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "trajectory_data",
+      "type": "Property",
+      "properties": {
+        "type": "PoseSearchTrajectoryData",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "trajectory_history_count",
+      "type": "Property",
+      "properties": {
+        "type": "int32",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "trajectory_prediction_count",
+      "type": "Property",
+      "properties": {
+        "type": "int32",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "trajectory_speed_multiplier",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "road_heat_map_data",
+      "type": "Property",
+      "properties": {
+        "type": "Array[RoadHeatMapData]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "road_heat_map_style",
+      "type": "Property",
+      "properties": {
+        "type": "RoadHeatMapStyle",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "set_value",
+      "type": "Method",
+      "properties": {
+        "description": "Sets the value for this key"
+      }
+    },
+    {
+      "id": "set_time",
+      "type": "Method",
+      "properties": {
+        "description": "Sets the time for this key"
+      }
+    },
+    {
+      "id": "get_value",
+      "type": "Method",
+      "properties": {
+        "description": "Gets the value for this key"
+      }
+    },
+    {
+      "id": "get_time",
+      "type": "Method",
+      "properties": {
+        "description": "Gets the time for this key"
+      }
+    },
+    {
+      "id": "delay_length",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "interpolation_time",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "maximum_delay_length",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "asset_user_data",
+      "type": "Property",
+      "properties": {
+        "type": "Array[AssetUserData]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "asset_user_data_editor_only",
+      "type": "Property",
+      "properties": {
+        "type": "Array[AssetUserData]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "auto_activate",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "can_ever_affect_navigation",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "component_tags",
+      "type": "Property",
+      "properties": {
+        "type": "Array[Name]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "editable_when_inherited",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "is_editor_only",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "on_component_activated",
+      "type": "Property",
+      "properties": {
+        "type": "ActorComponentActivatedSignature",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "on_component_deactivated",
+      "type": "Property",
+      "properties": {
+        "type": "ActorComponentDeactivateSignature",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "platform_changed_to_laptop_mode_delegate",
+      "type": "Property",
+      "properties": {
+        "type": "PlatformEventDelegate",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "platform_changed_to_tablet_mode_delegate",
+      "type": "Property",
+      "properties": {
+        "type": "PlatformEventDelegate",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "primary_component_tick",
+      "type": "Property",
+      "properties": {
+        "type": "ActorComponentTickFunction",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "replicate_using_registered_sub_object_list",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "replicates",
+      "type": "Property",
+      "properties": {
+        "type": "bool",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "supports_convertible_laptops",
+      "type": "Method",
+      "properties": {
+        "description": "Check whether the platform supports convertible laptops"
+      }
+    },
+    {
+      "id": "is_in_tablet_mode",
+      "type": "Method",
+      "properties": {
+        "description": "Check whether a convertible laptop is in tablet mode"
+      }
+    },
+    {
+      "id": "is_in_laptop_mode",
+      "type": "Method",
+      "properties": {
+        "description": "Check whether a convertible laptop is in laptop mode"
+      }
+    },
+    {
+      "id": "stop_file_server",
+      "type": "Method",
+      "properties": {
+        "description": "Request termination of Android FileServer",
+        "static": true
+      }
+    },
+    {
+      "id": "start_file_server",
+      "type": "Method",
+      "properties": {
+        "description": "Request startup of Android FileServer",
+        "static": true
+      }
+    },
+    {
+      "id": "is_file_server_running",
+      "type": "Method",
+      "properties": {
+        "description": "Check if Android FileServer is running",
+        "static": true
+      }
+    },
+    {
+      "id": "a",
+      "type": "Property",
+      "properties": {
+        "type": "Vector",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "b",
+      "type": "Property",
+      "properties": {
+        "type": "Vector",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "highlight_area_style",
+      "type": "Property",
+      "properties": {
+        "type": "HighlightAreaStyle",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "polygon_entity_eid",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "name",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "start",
+      "type": "Property",
+      "properties": {
+        "type": "str",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "alpha",
+      "type": "Property",
+      "properties": {
+        "type": "float",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "apply_mode",
+      "type": "Property",
+      "properties": {
+        "type": "ModifyCurveApplyMode",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "curve_map",
+      "type": "Property",
+      "properties": {
+        "type": "Map[Name, float]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "curve_values",
+      "type": "Property",
+      "properties": {
+        "type": "Array[float]",
+        "access": "ReadWrite"
+      }
+    },
+    {
+      "id": "source_pose",
+      "type": "Property",
+      "properties": {
+        "type": "PoseLink",
+        "access": "ReadWrite"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "SimpleTargetingSortTask",
+      "target": "TargetingSortTask_Base",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "SimpleTargetingSortTask",
+      "target": "TargetingSystem",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "SimpleTargetingSortTask",
+      "target": "SimpleTargetingSortTask.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "SimpleTargetingSortTask",
+      "target": "ascending",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "SimpleTargetingSortTask",
+      "target": "stable_sort",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "SimpleTargetingSortTask",
+      "target": "bp_get_score_for_target",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "bp_get_score_for_target",
+      "target": "TargetingRequestHandle",
+      "type": "ACCEPTS_TYPE",
+      "properties": {
+        "param_name": "targeting_handle"
+      }
+    },
+    {
+      "source": "bp_get_score_for_target",
+      "target": "TargetingDefaultResultData",
+      "type": "ACCEPTS_TYPE",
+      "properties": {
+        "param_name": "target_data"
+      }
+    },
+    {
+      "source": "bp_get_score_for_target",
+      "target": "float",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "ViewportInteraction",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "ViewportInteractionTypes.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "NOTHING",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "TRANSFORMABLES_WITH_GIZMO",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "TRANSFORMABLES_AT_LASER_IMPACT",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "ASSISTING_DRAG",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "TRANSFORMABLES_FREELY",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "WORLD",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "INTERACTABLE",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "ViewportInteractionDraggingMode",
+      "target": "MATERIAL",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "PCGKernelType",
+      "target": "EnumBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "PCGKernelType",
+      "target": "PCG",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "PCGKernelType",
+      "target": "PCGCustomHLSL.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "PCGKernelType",
+      "target": "POINT_PROCESSOR",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "PCGKernelType",
+      "target": "POINT_GENERATOR",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "PCGKernelType",
+      "target": "CUSTOM",
+      "type": "ENUM_VALUE",
+      "properties": {}
+    },
+    {
+      "source": "NiagaraSettings",
+      "target": "DeveloperSettings",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "NiagaraSettings",
+      "target": "Niagara",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "NiagaraSettings",
+      "target": "NiagaraSettings.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "NiagaraSettings",
+      "target": "accurate_quat_interpolation",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "NiagaraSettings",
+      "target": "limit_delta_time",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "NiagaraSettings",
+      "target": "max_delta_time_per_tick",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimStateAliasNode",
+      "target": "AnimStateNodeBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "AnimStateAliasNode",
+      "target": "AnimGraph",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "AnimStateAliasNode",
+      "target": "AnimStateAliasNode.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "AnimStateAliasNode",
+      "target": "global_alias",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "MediaMetadataItemBPT",
+      "target": "StructBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "MediaMetadataItemBPT",
+      "target": "MediaAssets",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "MediaMetadataItemBPT",
+      "target": "MediaPlayer.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "MediaMetadataItemBPT",
+      "target": "language_code",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "MediaMetadataItemBPT",
+      "target": "mime_type",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "MediaMetadataItemBPT",
+      "target": "string_data",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "MediaMetadataItemBPT",
+      "target": "binary_data",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "ParamsBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "CoveringAPIDefine",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "ColumnarHeatMapAPIParams.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "columnar_heat_map_data",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "columnar_heat_map_style",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "coord_z",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "coord_z_ref",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "eid",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "guid",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateColumnarHeatMapParams",
+      "target": "hit_keys",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectStereoDelayPreset",
+      "target": "SoundEffectSubmixPreset",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectStereoDelayPreset",
+      "target": "Synthesis",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectStereoDelayPreset",
+      "target": "SubmixEffectStereoDelay.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectStereoDelayPreset",
+      "target": "settings",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectStereoDelayPreset",
+      "target": "set_settings",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "set_settings",
+      "target": "SubmixEffectStereoDelaySettings",
+      "type": "ACCEPTS_TYPE",
+      "properties": {
+        "param_name": "settings"
+      }
+    },
+    {
+      "source": "WMSRequestParams",
+      "target": "StructBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "WMSRequestParams",
+      "target": "MagicGISLayer",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "WMSRequestParams",
+      "target": "MagicGISDynamicLayerDefines.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "WMSRequestParams",
+      "target": "service_layer_identifier",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "WMSRequestParams",
+      "target": "request_map_width",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "WMSRequestParams",
+      "target": "request_map_height",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "WMSRequestParams",
+      "target": "request_version",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "CompositeDataTableFactory",
+      "target": "DataTableFactory",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "CompositeDataTableFactory",
+      "target": "UnrealEd",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "CompositeDataTableFactory",
+      "target": "CompositeDataTableFactory.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorSign",
+      "target": "RigVMFunction_MathVectorUnaryOp",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorSign",
+      "target": "RigVM",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorSign",
+      "target": "RigVMFunction_MathVector.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorSign",
+      "target": "result",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorSign",
+      "target": "value",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneReplaceableBindingBase",
+      "target": "MovieSceneCustomBinding",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneReplaceableBindingBase",
+      "target": "MovieScene",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneReplaceableBindingBase",
+      "target": "MovieSceneReplaceableBinding.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneReplaceableBindingBase",
+      "target": "preview_spawnable",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "AnimNode_PoseSearchHistoryCollector_Base",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "PoseSearch",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "AnimNode_PoseSearchHistoryCollector.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "collected_bones",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "collected_curves",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "debug_color",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "generate_trajectory",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "initialize_with_ref_pose",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "pose_count",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "prediction_sampling_interval",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "reset_on_becoming_relevant",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "root_bone_recovery_time",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "root_bone_rotation_recovery_ratio",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "root_bone_translation_recovery_ratio",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "sampling_interval",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "source",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "store_scales",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "trajectory",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "trajectory_data",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "trajectory_history_count",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "trajectory_prediction_count",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+      "target": "trajectory_speed_multiplier",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "CreateRoadHeatMapsParams",
+      "target": "StructBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "CreateRoadHeatMapsParams",
+      "target": "CoveringAPIDefine",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "CreateRoadHeatMapsParams",
+      "target": "RoadHeatMapAPIParams.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "CreateRoadHeatMapsParams",
+      "target": "coord_z_ref",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "CreateRoadHeatMapsParams",
+      "target": "road_heat_map_data",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "CreateRoadHeatMapsParams",
+      "target": "road_heat_map_style",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneScriptingActorReferenceKey",
+      "target": "MovieSceneScriptingKey",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneScriptingActorReferenceKey",
+      "target": "SequencerScripting",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneScriptingActorReferenceKey",
+      "target": "MovieSceneScriptingActorReference.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneScriptingActorReferenceKey",
+      "target": "set_value",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneScriptingActorReferenceKey",
+      "target": "set_time",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneScriptingActorReferenceKey",
+      "target": "get_value",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "MovieSceneScriptingActorReferenceKey",
+      "target": "get_time",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "set_value",
+      "target": "MovieSceneObjectBindingID",
+      "type": "ACCEPTS_TYPE",
+      "properties": {
+        "param_name": "new_value"
+      }
+    },
+    {
+      "source": "set_time",
+      "target": "FrameNumber",
+      "type": "ACCEPTS_TYPE",
+      "properties": {
+        "param_name": "new_frame_number"
+      }
+    },
+    {
+      "source": "set_time",
+      "target": "MovieSceneTimeUnit",
+      "type": "ACCEPTS_TYPE",
+      "properties": {
+        "param_name": "time_unit"
+      }
+    },
+    {
+      "source": "get_value",
+      "target": "MovieSceneObjectBindingID",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "get_time",
+      "target": "MovieSceneTimeUnit",
+      "type": "ACCEPTS_TYPE",
+      "properties": {
+        "param_name": "time_unit"
+      }
+    },
+    {
+      "source": "get_time",
+      "target": "FrameTime",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectDelaySettings",
+      "target": "StructBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectDelaySettings",
+      "target": "Synthesis",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectDelaySettings",
+      "target": "SubmixEffectDelay.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectDelaySettings",
+      "target": "delay_length",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectDelaySettings",
+      "target": "interpolation_time",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "SubmixEffectDelaySettings",
+      "target": "maximum_delay_length",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "ActorComponent",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "Engine",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "PlatformEventsComponent.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "asset_user_data",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "asset_user_data_editor_only",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "auto_activate",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "can_ever_affect_navigation",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "component_tags",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "editable_when_inherited",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "is_editor_only",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "on_component_activated",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "on_component_deactivated",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "platform_changed_to_laptop_mode_delegate",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "platform_changed_to_tablet_mode_delegate",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "primary_component_tick",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "replicate_using_registered_sub_object_list",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "replicates",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "supports_convertible_laptops",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "is_in_tablet_mode",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "PlatformEventsComponent",
+      "target": "is_in_laptop_mode",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "supports_convertible_laptops",
+      "target": "bool",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "is_in_tablet_mode",
+      "target": "bool",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "is_in_laptop_mode",
+      "target": "bool",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "AndroidFileServerBPLibrary",
+      "target": "BlueprintFunctionLibrary",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "AndroidFileServerBPLibrary",
+      "target": "AndroidFileServer",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "AndroidFileServerBPLibrary",
+      "target": "AndroidFileServerBPLibrary.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "AndroidFileServerBPLibrary",
+      "target": "stop_file_server",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "AndroidFileServerBPLibrary",
+      "target": "start_file_server",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "AndroidFileServerBPLibrary",
+      "target": "is_file_server_running",
+      "type": "HAS_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "stop_file_server",
+      "target": "bool",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "start_file_server",
+      "target": "bool",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "is_file_server_running",
+      "target": "AFSActiveType",
+      "type": "RETURNS_TYPE",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorMul",
+      "target": "RigVMFunction_MathVectorBinaryAggregateOp",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorMul",
+      "target": "RigVM",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorMul",
+      "target": "RigVMFunction_MathVector.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorMul",
+      "target": "a",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorMul",
+      "target": "b",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorMul",
+      "target": "result",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateHighlightAreaParams",
+      "target": "ParamsBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "UpdateHighlightAreaParams",
+      "target": "CoveringAPIDefine",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "UpdateHighlightAreaParams",
+      "target": "HighlightAreaAPIParams.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "UpdateHighlightAreaParams",
+      "target": "eid",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateHighlightAreaParams",
+      "target": "guid",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateHighlightAreaParams",
+      "target": "highlight_area_style",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateHighlightAreaParams",
+      "target": "hit_keys",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "UpdateHighlightAreaParams",
+      "target": "polygon_entity_eid",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_StringStartsWith",
+      "target": "RigVMFunction_StringBase",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_StringStartsWith",
+      "target": "RigVM",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_StringStartsWith",
+      "target": "RigVMFunction_String.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_StringStartsWith",
+      "target": "name",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_StringStartsWith",
+      "target": "result",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "RigVMFunction_StringStartsWith",
+      "target": "start",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_ModifyCurve",
+      "target": "AnimNode_Base",
+      "type": "INHERITS_FROM",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_ModifyCurve",
+      "target": "AnimGraphRuntime",
+      "type": "DEFINED_IN_MODULE",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_ModifyCurve",
+      "target": "AnimNode_ModifyCurve.h",
+      "type": "DEFINED_IN_FILE",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_ModifyCurve",
+      "target": "alpha",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_ModifyCurve",
+      "target": "apply_mode",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_ModifyCurve",
+      "target": "curve_map",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_ModifyCurve",
+      "target": "curve_values",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    },
+    {
+      "source": "AnimNode_ModifyCurve",
+      "target": "source_pose",
+      "type": "HAS_PROPERTY",
+      "properties": {}
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_plugin_module_class_1",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "TargetingSystem",
+        "TargetingSystem",
+        "SimpleTargetingSortTask"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_2",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "PCG",
+        "PCG",
+        "PCGKernelType"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_3",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "Niagara",
+        "Niagara",
+        "NiagaraSettings"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_4",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "CoveringAPI",
+        "CoveringAPIDefine",
+        "UpdateColumnarHeatMapParams"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_5",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "Synthesis",
+        "Synthesis",
+        "SubmixEffectStereoDelayPreset"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_6",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "GISDataAPI",
+        "MagicGISLayer",
+        "WMSRequestParams"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_7",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "RigVM",
+        "RigVM",
+        "RigVMFunction_MathVectorSign"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_8",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "PoseSearch",
+        "PoseSearch",
+        "AnimNode_PoseSearchComponentSpaceHistoryCollector"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_9",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "SequencerScripting",
+        "SequencerScripting",
+        "MovieSceneScriptingActorReferenceKey"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_plugin_module_class_10",
+      "type": "PLUGIN_MODULE_CLASS",
+      "nodes": [
+        "AndroidFileServer",
+        "AndroidFileServer",
+        "AndroidFileServerBPLibrary"
+      ],
+      "properties": {}
+    },
+    {
+      "id": "he_audio_delay_system",
+      "type": "AUDIO_DELAY_SYSTEM",
+      "nodes": [
+        "SubmixEffectStereoDelayPreset",
+        "SubmixEffectStereoDelaySettings",
+        "SubmixEffectDelaySettings",
+        "Synthesis"
+      ],
+      "properties": {
+        "description": "Audio delay effect system with preset and settings"
+      }
+    },
+    {
+      "id": "he_animation_pose_search",
+      "type": "ANIMATION_POSE_SEARCH",
+      "nodes": [
+        "AnimNode_PoseSearchComponentSpaceHistoryCollector",
+        "ComponentSpacePoseLink",
+        "PoseSearchQueryTrajectory",
+        "PoseSearchTrajectoryData",
+        "BoneReference"
+      ],
+      "properties": {
+        "description": "Animation pose search with history collection"
+      }
+    },
+    {
+      "id": "he_heat_map_system",
+      "type": "HEAT_MAP_SYSTEM",
+      "nodes": [
+        "UpdateColumnarHeatMapParams",
+        "CreateRoadHeatMapsParams",
+        "ColumnarHeatMapData",
+        "RoadHeatMapData",
+        "CoveringAPIDefine"
+      ],
+      "properties": {
+        "description": "Heat map generation system for roads and columns"
+      }
+    },
+    {
+      "id": "he_rigvm_math_operations",
+      "type": "RIGVM_MATH",
+      "nodes": [
+        "RigVMFunction_MathVectorSign",
+        "RigVMFunction_MathVectorMul",
+        "Vector",
+        "RigVM"
+      ],
+      "properties": {
+        "description": "RigVM vector math operations"
+      }
+    },
+    {
+      "id": "he_platform_convertible",
+      "type": "PLATFORM_CONVERTIBLE",
+      "nodes": [
+        "PlatformEventsComponent",
+        "PlatformEventDelegate",
+        "supports_convertible_laptops",
+        "is_in_tablet_mode",
+        "is_in_laptop_mode"
+      ],
+      "properties": {
+        "description": "Platform events for convertible laptop mode changes"
+      }
+    },
+    {
+      "id": "he_sequencer_key_operations",
+      "type": "SEQUENCER_KEY",
+      "nodes": [
+        "MovieSceneScriptingActorReferenceKey",
+        "set_value",
+        "get_value",
+        "set_time",
+        "get_time",
+        "MovieSceneObjectBindingID",
+        "FrameTime"
+      ],
+      "properties": {
+        "description": "Sequencer scripting key operations for actor references"
+      }
+    },
+    {
+      "id": "he_android_file_server",
+      "type": "ANDROID_FILE_SERVER",
+      "nodes": [
+        "AndroidFileServerBPLibrary",
+        "start_file_server",
+        "stop_file_server",
+        "is_file_server_running",
+        "AFSActiveType"
+      ],
+      "properties": {
+        "description": "Android file server management operations"
+      }
+    },
+    {
+      "id": "he_animation_curve_modification",
+      "type": "ANIMATION_CURVE",
+      "nodes": [
+        "AnimNode_ModifyCurve",
+        "source_pose",
+        "curve_map",
+        "curve_values",
+        "apply_mode",
+        "ModifyCurveApplyMode"
+      ],
+      "properties": {
+        "description": "Animation curve modification system"
+      }
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "SimpleTargetingSortTask Objects.md",
+      "ViewportInteractionDraggingMode Objects.md",
+      "PCGKernelType Objects.md",
+      "NiagaraSettings Objects.md",
+      "AnimStateAliasNode Objects.md",
+      "MediaMetadataItemBPT Objects.md",
+      "UpdateColumnarHeatMapParams Objects.md",
+      "SubmixEffectStereoDelayPreset Objects.md",
+      "WMSRequestParams Objects.md",
+      "CompositeDataTableFactory Objects.md",
+      "RigVMFunction_MathVectorSign Objects.md",
+      "MovieSceneReplaceableBindingBase Objects.md",
+      "AnimNode_PoseSearchComponentSpaceHistoryCollector Objects.md",
+      "CreateRoadHeatMapsParams Objects.md",
+      "MovieSceneScriptingActorReferenceKey Objects.md",
+      "SubmixEffectDelaySettings Objects.md",
+      "PlatformEventsComponent Objects.md",
+      "AndroidFileServerBPLibrary Objects.md",
+      "RigVMFunction__MathVectorMul Objects.md",
+      "UpdateHighlightAreaParams Objects.md",
+      "RigVMFunction__StringStartsWith Objects.md",
+      "AnimNode_ModifyCurve Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_nodes": 226,
+    "total_edges": 272,
+    "total_hyperedges": 18,
+    "unreal_engine_version": "5.x"
+  }
+}

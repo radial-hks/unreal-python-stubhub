@@ -1,0 +1,546 @@
+{
+  "nodes": [
+    {
+      "id": "rb_constraintcomponent_physicsconstraintcomponent",
+      "label": "RB_ConstraintComponent to PhysicsConstraintComponent",
+      "file_type": "document",
+      "source_file": "RB__ConstraintComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datavalidationresult_enum",
+      "label": "DataValidationResult Enum",
+      "file_type": "document",
+      "source_file": "DataValidationResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapeconedynamicmesh_class",
+      "label": "AvaShapeConeDynamicMesh Class",
+      "file_type": "document",
+      "source_file": "AvaShapeConeDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshheatmapentity_class",
+      "label": "MeshHeatMapEntity Class",
+      "file_type": "document",
+      "source_file": "MeshHeatMapEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxmatte_class",
+      "label": "MaterialExpressionMaterialXMatte Class",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXMatte Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositingelementpass_class",
+      "label": "CompositingElementPass Class",
+      "file_type": "document",
+      "source_file": "CompositingElementPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stereolayershapecubemap_class",
+      "label": "StereoLayerShapeCubemap Class",
+      "file_type": "document",
+      "source_file": "StereoLayerShapeCubemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameroampath_struct",
+      "label": "CameraRoamPath Structure",
+      "file_type": "document",
+      "source_file": "CameraRoamPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "virtualkeyboardoptions_struct",
+      "label": "VirtualKeyboardOptions Structure",
+      "file_type": "document",
+      "source_file": "VirtualKeyboardOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarameshfacingmode_enum",
+      "label": "NiagaraMeshFacingMode Enum",
+      "file_type": "document",
+      "source_file": "NiagaraMeshFacingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublelerp_deprecated",
+      "label": "RigUnit_MathDoubleLerp Deprecated Rename",
+      "file_type": "document",
+      "source_file": "RigUnit__MathDoubleLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionraytracingqualityswitch_class",
+      "label": "MaterialExpressionRayTracingQualitySwitch Class",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRayTracingQualitySwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxramptopbottom_class",
+      "label": "MaterialExpressionMaterialXRampTopBottom Class",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXRampTopBottom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papertilemapcomponent_class",
+      "label": "PaperTileMapComponent Class",
+      "file_type": "document",
+      "source_file": "PaperTileMapComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcurrentandinitialtransform_struct",
+      "label": "RigCurrentAndInitialTransform Structure",
+      "file_type": "document",
+      "source_file": "RigCurrentAndInitialTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairlodsettings_struct",
+      "label": "HairLODSettings Structure",
+      "file_type": "document",
+      "source_file": "HairLODSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediacaptureresizemethod_enum",
+      "label": "MediaCaptureResizeMethod Enum",
+      "file_type": "document",
+      "source_file": "MediaCaptureResizeMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialimpulsefalloff_enum",
+      "label": "RadialImpulseFalloff Enum",
+      "file_type": "document",
+      "source_file": "RadialImpulseFalloff Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pgccreatesurfacefromsplinesettings_class",
+      "label": "PCGCreateSurfaceFromSplineSettings Class",
+      "file_type": "document",
+      "source_file": "PCGCreateSurfaceFromSplineSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcamerautilitylibrary_class",
+      "label": "WdpCameraUtilityLibrary Class",
+      "file_type": "document",
+      "source_file": "WdpCameraUtilityLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_convertrotation_class",
+      "label": "RigUnit_ConvertRotation Class",
+      "file_type": "document",
+      "source_file": "RigUnit_ConvertRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "canvas_class",
+      "label": "Canvas Class",
+      "file_type": "document",
+      "source_file": "Canvas Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_expression_base",
+      "label": "Material Expression Base Concept",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXMatte Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_unit_base",
+      "label": "RigUnit Base Concept",
+      "file_type": "document",
+      "source_file": "RigUnit_ConvertRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdp_camera_system",
+      "label": "Wdp Camera System",
+      "file_type": "document",
+      "source_file": "WdpCameraUtilityLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_mesh_generation",
+      "label": "Procedural Mesh Generation",
+      "file_type": "document",
+      "source_file": "MeshHeatMapEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rb_constraintcomponent_physicsconstraintcomponent",
+      "target": "rigunit_mathdoublelerp_deprecated",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RB__ConstraintComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxmatte_class",
+      "target": "material_expression_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXMatte Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionraytracingqualityswitch_class",
+      "target": "material_expression_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionRayTracingQualitySwitch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxramptopbottom_class",
+      "target": "material_expression_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialXRampTopBottom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmaterialxmatte_class",
+      "target": "materialexpressionmaterialxramptopbottom_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionMaterialXMatte Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_convertrotation_class",
+      "target": "rig_unit_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ConvertRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcamerautilitylibrary_class",
+      "target": "wdp_camera_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WdpCameraUtilityLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameroampath_struct",
+      "target": "wdp_camera_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "CameraRoamPath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshheatmapentity_class",
+      "target": "procedural_mesh_generation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MeshHeatMapEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashapeconedynamicmesh_class",
+      "target": "procedural_mesh_generation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaShapeConeDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshheatmapentity_class",
+      "target": "avashapeconedynamicmesh_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MeshHeatMapEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "compositingelementpass_class",
+      "target": "materialexpressionmaterialxmatte_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CompositingElementPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "canvas_class",
+      "target": "compositingelementpass_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Canvas Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarameshfacingmode_enum",
+      "target": "canvas_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NiagaraMeshFacingMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "papertilemapcomponent_class",
+      "target": "avashapeconedynamicmesh_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PaperTileMapComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcurrentandinitialtransform_struct",
+      "target": "rigunit_convertrotation_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigCurrentAndInitialTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairlodsettings_struct",
+      "target": "rigcurrentandinitialtransform_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "HairLODSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediacaptureresizemethod_enum",
+      "target": "compositingelementpass_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MediaCaptureResizeMethod Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pgccreatesurfacefromsplinesettings_class",
+      "target": "procedural_mesh_generation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGCreateSurfaceFromSplineSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datavalidationresult_enum",
+      "target": "papertilemapcomponent_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "DataValidationResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "radialimpulsefalloff_enum",
+      "target": "hairlodsettings_struct",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "RadialImpulseFalloff Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "material_expression_family",
+      "label": "Material Expression Classes",
+      "nodes": [
+        "materialexpressionmaterialxmatte_class",
+        "materialexpressionraytracingqualityswitch_class",
+        "materialexpressionmaterialxramptopbottom_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "MaterialExpressionMaterialXMatte Objects.md"
+    },
+    {
+      "id": "wdp_camera_ecosystem",
+      "label": "Wdp Camera System Components",
+      "nodes": [
+        "wdpcamerautilitylibrary_class",
+        "cameroampath_struct",
+        "wdp_camera_system"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WdpCameraUtilityLibrary Objects.md"
+    },
+    {
+      "id": "procedural_mesh_tools",
+      "label": "Procedural Mesh Generation Tools",
+      "nodes": [
+        "meshheatmapentity_class",
+        "avashapeconedynamicmesh_class",
+        "pgccreatesurfacefromsplinesettings_class",
+        "papertilemapcomponent_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MeshHeatMapEntity Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

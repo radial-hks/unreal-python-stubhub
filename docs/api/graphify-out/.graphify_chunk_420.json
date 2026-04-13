@@ -1,0 +1,617 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_pointsimulation_debugsettings",
+      "label": "RigUnit PointSimulation DebugSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_PointSimulation_DebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringtrimwhitespace",
+      "label": "RigVMFunction StringTrimWhitespace",
+      "file_type": "document",
+      "source_file": "RigVMFunction__StringTrimWhitespace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pathfollowingcomponent",
+      "label": "PathFollowing Component",
+      "file_type": "document",
+      "source_file": "PathFollowingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenudynamicisactionchecked",
+      "label": "ToolMenuDynamicIsActionChecked",
+      "file_type": "document",
+      "source_file": "ToolMenuDynamicIsActionChecked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlerandomseedinfo",
+      "label": "ParticleRandomSeedInfo",
+      "file_type": "document",
+      "source_file": "ParticleRandomSeedInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aihelperlibrary",
+      "label": "AIHelperLibrary",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightunits",
+      "label": "LightUnits",
+      "file_type": "document",
+      "source_file": "LightUnits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionround",
+      "label": "MaterialExpressionRound",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRound Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerarig_crane",
+      "label": "CameraRig Crane",
+      "file_type": "document",
+      "source_file": "CameraRig_Crane Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequenceplaybackobject",
+      "label": "AvaSequencePlaybackObject",
+      "file_type": "document",
+      "source_file": "AvaSequencePlaybackObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesium3dtilesetloadtype",
+      "label": "Cesium3DTilesetLoadType",
+      "file_type": "document",
+      "source_file": "Cesium3DTilesetLoadType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationnode_twowayblend",
+      "label": "AnimationNode TwoWayBlend",
+      "file_type": "document",
+      "source_file": "AnimationNode_TwoWayBlend Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolvector2d_settings",
+      "label": "RigUnit HierarchyAddControlVector2D Settings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddControlVector2D_Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "envelopefollowerlistener",
+      "label": "EnvelopeFollowerListener",
+      "file_type": "document",
+      "source_file": "EnvelopeFollowerListener Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zoneshape",
+      "label": "ZoneShape",
+      "file_type": "document",
+      "source_file": "ZoneShape Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_subinstance",
+      "label": "AnimGraphNode SubInstance",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_SubInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorfloor",
+      "label": "RigUnit MathVectorFloor",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorFloor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datetime",
+      "label": "DateTime",
+      "file_type": "document",
+      "source_file": "DateTime Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwavefftsize",
+      "label": "SoundWaveFFTSize",
+      "file_type": "document",
+      "source_file": "SoundWaveFFTSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummetadatapropertydetails",
+      "label": "CesiumMetadataPropertyDetails",
+      "file_type": "document",
+      "source_file": "CesiumMetadataPropertyDetails Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdatanumsettings",
+      "label": "PCGDataNumSettings",
+      "file_type": "document",
+      "source_file": "PCGDataNumSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animupdatecontext",
+      "label": "AnimUpdateContext",
+      "file_type": "document",
+      "source_file": "AnimUpdateContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animinstance",
+      "label": "AnimInstance",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "20-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movement_resource_locking",
+      "label": "Movement Resource Locking",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "120-136",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_logic_resource_locking",
+      "label": "AI Logic Resource Locking",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "120-136",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_controller",
+      "label": "AIController",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "39-63",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pawn",
+      "label": "Pawn",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "39-63",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "behaviortree",
+      "label": "BehaviorTree",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "39-63",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigation_path",
+      "label": "NavigationPath",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "210-266",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blackboardcomponent",
+      "label": "BlackboardComponent",
+      "file_type": "document",
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "267-283",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequenceplayer",
+      "label": "AvaSequencePlayer",
+      "file_type": "document",
+      "source_file": "AvaSequencePlaybackObject Objects.md",
+      "source_location": "20-35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequence",
+      "label": "AvaSequence",
+      "file_type": "document",
+      "source_file": "AvaSequencePlaybackObject Objects.md",
+      "source_location": "36-55",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avataghandle",
+      "label": "AvaTagHandle",
+      "file_type": "document",
+      "source_file": "AvaSequencePlaybackObject Objects.md",
+      "source_location": "15-35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zoneshapecomponent",
+      "label": "ZoneShapeComponent",
+      "file_type": "document",
+      "source_file": "ZoneShape Objects.md",
+      "source_location": "128-153",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "aihelperlibrary",
+      "target": "animinstance",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "20-31",
+      "weight": 1.0
+    },
+    {
+      "source": "aihelperlibrary",
+      "target": "movement_resource_locking",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "120-136",
+      "weight": 1.0
+    },
+    {
+      "source": "aihelperlibrary",
+      "target": "ai_logic_resource_locking",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "120-136",
+      "weight": 1.0
+    },
+    {
+      "source": "aihelperlibrary",
+      "target": "ai_controller",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "39-63",
+      "weight": 1.0
+    },
+    {
+      "source": "aihelperlibrary",
+      "target": "pawn",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "39-63",
+      "weight": 1.0
+    },
+    {
+      "source": "aihelperlibrary",
+      "target": "behaviortree",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "39-63",
+      "weight": 1.0
+    },
+    {
+      "source": "aihelperlibrary",
+      "target": "navigation_path",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "210-266",
+      "weight": 1.0
+    },
+    {
+      "source": "aihelperlibrary",
+      "target": "blackboardcomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "267-283",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_controller",
+      "target": "pawn",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "39-63",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_controller",
+      "target": "behaviortree",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AIHelperLibrary Objects.md",
+      "source_location": "39-63",
+      "weight": 1.0
+    },
+    {
+      "source": "animationnode_twowayblend",
+      "target": "animationnode_twowayblend",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationNode_TwoWayBlend Objects.md",
+      "source_location": "1-8",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_subinstance",
+      "target": "animgraphnode_subinstance",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_SubInstance Objects.md",
+      "source_location": "1-8",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorfloor",
+      "target": "rigunit_mathvectorfloor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathVectorFloor Objects.md",
+      "source_location": "1-8",
+      "weight": 1.0
+    },
+    {
+      "source": "camerarig_crane",
+      "target": "zoneshape",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CameraRig_Crane Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasequenceplaybackobject",
+      "target": "avasequenceplayer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaSequencePlaybackObject Objects.md",
+      "source_location": "20-35",
+      "weight": 1.0
+    },
+    {
+      "source": "avasequenceplaybackobject",
+      "target": "avasequence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaSequencePlaybackObject Objects.md",
+      "source_location": "36-55",
+      "weight": 1.0
+    },
+    {
+      "source": "avasequenceplaybackobject",
+      "target": "avataghandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaSequencePlaybackObject Objects.md",
+      "source_location": "15-35",
+      "weight": 1.0
+    },
+    {
+      "source": "zoneshape",
+      "target": "zoneshapecomponent",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ZoneShape Objects.md",
+      "source_location": "128-153",
+      "weight": 1.0
+    },
+    {
+      "source": "pathfollowingcomponent",
+      "target": "ai_controller",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PathFollowingComponent Objects.md",
+      "source_location": "53-82",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "ai_resource_locking_mechanism",
+      "label": "AI Resource Locking Mechanism",
+      "nodes": [
+        "aihelperlibrary",
+        "animinstance",
+        "movement_resource_locking",
+        "ai_logic_resource_locking"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AIHelperLibrary Objects.md"
+    },
+    {
+      "id": "ai_movement_coordination_flow",
+      "label": "AI Movement Coordination Flow",
+      "nodes": [
+        "aihelperlibrary",
+        "ai_controller",
+        "pawn",
+        "behaviortree",
+        "navigation_path"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AIHelperLibrary Objects.md"
+    },
+    {
+      "id": "sequence_playback_system",
+      "label": "Sequence Playback System",
+      "nodes": [
+        "avasequenceplaybackobject",
+        "avasequenceplayer",
+        "avasequence",
+        "avataghandle"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaSequencePlaybackObject Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

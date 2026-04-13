@@ -1,0 +1,415 @@
+{
+  "nodes": [
+    {
+      "id": "smartobjectuserhandle_smartobjectuserhandle",
+      "label": "Smart Object User Handle",
+      "file_type": "document",
+      "source_file": "SmartObjectUserHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onpossessedpawnchanged_onpossessedpawnchanged",
+      "label": "On Possessed Pawn Changed Delegate",
+      "file_type": "document",
+      "source_file": "OnPossessedPawnChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "calibrationpointcomponent_calibrationpointcomponent",
+      "label": "Calibration Point Component",
+      "file_type": "document",
+      "source_file": "CalibrationPointComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendvertex_metasoundfrontendvertex",
+      "label": "Metasound Frontend Vertex",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendVertex Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_add_floatfloat_rigunit_add_floatfloat",
+      "label": "Rig Unit Add Float Float",
+      "file_type": "document",
+      "source_file": "RigUnit_Add_FloatFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdebuginfofadecontrol_earthdebuginfofadecontrol",
+      "label": "Earth Debug Info Fade Control",
+      "file_type": "document",
+      "source_file": "EarthDebugInfoFadeControl Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorutilitybutton_editorutilitybutton",
+      "label": "Editor Utility Button",
+      "file_type": "document",
+      "source_file": "EditorUtilityButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonrbffunction_pythonrbffunction",
+      "label": "Python RBF Function",
+      "file_type": "document",
+      "source_file": "PythonRBFFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointvalueatom_pointvalueatom",
+      "label": "Point Value Atom",
+      "file_type": "document",
+      "source_file": "PointValueAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcglandscapedata_pcglandscapedata",
+      "label": "PCG Landscape Data",
+      "file_type": "document",
+      "source_file": "PCGLandscapeData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesassettype_aesassettype",
+      "label": "Aes Asset Type",
+      "file_type": "document",
+      "source_file": "AesAssetType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aessplatmapeditorcommandparams_erase_aessplatmapeditorcommandparams_erase",
+      "label": "Aes Splat Map Editor Command Params Erase",
+      "file_type": "document",
+      "source_file": "AesSplatMapEditorCommandParams__Erase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyitemwidget_color_earthpropertyitemwidget_color",
+      "label": "Earth Property Item Widget Color",
+      "file_type": "document",
+      "source_file": "EarthPropertyItemWidget__Color Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcproomfocusparam_dcproomfocusparam",
+      "label": "DCP Room Focus Param",
+      "file_type": "document",
+      "source_file": "DCPRoomFocusParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathtransformfromsrt_rigunit_mathtransformfromsrt",
+      "label": "Rig Unit Math Transform From SRT",
+      "file_type": "document",
+      "source_file": "RigUnit__MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "massentitytestfarmplot_massentitytestfarmplot",
+      "label": "Mass Entity Test Farm Plot",
+      "file_type": "document",
+      "source_file": "MassEntityTestFarmPlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectoradd_rigunit_mathvectoradd",
+      "label": "Rig Unit Math Vector Add",
+      "file_type": "document",
+      "source_file": "RigUnit__MathVectorAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatlawofcosine_rigvmfunction_mathfloatlawofcosine",
+      "label": "Rig VM Function Math Float Law Of Cosine",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathFloatLawOfCosine Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnumberofpointssettings_pcgnumberofpointssettings",
+      "label": "PCG Number Of Points Settings",
+      "file_type": "document",
+      "source_file": "PCGNumberOfPointsSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_verletintegratevector_rigvmfunction_verletintegratevector",
+      "label": "Rig VM Function Verlet Integrate Vector",
+      "file_type": "document",
+      "source_file": "RigVMFunction_VerletIntegrateVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraplatformsetcvarcondition_niagaraplatformsetcvarcondition",
+      "label": "Niagara Platform Set CVar Condition",
+      "file_type": "document",
+      "source_file": "NiagaraPlatformSetCVarCondition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialvector_radialvector",
+      "label": "Radial Vector",
+      "file_type": "document",
+      "source_file": "RadialVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "calibrationpointvisualization_type",
+      "label": "Calibration Point Visualization",
+      "file_type": "document",
+      "source_file": "CalibrationPointComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonrbfvalues_type",
+      "label": "Python RBF Values",
+      "file_type": "document",
+      "source_file": "PythonRBFFunction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointvalueatom_data_type",
+      "label": "Point Value Atom Data",
+      "file_type": "document",
+      "source_file": "PointValueAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapeproxy_type",
+      "label": "Landscape Proxy",
+      "file_type": "document",
+      "source_file": "PCGLandscapeData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpfocuscameraparams_type",
+      "label": "DCP Focus Camera Params",
+      "file_type": "document",
+      "source_file": "DCPRoomFocusParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "calibrationpointcomponent_calibrationpointcomponent",
+      "target": "calibrationpointvisualization_type",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CalibrationPointComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pythonrbffunction_pythonrbffunction",
+      "target": "pythonrbfvalues_type",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PythonRBFFunction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointvalueatom_pointvalueatom",
+      "target": "pointvalueatom_data_type",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PointValueAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcglandscapedata_pcglandscapedata",
+      "target": "landscapeproxy_type",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGLandscapeData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dcproomfocusparam_dcproomfocusparam",
+      "target": "dcpfocuscameraparams_type",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DCPRoomFocusParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_add_floatfloat_rigunit_add_floatfloat",
+      "target": "rigunit_mathvectoradd_rigunit_mathvectoradd",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_Add_FloatFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathtransformfromsrt_rigunit_mathtransformfromsrt",
+      "target": "rigvmfunction_mathfloatlawofcosine_rigvmfunction_mathfloatlawofcosine",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__MathTransformFromSRT Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthdebuginfofadecontrol_earthdebuginfofadecontrol",
+      "target": "earthpropertyitemwidget_color_earthpropertyitemwidget_color",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthDebugInfoFadeControl Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_math_operations_group",
+      "label": "Rig Math Operations",
+      "nodes": [
+        "rigunit_add_floatfloat_rigunit_add_floatfloat",
+        "rigunit_mathvectoradd_rigunit_mathvectoradd",
+        "rigunit_mathtransformfromsrt_rigunit_mathtransformfromsrt",
+        "rigvmfunction_mathfloatlawofcosine_rigvmfunction_mathfloatlawofcosine"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_Add_FloatFloat Objects.md"
+    },
+    {
+      "id": "aesworld_earth_systems_group",
+      "label": "AesWorld Earth Systems",
+      "nodes": [
+        "earthdebuginfofadecontrol_earthdebuginfofadecontrol",
+        "earthpropertyitemwidget_color_earthpropertyitemwidget_color",
+        "aesassettype_aesassettype",
+        "aessplatmapeditorcommandparams_erase_aessplatmapeditorcommandparams_erase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "EarthDebugInfoFadeControl Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

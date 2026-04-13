@@ -1,0 +1,537 @@
+{
+  "nodes": [
+    {
+      "id": "cesiumpropertytexturedescription_cesiumpropertytexturedescription",
+      "label": "CesiumPropertyTextureDescription",
+      "file_type": "document",
+      "source_file": "CesiumPropertyTextureDescription Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionspritetexturesampler_materialexpressionspritetexturesampler",
+      "label": "MaterialExpressionSpriteTextureSampler",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSpriteTextureSampler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaplayer_mediaplayer",
+      "label": "MediaPlayer",
+      "file_type": "document",
+      "source_file": "MediaPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressioncustomoutput_materialexpressioncustomoutput",
+      "label": "MaterialExpressionCustomOutput",
+      "file_type": "document",
+      "source_file": "MaterialExpressionCustomOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphrenderpassnode_moviegraphrenderpassnode",
+      "label": "MovieGraphRenderPassNode",
+      "file_type": "document",
+      "source_file": "MovieGraphRenderPassNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencerscriptingrange_sequencerscriptingrange",
+      "label": "SequencerScriptingRange",
+      "file_type": "document",
+      "source_file": "SequencerScriptingRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionskyatmospherelightilluminanceonground_materialexpressionskyatmospherelightilluminanceonground",
+      "label": "MaterialExpressionSkyAtmosphereLightIlluminanceOnGround",
+      "file_type": "document",
+      "source_file": "MaterialExpressionSkyAtmosphereLightIlluminanceOnGround Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmateriallayeroutput_materialexpressionmateriallayeroutput",
+      "label": "MaterialExpressionMaterialLayerOutput",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialLayerOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendlistbaselibrary_blendlistbaselibrary",
+      "label": "BlendListBaseLibrary",
+      "file_type": "document",
+      "source_file": "BlendListBaseLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathvectorlerp_rigunit_mathvectorlerp",
+      "label": "RigUnit_MathVectorLerp",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_transitionresult_animnode_transitionresult",
+      "label": "AnimNode_TransitionResult",
+      "file_type": "document",
+      "source_file": "AnimNode_TransitionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixeldepthoffsetmode_pixeldepthoffsetmode",
+      "label": "PixelDepthOffsetMode",
+      "file_type": "document",
+      "source_file": "PixelDepthOffsetMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinedebugsettings_moviepipelinedebugsettings",
+      "label": "MoviePipelineDebugSettings",
+      "file_type": "document",
+      "source_file": "MoviePipelineDebugSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunithierarchygetparent_rigunithierarchygetparent",
+      "label": "RigUnit_HierarchyGetParent",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyGetParent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonertexturesamplechannel_avaclonertexturesamplechannel",
+      "label": "AvaClonerTextureSampleChannel",
+      "file_type": "document",
+      "source_file": "AvaClonerTextureSampleChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "setvisibleparams_setvisibleparams",
+      "label": "SetVisibleParams",
+      "file_type": "document",
+      "source_file": "SetVisibleParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentityarray_urbanentityarray",
+      "label": "UrbanEntityArray",
+      "file_type": "document",
+      "source_file": "UrbanEntityArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "remotecontrolinstancematerial_remotecontrolinstancematerial",
+      "label": "RemoteControlInstanceMaterial",
+      "file_type": "document",
+      "source_file": "RemoteControlInstanceMaterial Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "granularsynthenvelopetype_granularsynthenvelopetype",
+      "label": "GranularSynthEnvelopeType",
+      "file_type": "document",
+      "source_file": "GranularSynthEnvelopeType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldnodefloat_fieldnodefloat",
+      "label": "FieldNodeFloat",
+      "file_type": "document",
+      "source_file": "FieldNodeFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputtriggerpulse_inputtriggerpulse",
+      "label": "InputTriggerPulse",
+      "file_type": "document",
+      "source_file": "InputTriggerPulse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "progressbar_progressbar",
+      "label": "ProgressBar",
+      "file_type": "document",
+      "source_file": "ProgressBar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_material_expression",
+      "label": "Material Expression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionCustomOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_state_machine",
+      "label": "State Machine",
+      "file_type": "document",
+      "source_file": "AnimNode_TransitionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_media_playback",
+      "label": "Media Playback",
+      "file_type": "document",
+      "source_file": "MediaPlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_render_pipeline",
+      "label": "Render Pipeline",
+      "file_type": "document",
+      "source_file": "MovieGraphRenderPassNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_deprecated_api",
+      "label": "Deprecated API",
+      "file_type": "document",
+      "source_file": "RigUnit_MathVectorLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "materialexpressionspritetexturesampler_materialexpressionspritetexturesampler",
+      "target": "concept_material_expression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSpriteTextureSampler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressioncustomoutput_materialexpressioncustomoutput",
+      "target": "concept_material_expression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionCustomOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionskyatmospherelightilluminanceonground_materialexpressionskyatmospherelightilluminanceonground",
+      "target": "concept_material_expression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionSkyAtmosphereLightIlluminanceOnGround Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionmateriallayeroutput_materialexpressionmateriallayeroutput",
+      "target": "concept_material_expression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionMaterialLayerOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_transitionresult_animnode_transitionresult",
+      "target": "concept_state_machine",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_TransitionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mediaplayer_mediaplayer",
+      "target": "concept_media_playback",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaPlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphrenderpassnode_moviegraphrenderpassnode",
+      "target": "concept_render_pipeline",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphRenderPassNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinedebugsettings_moviepipelinedebugsettings",
+      "target": "concept_render_pipeline",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineDebugSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathvectorlerp_rigunit_mathvectorlerp",
+      "target": "concept_deprecated_api",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonertexturesamplechannel_avaclonertexturesamplechannel",
+      "target": "concept_deprecated_api",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerTextureSampleChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphrenderpassnode_moviegraphrenderpassnode",
+      "target": "moviepipelinedebugsettings_moviepipelinedebugsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieGraphRenderPassNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequencerscriptingrange_sequencerscriptingrange",
+      "target": "mediaplayer_mediaplayer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SequencerScriptingRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "blendlistbaselibrary_blendlistbaselibrary",
+      "target": "animnode_transitionresult_animnode_transitionresult",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "BlendListBaseLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunithierarchygetparent_rigunithierarchygetparent",
+      "target": "rigunit_mathvectorlerp_rigunit_mathvectorlerp",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_HierarchyGetParent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionspritetexturesampler_materialexpressionspritetexturesampler",
+      "target": "pixeldepthoffsetmode_pixeldepthoffsetmode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MaterialExpressionSpriteTextureSampler Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputtriggerpulse_inputtriggerpulse",
+      "target": "progressbar_progressbar",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "InputTriggerPulse Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumpropertytexturedescription_cesiumpropertytexturedescription",
+      "target": "concept_material_expression",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CesiumPropertyTextureDescription Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fieldnodefloat_fieldnodefloat",
+      "target": "concept_render_pipeline",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "FieldNodeFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "granularsynthenvelopetype_granularsynthenvelopetype",
+      "target": "concept_media_playback",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "GranularSynthEnvelopeType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "material_expression_nodes",
+      "label": "Material Expression Nodes",
+      "nodes": [
+        "materialexpressionspritetexturesampler_materialexpressionspritetexturesampler",
+        "materialexpressioncustomoutput_materialexpressioncustomoutput",
+        "materialexpressionskyatmospherelightilluminanceonground_materialexpressionskyatmospherelightilluminanceonground",
+        "materialexpressionmateriallayeroutput_materialexpressionmateriallayeroutput"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "MaterialExpressionCustomOutput Objects.md"
+    },
+    {
+      "id": "movie_render_pipeline_system",
+      "label": "Movie Render Pipeline System",
+      "nodes": [
+        "moviegraphrenderpassnode_moviegraphrenderpassnode",
+        "moviepipelinedebugsettings_moviepipelinedebugsettings"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "MovieGraphRenderPassNode Objects.md"
+    },
+    {
+      "id": "animation_rigging_system",
+      "label": "Animation and Rigging System",
+      "nodes": [
+        "blendlistbaselibrary_blendlistbaselibrary",
+        "animnode_transitionresult_animnode_transitionresult",
+        "rigunithierarchygetparent_rigunithierarchygetparent",
+        "rigunit_mathvectorlerp_rigunit_mathvectorlerp"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BlendListBaseLibrary Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,388 @@
+{
+  "nodes": [
+    {"id": "DataflowFloatFieldOperationType", "type": "enum", "label": "DataflowFloatFieldOperationType"},
+    {"id": "GameplayAbilityTargetActor_Trace", "type": "class", "label": "GameplayAbilityTargetActor_Trace"},
+    {"id": "AimOffsetBlendSpace", "type": "class", "label": "AimOffsetBlendSpace"},
+    {"id": "AudioDeviceChangedRole", "type": "enum", "label": "AudioDeviceChangedRole"},
+    {"id": "VREditorInteractor", "type": "class", "label": "VREditorInteractor"},
+    {"id": "MetasoundFrontendClassInterface", "type": "struct", "label": "MetasoundFrontendClassInterface"},
+    {"id": "RigUnit_TransformFromControlRigSpline2", "type": "class", "label": "RigUnit_TransformFromControlRigSpline2"},
+    {"id": "ControlRigControlsProxy", "type": "class", "label": "ControlRigControlsProxy"},
+    {"id": "GeometryScript_Bake", "type": "class", "label": "GeometryScript_Bake"},
+    {"id": "TakeRecorderState", "type": "enum", "label": "TakeRecorderState"},
+    {"id": "UniqueScriptStructPtr", "type": "struct", "label": "UniqueScriptStructPtr"},
+    {"id": "SplineCurves", "type": "struct", "label": "SplineCurves"},
+    {"id": "NiagaraSystemSpawnSectionEvaluateBehavior", "type": "enum", "label": "NiagaraSystemSpawnSectionEvaluateBehavior"},
+    {"id": "InterchangePointLightNode", "type": "class", "label": "InterchangePointLightNode"},
+    {"id": "RigVMFunction_MathQuaternionRotationOrder", "type": "class", "label": "RigVMFunction_MathQuaternionRotationOrder"},
+    {"id": "OnListViewScrolledDynamic", "type": "delegate", "label": "OnListViewScrolledDynamic"},
+    {"id": "GeoReferencingEditorBPLibrary", "type": "class", "label": "GeoReferencingEditorBPLibrary"},
+    {"id": "PCGOverrideInstancedPropertyBag", "type": "struct", "label": "PCGOverrideInstancedPropertyBag"},
+    {"id": "InterchangeGLTFTranslator", "type": "class", "label": "InterchangeGLTFTranslator"},
+    {"id": "RigVMFunction_DeltaFromPreviousFloat", "type": "class", "label": "RigVMFunction_DeltaFromPreviousFloat"},
+    {"id": "DisplayClusterProjectionBlueprintAPIImpl", "type": "class", "label": "DisplayClusterProjectionBlueprintAPIImpl"},
+    {"id": "Optimus_ShaderBinding", "type": "struct", "label": "Optimus_ShaderBinding"},
+    {"id": "GameplayAbilityTargetActor", "type": "class", "label": "GameplayAbilityTargetActor"},
+    {"id": "BlendSpace", "type": "class", "label": "BlendSpace"},
+    {"id": "ViewportInteractor", "type": "class", "label": "ViewportInteractor"},
+    {"id": "RigUnit_ControlRigSplineBase", "type": "class", "label": "RigUnit_ControlRigSplineBase"},
+    {"id": "Object", "type": "class", "label": "Object"},
+    {"id": "BlueprintFunctionLibrary", "type": "class", "label": "BlueprintFunctionLibrary"},
+    {"id": "InstancedStruct", "type": "struct", "label": "InstancedStruct"},
+    {"id": "InterchangeLightNode", "type": "class", "label": "InterchangeLightNode"},
+    {"id": "MulticastDelegateBase", "type": "class", "label": "MulticastDelegateBase"},
+    {"id": "InterchangeTranslatorBase", "type": "class", "label": "InterchangeTranslatorBase"},
+    {"id": "RigVMFunction_MathBase", "type": "class", "label": "RigVMFunction_MathBase"},
+    {"id": "RigVMFunction_SimBase", "type": "class", "label": "RigVMFunction_SimBase"},
+    {"id": "EnumBase", "type": "class", "label": "EnumBase"},
+    {"id": "StructBase", "type": "class", "label": "StructBase"},
+    {"id": "GeometryCollectionPlugin", "type": "plugin", "label": "GeometryCollectionPlugin"},
+    {"id": "GameplayAbilities", "type": "plugin", "label": "GameplayAbilities"},
+    {"id": "AudioMixer", "type": "module", "label": "AudioMixer"},
+    {"id": "Engine", "type": "module", "label": "Engine"},
+    {"id": "VREditor", "type": "module", "label": "VREditor"},
+    {"id": "Metasound", "type": "plugin", "label": "Metasound"},
+    {"id": "ControlRigSpline", "type": "plugin", "label": "ControlRigSpline"},
+    {"id": "ControlRig", "type": "plugin", "label": "ControlRig"},
+    {"id": "GeometryScripting", "type": "plugin", "label": "GeometryScripting"},
+    {"id": "Takes", "type": "plugin", "label": "Takes"},
+    {"id": "Niagara", "type": "plugin", "label": "Niagara"},
+    {"id": "Interchange", "type": "plugin", "label": "Interchange"},
+    {"id": "RigVM", "type": "plugin", "label": "RigVM"},
+    {"id": "UMG", "type": "module", "label": "UMG"},
+    {"id": "GeoReferencing", "type": "plugin", "label": "GeoReferencing"},
+    {"id": "PCG", "type": "plugin", "label": "PCG"},
+    {"id": "nDisplay", "type": "plugin", "label": "nDisplay"},
+    {"id": "DeformerGraph", "type": "plugin", "label": "DeformerGraph"},
+    {"id": "float", "type": "type", "label": "float"},
+    {"id": "bool", "type": "type", "label": "bool"},
+    {"id": "int", "type": "type", "label": "int"},
+    {"id": "Name", "type": "type", "label": "Name"},
+    {"id": "Vector", "type": "type", "label": "Vector"},
+    {"id": "Transform", "type": "type", "label": "Transform"},
+    {"id": "ControlRigSpline", "type": "type", "label": "ControlRigSpline"},
+    {"id": "CollisionProfileName", "type": "type", "label": "CollisionProfileName"},
+    {"id": "StaticMeshComponent", "type": "type", "label": "StaticMeshComponent"},
+    {"id": "StaticMesh", "type": "type", "label": "StaticMesh"},
+    {"id": "DynamicMesh", "type": "type", "label": "DynamicMesh"},
+    {"id": "Texture2D", "type": "type", "label": "Texture2D"},
+    {"id": "Actor", "type": "type", "label": "Actor"},
+    {"id": "CameraComponent", "type": "type", "label": "CameraComponent"}
+  ],
+  "edges": [
+    {"from": "DataflowFloatFieldOperationType", "to": "EnumBase", "type": "inherits"},
+    {"from": "GameplayAbilityTargetActor_Trace", "to": "GameplayAbilityTargetActor", "type": "inherits"},
+    {"from": "AimOffsetBlendSpace", "to": "BlendSpace", "type": "inherits"},
+    {"from": "AudioDeviceChangedRole", "to": "EnumBase", "type": "inherits"},
+    {"from": "VREditorInteractor", "to": "ViewportInteractor", "type": "inherits"},
+    {"from": "MetasoundFrontendClassInterface", "to": "StructBase", "type": "inherits"},
+    {"from": "RigUnit_TransformFromControlRigSpline2", "to": "RigUnit_ControlRigSplineBase", "type": "inherits"},
+    {"from": "ControlRigControlsProxy", "to": "Object", "type": "inherits"},
+    {"from": "GeometryScript_Bake", "to": "BlueprintFunctionLibrary", "type": "inherits"},
+    {"from": "TakeRecorderState", "to": "EnumBase", "type": "inherits"},
+    {"from": "UniqueScriptStructPtr", "to": "InstancedStruct", "type": "inherits"},
+    {"from": "SplineCurves", "to": "StructBase", "type": "inherits"},
+    {"from": "NiagaraSystemSpawnSectionEvaluateBehavior", "to": "EnumBase", "type": "inherits"},
+    {"from": "InterchangePointLightNode", "to": "InterchangeLightNode", "type": "inherits"},
+    {"from": "RigVMFunction_MathQuaternionRotationOrder", "to": "RigVMFunction_MathBase", "type": "inherits"},
+    {"from": "OnListViewScrolledDynamic", "to": "MulticastDelegateBase", "type": "inherits"},
+    {"from": "GeoReferencingEditorBPLibrary", "to": "BlueprintFunctionLibrary", "type": "inherits"},
+    {"from": "PCGOverrideInstancedPropertyBag", "to": "StructBase", "type": "inherits"},
+    {"from": "InterchangeGLTFTranslator", "to": "InterchangeTranslatorBase", "type": "inherits"},
+    {"from": "RigVMFunction_DeltaFromPreviousFloat", "to": "RigVMFunction_SimBase", "type": "inherits"},
+    {"from": "DisplayClusterProjectionBlueprintAPIImpl", "to": "Object", "type": "inherits"},
+    {"from": "Optimus_ShaderBinding", "to": "StructBase", "type": "inherits"},
+    {"from": "DataflowFloatFieldOperationType", "to": "GeometryCollectionPlugin", "type": "belongs_to_plugin"},
+    {"from": "GameplayAbilityTargetActor_Trace", "to": "GameplayAbilities", "type": "belongs_to_plugin"},
+    {"from": "AimOffsetBlendSpace", "to": "Engine", "type": "belongs_to_module"},
+    {"from": "AudioDeviceChangedRole", "to": "AudioMixer", "type": "belongs_to_module"},
+    {"from": "VREditorInteractor", "to": "VREditor", "type": "belongs_to_module"},
+    {"from": "MetasoundFrontendClassInterface", "to": "Metasound", "type": "belongs_to_plugin"},
+    {"from": "RigUnit_TransformFromControlRigSpline2", "to": "ControlRigSpline", "type": "belongs_to_plugin"},
+    {"from": "ControlRigControlsProxy", "to": "ControlRig", "type": "belongs_to_plugin"},
+    {"from": "GeometryScript_Bake", "to": "GeometryScripting", "type": "belongs_to_plugin"},
+    {"from": "TakeRecorderState", "to": "Takes", "type": "belongs_to_plugin"},
+    {"from": "NiagaraSystemSpawnSectionEvaluateBehavior", "to": "Niagara", "type": "belongs_to_plugin"},
+    {"from": "InterchangePointLightNode", "to": "Interchange", "type": "belongs_to_plugin"},
+    {"from": "RigVMFunction_MathQuaternionRotationOrder", "to": "RigVM", "type": "belongs_to_plugin"},
+    {"from": "OnListViewScrolledDynamic", "to": "UMG", "type": "belongs_to_module"},
+    {"from": "GeoReferencingEditorBPLibrary", "to": "GeoReferencing", "type": "belongs_to_plugin"},
+    {"from": "PCGOverrideInstancedPropertyBag", "to": "PCG", "type": "belongs_to_plugin"},
+    {"from": "InterchangeGLTFTranslator", "to": "Interchange", "type": "belongs_to_plugin"},
+    {"from": "RigVMFunction_DeltaFromPreviousFloat", "to": "RigVM", "type": "belongs_to_plugin"},
+    {"from": "DisplayClusterProjectionBlueprintAPIImpl", "to": "nDisplay", "type": "belongs_to_plugin"},
+    {"from": "Optimus_ShaderBinding", "to": "DeformerGraph", "type": "belongs_to_plugin"},
+    {"from": "GameplayAbilityTargetActor_Trace", "to": "float", "type": "has_property", "label": "max_range"},
+    {"from": "GameplayAbilityTargetActor_Trace", "to": "CollisionProfileName", "type": "has_property", "label": "trace_profile"},
+    {"from": "GameplayAbilityTargetActor_Trace", "to": "bool", "type": "has_property", "label": "trace_affects_aim_pitch"},
+    {"from": "VREditorInteractor", "to": "StaticMeshComponent", "type": "has_property", "label": "hand_mesh_component"},
+    {"from": "RigUnit_TransformFromControlRigSpline2", "to": "ControlRigSpline", "type": "has_property", "label": "spline"},
+    {"from": "RigUnit_TransformFromControlRigSpline2", "to": "float", "type": "has_property", "label": "u"},
+    {"from": "RigUnit_TransformFromControlRigSpline2", "to": "Vector", "type": "has_property", "label": "primary_axis"},
+    {"from": "RigUnit_TransformFromControlRigSpline2", "to": "Vector", "type": "has_property", "label": "secondary_axis"},
+    {"from": "RigUnit_TransformFromControlRigSpline2", "to": "Transform", "type": "has_property", "label": "transform"},
+    {"from": "ControlRigControlsProxy", "to": "Name", "type": "has_property", "label": "name"},
+    {"from": "RigVMFunction_DeltaFromPreviousFloat", "to": "float", "type": "has_property", "label": "value"},
+    {"from": "RigVMFunction_DeltaFromPreviousFloat", "to": "float", "type": "has_property", "label": "delta"},
+    {"from": "RigVMFunction_DeltaFromPreviousFloat", "to": "float", "type": "has_property", "label": "previous_value"},
+    {"from": "GeometryScript_Bake", "to": "DynamicMesh", "type": "returns"},
+    {"from": "GeometryScript_Bake", "to": "Texture2D", "type": "returns"},
+    {"from": "GeoReferencingEditorBPLibrary", "to": "Actor", "type": "accepts_param"},
+    {"from": "GeoReferencingEditorBPLibrary", "to": "Vector", "type": "accepts_param"},
+    {"from": "DisplayClusterProjectionBlueprintAPIImpl", "to": "CameraComponent", "type": "accepts_param"}
+  ],
+  "hyperedges": [
+    {
+      "id": "he_enum_DataflowFloatFieldOperationType_values",
+      "type": "enum_values",
+      "nodes": ["DATAFLOW_FLOAT_FIELD_OPERATION_TYPE_MULTIPLY", "DATAFLOW_FLOAT_FIELD_FALLOFF_TYPE_DIVIDE", "DATAFLOW_FLOAT_FIELD_FALLOFF_TYPE_ADD", "DATAFLOW_FLOAT_FIELD_FALLOFF_TYPE_SUBSTRACT", "DATAFLOW_FLOAT_FIELD_FALLOFF_TYPE_MIN", "DATAFLOW_FLOAT_FIELD_FALLOFF_TYPE_MAX"],
+      "label": "DataflowFloatFieldOperationType enum values",
+      "metadata": {"operation_type": "field_operations", "plugin": "GeometryCollectionPlugin"}
+    },
+    {
+      "id": "he_enum_AudioDeviceChangedRole_values",
+      "type": "enum_values",
+      "nodes": ["INVALID", "CONSOLE", "MULTIMEDIA", "COMMUNICATIONS"],
+      "label": "AudioDeviceChangedRole enum values",
+      "metadata": {"module": "AudioMixer"}
+    },
+    {
+      "id": "he_enum_TakeRecorderState_values",
+      "type": "enum_values",
+      "nodes": ["COUNTING_DOWN", "PRE_RECORD", "TICKING_AFTER_PRE", "STARTED", "STOPPED", "CANCELLED"],
+      "label": "TakeRecorderState enum values",
+      "metadata": {"plugin": "Takes"}
+    },
+    {
+      "id": "he_enum_NiagaraSystemSpawnSectionEvaluateBehavior_values",
+      "type": "enum_values",
+      "nodes": ["ACTIVATE_IF_INACTIVE", "NONE"],
+      "label": "NiagaraSystemSpawnSectionEvaluateBehavior enum values",
+      "metadata": {"plugin": "Niagara"}
+    },
+    {
+      "id": "he_class_GameplayAbilityTargetActor_Trace_properties",
+      "type": "class_properties",
+      "nodes": ["max_range", "trace_profile", "trace_affects_aim_pitch", "debug", "destroy_on_confirmation", "filter", "reticle_class", "reticle_params", "should_produce_target_data_on_server", "source_actor", "start_location"],
+      "label": "GameplayAbilityTargetActor_Trace key properties",
+      "metadata": {"inherited_from": "GameplayAbilityTargetActor", "plugin": "GameplayAbilities"}
+    },
+    {
+      "id": "he_class_VREditorInteractor_methods",
+      "type": "class_methods",
+      "nodes": ["update_hand_mesh_relative_transform", "try_override_controller_type", "setup_component", "set_force_show_laser", "set_force_laser_color", "set_controller_type", "set_controller_hand_side", "replace_hand_mesh_component", "is_touching_trackpad", "is_hovering_over_ui", "is_clicking_on_ui", "init", "get_trackpad_position", "get_teleport_actor", "get_slide_delta", "get_select_and_move_trigger_value", "get_motion_controller_component", "get_last_trackpad_position", "get_laser_start", "get_laser_end", "get_hmd_device_type", "get_controller_type", "get_controller_side", "get_controller_hand_side"],
+      "label": "VREditorInteractor methods",
+      "metadata": {"module": "VREditor"}
+    },
+    {
+      "id": "he_class_GeometryScript_Bake_methods",
+      "type": "class_methods",
+      "nodes": ["make_bake_type_vertex_color", "make_bake_type_uv_shell", "make_bake_type_texture", "make_bake_type_tangent_normal", "make_bake_type_position", "make_bake_type_object_normal", "make_bake_type_multi_texture", "make_bake_type_material_id", "make_bake_type_face_normal", "make_bake_type_curvature", "make_bake_type_constant", "make_bake_type_bent_normal", "make_bake_type_ambient_occlusion", "convert_bake_resolution_to_int", "bake_vertex", "bake_texture_from_render_captures", "bake_texture"],
+      "label": "GeometryScript_Bake methods",
+      "metadata": {"plugin": "GeometryScripting", "category": "mesh_bake_functions"}
+    },
+    {
+      "id": "he_struct_MetasoundFrontendClassInterface_properties",
+      "type": "struct_properties",
+      "nodes": ["environment", "inputs", "outputs"],
+      "label": "MetasoundFrontendClassInterface properties",
+      "metadata": {"plugin": "Metasound"}
+    },
+    {
+      "id": "he_struct_RigUnit_TransformFromControlRigSpline2_properties",
+      "type": "struct_properties",
+      "nodes": ["spline", "u", "primary_axis", "secondary_axis", "transform"],
+      "label": "RigUnit_TransformFromControlRigSpline2 properties",
+      "metadata": {"plugin": "ControlRigSpline"}
+    },
+    {
+      "id": "he_struct_RigVMFunction_DeltaFromPreviousFloat_properties",
+      "type": "struct_properties",
+      "nodes": ["value", "delta", "previous_value"],
+      "label": "RigVMFunction_DeltaFromPreviousFloat properties",
+      "metadata": {"plugin": "RigVM"}
+    },
+    {
+      "id": "he_struct_PCgOverrideInstancedPropertyBag_properties",
+      "type": "struct_properties",
+      "nodes": ["parameters", "properties_i_ds_overridden"],
+      "label": "PCGOverrideInstancedPropertyBag properties",
+      "metadata": {"plugin": "PCG"}
+    },
+    {
+      "id": "he_struct_Optimus_ShaderBinding_properties",
+      "type": "struct_properties",
+      "nodes": ["data_type", "name"],
+      "label": "Optimus_ShaderBinding properties",
+      "metadata": {"plugin": "DeformerGraph"}
+    },
+    {
+      "id": "he_class_AimOffsetBlendSpace_properties",
+      "type": "class_properties",
+      "nodes": ["allow_marker_based_sync", "allow_mesh_space_blending", "analysis_properties", "axis_to_scale_animation", "blend_parameters", "interpolate_using_grid", "interpolation_param", "loop", "manual_per_bone_overrides", "meta_data", "notify_trigger_mode", "parent_asset", "per_bone_blend_mode", "per_bone_blend_profile", "preferred_triangulation_direction", "preview_base_pose", "preview_pose_asset", "sample_data", "skeleton", "target_weight_interpolation_ease_in_out", "target_weight_interpolation_speed_per_sec", "thumbnail_info"],
+      "label": "AimOffsetBlendSpace properties",
+      "metadata": {"module": "Engine", "category": "animation"}
+    },
+    {
+      "id": "he_class_InterchangePointLightNode_methods",
+      "type": "class_methods",
+      "nodes": ["set_custom_use_inverse_squared_falloff", "set_custom_light_falloff_exponent", "get_custom_use_inverse_squared_falloff", "get_custom_light_falloff_exponent"],
+      "label": "InterchangePointLightNode methods",
+      "metadata": {"plugin": "Interchange"}
+    },
+    {
+      "id": "he_class_GeoReferencingEditorBPLibrary_methods",
+      "type": "class_methods",
+      "nodes": ["line_trace_viewport", "line_trace", "get_viewport_cursor_location", "get_viewport_cursor_information"],
+      "label": "GeoReferencingEditorBPLibrary methods",
+      "metadata": {"plugin": "GeoReferencing"}
+    },
+    {
+      "id": "he_class_DisplayClusterProjectionBlueprintAPIImpl_methods",
+      "type": "class_methods",
+      "nodes": ["camera_policy_set_camera"],
+      "label": "DisplayClusterProjectionBlueprintAPIImpl methods",
+      "metadata": {"plugin": "nDisplay"}
+    },
+    {
+      "id": "he_plugin_GeometryCollectionPlugin_classes",
+      "type": "plugin_classes",
+      "nodes": ["DataflowFloatFieldOperationType"],
+      "label": "GeometryCollectionPlugin classes",
+      "metadata": {"module": "GeometryCollectionNodes"}
+    },
+    {
+      "id": "he_plugin_GameplayAbilities_classes",
+      "type": "plugin_classes",
+      "nodes": ["GameplayAbilityTargetActor_Trace"],
+      "label": "GameplayAbilities plugin classes"
+    },
+    {
+      "id": "he_plugin_Metasound_classes",
+      "type": "plugin_classes",
+      "nodes": ["MetasoundFrontendClassInterface"],
+      "label": "Metasound plugin classes",
+      "metadata": {"module": "MetasoundFrontend"}
+    },
+    {
+      "id": "he_plugin_ControlRigSpline_classes",
+      "type": "plugin_classes",
+      "nodes": ["RigUnit_TransformFromControlRigSpline2"],
+      "label": "ControlRigSpline plugin classes"
+    },
+    {
+      "id": "he_plugin_ControlRig_classes",
+      "type": "plugin_classes",
+      "nodes": ["ControlRigControlsProxy"],
+      "label": "ControlRig plugin classes",
+      "metadata": {"module": "ControlRigEditor"}
+    },
+    {
+      "id": "he_plugin_GeometryScripting_classes",
+      "type": "plugin_classes",
+      "nodes": ["GeometryScript_Bake"],
+      "label": "GeometryScripting plugin classes",
+      "metadata": {"module": "GeometryScriptingCore"}
+    },
+    {
+      "id": "he_plugin_Takes_classes",
+      "type": "plugin_classes",
+      "nodes": ["TakeRecorderState"],
+      "label": "Takes plugin classes",
+      "metadata": {"module": "TakeRecorder"}
+    },
+    {
+      "id": "he_plugin_Niagara_classes",
+      "type": "plugin_classes",
+      "nodes": ["NiagaraSystemSpawnSectionEvaluateBehavior"],
+      "label": "Niagara plugin classes"
+    },
+    {
+      "id": "he_plugin_Interchange_classes",
+      "type": "plugin_classes",
+      "nodes": ["InterchangePointLightNode", "InterchangeGLTFTranslator"],
+      "label": "Interchange plugin classes"
+    },
+    {
+      "id": "he_plugin_RigVM_classes",
+      "type": "plugin_classes",
+      "nodes": ["RigVMFunction_MathQuaternionRotationOrder", "RigVMFunction_DeltaFromPreviousFloat"],
+      "label": "RigVM plugin classes"
+    },
+    {
+      "id": "he_plugin_PCG_classes",
+      "type": "plugin_classes",
+      "nodes": ["PCGOverrideInstancedPropertyBag"],
+      "label": "PCG plugin classes"
+    },
+    {
+      "id": "he_plugin_nDisplay_classes",
+      "type": "plugin_classes",
+      "nodes": ["DisplayClusterProjectionBlueprintAPIImpl"],
+      "label": "nDisplay plugin classes",
+      "metadata": {"module": "DisplayClusterProjection"}
+    },
+    {
+      "id": "he_plugin_DeformerGraph_classes",
+      "type": "plugin_classes",
+      "nodes": ["Optimus_ShaderBinding"],
+      "label": "DeformerGraph plugin classes",
+      "metadata": {"module": "OptimusCore"}
+    },
+    {
+      "id": "he_module_Engine_classes",
+      "type": "module_classes",
+      "nodes": ["AimOffsetBlendSpace", "SplineCurves"],
+      "label": "Engine module classes"
+    },
+    {
+      "id": "he_module_AudioMixer_classes",
+      "type": "module_classes",
+      "nodes": ["AudioDeviceChangedRole"],
+      "label": "AudioMixer module classes"
+    },
+    {
+      "id": "he_module_VREditor_classes",
+      "type": "module_classes",
+      "nodes": ["VREditorInteractor"],
+      "label": "VREditor module classes"
+    },
+    {
+      "id": "he_module_UMG_classes",
+      "type": "module_classes",
+      "nodes": ["OnListViewScrolledDynamic"],
+      "label": "UMG module classes"
+    },
+    {
+      "id": "he_deprecated_UniqueScriptStructPtr",
+      "type": "deprecated_type",
+      "nodes": ["UniqueScriptStructPtr", "InstancedStruct"],
+      "label": "UniqueScriptStructPtr deprecated in favor of InstancedStruct",
+      "metadata": {"deprecated": true, "replacement": "InstancedStruct"}
+    },
+    {
+      "id": "he_inheritance_enums",
+      "type": "inheritance_group",
+      "nodes": ["DataflowFloatFieldOperationType", "AudioDeviceChangedRole", "TakeRecorderState", "NiagaraSystemSpawnSectionEvaluateBehavior"],
+      "label": "Enums inheriting from EnumBase"
+    },
+    {
+      "id": "he_inheritance_structs",
+      "type": "inheritance_group",
+      "nodes": ["MetasoundFrontendClassInterface", "SplineCurves", "PCGOverrideInstancedPropertyBag", "Optimus_ShaderBinding"],
+      "label": "Structs inheriting from StructBase"
+    },
+    {
+      "id": "he_inheritance_blueprint_function_libraries",
+      "type": "inheritance_group",
+      "nodes": ["GeometryScript_Bake", "GeoReferencingEditorBPLibrary"],
+      "label": "Classes inheriting from BlueprintFunctionLibrary"
+    },
+    {
+      "id": "he_inheritance_objects",
+      "type": "inheritance_group",
+      "nodes": ["ControlRigControlsProxy", "DisplayClusterProjectionBlueprintAPIImpl"],
+      "label": "Classes inheriting from Object"
+    }
+  ]
+}

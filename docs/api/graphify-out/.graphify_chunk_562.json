@@ -1,0 +1,1544 @@
+{
+  "nodes": [
+    {
+      "id": "DCPAssetListParam",
+      "type": "class",
+      "label": "DCPAssetListParam",
+      "metadata": {
+        "base_class": "StructBase",
+        "module": "BimAssetLoader",
+        "plugin": "WdpAssetLoader",
+        "file": "DCPAssetData.h",
+        "description": "DCPAsset List Param"
+      }
+    },
+    {
+      "id": "ThumbnailLabelType_BlueprintType",
+      "type": "enum",
+      "label": "ThumbnailLabelType_BlueprintType",
+      "metadata": {
+        "base_class": "EnumBase",
+        "module": "UMGEditor",
+        "file": "AssetThumbnailWidget.h",
+        "description": "EThumbnail Label Type Blueprint Type"
+      }
+    },
+    {
+      "id": "ConstrainComponentPropName",
+      "type": "class",
+      "label": "ConstrainComponentPropName",
+      "metadata": {
+        "base_class": "StructBase",
+        "module": "Engine",
+        "file": "EngineTypes.h",
+        "description": "Struct used to specify the property name of the component to constrain"
+      }
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression",
+      "metadata": {
+        "base_class": "Object",
+        "module": "Engine",
+        "file": "MaterialExpression.h",
+        "description": "Material Expression"
+      }
+    },
+    {
+      "id": "SetSceneStyleAPI",
+      "type": "class",
+      "label": "SetSceneStyleAPI",
+      "metadata": {
+        "base_class": "ApiClassBase",
+        "module": "CoveringAPIDefine",
+        "plugin": "CoveringAPI",
+        "file": "SetSceneStyleAPI.h",
+        "description": "Set Scene Style API"
+      }
+    },
+    {
+      "id": "RigVMFunction_StringBase",
+      "type": "class",
+      "label": "RigVMFunction_StringBase",
+      "metadata": {
+        "base_class": "RigVMStruct",
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_String.h",
+        "description": "Rig VMFunction String Base"
+      }
+    },
+    {
+      "id": "SmartObjectPersistentCollection",
+      "type": "class",
+      "label": "SmartObjectPersistentCollection",
+      "metadata": {
+        "base_class": "Actor",
+        "module": "SmartObjectsModule",
+        "plugin": "SmartObjects",
+        "file": "SmartObjectPersistentCollection.h",
+        "description": "Actor holding smart object persistent data"
+      }
+    },
+    {
+      "id": "RigUnit_HierarchyAddControlTransform",
+      "type": "class",
+      "label": "RigUnit_HierarchyAddControlTransform",
+      "metadata": {
+        "base_class": "RigUnit_HierarchyAddControlElement",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_DynamicHierarchy.h",
+        "description": "Adds a new control to the hierarchy"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathVectorFromDouble",
+      "type": "class",
+      "label": "RigVMFunction_MathVectorFromDouble",
+      "metadata": {
+        "base_class": "RigVMFunction_MathVectorBase",
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_MathVector.h",
+        "description": "Makes a vector from a single double"
+      }
+    },
+    {
+      "id": "WidgetGeometryMode",
+      "type": "enum",
+      "label": "WidgetGeometryMode",
+      "metadata": {
+        "base_class": "EnumBase",
+        "module": "UMG",
+        "file": "WidgetComponent.h",
+        "description": "EWidget Geometry Mode"
+      }
+    },
+    {
+      "id": "AssetTools",
+      "type": "class",
+      "label": "AssetTools",
+      "metadata": {
+        "base_class": "Interface",
+        "module": "AssetTools",
+        "file": "IAssetTools.h",
+        "description": "Asset Tools"
+      }
+    },
+    {
+      "id": "MathRBFInterpolateQuatFloat_Target",
+      "type": "class",
+      "label": "MathRBFInterpolateQuatFloat_Target",
+      "metadata": {
+        "base_class": "StructBase",
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "file": "RigVMFunction_MathRBFInterpolate.h",
+        "description": "Quat -> T"
+      }
+    },
+    {
+      "id": "LandscapeSplineMeshesActor",
+      "type": "class",
+      "label": "LandscapeSplineMeshesActor",
+      "metadata": {
+        "base_class": "PartitionActor",
+        "module": "Landscape",
+        "file": "LandscapeSplineMeshesActor.h",
+        "description": "Optimization actor for streaming landscape spline static meshes"
+      }
+    },
+    {
+      "id": "GeometryScriptBooleanOperation",
+      "type": "enum",
+      "label": "GeometryScriptBooleanOperation",
+      "metadata": {
+        "base_class": "EnumBase",
+        "module": "GeometryScriptingCore",
+        "plugin": "GeometryScripting",
+        "file": "MeshBooleanFunctions.h",
+        "description": "EGeometry Script Boolean Operation"
+      }
+    },
+    {
+      "id": "MaterialExpressionShaderStageSwitch",
+      "type": "class",
+      "label": "MaterialExpressionShaderStageSwitch",
+      "metadata": {
+        "base_class": "MaterialExpression",
+        "module": "Engine",
+        "file": "MaterialExpressionShaderStageSwitch.h",
+        "description": "Material Expression Shader Stage Switch"
+      }
+    },
+    {
+      "id": "RigUnit_MathVectorRound",
+      "type": "class",
+      "label": "RigUnit_MathVectorRound",
+      "metadata": {
+        "base_class": "RigVMFunction_MathVectorRound",
+        "module": "RigVM",
+        "plugin": "RigVM",
+        "deprecated": true,
+        "description": "deprecated: 'RigUnit_MathVectorRound' was renamed to 'RigVMFunction_MathVectorRound'"
+      }
+    },
+    {
+      "id": "PythonRBFTarget",
+      "type": "class",
+      "label": "PythonRBFTarget",
+      "metadata": {
+        "base_class": "Object",
+        "module": "TAPython",
+        "plugin": "TAPython",
+        "file": "PythonRBFLib.h",
+        "description": "Python RBFTarget"
+      }
+    },
+    {
+      "id": "AesRenderResourceBatchCounterType",
+      "type": "enum",
+      "label": "AesRenderResourceBatchCounterType",
+      "metadata": {
+        "base_class": "EnumBase",
+        "module": "AesRenderResource",
+        "plugin": "AesWorld",
+        "file": "AesRenderResourceBatchCounter.h",
+        "description": "EAes Render Resource Batch Counter Type"
+      }
+    },
+    {
+      "id": "RigUnit_AnimEasingType",
+      "type": "class",
+      "label": "RigUnit_AnimEasingType",
+      "metadata": {
+        "base_class": "RigVMFunction_AnimEasingType",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "deprecated": true,
+        "description": "deprecated: 'RigUnit_AnimEasingType' was renamed to 'RigVMFunction_AnimEasingType'"
+      }
+    },
+    {
+      "id": "RigUnit_TwoBoneIKFK",
+      "type": "class",
+      "label": "RigUnit_TwoBoneIKFK",
+      "metadata": {
+        "base_class": "RigUnitMutable",
+        "module": "ControlRig",
+        "plugin": "ControlRig",
+        "file": "RigUnit_TwoBoneIKFK.h",
+        "description": "Rig Unit Two Bone IKFK"
+      }
+    },
+    {
+      "id": "SubmixEffectStereoToQuadSettings",
+      "type": "class",
+      "label": "SubmixEffectStereoToQuadSettings",
+      "metadata": {
+        "base_class": "StructBase",
+        "module": "Synthesis",
+        "plugin": "Synthesis",
+        "file": "SubmixEffectStereoToQuad.h",
+        "description": "Submix Effect Stereo to Quad Settings"
+      }
+    },
+    {
+      "id": "EarthTerraformingSplineFragment",
+      "type": "class",
+      "label": "EarthTerraformingSplineFragment",
+      "metadata": {
+        "base_class": "EarthEntityFragment",
+        "module": "EarthPrefab",
+        "plugin": "AesWorld",
+        "file": "EarthTerraformingFragment.h",
+        "description": "定义基于样条线的地形改造数据片段的结构体"
+      }
+    },
+    {
+      "id": "asset_name",
+      "type": "property",
+      "label": "asset_name",
+      "metadata": {
+        "data_type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "asset_path",
+      "type": "property",
+      "label": "asset_path",
+      "metadata": {
+        "data_type": "str",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "component_name",
+      "type": "property",
+      "label": "component_name",
+      "metadata": {
+        "data_type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "desc",
+      "type": "property",
+      "label": "desc",
+      "metadata": {
+        "data_type": "str",
+        "access": "Read-Write",
+        "description": "A description that level designers can add (shows in the material editor UI)"
+      }
+    },
+    {
+      "id": "material_expression_editor_x",
+      "type": "property",
+      "label": "material_expression_editor_x",
+      "metadata": {
+        "data_type": "int32",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "material_expression_editor_y",
+      "type": "property",
+      "label": "material_expression_editor_y",
+      "metadata": {
+        "data_type": "int32",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "smart_object_container",
+      "type": "property",
+      "label": "smart_object_container",
+      "metadata": {
+        "data_type": "SmartObjectContainer",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "execute_context",
+      "type": "property",
+      "label": "execute_context",
+      "metadata": {
+        "data_type": "ControlRigExecuteContext",
+        "access": "Read-Write",
+        "description": "This property is used to chain multiple mutable units together"
+      }
+    },
+    {
+      "id": "initial_value",
+      "type": "property",
+      "label": "initial_value",
+      "metadata": {
+        "data_type": "Transform",
+        "access": "Read-Write",
+        "description": "The initial value of the new control"
+      }
+    },
+    {
+      "id": "item",
+      "type": "property",
+      "label": "item",
+      "metadata": {
+        "data_type": "RigElementKey",
+        "access": "Read-Write",
+        "description": "The resulting item"
+      }
+    },
+    {
+      "id": "name",
+      "type": "property",
+      "label": "name",
+      "metadata": {
+        "data_type": "Name",
+        "access": "Read-Write",
+        "description": "The name of the new element to add"
+      }
+    },
+    {
+      "id": "parent",
+      "type": "property",
+      "label": "parent",
+      "metadata": {
+        "data_type": "RigElementKey",
+        "access": "Read-Write",
+        "description": "The parent of the new element to add"
+      }
+    },
+    {
+      "id": "result",
+      "type": "property",
+      "label": "result",
+      "metadata": {
+        "data_type": "Vector",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "value",
+      "type": "property",
+      "label": "value",
+      "metadata": {
+        "data_type": "double",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "target",
+      "type": "property",
+      "label": "target",
+      "metadata": {
+        "data_type": "Quat",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "static_mesh_components",
+      "type": "property",
+      "label": "static_mesh_components",
+      "metadata": {
+        "data_type": "Array[StaticMeshComponent]",
+        "access": "Read-Only"
+      }
+    },
+    {
+      "id": "apply_custom_curve",
+      "type": "property",
+      "label": "apply_custom_curve",
+      "metadata": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "Whether we want to apply an additional custom curve when activating this target. Ignored if the solver type is Interpolative."
+      }
+    },
+    {
+      "id": "custom_curve",
+      "type": "property",
+      "label": "custom_curve",
+      "metadata": {
+        "data_type": "RichCurve",
+        "access": "Read-Write",
+        "description": "Custom curve to apply to activation of this target, if bApplyCustomCurve is true. Ignored if the solver type is Interpolative."
+      }
+    },
+    {
+      "id": "scale_factor",
+      "type": "property",
+      "label": "scale_factor",
+      "metadata": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "How large the influence of this target"
+      }
+    },
+    {
+      "id": "end_effector",
+      "type": "property",
+      "label": "end_effector",
+      "metadata": {
+        "data_type": "Transform",
+        "access": "Read-Write",
+        "description": "Transform to use as the end effector of the IK system"
+      }
+    },
+    {
+      "id": "end_joint",
+      "type": "property",
+      "label": "end_joint",
+      "metadata": {
+        "data_type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "ik_blend",
+      "type": "property",
+      "label": "ik_blend",
+      "metadata": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "Blend between 0.0 (FK) and 1.0 (IK)solutions"
+      }
+    },
+    {
+      "id": "pole_target",
+      "type": "property",
+      "label": "pole_target",
+      "metadata": {
+        "data_type": "Vector",
+        "access": "Read-Write",
+        "description": "Transform to use as the pole target(specifies the plane of solution)"
+      }
+    },
+    {
+      "id": "spin",
+      "type": "property",
+      "label": "spin",
+      "metadata": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "Amount of twist to apply to the solution plane(Additive after application of Pole Target motion)"
+      }
+    },
+    {
+      "id": "start_joint",
+      "type": "property",
+      "label": "start_joint",
+      "metadata": {
+        "data_type": "Name",
+        "access": "Read-Write"
+      }
+    },
+    {
+      "id": "flip_channels",
+      "type": "property",
+      "label": "flip_channels",
+      "metadata": {
+        "data_type": "bool",
+        "access": "Read-Write",
+        "description": "Whether or not to flip the left and right input channels when sending to the rear channel. This can be useful to have a stereo field when hearing audio to the left and right in surround output configuration."
+      }
+    },
+    {
+      "id": "rear_channel_gain",
+      "type": "property",
+      "label": "rear_channel_gain",
+      "metadata": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "The gain (in decibels) of the rear channels"
+      }
+    },
+    {
+      "id": "spline_width",
+      "type": "property",
+      "label": "spline_width",
+      "metadata": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "地形改造样条线默认宽度"
+      }
+    },
+    {
+      "id": "offset_z",
+      "type": "property",
+      "label": "offset_z",
+      "metadata": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "轮廓线点位在Z轴上的偏移值"
+      }
+    },
+    {
+      "id": "edge_width",
+      "type": "property",
+      "label": "edge_width",
+      "metadata": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "地形改造边缘宽度"
+      }
+    },
+    {
+      "id": "depth",
+      "type": "property",
+      "label": "depth",
+      "metadata": {
+        "data_type": "float",
+        "access": "Read-Write",
+        "description": "地形改造深度"
+      }
+    },
+    {
+      "id": "surface_widths",
+      "type": "property",
+      "label": "surface_widths",
+      "metadata": {
+        "data_type": "Array[float]",
+        "access": "Read-Write",
+        "description": "逐点位表面宽度数组（对应样条线每个点）"
+      }
+    },
+    {
+      "id": "CLASS_NAME",
+      "type": "enum_value",
+      "label": "CLASS_NAME",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "ASSET_NAME",
+      "type": "enum_value",
+      "label": "ASSET_NAME",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "NO_LABEL",
+      "type": "enum_value",
+      "label": "NO_LABEL",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "PLANE",
+      "type": "enum_value",
+      "label": "PLANE",
+      "metadata": {
+        "value": 0,
+        "description": "The widget is mapped onto a plane"
+      }
+    },
+    {
+      "id": "CYLINDER",
+      "type": "enum_value",
+      "label": "CYLINDER",
+      "metadata": {
+        "value": 1,
+        "description": "The widget is mapped onto a cylinder"
+      }
+    },
+    {
+      "id": "UNION",
+      "type": "enum_value",
+      "label": "UNION",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "INTERSECTION",
+      "type": "enum_value",
+      "label": "INTERSECTION",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "SUBTRACT",
+      "type": "enum_value",
+      "label": "SUBTRACT",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "BATCH_AMOUNT",
+      "type": "enum_value",
+      "label": "BATCH_AMOUNT",
+      "metadata": {
+        "value": 0
+      }
+    },
+    {
+      "id": "INSTANCE_AMOUNT",
+      "type": "enum_value",
+      "label": "INSTANCE_AMOUNT",
+      "metadata": {
+        "value": 1
+      }
+    },
+    {
+      "id": "TIME_AMOUNT",
+      "type": "enum_value",
+      "label": "TIME_AMOUNT",
+      "metadata": {
+        "value": 2
+      }
+    },
+    {
+      "id": "set_scene_style",
+      "type": "method",
+      "label": "set_scene_style",
+      "metadata": {
+        "return_type": "Optional[ResultBase]",
+        "parameters": ["start_set_scene_style_params"]
+      }
+    },
+    {
+      "id": "rename_referencing_soft_object_paths",
+      "type": "method",
+      "label": "rename_referencing_soft_object_paths",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["packages_to_check", "asset_redirector_map"],
+        "description": "Function that renames all FSoftObjectPath object with the old asset path to the new one"
+      }
+    },
+    {
+      "id": "rename_assets_with_dialog",
+      "type": "method",
+      "label": "rename_assets_with_dialog",
+      "metadata": {
+        "return_type": "AssetRenameResult",
+        "parameters": ["assets_and_names", "auto_checkout"],
+        "description": "Renames assets using the specified names"
+      }
+    },
+    {
+      "id": "rename_assets",
+      "type": "method",
+      "label": "rename_assets",
+      "metadata": {
+        "return_type": "bool",
+        "parameters": ["assets_and_names"],
+        "description": "Renames assets using the specified names"
+      }
+    },
+    {
+      "id": "open_editor_for_assets",
+      "type": "method",
+      "label": "open_editor_for_assets",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["assets"],
+        "description": "Opens editor for assets",
+        "deprecated": true
+      }
+    },
+    {
+      "id": "migrate_packages",
+      "type": "method",
+      "label": "migrate_packages",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["package_names_to_migrate", "destination_path", "options"],
+        "description": "Migrate packages and dependencies to another folder"
+      }
+    },
+    {
+      "id": "import_asset_tasks",
+      "type": "method",
+      "label": "import_asset_tasks",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["import_tasks"],
+        "description": "Imports assets using tasks specified"
+      }
+    },
+    {
+      "id": "import_assets_with_dialog",
+      "type": "method",
+      "label": "import_assets_with_dialog",
+      "metadata": {
+        "return_type": "Array[Object]",
+        "parameters": ["destination_path"],
+        "description": "Opens a file open dialog to choose files to import to the destination path"
+      }
+    },
+    {
+      "id": "import_assets_automated",
+      "type": "method",
+      "label": "import_assets_automated",
+      "metadata": {
+        "return_type": "Array[Object]",
+        "parameters": ["import_data"],
+        "description": "Imports assets using data specified completely up front"
+      }
+    },
+    {
+      "id": "find_soft_references_to_object",
+      "type": "method",
+      "label": "find_soft_references_to_object",
+      "metadata": {
+        "return_type": "Array[Object]",
+        "parameters": ["target_object"],
+        "description": "Returns list of objects that soft reference the given soft object path"
+      }
+    },
+    {
+      "id": "export_assets_with_dialog",
+      "type": "method",
+      "label": "export_assets_with_dialog",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["assets_to_export", "prompt_for_individual_filenames"],
+        "description": "Exports the specified objects to file"
+      }
+    },
+    {
+      "id": "export_assets",
+      "type": "method",
+      "label": "export_assets",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["assets_to_export", "export_path"],
+        "description": "Exports the specified objects to file"
+      }
+    },
+    {
+      "id": "duplicate_asset_with_dialog_and_title",
+      "type": "method",
+      "label": "duplicate_asset_with_dialog_and_title",
+      "metadata": {
+        "return_type": "Object",
+        "parameters": ["asset_name", "package_path", "original_object", "dialog_title"],
+        "description": "Opens an asset picker dialog and creates an asset with the specified name and path"
+      }
+    },
+    {
+      "id": "duplicate_asset_with_dialog",
+      "type": "method",
+      "label": "duplicate_asset_with_dialog",
+      "metadata": {
+        "return_type": "Object",
+        "parameters": ["asset_name", "package_path", "original_object"],
+        "description": "Opens an asset picker dialog and creates an asset with the specified name and path"
+      }
+    },
+    {
+      "id": "duplicate_asset",
+      "type": "method",
+      "label": "duplicate_asset",
+      "metadata": {
+        "return_type": "Object",
+        "parameters": ["asset_name", "package_path", "original_object"],
+        "description": "Creates an asset with the specified name and path"
+      }
+    },
+    {
+      "id": "diff_assets",
+      "type": "method",
+      "label": "diff_assets",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["old_asset", "new_asset", "old_revision", "new_revision"],
+        "description": "Try and diff two assets using class-specific tool"
+      }
+    },
+    {
+      "id": "diff_against_depot",
+      "type": "method",
+      "label": "diff_against_depot",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["object", "package_path", "package_name"],
+        "description": "Try to diff the local version of an asset against the latest one from the depot"
+      }
+    },
+    {
+      "id": "create_unique_asset_name",
+      "type": "method",
+      "label": "create_unique_asset_name",
+      "metadata": {
+        "return_type": "Tuple[str, str]",
+        "parameters": ["base_package_name", "suffix"],
+        "description": "Creates a unique package and asset name taking the form InBasePackageName+InSuffix"
+      }
+    },
+    {
+      "id": "create_asset_with_dialog",
+      "type": "method",
+      "label": "create_asset_with_dialog",
+      "metadata": {
+        "return_type": "Object",
+        "parameters": ["asset_name", "package_path", "asset_class", "factory", "calling_context", "call_configure_properties"],
+        "description": "Opens an asset picker dialog and creates an asset with the specified name and path"
+      }
+    },
+    {
+      "id": "create_asset",
+      "type": "method",
+      "label": "create_asset",
+      "metadata": {
+        "return_type": "Object",
+        "parameters": ["asset_name", "package_path", "asset_class", "factory", "calling_context"],
+        "description": "Creates an asset with the specified name, path, and factory"
+      }
+    },
+    {
+      "id": "begin_advanced_copy_packages",
+      "type": "method",
+      "label": "begin_advanced_copy_packages",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["input_names_to_copy", "target_path", "on_copy_complete"],
+        "description": "Begin Advanced Copy Packages"
+      }
+    },
+    {
+      "id": "set_values",
+      "type": "method",
+      "label": "set_values",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["values"],
+        "description": "Set Values"
+      }
+    },
+    {
+      "id": "get_values",
+      "type": "method",
+      "label": "get_values",
+      "metadata": {
+        "return_type": "Array[float]",
+        "parameters": [],
+        "description": "Get Values"
+      }
+    },
+    {
+      "id": "get_dimensions",
+      "type": "method",
+      "label": "get_dimensions",
+      "metadata": {
+        "return_type": "int",
+        "parameters": [],
+        "description": "Get Dimensions"
+      }
+    },
+    {
+      "id": "as_vector",
+      "type": "method",
+      "label": "as_vector",
+      "metadata": {
+        "return_type": "Vector",
+        "parameters": ["index"],
+        "description": "As Vector"
+      }
+    },
+    {
+      "id": "as_rotator",
+      "type": "method",
+      "label": "as_rotator",
+      "metadata": {
+        "return_type": "Rotator",
+        "parameters": ["index"],
+        "description": "As Rotator"
+      }
+    },
+    {
+      "id": "as_quat",
+      "type": "method",
+      "label": "as_quat",
+      "metadata": {
+        "return_type": "Quat",
+        "parameters": ["index"],
+        "description": "As Quat"
+      }
+    },
+    {
+      "id": "add_from_vector",
+      "type": "method",
+      "label": "add_from_vector",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["vector"],
+        "description": "Add from Vector"
+      }
+    },
+    {
+      "id": "add_from_rotator",
+      "type": "method",
+      "label": "add_from_rotator",
+      "metadata": {
+        "return_type": "None",
+        "parameters": ["rot"],
+        "description": "Add from Rotator"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "DCPAssetListParam",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "DCPAssetListParam",
+      "target": "asset_name",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "DCPAssetListParam",
+      "target": "asset_path",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "ThumbnailLabelType_BlueprintType",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "ThumbnailLabelType_BlueprintType",
+      "target": "CLASS_NAME",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "ThumbnailLabelType_BlueprintType",
+      "target": "ASSET_NAME",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "ThumbnailLabelType_BlueprintType",
+      "target": "NO_LABEL",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "ConstrainComponentPropName",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "ConstrainComponentPropName",
+      "target": "component_name",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "MaterialExpression",
+      "target": "Object",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "MaterialExpression",
+      "target": "desc",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "MaterialExpression",
+      "target": "material_expression_editor_x",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "MaterialExpression",
+      "target": "material_expression_editor_y",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "SetSceneStyleAPI",
+      "target": "ApiClassBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "SetSceneStyleAPI",
+      "target": "set_scene_style",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "RigVMFunction_StringBase",
+      "target": "RigVMStruct",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "SmartObjectPersistentCollection",
+      "target": "Actor",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "SmartObjectPersistentCollection",
+      "target": "smart_object_container",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddControlTransform",
+      "target": "RigUnit_HierarchyAddControlElement",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddControlTransform",
+      "target": "execute_context",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddControlTransform",
+      "target": "initial_value",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddControlTransform",
+      "target": "item",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddControlTransform",
+      "target": "name",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_HierarchyAddControlTransform",
+      "target": "parent",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorFromDouble",
+      "target": "RigVMFunction_MathVectorBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorFromDouble",
+      "target": "result",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigVMFunction_MathVectorFromDouble",
+      "target": "value",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "WidgetGeometryMode",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "WidgetGeometryMode",
+      "target": "PLANE",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "WidgetGeometryMode",
+      "target": "CYLINDER",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "Interface",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "rename_referencing_soft_object_paths",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "rename_assets_with_dialog",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "rename_assets",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "open_editor_for_assets",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "migrate_packages",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "import_asset_tasks",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "import_assets_with_dialog",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "import_assets_automated",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "find_soft_references_to_object",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "export_assets_with_dialog",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "export_assets",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "duplicate_asset_with_dialog_and_title",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "duplicate_asset_with_dialog",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "duplicate_asset",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "diff_assets",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "diff_against_depot",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "create_unique_asset_name",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "create_asset_with_dialog",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "create_asset",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AssetTools",
+      "target": "begin_advanced_copy_packages",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "MathRBFInterpolateQuatFloat_Target",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "MathRBFInterpolateQuatFloat_Target",
+      "target": "target",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "MathRBFInterpolateQuatFloat_Target",
+      "target": "value",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "LandscapeSplineMeshesActor",
+      "target": "PartitionActor",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "LandscapeSplineMeshesActor",
+      "target": "static_mesh_components",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "GeometryScriptBooleanOperation",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "GeometryScriptBooleanOperation",
+      "target": "UNION",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "GeometryScriptBooleanOperation",
+      "target": "INTERSECTION",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "GeometryScriptBooleanOperation",
+      "target": "SUBTRACT",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "MaterialExpressionShaderStageSwitch",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "MaterialExpressionShaderStageSwitch",
+      "target": "desc",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "MaterialExpressionShaderStageSwitch",
+      "target": "material_expression_editor_x",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "MaterialExpressionShaderStageSwitch",
+      "target": "material_expression_editor_y",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_MathVectorRound",
+      "target": "RigVMFunction_MathVectorRound",
+      "type": "inherits_from",
+      "metadata": {
+        "deprecated": true
+      }
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "Object",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "apply_custom_curve",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "custom_curve",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "scale_factor",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "set_values",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "get_values",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "get_dimensions",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "as_vector",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "as_rotator",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "as_quat",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "add_from_vector",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "PythonRBFTarget",
+      "target": "add_from_rotator",
+      "type": "has_method",
+      "metadata": {}
+    },
+    {
+      "source": "AesRenderResourceBatchCounterType",
+      "target": "EnumBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "AesRenderResourceBatchCounterType",
+      "target": "BATCH_AMOUNT",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "AesRenderResourceBatchCounterType",
+      "target": "INSTANCE_AMOUNT",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "AesRenderResourceBatchCounterType",
+      "target": "TIME_AMOUNT",
+      "type": "has_enum_value",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_AnimEasingType",
+      "target": "RigVMFunction_AnimEasingType",
+      "type": "inherits_from",
+      "metadata": {
+        "deprecated": true
+      }
+    },
+    {
+      "source": "RigUnit_TwoBoneIKFK",
+      "target": "RigUnitMutable",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_TwoBoneIKFK",
+      "target": "end_effector",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_TwoBoneIKFK",
+      "target": "end_joint",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_TwoBoneIKFK",
+      "target": "ik_blend",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_TwoBoneIKFK",
+      "target": "pole_target",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_TwoBoneIKFK",
+      "target": "spin",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "RigUnit_TwoBoneIKFK",
+      "target": "start_joint",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "SubmixEffectStereoToQuadSettings",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "SubmixEffectStereoToQuadSettings",
+      "target": "flip_channels",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "SubmixEffectStereoToQuadSettings",
+      "target": "rear_channel_gain",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "EarthTerraformingSplineFragment",
+      "target": "EarthEntityFragment",
+      "type": "inherits_from",
+      "metadata": {}
+    },
+    {
+      "source": "EarthTerraformingSplineFragment",
+      "target": "spline_width",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "EarthTerraformingSplineFragment",
+      "target": "offset_z",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "EarthTerraformingSplineFragment",
+      "target": "edge_width",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "EarthTerraformingSplineFragment",
+      "target": "depth",
+      "type": "has_property",
+      "metadata": {}
+    },
+    {
+      "source": "EarthTerraformingSplineFragment",
+      "target": "surface_widths",
+      "type": "has_property",
+      "metadata": {}
+    }
+  ],
+  "hyperedges": []
+}

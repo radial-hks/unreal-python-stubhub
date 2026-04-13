@@ -1,0 +1,466 @@
+{
+  "nodes": [
+    {
+      "id": "livelinksubjectrepresentation_livelinksubjectrepresentation",
+      "label": "LiveLinkSubjectRepresentation",
+      "file_type": "code",
+      "source_file": "LiveLinkSubjectRepresentation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonercomponent_ceclonercomponent",
+      "label": "CEClonerComponent",
+      "file_type": "code",
+      "source_file": "CEClonerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posesearchtrajectorydata_posesearchtrajectorydata",
+      "label": "PoseSearchTrajectoryData",
+      "file_type": "code",
+      "source_file": "PoseSearchTrajectoryData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppickmaterialresult_wdppickmaterialresult",
+      "label": "WdpPickMaterialResult",
+      "file_type": "code",
+      "source_file": "WdpPickMaterialResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skylighttimeresult_skylighttimeresult",
+      "label": "SkylightTimeResult",
+      "file_type": "code",
+      "source_file": "SkylightTimeResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cachetrackrecorderstate_cachetrackrecorderstate",
+      "label": "CacheTrackRecorderState",
+      "file_type": "code",
+      "source_file": "CacheTrackRecorderState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearrayfloat2_niagaradatainterfacearrayfloat2",
+      "label": "NiagaraDataInterfaceArrayFloat2",
+      "file_type": "code",
+      "source_file": "NiagaraDataInterfaceArrayFloat2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abcsamplingsettings_abcsamplingsettings",
+      "label": "AbcSamplingSettings",
+      "file_type": "code",
+      "source_file": "AbcSamplingSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tooldynamicuiaction_tooldynamicuiaction",
+      "label": "ToolDynamicUIAction",
+      "file_type": "code",
+      "source_file": "ToolDynamicUIAction Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reimportfbxstaticmeshfactory_reimportfbxstaticmeshfactory",
+      "label": "ReimportFbxStaticMeshFactory",
+      "file_type": "code",
+      "source_file": "ReimportFbxStaticMeshFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "superapi_jsontoolsbplibrary_superapi_jsontoolsbplibrary",
+      "label": "SuperAPI_JSONToolsBPLibrary",
+      "file_type": "code",
+      "source_file": "SuperAPI__JSONToolsBPLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradeviceprofilestateentry_niagaradeviceprofilestateentry",
+      "label": "NiagaraDeviceProfileStateEntry",
+      "file_type": "code",
+      "source_file": "NiagaraDeviceProfileStateEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nonspatializedradiusspeakermapmode_nonspatializedradiusspeakermapmode",
+      "label": "NonSpatializedRadiusSpeakerMapMode",
+      "file_type": "code",
+      "source_file": "NonSpatializedRadiusSpeakerMapMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdgenericdebugdrawdatacomponent_chaosvdgenericdebugdrawdatacomponent",
+      "label": "ChaosVDGenericDebugDrawDataComponent",
+      "file_type": "code",
+      "source_file": "ChaosVDGenericDebugDrawDataComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeswatereditorcommand_splitcontour_aeswatereditorcommand_splitcontour",
+      "label": "AesWaterEditorCommand_SplitContour",
+      "file_type": "code",
+      "source_file": "AesWaterEditorCommand__SplitContour Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringjoin_rigunit_stringjoin",
+      "label": "RigUnit_StringJoin",
+      "file_type": "code",
+      "source_file": "RigUnit_StringJoin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetsatom_assetsatom",
+      "label": "AssetsAtom",
+      "file_type": "code",
+      "source_file": "AssetsAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrol_rigcontrol",
+      "label": "RigControl",
+      "file_type": "code",
+      "source_file": "RigControl Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataregistryortablerow_dataregistryortablerow",
+      "label": "DataRegistryOrTableRow",
+      "file_type": "code",
+      "source_file": "DataRegistryOrTableRow Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjecthandle_smartobjecthandle",
+      "label": "SmartObjectHandle",
+      "file_type": "code",
+      "source_file": "SmartObjectHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesfilesystemtype_aesfilesystemtype",
+      "label": "AesFileSystemType",
+      "file_type": "code",
+      "source_file": "AesFileSystemType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applicationlifecyclecomponent_ontemperaturechangedelegate_applicationlifecyclecomponent_ontemperaturechangedelegate",
+      "label": "ApplicationLifecycleComponent_OnTemperatureChangeDelegate",
+      "file_type": "code",
+      "source_file": "ApplicationLifecycleComponent__OnTemperatureChangeDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonerextensionbase_ceclonerextensionbase",
+      "label": "CEClonerExtensionBase",
+      "file_type": "code",
+      "source_file": "CEClonerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonerlayoutbase_ceclonerlayoutbase",
+      "label": "CEClonerLayoutBase",
+      "file_type": "code",
+      "source_file": "CEClonerComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "ceclonercomponent_ceclonercomponent",
+      "target": "ceclonerextensionbase_ceclonerextensionbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonercomponent_ceclonercomponent",
+      "target": "ceclonerlayoutbase_ceclonerlayoutbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CEClonerComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_stringjoin_rigunit_stringjoin",
+      "target": "rigcontrol_rigcontrol",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_StringJoin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeswatereditorcommand_splitcontour_aeswatereditorcommand_splitcontour",
+      "target": "aesfilesystemtype_aesfilesystemtype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesWaterEditorCommand__SplitContour Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearrayfloat2_niagaradatainterfacearrayfloat2",
+      "target": "niagaradeviceprofilestateentry_niagaradeviceprofilestateentry",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraDataInterfaceArrayFloat2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdppickmaterialresult_wdppickmaterialresult",
+      "target": "skylighttimeresult_skylighttimeresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "WdpPickMaterialResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dataregistryortablerow_dataregistryortablerow",
+      "target": "smartobjecthandle_smartobjecthandle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DataRegistryOrTableRow Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cachetrackrecorderstate_cachetrackrecorderstate",
+      "target": "applicationlifecyclecomponent_ontemperaturechangedelegate_applicationlifecyclecomponent_ontemperaturechangedelegate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CacheTrackRecorderState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abcsamplingsettings_abcsamplingsettings",
+      "target": "cachetrackrecorderstate_cachetrackrecorderstate",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AbcSamplingSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "superapi_jsontoolsbplibrary_superapi_jsontoolsbplibrary",
+      "target": "dataregistryortablerow_dataregistryortablerow",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SuperAPI__JSONToolsBPLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "posesearchtrajectorydata_posesearchtrajectorydata",
+      "target": "rigcontrol_rigcontrol",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PoseSearchTrajectoryData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reimportfbxstaticmeshfactory_reimportfbxstaticmeshfactory",
+      "target": "abcsamplingsettings_abcsamplingsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ReimportFbxStaticMeshFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tooldynamicuiaction_tooldynamicuiaction",
+      "target": "ceclonercomponent_ceclonercomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ToolDynamicUIAction Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nonspatializedradiusspeakermapmode_nonspatializedradiusspeakermapmode",
+      "target": "chaosvdgenericdebugdrawdatacomponent_chaosvdgenericdebugdrawdatacomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NonSpatializedRadiusSpeakerMapMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "assetsatom_assetsatom",
+      "target": "smartobjecthandle_smartobjecthandle",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AssetsAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "niagara_ecosystem_components",
+      "label": "Niagara System Components",
+      "nodes": [
+        "niagaradatainterfacearrayfloat2_niagaradatainterfacearrayfloat2",
+        "niagaradeviceprofilestateentry_niagaradeviceprofilestateentry",
+        "ceclonercomponent_ceclonercomponent"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NiagaraDataInterfaceArrayFloat2 Objects.md"
+    },
+    {
+      "id": "unreal_data_structures",
+      "label": "Unreal Engine Data Structures",
+      "nodes": [
+        "livelinksubjectrepresentation_livelinksubjectrepresentation",
+        "posesearchtrajectorydata_posesearchtrajectorydata",
+        "wdppickmaterialresult_wdppickmaterialresult",
+        "dataregistryortablerow_dataregistryortablerow",
+        "smartobjecthandle_smartobjecthandle"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LiveLinkSubjectRepresentation Objects.md"
+    },
+    {
+      "id": "animation_and_rigging_systems",
+      "label": "Animation and Rigging Systems",
+      "nodes": [
+        "rigcontrol_rigcontrol",
+        "rigunit_stringjoin_rigunit_stringjoin",
+        "posesearchtrajectorydata_posesearchtrajectorydata",
+        "cachetrackrecorderstate_cachetrackrecorderstate"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigControl Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

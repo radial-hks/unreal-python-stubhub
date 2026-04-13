@@ -1,0 +1,861 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmblueprint_rigvmblueprint",
+      "label": "RigVMBlueprint",
+      "file_type": "code",
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprint_blueprint",
+      "label": "Blueprint",
+      "file_type": "code",
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprint_rigvmcompilesettings",
+      "label": "RigVMCompileSettings",
+      "file_type": "code",
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprint_rigvmruntimeSettings",
+      "label": "RigVMRuntimeSettings",
+      "file_type": "code",
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprint_rigvmcontroller",
+      "label": "RigVMController",
+      "file_type": "code",
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprint_rigvmgraph",
+      "label": "RigVMGraph",
+      "file_type": "code",
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprint_rigvmhost",
+      "label": "RigVMHost",
+      "file_type": "code",
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmblueprint_rigvmfunctionlibrary",
+      "label": "RigVMFunctionLibrary",
+      "file_type": "code",
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vegetationassetsatom_vegetationassetsatom",
+      "label": "VegetationAssetsAtom",
+      "file_type": "code",
+      "source_file": "VegetationAssetsAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vegetationassetsatom_assetsatombase",
+      "label": "AssetsAtomBase",
+      "file_type": "code",
+      "source_file": "VegetationAssetsAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "remotecontrolinterceptionteststruct_remotecontrolinterceptionteststruct",
+      "label": "RemoteControlInterceptionTestStruct",
+      "file_type": "code",
+      "source_file": "RemoteControlInterceptionTestStruct Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundclassproperties_soundclassproperties",
+      "label": "SoundClassProperties",
+      "file_type": "code",
+      "source_file": "SoundClassProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundclassproperties_soundmodulationdefaultsettings",
+      "label": "SoundModulationDefaultSettings",
+      "file_type": "code",
+      "source_file": "SoundClassProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundclassproperties_soundsubmix",
+      "label": "SoundSubmix",
+      "file_type": "code",
+      "source_file": "SoundClassProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "focustonodesparams_focustonodesparams",
+      "label": "FocusToNodesParams",
+      "file_type": "code",
+      "source_file": "FocusToNodesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "focustonodesparams_eidparams",
+      "label": "EidParams",
+      "file_type": "code",
+      "source_file": "FocusToNodesParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixfromtransform_rigunit_mathmatrixfromtransform",
+      "label": "RigUnit_MathMatrixFromTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixfromtransform_rigvmfunction_mathmatrixfromtransform",
+      "label": "RigVMFunction_MathMatrixFromTransform",
+      "file_type": "code",
+      "source_file": "RigUnit_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_refpose_animnode_refpose",
+      "label": "AnimNode_RefPose",
+      "file_type": "code",
+      "source_file": "AnimNode__RefPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_refpose_animnode_base",
+      "label": "AnimNode_Base",
+      "file_type": "code",
+      "source_file": "AnimNode__RefPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcommoninput_onpointerkeydoubleclicked_wdpcommoninput_onpointerkeydoubleclicked",
+      "label": "WdpCommonInput_OnPointerKeyDoubleClicked",
+      "file_type": "code",
+      "source_file": "WdpCommonInput__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcommoninput_onpointerkeydoubleclicked_multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "code",
+      "source_file": "WdpCommonInput__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtextureoverlayerfragment_earthtextureoverlayerfragment",
+      "label": "EarthTextureOverlayerFragment",
+      "file_type": "code",
+      "source_file": "EarthTextureOverlayerFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtextureoverlayerfragment_earthoutputfragment",
+      "label": "EarthOutputFragment",
+      "file_type": "code",
+      "source_file": "EarthTextureOverlayerFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtextureoverlayerfragment_earthfeatureidfragment",
+      "label": "EarthFeatureIDFragment",
+      "file_type": "code",
+      "source_file": "EarthTextureOverlayerFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_endprofilingtimer_rigunit_endprofilingtimer",
+      "label": "RigUnit_EndProfilingTimer",
+      "file_type": "code",
+      "source_file": "RigUnit__EndProfilingTimer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_endprofilingtimer_rigvmfunction_debugbasemutable",
+      "label": "RigVMFunction_DebugBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__EndProfilingTimer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworksimpleslot_uiframeworksimpleslot",
+      "label": "UIFrameworkSimpleSlot",
+      "file_type": "code",
+      "source_file": "UIFrameworkSimpleSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworksimpleslot_uiframeworkslotbase",
+      "label": "UIFrameworkSlotBase",
+      "file_type": "code",
+      "source_file": "UIFrameworkSimpleSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "uiframeworksimpleslot_uiframeworkwidget",
+      "label": "UIFrameworkWidget",
+      "file_type": "code",
+      "source_file": "UIFrameworkSimpleSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpointneighborhoodsettings_pcgpointneighborhoodsettings",
+      "label": "PCGPointNeighborhoodSettings",
+      "file_type": "code",
+      "source_file": "PCGPointNeighborhoodSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpointneighborhoodsettings_pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGPointNeighborhoodSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_objectbase__objectbase",
+      "label": "_ObjectBase",
+      "file_type": "code",
+      "source_file": "_ObjectBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "_objectbase__wrapperbase",
+      "label": "_WrapperBase",
+      "file_type": "code",
+      "source_file": "_ObjectBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navdataconfig_navdataconfig",
+      "label": "NavDataConfig",
+      "file_type": "code",
+      "source_file": "NavDataConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navdataconfig_navagentproperties",
+      "label": "NavAgentProperties",
+      "file_type": "code",
+      "source_file": "NavDataConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannelsearchparameters_niagaradatachannelsearchparameters",
+      "label": "NiagaraDataChannelSearchParameters",
+      "file_type": "code",
+      "source_file": "NiagaraDataChannelSearchParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatachannelsearchparameters_scenecomponent",
+      "label": "SceneComponent",
+      "file_type": "code",
+      "source_file": "NiagaraDataChannelSearchParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarasystemscalabilitysettingsarray_niagarasystemscalabilitysettingsarray",
+      "label": "NiagaraSystemScalabilitySettingsArray",
+      "file_type": "code",
+      "source_file": "NiagaraSystemScalabilitySettingsArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatgreaterequal_rigunit_mathfloatgreaterequal",
+      "label": "RigUnit_MathFloatGreaterEqual",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatgreaterequal_rigvmfunction_mathfloatgreaterequal",
+      "label": "RigVMFunction_MathFloatGreaterEqual",
+      "file_type": "code",
+      "source_file": "RigUnit_MathFloatGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animevalrichcurve_rigvmfunction_animevalrichcurve",
+      "label": "RigVMFunction_AnimEvalRichCurve",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animevalrichcurve_rigvmfunction_animbase",
+      "label": "RigVMFunction_AnimBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_animevalrichcurve_runtimefloatcurve",
+      "label": "RuntimeFloatCurve",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystemfactorynew_particlesystemfactorynew",
+      "label": "ParticleSystemFactoryNew",
+      "file_type": "code",
+      "source_file": "ParticleSystemFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particlesystemfactorynew_factory",
+      "label": "Factory",
+      "file_type": "code",
+      "source_file": "ParticleSystemFactoryNew Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multilineeditabletext_onmultilineeditabletextcommittedevent_multilineeditabletext_onmultilineeditabletextcommittedevent",
+      "label": "MultiLineEditableText_OnMultiLineEditableTextCommittedEvent",
+      "file_type": "code",
+      "source_file": "MultiLineEditableText_OnMultiLineEditableTextCommittedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatoroscillate_propertyanimatoroscillate",
+      "label": "PropertyAnimatorOscillate",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorOscillate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatoroscillate_propertyanimatornumericbase",
+      "label": "PropertyAnimatorNumericBase",
+      "file_type": "code",
+      "source_file": "PropertyAnimatorOscillate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmblueprint_rigvmblueprint",
+      "target": "rigvmblueprint_blueprint",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprint_rigvmblueprint",
+      "target": "rigvmblueprint_rigvmcompilesettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprint_rigvmblueprint",
+      "target": "rigvmblueprint_rigvmruntimeSettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprint_rigvmblueprint",
+      "target": "rigvmblueprint_rigvmcontroller",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprint_rigvmblueprint",
+      "target": "rigvmblueprint_rigvmgraph",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprint_rigvmblueprint",
+      "target": "rigvmblueprint_rigvmhost",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmblueprint_rigvmblueprint",
+      "target": "rigvmblueprint_rigvmfunctionlibrary",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMBlueprint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vegetationassetsatom_vegetationassetsatom",
+      "target": "vegetationassetsatom_assetsatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VegetationAssetsAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "remotecontrolinterceptionteststruct_remotecontrolinterceptionteststruct",
+      "target": "soundclassproperties_soundclassproperties",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "RemoteControlInterceptionTestStruct Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundclassproperties_soundclassproperties",
+      "target": "soundclassproperties_soundmodulationdefaultsettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundClassProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundclassproperties_soundclassproperties",
+      "target": "soundclassproperties_soundsubmix",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundClassProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "focustonodesparams_focustonodesparams",
+      "target": "focustonodesparams_eidparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FocusToNodesParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixfromtransform_rigunit_mathmatrixfromtransform",
+      "target": "rigunit_mathmatrixfromtransform_rigvmfunction_mathmatrixfromtransform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathMatrixFromTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_refpose_animnode_refpose",
+      "target": "animnode_refpose_animnode_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__RefPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcommoninput_onpointerkeydoubleclicked_wdpcommoninput_onpointerkeydoubleclicked",
+      "target": "wdpcommoninput_onpointerkeydoubleclicked_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpCommonInput__OnPointerKeyDoubleClicked Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtextureoverlayerfragment_earthtextureoverlayerfragment",
+      "target": "earthtextureoverlayerfragment_earthoutputfragment",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTextureOverlayerFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtextureoverlayerfragment_earthtextureoverlayerfragment",
+      "target": "earthtextureoverlayerfragment_earthfeatureidfragment",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTextureOverlayerFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_endprofilingtimer_rigunit_endprofilingtimer",
+      "target": "rigunit_endprofilingtimer_rigvmfunction_debugbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__EndProfilingTimer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworksimpleslot_uiframeworksimpleslot",
+      "target": "uiframeworksimpleslot_uiframeworkslotbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkSimpleSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "uiframeworksimpleslot_uiframeworksimpleslot",
+      "target": "uiframeworksimpleslot_uiframeworkwidget",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UIFrameworkSimpleSlot Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpointneighborhoodsettings_pcgpointneighborhoodsettings",
+      "target": "pcgpointneighborhoodsettings_pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointNeighborhoodSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "_objectbase__objectbase",
+      "target": "_objectbase__wrapperbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "_ObjectBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navdataconfig_navdataconfig",
+      "target": "navdataconfig_navagentproperties",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavDataConfig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatachannelsearchparameters_niagaradatachannelsearchparameters",
+      "target": "niagaradatachannelsearchparameters_scenecomponent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataChannelSearchParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatgreaterequal_rigunit_mathfloatgreaterequal",
+      "target": "rigunit_mathfloatgreaterequal_rigvmfunction_mathfloatgreaterequal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathFloatGreaterEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_animevalrichcurve_rigvmfunction_animevalrichcurve",
+      "target": "rigvmfunction_animevalrichcurve_rigvmfunction_animbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_animevalrichcurve_rigvmfunction_animevalrichcurve",
+      "target": "rigvmfunction_animevalrichcurve_runtimefloatcurve",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__AnimEvalRichCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particlesystemfactorynew_particlesystemfactorynew",
+      "target": "particlesystemfactorynew_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleSystemFactoryNew Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "multilineeditabletext_onmultilineeditabletextcommittedevent_multilineeditabletext_onmultilineeditabletextcommittedevent",
+      "target": "wdpcommoninput_onpointerkeydoubleclicked_wdpcommoninput_onpointerkeydoubleclicked",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MultiLineEditableText_OnMultiLineEditableTextCommittedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatoroscillate_propertyanimatoroscillate",
+      "target": "propertyanimatoroscillate_propertyanimatornumericbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorOscillate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigunit_classes",
+      "label": "Deprecated RigUnit Classes Renamed to RigVMFunction",
+      "nodes": [
+        "rigunit_mathmatrixfromtransform_rigunit_mathmatrixfromtransform",
+        "rigunit_mathfloatgreaterequal_rigunit_mathfloatgreaterequal"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathMatrixFromTransform Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

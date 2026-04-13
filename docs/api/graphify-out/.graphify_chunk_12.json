@@ -1,0 +1,1045 @@
+{
+  "nodes": [
+    {
+      "id": "compositingelementmaterialpass_class",
+      "label": "CompositingElementMaterialPass",
+      "file_type": "code",
+      "source_file": "CompositingElementMaterialPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositingpostprocesspass_base",
+      "label": "CompositingPostProcessPass",
+      "file_type": "code",
+      "source_file": "CompositingElementMaterialPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositingmaterial_type",
+      "label": "CompositingMaterial",
+      "file_type": "code",
+      "source_file": "CompositingElementMaterialPass Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonerextensionbase_class",
+      "label": "CEClonerExtensionBase",
+      "file_type": "code",
+      "source_file": "CEClonerExtensionBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatetransformlerp_class",
+      "label": "RigVMFunction_AccumulateTransformLerp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AccumulateTransformLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatebase_base",
+      "label": "RigVMFunction_AccumulateBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AccumulateTransformLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_type",
+      "label": "Transform",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AccumulateTransformLerp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthregionoutline_class",
+      "label": "EarthRegionOutline",
+      "file_type": "code",
+      "source_file": "EarthRegionOutline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componentendoverlapsignature_class",
+      "label": "ComponentEndOverlapSignature",
+      "file_type": "code",
+      "source_file": "ComponentEndOverlapSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent_type",
+      "label": "PrimitiveComponent",
+      "file_type": "code",
+      "source_file": "ComponentEndOverlapSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_type",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "ComponentEndOverlapSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scalerepresentation_class",
+      "label": "ScaleRepresentation",
+      "file_type": "code",
+      "source_file": "ScaleRepresentation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "colorwheelcolorbase_class",
+      "label": "ColorWheelColorBase",
+      "file_type": "code",
+      "source_file": "ColorWheelColorBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionscalev2_class",
+      "label": "RigUnit_MathQuaternionScaleV2",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionScaleV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionscalev2_class",
+      "label": "RigVMFunction_MathQuaternionScaleV2",
+      "file_type": "code",
+      "source_file": "RigUnit__MathQuaternionScaleV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onpcggraphgeneratedexternal_class",
+      "label": "OnPCGGraphGeneratedExternal",
+      "file_type": "code",
+      "source_file": "OnPCGGraphGeneratedExternal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcomponent_type",
+      "label": "PCGComponent",
+      "file_type": "code",
+      "source_file": "OnPCGGraphGeneratedExternal Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_optimusdeformersettings_class",
+      "label": "RigVMTrait_OptimusDeformerSettings",
+      "file_type": "code",
+      "source_file": "RigVMTrait__OptimusDeformerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_base",
+      "label": "RigVMTrait",
+      "file_type": "code",
+      "source_file": "RigVMTrait__OptimusDeformerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusdeformerexecutionphase_type",
+      "label": "OptimusDeformerExecutionPhase",
+      "file_type": "code",
+      "source_file": "RigVMTrait__OptimusDeformerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "text3dcomponent_textgenerated_class",
+      "label": "Text3DComponent_TextGenerated",
+      "file_type": "code",
+      "source_file": "Text3DComponent__TextGenerated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actordestroyedsignature_class",
+      "label": "ActorDestroyedSignature",
+      "file_type": "code",
+      "source_file": "ActorDestroyedSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontroloffset_class",
+      "label": "RigUnit_SetControlOffset",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable_base",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_type",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtransformspace_type",
+      "label": "RigVMTransformSpace",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmexternalvariabledef_class",
+      "label": "RigVMExternalVariableDef",
+      "file_type": "code",
+      "source_file": "RigVMExternalVariableDef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pivotplanetranslationgizmohandlegroup_class",
+      "label": "PivotPlaneTranslationGizmoHandleGroup",
+      "file_type": "code",
+      "source_file": "PivotPlaneTranslationGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "axisgizmohandlegroup_base",
+      "label": "AxisGizmoHandleGroup",
+      "file_type": "code",
+      "source_file": "PivotPlaneTranslationGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodifierfragment_class",
+      "label": "EarthRoadModifierFragment",
+      "file_type": "code",
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment_base",
+      "label": "EarthPropertyFragment",
+      "file_type": "code",
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabasset_type",
+      "label": "EarthPrefabAsset",
+      "file_type": "code",
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodifiertype_type",
+      "label": "EarthRoadModifierType",
+      "file_type": "code",
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodifierrange_type",
+      "label": "EarthRoadModifierRange",
+      "file_type": "code",
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_dynamichierarchybasemutable_class",
+      "label": "RigUnit_DynamicHierarchyBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__DynamicHierarchyBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tickableworldsubsystem_class",
+      "label": "TickableWorldSubsystem",
+      "file_type": "code",
+      "source_file": "TickableWorldSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldsubsystem_base",
+      "label": "WorldSubsystem",
+      "file_type": "code",
+      "source_file": "TickableWorldSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "functionaltestutilitylibrary_class",
+      "label": "FunctionalTestUtilityLibrary",
+      "file_type": "code",
+      "source_file": "FunctionalTestUtilityLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_base",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "FunctionalTestUtilityLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcreatenewskeletalmeshassetoptions_class",
+      "label": "GeometryScriptCreateNewSkeletalMeshAssetOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptCreateNewSkeletalMeshAssetOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialinterface_type",
+      "label": "MaterialInterface",
+      "file_type": "code",
+      "source_file": "GeometryScriptCreateNewSkeletalMeshAssetOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proceduralfoliageactor_class",
+      "label": "ProceduralFoliageActor",
+      "file_type": "code",
+      "source_file": "ProceduralFoliageActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "proceduralfoliagevolume_base",
+      "label": "ProceduralFoliageVolume",
+      "file_type": "code",
+      "source_file": "ProceduralFoliageActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshmodeling_class",
+      "label": "GeometryScript_MeshModeling",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh_type",
+      "label": "DynamicMesh",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshselection_type",
+      "label": "GeometryScriptMeshSelection",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshoffsetoptions_type",
+      "label": "GeometryScriptMeshOffsetOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshbeveloptions_type",
+      "label": "GeometryScriptMeshBevelOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshlinearextrudeoptions_type",
+      "label": "GeometryScriptMeshLinearExtrudeOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshinsetoutsetfacesoptions_type",
+      "label": "GeometryScriptMeshInsetOutsetFacesOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshextrudeoptions_type",
+      "label": "GeometryScriptMeshExtrudeOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshbevelselectionoptions_type",
+      "label": "GeometryScriptMeshBevelSelectionOptions",
+      "file_type": "code",
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "compositingelementmaterialpass_class",
+      "target": "compositingpostprocesspass_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CompositingElementMaterialPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "compositingelementmaterialpass_class",
+      "target": "compositingmaterial_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CompositingElementMaterialPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "compositingelementmaterialpass_class",
+      "target": "materialinterface_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CompositingElementMaterialPass Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ceclonerextensionbase_class",
+      "target": "ceclonerextensionbase_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CEClonerExtensionBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatetransformlerp_class",
+      "target": "rigvmfunction_accumulatebase_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__AccumulateTransformLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatetransformlerp_class",
+      "target": "transform_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__AccumulateTransformLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthregionoutline_class",
+      "target": "earthregionoutline_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "EarthRegionOutline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componentendoverlapsignature_class",
+      "target": "primitivecomponent_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentEndOverlapSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componentendoverlapsignature_class",
+      "target": "actor_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ComponentEndOverlapSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionscalev2_class",
+      "target": "rigvmfunction_mathquaternionscalev2_class",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionScaleV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onpcggraphgeneratedexternal_class",
+      "target": "pcgcomponent_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnPCGGraphGeneratedExternal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_optimusdeformersettings_class",
+      "target": "rigvmtrait_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__OptimusDeformerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_optimusdeformersettings_class",
+      "target": "optimusdeformerexecutionphase_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__OptimusDeformerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroloffset_class",
+      "target": "rigunitmutable_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroloffset_class",
+      "target": "controlrigexecutecontext_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroloffset_class",
+      "target": "transform_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroloffset_class",
+      "target": "rigvmtransformspace_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pivotplanetranslationgizmohandlegroup_class",
+      "target": "axisgizmohandlegroup_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PivotPlaneTranslationGizmoHandleGroup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadmodifierfragment_class",
+      "target": "earthpropertyfragment_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadmodifierfragment_class",
+      "target": "earthprefabasset_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadmodifierfragment_class",
+      "target": "earthroadmodifiertype_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadmodifierfragment_class",
+      "target": "earthroadmodifierrange_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadModifierFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_dynamichierarchybasemutable_class",
+      "target": "rigunitmutable_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DynamicHierarchyBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_dynamichierarchybasemutable_class",
+      "target": "controlrigexecutecontext_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DynamicHierarchyBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "tickableworldsubsystem_class",
+      "target": "worldsubsystem_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TickableWorldSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "functionaltestutilitylibrary_class",
+      "target": "blueprintfunctionlibrary_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FunctionalTestUtilityLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptcreatenewskeletalmeshassetoptions_class",
+      "target": "materialinterface_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptCreateNewSkeletalMeshAssetOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "proceduralfoliageactor_class",
+      "target": "proceduralfoliagevolume_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProceduralFoliageActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "blueprintfunctionlibrary_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "dynamicmesh_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "geometryscriptmeshselection_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "geometryscriptmeshoffsetoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "geometryscriptmeshbeveloptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "geometryscriptmeshlinearextrudeoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "geometryscriptmeshinsetoutsetfacesoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "geometryscriptmeshextrudeoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshmodeling_class",
+      "target": "geometryscriptmeshbevelselectionoptions_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript_MeshModeling Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatetransformlerp_class",
+      "target": "rigunit_setcontroloffset_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__AccumulateTransformLerp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "componentendoverlapsignature_class",
+      "target": "actordestroyedsignature_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ComponentEndOverlapSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onpcggraphgeneratedexternal_class",
+      "target": "text3dcomponent_textgenerated_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OnPCGGraphGeneratedExternal Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontroloffset_class",
+      "target": "rigunit_dynamichierarchybasemutable_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetControlOffset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthregionoutline_class",
+      "target": "earthroadmodifierfragment_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthRegionOutline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_hierarchy_system",
+      "label": "RigVM Hierarchy Manipulation System",
+      "nodes": [
+        "rigunit_setcontroloffset_class",
+        "rigunit_dynamichierarchybasemutable_class",
+        "rigvmfunction_accumulatetransformlerp_class",
+        "rigvmtrait_optimusdeformersettings_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetControlOffset Objects.md"
+    },
+    {
+      "id": "mesh_modeling_operations",
+      "label": "Mesh Modeling Operations",
+      "nodes": [
+        "geometryscript_meshmodeling_class",
+        "dynamicmesh_type",
+        "geometryscriptmeshselection_type",
+        "geometryscriptmeshoffsetoptions_type",
+        "geometryscriptmeshbeveloptions_type"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "GeometryScript_MeshModeling Objects.md"
+    },
+    {
+      "id": "event_delegate_system",
+      "label": "Event Delegate System",
+      "nodes": [
+        "componentendoverlapsignature_class",
+        "actordestroyedsignature_class",
+        "onpcggraphgeneratedexternal_class",
+        "text3dcomponent_textgenerated_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ComponentEndOverlapSignature Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

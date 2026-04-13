@@ -1,0 +1,957 @@
+{
+  "nodes": [
+    {
+      "id": "shaderparamtypedefinition_shaderparamtypedefinition",
+      "label": "ShaderParamTypeDefinition",
+      "file_type": "document",
+      "source_file": "ShaderParamTypeDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflowsimulationasset_dataflowsimulationasset",
+      "label": "DataflowSimulationAsset",
+      "file_type": "document",
+      "source_file": "DataflowSimulationAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "highlightareastyle_highlightareastyle",
+      "label": "HighlightAreaStyle",
+      "file_type": "document",
+      "source_file": "HighlightAreaStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_spheretracebyobjecttypes_rigunit_spheretracebyobjecttypes",
+      "label": "RigUnit_SphereTraceByObjectTypes",
+      "file_type": "document",
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "int32interval_int32interval",
+      "label": "Int32Interval",
+      "file_type": "document",
+      "source_file": "Int32Interval Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+      "label": "RigUnit_RigModulesBase",
+      "file_type": "document",
+      "source_file": "RigUnit_RigModulesBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdataevaltype_animdataevaltype",
+      "label": "AnimDataEvalType",
+      "file_type": "document",
+      "source_file": "AnimDataEvalType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "widget_getfloat_widget_getfloat",
+      "label": "Widget_GetFloat",
+      "file_type": "document",
+      "source_file": "Widget_GetFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumfeatureidtextureblueprintlibrary_cesiumfeatureidtextureblueprintlibrary",
+      "label": "CesiumFeatureIdTextureBlueprintLibrary",
+      "file_type": "document",
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangewriterbase_interchangewriterbase",
+      "label": "InterchangeWriterBase",
+      "file_type": "document",
+      "source_file": "InterchangeWriterBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingeditorcommand_create_aesbuildingeditorcommand_create",
+      "label": "AesBuildingEditorCommand_Create",
+      "file_type": "document",
+      "source_file": "AesBuildingEditorCommand__Create Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshreaddataprovider_skeletalmeshreaddataprovider",
+      "label": "SkeletalMeshReadDataProvider",
+      "file_type": "document",
+      "source_file": "SkeletalMeshReadDataProvider Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stmapinfo_stmapinfo",
+      "label": "STMapInfo",
+      "file_type": "document",
+      "source_file": "STMapInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "batchplaceassetparams_batchplaceassetparams",
+      "label": "BatchPlaceAssetParams",
+      "file_type": "document",
+      "source_file": "BatchPlaceAssetParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditormodesettingslibrary_aeseditormodesettingslibrary",
+      "label": "AesEditorModeSettingsLibrary",
+      "file_type": "document",
+      "source_file": "AesEditorModeSettingsLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__mathfloatrad_rigunit__mathfloatrad",
+      "label": "RigUnit_MathFloatRad",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatRad Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterscreencomponent_displayclusterscreencomponent",
+      "label": "DisplayClusterScreenComponent",
+      "file_type": "document",
+      "source_file": "DisplayClusterScreenComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionadd_dmmaterialstageexpressionadd",
+      "label": "DMMaterialStageExpressionAdd",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionAdd Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgrendertargetdata_pcgrendertargetdata",
+      "label": "PCGRenderTargetData",
+      "file_type": "document",
+      "source_file": "PCGRenderTargetData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_alphainterpvector_rigunit_alphainterpvector",
+      "label": "RigUnit_AlphaInterpVector",
+      "file_type": "document",
+      "source_file": "RigUnit_AlphaInterpVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumboundingvolumecomponent_cesiumboundingvolumecomponent",
+      "label": "CesiumBoundingVolumeComponent",
+      "file_type": "document",
+      "source_file": "CesiumBoundingVolumeComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_base_animnode_base",
+      "label": "AnimNode_Base",
+      "file_type": "document",
+      "source_file": "AnimNode_Base Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "ShaderParamTypeDefinition Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase_enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "AnimDataEvalType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase_delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "Widget_GetFloat Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "InterchangeWriterBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent_primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "document",
+      "source_file": "CesiumBoundingVolumeComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dataflow_dataflow",
+      "label": "Dataflow",
+      "file_type": "document",
+      "source_file": "DataflowSimulationAsset Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumfeatureidtexture_cesiumfeatureidtexture",
+      "label": "CesiumFeatureIdTexture",
+      "file_type": "document",
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_texture",
+      "label": "Texture",
+      "file_type": "document",
+      "source_file": "STMapInfo Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatrad_rigvmfunction_mathfloatrad",
+      "label": "RigVMFunction_MathFloatRad",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatRad Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_alphainterpvector_rigvmfunction_alphainterpvector",
+      "label": "RigVMFunction_AlphaInterpVector",
+      "file_type": "document",
+      "source_file": "RigUnit_AlphaInterpVector Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusskinnedmeshdataprovider_optimusskinnedmeshdataprovider",
+      "label": "OptimusSkinnedMeshDataProvider",
+      "file_type": "document",
+      "source_file": "SkeletalMeshReadDataProvider Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshcomponent_staticmeshcomponent",
+      "label": "StaticMeshComponent",
+      "file_type": "document",
+      "source_file": "DisplayClusterScreenComponent Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressionmathbase_dmmaterialstageexpressionmathbase",
+      "label": "DMMaterialStageExpressionMathBase",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionAdd Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgbasetexturedata_pcgbasetexturedata",
+      "label": "PCGBaseTextureData",
+      "file_type": "document",
+      "source_file": "PCGRenderTargetData Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommand_aeseditorsimplecommand",
+      "label": "AesEditorSimpleCommand",
+      "file_type": "document",
+      "source_file": "AesBuildingEditorCommand__Create Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actionparamsbase_actionparamsbase",
+      "label": "ActionParamsBase",
+      "file_type": "document",
+      "source_file": "BatchPlaceAssetParams Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_vector",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d_vector2d",
+      "label": "Vector2D",
+      "file_type": "document",
+      "source_file": "BatchPlaceAssetParams Objects.md",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertarget2d_texturerendertarget2d",
+      "label": "TextureRenderTarget2D",
+      "file_type": "document",
+      "source_file": "PCGRenderTargetData Objects.md",
+      "source_location": "line 28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "batchplaceassetinfo_batchplaceassetinfo",
+      "label": "BatchPlaceAssetInfo",
+      "file_type": "document",
+      "source_file": "BatchPlaceAssetParams Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "objecttypequery_objecttypequery",
+      "label": "ObjectTypeQuery",
+      "file_type": "document",
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md",
+      "source_location": "line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresult_hitresult",
+      "label": "HitResult",
+      "file_type": "document",
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": "line 138",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent_primitivecomponent_ref",
+      "label": "PrimitiveComponent",
+      "file_type": "document",
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "shaderparamtypedefinition_shaderparamtypedefinition",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ShaderParamTypeDefinition Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dataflowsimulationasset_dataflowsimulationasset",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataflowSimulationAsset Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dataflowsimulationasset_dataflowsimulationasset",
+      "target": "dataflow_dataflow",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataflowSimulationAsset Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "highlightareastyle_highlightareastyle",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HighlightAreaStyle Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebyobjecttypes_rigunit_spheretracebyobjecttypes",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebyobjecttypes_rigunit_spheretracebyobjecttypes",
+      "target": "vector_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebyobjecttypes_rigunit_spheretracebyobjecttypes",
+      "target": "objecttypequery_objecttypequery",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md",
+      "source_location": "line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "int32interval_int32interval",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Int32Interval Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_RigModulesBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animdataevaltype_animdataevaltype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDataEvalType Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "widget_getfloat_widget_getfloat",
+      "target": "delegatebase_delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Widget_GetFloat Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeatureidtextureblueprintlibrary_cesiumfeatureidtextureblueprintlibrary",
+      "target": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeatureidtextureblueprintlibrary_cesiumfeatureidtextureblueprintlibrary",
+      "target": "cesiumfeatureidtexture_cesiumfeatureidtexture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeatureidtextureblueprintlibrary_cesiumfeatureidtextureblueprintlibrary",
+      "target": "primitivecomponent_primitivecomponent_ref",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeatureidtextureblueprintlibrary_cesiumfeatureidtextureblueprintlibrary",
+      "target": "hitresult_hitresult",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": "line 138",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangewriterbase_interchangewriterbase",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeWriterBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingeditorcommand_create_aesbuildingeditorcommand_create",
+      "target": "aeseditorsimplecommand_aeseditorsimplecommand",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBuildingEditorCommand__Create Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshreaddataprovider_skeletalmeshreaddataprovider",
+      "target": "optimusskinnedmeshdataprovider_optimusskinnedmeshdataprovider",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshReadDataProvider Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "stmapinfo_stmapinfo",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "STMapInfo Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "stmapinfo_stmapinfo",
+      "target": "texture_texture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "STMapInfo Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "batchplaceassetparams_batchplaceassetparams",
+      "target": "actionparamsbase_actionparamsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BatchPlaceAssetParams Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "batchplaceassetparams_batchplaceassetparams",
+      "target": "batchplaceassetinfo_batchplaceassetinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BatchPlaceAssetParams Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "batchplaceassetparams_batchplaceassetparams",
+      "target": "vector2d_vector2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BatchPlaceAssetParams Objects.md",
+      "source_location": "line 19",
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditormodesettingslibrary_aeseditormodesettingslibrary",
+      "target": "blueprintfunctionlibrary_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorModeSettingsLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathfloatrad_rigunit__mathfloatrad",
+      "target": "rigvmfunction_mathfloatrad_rigvmfunction_mathfloatrad",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatRad Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterscreencomponent_displayclusterscreencomponent",
+      "target": "staticmeshcomponent_staticmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterScreenComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressionadd_dmmaterialstageexpressionadd",
+      "target": "dmmaterialstageexpressionmathbase_dmmaterialstageexpressionmathbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionAdd Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgrendertargetdata_pcgrendertargetdata",
+      "target": "pcgbasetexturedata_pcgbasetexturedata",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGRenderTargetData Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgrendertargetdata_pcgrendertargetdata",
+      "target": "texturerendertarget2d_texturerendertarget2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGRenderTargetData Objects.md",
+      "source_location": "line 28",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_alphainterpvector_rigunit_alphainterpvector",
+      "target": "rigvmfunction_alphainterpvector_rigvmfunction_alphainterpvector",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AlphaInterpVector Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumboundingvolumecomponent_cesiumboundingvolumecomponent",
+      "target": "primitivecomponent_primitivecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumBoundingVolumeComponent Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_base_animnode_base",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_Base Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebyobjecttypes_rigunit_spheretracebyobjecttypes",
+      "target": "rigunit_rigmodulesbase_rigunit_rigmodulesbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterscreencomponent_displayclusterscreencomponent",
+      "target": "cesiumboundingvolumecomponent_cesiumboundingvolumecomponent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DisplayClusterScreenComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stmapinfo_stmapinfo",
+      "target": "pcgrendertargetdata_pcgrendertargetdata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "STMapInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__mathfloatrad_rigunit__mathfloatrad",
+      "target": "rigunit_alphainterpvector_rigunit_alphainterpvector",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__MathFloatRad Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "shaderparamtypedefinition_shaderparamtypedefinition",
+      "target": "dataflowsimulationasset_dataflowsimulationasset",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ShaderParamTypeDefinition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingeditorcommand_create_aesbuildingeditorcommand_create",
+      "target": "aeseditormodesettingslibrary_aeseditormodesettingslibrary",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesBuildingEditorCommand__Create Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiumfeatureidtextureblueprintlibrary_cesiumfeatureidtextureblueprintlibrary",
+      "target": "cesiumboundingvolumecomponent_cesiumboundingvolumecomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_rigunit_hierarchy",
+      "label": "ControlRig Unit Inheritance Hierarchy",
+      "nodes": [
+        "rigunit_rigunit",
+        "rigunit_spheretracebyobjecttypes_rigunit_spheretracebyobjecttypes",
+        "rigunit_rigmodulesbase_rigunit_rigmodulesbase"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphereTraceByObjectTypes Objects.md"
+    },
+    {
+      "id": "cesium_component_ecosystem",
+      "label": "Cesium Plugin Component Ecosystem",
+      "nodes": [
+        "cesiumfeatureidtextureblueprintlibrary_cesiumfeatureidtextureblueprintlibrary",
+        "cesiumboundingvolumecomponent_cesiumboundingvolumecomponent",
+        "cesiumfeatureidtexture_cesiumfeatureidtexture"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CesiumFeatureIdTextureBlueprintLibrary Objects.md"
+    },
+    {
+      "id": "deprecated_rigunit_renames",
+      "label": "Deprecated RigUnit Renaming Pattern",
+      "nodes": [
+        "rigunit__mathfloatrad_rigunit__mathfloatrad",
+        "rigunit_alphainterpvector_rigunit_alphainterpvector",
+        "rigvmfunction_mathfloatrad_rigvmfunction_mathfloatrad",
+        "rigvmfunction_alphainterpvector_rigvmfunction_alphainterpvector"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatRad Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

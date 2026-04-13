@@ -1,0 +1,551 @@
+{
+  "nodes": [
+    {
+      "id": "ontimelinelinearcolor_ontimelinelinearcolor",
+      "label": "OnTimelineLinearColor",
+      "file_type": "document",
+      "source_file": "OnTimelineLinearColor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "radialintmask_radialintmask",
+      "label": "RadialIntMask",
+      "file_type": "document",
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "layeredboneblendmode_layeredboneblendmode",
+      "label": "LayeredBoneBlendMode",
+      "file_type": "document",
+      "source_file": "LayeredBoneBlendMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalevelviewportsafeframe_avalevelviewportsafeframe",
+      "label": "AvaLevelViewportSafeFrame",
+      "file_type": "document",
+      "source_file": "AvaLevelViewportSafeFrame Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtextureoverlayerprefab_earthtextureoverlayerprefab",
+      "label": "EarthTextureOverlayerPrefab",
+      "file_type": "document",
+      "source_file": "EarthTextureOverlayerPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptuniformremeshtargettype_geometryscriptuniformremeshtargettype",
+      "label": "GeometryScriptUniformRemeshTargetType",
+      "file_type": "document",
+      "source_file": "GeometryScriptUniformRemeshTargetType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aisense_damage_aisense_damage",
+      "label": "AISense_Damage",
+      "file_type": "document",
+      "source_file": "AISense__Damage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelingobjectscreationapi_modelingobjectscreationapi",
+      "label": "ModelingObjectsCreationAPI",
+      "file_type": "document",
+      "source_file": "ModelingObjectsCreationAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequencename_avasequencename",
+      "label": "AvaSequenceName",
+      "file_type": "document",
+      "source_file": "AvaSequenceName Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceenecomposureexportinitializer_moviesceenecomposureexportinitializer",
+      "label": "MovieSceneComposureExportInitializer",
+      "file_type": "document",
+      "source_file": "MovieSceneComposureExportInitializer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cablecomponent_cablecomponent",
+      "label": "CableComponent",
+      "file_type": "document",
+      "source_file": "CableComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenechaoscacheparams_moviescenechaoscacheparams",
+      "label": "MovieSceneChaosCacheParams",
+      "file_type": "document",
+      "source_file": "MovieSceneChaosCacheParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepointlightfactorynode_interchangepointlightfactorynode",
+      "label": "InterchangePointLightFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangePointLightFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesbuildingeditorcommandparams_stylebrush_aesbuildingeditorcommandparams_stylebrush",
+      "label": "AesBuildingEditorCommandParams_StyleBrush",
+      "file_type": "document",
+      "source_file": "AesBuildingEditorCommandParams__StyleBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorvolumetriccloudsettings_51_skycreatorvolumetriccloudsettings_51",
+      "label": "SkyCreatorVolumetricCloudSettings_51",
+      "file_type": "document",
+      "source_file": "SkyCreatorVolumetricCloudSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "stereodelaysourceeffect_stereodelaysourceeffect",
+      "label": "StereoDelaySourceEffect",
+      "file_type": "document",
+      "source_file": "StereoDelaySourceEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvminstructionsetexecutestate_rigvminstructionsetexecutestate",
+      "label": "RigVMInstructionSetExecuteState",
+      "file_type": "document",
+      "source_file": "RigVMInstructionSetExecuteState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structiterator_structiterator",
+      "label": "StructIterator",
+      "file_type": "document",
+      "source_file": "StructIterator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture2darrayasset_texture2darrayasset",
+      "label": "Texture2DArrayAsset",
+      "file_type": "document",
+      "source_file": "Texture2DArrayAsset Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumselector_enumselector",
+      "label": "EnumSelector",
+      "file_type": "document",
+      "source_file": "EnumSelector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "runtimevirtualtexturefactory_runtimevirtualtexturefactory",
+      "label": "RuntimeVirtualTextureFactory",
+      "file_type": "document",
+      "source_file": "RuntimeVirtualTextureFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncimageexport_asyncimageexport",
+      "label": "AsyncImageExport",
+      "file_type": "document",
+      "source_file": "AsyncImageExport Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "radialintmask_radialintmask",
+      "target": "fieldnodeint_fieldnodeint",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RadialIntMask Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "layeredboneblendmode_layeredboneblendmode",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LayeredBoneBlendMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avalevelviewportsafeframe_avalevelviewportsafeframe",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaLevelViewportSafeFrame Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtextureoverlayerprefab_earthtextureoverlayerprefab",
+      "target": "earthprefabbase_earthprefabbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthTextureOverlayerPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptuniformremeshtargettype_geometryscriptuniformremeshtargettype",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptUniformRemeshTargetType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aisense_damage_aisense_damage",
+      "target": "aisense_aisense",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AISense__Damage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modelingobjectscreationapi_modelingobjectscreationapi",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelingObjectsCreationAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasequencename_avasequencename",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaSequenceName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceenecomposureexportinitializer_moviesceenecomposureexportinitializer",
+      "target": "object_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneComposureExportInitializer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cablecomponent_cablecomponent",
+      "target": "meshcomponent_meshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CableComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenechaoscacheparams_moviescenechaoscacheparams",
+      "target": "moviescenebasecacheparams_moviescenebasecacheparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneChaosCacheParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepointlightfactorynode_interchangepointlightfactorynode",
+      "target": "interchangelightfactorynode_interchangelightfactorynode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangePointLightFactoryNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbuildingeditorcommandparams_stylebrush_aesbuildingeditorcommandparams_stylebrush",
+      "target": "aeseditorsimplecommandparams_aeseditorsimplecommandparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBuildingEditorCommandParams__StyleBrush Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorvolumetriccloudsettings_51_skycreatorvolumetriccloudsettings_51",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorVolumetricCloudSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stereodelaysourceeffect_stereodelaysourceeffect",
+      "target": "enumbase_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StereoDelaySourceEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvminstructionsetexecutestate_rigvminstructionsetexecutestate",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMInstructionSetExecuteState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texture2darrayasset_texture2darrayasset",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Texture2DArrayAsset Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enumselector_enumselector",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EnumSelector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "runtimevirtualtexturefactory_runtimevirtualtexturefactory",
+      "target": "factory_factory",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RuntimeVirtualTextureFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "asyncimageexport_asyncimageexport",
+      "target": "blueprintasyncactionbase_blueprintasyncactionbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AsyncImageExport Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avalevelviewportsafeframe_avalevelviewportsafeframe",
+      "target": "avasequencename_avasequencename",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AvaLevelViewportSafeFrame Objects.md, AvaSequenceName Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cablecomponent_cablecomponent",
+      "target": "moviescenechaoscacheparams_moviescenechaoscacheparams",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CableComponent Objects.md, MovieSceneChaosCacheParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptuniformremeshtargettype_geometryscriptuniformremeshtargettype",
+      "target": "modelingobjectscreationapi_modelingobjectscreationapi",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GeometryScriptUniformRemeshTargetType Objects.md, ModelingObjectsCreationAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "stereodelaysourceeffect_stereodelaysourceeffect",
+      "target": "skycreatorvolumetriccloudsettings_51_skycreatorvolumetriccloudsettings_51",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "StereoDelaySourceEffect Objects.md, SkyCreatorVolumetricCloudSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthtextureoverlayerprefab_earthtextureoverlayerprefab",
+      "target": "aesbuildingeditorcommandparams_stylebrush_aesbuildingeditorcommandparams_stylebrush",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EarthTextureOverlayerPrefab Objects.md, AesBuildingEditorCommandParams__StyleBrush Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "texture2darrayasset_texture2darrayasset",
+      "target": "runtimevirtualtexturefactory_runtimevirtualtexturefactory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Texture2DArrayAsset Objects.md, RuntimeVirtualTextureFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "radialintmask_radialintmask",
+      "target": "aisense_damage_aisense_damage",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.55,
+      "source_file": "RadialIntMask Objects.md, AISense__Damage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangepointlightfactorynode_interchangepointlightfactorynode",
+      "target": "moviesceenecomposureexportinitializer_moviesceenecomposureexportinitializer",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "InterchangePointLightFactoryNode Objects.md, MovieSceneComposureExportInitializer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvminstructionsetexecutestate_rigvminstructionsetexecutestate",
+      "target": "structiterator_structiterator",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMInstructionSetExecuteState Objects.md, StructIterator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "enumselector_enumselector",
+      "target": "layeredboneblendmode_layeredboneblendmode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EnumSelector Objects.md, LayeredBoneBlendMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

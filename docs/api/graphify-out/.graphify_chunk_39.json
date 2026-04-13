@@ -1,0 +1,696 @@
+{
+  "entities": [
+    {
+      "id": "OnMouseCaptureEndEvent",
+      "type": "class",
+      "name": "OnMouseCaptureEndEvent",
+      "description": "On Mouse Capture End Event Delegate Signature",
+      "module": "UMG",
+      "file": "Slider.h",
+      "base_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "NodeSelectionParams",
+      "type": "class",
+      "name": "NodeSelectionParams",
+      "description": "Node Selection Params",
+      "module": "WdpInteractionAPI",
+      "plugin": "WdpRuntimeAPI",
+      "file": "WdpNodeSelectionApi.h",
+      "base_class": "EidParams"
+    },
+    {
+      "id": "DMMaterialPropertyAmbientOcclusion",
+      "type": "class",
+      "name": "DMMaterialPropertyAmbientOcclusion",
+      "description": "DMMaterial Property Ambient Occlusion",
+      "module": "DynamicMaterialEditor",
+      "plugin": "DynamicMaterial",
+      "file": "DMMPAmbientOcclusion.h",
+      "base_class": "DMMaterialProperty"
+    },
+    {
+      "id": "RigVMFunction_MathBoolFlipFlop",
+      "type": "class",
+      "name": "RigVMFunction_MathBoolFlipFlop",
+      "description": "Returns true and false as a sequence",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_MathBool.h",
+      "base_class": "RigVMFunction_MathBoolBase"
+    },
+    {
+      "id": "OnControllerCaptureBeginEventSynth2D",
+      "type": "class",
+      "name": "OnControllerCaptureBeginEventSynth2D",
+      "description": "On Controller Capture Begin Event Synth 2D Delegate Signature",
+      "module": "Synthesis",
+      "plugin": "Synthesis",
+      "file": "Synth2DSlider.h",
+      "base_class": "MulticastDelegateBase"
+    },
+    {
+      "id": "RigUnit_QuaternionToAxisAndAngle",
+      "type": "class",
+      "name": "RigUnit_QuaternionToAxisAndAngle",
+      "description": "Rig Unit Quaternion to Axis and Angle",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_Quaternion.h",
+      "base_class": "RigUnit"
+    },
+    {
+      "id": "EarthClusterPrefab",
+      "type": "class",
+      "name": "EarthClusterPrefab",
+      "description": "集群预制体数据",
+      "module": "EarthPrefab",
+      "plugin": "AesWorld",
+      "file": "EarthClusterPrefab.h",
+      "base_class": "EarthPrefabBase"
+    },
+    {
+      "id": "AesUrbanWorld",
+      "type": "class",
+      "name": "AesUrbanWorld",
+      "description": "Aes Urban World",
+      "module": "UrbanWorld",
+      "plugin": "AesRuntime",
+      "file": "AesUrbanWorld.h",
+      "base_class": "UrbanWorld"
+    },
+    {
+      "id": "PCGSelectGrammarCriteriaAttributeNames",
+      "type": "class",
+      "name": "PCGSelectGrammarCriteriaAttributeNames",
+      "description": "Used for directly mapping custom attribute names to a criteria attribute set",
+      "module": "PCG",
+      "plugin": "PCG",
+      "file": "PCGSelectGrammar.h",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "ClusterAPI",
+      "type": "class",
+      "name": "ClusterAPI",
+      "description": "Cluster API",
+      "module": "CoveringAPIDefine",
+      "plugin": "CoveringAPI",
+      "file": "ClusterAPI.h",
+      "base_class": "ApiClassBase"
+    },
+    {
+      "id": "AnimatedTexture2D",
+      "type": "class",
+      "name": "AnimatedTexture2D",
+      "description": "deprecated: 'AnimatedTexture2D' was renamed to 'EarthAnimatedTexture2D'",
+      "base_class": "EarthAnimatedTexture2D",
+      "deprecated": true
+    },
+    {
+      "id": "AttenuationDistanceModel",
+      "type": "enum",
+      "name": "AttenuationDistanceModel",
+      "description": "EAttenuation Distance Model",
+      "module": "Engine",
+      "file": "Attenuation.h",
+      "base_class": "EnumBase",
+      "values": ["LINEAR", "LOGARITHMIC", "INVERSE", "LOG_REVERSE", "NATURAL_SOUND", "CUSTOM"]
+    },
+    {
+      "id": "RetargetTranslationMode",
+      "type": "enum",
+      "name": "RetargetTranslationMode",
+      "description": "ERetarget Translation Mode",
+      "module": "IKRig",
+      "plugin": "IKRig",
+      "file": "IKRetargetSettings.h",
+      "base_class": "EnumBase",
+      "values": ["NONE", "GLOBALLY_SCALED", "ABSOLUTE"]
+    },
+    {
+      "id": "AnimDetailProxyInteger",
+      "type": "class",
+      "name": "AnimDetailProxyInteger",
+      "description": "Anim Detail Proxy Integer",
+      "module": "ControlRigEditor",
+      "plugin": "ControlRig",
+      "file": "AnimDetailsProxy.h",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "PreviewMeshCollectionEntry",
+      "type": "class",
+      "name": "PreviewMeshCollectionEntry",
+      "description": "An entry in a preview mesh collection",
+      "module": "Engine",
+      "file": "PreviewMeshCollection.h",
+      "base_class": "StructBase"
+    },
+    {
+      "id": "PoiEntityPickAtom",
+      "type": "class",
+      "name": "PoiEntityPickAtom",
+      "description": "Poi Entity Pick Atom",
+      "module": "CoveringAPIEntity",
+      "plugin": "CoveringAPI",
+      "file": "PoiEntityPickAtom.h",
+      "base_class": "EntityPickAtom"
+    },
+    {
+      "id": "EndpointSubmix",
+      "type": "class",
+      "name": "EndpointSubmix",
+      "description": "Sound Submix class meant for sending audio to an external endpoint, such as controller haptics or an additional audio device",
+      "module": "Engine",
+      "file": "SoundSubmix.h",
+      "base_class": "SoundSubmixBase"
+    },
+    {
+      "id": "MVVMGameSubsystem",
+      "type": "class",
+      "name": "MVVMGameSubsystem",
+      "description": "MVVMGame Subsystem",
+      "module": "ModelViewViewModel",
+      "plugin": "ModelViewViewModel",
+      "file": "MVVMGameSubsystem.h",
+      "base_class": "GameInstanceSubsystem"
+    },
+    {
+      "id": "GameplayAbilityTargetActor_GroundTrace",
+      "type": "class",
+      "name": "GameplayAbilityTargetActor_GroundTrace",
+      "description": "Gameplay Ability Target Actor Ground Trace",
+      "module": "GameplayAbilities",
+      "plugin": "GameplayAbilities",
+      "file": "GameplayAbilityTargetActor_GroundTrace.h",
+      "base_class": "GameplayAbilityTargetActor_Trace"
+    },
+    {
+      "id": "ZoneLaneTagMaskComparison",
+      "type": "enum",
+      "name": "ZoneLaneTagMaskComparison",
+      "description": "EZone Lane Tag Mask Comparison",
+      "module": "ZoneGraph",
+      "plugin": "ZoneGraph",
+      "file": "ZoneGraphTypes.h",
+      "base_class": "EnumBase",
+      "values": ["ANY", "ALL", "NOT"]
+    },
+    {
+      "id": "RigUnit_CollectionLoop",
+      "type": "class",
+      "name": "RigUnit_CollectionLoop",
+      "description": "Given a collection of items, execute iteratively across all items in a given collection",
+      "module": "ControlRig",
+      "plugin": "ControlRig",
+      "file": "RigUnit_Collection.h",
+      "base_class": "RigUnit_CollectionBaseMutable"
+    },
+    {
+      "id": "_Logger",
+      "type": "class",
+      "name": "_Logger",
+      "base_class": "_io.BufferedIOBase"
+    }
+  ],
+  "properties": [
+    {
+      "entity": "NodeSelectionParams",
+      "name": "eid",
+      "type": "Eid",
+      "access": "read-write"
+    },
+    {
+      "entity": "NodeSelectionParams",
+      "name": "guid",
+      "type": "str",
+      "access": "read-write"
+    },
+    {
+      "entity": "NodeSelectionParams",
+      "name": "hit_keys",
+      "type": "Set[Name]",
+      "access": "read-write"
+    },
+    {
+      "entity": "NodeSelectionParams",
+      "name": "node_ids",
+      "type": "Array[int32]",
+      "access": "read-write"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "component_dirty",
+      "type": "bool",
+      "access": "read-only"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "component_state",
+      "type": "DMComponentLifetimeState",
+      "access": "read-only"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "components",
+      "type": "Map[Name, DMMaterialComponent]",
+      "access": "read-only"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "editable_properties",
+      "type": "Array[Name]",
+      "access": "read-only"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "enabled",
+      "type": "bool",
+      "access": "read-only"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "input_connection_map",
+      "type": "DMMaterialStageConnection",
+      "access": "read-only"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "input_connector_type",
+      "type": "DMValueType",
+      "access": "read-only"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "material_property",
+      "type": "DMMaterialPropertyType",
+      "access": "read-only"
+    },
+    {
+      "entity": "DMMaterialPropertyAmbientOcclusion",
+      "name": "output_processor",
+      "type": "MaterialFunctionInterface",
+      "access": "read-only"
+    },
+    {
+      "entity": "RigVMFunction_MathBoolFlipFlop",
+      "name": "duration",
+      "type": "float",
+      "access": "read-write"
+    },
+    {
+      "entity": "RigVMFunction_MathBoolFlipFlop",
+      "name": "result",
+      "type": "bool",
+      "access": "read-write"
+    },
+    {
+      "entity": "RigVMFunction_MathBoolFlipFlop",
+      "name": "start_value",
+      "type": "bool",
+      "access": "read-write"
+    },
+    {
+      "entity": "RigUnit_QuaternionToAxisAndAngle",
+      "name": "angle",
+      "type": "float",
+      "access": "read-only"
+    },
+    {
+      "entity": "RigUnit_QuaternionToAxisAndAngle",
+      "name": "argument",
+      "type": "Quat",
+      "access": "read-write"
+    },
+    {
+      "entity": "RigUnit_QuaternionToAxisAndAngle",
+      "name": "axis",
+      "type": "Vector",
+      "access": "read-only"
+    },
+    {
+      "entity": "EarthClusterPrefab",
+      "name": "fragments",
+      "type": "Array[InstancedStruct]",
+      "access": "read-write"
+    },
+    {
+      "entity": "PCGSelectGrammarCriteriaAttributeNames",
+      "name": "comparator_attribute_name",
+      "type": "Name",
+      "access": "read-write"
+    },
+    {
+      "entity": "PCGSelectGrammarCriteriaAttributeNames",
+      "name": "first_value_attribute_name",
+      "type": "Name",
+      "access": "read-write"
+    },
+    {
+      "entity": "PCGSelectGrammarCriteriaAttributeNames",
+      "name": "grammar_attribute_name",
+      "type": "Name",
+      "access": "read-write"
+    },
+    {
+      "entity": "PCGSelectGrammarCriteriaAttributeNames",
+      "name": "key_attribute_name",
+      "type": "Name",
+      "access": "read-write"
+    },
+    {
+      "entity": "PCGSelectGrammarCriteriaAttributeNames",
+      "name": "second_value_attribute_name",
+      "type": "Name",
+      "access": "read-write"
+    },
+    {
+      "entity": "AnimDetailProxyInteger",
+      "name": "integer",
+      "type": "int64",
+      "access": "read-write"
+    },
+    {
+      "entity": "PreviewMeshCollectionEntry",
+      "name": "anim_blueprint",
+      "type": "AnimBlueprint",
+      "access": "read-write"
+    },
+    {
+      "entity": "PreviewMeshCollectionEntry",
+      "name": "skeletal_mesh",
+      "type": "SkeletalMesh",
+      "access": "read-write"
+    },
+    {
+      "entity": "EndpointSubmix",
+      "name": "auto_disable",
+      "type": "bool",
+      "access": "read-write"
+    },
+    {
+      "entity": "EndpointSubmix",
+      "name": "auto_disable_time",
+      "type": "float",
+      "access": "read-write"
+    },
+    {
+      "entity": "EndpointSubmix",
+      "name": "child_submixes",
+      "type": "Array[SoundSubmixBase]",
+      "access": "read-only"
+    },
+    {
+      "entity": "EndpointSubmix",
+      "name": "endpoint_settings",
+      "type": "AudioEndpointSettingsBase",
+      "access": "read-write"
+    },
+    {
+      "entity": "EndpointSubmix",
+      "name": "endpoint_type",
+      "type": "Name",
+      "access": "read-write"
+    },
+    {
+      "entity": "GameplayAbilityTargetActor_GroundTrace",
+      "name": "collision_height",
+      "type": "float",
+      "access": "read-write"
+    },
+    {
+      "entity": "GameplayAbilityTargetActor_GroundTrace",
+      "name": "collision_radius",
+      "type": "float",
+      "access": "read-write"
+    },
+    {
+      "entity": "RigUnit_CollectionLoop",
+      "name": "collection",
+      "type": "RigElementKeyCollection",
+      "access": "read-write"
+    },
+    {
+      "entity": "RigUnit_CollectionLoop",
+      "name": "completed",
+      "type": "ControlRigExecuteContext",
+      "access": "read-only"
+    },
+    {
+      "entity": "RigUnit_CollectionLoop",
+      "name": "count",
+      "type": "int32",
+      "access": "read-only"
+    },
+    {
+      "entity": "RigUnit_CollectionLoop",
+      "name": "execute_context",
+      "type": "ControlRigExecuteContext",
+      "access": "read-write"
+    },
+    {
+      "entity": "RigUnit_CollectionLoop",
+      "name": "index",
+      "type": "int32",
+      "access": "read-only"
+    },
+    {
+      "entity": "RigUnit_CollectionLoop",
+      "name": "item",
+      "type": "RigElementKey",
+      "access": "read-only"
+    },
+    {
+      "entity": "RigUnit_CollectionLoop",
+      "name": "ratio",
+      "type": "float",
+      "access": "read-only"
+    }
+  ],
+  "methods": [
+    {
+      "entity": "ClusterAPI",
+      "name": "update_cluster",
+      "parameters": [{"name": "params", "type": "UpdateClusterParams"}],
+      "return_type": "Optional[ResultBase]"
+    },
+    {
+      "entity": "ClusterAPI",
+      "name": "start_cluster",
+      "parameters": [{"name": "params", "type": "StartClusterParams"}],
+      "return_type": "Optional[ResultBase]"
+    },
+    {
+      "entity": "ClusterAPI",
+      "name": "end_cluster",
+      "parameters": [{"name": "params", "type": "ParamsBase"}],
+      "return_type": "Optional[ResultBase]"
+    },
+    {
+      "entity": "MVVMGameSubsystem",
+      "name": "get_view_model_collection",
+      "parameters": [],
+      "return_type": "MVVMViewModelCollectionObject"
+    },
+    {
+      "entity": "_Logger",
+      "name": "writable",
+      "parameters": [],
+      "return_type": null
+    },
+    {
+      "entity": "_Logger",
+      "name": "write",
+      "parameters": [{"name": "b", "type": null}],
+      "return_type": null
+    },
+    {
+      "entity": "_Logger",
+      "name": "flush",
+      "parameters": [],
+      "return_type": null
+    },
+    {
+      "entity": "_Logger",
+      "name": "detach",
+      "parameters": [],
+      "return_type": null
+    },
+    {
+      "entity": "_Logger",
+      "name": "close",
+      "parameters": [],
+      "return_type": null
+    },
+    {
+      "entity": "_Logger",
+      "name": "_redirect_warning",
+      "parameters": [
+        {"name": "message", "type": null},
+        {"name": "category", "type": null},
+        {"name": "filename", "type": null},
+        {"name": "lineno", "type": null},
+        {"name": "file", "type": null},
+        {"name": "line", "type": null}
+      ],
+      "return_type": null
+    },
+    {
+      "name": "uclass",
+      "parameters": [],
+      "return_type": null
+    },
+    {
+      "name": "ustruct",
+      "parameters": [],
+      "return_type": null
+    },
+    {
+      "name": "uenum",
+      "parameters": [],
+      "return_type": null
+    },
+    {
+      "name": "uvalue",
+      "parameters": [{"name": "val", "type": null}, {"name": "meta", "type": null}],
+      "return_type": null
+    },
+    {
+      "name": "uproperty",
+      "parameters": [
+        {"name": "type", "type": null},
+        {"name": "meta", "type": null},
+        {"name": "getter", "type": null},
+        {"name": "setter", "type": null}
+      ],
+      "return_type": null
+    },
+    {
+      "name": "ufunction",
+      "parameters": [
+        {"name": "meta", "type": null},
+        {"name": "ret", "type": null},
+        {"name": "params", "type": null},
+        {"name": "override", "type": null},
+        {"name": "static", "type": null},
+        {"name": "pure", "type": null},
+        {"name": "getter", "type": null},
+        {"name": "setter", "type": null}
+      ],
+      "return_type": null
+    }
+  ],
+  "relationships": [
+    {
+      "source": "OnMouseCaptureEndEvent",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "NodeSelectionParams",
+      "target": "EidParams",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialPropertyAmbientOcclusion",
+      "target": "DMMaterialProperty",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathBoolFlipFlop",
+      "target": "RigVMFunction_MathBoolBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "OnControllerCaptureBeginEventSynth2D",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_QuaternionToAxisAndAngle",
+      "target": "RigUnit",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthClusterPrefab",
+      "target": "EarthPrefabBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AesUrbanWorld",
+      "target": "UrbanWorld",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PCGSelectGrammarCriteriaAttributeNames",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ClusterAPI",
+      "target": "ApiClassBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimatedTexture2D",
+      "target": "EarthAnimatedTexture2D",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AttenuationDistanceModel",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RetargetTranslationMode",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "AnimDetailProxyInteger",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PreviewMeshCollectionEntry",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PoiEntityPickAtom",
+      "target": "EntityPickAtom",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EndpointSubmix",
+      "target": "SoundSubmixBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MVVMGameSubsystem",
+      "target": "GameInstanceSubsystem",
+      "type": "inherits_from"
+    },
+    {
+      "source": "GameplayAbilityTargetActor_GroundTrace",
+      "target": "GameplayAbilityTargetActor_Trace",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ZoneLaneTagMaskComparison",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_CollectionLoop",
+      "target": "RigUnit_CollectionBaseMutable",
+      "type": "inherits_from"
+    },
+    {
+      "source": "_Logger",
+      "target": "_io.BufferedIOBase",
+      "type": "inherits_from"
+    }
+  ]
+}

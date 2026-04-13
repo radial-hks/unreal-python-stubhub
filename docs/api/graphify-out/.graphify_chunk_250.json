@@ -1,0 +1,1145 @@
+{
+  "nodes": [
+    {
+      "id": "fbxassetimportdata_fbxassetimportdata",
+      "label": "FbxAssetImportData",
+      "file_type": "document",
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetimportdata_baseclass",
+      "label": "AssetImportData",
+      "file_type": "document",
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector_type",
+      "label": "Vector",
+      "file_type": "document",
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Line 30",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rotator_type",
+      "label": "Rotator",
+      "file_type": "document",
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Line 50",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetimportinfo_type",
+      "label": "AssetImportInfo",
+      "file_type": "document",
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Line 22",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visualloggercameracontroller_visualloggercameracontroller",
+      "label": "VisualLoggerCameraController",
+      "file_type": "document",
+      "source_file": "VisualLoggerCameraController Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugcameracontroller_baseclass",
+      "label": "DebugCameraController",
+      "file_type": "document",
+      "source_file": "VisualLoggerCameraController Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpmaterialeditorassetnameresult_dcpmaterialeditorassetnameresult",
+      "label": "DCPMaterialEditorAssetNameResult",
+      "file_type": "document",
+      "source_file": "DCPMaterialEditorAssetNameResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "resultbase_baseclass",
+      "label": "ResultBase",
+      "file_type": "document",
+      "source_file": "DCPMaterialEditorAssetNameResult Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscenechangeinfo_type",
+      "label": "WdpSceneChangeInfo",
+      "file_type": "document",
+      "source_file": "DCPMaterialEditorAssetNameResult Objects.md",
+      "source_location": "Line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigidbodyerrorcorrection_rigidbodyerrorcorrection",
+      "label": "RigidBodyErrorCorrection",
+      "file_type": "document",
+      "source_file": "RigidBodyErrorCorrection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_baseclass",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RigidBodyErrorCorrection Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+      "label": "PCGSubdivisionBaseSettings",
+      "file_type": "document",
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings_baseclass",
+      "label": "PCGSettings",
+      "file_type": "document",
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsubdivisionsubmodule_type",
+      "label": "PCGSubdivisionSubmodule",
+      "file_type": "document",
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Line 74",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggrammarselection_type",
+      "label": "PCGGrammarSelection",
+      "file_type": "document",
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Line 115",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyinputselector_type",
+      "label": "PCGAttributePropertyInputSelector",
+      "file_type": "document",
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Line 155",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsubdivisionsubmodule_pcgsubdivisionsubmodule",
+      "label": "PCGSubdivisionSubmodule",
+      "file_type": "document",
+      "source_file": "PCGSubdivisionSubmodule Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector4_type",
+      "label": "Vector4",
+      "file_type": "document",
+      "source_file": "PCGSubdivisionSubmodule Objects.md",
+      "source_location": "Line 101",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioparametertype_audioparametertype",
+      "label": "AudioParameterType",
+      "file_type": "document",
+      "source_file": "AudioParameterType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "assetrenamedata_assetrenamedata",
+      "label": "AssetRenameData",
+      "file_type": "document",
+      "source_file": "AssetRenameData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_type",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "AssetRenameData Objects.md",
+      "source_location": "Line 35",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_spheretracebytracechannel_rigunit_spheretracebytracechannel",
+      "label": "RigUnit_SphereTraceByTraceChannel",
+      "file_type": "document",
+      "source_file": "RigUnit_SphereTraceByTraceChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_baseclass",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_SphereTraceByTraceChannel Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tracetypequery_type",
+      "label": "TraceTypeQuery",
+      "file_type": "document",
+      "source_file": "RigUnit_SphereTraceByTraceChannel Objects.md",
+      "source_location": "Line 87",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgalembictopcgassetexporter_pcgalembictopcgassetexporter",
+      "label": "PCGAlembicToPCGAssetExporter",
+      "file_type": "document",
+      "source_file": "PCGAlembicToPCGAssetExporter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgassetexporter_baseclass",
+      "label": "PCGAssetExporter",
+      "file_type": "document",
+      "source_file": "PCGAlembicToPCGAssetExporter Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionfromeuler_rigunit_mathquaternionfromeuler",
+      "label": "RigUnit_MathQuaternionFromEuler",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionFromEuler Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionfromeuler_baseclass",
+      "label": "RigVMFunction_MathQuaternionFromEuler",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionFromEuler Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "eulerrotationorder_type",
+      "label": "EulerRotationOrder",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionFromEuler Objects.md",
+      "source_location": "Line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quat_type",
+      "label": "Quat",
+      "file_type": "document",
+      "source_file": "RigUnit__MathQuaternionFromEuler Objects.md",
+      "source_location": "Line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationobjectbase_navigationobjectbase",
+      "label": "NavigationObjectBase",
+      "file_type": "document",
+      "source_file": "NavigationObjectBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_baseclass",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "NavigationObjectBase Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_posegetitemssitemarray_rigunit_posegetitemssitemarray",
+      "label": "RigUnit_PoseGetItemsItemArray",
+      "file_type": "document",
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunithierarchybase_baseclass",
+      "label": "RigUnit_HierarchyBase",
+      "file_type": "document",
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigpose_type",
+      "label": "RigPose",
+      "file_type": "document",
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Line 37",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementtype_type",
+      "label": "RigElementType",
+      "file_type": "document",
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Line 56",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_type",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Line 77",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_simplifymethod_generatestaticmeshlodprocess_simplifymethod",
+      "label": "GenerateStaticMeshLODProcess_SimplifyMethod",
+      "file_type": "document",
+      "source_file": "GenerateStaticMeshLODProcess__SimplifyMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transformspacemode_transformspacemode",
+      "label": "TransformSpaceMode",
+      "file_type": "document",
+      "source_file": "TransformSpaceMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testsparseclassdata_testsparseclassdata",
+      "label": "TestSparseClassData",
+      "file_type": "document",
+      "source_file": "TestSparseClassData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testsparseclassdatabase_baseclass",
+      "label": "TestSparseClassDataBase",
+      "file_type": "document",
+      "source_file": "TestSparseClassData Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescencelivelinktrackrecorder_moviescencelivelinktrackrecorder",
+      "label": "MovieSceneLiveLinkTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieSceneLiveLinkTrackRecorder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetrackrecorder_baseclass",
+      "label": "MovieSceneTrackRecorder",
+      "file_type": "document",
+      "source_file": "MovieSceneLiveLinkTrackRecorder Objects.md",
+      "source_location": "Line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_fbikeffector_ikrig_fbikeffector",
+      "label": "IKRig_FBIKEffector",
+      "file_type": "document",
+      "source_file": "IKRig_FBIKEffector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcurveeasing_propertyanimatorcurveeasing",
+      "label": "PropertyAnimatorCurveEasing",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCurveEasing Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatoreasecurve_type",
+      "label": "PropertyAnimatorEaseCurve",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCurveEasing Objects.md",
+      "source_location": "Line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editablegameplaytagqueryexpression_notagsmatch_editablegameplaytagqueryexpression_notagsmatch",
+      "label": "EditableGameplayTagQueryExpression_NoTagsMatch",
+      "file_type": "document",
+      "source_file": "EditableGameplayTagQueryExpression_NoTagsMatch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editablegameplaytagqueryexpression_baseclass",
+      "label": "EditableGameplayTagQueryExpression",
+      "file_type": "document",
+      "source_file": "EditableGameplayTagQueryExpression_NoTagsMatch Objects.md",
+      "source_location": "Line 4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaytagcontainer_type",
+      "label": "GameplayTagContainer",
+      "file_type": "document",
+      "source_file": "EditableGameplayTagQueryExpression_NoTagsMatch Objects.md",
+      "source_location": "Line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "previewactorfortransform_previewactorfortransform",
+      "label": "PreviewActorForTransform",
+      "file_type": "document",
+      "source_file": "PreviewActorForTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distribution_distribution",
+      "label": "Distribution",
+      "file_type": "document",
+      "source_file": "Distribution Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxcoordinateconcept",
+      "label": "FBX Coordinate System Conversion",
+      "file_type": "document",
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Lines 16-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigidbodyphysics_replication",
+      "label": "Rigid Body Physics Replication and Error Correction",
+      "file_type": "document",
+      "source_file": "RigidBodyErrorCorrection Objects.md",
+      "source_location": "Lines 16-39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_subdivision_grammar",
+      "label": "PCG Grammar-Based Subdivision System",
+      "file_type": "document",
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Lines 31-46",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ik_fbk_effector_system",
+      "label": "Full Body IK Effector System",
+      "file_type": "document",
+      "source_file": "IKRig_FBIKEffector Objects.md",
+      "source_location": "Lines 17-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "fbxassetimportdata_fbxassetimportdata",
+      "target": "assetimportdata_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "fbxassetimportdata_fbxassetimportdata",
+      "target": "vector_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Line 30",
+      "weight": 1.0
+    },
+    {
+      "source": "fbxassetimportdata_fbxassetimportdata",
+      "target": "rotator_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Line 50",
+      "weight": 1.0
+    },
+    {
+      "source": "fbxassetimportdata_fbxassetimportdata",
+      "target": "assetimportinfo_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Line 22",
+      "weight": 1.0
+    },
+    {
+      "source": "fbxassetimportdata_fbxassetimportdata",
+      "target": "fbxcoordinateconcept",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FbxAssetImportData Objects.md",
+      "source_location": "Lines 16-18",
+      "weight": 1.0
+    },
+    {
+      "source": "visualloggercameracontroller_visualloggercameracontroller",
+      "target": "debugcameracontroller_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VisualLoggerCameraController Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmaterialeditorassetnameresult_dcpmaterialeditorassetnameresult",
+      "target": "resultbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPMaterialEditorAssetNameResult Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "dcpmaterialeditorassetnameresult_dcpmaterialeditorassetnameresult",
+      "target": "wdpscenechangeinfo_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DCPMaterialEditorAssetNameResult Objects.md",
+      "source_location": "Line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "rigidbodyerrorcorrection_rigidbodyerrorcorrection",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigidBodyErrorCorrection Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigidbodyerrorcorrection_rigidbodyerrorcorrection",
+      "target": "rigidbodyphysics_replication",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigidBodyErrorCorrection Objects.md",
+      "source_location": "Lines 16-39",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+      "target": "pcgsettings_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+      "target": "pcgsubdivisionsubmodule_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Line 74",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+      "target": "pcggrammarselection_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Line 115",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+      "target": "pcgattributepropertyinputselector_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Line 155",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+      "target": "pcg_subdivision_grammar",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "PCGSubdivisionBaseSettings Objects.md",
+      "source_location": "Lines 31-46",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionsubmodule_pcgsubdivisionsubmodule",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSubdivisionSubmodule Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionsubmodule_pcgsubdivisionsubmodule",
+      "target": "vector4_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGSubdivisionSubmodule Objects.md",
+      "source_location": "Line 101",
+      "weight": 1.0
+    },
+    {
+      "source": "assetrenamedata_assetrenamedata",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetRenameData Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "assetrenamedata_assetrenamedata",
+      "target": "object_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AssetRenameData Objects.md",
+      "source_location": "Line 35",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebytracechannel_rigunit_spheretracebytracechannel",
+      "target": "rigunit_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphereTraceByTraceChannel Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebytracechannel_rigunit_spheretracebytracechannel",
+      "target": "vector_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphereTraceByTraceChannel Objects.md",
+      "source_location": "Lines 45, 65",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebytracechannel_rigunit_spheretracebytracechannel",
+      "target": "tracetypequery_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SphereTraceByTraceChannel Objects.md",
+      "source_location": "Line 87",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgalembictopcgassetexporter_pcgalembictopcgassetexporter",
+      "target": "pcgassetexporter_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAlembicToPCGAssetExporter Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionfromeuler_rigunit_mathquaternionfromeuler",
+      "target": "rigvmfunction_mathquaternionfromeuler_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionFromEuler Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionfromeuler_rigunit_mathquaternionfromeuler",
+      "target": "vector_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionFromEuler Objects.md",
+      "source_location": "Line 14",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionfromeuler_rigunit_mathquaternionfromeuler",
+      "target": "eulerrotationorder_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionFromEuler Objects.md",
+      "source_location": "Line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionfromeuler_rigunit_mathquaternionfromeuler",
+      "target": "quat_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathQuaternionFromEuler Objects.md",
+      "source_location": "Line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "navigationobjectbase_navigationobjectbase",
+      "target": "actor_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavigationObjectBase Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetitemssitemarray_rigunit_posegetitemssitemarray",
+      "target": "rigunithierarchybase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetitemssitemarray_rigunit_posegetitemssitemarray",
+      "target": "rigpose_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Line 37",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetitemssitemarray_rigunit_posegetitemssitemarray",
+      "target": "rigelementtype_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Line 56",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetitemssitemarray_rigunit_posegetitemssitemarray",
+      "target": "rigelementkey_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Line 77",
+      "weight": 1.0
+    },
+    {
+      "source": "testsparseclassdata_testsparseclassdata",
+      "target": "testsparseclassdatabase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TestSparseClassData Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviescencelivelinktrackrecorder_moviescencelivelinktrackrecorder",
+      "target": "moviescenetrackrecorder_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneLiveLinkTrackRecorder Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_fbikeffector_ikrig_fbikeffector",
+      "target": "ik_fbk_effector_system",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "IKRig_FBIKEffector Objects.md",
+      "source_location": "Lines 17-31",
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcurveeasing_propertyanimatorcurveeasing",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCurveEasing Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcurveeasing_propertyanimatorcurveeasing",
+      "target": "propertyanimatoreasecurve_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCurveEasing Objects.md",
+      "source_location": "Line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "editablegameplaytagqueryexpression_notagsmatch_editablegameplaytagqueryexpression_notagsmatch",
+      "target": "editablegameplaytagqueryexpression_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditableGameplayTagQueryExpression_NoTagsMatch Objects.md",
+      "source_location": "Lines 4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "editablegameplaytagqueryexpression_notagsmatch_editablegameplaytagqueryexpression_notagsmatch",
+      "target": "gameplaytagcontainer_type",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditableGameplayTagQueryExpression_NoTagsMatch Objects.md",
+      "source_location": "Line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "previewactorfortransform_previewactorfortransform",
+      "target": "actor_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PreviewActorForTransform Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "distribution_distribution",
+      "target": "object_type",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Distribution Objects.md",
+      "source_location": "Line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionsubmodule_pcgsubdivisionsubmodule",
+      "target": "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGSubdivisionSubmodule Objects.md",
+      "source_location": "Lines 1-114",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebytracechannel_rigunit_spheretracebytracechannel",
+      "target": "rigunit_posegetitemssitemarray_rigunit_posegetitemssitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SphereTraceByTraceChannel Objects.md",
+      "source_location": "Lines 1-152",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_spheretracebytracechannel_rigunit_spheretracebytracechannel",
+      "target": "rigunit_mathquaternionfromeuler_rigunit_mathquaternionfromeuler",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SphereTraceByTraceChannel Objects.md",
+      "source_location": "Lines 1-152",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_posegetitemssitemarray_rigunit_posegetitemssitemarray",
+      "target": "rigunit_mathquaternionfromeuler_rigunit_mathquaternionfromeuler",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_PoseGetItemsItemArray Objects.md",
+      "source_location": "Lines 1-82",
+      "weight": 1.0
+    },
+    {
+      "source": "navigationobjectbase_navigationobjectbase",
+      "target": "previewactorfortransform_previewactorfortransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NavigationObjectBase Objects.md",
+      "source_location": "Lines 1-141",
+      "weight": 1.0
+    },
+    {
+      "source": "visualloggercameracontroller_visualloggercameracontroller",
+      "target": "navigationobjectbase_navigationobjectbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "VisualLoggerCameraController Objects.md",
+      "source_location": "Lines 1-196",
+      "weight": 1.0
+    },
+    {
+      "source": "visualloggercameracontroller_visualloggercameracontroller",
+      "target": "previewactorfortransform_previewactorfortransform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "VisualLoggerCameraController Objects.md",
+      "source_location": "Lines 1-196",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_module_classes",
+      "label": "ControlRig Module Classes",
+      "nodes": [
+        "rigunit_spheretracebytracechannel_rigunit_spheretracebytracechannel",
+        "rigunit_posegetitemssitemarray_rigunit_posegetitemssitemarray",
+        "rigunit_mathquaternionfromeuler_rigunit_mathquaternionfromeuler",
+        "transformspacemode_transformspacemode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files in ControlRig module"
+    },
+    {
+      "id": "pcg_module_classes",
+      "label": "PCG Module Classes",
+      "nodes": [
+        "pcgsubdivisionbasesettings_pcgsubdivisionbasesettings",
+        "pcgsubdivisionsubmodule_pcgsubdivisionsubmodule",
+        "pcgalembictopcgassetexporter_pcgalembictopcgassetexporter"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files in PCG module"
+    },
+    {
+      "id": "unrealed_module_classes",
+      "label": "UnrealEd Module Classes",
+      "nodes": [
+        "fbxassetimportdata_fbxassetimportdata",
+        "testsparseclassdata_testsparseclassdata"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple files in UnrealEd module"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,918 @@
+{
+  "nodes": [
+    {
+      "id": "typedelementworldinterface",
+      "label": "TypedElementWorldInterface",
+      "file_type": "document",
+      "source_file": "TypedElementWorldInterface Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updaterasterparams",
+      "label": "UpdateRasterParams",
+      "file_type": "document",
+      "source_file": "UpdateRasterParams Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpointfilteroperator",
+      "label": "PCGPointFilterOperator",
+      "file_type": "document",
+      "source_file": "PCGPointFilterOperator Objects.md",
+      "source_location": "lines 3-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "customdepthparameters",
+      "label": "CustomDepthParameters",
+      "file_type": "document",
+      "source_file": "CustomDepthParameters Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navfilter_aicontrollerdefault",
+      "label": "NavFilter_AIControllerDefault",
+      "file_type": "document",
+      "source_file": "NavFilter__AIControllerDefault Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphbranchrestriction",
+      "label": "MovieGraphBranchRestriction",
+      "file_type": "document",
+      "source_file": "MovieGraphBranchRestriction Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_meshbooleans",
+      "label": "GeometryScript_MeshBooleans",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshBooleans Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfstaticmeshexporter",
+      "label": "GLTFStaticMeshExporter",
+      "file_type": "document",
+      "source_file": "GLTFStaticMeshExporter Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editablegameplaytagqueryexpression_anyexprmatch",
+      "label": "EditableGameplayTagQueryExpression_AnyExprMatch",
+      "file_type": "document",
+      "source_file": "EditableGameplayTagQueryExpression_AnyExprMatch Objects.md",
+      "source_location": "lines 3-6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolflipflop",
+      "label": "RigVMFunction_MathBoolFlipFlop",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoolFlipFlop Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundconcurrency",
+      "label": "SoundConcurrency",
+      "file_type": "document",
+      "source_file": "SoundConcurrency Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "recastnavmeshtilegenerationdebug",
+      "label": "RecastNavMeshTileGenerationDebug",
+      "file_type": "document",
+      "source_file": "RecastNavMeshTileGenerationDebug Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthupdatedependency",
+      "label": "EarthUpdateDependency",
+      "file_type": "document",
+      "source_file": "EarthUpdateDependency Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpplayercontroller_onmovekeytriggered",
+      "label": "WdpPlayerController_OnMoveKeyTriggered",
+      "file_type": "document",
+      "source_file": "WdpPlayerController__OnMoveKeyTriggered Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionpower",
+      "label": "MaterialExpressionPower",
+      "file_type": "document",
+      "source_file": "MaterialExpressionPower Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbinaryaggregateop",
+      "label": "RigVMFunction_MathQuaternionBinaryAggregateOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathQuaternionBinaryAggregateOp Objects.md",
+      "source_location": "lines 3-6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitysystemcomponent_abilityabilitykey",
+      "label": "AbilitySystemComponent_AbilityAbilityKey",
+      "file_type": "document",
+      "source_file": "AbilitySystemComponent__AbilityAbilityKey Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engineelementslibrary",
+      "label": "EngineElementsLibrary",
+      "file_type": "document",
+      "source_file": "EngineElementsLibrary Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshsamplingregionmaterialfilter",
+      "label": "SkeletalMeshSamplingRegionMaterialFilter",
+      "file_type": "document",
+      "source_file": "SkeletalMeshSamplingRegionMaterialFilter Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hasmetadatatagarray",
+      "label": "RigUnit_HasMetadataTagArray",
+      "file_type": "document",
+      "source_file": "RigUnit_HasMetadataTagArray Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugline",
+      "label": "RigUnit_DebugLine",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugLine Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "masssmartobjectcandidateslots",
+      "label": "MassSmartObjectCandidateSlots",
+      "file_type": "document",
+      "source_file": "MassSmartObjectCandidateSlots Objects.md",
+      "source_location": "lines 3-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_operations",
+      "label": "Transform Operations",
+      "file_type": "document",
+      "source_file": "TypedElementWorldInterface Objects.md",
+      "source_location": "lines 15-190",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "element_manipulation",
+      "label": "Element Manipulation",
+      "file_type": "document",
+      "source_file": "TypedElementWorldInterface Objects.md",
+      "source_location": "lines 265-308",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "raster_styling",
+      "label": "Raster Styling",
+      "file_type": "document",
+      "source_file": "UpdateRasterParams Objects.md",
+      "source_location": "lines 100-118",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_filtering",
+      "label": "PCG Filtering",
+      "file_type": "document",
+      "source_file": "PCGPointFilterOperator Objects.md",
+      "source_location": "lines 9-56",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custom_depth_rendering",
+      "label": "Custom Depth Rendering",
+      "file_type": "document",
+      "source_file": "CustomDepthParameters Objects.md",
+      "source_location": "lines 16-68",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigation_filtering",
+      "label": "Navigation Filtering",
+      "file_type": "document",
+      "source_file": "NavFilter__AIControllerDefault Objects.md",
+      "source_location": "lines 14-18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movie_graph_branching",
+      "label": "Movie Graph Branching",
+      "file_type": "document",
+      "source_file": "MovieGraphBranchRestriction Objects.md",
+      "source_location": "lines 15-31",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mesh_boolean_operations",
+      "label": "Mesh Boolean Operations",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshBooleans Objects.md",
+      "source_location": "lines 15-143",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mesh_plane_operations",
+      "label": "Mesh Plane Operations",
+      "file_type": "document",
+      "source_file": "GeometryScript__MeshBooleans Objects.md",
+      "source_location": "lines 38-112",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltf_export",
+      "label": "GLTF Export",
+      "file_type": "document",
+      "source_file": "GLTFStaticMeshExporter Objects.md",
+      "source_location": "lines 14-21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplay_tag_queries",
+      "label": "Gameplay Tag Queries",
+      "file_type": "document",
+      "source_file": "EditableGameplayTagQueryExpression_AnyExprMatch Objects.md",
+      "source_location": "lines 14-17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_boolean_logic",
+      "label": "RigVM Boolean Logic",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoolFlipFlop Objects.md",
+      "source_location": "lines 14-83",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sound_concurrency_management",
+      "label": "Sound Concurrency Management",
+      "file_type": "document",
+      "source_file": "SoundConcurrency Objects.md",
+      "source_location": "lines 14-28",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navmesh_debugging",
+      "label": "NavMesh Debugging",
+      "file_type": "document",
+      "source_file": "RecastNavMeshTileGenerationDebug Objects.md",
+      "source_location": "lines 14-40",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_dependency_tracking",
+      "label": "Entity Dependency Tracking",
+      "file_type": "document",
+      "source_file": "EarthUpdateDependency Objects.md",
+      "source_location": "lines 14-90",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "player_input_handling",
+      "label": "Player Input Handling",
+      "file_type": "document",
+      "source_file": "WdpPlayerController__OnMoveKeyTriggered Objects.md",
+      "source_location": "lines 7-11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "material_power_expression",
+      "label": "Material Power Expression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionPower Objects.md",
+      "source_location": "lines 14-20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_quaternion_operations",
+      "label": "RigVM Quaternion Operations",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathQuaternionBinaryAggregateOp Objects.md",
+      "source_location": "lines 14-82",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ability_system_delegates",
+      "label": "Ability System Delegates",
+      "file_type": "document",
+      "source_file": "AbilitySystemComponent__AbilityAbilityKey Objects.md",
+      "source_location": "lines 7-11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "element_handle_management",
+      "label": "Element Handle Management",
+      "file_type": "document",
+      "source_file": "EngineElementsLibrary Objects.md",
+      "source_location": "lines 14-103",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mesh_sampling_filters",
+      "label": "Mesh Sampling Filters",
+      "file_type": "document",
+      "source_file": "SkeletalMeshSamplingRegionMaterialFilter Objects.md",
+      "source_location": "lines 7-25",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_metadata_operations",
+      "label": "RigUnit Metadata Operations",
+      "file_type": "document",
+      "source_file": "RigUnit_HasMetadataTagArray Objects.md",
+      "source_location": "lines 14-103",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debug_drawing",
+      "label": "RigUnit Debug Drawing",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugLine Objects.md",
+      "source_location": "lines 14-173",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mass_smart_objects",
+      "label": "Mass Smart Objects",
+      "file_type": "document",
+      "source_file": "MassSmartObjectCandidateSlots Objects.md",
+      "source_location": "lines 7-21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "typedelementworldinterface",
+      "target": "transform_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TypedElementWorldInterface Objects.md",
+      "source_location": "lines 14-190",
+      "weight": 1.0
+    },
+    {
+      "source": "typedelementworldinterface",
+      "target": "element_manipulation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TypedElementWorldInterface Objects.md",
+      "source_location": "lines 265-308",
+      "weight": 1.0
+    },
+    {
+      "source": "updaterasterparams",
+      "target": "raster_styling",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UpdateRasterParams Objects.md",
+      "source_location": "lines 100-118",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgpointfilteroperator",
+      "target": "pcg_filtering",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGPointFilterOperator Objects.md",
+      "source_location": "lines 9-56",
+      "weight": 1.0
+    },
+    {
+      "source": "customdepthparameters",
+      "target": "custom_depth_rendering",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CustomDepthParameters Objects.md",
+      "source_location": "lines 16-68",
+      "weight": 1.0
+    },
+    {
+      "source": "navfilter_aicontrollerdefault",
+      "target": "navigation_filtering",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavFilter__AIControllerDefault Objects.md",
+      "source_location": "lines 14-18",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphbranchrestriction",
+      "target": "movie_graph_branching",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphBranchRestriction Objects.md",
+      "source_location": "lines 15-31",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshbooleans",
+      "target": "mesh_boolean_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshBooleans Objects.md",
+      "source_location": "lines 15-143",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshbooleans",
+      "target": "mesh_plane_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__MeshBooleans Objects.md",
+      "source_location": "lines 38-112",
+      "weight": 1.0
+    },
+    {
+      "source": "gltfstaticmeshexporter",
+      "target": "gltf_export",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GLTFStaticMeshExporter Objects.md",
+      "source_location": "lines 14-21",
+      "weight": 1.0
+    },
+    {
+      "source": "editablegameplaytagqueryexpression_anyexprmatch",
+      "target": "gameplay_tag_queries",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditableGameplayTagQueryExpression_AnyExprMatch Objects.md",
+      "source_location": "lines 14-17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolflipflop",
+      "target": "rigvm_boolean_logic",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoolFlipFlop Objects.md",
+      "source_location": "lines 14-83",
+      "weight": 1.0
+    },
+    {
+      "source": "soundconcurrency",
+      "target": "sound_concurrency_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundConcurrency Objects.md",
+      "source_location": "lines 14-28",
+      "weight": 1.0
+    },
+    {
+      "source": "recastnavmeshtilegenerationdebug",
+      "target": "navmesh_debugging",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RecastNavMeshTileGenerationDebug Objects.md",
+      "source_location": "lines 14-40",
+      "weight": 1.0
+    },
+    {
+      "source": "earthupdatedependency",
+      "target": "entity_dependency_tracking",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthUpdateDependency Objects.md",
+      "source_location": "lines 14-90",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpplayercontroller_onmovekeytriggered",
+      "target": "player_input_handling",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpPlayerController__OnMoveKeyTriggered Objects.md",
+      "source_location": "lines 7-11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionpower",
+      "target": "material_power_expression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionPower Objects.md",
+      "source_location": "lines 14-20",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionbinaryaggregateop",
+      "target": "rigvm_quaternion_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathQuaternionBinaryAggregateOp Objects.md",
+      "source_location": "lines 14-82",
+      "weight": 1.0
+    },
+    {
+      "source": "abilitysystemcomponent_abilityabilitykey",
+      "target": "ability_system_delegates",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilitySystemComponent__AbilityAbilityKey Objects.md",
+      "source_location": "lines 7-11",
+      "weight": 1.0
+    },
+    {
+      "source": "engineelementslibrary",
+      "target": "element_handle_management",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EngineElementsLibrary Objects.md",
+      "source_location": "lines 14-103",
+      "weight": 1.0
+    },
+    {
+      "source": "engineelementslibrary",
+      "target": "typedelementworldinterface",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EngineElementsLibrary Objects.md",
+      "source_location": "lines 14-103",
+      "weight": 1.0
+    },
+    {
+      "source": "skeletalmeshsamplingregionmaterialfilter",
+      "target": "mesh_sampling_filters",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkeletalMeshSamplingRegionMaterialFilter Objects.md",
+      "source_location": "lines 7-25",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadatatagarray",
+      "target": "rigunit_metadata_operations",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HasMetadataTagArray Objects.md",
+      "source_location": "lines 14-103",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugline",
+      "target": "rigunit_debug_drawing",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugLine Objects.md",
+      "source_location": "lines 14-173",
+      "weight": 1.0
+    },
+    {
+      "source": "masssmartobjectcandidateslots",
+      "target": "mass_smart_objects",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MassSmartObjectCandidateSlots Objects.md",
+      "source_location": "lines 7-21",
+      "weight": 1.0
+    },
+    {
+      "source": "navfilter_aicontrollerdefault",
+      "target": "recastnavmeshtilegenerationdebug",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "NavFilter__AIControllerDefault Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboolflipflop",
+      "target": "rigvmfunction_mathquaternionbinaryaggregateop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathBoolFlipFlop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadatatagarray",
+      "target": "rigunit_debugline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_HasMetadataTagArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_meshbooleans",
+      "target": "gltfstaticmeshexporter",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryScript__MeshBooleans Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "typedelementworldinterface",
+      "target": "engineelementslibrary",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TypedElementWorldInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mesh_boolean_operations",
+      "target": "mesh_plane_operations",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "GeometryScript__MeshBooleans Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "custom_depth_rendering",
+      "target": "material_power_expression",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CustomDepthParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transform_operations",
+      "target": "element_manipulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "TypedElementWorldInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvm_boolean_logic",
+      "target": "rigvm_quaternion_operations",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathBoolFlipFlop Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplay_tag_queries",
+      "target": "ability_system_delegates",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EditableGameplayTagQueryExpression_AnyExprMatch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navigation_filtering",
+      "target": "navmesh_debugging",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NavFilter__AIControllerDefault Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathboolflipflop",
+        "rigvmfunction_mathquaternionbinaryaggregateop",
+        "rigvm_boolean_logic",
+        "rigvm_quaternion_operations"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathBoolFlipFlop Objects.md"
+    },
+    {
+      "id": "controlrig_debugging_tools",
+      "label": "ControlRig Debugging and Metadata Tools",
+      "nodes": [
+        "rigunit_hasmetadatatagarray",
+        "rigunit_debugline",
+        "rigunit_metadata_operations",
+        "rigunit_debug_drawing"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_HasMetadataTagArray Objects.md"
+    },
+    {
+      "id": "navigation_system_components",
+      "label": "Navigation System Components",
+      "nodes": [
+        "navfilter_aicontrollerdefault",
+        "recastnavmeshtilegenerationdebug",
+        "navigation_filtering",
+        "navmesh_debugging"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "NavFilter__AIControllerDefault Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

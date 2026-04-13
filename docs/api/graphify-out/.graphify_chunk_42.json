@@ -1,0 +1,544 @@
+{
+  "metadata": {
+    "chunk_id": 42,
+    "total_chunks": 702,
+    "source_files": [
+      "glTFRuntimeSkeletalMeshComponent Objects.md",
+      "MeshTrackerVertexColorMode Objects.md",
+      "MeshEntityAtom Objects.md",
+      "ToolBarStyle Objects.md",
+      "RigUnit_MathFloatBase Objects.md",
+      "VirtualTextureBuilderFactory Objects.md",
+      "CastToControlRigBlueprintCases Objects.md",
+      "GenericTeamId Objects.md",
+      "PCGSplitPointsSettings Objects.md",
+      "SmartObjectAnnotationData Objects.md",
+      "ZoneGraphTestingActor Objects.md",
+      "RigVMFunction__MathFloatTan Objects.md",
+      "DisplayClusterConfigurationICVFX_OverrideCameraRenderMode Objects.md",
+      "DepthOfFieldFunctionValue Objects.md",
+      "IKRig__PoleSolverEffector Objects.md",
+      "DisplayClusterConfigurationGlobalMediaSettings Objects.md",
+      "RigVMFunction__MathRBFInterpolateQuatQuat Objects.md",
+      "MoviePipelineMaterialModifier Objects.md",
+      "AsyncEditorWaitForGameWorldEvent Objects.md",
+      "ComponentSpacePose Objects.md",
+      "MagicGISLineDecalComponent Objects.md",
+      "LaneTurnType Objects.md"
+    ],
+    "extraction_date": "2026-04-12",
+    "total_entities": 22,
+    "total_relationships": 36
+  },
+  "entities": [
+    {
+      "id": "glTFRuntimeSkeletalMeshComponent",
+      "type": "class",
+      "name": "glTFRuntimeSkeletalMeshComponent",
+      "description": "Gl TFRuntime Skeletal Mesh Component",
+      "extends": "SkeletalMeshComponent",
+      "plugin": "AesWorld",
+      "module": "glTFRuntime",
+      "file": "glTFRuntimeSkeletalMeshComponent.h",
+      "properties_count": 185,
+      "category": "Component"
+    },
+    {
+      "id": "MeshTrackerVertexColorMode",
+      "type": "enum",
+      "name": "MeshTrackerVertexColorMode",
+      "description": "Vertex color mode",
+      "module": "MRMesh",
+      "file": "MockDataMeshTrackerComponent.h",
+      "values": ["NONE", "CONFIDENCE", "BLOCK"],
+      "category": "Enumeration"
+    },
+    {
+      "id": "MeshEntityAtom",
+      "type": "class",
+      "name": "MeshEntityAtom",
+      "description": "Mesh Entity Atom",
+      "extends": "EntityAtomBase",
+      "plugin": "WdpApplication",
+      "module": "WdpMeshEntity",
+      "file": "MeshEntityAtom.h",
+      "properties": ["asset_path", "transform", "visible"],
+      "category": "Entity"
+    },
+    {
+      "id": "ToolBarStyle",
+      "type": "class",
+      "name": "ToolBarStyle",
+      "description": "Represents the appearance of a toolbar",
+      "extends": "SlateWidgetStyle",
+      "module": "SlateCore",
+      "file": "ToolBarStyle.h",
+      "properties_count": 32,
+      "category": "UI/Style"
+    },
+    {
+      "id": "RigUnit_MathFloatBase",
+      "type": "class",
+      "name": "RigUnit_MathFloatBase",
+      "description": "deprecated: 'RigUnit_MathFloatBase' was renamed to 'RigVMFunction_MathFloatBase'",
+      "extends": "RigVMFunction_MathFloatBase",
+      "status": "deprecated",
+      "category": "Rig/Math"
+    },
+    {
+      "id": "VirtualTextureBuilderFactory",
+      "type": "class",
+      "name": "VirtualTextureBuilderFactory",
+      "description": "Factory for UVirtualTextureBuilder",
+      "extends": "Factory",
+      "module": "VirtualTexturingEditor",
+      "file": "VirtualTextureBuilderFactory.h",
+      "properties_count": 9,
+      "category": "Factory/Editor"
+    },
+    {
+      "id": "CastToControlRigBlueprintCases",
+      "type": "enum",
+      "name": "CastToControlRigBlueprintCases",
+      "description": "ECast to Control Rig Blueprint Cases",
+      "plugin": "ControlRig",
+      "module": "ControlRigEditor",
+      "file": "ControlRigBlueprintEditorLibrary.h",
+      "values": ["CAST_SUCCEEDED", "CAST_FAILED"],
+      "category": "Enumeration"
+    },
+    {
+      "id": "GenericTeamId",
+      "type": "struct",
+      "name": "GenericTeamId",
+      "description": "Generic Team Id",
+      "extends": "StructBase",
+      "module": "AIModule",
+      "file": "GenericTeamAgentInterface.h",
+      "properties": ["team_id"],
+      "category": "AI/Team"
+    },
+    {
+      "id": "PCGSplitPointsSettings",
+      "type": "class",
+      "name": "PCGSplitPointsSettings",
+      "description": "Splits each point into two separate points, and sets bounds based on the position and axis of the cut",
+      "extends": "PCGSettings",
+      "plugin": "PCG",
+      "module": "PCG",
+      "file": "PCGSplitPoints.h",
+      "properties_count": 17,
+      "category": "PCG/Settings"
+    },
+    {
+      "id": "SmartObjectAnnotationData",
+      "type": "struct",
+      "name": "SmartObjectAnnotationData",
+      "description": "Per ZoneGraphData smart object look up data",
+      "extends": "StructBase",
+      "plugin": "MassGameplay",
+      "module": "MassSmartObjects",
+      "file": "SmartObjectZoneAnnotations.h",
+      "properties_count": 5,
+      "category": "SmartObjects/ZoneGraph"
+    },
+    {
+      "id": "ZoneGraphTestingActor",
+      "type": "class",
+      "name": "ZoneGraphTestingActor",
+      "description": "Debug actor to visually test zone graph",
+      "extends": "Actor",
+      "plugin": "ZoneGraph",
+      "module": "ZoneGraphDebug",
+      "file": "ZoneGraphTestingActor.h",
+      "methods": ["enable_custom_tests", "disable_custom_tests"],
+      "category": "Debug/ZoneGraph"
+    },
+    {
+      "id": "RigVMFunction_MathFloatTan",
+      "type": "class",
+      "name": "RigVMFunction_MathFloatTan",
+      "description": "Returns the tangens value of the given value (in radians)",
+      "extends": "RigVMFunction_MathFloatUnaryOp",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathFloat.h",
+      "properties": ["value", "result"],
+      "category": "Rig/Math/Trigonometry"
+    },
+    {
+      "id": "DisplayClusterConfigurationICVFX_OverrideCameraRenderMode",
+      "type": "enum",
+      "name": "DisplayClusterConfigurationICVFX_OverrideCameraRenderMode",
+      "description": "EDisplay Cluster Configuration ICVFX Override Camera Render Mode",
+      "plugin": "nDisplay",
+      "module": "DisplayClusterConfiguration",
+      "file": "DisplayClusterConfigurationTypes_Enums.h",
+      "values": ["DEFAULT", "DISABLED", "DISABLE_CHROMAKEY", "DISABLE_CHROMAKEY_MARKERS"],
+      "category": "nDisplay/Configuration"
+    },
+    {
+      "id": "DepthOfFieldFunctionValue",
+      "type": "enum",
+      "name": "DepthOfFieldFunctionValue",
+      "description": "Note: The index is used to map the enum to different code in the shader",
+      "module": "Engine",
+      "file": "MaterialExpressionDepthOfFieldFunction.h",
+      "values": ["TDOF_NEAR_AND_FAR_MASK", "TDOF_NEAR_MASK", "TDOF_FAR_MASK", "TDOF_CIRCLE_OF_CONFUSION_RADIUS"],
+      "category": "Rendering/PostProcess"
+    },
+    {
+      "id": "IKRig_PoleSolverEffector",
+      "type": "class",
+      "name": "IKRig_PoleSolverEffector",
+      "description": "IKRig Pole Solver Effector",
+      "extends": "Object",
+      "plugin": "IKRig",
+      "module": "IKRig",
+      "file": "IKRig_PoleSolver.h",
+      "properties": ["alpha", "bone_name", "goal_name"],
+      "category": "IK/Animation"
+    },
+    {
+      "id": "DisplayClusterConfigurationGlobalMediaSettings",
+      "type": "struct",
+      "name": "DisplayClusterConfigurationGlobalMediaSettings",
+      "description": "Global media settings",
+      "extends": "StructBase",
+      "plugin": "nDisplay",
+      "module": "DisplayClusterConfiguration",
+      "file": "DisplayClusterConfigurationTypes_Media.h",
+      "properties": ["latency"],
+      "category": "nDisplay/Configuration/Media"
+    },
+    {
+      "id": "RigVMFunction_MathRBFInterpolateQuatQuat",
+      "type": "class",
+      "name": "RigVMFunction_MathRBFInterpolateQuatQuat",
+      "description": "Rig VMFunction Math RBFInterpolate Quat Quat",
+      "extends": "RigVMFunction_MathRBFInterpolateQuatBase",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathRBFInterpolate.h",
+      "properties_count": 8,
+      "category": "Rig/Math/Interpolation"
+    },
+    {
+      "id": "MoviePipelineMaterialModifier",
+      "type": "class",
+      "name": "MoviePipelineMaterialModifier",
+      "description": "deprecated: 'MoviePipelineMaterialModifier' was renamed to 'MovieGraphMaterialModifier'",
+      "extends": "MovieGraphMaterialModifier",
+      "status": "deprecated",
+      "category": "MovieRender/Pipeline"
+    },
+    {
+      "id": "AsyncEditorWaitForGameWorldEvent",
+      "type": "delegate",
+      "name": "AsyncEditorWaitForGameWorldEvent",
+      "description": "Async Editor Wait for Game World Event Delegate Signature",
+      "extends": "MulticastDelegateBase",
+      "module": "Blutility",
+      "file": "EditorUtilityLibrary.h",
+      "parameters": ["world"],
+      "category": "Editor/Async"
+    },
+    {
+      "id": "ComponentSpacePose",
+      "type": "struct",
+      "name": "ComponentSpacePose",
+      "description": "A pose in component space (i.e. each transform is relative to the component's transform)",
+      "extends": "StructBase",
+      "module": "Engine",
+      "file": "AnimationTypes.h",
+      "properties": ["transforms", "names"],
+      "category": "Animation/Pose"
+    },
+    {
+      "id": "MagicGISLineDecalComponent",
+      "type": "class",
+      "name": "MagicGISLineDecalComponent",
+      "description": "Magic GISLine Decal Component",
+      "extends": "DecalComponent",
+      "plugin": "GISDataAPI",
+      "module": "MagicGISCore",
+      "file": "MagicGISLineDecalComponent.h",
+      "methods": ["init_decal_data_all_in_one", "init_decal_data"],
+      "category": "GIS/Decal"
+    },
+    {
+      "id": "LaneTurnType",
+      "type": "enum",
+      "name": "LaneTurnType",
+      "description": "车道转向方向 (Lane turn direction)",
+      "plugin": "AesWorld",
+      "module": "AesAsset",
+      "file": "AesRoadSystemAsset.h",
+      "values": ["UNDEFINED", "LEFT", "STRAIGHT", "RIGHT", "TURN_ROUND", "OTHER"],
+      "category": "RoadSystem/Traffic"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "glTFRuntimeSkeletalMeshComponent",
+      "target": "SkeletalMeshComponent",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "MeshEntityAtom",
+      "target": "EntityAtomBase",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "ToolBarStyle",
+      "target": "SlateWidgetStyle",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "RigUnit_MathFloatBase",
+      "target": "RigVMFunction_MathFloatBase",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "VirtualTextureBuilderFactory",
+      "target": "Factory",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "GenericTeamId",
+      "target": "StructBase",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "PCGSplitPointsSettings",
+      "target": "PCGSettings",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "SmartObjectAnnotationData",
+      "target": "StructBase",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "ZoneGraphTestingActor",
+      "target": "Actor",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "RigVMFunction_MathFloatTan",
+      "target": "RigVMFunction_MathFloatUnaryOp",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "IKRig_PoleSolverEffector",
+      "target": "Object",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "DisplayClusterConfigurationGlobalMediaSettings",
+      "target": "StructBase",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "RigVMFunction_MathRBFInterpolateQuatQuat",
+      "target": "RigVMFunction_MathRBFInterpolateQuatBase",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "MoviePipelineMaterialModifier",
+      "target": "MovieGraphMaterialModifier",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "AsyncEditorWaitForGameWorldEvent",
+      "target": "MulticastDelegateBase",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "ComponentSpacePose",
+      "target": "StructBase",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "MagicGISLineDecalComponent",
+      "target": "DecalComponent",
+      "type": "extends",
+      "relationship": "inheritance"
+    },
+    {
+      "source": "RigUnit_MathFloatBase",
+      "target": "RigVMFunction_MathFloatBase",
+      "type": "renamed_to",
+      "relationship": "deprecation"
+    },
+    {
+      "source": "MoviePipelineMaterialModifier",
+      "target": "MovieGraphMaterialModifier",
+      "type": "renamed_to",
+      "relationship": "deprecation"
+    },
+    {
+      "source": "glTFRuntimeSkeletalMeshComponent",
+      "target": "AesWorld",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "PCGSplitPointsSettings",
+      "target": "PCG",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "SmartObjectAnnotationData",
+      "target": "MassGameplay",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "ZoneGraphTestingActor",
+      "target": "ZoneGraph",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "IKRig_PoleSolverEffector",
+      "target": "IKRig",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "RigVMFunction_MathFloatTan",
+      "target": "RigVM",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "RigVMFunction_MathRBFInterpolateQuatQuat",
+      "target": "RigVM",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "CastToControlRigBlueprintCases",
+      "target": "ControlRig",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "MagicGISLineDecalComponent",
+      "target": "GISDataAPI",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "LaneTurnType",
+      "target": "AesWorld",
+      "type": "belongs_to",
+      "relationship": "plugin_membership"
+    },
+    {
+      "source": "ToolBarStyle",
+      "target": "SlateCore",
+      "type": "belongs_to",
+      "relationship": "module_membership"
+    },
+    {
+      "source": "GenericTeamId",
+      "target": "AIModule",
+      "type": "belongs_to",
+      "relationship": "module_membership"
+    },
+    {
+      "source": "DepthOfFieldFunctionValue",
+      "target": "Engine",
+      "type": "belongs_to",
+      "relationship": "module_membership"
+    },
+    {
+      "source": "ComponentSpacePose",
+      "target": "Engine",
+      "type": "belongs_to",
+      "relationship": "module_membership"
+    },
+    {
+      "source": "MeshTrackerVertexColorMode",
+      "target": "MRMesh",
+      "type": "belongs_to",
+      "relationship": "module_membership"
+    },
+    {
+      "source": "VirtualTextureBuilderFactory",
+      "target": "VirtualTexturingEditor",
+      "type": "belongs_to",
+      "relationship": "module_membership"
+    }
+  ],
+  "categories": {
+    "Component": {
+      "description": "Actor components for runtime behavior",
+      "entities": ["glTFRuntimeSkeletalMeshComponent", "MagicGISLineDecalComponent"]
+    },
+    "Enumeration": {
+      "description": "Enum types for configuration and state",
+      "entities": ["MeshTrackerVertexColorMode", "CastToControlRigBlueprintCases", "LaneTurnType", "DepthOfFieldFunctionValue", "DisplayClusterConfigurationICVFX_OverrideCameraRenderMode"]
+    },
+    "Rig/Math": {
+      "description": "Rigging and mathematical operations",
+      "entities": ["RigUnit_MathFloatBase", "RigVMFunction_MathFloatTan", "RigVMFunction_MathRBFInterpolateQuatQuat"]
+    },
+    "Animation": {
+      "description": "Animation and pose-related structures",
+      "entities": ["ComponentSpacePose", "IKRig_PoleSolverEffector"]
+    },
+    "Configuration": {
+      "description": "Configuration and settings structures",
+      "entities": ["PCGSplitPointsSettings", "SmartObjectAnnotationData", "DisplayClusterConfigurationGlobalMediaSettings"]
+    },
+    "UI/Style": {
+      "description": "User interface styling",
+      "entities": ["ToolBarStyle"]
+    },
+    "AI/Team": {
+      "description": "AI team management",
+      "entities": ["GenericTeamId"]
+    },
+    "Debug": {
+      "description": "Debug and testing utilities",
+      "entities": ["ZoneGraphTestingActor"]
+    },
+    "Editor": {
+      "description": "Editor utilities and factories",
+      "entities": ["VirtualTextureBuilderFactory", "AsyncEditorWaitForGameWorldEvent"]
+    }
+  },
+  "statistics": {
+    "total_entities": 22,
+    "class_count": 11,
+    "enum_count": 5,
+    "struct_count": 4,
+    "delegate_count": 1,
+    "deprecated_count": 2,
+    "plugin_specific_count": 9,
+    "engine_core_count": 5,
+    "total_properties": 250,
+    "total_methods": 4,
+    "inheritance_depth_average": 1.0
+  }
+}

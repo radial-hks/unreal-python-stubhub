@@ -1,0 +1,1232 @@
+{
+  "nodes": [
+    {
+      "id": "moviegraphsettingnode_moviegraphsettingnode",
+      "label": "MovieGraphSettingNode",
+      "file_type": "code",
+      "source_file": "MovieGraphSettingNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcameraanimationdata_wdpcameraanimationdata",
+      "label": "WDPCameraAnimationData",
+      "file_type": "code",
+      "source_file": "WDPCameraAnimationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdprightsinfo_wdprightsinfo",
+      "label": "WdpRightsInfo",
+      "file_type": "code",
+      "source_file": "WdpRightsInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weathercontrolmanager_targetweathertimeofdayupdateevent_weathercontrolmanager_targetweathertimeofdayupdateevent",
+      "label": "WeatherControlManager_TargetWeatherTimeOfDayUpdateEvent",
+      "file_type": "code",
+      "source_file": "WeatherControlManager__TargetWeatherTimeOfDayUpdateEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathinttostring_rigvmfunction_mathinttostring",
+      "label": "RigVMFunction_MathIntToString",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathIntToString Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmeshsocket_staticmeshsocket",
+      "label": "StaticMeshSocket",
+      "file_type": "code",
+      "source_file": "StaticMeshSocket Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxtranslator_interchangematerialxtranslator",
+      "label": "InterchangeMaterialXTranslator",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialXTranslator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserfoldercontext_contentbrowserfoldercontext",
+      "label": "ContentBrowserFolderContext",
+      "file_type": "code",
+      "source_file": "ContentBrowserFolderContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashape3ddynmeshbase_avashape3ddynmeshbase",
+      "label": "AvaShape3DDynMeshBase",
+      "file_type": "code",
+      "source_file": "AvaShape3DDynMeshBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineprimaryconfigfactory_moviepipelineprimaryconfigfactory",
+      "label": "MoviePipelinePrimaryConfigFactory",
+      "file_type": "code",
+      "source_file": "MoviePipelinePrimaryConfigFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgkernelattributekey_pcgkernelattributekey",
+      "label": "PCGKernelAttributeKey",
+      "file_type": "code",
+      "source_file": "PCGKernelAttributeKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_timeline_rigunit_timeline",
+      "label": "RigUnit_Timeline",
+      "file_type": "code",
+      "source_file": "RigUnit_Timeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "comboboxkey_onopeningevent_comboboxkey_onopeningevent",
+      "label": "ComboBoxKey_OnOpeningEvent",
+      "file_type": "code",
+      "source_file": "ComboBoxKey_OnOpeningEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cachedanimtransitiondata_cachedanimtransitiondata",
+      "label": "CachedAnimTransitionData",
+      "file_type": "code",
+      "source_file": "CachedAnimTransitionData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialbutton_audiomaterialbutton",
+      "label": "AudioMaterialButton",
+      "file_type": "code",
+      "source_file": "AudioMaterialButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradefaultsortprecision_niagaradefaultsortprecision",
+      "label": "NiagaraDefaultSortPrecision",
+      "file_type": "code",
+      "source_file": "NiagaraDefaultSortPrecision Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthstaticmeshprefab_earthstaticmeshprefab",
+      "label": "EarthStaticMeshPrefab",
+      "file_type": "code",
+      "source_file": "EarthStaticMeshPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiodevicenotificationsubsystem_audiodevicenotificationsubsystem",
+      "label": "AudioDeviceNotificationSubsystem",
+      "file_type": "code",
+      "source_file": "AudioDeviceNotificationSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "label": "WdpSceneChangeInfo",
+      "file_type": "code",
+      "source_file": "WdpSceneChangeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subtitlecue_subtitlecue",
+      "label": "SubtitleCue",
+      "file_type": "code",
+      "source_file": "SubtitleCue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatarotatorsettings_pcgmetadatarotatorsettings",
+      "label": "PCGMetadataRotatorSettings",
+      "file_type": "code",
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangefilepickerbase_interchangefilepickerbase",
+      "label": "InterchangeFilePickerBase",
+      "file_type": "code",
+      "source_file": "InterchangeFilePickerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphnode_baseclass",
+      "label": "MovieGraphNode (Base Class)",
+      "file_type": "code",
+      "source_file": "MovieGraphSettingNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintbase_baseclass",
+      "label": "RigVMFunction_MathIntBase (Base Class)",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathIntToString Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetranslatorbase_baseclass",
+      "label": "InterchangeTranslatorBase (Base Class)",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialXTranslator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowsermenucontext_baseclass",
+      "label": "ContentBrowserMenuContext (Base Class)",
+      "file_type": "code",
+      "source_file": "ContentBrowserFolderContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashapedynamicmeshbase_baseclass",
+      "label": "AvaShapeDynamicMeshBase (Base Class)",
+      "file_type": "code",
+      "source_file": "AvaShape3DDynMeshBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatasettingsbase_baseclass",
+      "label": "PCGMetadataSettingsBase (Base Class)",
+      "file_type": "code",
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_timeline_baseclass",
+      "label": "RigVMFunction_Timeline (Base Class)",
+      "file_type": "code",
+      "source_file": "RigUnit_Timeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefabbase_baseclass",
+      "label": "EarthPrefabBase (Base Class)",
+      "file_type": "code",
+      "source_file": "EarthStaticMeshPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcameraplugin_wdpcamera",
+      "label": "WdpCamera Plugin Module",
+      "file_type": "code",
+      "source_file": "WDPCameraAnimationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameracontrolmanager_wdpcamera",
+      "label": "CameraControlManager",
+      "file_type": "code",
+      "source_file": "WDPCameraAnimationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moverenderpipeline_plugin_moverenderpipelinecore",
+      "label": "MovieRenderPipeline Plugin MovieRenderPipelineCore Module",
+      "file_type": "code",
+      "source_file": "MovieGraphSettingNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineconfig_moverenderpipeline",
+      "label": "Movie Pipeline Configuration",
+      "file_type": "code",
+      "source_file": "MoviePipelinePrimaryConfigFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpapi_plugin_wdpapiframe",
+      "label": "WdpAPI Plugin WdpAPIFrame Module",
+      "file_type": "code",
+      "source_file": "WdpSceneChangeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpenvironment_plugin_wdpenvironment",
+      "label": "WdpEnvironment Plugin WdpEnvironment Module",
+      "file_type": "code",
+      "source_file": "WeatherControlManager__TargetWeatherTimeOfDayUpdateEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weathercontrolmanager_wdpenvironment",
+      "label": "WeatherControlManager",
+      "file_type": "code",
+      "source_file": "WeatherControlManager__TargetWeatherTimeOfDayUpdateEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin_rigvm",
+      "label": "RigVM Plugin RigVM Module",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathIntToString Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin_pcg",
+      "label": "PCG Plugin PCG Module",
+      "file_type": "code",
+      "source_file": "PCGKernelAttributeKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_plugin_interchangeimport",
+      "label": "Interchange Plugin InterchangeImport Module",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialXTranslator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin_niagara",
+      "label": "Niagara Plugin Niagara Module",
+      "file_type": "code",
+      "source_file": "NiagaraDefaultSortPrecision Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avalanche_plugin_avalancheshapes",
+      "label": "Avalanche Plugin AvalancheShapes Module",
+      "file_type": "code",
+      "source_file": "AvaShape3DDynMeshBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthprefab_plugin_earthprefab",
+      "label": "EarthPrefab Plugin EarthPrefab Module",
+      "file_type": "code",
+      "source_file": "EarthStaticMeshPrefab Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audowidgets_plugin_audiowidgets",
+      "label": "AudioWidgets Plugin AudioWidgets Module",
+      "file_type": "code",
+      "source_file": "AudioMaterialButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpdatamodel_wdprightsinfo",
+      "label": "WdpDataModel Module",
+      "file_type": "code",
+      "source_file": "WdpRightsInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpcameraanimationdata_wdpcameraanimationdata_datastructure",
+      "label": "Camera Animation Data Structure",
+      "file_type": "code",
+      "source_file": "WDPCameraAnimationData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cachedanimtransitiondata_cachedanimtransitiondata_datastructure",
+      "label": "Animation Transition Data Structure",
+      "file_type": "code",
+      "source_file": "CachedAnimTransitionData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpscenechangeinfo_wdpscenechangeinfo_datastructure",
+      "label": "Scene Change Data Structure",
+      "file_type": "code",
+      "source_file": "WdpSceneChangeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgkernelattributekey_pcgkernelattributekey_datastructure",
+      "label": "PCG Kernel Attribute Key Structure",
+      "file_type": "code",
+      "source_file": "PCGKernelAttributeKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subtitlecue_subtitlecue_datastructure",
+      "label": "Subtitle Cue Data Structure",
+      "file_type": "code",
+      "source_file": "SubtitleCue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onbuttonpressedchangedevent_audiowidgets",
+      "label": "OnButtonPressedChangedEvent Delegate",
+      "file_type": "code",
+      "source_file": "AudioMaterialButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiomaterialbuttonstyle_audiowidgets",
+      "label": "AudioMaterialButtonStyle",
+      "file_type": "code",
+      "source_file": "AudioMaterialButton Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangefilepickerparameters_interchangeengine",
+      "label": "InterchangeFilePickerParameters",
+      "file_type": "code",
+      "source_file": "InterchangeFilePickerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetranslatortype_interchangeengine",
+      "label": "InterchangeTranslatorType",
+      "file_type": "code",
+      "source_file": "InterchangeFilePickerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetranslatorassettype_interchangeengine",
+      "label": "InterchangeTranslatorAssetType",
+      "file_type": "code",
+      "source_file": "InterchangeFilePickerBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatarotatoroperation_pcg",
+      "label": "PCGMetadataRotatorOperation",
+      "file_type": "code",
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyinputselector_pcg",
+      "label": "PCGAttributePropertyInputSelector",
+      "file_type": "code",
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyoutputselector_pcg",
+      "label": "PCGAttributePropertyOutputSelector",
+      "file_type": "code",
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onaudiodefaultdevicechanged_audiomixer",
+      "label": "OnAudioDefaultDeviceChanged Delegate",
+      "file_type": "code",
+      "source_file": "AudioDeviceNotificationSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onaudiodevicechange_audiomixer",
+      "label": "OnAudioDeviceChange Delegate",
+      "file_type": "code",
+      "source_file": "AudioDeviceNotificationSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onaudiodevicestatechanged_audiomixer",
+      "label": "OnAudioDeviceStateChanged Delegate",
+      "file_type": "code",
+      "source_file": "AudioDeviceNotificationSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpjsonobjectwrapper_wdpapiframe",
+      "label": "WdpJsonObjectWrapper",
+      "file_type": "code",
+      "source_file": "WdpSceneChangeInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviegraphsettingnode_moviegraphsettingnode",
+      "target": "moviegraphnode_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphSettingNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphsettingnode_moviegraphsettingnode",
+      "target": "moverenderpipeline_plugin_moverenderpipelinecore",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphSettingNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcameraanimationdata_wdpcameraanimationdata",
+      "target": "wdpcameraplugin_wdpcamera",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPCameraAnimationData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcameraanimationdata_wdpcameraanimationdata",
+      "target": "cameracontrolmanager_wdpcamera",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WDPCameraAnimationData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cameracontrolmanager_wdpcamera",
+      "target": "wdpcameraanimationdata_wdpcameraanimationdata_datastructure",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WDPCameraAnimationData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdprightsinfo_wdprightsinfo",
+      "target": "wdpdatamodel_wdprightsinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpRightsInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "weathercontrolmanager_targetweathertimeofdayupdateevent_weathercontrolmanager_targetweathertimeofdayupdateevent",
+      "target": "weathercontrolmanager_wdpenvironment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WeatherControlManager__TargetWeatherTimeOfDayUpdateEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "weathercontrolmanager_targetweathertimeofdayupdateevent_weathercontrolmanager_targetweathertimeofdayupdateevent",
+      "target": "wdpenvironment_plugin_wdpenvironment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WeatherControlManager__TargetWeatherTimeOfDayUpdateEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttostring_rigvmfunction_mathinttostring",
+      "target": "rigvmfunction_mathintbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntToString Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathinttostring_rigvmfunction_mathinttostring",
+      "target": "rigvm_plugin_rigvm",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathIntToString Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxtranslator_interchangematerialxtranslator",
+      "target": "interchangetranslatorbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialXTranslator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxtranslator_interchangematerialxtranslator",
+      "target": "interchange_plugin_interchangeimport",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialXTranslator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "contentbrowserfoldercontext_contentbrowserfoldercontext",
+      "target": "contentbrowsermenucontext_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ContentBrowserFolderContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashape3ddynmeshbase_avashape3ddynmeshbase",
+      "target": "avashapedynamicmeshbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShape3DDynMeshBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avashape3ddynmeshbase_avashape3ddynmeshbase",
+      "target": "avalanche_plugin_avalancheshapes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaShape3DDynMeshBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineprimaryconfigfactory_moviepipelineprimaryconfigfactory",
+      "target": "moviepipelineconfig_moverenderpipeline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelinePrimaryConfigFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineprimaryconfigfactory_moviepipelineprimaryconfigfactory",
+      "target": "moverenderpipeline_plugin_moverenderpipelinecore",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MoviePipelinePrimaryConfigFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgkernelattributekey_pcgkernelattributekey",
+      "target": "pcg_plugin_pcg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGKernelAttributeKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_timeline_rigunit_timeline",
+      "target": "rigvmfunction_timeline_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_Timeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_timeline_baseclass",
+      "target": "rigvm_plugin_rigvm",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_Timeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cachedanimtransitiondata_cachedanimtransitiondata",
+      "target": "cachedanimtransitiondata_cachedanimtransitiondata_datastructure",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "CachedAnimTransitionData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialbutton_audiomaterialbutton",
+      "target": "audowidgets_plugin_audiowidgets",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMaterialButton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialbutton_audiomaterialbutton",
+      "target": "onbuttonpressedchangedevent_audiowidgets",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMaterialButton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiomaterialbutton_audiomaterialbutton",
+      "target": "audiomaterialbuttonstyle_audiowidgets",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioMaterialButton Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradefaultsortprecision_niagaradefaultsortprecision",
+      "target": "niagara_plugin_niagara",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDefaultSortPrecision Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthstaticmeshprefab_earthstaticmeshprefab",
+      "target": "earthprefabbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthStaticMeshPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthstaticmeshprefab_earthstaticmeshprefab",
+      "target": "earthprefab_plugin_earthprefab",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthStaticMeshPrefab Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiodevicenotificationsubsystem_audiodevicenotificationsubsystem",
+      "target": "onaudiodefaultdevicechanged_audiomixer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioDeviceNotificationSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiodevicenotificationsubsystem_audiodevicenotificationsubsystem",
+      "target": "onaudiodevicechange_audiomixer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioDeviceNotificationSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiodevicenotificationsubsystem_audiodevicenotificationsubsystem",
+      "target": "onaudiodevicestatechanged_audiomixer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioDeviceNotificationSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "target": "wdpapi_plugin_wdpapiframe",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpSceneChangeInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "target": "wdpjsonobjectwrapper_wdpapiframe",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpSceneChangeInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpscenechangeinfo_wdpscenechangeinfo",
+      "target": "wdpscenechangeinfo_wdpscenechangeinfo_datastructure",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "WdpSceneChangeInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "subtitlecue_subtitlecue",
+      "target": "subtitlecue_subtitlecue_datastructure",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SubtitleCue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatarotatorsettings_pcgmetadatarotatorsettings",
+      "target": "pcgmetadatasettingsbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatarotatorsettings_pcgmetadatarotatorsettings",
+      "target": "pcg_plugin_pcg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatarotatorsettings_pcgmetadatarotatorsettings",
+      "target": "pcgmetadatarotatoroperation_pcg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatarotatorsettings_pcgmetadatarotatorsettings",
+      "target": "pcgattributepropertyinputselector_pcg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmetadatarotatorsettings_pcgmetadatarotatorsettings",
+      "target": "pcgattributepropertyoutputselector_pcg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMetadataRotatorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgkernelattributekey_pcgkernelattributekey",
+      "target": "pcgkernelattributekey_pcgkernelattributekey_datastructure",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGKernelAttributeKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgkernelattributekey_pcgkernelattributekey",
+      "target": "pcgmetadatarotatorsettings_pcgmetadatarotatorsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGKernelAttributeKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangefilepickerbase_interchangefilepickerbase",
+      "target": "interchangefilepickerparameters_interchangeengine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeFilePickerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangefilepickerbase_interchangefilepickerbase",
+      "target": "interchangetranslatortype_interchangeengine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeFilePickerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangefilepickerbase_interchangefilepickerbase",
+      "target": "interchangetranslatorassettype_interchangeengine",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeFilePickerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangefilepickerbase_interchangefilepickerbase",
+      "target": "interchangematerialxtranslator_interchangematerialxtranslator",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InterchangeFilePickerBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "staticmeshsocket_staticmeshsocket",
+      "target": "earthstaticmeshprefab_earthstaticmeshprefab",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "StaticMeshSocket Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphsettingnode_moviegraphsettingnode",
+      "target": "moviepipelineprimaryconfigfactory_moviepipelineprimaryconfigfactory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MovieGraphSettingNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpcameraanimationdata_wdpcameraanimationdata",
+      "target": "cachedanimtransitiondata_cachedanimtransitiondata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WDPCameraAnimationData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "comboboxkey_onopeningevent_comboboxkey_onopeningevent",
+      "target": "weathercontrolmanager_targetweathertimeofdayupdateevent_weathercontrolmanager_targetweathertimeofdayupdateevent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ComboBoxKey_OnOpeningEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_timeline_rigunit_timeline",
+      "target": "rigvmfunction_mathinttostring_rigvmfunction_mathinttostring",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_Timeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "wdp_data_models",
+      "label": "Wdp Data Model Components",
+      "nodes": [
+        "wdprightsinfo_wdprightsinfo",
+        "wdpcameraanimationdata_wdpcameraanimationdata",
+        "wdpscenechangeinfo_wdpscenechangeinfo"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "WdpRightsInfo Objects.md"
+    },
+    {
+      "id": "audio_device_notification_delegates",
+      "label": "Audio Device Notification Delegates",
+      "nodes": [
+        "onaudiodefaultdevicechanged_audiomixer",
+        "onaudiodevicechange_audiomixer",
+        "onaudiodevicestatechanged_audiomixer"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AudioDeviceNotificationSubsystem Objects.md"
+    },
+    {
+      "id": "interchange_translator_components",
+      "label": "Interchange Translation System Components",
+      "nodes": [
+        "interchangematerialxtranslator_interchangematerialxtranslator",
+        "interchangefilepickerbase_interchangefilepickerbase",
+        "interchangetranslatortype_interchangeengine",
+        "interchangetranslatorassettype_interchangeengine"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InterchangeMaterialXTranslator Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

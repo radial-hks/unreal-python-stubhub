@@ -1,0 +1,573 @@
+{
+  "nodes": [
+    {
+      "id": "skycreatorniagaraparameters_struct",
+      "label": "SkyCreator Niagara Parameters",
+      "file_type": "code",
+      "source_file": "SkyCreatorNiagaraParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinequeuesubsystem_class",
+      "label": "MoviePipelineQueueSubsystem",
+      "file_type": "code",
+      "source_file": "MoviePipelineQueueSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vrscoutinginteractor_class",
+      "label": "VRScoutingInteractor",
+      "file_type": "code",
+      "source_file": "VRScoutingInteractor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "automapchaintype_enum",
+      "label": "AutoMapChainType",
+      "file_type": "code",
+      "source_file": "AutoMapChainType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchygetsiblingsitemarray_class",
+      "label": "RigUnit HierarchyGetSiblingsItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyGetSiblingsItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneeventsection_class",
+      "label": "MovieSceneEventSection",
+      "file_type": "code",
+      "source_file": "MovieSceneEventSection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spritegeometrycollection_struct",
+      "label": "SpriteGeometryCollection",
+      "file_type": "code",
+      "source_file": "SpriteGeometryCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionfeaturelevelswitch_class",
+      "label": "MaterialExpressionFeatureLevelSwitch",
+      "file_type": "code",
+      "source_file": "MaterialExpressionFeatureLevelSwitch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rotatorquantization_enum",
+      "label": "RotatorQuantization",
+      "file_type": "code",
+      "source_file": "RotatorQuantization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityinitparams_struct",
+      "label": "EntityInitParams",
+      "file_type": "code",
+      "source_file": "EntityInitParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatequatxform_class",
+      "label": "RigVMFunction MathRBFInterpolateQuatXform",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatXform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiocapturefunctionlibrary_class",
+      "label": "AudioCaptureFunctionLibrary",
+      "file_type": "code",
+      "source_file": "AudioCaptureFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformernamearrayvariable_class",
+      "label": "RigVMTrait SetDeformerNameArrayVariable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerNameArrayVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigdispatch_setmodulemetadata_class",
+      "label": "RigDispatch SetModuleMetadata",
+      "file_type": "code",
+      "source_file": "RigDispatch_SetModuleMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_timeline_class",
+      "label": "RigVMFunction Timeline",
+      "file_type": "code",
+      "source_file": "RigVMFunction__Timeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rectlight_class",
+      "label": "RectLight",
+      "file_type": "code",
+      "source_file": "RectLight Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkeycollection_struct",
+      "label": "RigElementKeyCollection",
+      "file_type": "code",
+      "source_file": "RigElementKeyCollection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsubdivisionmoduleattributenames_struct",
+      "label": "PCGSubdivisionModuleAttributeNames",
+      "file_type": "code",
+      "source_file": "PCGSubdivisionModuleAttributeNames Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgblueprintelement_class",
+      "label": "PCGBlueprintElement",
+      "file_type": "code",
+      "source_file": "PCGBlueprintElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediostandardtype_enum",
+      "label": "MediaIOStandardType",
+      "file_type": "code",
+      "source_file": "MediaIOStandardType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pixelstreaming51cloudstreamerinputbackbufferfactory_class",
+      "label": "PixelStreaming51CloudStreamerInputBackBufferFactory",
+      "file_type": "code",
+      "source_file": "PixelStreaming51CloudStreamerInputBackBufferFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeanimationframerotationremapper_class",
+      "label": "glTFRuntimeAnimationFrameRotationRemapper",
+      "file_type": "code",
+      "source_file": "glTFRuntimeAnimationFrameRotationRemapper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineexecutorbase_class",
+      "label": "MoviePipelineExecutorBase",
+      "file_type": "code",
+      "source_file": "MoviePipelineQueueSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinequeue_class",
+      "label": "MoviePipelineQueue",
+      "file_type": "code",
+      "source_file": "MoviePipelineQueueSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycrreator_plugin",
+      "label": "SkyCreator Plugin",
+      "file_type": "code",
+      "source_file": "SkyCreatorNiagaraParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ultra_dynamic_sky_system",
+      "label": "Ultra Dynamic Sky System",
+      "file_type": "code",
+      "source_file": "SkyCreatorNiagaraParameters Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rbf_interpolation_algorithm",
+      "label": "RBF Interpolation Algorithm",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatXform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_timeline_system",
+      "label": "RigVM Timeline System",
+      "file_type": "code",
+      "source_file": "RigVMFunction__Timeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_loop_execution_pattern",
+      "label": "PCG Loop Execution Pattern",
+      "file_type": "code",
+      "source_file": "PCGBlueprintElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "network_replication_optimization",
+      "label": "Network Replication Optimization",
+      "file_type": "code",
+      "source_file": "RotatorQuantization Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chain_mapping_algorithm",
+      "label": "Chain Mapping Algorithm",
+      "file_type": "code",
+      "source_file": "AutoMapChainType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviepipelinequeuesubsystem_class",
+      "target": "moviepipelineexecutorbase_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineQueueSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinequeuesubsystem_class",
+      "target": "moviepipelinequeue_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineQueueSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorniagaraparameters_struct",
+      "target": "ultra_dynamic_sky_system",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorNiagaraParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorniagaraparameters_struct",
+      "target": "skycrreator_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorNiagaraParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ultra_dynamic_sky_system",
+      "target": "skycrreator_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SkyCreatorNiagaraParameters Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatxform_class",
+      "target": "rbf_interpolation_algorithm",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatXform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_timeline_class",
+      "target": "rigvm_timeline_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__Timeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgblueprintelement_class",
+      "target": "pcg_loop_execution_pattern",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBlueprintElement Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rotatorquantization_enum",
+      "target": "network_replication_optimization",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RotatorQuantization Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "automapchaintype_enum",
+      "target": "chain_mapping_algorithm",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AutoMapChainType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rectlight_class",
+      "target": "network_replication_optimization",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RectLight Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathrbfinterpolatequatxform_class",
+      "target": "rigvmfunction_timeline_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatXform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigdispatch_setmodulemetadata_class",
+      "target": "rigvmfunction_timeline_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigDispatch_SetModuleMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetsiblingsitemarray_class",
+      "target": "rigelementkeycollection_struct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyGetSiblingsItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgsubdivisionmoduleattributenames_struct",
+      "target": "pcgblueprintelement_class",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGSubdivisionModuleAttributeNames Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneeventsection_class",
+      "target": "moviepipelinequeuesubsystem_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneEventSection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiocapturefunctionlibrary_class",
+      "target": "moviepipelinequeuesubsystem_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AudioCaptureFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformernamearrayvariable_class",
+      "target": "rigvmfunction_timeline_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMTrait__SetDeformerNameArrayVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_framework_components",
+      "label": "RigVM Framework Components",
+      "nodes": [
+        "rigvmfunction_mathrbfinterpolatequatxform_class",
+        "rigvmfunction_timeline_class",
+        "rigdispatch_setmodulemetadata_class",
+        "rigvmtrait_setdeformernamearrayvariable_class",
+        "rigunit_hierarchygetsiblingsitemarray_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathRBFInterpolateQuatXform Objects.md"
+    },
+    {
+      "id": "multimedia_rendering_pipeline",
+      "label": "Multimedia Rendering Pipeline",
+      "nodes": [
+        "moviepipelinequeuesubsystem_class",
+        "moviesceneeventsection_class",
+        "audiocapturefunctionlibrary_class",
+        "mediostandardtype_enum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MoviePipelineQueueSubsystem Objects.md"
+    },
+    {
+      "id": "vr_interaction_system",
+      "label": "VR Interaction System",
+      "nodes": [
+        "vrscoutinginteractor_class",
+        "gltfruntimeanimationframerotationremapper_class",
+        "mediostandardtype_enum"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "VRScoutingInteractor Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

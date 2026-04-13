@@ -1,0 +1,1060 @@
+{
+  "nodes": [
+    {
+      "id": "eulerrotationorder_eulerrotationorder",
+      "label": "EulerRotationOrder",
+      "file_type": "code",
+      "source_file": "EulerRotationOrder Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwaveprocedural_soundwaveprocedural",
+      "label": "SoundWaveProcedural",
+      "file_type": "code",
+      "source_file": "SoundWaveProcedural Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "netpushmodelhelpers_netpushmodelhelpers",
+      "label": "NetPushModelHelpers",
+      "file_type": "code",
+      "source_file": "NetPushModelHelpers Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptselectivetessellateoptions_geometryscriptselectivetessellateoptions",
+      "label": "GeometryScriptSelectiveTessellateOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptSelectiveTessellateOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeanimationrange_interchangeanimationrange",
+      "label": "InterchangeAnimationRange",
+      "file_type": "code",
+      "source_file": "InterchangeAnimationRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_parentconstraintmath_advancedsettings",
+      "label": "RigUnit_ParentConstraintMath_AdvancedSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_ParentConstraintMath_AdvancedSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigmoduleinstance_rigmoduleinstance",
+      "label": "RigModuleInstance",
+      "file_type": "code",
+      "source_file": "RigModuleInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+      "label": "AesEditorBlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangecardspipeline_interchangecardspipeline",
+      "label": "InterchangeCardsPipeline",
+      "file_type": "code",
+      "source_file": "InterchangeCardsPipeline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangestandardcamerafactorynode_interchangestandardcamerafactorynode",
+      "label": "InterchangeStandardCameraFactoryNode",
+      "file_type": "code",
+      "source_file": "InterchangeStandardCameraFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunctionreferencenode_rigvmfunctionreferencenode",
+      "label": "RigVMFunctionReferenceNode",
+      "file_type": "code",
+      "source_file": "RigVMFunctionReferenceNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpenvironmentapi_wdpenvironmentapi",
+      "label": "WdpEnvironmentAPI",
+      "file_type": "code",
+      "source_file": "WdpEnvironmentAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animexecutioncontextconversionresult_animexecutioncontextconversionresult",
+      "label": "AnimExecutionContextConversionResult",
+      "file_type": "code",
+      "source_file": "AnimExecutionContextConversionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatasin",
+      "label": "RigVMFunction_MathFloatAsin",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatAsin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddelement",
+      "label": "RigUnit_HierarchyAddElement",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddElement Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarawithdynamicpins_niagarawithdynamicpins",
+      "label": "NiagaraNodeWithDynamicPins",
+      "file_type": "code",
+      "source_file": "NiagaraNodeWithDynamicPins Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "label": "PCGBlueprintHelpers",
+      "file_type": "code",
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrymasksubsystem_geometrymasksubsystem",
+      "label": "GeometryMaskSubsystem",
+      "file_type": "code",
+      "source_file": "GeometryMaskSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getcurvevalue",
+      "label": "RigUnit_GetCurveValue",
+      "file_type": "code",
+      "source_file": "RigUnit__GetCurveValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "groombindingtype_groombindingtype",
+      "label": "GroomBindingType",
+      "file_type": "code",
+      "source_file": "GroomBindingType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesflowmapeditorcommand_paint",
+      "label": "AesFlowMapEditorCommand_Paint",
+      "file_type": "code",
+      "source_file": "AesFlowMapEditorCommand__Paint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrylong_lowentrylong",
+      "label": "LowEntryLong",
+      "file_type": "code",
+      "source_file": "LowEntryLong Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundwave_baseclass",
+      "label": "SoundWave",
+      "file_type": "code",
+      "source_file": "SoundWaveProcedural Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfuntionlibrary_baseclass",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "NetPushModelHelpers Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_baseclass",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "GeometryScriptSelectiveTessellateOptions Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangepipelinebase_baseclass",
+      "label": "InterchangePipelineBase",
+      "file_type": "code",
+      "source_file": "InterchangeCardsPipeline Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangeactorfactorynode_baseclass",
+      "label": "InterchangeActorFactoryNode",
+      "file_type": "code",
+      "source_file": "InterchangeStandardCameraFactoryNode Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmlibrarynode_baseclass",
+      "label": "RigVMLibraryNode",
+      "file_type": "code",
+      "source_file": "RigVMFunctionReferenceNode Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatunaryop_baseclass",
+      "label": "RigVMFunction_MathFloatUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathFloatAsin Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_dynamichierarchybasemutable_baseclass",
+      "label": "RigUnit_DynamicHierarchyBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyAddElement Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaranode_baseclass",
+      "label": "NiagaraNode",
+      "file_type": "code",
+      "source_file": "NiagaraNodeWithDynamicPins Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enginesubsystem_baseclass",
+      "label": "EngineSubsystem",
+      "file_type": "code",
+      "source_file": "GeometryMaskSubsystem Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_baseclass",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit__GetCurveValue Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorsimplecommand_baseclass",
+      "label": "AesEditorSimpleCommand",
+      "file_type": "code",
+      "source_file": "AesFlowMapEditorCommand__Paint Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptemptyselectionbehavior_type",
+      "label": "GeometryScriptEmptySelectionBehavior",
+      "file_type": "code",
+      "source_file": "GeometryScriptSelectiveTessellateOptions Objects.md",
+      "source_location": "17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintinterptype_type",
+      "label": "ConstraintInterpType",
+      "file_type": "code",
+      "source_file": "RigUnit_ParentConstraintMath_AdvancedSettings Objects.md",
+      "source_location": "17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameraprojectionmode_type",
+      "label": "CameraProjectionMode",
+      "file_type": "code",
+      "source_file": "InterchangeStandardCameraFactoryNode Objects.md",
+      "source_location": "39",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "standardapiclassbase_baseclass",
+      "label": "StandardApiClassBase",
+      "file_type": "code",
+      "source_file": "WdpEnvironmentAPI Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_baseclass",
+      "label": "Object",
+      "file_type": "code",
+      "source_file": "LowEntryLong Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrydouble_type",
+      "label": "LowEntryDouble",
+      "file_type": "code",
+      "source_file": "LowEntryLong Objects.md",
+      "source_location": "272",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesearth_type",
+      "label": "AesEarth",
+      "file_type": "code",
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": "292",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texture_type",
+      "label": "Texture",
+      "file_type": "code",
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": "256",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor_type",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": "370",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgpoint_type",
+      "label": "PCGPoint",
+      "file_type": "code",
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcomponent_type",
+      "label": "PCGComponent",
+      "file_type": "code",
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "83",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcontext_type",
+      "label": "PCGContext",
+      "file_type": "code",
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "119",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdata_type",
+      "label": "PCGData",
+      "file_type": "code",
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "305",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgspatialdata_type",
+      "label": "PCGSpatialData",
+      "file_type": "code",
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "140",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings_type",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "161",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrymaskcanvas_type",
+      "label": "GeometryMaskCanvas",
+      "file_type": "code",
+      "source_file": "GeometryMaskSubsystem Objects.md",
+      "source_location": "20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "soundwaveprocedural_soundwaveprocedural",
+      "target": "soundwave_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundWaveProcedural Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "netpushmodelhelpers_netpushmodelhelpers",
+      "target": "blueprintfuntionlibrary_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NetPushModelHelpers Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+      "target": "blueprintfuntionlibrary_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "target": "blueprintfuntionlibrary_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptselectivetessellateoptions_geometryscriptselectivetessellateoptions",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptSelectiveTessellateOptions Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentconstraintmath_advancedsettings",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ParentConstraintMath_AdvancedSettings Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigmoduleinstance_rigmoduleinstance",
+      "target": "structbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigModuleInstance Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangecardspipeline_interchangecardspipeline",
+      "target": "interchangepipelinebase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeCardsPipeline Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangestandardcamerafactorynode_interchangestandardcamerafactorynode",
+      "target": "interchangeactorfactorynode_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeStandardCameraFactoryNode Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunctionreferencenode_rigvmfunctionreferencenode",
+      "target": "rigvmlibrarynode_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunctionReferenceNode Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "wdpenvironmentapi_wdpenvironmentapi",
+      "target": "standardapiclassbase_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEnvironmentAPI Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatasin",
+      "target": "rigvmfunction_mathfloatunaryop_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathFloatAsin Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddelement",
+      "target": "rigunit_dynamichierarchybasemutable_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddElement Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "niagarawithdynamicpins_niagarawithdynamicpins",
+      "target": "niagaranode_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraNodeWithDynamicPins Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometrymasksubsystem_geometrymasksubsystem",
+      "target": "enginesubsystem_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryMaskSubsystem Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcurvevalue",
+      "target": "rigunit_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__GetCurveValue Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "aesflowmapeditorcommand_paint",
+      "target": "aeseditorsimplecommand_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFlowMapEditorCommand__Paint Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "lowentrylong_lowentrylong",
+      "target": "object_baseclass",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LowEntryLong Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptselectivetessellateoptions_geometryscriptselectivetessellateoptions",
+      "target": "geometryscriptemptyselectionbehavior_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptSelectiveTessellateOptions Objects.md",
+      "source_location": "17",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentconstraintmath_advancedsettings",
+      "target": "constraintinterptype_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ParentConstraintMath_AdvancedSettings Objects.md",
+      "source_location": "17",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangestandardcamerafactorynode_interchangestandardcamerafactorynode",
+      "target": "cameraprojectionmode_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeStandardCameraFactoryNode Objects.md",
+      "source_location": "39",
+      "weight": 1.0
+    },
+    {
+      "source": "lowentrylong_lowentrylong",
+      "target": "lowentrydouble_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LowEntryLong Objects.md",
+      "source_location": "272",
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+      "target": "aesearth_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": "292",
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+      "target": "texture_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": "256",
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+      "target": "actor_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": "370",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "target": "pcgpoint_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "21",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "target": "pcgcomponent_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "83",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "target": "pcgcontext_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "119",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "target": "pcgdata_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "305",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "target": "pcgspatialdata_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "140",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "target": "pcgsettings_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGBlueprintHelpers Objects.md",
+      "source_location": "161",
+      "weight": 1.0
+    },
+    {
+      "source": "geometrymasksubsystem_geometrymasksubsystem",
+      "target": "geometrymaskcanvas_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryMaskSubsystem Objects.md",
+      "source_location": "20",
+      "weight": 1.0
+    },
+    {
+      "source": "netpushmodelhelpers_netpushmodelhelpers",
+      "target": "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NetPushModelHelpers Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "netpushmodelhelpers_netpushmodelhelpers",
+      "target": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NetPushModelHelpers Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+      "target": "pcgblueprinthelpers_pcgblueprinthelpers",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AesEditorBlueprintFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcurvevalue",
+      "target": "rigunit_parentconstraintmath_advancedsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__GetCurveValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getcurvevalue",
+      "target": "rigunit_hierarchyaddelement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__GetCurveValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parentconstraintmath_advancedsettings",
+      "target": "rigunit_hierarchyaddelement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_ParentConstraintMath_AdvancedSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatasin",
+      "target": "rigvmfunctionreferencenode_rigvmfunctionreferencenode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction_MathFloatAsin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigmoduleinstance_rigmoduleinstance",
+      "target": "rigunit_hierarchyaddelement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigModuleInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigmoduleinstance_rigmoduleinstance",
+      "target": "rigunit_getcurvevalue",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigModuleInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeanimationrange_interchangeanimationrange",
+      "target": "interchangecardspipeline_interchangecardspipeline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InterchangeAnimationRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangeanimationrange_interchangeanimationrange",
+      "target": "interchangestandardcamerafactorynode_interchangestandardcamerafactorynode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InterchangeAnimationRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangecardspipeline_interchangecardspipeline",
+      "target": "interchangestandardcamerafactorynode_interchangestandardcamerafactorynode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InterchangeCardsPipeline Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "eulerrotationorder_eulerrotationorder",
+      "target": "rigunit_parentconstraintmath_advancedsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EulerRotationOrder Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesflowmapeditorcommand_paint",
+      "target": "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AesFlowMapEditorCommand__Paint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_system_components",
+      "label": "Control Rig System Components",
+      "nodes": [
+        "rigunit_getcurvevalue",
+        "rigunit_parentconstraintmath_advancedsettings",
+        "rigunit_hierarchyaddelement",
+        "rigmoduleinstance_rigmoduleinstance"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__GetCurveValue Objects.md"
+    },
+    {
+      "id": "interchange_import_system",
+      "label": "Interchange Import System",
+      "nodes": [
+        "interchangeanimationrange_interchangeanimationrange",
+        "interchangecardspipeline_interchangecardspipeline",
+        "interchangestandardcamerafactorynode_interchangestandardcamerafactorynode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "InterchangeAnimationRange Objects.md"
+    },
+    {
+      "id": "blueprint_function_libraries",
+      "label": "Blueprint Function Libraries",
+      "nodes": [
+        "netpushmodelhelpers_netpushmodelhelpers",
+        "aeseditorblueprintfuntionlibrary_aeseditorblueprintfuntionlibrary",
+        "pcgblueprinthelpers_pcgblueprinthelpers"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "NetPushModelHelpers Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1001 @@
+{
+  "nodes": [
+    {
+      "id": "inputtriggerholdhold_inputtriggerhold",
+      "label": "InputTriggerHold",
+      "file_type": "code",
+      "source_file": "InputTriggerHold Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputtriggerholdhold_inputtriggertimedbase",
+      "label": "InputTriggerTimedBase",
+      "file_type": "code",
+      "source_file": "InputTriggerHold Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecapture_moviescenecapture",
+      "label": "MovieSceneCapture",
+      "file_type": "code",
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecapture_moviescenecapturesettings",
+      "label": "MovieSceneCaptureSettings",
+      "file_type": "code",
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecapture_moviesceneimagecaptureprotocolbase",
+      "label": "MovieSceneImageCaptureProtocolBase",
+      "file_type": "code",
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenecapture_moviesceneaudiocaptureprotocolbase",
+      "label": "MovieSceneAudioCaptureProtocolBase",
+      "file_type": "code",
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceactor_levelsequenceactor",
+      "label": "LevelSequenceActor",
+      "file_type": "code",
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceactor_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceactor_levelsequenceplayer",
+      "label": "LevelSequencePlayer",
+      "file_type": "code",
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceactor_levelsequence",
+      "label": "LevelSequence",
+      "file_type": "code",
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceactor_moviescenebindingoverrides",
+      "label": "MovieSceneBindingOverrides",
+      "file_type": "code",
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmbuildable_dmbuildable",
+      "label": "DMBuildable",
+      "file_type": "code",
+      "source_file": "DMBuildable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "k2node_k2node",
+      "label": "K2Node",
+      "file_type": "code",
+      "source_file": "K2Node Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "k2node_edgraphnode",
+      "label": "EdGraphNode",
+      "file_type": "code",
+      "source_file": "K2Node Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent_primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "code",
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent_scenecomponent",
+      "label": "SceneComponent",
+      "file_type": "code",
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent_bodyinstance",
+      "label": "BodyInstance",
+      "file_type": "code",
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserdatafilter_contentbrowserdatafilter",
+      "label": "ContentBrowserDataFilter",
+      "file_type": "code",
+      "source_file": "ContentBrowserDataFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserdatafilter_structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "ContentBrowserDataFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springinterpv2_rigunit_springinterpv2",
+      "label": "RigUnit_SpringInterpV2",
+      "file_type": "code",
+      "source_file": "RigUnit_SpringInterpV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_springinterpv2_rigvmfunction_simbase",
+      "label": "RigVMFunction_SimBase",
+      "file_type": "code",
+      "source_file": "RigUnit_SpringInterpV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescr iptingeventkey_moviescenescr iptingeventkey",
+      "label": "MovieSceneScriptingEventKey",
+      "file_type": "code",
+      "source_file": "MovieSceneScriptingEventKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescr iptingeventkey_moviescenescr iptingkey",
+      "label": "MovieSceneScriptingKey",
+      "file_type": "code",
+      "source_file": "MovieSceneScriptingEventKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenescr iptingeventkey_moviesceneevent",
+      "label": "MovieSceneEvent",
+      "file_type": "code",
+      "source_file": "MovieSceneScriptingEventKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringboundapi_coveringboundapi",
+      "label": "CoveringBoundAPI",
+      "file_type": "code",
+      "source_file": "CoveringBoundAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmwidgetpropertypath_mvvmwidgetpropertypath",
+      "label": "MVVMWidgetPropertyPath",
+      "file_type": "code",
+      "source_file": "MVVMWidgetPropertyPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmwidgetpropertypath_mvvmblueprintpropertypath",
+      "label": "MVVMBlueprintPropertyPath",
+      "file_type": "code",
+      "source_file": "MVVMWidgetPropertyPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphfileoutputnode_moviegraphfileoutputnode",
+      "label": "MovieGraphFileOutputNode",
+      "file_type": "code",
+      "source_file": "MovieGraphFileOutputNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphfileoutputnode_moviegraphsettingnode",
+      "label": "MovieGraphSettingNode",
+      "file_type": "code",
+      "source_file": "MovieGraphFileOutputNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathboxmoveto_rigvmfunction_mathboxmoveto",
+      "label": "RigVMFunction_MathBoxMoveTo",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoxMoveTo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathboxmoveto_rigvmfunction_mathboxbase",
+      "label": "RigVMFunction_MathBoxBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoxMoveTo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonphysicsassetlib_pythonphysicsassetlib",
+      "label": "PythonPhysicsAssetLib",
+      "file_type": "code",
+      "source_file": "PythonPhysicsAssetLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonphysicsassetlib_blueprintfunctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "PythonPhysicsAssetLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonphysicsassetlib_physicsasset",
+      "label": "PhysicsAsset",
+      "file_type": "code",
+      "source_file": "PythonPhysicsAssetLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vimblueprintfactory_vimblueprintfactory",
+      "label": "VimBlueprintFactory",
+      "file_type": "code",
+      "source_file": "VimBlueprintFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vimblueprintfactory_animblueprintfactory",
+      "label": "AnimBlueprintFactory",
+      "file_type": "code",
+      "source_file": "VimBlueprintFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_itemarray_rigunit_itemarray",
+      "label": "RigUnit_ItemArray",
+      "file_type": "code",
+      "source_file": "RigUnit_ItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_itemarray_rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit_ItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poselinkbase_poselinkbase",
+      "label": "PoseLinkBase",
+      "file_type": "code",
+      "source_file": "PoseLinkBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rendertargetcompositingoutput_rendertargetcompositingoutput",
+      "label": "RenderTargetCompositingOutput",
+      "file_type": "code",
+      "source_file": "RenderTargetCompositingOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rendertargetcompositingoutput_compositingelementoutput",
+      "label": "CompositingElementOutput",
+      "file_type": "code",
+      "source_file": "RenderTargetCompositingOutput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "translucencylightingmode_translucencylightingmode",
+      "label": "TranslucencyLightingMode",
+      "file_type": "code",
+      "source_file": "TranslucencyLightingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairgroupdesc_hairgroupdesc",
+      "label": "HairGroupDesc",
+      "file_type": "code",
+      "source_file": "HairGroupDesc Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platformlibrary_platformlibrary",
+      "label": "PlatformLibrary",
+      "file_type": "code",
+      "source_file": "PlatformLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collisionchaosevent_collisionchaosevent",
+      "label": "CollisionChaosEvent",
+      "file_type": "code",
+      "source_file": "CollisionChaosEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collisionchaosevent_collisionchaoseventbodyinfo",
+      "label": "CollisionChaosEventBodyInfo",
+      "file_type": "code",
+      "source_file": "CollisionChaosEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_sequencer_playback",
+      "label": "Sequencer Playback",
+      "file_type": "document",
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_physics_simulation",
+      "label": "Physics Simulation",
+      "file_type": "document",
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_collision_detection",
+      "label": "Collision Detection",
+      "file_type": "document",
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_rendering_pipeline",
+      "label": "Rendering Pipeline",
+      "file_type": "document",
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_input_triggers",
+      "label": "Input Triggers",
+      "file_type": "document",
+      "source_file": "InputTriggerHold Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_spring_interpolation",
+      "label": "Spring Interpolation",
+      "file_type": "document",
+      "source_file": "RigUnit_SpringInterpV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "inputtriggerholdhold_inputtriggerhold",
+      "target": "inputtriggerholdhold_inputtriggertimedbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InputTriggerHold Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecapture_moviescenecapture",
+      "target": "moviescenecapture_moviescenecapturesettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecapture_moviescenecapture",
+      "target": "moviescenecapture_moviesceneimagecaptureprotocolbase",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecapture_moviescenecapture",
+      "target": "moviescenecapture_moviesceneaudiocaptureprotocolbase",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceactor_levelsequenceactor",
+      "target": "levelsequenceactor_actor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceactor_levelsequenceactor",
+      "target": "levelsequenceactor_levelsequenceplayer",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceactor_levelsequenceactor",
+      "target": "levelsequenceactor_levelsequence",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceactor_levelsequenceactor",
+      "target": "levelsequenceactor_moviescenebindingoverrides",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "levelsequenceactor_levelsequenceactor",
+      "target": "concept_sequencer_playback",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "LevelSequenceActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecapture_moviescenecapture",
+      "target": "concept_sequencer_playback",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescr iptingeventkey_moviescenescr iptingeventkey",
+      "target": "moviescenescr iptingeventkey_moviescenescr iptingkey",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneScriptingEventKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescr iptingeventkey_moviescenescr iptingeventkey",
+      "target": "moviescenescr iptingeventkey_moviesceneevent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneScriptingEventKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenescr iptingeventkey_moviescenescr iptingeventkey",
+      "target": "concept_sequencer_playback",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "MovieSceneScriptingEventKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "k2node_k2node",
+      "target": "k2node_edgraphnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "K2Node Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primitivecomponent_primitivecomponent",
+      "target": "primitivecomponent_scenecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primitivecomponent_primitivecomponent",
+      "target": "primitivecomponent_bodyinstance",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primitivecomponent_primitivecomponent",
+      "target": "concept_physics_simulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primitivecomponent_primitivecomponent",
+      "target": "concept_collision_detection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primitivecomponent_primitivecomponent",
+      "target": "concept_rendering_pipeline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collisionchaosevent_collisionchaosevent",
+      "target": "collisionchaosevent_collisionchaoseventbodyinfo",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CollisionChaosEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "collisionchaosevent_collisionchaosevent",
+      "target": "concept_collision_detection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "CollisionChaosEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "contentbrowserdatafilter_contentbrowserdatafilter",
+      "target": "contentbrowserdatafilter_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ContentBrowserDataFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springinterpv2_rigunit_springinterpv2",
+      "target": "rigunit_springinterpv2_rigvmfunction_simbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SpringInterpV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_springinterpv2_rigunit_springinterpv2",
+      "target": "concept_spring_interpolation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "RigUnit_SpringInterpV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputtriggerholdhold_inputtriggerhold",
+      "target": "concept_input_triggers",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "InputTriggerHold Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmwidgetpropertypath_mvvmwidgetpropertypath",
+      "target": "mvvmwidgetpropertypath_mvvmblueprintpropertypath",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMWidgetPropertyPath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphfileoutputnode_moviegraphfileoutputnode",
+      "target": "moviegraphfileoutputnode_moviegraphsettingnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphFileOutputNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathboxmoveto_rigvmfunction_mathboxmoveto",
+      "target": "rigvmfunction__mathboxmoveto_rigvmfunction_mathboxbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoxMoveTo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pythonphysicsassetlib_pythonphysicsassetlib",
+      "target": "pythonphysicsassetlib_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PythonPhysicsAssetLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pythonphysicsassetlib_pythonphysicsassetlib",
+      "target": "pythonphysicsassetlib_physicsasset",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PythonPhysicsAssetLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pythonphysicsassetlib_pythonphysicsassetlib",
+      "target": "concept_physics_simulation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "PythonPhysicsAssetLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vimblueprintfactory_vimblueprintfactory",
+      "target": "vimblueprintfactory_animblueprintfactory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "VimBlueprintFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itemarray_rigunit_itemarray",
+      "target": "rigunit_itemarray_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rendertargetcompositingoutput_rendertargetcompositingoutput",
+      "target": "rendertargetcompositingoutput_compositingelementoutput",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RenderTargetCompositingOutput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hairgroupdesc_hairgroupdesc",
+      "target": "concept_rendering_pipeline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "HairGroupDesc Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "platformlibrary_platformlibrary",
+      "target": "pythonphysicsassetlib_blueprintfunctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlatformLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_physics_simulation",
+      "target": "concept_collision_detection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "primitivecomponent_primitivecomponent",
+      "target": "collisionchaosevent_collisionchaosevent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PrimitiveComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenecapture_moviescenecapture",
+      "target": "moviegraphfileoutputnode_moviegraphfileoutputnode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "sequencer_system_components",
+      "label": "Sequencer System Components",
+      "nodes": [
+        "moviescenecapture_moviescenecapture",
+        "levelsequenceactor_levelsequenceactor",
+        "moviescenescr iptingeventkey_moviescenescr iptingeventkey",
+        "moviegraphfileoutputnode_moviegraphfileoutputnode"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Multiple Files"
+    },
+    {
+      "id": "physics_and_collision_system",
+      "label": "Physics and Collision System",
+      "nodes": [
+        "primitivecomponent_primitivecomponent",
+        "collisionchaosevent_collisionchaosevent",
+        "pythonphysicsassetlib_pythonphysicsassetlib",
+        "concept_physics_simulation",
+        "concept_collision_detection"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Multiple Files"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

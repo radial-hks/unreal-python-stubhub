@@ -1,0 +1,744 @@
+{
+  "nodes": [
+    {
+      "id": "point2dentityatom_class",
+      "label": "Point2DEntityAtom",
+      "file_type": "document",
+      "source_file": "Point2DEntityAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase_parent",
+      "label": "EntityAtomBase",
+      "file_type": "document",
+      "source_file": "Point2DEntityAtom Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vector2d_type",
+      "label": "Vector2D",
+      "file_type": "document",
+      "source_file": "Point2DEntityAtom Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpgeometryentity_module",
+      "label": "WdpGeometryEntity Module",
+      "file_type": "document",
+      "source_file": "Point2DEntityAtom Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "removaleventsignature_class",
+      "label": "RemovalEventSignature",
+      "file_type": "document",
+      "source_file": "RemovalEventSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase_parent",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "RemovalEventSignature Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosremovalevent_type",
+      "label": "ChaosRemovalEvent",
+      "file_type": "document",
+      "source_file": "RemovalEventSignature Objects.md",
+      "source_location": "line 10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "playerstart_class",
+      "label": "PlayerStart",
+      "file_type": "document",
+      "source_file": "PlayerStart Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationobjectbase_parent",
+      "label": "NavigationObjectBase",
+      "file_type": "document",
+      "source_file": "PlayerStart Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "player_spawn_system",
+      "label": "Player Spawn System",
+      "file_type": "document",
+      "source_file": "PlayerStart Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debuglineitemspace_class",
+      "label": "RigUnit_DebugLineItemSpace",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbasemutable_parent",
+      "label": "RigUnit_DebugBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_module",
+      "label": "ControlRig Module",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md",
+      "source_location": "line 12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viewport_debug_drawing",
+      "label": "Viewport Debug Drawing",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertydef_class",
+      "label": "PropertyDef",
+      "file_type": "document",
+      "source_file": "PropertyDef Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "python_property_definition",
+      "label": "Python Property Definition",
+      "file_type": "document",
+      "source_file": "PropertyDef Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "turnbasedlibrary_class",
+      "label": "TurnBasedLibrary",
+      "file_type": "document",
+      "source_file": "TurnBasedLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctionlibrary_parent",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "TurnBasedLibrary Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "turn_based_matchmaking",
+      "label": "Turn-Based Matchmaking",
+      "file_type": "document",
+      "source_file": "TurnBasedLibrary Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvmbindingexectextcounter_class",
+      "label": "MVVMBindingExecTextCounter",
+      "file_type": "document",
+      "source_file": "MVVMBindingExecTextCounter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_parent",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "MVVMBindingExecTextCounter Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvm_system",
+      "label": "Model-View-ViewModel System",
+      "file_type": "document",
+      "source_file": "MVVMBindingExecTextCounter Objects.md",
+      "source_location": "line 11-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphrendererbase_class",
+      "label": "MovieGraphRendererBase",
+      "file_type": "document",
+      "source_file": "MovieGraphRendererBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object_parent",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "MovieGraphRendererBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movie_render_pipeline",
+      "label": "Movie Render Pipeline",
+      "file_type": "document",
+      "source_file": "MovieGraphRendererBase Objects.md",
+      "source_location": "line 11-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathfloatgreaterequal_class",
+      "label": "RigUnit_MathFloatGreaterEqual",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatgreaterequal_parent",
+      "label": "RigVMFunction_MathFloatGreaterEqual",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatGreaterEqual Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deprecated_api",
+      "label": "Deprecated API",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatGreaterEqual Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearraybool_class",
+      "label": "NiagaraDataInterfaceArrayBool",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceArrayBool Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaradatainterfacearray_parent",
+      "label": "NiagaraDataInterfaceArray",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceArrayBool Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_particle_system",
+      "label": "Niagara Particle System",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceArrayBool Objects.md",
+      "source_location": "line 11-13",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_meshrefpose_class",
+      "label": "AnimGraphNode_MeshRefPose",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_MeshRefPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_base_parent",
+      "label": "AnimGraphNode_Base",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_MeshRefPose Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_blueprint_system",
+      "label": "Animation Blueprint System",
+      "file_type": "document",
+      "source_file": "AnimGraphNode_MeshRefPose Objects.md",
+      "source_location": "line 11-12",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgshapeactor_class",
+      "label": "SVGShapeActor",
+      "file_type": "document",
+      "source_file": "SVGShapeActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgdynamicmeshescontaineractor_parent",
+      "label": "SVGDynamicMeshesContainerActor",
+      "file_type": "document",
+      "source_file": "SVGShapeActor Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svg_import_workflow",
+      "label": "SVG Import Workflow",
+      "file_type": "document",
+      "source_file": "SVGShapeActor Objects.md",
+      "source_location": "line 7-8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "point2dentityatom_class",
+      "target": "entityatombase_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Point2DEntityAtom Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "point2dentityatom_class",
+      "target": "wdpgeometryentity_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Point2DEntityAtom Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "point2dentityatom_class",
+      "target": "vector2d_type",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Point2DEntityAtom Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "removaleventsignature_class",
+      "target": "multicastdelegatebase_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RemovalEventSignature Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "removaleventsignature_class",
+      "target": "chaosremovalevent_type",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RemovalEventSignature Objects.md",
+      "source_location": "line 10",
+      "weight": 1.0
+    },
+    {
+      "source": "playerstart_class",
+      "target": "navigationobjectbase_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerStart Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "playerstart_class",
+      "target": "player_spawn_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PlayerStart Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debuglineitemspace_class",
+      "target": "rigunit_debugbasemutable_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debuglineitemspace_class",
+      "target": "controlrig_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debuglineitemspace_class",
+      "target": "viewport_debug_drawing",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "propertydef_class",
+      "target": "python_property_definition",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyDef Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "turnbasedlibrary_class",
+      "target": "blueprintfunctionlibrary_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TurnBasedLibrary Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "turnbasedlibrary_class",
+      "target": "turn_based_matchmaking",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TurnBasedLibrary Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmbindingexectextcounter_class",
+      "target": "structbase_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBindingExecTextCounter Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmbindingexectextcounter_class",
+      "target": "mvvm_system",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMBindingExecTextCounter Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphrendererbase_class",
+      "target": "object_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphRendererBase Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphrendererbase_class",
+      "target": "movie_render_pipeline",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphRendererBase Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatgreaterequal_class",
+      "target": "rigvmfunction_mathfloatgreaterequal_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatGreaterEqual Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathfloatgreaterequal_class",
+      "target": "deprecated_api",
+      "relation": "has_attribute",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathFloatGreaterEqual Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearraybool_class",
+      "target": "niagaradatainterfacearray_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceArrayBool Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearraybool_class",
+      "target": "niagara_particle_system",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraDataInterfaceArrayBool Objects.md",
+      "source_location": "line 11-13",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_meshrefpose_class",
+      "target": "animgraphnode_base_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_MeshRefPose Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_meshrefpose_class",
+      "target": "animation_blueprint_system",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode_MeshRefPose Objects.md",
+      "source_location": "line 11-12",
+      "weight": 1.0
+    },
+    {
+      "source": "svgshapeactor_class",
+      "target": "svgdynamicmeshescontaineractor_parent",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SVGShapeActor Objects.md",
+      "source_location": "line 4",
+      "weight": 1.0
+    },
+    {
+      "source": "svgshapeactor_class",
+      "target": "svg_import_workflow",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SVGShapeActor Objects.md",
+      "source_location": "line 7-8",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debuglineitemspace_class",
+      "target": "rigunit_mathfloatgreaterequal_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "playerstart_class",
+      "target": "turnbasedlibrary_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PlayerStart Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_meshrefpose_class",
+      "target": "rigunit_debuglineitemspace_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode_MeshRefPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvmbindingexectextcounter_class",
+      "target": "propertydef_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "MVVMBindingExecTextCounter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaradatainterfacearraybool_class",
+      "target": "moviegraphrendererbase_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraDataInterfaceArrayBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_engine_framework_classes",
+      "label": "Unreal Engine Framework Classes",
+      "nodes": [
+        "playerstart_class",
+        "svgshapeactor_class",
+        "moviegraphrendererbase_class",
+        "animgraphnode_meshrefpose_class"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PlayerStart Objects.md"
+    },
+    {
+      "id": "rig_system_components",
+      "label": "Control Rig System Components",
+      "nodes": [
+        "rigunit_debuglineitemspace_class",
+        "rigunit_mathfloatgreaterequal_class",
+        "controlrig_module"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_DebugLineItemSpace Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

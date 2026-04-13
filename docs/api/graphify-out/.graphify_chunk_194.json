@@ -1,0 +1,478 @@
+{
+  "nodes": [
+    {
+      "id": "progressbarfillstyle_progressbarfillstyle",
+      "label": "ProgressBarFillStyle",
+      "file_type": "document",
+      "source_file": "ProgressBarFillStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onforcefeedbackfinished_onforcefeedbackfinished",
+      "label": "OnForceFeedbackFinished",
+      "file_type": "document",
+      "source_file": "OnForceFeedbackFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorskylightsettings_51_skycreatorskylightsettings_51",
+      "label": "SkyCreatorSkyLightSettings_51",
+      "file_type": "document",
+      "source_file": "SkyCreatorSkyLightSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scopedslowtask_scopedslowtask",
+      "label": "ScopedSlowTask",
+      "file_type": "document",
+      "source_file": "ScopedSlowTask Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubledeg_rigunit_mathdoubledeg",
+      "label": "RigUnit_MathDoubleDeg",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleDeg Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecapturecomponent2d_scenecapturecomponent2d",
+      "label": "SceneCaptureComponent2D",
+      "file_type": "document",
+      "source_file": "SceneCaptureComponent2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polysfactory_polysfactory",
+      "label": "PolysFactory",
+      "file_type": "document",
+      "source_file": "PolysFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coveringwidgetgeometrymode_coveringwidgetgeometrymode",
+      "label": "CoveringWidgetGeometryMode",
+      "file_type": "document",
+      "source_file": "CoveringWidgetGeometryMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothingteleportmode_clothingteleportmode",
+      "label": "ClothingTeleportMode",
+      "file_type": "document",
+      "source_file": "ClothingTeleportMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpnodevisibilityparam_dcpnodevisibilityparam",
+      "label": "DCPNodeVisibilityParam",
+      "file_type": "document",
+      "source_file": "DCPNodeVisibilityParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nameinputadvancedvaluenode_nameinputadvancedvaluenode",
+      "label": "NameInputAdvancedValueNode",
+      "file_type": "document",
+      "source_file": "NameInputAdvancedValueNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "walkableslopebehavior_walkableslopebehavior",
+      "label": "WalkableSlopeBehavior",
+      "file_type": "document",
+      "source_file": "WalkableSlopeBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "variableframestrippingsettingsfactory_variableframestrippingsettingsfactory",
+      "label": "VariableFrameStrippingSettingsFactory",
+      "file_type": "document",
+      "source_file": "VariableFrameStrippingSettingsFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_binarytransformop_rigunit_binarytransformop",
+      "label": "RigUnit_BinaryTransformOp",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryTransformOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinesetting_moviepipelinesetting",
+      "label": "MoviePipelineSetting",
+      "file_type": "document",
+      "source_file": "MoviePipelineSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interpcurvepointvector_interpcurvepointvector",
+      "label": "InterpCurvePointVector",
+      "file_type": "document",
+      "source_file": "InterpCurvePointVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createtile_withoutgrpcparams_createtile_withoutgrpcparams",
+      "label": "CreateTile_WithOutGRPCParams",
+      "file_type": "document",
+      "source_file": "CreateTile__WithOutGRPCParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclustersyncgroup_displayclustersyncgroup",
+      "label": "DisplayClusterSyncGroup",
+      "file_type": "document",
+      "source_file": "DisplayClusterSyncGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multilineeditabletextbox_onmultilineeditabletextboxcommittedevent",
+      "label": "MultiLineEditableTextBox_OnMultiLineEditableTextBoxCommittedEvent",
+      "file_type": "document",
+      "source_file": "MultiLineEditableTextBox_OnMultiLineEditableTextBoxCommittedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionextractor_space_motionextractor_space",
+      "label": "MotionExtractor_Space",
+      "file_type": "document",
+      "source_file": "MotionExtractor__Space Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressioncamerapositionws_materialexpressioncamerapositionws",
+      "label": "MaterialExpressionCameraPositionWS",
+      "file_type": "document",
+      "source_file": "MaterialExpressionCameraPositionWS Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "papertilemapfactory_papertilemapfactory",
+      "label": "PaperTileMapFactory",
+      "file_type": "document",
+      "source_file": "PaperTileMapFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvefloat_curvefloat",
+      "label": "CurveFloat",
+      "file_type": "document",
+      "source_file": "SkyCreatorSkyLightSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curvelinearcolor_curvelinearcolor",
+      "label": "CurveLinearColor",
+      "file_type": "document",
+      "source_file": "SkyCreatorSkyLightSettings__51 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturerendertarget2d_texturerendertarget2d",
+      "label": "TextureRenderTarget2D",
+      "file_type": "document",
+      "source_file": "SceneCaptureComponent2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "postprocesssettings_postprocesssettings",
+      "label": "PostProcessSettings",
+      "file_type": "document",
+      "source_file": "SceneCaptureComponent2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transform_transform",
+      "label": "Transform",
+      "file_type": "document",
+      "source_file": "RigUnit_BinaryTransformOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_mathdoubledeg_rigunit_mathdoubledeg",
+      "target": "rigunit_mathdoubledeg_rigunit_mathdoubledeg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathDoubleDeg Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorskylightsettings_51_skycreatorskylightsettings_51",
+      "target": "curvefloat_curvefloat",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorSkyLightSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorskylightsettings_51_skycreatorskylightsettings_51",
+      "target": "curvelinearcolor_curvelinearcolor",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorSkyLightSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scenecapturecomponent2d_scenecapturecomponent2d",
+      "target": "texturerendertarget2d_texturerendertarget2d",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SceneCaptureComponent2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scenecapturecomponent2d_scenecapturecomponent2d",
+      "target": "postprocesssettings_postprocesssettings",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SceneCaptureComponent2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_binarytransformop_rigunit_binarytransformop",
+      "target": "transform_transform",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_BinaryTransformOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onforcefeedbackfinished_onforcefeedbackfinished",
+      "target": "scenecapturecomponent2d_scenecapturecomponent2d",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "OnForceFeedbackFinished Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorskylightsettings_51_skycreatorskylightsettings_51",
+      "target": "scenecapturecomponent2d_scenecapturecomponent2d",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SkyCreatorSkyLightSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorskylightsettings_51_skycreatorskylightsettings_51",
+      "target": "materialexpressioncamerapositionws_materialexpressioncamerapositionws",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SkyCreatorSkyLightSettings__51 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "motionextractor_space_motionextractor_space",
+      "target": "rigunit_binarytransformop_rigunit_binarytransformop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MotionExtractor__Space Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interpcurvepointvector_interpcurvepointvector",
+      "target": "rigunit_binarytransformop_rigunit_binarytransformop",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "InterpCurvePointVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinesetting_moviepipelinesetting",
+      "target": "scenecapturecomponent2d_scenecapturecomponent2d",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MoviePipelineSetting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "walkableslopebehavior_walkableslopebehavior",
+      "target": "clothingteleportmode_clothingteleportmode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "WalkableSlopeBehavior Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rendering_lighting_capture_systems",
+      "label": "Rendering, Lighting, and Capture Systems",
+      "nodes": [
+        "skycreatorskylightsettings_51_skycreatorskylightsettings_51",
+        "scenecapturecomponent2d_scenecapturecomponent2d",
+        "materialexpressioncamerapositionws_materialexpressioncamerapositionws",
+        "moviepipelinesetting_moviepipelinesetting"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SkyCreatorSkyLightSettings__51 Objects.md"
+    },
+    {
+      "id": "animation_rigging_motion_system",
+      "label": "Animation, Rigging, and Motion Extraction System",
+      "nodes": [
+        "rigunit_mathdoubledeg_rigunit_mathdoubledeg",
+        "rigunit_binarytransformop_rigunit_binarytransformop",
+        "motionextractor_space_motionextractor_space",
+        "interpcurvepointvector_interpcurvepointvector"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_BinaryTransformOp Objects.md"
+    },
+    {
+      "id": "factory_classes_for_asset_creation",
+      "label": "Factory Classes for Asset Creation",
+      "nodes": [
+        "polysfactory_polysfactory",
+        "variableframestrippingsettingsfactory_variableframestrippingsettingsfactory",
+        "papertilemapfactory_papertilemapfactory"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PolysFactory Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

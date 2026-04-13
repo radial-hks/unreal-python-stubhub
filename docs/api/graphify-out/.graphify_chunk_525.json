@@ -1,0 +1,845 @@
+{
+  "nodes": [
+    {
+      "id": "rigvmfunction_mathvectorunit_rigvmfunction_mathvectorunit",
+      "label": "RigVMFunction MathVectorUnit",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorUnit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectorunit_rigvmfunction_mathvectorunaryop",
+      "label": "RigVMFunction MathVectorUnaryOp",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorUnit Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionvolumetricadvancedmaterialinput_materialexpressionvolumetricadvancedmaterialinput",
+      "label": "MaterialExpression Volumetric Advanced Material Input",
+      "file_type": "code",
+      "source_file": "MaterialExpressionVolumetricAdvancedMaterialInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionvolumetricadvancedmaterialinput_materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "code",
+      "source_file": "MaterialExpressionVolumetricAdvancedMaterialInput Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangevariantsetnode_interchangevariantsetnode",
+      "label": "Interchange VariantSet Node",
+      "file_type": "code",
+      "source_file": "InterchangeVariantSetNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangevariantsetnode_interchangebasenode",
+      "label": "Interchange Base Node",
+      "file_type": "code",
+      "source_file": "InterchangeVariantSetNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangevariantsetnode_variant_management",
+      "label": "Variant Management",
+      "file_type": "code",
+      "source_file": "InterchangeVariantSetNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "startsetscenestyleparams_startsetscenestyleparams",
+      "label": "Start Set Scene Style Params",
+      "file_type": "code",
+      "source_file": "StartSetSceneStyleParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "startsetscenestyleparams_paramsbase",
+      "label": "Params Base",
+      "file_type": "code",
+      "source_file": "StartSetSceneStyleParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fastarrayserializeritem_fastarrayserializeritem",
+      "label": "Fast Array Serializer Item",
+      "file_type": "code",
+      "source_file": "FastArraySerializerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fastarrayserializeritem_structbase",
+      "label": "Struct Base",
+      "file_type": "code",
+      "source_file": "FastArraySerializerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fastarrayserializeritem_fast_tarray_replication",
+      "label": "Fast TArray Replication",
+      "file_type": "code",
+      "source_file": "FastArraySerializerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorlayer_actorlayer",
+      "label": "Actor Layer",
+      "file_type": "code",
+      "source_file": "ActorLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorlayer_structbase",
+      "label": "Struct Base",
+      "file_type": "code",
+      "source_file": "ActorLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatebrushtiletype_slatebrushtiletype",
+      "label": "Slate Brush Tile Type",
+      "file_type": "code",
+      "source_file": "SlateBrushTileType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatebrushtiletype_enumbase",
+      "label": "Enum Base",
+      "file_type": "code",
+      "source_file": "SlateBrushTileType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_animrichcurve_rigunit_animrichcurve",
+      "label": "RigUnit AnimRichCurve",
+      "file_type": "code",
+      "source_file": "RigUnit__AnimRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_animrichcurve_rigvmfunction_animrichcurve",
+      "label": "RigVMFunction AnimRichCurve",
+      "file_type": "code",
+      "source_file": "RigUnit__AnimRichCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animexecutioncontext_animexecutioncontext",
+      "label": "Anim Execution Context",
+      "file_type": "code",
+      "source_file": "AnimExecutionContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animexecutioncontext_structbase",
+      "label": "Struct Base",
+      "file_type": "code",
+      "source_file": "AnimExecutionContext Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_binarytransformop_rigunit_binarytransformop",
+      "label": "RigUnit Binary Transform Op",
+      "file_type": "code",
+      "source_file": "RigUnit__BinaryTransformOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_binarytransformop_rigunit",
+      "label": "RigUnit",
+      "file_type": "code",
+      "source_file": "RigUnit__BinaryTransformOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "downloadimagedelegate_downloadimagedelegate",
+      "label": "Download Image Delegate",
+      "file_type": "code",
+      "source_file": "DownloadImageDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "downloadimagedelegate_multicastdelegatebase",
+      "label": "Multicast Delegate Base",
+      "file_type": "code",
+      "source_file": "DownloadImageDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeanimationframetranslationremapper_gltfruntimeanimationframetranslationremapper",
+      "label": "glTF Runtime Animation Frame Translation Remapper",
+      "file_type": "code",
+      "source_file": "glTFRuntimeAnimationFrameTranslationRemapper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gltfruntimeanimationframetranslationremapper_delegatebase",
+      "label": "Delegate Base",
+      "file_type": "code",
+      "source_file": "glTFRuntimeAnimationFrameTranslationRemapper Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchygetparent_rigunit_hierarchygetparent",
+      "label": "RigUnit Hierarchy Get Parent",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyGetParent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchygetparent_rigunit_hierarchybase",
+      "label": "RigUnit Hierarchy Base",
+      "file_type": "code",
+      "source_file": "RigUnit__HierarchyGetParent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesflowmapeditorcommandparams_type_aesflowmapeditorcommandparams_type",
+      "label": "Aes Flow Map Editor Command Params Type",
+      "file_type": "code",
+      "source_file": "AesFlowMapEditorCommandParams__Type Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesflowmapeditorcommandparams_type_aeseditorsimplecommandparams",
+      "label": "Aes Editor Simple Command Params",
+      "file_type": "code",
+      "source_file": "AesFlowMapEditorCommandParams__Type Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxedf_interchangematerialxedf",
+      "label": "Interchange MaterialX EDF",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialXEDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialxedf_enumbase",
+      "label": "Enum Base",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialXEDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererproperties_niagararendererproperties",
+      "label": "Niagara Renderer Properties",
+      "file_type": "code",
+      "source_file": "NiagaraRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagararendererproperties_niagaramergeable",
+      "label": "Niagara Mergeable",
+      "file_type": "code",
+      "source_file": "NiagaraRendererProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightcomponent_lightcomponent",
+      "label": "Light Component",
+      "file_type": "code",
+      "source_file": "LightComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightcomponent_lightcomponentbase",
+      "label": "Light Component Base",
+      "file_type": "code",
+      "source_file": "LightComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lightcomponent_light_properties",
+      "label": "Light Properties",
+      "file_type": "code",
+      "source_file": "LightComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneblendtype_moviesceneblendtype",
+      "label": "Movie Scene Blend Type",
+      "file_type": "code",
+      "source_file": "MovieSceneBlendType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneblendtype_enumbase",
+      "label": "Enum Base",
+      "file_type": "code",
+      "source_file": "MovieSceneBlendType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenedynamicbinding_moviescenedynamicbinding",
+      "label": "Movie Scene Dynamic Binding",
+      "file_type": "code",
+      "source_file": "MovieSceneDynamicBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenedynamicbinding_structbase",
+      "label": "Struct Base",
+      "file_type": "code",
+      "source_file": "MovieSceneDynamicBinding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insightsskeletalmeshcomponent_insightsskeletalmeshcomponent",
+      "label": "Insights Skeletal Mesh Component",
+      "file_type": "code",
+      "source_file": "InsightsSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insightsskeletalmeshcomponent_skeletalmeshcomponent",
+      "label": "Skeletal Mesh Component",
+      "file_type": "code",
+      "source_file": "InsightsSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgapplyonactorsettings_pcgapplyonactorsettings",
+      "label": "PCG Apply On Actor Settings",
+      "file_type": "code",
+      "source_file": "PCGApplyOnActorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgapplyonactorsettings_pcgsettings",
+      "label": "PCG Settings",
+      "file_type": "code",
+      "source_file": "PCGApplyOnActorSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatgreaterequal_rigvmfunction_mathfloatgreaterequal",
+      "label": "RigVMFunction MathFloat GreaterEqual",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathfloatgreaterequal_rigvmfunction_mathfloatbase",
+      "label": "RigVMFunction MathFloat Base",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathFloatGreaterEqual Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigvmfunction_mathvectorunit_rigvmfunction_mathvectorunit",
+      "target": "rigvmfunction_mathvectorunit_rigvmfunction_mathvectorunaryop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorUnit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionvolumetricadvancedmaterialinput_materialexpressionvolumetricadvancedmaterialinput",
+      "target": "materialexpressionvolumetricadvancedmaterialinput_materialexpression",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionVolumetricAdvancedMaterialInput Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangevariantsetnode_interchangevariantsetnode",
+      "target": "interchangevariantsetnode_interchangebasenode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeVariantSetNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangevariantsetnode_interchangevariantsetnode",
+      "target": "interchangevariantsetnode_variant_management",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "InterchangeVariantSetNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "startsetscenestyleparams_startsetscenestyleparams",
+      "target": "startsetscenestyleparams_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StartSetSceneStyleParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fastarrayserializeritem_fastarrayserializeritem",
+      "target": "fastarrayserializeritem_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FastArraySerializerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fastarrayserializeritem_fastarrayserializeritem",
+      "target": "fastarrayserializeritem_fast_tarray_replication",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FastArraySerializerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorlayer_actorlayer",
+      "target": "actorlayer_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ActorLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slatebrushtiletype_slatebrushtiletype",
+      "target": "slatebrushtiletype_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateBrushTileType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_animrichcurve_rigunit_animrichcurve",
+      "target": "rigunit_animrichcurve_rigvmfunction_animrichcurve",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AnimRichCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animexecutioncontext_animexecutioncontext",
+      "target": "animexecutioncontext_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimExecutionContext Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_binarytransformop_rigunit_binarytransformop",
+      "target": "rigunit_binarytransformop_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__BinaryTransformOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "downloadimagedelegate_downloadimagedelegate",
+      "target": "downloadimagedelegate_multicastdelegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DownloadImageDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gltfruntimeanimationframetranslationremapper_gltfruntimeanimationframetranslationremapper",
+      "target": "gltfruntimeanimationframetranslationremapper_delegatebase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "glTFRuntimeAnimationFrameTranslationRemapper Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchygetparent_rigunit_hierarchygetparent",
+      "target": "rigunit_hierarchygetparent_rigunit_hierarchybase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyGetParent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesflowmapeditorcommandparams_type_aesflowmapeditorcommandparams_type",
+      "target": "aesflowmapeditorcommandparams_type_aeseditorsimplecommandparams",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesFlowMapEditorCommandParams__Type Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialxedf_interchangematerialxedf",
+      "target": "interchangematerialxedf_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialXEDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagararendererproperties_niagararendererproperties",
+      "target": "niagararendererproperties_niagaramergeable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraRendererProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightcomponent_lightcomponent",
+      "target": "lightcomponent_lightcomponentbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LightComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightcomponent_lightcomponent",
+      "target": "lightcomponent_light_properties",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "LightComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneblendtype_moviesceneblendtype",
+      "target": "moviesceneblendtype_enumbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneBlendType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenedynamicbinding_moviescenedynamicbinding",
+      "target": "moviescenedynamicbinding_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneDynamicBinding Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insightsskeletalmeshcomponent_insightsskeletalmeshcomponent",
+      "target": "insightsskeletalmeshcomponent_skeletalmeshcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InsightsSkeletalMeshComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgapplyonactorsettings_pcgapplyonactorsettings",
+      "target": "pcgapplyonactorsettings_pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGApplyOnActorSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathfloatgreaterequal_rigvmfunction_mathfloatgreaterequal",
+      "target": "rigvmfunction_mathfloatgreaterequal_rigvmfunction_mathfloatbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathFloatGreaterEqual Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectorunit_rigvmfunction_mathvectorunit",
+      "target": "rigvmfunction_mathfloatgreaterequal_rigvmfunction_mathfloatgreaterequal",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathVectorUnit Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_binarytransformop_rigunit_binarytransformop",
+      "target": "rigunit_hierarchygetparent_rigunit_hierarchygetparent",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__BinaryTransformOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lightcomponent_lightcomponent",
+      "target": "insightsskeletalmeshcomponent_skeletalmeshcomponent",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "LightComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Math Operations",
+      "nodes": [
+        "rigvmfunction_mathvectorunit_rigvmfunction_mathvectorunit",
+        "rigvmfunction_mathfloatgreaterequal_rigvmfunction_mathfloatgreaterequal",
+        "rigunit_binarytransformop_rigunit_binarytransformop"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathVectorUnit Objects.md"
+    },
+    {
+      "id": "unreal_component_system",
+      "label": "Unreal Component System",
+      "nodes": [
+        "lightcomponent_lightcomponent",
+        "insightsskeletalmeshcomponent_insightsskeletalmeshcomponent",
+        "niagararendererproperties_niagararendererproperties"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "LightComponent Objects.md"
+    },
+    {
+      "id": "interchange_data_nodes",
+      "label": "Interchange Data Nodes",
+      "nodes": [
+        "interchangevariantsetnode_interchangevariantsetnode",
+        "interchangematerialxedf_interchangematerialxedf"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InterchangeVariantSetNode Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

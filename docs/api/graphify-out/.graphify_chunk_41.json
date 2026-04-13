@@ -1,0 +1,1073 @@
+{
+  "nodes": [
+    {
+      "id": "rigunithierarchyaddanimationchannelsinglelimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunithierarchyaddanimationchannelemptylimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrollimitenabled",
+      "label": "RigControlLimitEnabled",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestileshighlightlayerparam",
+      "label": "AesTilesHighlightLayerParam",
+      "file_type": "document",
+      "source_file": "AesTilesHighlightLayerParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aestileshighlightparam",
+      "label": "AesTilesHighlightParam",
+      "file_type": "document",
+      "source_file": "AesTilesHighlightLayerParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrolvalue",
+      "label": "RigControlValue",
+      "file_type": "document",
+      "source_file": "RigControlValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "RigControlValue Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiobusfactory",
+      "label": "AudioBusFactory",
+      "file_type": "document",
+      "source_file": "AudioBusFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory",
+      "label": "Factory",
+      "file_type": "document",
+      "source_file": "AudioBusFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_normals",
+      "label": "GeometryScript_Normals",
+      "file_type": "document",
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfunctiolibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "document",
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh",
+      "label": "DynamicMesh",
+      "file_type": "document",
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshselection",
+      "label": "GeometryScriptMeshSelection",
+      "file_type": "document",
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptcalculatenormalsoptions",
+      "label": "GeometryScriptCalculateNormalsOptions",
+      "file_type": "document",
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptdebug",
+      "label": "GeometryScriptDebug",
+      "file_type": "document",
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubletan",
+      "label": "RigVMFunction_MathDoubleTan",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleTan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleunaryop",
+      "label": "RigVMFunction_MathDoubleUnaryOp",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleTan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxisvalid",
+      "label": "RigVMFunction_MathBoxIsValid",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoxIsValid Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxbase",
+      "label": "RigVMFunction_MathBoxBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoxIsValid Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geolayerheightparams",
+      "label": "GeoLayerHeightParams",
+      "file_type": "document",
+      "source_file": "GeoLayerHeightParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "GeoLayerHeightParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonersplinelayout",
+      "label": "AvaClonerSplineLayout",
+      "file_type": "document",
+      "source_file": "AvaClonerSplineLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ceclonersplinelayout",
+      "label": "CEClonerSplineLayout",
+      "file_type": "document",
+      "source_file": "AvaClonerSplineLayout Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "particleallocationmode",
+      "label": "ParticleAllocationMode",
+      "file_type": "document",
+      "source_file": "ParticleAllocationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumpropertytexturestatus",
+      "label": "CesiumPropertyTextureStatus",
+      "file_type": "document",
+      "source_file": "CesiumPropertyTextureStatus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetimewarpextensions",
+      "label": "MovieSceneTimeWarpExtensions",
+      "file_type": "document",
+      "source_file": "MovieSceneTimeWarpExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenetimewarpvariant",
+      "label": "MovieSceneTimeWarpVariant",
+      "file_type": "document",
+      "source_file": "MovieSceneTimeWarpExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthmeshreplacementfragment",
+      "label": "EarthMeshReplacementFragment",
+      "file_type": "document",
+      "source_file": "EarthMeshReplacementFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthpropertyfragment",
+      "label": "EarthPropertyFragment",
+      "file_type": "document",
+      "source_file": "EarthMeshReplacementFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "staticmesh",
+      "label": "StaticMesh",
+      "file_type": "document",
+      "source_file": "EarthMeshReplacementFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthstaticmeshassetfragment",
+      "label": "EarthStaticMeshAssetFragment",
+      "file_type": "document",
+      "source_file": "EarthMeshReplacementFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nonuniformsamplingdistributionmode",
+      "label": "NonUniformSamplingDistributionMode",
+      "file_type": "document",
+      "source_file": "NonUniformSamplingDistributionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplaycuenotify_locallycontrolledsource",
+      "label": "GameplayCueNotify_LocallyControlledSource",
+      "file_type": "document",
+      "source_file": "GameplayCueNotify__LocallyControlledSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanworldpawntracker",
+      "label": "UrbanWorldPawnTracker",
+      "file_type": "document",
+      "source_file": "UrbanWorldPawnTracker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorcomponent",
+      "label": "ActorComponent",
+      "file_type": "document",
+      "source_file": "UrbanWorldPawnTracker Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequenceplayerreference",
+      "label": "SequencePlayerReference",
+      "file_type": "document",
+      "source_file": "SequencePlayerReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnodereference",
+      "label": "AnimNodeReference",
+      "file_type": "document",
+      "source_file": "SequencePlayerReference Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdparrayduplicateapi",
+      "label": "WdpArrayDuplicateAPI",
+      "file_type": "document",
+      "source_file": "WdpArrayDuplicateAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "standardapiclassbase",
+      "label": "StandardApiClassBase",
+      "file_type": "document",
+      "source_file": "WdpArrayDuplicateAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "updatearrayduplicateparams",
+      "label": "UpdateArrayDuplicateParams",
+      "file_type": "document",
+      "source_file": "WdpArrayDuplicateAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_deltafromprevioustransform",
+      "label": "RigUnit_DeltaFromPreviousTransform",
+      "file_type": "document",
+      "source_file": "RigUnit_DeltaFromPreviousTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_deltafromprevioustransform",
+      "label": "RigVMFunction_DeltaFromPreviousTransform",
+      "file_type": "document",
+      "source_file": "RigUnit_DeltaFromPreviousTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparamint32",
+      "label": "NiagaraPreviewAxis_InterpParamInt32",
+      "file_type": "document",
+      "source_file": "NiagaraPreviewAxis__InterpParamInt32 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagarapreviewaxis_interpparambase",
+      "label": "NiagaraPreviewAxis_InterpParamBase",
+      "file_type": "document",
+      "source_file": "NiagaraPreviewAxis__InterpParamInt32 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "createpathsparams",
+      "label": "CreatePathsParams",
+      "file_type": "document",
+      "source_file": "CreatePathsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pathstyle",
+      "label": "PathStyle",
+      "file_type": "document",
+      "source_file": "CreatePathsParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgassetexporterutils",
+      "label": "PCGAssetExporterUtils",
+      "file_type": "document",
+      "source_file": "PCGAssetExporterUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgassetexporter",
+      "label": "PCGAssetExporter",
+      "file_type": "document",
+      "source_file": "PCGAssetExporterUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgassetexporterparameters",
+      "label": "PCGAssetExporterParameters",
+      "file_type": "document",
+      "source_file": "PCGAssetExporterUtils Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleTan Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagara_plugin",
+      "label": "Niagara Plugin",
+      "file_type": "document",
+      "source_file": "ParticleAllocationMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunithierarchyaddanimationchannelsinglelimitsettings",
+      "target": "rigunithierarchyaddanimationchannelemptylimitsettings",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunithierarchyaddanimationchannelsinglelimitsettings",
+      "target": "rigcontrollimitenabled",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunithierarchyaddanimationchannelsinglelimitsettings",
+      "target": "controlrig_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aestileshighlightlayerparam",
+      "target": "aestileshighlightparam",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTilesHighlightLayerParam Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolvalue",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigcontrolvalue",
+      "target": "controlrig_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigControlValue Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "audiobusfactory",
+      "target": "factory",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AudioBusFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals",
+      "target": "blueprintfunctiolibrary",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals",
+      "target": "dynamicmesh",
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals",
+      "target": "geometryscriptmeshselection",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals",
+      "target": "geometryscriptcalculatenormalsoptions",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals",
+      "target": "geometryscriptdebug",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubletan",
+      "target": "rigvmfunction_mathdoubleunaryop",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleTan Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubletan",
+      "target": "rigvm_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleTan Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxisvalid",
+      "target": "rigvmfunction_mathboxbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoxIsValid Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxisvalid",
+      "target": "rigvm_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoxIsValid Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayerheightparams",
+      "target": "paramsbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoLayerHeightParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonersplinelayout",
+      "target": "ceclonersplinelayout",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerSplineLayout Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonersplinelayout",
+      "target": "ceclonersplinelayout",
+      "relation": "deprecated_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerSplineLayout Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "particleallocationmode",
+      "target": "niagara_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ParticleAllocationMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetimewarpextensions",
+      "target": "blueprintfunctiolibrary",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTimeWarpExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetimewarpextensions",
+      "target": "moviescenetimewarpvariant",
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneTimeWarpExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthmeshreplacementfragment",
+      "target": "earthpropertyfragment",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthMeshReplacementFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthmeshreplacementfragment",
+      "target": "staticmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthMeshReplacementFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthmeshreplacementfragment",
+      "target": "earthstaticmeshassetfragment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthMeshReplacementFragment Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanworldpawntracker",
+      "target": "actorcomponent",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanWorldPawnTracker Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequenceplayerreference",
+      "target": "animnodereference",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SequencePlayerReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdparrayduplicateapi",
+      "target": "standardapiclassbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpArrayDuplicateAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdparrayduplicateapi",
+      "target": "updatearrayduplicateparams",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpArrayDuplicateAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_deltafromprevioustransform",
+      "target": "rigvmfunction_deltafromprevioustransform",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DeltaFromPreviousTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_deltafromprevioustransform",
+      "target": "rigvmfunction_deltafromprevioustransform",
+      "relation": "deprecated_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DeltaFromPreviousTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamint32",
+      "target": "niagarapreviewaxis_interpparambase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPreviewAxis__InterpParamInt32 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamint32",
+      "target": "niagara_plugin",
+      "relation": "defined_in_plugin",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraPreviewAxis__InterpParamInt32 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createpathsparams",
+      "target": "structbase",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreatePathsParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "createpathsparams",
+      "target": "pathstyle",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreatePathsParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgassetexporterutils",
+      "target": "blueprintfunctiolibrary",
+      "relation": "inherits_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAssetExporterUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgassetexporterutils",
+      "target": "pcgassetexporter",
+      "relation": "operates_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAssetExporterUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgassetexporterutils",
+      "target": "pcgassetexporterparameters",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAssetExporterUtils Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagarapreviewaxis_interpparamint32",
+      "target": "particleallocationmode",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NiagaraPreviewAxis__InterpParamInt32 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_normals",
+      "target": "earthmeshreplacementfragment",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "GeometryScript__Normals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubletan",
+      "target": "rigvmfunction_mathboxisvalid",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathDoubleTan Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubletan",
+      "target": "rigunithierarchyaddanimationchannelsinglelimitsettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathDoubleTan Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenetimewarpextensions",
+      "target": "sequenceplayerreference",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneTimeWarpExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "niagara_particle_system",
+      "label": "Niagara Particle System Components",
+      "nodes": [
+        "particleallocationmode",
+        "niagarapreviewaxis_interpparamint32"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "ParticleAllocationMode Objects.md"
+    },
+    {
+      "id": "controlrig_hierarchy",
+      "label": "ControlRig Hierarchy System",
+      "nodes": [
+        "rigunithierarchyaddanimationchannelsinglelimitsettings",
+        "rigcontrolvalue",
+        "rigvmfunction_mathdoubletan",
+        "rigvmfunction_mathboxisvalid"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelSingleLimitSettings Objects.md"
+    },
+    {
+      "id": "geometry_scripting_workflow",
+      "label": "Geometry Scripting Workflow",
+      "nodes": [
+        "geometryscript_normals",
+        "dynamicmesh",
+        "geometryscriptmeshselection",
+        "geometryscriptcalculatenormalsoptions"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "GeometryScript__Normals Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

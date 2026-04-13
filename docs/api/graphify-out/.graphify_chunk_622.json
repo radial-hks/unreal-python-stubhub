@@ -1,0 +1,493 @@
+{
+  "nodes": [
+    {"id": "PCGQualitySelectSettings", "type": "class", "description": "Selects from input pins based on 'pcg.Quality' setting"},
+    {"id": "PCGSettings", "type": "class", "description": "Parent class for PCG settings"},
+    {"id": "DisplayClusterConfigurationICVFX_CameraMotionBlur", "type": "class", "description": "Display Cluster Configuration ICVFX Camera Motion Blur"},
+    {"id": "StructBase", "type": "class", "description": "Base class for Unreal structs"},
+    {"id": "AimOffsetBlendSpaceFactoryNew", "type": "class", "description": "Aim Offset Blend Space Factory New"},
+    {"id": "BlendSpaceFactoryNew", "type": "class", "description": "Factory for creating blend spaces"},
+    {"id": "InputRayHit", "type": "class", "description": "FInputRayHit is returned by various hit-test interface functions"},
+    {"id": "GeometryScriptSimplePolygon", "type": "class", "description": "A simple 2D Polygon with no holes"},
+    {"id": "MovieSceneVisibilityTrack", "type": "class", "description": "Handles manipulation of visibility properties in a movie scene"},
+    {"id": "MovieScenePropertyTrack", "type": "class", "description": "Base class for movie scene property tracks"},
+    {"id": "RigUnit_SetChannelHosts", "type": "class", "description": "Allows an animation channel to be hosted by multiple controls"},
+    {"id": "RigUnit_DynamicHierarchyBaseMutable", "type": "class", "description": "Base class for mutable dynamic hierarchy rig units"},
+    {"id": "AvaToolboxCubeDynamicMesh", "type": "class", "description": "Deprecated: renamed to AvaShapeCubeDynamicMesh"},
+    {"id": "AvaShapeCubeDynamicMesh", "type": "class", "description": "Ava Shape Cube Dynamic Mesh"},
+    {"id": "AnimNotify_GameplayCue", "type": "class", "description": "An animation notify used for instantaneous gameplay cues (Burst/Latent)"},
+    {"id": "AnimNotify", "type": "class", "description": "Base class for animation notifies"},
+    {"id": "ClosestPhysicsObjectResult", "type": "class", "description": "Closest Physics Object Result"},
+    {"id": "RigUnit_GetIntAnimationChannelFromItem", "type": "class", "description": "Get Int Channel is used to retrieve a control's animation channel value"},
+    {"id": "RigUnit_GetAnimationChannelFromItemBase", "type": "class", "description": "Base class for getting animation channels from items"},
+    {"id": "AvaMaskModifier", "type": "class", "description": "Deprecated: renamed to AvaBooleanModifier"},
+    {"id": "AvaBooleanModifier", "type": "class", "description": "Ava Boolean Modifier"},
+    {"id": "TypedElementWorldType", "type": "enum", "description": "ETyped Element World Type"},
+    {"id": "EnumBase", "type": "class", "description": "Base class for enums"},
+    {"id": "CameraShakeAttenuation", "type": "enum", "description": "ECamera Shake Attenuation"},
+    {"id": "AnimationAttributeIdentifier", "type": "class", "description": "Script-friendly structure for identifying an attribute (curve)"},
+    {"id": "MaterialExpressionFresnel", "type": "class", "description": "Material Expression Fresnel"},
+    {"id": "MaterialExpression", "type": "class", "description": "Base class for material expressions"},
+    {"id": "RigVMLibraryNode", "type": "class", "description": "The Library Node represents a function invocation"},
+    {"id": "RigVMTemplateNode", "type": "class", "description": "Template node for RigVM"},
+    {"id": "CompareOperationEnum", "type": "enum", "description": "ECompare Operation Enum"},
+    {"id": "RigUnit_MathRBFInterpolateQuatColor", "type": "class", "description": "Deprecated: renamed to RigVMFunction_MathRBFInterpolateQuatColor"},
+    {"id": "RigVMFunction_MathRBFInterpolateQuatColor", "type": "class", "description": "RBF interpolate quaternion to color function"},
+    {"id": "RigUnit_HierarchyAddAnimationChannelVector", "type": "class", "description": "Adds a new animation channel to the hierarchy"},
+    {"id": "RigUnit_HierarchyAddElement", "type": "class", "description": "Base class for adding elements to hierarchy"},
+    {"id": "PixelStreaming51CloudDelegates_ConnectedToSignallingServer", "type": "class", "description": "A connection to the signalling server was made"},
+    {"id": "MulticastDelegateBase", "type": "class", "description": "Base class for multicast delegates"},
+    {"id": "MovieGraphRemoveRenderSettingNode", "type": "class", "description": "A node which can remove other nodes in the graph"},
+    {"id": "MovieGraphNode", "type": "class", "description": "Base class for movie graph nodes"},
+    {"id": "use_low_pin", "type": "property", "description": "Property of PCGQualitySelectSettings"},
+    {"id": "use_medium_pin", "type": "property", "description": "Property of PCGQualitySelectSettings"},
+    {"id": "use_high_pin", "type": "property", "description": "Property of PCGQualitySelectSettings"},
+    {"id": "use_epic_pin", "type": "property", "description": "Property of PCGQualitySelectSettings"},
+    {"id": "use_cinematic_pin", "type": "property", "description": "Property of PCGQualitySelectSettings"},
+    {"id": "motion_blur_mode", "type": "property", "description": "Specify the motion blur mode for the inner frustum"},
+    {"id": "translation_scale", "type": "property", "description": "Translation Scale"},
+    {"id": "motion_blur_pps", "type": "property", "description": "Motion Blur Settings Override"},
+    {"id": "hit", "type": "property", "description": "true if ray hit something, false otherwise"},
+    {"id": "hit_depth", "type": "property", "description": "distance along ray at which intersection occurred"},
+    {"id": "hit_normal", "type": "property", "description": "Normal at hit point, if available"},
+    {"id": "has_hit_normal", "type": "property", "description": "True if HitNormal was set"},
+    {"id": "hit_identifier", "type": "property", "description": "Client-defined integer identifier for hit object/element/target/etc"},
+    {"id": "hit_object", "type": "property", "description": "Client-defined pointer for UObject-derived hit owners"},
+    {"id": "gameplay_cue", "type": "property", "description": "GameplayCue tag to invoke"},
+    {"id": "value", "type": "property", "description": "The current value of the animation channel"},
+    {"id": "channel", "type": "property", "description": "The channel to receive more hosts"},
+    {"id": "hosts", "type": "property", "description": "The hosts to add to the channel"},
+    {"id": "initial_value", "type": "property", "description": "The initial value of the new animation channel"},
+    {"id": "minimum_value", "type": "property", "description": "The minimum value for the animation channel"},
+    {"id": "maximum_value", "type": "property", "description": "The maximum value for the animation channel"},
+    {"id": "limits_enabled", "type": "property", "description": "The enable settings for the limits"},
+    {"id": "node_type", "type": "property", "description": "The type of node (exact match) that should be removed"},
+    {"id": "name", "type": "property", "description": "The name of the attribute or element"},
+    {"id": "bone_name", "type": "property", "description": "Name of the bone"},
+    {"id": "bone_index", "type": "property", "description": "Index of the bone"},
+    {"id": "script_struct", "type": "property", "description": "Script struct reference"},
+    {"id": "script_struct_path", "type": "property", "description": "Path to the script struct"},
+    {"id": "base_reflect_fraction", "type": "property", "description": "Specifies the fraction of specular reflection"},
+    {"id": "exponent", "type": "property", "description": "The exponent to pass into the pow() function"},
+    {"id": "set_polygon_vertex", "type": "method", "description": "Set the specified vertex of a Simple Polygon"},
+    {"id": "get_polygon_vertex_count", "type": "method", "description": "Returns the number of vertices in a Simple Polygon"},
+    {"id": "get_polygon_vertex", "type": "method", "description": "Returns the specified vertex of a Simple Polygon"},
+    {"id": "get_polygon_tangent", "type": "method", "description": "Returns a vertex's tangent of a Simple Polygon"},
+    {"id": "get_polygon_bounds", "type": "method", "description": "Returns the bounding box of a Simple Polygon"},
+    {"id": "get_polygon_area", "type": "method", "description": "Returns the area enclosed by a Simple Polygon"},
+    {"id": "get_polygon_arc_length", "type": "method", "description": "Returns the arc length of a Simple Polygon"},
+    {"id": "add_polygon_vertex", "type": "method", "description": "Add a vertex to the polygon"},
+    {"id": "create_polygon_list_from_single_polygon", "type": "method", "description": "Create a Polygon List of a single Polygon, with optional holes"},
+    {"id": "get_matching_variants", "type": "method", "description": "Get Matching Variants"},
+    {"id": "get_library", "type": "method", "description": "Get Library"},
+    {"id": "get_function_variant", "type": "method", "description": "Get Function Variant"},
+    {"id": "get_contained_graph", "type": "method", "description": "Get Contained Graph"},
+    {"id": "is_valid", "type": "method", "description": "Whether or not the Attribute Identifier is valid"},
+    {"id": "__init__", "type": "method", "description": "Constructor for the class"},
+    {"id": "GAME", "type": "enum_value", "description": "Game world type enum value"},
+    {"id": "EDITOR", "type": "enum_value", "description": "Editor world type enum value"},
+    {"id": "LINEAR", "type": "enum_value", "description": "Linear camera shake attenuation"},
+    {"id": "QUADRATIC", "type": "enum_value", "description": "Quadratic camera shake attenuation"},
+    {"id": "DATAFLOW_COMPARE_EQUAL", "type": "enum_value", "description": "Compare equal operation"},
+    {"id": "DATAFLOW_COMPARE_SMALLER", "type": "enum_value", "description": "Compare smaller operation"},
+    {"id": "DATAFLOW_COMPARE_SMALLER_OR_EQUAL", "type": "enum_value", "description": "Compare smaller or equal operation"},
+    {"id": "DATAFLOW_COMPARE_GREATER", "type": "enum_value", "description": "Compare greater operation"},
+    {"id": "DATAFLOW_COMPARE_GREATER_OR_EQUAL", "type": "enum_value", "description": "Compare greater or equal operation"},
+    {"id": "PCG", "type": "module", "description": "PCG module"},
+    {"id": "InteractiveToolsFramework", "type": "module", "description": "Interactive Tools Framework module"},
+    {"id": "DisplayClusterConfiguration", "type": "module", "description": "Display Cluster Configuration module"},
+    {"id": "GeometryScriptingCore", "type": "module", "description": "Geometry Scripting Core module"},
+    {"id": "MovieSceneTracks", "type": "module", "description": "Movie Scene Tracks module"},
+    {"id": "ControlRig", "type": "module", "description": "Control Rig module"},
+    {"id": "GameplayAbilities", "type": "module", "description": "Gameplay Abilities module"},
+    {"id": "Chaos", "type": "module", "description": "Chaos physics module"},
+    {"id": "Engine", "type": "module", "description": "Engine module"},
+    {"id": "GeometryCollectionNodes", "type": "module", "description": "Geometry Collection Nodes module"},
+    {"id": "RigVMDeveloper", "type": "module", "description": "RigVM Developer module"},
+    {"id": "MovieRenderPipelineCore", "type": "module", "description": "Movie Render Pipeline Core module"},
+    {"id": "PixelStreaming51Cloud", "type": "module", "description": "Pixel Streaming 51 Cloud module"},
+    {"id": "UnrealEd", "type": "module", "description": "Unreal Editor module"},
+    {"id": "nDisplay", "type": "plugin", "description": "nDisplay plugin"},
+    {"id": "GeometryScripting", "type": "plugin", "description": "Geometry Scripting plugin"},
+    {"id": "GameplayAbilities_Plugin", "type": "plugin", "description": "Gameplay Abilities plugin"},
+    {"id": "ControlRig_Plugin", "type": "plugin", "description": "Control Rig plugin"},
+    {"id": "RigVM", "type": "plugin", "description": "RigVM plugin"},
+    {"id": "MovieRenderPipeline", "type": "plugin", "description": "Movie Render Pipeline plugin"},
+    {"id": "PixelStreaming51Cloud_Plugin", "type": "plugin", "description": "Pixel Streaming 51 Cloud plugin"},
+    {"id": "bool", "type": "type", "description": "Boolean type"},
+    {"id": "int32", "type": "type", "description": "32-bit integer type"},
+    {"id": "float", "type": "type", "description": "Float type"},
+    {"id": "double", "type": "type", "description": "Double precision float type"},
+    {"id": "str", "type": "type", "description": "String type"},
+    {"id": "Name", "type": "type", "description": "Unreal Name type"},
+    {"id": "Text", "type": "type", "description": "Unreal Text type"},
+    {"id": "Color", "type": "type", "description": "Color type"},
+    {"id": "Vector", "type": "type", "description": "3D Vector type"},
+    {"id": "Vector2D", "type": "type", "description": "2D Vector type"},
+    {"id": "Quat", "type": "type", "description": "Quaternion type"},
+    {"id": "LinearColor", "type": "type", "description": "Linear color type"},
+    {"id": "Box2D", "type": "type", "description": "2D bounding box type"},
+    {"id": "Object", "type": "type", "description": "Base Object type"},
+    {"id": "Class", "type": "type", "description": "Class type reference"},
+    {"id": "SkeletalMesh", "type": "type", "description": "Skeletal Mesh type"},
+    {"id": "Skeleton", "type": "type", "description": "Skeleton type"},
+    {"id": "ScriptStruct", "type": "type", "description": "Script Struct type"},
+    {"id": "SoftObjectPath", "type": "type", "description": "Soft Object Path type"},
+    {"id": "RigElementKey", "type": "type", "description": "Rig Element Key type"},
+    {"id": "ControlRigExecuteContext", "type": "type", "description": "Control Rig Execute Context type"},
+    {"id": "GameplayCueTag", "type": "type", "description": "Gameplay Cue Tag type"},
+    {"id": "DisplayClusterConfigurationCameraMotionBlurMode", "type": "type", "description": "Camera motion blur mode enum"},
+    {"id": "DisplayClusterConfigurationICVFX_CameraMotionBlurOverridePPS", "type": "type", "description": "Motion blur override settings"},
+    {"id": "GeometryScriptGeneralPolygonList", "type": "type", "description": "General polygon list type"},
+    {"id": "RigVMVariantRef", "type": "type", "description": "RigVM Variant Reference type"},
+    {"id": "RigVMFunctionLibrary", "type": "type", "description": "RigVM Function Library type"},
+    {"id": "RigVMVariant", "type": "type", "description": "RigVM Variant type"},
+    {"id": "RigVMGraph", "type": "type", "description": "RigVM Graph type"},
+    {"id": "RigUnit_HierarchyAddAnimationChannelVectorLimitSettings", "type": "type", "description": "Animation channel vector limit settings"},
+    {"id": "InstancedPropertyBag", "type": "type", "description": "Instanced Property Bag type"},
+    {"id": "RBFQuatDistanceType", "type": "type", "description": "RBF Quaternion distance type"},
+    {"id": "RBFKernelType", "type": "type", "description": "RBF Kernel type"},
+    {"id": "MathRBFInterpolateQuatColor_Target", "type": "type", "description": "RBF interpolate target type"},
+    {"id": "PCGDebugVisualizationSettings", "type": "type", "description": "PCG debug visualization settings"},
+    {"id": "PCGDeterminismSettings", "type": "type", "description": "PCG determinism settings"},
+    {"id": "MovieSceneConditionContainer", "type": "type", "description": "Movie scene condition container"},
+    {"id": "MovieSceneTrackDisplayOptions", "type": "type", "description": "Movie scene track display options"},
+    {"id": "MovieSceneTrackEvalOptions", "type": "type", "description": "Movie scene track evaluation options"},
+    {"id": "AssetImportTask", "type": "type", "description": "Asset Import Task type"},
+    {"id": "AutomatedAssetImportData", "type": "type", "description": "Automated Asset Import Data type"}
+  ],
+  "edges": [
+    {"source": "PCGQualitySelectSettings", "target": "PCGSettings", "label": "INHERITS_FROM"},
+    {"source": "DisplayClusterConfigurationICVFX_CameraMotionBlur", "target": "StructBase", "label": "INHERITS_FROM"},
+    {"source": "AimOffsetBlendSpaceFactoryNew", "target": "BlendSpaceFactoryNew", "label": "INHERITS_FROM"},
+    {"source": "InputRayHit", "target": "StructBase", "label": "INHERITS_FROM"},
+    {"source": "GeometryScriptSimplePolygon", "target": "StructBase", "label": "INHERITS_FROM"},
+    {"source": "MovieSceneVisibilityTrack", "target": "MovieScenePropertyTrack", "label": "INHERITS_FROM"},
+    {"source": "RigUnit_SetChannelHosts", "target": "RigUnit_DynamicHierarchyBaseMutable", "label": "INHERITS_FROM"},
+    {"source": "AvaToolboxCubeDynamicMesh", "target": "AvaShapeCubeDynamicMesh", "label": "DEPRECATED_BY"},
+    {"source": "AnimNotify_GameplayCue", "target": "AnimNotify", "label": "INHERITS_FROM"},
+    {"source": "ClosestPhysicsObjectResult", "target": "StructBase", "label": "INHERITS_FROM"},
+    {"source": "RigUnit_GetIntAnimationChannelFromItem", "target": "RigUnit_GetAnimationChannelFromItemBase", "label": "INHERITS_FROM"},
+    {"source": "AvaMaskModifier", "target": "AvaBooleanModifier", "label": "DEPRECATED_BY"},
+    {"source": "TypedElementWorldType", "target": "EnumBase", "label": "INHERITS_FROM"},
+    {"source": "CameraShakeAttenuation", "target": "EnumBase", "label": "INHERITS_FROM"},
+    {"source": "AnimationAttributeIdentifier", "target": "StructBase", "label": "INHERITS_FROM"},
+    {"source": "MaterialExpressionFresnel", "target": "MaterialExpression", "label": "INHERITS_FROM"},
+    {"source": "RigVMLibraryNode", "target": "RigVMTemplateNode", "label": "INHERITS_FROM"},
+    {"source": "CompareOperationEnum", "target": "EnumBase", "label": "INHERITS_FROM"},
+    {"source": "RigUnit_MathRBFInterpolateQuatColor", "target": "RigVMFunction_MathRBFInterpolateQuatColor", "label": "DEPRECATED_BY"},
+    {"source": "RigUnit_HierarchyAddAnimationChannelVector", "target": "RigUnit_HierarchyAddElement", "label": "INHERITS_FROM"},
+    {"source": "PixelStreaming51CloudDelegates_ConnectedToSignallingServer", "target": "MulticastDelegateBase", "label": "INHERITS_FROM"},
+    {"source": "MovieGraphRemoveRenderSettingNode", "target": "MovieGraphNode", "label": "INHERITS_FROM"},
+    {"source": "PCGQualitySelectSettings", "target": "PCG", "label": "DEFINED_IN_MODULE"},
+    {"source": "PCGQualitySelectSettings", "target": "PCG", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "DisplayClusterConfigurationICVFX_CameraMotionBlur", "target": "DisplayClusterConfiguration", "label": "DEFINED_IN_MODULE"},
+    {"source": "DisplayClusterConfigurationICVFX_CameraMotionBlur", "target": "nDisplay", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "AimOffsetBlendSpaceFactoryNew", "target": "UnrealEd", "label": "DEFINED_IN_MODULE"},
+    {"source": "InputRayHit", "target": "InteractiveToolsFramework", "label": "DEFINED_IN_MODULE"},
+    {"source": "GeometryScriptSimplePolygon", "target": "GeometryScriptingCore", "label": "DEFINED_IN_MODULE"},
+    {"source": "GeometryScriptSimplePolygon", "target": "GeometryScripting", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "MovieSceneVisibilityTrack", "target": "MovieSceneTracks", "label": "DEFINED_IN_MODULE"},
+    {"source": "RigUnit_SetChannelHosts", "target": "ControlRig", "label": "DEFINED_IN_MODULE"},
+    {"source": "RigUnit_SetChannelHosts", "target": "ControlRig_Plugin", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "AvaToolboxCubeDynamicMesh", "target": "AvaShapeCubeDynamicMesh", "label": "INHERITS_FROM"},
+    {"source": "AnimNotify_GameplayCue", "target": "GameplayAbilities", "label": "DEFINED_IN_MODULE"},
+    {"source": "AnimNotify_GameplayCue", "target": "GameplayAbilities_Plugin", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "ClosestPhysicsObjectResult", "target": "Chaos", "label": "DEFINED_IN_MODULE"},
+    {"source": "RigUnit_GetIntAnimationChannelFromItem", "target": "ControlRig", "label": "DEFINED_IN_MODULE"},
+    {"source": "RigUnit_GetIntAnimationChannelFromItem", "target": "ControlRig_Plugin", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "TypedElementWorldType", "target": "Engine", "label": "DEFINED_IN_MODULE"},
+    {"source": "CameraShakeAttenuation", "target": "Engine", "label": "DEFINED_IN_MODULE"},
+    {"source": "AnimationAttributeIdentifier", "target": "Engine", "label": "DEFINED_IN_MODULE"},
+    {"source": "MaterialExpressionFresnel", "target": "Engine", "label": "DEFINED_IN_MODULE"},
+    {"source": "RigVMLibraryNode", "target": "RigVMDeveloper", "label": "DEFINED_IN_MODULE"},
+    {"source": "RigVMLibraryNode", "target": "RigVM", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "CompareOperationEnum", "target": "GeometryCollectionNodes", "label": "DEFINED_IN_MODULE"},
+    {"source": "RigUnit_MathRBFInterpolateQuatColor", "target": "ControlRig", "label": "DEFINED_IN_MODULE"},
+    {"source": "RigUnit_HierarchyAddAnimationChannelVector", "target": "ControlRig", "label": "DEFINED_IN_MODULE"},
+    {"source": "PixelStreaming51CloudDelegates_ConnectedToSignallingServer", "target": "PixelStreaming51Cloud", "label": "DEFINED_IN_MODULE"},
+    {"source": "PixelStreaming51CloudDelegates_ConnectedToSignallingServer", "target": "PixelStreaming51Cloud_Plugin", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "MovieGraphRemoveRenderSettingNode", "target": "MovieRenderPipelineCore", "label": "DEFINED_IN_MODULE"},
+    {"source": "MovieGraphRemoveRenderSettingNode", "target": "MovieRenderPipeline", "label": "DEFINED_IN_PLUGIN"},
+    {"source": "PCGQualitySelectSettings", "target": "use_low_pin", "label": "HAS_PROPERTY"},
+    {"source": "PCGQualitySelectSettings", "target": "use_medium_pin", "label": "HAS_PROPERTY"},
+    {"source": "PCGQualitySelectSettings", "target": "use_high_pin", "label": "HAS_PROPERTY"},
+    {"source": "PCGQualitySelectSettings", "target": "use_epic_pin", "label": "HAS_PROPERTY"},
+    {"source": "PCGQualitySelectSettings", "target": "use_cinematic_pin", "label": "HAS_PROPERTY"},
+    {"source": "use_low_pin", "target": "bool", "label": "OF_TYPE"},
+    {"source": "use_medium_pin", "target": "bool", "label": "OF_TYPE"},
+    {"source": "use_high_pin", "target": "bool", "label": "OF_TYPE"},
+    {"source": "use_epic_pin", "target": "bool", "label": "OF_TYPE"},
+    {"source": "use_cinematic_pin", "target": "bool", "label": "OF_TYPE"},
+    {"source": "DisplayClusterConfigurationICVFX_CameraMotionBlur", "target": "motion_blur_mode", "label": "HAS_PROPERTY"},
+    {"source": "DisplayClusterConfigurationICVFX_CameraMotionBlur", "target": "translation_scale", "label": "HAS_PROPERTY"},
+    {"source": "DisplayClusterConfigurationICVFX_CameraMotionBlur", "target": "motion_blur_pps", "label": "HAS_PROPERTY"},
+    {"source": "motion_blur_mode", "target": "DisplayClusterConfigurationCameraMotionBlurMode", "label": "OF_TYPE"},
+    {"source": "translation_scale", "target": "float", "label": "OF_TYPE"},
+    {"source": "motion_blur_pps", "target": "DisplayClusterConfigurationICVFX_CameraMotionBlurOverridePPS", "label": "OF_TYPE"},
+    {"source": "InputRayHit", "target": "hit", "label": "HAS_PROPERTY"},
+    {"source": "InputRayHit", "target": "hit_depth", "label": "HAS_PROPERTY"},
+    {"source": "InputRayHit", "target": "hit_normal", "label": "HAS_PROPERTY"},
+    {"source": "InputRayHit", "target": "has_hit_normal", "label": "HAS_PROPERTY"},
+    {"source": "InputRayHit", "target": "hit_identifier", "label": "HAS_PROPERTY"},
+    {"source": "InputRayHit", "target": "hit_object", "label": "HAS_PROPERTY"},
+    {"source": "hit", "target": "bool", "label": "OF_TYPE"},
+    {"source": "hit_depth", "target": "double", "label": "OF_TYPE"},
+    {"source": "hit_normal", "target": "Vector", "label": "OF_TYPE"},
+    {"source": "has_hit_normal", "target": "bool", "label": "OF_TYPE"},
+    {"source": "hit_identifier", "target": "int32", "label": "OF_TYPE"},
+    {"source": "hit_object", "target": "Object", "label": "OF_TYPE"},
+    {"source": "GeometryScriptSimplePolygon", "target": "set_polygon_vertex", "label": "HAS_METHOD"},
+    {"source": "GeometryScriptSimplePolygon", "target": "get_polygon_vertex_count", "label": "HAS_METHOD"},
+    {"source": "GeometryScriptSimplePolygon", "target": "get_polygon_vertex", "label": "HAS_METHOD"},
+    {"source": "GeometryScriptSimplePolygon", "target": "get_polygon_tangent", "label": "HAS_METHOD"},
+    {"source": "GeometryScriptSimplePolygon", "target": "get_polygon_bounds", "label": "HAS_METHOD"},
+    {"source": "GeometryScriptSimplePolygon", "target": "get_polygon_area", "label": "HAS_METHOD"},
+    {"source": "GeometryScriptSimplePolygon", "target": "get_polygon_arc_length", "label": "HAS_METHOD"},
+    {"source": "GeometryScriptSimplePolygon", "target": "add_polygon_vertex", "label": "HAS_METHOD"},
+    {"source": "GeometryScriptSimplePolygon", "target": "create_polygon_list_from_single_polygon", "label": "HAS_METHOD"},
+    {"source": "set_polygon_vertex", "target": "bool", "label": "RETURNS"},
+    {"source": "get_polygon_vertex_count", "target": "int32", "label": "RETURNS"},
+    {"source": "get_polygon_bounds", "target": "Box2D", "label": "RETURNS"},
+    {"source": "get_polygon_area", "target": "double", "label": "RETURNS"},
+    {"source": "get_polygon_arc_length", "target": "double", "label": "RETURNS"},
+    {"source": "add_polygon_vertex", "target": "int32", "label": "RETURNS"},
+    {"source": "create_polygon_list_from_single_polygon", "target": "GeometryScriptGeneralPolygonList", "label": "RETURNS"},
+    {"source": "RigUnit_SetChannelHosts", "target": "channel", "label": "HAS_PROPERTY"},
+    {"source": "RigUnit_SetChannelHosts", "target": "hosts", "label": "HAS_PROPERTY"},
+    {"source": "channel", "target": "RigElementKey", "label": "OF_TYPE"},
+    {"source": "hosts", "target": "RigElementKey", "label": "OF_TYPE"},
+    {"source": "AnimNotify_GameplayCue", "target": "gameplay_cue", "label": "HAS_PROPERTY"},
+    {"source": "gameplay_cue", "target": "GameplayCueTag", "label": "OF_TYPE"},
+    {"source": "RigUnit_GetIntAnimationChannelFromItem", "target": "value", "label": "HAS_PROPERTY"},
+    {"source": "value", "target": "int32", "label": "OF_TYPE"},
+    {"source": "RigVMLibraryNode", "target": "get_matching_variants", "label": "HAS_METHOD"},
+    {"source": "RigVMLibraryNode", "target": "get_library", "label": "HAS_METHOD"},
+    {"source": "RigVMLibraryNode", "target": "get_function_variant", "label": "HAS_METHOD"},
+    {"source": "RigVMLibraryNode", "target": "get_contained_graph", "label": "HAS_METHOD"},
+    {"source": "get_matching_variants", "target": "RigVMVariantRef", "label": "RETURNS"},
+    {"source": "get_library", "target": "RigVMFunctionLibrary", "label": "RETURNS"},
+    {"source": "get_function_variant", "target": "RigVMVariant", "label": "RETURNS"},
+    {"source": "get_contained_graph", "target": "RigVMGraph", "label": "RETURNS"},
+    {"source": "AnimationAttributeIdentifier", "target": "name", "label": "HAS_PROPERTY"},
+    {"source": "AnimationAttributeIdentifier", "target": "bone_name", "label": "HAS_PROPERTY"},
+    {"source": "AnimationAttributeIdentifier", "target": "bone_index", "label": "HAS_PROPERTY"},
+    {"source": "AnimationAttributeIdentifier", "target": "script_struct", "label": "HAS_PROPERTY"},
+    {"source": "AnimationAttributeIdentifier", "target": "script_struct_path", "label": "HAS_PROPERTY"},
+    {"source": "AnimationAttributeIdentifier", "target": "is_valid", "label": "HAS_METHOD"},
+    {"source": "name", "target": "Name", "label": "OF_TYPE"},
+    {"source": "bone_name", "target": "Name", "label": "OF_TYPE"},
+    {"source": "bone_index", "target": "int32", "label": "OF_TYPE"},
+    {"source": "script_struct", "target": "ScriptStruct", "label": "OF_TYPE"},
+    {"source": "script_struct_path", "target": "SoftObjectPath", "label": "OF_TYPE"},
+    {"source": "is_valid", "target": "bool", "label": "RETURNS"},
+    {"source": "MaterialExpressionFresnel", "target": "base_reflect_fraction", "label": "HAS_PROPERTY"},
+    {"source": "MaterialExpressionFresnel", "target": "exponent", "label": "HAS_PROPERTY"},
+    {"source": "base_reflect_fraction", "target": "float", "label": "OF_TYPE"},
+    {"source": "exponent", "target": "float", "label": "OF_TYPE"},
+    {"source": "TypedElementWorldType", "target": "GAME", "label": "HAS_ENUM_VALUE"},
+    {"source": "TypedElementWorldType", "target": "EDITOR", "label": "HAS_ENUM_VALUE"},
+    {"source": "CameraShakeAttenuation", "target": "LINEAR", "label": "HAS_ENUM_VALUE"},
+    {"source": "CameraShakeAttenuation", "target": "QUADRATIC", "label": "HAS_ENUM_VALUE"},
+    {"source": "CompareOperationEnum", "target": "DATAFLOW_COMPARE_EQUAL", "label": "HAS_ENUM_VALUE"},
+    {"source": "CompareOperationEnum", "target": "DATAFLOW_COMPARE_SMALLER", "label": "HAS_ENUM_VALUE"},
+    {"source": "CompareOperationEnum", "target": "DATAFLOW_COMPARE_SMALLER_OR_EQUAL", "label": "HAS_ENUM_VALUE"},
+    {"source": "CompareOperationEnum", "target": "DATAFLOW_COMPARE_GREATER", "label": "HAS_ENUM_VALUE"},
+    {"source": "CompareOperationEnum", "target": "DATAFLOW_COMPARE_GREATER_OR_EQUAL", "label": "HAS_ENUM_VALUE"},
+    {"source": "RigUnit_HierarchyAddAnimationChannelVector", "target": "initial_value", "label": "HAS_PROPERTY"},
+    {"source": "RigUnit_HierarchyAddAnimationChannelVector", "target": "minimum_value", "label": "HAS_PROPERTY"},
+    {"source": "RigUnit_HierarchyAddAnimationChannelVector", "target": "maximum_value", "label": "HAS_PROPERTY"},
+    {"source": "RigUnit_HierarchyAddAnimationChannelVector", "target": "limits_enabled", "label": "HAS_PROPERTY"},
+    {"source": "initial_value", "target": "Vector", "label": "OF_TYPE"},
+    {"source": "minimum_value", "target": "Vector", "label": "OF_TYPE"},
+    {"source": "maximum_value", "target": "Vector", "label": "OF_TYPE"},
+    {"source": "limits_enabled", "target": "RigUnit_HierarchyAddAnimationChannelVectorLimitSettings", "label": "OF_TYPE"},
+    {"source": "MovieGraphRemoveRenderSettingNode", "target": "node_type", "label": "HAS_PROPERTY"},
+    {"source": "node_type", "target": "Class", "label": "OF_TYPE"}
+  ],
+  "hyperedges": [
+    {
+      "id": "he1",
+      "nodes": ["set_polygon_vertex", "int32", "Vector2D", "bool"],
+      "label": "METHOD_SIGNATURE",
+      "metadata": {
+        "description": "Set polygon vertex takes vertex index and position, returns bool"
+      }
+    },
+    {
+      "id": "he2",
+      "nodes": ["get_polygon_vertex", "int32", "Vector2D", "bool"],
+      "label": "METHOD_SIGNATURE",
+      "metadata": {
+        "description": "Get polygon vertex takes vertex index, returns Vector2D and bool"
+      }
+    },
+    {
+      "id": "he3",
+      "nodes": ["get_polygon_tangent", "int32", "Vector2D", "bool"],
+      "label": "METHOD_SIGNATURE",
+      "metadata": {
+        "description": "Get polygon tangent takes vertex index, returns Vector2D and bool"
+      }
+    },
+    {
+      "id": "he4",
+      "nodes": ["add_polygon_vertex", "Vector2D", "int32"],
+      "label": "METHOD_SIGNATURE",
+      "metadata": {
+        "description": "Add polygon vertex takes position, returns vertex index"
+      }
+    },
+    {
+      "id": "he5",
+      "nodes": ["create_polygon_list_from_single_polygon", "GeometryScriptSimplePolygon", "bool", "GeometryScriptGeneralPolygonList"],
+      "label": "METHOD_SIGNATURE",
+      "metadata": {
+        "description": "Create polygon list from single polygon with optional holes"
+      }
+    },
+    {
+      "id": "he6",
+      "nodes": ["PCGQualitySelectSettings", "PCG", "PCGSettings"],
+      "label": "CLASS_HIERARCHY",
+      "metadata": {
+        "description": "PCGQualitySelectSettings inherits from PCGSettings and is defined in PCG module"
+      }
+    },
+    {
+      "id": "he7",
+      "nodes": ["InputRayHit", "InteractiveToolsFramework", "StructBase"],
+      "label": "CLASS_HIERARCHY",
+      "metadata": {
+        "description": "InputRayHit is a StructBase defined in InteractiveToolsFramework module"
+      }
+    },
+    {
+      "id": "he8",
+      "nodes": ["RigUnit_SetChannelHosts", "ControlRig", "RigUnit_DynamicHierarchyBaseMutable"],
+      "label": "CLASS_HIERARCHY",
+      "metadata": {
+        "description": "RigUnit_SetChannelHosts inherits from RigUnit_DynamicHierarchyBaseMutable in ControlRig module"
+      }
+    },
+    {
+      "id": "he9",
+      "nodes": ["AnimNotify_GameplayCue", "GameplayAbilities", "AnimNotify"],
+      "label": "CLASS_HIERARCHY",
+      "metadata": {
+        "description": "AnimNotify_GameplayCue inherits from AnimNotify in GameplayAbilities module"
+      }
+    },
+    {
+      "id": "he10",
+      "nodes": ["GeometryScriptSimplePolygon", "GeometryScriptingCore", "GeometryScripting", "StructBase"],
+      "label": "CLASS_HIERARCHY_WITH_PLUGIN",
+      "metadata": {
+        "description": "GeometryScriptSimplePolygon is a StructBase in GeometryScriptingCore module under GeometryScripting plugin"
+      }
+    },
+    {
+      "id": "he11",
+      "nodes": ["RigVMLibraryNode", "RigVMDeveloper", "RigVM", "RigVMTemplateNode"],
+      "label": "CLASS_HIERARCHY_WITH_PLUGIN",
+      "metadata": {
+        "description": "RigVMLibraryNode inherits from RigVMTemplateNode in RigVMDeveloper module under RigVM plugin"
+      }
+    },
+    {
+      "id": "he12",
+      "nodes": ["MovieGraphRemoveRenderSettingNode", "MovieRenderPipelineCore", "MovieRenderPipeline", "MovieGraphNode"],
+      "label": "CLASS_HIERARCHY_WITH_PLUGIN",
+      "metadata": {
+        "description": "MovieGraphRemoveRenderSettingNode inherits from MovieGraphNode in MovieRenderPipelineCore module under MovieRenderPipeline plugin"
+      }
+    },
+    {
+      "id": "he13",
+      "nodes": ["DisplayClusterConfigurationICVFX_CameraMotionBlur", "DisplayClusterConfiguration", "nDisplay", "StructBase"],
+      "label": "CLASS_HIERARCHY_WITH_PLUGIN",
+      "metadata": {
+        "description": "DisplayClusterConfigurationICVFX_CameraMotionBlur is a StructBase in DisplayClusterConfiguration module under nDisplay plugin"
+      }
+    },
+    {
+      "id": "he14",
+      "nodes": ["PixelStreaming51CloudDelegates_ConnectedToSignallingServer", "PixelStreaming51Cloud", "PixelStreaming51Cloud_Plugin", "MulticastDelegateBase"],
+      "label": "CLASS_HIERARCHY_WITH_PLUGIN",
+      "metadata": {
+        "description": "PixelStreaming51CloudDelegates_ConnectedToSignallingServer inherits from MulticastDelegateBase in PixelStreaming51Cloud module"
+      }
+    },
+    {
+      "id": "he15",
+      "nodes": ["RigUnit_HierarchyAddAnimationChannelVector", "ControlRig", "ControlRig_Plugin", "RigUnit_HierarchyAddElement"],
+      "label": "CLASS_HIERARCHY_WITH_PLUGIN",
+      "metadata": {
+        "description": "RigUnit_HierarchyAddAnimationChannelVector inherits from RigUnit_HierarchyAddElement in ControlRig module"
+      }
+    },
+    {
+      "id": "he16",
+      "nodes": ["AvaToolboxCubeDynamicMesh", "AvaShapeCubeDynamicMesh"],
+      "label": "DEPRECATION",
+      "metadata": {
+        "description": "AvaToolboxCubeDynamicMesh was renamed to AvaShapeCubeDynamicMesh"
+      }
+    },
+    {
+      "id": "he17",
+      "nodes": ["AvaMaskModifier", "AvaBooleanModifier"],
+      "label": "DEPRECATION",
+      "metadata": {
+        "description": "AvaMaskModifier was renamed to AvaBooleanModifier"
+      }
+    },
+    {
+      "id": "he18",
+      "nodes": ["RigUnit_MathRBFInterpolateQuatColor", "RigVMFunction_MathRBFInterpolateQuatColor"],
+      "label": "DEPRECATION",
+      "metadata": {
+        "description": "RigUnit_MathRBFInterpolateQuatColor was renamed to RigVMFunction_MathRBFInterpolateQuatColor"
+      }
+    },
+    {
+      "id": "he19",
+      "nodes": ["InputRayHit", "hit", "hit_depth", "hit_normal", "has_hit_normal", "hit_identifier", "hit_object"],
+      "label": "CLASS_PROPERTIES",
+      "metadata": {
+        "description": "InputRayHit has properties for ray hit testing results"
+      }
+    },
+    {
+      "id": "he20",
+      "nodes": ["AnimationAttributeIdentifier", "name", "bone_name", "bone_index", "script_struct", "script_struct_path"],
+      "label": "CLASS_PROPERTIES",
+      "metadata": {
+        "description": "AnimationAttributeIdentifier has properties for identifying animation attributes"
+      }
+    },
+    {
+      "id": "he21",
+      "nodes": ["RigUnit_HierarchyAddAnimationChannelVector", "initial_value", "minimum_value", "maximum_value", "limits_enabled"],
+      "label": "CLASS_PROPERTIES",
+      "metadata": {
+        "description": "RigUnit_HierarchyAddAnimationChannelVector has properties for animation channel configuration"
+      }
+    },
+    {
+      "id": "he22",
+      "nodes": ["GeometryScriptSimplePolygon", "set_polygon_vertex", "get_polygon_vertex_count", "get_polygon_vertex", "get_polygon_tangent", "get_polygon_bounds", "get_polygon_area", "get_polygon_arc_length", "add_polygon_vertex", "create_polygon_list_from_single_polygon"],
+      "label": "CLASS_METHODS",
+      "metadata": {
+        "description": "GeometryScriptSimplePolygon has methods for polygon manipulation"
+      }
+    },
+    {
+      "id": "he23",
+      "nodes": ["RigVMLibraryNode", "get_matching_variants", "get_library", "get_function_variant", "get_contained_graph"],
+      "label": "CLASS_METHODS",
+      "metadata": {
+        "description": "RigVMLibraryNode has methods for accessing library functions and variants"
+      }
+    }
+  ]
+}

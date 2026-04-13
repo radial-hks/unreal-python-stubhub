@@ -1,0 +1,623 @@
+{
+  "nodes": [
+    {
+      "id": "moviescenescriptingstringkey_moviescenescriptingstringkey",
+      "label": "MovieSceneScriptingStringKey",
+      "file_type": "document",
+      "source_file": "MovieSceneScriptingStringKey Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatag_avatag",
+      "label": "AvaTag",
+      "file_type": "document",
+      "source_file": "AvaTag Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelvectorlimitsettings_rigunit_hierarchyaddanimationchannelvectorlimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelVectorLimitSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVectorLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmaterialxplus_materialexpressionmaterialxplus",
+      "label": "MaterialExpressionMaterialXPlus",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMaterialXPlus Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangematerialsearchlocation_interchangematerialsearchlocation",
+      "label": "InterchangeMaterialSearchLocation",
+      "file_type": "document",
+      "source_file": "InterchangeMaterialSearchLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplayeffectblockedimmunity_abilitytask_waitgameplayeffectblockedimmunity",
+      "label": "AbilityTask_WaitGameplayEffectBlockedImmunity",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayEffectBlockedImmunity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthroadmodelerassetpath_earthroadmodelerassetpath",
+      "label": "EarthRoadModelerAssetPath",
+      "file_type": "document",
+      "source_file": "EarthRoadModelerAssetPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplaytagremoved_abilitytask_waitgameplaytagremoved",
+      "label": "AbilityTask_WaitGameplayTagRemoved",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayTagRemoved Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avasequenceplayer_avasequenceplayer",
+      "label": "AvaSequencePlayer",
+      "file_type": "document",
+      "source_file": "AvaSequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdppickfilter_wdppickfilter",
+      "label": "WdpPickFilter",
+      "file_type": "document",
+      "source_file": "WdpPickFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oncheckboxcomponentstatechanged_oncheckboxcomponentstatechanged",
+      "label": "OnCheckBoxComponentStateChanged",
+      "file_type": "document",
+      "source_file": "OnCheckBoxComponentStateChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_bodymovereffector_ikrig_bodymovereffector",
+      "label": "IKRig_BodyMoverEffector",
+      "file_type": "document",
+      "source_file": "IKRig__BodyMoverEffector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movealongpathentity_movealongpathentity",
+      "label": "MoveAlongPathEntity",
+      "file_type": "document",
+      "source_file": "MoveAlongPathEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displacementfaderange_displacementfaderange",
+      "label": "DisplacementFadeRange",
+      "file_type": "document",
+      "source_file": "DisplacementFadeRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slatewidgetstyle_slatewidgetstyle",
+      "label": "SlateWidgetStyle",
+      "file_type": "document",
+      "source_file": "SlateWidgetStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegateulowentryextendedstandardlibrarycomparestructs_delegateulowentryextendedstandardlibrarycomparestructs",
+      "label": "DelegateULowEntryExtendedStandardLibraryCompareStructs",
+      "file_type": "document",
+      "source_file": "DelegateULowEntryExtendedStandardLibraryCompareStructs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatransitionattributelibrary_avatransitionattributelibrary",
+      "label": "AvaTransitionAttributeLibrary",
+      "file_type": "document",
+      "source_file": "AvaTransitionAttributeLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectinstanceentity_projectinstanceentity",
+      "label": "ProjectInstanceEntity",
+      "file_type": "document",
+      "source_file": "ProjectInstanceEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapegizmoactiveactor_landscapegizmoactiveactor",
+      "label": "LandscapeGizmoActiveActor",
+      "file_type": "document",
+      "source_file": "LandscapeGizmoActiveActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nodeidgroup_nodeidgroup",
+      "label": "NodeIdGroup",
+      "file_type": "document",
+      "source_file": "NodeIdGroup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navlinkrenderingcomponent_navlinkrenderingcomponent",
+      "label": "NavLinkRenderingComponent",
+      "file_type": "document",
+      "source_file": "NavLinkRenderingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscript_uvs_geometryscript_uvs",
+      "label": "GeometryScript_UVs",
+      "file_type": "document",
+      "source_file": "GeometryScript__UVs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_waitgameplaytag_abilitytask_waitgameplaytag",
+      "label": "AbilityTask_WaitGameplayTag",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayTagRemoved Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannellimitsettings_rigunit_hierarchyaddanimationchannellimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelEmptyLimitSettings",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVectorLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "levelsequenceplayer_levelsequenceplayer",
+      "label": "LevelSequencePlayer",
+      "file_type": "document",
+      "source_file": "AvaSequencePlayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstandardactorentity_wdpstandardactorentity",
+      "label": "WdpStandardActorEntity",
+      "file_type": "document",
+      "source_file": "ProjectInstanceEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpactorentity_wdpactorentity",
+      "label": "WdpActorEntity",
+      "file_type": "document",
+      "source_file": "MoveAlongPathEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "landscapegizmoactor_landscapegizmoactor",
+      "label": "LandscapeGizmoActor",
+      "file_type": "document",
+      "source_file": "LandscapeGizmoActiveActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "primitivecomponent_primitivecomponent",
+      "label": "PrimitiveComponent",
+      "file_type": "document",
+      "source_file": "NavLinkRenderingComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avataghandle_avataghandle",
+      "label": "AvaTagHandle",
+      "file_type": "document",
+      "source_file": "AvaTransitionAttributeLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigcontrollimenabled_rigcontrollimenabled",
+      "label": "RigControlLimitEnabled",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVectorLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayeffectblockeddelegate_gameplayeffectblockeddelegate",
+      "label": "GameplayEffectBlockedDelegate",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayEffectBlockedImmunity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "waitgameplaytagdelegate_waitgameplaytagdelegate",
+      "label": "WaitGameplayTagDelegate",
+      "file_type": "document",
+      "source_file": "AbilityTask__WaitGameplayTagRemoved Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "softobjectpath_softobjectpath",
+      "label": "SoftObjectPath",
+      "file_type": "document",
+      "source_file": "EarthRoadModelerAssetPath Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicmesh_dynamicmesh",
+      "label": "DynamicMesh",
+      "file_type": "document",
+      "source_file": "GeometryScript__UVs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshselection_geometryscriptmeshselection",
+      "label": "GeometryScriptMeshSelection",
+      "file_type": "document",
+      "source_file": "GeometryScript__UVs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "moviescenescriptingstringkey_moviescenescriptingstringkey",
+      "target": "avatag_avatag",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneScriptingStringKey Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplaytagremoved_abilitytask_waitgameplaytagremoved",
+      "target": "abilitytask_waitgameplaytag_abilitytask_waitgameplaytag",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayTagRemoved Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelvectorlimitsettings_rigunit_hierarchyaddanimationchannelvectorlimitsettings",
+      "target": "rigunit_hierarchyaddanimationchannellimitsettings_rigunit_hierarchyaddanimationchannellimitsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVectorLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avasequenceplayer_avasequenceplayer",
+      "target": "levelsequenceplayer_levelsequenceplayer",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaSequencePlayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "projectinstanceentity_projectinstanceentity",
+      "target": "wdpstandardactorentity_wdpstandardactorentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProjectInstanceEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "movealongpathentity_movealongpathentity",
+      "target": "wdpactorentity_wdpactorentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoveAlongPathEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "landscapegizmoactiveactor_landscapegizmoactiveactor",
+      "target": "landscapegizmoactor_landscapegizmoactor",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LandscapeGizmoActiveActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "navlinkrenderingcomponent_navlinkrenderingcomponent",
+      "target": "primitivecomponent_primitivecomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NavLinkRenderingComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitionattributelibrary_avatransitionattributelibrary",
+      "target": "avataghandle_avataghandle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaTransitionAttributeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatransitionattributelibrary_avatransitionattributelibrary",
+      "target": "avatag_avatag",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AvaTransitionAttributeLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelvectorlimitsettings_rigunit_hierarchyaddanimationchannelvectorlimitsettings",
+      "target": "rigcontrollimenabled_rigcontrollimenabled",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddAnimationChannelVectorLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplayeffectblockedimmunity_abilitytask_waitgameplayeffectblockedimmunity",
+      "target": "gameplayeffectblockeddelegate_gameplayeffectblockeddelegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayEffectBlockedImmunity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplaytagremoved_abilitytask_waitgameplaytagremoved",
+      "target": "waitgameplaytagdelegate_waitgameplaytagdelegate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__WaitGameplayTagRemoved Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthroadmodelerassetpath_earthroadmodelerassetpath",
+      "target": "softobjectpath_softobjectpath",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthRoadModelerAssetPath Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_uvs_geometryscript_uvs",
+      "target": "dynamicmesh_dynamicmesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__UVs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscript_uvs_geometryscript_uvs",
+      "target": "geometryscriptmeshselection_geometryscriptmeshselection",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScript__UVs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "abilitytask_waitgameplayeffectblockedimmunity_abilitytask_waitgameplayeffectblockedimmunity",
+      "target": "abilitytask_waitgameplaytagremoved_abilitytask_waitgameplaytagremoved",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AbilityTask__WaitGameplayEffectBlockedImmunity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "movealongpathentity_movealongpathentity",
+      "target": "projectinstanceentity_projectinstanceentity",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MoveAlongPathEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "gameplay_ability_system_tasks",
+      "label": "Gameplay Ability System Tasks",
+      "nodes": [
+        "abilitytask_waitgameplayeffectblockedimmunity_abilitytask_waitgameplayeffectblockedimmunity",
+        "abilitytask_waitgameplaytagremoved_abilitytask_waitgameplaytagremoved"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "AbilityTask__WaitGameplayEffectBlockedImmunity Objects.md"
+    },
+    {
+      "id": "wdp_entity_system",
+      "label": "WDP Entity System",
+      "nodes": [
+        "movealongpathentity_movealongpathentity",
+        "projectinstanceentity_projectinstanceentity"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MoveAlongPathEntity Objects.md"
+    },
+    {
+      "id": "avalanche_sequence_system",
+      "label": "Avalanche Sequence System",
+      "nodes": [
+        "avasequenceplayer_avasequenceplayer",
+        "avatag_avatag",
+        "avatransitionattributelibrary_avatransitionattributelibrary"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AvaSequencePlayer Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

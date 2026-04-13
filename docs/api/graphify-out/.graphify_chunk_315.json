@@ -1,0 +1,418 @@
+{
+  "nodes": [
+    {
+      "id": "modelerriverpolylineatomatom_modelerriverpolylineatom",
+      "label": "ModelerRiverPolylineAtom",
+      "file_type": "code",
+      "source_file": "ModelerRiverPolylineAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthtabcontent_earthtabcontent",
+      "label": "EarthTabContent",
+      "file_type": "code",
+      "source_file": "EarthTabContent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmathtransformtransformvector_rigunitmathtransformtransformvector",
+      "label": "RigUnit_MathTransformTransformVector",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformTransformVector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inapppurchaserestoreresult2_inapppurchaserestoreresult2",
+      "label": "InAppPurchaseRestoreResult2",
+      "file_type": "code",
+      "source_file": "InAppPurchaseRestoreResult2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onlineturnbasedmatchresult_onlineturnbasedmatchresult",
+      "label": "OnlineTurnBasedMatchResult",
+      "file_type": "code",
+      "source_file": "OnlineTurnBasedMatchResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "displayclusterconfigurationicvfx_cameramotionbluroverridepps",
+      "label": "DisplayClusterConfigurationICVFX_CameraMotionBlurOverridePPS",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationICVFX_CameraMotionBlurOverridePPS Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "formatargumentdata_formatargumentdata",
+      "label": "FormatArgumentData",
+      "file_type": "code",
+      "source_file": "FormatArgumentData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "contentbrowserdatamenucontext_dragdropmenu",
+      "label": "ContentBrowserDataMenuContext_DragDropMenu",
+      "file_type": "code",
+      "source_file": "ContentBrowserDataMenuContext_DragDropMenu Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setcontrolrotator",
+      "label": "RigUnit_SetControlRotator",
+      "file_type": "code",
+      "source_file": "RigUnit_SetControlRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_scalechainlength",
+      "label": "AnimGraphNode_ScaleChainLength",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__ScaleChainLength Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetextureblurnode",
+      "label": "InterchangeTextureBlurNode",
+      "file_type": "code",
+      "source_file": "InterchangeTextureBlurNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiummetadatautilityblueprintlibrary",
+      "label": "CesiumMetadataUtilityBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "CesiumMetadataUtilityBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstratasinglelayerwaterbsdf",
+      "label": "MaterialExpressionStrataSingleLayerWaterBSDF",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStrataSingleLayerWaterBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "polylineswidget",
+      "label": "PolylinesWidget",
+      "file_type": "code",
+      "source_file": "PolylinesWidget Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublecos",
+      "label": "RigUnit_MathDoubleCos",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleCos Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "btdecorator",
+      "label": "BTDecorator",
+      "file_type": "code",
+      "source_file": "BTDecorator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageblendcontrastbase",
+      "label": "DMMaterialStageBlendContrastBase",
+      "file_type": "code",
+      "source_file": "DMMaterialStageBlendContrastBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_collectionnamesearch",
+      "label": "RigUnit_CollectionNameSearch",
+      "file_type": "code",
+      "source_file": "RigUnit_CollectionNameSearch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitysystemcomponent_abilityconfirmorcancel",
+      "label": "AbilitySystemComponent_AbilityConfirmOrCancel",
+      "file_type": "code",
+      "source_file": "AbilitySystemComponent__AbilityConfirmOrCancel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "earthtabcontent_earthtabcontent",
+      "target": "modelerriverpolylineatomatom_modelerriverpolylineatom",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "EarthTabContent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunitmathtransformtransformvector_rigunitmathtransformtransformvector",
+      "target": "rigunit_setcontrolrotator",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathTransformTransformVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunitmathtransformtransformvector_rigunitmathtransformtransformvector",
+      "target": "rigunit_mathdoublecos",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathTransformTransformVector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolrotator",
+      "target": "rigunit_mathdoublecos",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_SetControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inapppurchaserestoreresult2_inapppurchaserestoreresult2",
+      "target": "onlineturnbasedmatchresult_onlineturnbasedmatchresult",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InAppPurchaseRestoreResult2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inapppurchaserestoreresult2_inapppurchaserestoreresult2",
+      "target": "abilitysystemcomponent_abilityconfirmorcancel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "InAppPurchaseRestoreResult2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onlineturnbasedmatchresult_onlineturnbasedmatchresult",
+      "target": "abilitysystemcomponent_abilityconfirmorcancel",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OnlineTurnBasedMatchResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "displayclusterconfigurationicvfx_cameramotionbluroverridepps",
+      "target": "formatargumentdata_formatargumentdata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "DisplayClusterConfigurationICVFX_CameraMotionBlurOverridePPS Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode_scalechainlength",
+      "target": "rigunit_setcontrolrotator",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimGraphNode__ScaleChainLength Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cesiummetadatautilityblueprintlibrary",
+      "target": "formatargumentdata_formatargumentdata",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CesiumMetadataUtilityBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstratasinglelayerwaterbsdf",
+      "target": "dmmaterialstageblendcontrastbase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionStrataSingleLayerWaterBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetextureblurnode",
+      "target": "displayclusterconfigurationicvfx_cameramotionbluroverridepps",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "InterchangeTextureBlurNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionnamesearch",
+      "target": "rigunit_setcontrolrotator",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_CollectionNameSearch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionnamesearch",
+      "target": "rigunitmathtransformtransformvector_rigunitmathtransformtransformvector",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_CollectionNameSearch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_collectionnamesearch",
+      "target": "rigunit_mathdoublecos",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_CollectionNameSearch Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "polylineswidget",
+      "target": "contentbrowserdatamenucontext_dragdropmenu",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PolylinesWidget Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigging_math_operations",
+      "label": "Rigging Mathematical Operations",
+      "nodes": [
+        "rigunitmathtransformtransformvector_rigunitmathtransformtransformvector",
+        "rigunit_setcontrolrotator",
+        "rigunit_mathdoublecos",
+        "rigunit_collectionnamesearch"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathTransformTransformVector Objects.md"
+    },
+    {
+      "id": "multicast_delegates",
+      "label": "Multicast Delegate System",
+      "nodes": [
+        "inapppurchaserestoreresult2_inapppurchaserestoreresult2",
+        "onlineturnbasedmatchresult_onlineturnbasedmatchresult",
+        "abilitysystemcomponent_abilityconfirmorcancel"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "InAppPurchaseRestoreResult2 Objects.md"
+    },
+    {
+      "id": "material_blend_operations",
+      "label": "Material Blend Operations",
+      "nodes": [
+        "materialexpressionstratasinglelayerwaterbsdf",
+        "dmmaterialstageblendcontrastbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MaterialExpressionStrataSingleLayerWaterBSDF Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

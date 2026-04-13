@@ -1,0 +1,509 @@
+{
+  "nodes": [
+    {
+      "id": "pcgcreateattributesetsettings_class",
+      "label": "PCGCreateAttributeSetSettings",
+      "file_type": "code",
+      "source_file": "PCGCreateAttributeSetSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "optimusnodepin_class",
+      "label": "OptimusNodePin",
+      "file_type": "code",
+      "source_file": "OptimusNodePin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_itemnotequals_class",
+      "label": "RigUnit_ItemNotEquals",
+      "file_type": "code",
+      "source_file": "RigUnit_ItemNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailcontrolsproxyfloat_class",
+      "label": "AnimDetailControlsProxyFloat",
+      "file_type": "code",
+      "source_file": "AnimDetailControlsProxyFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_kalmanfloat_class",
+      "label": "RigUnit_KalmanFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__KalmanFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_kalmanfloat_class",
+      "label": "RigVMFunction_KalmanFloat",
+      "file_type": "code",
+      "source_file": "RigUnit__KalmanFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatestaticmeshlodprocess_collisionsettings_class",
+      "label": "GenerateStaticMeshLODProcess_CollisionSettings",
+      "file_type": "code",
+      "source_file": "GenerateStaticMeshLODProcess_CollisionSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skeletalmeshatom_class",
+      "label": "SkeletalMeshAtom",
+      "file_type": "code",
+      "source_file": "SkeletalMesh Atom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_userdefinedevent_class",
+      "label": "RigVMFunction_UserDefinedEvent",
+      "file_type": "code",
+      "source_file": "RigVMFunction__UserDefinedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenepropertytrackextensions_class",
+      "label": "MovieScenePropertyTrackExtensions",
+      "file_type": "code",
+      "source_file": "MovieScenePropertyTrackExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dcpnodetransformresult_class",
+      "label": "DCPNodeTransformResult",
+      "file_type": "code",
+      "source_file": "DCPNodeTransformResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "importsubsystem_onassetpreimport_dyn_class",
+      "label": "ImportSubsystem_OnAssetPreImport_Dyn",
+      "file_type": "code",
+      "source_file": "ImportSubsystem__OnAssetPreImport__Dyn Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesworldterrainprecisionmode_enum",
+      "label": "AesWorldTerrainPrecisionMode",
+      "file_type": "code",
+      "source_file": "AesWorldTerrainPrecisionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_applylimits_class",
+      "label": "AnimNode_ApplyLimits",
+      "file_type": "code",
+      "source_file": "AnimNode_ApplyLimits Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpshapeeditorapi_class",
+      "label": "WdpShapeEditorAPI",
+      "file_type": "code",
+      "source_file": "WdpShapeEditorAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesmodelregistrysourcechanged_class",
+      "label": "AesModelRegistrySourceChanged",
+      "file_type": "code",
+      "source_file": "AesModelRegistrySourceChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaratypedefinition_class",
+      "label": "NiagaraTypeDefinition",
+      "file_type": "code",
+      "source_file": "NiagaraTypeDefinition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multilineeditabletext_onmultilineeditabletextchangedevent_class",
+      "label": "MultiLineEditableText_OnMultiLineEditableTextChangedEvent",
+      "file_type": "code",
+      "source_file": "MultiLineEditableText__OnMultiLineEditableTextChangedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pbikrootbehavior_enum",
+      "label": "PBIKRootBehavior",
+      "file_type": "code",
+      "source_file": "PBIKRootBehavior Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormul_class",
+      "label": "RigVMFunction_MathVectorMul",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "volumelightingmethod_enum",
+      "label": "VolumeLightingMethod",
+      "file_type": "code",
+      "source_file": "VolumeLightingMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionparticlesize_class",
+      "label": "MaterialExpressionParticleSize",
+      "file_type": "code",
+      "source_file": "MaterialExpressionParticleSize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lensfile_class",
+      "label": "LensFile",
+      "file_type": "code",
+      "source_file": "LensFile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_metadata_types_concept",
+      "label": "PCG Metadata Types System",
+      "file_type": "code",
+      "source_file": "PCGCreateAttributeSetSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig_item_comparison_concept",
+      "label": "Control Rig Item Comparison",
+      "file_type": "code",
+      "source_file": "RigUnit_ItemNotEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lens_calibration_data_concept",
+      "label": "Lens Calibration Data Management",
+      "file_type": "code",
+      "source_file": "LensFile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencer_property_track_scripting_concept",
+      "label": "Sequencer Property Track Scripting",
+      "file_type": "code",
+      "source_file": "MovieScenePropertyTrackExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_math_operations_concept",
+      "label": "RigVM Mathematical Operations",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathVectorMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "pcgcreateattributesetsettings_class",
+      "target": "pcg_metadata_types_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGCreateAttributeSetSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_kalmanfloat_class",
+      "target": "rigvmfunction_kalmanfloat_class",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__KalmanFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itemnotequals_class",
+      "target": "control_rig_item_comparison_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ItemNotEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormul_class",
+      "target": "rigvm_math_operations_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathVectorMul Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviescenepropertytrackextensions_class",
+      "target": "sequencer_property_track_scripting_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieScenePropertyTrackExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lensfile_class",
+      "target": "lens_calibration_data_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LensFile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormul_class",
+      "target": "rigvmfunction_kalmanfloat_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathVectorMul Objects.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "animnode_applylimits_class",
+      "target": "rigunit_itemnotequals_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode_ApplyLimits Objects.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "optimusnodepin_class",
+      "target": "rigvmfunction_userdefinedevent_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "OptimusNodePin Objects.md",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "niagaratypedefinition_class",
+      "target": "pcg_metadata_types_concept",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "NiagaraTypeDefinition Objects.md",
+      "source_location": null,
+      "weight": 0.72
+    },
+    {
+      "source": "dcpnodetransformresult_class",
+      "target": "rigvm_math_operations_concept",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DCPNodeTransformResult Objects.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "skeletalmeshatom_class",
+      "target": "animnode_applylimits_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SkeletalMesh Atom Objects.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "importsubsystem_onassetpreimport_dyn_class",
+      "target": "lensfile_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ImportSubsystem__OnAssetPreImport__Dyn Objects.md",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "aesworldterrainprecisionmode_enum",
+      "target": "generatestaticmeshlodprocess_collisionsettings_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.68,
+      "source_file": "AesWorldTerrainPrecisionMode Objects.md",
+      "source_location": null,
+      "weight": 0.68
+    },
+    {
+      "source": "materialexpressionparticlesize_class",
+      "target": "niagaratypedefinition_class",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MaterialExpressionParticleSize Objects.md",
+      "source_location": null,
+      "weight": 0.7
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_system",
+      "label": "Control Rig System Components",
+      "nodes": [
+        "rigunit_itemnotequals_class",
+        "animdetailcontrolsproxyfloat_class",
+        "rigvmfunction_userdefinedevent_class",
+        "rigvmfunction_mathvectormul_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_ItemNotEquals Objects.md"
+    },
+    {
+      "id": "deformation_graph_system",
+      "label": "Deformation and Mesh Processing System",
+      "nodes": [
+        "optimusnodepin_class",
+        "generatestaticmeshlodprocess_collisionsettings_class",
+        "animnode_applylimits_class",
+        "skeletalmeshatom_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "OptimusNodePin Objects.md"
+    },
+    {
+      "id": "event_driven_systems",
+      "label": "Event-Driven Architecture Components",
+      "nodes": [
+        "aesmodelregistrysourcechanged_class",
+        "importsubsystem_onassetpreimport_dyn_class",
+        "multilineeditabletext_onmultilineeditabletextchangedevent_class"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "AesModelRegistrySourceChanged Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

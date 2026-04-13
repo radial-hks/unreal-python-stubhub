@@ -1,0 +1,420 @@
+{
+  "nodes": [
+    {
+      "id": "perplatformsettings_perplatformsettings",
+      "label": "PerPlatformSettings",
+      "file_type": "code",
+      "source_file": "PerPlatformSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animsinglenodeinstance_animsinglenodeinstance",
+      "label": "AnimSingleNodeInstance",
+      "file_type": "code",
+      "source_file": "AnimSingleNodeInstance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "meshproxysettings_meshproxysettings",
+      "label": "MeshProxySettings",
+      "file_type": "code",
+      "source_file": "MeshProxySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setmulticontrolfloat_rigunit_setmulticontrolfloat",
+      "label": "RigUnit_SetMultiControlFloat",
+      "file_type": "code",
+      "source_file": "RigUnit_SetMultiControlFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timecodecustomattributenamesettings_timecodecustomattributenamesettings",
+      "label": "TimecodeCustomAttributeNameSettings",
+      "file_type": "code",
+      "source_file": "TimecodeCustomAttributeNameSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathboolbinaryaggregateop_rigunit_mathboolbinaryaggregateop",
+      "label": "RigUnit_MathBoolBinaryAggregateOp",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBoolBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadgeometrytype_roadgeometrytype",
+      "label": "RoadGeometryType",
+      "file_type": "code",
+      "source_file": "RoadGeometryType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerariglayer_camerariglayer",
+      "label": "CameraRigLayer",
+      "file_type": "code",
+      "source_file": "CameraRigLayer Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraemitterdefaultsummarystate_niagaraemitterdefaultsummarystate",
+      "label": "NiagaraEmitterDefaultSummaryState",
+      "file_type": "code",
+      "source_file": "NiagaraEmitterDefaultSummaryState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blendspaceaxis_blendspaceaxis",
+      "label": "BlendSpaceAxis",
+      "file_type": "code",
+      "source_file": "BlendSpaceAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_accumulatevectorrange_rigvmfunction_accumulatevectorrange",
+      "label": "RigVMFunction_AccumulateVectorRange",
+      "file_type": "code",
+      "source_file": "RigVMFunction__AccumulateVectorRange Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actorbegincursoroversignature_actorbegincursoroversignature",
+      "label": "ActorBeginCursorOverSignature",
+      "file_type": "code",
+      "source_file": "ActorBeginCursorOverSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesroadeditorcommandparams_modify_aesroadeditorcommandparams_modify",
+      "label": "AesRoadEditorCommandParams_Modify",
+      "file_type": "code",
+      "source_file": "AesRoadEditorCommandParams__Modify Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline",
+      "label": "RigUnit_PositionFromControlRigSpline",
+      "file_type": "code",
+      "source_file": "RigUnit__PositionFromControlRigSpline Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actormodifiercorebase_actormodifiercorebase",
+      "label": "ActorModifierCoreBase",
+      "file_type": "code",
+      "source_file": "ActorModifierCoreBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleunaryop_rigunit_mathdoubleunaryop",
+      "label": "RigUnit_MathDoubleUnaryOp",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaanchors_avaanchors",
+      "label": "AvaAnchors",
+      "file_type": "code",
+      "source_file": "AvaAnchors Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "windowentitypickatom_windowentitypickatom",
+      "label": "WindowEntityPickAtom",
+      "file_type": "code",
+      "source_file": "WindowEntityPickAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "forcefeedbackattenuation_forcefeedbackattenuation",
+      "label": "ForceFeedbackAttenuation",
+      "file_type": "code",
+      "source_file": "ForceFeedbackAttenuation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstrateverticallayering_materialexpressionsubstrateverticallayering",
+      "label": "MaterialExpressionSubstrateVerticalLayering",
+      "file_type": "code",
+      "source_file": "MaterialExpressionSubstrateVerticalLayering Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cameracollisionmode_cameracollisionmode",
+      "label": "CameraCollisionMode",
+      "file_type": "code",
+      "source_file": "CameraCollisionMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringconcat_rigvmfunction_stringconcat",
+      "label": "RigVMFunction_StringConcat",
+      "file_type": "code",
+      "source_file": "RigVMFunction_StringConcat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animsinglenodeinstance_animsinglenodeinstance",
+      "target": "meshproxysettings_meshproxysettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimSingleNodeInstance Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolfloat_rigunit_setmulticontrolfloat",
+      "target": "rigvmfunction_accumulatevectorrange_rigvmfunction_accumulatevectorrange",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SetMultiControlFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setmulticontrolfloat_rigunit_setmulticontrolfloat",
+      "target": "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetMultiControlFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolbinaryaggregateop_rigunit_mathboolbinaryaggregateop",
+      "target": "rigunit_mathdoubleunaryop_rigunit_mathdoubleunaryop",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathBoolBinaryAggregateOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatevectorrange_rigvmfunction_accumulatevectorrange",
+      "target": "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__AccumulateVectorRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_accumulatevectorrange_rigvmfunction_accumulatevectorrange",
+      "target": "rigvmfunction_stringconcat_rigvmfunction_stringconcat",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__AccumulateVectorRange Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerariglayer_camerariglayer",
+      "target": "cameracollisionmode_cameracollisionmode",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CameraRigLayer Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadgeometrytype_roadgeometrytype",
+      "target": "aesroadeditorcommandparams_modify_aesroadeditorcommandparams_modify",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RoadGeometryType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timecodecustomattributenamesettings_timecodecustomattributenamesettings",
+      "target": "perplatformsettings_perplatformsettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "TimecodeCustomAttributeNameSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraemitterdefaultsummarystate_niagaraemitterdefaultsummarystate",
+      "target": "camerariglayer_camerariglayer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "NiagaraEmitterDefaultSummaryState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actormodifiercorebase_actormodifiercorebase",
+      "target": "forcefeedbackattenuation_forcefeedbackattenuation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "ActorModifierCoreBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "actorbegincursoroversignature_actorbegincursoroversignature",
+      "target": "windowentitypickatom_windowentitypickatom",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ActorBeginCursorOverSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "meshproxysettings_meshproxysettings",
+      "target": "materialexpressionsubstrateverticallayering_materialexpressionsubstrateverticallayering",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MeshProxySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigunit_mathboolbinaryaggregateop_rigunit_mathboolbinaryaggregateop",
+        "rigunit_mathdoubleunaryop_rigunit_mathdoubleunaryop",
+        "rigvmfunction_accumulatevectorrange_rigvmfunction_accumulatevectorrange",
+        "rigvmfunction_stringconcat_rigvmfunction_stringconcat"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathBoolBinaryAggregateOp Objects.md"
+    },
+    {
+      "id": "control_rig_operations",
+      "label": "Control Rig Hierarchy and Spline Operations",
+      "nodes": [
+        "rigunit_setmulticontrolfloat_rigunit_setmulticontrolfloat",
+        "rigunit_positionfromcontrolrigspline_rigunit_positionfromcontrolrigspline"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_SetMultiControlFloat Objects.md"
+    },
+    {
+      "id": "camera_system_enums",
+      "label": "Camera System Configuration Enums",
+      "nodes": [
+        "camerariglayer_camerariglayer",
+        "cameracollisionmode_cameracollisionmode"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CameraRigLayer Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

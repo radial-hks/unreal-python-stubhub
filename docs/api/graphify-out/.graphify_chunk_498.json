@@ -1,0 +1,665 @@
+{
+  "nodes": [
+    {
+      "id": "blackboardentry_blackboardentry",
+      "label": "BlackboardEntry",
+      "file_type": "document",
+      "source_file": "BlackboardEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setanimationchannelbasefromitem_rigunit_setanimationchannelbasefromitem",
+      "label": "RigUnit_SetAnimationChannelBaseFromItem",
+      "file_type": "document",
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "buildlevel_buildlevel",
+      "label": "BuildLevel",
+      "file_type": "document",
+      "source_file": "BuildLevel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cesiumpropertytable_cesiumpropertytable",
+      "label": "CesiumPropertyTable",
+      "file_type": "document",
+      "source_file": "CesiumPropertyTable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialsearchlocation_materialsearchlocation",
+      "label": "MaterialSearchLocation",
+      "file_type": "document",
+      "source_file": "MaterialSearchLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpsetinteractivemodeparams_wdpsetinteractivemodeparams",
+      "label": "WdpSetInteractiveModeParams",
+      "file_type": "document",
+      "source_file": "WdpSetInteractiveModeParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constraintinstancebase_constraintinstancebase",
+      "label": "ConstraintInstanceBase",
+      "file_type": "document",
+      "source_file": "ConstraintInstanceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "focallengthpointinfo_focallengthpointinfo",
+      "label": "FocalLengthPointInfo",
+      "file_type": "document",
+      "source_file": "FocalLengthPointInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleconstpi_rigvmfunction_mathdoubleconstpi",
+      "label": "RigVMFunction_MathDoubleConstPi",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleConstPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerashake_camerashake",
+      "label": "CameraShake",
+      "file_type": "document",
+      "source_file": "CameraShake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptmeshoffsetoptions_geometryscriptmeshoffsetoptions",
+      "label": "GeometryScriptMeshOffsetOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptMeshOffsetOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curveeditorsmartreducefilter_curveeditorsmartreducefilter",
+      "label": "CurveEditorSmartReduceFilter",
+      "file_type": "document",
+      "source_file": "CurveEditorSmartReduceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaossolverengineblueprintlibrary_chaossolverengineblueprintlibrary",
+      "label": "ChaosSolverEngineBlueprintLibrary",
+      "file_type": "document",
+      "source_file": "ChaosSolverEngineBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionmeshpainttextureobject_materialexpressionmeshpainttextureobject",
+      "label": "MaterialExpressionMeshPaintTextureObject",
+      "file_type": "document",
+      "source_file": "MaterialExpressionMeshPaintTextureObject Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosvdskysphereinterface_chaosvdskysphereinterface",
+      "label": "ChaosVDSkySphereInterface",
+      "file_type": "document",
+      "source_file": "ChaosVDSkySphereInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanworldlayersettings_urbanworldlayersettings",
+      "label": "UrbanWorldLayerSettings",
+      "file_type": "document",
+      "source_file": "UrbanWorldLayerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitydataarr_entitydataarr",
+      "label": "EntityDataArr",
+      "file_type": "document",
+      "source_file": "EntityDataArr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "asyncniagaracapturesimcache_oncapturecomplete_asyncniagaracapturesimcache_oncapturecomplete",
+      "label": "AsyncNiagaraCaptureSimCache_OnCaptureComplete",
+      "file_type": "document",
+      "source_file": "AsyncNiagaraCaptureSimCache__OnCaptureComplete Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmedadatavectoroperation_pcgmedadatavectoroperation",
+      "label": "PCGMedadataVectorOperation",
+      "file_type": "document",
+      "source_file": "PCGMedadataVectorOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilityasync_waitgameplaytag_asyncwaitgameplaytagdelegate_abilityasync_waitgameplaytag_asyncwaitgameplaytagdelegate",
+      "label": "AbilityAsync_WaitGameplayTag_AsyncWaitGameplayTagDelegate",
+      "file_type": "document",
+      "source_file": "AbilityAsync__WaitGameplayTag__AsyncWaitGameplayTagDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onrootmotionmodifierdelegate_onrootmotionmodifierdelegate",
+      "label": "OnRootMotionModifierDelegate",
+      "file_type": "document",
+      "source_file": "OnRootMotionModifierDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_savecachedpose_animnode_savecachedpose",
+      "label": "AnimNode_SaveCachedPose",
+      "file_type": "document",
+      "source_file": "AnimNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blackboardkeytype_blackboardkeytype",
+      "label": "BlackboardKeyType",
+      "file_type": "document",
+      "source_file": "BlackboardEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelfromitembase_rigunit_getanimationchannelfromitembase",
+      "label": "RigUnit_GetAnimationChannelFromItemBase",
+      "file_type": "document",
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigexecutecontext_controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "document",
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigelementkey_rigelementkey",
+      "label": "RigElementKey",
+      "file_type": "document",
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "focallengthinfo_focallengthinfo",
+      "label": "FocalLengthInfo",
+      "file_type": "document",
+      "source_file": "FocalLengthPointInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleconstant_rigvmfunction_mathdoubleconstant",
+      "label": "RigVMFunction_MathDoubleConstant",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathDoubleConstPi Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "legacycamerashake_legacycamerashake",
+      "label": "LegacyCameraShake",
+      "file_type": "document",
+      "source_file": "CameraShake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartreduceparams_smartreduceparams",
+      "label": "SmartReduceParams",
+      "file_type": "document",
+      "source_file": "CurveEditorSmartReduceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chaosphysicscollisioninfo_chaosphysicscollisioninfo",
+      "label": "ChaosPhysicsCollisionInfo",
+      "file_type": "document",
+      "source_file": "ChaosSolverEngineBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hitresult_hitresult",
+      "label": "HitResult",
+      "file_type": "document",
+      "source_file": "ChaosSolverEngineBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "directionallight_directionallight",
+      "label": "DirectionalLight",
+      "file_type": "document",
+      "source_file": "ChaosVDSkySphereInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanworldlayertype_urbanworldlayertype",
+      "label": "UrbanWorldLayerType",
+      "file_type": "document",
+      "source_file": "UrbanWorldLayerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpjsonobjectwrapper_wdpjsonobjectwrapper",
+      "label": "WdpJsonObjectWrapper",
+      "file_type": "document",
+      "source_file": "EntityDataArr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgmetadatavectoroperation_pcgmetadatavectoroperation",
+      "label": "PCGMetadataVectorOperation",
+      "file_type": "document",
+      "source_file": "PCGMedadataVectorOperation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "motionwarpingcomponent_motionwarpingcomponent",
+      "label": "MotionWarpingComponent",
+      "file_type": "document",
+      "source_file": "OnRootMotionModifierDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rootmotionmodifier_rootmotionmodifier",
+      "label": "RootMotionModifier",
+      "file_type": "document",
+      "source_file": "OnRootMotionModifierDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "poselink_poselink",
+      "label": "PoseLink",
+      "file_type": "document",
+      "source_file": "AnimNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "blackboardentry_blackboardentry",
+      "target": "blackboardkeytype_blackboardkeytype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BlackboardEntry Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setanimationchannelbasefromitem_rigunit_setanimationchannelbasefromitem",
+      "target": "rigunit_getanimationchannelfromitembase_rigunit_getanimationchannelfromitembase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setanimationchannelbasefromitem_rigunit_setanimationchannelbasefromitem",
+      "target": "controlrigexecutecontext_controlrigexecutecontext",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setanimationchannelbasefromitem_rigunit_setanimationchannelbasefromitem",
+      "target": "rigelementkey_rigelementkey",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "focallengthpointinfo_focallengthpointinfo",
+      "target": "focallengthinfo_focallengthinfo",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FocalLengthPointInfo Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleconstpi_rigvmfunction_mathdoubleconstpi",
+      "target": "rigvmfunction_mathdoubleconstant_rigvmfunction_mathdoubleconstant",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleConstPi Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerashake_camerashake",
+      "target": "legacycamerashake_legacycamerashake",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraShake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curveeditorsmartreducefilter_curveeditorsmartreducefilter",
+      "target": "smartreduceparams_smartreduceparams",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveEditorSmartReduceFilter Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaossolverengineblueprintlibrary_chaossolverengineblueprintlibrary",
+      "target": "chaosphysicscollisioninfo_chaosphysicscollisioninfo",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosSolverEngineBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaossolverengineblueprintlibrary_chaossolverengineblueprintlibrary",
+      "target": "hitresult_hitresult",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosSolverEngineBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chaosvdskysphereinterface_chaosvdskysphereinterface",
+      "target": "directionallight_directionallight",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ChaosVDSkySphereInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanworldlayersettings_urbanworldlayersettings",
+      "target": "urbanworldlayertype_urbanworldlayertype",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanWorldLayerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entitydataarr_entitydataarr",
+      "target": "wdpjsonobjectwrapper_wdpjsonobjectwrapper",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityDataArr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgmedadatavectoroperation_pcgmedadatavectoroperation",
+      "target": "pcgmetadatavectoroperation_pcgmetadatavectoroperation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGMedadataVectorOperation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onrootmotionmodifierdelegate_onrootmotionmodifierdelegate",
+      "target": "motionwarpingcomponent_motionwarpingcomponent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnRootMotionModifierDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onrootmotionmodifierdelegate_onrootmotionmodifierdelegate",
+      "target": "rootmotionmodifier_rootmotionmodifier",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnRootMotionModifierDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_savecachedpose_animnode_savecachedpose",
+      "target": "poselink_poselink",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode__SaveCachedPose Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "buildlevel_buildlevel",
+      "target": "urbanworldlayersettings_urbanworldlayersettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BuildLevel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerashake_camerashake",
+      "target": "focallengthpointinfo_focallengthpointinfo",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CameraShake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setanimationchannelbasefromitem_rigunit_setanimationchannelbasefromitem",
+      "target": "animnode_savecachedpose_animnode_savecachedpose",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "animation_pose_processing_system",
+      "label": "Animation and Pose Processing System",
+      "nodes": [
+        "rigunit_setanimationchannelbasefromitem_rigunit_setanimationchannelbasefromitem",
+        "animnode_savecachedpose_animnode_savecachedpose",
+        "onrootmotionmodifierdelegate_onrootmotionmodifierdelegate"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit_SetAnimationChannelBaseFromItem Objects.md"
+    },
+    {
+      "id": "camera_system_components",
+      "label": "Camera System Components",
+      "nodes": [
+        "camerashake_camerashake",
+        "focallengthpointinfo_focallengthpointinfo",
+        "focallengthinfo_focallengthinfo"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CameraShake Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

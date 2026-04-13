@@ -1,0 +1,441 @@
+{
+  "nodes": [
+    {
+      "id": "PCGCreateCollisionDataSettings_PCGCreateCollisionDataSettings",
+      "label": "PCGCreateCollisionDataSettings",
+      "file_type": "document",
+      "source_file": "PCGCreateCollisionDataSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "glTFRuntimeOnSkeletalMeshCreated_glTFRuntimeOnSkeletalMeshCreated",
+      "label": "glTFRuntimeOnSkeletalMeshCreated",
+      "file_type": "document",
+      "source_file": "glTFRuntimeOnSkeletalMeshCreated Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathQuaternionFromAxisAndAngle_RigVMFunction_MathQuaternionFromAxisAndAngle",
+      "label": "RigVMFunction_MathQuaternionFromAxisAndAngle",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathQuaternionFromAxisAndAngle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SmartObjectSlotIndex_SmartObjectSlotIndex",
+      "label": "SmartObjectSlotIndex",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotIndex Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "BTFunctionLibrary_BTFunctionLibrary",
+      "label": "BTFunctionLibrary",
+      "file_type": "document",
+      "source_file": "BTFunctionLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LiveLinkGamepadInputDeviceFrameData_LiveLinkGamepadInputDeviceFrameData",
+      "label": "LiveLinkGamepadInputDeviceFrameData",
+      "file_type": "document",
+      "source_file": "LiveLinkGamepadInputDeviceFrameData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "WdpGlobalGetCoordZTypeParams_WdpGlobalGetCoordZTypeParams",
+      "label": "WdpGlobalGetCoordZTypeParams",
+      "file_type": "document",
+      "source_file": "WdpGlobalGetCoordZTypeParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "Vector_NetQuantize_Vector_NetQuantize",
+      "label": "Vector_NetQuantize",
+      "file_type": "document",
+      "source_file": "Vector__NetQuantize Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "LandscapeBlueprintBrush_LandscapeBlueprintBrush",
+      "label": "LandscapeBlueprintBrush",
+      "file_type": "document",
+      "source_file": "LandscapeBlueprintBrush Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGPinPropertiesBlueprintHelpers_PCGPinPropertiesBlueprintHelpers",
+      "label": "PCGPinPropertiesBlueprintHelpers",
+      "file_type": "document",
+      "source_file": "PCGPinPropertiesBlueprintHelpers Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigUnit_MathFloatMax_RigUnit_MathFloatMax",
+      "label": "RigUnit_MathFloatMax",
+      "file_type": "document",
+      "source_file": "RigUnit__MathFloatMax Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "EditorPythonScripting_EditorPythonScripting",
+      "label": "EditorPythonScripting",
+      "file_type": "document",
+      "source_file": "EditorPythonScripting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SoundNodeLooping_SoundNodeLooping",
+      "label": "SoundNodeLooping",
+      "file_type": "document",
+      "source_file": "SoundNodeLooping Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SkinWeightModifier_SkinWeightModifier",
+      "label": "SkinWeightModifier",
+      "file_type": "document",
+      "source_file": "SkinWeightModifier Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "MovieSceneTimeWarpTrack_MovieSceneTimeWarpTrack",
+      "label": "MovieSceneTimeWarpTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneTimeWarpTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ComparisonTolerance_ComparisonTolerance",
+      "label": "ComparisonTolerance",
+      "file_type": "document",
+      "source_file": "ComparisonTolerance Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "CameraPresetRotator_CameraPresetRotator",
+      "label": "CameraPresetRotator",
+      "file_type": "document",
+      "source_file": "CameraPresetRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "NiagaraDataInterfaceAudioPlayerSettings_NiagaraDataInterfaceAudioPlayerSettings",
+      "label": "NiagaraDataInterfaceAudioPlayerSettings",
+      "file_type": "document",
+      "source_file": "NiagaraDataInterfaceAudioPlayerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "GenlockedCustomTimeStep_GenlockedCustomTimeStep",
+      "label": "GenlockedCustomTimeStep",
+      "file_type": "document",
+      "source_file": "GenlockedCustomTimeStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "PCGTextureData_PCGTextureData",
+      "label": "PCGTextureData",
+      "file_type": "document",
+      "source_file": "PCGTextureData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "SoundNodeBranch_SoundNodeBranch",
+      "label": "SoundNodeBranch",
+      "file_type": "document",
+      "source_file": "SoundNodeBranch Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "RigVMFunction_MathFloatSub_RigVMFunction_MathFloatSub",
+      "label": "RigVMFunction_MathFloatSub",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathFloatSub Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "PCGCreateCollisionDataSettings_PCGCreateCollisionDataSettings",
+      "target": "BTFunctionLibrary_BTFunctionLibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "PCGCreateCollisionDataSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGPinPropertiesBlueprintHelpers_PCGPinPropertiesBlueprintHelpers",
+      "target": "BTFunctionLibrary_BTFunctionLibrary",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGPinPropertiesBlueprintHelpers Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGPinPropertiesBlueprintHelpers_PCGPinPropertiesBlueprintHelpers",
+      "target": "EditorPythonScripting_EditorPythonScripting",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGPinPropertiesBlueprintHelpers Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "BTFunctionLibrary_BTFunctionLibrary",
+      "target": "EditorPythonScripting_EditorPythonScripting",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "BTFunctionLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "SoundNodeLooping_SoundNodeLooping",
+      "target": "SoundNodeBranch_SoundNodeBranch",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SoundNodeLooping Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "glTFRuntimeOnSkeletalMeshCreated_glTFRuntimeOnSkeletalMeshCreated",
+      "target": "SkinWeightModifier_SkinWeightModifier",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "glTFRuntimeOnSkeletalMeshCreated Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigVMFunction_MathQuaternionFromAxisAndAngle_RigVMFunction_MathQuaternionFromAxisAndAngle",
+      "target": "RigVMFunction_MathFloatSub_RigVMFunction_MathFloatSub",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__MathQuaternionFromAxisAndAngle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "RigUnit_MathFloatMax_RigUnit_MathFloatMax",
+      "target": "RigVMFunction_MathFloatSub_RigVMFunction_MathFloatSub",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__MathFloatMax Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGCreateCollisionDataSettings_PCGCreateCollisionDataSettings",
+      "target": "PCGTextureData_PCGTextureData",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGCreateCollisionDataSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "PCGPinPropertiesBlueprintHelpers_PCGPinPropertiesBlueprintHelpers",
+      "target": "PCGTextureData_PCGTextureData",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PCGPinPropertiesBlueprintHelpers Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "LiveLinkGamepadInputDeviceFrameData_LiveLinkGamepadInputDeviceFrameData",
+      "target": "Vector_NetQuantize_Vector_NetQuantize",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "LiveLinkGamepadInputDeviceFrameData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "CameraPresetRotator_CameraPresetRotator",
+      "target": "RigVMFunction_MathQuaternionFromAxisAndAngle_RigVMFunction_MathQuaternionFromAxisAndAngle",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "CameraPresetRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "NiagaraDataInterfaceAudioPlayerSettings_NiagaraDataInterfaceAudioPlayerSettings",
+      "target": "SoundNodeLooping_SoundNodeLooping",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "NiagaraDataInterfaceAudioPlayerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "NiagaraDataInterfaceAudioPlayerSettings_NiagaraDataInterfaceAudioPlayerSettings",
+      "target": "SoundNodeBranch_SoundNodeBranch",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "NiagaraDataInterfaceAudioPlayerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "MovieSceneTimeWarpTrack_MovieSceneTimeWarpTrack",
+      "target": "GenlockedCustomTimeStep_GenlockedCustomTimeStep",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MovieSceneTimeWarpTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "pcg_system_classes",
+      "label": "PCG System Classes",
+      "nodes": [
+        "PCGCreateCollisionDataSettings_PCGCreateCollisionDataSettings",
+        "PCGPinPropertiesBlueprintHelpers_PCGPinPropertiesBlueprintHelpers",
+        "PCGTextureData_PCGTextureData"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "PCGCreateCollisionDataSettings Objects.md"
+    },
+    {
+      "id": "rig_math_functions",
+      "label": "RigVM Math Functions",
+      "nodes": [
+        "RigVMFunction_MathQuaternionFromAxisAndAngle_RigVMFunction_MathQuaternionFromAxisAndAngle",
+        "RigUnit_MathFloatMax_RigUnit_MathFloatMax",
+        "RigVMFunction_MathFloatSub_RigVMFunction_MathFloatSub"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigVMFunction__MathQuaternionFromAxisAndAngle Objects.md"
+    },
+    {
+      "id": "sound_system_nodes",
+      "label": "Sound System Nodes",
+      "nodes": [
+        "SoundNodeLooping_SoundNodeLooping",
+        "SoundNodeBranch_SoundNodeBranch",
+        "NiagaraDataInterfaceAudioPlayerSettings_NiagaraDataInterfaceAudioPlayerSettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SoundNodeLooping Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

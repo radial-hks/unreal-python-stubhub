@@ -1,0 +1,1111 @@
+{
+  "nodes": [
+    {
+      "id": "geometryscriptdebugmessagetype",
+      "label": "GeometryScriptDebugMessageType",
+      "file_type": "document",
+      "source_file": "GeometryScriptDebugMessageType Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscripting_plugin",
+      "label": "GeometryScripting Plugin",
+      "file_type": "document",
+      "source_file": "GeometryScriptDebugMessageType Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_polesolvereffector",
+      "label": "IKRig_PoleSolverEffector",
+      "file_type": "document",
+      "source_file": "IKRig_PoleSolverEffector Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_plugin",
+      "label": "IKRig Plugin",
+      "file_type": "document",
+      "source_file": "IKRig_PoleSolverEffector Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setchannelhosts",
+      "label": "RigUnit_SetChannelHosts",
+      "file_type": "document",
+      "source_file": "RigUnit_SetChannelHosts Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "document",
+      "source_file": "RigUnit_SetChannelHosts Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression_arccosine",
+      "label": "MaterialExpressionArccosine",
+      "file_type": "document",
+      "source_file": "MaterialExpressionArccosine Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "document",
+      "source_file": "MaterialExpressionArccosine Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "positionhistory",
+      "label": "PositionHistory",
+      "file_type": "document",
+      "source_file": "PositionHistory Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphruntime_module",
+      "label": "AnimGraphRuntime Module",
+      "file_type": "document",
+      "source_file": "PositionHistory Objects.md",
+      "source_location": "15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelerfencepolylineatom",
+      "label": "ModelerFencePolylineAtom",
+      "file_type": "document",
+      "source_file": "ModelerFencePolylineAtom Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesruntimemodeler_plugin",
+      "label": "AesRuntimeModeler Plugin",
+      "file_type": "document",
+      "source_file": "ModelerFencePolylineAtom Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddphysicsjoint",
+      "label": "RigUnit_HierarchyAddPhysicsJoint",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddPhysicsJoint Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_setrelativetransformforitem",
+      "label": "RigUnit_SetRelativeTransformForItem",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRelativeTransformForItem Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onquartzmetronomeeventbp",
+      "label": "OnQuartzMetronomeEventBP",
+      "file_type": "document",
+      "source_file": "OnQuartzMetronomeEventBP Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "projectilemovementcomponent_onprojectilebouncedelegate",
+      "label": "ProjectileMovementComponent_OnProjectileBounceDelegate",
+      "file_type": "document",
+      "source_file": "ProjectileMovementComponent__OnProjectileBounceDelegate Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgstaticmeshspawnercontext",
+      "label": "PCGStaticMeshSpawnerContext",
+      "file_type": "document",
+      "source_file": "PCGStaticMeshSpawnerContext Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_plugin",
+      "label": "PCG Plugin",
+      "file_type": "document",
+      "source_file": "PCGStaticMeshSpawnerContext Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avadisplaymediaoutput",
+      "label": "AvaDisplayMediaOutput",
+      "file_type": "document",
+      "source_file": "AvaDisplayMediaOutput Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "repeatedactiondelegate",
+      "label": "RepeatedActionDelegate",
+      "file_type": "document",
+      "source_file": "RepeatedActionDelegate Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilities_plugin",
+      "label": "GameplayAbilities Plugin",
+      "file_type": "document",
+      "source_file": "RepeatedActionDelegate Objects.md",
+      "source_location": "14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudactor",
+      "label": "LidarPointCloudActor",
+      "file_type": "document",
+      "source_file": "LidarPointCloudActor Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloud_plugin",
+      "label": "LidarPointCloud Plugin",
+      "file_type": "document",
+      "source_file": "LidarPointCloudActor Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getboolanimationchannel",
+      "label": "RigUnit_GetBoolAnimationChannel",
+      "file_type": "document",
+      "source_file": "RigUnit_GetBoolAnimationChannel Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_removemetadata",
+      "label": "RigUnit_RemoveMetadata",
+      "file_type": "document",
+      "source_file": "RigUnit__RemoveMetadata Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animcurvecompressionsettings",
+      "label": "AnimCurveCompressionSettings",
+      "file_type": "document",
+      "source_file": "AnimCurveCompressionSettings Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "slateaccessiblewidgetdata_gettext",
+      "label": "SlateAccessibleWidgetData_GetText",
+      "file_type": "document",
+      "source_file": "SlateAccessibleWidgetData_GetText Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "umg_module",
+      "label": "UMG Module",
+      "file_type": "document",
+      "source_file": "SlateAccessibleWidgetData_GetText Objects.md",
+      "source_location": "14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editorcompositesection",
+      "label": "EditorCompositeSection",
+      "file_type": "document",
+      "source_file": "EditorCompositeSection Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unrealed_module",
+      "label": "UnrealEd Module",
+      "file_type": "document",
+      "source_file": "EditorCompositeSection Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "presetentitydata",
+      "label": "PresetEntityData",
+      "file_type": "document",
+      "source_file": "PresetEntityData Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesruntimecore_plugin",
+      "label": "AesRuntimeCore Plugin",
+      "file_type": "document",
+      "source_file": "PresetEntityData Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionmirrortransform",
+      "label": "RigVMFunction_MathQuaternionMirrorTransform",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionMirrorTransform Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_plugin",
+      "label": "RigVM Plugin",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionMirrorTransform Objects.md",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "generatedmesharealight",
+      "label": "GeneratedMeshAreaLight",
+      "file_type": "document",
+      "source_file": "GeneratedMeshAreaLight Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "enumbase",
+      "label": "EnumBase",
+      "file_type": "document",
+      "source_file": "GeometryScriptDebugMessageType Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "object",
+      "label": "Object",
+      "file_type": "document",
+      "source_file": "IKRig_PoleSolverEffector Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_dynamichierarchybasemutable",
+      "label": "RigUnit_DynamicHierarchyBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_SetChannelHosts Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpression",
+      "label": "MaterialExpression",
+      "file_type": "document",
+      "source_file": "MaterialExpressionArccosine Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "PositionHistory Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "relativepolylineatom",
+      "label": "RelativePolylineAtom",
+      "file_type": "document",
+      "source_file": "ModelerFencePolylineAtom Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddelement",
+      "label": "RigUnit_HierarchyAddElement",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddPhysicsJoint Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__SetRelativeTransformForItem Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "delegatebase",
+      "label": "DelegateBase",
+      "file_type": "document",
+      "source_file": "OnQuartzMetronomeEventBP Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multicastdelegatebase",
+      "label": "MulticastDelegateBase",
+      "file_type": "document",
+      "source_file": "ProjectileMovementComponent__OnProjectileBounceDelegate Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgcontext",
+      "label": "PCGContext",
+      "file_type": "document",
+      "source_file": "PCGStaticMeshSpawnerContext Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avabroadcastdisplaymediaoutput",
+      "label": "AvaBroadcastDisplayMediaOutput",
+      "file_type": "document",
+      "source_file": "AvaDisplayMediaOutput Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "document",
+      "source_file": "LidarPointCloudActor Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelbase",
+      "label": "RigUnit_GetAnimationChannelBase",
+      "file_type": "document",
+      "source_file": "RigUnit_GetBoolAnimationChannel Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoranimbaseobj",
+      "label": "EditorAnimBaseObj",
+      "file_type": "document",
+      "source_file": "EditorCompositeSection Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionbase",
+      "label": "RigVMFunction_MathQuaternionBase",
+      "file_type": "document",
+      "source_file": "RigVMFunction_MathQuaternionMirrorTransform Objects.md",
+      "source_location": "4-5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spotlight",
+      "label": "SpotLight",
+      "file_type": "document",
+      "source_file": "GeneratedMeshAreaLight Objects.md",
+      "source_location": "4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "geometryscriptdebugmessagetype",
+      "target": "enumbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptDebugMessageType Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptdebugmessagetype",
+      "target": "geometryscripting_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptDebugMessageType Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_polesolvereffector",
+      "target": "object",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig_PoleSolverEffector Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_polesolvereffector",
+      "target": "ikrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig_PoleSolverEffector Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setchannelhosts",
+      "target": "rigunit_dynamichierarchybasemutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetChannelHosts Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setchannelhosts",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetChannelHosts Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpression_arccosine",
+      "target": "materialexpression",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArccosine Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpression_arccosine",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionArccosine Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "positionhistory",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PositionHistory Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "positionhistory",
+      "target": "animgraphruntime_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PositionHistory Objects.md",
+      "source_location": "15",
+      "weight": 1.0
+    },
+    {
+      "source": "modelerfencepolylineatom",
+      "target": "relativepolylineatom",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelerFencePolylineAtom Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "modelerfencepolylineatom",
+      "target": "aesruntimemodeler_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ModelerFencePolylineAtom Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddphysicsjoint",
+      "target": "rigunit_hierarchyaddelement",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddPhysicsJoint Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddphysicsjoint",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddPhysicsJoint Objects.md",
+      "source_location": "12",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativetransformforitem",
+      "target": "rigunitmutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetRelativeTransformForItem Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setrelativetransformforitem",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetRelativeTransformForItem Objects.md",
+      "source_location": "12",
+      "weight": 1.0
+    },
+    {
+      "source": "onquartzmetronomeeventbp",
+      "target": "delegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnQuartzMetronomeEventBP Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "onquartzmetronomeeventbp",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnQuartzMetronomeEventBP Objects.md",
+      "source_location": "18",
+      "weight": 1.0
+    },
+    {
+      "source": "projectilemovementcomponent_onprojectilebouncedelegate",
+      "target": "multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProjectileMovementComponent__OnProjectileBounceDelegate Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "projectilemovementcomponent_onprojectilebouncedelegate",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ProjectileMovementComponent__OnProjectileBounceDelegate Objects.md",
+      "source_location": "16",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgstaticmeshspawnercontext",
+      "target": "pcgcontext",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGStaticMeshSpawnerContext Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "pcgstaticmeshspawnercontext",
+      "target": "pcg_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGStaticMeshSpawnerContext Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "avadisplaymediaoutput",
+      "target": "avabroadcastdisplaymediaoutput",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaDisplayMediaOutput Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "repeatedactiondelegate",
+      "target": "multicastdelegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RepeatedActionDelegate Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "repeatedactiondelegate",
+      "target": "gameplayabilities_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RepeatedActionDelegate Objects.md",
+      "source_location": "14",
+      "weight": 1.0
+    },
+    {
+      "source": "lidarpointcloudactor",
+      "target": "actor",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LidarPointCloudActor Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "lidarpointcloudactor",
+      "target": "lidarpointcloud_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LidarPointCloudActor Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getboolanimationchannel",
+      "target": "rigunit_getanimationchannelbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetBoolAnimationChannel Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getboolanimationchannel",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetBoolAnimationChannel Objects.md",
+      "source_location": "12",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_removemetadata",
+      "target": "rigunitmutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__RemoveMetadata Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_removemetadata",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__RemoveMetadata Objects.md",
+      "source_location": "12",
+      "weight": 1.0
+    },
+    {
+      "source": "animcurvecompressionsettings",
+      "target": "object",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCurveCompressionSettings Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "animcurvecompressionsettings",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimCurveCompressionSettings Objects.md",
+      "source_location": "12",
+      "weight": 1.0
+    },
+    {
+      "source": "slateaccessiblewidgetdata_gettext",
+      "target": "delegatebase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateAccessibleWidgetData_GetText Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "slateaccessiblewidgetdata_gettext",
+      "target": "umg_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SlateAccessibleWidgetData_GetText Objects.md",
+      "source_location": "14",
+      "weight": 1.0
+    },
+    {
+      "source": "editorcompositesection",
+      "target": "editoranimbaseobj",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorCompositeSection Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "editorcompositesection",
+      "target": "unrealed_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorCompositeSection Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "presetentitydata",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PresetEntityData Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "presetentitydata",
+      "target": "aesruntimecore_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PresetEntityData Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionmirrortransform",
+      "target": "rigvmfunction_mathquaternionbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionMirrorTransform Objects.md",
+      "source_location": "4-5",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionmirrortransform",
+      "target": "rigvm_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_MathQuaternionMirrorTransform Objects.md",
+      "source_location": "12",
+      "weight": 1.0
+    },
+    {
+      "source": "generatedmesharealight",
+      "target": "spotlight",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeneratedMeshAreaLight Objects.md",
+      "source_location": "4",
+      "weight": 1.0
+    },
+    {
+      "source": "generatedmesharealight",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeneratedMeshAreaLight Objects.md",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setchannelhosts",
+      "target": "rigunit_hierarchyaddphysicsjoint",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetChannelHosts Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setchannelhosts",
+      "target": "rigunit_setrelativetransformforitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_SetChannelHosts Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getboolanimationchannel",
+      "target": "rigunit_removemetadata",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_GetBoolAnimationChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpression_arccosine",
+      "target": "generatedmesharealight",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "MaterialExpressionArccosine Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onquartzmetronomeeventbp",
+      "target": "repeatedactiondelegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "OnQuartzMetronomeEventBP Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "projectilemovementcomponent_onprojectilebouncedelegate",
+      "target": "repeatedactiondelegate",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ProjectileMovementComponent__OnProjectileBounceDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "slateaccessiblewidgetdata_gettext",
+      "target": "onquartzmetronomeeventbp",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SlateAccessibleWidgetData_GetText Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_rigunit_family",
+      "label": "ControlRig RigUnit Classes",
+      "nodes": [
+        "rigunit_setchannelhosts",
+        "rigunit_hierarchyaddphysicsjoint",
+        "rigunit_setrelativetransformforitem",
+        "rigunit_getboolanimationchannel",
+        "rigunit_removemetadata"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_SetChannelHosts Objects.md"
+    },
+    {
+      "id": "delegate_classes",
+      "label": "Delegate and Event Handler Classes",
+      "nodes": [
+        "onquartzmetronomeeventbp",
+        "projectilemovementcomponent_onprojectilebouncedelegate",
+        "repeatedactiondelegate",
+        "slateaccessiblewidgetdata_gettext"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "OnQuartzMetronomeEventBP Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

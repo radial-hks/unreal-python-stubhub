@@ -1,0 +1,823 @@
+{
+  "nodes": [
+    {
+      "id": "interpcontrolpointobjects_interpcontrolpoint",
+      "label": "InterpControlPoint",
+      "file_type": "document",
+      "source_file": "InterpControlPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "markersyncanimpositionobjects_markersyncanimposition",
+      "label": "MarkerSyncAnimPosition",
+      "file_type": "document",
+      "source_file": "MarkerSyncAnimPosition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inputaxispropertiesobjects_inputaxisproperties",
+      "label": "InputAxisProperties",
+      "file_type": "document",
+      "source_file": "InputAxisProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hasmetadataobjects_rigunit_hasmetadata",
+      "label": "RigUnit_HasMetadata",
+      "file_type": "document",
+      "source_file": "RigUnit__HasMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takeradialdamagesignatureobjects_takeradialdamagesignature",
+      "label": "TakeRadialDamageSignature",
+      "file_type": "document",
+      "source_file": "TakeRadialDamageSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolrotatorobjects_rigunit_hierarchyaddcontrolrotator",
+      "label": "RigUnit_HierarchyAddControlRotator",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "baseplateeidloadresultobjects_baseplateeidloadresult",
+      "label": "BaseplateEIdLoadResult",
+      "file_type": "document",
+      "source_file": "BaseplateEIdLoadResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_visualdebugquatobjects_rigunit_visualdebugquat",
+      "label": "RigUnit_VisualDebugQuat",
+      "file_type": "document",
+      "source_file": "RigUnit__VisualDebugQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "matineecamerashakeobjects_matineecamerashake",
+      "label": "MatineeCameraShake",
+      "file_type": "document",
+      "source_file": "MatineeCameraShake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasoundfrontendvertexhandleobjects_metasoundfrontendvertexhandle",
+      "label": "MetasoundFrontendVertexHandle",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendVertexHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componenttrobjects_componenttr",
+      "label": "ComponentTr",
+      "file_type": "document",
+      "source_file": "ComponentTr Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyinputselectorobjects_pcgattributepropertyinputselector",
+      "label": "PCGAttributePropertyInputSelector",
+      "file_type": "document",
+      "source_file": "PCGAttributePropertyInputSelector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "specularprofileobjects_specularprofile",
+      "label": "SpecularProfile",
+      "file_type": "document",
+      "source_file": "SpecularProfile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonegraphbehaviortestingactorobjects_zonegraphbehaviortestingactor",
+      "label": "ZoneGraphBehaviorTestingActor",
+      "file_type": "document",
+      "source_file": "ZoneGraphBehaviorTestingActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphtimestepbaseobjects_moviegraphtimestepbase",
+      "label": "MovieGraphTimeStepBase",
+      "file_type": "document",
+      "source_file": "MovieGraphTimeStepBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skycreatorweatherfxsettingsobjects_skycreatorweatherfxsettings",
+      "label": "SkyCreatorWeatherFXSettings",
+      "file_type": "document",
+      "source_file": "SkyCreatorWeatherFXSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetactor_singlelinetraceobjects_gameplayabilitytargetactor_singlelinetrace",
+      "label": "GameplayAbilityTargetActor_SingleLineTrace",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor__SingleLineTrace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathmatrixbaseobjects_rigunit_mathmatrixbase",
+      "label": "RigUnit_MathMatrixBase",
+      "file_type": "document",
+      "source_file": "RigUnit__MathMatrixBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineencodequalityobjects_moviepipelineencodequality",
+      "label": "MoviePipelineEncodeQuality",
+      "file_type": "document",
+      "source_file": "MoviePipelineEncodeQuality Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aesembankmenteditorcommand_createobjects_aesembankmenteditorcommand_create",
+      "label": "AesEmbankmentEditorCommand_Create",
+      "file_type": "document",
+      "source_file": "AesEmbankmentEditorCommand__Create Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelrotatorobjects_rigunit_hierarchyaddanimationchannelrotator",
+      "label": "RigUnit_HierarchyAddAnimationChannelRotator",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcghigengridobjects_pcghigengrid",
+      "label": "PCGHiGenGrid",
+      "file_type": "document",
+      "source_file": "PCGHiGenGrid Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit__HasMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_rigunit_debugbase",
+      "label": "RigUnit_DebugBase",
+      "file_type": "document",
+      "source_file": "RigUnit__VisualDebugQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_rigunit_hierarchyaddcontrolelement",
+      "label": "RigUnit_HierarchyAddControlElement",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_rigunit_hierarchyaddelement",
+      "label": "RigUnit_HierarchyAddElement",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "legacycamerashake",
+      "label": "LegacyCameraShake",
+      "file_type": "document",
+      "source_file": "MatineeCameraShake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zonegraphannotationtestingactor",
+      "label": "ZoneGraphAnnotationTestingActor",
+      "file_type": "document",
+      "source_file": "ZoneGraphBehaviorTestingActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathmatrixbase",
+      "label": "RigVMFunction_MathMatrixBase",
+      "file_type": "document",
+      "source_file": "RigUnit__MathMatrixBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgattributepropertyselector",
+      "label": "PCGAttributePropertySelector",
+      "file_type": "document",
+      "source_file": "PCGAttributePropertyInputSelector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gameplayabilitytargetactor_trace",
+      "label": "GameplayAbilityTargetActor_Trace",
+      "file_type": "document",
+      "source_file": "GameplayAbilityTargetActor__SingleLineTrace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_sync_markers",
+      "label": "Animation Sync Markers",
+      "file_type": "document",
+      "source_file": "MarkerSyncAnimPosition Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgdata",
+      "label": "PCGData",
+      "file_type": "document",
+      "source_file": "PCGAttributePropertyInputSelector Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "weather_effects_precipitation",
+      "label": "Weather Effects and Precipitation",
+      "file_type": "document",
+      "source_file": "SkyCreatorWeatherFXSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrig_metadata_system",
+      "label": "ControlRig Metadata System",
+      "file_type": "document",
+      "source_file": "RigUnit__HasMetadata Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcg_hierarchical_generation",
+      "label": "PCG Hierarchical Generation",
+      "file_type": "document",
+      "source_file": "PCGHiGenGrid Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movie_render_pipeline",
+      "label": "Movie Render Pipeline",
+      "file_type": "document",
+      "source_file": "MovieGraphTimeStepBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrolrotator_settings",
+      "label": "RigUnit_HierarchyAddControlRotator_Settings",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControlRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelrotatorlimitsettings",
+      "label": "RigUnit_HierarchyAddAnimationChannelRotatorLimitSettings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelrotator_settings",
+      "label": "RigUnit_HierarchyAddAnimationChannelRotator Settings",
+      "file_type": "document",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "metasound_graph_document",
+      "label": "MetaSound Graph Document",
+      "file_type": "document",
+      "source_file": "MetasoundFrontendVertexHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "specularprofilestruct",
+      "label": "SpecularProfileStruct",
+      "file_type": "document",
+      "source_file": "SpecularProfile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphtimestepdata",
+      "label": "MovieGraphTimeStepData",
+      "file_type": "document",
+      "source_file": "MovieGraphTimeStepBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_hasmetadataobjects_rigunit_hasmetadata",
+      "target": "controlrig_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HasMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_visualdebugquatobjects_rigunit_visualdebugquat",
+      "target": "controlrig_rigunit_debugbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__VisualDebugQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotatorobjects_rigunit_hierarchyaddcontrolrotator",
+      "target": "controlrig_rigunit_hierarchyaddcontrolelement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelrotatorobjects_rigunit_hierarchyaddanimationchannelrotator",
+      "target": "controlrig_rigunit_hierarchyaddelement",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matineecamerashakeobjects_matineecamerashake",
+      "target": "legacycamerashake",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MatineeCameraShake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zonegraphbehaviortestingactorobjects_zonegraphbehaviortestingactor",
+      "target": "zonegraphannotationtestingactor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ZoneGraphBehaviorTestingActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathmatrixbaseobjects_rigunit_mathmatrixbase",
+      "target": "rigvmfunction_mathmatrixbase",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathMatrixBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributepropertyinputselectorobjects_pcgattributepropertyinputselector",
+      "target": "pcgattributepropertyselector",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributePropertyInputSelector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gameplayabilitytargetactor_singlelinetraceobjects_gameplayabilitytargetactor_singlelinetrace",
+      "target": "gameplayabilitytargetactor_trace",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayAbilityTargetActor__SingleLineTrace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "markersyncanimpositionobjects_markersyncanimposition",
+      "target": "animation_sync_markers",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MarkerSyncAnimPosition Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgattributepropertyinputselectorobjects_pcgattributepropertyinputselector",
+      "target": "pcgdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAttributePropertyInputSelector Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweatherfxsettingsobjects_skycreatorweatherfxsettings",
+      "target": "weather_effects_precipitation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyCreatorWeatherFXSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hasmetadataobjects_rigunit_hasmetadata",
+      "target": "controlrig_metadata_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HasMetadata Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcghigengridobjects_pcghigengrid",
+      "target": "pcg_hierarchical_generation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGHiGenGrid Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphtimestepbaseobjects_moviegraphtimestepbase",
+      "target": "movie_render_pipeline",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphTimeStepBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotatorobjects_rigunit_hierarchyaddcontrolrotator",
+      "target": "rigunit_hierarchyaddcontrolrotator_settings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelrotatorobjects_rigunit_hierarchyaddanimationchannelrotator",
+      "target": "rigunit_hierarchyaddanimationchannelrotatorlimitsettings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelrotatorobjects_rigunit_hierarchyaddanimationchannelrotator",
+      "target": "rigunit_hierarchyaddanimationchannelrotator_settings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "metasoundfrontendvertexhandleobjects_metasoundfrontendvertexhandle",
+      "target": "metasound_graph_document",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MetasoundFrontendVertexHandle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "specularprofileobjects_specularprofile",
+      "target": "specularprofilestruct",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpecularProfile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphtimestepbaseobjects_moviegraphtimestepbase",
+      "target": "moviegraphtimestepdata",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphTimeStepBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrig_rigunit_debugbase",
+      "target": "controlrig_rigunit",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__VisualDebugQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrig_rigunit_hierarchyaddcontrolelement",
+      "target": "controlrig_rigunit",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyAddControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controlrig_rigunit_hierarchyaddelement",
+      "target": "controlrig_rigunit",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrolrotatorobjects_rigunit_hierarchyaddcontrolrotator",
+      "target": "rigunit_hierarchyaddanimationchannelrotatorobjects_rigunit_hierarchyaddanimationchannelrotator",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HierarchyAddControlRotator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "takeradialdamagesignatureobjects_takeradialdamagesignature",
+      "target": "gameplayabilitytargetactor_singlelinetraceobjects_gameplayabilitytargetactor_singlelinetrace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "TakeRadialDamageSignature Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "inputaxispropertiesobjects_inputaxisproperties",
+      "target": "gameplayabilitytargetactor_singlelinetraceobjects_gameplayabilitytargetactor_singlelinetrace",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "InputAxisProperties Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interpcontrolpointobjects_interpcontrolpoint",
+      "target": "componenttrobjects_componenttr",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "InterpControlPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphtimestepbaseobjects_moviegraphtimestepbase",
+      "target": "moviepipelineencodequalityobjects_moviepipelineencodequality",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MovieGraphTimeStepBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skycreatorweatherfxsettingsobjects_skycreatorweatherfxsettings",
+      "target": "specularprofileobjects_specularprofile",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "SkyCreatorWeatherFXSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_hierarchy_manipulation_units",
+      "label": "ControlRig Hierarchy Manipulation Units",
+      "nodes": [
+        "rigunit_hasmetadataobjects_rigunit_hasmetadata",
+        "rigunit_hierarchyaddcontrolrotatorobjects_rigunit_hierarchyaddcontrolrotator",
+        "rigunit_hierarchyaddanimationchannelrotatorobjects_rigunit_hierarchyaddanimationchannelrotator",
+        "rigunit_visualdebugquatobjects_rigunit_visualdebugquat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__HasMetadata Objects.md"
+    },
+    {
+      "id": "deprecated_renamed_types",
+      "label": "Deprecated Renamed Types",
+      "nodes": [
+        "matineecamerashakeobjects_matineecamerashake",
+        "zonegraphbehaviortestingactorobjects_zonegraphbehaviortestingactor",
+        "rigunit_mathmatrixbaseobjects_rigunit_mathmatrixbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MatineeCameraShake Objects.md"
+    },
+    {
+      "id": "pcg_system_components",
+      "label": "PCG System Components",
+      "nodes": [
+        "pcgattributepropertyinputselectorobjects_pcgattributepropertyinputselector",
+        "pcghigengridobjects_pcghigengrid",
+        "pcgdata"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGAttributePropertyInputSelector Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,513 @@
+{
+  "nodes": [
+    {
+      "id": "avatoolboxstar_dynamic_mesh_avatoolboxstar_dynamic_mesh",
+      "label": "AvaToolboxStarDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaToolboxStarDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxstar_dynamic_mesh_avashape_star_dynamic_mesh",
+      "label": "AvaShapeStarDynamicMesh",
+      "file_type": "code",
+      "source_file": "AvaToolboxStarDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenereadyargs_scene_ready_args",
+      "label": "SceneReadyArgs",
+      "file_type": "code",
+      "source_file": "SceneReadyArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenereadyargs_event_args_base",
+      "label": "EventArgsBase",
+      "file_type": "code",
+      "source_file": "SceneReadyArgs Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testbeaconhost_test_beacon_host",
+      "label": "TestBeaconHost",
+      "file_type": "code",
+      "source_file": "TestBeaconHost Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "testbeaconhost_online_beacon_host_object",
+      "label": "OnlineBeaconHostObject",
+      "file_type": "code",
+      "source_file": "TestBeaconHost Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "positionorigin_position_origin",
+      "label": "PositionOrigin",
+      "file_type": "code",
+      "source_file": "PositionOrigin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "livelinkaxis_live_link_axis",
+      "label": "LiveLinkAxis",
+      "file_type": "code",
+      "source_file": "LiveLinkAxis Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oncontrollermapupdateddelegate_on_controller_map_updated_delegate",
+      "label": "OnControllerMapUpdatedDelegate",
+      "file_type": "code",
+      "source_file": "OnControllerMapUpdatedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonergridconstraint_ava_cloner_grid_constraint",
+      "label": "AvaClonerGridConstraint",
+      "file_type": "code",
+      "source_file": "AvaClonerGridConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avaclonergridconstraint_ce_cloner_grid_constraint",
+      "label": "CEClonerGridConstraint",
+      "file_type": "code",
+      "source_file": "AvaClonerGridConstraint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothingassetcommon_clothing_asset_common",
+      "label": "ClothingAssetCommon",
+      "file_type": "code",
+      "source_file": "ClothingAssetCommon Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clothingassetcommon_clothing_asset_base",
+      "label": "ClothingAssetBase",
+      "file_type": "code",
+      "source_file": "ClothingAssetCommon Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "recastpartitioning_recast_partitioning",
+      "label": "RecastPartitioning",
+      "file_type": "code",
+      "source_file": "RecastPartitioning Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userdefinedcaptureprotocol_user_defined_capture_protocol",
+      "label": "UserDefinedCaptureProtocol",
+      "file_type": "code",
+      "source_file": "UserDefinedCaptureProtocol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "userdefinedcaptureprotocol_movie_scene_image_capture_protocol_base",
+      "label": "MovieSceneImageCaptureProtocolBase",
+      "file_type": "code",
+      "source_file": "UserDefinedCaptureProtocol Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__math_transform_from_euler_transform_v2_rig_unit__math_transform_from_euler_transform_v2",
+      "label": "RigUnit_MathTransformFromEulerTransformV2",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__math_transform_from_euler_transform_v2_rig_vm_function__math_transform_from_euler_transform_v2",
+      "label": "RigVMFunction_MathTransformFromEulerTransformV2",
+      "file_type": "code",
+      "source_file": "RigUnit__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectusercapsuleparams_smart_object_user_capsule_params",
+      "label": "SmartObjectUserCapsuleParams",
+      "file_type": "code",
+      "source_file": "SmartObjectUserCapsuleParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inapppurchasequery2result_in_app_purchase_query2result",
+      "label": "InAppPurchaseQuery2Result",
+      "file_type": "code",
+      "source_file": "InAppPurchaseQuery2Result Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audioimpulseresponse_audio_impulse_response",
+      "label": "AudioImpulseResponse",
+      "file_type": "code",
+      "source_file": "AudioImpulseResponse Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "intvector4_int_vector4",
+      "label": "IntVector4",
+      "file_type": "code",
+      "source_file": "IntVector4 Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__set_multi_control_integer_rig_unit__set_multi_control_integer",
+      "label": "RigUnit_SetMultiControlInteger",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMultiControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit__set_multi_control_integer_rig_unit_mutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SetMultiControlInteger Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "placemodelerembankparams_place_modeler_embank_params",
+      "label": "PlaceModelerEmbankParams",
+      "file_type": "code",
+      "source_file": "PlaceModelerEmbankParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait__set_deformer_int4_variable_rig_vm_trait__set_deformer_int4_variable",
+      "label": "RigVMTrait_SetDeformerInt4Variable",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerInt4Variable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait__set_deformer_int4_variable_rig_vm_trait__optimus_variable_base",
+      "label": "RigVMTrait_OptimusVariableBase",
+      "file_type": "code",
+      "source_file": "RigVMTrait__SetDeformerInt4Variable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectionembeddedexemplar_geometry_collection_embedded_exemplar",
+      "label": "GeometryCollectionEmbeddedExemplar",
+      "file_type": "code",
+      "source_file": "GeometryCollectionEmbeddedExemplar Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_distributerotation_rig_unit_distribute_rotation",
+      "label": "RigUnit_DistributeRotation",
+      "file_type": "code",
+      "source_file": "RigUnit_DistributeRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_distributerotation_rig_unit_highlevel_base_mutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_DistributeRotation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinedeferredpass_detaillighting_movie_pipeline_deferred_pass_detail_lighting",
+      "label": "MoviePipelineDeferredPass_DetailLighting",
+      "file_type": "code",
+      "source_file": "MoviePipelineDeferredPass_DetailLighting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelinedeferredpass_detaillighting_movie_pipeline_deferred_pass_base",
+      "label": "MoviePipelineDeferredPassBase",
+      "file_type": "code",
+      "source_file": "MoviePipelineDeferredPass_DetailLighting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathdoubleremap_rig_vm_function__math_double_remap",
+      "label": "RigVMFunction_MathDoubleRemap",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__mathdoubleremap_rig_vm_function__math_double_base",
+      "label": "RigVMFunction_MathDoubleBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleRemap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "avatoolboxstar_dynamic_mesh_avatoolboxstar_dynamic_mesh",
+      "target": "avatoolboxstar_dynamic_mesh_avashape_star_dynamic_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaToolboxStarDynamicMesh Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scenereadyargs_scene_ready_args",
+      "target": "scenereadyargs_event_args_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SceneReadyArgs Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "testbeaconhost_test_beacon_host",
+      "target": "testbeaconhost_online_beacon_host_object",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TestBeaconHost Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avaclonergridconstraint_ava_cloner_grid_constraint",
+      "target": "avaclonergridconstraint_ce_cloner_grid_constraint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaClonerGridConstraint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clothingassetcommon_clothing_asset_common",
+      "target": "clothingassetcommon_clothing_asset_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ClothingAssetCommon Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "userdefinedcaptureprotocol_user_defined_capture_protocol",
+      "target": "userdefinedcaptureprotocol_movie_scene_image_capture_protocol_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UserDefinedCaptureProtocol Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__math_transform_from_euler_transform_v2_rig_unit__math_transform_from_euler_transform_v2",
+      "target": "rigunit__math_transform_from_euler_transform_v2_rig_vm_function__math_transform_from_euler_transform_v2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathTransformFromEulerTransformV2 Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit__set_multi_control_integer_rig_unit__set_multi_control_integer",
+      "target": "rigunit__set_multi_control_integer_rig_unit_mutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetMultiControlInteger Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait__set_deformer_int4_variable_rig_vm_trait__set_deformer_int4_variable",
+      "target": "rigvmtrait__set_deformer_int4_variable_rig_vm_trait__optimus_variable_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerInt4Variable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait__set_deformer_int4_variable_rig_vm_trait__set_deformer_int4_variable",
+      "target": "intvector4_int_vector4",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMTrait__SetDeformerInt4Variable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_distributerotation_rig_unit_distribute_rotation",
+      "target": "rigunit_distributerotation_rig_unit_highlevel_base_mutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DistributeRotation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelinedeferredpass_detaillighting_movie_pipeline_deferred_pass_detail_lighting",
+      "target": "moviepipelinedeferredpass_detaillighting_movie_pipeline_deferred_pass_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineDeferredPass_DetailLighting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__mathdoubleremap_rig_vm_function__math_double_remap",
+      "target": "rigvmfunction__mathdoubleremap_rig_vm_function__math_double_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathDoubleRemap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

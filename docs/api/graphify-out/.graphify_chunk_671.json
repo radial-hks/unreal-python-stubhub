@@ -1,0 +1,697 @@
+{
+  "nodes": [
+    {
+      "id": "UrbanGeoEdComponent",
+      "type": "class",
+      "label": "UrbanGeoEdComponent",
+      "description": "Urban Geo Ed Component",
+      "module": "UrbanGeoEd",
+      "plugin": "AesEditor",
+      "file": "UrbanGeoEdComponent.h"
+    },
+    {
+      "id": "PrimitiveComponent",
+      "type": "class",
+      "label": "PrimitiveComponent"
+    },
+    {
+      "id": "DMMaterialStageExpressionLogarithm10",
+      "type": "class",
+      "label": "DMMaterialStageExpressionLogarithm10",
+      "description": "DMMaterial Stage Expression Logarithm 10",
+      "module": "DynamicMaterialEditor",
+      "plugin": "DynamicMaterial",
+      "file": "DMMSELogarithm10.h"
+    },
+    {
+      "id": "DMMaterialStageExpressionMathBase",
+      "type": "class",
+      "label": "DMMaterialStageExpressionMathBase"
+    },
+    {
+      "id": "RigUnit_MathDoubleConstant",
+      "type": "class",
+      "label": "RigUnit_MathDoubleConstant",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathDoubleConstant' was renamed to 'RigVMFunction_MathDoubleConstant'"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleConstant",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleConstant"
+    },
+    {
+      "id": "LiveLinkAnimationAxisSwitchPreProcessor",
+      "type": "class",
+      "label": "LiveLinkAnimationAxisSwitchPreProcessor",
+      "description": "Allows to switch any axis of an incoming animation with another axis",
+      "module": "LiveLink",
+      "plugin": "LiveLink",
+      "file": "LiveLinkAxisSwitchPreProcessor.h"
+    },
+    {
+      "id": "LiveLinkTransformAxisSwitchPreProcessor",
+      "type": "class",
+      "label": "LiveLinkTransformAxisSwitchPreProcessor"
+    },
+    {
+      "id": "LensModel",
+      "type": "class",
+      "label": "LensModel",
+      "description": "Abstract base class for lens models",
+      "module": "CameraCalibrationCore",
+      "plugin": "CameraCalibrationCore",
+      "file": "LensModel.h"
+    },
+    {
+      "id": "Object",
+      "type": "class",
+      "label": "Object"
+    },
+    {
+      "id": "CompositeFont",
+      "type": "class",
+      "label": "CompositeFont",
+      "description": "Composite Font",
+      "module": "SlateCore",
+      "file": "CompositeFont.h"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "AnimationSharingManager",
+      "type": "class",
+      "label": "AnimationSharingManager",
+      "description": "Animation Sharing Manager",
+      "module": "AnimationSharing",
+      "plugin": "AnimationSharing",
+      "file": "AnimationSharingManager.h"
+    },
+    {
+      "id": "RigVMFunction_StringToUppercase",
+      "type": "class",
+      "label": "RigVMFunction_StringToUppercase",
+      "description": "Converts the string to upper case",
+      "module": "RigVM",
+      "plugin": "RigVM",
+      "file": "RigVMFunction_String.h"
+    },
+    {
+      "id": "RigVMFunction_StringBase",
+      "type": "class",
+      "label": "RigVMFunction_StringBase"
+    },
+    {
+      "id": "CEClonerEffectorPushDirection",
+      "type": "enum",
+      "label": "CEClonerEffectorPushDirection",
+      "description": "Enumerates the effector push direction available",
+      "module": "ClonerEffector",
+      "plugin": "ClonerEffector",
+      "file": "CEClonerEffectorShared.h"
+    },
+    {
+      "id": "AnimNode_ApplyMeshSpaceAdditive",
+      "type": "class",
+      "label": "AnimNode_ApplyMeshSpaceAdditive",
+      "description": "Anim Node Apply Mesh Space Additive",
+      "module": "Engine",
+      "file": "AnimNode_ApplyMeshSpaceAdditive.h"
+    },
+    {
+      "id": "AnimNode_Base",
+      "type": "class",
+      "label": "AnimNode_Base"
+    },
+    {
+      "id": "Info",
+      "type": "class",
+      "label": "Info",
+      "description": "Info is the base class of an Actor that isn't meant to have a physical representation in the world, used primarily for manager type classes",
+      "module": "Engine",
+      "file": "Info.h"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "label": "Actor"
+    },
+    {
+      "id": "RemoteControlEntity",
+      "type": "class",
+      "label": "RemoteControlEntity",
+      "description": "Base class for exposed objects, properties, functions etc...",
+      "module": "RemoteControl",
+      "plugin": "RemoteControl",
+      "file": "RemoteControlEntity.h"
+    },
+    {
+      "id": "UsdDrawMode",
+      "type": "enum",
+      "label": "UsdDrawMode",
+      "description": "EUsd Draw Mode",
+      "module": "USDClasses",
+      "plugin": "USDCore",
+      "file": "USDDrawModeComponent.h"
+    },
+    {
+      "id": "AnimNode_AssetPlayerBase",
+      "type": "class",
+      "label": "AnimNode_AssetPlayerBase",
+      "description": "Base class for any asset playing anim node",
+      "module": "Engine",
+      "file": "AnimNode_AssetPlayerBase.h"
+    },
+    {
+      "id": "AnimNode_AssetPlayerRelevancyBase",
+      "type": "class",
+      "label": "AnimNode_AssetPlayerRelevancyBase"
+    },
+    {
+      "id": "MaterialExpressionSubstrateUtilityBase",
+      "type": "class",
+      "label": "MaterialExpressionSubstrateUtilityBase",
+      "description": "Utilities",
+      "module": "Engine",
+      "file": "MaterialExpressionSubstrate.h"
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "label": "MaterialExpression"
+    },
+    {
+      "id": "MaterialExpressionSceneDepthWithoutWater",
+      "type": "class",
+      "label": "MaterialExpressionSceneDepthWithoutWater",
+      "description": "Material Expression Scene Depth Without Water",
+      "module": "Engine",
+      "file": "MaterialExpressionSceneDepthWithoutWater.h"
+    },
+    {
+      "id": "AnimGraphNode_BlendListByInt",
+      "type": "class",
+      "label": "AnimGraphNode_BlendListByInt",
+      "description": "Anim Graph Node Blend List by Int",
+      "module": "AnimGraph",
+      "file": "AnimGraphNode_BlendListByInt.h"
+    },
+    {
+      "id": "AnimGraphNode_BlendListBase",
+      "type": "class",
+      "label": "AnimGraphNode_BlendListBase"
+    },
+    {
+      "id": "VegetationAtom",
+      "type": "class",
+      "label": "VegetationAtom",
+      "description": "Vegetation Atom",
+      "module": "WdpModelerEntity",
+      "plugin": "AesRuntimeModeler",
+      "file": "VegetationAtom.h"
+    },
+    {
+      "id": "EntityAtomBase",
+      "type": "class",
+      "label": "EntityAtomBase"
+    },
+    {
+      "id": "PreviewGeometryActor",
+      "type": "class",
+      "label": "PreviewGeometryActor",
+      "description": "An actor suitable for attaching components used to draw preview elements",
+      "module": "ModelingComponents",
+      "plugin": "MeshModelingToolset",
+      "file": "PreviewGeometryActor.h"
+    },
+    {
+      "id": "InternalToolFrameworkActor",
+      "type": "class",
+      "label": "InternalToolFrameworkActor"
+    },
+    {
+      "id": "RigUnit_MathDoubleUnaryOp",
+      "type": "class",
+      "label": "RigUnit_MathDoubleUnaryOp",
+      "deprecated": true,
+      "deprecated_message": "'RigUnit_MathDoubleUnaryOp' was renamed to 'RigVMFunction_MathDoubleUnaryOp'"
+    },
+    {
+      "id": "RigVMFunction_MathDoubleUnaryOp",
+      "type": "class",
+      "label": "RigVMFunction_MathDoubleUnaryOp"
+    },
+    {
+      "id": "RelativeTransformSpace",
+      "type": "enum",
+      "label": "RelativeTransformSpace",
+      "description": "The space for the transform",
+      "module": "Engine",
+      "file": "SceneComponent.h"
+    },
+    {
+      "id": "InputAxisHandlerDynamicSignature",
+      "type": "class",
+      "label": "InputAxisHandlerDynamicSignature",
+      "description": "Input Axis Handler Dynamic Signature Delegate Signature",
+      "module": "Engine",
+      "file": "InputComponent.h"
+    },
+    {
+      "id": "DelegateBase",
+      "type": "class",
+      "label": "DelegateBase"
+    },
+    {
+      "id": "LiveLinkAxis",
+      "type": "enum",
+      "label": "LiveLinkAxis"
+    },
+    {
+      "id": "AnimAlphaInputType",
+      "type": "enum",
+      "label": "AnimAlphaInputType"
+    },
+    {
+      "id": "PoseLink",
+      "type": "struct",
+      "label": "PoseLink"
+    },
+    {
+      "id": "InputAlphaBoolBlend",
+      "type": "struct",
+      "label": "InputAlphaBoolBlend"
+    },
+    {
+      "id": "InputScaleBias",
+      "type": "struct",
+      "label": "InputScaleBias"
+    },
+    {
+      "id": "InputScaleBiasClamp",
+      "type": "struct",
+      "label": "InputScaleBiasClamp"
+    },
+    {
+      "id": "Guid",
+      "type": "struct",
+      "label": "Guid"
+    },
+    {
+      "id": "Name",
+      "type": "struct",
+      "label": "Name"
+    },
+    {
+      "id": "RemoteControlPreset",
+      "type": "class",
+      "label": "RemoteControlPreset"
+    },
+    {
+      "id": "Skeleton",
+      "type": "class",
+      "label": "Skeleton"
+    },
+    {
+      "id": "AnimationSharingSetup",
+      "type": "class",
+      "label": "AnimationSharingSetup"
+    },
+    {
+      "id": "AnimSharingInstance",
+      "type": "class",
+      "label": "AnimSharingInstance"
+    }
+  ],
+  "edges": [
+    {
+      "source": "UrbanGeoEdComponent",
+      "target": "PrimitiveComponent",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "DMMaterialStageExpressionLogarithm10",
+      "target": "DMMaterialStageExpressionMathBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_MathDoubleConstant",
+      "target": "RigVMFunction_MathDoubleConstant",
+      "type": "renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "source": "LiveLinkAnimationAxisSwitchPreProcessor",
+      "target": "LiveLinkTransformAxisSwitchPreProcessor",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "LensModel",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "CompositeFont",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimationSharingManager",
+      "target": "Object",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigVMFunction_StringToUppercase",
+      "target": "RigVMFunction_StringBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimNode_ApplyMeshSpaceAdditive",
+      "target": "AnimNode_Base",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "Info",
+      "target": "Actor",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RemoteControlEntity",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimNode_AssetPlayerBase",
+      "target": "AnimNode_AssetPlayerRelevancyBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionSubstrateUtilityBase",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "MaterialExpressionSceneDepthWithoutWater",
+      "target": "MaterialExpression",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "AnimGraphNode_BlendListByInt",
+      "target": "AnimGraphNode_BlendListBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "VegetationAtom",
+      "target": "EntityAtomBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "PreviewGeometryActor",
+      "target": "InternalToolFrameworkActor",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "RigUnit_MathDoubleUnaryOp",
+      "target": "RigVMFunction_MathDoubleUnaryOp",
+      "type": "renamed_to",
+      "label": "renamed to"
+    },
+    {
+      "source": "InputAxisHandlerDynamicSignature",
+      "target": "DelegateBase",
+      "type": "inherits_from",
+      "label": "inherits from"
+    },
+    {
+      "source": "LiveLinkAnimationAxisSwitchPreProcessor",
+      "target": "LiveLinkAxis",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "front_axis"
+    },
+    {
+      "source": "LiveLinkAnimationAxisSwitchPreProcessor",
+      "target": "LiveLinkAxis",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "right_axis"
+    },
+    {
+      "source": "LiveLinkAnimationAxisSwitchPreProcessor",
+      "target": "LiveLinkAxis",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "up_axis"
+    },
+    {
+      "source": "AnimNode_ApplyMeshSpaceAdditive",
+      "target": "PoseLink",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "base"
+    },
+    {
+      "source": "AnimNode_ApplyMeshSpaceAdditive",
+      "target": "PoseLink",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "additive"
+    },
+    {
+      "source": "AnimNode_ApplyMeshSpaceAdditive",
+      "target": "AnimAlphaInputType",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "alpha_input_type"
+    },
+    {
+      "source": "AnimNode_ApplyMeshSpaceAdditive",
+      "target": "InputAlphaBoolBlend",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "alpha_bool_blend"
+    },
+    {
+      "source": "AnimNode_ApplyMeshSpaceAdditive",
+      "target": "InputScaleBias",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "alpha_scale_bias"
+    },
+    {
+      "source": "AnimNode_ApplyMeshSpaceAdditive",
+      "target": "InputScaleBiasClamp",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "alpha_scale_bias_clamp"
+    },
+    {
+      "source": "RemoteControlEntity",
+      "target": "Guid",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "id"
+    },
+    {
+      "source": "RemoteControlEntity",
+      "target": "Name",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "label"
+    },
+    {
+      "source": "RemoteControlEntity",
+      "target": "RemoteControlPreset",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "owner"
+    },
+    {
+      "source": "AnimationSharingManager",
+      "target": "Skeleton",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "register_actor_with_skeleton_bp"
+    },
+    {
+      "source": "AnimationSharingManager",
+      "target": "AnimationSharingSetup",
+      "type": "method_parameter",
+      "label": "method parameter",
+      "method_name": "create_animation_sharing_manager"
+    },
+    {
+      "source": "AnimationSharingManager",
+      "target": "AnimSharingInstance",
+      "type": "has_property",
+      "label": "has property",
+      "property_name": "per_skeleton_data"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_1",
+      "type": "module_relationship",
+      "label": "Module Organization",
+      "nodes": [
+        "UrbanGeoEdComponent",
+        "VegetationAtom"
+      ],
+      "description": "Classes in AesEditor/AesRuntimeModeler plugins for urban geography and vegetation"
+    },
+    {
+      "id": "he_2",
+      "type": "material_system",
+      "label": "Material Expression System",
+      "nodes": [
+        "DMMaterialStageExpressionLogarithm10",
+        "MaterialExpressionSubstrateUtilityBase",
+        "MaterialExpressionSceneDepthWithoutWater"
+      ],
+      "description": "Material expression classes for shader/material manipulation"
+    },
+    {
+      "id": "he_3",
+      "type": "animation_system",
+      "label": "Animation System",
+      "nodes": [
+        "AnimationSharingManager",
+        "AnimNode_ApplyMeshSpaceAdditive",
+        "AnimNode_AssetPlayerBase",
+        "AnimGraphNode_BlendListByInt"
+      ],
+      "description": "Animation-related classes for skeletal animation and blending"
+    },
+    {
+      "id": "he_4",
+      "type": "rig_system",
+      "label": "RigVM System",
+      "nodes": [
+        "RigUnit_MathDoubleConstant",
+        "RigVMFunction_MathDoubleConstant",
+        "RigVMFunction_StringToUppercase",
+        "RigUnit_MathDoubleUnaryOp",
+        "RigVMFunction_MathDoubleUnaryOp"
+      ],
+      "description": "RigVM mathematical and string operations with deprecation relationships"
+    },
+    {
+      "id": "he_5",
+      "type": "enum_group",
+      "label": "Enumeration Types",
+      "nodes": [
+        "CEClonerEffectorPushDirection",
+        "UsdDrawMode",
+        "RelativeTransformSpace"
+      ],
+      "description": "Enumeration types for various spatial and directional configurations"
+    },
+    {
+      "id": "he_6",
+      "type": "plugin_ecosystem",
+      "label": "Plugin-based Classes",
+      "nodes": [
+        "LensModel",
+        "LiveLinkAnimationAxisSwitchPreProcessor",
+        "AnimationSharingManager",
+        "VegetationAtom",
+        "PreviewGeometryActor"
+      ],
+      "description": "Classes that belong to specific plugins"
+    },
+    {
+      "id": "he_7",
+      "type": "deprecated_classes",
+      "label": "Deprecated Classes",
+      "nodes": [
+        "RigUnit_MathDoubleConstant",
+        "RigUnit_MathDoubleUnaryOp"
+      ],
+      "description": "Deprecated classes that were renamed to RigVMFunction variants"
+    },
+    {
+      "id": "he_8",
+      "type": "actor_hierarchy",
+      "label": "Actor Hierarchy",
+      "nodes": [
+        "Actor",
+        "Info",
+        "PreviewGeometryActor",
+        "InternalToolFrameworkActor"
+      ],
+      "description": "Actor inheritance hierarchy for different actor types"
+    },
+    {
+      "id": "he_9",
+      "type": "struct_base_hierarchy",
+      "label": "StructBase Hierarchy",
+      "nodes": [
+        "StructBase",
+        "CompositeFont",
+        "RemoteControlEntity"
+      ],
+      "description": "Classes inheriting from StructBase for data structures"
+    },
+    {
+      "id": "he_10",
+      "type": "spatial_transform",
+      "label": "Spatial Transform Systems",
+      "nodes": [
+        "RelativeTransformSpace",
+        "LiveLinkAnimationAxisSwitchPreProcessor",
+        "CEClonerEffectorPushDirection"
+      ],
+      "description": "Classes and enums related to spatial transformations and axes"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "UrbanGeoEdComponent Objects.md",
+      "DMMaterialStageExpressionLogarithm10 Objects.md",
+      "RigUnit__MathDoubleConstant Objects.md",
+      "LiveLinkAnimationAxisSwitchPreProcessor Objects.md",
+      "LensModel Objects.md",
+      "CompositeFont Objects.md",
+      "AnimationSharingManager Objects.md",
+      "RigVMFunction__StringToUppercase Objects.md",
+      "CEClonerEffectorPushDirection Objects.md",
+      "AnimNode__ApplyMeshSpaceAdditive Objects.md",
+      "Info Objects.md",
+      "RemoteControlEntity Objects.md",
+      "UsdDrawMode Objects.md",
+      "AnimNode_AssetPlayerBase Objects.md",
+      "MaterialExpressionSubstrateUtilityBase Objects.md",
+      "AnimGraphNode_BlendListByInt Objects.md",
+      "VegetationAtom Objects.md",
+      "PreviewGeometryActor Objects.md",
+      "RigUnit_MathDoubleUnaryOp Objects.md",
+      "MaterialExpressionSceneDepthWithoutWater Objects.md",
+      "RelativeTransformSpace Objects.md",
+      "InputAxisHandlerDynamicSignature Objects.md"
+    ],
+    "total_nodes": 51,
+    "total_edges": 33,
+    "total_hyperedges": 10,
+    "extraction_timestamp": "2026-04-12T00:00:00Z",
+    "chunk_id": 671
+  }
+}

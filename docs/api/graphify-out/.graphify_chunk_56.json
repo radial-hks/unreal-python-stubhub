@@ -1,0 +1,1074 @@
+{
+  "nodes": [
+    {
+      "id": "onleveleditorchanged_delegate",
+      "label": "OnLevelEditorMapChanged",
+      "file_type": "code",
+      "source_file": "OnLevelEditorMapChanged Objects.md",
+      "source_location": "LevelEditorSubsystem.h",
+      "type": "delegate"
+    },
+    {
+      "id": "mapchangeeventflags",
+      "label": "MapChangeEventFlags",
+      "file_type": "code",
+      "source_file": "OnLevelEditorMapChanged Objects.md",
+      "source_location": null,
+      "type": "parameter"
+    },
+    {
+      "id": "curverenamedpayload",
+      "label": "CurveRenamedPayload",
+      "file_type": "code",
+      "source_file": "CurveRenamedPayload Objects.md",
+      "source_location": "AnimDataNotifications.h",
+      "type": "class"
+    },
+    {
+      "id": "curvepayload",
+      "label": "CurvePayload",
+      "file_type": "code",
+      "source_file": "CurveRenamedPayload Objects.md",
+      "source_location": null,
+      "type": "class"
+    },
+    {
+      "id": "animationcurveidentifier",
+      "label": "AnimationCurveIdentifier",
+      "file_type": "code",
+      "source_file": "CurveRenamedPayload Objects.md",
+      "source_location": null,
+      "type": "type"
+    },
+    {
+      "id": "urbanterraintile",
+      "label": "UrbanTerrainTile",
+      "file_type": "code",
+      "source_file": "UrbanTerrainTile Objects.md",
+      "source_location": "UrbanTerrainTile.h",
+      "type": "class"
+    },
+    {
+      "id": "urbanentityvariabilizationobject",
+      "label": "UrbanEntityVariabilizationObject",
+      "file_type": "code",
+      "source_file": "UrbanTerrainTile Objects.md",
+      "source_location": null,
+      "type": "class"
+    },
+    {
+      "id": "geolayeractionparams",
+      "label": "GeoLayerActionParams",
+      "file_type": "code",
+      "source_file": "GeoLayerActionParams Objects.md",
+      "source_location": "GeoLayerAPIParamsDefine.h",
+      "type": "class"
+    },
+    {
+      "id": "eidparams",
+      "label": "EidParams",
+      "file_type": "code",
+      "source_file": "GeoLayerActionParams Objects.md",
+      "source_location": null,
+      "type": "class"
+    },
+    {
+      "id": "opencoloriocolorconversionsettings",
+      "label": "OpenColorIOColorConversionSettings",
+      "file_type": "code",
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": "OpenColorIOColorSpace.h",
+      "type": "class"
+    },
+    {
+      "id": "structbase",
+      "label": "StructBase",
+      "file_type": "code",
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "type": "class"
+    },
+    {
+      "id": "opencolorioconfiguration",
+      "label": "OpenColorIOConfiguration",
+      "file_type": "code",
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "type": "type"
+    },
+    {
+      "id": "opencoloriocolorspace",
+      "label": "OpenColorIOColorSpace",
+      "file_type": "code",
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "type": "type"
+    },
+    {
+      "id": "opencoloriodisplayview",
+      "label": "OpenColorIODisplayView",
+      "file_type": "code",
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "type": "type"
+    },
+    {
+      "id": "opencolorioviewtransformdirection",
+      "label": "OpenColorIOViewTransformDirection",
+      "file_type": "code",
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "type": "enum"
+    },
+    {
+      "id": "rigunit_mathboolor",
+      "label": "RigUnit_MathBoolOr",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBoolOr Objects.md",
+      "source_location": null,
+      "type": "class",
+      "deprecated": true
+    },
+    {
+      "id": "rigvmfunction_mathboolor",
+      "label": "RigVMFunction_MathBoolOr",
+      "file_type": "code",
+      "source_file": "RigUnit_MathBoolOr Objects.md",
+      "source_location": null,
+      "type": "class"
+    },
+    {
+      "id": "rigelementtype",
+      "label": "RigElementType",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": "RigHierarchyDefines.h",
+      "type": "enum"
+    },
+    {
+      "id": "rigelement_bone",
+      "label": "BONE",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "rigelement_null",
+      "label": "NULL",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "rigelement_control",
+      "label": "CONTROL",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "rigelement_curve",
+      "label": "CURVE",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "rigelement_physics",
+      "label": "PHYSICS",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "rigelement_reference",
+      "label": "REFERENCE",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "rigelement_connector",
+      "label": "CONNECTOR",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "rigelement_socket",
+      "label": "SOCKET",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "hlodbatchingpolicy",
+      "label": "HLODBatchingPolicy",
+      "file_type": "code",
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": "HLODBatchingPolicy.h",
+      "type": "enum"
+    },
+    {
+      "id": "hlodbatching_none",
+      "label": "NONE",
+      "file_type": "code",
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "hlodbatching_mesh_section",
+      "label": "MESH_SECTION",
+      "file_type": "code",
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "hlodbatching_instancing",
+      "label": "INSTANCING",
+      "file_type": "code",
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "quarztquantizationreference",
+      "label": "QuarztQuantizationReference",
+      "file_type": "code",
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": "QuartzQuantizationUtilities.h",
+      "type": "enum"
+    },
+    {
+      "id": "quarztquantization_bar_relative",
+      "label": "BAR_RELATIVE",
+      "file_type": "code",
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "quarztquantization_transport_relative",
+      "label": "TRANSPORT_RELATIVE",
+      "file_type": "code",
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "quarztquantization_current_time_relative",
+      "label": "CURRENT_TIME_RELATIVE",
+      "file_type": "code",
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": null,
+      "type": "enum_value"
+    },
+    {
+      "id": "transformatom2d",
+      "label": "TransformAtom2D",
+      "file_type": "code",
+      "source_file": "TransformAtom2D Objects.md",
+      "source_location": "TransformAtom2D.h",
+      "type": "class"
+    },
+    {
+      "id": "transformatom",
+      "label": "TransformAtom",
+      "file_type": "code",
+      "source_file": "TransformAtom2D Objects.md",
+      "source_location": null,
+      "type": "class"
+    },
+    {
+      "id": "aesbakeboard",
+      "label": "AesBakeBoard",
+      "file_type": "code",
+      "source_file": "AesBakeBoard Objects.md",
+      "source_location": "AesBakeBoard.h",
+      "type": "class"
+    },
+    {
+      "id": "actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "AesBakeBoard Objects.md",
+      "source_location": null,
+      "type": "class"
+    },
+    {
+      "id": "rigunit_setcontrolbool",
+      "label": "RigUnit_SetControlBool",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": "RigUnit_SetControlTransform.h",
+      "type": "class"
+    },
+    {
+      "id": "rigunitmutable",
+      "label": "RigUnitMutable",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": null,
+      "type": "class"
+    },
+    {
+      "id": "controlrigexecutecontext",
+      "label": "ControlRigExecuteContext",
+      "file_type": "code",
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": null,
+      "type": "type"
+    },
+    {
+      "id": "leveleditor_module",
+      "label": "LevelEditor Module",
+      "file_type": "code",
+      "source_file": "OnLevelEditorMapChanged Objects.md",
+      "source_location": null,
+      "type": "module"
+    },
+    {
+      "id": "engine_module",
+      "label": "Engine Module",
+      "file_type": "code",
+      "source_file": "CurveRenamedPayload Objects.md",
+      "source_location": null,
+      "type": "module"
+    },
+    {
+      "id": "aesbuildercommon_plugin",
+      "label": "AesBuilderCommon Plugin",
+      "file_type": "code",
+      "source_file": "UrbanTerrainTile Objects.md",
+      "source_location": null,
+      "type": "plugin"
+    },
+    {
+      "id": "urbanentity_module",
+      "label": "UrbanEntity Module",
+      "file_type": "code",
+      "source_file": "UrbanTerrainTile Objects.md",
+      "source_location": null,
+      "type": "module"
+    },
+    {
+      "id": "gisdataapi_plugin",
+      "label": "GISDataAPI Plugin",
+      "file_type": "code",
+      "source_file": "GeoLayerActionParams Objects.md",
+      "source_location": null,
+      "type": "plugin"
+    },
+    {
+      "id": "magicgisapi_module",
+      "label": "MagicGISAPI Module",
+      "file_type": "code",
+      "source_file": "GeoLayerActionParams Objects.md",
+      "source_location": null,
+      "type": "module"
+    },
+    {
+      "id": "opencolorio_plugin",
+      "label": "OpenColorIO Plugin",
+      "file_type": "code",
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "type": "plugin"
+    },
+    {
+      "id": "opencolorio_module",
+      "label": "OpenColorIO Module",
+      "file_type": "code",
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "type": "module"
+    },
+    {
+      "id": "controlrig_plugin",
+      "label": "ControlRig Plugin",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "plugin"
+    },
+    {
+      "id": "controlrig_module",
+      "label": "ControlRig Module",
+      "file_type": "code",
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "type": "module"
+    },
+    {
+      "id": "coveringapi_plugin",
+      "label": "CoveringAPI Plugin",
+      "file_type": "code",
+      "source_file": "TransformAtom2D Objects.md",
+      "source_location": null,
+      "type": "plugin"
+    },
+    {
+      "id": "coveringapientity_module",
+      "label": "CoveringAPIEntity Module",
+      "file_type": "code",
+      "source_file": "TransformAtom2D Objects.md",
+      "source_location": null,
+      "type": "module"
+    },
+    {
+      "id": "aesworld_plugin",
+      "label": "AesWorld Plugin",
+      "file_type": "code",
+      "source_file": "AesBakeBoard Objects.md",
+      "source_location": null,
+      "type": "plugin"
+    },
+    {
+      "id": "aesworldbuildereditor_module",
+      "label": "AesWorldBuilderEditor Module",
+      "file_type": "code",
+      "source_file": "AesBakeBoard Objects.md",
+      "source_location": null,
+      "type": "module"
+    }
+  ],
+  "edges": [
+    {
+      "source": "onleveleditorchanged_delegate",
+      "target": "mapchangeeventflags",
+      "relation": "has_parameter",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnLevelEditorMapChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onleveleditorchanged_delegate",
+      "target": "leveleditor_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnLevelEditorMapChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curverenamedpayload",
+      "target": "curvepayload",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveRenamedPayload Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curverenamedpayload",
+      "target": "animationcurveidentifier",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveRenamedPayload Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curverenamedpayload",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CurveRenamedPayload Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanterraintile",
+      "target": "urbanentityvariabilizationobject",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanTerrainTile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanterraintile",
+      "target": "aesbuildercommon_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanTerrainTile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "urbanterraintile",
+      "target": "urbanentity_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "UrbanTerrainTile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayeractionparams",
+      "target": "eidparams",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoLayerActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayeractionparams",
+      "target": "gisdataapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoLayerActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geolayeractionparams",
+      "target": "magicgisapi_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeoLayerActionParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencoloriocolorconversionsettings",
+      "target": "structbase",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencoloriocolorconversionsettings",
+      "target": "opencolorioconfiguration",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencoloriocolorconversionsettings",
+      "target": "opencoloriocolorspace",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencoloriocolorconversionsettings",
+      "target": "opencoloriodisplayview",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencoloriocolorconversionsettings",
+      "target": "opencolorioviewtransformdirection",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencoloriocolorconversionsettings",
+      "target": "opencolorio_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencoloriocolorconversionsettings",
+      "target": "opencolorio_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OpenColorIOColorConversionSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolor",
+      "target": "rigvmfunction_mathboolor",
+      "relation": "renamed_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathBoolOr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "rigelement_bone",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "rigelement_null",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "rigelement_control",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "rigelement_curve",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "rigelement_physics",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "rigelement_reference",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "rigelement_connector",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "rigelement_socket",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelementtype",
+      "target": "controlrig_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelement_bone",
+      "target": "rigelementtype",
+      "relation": "element_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelement_control",
+      "target": "rigelementtype",
+      "relation": "element_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigelement_curve",
+      "target": "rigelementtype",
+      "relation": "element_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigElementType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hlodbatchingpolicy",
+      "target": "hlodbatching_none",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hlodbatchingpolicy",
+      "target": "hlodbatching_mesh_section",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hlodbatchingpolicy",
+      "target": "hlodbatching_instancing",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hlodbatchingpolicy",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hlodbatching_instancing",
+      "target": "hlodbatchingpolicy",
+      "relation": "element_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quarztquantizationreference",
+      "target": "quarztquantization_bar_relative",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quarztquantizationreference",
+      "target": "quarztquantization_transport_relative",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quarztquantizationreference",
+      "target": "quarztquantization_current_time_relative",
+      "relation": "has_value",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quarztquantizationreference",
+      "target": "engine_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformatom2d",
+      "target": "transformatom",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransformAtom2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformatom2d",
+      "target": "coveringapi_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransformAtom2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "transformatom2d",
+      "target": "coveringapientity_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TransformAtom2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbakeboard",
+      "target": "actor",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBakeBoard Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbakeboard",
+      "target": "aesworld_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBakeBoard Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "aesbakeboard",
+      "target": "aesworldbuildereditor_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesBakeBoard Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolbool",
+      "target": "rigunitmutable",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolbool",
+      "target": "controlrigexecutecontext",
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolbool",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolbool",
+      "target": "controlrig_module",
+      "relation": "defined_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolbool",
+      "target": "rigelement_control",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_setcontrolbool",
+      "target": "rigelementtype",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit__SetControlBool Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolor",
+      "target": "controlrig_plugin",
+      "relation": "defined_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_MathBoolOr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathboolor",
+      "target": "rigunit_setcontrolbool",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_MathBoolOr Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hlodbatching_mesh_section",
+      "target": "hlodbatching_instancing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "HLODBatchingPolicy Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "quarztquantization_bar_relative",
+      "target": "quarztquantization_transport_relative",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "QuarztQuantizationReference Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "curverenamedpayload",
+      "target": "rigelement_curve",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CurveRenamedPayload Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_hierarchy_system",
+      "label": "Control Rig Hierarchy System",
+      "nodes": [
+        "rigelementtype",
+        "rigelement_bone",
+        "rigelement_control",
+        "rigelement_curve",
+        "rigelement_socket",
+        "rigunit_setcontrolbool"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigElementType Objects.md"
+    },
+    {
+      "id": "color_management_system",
+      "label": "Color Management System",
+      "nodes": [
+        "opencoloriocolorconversionsettings",
+        "opencolorioconfiguration",
+        "opencoloriocolorspace",
+        "opencoloriodisplayview"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "OpenColorIOColorConversionSettings Objects.md"
+    },
+    {
+      "id": "unreal_engine_core_system",
+      "label": "Unreal Engine Core System",
+      "nodes": [
+        "engine_module",
+        "actor",
+        "structbase"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesBakeBoard Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

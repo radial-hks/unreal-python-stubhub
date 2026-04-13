@@ -1,0 +1,971 @@
+{
+  "nodes": [
+    {
+      "id": "Basic2DLineSetComponent",
+      "type": "class",
+      "label": "Basic2DLineSetComponent",
+      "description": "Instantiation of a basic line set component in 2D using FVector2f for line positions",
+      "properties": {
+        "parent": "BasicLineSetComponentBase",
+        "cpp_source": {
+          "plugin": "UVEditor",
+          "module": "UVEditorTools",
+          "file": "BasicLineSetComponent.h"
+        }
+      }
+    },
+    {
+      "id": "RootMotionModifier_Warp",
+      "type": "class",
+      "label": "RootMotionModifier_Warp",
+      "description": "Root Motion Modifier Warp",
+      "properties": {
+        "parent": "RootMotionModifier",
+        "cpp_source": {
+          "plugin": "MotionWarping",
+          "module": "MotionWarping",
+          "file": "RootMotionModifier.h"
+        }
+      }
+    },
+    {
+      "id": "ImageSequenceProtocol_PNG",
+      "type": "class",
+      "label": "ImageSequenceProtocol_PNG",
+      "description": "Image Sequence Protocol PNG",
+      "properties": {
+        "parent": "CompressedImageSequenceProtocol",
+        "cpp_source": {
+          "module": "MovieSceneCapture",
+          "file": "ImageSequenceProtocol.h"
+        }
+      }
+    },
+    {
+      "id": "CreateRealTimeVideosParams",
+      "type": "class",
+      "label": "CreateRealTimeVideosParams",
+      "description": "Create Real Time Videos Params",
+      "properties": {
+        "parent": "StructBase",
+        "cpp_source": {
+          "plugin": "CoveringAPI",
+          "module": "CoveringAPIDefine",
+          "file": "RealTimeVideoParams.h"
+        }
+      }
+    },
+    {
+      "id": "NiagaraDataInterface",
+      "type": "class",
+      "label": "NiagaraDataInterface",
+      "description": "Base class for all Niagara data interfaces",
+      "properties": {
+        "parent": "NiagaraDataInterfaceBase",
+        "cpp_source": {
+          "plugin": "Niagara",
+          "module": "Niagara",
+          "file": "NiagaraDataInterface.h"
+        }
+      }
+    },
+    {
+      "id": "BodyCollisionResponse",
+      "type": "enum",
+      "label": "BodyCollisionResponse",
+      "description": "EBody Collision Response",
+      "properties": {
+        "cpp_source": {
+          "module": "PhysicsCore",
+          "file": "BodySetupEnums.h"
+        }
+      }
+    },
+    {
+      "id": "PCGBooleanOperationMode",
+      "type": "enum",
+      "label": "PCGBooleanOperationMode",
+      "description": "EPCGBoolean Operation Mode",
+      "properties": {
+        "cpp_source": {
+          "plugin": "PCGGeometryScriptInterop",
+          "module": "PCGGeometryScriptInterop",
+          "file": "PCGBooleanOperation.h"
+        }
+      }
+    },
+    {
+      "id": "RigVMFunction_NoiseVector",
+      "type": "class",
+      "label": "RigVMFunction_NoiseVector",
+      "description": "Generates a vector through a noise fluctuation process between a min and a max through speed",
+      "properties": {
+        "parent": "RigVMFunction_MathBase",
+        "cpp_source": {
+          "plugin": "RigVM",
+          "module": "RigVM",
+          "file": "RigVMFunction_Noise.h"
+        }
+      }
+    },
+    {
+      "id": "RealTimeVideoWidgetBase",
+      "type": "class",
+      "label": "RealTimeVideoWidgetBase",
+      "description": "Real Time Video Widget Base",
+      "properties": {
+        "parent": "CoveringWidgetBase",
+        "cpp_source": {
+          "plugin": "CoveringAPI",
+          "module": "CoveringAPIEntity",
+          "file": "RealTimeVideoWidgetBase.h"
+        }
+      }
+    },
+    {
+      "id": "AvaCloneModifierPlane",
+      "type": "enum",
+      "label": "AvaCloneModifierPlane",
+      "description": "Deprecated enum renamed to AvaPatternModifierPlane",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "AvaPatternModifierPlane"
+      }
+    },
+    {
+      "id": "RigUnit_MathFloatNegate",
+      "type": "class",
+      "label": "RigUnit_MathFloatNegate",
+      "description": "Deprecated class renamed to RigVMFunction_MathFloatNegate",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "RigVMFunction_MathFloatNegate"
+      }
+    },
+    {
+      "id": "MovieSceneLensComponentSection",
+      "type": "class",
+      "label": "MovieSceneLensComponentSection",
+      "description": "Movie Scene section for Lens Component",
+      "properties": {
+        "parent": "MovieSceneHookSection",
+        "cpp_source": {
+          "plugin": "LensComponent",
+          "module": "LensComponentEditor",
+          "file": "MovieSceneLensComponentSection.h"
+        }
+      }
+    },
+    {
+      "id": "AvaShapeEllipseDynamicMesh",
+      "type": "class",
+      "label": "AvaShapeEllipseDynamicMesh",
+      "description": "Ava Shape Ellipse Dynamic Mesh",
+      "properties": {
+        "parent": "AvaShape2DDynMeshBase",
+        "cpp_source": {
+          "plugin": "Avalanche",
+          "module": "AvalancheShapes",
+          "file": "AvaShapeEllipseDynMesh.h"
+        }
+      }
+    },
+    {
+      "id": "PixelStreamer51CloudInputComponent",
+      "type": "class",
+      "label": "PixelStreamer51CloudInputComponent",
+      "description": "Component for handling UI interactions with delegate notifications",
+      "properties": {
+        "parent": "ActorComponent",
+        "cpp_source": {
+          "plugin": "PixelStreaming51Cloud",
+          "module": "PixelStreaming51Cloud",
+          "file": "PixelStreamer51CloudInputComponent.h"
+        }
+      }
+    },
+    {
+      "id": "PrefabAssetNameAssets",
+      "type": "class",
+      "label": "PrefabAssetNameAssets",
+      "description": "Prefab Asset Name Assets",
+      "properties": {
+        "parent": "StructBase",
+        "cpp_source": {
+          "plugin": "AesWorld",
+          "module": "EarthPrefab",
+          "file": "EarthPrefabAssetLibrary.h"
+        }
+      }
+    },
+    {
+      "id": "ThumbnailColorStripOrientation_BlueprintType",
+      "type": "enum",
+      "label": "ThumbnailColorStripOrientation_BlueprintType",
+      "description": "EThumbnail Color Strip Orientation Blueprint Type",
+      "properties": {
+        "cpp_source": {
+          "module": "UMGEditor",
+          "file": "AssetThumbnailWidget.h"
+        }
+      }
+    },
+    {
+      "id": "RigUnit_NameBase",
+      "type": "class",
+      "label": "RigUnit_NameBase",
+      "description": "Deprecated class renamed to RigVMFunction_NameBase",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "RigVMFunction_NameBase"
+      }
+    },
+    {
+      "id": "WdpCurveSplitLevel",
+      "type": "enum",
+      "label": "WdpCurveSplitLevel",
+      "description": "EWdp Curve Split Level",
+      "properties": {
+        "cpp_source": {
+          "plugin": "WdpCommon",
+          "module": "WdpGeometry",
+          "file": "WdpCurve2D.h"
+        }
+      }
+    },
+    {
+      "id": "Axis",
+      "type": "class",
+      "label": "Axis",
+      "description": "Axis to represent direction",
+      "properties": {
+        "parent": "StructBase",
+        "cpp_source": {
+          "module": "AnimationCore",
+          "file": "CommonAnimTypes.h"
+        }
+      }
+    },
+    {
+      "id": "DMMaterialLayerStage",
+      "type": "enum",
+      "label": "DMMaterialLayerStage",
+      "description": "EDMMaterial Layer Stage",
+      "properties": {
+        "cpp_source": {
+          "plugin": "DynamicMaterial",
+          "module": "DynamicMaterialEditor",
+          "file": "DMEDefs.h"
+        }
+      }
+    },
+    {
+      "id": "MovieSceneAvaToolboxRectCornerTrack",
+      "type": "class",
+      "label": "MovieSceneAvaToolboxRectCornerTrack",
+      "description": "Deprecated class renamed to MovieSceneAvaShapeRectCornerTrack",
+      "properties": {
+        "deprecated": true,
+        "renamed_to": "MovieSceneAvaShapeRectCornerTrack"
+      }
+    },
+    {
+      "id": "RigVMFunction_MathRBFInterpolateVectorQuat",
+      "type": "class",
+      "label": "RigVMFunction_MathRBFInterpolateVectorQuat",
+      "description": "Rig VMFunction Math RBFInterpolate Vector Quat",
+      "properties": {
+        "parent": "RigVMFunction_MathRBFInterpolateVectorBase",
+        "cpp_source": {
+          "plugin": "RigVM",
+          "module": "RigVM",
+          "file": "RigVMFunction_MathRBFInterpolate.h"
+        }
+      }
+    },
+    {
+      "id": "BODY_COLLISION_ENABLED",
+      "type": "enum_value",
+      "label": "BODY_COLLISION_ENABLED",
+      "properties": {
+        "value": 0,
+        "enum": "BodyCollisionResponse"
+      }
+    },
+    {
+      "id": "BODY_COLLISION_DISABLED",
+      "type": "enum_value",
+      "label": "BODY_COLLISION_DISABLED",
+      "properties": {
+        "value": 1,
+        "enum": "BodyCollisionResponse"
+      }
+    },
+    {
+      "id": "EACH_A_WITH_EACH_B",
+      "type": "enum_value",
+      "label": "EACH_A_WITH_EACH_B",
+      "properties": {
+        "value": 0,
+        "enum": "PCGBooleanOperationMode",
+        "description": "Each input in A is boolean'd with its associated input in B"
+      }
+    },
+    {
+      "id": "EACH_A_WITH_EACH_B_SEQUENTIALLY",
+      "type": "enum_value",
+      "label": "EACH_A_WITH_EACH_B_SEQUENTIALLY",
+      "properties": {
+        "value": 1,
+        "enum": "PCGBooleanOperationMode",
+        "description": "Each input in A is boolean'd with every input in B sequentially"
+      }
+    },
+    {
+      "id": "EACH_A_WITH_EVERY_B",
+      "type": "enum_value",
+      "label": "EACH_A_WITH_EVERY_B",
+      "properties": {
+        "value": 2,
+        "enum": "PCGBooleanOperationMode",
+        "description": "Each input in A is boolean'd with input in B individually (Cartesian product)"
+      }
+    },
+    {
+      "id": "XY",
+      "type": "enum_value",
+      "label": "XY",
+      "properties": {
+        "value": 0,
+        "enum": "AvaCloneModifierPlane"
+      }
+    },
+    {
+      "id": "ZX",
+      "type": "enum_value",
+      "label": "ZX",
+      "properties": {
+        "value": 1,
+        "enum": "AvaCloneModifierPlane"
+      }
+    },
+    {
+      "id": "YZ",
+      "type": "enum_value",
+      "label": "YZ",
+      "properties": {
+        "value": 2,
+        "enum": "AvaCloneModifierPlane"
+      }
+    },
+    {
+      "id": "HORIZONTAL_BOTTOM_EDGE",
+      "type": "enum_value",
+      "label": "HORIZONTAL_BOTTOM_EDGE",
+      "properties": {
+        "value": 0,
+        "enum": "ThumbnailColorStripOrientation_BlueprintType",
+        "description": "Display the color strip as a horizontal line along the bottom edge"
+      }
+    },
+    {
+      "id": "VERTICAL_RIGHT_EDGE",
+      "type": "enum_value",
+      "label": "VERTICAL_RIGHT_EDGE",
+      "properties": {
+        "value": 1,
+        "enum": "ThumbnailColorStripOrientation_BlueprintType",
+        "description": "Display the color strip as a vertical line along the right edge"
+      }
+    },
+    {
+      "id": "LOWEST",
+      "type": "enum_value",
+      "label": "LOWEST",
+      "properties": {
+        "value": 0,
+        "enum": "WdpCurveSplitLevel"
+      }
+    },
+    {
+      "id": "LOW",
+      "type": "enum_value",
+      "label": "LOW",
+      "properties": {
+        "value": 1,
+        "enum": "WdpCurveSplitLevel"
+      }
+    },
+    {
+      "id": "MIDDLE",
+      "type": "enum_value",
+      "label": "MIDDLE",
+      "properties": {
+        "value": 2,
+        "enum": "WdpCurveSplitLevel"
+      }
+    },
+    {
+      "id": "HIGH",
+      "type": "enum_value",
+      "label": "HIGH",
+      "properties": {
+        "value": 3,
+        "enum": "WdpCurveSplitLevel"
+      }
+    },
+    {
+      "id": "NUM",
+      "type": "enum_value",
+      "label": "NUM",
+      "properties": {
+        "value": 4,
+        "enum": "WdpCurveSplitLevel"
+      }
+    },
+    {
+      "id": "BASE",
+      "type": "enum_value",
+      "label": "BASE",
+      "properties": {
+        "value": 1,
+        "enum": "DMMaterialLayerStage"
+      }
+    },
+    {
+      "id": "MASK",
+      "type": "enum_value",
+      "label": "MASK",
+      "properties": {
+        "value": 2,
+        "enum": "DMMaterialLayerStage"
+      }
+    },
+    {
+      "id": "ALL",
+      "type": "enum_value",
+      "label": "ALL",
+      "properties": {
+        "value": 3,
+        "enum": "DMMaterialLayerStage"
+      }
+    },
+    {
+      "id": "BasicLineSetComponentBase",
+      "type": "class",
+      "label": "BasicLineSetComponentBase"
+    },
+    {
+      "id": "RootMotionModifier",
+      "type": "class",
+      "label": "RootMotionModifier"
+    },
+    {
+      "id": "CompressedImageSequenceProtocol",
+      "type": "class",
+      "label": "CompressedImageSequenceProtocol"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "label": "StructBase"
+    },
+    {
+      "id": "NiagaraDataInterfaceBase",
+      "type": "class",
+      "label": "NiagaraDataInterfaceBase"
+    },
+    {
+      "id": "RigVMFunction_MathBase",
+      "type": "class",
+      "label": "RigVMFunction_MathBase"
+    },
+    {
+      "id": "CoveringWidgetBase",
+      "type": "class",
+      "label": "CoveringWidgetBase"
+    },
+    {
+      "id": "ActorComponent",
+      "type": "class",
+      "label": "ActorComponent"
+    },
+    {
+      "id": "MovieSceneHookSection",
+      "type": "class",
+      "label": "MovieSceneHookSection"
+    },
+    {
+      "id": "AvaShape2DDynMeshBase",
+      "type": "class",
+      "label": "AvaShape2DDynMeshBase"
+    },
+    {
+      "id": "RigVMFunction_MathRBFInterpolateVectorBase",
+      "type": "class",
+      "label": "RigVMFunction_MathRBFInterpolateVectorBase"
+    },
+    {
+      "id": "MovieSceneAvaShapeRectCornerTrack",
+      "type": "class",
+      "label": "MovieSceneAvaShapeRectCornerTrack"
+    },
+    {
+      "id": "RigVMFunction_MathFloatNegate",
+      "type": "class",
+      "label": "RigVMFunction_MathFloatNegate"
+    },
+    {
+      "id": "RigVMFunction_NameBase",
+      "type": "class",
+      "label": "RigVMFunction_NameBase"
+    },
+    {
+      "id": "Vector",
+      "type": "type",
+      "label": "Vector"
+    },
+    {
+      "id": "Quat",
+      "type": "type",
+      "label": "Quat"
+    },
+    {
+      "id": "Transform",
+      "type": "type",
+      "label": "Transform"
+    },
+    {
+      "id": "Vector2D",
+      "type": "type",
+      "label": "Vector2D"
+    },
+    {
+      "id": "Name",
+      "type": "type",
+      "label": "Name"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Basic2DLineSetComponent",
+      "target": "BasicLineSetComponentBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "RootMotionModifier_Warp",
+      "target": "RootMotionModifier",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "ImageSequenceProtocol_PNG",
+      "target": "CompressedImageSequenceProtocol",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "CreateRealTimeVideosParams",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "NiagaraDataInterface",
+      "target": "NiagaraDataInterfaceBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "RigVMFunction_NoiseVector",
+      "target": "RigVMFunction_MathBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "RealTimeVideoWidgetBase",
+      "target": "CoveringWidgetBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "RigUnit_MathFloatNegate",
+      "target": "RigVMFunction_MathFloatNegate",
+      "type": "renamed_to",
+      "label": "deprecated"
+    },
+    {
+      "source": "MovieSceneLensComponentSection",
+      "target": "MovieSceneHookSection",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "AvaShapeEllipseDynamicMesh",
+      "target": "AvaShape2DDynMeshBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "PixelStreamer51CloudInputComponent",
+      "target": "ActorComponent",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "PrefabAssetNameAssets",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "RigUnit_NameBase",
+      "target": "RigVMFunction_NameBase",
+      "type": "renamed_to",
+      "label": "deprecated"
+    },
+    {
+      "source": "Axis",
+      "target": "StructBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "MovieSceneAvaToolboxRectCornerTrack",
+      "target": "MovieSceneAvaShapeRectCornerTrack",
+      "type": "renamed_to",
+      "label": "deprecated"
+    },
+    {
+      "source": "RigVMFunction_MathRBFInterpolateVectorQuat",
+      "target": "RigVMFunction_MathRBFInterpolateVectorBase",
+      "type": "inherits_from",
+      "label": "extends"
+    },
+    {
+      "source": "BODY_COLLISION_ENABLED",
+      "target": "BodyCollisionResponse",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "BODY_COLLISION_DISABLED",
+      "target": "BodyCollisionResponse",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "EACH_A_WITH_EACH_B",
+      "target": "PCGBooleanOperationMode",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "EACH_A_WITH_EACH_B_SEQUENTIALLY",
+      "target": "PCGBooleanOperationMode",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "EACH_A_WITH_EVERY_B",
+      "target": "PCGBooleanOperationMode",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "XY",
+      "target": "AvaCloneModifierPlane",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "ZX",
+      "target": "AvaCloneModifierPlane",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "YZ",
+      "target": "AvaCloneModifierPlane",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "HORIZONTAL_BOTTOM_EDGE",
+      "target": "ThumbnailColorStripOrientation_BlueprintType",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "VERTICAL_RIGHT_EDGE",
+      "target": "ThumbnailColorStripOrientation_BlueprintType",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "LOWEST",
+      "target": "WdpCurveSplitLevel",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "LOW",
+      "target": "WdpCurveSplitLevel",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "MIDDLE",
+      "target": "WdpCurveSplitLevel",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "HIGH",
+      "target": "WdpCurveSplitLevel",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "NUM",
+      "target": "WdpCurveSplitLevel",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "BASE",
+      "target": "DMMaterialLayerStage",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "MASK",
+      "target": "DMMaterialLayerStage",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "ALL",
+      "target": "DMMaterialLayerStage",
+      "type": "enum_value_of",
+      "label": "value of"
+    },
+    {
+      "source": "RootMotionModifier_Warp",
+      "target": "Vector",
+      "type": "has_property_type",
+      "label": "property type",
+      "properties": {
+        "property_name": "start_transform"
+      }
+    },
+    {
+      "source": "RootMotionModifier_Warp",
+      "target": "Name",
+      "type": "has_property_type",
+      "label": "property type",
+      "properties": {
+        "property_name": "warp_target_name"
+      }
+    },
+    {
+      "source": "RootMotionModifier_Warp",
+      "target": "Transform",
+      "type": "has_property_type",
+      "label": "property type",
+      "properties": {
+        "property_name": "warp_point_anim_transform"
+      }
+    },
+    {
+      "source": "RigVMFunction_NoiseVector",
+      "target": "Vector",
+      "type": "has_property_type",
+      "label": "property type",
+      "properties": {
+        "property_name": "position"
+      }
+    },
+    {
+      "source": "RigVMFunction_NoiseVector",
+      "target": "Vector",
+      "type": "has_property_type",
+      "label": "property type",
+      "properties": {
+        "property_name": "result"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathRBFInterpolateVectorQuat",
+      "target": "Vector",
+      "type": "has_property_type",
+      "label": "property type",
+      "properties": {
+        "property_name": "input"
+      }
+    },
+    {
+      "source": "RigVMFunction_MathRBFInterpolateVectorQuat",
+      "target": "Quat",
+      "type": "has_property_type",
+      "label": "property type",
+      "properties": {
+        "property_name": "output"
+      }
+    },
+    {
+      "source": "AvaShapeEllipseDynamicMesh",
+      "target": "Vector2D",
+      "type": "has_property_type",
+      "label": "property type",
+      "properties": {
+        "property_name": "size2d"
+      }
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_motion_warping_plugin",
+      "type": "module_grouping",
+      "label": "Motion Warping Plugin Classes",
+      "nodes": [
+        "RootMotionModifier_Warp"
+      ],
+      "description": "Classes from the MotionWarping plugin for root motion modification"
+    },
+    {
+      "id": "he_niagara_plugin",
+      "type": "plugin_grouping",
+      "label": "Niagara Plugin Classes",
+      "nodes": [
+        "NiagaraDataInterface"
+      ],
+      "description": "Classes from the Niagara plugin for particle effects"
+    },
+    {
+      "id": "he_rigvm_plugin",
+      "type": "plugin_grouping",
+      "label": "RigVM Plugin Classes",
+      "nodes": [
+        "RigVMFunction_NoiseVector",
+        "RigVMFunction_MathRBFInterpolateVectorQuat",
+        "RigUnit_MathFloatNegate",
+        "RigUnit_NameBase"
+      ],
+      "description": "Classes from the RigVM plugin for rigging and animation"
+    },
+    {
+      "id": "he_covering_api_plugin",
+      "type": "plugin_grouping",
+      "label": "CoveringAPI Plugin Classes",
+      "nodes": [
+        "CreateRealTimeVideosParams",
+        "RealTimeVideoWidgetBase"
+      ],
+      "description": "Classes from the CoveringAPI plugin"
+    },
+    {
+      "id": "he_deprecated_classes",
+      "type": "status_grouping",
+      "label": "Deprecated Classes",
+      "nodes": [
+        "AvaCloneModifierPlane",
+        "RigUnit_MathFloatNegate",
+        "RigUnit_NameBase",
+        "MovieSceneAvaToolboxRectCornerTrack"
+      ],
+      "description": "Classes that have been deprecated and renamed"
+    },
+    {
+      "id": "he_struct_base_hierarchy",
+      "type": "inheritance_grouping",
+      "label": "StructBase Inheritance Tree",
+      "nodes": [
+        "CreateRealTimeVideosParams",
+        "PrefabAssetNameAssets",
+        "Axis",
+        "StructBase"
+      ],
+      "description": "Classes inheriting from StructBase"
+    },
+    {
+      "id": "he_component_classes",
+      "type": "category_grouping",
+      "label": "Component Classes",
+      "nodes": [
+        "Basic2DLineSetComponent",
+        "PixelStreamer51CloudInputComponent",
+        "AvaShapeEllipseDynamicMesh"
+      ],
+      "description": "Classes that are components"
+    },
+    {
+      "id": "he_enum_types",
+      "type": "category_grouping",
+      "label": "Enumeration Types",
+      "nodes": [
+        "BodyCollisionResponse",
+        "PCGBooleanOperationMode",
+        "AvaCloneModifierPlane",
+        "ThumbnailColorStripOrientation_BlueprintType",
+        "WdpCurveSplitLevel",
+        "DMMaterialLayerStage"
+      ],
+      "description": "All enumeration types in this chunk"
+    },
+    {
+      "id": "he_vector_using_classes",
+      "type": "property_type_grouping",
+      "label": "Classes Using Vector Type",
+      "nodes": [
+        "RootMotionModifier_Warp",
+        "RigVMFunction_NoiseVector",
+        "RigVMFunction_MathRBFInterpolateVectorQuat",
+        "Vector"
+      ],
+      "description": "Classes that have properties of type Vector"
+    },
+    {
+      "id": "he_movie_scene_section_classes",
+      "type": "module_grouping",
+      "label": "Movie Scene Section Classes",
+      "nodes": [
+        "MovieSceneLensComponentSection",
+        "ImageSequenceProtocol_PNG"
+      ],
+      "description": "Classes related to movie scene capture and sections"
+    }
+  ],
+  "metadata": {
+    "chunk_id": 654,
+    "source_files": [
+      "Basic2DLineSetComponent Objects.md",
+      "RootMotionModifier_Warp Objects.md",
+      "ImageSequenceProtocol_PNG Objects.md",
+      "CreateRealTimeVideosParams Objects.md",
+      "NiagaraDataInterface Objects.md",
+      "BodyCollisionResponse Objects.md",
+      "PCGBooleanOperationMode Objects.md",
+      "RigVMFunction_NoiseVector Objects.md",
+      "RealTimeVideoWidgetBase Objects.md",
+      "AvaCloneModifierPlane Objects.md",
+      "RigUnit__MathFloatNegate Objects.md",
+      "MovieSceneLensComponentSection Objects.md",
+      "AvaShapeEllipseDynamicMesh Objects.md",
+      "PixelStreamer51CloudInputComponent Objects.md",
+      "PrefabAssetNameAssets Objects.md",
+      "ThumbnailColorStripOrientation__BlueprintType Objects.md",
+      "RigUnit_NameBase Objects.md",
+      "WdpCurveSplitLevel Objects.md",
+      "Axis Objects.md",
+      "DMMaterialLayerStage Objects.md",
+      "MovieSceneAvaToolboxRectCornerTrack Objects.md",
+      "RigVMFunction__MathRBFInterpolateVectorQuat Objects.md"
+    ],
+    "extraction_timestamp": "2026-04-12",
+    "node_count": 58,
+    "edge_count": 41,
+    "hyperedge_count": 10
+  }
+}

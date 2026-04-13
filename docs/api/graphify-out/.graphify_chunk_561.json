@@ -1,0 +1,654 @@
+{
+  "nodes": [
+    {
+      "id": "statetreenodeformatting_statetreenodeformatting",
+      "label": "StateTreeNodeFormatting",
+      "file_type": "code",
+      "source_file": "StateTreeNodeFormatting Objects.md"
+    },
+    {
+      "id": "polygon2datom_polygon2datom",
+      "label": "Polygon2DAtom",
+      "file_type": "code",
+      "source_file": "Polygon2DAtom Objects.md"
+    },
+    {
+      "id": "polygon2datom_wdppolygon2d",
+      "label": "WdpPolygon2D",
+      "file_type": "code",
+      "source_file": "Polygon2DAtom Objects.md"
+    },
+    {
+      "id": "interchangeanimationtracksetfactorynode_interchangeanimationtracksetfactorynode",
+      "label": "InterchangeAnimationTrackSetFactoryNode",
+      "file_type": "code",
+      "source_file": "InterchangeAnimationTrackSetFactoryNode Objects.md"
+    },
+    {
+      "id": "soundnodewaveparam_soundnodewaveparam",
+      "label": "SoundNodeWaveParam",
+      "file_type": "code",
+      "source_file": "SoundNodeWaveParam Objects.md"
+    },
+    {
+      "id": "soundnodewaveparam_soundnode",
+      "label": "SoundNode",
+      "file_type": "code",
+      "source_file": "SoundNodeWaveParam Objects.md"
+    },
+    {
+      "id": "optimusrawbufferdataprovider_optimusrawbufferdataprovider",
+      "label": "OptimusRawBufferDataProvider",
+      "file_type": "code",
+      "source_file": "OptimusRawBufferDataProvider Objects.md"
+    },
+    {
+      "id": "materialexpressiongenericconstant_materialexpressiongenericconstant",
+      "label": "MaterialExpressionGenericConstant",
+      "file_type": "code",
+      "source_file": "MaterialExpressionGenericConstant Objects.md"
+    },
+    {
+      "id": "geometryscriptmeshmirroroptions_geometryscriptmeshmirroroptions",
+      "label": "GeometryScriptMeshMirrorOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptMeshMirrorOptions Objects.md"
+    },
+    {
+      "id": "pcgdifferencemode_pcgdifferencemode",
+      "label": "PCGDifferenceMode",
+      "file_type": "code",
+      "source_file": "PCGDifferenceMode Objects.md"
+    },
+    {
+      "id": "charactertrajectorydata_charactertrajectorydata",
+      "label": "CharacterTrajectoryData",
+      "file_type": "code",
+      "source_file": "CharacterTrajectoryData Objects.md"
+    },
+    {
+      "id": "charactertrajectorydata_runtimefloatcurve",
+      "label": "RuntimeFloatCurve",
+      "file_type": "code",
+      "source_file": "CharacterTrajectoryData Objects.md"
+    },
+    {
+      "id": "geometryscriptbaketargetmeshoptions_geometryscriptbaketargetmeshoptions",
+      "label": "GeometryScriptBakeTargetMeshOptions",
+      "file_type": "code",
+      "source_file": "GeometryScriptBakeTargetMeshOptions Objects.md"
+    },
+    {
+      "id": "aesterraincomponent_aesterraincomponent",
+      "label": "AesTerrainComponent",
+      "file_type": "code",
+      "source_file": "AesTerrainComponent Objects.md"
+    },
+    {
+      "id": "aesterraincomponent_materialinterface",
+      "label": "MaterialInterface",
+      "file_type": "code",
+      "source_file": "AesTerrainComponent Objects.md"
+    },
+    {
+      "id": "aesterraincomponent_aesmateriallevelrange",
+      "label": "AesMaterialLevelRange",
+      "file_type": "code",
+      "source_file": "AesTerrainComponent Objects.md"
+    },
+    {
+      "id": "aesterraincomponent_texturerendertarget2d",
+      "label": "TextureRenderTarget2D",
+      "file_type": "code",
+      "source_file": "AesTerrainComponent Objects.md"
+    },
+    {
+      "id": "createtext3dparams_batch_createtext3dparams_batch",
+      "label": "CreateText3DParams_Batch",
+      "file_type": "code",
+      "source_file": "CreateText3DParams__Batch Objects.md"
+    },
+    {
+      "id": "createtext3dparams_batch_createtext3dsparams",
+      "label": "CreateText3DsParams",
+      "file_type": "code",
+      "source_file": "CreateText3DParams__Batch Objects.md"
+    },
+    {
+      "id": "collisionresponse_collisionresponse",
+      "label": "CollisionResponse",
+      "file_type": "code",
+      "source_file": "CollisionResponse Objects.md"
+    },
+    {
+      "id": "collisionresponse_responsechannel",
+      "label": "ResponseChannel",
+      "file_type": "code",
+      "source_file": "CollisionResponse Objects.md"
+    },
+    {
+      "id": "autortfmtestchildactorcomponent_autortfmtestchildactorcomponent",
+      "label": "AutoRTFMTestChildActorComponent",
+      "file_type": "code",
+      "source_file": "AutoRTFMTestChildActorComponent Objects.md"
+    },
+    {
+      "id": "autortfmtestchildactorcomponent_childactorcomponent",
+      "label": "ChildActorComponent",
+      "file_type": "code",
+      "source_file": "AutoRTFMTestChildActorComponent Objects.md"
+    },
+    {
+      "id": "autortfmtestchildactorcomponent_actor",
+      "label": "Actor",
+      "file_type": "code",
+      "source_file": "AutoRTFMTestChildActorComponent Objects.md"
+    },
+    {
+      "id": "overrideblockonslowstreaming_overrideblockonslowstreaming",
+      "label": "OverrideBlockOnSlowStreaming",
+      "file_type": "code",
+      "source_file": "OverrideBlockOnSlowStreaming Objects.md"
+    },
+    {
+      "id": "datalayerinstanceprivate_datalayerinstanceprivate",
+      "label": "DataLayerInstancePrivate",
+      "file_type": "code",
+      "source_file": "DataLayerInstancePrivate Objects.md"
+    },
+    {
+      "id": "datalayerinstanceprivate_datalayerasset",
+      "label": "DataLayerAsset",
+      "file_type": "code",
+      "source_file": "DataLayerInstancePrivate Objects.md"
+    },
+    {
+      "id": "gameplayeffectattributecapturedefinition_gameplayeffectattributecapturedefinition",
+      "label": "GameplayEffectAttributeCaptureDefinition",
+      "file_type": "code",
+      "source_file": "GameplayEffectAttributeCaptureDefinition Objects.md"
+    },
+    {
+      "id": "gameplayeffectattributecapturedefinition_gameplayattribute",
+      "label": "GameplayAttribute",
+      "file_type": "code",
+      "source_file": "GameplayEffectAttributeCaptureDefinition Objects.md"
+    },
+    {
+      "id": "gameplayeffectattributecapturedefinition_gameplayeffectattributecapturesource",
+      "label": "GameplayEffectAttributeCaptureSource",
+      "file_type": "code",
+      "source_file": "GameplayEffectAttributeCaptureDefinition Objects.md"
+    },
+    {
+      "id": "rigunit_mathvectordistance_rigunit_mathvectordistance",
+      "label": "RigUnit_MathVectorDistance",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorDistance Objects.md"
+    },
+    {
+      "id": "rigunit_mathvectordistance_rigvmfunction_mathvectordistance",
+      "label": "RigVMFunction_MathVectorDistance",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorDistance Objects.md"
+    },
+    {
+      "id": "rigunit_mathvectordistance_vector",
+      "label": "Vector",
+      "file_type": "code",
+      "source_file": "RigUnit_MathVectorDistance Objects.md"
+    },
+    {
+      "id": "cesiumbingmapsrasteroverlay_cesiumbingmapsrasteroverlay",
+      "label": "CesiumBingMapsRasterOverlay",
+      "file_type": "code",
+      "source_file": "CesiumBingMapsRasterOverlay Objects.md"
+    },
+    {
+      "id": "cesiumbingmapsrasteroverlay_cesiumrasteroverlay",
+      "label": "CesiumRasterOverlay",
+      "file_type": "code",
+      "source_file": "CesiumBingMapsRasterOverlay Objects.md"
+    },
+    {
+      "id": "cesiumbingmapsrasteroverlay_bingmapsstyle",
+      "label": "BingMapsStyle",
+      "file_type": "code",
+      "source_file": "CesiumBingMapsRasterOverlay Objects.md"
+    },
+    {
+      "id": "rigunit_accumulatevectorrange_rigunit_accumulatevectorrange",
+      "label": "RigUnit_AccumulateVectorRange",
+      "file_type": "code",
+      "source_file": "RigUnit_AccumulateVectorRange Objects.md"
+    },
+    {
+      "id": "rigunit_accumulatevectorrange_rigvmfunction_accumulatevectorrange",
+      "label": "RigVMFunction_AccumulateVectorRange",
+      "file_type": "code",
+      "source_file": "RigUnit_AccumulateVectorRange Objects.md"
+    },
+    {
+      "id": "toolmenustringcommand_toolmenustringcommand",
+      "label": "ToolMenuStringCommand",
+      "file_type": "code",
+      "source_file": "ToolMenuStringCommand Objects.md"
+    },
+    {
+      "id": "toolmenustringcommand_toolmenustringcommandtype",
+      "label": "ToolMenuStringCommandType",
+      "file_type": "code",
+      "source_file": "ToolMenuStringCommand Objects.md"
+    },
+    {
+      "id": "textblock_textblock",
+      "label": "TextBlock",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_textlayoutwidget",
+      "label": "TextLayoutWidget",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_slatefontinfo",
+      "label": "SlateFontInfo",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_slatebrush",
+      "label": "SlateBrush",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_slatecolor",
+      "label": "SlateColor",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_linearcolor",
+      "label": "LinearColor",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_vector2d",
+      "label": "Vector2D",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_materialinstancedynamic",
+      "label": "MaterialInstanceDynamic",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_texttransformpolicy",
+      "label": "TextTransformPolicy",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "textblock_textoverflowpolicy",
+      "label": "TextOverflowPolicy",
+      "file_type": "code",
+      "source_file": "TextBlock Objects.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "polygon2datom_polygon2datom",
+      "target": "polygon2datom_wdppolygon2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Polygon2DAtom Objects.md"
+    },
+    {
+      "source": "interchangeanimationtracksetfactorynode_interchangeanimationtracksetfactorynode",
+      "target": "interchangeanimationtracksetfactorynode_interchangeanimationtracksetfactorynode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeAnimationTrackSetFactoryNode Objects.md"
+    },
+    {
+      "source": "soundnodewaveparam_soundnodewaveparam",
+      "target": "soundnodewaveparam_soundnode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundNodeWaveParam Objects.md"
+    },
+    {
+      "source": "charactertrajectorydata_charactertrajectorydata",
+      "target": "charactertrajectorydata_runtimefloatcurve",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CharacterTrajectoryData Objects.md"
+    },
+    {
+      "source": "aesterraincomponent_aesterraincomponent",
+      "target": "aesterraincomponent_materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainComponent Objects.md"
+    },
+    {
+      "source": "aesterraincomponent_aesterraincomponent",
+      "target": "aesterraincomponent_aesmateriallevelrange",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainComponent Objects.md"
+    },
+    {
+      "source": "aesterraincomponent_aesterraincomponent",
+      "target": "aesterraincomponent_texturerendertarget2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesTerrainComponent Objects.md"
+    },
+    {
+      "source": "createtext3dparams_batch_createtext3dparams_batch",
+      "target": "createtext3dparams_batch_createtext3dsparams",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CreateText3DParams__Batch Objects.md"
+    },
+    {
+      "source": "collisionresponse_collisionresponse",
+      "target": "collisionresponse_responsechannel",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CollisionResponse Objects.md"
+    },
+    {
+      "source": "autortfmtestchildactorcomponent_autortfmtestchildactorcomponent",
+      "target": "autortfmtestchildactorcomponent_childactorcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AutoRTFMTestChildActorComponent Objects.md"
+    },
+    {
+      "source": "autortfmtestchildactorcomponent_autortfmtestchildactorcomponent",
+      "target": "autortfmtestchildactorcomponent_actor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AutoRTFMTestChildActorComponent Objects.md"
+    },
+    {
+      "source": "datalayerinstanceprivate_datalayerinstanceprivate",
+      "target": "overrideblockonslowstreaming_overrideblockonslowstreaming",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataLayerInstancePrivate Objects.md"
+    },
+    {
+      "source": "datalayerinstanceprivate_datalayerinstanceprivate",
+      "target": "datalayerinstanceprivate_datalayerasset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataLayerInstancePrivate Objects.md"
+    },
+    {
+      "source": "gameplayeffectattributecapturedefinition_gameplayeffectattributecapturedefinition",
+      "target": "gameplayeffectattributecapturedefinition_gameplayattribute",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectAttributeCaptureDefinition Objects.md"
+    },
+    {
+      "source": "gameplayeffectattributecapturedefinition_gameplayeffectattributecapturedefinition",
+      "target": "gameplayeffectattributecapturedefinition_gameplayeffectattributecapturesource",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GameplayEffectAttributeCaptureDefinition Objects.md"
+    },
+    {
+      "source": "rigunit_mathvectordistance_rigunit_mathvectordistance",
+      "target": "rigunit_mathvectordistance_rigvmfunction_mathvectordistance",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorDistance Objects.md"
+    },
+    {
+      "source": "rigunit_mathvectordistance_rigunit_mathvectordistance",
+      "target": "rigunit_mathvectordistance_vector",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorDistance Objects.md"
+    },
+    {
+      "source": "cesiumbingmapsrasteroverlay_cesiumbingmapsrasteroverlay",
+      "target": "cesiumbingmapsrasteroverlay_cesiumrasteroverlay",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumBingMapsRasterOverlay Objects.md"
+    },
+    {
+      "source": "cesiumbingmapsrasteroverlay_cesiumbingmapsrasteroverlay",
+      "target": "cesiumbingmapsrasteroverlay_bingmapsstyle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CesiumBingMapsRasterOverlay Objects.md"
+    },
+    {
+      "source": "rigunit_accumulatevectorrange_rigunit_accumulatevectorrange",
+      "target": "rigunit_accumulatevectorrange_rigvmfunction_accumulatevectorrange",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_AccumulateVectorRange Objects.md"
+    },
+    {
+      "source": "toolmenustringcommand_toolmenustringcommand",
+      "target": "toolmenustringcommand_toolmenustringcommandtype",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ToolMenuStringCommand Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_textlayoutwidget",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_slatefontinfo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_slatebrush",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_slatecolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_linearcolor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_vector2d",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "aesterraincomponent_materialinterface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_materialinstancedynamic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_texttransformpolicy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "textblock_textblock",
+      "target": "textblock_textoverflowpolicy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "source": "rigunit_accumulatevectorrange_rigunit_accumulatevectorrange",
+      "target": "rigunit_mathvectordistance_vector",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_AccumulateVectorRange Objects.md"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rig_classes",
+      "label": "Deprecated Rig Classes",
+      "nodes": [
+        "rigunit_mathvectordistance_rigunit_mathvectordistance",
+        "rigunit_accumulatevectorrange_rigunit_accumulatevectorrange"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathVectorDistance Objects.md"
+    },
+    {
+      "id": "terrain_material_system",
+      "label": "Terrain Material System",
+      "nodes": [
+        "aesterraincomponent_aesterraincomponent",
+        "aesterraincomponent_materialinterface",
+        "aesterraincomponent_aesmateriallevelrange"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AesTerrainComponent Objects.md"
+    },
+    {
+      "id": "text_rendering_components",
+      "label": "Text Rendering Components",
+      "nodes": [
+        "textblock_textblock",
+        "textblock_slatefontinfo",
+        "textblock_slatebrush",
+        "textblock_slatecolor"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "TextBlock Objects.md"
+    },
+    {
+      "id": "gameplay_attribute_capture_system",
+      "label": "Gameplay Attribute Capture System",
+      "nodes": [
+        "gameplayeffectattributecapturedefinition_gameplayeffectattributecapturedefinition",
+        "gameplayeffectattributecapturedefinition_gameplayattribute",
+        "gameplayeffectattributecapturedefinition_gameplayeffectattributecapturesource"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "GameplayEffectAttributeCaptureDefinition Objects.md"
+    },
+    {
+      "id": "collision_response_system",
+      "label": "Collision Response System",
+      "nodes": [
+        "collisionresponse_collisionresponse",
+        "collisionresponse_responsechannel"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CollisionResponse Objects.md"
+    },
+    {
+      "id": "data_layer_configuration",
+      "label": "Data Layer Configuration",
+      "nodes": [
+        "datalayerinstanceprivate_datalayerinstanceprivate",
+        "overrideblockonslowstreaming_overrideblockonslowstreaming",
+        "datalayerinstanceprivate_datalayerasset"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DataLayerInstancePrivate Objects.md"
+    },
+    {
+      "id": "vector_math_operations",
+      "label": "Vector Math Operations",
+      "nodes": [
+        "rigunit_mathvectordistance_rigunit_mathvectordistance",
+        "rigunit_accumulatevectorrange_rigunit_accumulatevectorrange",
+        "rigunit_mathvectordistance_vector"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathVectorDistance Objects.md"
+    }
+  ]
+}

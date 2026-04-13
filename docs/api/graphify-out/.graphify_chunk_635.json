@@ -1,0 +1,887 @@
+{
+  "nodes": [
+    {
+      "id": "waterbrusheffectcurlnoise",
+      "label": "WaterBrushEffectCurlNoise",
+      "file_type": "document",
+      "source_file": "WaterBrushEffectCurlNoise Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "water_brush_effect",
+      "label": "Water Brush Effect",
+      "file_type": "document",
+      "source_file": "WaterBrushEffectCurlNoise Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "curl_noise",
+      "label": "Curl Noise",
+      "file_type": "document",
+      "source_file": "WaterBrushEffectCurlNoise Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddcontrol_settings",
+      "label": "RigUnit HierarchyAddControl Settings",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControl__Settings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig",
+      "label": "Control Rig",
+      "file_type": "document",
+      "source_file": "RigUnit__HierarchyAddControl__Settings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xrspacetype",
+      "label": "XRSpaceType",
+      "file_type": "document",
+      "source_file": "XRSpaceType Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xr_coordinate_system",
+      "label": "XR Coordinate System",
+      "file_type": "document",
+      "source_file": "XRSpaceType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "unreal_world_space",
+      "label": "Unreal World Space",
+      "file_type": "document",
+      "source_file": "XRSpaceType Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xr_tracking_space",
+      "label": "XR Tracking Space",
+      "file_type": "document",
+      "source_file": "XRSpaceType Objects.md",
+      "source_location": "line 26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rb_thruster",
+      "label": "RB Thruster",
+      "file_type": "document",
+      "source_file": "RB__Thruster Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "physics_thruster",
+      "label": "Physics Thruster",
+      "file_type": "document",
+      "source_file": "RB__Thruster Objects.md",
+      "source_location": "line 7",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexture2darrayfactorynode",
+      "label": "InterchangeTexture2DArrayFactoryNode",
+      "file_type": "document",
+      "source_file": "InterchangeTexture2DArrayFactoryNode Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchange_system",
+      "label": "Interchange System",
+      "file_type": "document",
+      "source_file": "InterchangeTexture2DArrayFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "propertyanimatorcoretimesourcebase",
+      "label": "PropertyAnimatorCoreTimeSourceBase",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreTimeSourceBase Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "property_animator",
+      "label": "Property Animator",
+      "file_type": "document",
+      "source_file": "PropertyAnimatorCoreTimeSourceBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aeseditorvectorstyle",
+      "label": "AesEditorVectorStyle",
+      "file_type": "document",
+      "source_file": "AesEditorVectorStyle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "aes_world_plugin",
+      "label": "Aes World Plugin",
+      "file_type": "document",
+      "source_file": "AesEditorVectorStyle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datadrivencvarenginesubsystem_ondatadrivencvarchanged",
+      "label": "DataDrivenCVarEngineSubsystem OnDataDrivenCVarChanged",
+      "file_type": "document",
+      "source_file": "DataDrivenCVarEngineSubsystem__OnDataDrivenCVarChanged Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "console_variable_system",
+      "label": "Console Variable System",
+      "file_type": "document",
+      "source_file": "DataDrivenCVarEngineSubsystem__OnDataDrivenCVarChanged Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_setdeformernamevariable",
+      "label": "RigVMTrait SetDeformerNameVariable",
+      "file_type": "document",
+      "source_file": "RigVMTrait__SetDeformerNameVariable Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deformer_graph",
+      "label": "Deformer Graph",
+      "file_type": "document",
+      "source_file": "RigVMTrait__SetDeformerNameVariable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smartobjectslotthandle",
+      "label": "SmartObjectSlotHandle",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotHandle Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "smart_objects",
+      "label": "Smart Objects",
+      "file_type": "document",
+      "source_file": "SmartObjectSlotHandle Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "componenthitsignature",
+      "label": "ComponentHitSignature",
+      "file_type": "document",
+      "source_file": "ComponentHitSignature Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "collision_system",
+      "label": "Collision System",
+      "file_type": "document",
+      "source_file": "ComponentHitSignature Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animationsetup",
+      "label": "AnimationSetup",
+      "file_type": "document",
+      "source_file": "AnimationSetup Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animation_sharing",
+      "label": "Animation Sharing",
+      "file_type": "document",
+      "source_file": "AnimationSetup Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialstageexpressiontexturesample",
+      "label": "DMMaterialStageExpressionTextureSample",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionTextureSample Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamic_material",
+      "label": "Dynamic Material",
+      "file_type": "document",
+      "source_file": "DMMaterialStageExpressionTextureSample Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "takerecorderplayersource",
+      "label": "TakeRecorderPlayerSource",
+      "file_type": "document",
+      "source_file": "TakeRecorderPlayerSource Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "take_recorder",
+      "label": "Take Recorder",
+      "file_type": "document",
+      "source_file": "TakeRecorderPlayerSource Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbxfactory",
+      "label": "FbxFactory",
+      "file_type": "document",
+      "source_file": "FbxFactory Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fbx_import",
+      "label": "FBX Import",
+      "file_type": "document",
+      "source_file": "FbxFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcggetvolumesettings",
+      "label": "PCGGetVolumeSettings",
+      "file_type": "document",
+      "source_file": "PCGGetVolumeSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_content_generation",
+      "label": "Procedural Content Generation",
+      "file_type": "document",
+      "source_file": "PCGGetVolumeSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathvectormin",
+      "label": "RigVMFunction MathVectorMin",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorMin Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_math",
+      "label": "RigVM Math",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathVectorMin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboxgetsize",
+      "label": "RigVMFunction MathBoxGetSize",
+      "file_type": "document",
+      "source_file": "RigVMFunction__MathBoxGetSize Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avatoolboxspheredynamicmesh",
+      "label": "AvaToolboxSphereDynamicMesh",
+      "file_type": "document",
+      "source_file": "AvaToolboxSphereDynamicMesh Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "avashape_dynamic_mesh",
+      "label": "AvaShape Dynamic Mesh",
+      "file_type": "document",
+      "source_file": "AvaToolboxSphereDynamicMesh Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "submixeffectdynamicprocessorfiltersettings",
+      "label": "SubmixEffectDynamicProcessorFilterSettings",
+      "file_type": "document",
+      "source_file": "SubmixEffectDynamicProcessorFilterSettings Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audio_mixing",
+      "label": "Audio Mixing",
+      "file_type": "document",
+      "source_file": "SubmixEffectDynamicProcessorFilterSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "automatedlevelsequencecapture",
+      "label": "AutomatedLevelSequenceCapture",
+      "file_type": "document",
+      "source_file": "AutomatedLevelSequenceCapture Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "movie_capture",
+      "label": "Movie Capture",
+      "file_type": "document",
+      "source_file": "AutomatedLevelSequenceCapture Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthfacadefragment",
+      "label": "EarthFacadeFragment",
+      "file_type": "document",
+      "source_file": "EarthFacadeFragment Objects.md",
+      "source_location": "line 4",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth_prefab",
+      "label": "Earth Prefab",
+      "file_type": "document",
+      "source_file": "EarthFacadeFragment Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "waterbrusheffectcurlnoise",
+      "target": "water_brush_effect",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBrushEffectCurlNoise Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "waterbrusheffectcurlnoise",
+      "target": "curl_noise",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WaterBrushEffectCurlNoise Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddcontrol_settings",
+      "target": "control_rig",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__HierarchyAddControl__Settings Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "xrspacetype",
+      "target": "xr_coordinate_system",
+      "relation": "defines",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "XRSpaceType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "unreal_world_space",
+      "target": "xrspacetype",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "XRSpaceType Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "xr_tracking_space",
+      "target": "xrspacetype",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "XRSpaceType Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "rb_thruster",
+      "target": "physics_thruster",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RB__Thruster Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexture2darrayfactorynode",
+      "target": "interchange_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "InterchangeTexture2DArrayFactoryNode Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "propertyanimatorcoretimesourcebase",
+      "target": "property_animator",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PropertyAnimatorCoreTimeSourceBase Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorvectorstyle",
+      "target": "aes_world_plugin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AesEditorVectorStyle Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "datadrivencvarenginesubsystem_ondatadrivencvarchanged",
+      "target": "console_variable_system",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DataDrivenCVarEngineSubsystem__OnDataDrivenCVarChanged Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformernamevariable",
+      "target": "deformer_graph",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMTrait__SetDeformerNameVariable Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmtrait_setdeformernamevariable",
+      "target": "rigvm_math",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMTrait__SetDeformerNameVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "smartobjectslotthandle",
+      "target": "smart_objects",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SmartObjectSlotHandle Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "componenthitsignature",
+      "target": "collision_system",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ComponentHitSignature Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "animationsetup",
+      "target": "animation_sharing",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimationSetup Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialstageexpressiontexturesample",
+      "target": "dynamic_material",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialStageExpressionTextureSample Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "takerecorderplayersource",
+      "target": "take_recorder",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TakeRecorderPlayerSource Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "fbxfactory",
+      "target": "fbx_import",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "FbxFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcggetvolumesettings",
+      "target": "procedural_content_generation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGGetVolumeSettings Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormin",
+      "target": "rigvm_math",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathVectorMin Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathboxgetsize",
+      "target": "rigvm_math",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoxGetSize Objects.md",
+      "source_location": "line 11",
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathvectormin",
+      "target": "rigvmfunction_mathboxgetsize",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathVectorMin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "avatoolboxspheredynamicmesh",
+      "target": "avashape_dynamic_mesh",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AvaToolboxSphereDynamicMesh Objects.md",
+      "source_location": "line 7",
+      "weight": 1.0
+    },
+    {
+      "source": "submixeffectdynamicprocessorfiltersettings",
+      "target": "audio_mixing",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SubmixEffectDynamicProcessorFilterSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "automatedlevelsequencecapture",
+      "target": "movie_capture",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AutomatedLevelSequenceCapture Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "earthfacadefragment",
+      "target": "earth_prefab",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EarthFacadeFragment Objects.md",
+      "source_location": "line 12",
+      "weight": 1.0
+    },
+    {
+      "source": "aeseditorvectorstyle",
+      "target": "earthfacadefragment",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AesEditorVectorStyle Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "control_rig",
+      "target": "rigvm_math",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigUnit__HierarchyAddControl__Settings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deformer_graph",
+      "target": "control_rig",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMTrait__SetDeformerNameVariable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animation_sharing",
+      "target": "take_recorder",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "AnimationSetup Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dynamic_material",
+      "target": "procedural_content_generation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DMMaterialStageExpressionTextureSample Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "water_brush_effect",
+      "target": "procedural_content_generation",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "WaterBrushEffectCurlNoise Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigvm_ecosystem",
+      "label": "RigVM Ecosystem",
+      "nodes": [
+        "rigvmtrait_setdeformernamevariable",
+        "rigvmfunction_mathvectormin",
+        "rigvmfunction_mathboxgetsize",
+        "control_rig"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMTrait__SetDeformerNameVariable Objects.md"
+    },
+    {
+      "id": "procedural_generation_tools",
+      "label": "Procedural Generation Tools",
+      "nodes": [
+        "pcggetvolumesettings",
+        "waterbrusheffectcurlnoise",
+        "dmmaterialstageexpressiontexturesample",
+        "earthfacadefragment"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PCGGetVolumeSettings Objects.md"
+    },
+    {
+      "id": "xr_system",
+      "label": "XR System",
+      "nodes": [
+        "xrspacetype",
+        "unreal_world_space",
+        "xr_tracking_space"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "XRSpaceType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

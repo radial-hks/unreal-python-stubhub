@@ -1,0 +1,240 @@
+{
+  "nodes": [
+    {"id": "Exporter", "type": "class", "module": "Engine", "file": "Exporter.h", "description": "Base exporter class for exporting assets"},
+    {"id": "Object", "type": "class", "description": "Base object class in Unreal Engine"},
+    {"id": "ResonanceAudioDirectivityVisualizer", "type": "class", "module": "ResonanceAudio", "plugin": "ResonanceAudio", "file": "ResonanceAudioDirectivityVisualizer.h", "description": "Visualizer for Resonance Audio directivity"},
+    {"id": "Actor", "type": "class", "description": "Base actor class in Unreal Engine"},
+    {"id": "ExporterFBX", "type": "class", "module": "UnrealEd", "file": "ExporterFbx.h", "description": "FBX format exporter"},
+    {"id": "BroadphaseSettings", "type": "class", "module": "Engine", "file": "WorldSettings.h", "description": "Settings for PhysX broadphase configuration"},
+    {"id": "StructBase", "type": "class", "description": "Base struct class"},
+    {"id": "RemoteControlProperty", "type": "class", "module": "RemoteControl", "plugin": "RemoteControl", "file": "RemoteControlField.h", "description": "Represents a property exposed to remote control"},
+    {"id": "RemoteControlField", "type": "class", "description": "Base class for remote control fields"},
+    {"id": "MovementComp_Rotating", "type": "class", "deprecated": true, "renamed_to": "RotatingMovementComponent", "description": "Deprecated rotating movement component"},
+    {"id": "RotatingMovementComponent", "type": "class", "description": "Component for rotating movement"},
+    {"id": "DatasmithTranslatedSceneImportData", "type": "class", "module": "DatasmithContent", "plugin": "DatasmithContent", "file": "DatasmithAssetImportData.h", "description": "Import data for Datasmith scenes through translator system"},
+    {"id": "DatasmithSceneImportData", "type": "class", "description": "Base Datasmith scene import data"},
+    {"id": "LiveLinkTransformFrameData", "type": "class", "module": "LiveLinkInterface", "file": "LiveLinkTransformTypes.h", "description": "Dynamic data for Transform in LiveLink"},
+    {"id": "LiveLinkBaseFrameData", "type": "class", "description": "Base frame data for LiveLink"},
+    {"id": "PCGSpawnDynamicMeshSettings", "type": "class", "module": "PCGGeometryScriptInterop", "plugin": "PCGGeometryScriptInterop", "file": "PCGSpawnDynamicMesh.h", "description": "Settings for spawning dynamic mesh components"},
+    {"id": "PCGDynamicMeshBaseSettings", "type": "class", "description": "Base settings for PCG dynamic mesh"},
+    {"id": "ForceFeedbackChannelDetails", "type": "class", "module": "Engine", "file": "ForceFeedbackEffect.h", "description": "Details for force feedback channel configuration"},
+    {"id": "NamedInputValueNode", "type": "class", "module": "UrbanComData", "plugin": "AesBuilderCommon", "file": "NamedInputValue.h", "description": "Named input value node for Urban Builder"},
+    {"id": "UrbanBuildNode", "type": "class", "description": "Base node class for Urban Builder"},
+    {"id": "FTransformChannelEnum", "type": "enum", "module": "MovieSceneTools", "file": "MovieSceneToolsUserSettings.h", "description": "Enumeration specifying transform channels"},
+    {"id": "MaterialExpressionStrataVolumetricFogCloudBSDF", "type": "class", "deprecated": true, "renamed_to": "MaterialExpressionSubstrateVolumetricFogCloudBSDF", "description": "Deprecated material expression for volumetric fog cloud BSDF"},
+    {"id": "MaterialExpressionSubstrateVolumetricFogCloudBSDF", "type": "class", "description": "Material expression for Substrate volumetric fog cloud BSDF"},
+    {"id": "AnimSyncMethod", "type": "enum", "module": "Engine", "file": "AnimationAsset.h", "description": "How an asset will synchronize with other assets"},
+    {"id": "FieldNotificationId", "type": "class", "module": "FieldNotification", "file": "FieldNotificationId.h", "description": "Namespace for field notification identification"},
+    {"id": "RigUnit_MathIntBase", "type": "class", "deprecated": true, "renamed_to": "RigVMFunction_MathIntBase", "description": "Deprecated base class for math integer operations in Rig"},
+    {"id": "RigVMFunction_MathIntBase", "type": "class", "description": "Base class for math integer operations in RigVM"},
+    {"id": "EarthPrefabActorFactory", "type": "class", "module": "EarthPrefabEditor", "plugin": "AesWorld", "file": "EarthPrefabAssetFactory.h", "description": "Factory for creating Earth prefab actors"},
+    {"id": "ActorFactory", "type": "class", "description": "Base factory class for creating actors"},
+    {"id": "VolumetricCloudTracingMaxDistanceMode", "type": "enum", "module": "Engine", "file": "VolumetricCloudComponent.h", "description": "Mode for volumetric cloud tracing max distance"},
+    {"id": "InterchangeSceneImportAssetFactory", "type": "class", "module": "InterchangeImport", "plugin": "Interchange", "file": "InterchangeSceneImportAssetFactory.h", "description": "Factory for importing Interchange scenes"},
+    {"id": "InterchangeFactoryBase", "type": "class", "description": "Base factory for Interchange import/export"},
+    {"id": "CesiumMetadataModelBlueprintLibrary", "type": "class", "deprecated": true, "renamed_to": "CesiumModelMetadataBlueprintLibrary", "description": "Deprecated Cesium metadata model blueprint library"},
+    {"id": "CesiumModelMetadataBlueprintLibrary", "type": "class", "description": "Blueprint library for Cesium model metadata"},
+    {"id": "SoundAttenuationFactory", "type": "class", "module": "AudioEditor", "file": "SoundAttenuationFactory.h", "description": "Factory for creating sound attenuation assets"},
+    {"id": "Factory", "type": "class", "description": "Base factory class for asset creation"},
+    {"id": "AssetExportTask", "type": "class", "description": "Task for asset export operations"},
+    {"id": "Transform", "type": "struct", "description": "Transform data structure"},
+    {"id": "Rotator", "type": "struct", "description": "Rotation data structure"},
+    {"id": "Vector", "type": "struct", "description": "3D vector data structure"},
+    {"id": "Guid", "type": "struct", "description": "Globally unique identifier"},
+    {"id": "Name", "type": "struct", "description": "Name type in Unreal Engine"},
+    {"id": "Box", "type": "struct", "description": "Bounding box structure"}
+  ],
+  "edges": [
+    {"source": "Exporter", "target": "Object", "type": "inherits_from"},
+    {"source": "ResonanceAudioDirectivityVisualizer", "target": "Actor", "type": "inherits_from"},
+    {"source": "ExporterFBX", "target": "Exporter", "type": "inherits_from"},
+    {"source": "BroadphaseSettings", "target": "StructBase", "type": "inherits_from"},
+    {"source": "RemoteControlProperty", "target": "RemoteControlField", "type": "inherits_from"},
+    {"source": "MovementComp_Rotating", "target": "RotatingMovementComponent", "type": "deprecated_renamed_to"},
+    {"source": "DatasmithTranslatedSceneImportData", "target": "DatasmithSceneImportData", "type": "inherits_from"},
+    {"source": "LiveLinkTransformFrameData", "target": "LiveLinkBaseFrameData", "type": "inherits_from"},
+    {"source": "PCGSpawnDynamicMeshSettings", "target": "PCGDynamicMeshBaseSettings", "type": "inherits_from"},
+    {"source": "ForceFeedbackChannelDetails", "target": "StructBase", "type": "inherits_from"},
+    {"source": "NamedInputValueNode", "target": "UrbanBuildNode", "type": "inherits_from"},
+    {"source": "MaterialExpressionStrataVolumetricFogCloudBSDF", "target": "MaterialExpressionSubstrateVolumetricFogCloudBSDF", "type": "deprecated_renamed_to"},
+    {"source": "FieldNotificationId", "target": "StructBase", "type": "inherits_from"},
+    {"source": "RigUnit_MathIntBase", "target": "RigVMFunction_MathIntBase", "type": "deprecated_renamed_to"},
+    {"source": "EarthPrefabActorFactory", "target": "ActorFactory", "type": "inherits_from"},
+    {"source": "InterchangeSceneImportAssetFactory", "target": "InterchangeFactoryBase", "type": "inherits_from"},
+    {"source": "CesiumMetadataModelBlueprintLibrary", "target": "CesiumModelMetadataBlueprintLibrary", "type": "deprecated_renamed_to"},
+    {"source": "SoundAttenuationFactory", "target": "Factory", "type": "inherits_from"},
+    {"source": "Exporter", "target": "AssetExportTask", "type": "has_property", "property_name": "export_task"},
+    {"source": "ExporterFBX", "target": "AssetExportTask", "type": "has_property", "property_name": "export_task"},
+    {"source": "BroadphaseSettings", "target": "Box", "type": "has_property", "property_name": "mbp_bounds"},
+    {"source": "BroadphaseSettings", "target": "Box", "type": "has_property", "property_name": "mbp_outer_bounds"},
+    {"source": "RemoteControlProperty", "target": "Guid", "type": "has_property", "property_name": "id"},
+    {"source": "RemoteControlProperty", "target": "Name", "type": "has_property", "property_name": "field_name"},
+    {"source": "LiveLinkTransformFrameData", "target": "Transform", "type": "has_property", "property_name": "transform"},
+    {"source": "RotatingMovementComponent", "target": "Rotator", "type": "has_property", "property_name": "rotation_rate"},
+    {"source": "RotatingMovementComponent", "target": "Vector", "type": "has_property", "property_name": "pivot_translation"},
+    {"source": "Exporter", "target": "ExporterFBX", "type": "parent_class_of"},
+    {"source": "Actor", "target": "ResonanceAudioDirectivityVisualizer", "type": "parent_class_of"},
+    {"source": "RemoteControlField", "target": "RemoteControlProperty", "type": "parent_class_of"},
+    {"source": "RotatingMovementComponent", "target": "MovementComp_Rotating", "type": "replacement_for"},
+    {"source": "DatasmithSceneImportData", "target": "DatasmithTranslatedSceneImportData", "type": "parent_class_of"},
+    {"source": "LiveLinkBaseFrameData", "target": "LiveLinkTransformFrameData", "type": "parent_class_of"},
+    {"source": "PCGDynamicMeshBaseSettings", "target": "PCGSpawnDynamicMeshSettings", "type": "parent_class_of"},
+    {"source": "UrbanBuildNode", "target": "NamedInputValueNode", "type": "parent_class_of"},
+    {"source": "MaterialExpressionSubstrateVolumetricFogCloudBSDF", "target": "MaterialExpressionStrataVolumetricFogCloudBSDF", "type": "replacement_for"},
+    {"source": "RigVMFunction_MathIntBase", "target": "RigUnit_MathIntBase", "type": "replacement_for"},
+    {"source": "ActorFactory", "target": "EarthPrefabActorFactory", "type": "parent_class_of"},
+    {"source": "InterchangeFactoryBase", "target": "InterchangeSceneImportAssetFactory", "type": "parent_class_of"},
+    {"source": "CesiumModelMetadataBlueprintLibrary", "target": "CesiumMetadataModelBlueprintLibrary", "type": "replacement_for"},
+    {"source": "Factory", "target": "SoundAttenuationFactory", "type": "parent_class_of"}
+  ],
+  "hyperedges": [
+    {
+      "id": "he_export_functionality",
+      "nodes": ["Exporter", "ExporterFBX", "AssetExportTask"],
+      "edges": [
+        {"source": "Exporter", "target": "AssetExportTask", "type": "uses"},
+        {"source": "ExporterFBX", "target": "Exporter", "type": "extends"},
+        {"source": "ExporterFBX", "target": "AssetExportTask", "type": "uses"}
+      ],
+      "description": "Export system for FBX format with task management"
+    },
+    {
+      "id": "he_movement_rotation",
+      "nodes": ["RotatingMovementComponent", "MovementComp_Rotating", "Rotator", "Vector"],
+      "edges": [
+        {"source": "RotatingMovementComponent", "target": "Rotator", "type": "uses"},
+        {"source": "RotatingMovementComponent", "target": "Vector", "type": "uses"},
+        {"source": "MovementComp_Rotating", "target": "RotatingMovementComponent", "type": "deprecated_alias_of"}
+      ],
+      "description": "Rotating movement component system with deprecated legacy class"
+    },
+    {
+      "id": "he_livelink_transform",
+      "nodes": ["LiveLinkTransformFrameData", "LiveLinkBaseFrameData", "Transform"],
+      "edges": [
+        {"source": "LiveLinkTransformFrameData", "target": "LiveLinkBaseFrameData", "type": "extends"},
+        {"source": "LiveLinkTransformFrameData", "target": "Transform", "type": "contains"}
+      ],
+      "description": "LiveLink frame data hierarchy for transform tracking"
+    },
+    {
+      "id": "he_deprecated_renamings",
+      "nodes": [
+        "MovementComp_Rotating",
+        "RotatingMovementComponent",
+        "MaterialExpressionStrataVolumetricFogCloudBSDF",
+        "MaterialExpressionSubstrateVolumetricFogCloudBSDF",
+        "RigUnit_MathIntBase",
+        "RigVMFunction_MathIntBase",
+        "CesiumMetadataModelBlueprintLibrary",
+        "CesiumModelMetadataBlueprintLibrary"
+      ],
+      "edges": [
+        {"source": "MovementComp_Rotating", "target": "RotatingMovementComponent", "type": "renamed_to"},
+        {"source": "MaterialExpressionStrataVolumetricFogCloudBSDF", "target": "MaterialExpressionSubstrateVolumetricFogCloudBSDF", "type": "renamed_to"},
+        {"source": "RigUnit_MathIntBase", "target": "RigVMFunction_MathIntBase", "type": "renamed_to"},
+        {"source": "CesiumMetadataModelBlueprintLibrary", "target": "CesiumModelMetadataBlueprintLibrary", "type": "renamed_to"}
+      ],
+      "description": "Collection of deprecated class renamings in the API"
+    },
+    {
+      "id": "he_factory_hierarchy",
+      "nodes": ["Factory", "SoundAttenuationFactory", "ActorFactory", "EarthPrefabActorFactory", "InterchangeFactoryBase", "InterchangeSceneImportAssetFactory"],
+      "edges": [
+        {"source": "SoundAttenuationFactory", "target": "Factory", "type": "extends"},
+        {"source": "EarthPrefabActorFactory", "target": "ActorFactory", "type": "extends"},
+        {"source": "InterchangeSceneImportAssetFactory", "target": "InterchangeFactoryBase", "type": "extends"}
+      ],
+      "description": "Factory pattern hierarchy for asset creation"
+    },
+    {
+      "id": "he_physics_broadphase",
+      "nodes": ["BroadphaseSettings", "StructBase", "Box"],
+      "edges": [
+        {"source": "BroadphaseSettings", "target": "StructBase", "type": "extends"},
+        {"source": "BroadphaseSettings", "target": "Box", "type": "uses_multiple"}
+      ],
+      "description": "Physics broadphase settings with bounding box configurations"
+    },
+    {
+      "id": "he_remote_control",
+      "nodes": ["RemoteControlProperty", "RemoteControlField", "Guid", "Name"],
+      "edges": [
+        {"source": "RemoteControlProperty", "target": "RemoteControlField", "type": "extends"},
+        {"source": "RemoteControlProperty", "target": "Guid", "type": "uses"},
+        {"source": "RemoteControlProperty", "target": "Name", "type": "uses"}
+      ],
+      "description": "Remote control property system with identification"
+    },
+    {
+      "id": "he_pcg_mesh_spawning",
+      "nodes": ["PCGSpawnDynamicMeshSettings", "PCGDynamicMeshBaseSettings"],
+      "edges": [
+        {"source": "PCGSpawnDynamicMeshSettings", "target": "PCGDynamicMeshBaseSettings", "type": "extends"}
+      ],
+      "description": "PCG dynamic mesh spawning configuration"
+    },
+    {
+      "id": "he_datasmith_import",
+      "nodes": ["DatasmithTranslatedSceneImportData", "DatasmithSceneImportData"],
+      "edges": [
+        {"source": "DatasmithTranslatedSceneImportData", "target": "DatasmithSceneImportData", "type": "extends"}
+      ],
+      "description": "Datasmith scene import data hierarchy"
+    },
+    {
+      "id": "he_enum_types",
+      "nodes": ["FTransformChannelEnum", "AnimSyncMethod", "VolumetricCloudTracingMaxDistanceMode"],
+      "edges": [],
+      "description": "Enumeration types for various engine systems"
+    }
+  ],
+  "metadata": {
+    "source_files": [
+      "Exporter Objects.md",
+      "ResonanceAudioDirectivityVisualizer Objects.md",
+      "ExporterFBX Objects.md",
+      "BroadphaseSettings Objects.md",
+      "RemoteControlProperty Objects.md",
+      "MovementComp_Rotating Objects.md",
+      "DatasmithTranslatedSceneImportData Objects.md",
+      "LiveLinkTransformFrameData Objects.md",
+      "PCGSpawnDynamicMeshSettings Objects.md",
+      "ForceFeedbackChannelDetails Objects.md",
+      "NamedInputValueNode Objects.md",
+      "FTransformChannelEnum Objects.md",
+      "MaterialExpressionStrataVolumetricFogCloudBSDF Objects.md",
+      "AnimSyncMethod Objects.md",
+      "FieldNotificationId Objects.md",
+      "RigUnit_MathIntBase Objects.md",
+      "EarthPrefabActorFactory Objects.md",
+      "VolumetricCloudTracingMaxDistanceMode Objects.md",
+      "RotatingMovementComponent Objects.md",
+      "InterchangeSceneImportAssetFactory Objects.md",
+      "CesiumMetadataModelBlueprintLibrary Objects.md",
+      "SoundAttenuationFactory Objects.md"
+    ],
+    "extraction_timestamp": "2026-04-12",
+    "total_nodes": 41,
+    "total_edges": 48,
+    "total_hyperedges": 10,
+    "deprecated_entities": 4,
+    "plugins": [
+      "ResonanceAudio",
+      "RemoteControl",
+      "DatasmithContent",
+      "PCGGeometryScriptInterop",
+      "AesBuilderCommon",
+      "AesWorld",
+      "Interchange"
+    ],
+    "modules": [
+      "Engine",
+      "UnrealEd",
+      "LiveLinkInterface",
+      "MovieSceneTools",
+      "FieldNotification",
+      "AudioEditor"
+    ]
+  }
+}

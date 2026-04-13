@@ -1,0 +1,1464 @@
+{
+  "nodes": [
+    {
+      "id": "RemoteControlOptionalExposeArgs",
+      "type": "class",
+      "name": "RemoteControlOptionalExposeArgs",
+      "base_type": "StructBase",
+      "description": "Remote Control Optional Expose Args",
+      "plugin": "RemoteControl",
+      "module": "RemoteControl",
+      "file": "RemoteControlFunctionLibrary.h"
+    },
+    {
+      "id": "RemoteControlOptionalExposeArgs.display_name",
+      "type": "property",
+      "name": "display_name",
+      "data_type": "str",
+      "access": "read-write",
+      "description": "The display name of the exposed entity in the panel."
+    },
+    {
+      "id": "RemoteControlOptionalExposeArgs.group_name",
+      "type": "property",
+      "name": "group_name",
+      "data_type": "str",
+      "access": "read-write",
+      "description": "The name of the group to expose the entity in. If it does not exist, a group with that name will be created."
+    },
+    {
+      "id": "RemoteControlOptionalExposeArgs.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "MaterialExpressionModulo",
+      "type": "class",
+      "name": "MaterialExpressionModulo",
+      "base_type": "MaterialExpression",
+      "description": "Material Expression Modulo",
+      "module": "Engine",
+      "file": "MaterialExpressionModulo.h"
+    },
+    {
+      "id": "MaterialExpressionModulo.desc",
+      "type": "property",
+      "name": "desc",
+      "data_type": "str",
+      "access": "read-write",
+      "description": "A description that level designers can add (shows in the material editor UI)."
+    },
+    {
+      "id": "MaterialExpressionModulo.material_expression_editor_x",
+      "type": "property",
+      "name": "material_expression_editor_x",
+      "data_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "MaterialExpressionModulo.material_expression_editor_y",
+      "type": "property",
+      "name": "material_expression_editor_y",
+      "data_type": "int32",
+      "access": "read-write"
+    },
+    {
+      "id": "PaperTileMetadata",
+      "type": "class",
+      "name": "PaperTileMetadata",
+      "base_type": "StructBase",
+      "description": "Information about a single tile in a tile set",
+      "plugin": "Paper2D",
+      "module": "Paper2D",
+      "file": "PaperTileSet.h"
+    },
+    {
+      "id": "PaperTileMetadata.collision_data",
+      "type": "property",
+      "name": "collision_data",
+      "data_type": "SpriteGeometryCollection",
+      "access": "read-write",
+      "description": "Collision data for the tile"
+    },
+    {
+      "id": "PaperTileMetadata.user_data_name",
+      "type": "property",
+      "name": "user_data_name",
+      "data_type": "Name",
+      "access": "read-write",
+      "description": "A tag that can be used for grouping and categorizing (consider using it as the index into a UDataTable asset)."
+    },
+    {
+      "id": "PaperTileMetadata.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "EarthEntityInitParams",
+      "type": "class",
+      "name": "EarthEntityInitParams",
+      "base_type": "StructBase",
+      "description": "Earth Entity Init Params",
+      "plugin": "AesWorld",
+      "module": "EarthCore",
+      "file": "EarthEntityInterface.h"
+    },
+    {
+      "id": "EarthEntityInitParams.operate_entity_time",
+      "type": "property",
+      "name": "operate_entity_time",
+      "data_type": "EarthOperateEntityTime",
+      "access": "read-write"
+    },
+    {
+      "id": "EarthEntityInitParams.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "ModifyCurveAnimNodeReference",
+      "type": "class",
+      "name": "ModifyCurveAnimNodeReference",
+      "base_type": "AnimNodeReference",
+      "description": "Modify Curve Anim Node Reference",
+      "module": "AnimGraphRuntime",
+      "file": "ModifyCurveLibrary.h"
+    },
+    {
+      "id": "ModifyCurveAnimNodeReference.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "MetasoundFrontendDocumentMetadata",
+      "type": "class",
+      "name": "MetasoundFrontendDocumentMetadata",
+      "base_type": "StructBase",
+      "description": "Metasound Frontend Document Metadata",
+      "plugin": "Metasound",
+      "module": "MetasoundFrontend",
+      "file": "MetasoundFrontendDocument.h"
+    },
+    {
+      "id": "MetasoundFrontendDocumentMetadata.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "ContentBrowserDataClassFilter",
+      "type": "class",
+      "name": "ContentBrowserDataClassFilter",
+      "base_type": "StructBase",
+      "description": "Data used to filter object instances by their class. note: This will typically limit your query to returning assets.",
+      "module": "ContentBrowserData",
+      "file": "ContentBrowserDataFilter.h"
+    },
+    {
+      "id": "ContentBrowserDataClassFilter.class_names_to_include",
+      "type": "property",
+      "name": "class_names_to_include",
+      "data_type": "Array[str]",
+      "access": "read-write",
+      "description": "Array of class names that should be included in this query"
+    },
+    {
+      "id": "ContentBrowserDataClassFilter.class_names_to_exclude",
+      "type": "property",
+      "name": "class_names_to_exclude",
+      "data_type": "Array[str]",
+      "access": "read-write",
+      "description": "Array of class names that should be excluded from this query"
+    },
+    {
+      "id": "ContentBrowserDataClassFilter.recursive_class_names_to_include",
+      "type": "property",
+      "name": "recursive_class_names_to_include",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "Whether we should include inclusive sub-classes in this query"
+    },
+    {
+      "id": "ContentBrowserDataClassFilter.recursive_class_names_to_exclude",
+      "type": "property",
+      "name": "recursive_class_names_to_exclude",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "Whether we should include exclusive sub-classes in this query"
+    },
+    {
+      "id": "ContentBrowserDataClassFilter.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "DMMaterialStageBlendColor",
+      "type": "class",
+      "name": "DMMaterialStageBlendColor",
+      "base_type": "DMMaterialStageBlendFunction",
+      "description": "DMMaterial Stage Blend Color",
+      "plugin": "DynamicMaterial",
+      "module": "DynamicMaterialEditor",
+      "file": "DMMSBColor.h"
+    },
+    {
+      "id": "DMMaterialStageBlendColor.allow_nested_inputs",
+      "type": "property",
+      "name": "allow_nested_inputs",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "DMMaterialStageBlendColor.base_channel_override",
+      "type": "property",
+      "name": "base_channel_override",
+      "data_type": "AvaColorChannel",
+      "access": "read-write",
+      "description": "Changes the output channel of the base input."
+    },
+    {
+      "id": "DMMaterialStageBlendColor.component_dirty",
+      "type": "property",
+      "name": "component_dirty",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "DMMaterialStageBlendColor.component_state",
+      "type": "property",
+      "name": "component_state",
+      "data_type": "DMComponentLifetimeState",
+      "access": "read-only"
+    },
+    {
+      "id": "DMMaterialStageBlendColor.editable_properties",
+      "type": "property",
+      "name": "editable_properties",
+      "data_type": "Array[Name]",
+      "access": "read-only"
+    },
+    {
+      "id": "DMMaterialStageBlendColor.input_connectors",
+      "type": "property",
+      "name": "input_connectors",
+      "data_type": "Array[DMMaterialStageConnector]",
+      "access": "read-only"
+    },
+    {
+      "id": "DMMaterialStageBlendColor.input_required",
+      "type": "property",
+      "name": "input_required",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "DMMaterialStageBlendColor.name",
+      "type": "property",
+      "name": "name",
+      "data_type": "Text",
+      "access": "read-only"
+    },
+    {
+      "id": "DMMaterialStageBlendColor.output_connectors",
+      "type": "property",
+      "name": "output_connectors",
+      "data_type": "Array[DMMaterialStageConnector]",
+      "access": "read-only"
+    },
+    {
+      "id": "ChamferLengthWidget",
+      "type": "class",
+      "name": "ChamferLengthWidget",
+      "base_type": "UserWidget",
+      "description": "Chamfer Length Widget",
+      "plugin": "AesWorld",
+      "module": "AesEditorMode",
+      "file": "ChamferLengthWidget.h"
+    },
+    {
+      "id": "ChamferLengthWidget.set_chamfer_length",
+      "type": "method",
+      "name": "set_chamfer_length",
+      "return_type": "None",
+      "description": "Set Chamfer Length"
+    },
+    {
+      "id": "ChamferLengthWidget.get_chamfer_length",
+      "type": "method",
+      "name": "get_chamfer_length",
+      "return_type": "float",
+      "description": "Get Chamfer Length"
+    },
+    {
+      "id": "IKRig_PoleSolver",
+      "type": "class",
+      "name": "IKRig_PoleSolver",
+      "base_type": "IKRigSolver",
+      "description": "IKRig Pole Solver",
+      "plugin": "IKRig",
+      "module": "IKRig",
+      "file": "IKRig_PoleSolver.h"
+    },
+    {
+      "id": "IKRig_PoleSolver.end_name",
+      "type": "property",
+      "name": "end_name",
+      "data_type": "Name",
+      "access": "read-only"
+    },
+    {
+      "id": "IKRig_PoleSolver.root_name",
+      "type": "property",
+      "name": "root_name",
+      "data_type": "Name",
+      "access": "read-only"
+    },
+    {
+      "id": "BreakEventSignature",
+      "type": "class",
+      "name": "BreakEventSignature",
+      "base_type": "MulticastDelegateBase",
+      "description": "Break Event Signature  Delegate Signature",
+      "module": "Engine",
+      "file": "ChaosEventRelay.h"
+    },
+    {
+      "id": "BreakEventSignature.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "TifReceiveDelegate",
+      "type": "class",
+      "name": "TifReceiveDelegate",
+      "base_type": "MulticastDelegateBase",
+      "description": "Tif Receive Delegate  Delegate Signature",
+      "plugin": "CoveringAPI",
+      "module": "SuperAPI_Raster",
+      "file": "SuperAPI_HttpTif.h"
+    },
+    {
+      "id": "TifReceiveDelegate.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent",
+      "type": "class",
+      "name": "RigUnit_ProjectTransformToNewParent",
+      "base_type": "RigUnit",
+      "description": "Gets the relative offset between the child and the old parent, then multiplies by new parent's transform.",
+      "plugin": "ControlRig",
+      "module": "ControlRig",
+      "file": "RigUnit_ProjectTransformToNewParent.h"
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent.child",
+      "type": "property",
+      "name": "child",
+      "data_type": "RigElementKey",
+      "access": "read-write",
+      "description": "The element to project between parents"
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent.child_initial",
+      "type": "property",
+      "name": "child_initial",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "If set to true the child will be retrieved in its initial transform"
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent.new_parent",
+      "type": "property",
+      "name": "new_parent",
+      "data_type": "RigElementKey",
+      "access": "read-write",
+      "description": "The new parent of the child."
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent.new_parent_initial",
+      "type": "property",
+      "name": "new_parent_initial",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "If set to true the new parent will be retrieved in its initial transform"
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent.old_parent",
+      "type": "property",
+      "name": "old_parent",
+      "data_type": "RigElementKey",
+      "access": "read-write",
+      "description": "The original parent of the child. Can be an actual parent in the hierarchy or any other item you want to use to compute to offset against."
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent.old_parent_initial",
+      "type": "property",
+      "name": "old_parent_initial",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "If set to true the old parent will be retrieved in its initial transform"
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent.transform",
+      "type": "property",
+      "name": "transform",
+      "data_type": "Transform",
+      "access": "read-only",
+      "description": "The resulting transform"
+    },
+    {
+      "id": "RigUnit_ProjectTransformToNewParent.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "DataflowAssetFactory",
+      "type": "class",
+      "name": "DataflowAssetFactory",
+      "base_type": "Factory",
+      "description": "Dataflow Asset Factory",
+      "plugin": "Dataflow",
+      "module": "DataflowEditor",
+      "file": "DataflowAssetFactory.h"
+    },
+    {
+      "id": "DataflowAssetFactory.asset_import_task",
+      "type": "property",
+      "name": "asset_import_task",
+      "data_type": "AssetImportTask",
+      "access": "read-write",
+      "description": "Task for importing file via script interfaces"
+    },
+    {
+      "id": "DataflowAssetFactory.automated_import_data",
+      "type": "property",
+      "name": "automated_import_data",
+      "data_type": "AutomatedAssetImportData",
+      "access": "read-write",
+      "description": "Data for how to import files via the automated command line importing interface"
+    },
+    {
+      "id": "DataflowAssetFactory.context_class",
+      "type": "property",
+      "name": "context_class",
+      "data_type": "type(Class)",
+      "access": "read-write",
+      "description": "Class of the context object used to help create the object."
+    },
+    {
+      "id": "DataflowAssetFactory.create_new",
+      "type": "property",
+      "name": "create_new",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "The default value to return from CanCreateNew()"
+    },
+    {
+      "id": "DataflowAssetFactory.edit_after_new",
+      "type": "property",
+      "name": "edit_after_new",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "true if the associated editor should be opened after creating a new object."
+    },
+    {
+      "id": "DataflowAssetFactory.editor_import",
+      "type": "property",
+      "name": "editor_import",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "true if the factory imports objects from files."
+    },
+    {
+      "id": "DataflowAssetFactory.formats",
+      "type": "property",
+      "name": "formats",
+      "data_type": "Array[str]",
+      "access": "read-write",
+      "description": "List of formats supported by the factory. Each entry is of the form \"ext;Description\" where ext is the file extension."
+    },
+    {
+      "id": "DataflowAssetFactory.supported_class",
+      "type": "property",
+      "name": "supported_class",
+      "data_type": "type(Class)",
+      "access": "read-write",
+      "description": "The class manufactured by this factory."
+    },
+    {
+      "id": "DataflowAssetFactory.text",
+      "type": "property",
+      "name": "text",
+      "data_type": "bool",
+      "access": "read-write",
+      "description": "true if the factory imports objects from text."
+    },
+    {
+      "id": "SubmixEffectFlexiverbPreset",
+      "type": "class",
+      "name": "SubmixEffectFlexiverbPreset",
+      "base_type": "SoundEffectSubmixPreset",
+      "description": "Submix Effect Flexiverb Preset",
+      "plugin": "Synthesis",
+      "module": "Synthesis",
+      "file": "SubmixEffectFlexiverb.h"
+    },
+    {
+      "id": "SubmixEffectFlexiverbPreset.settings",
+      "type": "property",
+      "name": "settings",
+      "data_type": "SubmixEffectFlexiverbSettings",
+      "access": "read-write"
+    },
+    {
+      "id": "SubmixEffectFlexiverbPreset.set_settings",
+      "type": "method",
+      "name": "set_settings",
+      "return_type": "None",
+      "description": "Set Settings"
+    },
+    {
+      "id": "RigVMFunction_MathFloatIsNearlyZero",
+      "type": "class",
+      "name": "RigVMFunction_MathFloatIsNearlyZero",
+      "base_type": "RigVMFunction_MathFloatBase",
+      "description": "Returns true if the value is nearly zero",
+      "plugin": "RigVM",
+      "module": "RigVM",
+      "file": "RigVMFunction_MathFloat.h"
+    },
+    {
+      "id": "RigVMFunction_MathFloatIsNearlyZero.result",
+      "type": "property",
+      "name": "result",
+      "data_type": "bool",
+      "access": "read-only"
+    },
+    {
+      "id": "RigVMFunction_MathFloatIsNearlyZero.tolerance",
+      "type": "property",
+      "name": "tolerance",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "RigVMFunction_MathFloatIsNearlyZero.value",
+      "type": "property",
+      "name": "value",
+      "data_type": "float",
+      "access": "read-write"
+    },
+    {
+      "id": "RigVMFunction_MathFloatIsNearlyZero.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "HttpImageStateSubsystem",
+      "type": "class",
+      "name": "HttpImageStateSubsystem",
+      "base_type": "GameInstanceSubsystem",
+      "description": "Http Image State Subsystem",
+      "plugin": "CoveringAPI",
+      "module": "CoveringAPIEntity",
+      "file": "HttpImageStateSubsystem.h"
+    },
+    {
+      "id": "HttpImageStateSubsystem.set_http_image_state",
+      "type": "method",
+      "name": "set_http_image_state",
+      "return_type": "None",
+      "description": "Set Http Image State"
+    },
+    {
+      "id": "HttpImageStateSubsystem.remove_http_image_state",
+      "type": "method",
+      "name": "remove_http_image_state",
+      "return_type": "bool",
+      "description": "Remove Http Image State"
+    },
+    {
+      "id": "HttpImageStateSubsystem.get_http_image_state",
+      "type": "method",
+      "name": "get_http_image_state",
+      "return_type": "Optional[HttpImageStateData]",
+      "description": "Get Http Image State"
+    },
+    {
+      "id": "HttpImageStateSubsystem.get",
+      "type": "method",
+      "name": "get",
+      "return_type": "HttpImageStateSubsystem",
+      "description": "Get",
+      "is_classmethod": true
+    },
+    {
+      "id": "WdpApiCallType",
+      "type": "class",
+      "name": "WdpApiCallType",
+      "base_type": "EnumBase",
+      "description": "EWdp Api Call Type",
+      "plugin": "WdpAPIFrame",
+      "module": "WdpAPIFramework",
+      "file": "RuntimeAPIManager.h"
+    },
+    {
+      "id": "WdpApiCallType.NONE",
+      "type": "enum_value",
+      "name": "NONE",
+      "value": 0
+    },
+    {
+      "id": "WdpApiCallType.FRONTEND",
+      "type": "enum_value",
+      "name": "FRONTEND",
+      "value": 1
+    },
+    {
+      "id": "WdpApiCallType.AGENT",
+      "type": "enum_value",
+      "name": "AGENT",
+      "value": 2
+    },
+    {
+      "id": "WdpApiCallType.INTERNAL_DEBUG",
+      "type": "enum_value",
+      "name": "INTERNAL_DEBUG",
+      "value": 3
+    },
+    {
+      "id": "TargetingTaskSet",
+      "type": "class",
+      "name": "TargetingTaskSet",
+      "base_type": "StructBase",
+      "description": "struct: FTargetingTaskSet A set of tasks to be used by targeting requests to find/processes targets",
+      "plugin": "TargetingSystem",
+      "module": "TargetingSystem",
+      "file": "TargetingSystemTypes.h"
+    },
+    {
+      "id": "TargetingTaskSet.tasks",
+      "type": "property",
+      "name": "tasks",
+      "data_type": "Array[TargetingTask]",
+      "access": "read-write",
+      "description": "The set of tasks that will be used to satisfy a targeting request"
+    },
+    {
+      "id": "TargetingTaskSet.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "MovieSceneTestSequence",
+      "type": "class",
+      "name": "MovieSceneTestSequence",
+      "base_type": "MovieSceneSequence",
+      "description": "Simple type of sequence for use in automated tests. Bound objects are specified manually on the sequence and will be simply returned when bindings are resolved.",
+      "module": "MovieSceneTracks",
+      "file": "MovieSceneTestDataBuilders.h"
+    },
+    {
+      "id": "FrameRateChangedPayload",
+      "type": "class",
+      "name": "FrameRateChangedPayload",
+      "base_type": "EmptyPayload",
+      "description": "Frame Rate Changed Payload",
+      "module": "Engine",
+      "file": "AnimDataNotifications.h"
+    },
+    {
+      "id": "FrameRateChangedPayload.previous_frame_rate",
+      "type": "property",
+      "name": "previous_frame_rate",
+      "data_type": "FrameRate",
+      "access": "read-only",
+      "description": "Previous sampling rate for the Model"
+    },
+    {
+      "id": "FrameRateChangedPayload.__init__",
+      "type": "method",
+      "name": "__init__",
+      "return_type": "None"
+    },
+    {
+      "id": "ConstraintsActor",
+      "type": "class",
+      "name": "ConstraintsActor",
+      "base_type": "Actor",
+      "description": "Constraints Actor",
+      "module": "Constraints",
+      "file": "ConstraintsActor.h"
+    },
+    {
+      "id": "StructBase",
+      "type": "class",
+      "name": "StructBase",
+      "description": "Base class for struct types"
+    },
+    {
+      "id": "MaterialExpression",
+      "type": "class",
+      "name": "MaterialExpression",
+      "description": "Base class for material expressions"
+    },
+    {
+      "id": "AnimNodeReference",
+      "type": "class",
+      "name": "AnimNodeReference",
+      "description": "Base class for animation node references"
+    },
+    {
+      "id": "DMMaterialStageBlendFunction",
+      "type": "class",
+      "name": "DMMaterialStageBlendFunction",
+      "description": "Base class for material stage blend functions"
+    },
+    {
+      "id": "UserWidget",
+      "type": "class",
+      "name": "UserWidget",
+      "description": "Base class for user widgets"
+    },
+    {
+      "id": "IKRigSolver",
+      "type": "class",
+      "name": "IKRigSolver",
+      "description": "Base class for IK rig solvers"
+    },
+    {
+      "id": "MulticastDelegateBase",
+      "type": "class",
+      "name": "MulticastDelegateBase",
+      "description": "Base class for multicast delegates"
+    },
+    {
+      "id": "RigUnit",
+      "type": "class",
+      "name": "RigUnit",
+      "description": "Base class for rig units"
+    },
+    {
+      "id": "Factory",
+      "type": "class",
+      "name": "Factory",
+      "description": "Base class for asset factories"
+    },
+    {
+      "id": "SoundEffectSubmixPreset",
+      "type": "class",
+      "name": "SoundEffectSubmixPreset",
+      "description": "Base class for sound effect submix presets"
+    },
+    {
+      "id": "RigVMFunction_MathFloatBase",
+      "type": "class",
+      "name": "RigVMFunction_MathFloatBase",
+      "description": "Base class for RigVM math float functions"
+    },
+    {
+      "id": "GameInstanceSubsystem",
+      "type": "class",
+      "name": "GameInstanceSubsystem",
+      "description": "Base class for game instance subsystems"
+    },
+    {
+      "id": "EnumBase",
+      "type": "class",
+      "name": "EnumBase",
+      "description": "Base class for enums"
+    },
+    {
+      "id": "MovieSceneSequence",
+      "type": "class",
+      "name": "MovieSceneSequence",
+      "description": "Base class for movie scene sequences"
+    },
+    {
+      "id": "EmptyPayload",
+      "type": "class",
+      "name": "EmptyPayload",
+      "description": "Base class for empty payloads"
+    },
+    {
+      "id": "Actor",
+      "type": "class",
+      "name": "Actor",
+      "description": "Base class for actors"
+    }
+  ],
+  "edges": [
+    {
+      "source": "RemoteControlOptionalExposeArgs",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RemoteControlOptionalExposeArgs",
+      "target": "RemoteControlOptionalExposeArgs.display_name",
+      "type": "has_property"
+    },
+    {
+      "source": "RemoteControlOptionalExposeArgs",
+      "target": "RemoteControlOptionalExposeArgs.group_name",
+      "type": "has_property"
+    },
+    {
+      "source": "RemoteControlOptionalExposeArgs",
+      "target": "RemoteControlOptionalExposeArgs.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "MaterialExpressionModulo",
+      "target": "MaterialExpression",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MaterialExpressionModulo",
+      "target": "MaterialExpressionModulo.desc",
+      "type": "has_property"
+    },
+    {
+      "source": "MaterialExpressionModulo",
+      "target": "MaterialExpressionModulo.material_expression_editor_x",
+      "type": "has_property"
+    },
+    {
+      "source": "MaterialExpressionModulo",
+      "target": "MaterialExpressionModulo.material_expression_editor_y",
+      "type": "has_property"
+    },
+    {
+      "source": "PaperTileMetadata",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "PaperTileMetadata",
+      "target": "PaperTileMetadata.collision_data",
+      "type": "has_property"
+    },
+    {
+      "source": "PaperTileMetadata",
+      "target": "PaperTileMetadata.user_data_name",
+      "type": "has_property"
+    },
+    {
+      "source": "PaperTileMetadata",
+      "target": "PaperTileMetadata.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "EarthEntityInitParams",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "EarthEntityInitParams",
+      "target": "EarthEntityInitParams.operate_entity_time",
+      "type": "has_property"
+    },
+    {
+      "source": "EarthEntityInitParams",
+      "target": "EarthEntityInitParams.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "ModifyCurveAnimNodeReference",
+      "target": "AnimNodeReference",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ModifyCurveAnimNodeReference",
+      "target": "ModifyCurveAnimNodeReference.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "MetasoundFrontendDocumentMetadata",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "MetasoundFrontendDocumentMetadata",
+      "target": "MetasoundFrontendDocumentMetadata.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "ContentBrowserDataClassFilter",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ContentBrowserDataClassFilter",
+      "target": "ContentBrowserDataClassFilter.class_names_to_include",
+      "type": "has_property"
+    },
+    {
+      "source": "ContentBrowserDataClassFilter",
+      "target": "ContentBrowserDataClassFilter.class_names_to_exclude",
+      "type": "has_property"
+    },
+    {
+      "source": "ContentBrowserDataClassFilter",
+      "target": "ContentBrowserDataClassFilter.recursive_class_names_to_include",
+      "type": "has_property"
+    },
+    {
+      "source": "ContentBrowserDataClassFilter",
+      "target": "ContentBrowserDataClassFilter.recursive_class_names_to_exclude",
+      "type": "has_property"
+    },
+    {
+      "source": "ContentBrowserDataClassFilter",
+      "target": "ContentBrowserDataClassFilter.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendFunction",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.allow_nested_inputs",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.base_channel_override",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.component_dirty",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.component_state",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.editable_properties",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.input_connectors",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.input_required",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.name",
+      "type": "has_property"
+    },
+    {
+      "source": "DMMaterialStageBlendColor",
+      "target": "DMMaterialStageBlendColor.output_connectors",
+      "type": "has_property"
+    },
+    {
+      "source": "ChamferLengthWidget",
+      "target": "UserWidget",
+      "type": "inherits_from"
+    },
+    {
+      "source": "ChamferLengthWidget",
+      "target": "ChamferLengthWidget.set_chamfer_length",
+      "type": "has_method"
+    },
+    {
+      "source": "ChamferLengthWidget",
+      "target": "ChamferLengthWidget.get_chamfer_length",
+      "type": "has_method"
+    },
+    {
+      "source": "IKRig_PoleSolver",
+      "target": "IKRigSolver",
+      "type": "inherits_from"
+    },
+    {
+      "source": "IKRig_PoleSolver",
+      "target": "IKRig_PoleSolver.end_name",
+      "type": "has_property"
+    },
+    {
+      "source": "IKRig_PoleSolver",
+      "target": "IKRig_PoleSolver.root_name",
+      "type": "has_property"
+    },
+    {
+      "source": "BreakEventSignature",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "BreakEventSignature",
+      "target": "BreakEventSignature.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "TifReceiveDelegate",
+      "target": "MulticastDelegateBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TifReceiveDelegate",
+      "target": "TifReceiveDelegate.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit_ProjectTransformToNewParent.child",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit_ProjectTransformToNewParent.child_initial",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit_ProjectTransformToNewParent.new_parent",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit_ProjectTransformToNewParent.new_parent_initial",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit_ProjectTransformToNewParent.old_parent",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit_ProjectTransformToNewParent.old_parent_initial",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit_ProjectTransformToNewParent.transform",
+      "type": "has_property"
+    },
+    {
+      "source": "RigUnit_ProjectTransformToNewParent",
+      "target": "RigUnit_ProjectTransformToNewParent.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "Factory",
+      "type": "inherits_from"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.asset_import_task",
+      "type": "has_property"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.automated_import_data",
+      "type": "has_property"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.context_class",
+      "type": "has_property"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.create_new",
+      "type": "has_property"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.edit_after_new",
+      "type": "has_property"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.editor_import",
+      "type": "has_property"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.formats",
+      "type": "has_property"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.supported_class",
+      "type": "has_property"
+    },
+    {
+      "source": "DataflowAssetFactory",
+      "target": "DataflowAssetFactory.text",
+      "type": "has_property"
+    },
+    {
+      "source": "SubmixEffectFlexiverbPreset",
+      "target": "SoundEffectSubmixPreset",
+      "type": "inherits_from"
+    },
+    {
+      "source": "SubmixEffectFlexiverbPreset",
+      "target": "SubmixEffectFlexiverbPreset.settings",
+      "type": "has_property"
+    },
+    {
+      "source": "SubmixEffectFlexiverbPreset",
+      "target": "SubmixEffectFlexiverbPreset.set_settings",
+      "type": "has_method"
+    },
+    {
+      "source": "RigVMFunction_MathFloatIsNearlyZero",
+      "target": "RigVMFunction_MathFloatBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "RigVMFunction_MathFloatIsNearlyZero",
+      "target": "RigVMFunction_MathFloatIsNearlyZero.result",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathFloatIsNearlyZero",
+      "target": "RigVMFunction_MathFloatIsNearlyZero.tolerance",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathFloatIsNearlyZero",
+      "target": "RigVMFunction_MathFloatIsNearlyZero.value",
+      "type": "has_property"
+    },
+    {
+      "source": "RigVMFunction_MathFloatIsNearlyZero",
+      "target": "RigVMFunction_MathFloatIsNearlyZero.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "HttpImageStateSubsystem",
+      "target": "GameInstanceSubsystem",
+      "type": "inherits_from"
+    },
+    {
+      "source": "HttpImageStateSubsystem",
+      "target": "HttpImageStateSubsystem.set_http_image_state",
+      "type": "has_method"
+    },
+    {
+      "source": "HttpImageStateSubsystem",
+      "target": "HttpImageStateSubsystem.remove_http_image_state",
+      "type": "has_method"
+    },
+    {
+      "source": "HttpImageStateSubsystem",
+      "target": "HttpImageStateSubsystem.get_http_image_state",
+      "type": "has_method"
+    },
+    {
+      "source": "HttpImageStateSubsystem",
+      "target": "HttpImageStateSubsystem.get",
+      "type": "has_method"
+    },
+    {
+      "source": "WdpApiCallType",
+      "target": "EnumBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "WdpApiCallType",
+      "target": "WdpApiCallType.NONE",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "WdpApiCallType",
+      "target": "WdpApiCallType.FRONTEND",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "WdpApiCallType",
+      "target": "WdpApiCallType.AGENT",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "WdpApiCallType",
+      "target": "WdpApiCallType.INTERNAL_DEBUG",
+      "type": "has_enum_value"
+    },
+    {
+      "source": "TargetingTaskSet",
+      "target": "StructBase",
+      "type": "inherits_from"
+    },
+    {
+      "source": "TargetingTaskSet",
+      "target": "TargetingTaskSet.tasks",
+      "type": "has_property"
+    },
+    {
+      "source": "TargetingTaskSet",
+      "target": "TargetingTaskSet.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "MovieSceneTestSequence",
+      "target": "MovieSceneSequence",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FrameRateChangedPayload",
+      "target": "EmptyPayload",
+      "type": "inherits_from"
+    },
+    {
+      "source": "FrameRateChangedPayload",
+      "target": "FrameRateChangedPayload.previous_frame_rate",
+      "type": "has_property"
+    },
+    {
+      "source": "FrameRateChangedPayload",
+      "target": "FrameRateChangedPayload.__init__",
+      "type": "has_method"
+    },
+    {
+      "source": "ConstraintsActor",
+      "target": "Actor",
+      "type": "inherits_from"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "transform_projection_workflow",
+      "nodes": [
+        "RigUnit_ProjectTransformToNewParent",
+        "RigElementKey",
+        "Transform",
+        "RigUnit_ProjectTransformToNewParent.child",
+        "RigUnit_ProjectTransformToNewParent.old_parent",
+        "RigUnit_ProjectTransformToNewParent.new_parent",
+        "RigUnit_ProjectTransformToNewParent.transform"
+      ],
+      "description": "Transform projection workflow: Projects a child element's transform between parent hierarchies by computing relative offset from old parent and applying to new parent"
+    },
+    {
+      "id": "remote_control_exposure",
+      "nodes": [
+        "RemoteControlOptionalExposeArgs",
+        "RemoteControlOptionalExposeArgs.display_name",
+        "RemoteControlOptionalExposeArgs.group_name"
+      ],
+      "description": "Remote control exposure workflow: Configures how entities are exposed in remote control panels with display names and groupings"
+    },
+    {
+      "id": "material_expression_modulo",
+      "nodes": [
+        "MaterialExpressionModulo",
+        "MaterialExpression",
+        "MaterialExpressionModulo.desc",
+        "MaterialExpressionModulo.material_expression_editor_x",
+        "MaterialExpressionModulo.material_expression_editor_y"
+      ],
+      "description": "Material expression workflow: Modulo operation for material graphs with editor positioning metadata"
+    },
+    {
+      "id": "tile_metadata_system",
+      "nodes": [
+        "PaperTileMetadata",
+        "SpriteGeometryCollection",
+        "PaperTileMetadata.collision_data",
+        "PaperTileMetadata.user_data_name"
+      ],
+      "description": "2D tile metadata system: Stores collision data and user tags for tile set management"
+    },
+    {
+      "id": "content_browser_filtering",
+      "nodes": [
+        "ContentBrowserDataClassFilter",
+        "ContentBrowserDataClassFilter.class_names_to_include",
+        "ContentBrowserDataClassFilter.class_names_to_exclude",
+        "ContentBrowserDataClassFilter.recursive_class_names_to_include",
+        "ContentBrowserDataClassFilter.recursive_class_names_to_exclude"
+      ],
+      "description": "Content browser filtering workflow: Filters object instances by class with inclusion/exclusion lists and recursive behavior"
+    },
+    {
+      "id": "material_stage_blend_color",
+      "nodes": [
+        "DMMaterialStageBlendColor",
+        "DMMaterialStageBlendFunction",
+        "DMMaterialStageBlendColor.base_channel_override",
+        "DMMaterialStageBlendColor.input_connectors",
+        "DMMaterialStageBlendColor.output_connectors"
+      ],
+      "description": "Dynamic material stage blend workflow: Color blending function with channel override and input/output connectors"
+    },
+    {
+      "id": "chamfer_widget_interaction",
+      "nodes": [
+        "ChamferLengthWidget",
+        "UserWidget",
+        "ChamferLengthWidget.set_chamfer_length",
+        "ChamferLengthWidget.get_chamfer_length"
+      ],
+      "description": "Chamfer length widget workflow: UI widget for setting and retrieving chamfer length values"
+    },
+    {
+      "id": "ik_rig_pole_solver",
+      "nodes": [
+        "IKRig_PoleSolver",
+        "IKRigSolver",
+        "IKRig_PoleSolver.end_name",
+        "IKRig_PoleSolver.root_name"
+      ],
+      "description": "IK rig pole solver workflow: Solves IK chains using pole vectors with end and root bone references"
+    },
+    {
+      "id": "delegate_event_system",
+      "nodes": [
+        "BreakEventSignature",
+        "TifReceiveDelegate",
+        "MulticastDelegateBase"
+      ],
+      "description": "Delegate event system: Multicast delegates for physics break events and TIF file reception"
+    },
+    {
+      "id": "dataflow_asset_creation",
+      "nodes": [
+        "DataflowAssetFactory",
+        "Factory",
+        "DataflowAssetFactory.asset_import_task",
+        "DataflowAssetFactory.automated_import_data",
+        "DataflowAssetFactory.supported_class"
+      ],
+      "description": "Dataflow asset creation workflow: Factory for creating dataflow assets with import task and automation support"
+    },
+    {
+      "id": "audio_effect_flexiverb",
+      "nodes": [
+        "SubmixEffectFlexiverbPreset",
+        "SoundEffectSubmixPreset",
+        "SubmixEffectFlexiverbPreset.settings",
+        "SubmixEffectFlexiverbPreset.set_settings"
+      ],
+      "description": "Audio effect workflow: Flexiverb reverb effect preset for audio submix processing"
+    },
+    {
+      "id": "rigvm_math_float_check",
+      "nodes": [
+        "RigVMFunction_MathFloatIsNearlyZero",
+        "RigVMFunction_MathFloatBase",
+        "RigVMFunction_MathFloatIsNearlyZero.value",
+        "RigVMFunction_MathFloatIsNearlyZero.tolerance",
+        "RigVMFunction_MathFloatIsNearlyZero.result"
+      ],
+      "description": "RigVM math workflow: Checks if float value is nearly zero within tolerance"
+    },
+    {
+      "id": "http_image_state_management",
+      "nodes": [
+        "HttpImageStateSubsystem",
+        "GameInstanceSubsystem",
+        "HttpImageStateSubsystem.set_http_image_state",
+        "HttpImageStateSubsystem.get_http_image_state",
+        "HttpImageStateSubsystem.remove_http_image_state",
+        "HttpImageStateSubsystem.get"
+      ],
+      "description": "HTTP image state management: Subsystem for managing HTTP image download state and texture caching"
+    },
+    {
+      "id": "wdp_api_call_types",
+      "nodes": [
+        "WdpApiCallType",
+        "EnumBase",
+        "WdpApiCallType.NONE",
+        "WdpApiCallType.FRONTEND",
+        "WdpApiCallType.AGENT",
+        "WdpApiCallType.INTERNAL_DEBUG"
+      ],
+      "description": "WDP API call type enumeration: Defines types of API calls (None, Frontend, Agent, Internal Debug)"
+    },
+    {
+      "id": "targeting_system_tasks",
+      "nodes": [
+        "TargetingTaskSet",
+        "TargetingTaskSet.tasks"
+      ],
+      "description": "Targeting system workflow: Manages sets of tasks for finding and processing targeting requests"
+    },
+    {
+      "id": "movie_scene_test_sequence",
+      "nodes": [
+        "MovieSceneTestSequence",
+        "MovieSceneSequence"
+      ],
+      "description": "Movie scene testing workflow: Simple sequence for automated testing with manually specified bound objects"
+    },
+    {
+      "id": "frame_rate_change_tracking",
+      "nodes": [
+        "FrameRateChangedPayload",
+        "EmptyPayload",
+        "FrameRateChangedPayload.previous_frame_rate"
+      ],
+      "description": "Frame rate change workflow: Payload for tracking previous frame rate during animation data changes"
+    },
+    {
+      "id": "earth_entity_initialization",
+      "nodes": [
+        "EarthEntityInitParams",
+        "EarthOperateEntityTime",
+        "EarthEntityInitParams.operate_entity_time"
+      ],
+      "description": "Earth entity initialization workflow: Parameters for initializing earth entities with operation timing"
+    },
+    {
+      "id": "animation_curve_modification",
+      "nodes": [
+        "ModifyCurveAnimNodeReference",
+        "AnimNodeReference"
+      ],
+      "description": "Animation curve modification workflow: Reference to animation nodes for curve modification operations"
+    },
+    {
+      "id": "metasound_document_metadata",
+      "nodes": [
+        "MetasoundFrontendDocumentMetadata",
+        "StructBase"
+      ],
+      "description": "Metasound document workflow: Metadata container for Metasound frontend documents"
+    },
+    {
+      "id": "constraints_actor_system",
+      "nodes": [
+        "ConstraintsActor",
+        "Actor"
+      ],
+      "description": "Constraints actor workflow: Specialized actor for managing physics constraints in the world"
+    }
+  ]
+}

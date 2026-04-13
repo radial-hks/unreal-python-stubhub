@@ -1,0 +1,643 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_fabrik",
+      "label": "RigUnit FABRIK",
+      "file_type": "code",
+      "source_file": "RigUnit__FABRIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fabrik_solver",
+      "label": "FABRIK Solver Algorithm",
+      "file_type": "code",
+      "source_file": "RigUnit__FABRIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "inverse_kinematics",
+      "label": "Inverse Kinematics",
+      "file_type": "code",
+      "source_file": "RigUnit__FABRIK Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpmodeler_fence_vertex_attribute",
+      "label": "WdpModeler Fence Vertex Attribute",
+      "file_type": "code",
+      "source_file": "WdpModelerFenceVertexAttribute Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sequencer_scripting_range_extensions",
+      "label": "Sequencer Scripting Range Extensions",
+      "file_type": "code",
+      "source_file": "SequencerScriptingRangeExtensions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_math_matrix_unary_op",
+      "label": "RigVMFunction Math Matrix Unary Op",
+      "file_type": "code",
+      "source_file": "RigVMFunction_MathMatrixUnaryOp Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "copy_bone_delta_mode",
+      "label": "Copy Bone Delta Mode",
+      "file_type": "code",
+      "source_file": "CopyBoneDeltaMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earth_texture_overlayer_prefab_algorithm",
+      "label": "Earth Texture Overlayer Prefab Algorithm",
+      "file_type": "code",
+      "source_file": "EarthTextureOverlayerPrefabAlgorithm Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "display_cluster_configuration_ocio_profile",
+      "label": "DisplayCluster Configuration OCIO Profile",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationOCIOProfile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opencolorio_color_management",
+      "label": "OpenColorIO Color Management",
+      "file_type": "code",
+      "source_file": "DisplayClusterConfigurationOCIOProfile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "control_rig",
+      "label": "Control Rig",
+      "file_type": "code",
+      "source_file": "ControlRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_hierarchy_management",
+      "label": "Rig Hierarchy Management",
+      "file_type": "code",
+      "source_file": "ControlRig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_noise_float",
+      "label": "RigVMFunction Noise Float",
+      "file_type": "code",
+      "source_file": "RigVMFunction__NoiseFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "procedural_noise_generation",
+      "label": "Procedural Noise Generation",
+      "file_type": "code",
+      "source_file": "RigVMFunction__NoiseFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hair_material_constraints",
+      "label": "Hair Material Constraints",
+      "file_type": "code",
+      "source_file": "HairMaterialConstraints Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hair_physics_simulation",
+      "label": "Hair Physics Simulation",
+      "file_type": "code",
+      "source_file": "HairMaterialConstraints Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_math_vector_make",
+      "label": "RigVMFunction Math Vector Make",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathVectorMake Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_actor",
+      "label": "Camera Actor",
+      "file_type": "code",
+      "source_file": "CameraActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camera_viewpoint_system",
+      "label": "Camera Viewpoint System",
+      "file_type": "code",
+      "source_file": "CameraActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "matrix2d",
+      "label": "Matrix2D",
+      "file_type": "code",
+      "source_file": "Matrix2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "usd_data_interoperability",
+      "label": "USD Data Interoperability",
+      "file_type": "code",
+      "source_file": "Matrix2D Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_clamp_float",
+      "label": "RigUnit Clamp Float",
+      "file_type": "code",
+      "source_file": "RigUnit__Clamp__Float Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "anim_graph_node_local_to_component_space",
+      "label": "Anim Graph Node Local to Component Space",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__LocalToComponentSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "coordinate_space_conversion",
+      "label": "Coordinate Space Conversion",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__LocalToComponentSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typed_element_object_interface",
+      "label": "Typed Element Object Interface",
+      "file_type": "code",
+      "source_file": "TypedElementObjectInterface Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "media_io_output_configuration",
+      "label": "Media IO Output Configuration",
+      "file_type": "code",
+      "source_file": "MediaIOOutputConfiguration Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "video_output_synchronization",
+      "label": "Video Output Synchronization",
+      "file_type": "code",
+      "source_file": "MediaIOOutputConfiguration Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mvvm_viewmodel_field_path_helper_test",
+      "label": "MVVM View Model Field Path Helper Test",
+      "file_type": "code",
+      "source_file": "MVVMViewModelFieldPathHelperTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "property_notification_testing",
+      "label": "Property Notification Testing",
+      "file_type": "code",
+      "source_file": "MVVMViewModelFieldPathHelperTest Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_fabrik",
+      "target": "fabrik_solver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FABRIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fabrik_solver",
+      "target": "inverse_kinematics",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FABRIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fabrik",
+      "target": "control_rig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__FABRIK Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sequencer_scripting_range_extensions",
+      "target": "video_output_synchronization",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "SequencerScriptingRangeExtensions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_math_matrix_unary_op",
+      "target": "control_rig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction_MathMatrixUnaryOp Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "copy_bone_delta_mode",
+      "target": "coordinate_space_conversion",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CopyBoneDeltaMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "copy_bone_delta_mode",
+      "target": "control_rig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "CopyBoneDeltaMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "display_cluster_configuration_ocio_profile",
+      "target": "opencolorio_color_management",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DisplayClusterConfigurationOCIOProfile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "display_cluster_configuration_ocio_profile",
+      "target": "camera_viewpoint_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "DisplayClusterConfigurationOCIOProfile Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "control_rig",
+      "target": "rig_hierarchy_management",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ControlRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "control_rig",
+      "target": "inverse_kinematics",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ControlRig Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_noise_float",
+      "target": "procedural_noise_generation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__NoiseFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_noise_float",
+      "target": "control_rig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__NoiseFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "hair_material_constraints",
+      "target": "hair_physics_simulation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "HairMaterialConstraints Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_math_vector_make",
+      "target": "control_rig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__MathVectorMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camera_actor",
+      "target": "camera_viewpoint_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camera_actor",
+      "target": "opencolorio_color_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "CameraActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "matrix2d",
+      "target": "usd_data_interoperability",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Matrix2D Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_clamp_float",
+      "target": "control_rig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__Clamp__Float Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "anim_graph_node_local_to_component_space",
+      "target": "coordinate_space_conversion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimGraphNode__LocalToComponentSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "anim_graph_node_local_to_component_space",
+      "target": "control_rig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimGraphNode__LocalToComponentSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "typed_element_object_interface",
+      "target": "camera_viewpoint_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "TypedElementObjectInterface Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "media_io_output_configuration",
+      "target": "video_output_synchronization",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MediaIOOutputConfiguration Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "media_io_output_configuration",
+      "target": "camera_viewpoint_system",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "MediaIOOutputConfiguration Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mvvm_viewmodel_field_path_helper_test",
+      "target": "property_notification_testing",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MVVMViewModelFieldPathHelperTest Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_math_vector_make",
+      "target": "rigvmfunction_math_matrix_unary_op",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathVectorMake Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_noise_float",
+      "target": "rigunit_clamp_float",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigVMFunction__NoiseFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "copy_bone_delta_mode",
+      "target": "anim_graph_node_local_to_component_space",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "CopyBoneDeltaMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_ecosystem",
+      "label": "Control Rig Ecosystem Components",
+      "nodes": [
+        "rigunit_fabrik",
+        "control_rig",
+        "rigvmfunction_math_matrix_unary_op",
+        "rigvmfunction_noise_float",
+        "rigvmfunction_math_vector_make",
+        "rigunit_clamp_float",
+        "copy_bone_delta_mode",
+        "anim_graph_node_local_to_component_space"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "ControlRig Objects.md"
+    },
+    {
+      "id": "rendering_and_display_system",
+      "label": "Rendering and Display System",
+      "nodes": [
+        "camera_actor",
+        "display_cluster_configuration_ocio_profile",
+        "opencolorio_color_management",
+        "media_io_output_configuration",
+        "video_output_synchronization",
+        "camera_viewpoint_system"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "CameraActor Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,650 @@
+{
+  "nodes": [
+    {
+      "id": "polevectoroption",
+      "label": "PoleVectorOption",
+      "file_type": "code",
+      "source_file": "PoleVectorOption Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_stringreplace",
+      "label": "RigUnit_StringReplace",
+      "file_type": "code",
+      "source_file": "RigUnit__StringReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_stringreplace",
+      "label": "RigVMFunction_StringReplace",
+      "file_type": "code",
+      "source_file": "RigUnit__StringReplace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldcullingoperationtype",
+      "label": "FieldCullingOperationType",
+      "file_type": "code",
+      "source_file": "FieldCullingOperationType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadentitytype",
+      "label": "RoadEntityType",
+      "file_type": "code",
+      "source_file": "RoadEntityType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "camerastartatom",
+      "label": "CameraStartAtom",
+      "file_type": "code",
+      "source_file": "CameraStartAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entityatombase",
+      "label": "EntityAtomBase",
+      "file_type": "code",
+      "source_file": "CameraStartAtom Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathbooltoggled",
+      "label": "RigVMFunction_MathBoolToggled",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoolToggled Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathboolbase",
+      "label": "RigVMFunction_MathBoolBase",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoolToggled Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgaddtagsettings",
+      "label": "PCGAddTagSettings",
+      "file_type": "code",
+      "source_file": "PCGAddTagSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgsettings",
+      "label": "PCGSettings",
+      "file_type": "code",
+      "source_file": "PCGAddTagSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundfieldendpointsubmix",
+      "label": "SoundfieldEndpointSubmix",
+      "file_type": "code",
+      "source_file": "SoundfieldEndpointSubmix Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundsubmixbase",
+      "label": "SoundSubmixBase",
+      "file_type": "code",
+      "source_file": "SoundfieldEndpointSubmix Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rotationrepresentation",
+      "label": "RotationRepresentation",
+      "file_type": "code",
+      "source_file": "RotationRepresentation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineimagesequenceoutput_exr",
+      "label": "MoviePipelineImageSequenceOutput_EXR",
+      "file_type": "code",
+      "source_file": "MoviePipelineImageSequenceOutput_EXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineimagesequenceoutputbase",
+      "label": "MoviePipelineImageSequenceOutputBase",
+      "file_type": "code",
+      "source_file": "MoviePipelineImageSequenceOutput_EXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exrcompressionformat",
+      "label": "EXRCompressionFormat",
+      "file_type": "code",
+      "source_file": "MoviePipelineImageSequenceOutput_EXR Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "perqualitylevels",
+      "label": "PerQualityLevels",
+      "file_type": "code",
+      "source_file": "PerQualityLevels Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionstratahairbsdf",
+      "label": "MaterialExpressionStrataHairBSDF",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStrataHairBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionsubstratehairbsdf",
+      "label": "MaterialExpressionSubstrateHairBSDF",
+      "file_type": "code",
+      "source_file": "MaterialExpressionStrataHairBSDF Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoubleasin",
+      "label": "RigUnit_MathDoubleAsin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleAsin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoubleasin",
+      "label": "RigVMFunction_MathDoubleAsin",
+      "file_type": "code",
+      "source_file": "RigUnit__MathDoubleAsin Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "earthdebughudhalign",
+      "label": "EarthDebugHudHAlign",
+      "file_type": "code",
+      "source_file": "EarthDebugHudHAlign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thumbnaillabeltype_blueprinttype",
+      "label": "ThumbnailLabelType_BlueprintType",
+      "file_type": "code",
+      "source_file": "ThumbnailLabelType_BlueprintType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "visualparam",
+      "label": "VisualParam",
+      "file_type": "code",
+      "source_file": "VisualParam Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multipassdespill",
+      "label": "MultiPassDespill",
+      "file_type": "code",
+      "source_file": "MultiPassDespill Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "compositingelementtransform",
+      "label": "CompositingElementTransform",
+      "file_type": "code",
+      "source_file": "MultiPassDespill Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionblueprintlibrary",
+      "label": "WorldPartitionBlueprintLibrary",
+      "file_type": "code",
+      "source_file": "WorldPartitionBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "blueprintfuctionlibrary",
+      "label": "BlueprintFunctionLibrary",
+      "file_type": "code",
+      "source_file": "WorldPartitionBlueprintLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "vectorspringstate",
+      "label": "VectorSpringState",
+      "file_type": "code",
+      "source_file": "VectorSpringState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "hairgroupcardsinfo",
+      "label": "HairGroupCardsInfo",
+      "file_type": "code",
+      "source_file": "HairGroupCardsInfo Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundsubmixspectralanalysisbandsettings",
+      "label": "SoundSubmixSpectralAnalysisBandSettings",
+      "file_type": "code",
+      "source_file": "SoundSubmixSpectralAnalysisBandSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathquaternionmakerelative",
+      "label": "RigUnit_MathQuaternionMakeRelative",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathquaternionmakerelative",
+      "label": "RigVMFunction_MathQuaternionMakeRelative",
+      "file_type": "code",
+      "source_file": "RigUnit_MathQuaternionMakeRelative Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "quaternion_euler_angles",
+      "label": "Quaternion and Euler Angles Rotation",
+      "file_type": "code",
+      "source_file": "RotationRepresentation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rig_logic_plugin",
+      "label": "RigLogic Plugin",
+      "file_type": "code",
+      "source_file": "RotationRepresentation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvm_math_functions",
+      "label": "RigVM Mathematical Functions",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathBoolToggled Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_stringreplace",
+      "target": "rigvmfunction_stringreplace",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__StringReplace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "camerastartatom",
+      "target": "entityatombase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CameraStartAtom Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathbooltoggled",
+      "target": "rigvmfunction_mathboolbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__MathBoolToggled Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgaddtagsettings",
+      "target": "pcgsettings",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGAddTagSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundfieldendpointsubmix",
+      "target": "soundsubmixbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundfieldEndpointSubmix Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineimagesequenceoutput_exr",
+      "target": "moviepipelineimagesequenceoutputbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineImageSequenceOutput_EXR Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineimagesequenceoutput_exr",
+      "target": "exrcompressionformat",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineImageSequenceOutput_EXR Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "materialexpressionstratahairbsdf",
+      "target": "materialexpressionsubstratehairbsdf",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MaterialExpressionStrataHairBSDF Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathdoubleasin",
+      "target": "rigvmfunction_mathdoubleasin",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathDoubleAsin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "multipassdespill",
+      "target": "compositingelementtransform",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MultiPassDespill Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionblueprintlibrary",
+      "target": "blueprintfuctionlibrary",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartitionBlueprintLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathquaternionmakerelative",
+      "target": "rigvmfunction_mathquaternionmakerelative",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathQuaternionMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rotationrepresentation",
+      "target": "quaternion_euler_angles",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RotationRepresentation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rotationrepresentation",
+      "target": "rig_logic_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RotationRepresentation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathbooltoggled",
+      "target": "rigvm_math_functions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigVMFunction__MathBoolToggled Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathdoubleasin",
+      "target": "rigvm_math_functions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__MathDoubleAsin Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionmakerelative",
+      "target": "rigvm_math_functions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_MathQuaternionMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_mathquaternionmakerelative",
+      "target": "quaternion_euler_angles",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_MathQuaternionMakeRelative Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "polevectoroption",
+      "target": "rig_logic_plugin",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PoleVectorOption Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deprecated_rigvm_classes",
+      "label": "Deprecated RigVM Classes with Renamed Replacements",
+      "nodes": [
+        "rigunit_stringreplace",
+        "rigunit_mathdoubleasin",
+        "rigunit_mathquaternionmakerelative",
+        "rigvmfunction_stringreplace",
+        "rigvmfunction_mathdoubleasin",
+        "rigvmfunction_mathquaternionmakerelative"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__StringReplace Objects.md"
+    },
+    {
+      "id": "rigvm_math_operations",
+      "label": "RigVM Mathematical Operations",
+      "nodes": [
+        "rigvmfunction_mathbooltoggled",
+        "rigvmfunction_mathdoubleasin",
+        "rigvmfunction_mathquaternionmakerelative",
+        "rigvm_math_functions"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "RigVMFunction__MathBoolToggled Objects.md"
+    },
+    {
+      "id": "audio_submix_hierarchy",
+      "label": "Audio Submix Class Hierarchy",
+      "nodes": [
+        "soundfieldendpointsubmix",
+        "soundsubmixbase",
+        "soundsubmixspectralanalysisbandsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "SoundfieldEndpointSubmix Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

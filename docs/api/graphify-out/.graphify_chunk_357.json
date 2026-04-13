@@ -1,0 +1,661 @@
+{
+  "nodes": [
+    {
+      "id": "interchangematerialinstancenode_class",
+      "label": "InterchangeMaterialInstanceNode",
+      "file_type": "code",
+      "source_file": "InterchangeMaterialInstanceNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spectatorbeaconclient_class",
+      "label": "SpectatorBeaconClient",
+      "file_type": "code",
+      "source_file": "SpectatorBeaconClient Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pytestdelegate_class",
+      "label": "PyTestDelegate",
+      "file_type": "code",
+      "source_file": "PyTestDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_sequenceevaluator_class",
+      "label": "AnimNode_SequenceEvaluator",
+      "file_type": "code",
+      "source_file": "AnimNode_SequenceEvaluator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "skyatmosphere_class",
+      "label": "SkyAtmosphere",
+      "file_type": "code",
+      "source_file": "SkyAtmosphere Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dialoguevoicefactory_class",
+      "label": "DialogueVoiceFactory",
+      "file_type": "code",
+      "source_file": "DialogueVoiceFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangefilepickergeneric_class",
+      "label": "InterchangeFilePickerGeneric",
+      "file_type": "code",
+      "source_file": "InterchangeFilePickerGeneric Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviegraphlineartimestep_class",
+      "label": "MovieGraphLinearTimeStep",
+      "file_type": "code",
+      "source_file": "MovieGraphLinearTimeStep Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onleveleditorEditorcameramoved_class",
+      "label": "OnLevelEditorEditorCameraMoved",
+      "file_type": "code",
+      "source_file": "OnLevelEditorEditorCameraMoved Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "spaceheatmapdata_class",
+      "label": "SpaceHeatMapData",
+      "file_type": "code",
+      "source_file": "SpaceHeatMapData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperrendercomponent_class",
+      "label": "PaperRenderComponent",
+      "file_type": "code",
+      "source_file": "PaperRenderComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "debugdrawcomponent_class",
+      "label": "DebugDrawComponent",
+      "file_type": "code",
+      "source_file": "DebugDrawComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "applicationlifecyclecomponent_onlowpowermodedelegate_class",
+      "label": "ApplicationLifecycleComponent_OnLowPowerModeDelegate",
+      "file_type": "code",
+      "source_file": "ApplicationLifecycleComponent__OnLowPowerModeDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviepipelineantialiasingsetting_class",
+      "label": "MoviePipelineAntiAliasingSetting",
+      "file_type": "code",
+      "source_file": "MoviePipelineAntiAliasingSetting Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadheatmapentity_class",
+      "label": "RoadHeatMapEntity",
+      "file_type": "code",
+      "source_file": "RoadHeatMapEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugbasemutable_class",
+      "label": "RigUnit_DebugBaseMutable",
+      "file_type": "code",
+      "source_file": "RigUnit_DebugBaseMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scenecaptureprimitiverendermode_class",
+      "label": "SceneCapturePrimitiveRenderMode",
+      "file_type": "code",
+      "source_file": "SceneCapturePrimitiveRenderMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_itemexists_class",
+      "label": "RigUnit_ItemExists",
+      "file_type": "code",
+      "source_file": "RigUnit__ItemExists Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "timecodeprovidersynchronizationstate_class",
+      "label": "TimecodeProviderSynchronizationState",
+      "file_type": "code",
+      "source_file": "TimecodeProviderSynchronizationState Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "niagaraassettagdefinitionsfactory_class",
+      "label": "NiagaraAssetTagDefinitionsFactory",
+      "file_type": "code",
+      "source_file": "NiagaraAssetTagDefinitionsFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_accumulatebase_class",
+      "label": "RigUnit_AccumulateBase",
+      "file_type": "code",
+      "source_file": "RigUnit__AccumulateBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_itemequals_class",
+      "label": "RigUnit_ItemEquals",
+      "file_type": "code",
+      "source_file": "RigUnit_ItemEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "interchangematerialinstancenode_class",
+      "target": "interchangebasenode_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeMaterialInstanceNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spectatorbeaconclient_class",
+      "target": "onlinebeaconclient_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpectatorBeaconClient Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pytestdelegate_class",
+      "target": "delegatebase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PyTestDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_sequenceevaluator_class",
+      "target": "animnode_sequenceevaluatorbase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_SequenceEvaluator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "skyatmosphere_class",
+      "target": "info_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SkyAtmosphere Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dialoguevoicefactory_class",
+      "target": "factory_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DialogueVoiceFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangefilepickergeneric_class",
+      "target": "interchangefilepickerbase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeFilePickerGeneric Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphlineartimestep_class",
+      "target": "moviegraphcoretimestep_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieGraphLinearTimeStep Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onleveleditorEditorcameramoved_class",
+      "target": "multicastdelegatebase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "OnLevelEditorEditorCameraMoved Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spaceheatmapdata_class",
+      "target": "structbase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SpaceHeatMapData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperrendercomponent_class",
+      "target": "paperspritecomponent_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperRenderComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "debugdrawcomponent_class",
+      "target": "primitivecomponent_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DebugDrawComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "applicationlifecyclecomponent_onlowpowermodedelegate_class",
+      "target": "multicastdelegatebase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ApplicationLifecycleComponent__OnLowPowerModeDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviepipelineantialiasingsetting_class",
+      "target": "moviepipelinesetting_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MoviePipelineAntiAliasingSetting Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "roadheatmapentity_class",
+      "target": "wdpactorentity_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RoadHeatMapEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbasemutable_class",
+      "target": "rigunitmutable_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_DebugBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scenecaptureprimitiverendermode_class",
+      "target": "enumbase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SceneCapturePrimitiveRenderMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itemexists_class",
+      "target": "rigunit_itembase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__ItemExists Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "timecodeprovidersynchronizationstate_class",
+      "target": "enumbase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TimecodeProviderSynchronizationState Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "niagaraassettagdefinitionsfactory_class",
+      "target": "factory_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "NiagaraAssetTagDefinitionsFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatebase_class",
+      "target": "rigvmfunction_accumulatebase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AccumulateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itemequals_class",
+      "target": "rigunit_itembase_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ItemEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "spaceheatmapdata_class",
+      "target": "roadheatmapentity_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "SpaceHeatMapData Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dialoguevoicefactory_class",
+      "target": "niagaraassettagdefinitionsfactory_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DialogueVoiceFactory Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbasemutable_class",
+      "target": "rigunit_itemexists_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_DebugBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbasemutable_class",
+      "target": "rigunit_itemequals_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_DebugBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_debugbasemutable_class",
+      "target": "rigunit_accumulatebase_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_DebugBaseMutable Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itemexists_class",
+      "target": "rigunit_itemequals_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.92,
+      "source_file": "RigUnit__ItemExists Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itemexists_class",
+      "target": "rigunit_accumulatebase_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit__ItemExists Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_itemequals_class",
+      "target": "rigunit_accumulatebase_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_ItemEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pytestdelegate_class",
+      "target": "onleveleditorEditorcameramoved_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "PyTestDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pytestdelegate_class",
+      "target": "applicationlifecyclecomponent_onlowpowermodedelegate_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.82,
+      "source_file": "PyTestDelegate Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "onleveleditorEditorcameramoved_class",
+      "target": "applicationlifecyclecomponent_onlowpowermodedelegate_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "OnLevelEditorEditorCameraMoved Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviegraphlineartimestep_class",
+      "target": "moviepipelineantialiasingsetting_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.78,
+      "source_file": "MovieGraphLinearTimeStep Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperrendercomponent_class",
+      "target": "paperspritecomponent_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperRenderComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_accumulatebase_class",
+      "target": "rigvmfunction_accumulatebase_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__AccumulateBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangematerialinstancenode_class",
+      "target": "interchangefilepickergeneric_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.72,
+      "source_file": "InterchangeMaterialInstanceNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "controlrig_units",
+      "label": "ControlRig Unit System",
+      "nodes": [
+        "rigunit_debugbasemutable_class",
+        "rigunit_itemexists_class",
+        "rigunit_itemequals_class",
+        "rigunit_accumulatebase_class"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit_DebugBaseMutable Objects.md"
+    },
+    {
+      "id": "delegate_event_system",
+      "label": "Unreal Engine Delegate/Event System",
+      "nodes": [
+        "pytestdelegate_class",
+        "onleveleditorEditorcameramoved_class",
+        "applicationlifecyclecomponent_onlowpowermodedelegate_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "PyTestDelegate Objects.md"
+    },
+    {
+      "id": "asset_factory_pattern",
+      "label": "Asset Factory Pattern",
+      "nodes": [
+        "dialoguevoicefactory_class",
+        "niagaraassettagdefinitionsfactory_class"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "DialogueVoiceFactory Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

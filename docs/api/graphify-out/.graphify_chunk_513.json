@@ -1,0 +1,497 @@
+{
+  "nodes": [
+    {
+      "id": "rigunit_parameteratpercentage",
+      "label": "RigUnit ParameterAtPercentage",
+      "file_type": "code",
+      "source_file": "RigUnit_ParameterAtPercentage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathdoublemul",
+      "label": "RigVMFunction MathDoubleMul",
+      "file_type": "code",
+      "source_file": "RigVMFunction__MathDoubleMul Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "toolmenuprofile",
+      "label": "ToolMenuProfile",
+      "file_type": "code",
+      "source_file": "ToolMenuProfile Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreecomponentschema",
+      "label": "StateTreeComponentSchema",
+      "file_type": "code",
+      "source_file": "StateTreeComponentSchema Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectionactor",
+      "label": "GeometryCollectionActor",
+      "file_type": "code",
+      "source_file": "GeometryCollectionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "constantqfftsizeenum",
+      "label": "ConstantQFFTSizeEnum",
+      "file_type": "code",
+      "source_file": "ConstantQFFTSizeEnum Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lowentrybytedataentry",
+      "label": "LowEntryByteDataEntry",
+      "file_type": "code",
+      "source_file": "LowEntryByteDataEntry Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "typedelementlist",
+      "label": "TypedElementList",
+      "file_type": "code",
+      "source_file": "TypedElementList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreetransitionresult",
+      "label": "StateTreeTransitionResult",
+      "file_type": "code",
+      "source_file": "StateTreeTransitionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangebasematerialfactorynode",
+      "label": "InterchangeBaseMaterialFactoryNode",
+      "file_type": "code",
+      "source_file": "InterchangeBaseMaterialFactoryNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fieldvaluechangeddynamicdelegate",
+      "label": "FieldValueChangedDynamicDelegate",
+      "file_type": "code",
+      "source_file": "FieldValueChangedDynamicDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "instancedstaticmeshinstancedata",
+      "label": "InstancedStaticMeshInstanceData",
+      "file_type": "code",
+      "source_file": "InstancedStaticMeshInstanceData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_repeat",
+      "label": "AbilityTask Repeat",
+      "file_type": "code",
+      "source_file": "AbilityTask__Repeat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "imagesequenceprotocol_bmp",
+      "label": "ImageSequenceProtocol BMP",
+      "file_type": "code",
+      "source_file": "ImageSequenceProtocol__BMP Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_blendspace",
+      "label": "AnimNode BlendSpace",
+      "file_type": "code",
+      "source_file": "AnimNode__BlendSpace Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_twistbonesperitem",
+      "label": "RigUnit TwistBonesPerItem",
+      "file_type": "code",
+      "source_file": "RigUnit__TwistBonesPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode_usecachedpose",
+      "label": "AnimGraphNode UseCachedPose",
+      "file_type": "code",
+      "source_file": "AnimGraphNode__UseCachedPose Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mediaaudiocapturedevicefilter",
+      "label": "MediaAudioCaptureDeviceFilter",
+      "file_type": "code",
+      "source_file": "MediaAudioCaptureDeviceFilter Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdptransactionapi",
+      "label": "WdpTransactionAPI",
+      "file_type": "code",
+      "source_file": "WdpTransactionAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_hierarchyaddanimationchannelvectorlimitsettings",
+      "label": "RigUnit HierarchyAddAnimationChannelVectorLimitSettings",
+      "file_type": "code",
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVectorLimitSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "performancetestlibrary",
+      "label": "PerformanceTestLibrary",
+      "file_type": "code",
+      "source_file": "PerformanceTestLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controlrigspline",
+      "label": "ControlRigSpline",
+      "file_type": "code",
+      "source_file": "RigUnit_ParameterAtPercentage Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrycollectioncomponent",
+      "label": "GeometryCollectionComponent",
+      "file_type": "code",
+      "source_file": "GeometryCollectionActor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scripttypedelementhandle",
+      "label": "ScriptTypedElementHandle",
+      "file_type": "code",
+      "source_file": "TypedElementList Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreestatehandle",
+      "label": "StateTreeStateHandle",
+      "file_type": "code",
+      "source_file": "StateTreeTransitionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "statetreetreetransitionconcept",
+      "label": "State Tree Transition System",
+      "file_type": "code",
+      "source_file": "StateTreeTransitionResult Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigbone_twist_rotation",
+      "label": "Rig Bone Twist Rotation",
+      "file_type": "code",
+      "source_file": "RigUnit__TwistBonesPerItem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "transaction_management",
+      "label": "Transaction Management",
+      "file_type": "code",
+      "source_file": "WdpTransactionAPI Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cpu_performance_testing",
+      "label": "CPU Performance Testing",
+      "file_type": "code",
+      "source_file": "PerformanceTestLibrary Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "rigunit_parameteratpercentage",
+      "target": "controlrigspline",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_ParameterAtPercentage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrycollectionactor",
+      "target": "geometrycollectioncomponent",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryCollectionActor Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "typedelementlist",
+      "target": "scripttypedelementhandle",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TypedElementList Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreetransitionresult",
+      "target": "statetreestatehandle",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "StateTreeTransitionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreetransitionresult",
+      "target": "statetreetreetransitionconcept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "StateTreeTransitionResult Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "statetreecomponentschema",
+      "target": "statetreetreetransitionconcept",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "StateTreeComponentSchema Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_twistbonesperitem",
+      "target": "rigbone_twist_rotation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "RigUnit__TwistBonesPerItem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdptransactionapi",
+      "target": "transaction_management",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "WdpTransactionAPI Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "performancetestlibrary",
+      "target": "cpu_performance_testing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "PerformanceTestLibrary Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_parameteratpercentage",
+      "target": "rigunit_twistbonesperitem",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigUnit_ParameterAtPercentage Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_hierarchyaddanimationchannelvectorlimitsettings",
+      "target": "rigunit_twistbonesperitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit_HierarchyAddAnimationChannelVectorLimitSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_blendspace",
+      "target": "animgraphnode_usecachedpose",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode__BlendSpace Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "constantqfftsizeenum",
+      "target": "mediaaudiocapturedevicefilter",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "ConstantQFFTSizeEnum Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "control_rig_system",
+      "label": "Control Rig System",
+      "nodes": [
+        "rigunit_parameteratpercentage",
+        "rigunit_twistbonesperitem",
+        "rigunit_hierarchyaddanimationchannelvectorlimitsettings"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "RigUnit_ParameterAtPercentage Objects.md"
+    },
+    {
+      "id": "animation_system",
+      "label": "Animation System",
+      "nodes": [
+        "animnode_blendspace",
+        "animgraphnode_usecachedpose",
+        "abilitytask_repeat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimNode__BlendSpace Objects.md"
+    },
+    {
+      "id": "transaction_rollback_operations",
+      "label": "Transaction/Rollback Operations",
+      "nodes": [
+        "wdptransactionapi",
+        "transaction_management"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "WdpTransactionAPI Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

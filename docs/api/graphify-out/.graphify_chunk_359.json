@@ -1,0 +1,611 @@
+{
+  "nodes": [
+    {
+      "id": "livelinksubjectproperties_livelinksubjectproperties",
+      "label": "LiveLinkSubjectProperties",
+      "file_type": "document",
+      "source_file": "LiveLinkSubjectProperties Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_applyrootmotionconstantforce_abilitytask_applyrootmotionconstantforce",
+      "label": "AbilityTask_ApplyRootMotionConstantForce",
+      "file_type": "document",
+      "source_file": "AbilityTask__ApplyRootMotionConstantForce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "clearsceneparams_clearsceneparams",
+      "label": "ClearSceneParams",
+      "file_type": "document",
+      "source_file": "ClearSceneParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lensedatamode_lensedatamode",
+      "label": "LensDataMode",
+      "file_type": "document",
+      "source_file": "LensDataMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmateriallinkedcomponent_dmmateriallinkedcomponent",
+      "label": "DMMaterialLinkedComponent",
+      "file_type": "document",
+      "source_file": "DMMaterialLinkedComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dynamicboxtype_dynamicboxtype",
+      "label": "DynamicBoxType",
+      "file_type": "document",
+      "source_file": "DynamicBoxType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviesceneskeletalanimationtrack_moviesceneskeletalanimationtrack",
+      "label": "MovieSceneSkeletalAnimationTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneSkeletalAnimationTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_fitchaintosplinecurve_rigunit_fitchaintosplinecurve",
+      "label": "RigUnit_FitChainToSplineCurve",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToSplineCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptsetssimplecollisionoptions_geometryscriptsetssimplecollisionoptions",
+      "label": "GeometryScriptSetSimpleCollisionOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptSetSimpleCollisionOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "worldpartitionminimap_worldpartitionminimap",
+      "label": "WorldPartitionMiniMap",
+      "file_type": "document",
+      "source_file": "WorldPartitionMiniMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_getanimationchannelbase_rigunit_getanimationchannelbase",
+      "label": "RigUnit_GetAnimationChannelBase",
+      "file_type": "document",
+      "source_file": "RigUnit_GetAnimationChannelBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidartoolactionsselection_lidartoolactionsselection",
+      "label": "LidarToolActionsSelection",
+      "file_type": "document",
+      "source_file": "LidarToolActionsSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "computekerneldefinitionset_computekerneldefinitionset",
+      "label": "ComputeKernelDefinitionSet",
+      "file_type": "document",
+      "source_file": "ComputeKernelDefinitionSet Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_userdefinedevent_rigvmfunction_userdefinedevent",
+      "label": "RigVMFunction_UserDefinedEvent",
+      "file_type": "document",
+      "source_file": "RigVMFunction_UserDefinedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_distributerotationforitemarray_rigunit_distributerotationforitemarray",
+      "label": "RigUnit_DistributeRotationForItemArray",
+      "file_type": "document",
+      "source_file": "RigUnit__DistributeRotationForItemArray Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexturelightprofilenode_interchangetexturelightprofilenode",
+      "label": "InterchangeTextureLightProfileNode",
+      "file_type": "document",
+      "source_file": "InterchangeTextureLightProfileNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathrbfinterpolatevectorquat_rigunit_mathrbfinterpolatevectorquat",
+      "label": "RigUnit_MathRBFInterpolateVectorQuat",
+      "file_type": "document",
+      "source_file": "RigUnit_MathRBFInterpolateVectorQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanentityvariabletype_urbanentityvariabletype",
+      "label": "UrbanEntityVariableType",
+      "file_type": "document",
+      "source_file": "UrbanEntityVariableType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrig_settransform_ikrig_settransform",
+      "label": "IKRig_SetTransform",
+      "file_type": "document",
+      "source_file": "IKRig__SetTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpeffectsentity_wdpeffectsentity",
+      "label": "WdpEffectsEntity",
+      "file_type": "document",
+      "source_file": "WdpEffectsEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animdetailproxylocation_animdetailproxylocation",
+      "label": "AnimDetailProxyLocation",
+      "file_type": "document",
+      "source_file": "AnimDetailProxyLocation Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathintequals_rigunit_mathintequals",
+      "label": "RigUnit_MathIntEquals",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilitytask_applyrootmotion_base_abilitytask_applyrootmotion_base",
+      "label": "AbilityTask_ApplyRootMotion_Base",
+      "file_type": "document",
+      "source_file": "AbilityTask__ApplyRootMotionConstantForce Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paramsbase_paramsbase",
+      "label": "ParamsBase",
+      "file_type": "document",
+      "source_file": "ClearSceneParams Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialcomponent_dmmaterialcomponent",
+      "label": "DMMaterialComponent",
+      "file_type": "document",
+      "source_file": "DMMaterialLinkedComponent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "moviescenenameabletrack_moviescenenameabletrack",
+      "label": "MovieSceneNameableTrack",
+      "file_type": "document",
+      "source_file": "MovieSceneSkeletalAnimationTrack Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "label": "RigUnit_HighlevelBaseMutable",
+      "file_type": "document",
+      "source_file": "RigUnit__FitChainToSplineCurve Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structbase_structbase",
+      "label": "StructBase",
+      "file_type": "document",
+      "source_file": "GeometryScriptSetSimpleCollisionOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "info_info",
+      "label": "Info",
+      "file_type": "document",
+      "source_file": "WorldPartitionMiniMap Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_rigunit",
+      "label": "RigUnit",
+      "file_type": "document",
+      "source_file": "RigUnit_GetAnimationChannelBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interactivetoolpropertyset_interactivetoolpropertyset",
+      "label": "InteractiveToolPropertySet",
+      "file_type": "document",
+      "source_file": "LidarToolActionsSelection Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmstruct_rigvmstruct",
+      "label": "RigVMStruct",
+      "file_type": "document",
+      "source_file": "RigVMFunction_UserDefinedEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interchangetexturenode_interchangetexturenode",
+      "label": "InterchangeTextureNode",
+      "file_type": "document",
+      "source_file": "InterchangeTextureLightProfileNode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathrbfinterpolatevectorquat_rigvmfunction_mathrbfinterpolatevectorquat",
+      "label": "RigVMFunction_MathRBFInterpolateVectorQuat",
+      "file_type": "document",
+      "source_file": "RigUnit_MathRBFInterpolateVectorQuat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ikrigsolver_ikrigsolver",
+      "label": "IKRigSolver",
+      "file_type": "document",
+      "source_file": "IKRig__SetTransform Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wdpstandardactorentity_wdpstandardactorentity",
+      "label": "WdpStandardActorEntity",
+      "file_type": "document",
+      "source_file": "WdpEffectsEntity Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction_mathintequals_rigvmfunction_mathintequals",
+      "label": "RigVMFunction_MathIntEquals",
+      "file_type": "document",
+      "source_file": "RigUnit__MathIntEquals Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "abilitytask_applyrootmotionconstantforce_abilitytask_applyrootmotionconstantforce",
+      "target": "abilitytask_applyrootmotion_base_abilitytask_applyrootmotion_base",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AbilityTask__ApplyRootMotionConstantForce Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "clearsceneparams_clearsceneparams",
+      "target": "paramsbase_paramsbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "ClearSceneParams Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmateriallinkedcomponent_dmmateriallinkedcomponent",
+      "target": "dmmaterialcomponent_dmmaterialcomponent",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialLinkedComponent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "moviesceneskeletalanimationtrack_moviesceneskeletalanimationtrack",
+      "target": "moviescenenameabletrack_moviescenenameabletrack",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MovieSceneSkeletalAnimationTrack Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintosplinecurve_rigunit_fitchaintosplinecurve",
+      "target": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__FitChainToSplineCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptsetssimplecollisionoptions_geometryscriptsetssimplecollisionoptions",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptSetSimpleCollisionOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "worldpartitionminimap_worldpartitionminimap",
+      "target": "info_info",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WorldPartitionMiniMap Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_getanimationchannelbase_rigunit_getanimationchannelbase",
+      "target": "rigunit_rigunit",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_GetAnimationChannelBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lidartoolactionsselection_lidartoolactionsselection",
+      "target": "interactivetoolpropertyset_interactivetoolpropertyset",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LidarToolActionsSelection Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction_userdefinedevent_rigvmfunction_userdefinedevent",
+      "target": "rigvmstruct_rigvmstruct",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction_UserDefinedEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_distributerotationforitemarray_rigunit_distributerotationforitemarray",
+      "target": "rigunit_highlevelbasemutable_rigunit_highlevelbasemutable",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__DistributeRotationForItemArray Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "interchangetexturelightprofilenode_interchangetexturelightprofilenode",
+      "target": "interchangetexturenode_interchangetexturenode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "InterchangeTextureLightProfileNode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathrbfinterpolatevectorquat_rigunit_mathrbfinterpolatevectorquat",
+      "target": "rigvmfunction_mathrbfinterpolatevectorquat_rigvmfunction_mathrbfinterpolatevectorquat",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathRBFInterpolateVectorQuat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ikrig_settransform_ikrig_settransform",
+      "target": "ikrigsolver_ikrigsolver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "IKRig__SetTransform Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wdpeffectsentity_wdpeffectsentity",
+      "target": "wdpstandardactorentity_wdpstandardactorentity",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "WdpEffectsEntity Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animdetailproxylocation_animdetailproxylocation",
+      "target": "structbase_structbase",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimDetailProxyLocation Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_mathintequals_rigunit_mathintequals",
+      "target": "rigvmfunction_mathintequals_rigvmfunction_mathintequals",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit__MathIntEquals Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigunit_fitchaintosplinecurve_rigunit_fitchaintosplinecurve",
+      "target": "rigunit_distributerotationforitemarray_rigunit_distributerotationforitemarray",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "RigUnit__FitChainToSplineCurve Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rigunit_deprecated_migrations",
+      "label": "Deprecated RigUnit to RigVMFunction Migrations",
+      "nodes": [
+        "rigunit_mathrbfinterpolatevectorquat_rigunit_mathrbfinterpolatevectorquat",
+        "rigvmfunction_mathrbfinterpolatevectorquat_rigvmfunction_mathrbfinterpolatevectorquat",
+        "rigunit_mathintequals_rigunit_mathintequals",
+        "rigvmfunction_mathintequals_rigvmfunction_mathintequals"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigUnit_MathRBFInterpolateVectorQuat Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

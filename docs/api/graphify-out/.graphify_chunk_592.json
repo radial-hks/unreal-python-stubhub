@@ -1,0 +1,969 @@
+{
+  "nodes": [
+    {
+      "id": "animnode_applyadditive",
+      "label": "AnimNode_ApplyAdditive",
+      "file_type": "document",
+      "source_file": "AnimNode_ApplyAdditive Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_applyadditive_base",
+      "label": "base property",
+      "file_type": "document",
+      "source_file": "AnimNode_ApplyAdditive Objects.md",
+      "source_location": "line 24",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_applyadditive_additive",
+      "label": "additive property",
+      "file_type": "document",
+      "source_file": "AnimNode_ApplyAdditive Objects.md",
+      "source_location": "line 16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnode_applyadditive_alpha",
+      "label": "alpha property",
+      "file_type": "document",
+      "source_file": "AnimNode_ApplyAdditive Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnumberofentriessettings",
+      "label": "PCGNumberOfEntriesSettings",
+      "file_type": "document",
+      "source_file": "PCGNumberOfEntriesSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnumberofentriessettings_output_attribute_name",
+      "label": "output_attribute_name property",
+      "file_type": "document",
+      "source_file": "PCGNumberOfEntriesSettings Objects.md",
+      "source_location": "line 29",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "subobjectdata",
+      "label": "SubobjectData",
+      "file_type": "document",
+      "source_file": "SubobjectData Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distortionrenderingmode",
+      "label": "DistortionRenderingMode",
+      "file_type": "document",
+      "source_file": "DistortionRenderingMode Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distortionrenderingmode_post_process_material",
+      "label": "POST_PROCESS_MATERIAL enum value",
+      "file_type": "document",
+      "source_file": "DistortionRenderingMode Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "distortionrenderingmode_scene_view_extension",
+      "label": "SCENE_VIEW_EXTENSION enum value",
+      "file_type": "document",
+      "source_file": "DistortionRenderingMode Objects.md",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datadriveojbectmove",
+      "label": "DataDriveOjbectMove",
+      "file_type": "document",
+      "source_file": "DataDriveOjbectMove Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datadriveojbectmove_target_location",
+      "label": "target_location property",
+      "file_type": "document",
+      "source_file": "DataDriveOjbectMove Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "datadriveojbectmove_move_time",
+      "label": "move_time property",
+      "file_type": "document",
+      "source_file": "DataDriveOjbectMove Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_debugpointmutable",
+      "label": "RigUnit_DebugPointMutable",
+      "file_type": "document",
+      "source_file": "RigUnit_DebugPointMutable Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoractorsubsystem",
+      "label": "EditorActorSubsystem",
+      "file_type": "document",
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoractorsubsystem_spawn_actor_from_object",
+      "label": "spawn_actor_from_object method",
+      "file_type": "document",
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 293",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoractorsubsystem_spawn_actor_from_class",
+      "label": "spawn_actor_from_class method",
+      "file_type": "document",
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 315",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoractorsubsystem_get_selected_level_actors",
+      "label": "get_selected_level_actors method",
+      "file_type": "document",
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 458",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoractorsubsystem_destroy_actors",
+      "label": "destroy_actors method",
+      "file_type": "document",
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 574",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "editoractorsubsystem_duplicate_actors",
+      "label": "duplicate_actors method",
+      "file_type": "document",
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 531",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "audiovectorscope_getvectorscopeaudiosamples",
+      "label": "AudioVectorscope_GetVectorscopeAudioSamples",
+      "file_type": "document",
+      "source_file": "AudioVectorscope__GetVectorscopeAudioSamples Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat",
+      "label": "DMMaterialValueFloat",
+      "file_type": "document",
+      "source_file": "DMMaterialValueFloat Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat_value_range",
+      "label": "value_range property",
+      "file_type": "document",
+      "source_file": "DMMaterialValueFloat Objects.md",
+      "source_location": "line 27",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dmmaterialvaluefloat_set_value_range",
+      "label": "set_value_range method",
+      "file_type": "document",
+      "source_file": "DMMaterialValueFloat Objects.md",
+      "source_location": "line 42",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fftpeakinterpolationmethod",
+      "label": "FFTPeakInterpolationMethod",
+      "file_type": "document",
+      "source_file": "FFTPeakInterpolationMethod Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fftpeakinterpolationmethod_nearest_neighbor",
+      "label": "NEAREST_NEIGHBOR enum value",
+      "file_type": "document",
+      "source_file": "FFTPeakInterpolationMethod Objects.md",
+      "source_location": "line 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fftpeakinterpolationmethod_linear",
+      "label": "LINEAR enum value",
+      "file_type": "document",
+      "source_file": "FFTPeakInterpolationMethod Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "fftpeakinterpolationmethod_quadratic",
+      "label": "QUADRATIC enum value",
+      "file_type": "document",
+      "source_file": "FFTPeakInterpolationMethod Objects.md",
+      "source_location": "line 26",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "svgfactory",
+      "label": "SVGFactory",
+      "file_type": "document",
+      "source_file": "SVGFactory Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectsimpledelaysettings",
+      "label": "SourceEffectSimpleDelaySettings",
+      "file_type": "document",
+      "source_file": "SourceEffectSimpleDelaySettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectsimpledelaysettings_delay_amount",
+      "label": "delay_amount property",
+      "file_type": "document",
+      "source_file": "SourceEffectSimpleDelaySettings Objects.md",
+      "source_location": "line 17",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectsimpledelaysettings_feedback",
+      "label": "feedback property",
+      "file_type": "document",
+      "source_file": "SourceEffectSimpleDelaySettings Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ontakerecordrcancelled",
+      "label": "OnTakeRecorderCancelled",
+      "file_type": "document",
+      "source_file": "OnTakeRecorderCancelled Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperspriteatlaspadding",
+      "label": "PaperSpriteAtlasPadding",
+      "file_type": "document",
+      "source_file": "PaperSpriteAtlasPadding Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paperspriteatlaspadding_dilate_border",
+      "label": "DILATE_BORDER enum value",
+      "file_type": "document",
+      "source_file": "PaperSpriteAtlasPadding Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multiboxtype",
+      "label": "MultiBoxType",
+      "file_type": "document",
+      "source_file": "MultiBoxType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multiboxtype_menu_bar",
+      "label": "MENU_BAR enum value",
+      "file_type": "document",
+      "source_file": "MultiBoxType Objects.md",
+      "source_location": "line 14",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "multiboxtype_tool_bar",
+      "label": "TOOL_BAR enum value",
+      "file_type": "document",
+      "source_file": "MultiBoxType Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "abilityasync_waitgameplayevent_eventreceiveddelegate",
+      "label": "AbilityAsync_WaitGameplayEvent_EventReceivedDelegate",
+      "file_type": "document",
+      "source_file": "AbilityAsync__WaitGameplayEvent__EventReceivedDelegate Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "urbanworldbuildlevelconfig",
+      "label": "UrbanWorldBuildLevelConfig",
+      "file_type": "document",
+      "source_file": "UrbanWorldBuildLevelConfig Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigunit_mathdoublefloor",
+      "label": "RigUnit_MathDoubleFloor",
+      "file_type": "document",
+      "source_file": "RigUnit_MathDoubleFloor Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitymaterialslot",
+      "label": "EntityMaterialSlot",
+      "file_type": "document",
+      "source_file": "EntityMaterialSlot Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entitymaterialslot_mesh_name",
+      "label": "mesh_name property",
+      "file_type": "document",
+      "source_file": "EntityMaterialSlot Objects.md",
+      "source_location": "line 18",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonlevellib",
+      "label": "PythonLevelLib",
+      "file_type": "document",
+      "source_file": "PythonLevelLib Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonlevellib_get_levels",
+      "label": "get_levels method",
+      "file_type": "document",
+      "source_file": "PythonLevelLib Objects.md",
+      "source_location": "line 33",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pythonlevellib_remove_level_from_world",
+      "label": "remove_level_from_world method",
+      "file_type": "document",
+      "source_file": "PythonLevelLib Objects.md",
+      "source_location": "line 15",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressiontwosidedsign",
+      "label": "MaterialExpressionTwoSidedSign",
+      "file_type": "document",
+      "source_file": "MaterialExpressionTwoSidedSign Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brusheffectcurves",
+      "label": "BrushEffectCurves",
+      "file_type": "document",
+      "source_file": "BrushEffectCurves Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brusheffectcurves_elevation_curve_asset",
+      "label": "elevation_curve_asset property",
+      "file_type": "document",
+      "source_file": "BrushEffectCurves Objects.md",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "animnode_applyadditive_base",
+      "target": "animnode_applyadditive",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_ApplyAdditive Objects.md",
+      "source_location": "line 24",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_applyadditive_additive",
+      "target": "animnode_applyadditive",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_ApplyAdditive Objects.md",
+      "source_location": "line 16",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_applyadditive_alpha",
+      "target": "animnode_applyadditive",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNode_ApplyAdditive Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "animnode_applyadditive_base",
+      "target": "animnode_applyadditive_additive",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "AnimNode_ApplyAdditive Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnumberofentriessettings_output_attribute_name",
+      "target": "pcgnumberofentriessettings",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PCGNumberOfEntriesSettings Objects.md",
+      "source_location": "line 29",
+      "weight": 1.0
+    },
+    {
+      "source": "distortionrenderingmode_post_process_material",
+      "target": "distortionrenderingmode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DistortionRenderingMode Objects.md",
+      "source_location": "line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "distortionrenderingmode_scene_view_extension",
+      "target": "distortionrenderingmode",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DistortionRenderingMode Objects.md",
+      "source_location": "line 21",
+      "weight": 1.0
+    },
+    {
+      "source": "distortionrenderingmode_post_process_material",
+      "target": "distortionrenderingmode_scene_view_extension",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "DistortionRenderingMode Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "datadriveojbectmove_target_location",
+      "target": "datadriveojbectmove",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataDriveOjbectMove Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "datadriveojbectmove_move_time",
+      "target": "datadriveojbectmove",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DataDriveOjbectMove Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "datadriveojbectmove_target_location",
+      "target": "datadriveojbectmove_move_time",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "DataDriveOjbectMove Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem_spawn_actor_from_object",
+      "target": "editoractorsubsystem",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 293",
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem_spawn_actor_from_class",
+      "target": "editoractorsubsystem",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 315",
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem_get_selected_level_actors",
+      "target": "editoractorsubsystem",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 458",
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem_destroy_actors",
+      "target": "editoractorsubsystem",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 574",
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem_duplicate_actors",
+      "target": "editoractorsubsystem",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": "line 531",
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem_spawn_actor_from_object",
+      "target": "editoractorsubsystem_spawn_actor_from_class",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem_duplicate_actors",
+      "target": "editoractorsubsystem_destroy_actors",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluefloat_value_range",
+      "target": "dmmaterialvaluefloat",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialValueFloat Objects.md",
+      "source_location": "line 27",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluefloat_set_value_range",
+      "target": "dmmaterialvaluefloat",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "DMMaterialValueFloat Objects.md",
+      "source_location": "line 42",
+      "weight": 1.0
+    },
+    {
+      "source": "dmmaterialvaluefloat_set_value_range",
+      "target": "dmmaterialvaluefloat_value_range",
+      "relation": "modifies",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "DMMaterialValueFloat Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "fftpeakinterpolationmethod_nearest_neighbor",
+      "target": "fftpeakinterpolationmethod",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FFTPeakInterpolationMethod Objects.md",
+      "source_location": "line 14",
+      "weight": 1.0
+    },
+    {
+      "source": "fftpeakinterpolationmethod_linear",
+      "target": "fftpeakinterpolationmethod",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FFTPeakInterpolationMethod Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "fftpeakinterpolationmethod_quadratic",
+      "target": "fftpeakinterpolationmethod",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "FFTPeakInterpolationMethod Objects.md",
+      "source_location": "line 26",
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectsimpledelaysettings_delay_amount",
+      "target": "sourceeffectsimpledelaysettings",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectSimpleDelaySettings Objects.md",
+      "source_location": "line 17",
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectsimpledelaysettings_feedback",
+      "target": "sourceeffectsimpledelaysettings",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectSimpleDelaySettings Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectsimpledelaysettings_delay_amount",
+      "target": "sourceeffectsimpledelaysettings_feedback",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "SourceEffectSimpleDelaySettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paperspriteatlaspadding_dilate_border",
+      "target": "paperspriteatlaspadding",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PaperSpriteAtlasPadding Objects.md",
+      "source_location": "line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "multiboxtype_menu_bar",
+      "target": "multiboxtype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MultiBoxType Objects.md",
+      "source_location": "line 14",
+      "weight": 1.0
+    },
+    {
+      "source": "multiboxtype_tool_bar",
+      "target": "multiboxtype",
+      "relation": "enum_value_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "MultiBoxType Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "multiboxtype_menu_bar",
+      "target": "multiboxtype_tool_bar",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "MultiBoxType Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entitymaterialslot_mesh_name",
+      "target": "entitymaterialslot",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "EntityMaterialSlot Objects.md",
+      "source_location": "line 18",
+      "weight": 1.0
+    },
+    {
+      "source": "pythonlevellib_get_levels",
+      "target": "pythonlevellib",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PythonLevelLib Objects.md",
+      "source_location": "line 33",
+      "weight": 1.0
+    },
+    {
+      "source": "pythonlevellib_remove_level_from_world",
+      "target": "pythonlevellib",
+      "relation": "method_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "PythonLevelLib Objects.md",
+      "source_location": "line 15",
+      "weight": 1.0
+    },
+    {
+      "source": "pythonlevellib_get_levels",
+      "target": "pythonlevellib_remove_level_from_world",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "PythonLevelLib Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brusheffectcurves_elevation_curve_asset",
+      "target": "brusheffectcurves",
+      "relation": "property_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BrushEffectCurves Objects.md",
+      "source_location": "line 20",
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem_spawn_actor_from_object",
+      "target": "animnode_applyadditive",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.5,
+      "source_file": "EditorActorSubsystem Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "editoractorsubsystem",
+      "target": "pythonlevellib",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": null,
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "unreal_editor_actor_management",
+      "label": "Unreal Editor Actor Management Pattern",
+      "nodes": [
+        "editoractorsubsystem_spawn_actor_from_object",
+        "editoractorsubsystem_spawn_actor_from_class",
+        "editoractorsubsystem_get_selected_level_actors",
+        "editoractorsubsystem_destroy_actors",
+        "editoractorsubsystem_duplicate_actors"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "EditorActorSubsystem Objects.md"
+    },
+    {
+      "id": "audio_processing_enums",
+      "label": "Audio Processing Interpolation Methods",
+      "nodes": [
+        "fftpeakinterpolationmethod_nearest_neighbor",
+        "fftpeakinterpolationmethod_linear",
+        "fftpeakinterpolationmethod_quadratic"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "FFTPeakInterpolationMethod Objects.md"
+    },
+    {
+      "id": "ui_layout_types",
+      "label": "Unreal UI Layout Types",
+      "nodes": [
+        "multiboxtype_menu_bar",
+        "multiboxtype_tool_bar"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "MultiBoxType Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

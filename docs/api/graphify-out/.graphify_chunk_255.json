@@ -1,0 +1,801 @@
+{
+  "nodes": [
+    {
+      "id": "animnotifystate_timedparticleeffect_animnotifystate_timedparticleeffect",
+      "label": "AnimNotifyState_TimedParticleEffect",
+      "file_type": "document",
+      "source_file": "AnimNotifyState_TimedParticleEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainiksettings_targetchainiksettings",
+      "label": "TargetChainIKSettings",
+      "file_type": "document",
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometrymaskcolorchannel_geometrymaskcolorchannel",
+      "label": "GeometryMaskColorChannel",
+      "file_type": "document",
+      "source_file": "GeometryMaskColorChannel Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animgraphnode__lookat_animgraphnode__lookat",
+      "label": "AnimGraphNode_LookAt",
+      "file_type": "document",
+      "source_file": "AnimGraphNode__LookAt Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modularrigconnections_modularrigconnections",
+      "label": "ModularRigConnections",
+      "file_type": "document",
+      "source_file": "ModularRigConnections Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animposeevaluationoptions_animposeevaluationoptions",
+      "label": "AnimPoseEvaluationOptions",
+      "file_type": "document",
+      "source_file": "AnimPoseEvaluationOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptperlinnoiselayeroptions_geometryscriptperlinnoiselayeroptions",
+      "label": "GeometryScriptPerlinNoiseLayerOptions",
+      "file_type": "document",
+      "source_file": "GeometryScriptPerlinNoiseLayerOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pointerevent_pointerevent",
+      "label": "PointerEvent",
+      "file_type": "document",
+      "source_file": "PointerEvent Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "texturedownscaleoptions_texturedownscaleoptions",
+      "label": "TextureDownscaleOptions",
+      "file_type": "document",
+      "source_file": "TextureDownscaleOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "navigationinvokerpriority_navigationinvokerpriority",
+      "label": "NavigationInvokerPriority",
+      "file_type": "document",
+      "source_file": "NavigationInvokerPriority Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pcgnamedreroutebasesettings_pcgnamedreroutebasesettings",
+      "label": "PCGNamedRerouteBaseSettings",
+      "file_type": "document",
+      "source_file": "PCGNamedRerouteBaseSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudfileio__ascii_lidarpointcloudfileio__ascii",
+      "label": "LidarPointCloudFileIO_ASCII",
+      "file_type": "document",
+      "source_file": "LidarPointCloudFileIO__ASCII Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "custompropertycontrolresolver_custompropertycontrolresolver",
+      "label": "CustomPropertyControlResolver",
+      "file_type": "document",
+      "source_file": "CustomPropertyControlResolver Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__debugpoint_rigvmfunction__debugpoint",
+      "label": "RigVMFunction_DebugPoint",
+      "file_type": "document",
+      "source_file": "RigVMFunction__DebugPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "onniagarasystemfinished_onniagarasystemfinished",
+      "label": "OnNiagaraSystemFinished",
+      "file_type": "document",
+      "source_file": "OnNiagaraSystemFinished Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "roadlanetype_roadlanetype",
+      "label": "RoadLaneType",
+      "file_type": "document",
+      "source_file": "RoadLaneType Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectenvelopefollowersettings_sourceeffectenvelopefollowersettings",
+      "label": "SourceEffectEnvelopeFollowerSettings",
+      "file_type": "document",
+      "source_file": "SourceEffectEnvelopeFollowerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "btservice__blueprintbase_btservice__blueprintbase",
+      "label": "BTService_BlueprintBase",
+      "file_type": "document",
+      "source_file": "BTService__BlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnodeconcatenator_soundnodeconcatenator",
+      "label": "SoundNodeConcatenator",
+      "file_type": "document",
+      "source_file": "SoundNodeConcatenator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmtrait_rigvmtrait",
+      "label": "RigVMTrait",
+      "file_type": "document",
+      "source_file": "RigVMTrait Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "materialexpressionreroutebase_materialexpressionreroutebase",
+      "label": "MaterialExpressionRerouteBase",
+      "file_type": "document",
+      "source_file": "MaterialExpressionRerouteBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainiksettings_enable_ik",
+      "label": "enable_ik property",
+      "file_type": "document",
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainiksettings_blend_to_source",
+      "label": "blend_to_source property",
+      "file_type": "document",
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "targetchainiksettings_extension",
+      "label": "extension property",
+      "file_type": "document",
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animposeevaluationoptions_evaluation_type",
+      "label": "evaluation_type property",
+      "file_type": "document",
+      "source_file": "AnimPoseEvaluationOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animposeevaluationoptions_should_retarget",
+      "label": "should_retarget property",
+      "file_type": "document",
+      "source_file": "AnimPoseEvaluationOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "btservice__blueprintbase_receive_activation",
+      "label": "receive_activation method",
+      "file_type": "document",
+      "source_file": "BTService__BlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "btservice__blueprintbase_receive_deactivation",
+      "label": "receive_deactivation method",
+      "file_type": "document",
+      "source_file": "BTService__BlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "btservice__blueprintbase_is_service_active",
+      "label": "is_service_active method",
+      "file_type": "document",
+      "source_file": "BTService__BlueprintBase Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lidarpointcloudfileio__ascii_create_point_cloud_from_file",
+      "label": "create_point_cloud_from_file method",
+      "file_type": "document",
+      "source_file": "LidarPointCloudFileIO__ASCII Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptperlinnoiselayeroptions_magnitude",
+      "label": "magnitude property",
+      "file_type": "document",
+      "source_file": "GeometryScriptPerlinNoiseLayerOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "geometryscriptperlinnoiselayeroptions_frequency",
+      "label": "frequency property",
+      "file_type": "document",
+      "source_file": "GeometryScriptPerlinNoiseLayerOptions Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnodeconcatenator_child_nodes",
+      "label": "child_nodes property",
+      "file_type": "document",
+      "source_file": "SoundNodeConcatenator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "soundnodeconcatenator_input_volume",
+      "label": "input_volume property",
+      "file_type": "document",
+      "source_file": "SoundNodeConcatenator Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__debugpoint_vector",
+      "label": "vector property",
+      "file_type": "document",
+      "source_file": "RigVMFunction__DebugPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rigvmfunction__debugpoint_color",
+      "label": "color property",
+      "file_type": "document",
+      "source_file": "RigVMFunction__DebugPoint Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectenvelopefollowersettings_attack_time",
+      "label": "attack_time property",
+      "file_type": "document",
+      "source_file": "SourceEffectEnvelopeFollowerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "sourceeffectenvelopefollowersettings_release_time",
+      "label": "release_time property",
+      "file_type": "document",
+      "source_file": "SourceEffectEnvelopeFollowerSettings Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_timedparticleeffect_ps_template",
+      "label": "ps_template property",
+      "file_type": "document",
+      "source_file": "AnimNotifyState_TimedParticleEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "animnotifystate_timedparticleeffect_socket_name",
+      "label": "socket_name property",
+      "file_type": "document",
+      "source_file": "AnimNotifyState_TimedParticleEffect Objects.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "targetchainiksettings_targetchainiksettings",
+      "target": "targetchainiksettings_enable_ik",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainiksettings_targetchainiksettings",
+      "target": "targetchainiksettings_blend_to_source",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainiksettings_targetchainiksettings",
+      "target": "targetchainiksettings_extension",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animposeevaluationoptions_animposeevaluationoptions",
+      "target": "animposeevaluationoptions_evaluation_type",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPoseEvaluationOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animposeevaluationoptions_animposeevaluationoptions",
+      "target": "animposeevaluationoptions_should_retarget",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimPoseEvaluationOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainiksettings_enable_ik",
+      "target": "targetchainiksettings_targetchainiksettings",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainiksettings_blend_to_source",
+      "target": "targetchainiksettings_targetchainiksettings",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "targetchainiksettings_extension",
+      "target": "targetchainiksettings_targetchainiksettings",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "TargetChainIKSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "btservice__blueprintbase_btservice__blueprintbase",
+      "target": "btservice__blueprintbase_receive_activation",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BTService__BlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "btservice__blueprintbase_btservice__blueprintbase",
+      "target": "btservice__blueprintbase_receive_deactivation",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BTService__BlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "btservice__blueprintbase_btservice__blueprintbase",
+      "target": "btservice__blueprintbase_is_service_active",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "BTService__BlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "btservice__blueprintbase_receive_activation",
+      "target": "btservice__blueprintbase_receive_deactivation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "BTService__BlueprintBase Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lidarpointcloudfileio__ascii_lidarpointcloudfileio__ascii",
+      "target": "lidarpointcloudfileio__ascii_create_point_cloud_from_file",
+      "relation": "has_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "LidarPointCloudFileIO__ASCII Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptperlinnoiselayeroptions_geometryscriptperlinnoiselayeroptions",
+      "target": "geometryscriptperlinnoiselayeroptions_magnitude",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptPerlinNoiseLayerOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometryscriptperlinnoiselayeroptions_geometryscriptperlinnoiselayeroptions",
+      "target": "geometryscriptperlinnoiselayeroptions_frequency",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "GeometryScriptPerlinNoiseLayerOptions Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodeconcatenator_soundnodeconcatenator",
+      "target": "soundnodeconcatenator_child_nodes",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundNodeConcatenator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodeconcatenator_soundnodeconcatenator",
+      "target": "soundnodeconcatenator_input_volume",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SoundNodeConcatenator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__debugpoint_rigvmfunction__debugpoint",
+      "target": "rigvmfunction__debugpoint_vector",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__DebugPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__debugpoint_rigvmfunction__debugpoint",
+      "target": "rigvmfunction__debugpoint_color",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "RigVMFunction__DebugPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectenvelopefollowersettings_sourceeffectenvelopefollowersettings",
+      "target": "sourceeffectenvelopefollowersettings_attack_time",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectEnvelopeFollowerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sourceeffectenvelopefollowersettings_sourceeffectenvelopefollowersettings",
+      "target": "sourceeffectenvelopefollowersettings_release_time",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "SourceEffectEnvelopeFollowerSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_timedparticleeffect_animnotifystate_timedparticleeffect",
+      "target": "animnotifystate_timedparticleeffect_ps_template",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState_TimedParticleEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animnotifystate_timedparticleeffect_animnotifystate_timedparticleeffect",
+      "target": "animnotifystate_timedparticleeffect_socket_name",
+      "relation": "has_property",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AnimNotifyState_TimedParticleEffect Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "animgraphnode__lookat_animgraphnode__lookat",
+      "target": "targetchainiksettings_targetchainiksettings",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "AnimGraphNode__LookAt Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modularrigconnections_modularrigconnections",
+      "target": "targetchainiksettings_targetchainiksettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ModularRigConnections Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "modularrigconnections_modularrigconnections",
+      "target": "rigvmtrait_rigvmtrait",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "ModularRigConnections Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "rigvmfunction__debugpoint_rigvmfunction__debugpoint",
+      "target": "rigvmtrait_rigvmtrait",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "RigVMFunction__DebugPoint Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pcgnamedreroutebasesettings_pcgnamedreroutebasesettings",
+      "target": "materialexpressionreroutebase_materialexpressionreroutebase",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "PCGNamedRerouteBaseSettings Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "geometrymaskcolorchannel_geometrymaskcolorchannel",
+      "target": "texturedownscaleoptions_texturedownscaleoptions",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "GeometryMaskColorChannel Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "soundnodeconcatenator_input_volume",
+      "target": "sourceeffectenvelopefollowersettings_sourceeffectenvelopefollowersettings",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "SoundNodeConcatenator Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pointerevent_pointerevent",
+      "target": "btservice__blueprintbase_btservice__blueprintbase",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "PointerEvent Objects.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "rig_control_systems",
+      "label": "Rig Control Systems",
+      "nodes": [
+        "targetchainiksettings_targetchainiksettings",
+        "modularrigconnections_modularrigconnections",
+        "rigvmtrait_rigvmtrait",
+        "rigvmfunction__debugpoint_rigvmfunction__debugpoint",
+        "animgraphnode__lookat_animgraphnode__lookat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "TargetChainIKSettings Objects.md"
+    },
+    {
+      "id": "animation_evaluation_systems",
+      "label": "Animation Evaluation Systems",
+      "nodes": [
+        "animnotifystate_timedparticleeffect_animnotifystate_timedparticleeffect",
+        "animposeevaluationoptions_animposeevaluationoptions",
+        "animgraphnode__lookat_animgraphnode__lookat"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "AnimPoseEvaluationOptions Objects.md"
+    },
+    {
+      "id": "event_handling_systems",
+      "label": "Event Handling Systems",
+      "nodes": [
+        "pointerevent_pointerevent",
+        "onniagarasystemfinished_onniagarasystemfinished",
+        "btservice__blueprintbase_btservice__blueprintbase"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "PointerEvent Objects.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
